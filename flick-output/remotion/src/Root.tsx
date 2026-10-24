@@ -8,7 +8,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="PythonStackReel"
         component={PythonStackScene}
-        durationInFrames={1310} // 43.66 seconds @ 30fps matching exact voiceover audio
+        durationInFrames={900} // 30.0 seconds @ 30fps matching exact fast-paced voiceover
         fps={30}
         width={1080}
         height={1920}

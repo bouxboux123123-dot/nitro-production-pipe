@@ -1,499 +1,304 @@
 {
   "topic": "python-stack-frame",
   "combinedAudio": "full-dialogue.mp3",
-  "duration": 43.656,
+  "duration": 28.512,
   "voice": "en-US-ChristopherNeural",
-  "text": "Every time you call a recursive function in Python, CPython allocates an entire stack frame in memory. This stack frame stores the function's local variables, bytecode instruction pointer, and evaluation stack. Go too deep, and Python halts your program with a fatal RecursionError. By default, the call stack limit is strictly capped at just one thousand frames to prevent an operating system crash. Instead of blowing up the call stack, convert your recursive logic to an iterative loop using collections deque. A deque runs entirely in heap memory, executes significantly faster, and completely eliminates stack frame allocation overhead.",
+  "text": "Your Python app just crashed. RecursionError. Here is why. Every recursive call pushes a heavy stack frame in memory with local variables and bytecode pointers. Hit one thousand frames, and Python halts everything to protect the OS. The fix? Swap recursion for an iterative collections deque. It runs in heap memory, zero frame overhead, and executes five times faster.",
   "words": [
     {
-      "word": "Every",
-      "start": 0.102,
-      "end": 0.415
-    },
-    {
-      "word": "time",
-      "start": 0.428,
-      "end": 0.727
-    },
-    {
-      "word": "you",
-      "start": 0.74,
-      "end": 0.857
-    },
-    {
-      "word": "call",
-      "start": 0.87,
-      "end": 1.17
-    },
-    {
-      "word": "a",
-      "start": 1.183,
-      "end": 1.235
-    },
-    {
-      "word": "recursive",
-      "start": 1.248,
-      "end": 1.821
-    },
-    {
-      "word": "function",
-      "start": 1.834,
-      "end": 2.251
-    },
-    {
-      "word": "in",
-      "start": 2.264,
-      "end": 2.381
+      "word": "Your",
+      "start": 0.099,
+      "end": 0.293
     },
     {
       "word": "Python",
-      "start": 2.394,
-      "end": 2.993
+      "start": 0.305,
+      "end": 0.827
     },
     {
-      "word": "CPython",
-      "start": 3.292,
-      "end": 4.06
-    },
-    {
-      "word": "allocates",
-      "start": 4.073,
-      "end": 4.594
-    },
-    {
-      "word": "an",
-      "start": 4.607,
-      "end": 4.698
-    },
-    {
-      "word": "entire",
-      "start": 4.711,
-      "end": 5.193
-    },
-    {
-      "word": "stack",
-      "start": 5.206,
-      "end": 5.558
-    },
-    {
-      "word": "frame",
-      "start": 5.571,
-      "end": 5.883
-    },
-    {
-      "word": "in",
-      "start": 5.896,
-      "end": 6.001
-    },
-    {
-      "word": "memory",
-      "start": 6.014,
-      "end": 6.508
-    },
-    {
-      "word": "This",
-      "start": 7.409,
-      "end": 7.656
-    },
-    {
-      "word": "stack",
-      "start": 7.669,
-      "end": 8.034
-    },
-    {
-      "word": "frame",
-      "start": 8.047,
-      "end": 8.346
-    },
-    {
-      "word": "stores",
-      "start": 8.359,
-      "end": 8.75
-    },
-    {
-      "word": "the",
-      "start": 8.763,
-      "end": 8.867
-    },
-    {
-      "word": "function's",
-      "start": 8.88,
-      "end": 9.44
-    },
-    {
-      "word": "local",
-      "start": 9.453,
-      "end": 9.766
-    },
-    {
-      "word": "variables",
-      "start": 9.779,
-      "end": 10.521
-    },
-    {
-      "word": "bytecode",
-      "start": 10.755,
-      "end": 11.276
-    },
-    {
-      "word": "instruction",
-      "start": 11.289,
-      "end": 11.862
-    },
-    {
-      "word": "pointer",
-      "start": 11.875,
-      "end": 12.344
-    },
-    {
-      "word": "and",
-      "start": 12.591,
-      "end": 12.695
-    },
-    {
-      "word": "evaluation",
-      "start": 12.708,
-      "end": 13.477
-    },
-    {
-      "word": "stack",
-      "start": 13.49,
-      "end": 14.036
-    },
-    {
-      "word": "Go",
-      "start": 14.935,
-      "end": 15.182
-    },
-    {
-      "word": "too",
-      "start": 15.195,
-      "end": 15.43
-    },
-    {
-      "word": "deep",
-      "start": 15.443,
-      "end": 15.807
-    },
-    {
-      "word": "and",
-      "start": 16.003,
-      "end": 16.146
-    },
-    {
-      "word": "Python",
-      "start": 16.159,
-      "end": 16.706
-    },
-    {
-      "word": "halts",
-      "start": 16.719,
-      "end": 17.031
-    },
-    {
-      "word": "your",
-      "start": 17.044,
-      "end": 17.161
-    },
-    {
-      "word": "program",
-      "start": 17.174,
-      "end": 17.669
-    },
-    {
-      "word": "with",
-      "start": 17.682,
-      "end": 17.799
-    },
-    {
-      "word": "a",
-      "start": 17.812,
-      "end": 17.878
-    },
-    {
-      "word": "fatal",
-      "start": 17.891,
-      "end": 18.281
-    },
-    {
-      "word": "RecursionError",
-      "start": 18.294,
-      "end": 19.193
-    },
-    {
-      "word": "By",
-      "start": 20.091,
-      "end": 20.26
-    },
-    {
-      "word": "default",
-      "start": 20.273,
-      "end": 20.82
-    },
-    {
-      "word": "the",
-      "start": 21.029,
-      "end": 21.159
-    },
-    {
-      "word": "call",
-      "start": 21.172,
-      "end": 21.445
-    },
-    {
-      "word": "stack",
-      "start": 21.458,
-      "end": 21.823
-    },
-    {
-      "word": "limit",
-      "start": 21.836,
-      "end": 22.148
-    },
-    {
-      "word": "is",
-      "start": 22.161,
-      "end": 22.279
-    },
-    {
-      "word": "strictly",
-      "start": 22.292,
-      "end": 22.682
-    },
-    {
-      "word": "capped",
-      "start": 22.695,
-      "end": 23.099
-    },
-    {
-      "word": "at",
-      "start": 23.112,
-      "end": 23.177
+      "word": "app",
+      "start": 0.839,
+      "end": 1.057
     },
     {
       "word": "just",
-      "start": 23.19,
-      "end": 23.438
+      "start": 1.069,
+      "end": 1.3
     },
     {
-      "word": "one",
-      "start": 23.451,
-      "end": 23.672
+      "word": "crashed",
+      "start": 1.312,
+      "end": 1.931
     },
     {
-      "word": "thousand",
-      "start": 23.685,
-      "end": 24.141
+      "word": "RecursionError",
+      "start": 2.767,
+      "end": 3.762
     },
     {
-      "word": "frames",
-      "start": 24.154,
-      "end": 24.609
+      "word": "Here",
+      "start": 4.587,
+      "end": 4.842
     },
     {
-      "word": "to",
-      "start": 24.622,
-      "end": 24.714
+      "word": "is",
+      "start": 4.854,
+      "end": 5.0
     },
     {
-      "word": "prevent",
-      "start": 24.727,
-      "end": 25.078
+      "word": "why",
+      "start": 5.012,
+      "end": 5.413
     },
     {
-      "word": "an",
-      "start": 25.091,
-      "end": 25.208
-    },
-    {
-      "word": "operating",
-      "start": 25.221,
-      "end": 25.716
-    },
-    {
-      "word": "system",
-      "start": 25.729,
-      "end": 26.133
-    },
-    {
-      "word": "crash",
-      "start": 26.146,
-      "end": 26.771
-    },
-    {
-      "word": "Instead",
-      "start": 27.669,
-      "end": 28.125
-    },
-    {
-      "word": "of",
-      "start": 28.138,
-      "end": 28.255
-    },
-    {
-      "word": "blowing",
-      "start": 28.268,
-      "end": 28.633
-    },
-    {
-      "word": "up",
-      "start": 28.646,
-      "end": 28.776
-    },
-    {
-      "word": "the",
-      "start": 28.789,
-      "end": 28.88
-    },
-    {
-      "word": "call",
-      "start": 28.893,
-      "end": 29.154
-    },
-    {
-      "word": "stack",
-      "start": 29.167,
-      "end": 29.687
-    },
-    {
-      "word": "convert",
-      "start": 29.935,
-      "end": 30.339
-    },
-    {
-      "word": "your",
-      "start": 30.352,
-      "end": 30.482
+      "word": "Every",
+      "start": 6.25,
+      "end": 6.578
     },
     {
       "word": "recursive",
-      "start": 30.495,
-      "end": 31.042
+      "start": 6.59,
+      "end": 7.148
     },
     {
-      "word": "logic",
-      "start": 31.055,
-      "end": 31.497
+      "word": "call",
+      "start": 7.16,
+      "end": 7.427
     },
     {
-      "word": "to",
-      "start": 31.51,
-      "end": 31.641
+      "word": "pushes",
+      "start": 7.439,
+      "end": 7.828
     },
     {
-      "word": "an",
-      "start": 31.654,
-      "end": 31.784
+      "word": "a",
+      "start": 7.84,
+      "end": 7.9
     },
     {
-      "word": "iterative",
-      "start": 31.797,
-      "end": 32.24
-    },
-    {
-      "word": "loop",
-      "start": 32.253,
-      "end": 32.5
-    },
-    {
-      "word": "using",
-      "start": 32.513,
-      "end": 32.865
-    },
-    {
-      "word": "collections",
-      "start": 32.878,
-      "end": 33.451
-    },
-    {
-      "word": "deque",
-      "start": 33.464,
-      "end": 33.867
-    },
-    {
-      "word": "A",
-      "start": 34.766,
-      "end": 34.922
-    },
-    {
-      "word": "deque",
-      "start": 34.935,
-      "end": 35.234
-    },
-    {
-      "word": "runs",
-      "start": 35.247,
-      "end": 35.534
-    },
-    {
-      "word": "entirely",
-      "start": 35.547,
-      "end": 36.237
-    },
-    {
-      "word": "in",
-      "start": 36.25,
-      "end": 36.354
-    },
-    {
-      "word": "heap",
-      "start": 36.367,
-      "end": 36.576
-    },
-    {
-      "word": "memory",
-      "start": 36.589,
-      "end": 37.07
-    },
-    {
-      "word": "executes",
-      "start": 37.318,
-      "end": 37.93
-    },
-    {
-      "word": "significantly",
-      "start": 37.943,
-      "end": 38.62
-    },
-    {
-      "word": "faster",
-      "start": 38.633,
-      "end": 39.219
-    },
-    {
-      "word": "and",
-      "start": 39.492,
-      "end": 39.609
-    },
-    {
-      "word": "completely",
-      "start": 39.622,
-      "end": 40.208
-    },
-    {
-      "word": "eliminates",
-      "start": 40.221,
-      "end": 40.807
+      "word": "heavy",
+      "start": 7.913,
+      "end": 8.204
     },
     {
       "word": "stack",
-      "start": 40.82,
-      "end": 41.159
+      "start": 8.216,
+      "end": 8.58
     },
     {
       "word": "frame",
-      "start": 41.172,
-      "end": 41.445
+      "start": 8.592,
+      "end": 8.883
     },
     {
-      "word": "allocation",
-      "start": 41.458,
-      "end": 42.161
+      "word": "in",
+      "start": 8.896,
+      "end": 8.993
+    },
+    {
+      "word": "memory",
+      "start": 9.005,
+      "end": 9.357
+    },
+    {
+      "word": "with",
+      "start": 9.369,
+      "end": 9.502
+    },
+    {
+      "word": "local",
+      "start": 9.515,
+      "end": 9.842
+    },
+    {
+      "word": "variables",
+      "start": 9.854,
+      "end": 10.498
+    },
+    {
+      "word": "and",
+      "start": 10.51,
+      "end": 10.667
+    },
+    {
+      "word": "bytecode",
+      "start": 10.68,
+      "end": 11.201
+    },
+    {
+      "word": "pointers",
+      "start": 11.214,
+      "end": 11.82
+    },
+    {
+      "word": "Hit",
+      "start": 12.658,
+      "end": 12.876
+    },
+    {
+      "word": "one",
+      "start": 12.888,
+      "end": 13.095
+    },
+    {
+      "word": "thousand",
+      "start": 13.107,
+      "end": 13.532
+    },
+    {
+      "word": "frames",
+      "start": 13.544,
+      "end": 14.053
+    },
+    {
+      "word": "and",
+      "start": 14.175,
+      "end": 14.345
+    },
+    {
+      "word": "Python",
+      "start": 14.357,
+      "end": 14.879
+    },
+    {
+      "word": "halts",
+      "start": 14.891,
+      "end": 15.182
+    },
+    {
+      "word": "everything",
+      "start": 15.194,
+      "end": 15.595
+    },
+    {
+      "word": "to",
+      "start": 15.607,
+      "end": 15.692
+    },
+    {
+      "word": "protect",
+      "start": 15.704,
+      "end": 16.092
+    },
+    {
+      "word": "the",
+      "start": 16.104,
+      "end": 16.201
+    },
+    {
+      "word": "OS",
+      "start": 16.214,
+      "end": 16.784
+    },
+    {
+      "word": "The",
+      "start": 17.621,
+      "end": 17.767
+    },
+    {
+      "word": "fix",
+      "start": 17.779,
+      "end": 18.301
+    },
+    {
+      "word": "Swap",
+      "start": 19.138,
+      "end": 19.575
+    },
+    {
+      "word": "recursion",
+      "start": 19.587,
+      "end": 20.097
+    },
+    {
+      "word": "for",
+      "start": 20.109,
+      "end": 20.255
+    },
+    {
+      "word": "an",
+      "start": 20.267,
+      "end": 20.376
+    },
+    {
+      "word": "iterative",
+      "start": 20.388,
+      "end": 20.825
+    },
+    {
+      "word": "collections",
+      "start": 20.837,
+      "end": 21.408
+    },
+    {
+      "word": "deque",
+      "start": 21.42,
+      "end": 21.82
+    },
+    {
+      "word": "It",
+      "start": 22.658,
+      "end": 22.84
+    },
+    {
+      "word": "runs",
+      "start": 22.852,
+      "end": 23.131
+    },
+    {
+      "word": "in",
+      "start": 23.143,
+      "end": 23.252
+    },
+    {
+      "word": "heap",
+      "start": 23.265,
+      "end": 23.459
+    },
+    {
+      "word": "memory",
+      "start": 23.471,
+      "end": 23.92
+    },
+    {
+      "word": "zero",
+      "start": 24.138,
+      "end": 24.515
+    },
+    {
+      "word": "frame",
+      "start": 24.527,
+      "end": 24.842
     },
     {
       "word": "overhead",
-      "start": 42.175,
-      "end": 42.747
+      "start": 24.854,
+      "end": 25.364
+    },
+    {
+      "word": "and",
+      "start": 25.607,
+      "end": 25.801
+    },
+    {
+      "word": "executes",
+      "start": 25.813,
+      "end": 26.371
+    },
+    {
+      "word": "five",
+      "start": 26.384,
+      "end": 26.711
+    },
+    {
+      "word": "times",
+      "start": 26.723,
+      "end": 27.112
+    },
+    {
+      "word": "faster",
+      "start": 27.124,
+      "end": 27.682
     }
   ]
 }

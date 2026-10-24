@@ -7,12 +7,11 @@ import edge_tts
 VOICE = "en-US-ChristopherNeural"  # Deep, clear, authoritative technical single narrator
 
 TEXT = (
-    "Every time you call a recursive function in Python, CPython allocates an entire stack frame in memory. "
-    "This stack frame stores the function's local variables, bytecode instruction pointer, and evaluation stack. "
-    "Go too deep, and Python halts your program with a fatal RecursionError. "
-    "By default, the call stack limit is strictly capped at just one thousand frames to prevent an operating system crash. "
-    "Instead of blowing up the call stack, convert your recursive logic to an iterative loop using collections deque. "
-    "A deque runs entirely in heap memory, executes significantly faster, and completely eliminates stack frame allocation overhead."
+    "Your Python app just crashed. RecursionError. Here is why. "
+    "Every recursive call pushes a heavy stack frame in memory with local variables and bytecode pointers. "
+    "Hit one thousand frames, and Python halts everything to protect the OS. "
+    "The fix? Swap recursion for an iterative collections deque. "
+    "It runs in heap memory, zero frame overhead, and executes five times faster."
 )
 
 OUTPUT_DIR = Path("flick-output")
@@ -25,8 +24,8 @@ REMOTION_DATA.mkdir(parents=True, exist_ok=True)
 async def main():
     mp3_path = REMOTION_PUBLIC / "full-dialogue.mp3"
     
-    print("Generating single-narrator voiceover with word-level timestamps...")
-    communicate = edge_tts.Communicate(TEXT, VOICE, rate="-4%", boundary="WordBoundary")
+    print("Generating 30s single-narrator voiceover with word-level timestamps...")
+    communicate = edge_tts.Communicate(TEXT, VOICE, rate="+3%", boundary="WordBoundary")
     words = []
     
     with open(mp3_path, "wb") as f:
@@ -66,7 +65,7 @@ async def main():
     with open(REMOTION_DATA / "audio-manifest.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
 
-    print("Saved audio-manifest.json successfully.")
+    print("Saved 30s audio-manifest.json successfully.")
 
 if __name__ == "__main__":
     asyncio.run(main())
