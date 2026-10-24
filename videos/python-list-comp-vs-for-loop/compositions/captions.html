@@ -1,0 +1,225 @@
+<template id="captions-template" data-composition-id="captions" data-width="1080" data-height="1920">
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+
+
+<style data-brand-tokens>
+      @font-face { font-family: 'EB Garamond'; src: url('assets/fonts/EBGaramond-400.woff2') format('woff2'); font-weight: 400; font-style: normal; font-display: block; }
+      @font-face { font-family: 'EB Garamond'; src: url('assets/fonts/EBGaramond-700.woff2') format('woff2'); font-weight: 700; font-style: normal; font-display: block; }
+      @font-face { font-family: 'Inter'; src: url('assets/fonts/Inter-400.woff2') format('woff2'); font-weight: 400; font-style: normal; font-display: block; }
+      @font-face { font-family: 'Inter'; src: url('assets/fonts/Inter-700.woff2') format('woff2'); font-weight: 700; font-style: normal; font-display: block; }
+      :root {
+      --ink: #141413;
+      --cream: #FAF9F5;
+      --tile: #EFE9DE;
+      --tile-strong: #ECE3D4;
+      --coral: #CC785C;
+      --navy: #181715;
+      --navy-soft: #1F1E1B;
+      --navy-elev: #252320;
+      --cap-ink: #141413;
+      --cap-canvas: #FAF9F5;
+      --cap-accent: #CC785C;
+      --cap-accent-2: #ECE3D4;
+      --font-display: "EB Garamond", system-ui, serif;
+      --font-body: "Inter", system-ui, sans-serif;
+      --cap-band-top: 1600px;
+      --cap-band-height: 320px;
+      }
+    </style>
+
+<style>
+  #captions-root {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+  .caption-layer {
+    position: absolute;
+    inset: 0;
+    z-index: 20;
+    pointer-events: none;
+  }
+  /* the keep-out band, from captionBand(H) — frame content stays above it */
+  .caption-stage {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: var(--cap-band-top, 900px);
+    height: var(--cap-band-height, 180px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .caption-group {
+    /* every group is absolutely stacked over the SAME band — exactly one shown at a
+       time via opacity. Must be absolute: in-flow groups would lay out side-by-side. */
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+  }
+
+  /* THE lifted cream card — warm cream fill, 1px hairline ink border, one soft warm
+     shadow (code-editorial's only elevation language), 12px radius, no tilt */
+  .caption-pill {
+    max-width: 78%;
+    padding: 22px 44px 26px;
+    background: var(--cap-canvas, #faf9f5);
+    border: 1px solid color-mix(in srgb, var(--cap-ink, #141413) 12%, transparent);
+    border-radius: 12px;
+    box-shadow:
+      0 1px 3px color-mix(in srgb, var(--cap-ink, #141413) 8%, transparent),
+      0 4px 16px color-mix(in srgb, var(--cap-ink, #141413) 4%, transparent);
+  }
+  .caption-line {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.12em 0.3em;
+    font-family: "EB Garamond", Georgia, serif;
+    font-weight: 500;
+    font-size: clamp(40px, 4.4vw, 56px);
+    line-height: 1.24;
+    letter-spacing: -0.02em;
+  }
+
+  /* upcoming — faint warm ink, no underline */
+  .caption-word {
+    display: inline-block;
+    padding: 0 0.02em 0.06em;
+    color: color-mix(in srgb, var(--cap-ink, #141413) 40%, var(--cap-canvas, #faf9f5));
+    border-bottom: 3px solid transparent;
+  }
+  /* current word — full ink under the coral voltage underline (the brand's signature
+     inline-link gesture; border-bottom = underline without layout shift) */
+  .caption-word.is-active {
+    color: var(--cap-ink, #141413);
+    border-bottom: 3px solid var(--cap-accent, #cc785c);
+  }
+  /* already spoken — solid warm ink, underline cleared */
+  .caption-word.is-spoken {
+    color: var(--cap-ink, #141413);
+    border-bottom: 3px solid transparent;
+  }
+
+  /* optional per-word accents (dormant until a word-classer tags them) */
+  /* brand / key term — the expressive EB Garamond italic */
+  .caption-word.cap-brand {
+    font-style: italic;
+    color: var(--cap-ink, #141413);
+  }
+  .caption-word.cap-brand.is-active {
+    border-bottom: 3px solid var(--cap-accent, #cc785c);
+  }
+  /* numerals / data — slightly recessed warm ink */
+  .caption-word.cap-num {
+    color: color-mix(in srgb, var(--cap-ink, #141413) 72%, var(--cap-canvas, #faf9f5));
+  }
+  /* emphasis — a persistent coral voltage underline */
+  .caption-word.cap-cta {
+    border-bottom: 3px solid var(--cap-accent-2, #b5654a);
+    color: var(--cap-ink, #141413);
+  }
+
+  @media (max-aspect-ratio: 9/16) {
+    .caption-pill {
+      max-width: 92%;
+    }
+    .caption-line {
+      font-size: clamp(34px, 5.4vw, 46px);
+    }
+  }
+</style>
+
+<div
+  id="captions-root"
+  data-composition-id="captions"
+  data-timeline-locked
+  data-start="0"
+  data-duration="16.032"
+  data-fps="30"
+  data-width="1080"
+  data-height="1920"
+>
+  <div class="caption-layer" aria-hidden="true">
+    <div id="caption-stage" class="caption-stage"></div>
+  </div>
+</div>
+
+<script>
+  // captions.mjs injects the engine's scene-aware groups + real duration here.
+  var GROUPS = [{"id":"caption-group-0","frame":1,"start":0.092,"end":0.463,"text":"Why are","words":[{"id":"caption-word-0-0","text":"Why","start":0.092,"end":0.336},{"id":"caption-word-0-1","text":"are","start":0.347,"end":0.453}]},{"id":"caption-group-1","frame":1,"start":0.463,"end":1.777,"text":"Python list comprehensions","words":[{"id":"caption-word-1-0","text":"Python","start":0.463,"end":0.919},{"id":"caption-word-1-1","text":"list","start":0.929,"end":1.131},{"id":"caption-word-1-2","text":"comprehensions","start":1.141,"end":1.766}]},{"id":"caption-group-2","frame":1,"start":1.777,"end":2.264,"text":"faster than","words":[{"id":"caption-word-2-0","text":"faster","start":1.777,"end":2.126},{"id":"caption-word-2-1","text":"than","start":2.137,"end":2.253}]},{"id":"caption-group-3","frame":1,"start":2.264,"end":3.295,"text":"standard for loops","words":[{"id":"caption-word-3-0","text":"standard","start":2.264,"end":2.624},{"id":"caption-word-3-1","text":"for","start":2.635,"end":2.751},{"id":"caption-word-3-2","text":"loops","start":2.762,"end":3.175}]},{"id":"caption-group-4","frame":2,"start":4.004,"end":5.233,"text":"Standard loops repeatedly","words":[{"id":"caption-word-4-0","text":"Standard","start":4.004,"end":4.46},{"id":"caption-word-4-1","text":"loops","start":4.47,"end":4.725},{"id":"caption-word-4-2","text":"repeatedly","start":4.735,"end":5.223}]},{"id":"caption-group-5","frame":2,"start":5.233,"end":5.604,"text":"look up","words":[{"id":"caption-word-5-0","text":"look","start":5.233,"end":5.424},{"id":"caption-word-5-1","text":"up","start":5.434,"end":5.593}]},{"id":"caption-group-6","frame":2,"start":5.604,"end":6.338,"text":"dot append","words":[{"id":"caption-word-6-0","text":"dot","start":5.604,"end":5.773},{"id":"caption-word-6-1","text":"append","start":5.784,"end":6.218}]},{"id":"caption-group-7","frame":2,"start":6.942,"end":7.959,"text":"Comprehensions run in","words":[{"id":"caption-word-7-0","text":"Comprehensions","start":6.942,"end":7.62},{"id":"caption-word-7-1","text":"run","start":7.63,"end":7.831},{"id":"caption-word-7-2","text":"in","start":7.842,"end":7.948}]},{"id":"caption-group-8","frame":2,"start":7.959,"end":8.319,"text":"C with","words":[{"id":"caption-word-8-0","text":"C","start":7.959,"end":8.192},{"id":"caption-word-8-1","text":"with","start":8.202,"end":8.308}]},{"id":"caption-group-9","frame":2,"start":8.319,"end":9.018,"text":"the specialized","words":[{"id":"caption-word-9-0","text":"the","start":8.319,"end":8.382},{"id":"caption-word-9-1","text":"specialized","start":8.393,"end":9.007}]},{"id":"caption-group-10","frame":2,"start":9.018,"end":10.155,"text":"LIST APPEND opcode","words":[{"id":"caption-word-10-0","text":"LIST","start":9.018,"end":9.209},{"id":"caption-word-10-1","text":"APPEND","start":9.219,"end":9.516},{"id":"caption-word-10-2","text":"opcode","start":9.526,"end":10.035}]},{"id":"caption-group-11","frame":3,"start":10.868,"end":11.995,"text":"Preallocated memory","words":[{"id":"caption-word-11-0","text":"Preallocated","start":10.868,"end":11.483},{"id":"caption-word-11-1","text":"memory","start":11.493,"end":11.875}]},{"id":"caption-group-12","frame":3,"start":12.076,"end":13.234,"text":"zero method lookups","words":[{"id":"caption-word-12-0","text":"zero","start":12.076,"end":12.362},{"id":"caption-word-12-1","text":"method","start":12.373,"end":12.68},{"id":"caption-word-12-2","text":"lookups","start":12.69,"end":13.114}]},{"id":"caption-group-13","frame":3,"start":13.241,"end":13.517,"text":"and up","words":[{"id":"caption-word-13-0","text":"and","start":13.241,"end":13.379},{"id":"caption-word-13-1","text":"up","start":13.39,"end":13.506}]},{"id":"caption-group-14","frame":3,"start":13.517,"end":13.887,"text":"to forty","words":[{"id":"caption-word-14-0","text":"to","start":13.517,"end":13.601},{"id":"caption-word-14-1","text":"forty","start":13.612,"end":13.877}]},{"id":"caption-group-15","frame":3,"start":13.887,"end":15.416,"text":"percent faster execution","words":[{"id":"caption-word-15-0","text":"percent","start":13.887,"end":14.237},{"id":"caption-word-15-1","text":"faster","start":14.248,"end":14.65},{"id":"caption-word-15-2","text":"execution","start":14.661,"end":15.296}]}];
+  var DURATION = 16.032;
+
+  (function () {
+    var stage = document.getElementById("caption-stage");
+
+    // build DOM: one .caption-group per group, .caption-word per word
+    GROUPS.forEach(function (group, g) {
+      var groupEl = document.createElement("div");
+      groupEl.className = "caption-group";
+      groupEl.id = "caption-group-" + g;
+      var pill = document.createElement("div");
+      pill.className = "caption-pill";
+      var line = document.createElement("div");
+      line.className = "caption-line";
+      (group.words || []).forEach(function (w, i) {
+        var span = document.createElement("span");
+        span.className = "caption-word";
+        span.id = "caption-word-" + g + "-" + i;
+        span.textContent = String(w.text);
+        line.appendChild(span);
+      });
+      pill.appendChild(line);
+      groupEl.appendChild(pill);
+      stage.appendChild(groupEl);
+    });
+
+    window.__timelines = window.__timelines || {};
+    var tl = gsap.timeline({ paused: true });
+
+    GROUPS.forEach(function (group, g) {
+      var groupEl = document.getElementById("caption-group-" + g);
+      var words = group.words || [];
+      var next = GROUPS[g + 1];
+      var isLast = g === GROUPS.length - 1;
+      var start = Math.max(0, Number(group.start));
+      var end = isLast ? DURATION : Math.min(Number(next.start), Number(group.end) + 0.3);
+      if (end <= start) end = start + 0.01;
+
+      // group on/off — exactly one group visible at a time
+      tl.set(groupEl, { opacity: 1 }, start);
+      tl.set(groupEl, { opacity: 0 }, end);
+
+      // 3-state karaoke via className SETS — seek-safe (gsap.set applies on the
+      // engine's frame-by-frame seek; .call callbacks would NOT fire).
+      words.forEach(function (w, i) {
+        var el = document.getElementById("caption-word-" + g + "-" + i);
+        var at = Math.max(start, Number(w.start));
+        tl.set(el, { className: "caption-word" }, start); // upcoming (also resets on reverse-seek)
+        tl.set(el, { className: "caption-word is-active" }, at); // current
+        tl.fromTo(el, { scale: 0.98 }, { scale: 1, duration: 0.16, ease: "power1.out" }, at);
+        if (i + 1 < words.length) {
+          var nextAt = Math.max(start, Number(words[i + 1].start));
+          tl.set(el, { className: "caption-word is-spoken" }, nextAt); // demote when next activates
+        }
+      });
+      if (words.length) {
+        var lastEl = document.getElementById("caption-word-" + g + "-" + (words.length - 1));
+        var lastSpoken = Math.min(end, Number(words[words.length - 1].end) + 0.1);
+        tl.set(lastEl, { className: "caption-word is-spoken" }, lastSpoken);
+      }
+    });
+
+    // full-span anchor so the sub-comp timeline spans the whole video
+    tl.to({}, { duration: DURATION }, 0);
+    window.__timelines["captions"] = tl;
+  })();
+</script>
+
+<style>
+  .caption-line { line-height: 1.1 !important; }
+</style>
+</template>

@@ -1,0 +1,125 @@
+name: HyperFrames Cloud Batch Render
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_project:
+        description: 'Specific video folder to render (leave empty to render all in videos/)'
+        required: false
+        default: ''
+  push:
+    paths:
+      - 'videos/**/STORYBOARD.md'
+      - 'videos/**/index.html'
+      - 'videos/**/compositions/**'
+
+jobs:
+  discover-projects:
+    name: Discover Videos to Render
+    runs-on: ubuntu-latest
+    outputs:
+      projects: ${{ steps.find-projects.outputs.projects }}
+      count: ${{ steps.find-projects.outputs.count }}
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Scan Project Directories
+        id: find-projects
+        run: |
+          if [ -n "${{ github.event.inputs.target_project }}" ]; then
+            PROJECTS=('[ "${{ github.event.inputs.target_project }}" ]')
+            COUNT=1
+          else
+            PROJECTS_JSON=$(node -e '
+              const fs = require("fs");
+              const path = require("path");
+              const base = "videos";
+              if (!fs.existsSync(base)) {
+                console.log(JSON.stringify([]));
+                process.exit(0);
+              }
+              const list = fs.readdirSync(base)
+                .map(d => path.join(base, d))
+                .filter(p => fs.statSync(p).isDirectory() && fs.existsSync(path.join(p, "index.html")));
+              console.log(JSON.stringify(list));
+            ')
+            COUNT=$(echo "$PROJECTS_JSON" | jq '. | length')
+          fi
+
+          echo "Found $COUNT project(s) to render: $PROJECTS_JSON"
+          echo "projects=$PROJECTS_JSON" >> $GITHUB_OUTPUT
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+  render-videos:
+    name: Render Video
+    needs: discover-projects
+    if: needs.discover-projects.outputs.count > 0
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 20 # GitHub Actions maximum free concurrent job ceiling
+      matrix:
+        project: ${{ fromJson(needs.discover-projects.outputs.projects) }}
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install System Dependencies (FFmpeg & Chrome runtime)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxrandr2 libgbm1 libasound2t64
+
+      - name: Install Python Audio Tools
+        run: |
+          pip install edge-tts
+
+      - name: Cache HyperFrames Browser & Fonts
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/puppeteer
+            ~/.cache/hyperframes
+          key: ${{ runner.os }}-hyperframes-browser-${{ hashFiles('**/package.json') }}
+          restore-keys: |
+            ${{ runner.os }}-hyperframes-browser-
+
+      - name: Install HyperFrames CLI
+        run: |
+          npm install -g hyperframes
+
+      - name: Ensure Browser
+        run: |
+          npx hyperframes browser ensure
+
+      - name: Render Video
+        id: render
+        run: |
+          PROJECT_DIR="${{ matrix.project }}"
+          PROJECT_NAME=$(basename "$PROJECT_DIR")
+          mkdir -p "$PROJECT_DIR/renders"
+          OUTPUT_PATH="$PROJECT_DIR/renders/${PROJECT_NAME}.mp4"
+
+          echo "=== Starting Render for $PROJECT_NAME ==="
+          cd "$PROJECT_DIR"
+          npx hyperframes render --quiet -w 2 --output "renders/${PROJECT_NAME}.mp4"
+          echo "output_file=$OUTPUT_PATH" >> $GITHUB_ENV
+          echo "project_name=$PROJECT_NAME" >> $GITHUB_ENV
+
+      - name: Upload Rendered Video
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.project_name }}-video
+          path: ${{ env.output_file }}
+          retention-days: 14

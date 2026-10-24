@@ -1,0 +1,20 @@
+# Node / Dependencies
+node_modules/
+.npm/
+
+# HyperFrames Caches & Debug
+.debug/
+.cache/
+.hyperframes/artifacts/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Don't ignore local final renders if you want to keep them, but ignore temporary segments
+.hf-segments/

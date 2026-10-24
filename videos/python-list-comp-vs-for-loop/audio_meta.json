@@ -1,0 +1,265 @@
+{
+  "bgm": null,
+  "bgm_pending": false,
+  "voices": [
+    {
+      "frame": 1,
+      "id": "01",
+      "path": "assets/audio/voice-01.wav",
+      "duration_s": 3.912,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Why",
+          "start": 0.092,
+          "end": 0.336
+        },
+        {
+          "id": "w1",
+          "text": "are",
+          "start": 0.347,
+          "end": 0.453
+        },
+        {
+          "id": "w2",
+          "text": "Python",
+          "start": 0.463,
+          "end": 0.919
+        },
+        {
+          "id": "w3",
+          "text": "list",
+          "start": 0.929,
+          "end": 1.131
+        },
+        {
+          "id": "w4",
+          "text": "comprehensions",
+          "start": 1.141,
+          "end": 1.766
+        },
+        {
+          "id": "w5",
+          "text": "faster",
+          "start": 1.777,
+          "end": 2.126
+        },
+        {
+          "id": "w6",
+          "text": "than",
+          "start": 2.137,
+          "end": 2.253
+        },
+        {
+          "id": "w7",
+          "text": "standard",
+          "start": 2.264,
+          "end": 2.624
+        },
+        {
+          "id": "w8",
+          "text": "for",
+          "start": 2.635,
+          "end": 2.751
+        },
+        {
+          "id": "w9",
+          "text": "loops",
+          "start": 2.762,
+          "end": 3.175
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "id": "02",
+      "path": "assets/audio/voice-02.wav",
+      "duration_s": 6.864,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Standard",
+          "start": 0.092,
+          "end": 0.548
+        },
+        {
+          "id": "w1",
+          "text": "loops",
+          "start": 0.558,
+          "end": 0.813
+        },
+        {
+          "id": "w2",
+          "text": "repeatedly",
+          "start": 0.823,
+          "end": 1.311
+        },
+        {
+          "id": "w3",
+          "text": "look",
+          "start": 1.321,
+          "end": 1.512
+        },
+        {
+          "id": "w4",
+          "text": "up",
+          "start": 1.522,
+          "end": 1.681
+        },
+        {
+          "id": "w5",
+          "text": "dot",
+          "start": 1.692,
+          "end": 1.861
+        },
+        {
+          "id": "w6",
+          "text": "append",
+          "start": 1.872,
+          "end": 2.306
+        },
+        {
+          "id": "w7",
+          "text": "Comprehensions",
+          "start": 3.03,
+          "end": 3.708
+        },
+        {
+          "id": "w8",
+          "text": "run",
+          "start": 3.718,
+          "end": 3.919
+        },
+        {
+          "id": "w9",
+          "text": "in",
+          "start": 3.93,
+          "end": 4.036
+        },
+        {
+          "id": "w10",
+          "text": "C",
+          "start": 4.047,
+          "end": 4.28
+        },
+        {
+          "id": "w11",
+          "text": "with",
+          "start": 4.29,
+          "end": 4.396
+        },
+        {
+          "id": "w12",
+          "text": "the",
+          "start": 4.407,
+          "end": 4.47
+        },
+        {
+          "id": "w13",
+          "text": "specialized",
+          "start": 4.481,
+          "end": 5.095
+        },
+        {
+          "id": "w14",
+          "text": "LIST",
+          "start": 5.106,
+          "end": 5.297
+        },
+        {
+          "id": "w15",
+          "text": "APPEND",
+          "start": 5.307,
+          "end": 5.604
+        },
+        {
+          "id": "w16",
+          "text": "opcode",
+          "start": 5.614,
+          "end": 6.123
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "id": "03",
+      "path": "assets/audio/voice-03.wav",
+      "duration_s": 5.256,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Preallocated",
+          "start": 0.092,
+          "end": 0.707
+        },
+        {
+          "id": "w1",
+          "text": "memory",
+          "start": 0.717,
+          "end": 1.099
+        },
+        {
+          "id": "w2",
+          "text": "zero",
+          "start": 1.3,
+          "end": 1.586
+        },
+        {
+          "id": "w3",
+          "text": "method",
+          "start": 1.597,
+          "end": 1.904
+        },
+        {
+          "id": "w4",
+          "text": "lookups",
+          "start": 1.914,
+          "end": 2.338
+        },
+        {
+          "id": "w5",
+          "text": "and",
+          "start": 2.465,
+          "end": 2.603
+        },
+        {
+          "id": "w6",
+          "text": "up",
+          "start": 2.614,
+          "end": 2.73
+        },
+        {
+          "id": "w7",
+          "text": "to",
+          "start": 2.741,
+          "end": 2.825
+        },
+        {
+          "id": "w8",
+          "text": "forty",
+          "start": 2.836,
+          "end": 3.101
+        },
+        {
+          "id": "w9",
+          "text": "percent",
+          "start": 3.111,
+          "end": 3.461
+        },
+        {
+          "id": "w10",
+          "text": "faster",
+          "start": 3.472,
+          "end": 3.874
+        },
+        {
+          "id": "w11",
+          "text": "execution",
+          "start": 3.885,
+          "end": 4.52
+        }
+      ]
+    }
+  ],
+  "sfx": []
+}

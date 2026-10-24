@@ -1,0 +1,156 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "filesScanned": 5
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "duration": 16.032,
+    "samples": [
+      0.891,
+      2.672,
+      4.453,
+      6.235,
+      8.016,
+      9.797,
+      11.579,
+      13.36,
+      15.141
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 0,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 3,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "contrast_aa_failure",
+        "severity": "warning",
+        "message": "Contrast is 2.27:1; WCAG AA requires 3:1.",
+        "text": "1",
+        "fg": "rgb(72,79,88)",
+        "bg": "rgb(14,18,24)",
+        "ratio": 2.27,
+        "requiredRatio": 3,
+        "suggestedColor": "rgb(91,97,105)",
+        "large": true,
+        "selector": "div > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/frames/01-hook-comparison.html",
+        "bbox": {
+          "x": 115.58576965332031,
+          "y": 548.1568603515625,
+          "width": 32.02879333496094,
+          "height": 43.22637939453125
+        },
+        "time": 0.891,
+        "times": [
+          0.891
+        ]
+      },
+      {
+        "code": "contrast_aa_failure",
+        "severity": "warning",
+        "message": "Contrast is 2.27:1; WCAG AA requires 3:1.",
+        "text": "2",
+        "fg": "rgb(72,79,88)",
+        "bg": "rgb(14,18,24)",
+        "ratio": 2.27,
+        "requiredRatio": 3,
+        "suggestedColor": "rgb(91,97,105)",
+        "large": true,
+        "selector": "div > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > span:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/frames/01-hook-comparison.html",
+        "bbox": {
+          "x": 115.58576965332031,
+          "y": 596.2000732421875,
+          "width": 32.02879333496094,
+          "height": 43.22637939453125
+        },
+        "time": 0.891,
+        "times": [
+          0.891
+        ]
+      },
+      {
+        "code": "contrast_aa_failure",
+        "severity": "warning",
+        "message": "Contrast is 2.27:1; WCAG AA requires 3:1.",
+        "text": "3",
+        "fg": "rgb(72,79,88)",
+        "bg": "rgb(14,18,24)",
+        "ratio": 2.27,
+        "requiredRatio": 3,
+        "suggestedColor": "rgb(91,97,105)",
+        "large": true,
+        "selector": "div > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > span:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/frames/01-hook-comparison.html",
+        "bbox": {
+          "x": 115.58576965332031,
+          "y": 644.2432861328125,
+          "width": 32.02879333496094,
+          "height": 43.22637939453125
+        },
+        "time": 0.891,
+        "times": [
+          0.891
+        ]
+      }
+    ],
+    "enabled": true,
+    "samples": [
+      0.891,
+      4.453,
+      8.016,
+      11.579,
+      15.141
+    ],
+    "checked": 100,
+    "passed": 97
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  }
+}

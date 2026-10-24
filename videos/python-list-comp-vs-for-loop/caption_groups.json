@@ -1,0 +1,385 @@
+{
+  "total_duration_s": 16.032,
+  "width": 1080,
+  "height": 1920,
+  "groups": [
+    {
+      "id": "caption-group-0",
+      "frame": 1,
+      "start": 0.092,
+      "end": 0.463,
+      "text": "Why are",
+      "words": [
+        {
+          "id": "caption-word-0-0",
+          "text": "Why",
+          "start": 0.092,
+          "end": 0.336
+        },
+        {
+          "id": "caption-word-0-1",
+          "text": "are",
+          "start": 0.347,
+          "end": 0.453
+        }
+      ]
+    },
+    {
+      "id": "caption-group-1",
+      "frame": 1,
+      "start": 0.463,
+      "end": 1.777,
+      "text": "Python list comprehensions",
+      "words": [
+        {
+          "id": "caption-word-1-0",
+          "text": "Python",
+          "start": 0.463,
+          "end": 0.919
+        },
+        {
+          "id": "caption-word-1-1",
+          "text": "list",
+          "start": 0.929,
+          "end": 1.131
+        },
+        {
+          "id": "caption-word-1-2",
+          "text": "comprehensions",
+          "start": 1.141,
+          "end": 1.766
+        }
+      ]
+    },
+    {
+      "id": "caption-group-2",
+      "frame": 1,
+      "start": 1.777,
+      "end": 2.264,
+      "text": "faster than",
+      "words": [
+        {
+          "id": "caption-word-2-0",
+          "text": "faster",
+          "start": 1.777,
+          "end": 2.126
+        },
+        {
+          "id": "caption-word-2-1",
+          "text": "than",
+          "start": 2.137,
+          "end": 2.253
+        }
+      ]
+    },
+    {
+      "id": "caption-group-3",
+      "frame": 1,
+      "start": 2.264,
+      "end": 3.295,
+      "text": "standard for loops",
+      "words": [
+        {
+          "id": "caption-word-3-0",
+          "text": "standard",
+          "start": 2.264,
+          "end": 2.624
+        },
+        {
+          "id": "caption-word-3-1",
+          "text": "for",
+          "start": 2.635,
+          "end": 2.751
+        },
+        {
+          "id": "caption-word-3-2",
+          "text": "loops",
+          "start": 2.762,
+          "end": 3.175
+        }
+      ]
+    },
+    {
+      "id": "caption-group-4",
+      "frame": 2,
+      "start": 4.004,
+      "end": 5.233,
+      "text": "Standard loops repeatedly",
+      "words": [
+        {
+          "id": "caption-word-4-0",
+          "text": "Standard",
+          "start": 4.004,
+          "end": 4.46
+        },
+        {
+          "id": "caption-word-4-1",
+          "text": "loops",
+          "start": 4.47,
+          "end": 4.725
+        },
+        {
+          "id": "caption-word-4-2",
+          "text": "repeatedly",
+          "start": 4.735,
+          "end": 5.223
+        }
+      ]
+    },
+    {
+      "id": "caption-group-5",
+      "frame": 2,
+      "start": 5.233,
+      "end": 5.604,
+      "text": "look up",
+      "words": [
+        {
+          "id": "caption-word-5-0",
+          "text": "look",
+          "start": 5.233,
+          "end": 5.424
+        },
+        {
+          "id": "caption-word-5-1",
+          "text": "up",
+          "start": 5.434,
+          "end": 5.593
+        }
+      ]
+    },
+    {
+      "id": "caption-group-6",
+      "frame": 2,
+      "start": 5.604,
+      "end": 6.338,
+      "text": "dot append",
+      "words": [
+        {
+          "id": "caption-word-6-0",
+          "text": "dot",
+          "start": 5.604,
+          "end": 5.773
+        },
+        {
+          "id": "caption-word-6-1",
+          "text": "append",
+          "start": 5.784,
+          "end": 6.218
+        }
+      ]
+    },
+    {
+      "id": "caption-group-7",
+      "frame": 2,
+      "start": 6.942,
+      "end": 7.959,
+      "text": "Comprehensions run in",
+      "words": [
+        {
+          "id": "caption-word-7-0",
+          "text": "Comprehensions",
+          "start": 6.942,
+          "end": 7.62
+        },
+        {
+          "id": "caption-word-7-1",
+          "text": "run",
+          "start": 7.63,
+          "end": 7.831
+        },
+        {
+          "id": "caption-word-7-2",
+          "text": "in",
+          "start": 7.842,
+          "end": 7.948
+        }
+      ]
+    },
+    {
+      "id": "caption-group-8",
+      "frame": 2,
+      "start": 7.959,
+      "end": 8.319,
+      "text": "C with",
+      "words": [
+        {
+          "id": "caption-word-8-0",
+          "text": "C",
+          "start": 7.959,
+          "end": 8.192
+        },
+        {
+          "id": "caption-word-8-1",
+          "text": "with",
+          "start": 8.202,
+          "end": 8.308
+        }
+      ]
+    },
+    {
+      "id": "caption-group-9",
+      "frame": 2,
+      "start": 8.319,
+      "end": 9.018,
+      "text": "the specialized",
+      "words": [
+        {
+          "id": "caption-word-9-0",
+          "text": "the",
+          "start": 8.319,
+          "end": 8.382
+        },
+        {
+          "id": "caption-word-9-1",
+          "text": "specialized",
+          "start": 8.393,
+          "end": 9.007
+        }
+      ]
+    },
+    {
+      "id": "caption-group-10",
+      "frame": 2,
+      "start": 9.018,
+      "end": 10.155,
+      "text": "LIST APPEND opcode",
+      "words": [
+        {
+          "id": "caption-word-10-0",
+          "text": "LIST",
+          "start": 9.018,
+          "end": 9.209
+        },
+        {
+          "id": "caption-word-10-1",
+          "text": "APPEND",
+          "start": 9.219,
+          "end": 9.516
+        },
+        {
+          "id": "caption-word-10-2",
+          "text": "opcode",
+          "start": 9.526,
+          "end": 10.035
+        }
+      ]
+    },
+    {
+      "id": "caption-group-11",
+      "frame": 3,
+      "start": 10.868,
+      "end": 11.995,
+      "text": "Preallocated memory",
+      "words": [
+        {
+          "id": "caption-word-11-0",
+          "text": "Preallocated",
+          "start": 10.868,
+          "end": 11.483
+        },
+        {
+          "id": "caption-word-11-1",
+          "text": "memory",
+          "start": 11.493,
+          "end": 11.875
+        }
+      ]
+    },
+    {
+      "id": "caption-group-12",
+      "frame": 3,
+      "start": 12.076,
+      "end": 13.234,
+      "text": "zero method lookups",
+      "words": [
+        {
+          "id": "caption-word-12-0",
+          "text": "zero",
+          "start": 12.076,
+          "end": 12.362
+        },
+        {
+          "id": "caption-word-12-1",
+          "text": "method",
+          "start": 12.373,
+          "end": 12.68
+        },
+        {
+          "id": "caption-word-12-2",
+          "text": "lookups",
+          "start": 12.69,
+          "end": 13.114
+        }
+      ]
+    },
+    {
+      "id": "caption-group-13",
+      "frame": 3,
+      "start": 13.241,
+      "end": 13.517,
+      "text": "and up",
+      "words": [
+        {
+          "id": "caption-word-13-0",
+          "text": "and",
+          "start": 13.241,
+          "end": 13.379
+        },
+        {
+          "id": "caption-word-13-1",
+          "text": "up",
+          "start": 13.39,
+          "end": 13.506
+        }
+      ]
+    },
+    {
+      "id": "caption-group-14",
+      "frame": 3,
+      "start": 13.517,
+      "end": 13.887,
+      "text": "to forty",
+      "words": [
+        {
+          "id": "caption-word-14-0",
+          "text": "to",
+          "start": 13.517,
+          "end": 13.601
+        },
+        {
+          "id": "caption-word-14-1",
+          "text": "forty",
+          "start": 13.612,
+          "end": 13.877
+        }
+      ]
+    },
+    {
+      "id": "caption-group-15",
+      "frame": 3,
+      "start": 13.887,
+      "end": 15.416,
+      "text": "percent faster execution",
+      "words": [
+        {
+          "id": "caption-word-15-0",
+          "text": "percent",
+          "start": 13.887,
+          "end": 14.237
+        },
+        {
+          "id": "caption-word-15-1",
+          "text": "faster",
+          "start": 14.248,
+          "end": 14.65
+        },
+        {
+          "id": "caption-word-15-2",
+          "text": "execution",
+          "start": 14.661,
+          "end": 15.296
+        }
+      ]
+    }
+  ]
+}

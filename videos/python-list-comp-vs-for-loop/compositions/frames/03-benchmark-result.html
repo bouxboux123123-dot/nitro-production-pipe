@@ -1,0 +1,354 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('../../assets/fonts/JetBrainsMono-400.woff2') format('woff2');
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('../../assets/fonts/JetBrainsMono-700.woff2') format('woff2');
+      font-weight: 700;
+    }
+    @font-face {
+      font-family: 'Inter';
+      src: url('../../assets/fonts/Inter-400.woff2') format('woff2');
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: 'Inter';
+      src: url('../../assets/fonts/Inter-700.woff2') format('woff2');
+      font-weight: 700;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    #root {
+      width: 1080px;
+      height: 1920px;
+      position: relative;
+      overflow: hidden;
+      background: #0d1117;
+      font-family: 'Inter', -apple-system, sans-serif;
+      color: #f0f6fc;
+    }
+
+    .f03-bg {
+      position: absolute;
+      inset: 0;
+      width: 1080px;
+      height: 1920px;
+      background: radial-gradient(circle at 50% 25%, #161b22 0%, #090d13 100%);
+      z-index: 0;
+    }
+
+    .f03-grid {
+      position: absolute;
+      inset: 0;
+      background-image: linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+                        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+      background-size: 60px 60px;
+      opacity: 0.7;
+    }
+
+    .f03-container {
+      position: absolute;
+      top: 90px;
+      left: 60px;
+      width: 960px;
+      z-index: 10;
+    }
+
+    .f03-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 18px;
+      border-radius: 9999px;
+      background: rgba(63, 185, 80, 0.15);
+      border: 1px solid rgba(63, 185, 80, 0.4);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 24px;
+      font-weight: 700;
+      color: #3fb950;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 24px;
+    }
+
+    .f03-title {
+      font-size: 62px;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: #ffffff;
+      margin-bottom: 36px;
+    }
+
+    .f03-title span {
+      color: #3fb950;
+    }
+
+    /* Hero stat badge */
+    .f03-hero-stat {
+      background: linear-gradient(135deg, rgba(63, 185, 80, 0.15) 0%, rgba(22, 27, 34, 0.8) 100%);
+      border: 1px solid rgba(63, 185, 80, 0.4);
+      border-radius: 20px;
+      padding: 28px 36px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 36px;
+      box-shadow: 0 16px 40px rgba(63, 185, 80, 0.12);
+    }
+
+    .f03-hero-left {
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+    }
+
+    .f03-hero-number {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 96px;
+      font-weight: 800;
+      color: #3fb950;
+      line-height: 0.9;
+      text-shadow: 0 0 30px rgba(63, 185, 80, 0.4);
+    }
+
+    .f03-hero-label {
+      font-size: 32px;
+      font-weight: 700;
+      color: #ffffff;
+      letter-spacing: 0.04em;
+    }
+
+    .f03-hero-sub {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 20px;
+      color: #7ee787;
+      background: rgba(63, 185, 80, 0.2);
+      border: 1px solid rgba(63, 185, 80, 0.35);
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-weight: 700;
+    }
+
+    /* Benchmark Chart Card */
+    .f03-chart-card {
+      background: #161b22;
+      border: 1px solid rgba(240, 246, 252, 0.12);
+      border-radius: 20px;
+      padding: 36px 32px;
+      margin-bottom: 36px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+    }
+
+    .f03-chart-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 30px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid rgba(240, 246, 252, 0.08);
+    }
+
+    .f03-chart-title {
+      font-size: 24px;
+      font-weight: 700;
+      color: #e6edf3;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .f03-chart-note {
+      font-size: 18px;
+      color: #8b949e;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    /* Bars */
+    .f03-bar-group {
+      margin-bottom: 32px;
+    }
+
+    .f03-bar-group:last-child {
+      margin-bottom: 0;
+    }
+
+    .f03-bar-label-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .f03-bar-name {
+      font-size: 22px;
+      font-weight: 600;
+      color: #e6edf3;
+    }
+
+    .f03-bar-time {
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    .f03-bar-track {
+      width: 100%;
+      height: 48px;
+      background: #0d1117;
+      border-radius: 10px;
+      overflow: hidden;
+      border: 1px solid rgba(240, 246, 252, 0.08);
+      position: relative;
+    }
+
+    .f03-bar-fill-bad {
+      height: 100%;
+      width: 100%;
+      background: linear-gradient(90deg, #da3633 0%, #f85149 100%);
+      border-radius: 10px;
+      transform-origin: left;
+    }
+
+    .f03-bar-fill-good {
+      height: 100%;
+      width: 59%;
+      background: linear-gradient(90deg, #238636 0%, #3fb950 100%);
+      border-radius: 10px;
+      box-shadow: 0 0 24px rgba(63, 185, 80, 0.4);
+      transform-origin: left;
+    }
+
+    /* 3 Pillars */
+    .f03-pillars {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 16px;
+    }
+
+    .f03-pill {
+      background: #161b22;
+      border: 1px solid rgba(240, 246, 252, 0.1);
+      border-radius: 14px;
+      padding: 18px 14px;
+      text-align: center;
+    }
+
+    .f03-pill-icon {
+      font-size: 30px;
+      margin-bottom: 8px;
+    }
+
+    .f03-pill-text {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 17px;
+      font-weight: 700;
+      color: #e6edf3;
+      line-height: 1.3;
+    }
+  </style>
+
+  <div
+    id="root"
+    data-composition-id="03-benchmark-result"
+    data-start="0"
+    data-duration="5.256"
+    data-width="1080"
+    data-height="1920"
+  >
+    <div id="f03-bg" class="clip f03-bg" data-start="0" data-duration="5.256" data-track-index="0">
+      <div class="f03-grid"></div>
+    </div>
+
+    <div id="f03-content" class="clip f03-container" data-start="0" data-duration="5.256" data-track-index="1">
+      <div id="f03-eyebrow" class="f03-eyebrow">✱ Benchmark Result</div>
+      <h1 id="f03-title" class="f03-title">Execution Speed <span>Comparison</span></h1>
+
+      <!-- Hero stat -->
+      <div id="f03-hero-stat" class="f03-hero-stat">
+        <div class="f03-hero-left">
+          <div class="f03-hero-number">1.7×</div>
+          <div class="f03-hero-label">FASTER</div>
+        </div>
+        <div class="f03-hero-sub">41% Less Time</div>
+      </div>
+
+      <!-- Chart Card -->
+      <div id="f03-chart-card" class="f03-chart-card">
+        <div class="f03-chart-header">
+          <div class="f03-chart-title">Time to construct 1,000 items</div>
+          <div class="f03-chart-note">(Lower is faster)</div>
+        </div>
+
+        <!-- For-loop bar -->
+        <div class="f03-bar-group">
+          <div class="f03-bar-label-row">
+            <span class="f03-bar-name">Standard for-loop</span>
+            <span class="f03-bar-time" style="color: #ff7b72;">98.4 µs (1.0×)</span>
+          </div>
+          <div class="f03-bar-track">
+            <div id="f03-bar-bad" class="f03-bar-fill-bad"></div>
+          </div>
+        </div>
+
+        <!-- List comp bar -->
+        <div class="f03-bar-group">
+          <div class="f03-bar-label-row">
+            <span class="f03-bar-name">List comprehension</span>
+            <span class="f03-bar-time" style="color: #3fb950;">58.1 µs (Winner)</span>
+          </div>
+          <div class="f03-bar-track">
+            <div id="f03-bar-good" class="f03-bar-fill-good"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Pillars -->
+      <div id="f03-pillars" class="f03-pillars">
+        <div class="f03-pill">
+          <div class="f03-pill-icon">⚡</div>
+          <div class="f03-pill-text">C-Level LIST_APPEND</div>
+        </div>
+        <div class="f03-pill">
+          <div class="f03-pill-icon">🚫</div>
+          <div class="f03-pill-text">Zero Method Lookups</div>
+        </div>
+        <div class="f03-pill">
+          <div class="f03-pill-icon">🧠</div>
+          <div class="f03-pill-text">Preallocated Storage</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    window.__timelines["03-benchmark-result"] = tl;
+
+    tl.fromTo("#f03-eyebrow", { opacity: 0, y: -20 }, { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }, 0.0);
+    tl.fromTo("#f03-title", { opacity: 0, y: 25 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0.15);
+
+    // Hero stat punch in
+    tl.fromTo("#f03-hero-stat", { opacity: 0, scale: 0.9, y: 30 }, { opacity: 1, scale: 1, y: 0, duration: 0.6, ease: "back.out(1.4)" }, 0.35);
+
+    // Chart card entrance
+    tl.fromTo("#f03-chart-card", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 0.6);
+
+    // Bars growth
+    tl.fromTo("#f03-bar-bad", { scaleX: 0 }, { scaleX: 1, duration: 0.8, ease: "power2.out" }, 0.9);
+    tl.fromTo("#f03-bar-good", { scaleX: 0 }, { scaleX: 1, duration: 0.8, ease: "power3.out" }, 1.4);
+
+    // 3 Pills stagger
+    tl.fromTo(".f03-pill", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.4, stagger: 0.15, ease: "back.out(1.2)" }, 2.4);
+
+    tl.seek(0);
+  </script>
+</template>

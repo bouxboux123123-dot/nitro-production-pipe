@@ -1,0 +1,4 @@
+Why Python list comprehensions are faster than standard for-loops.
+In Python, standard for-loops require repeatedly looking up the .append() method in the global/local namespace and executing Python function call overhead on every single iteration.
+In contrast, list comprehensions are optimized at the CPython bytecode level. They utilize the specialized LIST_APPEND C opcode directly, preallocating list storage and avoiding repeated method attribute lookups.
+This typically results in a 30% to 50% performance improvement (around 1.7x faster) while producing cleaner, idiomatic Python code.

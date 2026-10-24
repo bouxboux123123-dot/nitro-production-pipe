@@ -1,0 +1,326 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('../../assets/fonts/JetBrainsMono-400.woff2') format('woff2');
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('../../assets/fonts/JetBrainsMono-700.woff2') format('woff2');
+      font-weight: 700;
+    }
+    @font-face {
+      font-family: 'Inter';
+      src: url('../../assets/fonts/Inter-400.woff2') format('woff2');
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: 'Inter';
+      src: url('../../assets/fonts/Inter-700.woff2') format('woff2');
+      font-weight: 700;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    #root {
+      width: 1080px;
+      height: 1920px;
+      position: relative;
+      overflow: hidden;
+      background: #0d1117;
+      font-family: 'Inter', -apple-system, sans-serif;
+      color: #f0f6fc;
+    }
+
+    .f02-bg {
+      position: absolute;
+      inset: 0;
+      width: 1080px;
+      height: 1920px;
+      background: radial-gradient(circle at 50% 30%, #161b22 0%, #090d13 100%);
+      z-index: 0;
+    }
+
+    .f02-grid {
+      position: absolute;
+      inset: 0;
+      background-image: linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+                        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+      background-size: 60px 60px;
+      opacity: 0.7;
+    }
+
+    .f02-container {
+      position: absolute;
+      top: 90px;
+      left: 60px;
+      width: 960px;
+      z-index: 10;
+    }
+
+    .f02-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 18px;
+      border-radius: 9999px;
+      background: rgba(88, 166, 255, 0.15);
+      border: 1px solid rgba(88, 166, 255, 0.4);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 24px;
+      font-weight: 700;
+      color: #79c0ff;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 24px;
+    }
+
+    .f02-title {
+      font-size: 62px;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: #ffffff;
+      margin-bottom: 36px;
+    }
+
+    .f02-title span {
+      color: #e3b341;
+    }
+
+    .f02-card {
+      background: #161b22;
+      border-radius: 18px;
+      padding: 28px;
+      border: 1px solid rgba(240, 246, 252, 0.12);
+      box-shadow: 0 16px 48px rgba(0, 0, 0, 0.5);
+      margin-bottom: 30px;
+    }
+
+    .f02-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid rgba(240, 246, 252, 0.08);
+    }
+
+    .f02-card-title {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 24px;
+      font-weight: 700;
+      color: #e6edf3;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .f02-badge-danger {
+      background: rgba(248, 81, 73, 0.15);
+      color: #ff7b72;
+      border: 1px solid rgba(248, 81, 73, 0.35);
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 18px;
+      font-weight: 700;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .f02-badge-success {
+      background: rgba(63, 185, 80, 0.15);
+      color: #3fb950;
+      border: 1px solid rgba(63, 185, 80, 0.35);
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 18px;
+      font-weight: 700;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .f02-bytecode-box {
+      background: #0d1117;
+      border-radius: 12px;
+      padding: 22px 24px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 25px;
+      line-height: 1.65;
+    }
+
+    .f02-bc-line {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .f02-bc-op {
+      color: #79c0ff;
+      font-weight: 700;
+      width: 250px;
+    }
+
+    .f02-bc-arg {
+      color: #d2a8ff;
+    }
+
+    .f02-highlight-bad {
+      background: rgba(248, 81, 73, 0.18);
+      border-left: 4px solid #f85149;
+      padding: 4px 10px;
+      margin: 4px -10px;
+      border-radius: 4px;
+    }
+
+    .f02-highlight-good {
+      background: rgba(63, 185, 80, 0.2);
+      border-left: 4px solid #3fb950;
+      padding: 4px 10px;
+      margin: 4px -10px;
+      border-radius: 4px;
+      box-shadow: 0 0 20px rgba(63, 185, 80, 0.15);
+    }
+
+    .f02-comment-bad {
+      color: #ff7b72;
+      font-size: 21px;
+      margin-left: auto;
+      font-weight: 600;
+    }
+
+    .f02-comment-good {
+      color: #56d364;
+      font-size: 21px;
+      margin-left: auto;
+      font-weight: 700;
+    }
+
+    /* Comparison stat strip */
+    .f02-strip {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-top: 10px;
+    }
+
+    .f02-stat-card {
+      background: #161b22;
+      border: 1px solid rgba(240, 246, 252, 0.1);
+      border-radius: 14px;
+      padding: 20px 24px;
+      text-align: center;
+    }
+
+    .f02-stat-num {
+      font-size: 38px;
+      font-weight: 800;
+      font-family: 'JetBrains Mono', monospace;
+      margin-bottom: 6px;
+    }
+
+    .f02-stat-lbl {
+      font-size: 19px;
+      color: #8b949e;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  </style>
+
+  <div
+    id="root"
+    data-composition-id="02-bytecode-explanation"
+    data-start="0"
+    data-duration="6.864"
+    data-width="1080"
+    data-height="1920"
+  >
+    <div id="f02-bg" class="clip f02-bg" data-start="0" data-duration="6.864" data-track-index="0">
+      <div class="f02-grid"></div>
+    </div>
+
+    <div id="f02-content" class="clip f02-container" data-start="0" data-duration="6.864" data-track-index="1">
+      <div id="f02-eyebrow" class="f02-eyebrow">✱ CPython Bytecode</div>
+      <h1 id="f02-title" class="f02-title">The Cost of <span>.append()</span> Lookups</h1>
+
+      <!-- Card 1: For-Loop Bytecode -->
+      <div id="f02-card-bad" class="f02-card">
+        <div class="f02-card-header">
+          <div class="f02-card-title">Standard For-Loop (dis.dis)</div>
+          <div class="f02-badge-danger">Heavy Overhead</div>
+        </div>
+
+        <div class="f02-bytecode-box">
+          <div class="f02-bc-line"><span class="f02-bc-op">FOR_ITER</span> <span class="f02-bc-arg">22 (to 44)</span></div>
+          <div class="f02-bc-line"><span class="f02-bc-op">STORE_FAST</span> <span class="f02-bc-arg">1 (x)</span></div>
+          <div class="f02-bc-line f02-highlight-bad">
+            <span class="f02-bc-op">LOAD_METHOD</span>
+            <span class="f02-bc-arg">(append)</span>
+            <span class="f02-comment-bad">⚠️ Lookup on each iteration</span>
+          </div>
+          <div class="f02-bc-line f02-highlight-bad">
+            <span class="f02-bc-op">CALL_METHOD</span>
+            <span class="f02-bc-arg">1</span>
+            <span class="f02-comment-bad">⚠️ Python stack frame push</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 2: List Comp Bytecode -->
+      <div id="f02-card-good" class="f02-card">
+        <div class="f02-card-header">
+          <div class="f02-card-title">List Comprehension (dis.dis)</div>
+          <div class="f02-badge-success">Direct C Implementation</div>
+        </div>
+
+        <div class="f02-bytecode-box">
+          <div class="f02-bc-line"><span class="f02-bc-op">BUILD_LIST</span> <span class="f02-bc-arg">0</span></div>
+          <div class="f02-bc-line"><span class="f02-bc-op">FOR_ITER</span> <span class="f02-bc-arg">12 (to 28)</span></div>
+          <div class="f02-bc-line f02-highlight-good">
+            <span class="f02-bc-op">LIST_APPEND</span>
+            <span class="f02-bc-arg">1</span>
+            <span class="f02-comment-good">⚡ Native C Opcode (Zero Lookups)</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Metric Strip -->
+      <div id="f02-strip" class="f02-strip">
+        <div class="f02-stat-card">
+          <div class="f02-stat-num" style="color: #ff7b72;">1,000×</div>
+          <div class="f02-stat-lbl">Attribute Lookups</div>
+        </div>
+        <div class="f02-stat-card">
+          <div class="f02-stat-num" style="color: #3fb950;">0</div>
+          <div class="f02-stat-lbl">Direct C Opcode</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    window.__timelines["02-bytecode-explanation"] = tl;
+
+    tl.fromTo("#f02-eyebrow", { opacity: 0, y: -20 }, { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }, 0.0);
+    tl.fromTo("#f02-title", { opacity: 0, y: 25 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0.15);
+
+    // Bad bytecode entrance and pulsing warning
+    tl.fromTo("#f02-card-bad", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.6, ease: "power2.out" }, 0.35);
+    tl.fromTo(".f02-highlight-bad", { backgroundColor: "rgba(248, 81, 73, 0.0)" }, { backgroundColor: "rgba(248, 81, 73, 0.35)", duration: 0.4 }, 1.2);
+    tl.to(".f02-highlight-bad", { backgroundColor: "rgba(248, 81, 73, 0.18)", duration: 0.4 }, 1.6);
+
+    // Good bytecode card enters on "Comprehensions run in C with the specialized LIST APPEND opcode"
+    tl.fromTo("#f02-card-good", { opacity: 0, scale: 0.94, y: 25 }, { opacity: 1, scale: 1, y: 0, duration: 0.6, ease: "back.out(1.3)" }, 3.2);
+    tl.fromTo(".f02-highlight-good", { scale: 0.98 }, { scale: 1.02, duration: 0.4, ease: "power1.out" }, 4.0);
+
+    // Stat strip reveal
+    tl.fromTo("#f02-strip", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 4.8);
+
+    tl.seek(0);
+  </script>
+</template>

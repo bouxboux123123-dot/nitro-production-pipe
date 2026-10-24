@@ -1,0 +1,302 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('../../assets/fonts/JetBrainsMono-400.woff2') format('woff2');
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('../../assets/fonts/JetBrainsMono-700.woff2') format('woff2');
+      font-weight: 700;
+    }
+    @font-face {
+      font-family: 'Inter';
+      src: url('../../assets/fonts/Inter-400.woff2') format('woff2');
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: 'Inter';
+      src: url('../../assets/fonts/Inter-700.woff2') format('woff2');
+      font-weight: 700;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    #root {
+      width: 1080px;
+      height: 1920px;
+      position: relative;
+      overflow: hidden;
+      background: #0d1117;
+      font-family: 'Inter', -apple-system, sans-serif;
+      color: #f0f6fc;
+    }
+
+    .f01-bg {
+      position: absolute;
+      inset: 0;
+      width: 1080px;
+      height: 1920px;
+      background: radial-gradient(circle at 50% 25%, #161b22 0%, #090d13 100%);
+      z-index: 0;
+    }
+
+    .f01-grid {
+      position: absolute;
+      inset: 0;
+      background-image: linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+                        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+      background-size: 60px 60px;
+      opacity: 0.7;
+    }
+
+    .f01-container {
+      position: absolute;
+      top: 90px;
+      left: 60px;
+      width: 960px;
+      z-index: 10;
+    }
+
+    .f01-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 18px;
+      border-radius: 9999px;
+      background: rgba(204, 120, 92, 0.15);
+      border: 1px solid rgba(204, 120, 92, 0.4);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 24px;
+      font-weight: 700;
+      color: #ff9b7a;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 24px;
+    }
+
+    .f01-title {
+      font-size: 64px;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: #ffffff;
+      margin-bottom: 40px;
+    }
+
+    .f01-title span {
+      color: #58a6ff;
+    }
+
+    /* VS Code Window */
+    .f01-vscode {
+      width: 960px;
+      background: #161b22;
+      border-radius: 20px;
+      border: 1px solid rgba(240, 246, 252, 0.12);
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255, 255, 255, 0.05);
+      overflow: hidden;
+    }
+
+    .f01-vscode-topbar {
+      height: 60px;
+      background: #0d1117;
+      display: flex;
+      align-items: center;
+      padding: 0 24px;
+      border-bottom: 1px solid rgba(240, 246, 252, 0.08);
+      position: relative;
+    }
+
+    .f01-dots {
+      display: flex;
+      gap: 10px;
+    }
+
+    .f01-dot {
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+    }
+    .f01-dot-red { background: #ff5f56; }
+    .f01-dot-yellow { background: #ffbd2e; }
+    .f01-dot-green { background: #27c93f; }
+
+    .f01-tab {
+      margin-left: 28px;
+      height: 44px;
+      background: #161b22;
+      border-radius: 8px 8px 0 0;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 20px;
+      color: #e6edf3;
+      border-top: 2px solid #58a6ff;
+    }
+
+    .f01-py-icon {
+      color: #e3b341;
+      font-weight: bold;
+    }
+
+    .f01-editor {
+      padding: 36px 32px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 27px;
+      line-height: 1.6;
+    }
+
+    .f01-block {
+      background: #0d1117;
+      border-radius: 14px;
+      padding: 24px;
+      border: 1px solid rgba(240, 246, 252, 0.08);
+      margin-bottom: 30px;
+      position: relative;
+    }
+
+    .f01-block-label {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid rgba(240, 246, 252, 0.08);
+    }
+
+    .f01-tag-bad {
+      font-size: 19px;
+      font-weight: 700;
+      color: #f85149;
+      background: rgba(248, 81, 73, 0.15);
+      border: 1px solid rgba(248, 81, 73, 0.3);
+      padding: 4px 14px;
+      border-radius: 6px;
+    }
+
+    .f01-tag-good {
+      font-size: 19px;
+      font-weight: 700;
+      color: #3fb950;
+      background: rgba(63, 185, 80, 0.15);
+      border: 1px solid rgba(63, 185, 80, 0.3);
+      padding: 4px 14px;
+      border-radius: 6px;
+    }
+
+    .f01-code-line {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      height: 48px;
+    }
+
+    .f01-ln {
+      width: 32px;
+      color: #8b949e;
+      text-align: right;
+      user-select: none;
+    }
+
+    /* Syntax highlight colors */
+    .syn-kw { color: #ff7b72; font-weight: bold; }
+    .syn-var { color: #79c0ff; }
+    .syn-fn { color: #d2a8ff; }
+    .syn-num { color: #a5d6ff; }
+    .syn-op { color: #79c0ff; }
+    .syn-comment { color: #8b949e; font-style: italic; }
+
+    .f01-block-good {
+      border: 1px solid rgba(63, 185, 80, 0.4);
+      box-shadow: 0 0 30px rgba(63, 185, 80, 0.1);
+    }
+  </style>
+
+  <div
+    id="root"
+    data-composition-id="01-hook-comparison"
+    data-start="0"
+    data-duration="3.912"
+    data-width="1080"
+    data-height="1920"
+  >
+    <div id="f01-bg" class="clip f01-bg" data-start="0" data-duration="3.912" data-track-index="0">
+      <div class="f01-grid"></div>
+    </div>
+
+    <div id="f01-content" class="clip f01-container" data-start="0" data-duration="3.912" data-track-index="1">
+      <div id="f01-eyebrow" class="f01-eyebrow">✱ Python Internals</div>
+      <h1 id="f01-title" class="f01-title">Why Are <span>List Comprehensions</span> Faster?</h1>
+
+      <div id="f01-vscode" class="f01-vscode">
+        <div class="f01-vscode-topbar">
+          <div class="f01-dots">
+            <div class="f01-dot f01-dot-red"></div>
+            <div class="f01-dot f01-dot-yellow"></div>
+            <div class="f01-dot f01-dot-green"></div>
+          </div>
+          <div class="f01-tab">
+            <span class="f01-py-icon">Py</span> speed_test.py
+          </div>
+        </div>
+
+        <div class="f01-editor">
+          <!-- Standard Loop Card -->
+          <div id="f01-box-bad" class="f01-block">
+            <div class="f01-block-label">
+              <span class="syn-comment"># Approach 1: Standard For-Loop</span>
+              <span class="f01-tag-bad">Slow · Function Calls</span>
+            </div>
+            <div class="f01-code-line">
+              <span class="f01-ln">1</span>
+              <span><span class="syn-var">squares</span> = []</span>
+            </div>
+            <div class="f01-code-line">
+              <span class="f01-ln">2</span>
+              <span><span class="syn-kw">for</span> <span class="syn-var">x</span> <span class="syn-kw">in</span> <span class="syn-fn">range</span>(<span class="syn-num">1000</span>):</span>
+            </div>
+            <div class="f01-code-line">
+              <span class="f01-ln">3</span>
+              <span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="syn-var">squares</span>.<span class="syn-fn">append</span>(<span class="syn-var">x</span> ** <span class="syn-num">2</span>)</span>
+            </div>
+          </div>
+
+          <!-- List Comprehension Card -->
+          <div id="f01-box-good" class="f01-block f01-block-good">
+            <div class="f01-block-label">
+              <span class="syn-comment"># Approach 2: List Comprehension</span>
+              <span class="f01-tag-good">1.7× Faster · C Opcode</span>
+            </div>
+            <div class="f01-code-line">
+              <span class="f01-ln">5</span>
+              <span><span class="syn-var">squares</span> = [<span class="syn-var">x</span> ** <span class="syn-num">2</span> <span class="syn-kw">for</span> <span class="syn-var">x</span> <span class="syn-kw">in</span> <span class="syn-fn">range</span>(<span class="syn-num">1000</span>)]</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    window.__timelines["01-hook-comparison"] = tl;
+
+    tl.fromTo("#f01-eyebrow", { opacity: 0, y: -20 }, { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }, 0.0);
+    tl.fromTo("#f01-title", { opacity: 0, y: 25 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0.15);
+    tl.fromTo("#f01-vscode", { opacity: 0, scale: 0.95, y: 30 }, { opacity: 1, scale: 1, y: 0, duration: 0.6, ease: "back.out(1.2)" }, 0.35);
+
+    tl.fromTo("#f01-box-bad", { opacity: 0, x: -20 }, { opacity: 1, x: 0, duration: 0.5, ease: "power2.out" }, 0.6);
+    tl.fromTo("#f01-box-good", { opacity: 0, scale: 0.92, y: 20 }, { opacity: 1, scale: 1, y: 0, duration: 0.6, ease: "back.out(1.4)" }, 1.8);
+
+    tl.seek(0);
+  </script>
+</template>

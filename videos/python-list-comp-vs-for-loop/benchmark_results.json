@@ -1,0 +1,42 @@
+[
+  {
+    "k": 2,
+    "elapsed_sec": 34.48,
+    "fps": 2.61,
+    "speedup_vs_k1": 0.85,
+    "est_60s_sec": 689.6,
+    "est_60s_min": 11.49
+  },
+  {
+    "k": 3,
+    "elapsed_sec": 39.9,
+    "fps": 2.26,
+    "speedup_vs_k1": 0.73,
+    "est_60s_sec": 798.1,
+    "est_60s_min": 13.3
+  },
+  {
+    "k": 4,
+    "elapsed_sec": 41.42,
+    "fps": 2.17,
+    "speedup_vs_k1": 0.71,
+    "est_60s_sec": 828.5,
+    "est_60s_min": 13.81
+  },
+  {
+    "k": 6,
+    "elapsed_sec": 44.65,
+    "fps": 2.02,
+    "speedup_vs_k1": 0.66,
+    "est_60s_sec": 892.9,
+    "est_60s_min": 14.88
+  },
+  {
+    "k": 8,
+    "elapsed_sec": 51.29,
+    "fps": 1.75,
+    "speedup_vs_k1": 0.57,
+    "est_60s_sec": 1025.9,
+    "est_60s_min": 17.1
+  }
+]
