@@ -3,7 +3,7 @@ import {
   AbsoluteFill,
   Audio,
   Sequence,
-  Video,
+  OffthreadVideo,
   staticFile,
   useCurrentFrame,
   useVideoConfig,
@@ -87,17 +87,6 @@ export const PythonStackScene: React.FC = () => {
     if (t < 24.0) return { label: '🚀 THE FIX', color: '#a6e3a1', bg: 'rgba(166,227,161,0.2)' };
     return { label: '⚡ VICTORY', color: '#00e5ff', bg: 'rgba(0,229,255,0.2)' };
   }, [t]);
-
-  // -------------------------------------------------------------
-  // BACKGROUND GRADING & VIGNETTE
-  // -------------------------------------------------------------
-  const bgHue = interpolate(t, [0, 5.8, 12.5, 18.8, 24.0], [0, 200, 350, 155, 195], {
-    extrapolateRight: 'clamp',
-  });
-  const bgSaturate = interpolate(t, [12.5, 14.5, 18.5, 24.0], [1.0, 1.85, 1.15, 1.25], {
-    extrapolateRight: 'clamp',
-  });
-  const bgBlur = interpolate(t, [25.5, 28.5], [0, 8], { extrapolateRight: 'clamp' });
 
   // -------------------------------------------------------------
   // CAMERA SHAKE (2D) & TIGHTENED FLASH
@@ -248,12 +237,29 @@ export const PythonStackScene: React.FC = () => {
           inset: -30,
           zIndex: 0,
           transform: `translate(${shakeX}px, ${shakeY}px)`,
-          filter: `hue-rotate(${bgHue}deg) saturate(${bgSaturate}) blur(${bgBlur}px)`,
         }}
       >
-        <Video
+        <OffthreadVideo
           src={staticFile('minecraft_bg.mp4')}
           style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+        />
+        {/* Solution 2: CSS Mix-Blend-Mode Tint (Eliminates software filter rasterization lag) */}
+        <div
+          style={{
+            position: 'absolute',
+            inset: 0,
+            backgroundColor:
+              t < 5.8
+                ? 'rgba(137, 180, 250, 0.18)' // Act 1 Hook: Soft Indigo
+                : t < 12.5
+                ? 'rgba(203, 166, 247, 0.16)' // Act 1 Stack: Purple
+                : t < 18.8
+                ? 'rgba(243, 139, 168, 0.30)' // Act 2 Crash / Recursion: Crimson Red
+                : t < 24.0
+                ? 'rgba(166, 227, 161, 0.20)' // Act 3 Iterative: Emerald Green
+                : 'rgba(137, 220, 235, 0.20)', // Act 4 5x Faster: Cyan
+            mixBlendMode: 'color',
+          }}
         />
         {/* Dynamic Vignette */}
         <div
