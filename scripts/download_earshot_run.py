@@ -6,7 +6,6 @@ import time
 import sys
 from pathlib import Path
 
-RUN_ID = 40119400514
 REPO = "bouxboux123123-dot/nitro-production-pipe"
 
 proc = subprocess.run(
@@ -24,7 +23,16 @@ headers = {
     "User-Agent": "Python"
 }
 
-print(f"Monitoring Earshot Cloud Render (Run ID: {RUN_ID})...")
+# Fetch latest run
+runs_resp = requests.get(f"https://api.github.com/repos/{REPO}/actions/runs?per_page=3", headers=headers)
+runs = runs_resp.json().get("workflow_runs", [])
+if not runs:
+    print("No workflow runs found!")
+    sys.exit(1)
+
+latest_run = runs[0]
+RUN_ID = latest_run["id"]
+print(f"Monitoring Latest Cloud Render (Run ID: {RUN_ID}, Commit: {latest_run.get('head_commit', {}).get('id', '')[:7]})...")
 
 while True:
     r = requests.get(f"https://api.github.com/repos/{REPO}/actions/runs/{RUN_ID}", headers=headers)

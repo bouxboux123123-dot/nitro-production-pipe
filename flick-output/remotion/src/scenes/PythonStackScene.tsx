@@ -1179,190 +1179,39 @@ export const PythonStackScene: React.FC = () => {
         </div>
       </div>
 
-      {/* ---------------- LAYER 3: EARSHOT SFX (ALL WRAPPED IN <Sequence>) ---------------- */}
+      {/* ---------------- LAYER 3: MINIMAL ACOUSTIC SOUND SET ---------------- */}
       {/* Primary Voiceover Narration */}
-      <Audio src={staticFile('full-dialogue.mp3')} />
+      <Audio src={staticFile('full-dialogue.mp3')} volume={1.0} />
 
-      {/* Hook: Glitch & Thump Opener at 0.0s */}
+      {/* Subtle UI Clicks (Authentic mechanical UI clicks, gentle low volume 0.18) */}
       <Sequence from={f(0.0)} durationInFrames={f(0.35)}>
-        <Audio src={staticFile('sounds/thump_whoosh.wav')} volume={0.8} />
+        <Audio src={staticFile('sounds/Click.mp3')} volume={0.18} />
       </Sequence>
-      <Sequence from={f(0.0)} durationInFrames={f(0.25)}>
-        <Audio src={staticFile('sounds/glitch.wav')} volume={0.65} />
+      <Sequence from={f(8.5)} durationInFrames={f(0.35)}>
+        <Audio src={staticFile('sounds/Click.mp3')} volume={0.18} />
       </Sequence>
-
-      {/* Hook: RecursionError Impact Drop at 2.6s */}
-      <Sequence from={f(2.6)} durationInFrames={f(0.5)}>
-        <Audio src={staticFile('sounds/impact.wav')} volume={0.85} />
+      <Sequence from={f(14.3)} durationInFrames={f(0.35)}>
+        <Audio src={staticFile('sounds/Click.mp3')} volume={0.20} />
       </Sequence>
-      <Sequence from={f(2.6)} durationInFrames={f(0.4)}>
-        <Audio src={staticFile('sounds/sub_drop.wav')} volume={0.7} />
+      <Sequence from={f(19.0)} durationInFrames={f(0.35)}>
+        <Audio src={staticFile('sounds/Click.mp3')} volume={0.18} />
       </Sequence>
-
-      {/* Hook: Subtext Swish at 4.4s */}
-      <Sequence from={f(4.4)} durationInFrames={f(0.25)}>
-        <Audio src={staticFile('sounds/swish.wav')} volume={0.5} />
+      <Sequence from={f(24.2)} durationInFrames={f(0.35)}>
+        <Audio src={staticFile('sounds/Click.mp3')} volume={0.20} />
       </Sequence>
 
-      {/* Act 1: Polaroid Shutter & Fast Whoosh at 5.8s */}
-      <Sequence from={f(5.8)} durationInFrames={f(0.2)}>
-        <Audio src={staticFile('sounds/shutter.wav')} volume={0.7} />
-      </Sequence>
-      <Sequence from={f(5.8)} durationInFrames={f(0.3)}>
-        <Audio src={staticFile('sounds/whoosh_fast.wav')} volume={0.6} />
-      </Sequence>
-
-      {/* Act 1: Hairline 3D Stack Lifting Ticks */}
-      <Sequence from={f(6.3)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.5} />
-      </Sequence>
-      <Sequence from={f(6.7)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.5} />
-      </Sequence>
-      <Sequence from={f(7.0)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.5} />
-      </Sequence>
-
-      {/* Act 1: Tooltip Badges (Pops) at 7.2s, 9.2s, 10.6s */}
-      <Sequence from={f(7.2)} durationInFrames={f(0.1)}>
-        <Audio src={staticFile('sounds/pop.wav')} volume={0.75} />
-      </Sequence>
-      <Sequence from={f(9.2)} durationInFrames={f(0.1)}>
-        <Audio src={staticFile('sounds/pop.wav')} volume={0.75} />
-      </Sequence>
-      <Sequence from={f(10.6)} durationInFrames={f(0.1)}>
-        <Audio src={staticFile('sounds/pop.wav')} volume={0.75} />
-      </Sequence>
-
-      {/* Act 1: Takeaway Pill Toggle at 11.5s */}
-      <Sequence from={f(11.5)} durationInFrames={f(0.12)}>
-        <Audio src={staticFile('sounds/toggle.wav')} volume={0.65} />
-      </Sequence>
-
-      {/* Act 1: Collapse Exit Whoosh at 12.2s */}
-      <Sequence from={f(12.2)} durationInFrames={f(0.3)}>
-        <Audio src={staticFile('sounds/whoosh_fast.wav')} volume={0.55} />
-      </Sequence>
-
-      {/* Act 2: Polaroid Shutter & Thump Whoosh Entry at 12.5s */}
-      <Sequence from={f(12.5)} durationInFrames={f(0.2)}>
-        <Audio src={staticFile('sounds/shutter.wav')} volume={0.7} />
+      {/* Subtle Transition Whooshes (Soft cinematic air displacement, gentle low volume 0.22) */}
+      <Sequence from={f(5.8)} durationInFrames={f(0.35)}>
+        <Audio src={staticFile('sounds/transitions.mp3')} volume={0.22} />
       </Sequence>
       <Sequence from={f(12.5)} durationInFrames={f(0.35)}>
-        <Audio src={staticFile('sounds/thump_whoosh.wav')} volume={0.75} />
+        <Audio src={staticFile('sounds/transitions.mp3')} volume={0.22} />
       </Sequence>
-
-      {/* Act 2: Accelerating Depth Counter Ticks (12.6s - 14.1s) */}
-      <Sequence from={f(12.7)} durationInFrames={f(0.06)}>
-        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.4} />
-      </Sequence>
-      <Sequence from={f(13.1)} durationInFrames={f(0.06)}>
-        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.45} />
-      </Sequence>
-      <Sequence from={f(13.4)} durationInFrames={f(0.06)}>
-        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.5} />
-      </Sequence>
-      <Sequence from={f(13.7)} durationInFrames={f(0.06)}>
-        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.55} />
-      </Sequence>
-      <Sequence from={f(13.9)} durationInFrames={f(0.06)}>
-        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.6} />
-      </Sequence>
-      <Sequence from={f(14.05)} durationInFrames={f(0.06)}>
-        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.65} />
-      </Sequence>
-
-      {/* Act 2: FATAL CRASH MOMENT at 14.2s (Impact + Sub Drop + Glitch) */}
-      <Sequence from={f(14.2)} durationInFrames={f(0.6)}>
-        <Audio src={staticFile('sounds/impact.wav')} volume={1.0} />
-      </Sequence>
-      <Sequence from={f(14.2)} durationInFrames={f(0.5)}>
-        <Audio src={staticFile('sounds/sub_drop.wav')} volume={0.95} />
-      </Sequence>
-      <Sequence from={f(14.2)} durationInFrames={f(0.3)}>
-        <Audio src={staticFile('sounds/glitch.wav')} volume={0.75} />
-      </Sequence>
-
-      {/* Act 2: Error Modal Pop at 14.3s */}
-      <Sequence from={f(14.35)} durationInFrames={f(0.12)}>
-        <Audio src={staticFile('sounds/pop.wav')} volume={0.7} />
-      </Sequence>
-
-      {/* Act 2: Exit Whoosh at 18.5s */}
-      <Sequence from={f(18.5)} durationInFrames={f(0.3)}>
-        <Audio src={staticFile('sounds/whoosh_fast.wav')} volume={0.6} />
-      </Sequence>
-
-      {/* Act 3: Polaroid Shutter & Swish Divider at 18.8s */}
-      <Sequence from={f(18.8)} durationInFrames={f(0.2)}>
-        <Audio src={staticFile('sounds/shutter.wav')} volume={0.7} />
-      </Sequence>
-      <Sequence from={f(18.8)} durationInFrames={f(0.25)}>
-        <Audio src={staticFile('sounds/swish.wav')} volume={0.6} />
-      </Sequence>
-
-      {/* Act 3: Keypress Taps on Code Lines */}
-      <Sequence from={f(19.0)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
-      </Sequence>
-      <Sequence from={f(19.4)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
-      </Sequence>
-      <Sequence from={f(19.8)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
-      </Sequence>
-      <Sequence from={f(20.2)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
-      </Sequence>
-      <Sequence from={f(20.6)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
-      </Sequence>
-
-      {/* Act 3: Benefit Latch Toggle at 22.5s */}
-      <Sequence from={f(22.5)} durationInFrames={f(0.12)}>
-        <Audio src={staticFile('sounds/toggle.wav')} volume={0.7} />
-      </Sequence>
-
-      {/* Act 3: Exit Whoosh at 23.7s */}
-      <Sequence from={f(23.7)} durationInFrames={f(0.3)}>
-        <Audio src={staticFile('sounds/whoosh_fast.wav')} volume={0.6} />
-      </Sequence>
-
-      {/* Act 4: Polaroid Shutter & Victory Thump at 24.0s */}
-      <Sequence from={f(24.0)} durationInFrames={f(0.2)}>
-        <Audio src={staticFile('sounds/shutter.wav')} volume={0.7} />
+      <Sequence from={f(18.8)} durationInFrames={f(0.35)}>
+        <Audio src={staticFile('sounds/transitions.mp3')} volume={0.22} />
       </Sequence>
       <Sequence from={f(24.0)} durationInFrames={f(0.35)}>
-        <Audio src={staticFile('sounds/thump_whoosh.wav')} volume={0.8} />
-      </Sequence>
-
-      {/* Act 4: 5x Faster Headline Impact at 24.2s */}
-      <Sequence from={f(24.2)} durationInFrames={f(0.5)}>
-        <Audio src={staticFile('sounds/impact.wav')} volume={0.9} />
-      </Sequence>
-      <Sequence from={f(24.2)} durationInFrames={f(0.4)}>
-        <Audio src={staticFile('sounds/sub_drop.wav')} volume={0.85} />
-      </Sequence>
-
-      {/* Act 4: Metric Box Taps at 26.0s, 26.15s, 26.3s */}
-      <Sequence from={f(26.0)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/keypress.wav')} volume={0.55} />
-      </Sequence>
-      <Sequence from={f(26.15)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/keypress.wav')} volume={0.55} />
-      </Sequence>
-      <Sequence from={f(26.3)} durationInFrames={f(0.08)}>
-        <Audio src={staticFile('sounds/keypress.wav')} volume={0.55} />
-      </Sequence>
-
-      {/* Act 4: Deque Bar 100% Toggle at 26.8s */}
-      <Sequence from={f(26.8)} durationInFrames={f(0.12)}>
-        <Audio src={staticFile('sounds/toggle.wav')} volume={0.75} />
-      </Sequence>
-
-      {/* Act 4: Golden Rule Pill Toggle at 27.5s */}
-      <Sequence from={f(27.5)} durationInFrames={f(0.15)}>
-        <Audio src={staticFile('sounds/toggle.wav')} volume={0.75} />
+        <Audio src={staticFile('sounds/transitions.mp3')} volume={0.22} />
       </Sequence>
     </AbsoluteFill>
   );
