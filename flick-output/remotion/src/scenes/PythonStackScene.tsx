@@ -406,18 +406,18 @@ export const PythonStackScene: React.FC = () => {
         </span>
       </div>
 
-      {/* V13: POLAROID CHAPTER STICKER (Positioned safely at top: 86px) */}
+      {/* V13: POLAROID CHAPTER STICKER (Positioned safely at top: 32px, right: 36px) */}
       {polaroidInfo && (
         <div
           style={{
             position: 'absolute',
-            top: 86,
-            right: 40,
+            top: 32,
+            right: 36,
             transform: `translateX(${(1 - polaroidSlide) * 350}px) rotate(3deg)`,
             background: '#faf6ee',
             border: '3px solid #111',
             borderRadius: 14,
-            padding: '10px 18px',
+            padding: '8px 16px',
             boxShadow: '0 14px 35px rgba(0,0,0,0.7)',
             zIndex: 85,
             display: 'flex',
@@ -428,7 +428,7 @@ export const PythonStackScene: React.FC = () => {
           <div style={{ fontFamily: 'monospace', fontSize: 11, fontWeight: 900, color: '#e11d48' }}>
             {polaroidInfo.num} · {polaroidInfo.time}
           </div>
-          <div style={{ fontFamily: 'system-ui', fontSize: 16, fontWeight: 900, color: '#0f172a' }}>
+          <div style={{ fontFamily: 'system-ui', fontSize: 15, fontWeight: 900, color: '#0f172a' }}>
             {polaroidInfo.title}
           </div>
         </div>
@@ -574,7 +574,7 @@ export const PythonStackScene: React.FC = () => {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              paddingTop: 110,
+              paddingTop: 135,
               opacity: act1ExitOpacity,
               transform: `scale(${act1Entry * act1ExitScale}) rotateY(${act1Tilt}deg)`,
             }}
@@ -1099,7 +1099,7 @@ export const PythonStackScene: React.FC = () => {
         )}
       </div>
 
-      {/* ---------------- LAYER 2: V10 SUBTITLES WITH EXPLICIT WORD MARGIN ---------------- */}
+      {/* ---------------- LAYER 2: V10 SUBTITLES WITH GENEROUS WORD SPACING ---------------- */}
       <div
         style={{
           position: 'absolute',
@@ -1120,6 +1120,7 @@ export const PythonStackScene: React.FC = () => {
             flexWrap: 'wrap',
             justifyContent: 'center',
             alignItems: 'center',
+            gap: '16px 36px',
             maxWidth: 1000,
           }}
         >
@@ -1137,7 +1138,7 @@ export const PythonStackScene: React.FC = () => {
                   fontSize: isCurrent ? 56 : 48,
                   letterSpacing: '0.04em',
                   textTransform: 'uppercase',
-                  marginRight: 16, // Explicit margin to prevent mashed words!
+                  margin: '0 10px',
                   color: isHighlight
                     ? '#00e5ff'
                     : isCurrent
