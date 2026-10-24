@@ -5,7 +5,9 @@ node_modules/
 # HyperFrames Caches & Debug
 .debug/
 .cache/
-.hyperframes/artifacts/
+.hyperframes/
+**/.hyperframes/
+videos/**/renders/
 *.log
 
 # Python

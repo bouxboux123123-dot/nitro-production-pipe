@@ -1,0 +1,795 @@
+{
+  "total_duration": 68.712,
+  "scenes": [
+    {
+      "id": "01-hook-dockerfile",
+      "voice_file": "assets/audio/voice-01.wav",
+      "duration": 13.704,
+      "text": "Why do Docker builds feel instant and barely take up disk space? The secret is Docker's immutable layer architecture. Every single line in your Dockerfile creates an isolated, read-only snapshot.",
+      "words": [
+        {
+          "word": "Why",
+          "start": 0.1,
+          "end": 0.35
+        },
+        {
+          "word": "do",
+          "start": 0.3625,
+          "end": 0.5
+        },
+        {
+          "word": "Docker",
+          "start": 0.5125,
+          "end": 0.9
+        },
+        {
+          "word": "builds",
+          "start": 0.9125,
+          "end": 1.2625
+        },
+        {
+          "word": "feel",
+          "start": 1.275,
+          "end": 1.4875
+        },
+        {
+          "word": "instant",
+          "start": 1.5,
+          "end": 1.975
+        },
+        {
+          "word": "and",
+          "start": 1.9875,
+          "end": 2.1
+        },
+        {
+          "word": "barely",
+          "start": 2.1125,
+          "end": 2.45
+        },
+        {
+          "word": "take",
+          "start": 2.4625,
+          "end": 2.7
+        },
+        {
+          "word": "up",
+          "start": 2.7125,
+          "end": 2.875
+        },
+        {
+          "word": "disk",
+          "start": 2.8875,
+          "end": 3.1375
+        },
+        {
+          "word": "space",
+          "start": 3.15,
+          "end": 3.7375
+        },
+        {
+          "word": "The",
+          "start": 4.6,
+          "end": 4.75
+        },
+        {
+          "word": "secret",
+          "start": 4.7625,
+          "end": 5.2
+        },
+        {
+          "word": "is",
+          "start": 5.2125,
+          "end": 5.35
+        },
+        {
+          "word": "Docker's",
+          "start": 5.3625,
+          "end": 5.8
+        },
+        {
+          "word": "immutable",
+          "start": 5.8125,
+          "end": 6.2875
+        },
+        {
+          "word": "layer",
+          "start": 6.3,
+          "end": 6.6125
+        },
+        {
+          "word": "architecture",
+          "start": 6.625,
+          "end": 7.4
+        },
+        {
+          "word": "Every",
+          "start": 8.2625,
+          "end": 8.575
+        },
+        {
+          "word": "single",
+          "start": 8.5875,
+          "end": 8.9625
+        },
+        {
+          "word": "line",
+          "start": 8.975,
+          "end": 9.25
+        },
+        {
+          "word": "in",
+          "start": 9.2625,
+          "end": 9.3375
+        },
+        {
+          "word": "your",
+          "start": 9.35,
+          "end": 9.4625
+        },
+        {
+          "word": "Dockerfile",
+          "start": 9.475,
+          "end": 10.15
+        },
+        {
+          "word": "creates",
+          "start": 10.1625,
+          "end": 10.55
+        },
+        {
+          "word": "an",
+          "start": 10.5625,
+          "end": 10.7
+        },
+        {
+          "word": "isolated",
+          "start": 10.7125,
+          "end": 11.325
+        },
+        {
+          "word": "read-only",
+          "start": 11.5875,
+          "end": 12.1
+        },
+        {
+          "word": "snapshot",
+          "start": 12.1125,
+          "end": 12.8375
+        }
+      ],
+      "start_offset": 0.0
+    },
+    {
+      "id": "02-immutable-layers",
+      "voice_file": "assets/audio/voice-02.wav",
+      "duration": 14.208,
+      "text": "Under the hood, each instruction produces a compressed tarball tagged with a unique SHA-256 hash. If your source files haven't changed, Docker skips rebuilding entirely, delivering an instant cache hit.",
+      "words": [
+        {
+          "word": "Under",
+          "start": 0.1,
+          "end": 0.35
+        },
+        {
+          "word": "the",
+          "start": 0.3625,
+          "end": 0.45
+        },
+        {
+          "word": "hood",
+          "start": 0.4625,
+          "end": 0.7875
+        },
+        {
+          "word": "each",
+          "start": 1.05,
+          "end": 1.25
+        },
+        {
+          "word": "instruction",
+          "start": 1.2625,
+          "end": 1.8125
+        },
+        {
+          "word": "produces",
+          "start": 1.825,
+          "end": 2.3
+        },
+        {
+          "word": "a",
+          "start": 2.3125,
+          "end": 2.375
+        },
+        {
+          "word": "compressed",
+          "start": 2.3875,
+          "end": 2.9625
+        },
+        {
+          "word": "tarball",
+          "start": 2.975,
+          "end": 3.4
+        },
+        {
+          "word": "tagged",
+          "start": 3.4125,
+          "end": 3.825
+        },
+        {
+          "word": "with",
+          "start": 3.8375,
+          "end": 3.95
+        },
+        {
+          "word": "a",
+          "start": 3.9625,
+          "end": 3.9875
+        },
+        {
+          "word": "unique",
+          "start": 4.0,
+          "end": 4.475
+        },
+        {
+          "word": "SHA-256",
+          "start": 4.4875,
+          "end": 5.9375
+        },
+        {
+          "word": "hash",
+          "start": 5.95,
+          "end": 6.475
+        },
+        {
+          "word": "If",
+          "start": 7.3375,
+          "end": 7.5125
+        },
+        {
+          "word": "your",
+          "start": 7.525,
+          "end": 7.7125
+        },
+        {
+          "word": "source",
+          "start": 7.725,
+          "end": 8.075
+        },
+        {
+          "word": "files",
+          "start": 8.0875,
+          "end": 8.4625
+        },
+        {
+          "word": "haven't",
+          "start": 8.475,
+          "end": 8.7625
+        },
+        {
+          "word": "changed",
+          "start": 8.775,
+          "end": 9.3125
+        },
+        {
+          "word": "Docker",
+          "start": 9.5125,
+          "end": 9.8875
+        },
+        {
+          "word": "skips",
+          "start": 9.9,
+          "end": 10.3
+        },
+        {
+          "word": "rebuilding",
+          "start": 10.3125,
+          "end": 10.85
+        },
+        {
+          "word": "entirely",
+          "start": 10.8625,
+          "end": 11.475
+        },
+        {
+          "word": "delivering",
+          "start": 11.6875,
+          "end": 12.175
+        },
+        {
+          "word": "an",
+          "start": 12.1875,
+          "end": 12.2625
+        },
+        {
+          "word": "instant",
+          "start": 12.275,
+          "end": 12.675
+        },
+        {
+          "word": "cache",
+          "start": 12.6875,
+          "end": 13.0125
+        },
+        {
+          "word": "hit",
+          "start": 13.025,
+          "end": 13.325
+        }
+      ],
+      "start_offset": 13.704
+    },
+    {
+      "id": "03-overlay-unionfs",
+      "voice_file": "assets/audio/voice-03.wav",
+      "duration": 14.088,
+      "text": "To combine these independent layers into a functional filesystem, Docker uses the Overlay2 storage driver. Overlay2 stacks all read-only layers together as LowerDir, presenting them as a single unified tree.",
+      "words": [
+        {
+          "word": "To",
+          "start": 0.1,
+          "end": 0.25
+        },
+        {
+          "word": "combine",
+          "start": 0.2625,
+          "end": 0.725
+        },
+        {
+          "word": "these",
+          "start": 0.7375,
+          "end": 0.9375
+        },
+        {
+          "word": "independent",
+          "start": 0.95,
+          "end": 1.5125
+        },
+        {
+          "word": "layers",
+          "start": 1.525,
+          "end": 1.875
+        },
+        {
+          "word": "into",
+          "start": 1.8875,
+          "end": 2.1
+        },
+        {
+          "word": "a",
+          "start": 2.1125,
+          "end": 2.175
+        },
+        {
+          "word": "functional",
+          "start": 2.1875,
+          "end": 2.65
+        },
+        {
+          "word": "filesystem",
+          "start": 2.6625,
+          "end": 3.425
+        },
+        {
+          "word": "Docker",
+          "start": 3.7,
+          "end": 4.0625
+        },
+        {
+          "word": "uses",
+          "start": 4.075,
+          "end": 4.425
+        },
+        {
+          "word": "the",
+          "start": 4.4375,
+          "end": 4.55
+        },
+        {
+          "word": "Overlay2",
+          "start": 4.5625,
+          "end": 5.2875
+        },
+        {
+          "word": "storage",
+          "start": 5.3,
+          "end": 5.7625
+        },
+        {
+          "word": "driver",
+          "start": 5.775,
+          "end": 6.3
+        },
+        {
+          "word": "Overlay2",
+          "start": 7.1625,
+          "end": 7.925
+        },
+        {
+          "word": "stacks",
+          "start": 7.9375,
+          "end": 8.375
+        },
+        {
+          "word": "all",
+          "start": 8.3875,
+          "end": 8.6375
+        },
+        {
+          "word": "read-only",
+          "start": 8.65,
+          "end": 9.1375
+        },
+        {
+          "word": "layers",
+          "start": 9.15,
+          "end": 9.55
+        },
+        {
+          "word": "together",
+          "start": 9.5625,
+          "end": 10.025
+        },
+        {
+          "word": "as",
+          "start": 10.0375,
+          "end": 10.1875
+        },
+        {
+          "word": "LowerDir",
+          "start": 10.2,
+          "end": 10.725
+        },
+        {
+          "word": "presenting",
+          "start": 11.0125,
+          "end": 11.475
+        },
+        {
+          "word": "them",
+          "start": 11.4875,
+          "end": 11.6625
+        },
+        {
+          "word": "as",
+          "start": 11.675,
+          "end": 11.8
+        },
+        {
+          "word": "a",
+          "start": 11.8125,
+          "end": 11.875
+        },
+        {
+          "word": "single",
+          "start": 11.8875,
+          "end": 12.2625
+        },
+        {
+          "word": "unified",
+          "start": 12.275,
+          "end": 12.8
+        },
+        {
+          "word": "tree",
+          "start": 12.8125,
+          "end": 13.2125
+        }
+      ],
+      "start_offset": 27.912
+    },
+    {
+      "id": "04-container-mount",
+      "voice_file": "assets/audio/voice-04.wav",
+      "duration": 14.424,
+      "text": "When you launch a container, Docker mounts a razor-thin, read-write layer on top called UpperDir. If a process modifies a file, Docker never touches the image. It copies the file up using Copy-on-Write.",
+      "words": [
+        {
+          "word": "When",
+          "start": 0.1,
+          "end": 0.2625
+        },
+        {
+          "word": "you",
+          "start": 0.275,
+          "end": 0.3875
+        },
+        {
+          "word": "launch",
+          "start": 0.4,
+          "end": 0.6625
+        },
+        {
+          "word": "a",
+          "start": 0.675,
+          "end": 0.7375
+        },
+        {
+          "word": "container",
+          "start": 0.75,
+          "end": 1.2875
+        },
+        {
+          "word": "Docker",
+          "start": 1.525,
+          "end": 1.85
+        },
+        {
+          "word": "mounts",
+          "start": 1.8625,
+          "end": 2.1375
+        },
+        {
+          "word": "a",
+          "start": 2.15,
+          "end": 2.2
+        },
+        {
+          "word": "razor-thin",
+          "start": 2.2125,
+          "end": 2.925
+        },
+        {
+          "word": "read-write",
+          "start": 3.225,
+          "end": 3.7375
+        },
+        {
+          "word": "layer",
+          "start": 3.75,
+          "end": 4.1
+        },
+        {
+          "word": "on",
+          "start": 4.1125,
+          "end": 4.25
+        },
+        {
+          "word": "top",
+          "start": 4.2625,
+          "end": 4.6
+        },
+        {
+          "word": "called",
+          "start": 4.6125,
+          "end": 4.925
+        },
+        {
+          "word": "UpperDir",
+          "start": 4.9375,
+          "end": 5.525
+        },
+        {
+          "word": "If",
+          "start": 6.3875,
+          "end": 6.55
+        },
+        {
+          "word": "a",
+          "start": 6.5625,
+          "end": 6.6375
+        },
+        {
+          "word": "process",
+          "start": 6.65,
+          "end": 7.1375
+        },
+        {
+          "word": "modifies",
+          "start": 7.15,
+          "end": 7.7125
+        },
+        {
+          "word": "a",
+          "start": 7.725,
+          "end": 7.7875
+        },
+        {
+          "word": "file",
+          "start": 7.8,
+          "end": 8.2375
+        },
+        {
+          "word": "Docker",
+          "start": 8.4875,
+          "end": 8.8125
+        },
+        {
+          "word": "never",
+          "start": 8.825,
+          "end": 9.1
+        },
+        {
+          "word": "touches",
+          "start": 9.1125,
+          "end": 9.525
+        },
+        {
+          "word": "the",
+          "start": 9.5375,
+          "end": 9.6375
+        },
+        {
+          "word": "image",
+          "start": 9.65,
+          "end": 10.15
+        },
+        {
+          "word": "It",
+          "start": 11.0125,
+          "end": 11.1875
+        },
+        {
+          "word": "copies",
+          "start": 11.2,
+          "end": 11.625
+        },
+        {
+          "word": "the",
+          "start": 11.6375,
+          "end": 11.7375
+        },
+        {
+          "word": "file",
+          "start": 11.75,
+          "end": 12.1125
+        },
+        {
+          "word": "up",
+          "start": 12.125,
+          "end": 12.2625
+        },
+        {
+          "word": "using",
+          "start": 12.275,
+          "end": 12.625
+        },
+        {
+          "word": "Copy-on-Write",
+          "start": 12.6375,
+          "end": 13.5625
+        }
+      ],
+      "start_offset": 42.0
+    },
+    {
+      "id": "05-summary-recap",
+      "voice_file": "assets/audio/voice-05.wav",
+      "duration": 12.288,
+      "text": "This means dozens of running containers can share the exact same base image without duplicating a single megabyte. Fast builds, zero wasted storage, and bulletproof isolation.",
+      "words": [
+        {
+          "word": "This",
+          "start": 0.1,
+          "end": 0.375
+        },
+        {
+          "word": "means",
+          "start": 0.3875,
+          "end": 0.7125
+        },
+        {
+          "word": "dozens",
+          "start": 0.725,
+          "end": 1.1375
+        },
+        {
+          "word": "of",
+          "start": 1.15,
+          "end": 1.25
+        },
+        {
+          "word": "running",
+          "start": 1.2625,
+          "end": 1.525
+        },
+        {
+          "word": "containers",
+          "start": 1.5375,
+          "end": 2.1
+        },
+        {
+          "word": "can",
+          "start": 2.1125,
+          "end": 2.2625
+        },
+        {
+          "word": "share",
+          "start": 2.275,
+          "end": 2.575
+        },
+        {
+          "word": "the",
+          "start": 2.5875,
+          "end": 2.65
+        },
+        {
+          "word": "exact",
+          "start": 2.6625,
+          "end": 3.2
+        },
+        {
+          "word": "same",
+          "start": 3.2125,
+          "end": 3.5125
+        },
+        {
+          "word": "base",
+          "start": 3.525,
+          "end": 3.8125
+        },
+        {
+          "word": "image",
+          "start": 3.825,
+          "end": 4.2
+        },
+        {
+          "word": "without",
+          "start": 4.2125,
+          "end": 4.5375
+        },
+        {
+          "word": "duplicating",
+          "start": 4.55,
+          "end": 5.15
+        },
+        {
+          "word": "a",
+          "start": 5.1625,
+          "end": 5.2125
+        },
+        {
+          "word": "single",
+          "start": 5.225,
+          "end": 5.6
+        },
+        {
+          "word": "megabyte",
+          "start": 5.6125,
+          "end": 6.1875
+        },
+        {
+          "word": "Fast",
+          "start": 7.05,
+          "end": 7.525
+        },
+        {
+          "word": "builds",
+          "start": 7.5375,
+          "end": 8.0125
+        },
+        {
+          "word": "zero",
+          "start": 8.25,
+          "end": 8.6375
+        },
+        {
+          "word": "wasted",
+          "start": 8.65,
+          "end": 9.1
+        },
+        {
+          "word": "storage",
+          "start": 9.1125,
+          "end": 9.65
+        },
+        {
+          "word": "and",
+          "start": 9.85,
+          "end": 10.0
+        },
+        {
+          "word": "bulletproof",
+          "start": 10.0125,
+          "end": 10.6125
+        },
+        {
+          "word": "isolation",
+          "start": 10.625,
+          "end": 11.425
+        }
+      ],
+      "start_offset": 56.424
+    }
+  ]
+}

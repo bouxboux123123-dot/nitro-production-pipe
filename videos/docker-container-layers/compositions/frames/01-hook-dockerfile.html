@@ -1,0 +1,256 @@
+<template id="01-hook-dockerfile-template">
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+
+<style>
+  @font-face {
+    font-family: 'Inter';
+    src: url('assets/fonts/Inter-700.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: block;
+  }
+  @font-face {
+    font-family: 'JetBrains Mono';
+    src: url('assets/fonts/JetBrainsMono-700.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: block;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  #root-01 {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Floating container in upper/middle two-thirds */
+  .floating-card {
+    position: absolute;
+    top: 200px;
+    width: 960px;
+    background: rgba(13, 17, 23, 0.94);
+    border: 2px solid rgba(56, 189, 248, 0.35);
+    border-radius: 28px;
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.8), 0 0 35px rgba(0, 229, 255, 0.15);
+    backdrop-filter: blur(20px);
+    overflow: hidden;
+    padding: 36px 40px;
+    opacity: 0;
+  }
+
+  .window-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 24px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    margin-bottom: 28px;
+  }
+
+  .window-dots {
+    display: flex;
+    gap: 12px;
+  }
+
+  .dot {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+  }
+  .dot-red { background: #ff5f56; }
+  .dot-yellow { background: #ffbd2e; }
+  .dot-green { background: #27c93f; }
+
+  .window-title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 24px;
+    font-weight: 700;
+    color: #79c0ff;
+    letter-spacing: 0.05em;
+  }
+
+  .badge-tag {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #00e5ff;
+    background: rgba(0, 229, 255, 0.12);
+    border: 1px solid rgba(0, 229, 255, 0.4);
+    padding: 6px 16px;
+    border-radius: 12px;
+  }
+
+  .hook-title {
+    font-family: 'Inter', sans-serif;
+    font-size: 38px;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 1.25;
+    margin-bottom: 28px;
+  }
+
+  .hook-highlight {
+    color: #00e5ff;
+  }
+
+  /* Code snippet block */
+  .code-editor {
+    background: rgba(22, 27, 34, 0.95);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 18px;
+    padding: 24px 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .code-row {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 26px;
+    line-height: 1.4;
+    opacity: 0;
+  }
+
+  .ln {
+    color: #8b949e;
+    width: 32px;
+    text-align: right;
+    user-select: none;
+  }
+
+  .keyword {
+    color: #ff7b72;
+    font-weight: 700;
+  }
+
+  .param {
+    color: #a5d6ff;
+  }
+
+  .layer-tag {
+    margin-left: auto;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #38bdf8;
+    background: rgba(56, 189, 248, 0.15);
+    padding: 4px 12px;
+    border-radius: 8px;
+    border: 1px solid rgba(56, 189, 248, 0.3);
+  }
+
+  .floating-footer-banner {
+    margin-top: 28px;
+    background: rgba(0, 229, 255, 0.08);
+    border: 1px solid rgba(0, 229, 255, 0.35);
+    border-radius: 16px;
+    padding: 18px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    opacity: 0;
+  }
+
+  .banner-icon {
+    font-size: 28px;
+  }
+
+  .banner-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #e6edf3;
+  }
+  .banner-text strong {
+    color: #00e5ff;
+  }
+</style>
+
+<div id="root-01" data-composition-id="01-hook-dockerfile" data-width="1080" data-height="1920">
+  <div id="card-01" class="floating-card">
+    <div class="window-header">
+      <div class="window-dots">
+        <div class="dot dot-red"></div>
+        <div class="dot dot-yellow"></div>
+        <div class="dot dot-green"></div>
+      </div>
+      <div class="window-title">Dockerfile</div>
+      <div class="badge-tag">STEP-BY-STEP</div>
+    </div>
+
+    <div class="hook-title">
+      HOW DOCKER BUILDS IN <span class="hook-highlight">SECONDS</span>
+    </div>
+
+    <div class="code-editor">
+      <div id="code-l1" class="code-row">
+        <span class="ln">1</span>
+        <span><span class="keyword">FROM</span> <span class="param">python:3.11-slim</span></span>
+        <span class="layer-tag">LAYER 1 · READ-ONLY</span>
+      </div>
+      <div id="code-l2" class="code-row">
+        <span class="ln">2</span>
+        <span><span class="keyword">WORKDIR</span> <span class="param">/app</span></span>
+        <span class="layer-tag">LAYER 2 · READ-ONLY</span>
+      </div>
+      <div id="code-l3" class="code-row">
+        <span class="ln">3</span>
+        <span><span class="keyword">COPY</span> <span class="param">requirements.txt .</span></span>
+        <span class="layer-tag">LAYER 3 · READ-ONLY</span>
+      </div>
+      <div id="code-l4" class="code-row">
+        <span class="ln">4</span>
+        <span><span class="keyword">RUN</span> <span class="param">pip install -r req.txt</span></span>
+        <span class="layer-tag">LAYER 4 · READ-ONLY</span>
+      </div>
+      <div id="code-l5" class="code-row">
+        <span class="ln">5</span>
+        <span><span class="keyword">COPY</span> <span class="param">. .</span></span>
+        <span class="layer-tag">LAYER 5 · READ-ONLY</span>
+      </div>
+    </div>
+
+    <div id="footer-banner-01" class="floating-footer-banner">
+      <span class="banner-icon">⚡</span>
+      <span class="banner-text">Each line builds an <strong>immutable, cached filesystem snapshot</strong></span>
+    </div>
+  </div>
+</div>
+
+<script>
+  window.__timelines = window.__timelines || {};
+  const tl = gsap.timeline({ paused: true });
+  window.__timelines["01-hook-dockerfile"] = tl;
+
+  // Window appears on hook
+  tl.fromTo("#card-01", 
+    { opacity: 0, y: 40, scale: 0.95 },
+    { opacity: 1, y: 0, scale: 1, duration: 0.6, ease: "power3.out" },
+    0.2
+  );
+
+  // Progressive reveal cued to voiceover lines
+  tl.fromTo("#code-l1", { opacity: 0, x: -20 }, { opacity: 1, x: 0, duration: 0.4 }, 3.5);
+  tl.fromTo("#code-l2", { opacity: 0, x: -20 }, { opacity: 1, x: 0, duration: 0.4 }, 5.2);
+  tl.fromTo("#code-l3", { opacity: 0, x: -20 }, { opacity: 1, x: 0, duration: 0.4 }, 6.8);
+  tl.fromTo("#code-l4", { opacity: 0, x: -20 }, { opacity: 1, x: 0, duration: 0.4 }, 8.4);
+  tl.fromTo("#code-l5", { opacity: 0, x: -20 }, { opacity: 1, x: 0, duration: 0.4 }, 10.0);
+
+  // Banner lands as narrator emphasizes read-only snapshot
+  tl.fromTo("#footer-banner-01",
+    { opacity: 0, y: 15 },
+    { opacity: 1, y: 0, duration: 0.5, ease: "back.out(1.5)" },
+    11.2
+  );
+</script>
+</template>
