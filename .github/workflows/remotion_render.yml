@@ -1,0 +1,64 @@
+name: Remotion Cloud Render
+
+on:
+  workflow_dispatch:
+    inputs:
+      composition:
+        description: 'Remotion Composition ID to render'
+        required: true
+        default: 'PythonStackReel'
+      concurrency:
+        description: 'Rendering Concurrency (CPU cores)'
+        required: false
+        default: '2'
+      output_filename:
+        description: 'Output MP4 filename (without extension)'
+        required: false
+        default: 'python-stack-reel'
+  push:
+    paths:
+      - 'flick-output/remotion/src/**'
+
+jobs:
+  render-remotion:
+    name: Render Remotion Reel
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+          cache-dependency-path: 'flick-output/remotion/package-lock.json'
+
+      - name: Install System Dependencies (FFmpeg & Chrome libs)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxrandr2 libgbm1 libasound2t64
+
+      - name: Install Remotion Dependencies
+        working-directory: flick-output/remotion
+        run: |
+          npm ci || npm install
+
+      - name: Render Remotion Reel
+        working-directory: flick-output/remotion
+        run: |
+          COMPOSITION="${{ github.event.inputs.composition || 'PythonStackReel' }}"
+          CONCURRENCY="${{ github.event.inputs.concurrency || '2' }}"
+          OUTPUT_NAME="${{ github.event.inputs.output_filename || 'python-stack-reel' }}"
+
+          mkdir -p out
+          echo "=== Starting Remotion Cloud Render: $COMPOSITION (concurrency: $CONCURRENCY) ==="
+          npx remotion render src/index.tsx "$COMPOSITION" "out/${OUTPUT_NAME}.mp4" --concurrency="$CONCURRENCY"
+
+      - name: Upload Rendered Video Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: remotion-rendered-reel
+          path: flick-output/remotion/out/*.mp4
+          retention-days: 14

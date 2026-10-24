@@ -1,0 +1,7 @@
+{
+  "name": "nitro-production-pipe",
+  "version": "1.0.0",
+  "dependencies": {
+    "@lucasmarkes/hairline": "^0.5.1"
+  }
+}
