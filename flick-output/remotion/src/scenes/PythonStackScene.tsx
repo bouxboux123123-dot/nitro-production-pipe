@@ -2,6 +2,7 @@ import React, { useMemo } from 'react';
 import {
   AbsoluteFill,
   Audio,
+  Sequence,
   Video,
   staticFile,
   useCurrentFrame,
@@ -99,18 +100,19 @@ export const PythonStackScene: React.FC = () => {
   const bgBlur = interpolate(t, [25.5, 28.5], [0, 8], { extrapolateRight: 'clamp' });
 
   // -------------------------------------------------------------
-  // CAMERA SHAKE (2D) & 1-FRAME FLASH
+  // CAMERA SHAKE (2D) & TIGHTENED FLASH
   // -------------------------------------------------------------
   const isCrashing = t >= 14.2 && t <= 16.5;
   const shakeX = isCrashing ? Math.sin(frame * 1.9) * 24 * (1 - (t - 14.2) / 2.3) : 0;
   const shakeY = isCrashing ? Math.cos(frame * 2.3) * 18 * (1 - (t - 14.2) / 2.3) : 0;
 
-  const crashFlash = interpolate(t, [14.26, 14.30, 14.50], [0, 0.95, 0], {
+  // Punchy 2-frame flash capped at 0.45 opacity (non-blinding)
+  const crashFlash = interpolate(t, [14.26, 14.29, 14.36], [0, 0.45, 0], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
   });
 
-  // V2: CHROMATIC ABERRATION (Drop-shadow color split on crash)
+  // V2: CHROMATIC ABERRATION
   const aberration = interpolate(t, [14.26, 14.35, 16.5], [0, 10, 0], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
@@ -179,7 +181,7 @@ export const PythonStackScene: React.FC = () => {
   // -------------------------------------------------------------
   const act3Entry = spring({ frame: frame - f(18.8), fps, config: { damping: 13, stiffness: 140 } });
   const act3ExitX = interpolate(t, [23.6, 24.0], [0, -1300], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
-  const dividerHeight = interpolate(t, [18.8, 19.3], [0, 680], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const dividerHeight = interpolate(t, [18.8, 19.3], [0, 650], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   // V6: Letter-by-letter code typing
   const codeLines = [
@@ -216,7 +218,7 @@ export const PythonStackScene: React.FC = () => {
     easing: (x) => 1 - Math.pow(1 - x, 3),
   });
 
-  // V13: POLAROID CHAPTER STICKERS (at act boundaries)
+  // V13: POLAROID CHAPTER STICKERS (Shifted down to top: 86px to prevent header overlap)
   const polaroidInfo = useMemo(() => {
     if (t >= 5.8 && t < 6.8) return { num: 'ACT 01', title: 'Call Stack Allocation', time: '05.8s' };
     if (t >= 12.5 && t < 13.5) return { num: 'ACT 02', title: 'Fatal Limit 1,000', time: '12.5s' };
@@ -281,7 +283,7 @@ export const PythonStackScene: React.FC = () => {
         />
       )}
 
-      {/* 1-FRAME WHITE FLASH ON CRASH */}
+      {/* 2-FRAME CONTROLLED FLASH ON CRASH (Non-blinding) */}
       {crashFlash > 0 && (
         <div
           style={{
@@ -404,12 +406,12 @@ export const PythonStackScene: React.FC = () => {
         </span>
       </div>
 
-      {/* V13: POLAROID CHAPTER STICKER (Slides in on act boundary) */}
+      {/* V13: POLAROID CHAPTER STICKER (Positioned safely at top: 86px) */}
       {polaroidInfo && (
         <div
           style={{
             position: 'absolute',
-            top: 26,
+            top: 86,
             right: 40,
             transform: `translateX(${(1 - polaroidSlide) * 350}px) rotate(3deg)`,
             background: '#faf6ee',
@@ -836,7 +838,7 @@ export const PythonStackScene: React.FC = () => {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              paddingTop: 100,
+              paddingTop: 90,
               transform: `translateX(${act3ExitX}px) scale(${act3Entry}) rotateY(${act3Tilt}deg)`,
             }}
           >
@@ -857,11 +859,11 @@ export const PythonStackScene: React.FC = () => {
               THE ITERATIVE SOLUTION
             </div>
 
-            {/* V12 A/B Split Screen Layout */}
+            {/* V12 A/B Split Screen Layout (Expanded to 650px) */}
             <div
               style={{
                 width: 980,
-                height: 520,
+                height: 650,
                 display: 'flex',
                 position: 'relative',
                 background: 'rgba(17, 17, 27, 0.94)',
@@ -876,25 +878,25 @@ export const PythonStackScene: React.FC = () => {
               <div
                 style={{
                   flex: 1,
-                  padding: '24px 28px',
+                  padding: '28px 30px',
                   display: 'flex',
                   flexDirection: 'column',
-                  gap: 12,
-                  background: 'rgba(20, 20, 30, 0.85)',
+                  gap: 14,
+                  background: 'rgba(20, 20, 30, 0.88)',
                   filter: 'grayscale(0.65)',
                   borderRight: '2px solid rgba(255, 255, 255, 0.1)',
                 }}
               >
-                <div style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#f38ba8', fontWeight: 900, fontSize: 18 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#f38ba8', fontWeight: 900, fontSize: 20 }}>
                   <span>🛑 BEFORE</span>
-                  <span style={{ fontSize: 13, background: 'rgba(243,139,168,0.2)', padding: '2px 8px', borderRadius: 6 }}>CRASHES</span>
+                  <span style={{ fontSize: 13, background: 'rgba(243,139,168,0.25)', padding: '3px 10px', borderRadius: 8 }}>CRASHES</span>
                 </div>
-                <div style={{ fontFamily: 'monospace', fontSize: 19, lineHeight: 1.5, color: '#a6adc8' }}>
-                  <div style={{ color: '#f38ba8' }}>def recurse(node):</div>
-                  <div style={{ paddingLeft: 20 }}>if not node: return</div>
-                  <div style={{ paddingLeft: 20, color: '#f38ba8' }}>recurse(node.next)</div>
+                <div style={{ fontFamily: 'monospace', fontSize: 20, lineHeight: 1.6, color: '#a6adc8' }}>
+                  <div style={{ color: '#f38ba8', fontWeight: 800 }}>def recurse(node):</div>
+                  <div style={{ paddingLeft: 22 }}>if not node: return</div>
+                  <div style={{ paddingLeft: 22, color: '#f38ba8' }}>recurse(node.next)</div>
                 </div>
-                <div style={{ marginTop: 'auto', background: 'rgba(243,139,168,0.15)', border: '1px solid #f38ba8', borderRadius: 10, padding: '8px 12px', fontSize: 14, color: '#f38ba8', fontWeight: 700 }}>
+                <div style={{ marginTop: 'auto', background: 'rgba(243,139,168,0.18)', border: '1.5px solid #f38ba8', borderRadius: 12, padding: '12px 16px', fontSize: 15, color: '#f38ba8', fontWeight: 800 }}>
                   ⚠️ Exhausts 1,000 stack frames
                 </div>
               </div>
@@ -917,19 +919,19 @@ export const PythonStackScene: React.FC = () => {
               <div
                 style={{
                   flex: 1,
-                  padding: '24px 28px',
+                  padding: '28px 30px',
                   display: 'flex',
                   flexDirection: 'column',
-                  gap: 12,
+                  gap: 14,
                   background: 'rgba(17, 25, 22, 0.95)',
                 }}
               >
-                <div style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#a6e3a1', fontWeight: 900, fontSize: 18 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#a6e3a1', fontWeight: 900, fontSize: 20 }}>
                   <span>✅ AFTER</span>
-                  <span style={{ fontSize: 13, background: 'rgba(166,227,161,0.2)', padding: '2px 8px', borderRadius: 6 }}>HEAP O(1)</span>
+                  <span style={{ fontSize: 13, background: 'rgba(166,227,161,0.25)', padding: '3px 10px', borderRadius: 8 }}>HEAP O(1)</span>
                 </div>
 
-                <div style={{ fontFamily: 'monospace', fontSize: 19, lineHeight: 1.5, color: '#cdd6f4' }}>
+                <div style={{ fontFamily: 'monospace', fontSize: 20, lineHeight: 1.6, color: '#cdd6f4' }}>
                   <div style={{ color: '#a6e3a1', fontWeight: 800 }}>
                     {getTypedChars(0, 19.0)}
                     {t >= 19.0 && t < 19.5 && cursorBlink && ' █'}
@@ -942,17 +944,17 @@ export const PythonStackScene: React.FC = () => {
                     {getTypedChars(2, 19.8)}
                     {t >= 19.8 && t < 20.3 && cursorBlink && ' █'}
                   </div>
-                  <div style={{ paddingLeft: 20, color: '#fab387' }}>
+                  <div style={{ paddingLeft: 22, color: '#fab387' }}>
                     {getTypedChars(3, 20.2)}
                     {t >= 20.2 && t < 20.7 && cursorBlink && ' █'}
                   </div>
-                  <div style={{ paddingLeft: 20, color: '#a6e3a1' }}>
+                  <div style={{ paddingLeft: 22, color: '#a6e3a1' }}>
                     {getTypedChars(4, 20.6)}
                     {t >= 20.6 && cursorBlink && ' █'}
                   </div>
                 </div>
 
-                <div style={{ marginTop: 'auto', background: 'rgba(166,227,161,0.15)', border: '1px solid #a6e3a1', borderRadius: 10, padding: '8px 12px', fontSize: 14, color: '#a6e3a1', fontWeight: 700 }}>
+                <div style={{ marginTop: 'auto', background: 'rgba(166,227,161,0.18)', border: '1.5px solid #a6e3a1', borderRadius: 12, padding: '12px 16px', fontSize: 15, color: '#a6e3a1', fontWeight: 800 }}>
                   🚀 Unlimited memory in heap
                 </div>
               </div>
@@ -961,7 +963,7 @@ export const PythonStackScene: React.FC = () => {
             {/* Benefit Badge */}
             <div
               style={{
-                background: 'rgba(24, 24, 37, 0.9)',
+                background: 'rgba(24, 24, 37, 0.92)',
                 border: '2px solid rgba(166, 227, 161, 0.4)',
                 borderRadius: 20,
                 padding: '14px 34px',
@@ -1097,7 +1099,7 @@ export const PythonStackScene: React.FC = () => {
         )}
       </div>
 
-      {/* ---------------- LAYER 2: V10 WORD KARAOKE SUBTITLES WITH GLOW RIPPLE ---------------- */}
+      {/* ---------------- LAYER 2: V10 SUBTITLES WITH EXPLICIT WORD MARGIN ---------------- */}
       <div
         style={{
           position: 'absolute',
@@ -1118,7 +1120,6 @@ export const PythonStackScene: React.FC = () => {
             flexWrap: 'wrap',
             justifyContent: 'center',
             alignItems: 'center',
-            gap: '12px 20px',
             maxWidth: 1000,
           }}
         >
@@ -1136,6 +1137,7 @@ export const PythonStackScene: React.FC = () => {
                   fontSize: isCurrent ? 56 : 48,
                   letterSpacing: '0.04em',
                   textTransform: 'uppercase',
+                  marginRight: 16, // Explicit margin to prevent mashed words!
                   color: isHighlight
                     ? '#00e5ff'
                     : isCurrent
@@ -1170,138 +1172,191 @@ export const PythonStackScene: React.FC = () => {
         </div>
       </div>
 
-      {/* ---------------- LAYER 3: FRAME-PRECISE SFX AUDIO NODES ---------------- */}
-      {/* Primary Voiceover */}
+      {/* ---------------- LAYER 3: EARSHOT SFX (ALL WRAPPED IN <Sequence>) ---------------- */}
+      {/* Primary Voiceover Narration */}
       <Audio src={staticFile('full-dialogue.mp3')} />
 
-      {/* S1: energy.MP3 (Hook headline slam at 0.0s) */}
-      {t < 0.8 && (
-        <Audio src={staticFile('sounds/energy.MP3')} volume={0.65} />
-      )}
+      {/* Hook: Glitch & Thump Opener at 0.0s */}
+      <Sequence from={f(0.0)} durationInFrames={f(0.35)}>
+        <Audio src={staticFile('sounds/thump_whoosh.wav')} volume={0.8} />
+      </Sequence>
+      <Sequence from={f(0.0)} durationInFrames={f(0.25)}>
+        <Audio src={staticFile('sounds/glitch.wav')} volume={0.65} />
+      </Sequence>
 
-      {/* S2: Impact.mp3 (RecursionError tag drop at 2.6s) */}
-      {t >= 2.6 && t < 4.7 && (
-        <Audio src={staticFile('sounds/Impact.mp3')} volume={0.55} />
-      )}
+      {/* Hook: RecursionError Impact Drop at 2.6s */}
+      <Sequence from={f(2.6)} durationInFrames={f(0.5)}>
+        <Audio src={staticFile('sounds/impact.wav')} volume={0.85} />
+      </Sequence>
+      <Sequence from={f(2.6)} durationInFrames={f(0.4)}>
+        <Audio src={staticFile('sounds/sub_drop.wav')} volume={0.7} />
+      </Sequence>
 
-      {/* Subtext transition at 4.4s */}
-      {t >= 4.4 && t < 4.9 && (
-        <Audio src={staticFile('sounds/transitions.mp3')} volume={0.28} />
-      )}
+      {/* Hook: Subtext Swish at 4.4s */}
+      <Sequence from={f(4.4)} durationInFrames={f(0.25)}>
+        <Audio src={staticFile('sounds/swish.wav')} volume={0.5} />
+      </Sequence>
 
-      {/* S11: Zoomin-OR-out.mp3 (Act 1 badge & title entry at 5.8s) */}
-      {t >= 5.8 && t < 6.5 && (
-        <Audio src={staticFile('sounds/Zoomin-OR-out.mp3')} volume={0.4} />
-      )}
+      {/* Act 1: Polaroid Shutter & Fast Whoosh at 5.8s */}
+      <Sequence from={f(5.8)} durationInFrames={f(0.2)}>
+        <Audio src={staticFile('sounds/shutter.wav')} volume={0.7} />
+      </Sequence>
+      <Sequence from={f(5.8)} durationInFrames={f(0.3)}>
+        <Audio src={staticFile('sounds/whoosh_fast.wav')} volume={0.6} />
+      </Sequence>
 
-      {/* S3: Pop.mp3 x 3 (Act 1 Tooltip Badges) */}
-      {t >= 7.2 && t < 8.3 && (
-        <Audio src={staticFile('sounds/Pop.mp3')} volume={0.55} />
-      )}
-      {t >= 9.2 && t < 10.3 && (
-        <Audio src={staticFile('sounds/Pop.mp3')} volume={0.55} />
-      )}
-      {t >= 10.6 && t < 11.7 && (
-        <Audio src={staticFile('sounds/Pop.mp3')} volume={0.55} />
-      )}
+      {/* Act 1: Hairline 3D Stack Lifting Ticks */}
+      <Sequence from={f(6.3)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.5} />
+      </Sequence>
+      <Sequence from={f(6.7)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.5} />
+      </Sequence>
+      <Sequence from={f(7.0)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.5} />
+      </Sequence>
 
-      {/* S8: snap.wav (Act 1 Takeaway pill at 11.5s) */}
-      {t >= 11.5 && t < 12.0 && (
-        <Audio src={staticFile('sounds/snap.wav')} volume={0.45} />
-      )}
+      {/* Act 1: Tooltip Badges (Pops) at 7.2s, 9.2s, 10.6s */}
+      <Sequence from={f(7.2)} durationInFrames={f(0.1)}>
+        <Audio src={staticFile('sounds/pop.wav')} volume={0.75} />
+      </Sequence>
+      <Sequence from={f(9.2)} durationInFrames={f(0.1)}>
+        <Audio src={staticFile('sounds/pop.wav')} volume={0.75} />
+      </Sequence>
+      <Sequence from={f(10.6)} durationInFrames={f(0.1)}>
+        <Audio src={staticFile('sounds/pop.wav')} volume={0.75} />
+      </Sequence>
 
-      {/* S11: Act 1 collapse exit whoosh at 12.2s */}
-      {t >= 12.2 && t < 12.8 && (
-        <Audio src={staticFile('sounds/Zoomin-OR-out.mp3')} volume={0.35} />
-      )}
+      {/* Act 1: Takeaway Pill Toggle at 11.5s */}
+      <Sequence from={f(11.5)} durationInFrames={f(0.12)}>
+        <Audio src={staticFile('sounds/toggle.wav')} volume={0.65} />
+      </Sequence>
 
-      {/* S6: Popups.mp3 (Act 2 badge entry at 12.5s) */}
-      {t >= 12.5 && t < 13.5 && (
-        <Audio src={staticFile('sounds/Popups.mp3')} volume={0.35} />
-      )}
+      {/* Act 1: Collapse Exit Whoosh at 12.2s */}
+      <Sequence from={f(12.2)} durationInFrames={f(0.3)}>
+        <Audio src={staticFile('sounds/whoosh_fast.wav')} volume={0.55} />
+      </Sequence>
 
-      {/* S4: tick_riser.wav (Accelerating geiger-counter ticks under counter: 12.6s - 14.2s) */}
-      {t >= 12.6 && t < 14.3 && (
-        <Audio src={staticFile('sounds/tick_riser.wav')} volume={0.35} />
-      )}
+      {/* Act 2: Polaroid Shutter & Thump Whoosh Entry at 12.5s */}
+      <Sequence from={f(12.5)} durationInFrames={f(0.2)}>
+        <Audio src={staticFile('sounds/shutter.wav')} volume={0.7} />
+      </Sequence>
+      <Sequence from={f(12.5)} durationInFrames={f(0.35)}>
+        <Audio src={staticFile('sounds/thump_whoosh.wav')} volume={0.75} />
+      </Sequence>
 
-      {/* S5: Impact.mp3 @ 0.85 (CRASH MOMENT at 14.2s) */}
-      {t >= 14.2 && t < 16.3 && (
-        <Audio src={staticFile('sounds/Impact.mp3')} volume={0.85} />
-      )}
+      {/* Act 2: Accelerating Depth Counter Ticks (12.6s - 14.1s) */}
+      <Sequence from={f(12.7)} durationInFrames={f(0.06)}>
+        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.4} />
+      </Sequence>
+      <Sequence from={f(13.1)} durationInFrames={f(0.06)}>
+        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.45} />
+      </Sequence>
+      <Sequence from={f(13.4)} durationInFrames={f(0.06)}>
+        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.5} />
+      </Sequence>
+      <Sequence from={f(13.7)} durationInFrames={f(0.06)}>
+        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.55} />
+      </Sequence>
+      <Sequence from={f(13.9)} durationInFrames={f(0.06)}>
+        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.6} />
+      </Sequence>
+      <Sequence from={f(14.05)} durationInFrames={f(0.06)}>
+        <Audio src={staticFile('sounds/hover_tick.wav')} volume={0.65} />
+      </Sequence>
 
-      {/* S6: Popups.mp3 (Fatal Error modal slam at 14.3s) */}
-      {t >= 14.3 && t < 15.3 && (
-        <Audio src={staticFile('sounds/Popups.mp3')} volume={0.55} />
-      )}
+      {/* Act 2: FATAL CRASH MOMENT at 14.2s (Impact + Sub Drop + Glitch) */}
+      <Sequence from={f(14.2)} durationInFrames={f(0.6)}>
+        <Audio src={staticFile('sounds/impact.wav')} volume={1.0} />
+      </Sequence>
+      <Sequence from={f(14.2)} durationInFrames={f(0.5)}>
+        <Audio src={staticFile('sounds/sub_drop.wav')} volume={0.95} />
+      </Sequence>
+      <Sequence from={f(14.2)} durationInFrames={f(0.3)}>
+        <Audio src={staticFile('sounds/glitch.wav')} volume={0.75} />
+      </Sequence>
 
-      {/* S11: Act 2 exit whoosh at 18.5s */}
-      {t >= 18.5 && t < 19.1 && (
-        <Audio src={staticFile('sounds/Zoomin-OR-out.mp3')} volume={0.4} />
-      )}
+      {/* Act 2: Error Modal Pop at 14.3s */}
+      <Sequence from={f(14.35)} durationInFrames={f(0.12)}>
+        <Audio src={staticFile('sounds/pop.wav')} volume={0.7} />
+      </Sequence>
 
-      {/* S11: Act 3 entry transition at 18.8s */}
-      {t >= 18.8 && t < 19.4 && (
-        <Audio src={staticFile('sounds/transitions.mp3')} volume={0.38} />
-      )}
+      {/* Act 2: Exit Whoosh at 18.5s */}
+      <Sequence from={f(18.5)} durationInFrames={f(0.3)}>
+        <Audio src={staticFile('sounds/whoosh_fast.wav')} volume={0.6} />
+      </Sequence>
 
-      {/* S7: Click.mp3 x 5 (Deque Code Lines typing in Act 3) */}
-      {t >= 19.0 && t < 19.38 && (
-        <Audio src={staticFile('sounds/Click.mp3')} volume={0.32} />
-      )}
-      {t >= 19.4 && t < 19.78 && (
-        <Audio src={staticFile('sounds/Click.mp3')} volume={0.32} />
-      )}
-      {t >= 19.8 && t < 20.18 && (
-        <Audio src={staticFile('sounds/Click.mp3')} volume={0.32} />
-      )}
-      {t >= 20.2 && t < 20.58 && (
-        <Audio src={staticFile('sounds/Click.mp3')} volume={0.32} />
-      )}
-      {t >= 20.6 && t < 20.98 && (
-        <Audio src={staticFile('sounds/Click.mp3')} volume={0.32} />
-      )}
+      {/* Act 3: Polaroid Shutter & Swish Divider at 18.8s */}
+      <Sequence from={f(18.8)} durationInFrames={f(0.2)}>
+        <Audio src={staticFile('sounds/shutter.wav')} volume={0.7} />
+      </Sequence>
+      <Sequence from={f(18.8)} durationInFrames={f(0.25)}>
+        <Audio src={staticFile('sounds/swish.wav')} volume={0.6} />
+      </Sequence>
 
-      {/* S8: snap.wav (Benefit badge latch at 22.5s) */}
-      {t >= 22.5 && t < 23.0 && (
-        <Audio src={staticFile('sounds/snap.wav')} volume={0.5} />
-      )}
+      {/* Act 3: Keypress Taps on Code Lines */}
+      <Sequence from={f(19.0)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
+      </Sequence>
+      <Sequence from={f(19.4)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
+      </Sequence>
+      <Sequence from={f(19.8)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
+      </Sequence>
+      <Sequence from={f(20.2)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
+      </Sequence>
+      <Sequence from={f(20.6)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/keypress.wav')} volume={0.6} />
+      </Sequence>
 
-      {/* S11: Act 3 exit whoosh at 23.7s */}
-      {t >= 23.7 && t < 24.3 && (
-        <Audio src={staticFile('sounds/Zoomin-OR-out.mp3')} volume={0.38} />
-      )}
+      {/* Act 3: Benefit Latch Toggle at 22.5s */}
+      <Sequence from={f(22.5)} durationInFrames={f(0.12)}>
+        <Audio src={staticFile('sounds/toggle.wav')} volume={0.7} />
+      </Sequence>
 
-      {/* S1: energy.MP3 (Act 4 Victory slam at 24.0s) */}
-      {t >= 24.0 && t < 24.8 && (
-        <Audio src={staticFile('sounds/energy.MP3')} volume={0.6} />
-      )}
+      {/* Act 3: Exit Whoosh at 23.7s */}
+      <Sequence from={f(23.7)} durationInFrames={f(0.3)}>
+        <Audio src={staticFile('sounds/whoosh_fast.wav')} volume={0.6} />
+      </Sequence>
 
-      {/* S9: metal_hit.wav (5x FASTER counter impact at 24.2s) */}
-      {t >= 24.2 && t < 25.0 && (
-        <Audio src={staticFile('sounds/metal_hit.wav')} volume={0.65} />
-      )}
+      {/* Act 4: Polaroid Shutter & Victory Thump at 24.0s */}
+      <Sequence from={f(24.0)} durationInFrames={f(0.2)}>
+        <Audio src={staticFile('sounds/shutter.wav')} volume={0.7} />
+      </Sequence>
+      <Sequence from={f(24.0)} durationInFrames={f(0.35)}>
+        <Audio src={staticFile('sounds/thump_whoosh.wav')} volume={0.8} />
+      </Sequence>
 
-      {/* S7: Click.mp3 x 3 (Metric Boxes at 26.0s, 26.15s, 26.3s) */}
-      {t >= 26.0 && t < 26.15 && (
-        <Audio src={staticFile('sounds/Click.mp3')} volume={0.35} />
-      )}
-      {t >= 26.15 && t < 26.3 && (
-        <Audio src={staticFile('sounds/Click.mp3')} volume={0.35} />
-      )}
-      {t >= 26.3 && t < 26.6 && (
-        <Audio src={staticFile('sounds/Click.mp3')} volume={0.35} />
-      )}
+      {/* Act 4: 5x Faster Headline Impact at 24.2s */}
+      <Sequence from={f(24.2)} durationInFrames={f(0.5)}>
+        <Audio src={staticFile('sounds/impact.wav')} volume={0.9} />
+      </Sequence>
+      <Sequence from={f(24.2)} durationInFrames={f(0.4)}>
+        <Audio src={staticFile('sounds/sub_drop.wav')} volume={0.85} />
+      </Sequence>
 
-      {/* S8: snap.wav (Deque bar hits 100% at 26.8s) */}
-      {t >= 26.8 && t < 27.3 && (
-        <Audio src={staticFile('sounds/snap.wav')} volume={0.6} />
-      )}
+      {/* Act 4: Metric Box Taps at 26.0s, 26.15s, 26.3s */}
+      <Sequence from={f(26.0)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/keypress.wav')} volume={0.55} />
+      </Sequence>
+      <Sequence from={f(26.15)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/keypress.wav')} volume={0.55} />
+      </Sequence>
+      <Sequence from={f(26.3)} durationInFrames={f(0.08)}>
+        <Audio src={staticFile('sounds/keypress.wav')} volume={0.55} />
+      </Sequence>
 
-      {/* S10: system_ping.wav (Golden Rule pill reveal at 27.5s) */}
-      {t >= 27.5 && t < 28.3 && (
-        <Audio src={staticFile('sounds/system_ping.wav')} volume={0.5} />
-      )}
+      {/* Act 4: Deque Bar 100% Toggle at 26.8s */}
+      <Sequence from={f(26.8)} durationInFrames={f(0.12)}>
+        <Audio src={staticFile('sounds/toggle.wav')} volume={0.75} />
+      </Sequence>
+
+      {/* Act 4: Golden Rule Pill Toggle at 27.5s */}
+      <Sequence from={f(27.5)} durationInFrames={f(0.15)}>
+        <Audio src={staticFile('sounds/toggle.wav')} volume={0.75} />
+      </Sequence>
     </AbsoluteFill>
   );
 };
