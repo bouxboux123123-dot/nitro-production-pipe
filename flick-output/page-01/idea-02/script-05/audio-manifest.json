@@ -365,76 +365,50 @@
     "hook": {
       "chapter": "\u26a1 HOOK",
       "badge": "\u26a1 AGENCY SYSTEMS",
-      "line1": "The operational dashboard ev...",
-      "line2": "FIX IT IN 24H.",
-      "tag": "\ud83d\uded1 Agency capacity planning",
-      "subtext": "Stop wasting 4 hours every week doing this manually."
+      "line1": "The operational dashboard every agency founder needs to review every Monday.",
+      "line2": "FIXED IN 24 HOURS",
+      "tag": "\ud83d\uded1 Agency capacity planning matrix that prevents team burnout",
+      "subtext": "Stop losing hours every week doing this manually."
     },
     "act1": {
       "chapter": "\ud83d\udd37 THE BOTTLENECK",
       "badge": "AGENCY SYSTEMS BOTTLENECK",
-      "title": "Manual Agency capacity planning ",
-      "polaroid_title": "Agency capacity plan Stall",
-      "tag1": "\ud83d\udcc1 Missing Assets & Passwords",
-      "tag2": "\u23f3 14 Back-and-Forth Emails",
-      "tag3": "\ud83d\udcc9 Stalled Client Kickoff",
-      "takeaway": "Manual chasing delays project delivery and burns team focus."
+      "title": "Team Capacity Bottleneck: Agency capacity planning matrix that prevents team burnout",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Agency capacity planning matrix that prevents team burnout",
+        "subtitle": "Agency capacity planning matrix that prevents team burnout"
+      }
     },
     "act2": {
-      "chapter": "\ud83d\uded1 THE CRASH",
+      "chapter": "\ud83d\uded1 THE CRISIS",
       "badge": "CRITICAL BOTTLENECK",
-      "polaroid_title": "Fatal 21-Day Stall",
-      "counter_max": 1000,
-      "counter_unit": "HRS LOST",
-      "code_line1": "def manual_process():",
-      "code_line2": "# Stalled waiting on step",
-      "code_line3": "return client_delivery_delayed()",
-      "error_title": "FATAL WORKFLOW DELAY",
-      "error_sub": "Agency capacity planning matri: delivery stall",
-      "error_desc": "Manual follow-ups failed to scale, causing client friction and lost revenue."
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Agency capacity planning matrix that prevents team burnout"
+      }
     },
     "act3": {
       "chapter": "\ud83d\ude80 THE FIX",
       "badge": "THE AUTOMATED PIPELINE",
-      "polaroid_title": "Agency capacity plan SOP",
-      "before_title": "\ud83d\uded1 MANUAL WAY",
-      "before_tag": "SLOW",
-      "before_lines": [
-        "def manual_onboarding():",
-        "  email_client_for_passwords()",
-        "  wait_two_weeks_for_reply()",
-        "  lose_track_of_assets() # 3wks"
-      ],
-      "before_footer": "\u26a0\ufe0f Projects stall for 3 weeks",
-      "after_title": "\u26a1 AUTOMATED SOP",
-      "after_tag": "INSTANT",
-      "after_lines": [
-        "client.sign_contract()",
-        "portal.load('Agency capacity ')",
-        "vault.auto_verify_logins()",
-        "pipeline.execute() # O(1)",
-        "slack.notify_kickoff_ready()"
-      ],
-      "after_footer": "\ud83d\ude80 100% automated in under 24 hours",
-      "benefit": "Automated Agency capacity planni runs end-to-end on autopilot."
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Agency capacity planning matrix that prevents team burnout"
+      }
     },
     "act4": {
       "chapter": "\u26a1 VICTORY",
       "badge": "BENCHMARK VICTORY",
-      "polaroid_title": "5.0x Benchmark Win",
-      "speedup_val": "5.0",
-      "speedup_label": "FASTER KICKOFF",
-      "bar1_label": "Automated Agency capacity planni",
-      "bar1_desc": "24 Hours (100% Assets Collected)",
-      "bar2_label": "Manual Email Follow-up",
-      "bar2_desc": "3+ Weeks (Stalled Kickoffs)",
-      "stat1_title": "KICKOFF TIME",
-      "stat1_val": "24 HOURS",
-      "stat2_title": "MANUAL CHASING",
-      "stat2_val": "ZERO",
-      "stat3_title": "CLIENT NPS",
-      "stat3_val": "100%",
-      "rule": "Golden Rule: Automate Agency capacity planning  once \u2014 never chase manually again."
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Agency capacity planning matrix that prevents team burnout"
+      }
     }
   }
 }

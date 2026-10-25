@@ -1,304 +1,439 @@
 {
-  "topic": "python-stack-frame",
-  "combinedAudio": "full-dialogue.mp3",
-  "duration": 28.512,
-  "voice": "en-US-ChristopherNeural",
-  "text": "Your Python app just crashed. RecursionError. Here is why. Every recursive call pushes a heavy stack frame in memory with local variables and bytecode pointers. Hit one thousand frames, and Python halts everything to protect the OS. The fix? Swap recursion for an iterative collections deque. It runs in heap memory, zero frame overhead, and executes five times faster.",
+  "duration": 28.431333,
+  "sample_rate": 24000,
+  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
+  "speed": 1.1,
+  "text": "The biggest bottleneck for scaling an agency is slow client onboarding. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Client onboarding SOP that collects assets and logins in 24 hours instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
   "words": [
     {
-      "word": "Your",
-      "start": 0.099,
-      "end": 0.293
-    },
-    {
-      "word": "Python",
-      "start": 0.305,
-      "end": 0.827
-    },
-    {
-      "word": "app",
-      "start": 0.839,
-      "end": 1.057
-    },
-    {
-      "word": "just",
-      "start": 1.069,
-      "end": 1.3
-    },
-    {
-      "word": "crashed",
-      "start": 1.312,
-      "end": 1.931
-    },
-    {
-      "word": "RecursionError",
-      "start": 2.767,
-      "end": 3.762
-    },
-    {
-      "word": "Here",
-      "start": 4.587,
-      "end": 4.842
-    },
-    {
-      "word": "is",
-      "start": 4.854,
-      "end": 5.0
-    },
-    {
-      "word": "why",
-      "start": 5.012,
-      "end": 5.413
-    },
-    {
-      "word": "Every",
-      "start": 6.25,
-      "end": 6.578
-    },
-    {
-      "word": "recursive",
-      "start": 6.59,
-      "end": 7.148
-    },
-    {
-      "word": "call",
-      "start": 7.16,
-      "end": 7.427
-    },
-    {
-      "word": "pushes",
-      "start": 7.439,
-      "end": 7.828
-    },
-    {
-      "word": "a",
-      "start": 7.84,
-      "end": 7.9
-    },
-    {
-      "word": "heavy",
-      "start": 7.913,
-      "end": 8.204
-    },
-    {
-      "word": "stack",
-      "start": 8.216,
-      "end": 8.58
-    },
-    {
-      "word": "frame",
-      "start": 8.592,
-      "end": 8.883
-    },
-    {
-      "word": "in",
-      "start": 8.896,
-      "end": 8.993
-    },
-    {
-      "word": "memory",
-      "start": 9.005,
-      "end": 9.357
-    },
-    {
-      "word": "with",
-      "start": 9.369,
-      "end": 9.502
-    },
-    {
-      "word": "local",
-      "start": 9.515,
-      "end": 9.842
-    },
-    {
-      "word": "variables",
-      "start": 9.854,
-      "end": 10.498
-    },
-    {
-      "word": "and",
-      "start": 10.51,
-      "end": 10.667
-    },
-    {
-      "word": "bytecode",
-      "start": 10.68,
-      "end": 11.201
-    },
-    {
-      "word": "pointers",
-      "start": 11.214,
-      "end": 11.82
-    },
-    {
-      "word": "Hit",
-      "start": 12.658,
-      "end": 12.876
-    },
-    {
-      "word": "one",
-      "start": 12.888,
-      "end": 13.095
-    },
-    {
-      "word": "thousand",
-      "start": 13.107,
-      "end": 13.532
-    },
-    {
-      "word": "frames",
-      "start": 13.544,
-      "end": 14.053
-    },
-    {
-      "word": "and",
-      "start": 14.175,
-      "end": 14.345
-    },
-    {
-      "word": "Python",
-      "start": 14.357,
-      "end": 14.879
-    },
-    {
-      "word": "halts",
-      "start": 14.891,
-      "end": 15.182
-    },
-    {
-      "word": "everything",
-      "start": 15.194,
-      "end": 15.595
-    },
-    {
-      "word": "to",
-      "start": 15.607,
-      "end": 15.692
-    },
-    {
-      "word": "protect",
-      "start": 15.704,
-      "end": 16.092
-    },
-    {
-      "word": "the",
-      "start": 16.104,
-      "end": 16.201
-    },
-    {
-      "word": "OS",
-      "start": 16.214,
-      "end": 16.784
-    },
-    {
       "word": "The",
-      "start": 17.621,
-      "end": 17.767
+      "start": 0.0,
+      "end": 0.26
     },
     {
-      "word": "fix",
-      "start": 17.779,
-      "end": 18.301
+      "word": "biggest",
+      "start": 0.26,
+      "end": 0.76
     },
     {
-      "word": "Swap",
-      "start": 19.138,
-      "end": 19.575
-    },
-    {
-      "word": "recursion",
-      "start": 19.587,
-      "end": 20.097
+      "word": "bottleneck",
+      "start": 0.76,
+      "end": 1.34
     },
     {
       "word": "for",
-      "start": 20.109,
-      "end": 20.255
+      "start": 1.34,
+      "end": 1.94
+    },
+    {
+      "word": "scaling",
+      "start": 1.94,
+      "end": 2.36
     },
     {
       "word": "an",
-      "start": 20.267,
-      "end": 20.376
+      "start": 2.36,
+      "end": 2.62
     },
     {
-      "word": "iterative",
-      "start": 20.388,
-      "end": 20.825
+      "word": "agency",
+      "start": 2.62,
+      "end": 3.3
     },
     {
-      "word": "collections",
-      "start": 20.837,
-      "end": 21.408
+      "word": "is",
+      "start": 3.3,
+      "end": 3.9
     },
     {
-      "word": "deque",
-      "start": 21.42,
-      "end": 21.82
+      "word": "small",
+      "start": 3.9,
+      "end": 4.42
     },
     {
-      "word": "It",
-      "start": 22.658,
-      "end": 22.84
+      "word": "client",
+      "start": 4.42,
+      "end": 4.96
     },
     {
-      "word": "runs",
-      "start": 22.852,
-      "end": 23.131
+      "word": "onboarding",
+      "start": 4.96,
+      "end": 6.42
     },
     {
-      "word": "in",
-      "start": 23.143,
-      "end": 23.252
+      "word": "Most",
+      "start": 6.7,
+      "end": 7.06
     },
     {
-      "word": "heap",
-      "start": 23.265,
-      "end": 23.459
+      "word": "people",
+      "start": 7.06,
+      "end": 7.44
     },
     {
-      "word": "memory",
-      "start": 23.471,
-      "end": 23.92
+      "word": "waste",
+      "start": 7.44,
+      "end": 8.06
     },
     {
-      "word": "zero",
-      "start": 24.138,
-      "end": 24.515
+      "word": "fair",
+      "start": 8.06,
+      "end": 8.6
     },
     {
-      "word": "frame",
-      "start": 24.527,
-      "end": 24.842
+      "word": "hours",
+      "start": 8.6,
+      "end": 9.08
     },
     {
-      "word": "overhead",
-      "start": 24.854,
-      "end": 25.364
+      "word": "every",
+      "start": 9.08,
+      "end": 9.64
+    },
+    {
+      "word": "week",
+      "start": 9.64,
+      "end": 10.02
+    },
+    {
+      "word": "doing",
+      "start": 10.02,
+      "end": 10.38
+    },
+    {
+      "word": "this",
+      "start": 10.38,
+      "end": 10.76
+    },
+    {
+      "word": "manually",
+      "start": 10.76,
+      "end": 11.36
+    },
+    {
+      "word": "Here",
+      "start": 12.24,
+      "end": 12.52
+    },
+    {
+      "word": "is",
+      "start": 12.52,
+      "end": 12.74
+    },
+    {
+      "word": "the",
+      "start": 12.74,
+      "end": 13.08
+    },
+    {
+      "word": "issue",
+      "start": 13.08,
+      "end": 13.56
+    },
+    {
+      "word": "Repetitive",
+      "start": 14.18,
+      "end": 14.76
+    },
+    {
+      "word": "lock",
+      "start": 14.76,
+      "end": 15.32
+    },
+    {
+      "word": "flows",
+      "start": 15.32,
+      "end": 15.7
+    },
+    {
+      "word": "break",
+      "start": 15.7,
+      "end": 16.1
+    },
+    {
+      "word": "under",
+      "start": 16.1,
+      "end": 16.5
+    },
+    {
+      "word": "load",
+      "start": 16.5,
+      "end": 16.98
     },
     {
       "word": "and",
-      "start": 25.607,
-      "end": 25.801
+      "start": 16.98,
+      "end": 17.4
     },
     {
-      "word": "executes",
-      "start": 25.813,
-      "end": 26.371
+      "word": "steal",
+      "start": 17.4,
+      "end": 17.74
+    },
+    {
+      "word": "your",
+      "start": 17.74,
+      "end": 18.12
+    },
+    {
+      "word": "focus",
+      "start": 18.12,
+      "end": 18.66
+    },
+    {
+      "word": "The",
+      "start": 19.4,
+      "end": 19.52
+    },
+    {
+      "word": "fix",
+      "start": 19.52,
+      "end": 19.76
+    },
+    {
+      "word": "is",
+      "start": 19.76,
+      "end": 20.18
+    },
+    {
+      "word": "simple",
+      "start": 20.18,
+      "end": 20.58
+    },
+    {
+      "word": "Use",
+      "start": 21.18,
+      "end": 21.6
+    },
+    {
+      "word": "client",
+      "start": 21.6,
+      "end": 22.1
+    },
+    {
+      "word": "onboarding",
+      "start": 22.1,
+      "end": 22.8
+    },
+    {
+      "word": "as",
+      "start": 22.8,
+      "end": 23.06
+    },
+    {
+      "word": "you'll",
+      "start": 23.06,
+      "end": 23.38
+    },
+    {
+      "word": "be",
+      "start": 23.38,
+      "end": 23.58
+    },
+    {
+      "word": "that",
+      "start": 23.58,
+      "end": 23.92
+    },
+    {
+      "word": "collects",
+      "start": 23.92,
+      "end": 24.46
+    },
+    {
+      "word": "assets",
+      "start": 24.46,
+      "end": 25.08
+    },
+    {
+      "word": "and",
+      "start": 25.08,
+      "end": 25.46
+    },
+    {
+      "word": "logins",
+      "start": 25.46,
+      "end": 26.02
+    },
+    {
+      "word": "in",
+      "start": 26.02,
+      "end": 26.4
+    },
+    {
+      "word": "24",
+      "start": 26.4,
+      "end": 26.8
+    },
+    {
+      "word": "hours",
+      "start": 26.8,
+      "end": 27.6
+    },
+    {
+      "word": "instead",
+      "start": 27.6,
+      "end": 28.42
+    },
+    {
+      "word": "It",
+      "start": 28.42,
+      "end": 29.54
+    },
+    {
+      "word": "automates",
+      "start": 29.54,
+      "end": 30.24
+    },
+    {
+      "word": "every",
+      "start": 30.24,
+      "end": 30.86
+    },
+    {
+      "word": "step",
+      "start": 30.86,
+      "end": 31.26
+    },
+    {
+      "word": "in",
+      "start": 31.26,
+      "end": 31.56
+    },
+    {
+      "word": "heat",
+      "start": 31.56,
+      "end": 31.94
+    },
+    {
+      "word": "memory",
+      "start": 31.94,
+      "end": 32.36
+    },
+    {
+      "word": "with",
+      "start": 32.36,
+      "end": 32.94
+    },
+    {
+      "word": "zero",
+      "start": 32.94,
+      "end": 33.36
+    },
+    {
+      "word": "manual",
+      "start": 33.36,
+      "end": 34.1
+    },
+    {
+      "word": "oversight",
+      "start": 34.1,
+      "end": 34.8
+    },
+    {
+      "word": "You",
+      "start": 35.76,
+      "end": 35.86
+    },
+    {
+      "word": "get",
+      "start": 35.86,
+      "end": 36.24
+    },
+    {
+      "word": "instant",
+      "start": 36.24,
+      "end": 36.86
+    },
+    {
+      "word": "results",
+      "start": 36.86,
+      "end": 37.54
+    },
+    {
+      "word": "zero",
+      "start": 38.22,
+      "end": 38.66
+    },
+    {
+      "word": "hours",
+      "start": 38.66,
+      "end": 39.32
+    },
+    {
+      "word": "and",
+      "start": 39.32,
+      "end": 39.86
     },
     {
       "word": "five",
-      "start": 26.384,
-      "end": 26.711
+      "start": 39.86,
+      "end": 40.36
     },
     {
       "word": "times",
-      "start": 26.723,
-      "end": 27.112
+      "start": 40.36,
+      "end": 41.02
     },
     {
       "word": "faster",
-      "start": 27.124,
-      "end": 27.682
+      "start": 41.02,
+      "end": 41.6
+    },
+    {
+      "word": "turnaround",
+      "start": 41.6,
+      "end": 42.3
     }
-  ]
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The biggest bottleneck for scaling an agency is slow client onboarding.",
+      "line2": "FIXED IN 24 HOURS",
+      "tag": "\ud83d\uded1 Client onboarding SOP that collects assets and logins in 24 hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Client onboarding SOP that collects assets and logins in 24 hours",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Client onboarding SOP that collects assets and logins in 24 hours",
+        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours"
+      }
+    }
+  }
 }

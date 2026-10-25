@@ -15,6 +15,7 @@ flick-output/**/*.mp4
 flick-output/*.mp4
 flick-output/*.png
 flick-output/*.jpg
+flick-output/review_stills/
 flick-output/remotion/test*.png
 flick-output/remotion/node_modules/
 

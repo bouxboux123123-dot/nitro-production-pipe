@@ -11,6 +11,7 @@ import {
   spring,
 } from 'remotion';
 import { Stack } from '@lucasmarkes/hairline/react';
+import * as Primitives from '../components/primitives';
 import manifestData from '../data/audio-manifest.json';
 
 interface WordTimestamp {
@@ -36,6 +37,26 @@ export const PythonStackScene: React.FC = () => {
 
   const words = useMemo(() => manifestData.words as WordTimestamp[], []);
   const v = useMemo(() => (manifestData as any)?.visuals || null, []);
+
+  const Act1Primitive = useMemo(() => {
+    const pName = v?.act1?.primitive;
+    return pName && (Primitives as any)[pName] ? (Primitives as any)[pName] : null;
+  }, [v]);
+
+  const Act2Primitive = useMemo(() => {
+    const pName = v?.act2?.primitive;
+    return pName && (Primitives as any)[pName] ? (Primitives as any)[pName] : null;
+  }, [v]);
+
+  const Act3Primitive = useMemo(() => {
+    const pName = v?.act3?.primitive;
+    return pName && (Primitives as any)[pName] ? (Primitives as any)[pName] : null;
+  }, [v]);
+
+  const Act4Primitive = useMemo(() => {
+    const pName = v?.act4?.primitive;
+    return pName && (Primitives as any)[pName] ? (Primitives as any)[pName] : null;
+  }, [v]);
 
   // Subtitle active word
   const activeWordIndex = words.findIndex((w) => t >= w.start && t <= w.end);
@@ -494,70 +515,57 @@ export const PythonStackScene: React.FC = () => {
               {v?.hook?.badge || '⚠️ PYTHON INTERNALS'}
             </div>
 
-            {/* V5: Glitch Text Headline */}
+            {/* High-Impact Headline */}
             <div
               style={{
                 transform: `scale(${hookLine1Spring})`,
                 fontFamily: 'system-ui, -apple-system, sans-serif',
-                fontSize: 78,
+                fontSize: 64,
                 fontWeight: 900,
-                lineHeight: 1.1,
+                lineHeight: 1.18,
                 color: '#ffffff',
-                position: 'relative',
+                maxWidth: 960,
+                padding: '0 20px',
+                textAlign: 'center',
+                textShadow: '0 4px 30px rgba(0,0,0,0.95)',
               }}
             >
-              {v?.hook?.line1 || 'Your Python App'} <br />
-              <div style={{ position: 'relative', display: 'inline-block' }}>
-                <span
+              {v?.hook?.line1 || 'Your Python App'}
+              {v?.hook?.line2 && (
+                <div
                   style={{
-                    position: 'absolute',
-                    left: glitchX,
-                    top: 0,
-                    color: '#f38ba8',
-                    opacity: 0.7,
-                    textShadow: '0 0 30px rgba(243, 139, 168, 0.9)',
-                  }}
-                >
-                  {v?.hook?.line2 || 'JUST CRASHED.'}
-                </span>
-                <span
-                  style={{
-                    position: 'absolute',
-                    left: -glitchX,
-                    top: 0,
+                    marginTop: 14,
                     color: '#00e5ff',
-                    opacity: 0.6,
+                    fontSize: 48,
+                    fontWeight: 900,
+                    textShadow: '0 0 35px rgba(0, 229, 255, 0.75)',
+                    letterSpacing: '0.04em',
                   }}
                 >
-                  {v?.hook?.line2 || 'JUST CRASHED.'}
-                </span>
-                <span style={{ color: '#f38ba8', position: 'relative', textShadow: '0 0 35px rgba(243, 139, 168, 0.8)' }}>
-                  {v?.hook?.line2 || 'JUST CRASHED.'}
-                </span>
-              </div>
+                  {v.hook.line2}
+                </div>
+              )}
             </div>
 
-            {/* V5: Glitch Error Tag */}
-            {t >= 2.6 && (
+            {/* Hook Topic Tag */}
+            {t >= 2.6 && v?.hook?.tag && (
               <div
                 style={{
                   transform: `scale(${hookLine2Spring})`,
-                  background: 'rgba(243, 139, 168, 0.25)',
-                  border: '3px solid #f38ba8',
+                  background: 'rgba(243, 139, 168, 0.22)',
+                  border: '2px solid #f38ba8',
                   borderRadius: 20,
-                  padding: '16px 38px',
-                  fontFamily: 'monospace',
-                  fontSize: 50,
+                  padding: '14px 34px',
+                  fontFamily: 'system-ui, -apple-system',
+                  fontSize: 32,
                   fontWeight: 900,
                   color: '#ffffff',
-                  boxShadow: '0 0 45px rgba(243, 139, 168, 0.7)',
-                  position: 'relative',
+                  boxShadow: '0 0 35px rgba(243, 139, 168, 0.6)',
+                  maxWidth: 900,
+                  textAlign: 'center',
                 }}
               >
-                <span style={{ position: 'absolute', left: 38 + glitchX, color: '#00e5ff', opacity: 0.5 }}>
-                  {v?.hook?.tag || '💥 RecursionError'}
-                </span>
-                <span style={{ position: 'relative' }}>{v?.hook?.tag || '💥 RecursionError'}</span>
+                {v.hook.tag}
               </div>
             )}
 
@@ -578,7 +586,7 @@ export const PythonStackScene: React.FC = () => {
           </div>
         )}
 
-        {/* ===================== ACT 1: HAIRLINE HERO (5.8s - 12.5s) ===================== */}
+        {/* ===================== ACT 1: HERO (5.8s - 12.5s) ===================== */}
         {t >= 5.6 && t < 12.8 && (
           <div
             style={{
@@ -587,11 +595,17 @@ export const PythonStackScene: React.FC = () => {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              paddingTop: 135,
+              paddingTop: Act1Primitive ? 120 : 135,
               opacity: act1ExitOpacity,
               transform: `scale(${act1Entry * act1ExitScale}) rotateY(${act1Tilt}deg)`,
             }}
           >
+            {Act1Primitive ? (
+              <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
+                <Act1Primitive {...(v?.act1?.props || {})} />
+              </div>
+            ) : (
+              <>
             <div
               style={{
                 background: 'rgba(116, 199, 236, 0.18)',
@@ -717,6 +731,8 @@ export const PythonStackScene: React.FC = () => {
                 <span>⚡ Each frame allocates <span style={{ color: '#00e5ff' }}>heavy CPython struct memory</span></span>
               )}
             </div>
+              </>
+            )}
           </div>
         )}
 
@@ -729,10 +745,16 @@ export const PythonStackScene: React.FC = () => {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              paddingTop: 110,
+              paddingTop: Act2Primitive ? 110 : 110,
               transform: `translateX(${act2ExitX}px) scale(${act2Entry}) rotateY(${act2Tilt}deg)`,
             }}
           >
+            {Act2Primitive ? (
+              <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
+                <Act2Primitive {...(v?.act2?.props || {})} />
+              </div>
+            ) : (
+              <>
             <div
               style={{
                 background: 'rgba(243, 139, 168, 0.2)',
@@ -843,6 +865,8 @@ export const PythonStackScene: React.FC = () => {
                 </div>
               </div>
             )}
+              </>
+            )}
           </div>
         )}
 
@@ -855,10 +879,16 @@ export const PythonStackScene: React.FC = () => {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              paddingTop: 90,
+              paddingTop: Act3Primitive ? 110 : 90,
               transform: `translateX(${act3ExitX}px) scale(${act3Entry}) rotateY(${act3Tilt}deg)`,
             }}
           >
+            {Act3Primitive ? (
+              <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
+                <Act3Primitive {...(v?.act3?.props || {})} />
+              </div>
+            ) : (
+              <>
             <div
               style={{
                 background: 'rgba(166, 227, 161, 0.2)',
@@ -989,6 +1019,8 @@ export const PythonStackScene: React.FC = () => {
                 <span>🚀 Heap memory scales to millions — <span style={{ color: '#00e5ff' }}>Zero Stack Limit!</span></span>
               )}
             </div>
+              </>
+            )}
           </div>
         )}
 
@@ -1001,10 +1033,16 @@ export const PythonStackScene: React.FC = () => {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              paddingTop: 100,
+              paddingTop: Act4Primitive ? 110 : 100,
               transform: `scale(${act4Entry})`,
             }}
           >
+            {Act4Primitive ? (
+              <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
+                <Act4Primitive {...(v?.act4?.props || {})} />
+              </div>
+            ) : (
+              <>
             <div
               style={{
                 background: 'rgba(0, 229, 255, 0.2)',
@@ -1109,6 +1147,8 @@ export const PythonStackScene: React.FC = () => {
               <span>{v?.act4?.rule || '💡 Golden Rule: Never recurse deep trees in Python.'}</span>
               <span style={{ color: '#0284c7', textTransform: 'uppercase' }}>{v?.act4?.speedup_label || 'USE DEQUE'}</span>
             </div>
+              </>
+            )}
           </div>
         )}
       </div>
