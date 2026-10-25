@@ -86,6 +86,7 @@ jobs:
           mkdir -p flick-output/remotion/src/data
           cp "$TARGET_DIR/full-dialogue.mp3" flick-output/remotion/public/full-dialogue.mp3
           cp "$TARGET_DIR/audio-manifest.json" flick-output/remotion/src/data/audio-manifest.json
+          cp "$TARGET_DIR/audio-manifest.json" flick-output/remotion/public/audio-manifest.json
 
       - name: Render Remotion Reel
         working-directory: flick-output/remotion

@@ -1,0 +1,490 @@
+{
+  "duration": 29.028667,
+  "sample_rate": 24000,
+  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
+  "speed": 1.1,
+  "text": "Make your agency look like a Fortune 500 firm from the very first kickoff call. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Client onboarding SOP that collects assets and logins in 24 hours instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "words": [
+    {
+      "word": "Make",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "your",
+      "start": 0.4,
+      "end": 0.7
+    },
+    {
+      "word": "agency",
+      "start": 0.7,
+      "end": 1.1
+    },
+    {
+      "word": "look",
+      "start": 1.1,
+      "end": 1.62
+    },
+    {
+      "word": "like",
+      "start": 1.62,
+      "end": 2.04
+    },
+    {
+      "word": "a",
+      "start": 2.04,
+      "end": 2.18
+    },
+    {
+      "word": "faction",
+      "start": 2.18,
+      "end": 2.66
+    },
+    {
+      "word": "500",
+      "start": 2.66,
+      "end": 3.56
+    },
+    {
+      "word": "farm",
+      "start": 3.56,
+      "end": 4.36
+    },
+    {
+      "word": "from",
+      "start": 4.36,
+      "end": 4.66
+    },
+    {
+      "word": "the",
+      "start": 4.66,
+      "end": 4.92
+    },
+    {
+      "word": "very",
+      "start": 4.92,
+      "end": 5.3
+    },
+    {
+      "word": "first",
+      "start": 5.3,
+      "end": 5.72
+    },
+    {
+      "word": "kickoff",
+      "start": 5.72,
+      "end": 6.26
+    },
+    {
+      "word": "call",
+      "start": 6.26,
+      "end": 7.02
+    },
+    {
+      "word": "Most",
+      "start": 7.54,
+      "end": 7.92
+    },
+    {
+      "word": "people",
+      "start": 7.92,
+      "end": 8.32
+    },
+    {
+      "word": "waste",
+      "start": 8.32,
+      "end": 8.92
+    },
+    {
+      "word": "fair",
+      "start": 8.92,
+      "end": 9.46
+    },
+    {
+      "word": "hours",
+      "start": 9.46,
+      "end": 9.94
+    },
+    {
+      "word": "every",
+      "start": 9.94,
+      "end": 10.5
+    },
+    {
+      "word": "week",
+      "start": 10.5,
+      "end": 10.86
+    },
+    {
+      "word": "doing",
+      "start": 10.86,
+      "end": 11.26
+    },
+    {
+      "word": "this",
+      "start": 11.26,
+      "end": 11.7
+    },
+    {
+      "word": "manually",
+      "start": 11.7,
+      "end": 12.28
+    },
+    {
+      "word": "Here",
+      "start": 13.2,
+      "end": 13.46
+    },
+    {
+      "word": "is",
+      "start": 13.46,
+      "end": 13.68
+    },
+    {
+      "word": "the",
+      "start": 13.68,
+      "end": 14.02
+    },
+    {
+      "word": "issue",
+      "start": 14.02,
+      "end": 14.48
+    },
+    {
+      "word": "Repetitive",
+      "start": 15.12,
+      "end": 15.72
+    },
+    {
+      "word": "lock",
+      "start": 15.72,
+      "end": 16.28
+    },
+    {
+      "word": "flows",
+      "start": 16.28,
+      "end": 16.62
+    },
+    {
+      "word": "break",
+      "start": 16.62,
+      "end": 17.04
+    },
+    {
+      "word": "on",
+      "start": 17.04,
+      "end": 17.24
+    },
+    {
+      "word": "the",
+      "start": 17.24,
+      "end": 17.54
+    },
+    {
+      "word": "road",
+      "start": 17.54,
+      "end": 17.86
+    },
+    {
+      "word": "and",
+      "start": 17.86,
+      "end": 18.36
+    },
+    {
+      "word": "steal",
+      "start": 18.36,
+      "end": 18.66
+    },
+    {
+      "word": "your",
+      "start": 18.66,
+      "end": 18.98
+    },
+    {
+      "word": "focus",
+      "start": 18.98,
+      "end": 19.52
+    },
+    {
+      "word": "The",
+      "start": 20.3,
+      "end": 20.4
+    },
+    {
+      "word": "fix",
+      "start": 20.4,
+      "end": 20.66
+    },
+    {
+      "word": "is",
+      "start": 20.66,
+      "end": 21.04
+    },
+    {
+      "word": "simple",
+      "start": 21.04,
+      "end": 21.4
+    },
+    {
+      "word": "Use",
+      "start": 21.4,
+      "end": 22.44
+    },
+    {
+      "word": "client",
+      "start": 22.44,
+      "end": 22.94
+    },
+    {
+      "word": "onboarding",
+      "start": 22.94,
+      "end": 23.7
+    },
+    {
+      "word": "as",
+      "start": 23.7,
+      "end": 23.94
+    },
+    {
+      "word": "you'll",
+      "start": 23.94,
+      "end": 24.26
+    },
+    {
+      "word": "be",
+      "start": 24.26,
+      "end": 24.48
+    },
+    {
+      "word": "that",
+      "start": 24.48,
+      "end": 24.84
+    },
+    {
+      "word": "collects",
+      "start": 24.84,
+      "end": 25.34
+    },
+    {
+      "word": "assets",
+      "start": 25.34,
+      "end": 25.98
+    },
+    {
+      "word": "and",
+      "start": 25.98,
+      "end": 26.36
+    },
+    {
+      "word": "logins",
+      "start": 26.36,
+      "end": 26.94
+    },
+    {
+      "word": "in",
+      "start": 26.94,
+      "end": 27.32
+    },
+    {
+      "word": "24",
+      "start": 27.32,
+      "end": 27.78
+    },
+    {
+      "word": "hours",
+      "start": 27.78,
+      "end": 28.5
+    },
+    {
+      "word": "instead",
+      "start": 28.5,
+      "end": 29.32
+    },
+    {
+      "word": "It",
+      "start": 30.28,
+      "end": 30.48
+    },
+    {
+      "word": "automates",
+      "start": 30.48,
+      "end": 31.12
+    },
+    {
+      "word": "every",
+      "start": 31.12,
+      "end": 31.78
+    },
+    {
+      "word": "step",
+      "start": 31.78,
+      "end": 32.14
+    },
+    {
+      "word": "in",
+      "start": 32.14,
+      "end": 32.44
+    },
+    {
+      "word": "heat",
+      "start": 32.44,
+      "end": 32.8
+    },
+    {
+      "word": "memory",
+      "start": 32.8,
+      "end": 33.24
+    },
+    {
+      "word": "with",
+      "start": 33.24,
+      "end": 33.8
+    },
+    {
+      "word": "zero",
+      "start": 33.8,
+      "end": 34.24
+    },
+    {
+      "word": "manual",
+      "start": 34.24,
+      "end": 34.98
+    },
+    {
+      "word": "oversight",
+      "start": 34.98,
+      "end": 35.64
+    },
+    {
+      "word": "You",
+      "start": 36.6,
+      "end": 36.76
+    },
+    {
+      "word": "get",
+      "start": 36.76,
+      "end": 37.16
+    },
+    {
+      "word": "instant",
+      "start": 37.16,
+      "end": 37.74
+    },
+    {
+      "word": "results",
+      "start": 37.74,
+      "end": 38.38
+    },
+    {
+      "word": "zero",
+      "start": 39.1,
+      "end": 39.5
+    },
+    {
+      "word": "hours",
+      "start": 39.5,
+      "end": 40.22
+    },
+    {
+      "word": "and",
+      "start": 40.22,
+      "end": 40.84
+    },
+    {
+      "word": "five",
+      "start": 40.84,
+      "end": 41.22
+    },
+    {
+      "word": "times",
+      "start": 41.22,
+      "end": 41.92
+    },
+    {
+      "word": "faster",
+      "start": 41.92,
+      "end": 42.4
+    },
+    {
+      "word": "turnaround",
+      "start": 42.4,
+      "end": 43.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Make your agency look like a...",
+      "line2": "FIX IT IN 24H.",
+      "tag": "\ud83d\uded1 Client onboarding SOP th",
+      "subtext": "Stop wasting 4 hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Manual Client onboarding SOP tha",
+      "polaroid_title": "Client onboarding SO Stall",
+      "tag1": "\ud83d\udcc1 Missing Assets & Passwords",
+      "tag2": "\u23f3 14 Back-and-Forth Emails",
+      "tag3": "\ud83d\udcc9 Stalled Client Kickoff",
+      "takeaway": "Manual chasing delays project delivery and burns team focus."
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRASH",
+      "badge": "CRITICAL BOTTLENECK",
+      "polaroid_title": "Fatal 21-Day Stall",
+      "counter_max": 1000,
+      "counter_unit": "HRS LOST",
+      "code_line1": "def manual_process():",
+      "code_line2": "# Stalled waiting on step",
+      "code_line3": "return client_delivery_delayed()",
+      "error_title": "FATAL WORKFLOW DELAY",
+      "error_sub": "Client onboarding SOP that col: delivery stall",
+      "error_desc": "Manual follow-ups failed to scale, causing client friction and lost revenue."
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "polaroid_title": "Client onboarding SO SOP",
+      "before_title": "\ud83d\uded1 MANUAL WAY",
+      "before_tag": "SLOW",
+      "before_lines": [
+        "def manual_onboarding():",
+        "  email_client_for_passwords()",
+        "  wait_two_weeks_for_reply()",
+        "  lose_track_of_assets() # 3wks"
+      ],
+      "before_footer": "\u26a0\ufe0f Projects stall for 3 weeks",
+      "after_title": "\u26a1 AUTOMATED SOP",
+      "after_tag": "INSTANT",
+      "after_lines": [
+        "client.sign_contract()",
+        "portal.load('Client onboardin')",
+        "vault.auto_verify_logins()",
+        "pipeline.execute() # O(1)",
+        "slack.notify_kickoff_ready()"
+      ],
+      "after_footer": "\ud83d\ude80 100% automated in under 24 hours",
+      "benefit": "Automated Client onboarding SOP  runs end-to-end on autopilot."
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "polaroid_title": "5.0x Benchmark Win",
+      "speedup_val": "5.0",
+      "speedup_label": "FASTER KICKOFF",
+      "bar1_label": "Automated Client onboarding SOP ",
+      "bar1_desc": "24 Hours (100% Assets Collected)",
+      "bar2_label": "Manual Email Follow-up",
+      "bar2_desc": "3+ Weeks (Stalled Kickoffs)",
+      "stat1_title": "KICKOFF TIME",
+      "stat1_val": "24 HOURS",
+      "stat2_title": "MANUAL CHASING",
+      "stat2_val": "ZERO",
+      "stat3_title": "CLIENT NPS",
+      "stat3_val": "100%",
+      "rule": "Golden Rule: Automate Client onboarding SOP tha once \u2014 never chase manually again."
+    }
+  }
+}

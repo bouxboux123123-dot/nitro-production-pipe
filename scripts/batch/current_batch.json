@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "slug": "v0001-page-01-idea-01-script-01",
+    "path": "flick-output/page-01/idea-01/script-01",
+    "page_slug": "page-01",
+    "idea_slug": "idea-01",
+    "script_slug": "script-01"
+  },
+  {
+    "id": 2,
+    "slug": "v0002-page-01-idea-01-script-02",
+    "path": "flick-output/page-01/idea-01/script-02",
+    "page_slug": "page-01",
+    "idea_slug": "idea-01",
+    "script_slug": "script-02"
+  },
+  {
+    "id": 3,
+    "slug": "v0003-page-01-idea-01-script-03",
+    "path": "flick-output/page-01/idea-01/script-03",
+    "page_slug": "page-01",
+    "idea_slug": "idea-01",
+    "script_slug": "script-03"
+  },
+  {
+    "id": 4,
+    "slug": "v0004-page-01-idea-01-script-04",
+    "path": "flick-output/page-01/idea-01/script-04",
+    "page_slug": "page-01",
+    "idea_slug": "idea-01",
+    "script_slug": "script-04"
+  },
+  {
+    "id": 5,
+    "slug": "v0005-page-01-idea-01-script-05",
+    "path": "flick-output/page-01/idea-01/script-05",
+    "page_slug": "page-01",
+    "idea_slug": "idea-01",
+    "script_slug": "script-05"
+  },
+  {
+    "id": 6,
+    "slug": "v0006-page-01-idea-02-script-01",
+    "path": "flick-output/page-01/idea-02/script-01",
+    "page_slug": "page-01",
+    "idea_slug": "idea-02",
+    "script_slug": "script-01"
+  },
+  {
+    "id": 7,
+    "slug": "v0007-page-01-idea-02-script-02",
+    "path": "flick-output/page-01/idea-02/script-02",
+    "page_slug": "page-01",
+    "idea_slug": "idea-02",
+    "script_slug": "script-02"
+  },
+  {
+    "id": 8,
+    "slug": "v0008-page-01-idea-02-script-03",
+    "path": "flick-output/page-01/idea-02/script-03",
+    "page_slug": "page-01",
+    "idea_slug": "idea-02",
+    "script_slug": "script-03"
+  },
+  {
+    "id": 9,
+    "slug": "v0009-page-01-idea-02-script-04",
+    "path": "flick-output/page-01/idea-02/script-04",
+    "page_slug": "page-01",
+    "idea_slug": "idea-02",
+    "script_slug": "script-04"
+  },
+  {
+    "id": 10,
+    "slug": "v0010-page-01-idea-02-script-05",
+    "path": "flick-output/page-01/idea-02/script-05",
+    "page_slug": "page-01",
+    "idea_slug": "idea-02",
+    "script_slug": "script-05"
+  }
+]

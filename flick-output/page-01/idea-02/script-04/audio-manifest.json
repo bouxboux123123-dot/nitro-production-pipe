@@ -1,0 +1,435 @@
+{
+  "duration": 24.042667,
+  "sample_rate": 24000,
+  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
+  "speed": 1.1,
+  "text": "Scale your agency revenue without burning out your best talent. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Agency capacity planning matrix that prevents team burnout instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "words": [
+    {
+      "word": "Gail",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "your",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "word": "agency",
+      "start": 0.8,
+      "end": 1.24
+    },
+    {
+      "word": "revenue",
+      "start": 1.24,
+      "end": 1.78
+    },
+    {
+      "word": "without",
+      "start": 1.78,
+      "end": 2.44
+    },
+    {
+      "word": "burning",
+      "start": 2.44,
+      "end": 2.8
+    },
+    {
+      "word": "out",
+      "start": 2.8,
+      "end": 3.12
+    },
+    {
+      "word": "your",
+      "start": 3.12,
+      "end": 3.34
+    },
+    {
+      "word": "best",
+      "start": 3.34,
+      "end": 3.76
+    },
+    {
+      "word": "talent",
+      "start": 3.76,
+      "end": 4.4
+    },
+    {
+      "word": "Most",
+      "start": 5.02,
+      "end": 5.32
+    },
+    {
+      "word": "people",
+      "start": 5.32,
+      "end": 5.72
+    },
+    {
+      "word": "waste",
+      "start": 5.72,
+      "end": 6.3
+    },
+    {
+      "word": "fair",
+      "start": 6.3,
+      "end": 6.78
+    },
+    {
+      "word": "hours",
+      "start": 6.78,
+      "end": 7.18
+    },
+    {
+      "word": "every",
+      "start": 7.18,
+      "end": 7.66
+    },
+    {
+      "word": "week",
+      "start": 7.66,
+      "end": 8.02
+    },
+    {
+      "word": "doing",
+      "start": 8.02,
+      "end": 8.28
+    },
+    {
+      "word": "this",
+      "start": 8.28,
+      "end": 8.62
+    },
+    {
+      "word": "manually",
+      "start": 8.62,
+      "end": 9.22
+    },
+    {
+      "word": "Here",
+      "start": 9.98,
+      "end": 10.22
+    },
+    {
+      "word": "is",
+      "start": 10.22,
+      "end": 10.44
+    },
+    {
+      "word": "the",
+      "start": 10.44,
+      "end": 10.72
+    },
+    {
+      "word": "issue",
+      "start": 10.72,
+      "end": 11.06
+    },
+    {
+      "word": "repetitive",
+      "start": 11.6,
+      "end": 12.1
+    },
+    {
+      "word": "lock",
+      "start": 12.1,
+      "end": 12.64
+    },
+    {
+      "word": "flows",
+      "start": 12.64,
+      "end": 13.04
+    },
+    {
+      "word": "break",
+      "start": 13.04,
+      "end": 13.42
+    },
+    {
+      "word": "under",
+      "start": 13.42,
+      "end": 13.78
+    },
+    {
+      "word": "load",
+      "start": 13.78,
+      "end": 14.16
+    },
+    {
+      "word": "and",
+      "start": 14.16,
+      "end": 14.52
+    },
+    {
+      "word": "steal",
+      "start": 14.52,
+      "end": 14.82
+    },
+    {
+      "word": "your",
+      "start": 14.82,
+      "end": 15.14
+    },
+    {
+      "word": "focus",
+      "start": 15.14,
+      "end": 15.62
+    },
+    {
+      "word": "The",
+      "start": 16.44,
+      "end": 16.7
+    },
+    {
+      "word": "fix",
+      "start": 16.7,
+      "end": 16.94
+    },
+    {
+      "word": "is",
+      "start": 16.94,
+      "end": 17.32
+    },
+    {
+      "word": "simple",
+      "start": 17.32,
+      "end": 17.76
+    },
+    {
+      "word": "Use",
+      "start": 18.32,
+      "end": 18.58
+    },
+    {
+      "word": "agency",
+      "start": 18.58,
+      "end": 19.1
+    },
+    {
+      "word": "capacity",
+      "start": 19.1,
+      "end": 19.72
+    },
+    {
+      "word": "planning",
+      "start": 19.72,
+      "end": 20.4
+    },
+    {
+      "word": "matrix",
+      "start": 20.4,
+      "end": 20.8
+    },
+    {
+      "word": "that",
+      "start": 20.8,
+      "end": 21.34
+    },
+    {
+      "word": "prevents",
+      "start": 21.34,
+      "end": 21.74
+    },
+    {
+      "word": "team",
+      "start": 21.74,
+      "end": 22.28
+    },
+    {
+      "word": "burnout",
+      "start": 22.28,
+      "end": 22.92
+    },
+    {
+      "word": "instead",
+      "start": 22.92,
+      "end": 23.58
+    },
+    {
+      "word": "It",
+      "start": 24.14,
+      "end": 24.36
+    },
+    {
+      "word": "automates",
+      "start": 24.36,
+      "end": 24.88
+    },
+    {
+      "word": "every",
+      "start": 24.88,
+      "end": 25.48
+    },
+    {
+      "word": "step",
+      "start": 25.48,
+      "end": 25.8
+    },
+    {
+      "word": "in",
+      "start": 25.8,
+      "end": 26.02
+    },
+    {
+      "word": "heat",
+      "start": 26.02,
+      "end": 26.4
+    },
+    {
+      "word": "memory",
+      "start": 26.4,
+      "end": 26.8
+    },
+    {
+      "word": "with",
+      "start": 26.8,
+      "end": 27.3
+    },
+    {
+      "word": "zero",
+      "start": 27.3,
+      "end": 27.78
+    },
+    {
+      "word": "manual",
+      "start": 27.78,
+      "end": 28.46
+    },
+    {
+      "word": "oversight",
+      "start": 28.46,
+      "end": 29.12
+    },
+    {
+      "word": "You",
+      "start": 29.12,
+      "end": 29.88
+    },
+    {
+      "word": "get",
+      "start": 29.88,
+      "end": 30.26
+    },
+    {
+      "word": "instant",
+      "start": 30.26,
+      "end": 30.78
+    },
+    {
+      "word": "results",
+      "start": 30.78,
+      "end": 31.44
+    },
+    {
+      "word": "zero",
+      "start": 32.04,
+      "end": 32.36
+    },
+    {
+      "word": "hours",
+      "start": 32.36,
+      "end": 33.0
+    },
+    {
+      "word": "and",
+      "start": 33.0,
+      "end": 33.5
+    },
+    {
+      "word": "five",
+      "start": 33.5,
+      "end": 33.94
+    },
+    {
+      "word": "times",
+      "start": 33.94,
+      "end": 34.54
+    },
+    {
+      "word": "faster",
+      "start": 34.54,
+      "end": 35.16
+    },
+    {
+      "word": "turnaround",
+      "start": 35.16,
+      "end": 35.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Scale your agency revenue wi...",
+      "line2": "FIX IT IN 24H.",
+      "tag": "\ud83d\uded1 Agency capacity planning",
+      "subtext": "Stop wasting 4 hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Manual Agency capacity planning ",
+      "polaroid_title": "Agency capacity plan Stall",
+      "tag1": "\ud83d\udcc1 Missing Assets & Passwords",
+      "tag2": "\u23f3 14 Back-and-Forth Emails",
+      "tag3": "\ud83d\udcc9 Stalled Client Kickoff",
+      "takeaway": "Manual chasing delays project delivery and burns team focus."
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRASH",
+      "badge": "CRITICAL BOTTLENECK",
+      "polaroid_title": "Fatal 21-Day Stall",
+      "counter_max": 1000,
+      "counter_unit": "HRS LOST",
+      "code_line1": "def manual_process():",
+      "code_line2": "# Stalled waiting on step",
+      "code_line3": "return client_delivery_delayed()",
+      "error_title": "FATAL WORKFLOW DELAY",
+      "error_sub": "Agency capacity planning matri: delivery stall",
+      "error_desc": "Manual follow-ups failed to scale, causing client friction and lost revenue."
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "polaroid_title": "Agency capacity plan SOP",
+      "before_title": "\ud83d\uded1 MANUAL WAY",
+      "before_tag": "SLOW",
+      "before_lines": [
+        "def manual_onboarding():",
+        "  email_client_for_passwords()",
+        "  wait_two_weeks_for_reply()",
+        "  lose_track_of_assets() # 3wks"
+      ],
+      "before_footer": "\u26a0\ufe0f Projects stall for 3 weeks",
+      "after_title": "\u26a1 AUTOMATED SOP",
+      "after_tag": "INSTANT",
+      "after_lines": [
+        "client.sign_contract()",
+        "portal.load('Agency capacity ')",
+        "vault.auto_verify_logins()",
+        "pipeline.execute() # O(1)",
+        "slack.notify_kickoff_ready()"
+      ],
+      "after_footer": "\ud83d\ude80 100% automated in under 24 hours",
+      "benefit": "Automated Agency capacity planni runs end-to-end on autopilot."
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "polaroid_title": "5.0x Benchmark Win",
+      "speedup_val": "5.0",
+      "speedup_label": "FASTER KICKOFF",
+      "bar1_label": "Automated Agency capacity planni",
+      "bar1_desc": "24 Hours (100% Assets Collected)",
+      "bar2_label": "Manual Email Follow-up",
+      "bar2_desc": "3+ Weeks (Stalled Kickoffs)",
+      "stat1_title": "KICKOFF TIME",
+      "stat1_val": "24 HOURS",
+      "stat2_title": "MANUAL CHASING",
+      "stat2_val": "ZERO",
+      "stat3_title": "CLIENT NPS",
+      "stat3_val": "100%",
+      "rule": "Golden Rule: Automate Agency capacity planning  once \u2014 never chase manually again."
+    }
+  }
+}

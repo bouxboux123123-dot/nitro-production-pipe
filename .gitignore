@@ -11,7 +11,7 @@ videos/**/renders/
 *.log
 
 # Remotion Renders & Stills
-flick-output/scenes/**/*.mp4
+flick-output/**/*.mp4
 flick-output/*.mp4
 flick-output/*.png
 flick-output/*.jpg

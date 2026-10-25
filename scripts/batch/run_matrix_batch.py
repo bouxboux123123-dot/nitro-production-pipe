@@ -112,7 +112,7 @@ def run_matrix_batch(batch_num: int, batch_size: int = 10):
 
     # Step 3: Git add, commit, and push
     print("\nStaging audio assets, Remotion scenes, and batch matrix...")
-    subprocess.run(["git", "add", "flick-output/", "scripts/batch/", ".github/workflows/"], cwd=str(ROOT_DIR), check=True)
+    subprocess.run(["git", "add", "flick-output/", "scripts/batch/", ".github/workflows/", ".gitignore"], cwd=str(ROOT_DIR), check=True)
     commit_msg = f"batch-matrix {batch_num}: launch {len(targets)} parallel cloud renders"
     subprocess.run(["git", "commit", "-m", commit_msg], cwd=str(ROOT_DIR))
     commit_hash = subprocess.check_output(["git", "rev-parse", "HEAD"], cwd=str(ROOT_DIR), text=True).strip()
@@ -124,20 +124,40 @@ def run_matrix_batch(batch_num: int, batch_size: int = 10):
     headers = get_github_headers()
     print(f"\nWaiting for GitHub Actions Parallel Matrix workflow run...")
     latest_run = None
-    for _ in range(25):
-        r = requests.get(f"https://api.github.com/repos/{REPO}/actions/runs?per_page=5", headers=headers)
+    for _ in range(35):
+        r = requests.get(f"https://api.github.com/repos/{REPO}/actions/runs?per_page=10", headers=headers)
         runs = r.json().get("workflow_runs", [])
-        matching = [run for run in runs if run.get("head_commit", {}).get("id", "").startswith(commit_hash[:7]) and run.get("name") == "Remotion Batch Matrix Render"]
+        matching = [
+            run for run in runs 
+            if (run.get("head_sha", "").startswith(commit_hash[:7]) or 
+                (run.get("head_commit") and run.get("head_commit", {}).get("id", "").startswith(commit_hash[:7])))
+            and run.get("name") == "Remotion Batch Matrix Render"
+        ]
         if matching:
             latest_run = matching[0]
             break
         time.sleep(3)
 
     if not latest_run:
-        # Fallback to latest matrix workflow
-        matching = [run for run in runs if run.get("name") == "Remotion Batch Matrix Render"]
-        if matching:
-            latest_run = matching[0]
+        print("Push trigger pending; dispatching workflow explicitly via API...")
+        try:
+            r_disp = requests.post(
+                f"https://api.github.com/repos/{REPO}/actions/workflows/remotion_batch_matrix.yml/dispatches",
+                json={"ref": "main", "inputs": {"batch_id": str(batch_num)}},
+                headers=headers
+            )
+            print(f"Dispatch status: {r_disp.status_code}")
+            time.sleep(5)
+            for _ in range(15):
+                r = requests.get(f"https://api.github.com/repos/{REPO}/actions/runs?per_page=5", headers=headers)
+                runs = r.json().get("workflow_runs", [])
+                matching = [run for run in runs if run.get("name") == "Remotion Batch Matrix Render"]
+                if matching and matching[0]["status"] in ["queued", "in_progress"]:
+                    latest_run = matching[0]
+                    break
+                time.sleep(3)
+        except Exception as e:
+            print(f"Dispatch error: {e}")
 
     if not latest_run:
         print("Could not locate Remotion Batch Matrix Render workflow run!")
