@@ -73,12 +73,13 @@ def run_batch(batch_num: int, dry_run: bool = False, local_render: bool = False)
                 subprocess.run(["git", "add", "flick-output/remotion/"], cwd=str(ROOT_DIR), check=True)
                 commit_msg = f"batch {batch_num}: {item['page_slug']}/{item['idea_slug']}/{item['script_slug']}"
                 subprocess.run(["git", "commit", "-m", commit_msg], cwd=str(ROOT_DIR))
-                print("Pushing to GitHub (origin main)...")
+                commit_hash = subprocess.check_output(["git", "rev-parse", "HEAD"], cwd=str(ROOT_DIR), text=True).strip()
+                print(f"Pushing to GitHub (origin main, commit {commit_hash[:7]})...")
                 subprocess.run(["git", "push", "origin", "main"], cwd=str(ROOT_DIR), check=True)
 
                 # Fetch artifact
-                print("Waiting for cloud render artifact...")
-                subprocess.run(["python", "scripts/download_earshot_run.py"], cwd=str(ROOT_DIR), check=True)
+                print(f"Waiting for cloud render artifact (commit {commit_hash[:7]})...")
+                subprocess.run(["python", "scripts/download_earshot_run.py", commit_hash[:7]], cwd=str(ROOT_DIR), check=True)
                 
                 # Move downloaded artifact to permanent folder
                 downloaded_file = ROOT_DIR / "flick-output" / "final-reel.mp4"

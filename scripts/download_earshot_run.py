@@ -23,14 +23,28 @@ headers = {
     "User-Agent": "Python"
 }
 
-# Fetch latest run
-runs_resp = requests.get(f"https://api.github.com/repos/{REPO}/actions/runs?per_page=3", headers=headers)
-runs = runs_resp.json().get("workflow_runs", [])
-if not runs:
-    print("No workflow runs found!")
+target_commit = sys.argv[1].strip() if len(sys.argv) > 1 else None
+
+print(f"Waiting for workflow run (Target commit: {target_commit or 'latest'})...")
+latest_run = None
+for _ in range(20):
+    runs_resp = requests.get(f"https://api.github.com/repos/{REPO}/actions/runs?per_page=5", headers=headers)
+    runs = runs_resp.json().get("workflow_runs", [])
+    if runs:
+        if target_commit:
+            matching = [r for r in runs if r.get("head_commit", {}).get("id", "").startswith(target_commit)]
+            if matching:
+                latest_run = matching[0]
+                break
+        else:
+            latest_run = runs[0]
+            break
+    time.sleep(3)
+
+if not latest_run:
+    print(f"Could not find workflow run for commit {target_commit}!")
     sys.exit(1)
 
-latest_run = runs[0]
 RUN_ID = latest_run["id"]
 print(f"Monitoring Latest Cloud Render (Run ID: {RUN_ID}, Commit: {latest_run.get('head_commit', {}).get('id', '')[:7]})...")
 

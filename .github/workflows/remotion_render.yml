@@ -18,6 +18,7 @@ on:
   push:
     paths:
       - 'flick-output/remotion/src/**'
+      - 'flick-output/remotion/public/**'
 
 jobs:
   render-remotion:
