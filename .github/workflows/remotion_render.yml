@@ -54,8 +54,10 @@ jobs:
           OUTPUT_NAME="${{ github.event.inputs.output_filename || 'python-stack-reel' }}"
 
           mkdir -p out
-          echo "=== Starting Remotion Cloud Render: $COMPOSITION (concurrency: $CONCURRENCY) ==="
-          npx remotion render src/index.tsx "$COMPOSITION" "out/${OUTPUT_NAME}.mp4" --concurrency="$CONCURRENCY"
+          CORES=$(nproc)
+          ACTUAL_CONCURRENCY=$(( CONCURRENCY > CORES ? CORES : CONCURRENCY ))
+          echo "=== Starting Remotion Cloud Render: $COMPOSITION (requested: $CONCURRENCY, cores: $CORES, using: $ACTUAL_CONCURRENCY) ==="
+          npx remotion render src/index.tsx "$COMPOSITION" "out/${OUTPUT_NAME}.mp4" --concurrency="$ACTUAL_CONCURRENCY"
 
       - name: Upload Rendered Video Artifact
         uses: actions/upload-artifact@v4
