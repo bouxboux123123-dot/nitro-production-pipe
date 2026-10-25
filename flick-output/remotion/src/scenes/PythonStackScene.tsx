@@ -35,6 +35,7 @@ export const PythonStackScene: React.FC = () => {
   const f = (sec: number) => Math.round(sec * fps);
 
   const words = useMemo(() => manifestData.words as WordTimestamp[], []);
+  const v = useMemo(() => (manifestData as any)?.visuals || null, []);
 
   // Subtitle active word
   const activeWordIndex = words.findIndex((w) => t >= w.start && t <= w.end);
@@ -81,12 +82,12 @@ export const PythonStackScene: React.FC = () => {
   // V11: CHAPTER MARKER PILLS (Top-Left HUD)
   // -------------------------------------------------------------
   const currentChapter = useMemo(() => {
-    if (t < 5.8) return { label: '⚡ HOOK', color: '#ffffff', bg: 'rgba(255,255,255,0.15)' };
-    if (t < 12.5) return { label: '🔷 CALL STACK', color: '#74c7ec', bg: 'rgba(116,199,236,0.18)' };
-    if (t < 18.8) return { label: '🛑 THE CRASH', color: '#f38ba8', bg: 'rgba(243,139,168,0.22)' };
-    if (t < 24.0) return { label: '🚀 THE FIX', color: '#a6e3a1', bg: 'rgba(166,227,161,0.2)' };
-    return { label: '⚡ VICTORY', color: '#00e5ff', bg: 'rgba(0,229,255,0.2)' };
-  }, [t]);
+    if (t < 5.8) return { label: v?.hook?.chapter || '⚡ HOOK', color: '#ffffff', bg: 'rgba(255,255,255,0.15)' };
+    if (t < 12.5) return { label: v?.act1?.chapter || '🔷 THE STACK', color: '#74c7ec', bg: 'rgba(116,199,236,0.18)' };
+    if (t < 18.8) return { label: v?.act2?.chapter || '🛑 THE CRASH', color: '#f38ba8', bg: 'rgba(243,139,168,0.22)' };
+    if (t < 24.0) return { label: v?.act3?.chapter || '🚀 THE FIX', color: '#a6e3a1', bg: 'rgba(166,227,161,0.2)' };
+    return { label: v?.act4?.chapter || '⚡ VICTORY', color: '#00e5ff', bg: 'rgba(0,229,255,0.2)' };
+  }, [t, v]);
 
   // -------------------------------------------------------------
   // CAMERA SHAKE (2D) & TIGHTENED FLASH
@@ -173,20 +174,26 @@ export const PythonStackScene: React.FC = () => {
   const dividerHeight = interpolate(t, [18.8, 19.3], [0, 650], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   // V6: Letter-by-letter code typing
-  const codeLines = [
-    'from collections import deque',
-    'stack = deque([root])',
-    'while stack:',
-    '  node = stack.pop() # O(1)',
-    '  stack.extend(node.next)',
-  ];
+  const codeLines: string[] = useMemo(() => {
+    if (v?.act3?.after_lines && Array.isArray(v.act3.after_lines) && v.act3.after_lines.length > 0) {
+      return v.act3.after_lines as string[];
+    }
+    return [
+      'from collections import deque',
+      'stack = deque([root])',
+      'while stack:',
+      '  node = stack.pop() # O(1)',
+      '  stack.extend(node.next)',
+    ];
+  }, [v]);
 
   const getTypedChars = (lineIdx: number, startSec: number) => {
-    const chars = Math.round(interpolate(t, [startSec, startSec + 0.45], [0, codeLines[lineIdx].length], {
+    const line = codeLines[lineIdx] || '';
+    const chars = Math.round(interpolate(t, [startSec, startSec + 0.45], [0, line.length], {
       extrapolateLeft: 'clamp',
       extrapolateRight: 'clamp',
     }));
-    return codeLines[lineIdx].slice(0, chars);
+    return line.slice(0, chars);
   };
 
   const cursorBlink = Math.sin(frame * 0.45) > 0;
@@ -209,12 +216,12 @@ export const PythonStackScene: React.FC = () => {
 
   // V13: POLAROID CHAPTER STICKERS (Shifted down to top: 86px to prevent header overlap)
   const polaroidInfo = useMemo(() => {
-    if (t >= 5.8 && t < 6.8) return { num: 'ACT 01', title: 'Call Stack Allocation', time: '05.8s' };
-    if (t >= 12.5 && t < 13.5) return { num: 'ACT 02', title: 'Fatal Limit 1,000', time: '12.5s' };
-    if (t >= 18.8 && t < 19.8) return { num: 'ACT 03', title: 'Collections Deque', time: '18.8s' };
-    if (t >= 24.0 && t < 25.0) return { num: 'ACT 04', title: '5.0x Benchmark Victory', time: '24.0s' };
+    if (t >= 5.8 && t < 6.8) return { num: 'ACT 01', title: v?.act1?.polaroid_title || 'Call Stack Allocation', time: '05.8s' };
+    if (t >= 12.5 && t < 13.5) return { num: 'ACT 02', title: v?.act2?.polaroid_title || 'Fatal Limit 1,000', time: '12.5s' };
+    if (t >= 18.8 && t < 19.8) return { num: 'ACT 03', title: v?.act3?.polaroid_title || 'Collections Deque', time: '18.8s' };
+    if (t >= 24.0 && t < 25.0) return { num: 'ACT 04', title: v?.act4?.polaroid_title || '5.0x Benchmark Victory', time: '24.0s' };
     return null;
-  }, [t]);
+  }, [t, v]);
 
   const polaroidSlide = polaroidInfo
     ? spring({
@@ -484,7 +491,7 @@ export const PythonStackScene: React.FC = () => {
                 letterSpacing: '0.12em',
               }}
             >
-              ⚠️ PYTHON INTERNALS
+              {v?.hook?.badge || '⚠️ PYTHON INTERNALS'}
             </div>
 
             {/* V5: Glitch Text Headline */}
@@ -499,7 +506,7 @@ export const PythonStackScene: React.FC = () => {
                 position: 'relative',
               }}
             >
-              Your Python App <br />
+              {v?.hook?.line1 || 'Your Python App'} <br />
               <div style={{ position: 'relative', display: 'inline-block' }}>
                 <span
                   style={{
@@ -511,7 +518,7 @@ export const PythonStackScene: React.FC = () => {
                     textShadow: '0 0 30px rgba(243, 139, 168, 0.9)',
                   }}
                 >
-                  JUST CRASHED.
+                  {v?.hook?.line2 || 'JUST CRASHED.'}
                 </span>
                 <span
                   style={{
@@ -522,10 +529,10 @@ export const PythonStackScene: React.FC = () => {
                     opacity: 0.6,
                   }}
                 >
-                  JUST CRASHED.
+                  {v?.hook?.line2 || 'JUST CRASHED.'}
                 </span>
                 <span style={{ color: '#f38ba8', position: 'relative', textShadow: '0 0 35px rgba(243, 139, 168, 0.8)' }}>
-                  JUST CRASHED.
+                  {v?.hook?.line2 || 'JUST CRASHED.'}
                 </span>
               </div>
             </div>
@@ -548,9 +555,9 @@ export const PythonStackScene: React.FC = () => {
                 }}
               >
                 <span style={{ position: 'absolute', left: 38 + glitchX, color: '#00e5ff', opacity: 0.5 }}>
-                  💥 RecursionError
+                  {v?.hook?.tag || '💥 RecursionError'}
                 </span>
-                <span style={{ position: 'relative' }}>💥 RecursionError</span>
+                <span style={{ position: 'relative' }}>{v?.hook?.tag || '💥 RecursionError'}</span>
               </div>
             )}
 
@@ -565,7 +572,7 @@ export const PythonStackScene: React.FC = () => {
                   textShadow: '0 4px 20px rgba(0,0,0,0.9)',
                 }}
               >
-                Here is exactly why — and the 5× faster fix.
+                {v?.hook?.subtext || 'Here is exactly why — and the 5× faster fix.'}
               </div>
             )}
           </div>
@@ -599,7 +606,7 @@ export const PythonStackScene: React.FC = () => {
                 marginBottom: 10,
               }}
             >
-              CPYTHON CALL STACK ALLOCATION
+              {v?.act1?.badge || 'CPYTHON CALL STACK ALLOCATION'}
             </div>
 
             <div
@@ -613,7 +620,7 @@ export const PythonStackScene: React.FC = () => {
                 marginBottom: 16,
               }}
             >
-              Every Call Pushes a Frame
+              {v?.act1?.title || 'Every Call Pushes a Frame'}
             </div>
 
             {/* Massive Hairline 3D Stack */}
@@ -641,7 +648,7 @@ export const PythonStackScene: React.FC = () => {
                     boxShadow: '0 0 25px rgba(116, 199, 236, 0.4)',
                   }}
                 >
-                  📦 locals: &#123; n: 42 &#125;
+                  {v?.act1?.tag1 || '📦 locals: { n: 42 }'}
                 </div>
               )}
 
@@ -663,7 +670,7 @@ export const PythonStackScene: React.FC = () => {
                     boxShadow: '0 0 25px rgba(249, 226, 175, 0.4)',
                   }}
                 >
-                  📍 bytecode_ip: 0x7F4A
+                  {v?.act1?.tag2 || '📍 bytecode_ip: 0x7F4A'}
                 </div>
               )}
 
@@ -685,7 +692,7 @@ export const PythonStackScene: React.FC = () => {
                     boxShadow: '0 0 25px rgba(203, 166, 247, 0.4)',
                   }}
                 >
-                  📚 eval_stack: [arg0]
+                  {v?.act1?.tag3 || '📚 eval_stack: [arg0]'}
                 </div>
               )}
             </div>
@@ -704,7 +711,11 @@ export const PythonStackScene: React.FC = () => {
                 boxShadow: '0 12px 30px rgba(0,0,0,0.8)',
               }}
             >
-              ⚡ Each frame allocates <span style={{ color: '#00e5ff' }}>heavy CPython struct memory</span>
+              {v?.act1?.takeaway ? (
+                <span>{v.act1.takeaway}</span>
+              ) : (
+                <span>⚡ Each frame allocates <span style={{ color: '#00e5ff' }}>heavy CPython struct memory</span></span>
+              )}
             </div>
           </div>
         )}
@@ -736,7 +747,7 @@ export const PythonStackScene: React.FC = () => {
                 marginBottom: 14,
               }}
             >
-              CALL STACK EXHAUSTION
+              {v?.act2?.badge || 'CALL STACK EXHAUSTION'}
             </div>
 
             {/* V4: Odometer Slot Machine Counter */}
@@ -754,7 +765,7 @@ export const PythonStackScene: React.FC = () => {
               }}
             >
               {counterVal}
-              <span style={{ fontSize: 44, color: 'rgba(255,255,255,0.6)', marginLeft: 12 }}>/ 1000</span>
+              <span style={{ fontSize: 44, color: 'rgba(255,255,255,0.6)', marginLeft: 12 }}>{v?.act2?.counter_unit || '/ 1000'}</span>
             </div>
 
             {/* Full Width Countdown Progress Bar */}
@@ -796,10 +807,10 @@ export const PythonStackScene: React.FC = () => {
                 marginBottom: 20,
               }}
             >
-              <div style={{ color: '#f38ba8', fontWeight: 900 }}>def recurse_tree(node):</div>
-              <div style={{ paddingLeft: 36, color: '#89b4fa' }}># Allocates frame #{counterVal}...</div>
+              <div style={{ color: '#f38ba8', fontWeight: 900 }}>{v?.act2?.code_line1 || 'def recurse_tree(node):'}</div>
+              <div style={{ paddingLeft: 36, color: '#89b4fa' }}>{v?.act2?.code_line2 ? `${v.act2.code_line2} #${counterVal}...` : `# Allocates frame #${counterVal}...`}</div>
               <div style={{ paddingLeft: 36, color: counterVal >= 1000 ? '#f38ba8' : '#fab387', fontWeight: 800 }}>
-                return recurse_tree(node.next)
+                {v?.act2?.code_line3 || 'return recurse_tree(node.next)'}
               </div>
             </div>
 
@@ -822,13 +833,13 @@ export const PythonStackScene: React.FC = () => {
               >
                 <div style={{ display: 'flex', alignItems: 'center', gap: 14, color: '#f38ba8', fontWeight: 900, fontSize: 26 }}>
                   <span>💥</span>
-                  <span>FATAL STACK EXHAUSTION</span>
+                  <span>{v?.act2?.error_title || 'FATAL STACK EXHAUSTION'}</span>
                 </div>
                 <div style={{ fontFamily: 'monospace', fontSize: 22, color: '#ffffff', fontWeight: 800 }}>
-                  RecursionError: maximum recursion depth exceeded
+                  {v?.act2?.error_sub || 'RecursionError: maximum recursion depth exceeded'}
                 </div>
                 <div style={{ fontFamily: 'system-ui', fontSize: 18, color: '#f9e2af', fontWeight: 600 }}>
-                  Python enforces a hard 1,000 call limit to prevent OS stack segmentation faults.
+                  {v?.act2?.error_desc || 'Python enforces a hard 1,000 call limit to prevent OS stack segmentation faults.'}
                 </div>
               </div>
             )}
@@ -862,7 +873,7 @@ export const PythonStackScene: React.FC = () => {
                 marginBottom: 16,
               }}
             >
-              THE ITERATIVE SOLUTION
+              {v?.act3?.badge || 'THE ITERATIVE SOLUTION'}
             </div>
 
             {/* V12 A/B Split Screen Layout (Expanded to 650px) */}
@@ -894,16 +905,18 @@ export const PythonStackScene: React.FC = () => {
                 }}
               >
                 <div style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#f38ba8', fontWeight: 900, fontSize: 20 }}>
-                  <span>🛑 BEFORE</span>
-                  <span style={{ fontSize: 13, background: 'rgba(243,139,168,0.25)', padding: '3px 10px', borderRadius: 8 }}>CRASHES</span>
+                  <span>{v?.act3?.before_title || '🛑 BEFORE'}</span>
+                  <span style={{ fontSize: 13, background: 'rgba(243,139,168,0.25)', padding: '3px 10px', borderRadius: 8 }}>{v?.act3?.before_tag || 'CRASHES'}</span>
                 </div>
                 <div style={{ fontFamily: 'monospace', fontSize: 20, lineHeight: 1.6, color: '#a6adc8' }}>
-                  <div style={{ color: '#f38ba8', fontWeight: 800 }}>def recurse(node):</div>
-                  <div style={{ paddingLeft: 22 }}>if not node: return</div>
-                  <div style={{ paddingLeft: 22, color: '#f38ba8' }}>recurse(node.next)</div>
+                  {(v?.act3?.before_lines || ['def recurse(node):', '  if not node: return', '  recurse(node.next)']).map((line: string, idx: number) => (
+                    <div key={idx} style={{ color: idx === 0 || idx === 2 ? '#f38ba8' : '#a6adc8', paddingLeft: idx > 0 ? 22 : 0 }}>
+                      {line}
+                    </div>
+                  ))}
                 </div>
                 <div style={{ marginTop: 'auto', background: 'rgba(243,139,168,0.18)', border: '1.5px solid #f38ba8', borderRadius: 12, padding: '12px 16px', fontSize: 15, color: '#f38ba8', fontWeight: 800 }}>
-                  ⚠️ Exhausts 1,000 stack frames
+                  {v?.act3?.before_footer || '⚠️ Exhausts 1,000 stack frames'}
                 </div>
               </div>
 
@@ -933,35 +946,26 @@ export const PythonStackScene: React.FC = () => {
                 }}
               >
                 <div style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#a6e3a1', fontWeight: 900, fontSize: 20 }}>
-                  <span>✅ AFTER</span>
-                  <span style={{ fontSize: 13, background: 'rgba(166,227,161,0.25)', padding: '3px 10px', borderRadius: 8 }}>HEAP O(1)</span>
+                  <span>{v?.act3?.after_title || '✅ AFTER'}</span>
+                  <span style={{ fontSize: 13, background: 'rgba(166,227,161,0.25)', padding: '3px 10px', borderRadius: 8 }}>{v?.act3?.after_tag || 'HEAP O(1)'}</span>
                 </div>
 
                 <div style={{ fontFamily: 'monospace', fontSize: 20, lineHeight: 1.6, color: '#cdd6f4' }}>
-                  <div style={{ color: '#a6e3a1', fontWeight: 800 }}>
-                    {getTypedChars(0, 19.0)}
-                    {t >= 19.0 && t < 19.5 && cursorBlink && ' █'}
-                  </div>
-                  <div style={{ color: '#89dceb', marginTop: 4 }}>
-                    {getTypedChars(1, 19.4)}
-                    {t >= 19.4 && t < 19.9 && cursorBlink && ' █'}
-                  </div>
-                  <div style={{ color: '#cdd6f4', marginTop: 4 }}>
-                    {getTypedChars(2, 19.8)}
-                    {t >= 19.8 && t < 20.3 && cursorBlink && ' █'}
-                  </div>
-                  <div style={{ paddingLeft: 22, color: '#fab387' }}>
-                    {getTypedChars(3, 20.2)}
-                    {t >= 20.2 && t < 20.7 && cursorBlink && ' █'}
-                  </div>
-                  <div style={{ paddingLeft: 22, color: '#a6e3a1' }}>
-                    {getTypedChars(4, 20.6)}
-                    {t >= 20.6 && cursorBlink && ' █'}
-                  </div>
+                  {codeLines.map((line: string, idx: number) => {
+                    const startT = 19.0 + idx * 0.4;
+                    const endT = startT + 0.5;
+                    const isLast = idx === codeLines.length - 1;
+                    return (
+                      <div key={idx} style={{ color: idx === 0 || isLast ? '#a6e3a1' : idx === 1 ? '#89dceb' : '#cdd6f4', marginTop: idx > 0 ? 4 : 0, paddingLeft: idx >= 3 ? 22 : 0 }}>
+                        {getTypedChars(idx, startT)}
+                        {t >= startT && t < endT && cursorBlink && ' █'}
+                      </div>
+                    );
+                  })}
                 </div>
 
                 <div style={{ marginTop: 'auto', background: 'rgba(166,227,161,0.18)', border: '1.5px solid #a6e3a1', borderRadius: 12, padding: '12px 16px', fontSize: 15, color: '#a6e3a1', fontWeight: 800 }}>
-                  🚀 Unlimited memory in heap
+                  {v?.act3?.after_footer || '🚀 Unlimited memory in heap'}
                 </div>
               </div>
             </div>
@@ -979,7 +983,11 @@ export const PythonStackScene: React.FC = () => {
                 color: '#ffffff',
               }}
             >
-              🚀 Heap memory scales to millions — <span style={{ color: '#00e5ff' }}>Zero Stack Limit!</span>
+              {v?.act3?.benefit ? (
+                <span>{v.act3.benefit}</span>
+              ) : (
+                <span>🚀 Heap memory scales to millions — <span style={{ color: '#00e5ff' }}>Zero Stack Limit!</span></span>
+              )}
             </div>
           </div>
         )}
@@ -1011,7 +1019,7 @@ export const PythonStackScene: React.FC = () => {
                 marginBottom: 14,
               }}
             >
-              BENCHMARK VICTORY
+              {v?.act4?.badge || 'BENCHMARK VICTORY'}
             </div>
 
             {/* Giant Stat Counter */}
@@ -1026,7 +1034,7 @@ export const PythonStackScene: React.FC = () => {
                 marginBottom: 14,
               }}
             >
-              {speedupVal}× FASTER
+              {v?.act4?.speedup_val || speedupVal}× {v?.act4?.speedup_label || 'FASTER'}
             </div>
 
             {/* Bar Chart Race */}
@@ -1046,8 +1054,8 @@ export const PythonStackScene: React.FC = () => {
             >
               <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', fontFamily: 'system-ui', fontSize: 18, fontWeight: 800, color: '#f38ba8' }}>
-                  <span>Standard Recursion</span>
-                  <span>Crash at 1,000 frames (RecursionError)</span>
+                  <span>{v?.act4?.bar2_label || 'Standard Recursion'}</span>
+                  <span>{v?.act4?.bar2_desc || 'Crash at 1,000 frames (RecursionError)'}</span>
                 </div>
                 <div style={{ height: 38, background: 'rgba(255, 255, 255, 0.08)', borderRadius: 12, overflow: 'hidden' }}>
                   <div style={{ width: `${recursionBarFill}%`, height: '100%', background: '#f38ba8', borderRadius: 12 }} />
@@ -1056,8 +1064,8 @@ export const PythonStackScene: React.FC = () => {
 
               <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', fontFamily: 'system-ui', fontSize: 18, fontWeight: 800, color: '#a6e3a1' }}>
-                  <span>Iterative Deque (Heap)</span>
-                  <span>100,000+ items (0.02s · 100% Success)</span>
+                  <span>{v?.act4?.bar1_label || 'Iterative Deque (Heap)'}</span>
+                  <span>{v?.act4?.bar1_desc || '100,000+ items (0.02s · 100% Success)'}</span>
                 </div>
                 <div style={{ height: 38, background: 'rgba(255, 255, 255, 0.08)', borderRadius: 12, overflow: 'hidden' }}>
                   <div style={{ width: `${dequeBarFill}%`, height: '100%', background: 'linear-gradient(90deg, #a6e3a1 0%, #00e5ff 100%)', borderRadius: 12 }} />
@@ -1068,16 +1076,16 @@ export const PythonStackScene: React.FC = () => {
             {/* Metric Trio */}
             <div style={{ display: 'flex', gap: 16, width: 960, marginBottom: 20 }}>
               <div style={{ flex: 1, background: 'rgba(17, 17, 27, 0.9)', border: '2px solid rgba(0, 229, 255, 0.4)', borderRadius: 20, padding: '16px', textAlign: 'center' }}>
-                <div style={{ fontSize: 14, fontFamily: 'system-ui', color: '#89b4fa', fontWeight: 800 }}>EXECUTION</div>
-                <div style={{ fontSize: 34, fontWeight: 900, color: '#00e5ff', marginTop: 4 }}>5× SPEED</div>
+                <div style={{ fontSize: 14, fontFamily: 'system-ui', color: '#89b4fa', fontWeight: 800 }}>{v?.act4?.stat1_title || 'EXECUTION'}</div>
+                <div style={{ fontSize: 34, fontWeight: 900, color: '#00e5ff', marginTop: 4 }}>{v?.act4?.stat1_val || '5× SPEED'}</div>
               </div>
               <div style={{ flex: 1, background: 'rgba(17, 17, 27, 0.9)', border: '2px solid rgba(166, 227, 161, 0.4)', borderRadius: 20, padding: '16px', textAlign: 'center' }}>
-                <div style={{ fontSize: 14, fontFamily: 'system-ui', color: '#a6e3a1', fontWeight: 800 }}>STACK FRAMES</div>
-                <div style={{ fontSize: 34, fontWeight: 900, color: '#a6e3a1', marginTop: 4 }}>ZERO</div>
+                <div style={{ fontSize: 14, fontFamily: 'system-ui', color: '#a6e3a1', fontWeight: 800 }}>{v?.act4?.stat2_title || 'STACK FRAMES'}</div>
+                <div style={{ fontSize: 34, fontWeight: 900, color: '#a6e3a1', marginTop: 4 }}>{v?.act4?.stat2_val || 'ZERO'}</div>
               </div>
               <div style={{ flex: 1, background: 'rgba(17, 17, 27, 0.9)', border: '2px solid rgba(249, 226, 175, 0.4)', borderRadius: 20, padding: '16px', textAlign: 'center' }}>
-                <div style={{ fontSize: 14, fontFamily: 'system-ui', color: '#f9e2af', fontWeight: 800 }}>CRASH RISK</div>
-                <div style={{ fontSize: 34, fontWeight: 900, color: '#f9e2af', marginTop: 4 }}>0%</div>
+                <div style={{ fontSize: 14, fontFamily: 'system-ui', color: '#f9e2af', fontWeight: 800 }}>{v?.act4?.stat3_title || 'CRASH RISK'}</div>
+                <div style={{ fontSize: 34, fontWeight: 900, color: '#f9e2af', marginTop: 4 }}>{v?.act4?.stat3_val || '0%'}</div>
               </div>
             </div>
 
@@ -1098,8 +1106,8 @@ export const PythonStackScene: React.FC = () => {
                 boxShadow: '0 12px 35px rgba(0, 229, 255, 0.4)',
               }}
             >
-              <span>💡 Golden Rule: <strong>Never recurse deep trees in Python.</strong></span>
-              <span style={{ color: '#0284c7', textTransform: 'uppercase' }}>USE DEQUE</span>
+              <span>{v?.act4?.rule || '💡 Golden Rule: Never recurse deep trees in Python.'}</span>
+              <span style={{ color: '#0284c7', textTransform: 'uppercase' }}>{v?.act4?.speedup_label || 'USE DEQUE'}</span>
             </div>
           </div>
         )}

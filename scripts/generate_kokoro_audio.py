@@ -26,7 +26,7 @@ ROOT_DIR = Path(__file__).parent.parent
 MODEL_PATH = ROOT_DIR / "models" / "kokoro" / "kokoro-v1.0.onnx"
 VOICES_PATH = ROOT_DIR / "models" / "kokoro" / "voices-v1.0.bin"
 
-def generate_audio(text: str, out_dir: Path, remotion_sync: bool = True):
+def generate_audio(text: str, out_dir: Path, remotion_sync: bool = True, visuals: dict = None):
     out_dir.mkdir(parents=True, exist_ok=True)
     
     print(f"Loading Kokoro-82M ONNX model from: {MODEL_PATH}")
@@ -106,6 +106,8 @@ def generate_audio(text: str, out_dir: Path, remotion_sync: bool = True):
         "text": text,
         "words": words
     }
+    if visuals:
+        manifest_data["visuals"] = visuals
     
     manifest_path = out_dir / "audio-manifest.json"
     with open(manifest_path, "w", encoding="utf-8") as f:

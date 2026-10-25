@@ -27,8 +27,10 @@ F_DRIVE_TARGET = Path("F:/creator-berry-renders")
 REPO = "bouxboux123123-dot/nitro-production-pipe"
 
 sys.path.append(str(ROOT_DIR / "scripts"))
+sys.path.append(str(ROOT_DIR / "scripts" / "batch"))
 from generate_kokoro_audio import generate_audio
 from check_progress import update_progress
+from generate_visual_metadata import create_visual_metadata
 
 def get_github_headers():
     proc = subprocess.run(
@@ -79,12 +81,20 @@ def run_matrix_batch(batch_num: int, batch_size: int = 10):
         mp3_path = out_dir / "full-dialogue.mp3"
         manifest_path = out_dir / "audio-manifest.json"
 
+        visuals = create_visual_metadata(item["page"], item["idea"], item["hook"])
+
         # Check if voiceover already generated
         if not mp3_path.exists() or not manifest_path.exists():
-            print(f"[{i}/{len(batch_items)}] Generating audio for Video #{vid_id}...")
-            generate_audio(item["script_text"], out_dir, remotion_sync=False)
+            print(f"[{i}/{len(batch_items)}] Generating audio & visual metadata for Video #{vid_id}...")
+            generate_audio(item["script_text"], out_dir, remotion_sync=False, visuals=visuals)
         else:
-            print(f"[{i}/{len(batch_items)}] Audio already cached for Video #{vid_id}.")
+            try:
+                manifest_data = json.loads(manifest_path.read_text(encoding="utf-8"))
+                manifest_data["visuals"] = visuals
+                manifest_path.write_text(json.dumps(manifest_data, indent=2), encoding="utf-8")
+                print(f"[{i}/{len(batch_items)}] Updated visual metadata for Video #{vid_id}.")
+            except Exception:
+                generate_audio(item["script_text"], out_dir, remotion_sync=False, visuals=visuals)
 
         targets.append({
             "id": vid_id,
@@ -101,8 +111,8 @@ def run_matrix_batch(batch_num: int, batch_size: int = 10):
     print(f"\nWrote parallel target matrix ({len(targets)} videos) to {CURRENT_BATCH_JSON}")
 
     # Step 3: Git add, commit, and push
-    print("\nStaging audio assets and batch matrix...")
-    subprocess.run(["git", "add", "flick-output/", "scripts/batch/current_batch.json", ".github/workflows/"], cwd=str(ROOT_DIR), check=True)
+    print("\nStaging audio assets, Remotion scenes, and batch matrix...")
+    subprocess.run(["git", "add", "flick-output/", "scripts/batch/", ".github/workflows/"], cwd=str(ROOT_DIR), check=True)
     commit_msg = f"batch-matrix {batch_num}: launch {len(targets)} parallel cloud renders"
     subprocess.run(["git", "commit", "-m", commit_msg], cwd=str(ROOT_DIR))
     commit_hash = subprocess.check_output(["git", "rev-parse", "HEAD"], cwd=str(ROOT_DIR), text=True).strip()
