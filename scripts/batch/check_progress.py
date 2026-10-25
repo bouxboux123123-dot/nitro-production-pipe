@@ -1,6 +1,16 @@
+import os
+import sys
 import json
 from pathlib import Path
 from datetime import datetime
+
+# Fix Windows console encoding for UTF-8 / emojis
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 ROOT_DIR = Path(__file__).parent.parent.parent
 BATCH_DIR = ROOT_DIR / "scripts" / "batch"

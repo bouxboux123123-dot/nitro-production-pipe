@@ -1,0 +1,104 @@
+name: Remotion Batch Matrix Render
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_id:
+        description: 'Batch number to render (1-100)'
+        required: true
+        default: '1'
+      video_paths_json:
+        description: 'JSON array of video targets'
+        required: false
+        default: '[]'
+  push:
+    paths:
+      - 'scripts/batch/current_batch.json'
+
+jobs:
+  discover-batch:
+    name: Prepare Parallel Matrix
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+      count: ${{ steps.set-matrix.outputs.count }}
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Resolve Batch Items
+        id: set-matrix
+        run: |
+          INPUT_JSON='${{ github.event.inputs.video_paths_json }}'
+          if [ -n "$INPUT_JSON" ] && [ "$INPUT_JSON" != "[]" ]; then
+            echo "Using manual input paths: $INPUT_JSON"
+            echo "matrix=$INPUT_JSON" >> $GITHUB_OUTPUT
+            COUNT=$(echo "$INPUT_JSON" | jq '. | length')
+            echo "count=$COUNT" >> $GITHUB_OUTPUT
+          elif [ -f "scripts/batch/current_batch.json" ]; then
+            JSON=$(cat scripts/batch/current_batch.json | tr -d '\n\r')
+            echo "Using current_batch.json: $JSON"
+            echo "matrix=$JSON" >> $GITHUB_OUTPUT
+            COUNT=$(cat scripts/batch/current_batch.json | jq '. | length')
+            echo "count=$COUNT" >> $GITHUB_OUTPUT
+          else
+            echo "matrix=[]" >> $GITHUB_OUTPUT
+            echo "count=0" >> $GITHUB_OUTPUT
+          fi
+
+  render-parallel:
+    name: Render ${{ matrix.target.slug }}
+    needs: discover-batch
+    if: needs.discover-batch.outputs.count > 0
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        target: ${{ fromJson(needs.discover-batch.outputs.matrix) }}
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+          cache-dependency-path: 'flick-output/remotion/package-lock.json'
+
+      - name: Install System Dependencies (FFmpeg & Chrome libs)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxrandr2 libgbm1 libasound2t64
+
+      - name: Install Remotion Dependencies
+        working-directory: flick-output/remotion
+        run: |
+          npm ci || npm install
+
+      - name: Stage Video Assets
+        run: |
+          TARGET_DIR="${{ matrix.target.path }}"
+          echo "Staging assets from $TARGET_DIR..."
+          mkdir -p flick-output/remotion/public
+          mkdir -p flick-output/remotion/src/data
+          cp "$TARGET_DIR/full-dialogue.mp3" flick-output/remotion/public/full-dialogue.mp3
+          cp "$TARGET_DIR/audio-manifest.json" flick-output/remotion/src/data/audio-manifest.json
+
+      - name: Render Remotion Reel
+        working-directory: flick-output/remotion
+        run: |
+          SLUG="${{ matrix.target.slug }}"
+          mkdir -p out
+          CORES=$(nproc)
+          echo "=== Starting Remotion Parallel Render: $SLUG (using $CORES CPU cores) ==="
+          npx remotion render src/index.tsx PythonStackReel "out/${SLUG}.mp4" --concurrency="$CORES"
+
+      - name: Upload Video Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.target.slug }}-reel
+          path: flick-output/remotion/out/*.mp4
+          retention-days: 14

@@ -7,6 +7,14 @@ import subprocess
 from pathlib import Path
 from datetime import datetime
 
+# Fix Windows console encoding for UTF-8 / emojis
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 ROOT_DIR = Path(__file__).parent.parent.parent
 BATCH_DIR = ROOT_DIR / "scripts" / "batch"
 MANIFEST_JSON = BATCH_DIR / "video-manifest.json"
@@ -42,6 +50,10 @@ def run_batch(batch_num: int, dry_run: bool = False, local_render: bool = False)
         out_dir = ROOT_DIR / item["output_folder"]
         out_dir.mkdir(parents=True, exist_ok=True)
         
+        if item.get("status") == "completed":
+            print(f"[{i}/10] Video #{vid_id} ({item['page_slug']}/{item['idea_slug']}/{item['script_slug']}) already completed. Skipping to next.")
+            continue
+
         print(f"\n[{i}/10] Processing Video #{vid_id}: {item['page_slug']} - {item['idea_slug']} - {item['script_slug']}")
         print(f"Hook: {item['hook']}")
         
