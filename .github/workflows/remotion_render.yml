@@ -10,7 +10,7 @@ on:
       concurrency:
         description: 'Rendering Concurrency (CPU cores)'
         required: false
-        default: '2'
+        default: '20'
       output_filename:
         description: 'Output MP4 filename (without extension)'
         required: false
@@ -49,7 +49,7 @@ jobs:
         working-directory: flick-output/remotion
         run: |
           COMPOSITION="${{ github.event.inputs.composition || 'PythonStackReel' }}"
-          CONCURRENCY="${{ github.event.inputs.concurrency || '2' }}"
+          CONCURRENCY="${{ github.event.inputs.concurrency || '20' }}"
           OUTPUT_NAME="${{ github.event.inputs.output_filename || 'python-stack-reel' }}"
 
           mkdir -p out

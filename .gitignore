@@ -18,9 +18,12 @@ flick-output/*.jpg
 flick-output/remotion/test*.png
 flick-output/remotion/node_modules/
 
-# Python
+# Python & Models
 __pycache__/
 *.pyc
+models/
+*.wav
+flick-output/temp_samples/
 
 # OS
 Thumbs.db
