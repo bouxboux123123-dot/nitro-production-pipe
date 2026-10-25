@@ -1,404 +1,404 @@
 {
-  "duration": 29.732667,
+  "duration": 29.668667,
   "sample_rate": 24000,
   "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
   "speed": 1.1,
-  "text": "The exact automated asset collection pipeline that gets new clients live in 24 hours. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Client onboarding SOP that collects assets and logins in 24 hours instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "text": "Stop chasing clients for Facebook ad access, logos, and brand guidelines for 3 weeks. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Client onboarding SOP that collects assets and logins in 24 hours instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
   "words": [
     {
-      "word": "The",
+      "word": "Stop",
       "start": 0.0,
-      "end": 0.42
+      "end": 0.56
     },
     {
-      "word": "exact",
-      "start": 0.42,
-      "end": 1.04
-    },
-    {
-      "word": "automated",
-      "start": 1.04,
-      "end": 1.66
-    },
-    {
-      "word": "asset",
-      "start": 1.66,
-      "end": 2.4
-    },
-    {
-      "word": "collection",
-      "start": 2.4,
-      "end": 3.14
-    },
-    {
-      "word": "pipeline",
-      "start": 3.14,
-      "end": 3.86
-    },
-    {
-      "word": "that",
-      "start": 3.86,
-      "end": 4.36
-    },
-    {
-      "word": "gets",
-      "start": 4.36,
-      "end": 4.76
-    },
-    {
-      "word": "new",
-      "start": 4.76,
-      "end": 5.22
+      "word": "chasing",
+      "start": 0.56,
+      "end": 1.02
     },
     {
       "word": "clients",
-      "start": 5.22,
-      "end": 5.7
+      "start": 1.02,
+      "end": 1.64
     },
     {
-      "word": "live",
-      "start": 5.7,
-      "end": 6.04
+      "word": "for",
+      "start": 1.64,
+      "end": 2.14
     },
     {
-      "word": "in",
-      "start": 6.04,
-      "end": 6.44
+      "word": "Facebook",
+      "start": 2.14,
+      "end": 2.56
     },
     {
-      "word": "24",
-      "start": 6.44,
-      "end": 6.86
+      "word": "ad",
+      "start": 2.56,
+      "end": 3.18
     },
     {
-      "word": "hours",
-      "start": 6.86,
-      "end": 7.78
+      "word": "access",
+      "start": 3.18,
+      "end": 4.02
     },
     {
-      "word": "Most",
-      "start": 8.58,
-      "end": 8.94
-    },
-    {
-      "word": "people",
-      "start": 8.94,
-      "end": 9.3
-    },
-    {
-      "word": "waste",
-      "start": 9.3,
-      "end": 9.92
-    },
-    {
-      "word": "fair",
-      "start": 9.92,
-      "end": 10.48
-    },
-    {
-      "word": "hours",
-      "start": 10.48,
-      "end": 10.96
-    },
-    {
-      "word": "every",
-      "start": 10.96,
-      "end": 11.5
-    },
-    {
-      "word": "week",
-      "start": 11.5,
-      "end": 11.9
-    },
-    {
-      "word": "doing",
-      "start": 11.9,
-      "end": 12.3
-    },
-    {
-      "word": "this",
-      "start": 12.3,
-      "end": 12.68
-    },
-    {
-      "word": "manually",
-      "start": 12.68,
-      "end": 13.32
-    },
-    {
-      "word": "Here",
-      "start": 14.18,
-      "end": 14.44
-    },
-    {
-      "word": "is",
-      "start": 14.44,
-      "end": 14.66
-    },
-    {
-      "word": "the",
-      "start": 14.66,
-      "end": 15.02
-    },
-    {
-      "word": "issue",
-      "start": 15.02,
-      "end": 15.46
-    },
-    {
-      "word": "repetitive",
-      "start": 16.12,
-      "end": 16.66
-    },
-    {
-      "word": "lock",
-      "start": 16.66,
-      "end": 17.24
-    },
-    {
-      "word": "flows",
-      "start": 17.24,
-      "end": 17.62
-    },
-    {
-      "word": "break",
-      "start": 17.62,
-      "end": 18.02
-    },
-    {
-      "word": "under",
-      "start": 18.02,
-      "end": 18.44
-    },
-    {
-      "word": "load",
-      "start": 18.44,
-      "end": 18.86
+      "word": "logos",
+      "start": 4.64,
+      "end": 4.84
     },
     {
       "word": "and",
-      "start": 18.86,
+      "start": 5.38,
+      "end": 5.62
+    },
+    {
+      "word": "brand",
+      "start": 5.62,
+      "end": 5.96
+    },
+    {
+      "word": "guidelines",
+      "start": 5.96,
+      "end": 6.64
+    },
+    {
+      "word": "for",
+      "start": 6.64,
+      "end": 7.16
+    },
+    {
+      "word": "three",
+      "start": 7.16,
+      "end": 7.52
+    },
+    {
+      "word": "weeks",
+      "start": 7.52,
+      "end": 7.96
+    },
+    {
+      "word": "Most",
+      "start": 9.18,
+      "end": 9.24
+    },
+    {
+      "word": "people",
+      "start": 9.24,
+      "end": 9.6
+    },
+    {
+      "word": "waste",
+      "start": 9.6,
+      "end": 10.22
+    },
+    {
+      "word": "fair",
+      "start": 10.22,
+      "end": 10.74
+    },
+    {
+      "word": "hours",
+      "start": 10.74,
+      "end": 11.18
+    },
+    {
+      "word": "every",
+      "start": 11.18,
+      "end": 11.72
+    },
+    {
+      "word": "week",
+      "start": 11.72,
+      "end": 12.12
+    },
+    {
+      "word": "doing",
+      "start": 12.12,
+      "end": 12.48
+    },
+    {
+      "word": "this",
+      "start": 12.48,
+      "end": 12.88
+    },
+    {
+      "word": "manually",
+      "start": 12.88,
+      "end": 13.48
+    },
+    {
+      "word": "Here",
+      "start": 14.32,
+      "end": 14.58
+    },
+    {
+      "word": "is",
+      "start": 14.58,
+      "end": 14.8
+    },
+    {
+      "word": "the",
+      "start": 14.8,
+      "end": 15.14
+    },
+    {
+      "word": "issue",
+      "start": 15.14,
+      "end": 15.58
+    },
+    {
+      "word": "Repetitive",
+      "start": 16.24,
+      "end": 16.8
+    },
+    {
+      "word": "lock",
+      "start": 16.8,
+      "end": 17.34
+    },
+    {
+      "word": "flows",
+      "start": 17.34,
+      "end": 17.72
+    },
+    {
+      "word": "break",
+      "start": 17.72,
+      "end": 18.12
+    },
+    {
+      "word": "under",
+      "start": 18.12,
+      "end": 18.52
+    },
+    {
+      "word": "load",
+      "start": 18.52,
+      "end": 18.9
+    },
+    {
+      "word": "and",
+      "start": 18.9,
       "end": 19.34
     },
     {
       "word": "steal",
       "start": 19.34,
-      "end": 19.68
+      "end": 19.64
     },
     {
       "word": "your",
-      "start": 19.68,
-      "end": 20.06
+      "start": 19.64,
+      "end": 20.0
     },
     {
       "word": "focus",
-      "start": 20.06,
-      "end": 20.6
+      "start": 20.0,
+      "end": 20.52
     },
     {
       "word": "The",
-      "start": 21.36,
-      "end": 21.46
+      "start": 21.26,
+      "end": 21.36
     },
     {
       "word": "fix",
-      "start": 21.46,
-      "end": 21.7
+      "start": 21.36,
+      "end": 21.62
     },
     {
       "word": "is",
-      "start": 21.7,
-      "end": 22.24
+      "start": 21.62,
+      "end": 22.0
     },
     {
       "word": "simple",
-      "start": 22.24,
-      "end": 22.52
+      "start": 22.0,
+      "end": 22.42
     },
     {
       "word": "Use",
-      "start": 22.52,
-      "end": 23.54
+      "start": 22.42,
+      "end": 23.44
     },
     {
       "word": "client",
-      "start": 23.54,
-      "end": 24.0
+      "start": 23.44,
+      "end": 23.9
     },
     {
       "word": "onboarding",
-      "start": 24.0,
-      "end": 24.76
+      "start": 23.9,
+      "end": 24.66
     },
     {
       "word": "as",
-      "start": 24.76,
-      "end": 25.0
+      "start": 24.66,
+      "end": 24.9
     },
     {
       "word": "you'll",
-      "start": 25.0,
-      "end": 25.3
+      "start": 24.9,
+      "end": 25.2
     },
     {
       "word": "be",
-      "start": 25.3,
-      "end": 25.54
+      "start": 25.2,
+      "end": 25.44
     },
     {
       "word": "that",
-      "start": 25.54,
-      "end": 25.92
+      "start": 25.44,
+      "end": 25.82
     },
     {
       "word": "collects",
-      "start": 25.92,
-      "end": 26.44
+      "start": 25.82,
+      "end": 26.32
     },
     {
       "word": "assets",
-      "start": 26.44,
-      "end": 27.02
+      "start": 26.32,
+      "end": 26.94
     },
     {
       "word": "and",
-      "start": 27.02,
-      "end": 27.4
+      "start": 26.94,
+      "end": 27.32
     },
     {
       "word": "logins",
-      "start": 27.4,
-      "end": 28.0
+      "start": 27.32,
+      "end": 27.9
     },
     {
       "word": "in",
-      "start": 28.0,
-      "end": 28.38
+      "start": 27.9,
+      "end": 28.28
     },
     {
       "word": "24",
-      "start": 28.38,
-      "end": 28.84
+      "start": 28.28,
+      "end": 28.74
     },
     {
       "word": "hours",
-      "start": 28.84,
-      "end": 29.56
+      "start": 28.74,
+      "end": 29.46
     },
     {
       "word": "instead",
-      "start": 29.56,
-      "end": 30.4
+      "start": 29.46,
+      "end": 30.3
     },
     {
       "word": "It",
-      "start": 31.32,
-      "end": 31.54
+      "start": 31.22,
+      "end": 31.44
     },
     {
       "word": "automates",
-      "start": 31.54,
-      "end": 32.2
+      "start": 31.44,
+      "end": 32.1
     },
     {
       "word": "every",
-      "start": 32.2,
-      "end": 32.84
+      "start": 32.1,
+      "end": 32.74
     },
     {
       "word": "step",
-      "start": 32.84,
-      "end": 33.2
+      "start": 32.74,
+      "end": 33.1
     },
     {
       "word": "in",
-      "start": 33.2,
-      "end": 33.5
+      "start": 33.1,
+      "end": 33.4
     },
     {
       "word": "heat",
-      "start": 33.5,
-      "end": 33.86
+      "start": 33.4,
+      "end": 33.78
     },
     {
       "word": "memory",
-      "start": 33.86,
-      "end": 34.3
+      "start": 33.78,
+      "end": 34.2
     },
     {
       "word": "with",
-      "start": 34.3,
-      "end": 34.84
+      "start": 34.2,
+      "end": 34.74
     },
     {
       "word": "zero",
-      "start": 34.84,
-      "end": 35.34
+      "start": 34.74,
+      "end": 35.24
     },
     {
       "word": "manual",
-      "start": 35.34,
-      "end": 36.06
+      "start": 35.24,
+      "end": 35.94
     },
     {
       "word": "oversight",
-      "start": 36.06,
-      "end": 36.72
+      "start": 35.94,
+      "end": 36.6
     },
     {
       "word": "You",
-      "start": 37.66,
-      "end": 37.8
+      "start": 37.54,
+      "end": 37.72
     },
     {
       "word": "get",
-      "start": 37.8,
-      "end": 38.2
+      "start": 37.72,
+      "end": 38.12
     },
     {
       "word": "instant",
-      "start": 38.2,
-      "end": 38.8
+      "start": 38.12,
+      "end": 38.7
     },
     {
       "word": "results",
-      "start": 38.8,
-      "end": 39.42
+      "start": 38.7,
+      "end": 39.34
     },
     {
       "word": "zero",
       "start": 40.16,
-      "end": 40.56
+      "end": 40.5
     },
     {
-      "word": "errors",
-      "start": 40.56,
-      "end": 41.28
+      "word": "hours",
+      "start": 40.5,
+      "end": 41.18
     },
     {
       "word": "and",
-      "start": 41.66,
-      "end": 41.9
+      "start": 41.58,
+      "end": 41.8
     },
     {
       "word": "five",
-      "start": 41.9,
-      "end": 42.3
+      "start": 41.8,
+      "end": 42.2
     },
     {
       "word": "times",
-      "start": 42.3,
-      "end": 43.0
+      "start": 42.2,
+      "end": 42.88
     },
     {
       "word": "faster",
-      "start": 43.0,
-      "end": 43.46
+      "start": 42.88,
+      "end": 43.36
     },
     {
       "word": "turnaround",
-      "start": 43.46,
-      "end": 44.16
+      "start": 43.36,
+      "end": 44.08
     }
   ]
 }
