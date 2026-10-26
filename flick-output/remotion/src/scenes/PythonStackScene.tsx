@@ -60,8 +60,11 @@ export const PythonStackScene: React.FC = () => {
     return pName && (Primitives as any)[pName] ? (Primitives as any)[pName] : null;
   }, [v]);
 
-  // Subtitle active word
-  const activeWordIndex = words.findIndex((w) => t >= w.start && t <= w.end);
+  // Subtitle active word: active until the next word begins (smooth Submagic style)
+  const activeWordIndex = words.findIndex((w, i) => {
+    const nextStart = i + 1 < words.length ? words[i + 1].start : w.end + 0.3;
+    return t >= w.start && t < nextStart;
+  });
   const activeWord = activeWordIndex !== -1 ? words[activeWordIndex] : null;
 
   // Stable phrase chunking (3-word batches for smooth mobile readability)
@@ -76,17 +79,19 @@ export const PythonStackScene: React.FC = () => {
 
   const currentChunk = useMemo(() => {
     if (!phraseChunks.length) return [];
-    const found = phraseChunks.find((chunk) => {
-      const start = chunk[0].start;
-      const end = chunk[chunk.length - 1].end + 0.15;
-      return t >= start && t <= end;
-    });
-    if (found) return found;
-    const nextIdx = phraseChunks.findIndex((chunk) => chunk[0].start > t);
-    if (nextIdx > 0) return phraseChunks[nextIdx - 1];
+    if (activeWordIndex !== -1) {
+      const chunkIdx = Math.floor(activeWordIndex / 3);
+      return phraseChunks[chunkIdx] || [];
+    }
+    const nextIdx = words.findIndex((w) => w.start > t);
+    if (nextIdx > 0) {
+      const prevWordIdx = nextIdx - 1;
+      const chunkIdx = Math.floor(prevWordIdx / 3);
+      return phraseChunks[chunkIdx] || [];
+    }
     if (nextIdx === 0) return phraseChunks[0];
     return phraseChunks[phraseChunks.length - 1] || [];
-  }, [phraseChunks, t]);
+  }, [phraseChunks, words, activeWordIndex, t]);
 
   const KEYWORDS = [
     'CRASHED',
@@ -103,6 +108,12 @@ export const PythonStackScene: React.FC = () => {
     'HALTS',
   ];
 
+  // Dynamic Act Transition Timings synchronized to speech
+  const t_hook = v?.timings?.hook ?? 4.30;
+  const t_act1 = v?.timings?.act1 ?? 8.00;
+  const t_act2 = v?.timings?.act2 ?? 12.60;
+  const t_act3 = v?.timings?.act3 ?? 23.50;
+
   // -------------------------------------------------------------
   // V7: TOP-OF-SCREEN PROGRESS BAR (0px -> 1080px across 30.0s)
   // -------------------------------------------------------------
@@ -115,12 +126,12 @@ export const PythonStackScene: React.FC = () => {
   // V11: CHAPTER MARKER PILLS (Top-Left HUD)
   // -------------------------------------------------------------
   const currentChapter = useMemo(() => {
-    if (t < 5.8) return { label: v?.hook?.chapter || '⚡ HOOK', color: '#ffffff', bg: 'rgba(255,255,255,0.15)' };
-    if (t < 12.5) return { label: v?.act1?.chapter || '🔷 THE STACK', color: '#74c7ec', bg: 'rgba(116,199,236,0.18)' };
-    if (t < 18.8) return { label: v?.act2?.chapter || '🛑 THE CRASH', color: '#f38ba8', bg: 'rgba(243,139,168,0.22)' };
-    if (t < 24.0) return { label: v?.act3?.chapter || '🚀 THE FIX', color: '#a6e3a1', bg: 'rgba(166,227,161,0.2)' };
+    if (t < t_hook) return { label: v?.hook?.chapter || '⚡ HOOK', color: '#ffffff', bg: 'rgba(255,255,255,0.15)' };
+    if (t < t_act1) return { label: v?.act1?.chapter || '🔷 THE BOTTLENECK', color: '#74c7ec', bg: 'rgba(116,199,236,0.18)' };
+    if (t < t_act2) return { label: v?.act2?.chapter || '🛑 THE CRISIS', color: '#f38ba8', bg: 'rgba(243,139,168,0.22)' };
+    if (t < t_act3) return { label: v?.act3?.chapter || '🚀 THE FIX', color: '#a6e3a1', bg: 'rgba(166,227,161,0.2)' };
     return { label: v?.act4?.chapter || '⚡ VICTORY', color: '#00e5ff', bg: 'rgba(0,229,255,0.2)' };
-  }, [t, v]);
+  }, [t, v, t_hook, t_act1, t_act2, t_act3]);
 
   // -------------------------------------------------------------
   // CAMERA SHAKE (2D) & TIGHTENED FLASH
@@ -147,37 +158,37 @@ export const PythonStackScene: React.FC = () => {
   // -------------------------------------------------------------
   // V8: 3D PERSPECTIVE TILT
   // -------------------------------------------------------------
-  const act1Tilt = interpolate(t, [5.8, 6.3], [14, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
-  const act2Tilt = interpolate(t, [12.5, 13.0], [-14, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
-  const act3Tilt = interpolate(t, [18.8, 19.3], [12, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act1Tilt = interpolate(t, [t_hook, t_hook + 0.5], [14, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act2Tilt = interpolate(t, [t_act1, t_act1 + 0.5], [-14, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act3Tilt = interpolate(t, [t_act2, t_act2 + 0.5], [12, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   // -------------------------------------------------------------
-  // HOOK ANIMATIONS (0.0s - 5.8s)
+  // HOOK ANIMATIONS (0.0s - t_hook)
   // -------------------------------------------------------------
   const hookBadgeSpring = spring({ frame, fps, config: { damping: 14, stiffness: 180 } });
   const hookLine2Spring = spring({ frame: frame - 45, fps, config: { damping: 12, stiffness: 220 } });
-  const hookExitY = interpolate(t, [5.4, 5.8], [0, -1400], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
-  const hookOpacity = interpolate(t, [5.4, 5.8], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const hookExitY = interpolate(t, [t_hook - 0.4, t_hook], [0, -1400], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const hookOpacity = interpolate(t, [t_hook - 0.4, t_hook], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   // -------------------------------------------------------------
-  // ACT 1: HAIRLINE HERO (5.8s - 12.5s)
+  // ACT 1: HAIRLINE HERO (t_hook - t_act1)
   // -------------------------------------------------------------
-  const act1Entry = spring({ frame: frame - f(5.8), fps, config: { damping: 14, stiffness: 120 } });
-  const act1ExitOpacity = interpolate(t, [12.2, 12.5], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
-  const act1ExitScale = interpolate(t, [12.2, 12.5], [1, 0.4], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act1Entry = spring({ frame: frame - f(t_hook), fps, config: { damping: 14, stiffness: 120 } });
+  const act1ExitOpacity = interpolate(t, [t_act1 - 0.35, t_act1], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act1ExitScale = interpolate(t, [t_act1 - 0.35, t_act1], [1, 0.4], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
-  const hairlineIntensity = interpolate(t, [5.8, 8.5, 12.0], [0.35, 0.75, 1.0], { extrapolateRight: 'clamp' });
-  const tag1Pop = spring({ frame: frame - f(7.2), fps, config: { damping: 12 } });
-  const tag2Pop = spring({ frame: frame - f(9.2), fps, config: { damping: 12 } });
-  const tag3Pop = spring({ frame: frame - f(10.6), fps, config: { damping: 12 } });
+  const hairlineIntensity = interpolate(t, [t_hook, t_hook + 2.0, t_act1], [0.35, 0.75, 1.0], { extrapolateRight: 'clamp' });
+  const tag1Pop = spring({ frame: frame - f(t_hook + 1.4), fps, config: { damping: 12 } });
+  const tag2Pop = spring({ frame: frame - f(t_hook + 2.4), fps, config: { damping: 12 } });
+  const tag3Pop = spring({ frame: frame - f(t_hook + 3.2), fps, config: { damping: 12 } });
 
   // -------------------------------------------------------------
-  // ACT 2: 1000-FRAME CRASH (12.5s - 18.8s)
+  // ACT 2: 1000-FRAME CRASH (t_act1 - t_act2)
   // -------------------------------------------------------------
-  const act2Entry = spring({ frame: frame - f(12.5), fps, config: { damping: 14, stiffness: 130 } });
-  const act2ExitX = interpolate(t, [18.4, 18.8], [0, -1300], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act2Entry = spring({ frame: frame - f(t_act1), fps, config: { damping: 14, stiffness: 130 } });
+  const act2ExitX = interpolate(t, [t_act2 - 0.35, t_act2], [0, -1300], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
-  const rawCounter = interpolate(t, [12.6, 14.2], [1, 1000], {
+  const rawCounter = interpolate(t, [t_act1 + 0.1, t_act1 + 1.7], [1, 1000], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
     easing: (x) => Math.pow(x, 3.8),
@@ -186,24 +197,24 @@ export const PythonStackScene: React.FC = () => {
   const depthBarWidth = (counterVal / 1000) * 100;
 
   const errorSlam = spring({
-    frame: frame - f(14.3),
+    frame: frame - f(t_act1 + 1.8),
     fps,
     config: { damping: 8, stiffness: 240 },
   });
 
   // V9: SYMBOL REACTION BURSTS
-  const burstCrashScale = spring({ frame: frame - f(14.28), fps, config: { damping: 6, stiffness: 280 } });
-  const burstCrashOpacity = interpolate(t, [14.28, 14.45, 14.95], [0, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const burstCrashScale = spring({ frame: frame - f(t_act1 + 1.78), fps, config: { damping: 6, stiffness: 280 } });
+  const burstCrashOpacity = interpolate(t, [t_act1 + 1.78, t_act1 + 1.95, t_act1 + 2.45], [0, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
-  const burstRocketScale = spring({ frame: frame - f(24.0), fps, config: { damping: 7, stiffness: 260 } });
-  const burstRocketOpacity = interpolate(t, [24.0, 24.25, 24.8], [0, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const burstRocketScale = spring({ frame: frame - f(t_act3), fps, config: { damping: 7, stiffness: 260 } });
+  const burstRocketOpacity = interpolate(t, [t_act3, t_act3 + 0.25, t_act3 + 0.8], [0, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   // -------------------------------------------------------------
-  // ACT 3: V12 A/B SPLIT SCREEN (18.8s - 24.0s)
+  // ACT 3: V12 A/B SPLIT SCREEN (t_act2 - t_act3)
   // -------------------------------------------------------------
-  const act3Entry = spring({ frame: frame - f(18.8), fps, config: { damping: 13, stiffness: 140 } });
-  const act3ExitX = interpolate(t, [23.6, 24.0], [0, -1300], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
-  const dividerHeight = interpolate(t, [18.8, 19.3], [0, 650], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act3Entry = spring({ frame: frame - f(t_act2), fps, config: { damping: 13, stiffness: 140 } });
+  const act3ExitX = interpolate(t, [t_act3 - 0.35, t_act3], [0, -1300], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const dividerHeight = interpolate(t, [t_act2, t_act2 + 0.5], [0, 650], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   // V6: Letter-by-letter code typing
   const codeLines: string[] = useMemo(() => {
@@ -231,16 +242,16 @@ export const PythonStackScene: React.FC = () => {
   const cursorBlink = Math.sin(frame * 0.45) > 0;
 
   // -------------------------------------------------------------
-  // ACT 4: 5X BENCHMARK PAYOFF (24.0s - 30.0s)
+  // ACT 4: 5X BENCHMARK PAYOFF (t_act3 - 30.0s)
   // -------------------------------------------------------------
-  const act4Entry = spring({ frame: frame - f(24.0), fps, config: { damping: 14, stiffness: 130 } });
-  const speedupVal = interpolate(t, [24.2, 26.5], [1.0, 5.0], {
+  const act4Entry = spring({ frame: frame - f(t_act3), fps, config: { damping: 14, stiffness: 130 } });
+  const speedupVal = interpolate(t, [t_act3 + 0.2, t_act3 + 2.5], [1.0, 5.0], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
   }).toFixed(1);
 
-  const recursionBarFill = interpolate(t, [24.5, 25.8], [0, 22], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
-  const dequeBarFill = interpolate(t, [24.5, 26.8], [0, 100], {
+  const recursionBarFill = interpolate(t, [t_act3 + 0.5, t_act3 + 1.8], [0, 22], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const dequeBarFill = interpolate(t, [t_act3 + 0.5, t_act3 + 2.8], [0, 100], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
     easing: (x) => 1 - Math.pow(1 - x, 3),
@@ -288,13 +299,13 @@ export const PythonStackScene: React.FC = () => {
             position: 'absolute',
             inset: 0,
             backgroundColor:
-              t < 5.8
+              t < t_hook
                 ? 'rgba(137, 180, 250, 0.18)' // Act 1 Hook: Soft Indigo
-                : t < 12.5
-                ? 'rgba(203, 166, 247, 0.16)' // Act 1 Stack: Purple
-                : t < 18.8
+                : t < t_act1
+                ? 'rgba(203, 166, 247, 0.16)' // Act 1: Purple
+                : t < t_act2
                 ? 'rgba(243, 139, 168, 0.30)' // Act 2 Crash / Recursion: Crimson Red
-                : t < 24.0
+                : t < t_act3
                 ? 'rgba(166, 227, 161, 0.20)' // Act 3 Iterative: Emerald Green
                 : 'rgba(137, 220, 235, 0.20)', // Act 4 5x Faster: Cyan
             mixBlendMode: 'color',
@@ -306,7 +317,7 @@ export const PythonStackScene: React.FC = () => {
             position: 'absolute',
             inset: 0,
             background:
-              t >= 12.5 && t < 18.8
+              t >= t_act1 && t < t_act2
                 ? 'radial-gradient(circle at center, rgba(243, 139, 168, 0.25) 0%, rgba(10, 5, 10, 0.88) 100%)'
                 : 'radial-gradient(circle at center, rgba(0, 0, 0, 0.2) 0%, rgba(7, 8, 14, 0.85) 100%)',
           }}
@@ -314,7 +325,7 @@ export const PythonStackScene: React.FC = () => {
       </div>
 
       {/* V3: CRT SCAN-LINE OVERLAY (Act 2 Crash) */}
-      {t >= 12.4 && t < 18.8 && (
+      {t >= t_act1 && t < t_act2 && (
         <div
           style={{
             position: 'absolute',
@@ -458,8 +469,8 @@ export const PythonStackScene: React.FC = () => {
               : 'none',
         }}
       >
-        {/* ===================== HOOK: 0.0s - 5.8s ===================== */}
-        {t < 5.8 && (
+        {/* ===================== HOOK: 0.0s - t_hook ===================== */}
+        {t < t_hook && (
           <div
             style={{
               position: 'absolute',
@@ -559,8 +570,8 @@ export const PythonStackScene: React.FC = () => {
           </div>
         )}
 
-        {/* ===================== ACT 1: HERO (5.8s - 12.5s) ===================== */}
-        {t >= 5.8 && t < 12.5 && (
+        {/* ===================== ACT 1: HERO (t_hook - t_act1) ===================== */}
+        {t >= t_hook && t < t_act1 && (
           <div
             style={{
               position: 'absolute',
@@ -576,7 +587,7 @@ export const PythonStackScene: React.FC = () => {
           >
             {Act1Primitive ? (
               <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
-                <Sequence from={f(5.8)} durationInFrames={f(6.7)} layout="none">
+                <Sequence from={f(t_hook)} durationInFrames={f(t_act1 - t_hook)} layout="none">
                   <Act1Primitive {...(v?.act1?.props || {})} />
                 </Sequence>
               </div>
@@ -712,8 +723,8 @@ export const PythonStackScene: React.FC = () => {
           </div>
         )}
 
-        {/* ===================== ACT 2: 1000-FRAME CRASH (12.5s - 18.8s) ===================== */}
-        {t >= 12.5 && t < 18.8 && (
+        {/* ===================== ACT 2: 1000-FRAME CRASH (t_act1 - t_act2) ===================== */}
+        {t >= t_act1 && t < t_act2 && (
           <div
             style={{
               position: 'absolute',
@@ -728,7 +739,7 @@ export const PythonStackScene: React.FC = () => {
           >
             {Act2Primitive ? (
               <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
-                <Sequence from={f(12.5)} durationInFrames={f(6.3)} layout="none">
+                <Sequence from={f(t_act1)} durationInFrames={f(t_act2 - t_act1)} layout="none">
                   <Act2Primitive {...(v?.act2?.props || {})} />
                 </Sequence>
               </div>
@@ -849,8 +860,8 @@ export const PythonStackScene: React.FC = () => {
           </div>
         )}
 
-        {/* ===================== ACT 3: V12 A/B SPLIT SCREEN (18.8s - 24.0s) ===================== */}
-        {t >= 18.8 && t < 24.0 && (
+        {/* ===================== ACT 3: V12 A/B SPLIT SCREEN (t_act2 - t_act3) ===================== */}
+        {t >= t_act2 && t < t_act3 && (
           <div
             style={{
               position: 'absolute',
@@ -865,7 +876,7 @@ export const PythonStackScene: React.FC = () => {
           >
             {Act3Primitive ? (
               <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
-                <Sequence from={f(18.8)} durationInFrames={f(5.2)} layout="none">
+                <Sequence from={f(t_act2)} durationInFrames={f(t_act3 - t_act2)} layout="none">
                   <Act3Primitive {...(v?.act3?.props || {})} />
                 </Sequence>
               </div>
@@ -1006,8 +1017,8 @@ export const PythonStackScene: React.FC = () => {
           </div>
         )}
 
-        {/* ===================== ACT 4: 5X BENCHMARK PAYOFF (24.0s - 30.0s) ===================== */}
-        {t >= 24.0 && (
+        {/* ===================== ACT 4: 5X BENCHMARK PAYOFF (t_act3 - 30.0s) ===================== */}
+        {t >= t_act3 && (
           <div
             style={{
               position: 'absolute',
@@ -1022,7 +1033,7 @@ export const PythonStackScene: React.FC = () => {
           >
             {Act4Primitive ? (
               <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
-                <Sequence from={f(24.0)} durationInFrames={f(6.0)} layout="none">
+                <Sequence from={f(t_act3)} durationInFrames={f(30.0 - t_act3)} layout="none">
                   <Act4Primitive {...(v?.act4?.props || {})} />
                 </Sequence>
               </div>
@@ -1164,7 +1175,7 @@ export const PythonStackScene: React.FC = () => {
           }}
         >
           {currentChunk.map((w, idx) => {
-            const isCurrent = t >= w.start && t <= w.end;
+            const isCurrent = activeWord ? activeWord.start === w.start : false;
             const wordAge = frame - f(w.start);
             const pop = isCurrent
               ? spring({ frame: wordAge, fps, config: { damping: 11, stiffness: 220 } })
@@ -1250,17 +1261,17 @@ export const PythonStackScene: React.FC = () => {
         <Audio src={staticFile('sounds/Click.mp3')} volume={0.20} />
       </Sequence>
 
-      {/* Subtle Transition Whooshes (Soft cinematic air displacement, gentle low volume 0.22) */}
-      <Sequence from={f(5.8)} durationInFrames={f(0.35)}>
+      {/* Subtle Transition Whooshes (Phase-locked to dynamic act transitions, gentle volume 0.22) */}
+      <Sequence from={f(t_hook)} durationInFrames={f(0.35)}>
         <Audio src={staticFile('sounds/transitions.mp3')} volume={0.22} />
       </Sequence>
-      <Sequence from={f(12.5)} durationInFrames={f(0.35)}>
+      <Sequence from={f(t_act1)} durationInFrames={f(0.35)}>
         <Audio src={staticFile('sounds/transitions.mp3')} volume={0.22} />
       </Sequence>
-      <Sequence from={f(18.8)} durationInFrames={f(0.35)}>
+      <Sequence from={f(t_act2)} durationInFrames={f(0.35)}>
         <Audio src={staticFile('sounds/transitions.mp3')} volume={0.22} />
       </Sequence>
-      <Sequence from={f(24.0)} durationInFrames={f(0.35)}>
+      <Sequence from={f(t_act3)} durationInFrames={f(0.35)}>
         <Audio src={staticFile('sounds/transitions.mp3')} volume={0.22} />
       </Sequence>
     </AbsoluteFill>

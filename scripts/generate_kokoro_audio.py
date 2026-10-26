@@ -71,9 +71,15 @@ def generate_audio(text: str, out_dir: Path, remotion_sync: bool = True, visuals
     # Word-level timestamps using faster-whisper with ground-truth script alignment
     print("Aligning word-level timestamps with Faster-Whisper...")
     whisper = WhisperModel("tiny.en", device="cpu", compute_type="int8")
-    whisper_audio, _ = sf.read(str(wav_path), dtype="float32")
+    whisper_audio, whisper_sr = sf.read(str(wav_path), dtype="float32")
     if len(whisper_audio.shape) > 1:
         whisper_audio = whisper_audio.mean(axis=1)
+        
+    # Whisper requires audio at exactly 16,000 Hz. If Kokoro outputs 24,000 Hz, resample!
+    if whisper_sr != 16000:
+        from scipy.signal import resample
+        target_samples = int(len(whisper_audio) * 16000 / whisper_sr)
+        whisper_audio = resample(whisper_audio, target_samples)
         
     # Provide text as initial prompt to guide Whisper language model
     segments, info = whisper.transcribe(whisper_audio, word_timestamps=True, initial_prompt=text)
