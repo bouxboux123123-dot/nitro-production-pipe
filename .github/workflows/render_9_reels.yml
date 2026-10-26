@@ -1,0 +1,100 @@
+name: Render 9 Reels Matrix (Parallel Cloud Production)
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/render_9_reels.yml'
+
+jobs:
+  render-reel:
+    name: Reel ${{ matrix.reel_num }} (${{ matrix.page }}/${{ matrix.idea }}/${{ matrix.script }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - reel_num: 1
+            page: page-01
+            idea: idea-01
+            script: script-01
+            bg: backgrounds/bg_01.mp4
+          - reel_num: 2
+            page: page-01
+            idea: idea-01
+            script: script-02
+            bg: backgrounds/bg_02.mp4
+          - reel_num: 3
+            page: page-01
+            idea: idea-01
+            script: script-03
+            bg: backgrounds/bg_03.mp4
+          - reel_num: 4
+            page: page-01
+            idea: idea-01
+            script: script-04
+            bg: backgrounds/bg_04.mp4
+          - reel_num: 5
+            page: page-01
+            idea: idea-01
+            script: script-05
+            bg: backgrounds/bg_05.mp4
+          - reel_num: 6
+            page: page-01
+            idea: idea-02
+            script: script-01
+            bg: backgrounds/bg_06.mp4
+          - reel_num: 7
+            page: page-01
+            idea: idea-02
+            script: script-02
+            bg: backgrounds/bg_07.mp4
+          - reel_num: 8
+            page: page-01
+            idea: idea-02
+            script: script-03
+            bg: backgrounds/bg_08.mp4
+          - reel_num: 9
+            page: page-01
+            idea: idea-02
+            script: script-04
+            bg: backgrounds/bg_09.mp4
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+          cache-dependency-path: 'flick-output/remotion/package-lock.json'
+
+      - name: Install System Dependencies (FFmpeg & Chrome libs)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxrandr2 libgbm1 libasound2t64
+
+      - name: Install Remotion Dependencies
+        working-directory: flick-output/remotion
+        run: |
+          npm ci || npm install
+
+      - name: Stage Reel Assets
+        run: |
+          cp flick-output/${{ matrix.page }}/${{ matrix.idea }}/${{ matrix.script }}/audio-manifest.json flick-output/remotion/src/data/audio-manifest.json
+          cp flick-output/${{ matrix.page }}/${{ matrix.idea }}/${{ matrix.script }}/audio-manifest.json flick-output/remotion/public/audio-manifest.json
+          cp flick-output/${{ matrix.page }}/${{ matrix.idea }}/${{ matrix.script }}/full-dialogue.mp3 flick-output/remotion/public/full-dialogue.mp3
+
+      - name: Render Reel ${{ matrix.reel_num }}
+        working-directory: flick-output/remotion
+        run: |
+          npx remotion render src/index.tsx PythonStackReel out/final-reel.mp4 --concurrency=20 --props='{"backgroundVideo": "${{ matrix.bg }}"}'
+
+      - name: Upload Rendered Video
+        uses: actions/upload-artifact@v4
+        with:
+          name: reel-${{ matrix.reel_num }}-${{ matrix.page }}-${{ matrix.idea }}-${{ matrix.script }}
+          path: flick-output/remotion/out/final-reel.mp4
+          if-no-files-found: error

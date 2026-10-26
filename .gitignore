@@ -13,6 +13,8 @@ videos/**/renders/
 # Remotion Renders & Stills
 flick-output/**/*.mp4
 flick-output/*.mp4
+!flick-output/remotion/public/minecraft_bg.mp4
+!flick-output/remotion/public/backgrounds/*.mp4
 flick-output/*.png
 flick-output/*.jpg
 flick-output/review_stills/

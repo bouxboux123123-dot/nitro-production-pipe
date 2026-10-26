@@ -29,14 +29,25 @@ const CRASH_PARTICLES = Array.from({ length: 50 }, (_, i) => ({
   delay: (i % 6) * 0.015,
 }));
 
-export const PythonStackScene: React.FC = () => {
+export interface PythonStackSceneProps {
+  manifest?: any;
+  audioFile?: string;
+  backgroundVideo?: string;
+}
+
+export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
+  manifest,
+  audioFile = 'full-dialogue.mp3',
+  backgroundVideo = 'backgrounds/bg_01.mp4',
+}) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const t = frame / fps; // current playback time in seconds
   const f = (sec: number) => Math.round(sec * fps);
 
-  const words = useMemo(() => manifestData.words as WordTimestamp[], []);
-  const v = useMemo(() => (manifestData as any)?.visuals || null, []);
+  const activeManifest = manifest || manifestData;
+  const words = useMemo(() => (activeManifest?.words || []) as WordTimestamp[], [activeManifest]);
+  const v = useMemo(() => (activeManifest as any)?.visuals || null, [activeManifest]);
   const hookLine1Text = v?.hook?.line1 || 'The biggest bottleneck for scaling an agency is slow client onboarding.';
   const hookWords = useMemo(() => hookLine1Text.split(' '), [hookLine1Text]);
 
@@ -290,7 +301,7 @@ export const PythonStackScene: React.FC = () => {
         }}
       >
         <OffthreadVideo
-          src={staticFile('minecraft_bg.mp4')}
+          src={staticFile(backgroundVideo)}
           style={{ width: '100%', height: '100%', objectFit: 'cover' }}
         />
         {/* Crisp Edge Vignette: 100% natural, sharp, high-res gameplay */}
@@ -1138,7 +1149,7 @@ export const PythonStackScene: React.FC = () => {
 
       {/* ---------------- LAYER 3: MINIMAL ACOUSTIC SOUND SET ---------------- */}
       {/* Primary Voiceover Narration */}
-      <Audio src={staticFile('full-dialogue.mp3')} volume={1.0} />
+      <Audio src={staticFile(audioFile)} volume={1.0} />
 
       {/* Subtitle Word Transition Ticks (Subtle micro-click whenever active word changes) */}
       {words.map((w, i) => (
