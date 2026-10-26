@@ -90,7 +90,8 @@ jobs:
       - name: Render Reel ${{ matrix.reel_num }}
         working-directory: flick-output/remotion
         run: |
-          npx remotion render src/index.tsx PythonStackReel out/final-reel.mp4 --concurrency=20 --props='{"backgroundVideo": "${{ matrix.bg }}"}'
+          mkdir -p out
+          npx remotion render src/index.tsx PythonStackReel out/final-reel.mp4 --concurrency=100% --props='{"backgroundVideo": "${{ matrix.bg }}"}'
 
       - name: Upload Rendered Video
         uses: actions/upload-artifact@v4
