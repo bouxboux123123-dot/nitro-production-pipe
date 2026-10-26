@@ -37,6 +37,8 @@ export const PythonStackScene: React.FC = () => {
 
   const words = useMemo(() => manifestData.words as WordTimestamp[], []);
   const v = useMemo(() => (manifestData as any)?.visuals || null, []);
+  const hookLine1Text = v?.hook?.line1 || 'The biggest bottleneck for scaling an agency is slow client onboarding.';
+  const hookWords = useMemo(() => hookLine1Text.split(' '), [hookLine1Text]);
 
   const Act1Primitive = useMemo(() => {
     const pName = v?.act1?.primitive;
@@ -152,9 +154,8 @@ export const PythonStackScene: React.FC = () => {
   // -------------------------------------------------------------
   // HOOK ANIMATIONS (0.0s - 5.8s)
   // -------------------------------------------------------------
-  const hookLine1Spring = spring({ frame, fps, config: { damping: 12, stiffness: 140 } });
-  const hookLine2Spring = spring({ frame: frame - f(2.6), fps, config: { damping: 10, stiffness: 180 } });
-  const hookLine3Spring = spring({ frame: frame - f(4.4), fps, config: { damping: 14, stiffness: 120 } });
+  const hookBadgeSpring = spring({ frame, fps, config: { damping: 14, stiffness: 180 } });
+  const hookLine2Spring = spring({ frame: frame - 45, fps, config: { damping: 12, stiffness: 220 } });
   const hookExitY = interpolate(t, [5.4, 5.8], [0, -1400], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const hookOpacity = interpolate(t, [5.4, 5.8], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
@@ -477,7 +478,7 @@ export const PythonStackScene: React.FC = () => {
           >
             <div
               style={{
-                transform: `scale(${hookLine1Spring})`,
+                transform: `scale(${hookBadgeSpring})`,
                 background: 'rgba(255, 255, 255, 0.12)',
                 border: '2px solid rgba(255, 255, 255, 0.45)',
                 borderRadius: 50,
@@ -493,14 +494,13 @@ export const PythonStackScene: React.FC = () => {
               {v?.hook?.badge || '⚡ AGENCY SYSTEMS'}
             </div>
 
-            {/* High-Impact Headline (Primary Focal Point, Mobile-First) */}
+            {/* High-Impact Headline: Speedy Word-by-Word Kinetic Reveal */}
             <div
               style={{
-                transform: `scale(${hookLine1Spring})`,
                 fontFamily: 'system-ui, -apple-system, sans-serif',
                 fontSize: 62,
                 fontWeight: 900,
-                lineHeight: 1.2,
+                lineHeight: 1.25,
                 color: '#ffffff',
                 maxWidth: 960,
                 padding: '0 20px',
@@ -508,15 +508,47 @@ export const PythonStackScene: React.FC = () => {
                 textShadow: '0 4px 30px rgba(0,0,0,0.95)',
               }}
             >
-              {v?.hook?.line1 || 'The biggest bottleneck for scaling an agency is slow client onboarding.'}
+              {hookWords.map((word, i) => {
+                const wordStartFrame = Math.round(2 + i * 3.5);
+                const isRevealed = frame >= wordStartFrame;
+                const wordAge = frame - wordStartFrame;
+                const popScale = isRevealed
+                  ? interpolate(wordAge, [0, 2, 4], [1.16, 1.05, 1.0], {
+                      extrapolateRight: 'clamp',
+                    })
+                  : 1.0;
+                const isCurrent = isRevealed && wordAge < 4;
+
+                return (
+                  <span
+                    key={i}
+                    style={{
+                      display: 'inline-block',
+                      opacity: isRevealed ? 1 : 0,
+                      transform: `scale(${popScale})`,
+                      transformOrigin: 'bottom center',
+                      color: isCurrent ? '#00e5ff' : '#ffffff',
+                      textShadow: isCurrent
+                        ? '0 0 20px rgba(0, 229, 255, 0.8), 0 4px 30px rgba(0,0,0,0.95)'
+                        : '0 4px 30px rgba(0,0,0,0.95)',
+                      marginRight: i < hookWords.length - 1 ? '0.45em' : 0,
+                    }}
+                  >
+                    {word}
+                  </span>
+                );
+              })}
+
               {v?.hook?.line2 && (
                 <div
                   style={{
-                    marginTop: 18,
+                    marginTop: 22,
+                    opacity: frame >= 45 ? 1 : 0,
+                    transform: `scale(${hookLine2Spring})`,
                     color: '#00e5ff',
-                    fontSize: 44,
+                    fontSize: 46,
                     fontWeight: 900,
-                    textShadow: '0 0 35px rgba(0, 229, 255, 0.75)',
+                    textShadow: '0 0 35px rgba(0, 229, 255, 0.85)',
                     letterSpacing: '0.04em',
                   }}
                 >
@@ -1184,10 +1216,26 @@ export const PythonStackScene: React.FC = () => {
       {/* Primary Voiceover Narration */}
       <Audio src={staticFile('full-dialogue.mp3')} volume={1.0} />
 
-      {/* Subtle UI Clicks (Authentic mechanical UI clicks, gentle low volume 0.18) */}
-      <Sequence from={f(0.0)} durationInFrames={f(0.35)}>
-        <Audio src={staticFile('sounds/Click.mp3')} volume={0.18} />
-      </Sequence>
+      {/* Hook Rapid Kinetic Word Clicks */}
+      {hookWords.map((_, i) => {
+        const clickFrame = Math.round(2 + i * 3.5);
+        return (
+          <Sequence
+            key={`hook-click-${i}`}
+            from={clickFrame}
+            durationInFrames={5}
+          >
+            <Audio src={staticFile('sounds/Click.mp3')} volume={0.16} />
+          </Sequence>
+        );
+      })}
+      {v?.hook?.line2 && (
+        <Sequence from={45} durationInFrames={6}>
+          <Audio src={staticFile('sounds/Click.mp3')} volume={0.24} />
+        </Sequence>
+      )}
+
+      {/* Subtle UI Clicks for Act Transitions & Milestones */}
       <Sequence from={f(8.5)} durationInFrames={f(0.35)}>
         <Audio src={staticFile('sounds/Click.mp3')} volume={0.18} />
       </Sequence>
