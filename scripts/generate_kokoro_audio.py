@@ -68,28 +68,76 @@ def generate_audio(text: str, out_dir: Path, remotion_sync: bool = True, visuals
     duration = float(subprocess.check_output(probe_cmd).decode().strip())
     print(f"Generated {mp3_path.name}: {duration:.3f}s")
     
-    # Word-level timestamps using faster-whisper
+    # Word-level timestamps using faster-whisper with ground-truth script alignment
     print("Aligning word-level timestamps with Faster-Whisper...")
     whisper = WhisperModel("tiny.en", device="cpu", compute_type="int8")
     whisper_audio, _ = sf.read(str(wav_path), dtype="float32")
     if len(whisper_audio.shape) > 1:
         whisper_audio = whisper_audio.mean(axis=1)
         
-    segments, info = whisper.transcribe(whisper_audio, word_timestamps=True)
+    # Provide text as initial prompt to guide Whisper language model
+    segments, info = whisper.transcribe(whisper_audio, word_timestamps=True, initial_prompt=text)
     
-    words = []
+    raw_whisper_words = []
     for segment in segments:
         if segment.words:
             for w in segment.words:
                 cleaned_word = w.word.strip().replace('"', '').replace('.', '').replace(',', '').replace('?', '')
                 if cleaned_word:
-                    words.append({
+                    raw_whisper_words.append({
                         "word": cleaned_word,
                         "start": round(w.start, 3),
                         "end": round(w.end, 3)
                     })
                     
-    print(f"Aligned {len(words)} words across {duration:.3f} seconds.")
+    # Force-align ground truth script text with Whisper timings
+    import re
+    from difflib import SequenceMatcher
+
+    raw_script_tokens = [w.strip() for w in text.split() if w.strip()]
+    clean_script_tokens = [re.sub(r'^[^\w]+|[^\w]+$', '', t) for t in raw_script_tokens]
+    clean_script_tokens = [t for t in clean_script_tokens if t]
+
+    if raw_whisper_words and clean_script_tokens:
+        s_norm = [w.lower() for w in clean_script_tokens]
+        w_norm = [w["word"].lower() for w in raw_whisper_words]
+        matcher = SequenceMatcher(None, s_norm, w_norm)
+        words = []
+        for tag, i1, i2, j1, j2 in matcher.get_opcodes():
+            if tag == 'equal':
+                for s_idx, w_idx in zip(range(i1, i2), range(j1, j2)):
+                    words.append({
+                        "word": clean_script_tokens[s_idx],
+                        "start": raw_whisper_words[w_idx]["start"],
+                        "end": raw_whisper_words[w_idx]["end"]
+                    })
+            elif tag == 'replace':
+                t_start = raw_whisper_words[j1]["start"]
+                t_end = raw_whisper_words[min(len(raw_whisper_words)-1, j2 - 1)]["end"]
+                num_tokens = i2 - i1
+                dt = max(0.12, (t_end - t_start) / max(1, num_tokens))
+                for idx, s_idx in enumerate(range(i1, i2)):
+                    words.append({
+                        "word": clean_script_tokens[s_idx],
+                        "start": round(t_start + idx * dt, 3),
+                        "end": round(min(t_end, t_start + (idx + 1) * dt), 3)
+                    })
+            elif tag == 'delete':
+                prev_end = words[-1]["end"] if words else raw_whisper_words[0]["start"]
+                next_start = raw_whisper_words[j1]["start"] if j1 < len(raw_whisper_words) else prev_end + 0.3
+                num_tokens = i2 - i1
+                dt = max(0.12, (next_start - prev_end) / max(1, num_tokens))
+                for idx, s_idx in enumerate(range(i1, i2)):
+                    words.append({
+                        "word": clean_script_tokens[s_idx],
+                        "start": round(prev_end + idx * dt, 3),
+                        "end": round(prev_end + (idx + 1) * dt, 3)
+                    })
+            # tag == 'insert': whisper hallucinated extra words, safely skip
+    else:
+        words = raw_whisper_words
+
+    print(f"Aligned {len(words)} ground-truth words across {duration:.3f} seconds.")
     
     # Clean up temp wav
     if wav_path.exists():

@@ -32,7 +32,7 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
       subtitle: 'Client hub provisioned, Slack synced, NDA sealed',
       status: 'completed',
       badge: '100% COMPLETE',
-      itemsCount: '4/4 Tasks',
+      itemsCount: '4/4 Tasks Done',
     },
     {
       day: 'Day 2',
@@ -44,23 +44,15 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
     },
     {
       day: 'Day 3',
-      title: 'Executive Kickoff Call',
-      subtitle: 'KPI alignment, sprint roadmap, creative direction',
+      title: 'Final Strategy Kickoff',
+      subtitle: 'KPI alignment, sprint roadmap, campaign architecture',
       status: 'upcoming',
-      badge: 'SCHEDULED',
-      itemsCount: 'Oct 28 • 10:00 AM',
-    },
-    {
-      day: 'Day 4',
-      title: 'Full Strategy Delivery',
-      subtitle: 'Ad account restructure & campaign architecture go-live',
-      status: 'upcoming',
-      badge: 'FINAL LAUNCH',
-      itemsCount: 'SLA Milestone',
+      badge: 'OCT 28 SLA',
+      itemsCount: 'Launch Ready',
     },
   ],
-  width = 880,
-  height = 620,
+  width = 960,
+  height = 760,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -158,26 +150,26 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
         }}
       >
         <div>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 4 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 6 }}>
             <span
               style={{
                 display: 'inline-flex',
                 alignItems: 'center',
                 justifyContent: 'center',
-                width: 26,
-                height: 26,
-                borderRadius: 8,
+                width: 34,
+                height: 34,
+                borderRadius: 10,
                 background: 'linear-gradient(135deg, #0284c7, #38bdf8)',
-                boxShadow: '0 0 12px rgba(56, 189, 248, 0.5)',
+                boxShadow: '0 0 16px rgba(56, 189, 248, 0.6)',
               }}
             >
-              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="2.5">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="2.5">
                 <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
               </svg>
             </span>
             <span
               style={{
-                fontSize: 12,
+                fontSize: 16,
                 fontWeight: 800,
                 letterSpacing: '0.12em',
                 textTransform: 'uppercase',
@@ -187,10 +179,10 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
               AGENCY WORKFLOW SYSTEMS • PAGE 10
             </span>
           </div>
-          <div style={{ fontSize: 24, fontWeight: 800, color: '#ffffff', letterSpacing: '-0.02em' }}>
+          <div style={{ fontSize: 34, fontWeight: 900, color: '#ffffff', letterSpacing: '-0.02em' }}>
             {clientName}
           </div>
-          <div style={{ fontSize: 13, color: '#94a3b8', marginTop: 2, fontWeight: 500 }}>
+          <div style={{ fontSize: 18, color: '#94a3b8', marginTop: 4, fontWeight: 600 }}>
             {contractTier}
           </div>
         </div>
@@ -201,35 +193,35 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'flex-end',
-            gap: 6,
+            gap: 8,
           }}
         >
           <div
             style={{
               display: 'inline-flex',
               alignItems: 'center',
-              gap: 8,
-              padding: '6px 14px',
+              gap: 10,
+              padding: '8px 20px',
               borderRadius: 30,
-              background: 'rgba(34, 197, 94, 0.12)',
-              border: '1px solid rgba(34, 197, 94, 0.4)',
-              boxShadow: '0 0 15px rgba(34, 197, 94, 0.2)',
+              background: 'rgba(34, 197, 94, 0.16)',
+              border: '1.5px solid rgba(34, 197, 94, 0.5)',
+              boxShadow: '0 0 20px rgba(34, 197, 94, 0.3)',
             }}
           >
             <span
               style={{
-                width: 8,
-                height: 8,
+                width: 10,
+                height: 10,
                 borderRadius: '50%',
                 backgroundColor: '#22c55e',
-                boxShadow: '0 0 8px #22c55e',
+                boxShadow: '0 0 10px #22c55e',
               }}
             />
-            <span style={{ fontSize: 12, fontWeight: 700, color: '#4ade80', letterSpacing: '0.04em' }}>
+            <span style={{ fontSize: 16, fontWeight: 800, color: '#4ade80', letterSpacing: '0.04em' }}>
               ON-TRACK (72-HR SLA)
             </span>
           </div>
-          <span style={{ fontSize: 12, color: '#cbd5e1', fontWeight: 600 }}>
+          <span style={{ fontSize: 16, color: '#cbd5e1', fontWeight: 600 }}>
             ⏱ {slaHoursRemaining}h remaining to Strategy Launch
           </span>
         </div>
@@ -239,10 +231,10 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
       <div
         style={{
           background: 'rgba(30, 41, 59, 0.65)',
-          borderRadius: 14,
-          padding: '12px 18px',
-          marginBottom: 20,
-          border: '1px solid rgba(148, 163, 184, 0.12)',
+          borderRadius: 16,
+          padding: '16px 22px',
+          marginBottom: 24,
+          border: '1px solid rgba(148, 163, 184, 0.18)',
           display: 'flex',
           alignItems: 'center',
           gap: 16,
@@ -253,9 +245,9 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
             style={{
               display: 'flex',
               justifyContent: 'space-between',
-              fontSize: 12,
-              fontWeight: 700,
-              marginBottom: 6,
+              fontSize: 18,
+              fontWeight: 800,
+              marginBottom: 8,
             }}
           >
             <span style={{ color: '#cbd5e1' }}>4-Day Rapid Onboarding Pipeline</span>
@@ -264,11 +256,11 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
           <div
             style={{
               width: '100%',
-              height: 7,
+              height: 12,
               backgroundColor: 'rgba(15, 23, 42, 0.9)',
-              borderRadius: 6,
+              borderRadius: 8,
               overflow: 'hidden',
-              border: '1px solid rgba(255, 255, 255, 0.05)',
+              border: '1px solid rgba(255, 255, 255, 0.08)',
             }}
           >
             <div
@@ -276,20 +268,20 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
                 width: `${animatedProgress}%`,
                 height: '100%',
                 background: 'linear-gradient(90deg, #10b981, #06b6d4, #38bdf8)',
-                borderRadius: 6,
-                boxShadow: '0 0 12px rgba(56, 189, 248, 0.7)',
+                borderRadius: 8,
+                boxShadow: '0 0 14px rgba(56, 189, 248, 0.8)',
               }}
             />
           </div>
         </div>
       </div>
 
-      {/* 4-Stage Horizontal Pipeline Container */}
+      {/* 3-Stage High-Impact Pipeline Container */}
       <div
         style={{
           display: 'grid',
-          gridTemplateColumns: 'repeat(4, 1fr)',
-          gap: 12,
+          gridTemplateColumns: 'repeat(3, 1fr)',
+          gap: 16,
           flex: 1,
           alignItems: 'stretch',
         }}
@@ -354,8 +346,8 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
                 >
                   <span
                     style={{
-                      fontSize: 11,
-                      fontWeight: 800,
+                      fontSize: 18,
+                      fontWeight: 900,
                       color: accentColor,
                       textTransform: 'uppercase',
                       letterSpacing: '0.08em',
@@ -369,10 +361,10 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
                     style={{
                       display: 'inline-flex',
                       alignItems: 'center',
-                      gap: 4,
-                      padding: '3px 8px',
-                      borderRadius: 12,
-                      fontSize: 9,
+                      gap: 6,
+                      padding: '5px 12px',
+                      borderRadius: 14,
+                      fontSize: 15,
                       fontWeight: 800,
                       letterSpacing: '0.04em',
                       backgroundColor: isCompleted
@@ -381,7 +373,7 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
                         ? 'rgba(56, 189, 248, 0.25)'
                         : 'rgba(148, 163, 184, 0.15)',
                       color: isCompleted ? '#4ade80' : isActive ? '#7dd3fc' : '#94a3b8',
-                      border: `1px solid ${
+                      border: `1.5px solid ${
                         isCompleted
                           ? 'rgba(34, 197, 94, 0.4)'
                           : isActive
@@ -397,12 +389,12 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
                 </div>
 
                 {/* Node icon + Title */}
-                <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 10 }}>
                   <div
                     style={{
-                      width: 28,
-                      height: 28,
-                      borderRadius: 8,
+                      width: 36,
+                      height: 36,
+                      borderRadius: 10,
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'center',
@@ -411,21 +403,21 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
                         : isActive
                         ? 'rgba(56, 189, 248, 0.3)'
                         : 'rgba(51, 65, 85, 0.5)',
-                      border: `1px solid ${accentColor}`,
+                      border: `1.5px solid ${accentColor}`,
                     }}
                   >
                     {isCompleted && (
-                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#22c55e" strokeWidth="3">
+                      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22c55e" strokeWidth="3">
                         <polyline points="20 6 9 17 4 12" />
                       </svg>
                     )}
                     {isActive && (
-                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#38bdf8" strokeWidth="2.5">
+                      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#38bdf8" strokeWidth="2.5">
                         <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" />
                       </svg>
                     )}
                     {isUpcoming && (
-                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#94a3b8" strokeWidth="2">
+                      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#94a3b8" strokeWidth="2">
                         <circle cx="12" cy="12" r="10" />
                         <polyline points="12 6 12 12 16 14" />
                       </svg>
@@ -433,8 +425,8 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
                   </div>
                   <div
                     style={{
-                      fontSize: 13,
-                      fontWeight: 700,
+                      fontSize: 22,
+                      fontWeight: 800,
                       color: isUpcoming ? '#cbd5e1' : '#ffffff',
                       lineHeight: 1.25,
                     }}
@@ -446,7 +438,7 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
                 {/* Subtitle description */}
                 <div
                   style={{
-                    fontSize: 11,
+                    fontSize: 16,
                     color: '#94a3b8',
                     lineHeight: 1.4,
                     marginTop: 4,
@@ -459,15 +451,15 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
               {/* Bottom item count badge */}
               <div
                 style={{
-                  marginTop: 12,
-                  paddingTop: 8,
+                  marginTop: 14,
+                  paddingTop: 10,
                   borderTop: '1px dashed rgba(148, 163, 184, 0.15)',
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'space-between',
-                  fontSize: 10,
-                  fontWeight: 600,
-                  color: isCompleted ? '#4ade80' : isActive ? '#38bdf8' : '#64748b',
+                  fontSize: 16,
+                  fontWeight: 700,
+                  color: isCompleted ? '#4ade80' : isActive ? '#38bdf8' : '#94a3b8',
                 }}
               >
                 <span>{stage.itemsCount}</span>

@@ -232,7 +232,9 @@ def create_visual_metadata(page: str, idea: str, hook: str) -> dict:
             "primitive": p4,
             "props": {
                 "title": act4_title,
-                "subtitle": tool_or_topic
+                "subtitle": tool_or_topic,
+                "compositeScore": 98 if p4 == "ClientHealthScorecard" else None,
+                "clientTier": "Full SLA Onboarding Victory" if p4 == "ClientHealthScorecard" else None
             }
         }
     }

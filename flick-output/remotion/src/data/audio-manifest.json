@@ -18,11 +18,11 @@
     {
       "word": "bottleneck",
       "start": 0.76,
-      "end": 1.34
+      "end": 1.32
     },
     {
       "word": "for",
-      "start": 1.34,
+      "start": 1.32,
       "end": 1.94
     },
     {
@@ -46,7 +46,7 @@
       "end": 3.9
     },
     {
-      "word": "small",
+      "word": "slow",
       "start": 3.9,
       "end": 4.42
     },
@@ -58,7 +58,7 @@
     {
       "word": "onboarding",
       "start": 4.96,
-      "end": 6.42
+      "end": 6.4
     },
     {
       "word": "Most",
@@ -76,28 +76,28 @@
       "end": 8.06
     },
     {
-      "word": "fair",
+      "word": "four",
       "start": 8.06,
-      "end": 8.6
+      "end": 8.56
     },
     {
       "word": "hours",
-      "start": 8.6,
-      "end": 9.08
+      "start": 8.56,
+      "end": 9.04
     },
     {
       "word": "every",
-      "start": 9.08,
+      "start": 9.04,
       "end": 9.64
     },
     {
       "word": "week",
       "start": 9.64,
-      "end": 10.02
+      "end": 10.0
     },
     {
       "word": "doing",
-      "start": 10.02,
+      "start": 10.0,
       "end": 10.38
     },
     {
@@ -131,18 +131,13 @@
       "end": 13.56
     },
     {
-      "word": "Repetitive",
-      "start": 14.18,
-      "end": 14.76
+      "word": "repetitive",
+      "start": 14.22,
+      "end": 14.74
     },
     {
-      "word": "lock",
-      "start": 14.76,
-      "end": 15.32
-    },
-    {
-      "word": "flows",
-      "start": 15.32,
+      "word": "workflows",
+      "start": 14.74,
       "end": 15.7
     },
     {
@@ -153,26 +148,26 @@
     {
       "word": "under",
       "start": 16.1,
-      "end": 16.5
+      "end": 16.48
     },
     {
       "word": "load",
-      "start": 16.5,
-      "end": 16.98
+      "start": 16.48,
+      "end": 16.96
     },
     {
       "word": "and",
-      "start": 16.98,
-      "end": 17.4
+      "start": 16.96,
+      "end": 17.42
     },
     {
       "word": "steal",
-      "start": 17.4,
-      "end": 17.74
+      "start": 17.42,
+      "end": 17.76
     },
     {
       "word": "your",
-      "start": 17.74,
+      "start": 17.76,
       "end": 18.12
     },
     {
@@ -193,20 +188,20 @@
     {
       "word": "is",
       "start": 19.76,
-      "end": 20.18
+      "end": 20.16
     },
     {
       "word": "simple",
-      "start": 20.18,
-      "end": 20.58
+      "start": 20.16,
+      "end": 20.56
     },
     {
-      "word": "Use",
+      "word": "use",
       "start": 21.18,
       "end": 21.6
     },
     {
-      "word": "client",
+      "word": "Client",
       "start": 21.6,
       "end": 22.1
     },
@@ -216,33 +211,23 @@
       "end": 22.8
     },
     {
-      "word": "as",
+      "word": "SOP",
       "start": 22.8,
-      "end": 23.06
-    },
-    {
-      "word": "you'll",
-      "start": 23.06,
-      "end": 23.38
-    },
-    {
-      "word": "be",
-      "start": 23.38,
-      "end": 23.58
+      "end": 23.4
     },
     {
       "word": "that",
-      "start": 23.58,
-      "end": 23.92
+      "start": 23.4,
+      "end": 23.84
     },
     {
       "word": "collects",
-      "start": 23.92,
-      "end": 24.46
+      "start": 23.84,
+      "end": 24.28
     },
     {
       "word": "assets",
-      "start": 24.46,
+      "start": 24.28,
       "end": 25.08
     },
     {
@@ -258,11 +243,11 @@
     {
       "word": "in",
       "start": 26.02,
-      "end": 26.4
+      "end": 26.38
     },
     {
       "word": "24",
-      "start": 26.4,
+      "start": 26.38,
       "end": 26.8
     },
     {
@@ -273,11 +258,11 @@
     {
       "word": "instead",
       "start": 27.6,
-      "end": 28.42
+      "end": 28.46
     },
     {
       "word": "It",
-      "start": 28.42,
+      "start": 28.46,
       "end": 29.54
     },
     {
@@ -301,13 +286,13 @@
       "end": 31.56
     },
     {
-      "word": "heat",
+      "word": "heap",
       "start": 31.56,
-      "end": 31.94
+      "end": 31.92
     },
     {
       "word": "memory",
-      "start": 31.94,
+      "start": 31.92,
       "end": 32.36
     },
     {
@@ -332,7 +317,7 @@
     },
     {
       "word": "You",
-      "start": 35.76,
+      "start": 35.74,
       "end": 35.86
     },
     {
@@ -343,11 +328,11 @@
     {
       "word": "instant",
       "start": 36.24,
-      "end": 36.86
+      "end": 36.84
     },
     {
       "word": "results",
-      "start": 36.86,
+      "start": 36.84,
       "end": 37.54
     },
     {
@@ -356,34 +341,34 @@
       "end": 38.66
     },
     {
-      "word": "hours",
+      "word": "errors",
       "start": 38.66,
       "end": 39.32
     },
     {
       "word": "and",
-      "start": 39.32,
-      "end": 39.86
+      "start": 39.64,
+      "end": 39.9
     },
     {
       "word": "five",
-      "start": 39.86,
+      "start": 39.9,
       "end": 40.36
     },
     {
       "word": "times",
       "start": 40.36,
-      "end": 41.02
+      "end": 41.04
     },
     {
       "word": "faster",
-      "start": 41.02,
-      "end": 41.6
+      "start": 41.04,
+      "end": 41.64
     },
     {
       "word": "turnaround",
-      "start": 41.6,
-      "end": 42.3
+      "start": 41.64,
+      "end": 42.28
     }
   ],
   "visuals": {
@@ -432,7 +417,9 @@
       "primitive": "ClientHealthScorecard",
       "props": {
         "title": "24-Hour Kickoff SLA Victory",
-        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours"
+        "compositeScore": 98,
+        "clientName": "Apex Peak Ventures",
+        "clientTier": "Full SLA Onboarding Victory"
       }
     }
   }

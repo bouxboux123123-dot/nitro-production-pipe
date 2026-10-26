@@ -21,8 +21,8 @@ export const ContractToSlackTrigger: React.FC<ContractToSlackTriggerProps> = ({
   teamInvitedCount = 5,
   envelopeId = 'DS-8921-994A',
   latencyMs = 280,
-  width = 880,
-  height = 620,
+  width = 960,
+  height = 760,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -140,25 +140,25 @@ export const ContractToSlackTrigger: React.FC<ContractToSlackTriggerProps> = ({
             </svg>
           </div>
           <div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-              <span style={{ fontSize: 17, fontWeight: 800, color: '#ffffff' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+              <span style={{ fontSize: 26, fontWeight: 900, color: '#ffffff' }}>
                 Contract-To-Slack Instant Trigger
               </span>
               <span
                 style={{
-                  fontSize: 10,
+                  fontSize: 14,
                   fontWeight: 800,
                   color: '#38bdf8',
-                  background: 'rgba(56, 189, 248, 0.15)',
-                  padding: '2px 8px',
+                  background: 'rgba(56, 189, 248, 0.18)',
+                  padding: '4px 10px',
                   borderRadius: 8,
-                  border: '1px solid rgba(56, 189, 248, 0.35)',
+                  border: '1.5px solid rgba(56, 189, 248, 0.4)',
                 }}
               >
                 WEBHOOK BOT ACTIVE
               </span>
             </div>
-            <div style={{ fontSize: 11, color: '#94a3b8', marginTop: 2 }}>
+            <div style={{ fontSize: 16, color: '#94a3b8', marginTop: 4, fontWeight: 600 }}>
               DocuSign Event → REST API Webhook → Slack Workspace Provisioning
             </div>
           </div>
@@ -167,17 +167,17 @@ export const ContractToSlackTrigger: React.FC<ContractToSlackTriggerProps> = ({
         {/* Latency badge */}
         <div
           style={{
-            padding: '6px 14px',
-            borderRadius: 10,
-            background: 'rgba(15, 23, 42, 0.7)',
-            border: '1px solid rgba(16, 185, 129, 0.3)',
+            padding: '8px 18px',
+            borderRadius: 12,
+            background: 'rgba(15, 23, 42, 0.85)',
+            border: '1.5px solid rgba(16, 185, 129, 0.45)',
             display: 'flex',
             alignItems: 'center',
-            gap: 6,
+            gap: 8,
           }}
         >
-          <span style={{ width: 8, height: 8, borderRadius: '50%', backgroundColor: '#10b981' }} />
-          <span style={{ fontSize: 11, fontWeight: 700, color: '#4ade80' }}>
+          <span style={{ width: 10, height: 10, borderRadius: '50%', backgroundColor: '#10b981' }} />
+          <span style={{ fontSize: 16, fontWeight: 800, color: '#4ade80' }}>
             ⚡ {latencyMs}ms Latency
           </span>
         </div>
@@ -240,32 +240,32 @@ export const ContractToSlackTrigger: React.FC<ContractToSlackTriggerProps> = ({
               </span>
             </div>
 
-            <div style={{ fontSize: 14, fontWeight: 800, color: '#ffffff', marginBottom: 4 }}>
+            <div style={{ fontSize: 20, fontWeight: 900, color: '#ffffff', marginBottom: 6 }}>
               6-Month Master Agreement
             </div>
-            <div style={{ fontSize: 11, color: '#94a3b8', marginBottom: 12 }}>
+            <div style={{ fontSize: 15, color: '#94a3b8', marginBottom: 14 }}>
               Client: <strong style={{ color: '#e2e8f0' }}>{clientName}</strong>
             </div>
 
             {/* Contract Value Highlight */}
             <div
               style={{
-                background: 'rgba(15, 23, 42, 0.75)',
-                padding: '10px 12px',
-                borderRadius: 10,
-                border: '1px solid rgba(51, 65, 85, 0.7)',
+                background: 'rgba(15, 23, 42, 0.85)',
+                padding: '12px 14px',
+                borderRadius: 12,
+                border: '1px solid rgba(51, 65, 85, 0.8)',
                 marginBottom: 14,
               }}
             >
-              <div style={{ fontSize: 10, color: '#94a3b8', fontWeight: 600 }}>SIGNED RETAINER VALUE</div>
-              <div style={{ fontSize: 18, fontWeight: 900, color: '#38bdf8' }}>{contractValue}</div>
+              <div style={{ fontSize: 12, color: '#94a3b8', fontWeight: 700 }}>SIGNED RETAINER VALUE</div>
+              <div style={{ fontSize: 24, fontWeight: 900, color: '#38bdf8' }}>{contractValue}</div>
             </div>
 
             {/* Signer verification */}
-            <div style={{ fontSize: 11, color: '#cbd5e1' }}>
+            <div style={{ fontSize: 14, color: '#cbd5e1' }}>
               Signer: <strong>{signerName}</strong>
             </div>
-            <div style={{ fontSize: 10, color: '#64748b', marginTop: 2 }}>
+            <div style={{ fontSize: 12, color: '#94a3b8', marginTop: 4 }}>
               Timestamp: Oct 25, 2026 • IP & Audit Trail Sealed
             </div>
           </div>
@@ -278,14 +278,14 @@ export const ContractToSlackTrigger: React.FC<ContractToSlackTriggerProps> = ({
               marginTop: 12,
               alignSelf: 'center',
               border: '2.5px solid #22c55e',
-              borderRadius: 10,
-              padding: '6px 14px',
-              backgroundColor: 'rgba(22, 101, 52, 0.45)',
-              boxShadow: '0 0 20px rgba(34, 197, 94, 0.4)',
+              borderRadius: 12,
+              padding: '8px 18px',
+              backgroundColor: 'rgba(22, 101, 52, 0.55)',
+              boxShadow: '0 0 25px rgba(34, 197, 94, 0.5)',
               textAlign: 'center',
             }}
           >
-            <div style={{ fontSize: 12, fontWeight: 900, color: '#4ade80', letterSpacing: '0.08em' }}>
+            <div style={{ fontSize: 15, fontWeight: 900, color: '#4ade80', letterSpacing: '0.08em' }}>
               ✓ SIGNED & CERTIFIED
             </div>
             <div style={{ fontSize: 9, color: '#86efac', fontWeight: 700 }}>
@@ -379,67 +379,67 @@ export const ContractToSlackTrigger: React.FC<ContractToSlackTriggerProps> = ({
                 marginBottom: 12,
               }}
             >
-              <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-                <span style={{ fontSize: 13, color: '#e2e8f0', fontWeight: 800 }}>🔒 #{channelName}</span>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                <span style={{ fontSize: 18, color: '#e2e8f0', fontWeight: 900 }}>🔒 #{channelName}</span>
                 <span
                   style={{
-                    fontSize: 9,
+                    fontSize: 12,
                     color: '#94a3b8',
-                    background: 'rgba(255, 255, 255, 0.08)',
-                    padding: '2px 6px',
-                    borderRadius: 4,
+                    background: 'rgba(255, 255, 255, 0.12)',
+                    padding: '3px 8px',
+                    borderRadius: 6,
                   }}
                 >
                   Private
                 </span>
               </div>
-              <span style={{ fontSize: 10, color: '#cbd5e1' }}>👥 {teamInvitedCount} Members</span>
+              <span style={{ fontSize: 14, color: '#cbd5e1', fontWeight: 600 }}>👥 {teamInvitedCount} Members</span>
             </div>
 
             {/* Bot message bubble */}
             <div
               style={{
-                background: 'rgba(34, 38, 44, 0.8)',
-                borderLeft: '3px solid #ec4899',
-                borderRadius: '0 10px 10px 0',
-                padding: '10px 12px',
-                marginBottom: 10,
+                background: 'rgba(34, 38, 44, 0.85)',
+                borderLeft: '4px solid #ec4899',
+                borderRadius: '0 12px 12px 0',
+                padding: '12px 14px',
+                marginBottom: 12,
               }}
             >
-              <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 4 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6 }}>
                 <span
                   style={{
-                    width: 20,
-                    height: 20,
-                    borderRadius: 4,
+                    width: 24,
+                    height: 24,
+                    borderRadius: 6,
                     background: '#ec4899',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    fontSize: 11,
+                    fontSize: 14,
                     fontWeight: 900,
                     color: '#fff',
                   }}
                 >
                   ⚡
                 </span>
-                <span style={{ fontSize: 12, fontWeight: 800, color: '#f8fafc' }}>AgencyFlow Bot</span>
+                <span style={{ fontSize: 15, fontWeight: 900, color: '#f8fafc' }}>AgencyFlow Bot</span>
                 <span
                   style={{
-                    fontSize: 8,
+                    fontSize: 11,
                     fontWeight: 800,
                     color: '#94a3b8',
-                    background: 'rgba(255, 255, 255, 0.1)',
-                    padding: '1px 4px',
-                    borderRadius: 3,
+                    background: 'rgba(255, 255, 255, 0.15)',
+                    padding: '2px 6px',
+                    borderRadius: 4,
                   }}
                 >
                   APP
                 </span>
-                <span style={{ fontSize: 10, color: '#64748b' }}>Just now</span>
+                <span style={{ fontSize: 13, color: '#94a3b8' }}>Just now</span>
               </div>
 
-              <div style={{ fontSize: 12, color: '#f1f5f9', lineHeight: 1.35, fontWeight: 600 }}>
+              <div style={{ fontSize: 16, color: '#f1f5f9', lineHeight: 1.4, fontWeight: 700 }}>
                 🎉 New Client Inbound! <span style={{ color: '#38bdf8' }}>{clientName}</span> signed {contractValue}!
               </div>
             </div>
@@ -447,13 +447,13 @@ export const ContractToSlackTrigger: React.FC<ContractToSlackTriggerProps> = ({
             {/* Automated provision checklist */}
             <div
               style={{
-                background: 'rgba(15, 23, 42, 0.7)',
-                borderRadius: 10,
-                padding: '10px 12px',
+                background: 'rgba(15, 23, 42, 0.85)',
+                borderRadius: 12,
+                padding: '12px 14px',
                 display: 'flex',
                 flexDirection: 'column',
-                gap: 6,
-                fontSize: 11,
+                gap: 8,
+                fontSize: 15,
               }}
             >
               <div style={{ display: 'flex', alignItems: 'center', gap: 6, color: '#4ade80' }}>

@@ -62,19 +62,29 @@ export const PythonStackScene: React.FC = () => {
   const activeWordIndex = words.findIndex((w) => t >= w.start && t <= w.end);
   const activeWord = activeWordIndex !== -1 ? words[activeWordIndex] : null;
 
-  // Active word cluster (3 words around active)
-  const visiblePhrase = useMemo(() => {
-    if (activeWordIndex === -1) {
-      const pastIdx = words.findIndex((w) => w.start > t);
-      const targetIdx = pastIdx > 0 ? pastIdx - 1 : pastIdx === 0 ? 0 : words.length - 1;
-      const start = Math.max(0, targetIdx - 1);
-      const end = Math.min(words.length, targetIdx + 2);
-      return words.slice(start, end);
+  // Stable phrase chunking (3-word batches for smooth mobile readability)
+  const phraseChunks = useMemo(() => {
+    const chunks: WordTimestamp[][] = [];
+    const CHUNK_SIZE = 3;
+    for (let i = 0; i < words.length; i += CHUNK_SIZE) {
+      chunks.push(words.slice(i, i + CHUNK_SIZE));
     }
-    const start = Math.max(0, activeWordIndex - 1);
-    const end = Math.min(words.length, activeWordIndex + 2);
-    return words.slice(start, end);
-  }, [activeWordIndex, words, t]);
+    return chunks;
+  }, [words]);
+
+  const currentChunk = useMemo(() => {
+    if (!phraseChunks.length) return [];
+    const found = phraseChunks.find((chunk) => {
+      const start = chunk[0].start;
+      const end = chunk[chunk.length - 1].end + 0.15;
+      return t >= start && t <= end;
+    });
+    if (found) return found;
+    const nextIdx = phraseChunks.findIndex((chunk) => chunk[0].start > t);
+    if (nextIdx > 0) return phraseChunks[nextIdx - 1];
+    if (nextIdx === 0) return phraseChunks[0];
+    return phraseChunks[phraseChunks.length - 1] || [];
+  }, [phraseChunks, t]);
 
   const KEYWORDS = [
     'CRASHED',
@@ -235,12 +245,12 @@ export const PythonStackScene: React.FC = () => {
     easing: (x) => 1 - Math.pow(1 - x, 3),
   });
 
-  // V13: POLAROID CHAPTER STICKERS (Shifted down to top: 86px to prevent header overlap)
+  // V13: POLAROID CHAPTER STICKERS (Only displayed if explicitly provided in metadata)
   const polaroidInfo = useMemo(() => {
-    if (t >= 5.8 && t < 6.8) return { num: 'ACT 01', title: v?.act1?.polaroid_title || 'Call Stack Allocation', time: '05.8s' };
-    if (t >= 12.5 && t < 13.5) return { num: 'ACT 02', title: v?.act2?.polaroid_title || 'Fatal Limit 1,000', time: '12.5s' };
-    if (t >= 18.8 && t < 19.8) return { num: 'ACT 03', title: v?.act3?.polaroid_title || 'Collections Deque', time: '18.8s' };
-    if (t >= 24.0 && t < 25.0) return { num: 'ACT 04', title: v?.act4?.polaroid_title || '5.0x Benchmark Victory', time: '24.0s' };
+    if (t >= 5.8 && t < 6.8 && v?.act1?.polaroid_title) return { num: 'ACT 01', title: v.act1.polaroid_title, time: '05.8s' };
+    if (t >= 12.5 && t < 13.5 && v?.act2?.polaroid_title) return { num: 'ACT 02', title: v.act2.polaroid_title, time: '12.5s' };
+    if (t >= 18.8 && t < 19.8 && v?.act3?.polaroid_title) return { num: 'ACT 03', title: v.act3.polaroid_title, time: '18.8s' };
+    if (t >= 24.0 && t < 25.0 && v?.act4?.polaroid_title) return { num: 'ACT 04', title: v.act4.polaroid_title, time: '24.0s' };
     return null;
   }, [t, v]);
 
@@ -360,41 +370,7 @@ export const PythonStackScene: React.FC = () => {
         </div>
       )}
 
-      {/* V9: SYMBOL REACTION BURSTS */}
-      {burstCrashOpacity > 0 && (
-        <div
-          style={{
-            position: 'absolute',
-            top: 360,
-            left: '50%',
-            transform: `translateX(-50%) scale(${burstCrashScale * 2.4})`,
-            opacity: burstCrashOpacity,
-            fontSize: 90,
-            zIndex: 70,
-            pointerEvents: 'none',
-            textShadow: '0 0 40px rgba(243,139,168,0.9)',
-          }}
-        >
-          💥
-        </div>
-      )}
-      {burstRocketOpacity > 0 && (
-        <div
-          style={{
-            position: 'absolute',
-            top: 340,
-            left: '50%',
-            transform: `translateX(-50%) scale(${burstRocketScale * 2.2})`,
-            opacity: burstRocketOpacity,
-            fontSize: 85,
-            zIndex: 70,
-            pointerEvents: 'none',
-            textShadow: '0 0 40px rgba(0,229,255,0.9)',
-          }}
-        >
-          🚀
-        </div>
-      )}
+
 
       {/* V7: TOP-OF-SCREEN PROGRESS BAR */}
       <div
@@ -482,7 +458,7 @@ export const PythonStackScene: React.FC = () => {
         }}
       >
         {/* ===================== HOOK: 0.0s - 5.8s ===================== */}
-        {t < 6.0 && (
+        {t < 5.8 && (
           <div
             style={{
               position: 'absolute',
@@ -492,7 +468,8 @@ export const PythonStackScene: React.FC = () => {
               justifyContent: 'center',
               alignItems: 'center',
               padding: '0 50px',
-              gap: 28,
+              paddingBottom: 110,
+              gap: 26,
               transform: `translateY(${hookExitY}px)`,
               opacity: hookOpacity,
               textAlign: 'center',
@@ -501,28 +478,29 @@ export const PythonStackScene: React.FC = () => {
             <div
               style={{
                 transform: `scale(${hookLine1Spring})`,
-                background: 'rgba(255, 255, 255, 0.1)',
-                border: '2px solid rgba(255, 255, 255, 0.35)',
+                background: 'rgba(255, 255, 255, 0.12)',
+                border: '2px solid rgba(255, 255, 255, 0.45)',
                 borderRadius: 50,
-                padding: '12px 34px',
+                padding: '12px 36px',
                 fontFamily: 'system-ui',
                 fontSize: 24,
                 fontWeight: 900,
                 color: '#ffffff',
                 letterSpacing: '0.12em',
+                boxShadow: '0 0 30px rgba(255, 255, 255, 0.25)',
               }}
             >
-              {v?.hook?.badge || '⚠️ PYTHON INTERNALS'}
+              {v?.hook?.badge || '⚡ AGENCY SYSTEMS'}
             </div>
 
-            {/* High-Impact Headline */}
+            {/* High-Impact Headline (Primary Focal Point, Mobile-First) */}
             <div
               style={{
                 transform: `scale(${hookLine1Spring})`,
                 fontFamily: 'system-ui, -apple-system, sans-serif',
-                fontSize: 64,
+                fontSize: 62,
                 fontWeight: 900,
-                lineHeight: 1.18,
+                lineHeight: 1.2,
                 color: '#ffffff',
                 maxWidth: 960,
                 padding: '0 20px',
@@ -530,13 +508,13 @@ export const PythonStackScene: React.FC = () => {
                 textShadow: '0 4px 30px rgba(0,0,0,0.95)',
               }}
             >
-              {v?.hook?.line1 || 'Your Python App'}
+              {v?.hook?.line1 || 'The biggest bottleneck for scaling an agency is slow client onboarding.'}
               {v?.hook?.line2 && (
                 <div
                   style={{
-                    marginTop: 14,
+                    marginTop: 18,
                     color: '#00e5ff',
-                    fontSize: 48,
+                    fontSize: 44,
                     fontWeight: 900,
                     textShadow: '0 0 35px rgba(0, 229, 255, 0.75)',
                     letterSpacing: '0.04em',
@@ -546,56 +524,20 @@ export const PythonStackScene: React.FC = () => {
                 </div>
               )}
             </div>
-
-            {/* Hook Topic Tag */}
-            {t >= 2.6 && v?.hook?.tag && (
-              <div
-                style={{
-                  transform: `scale(${hookLine2Spring})`,
-                  background: 'rgba(243, 139, 168, 0.22)',
-                  border: '2px solid #f38ba8',
-                  borderRadius: 20,
-                  padding: '14px 34px',
-                  fontFamily: 'system-ui, -apple-system',
-                  fontSize: 32,
-                  fontWeight: 900,
-                  color: '#ffffff',
-                  boxShadow: '0 0 35px rgba(243, 139, 168, 0.6)',
-                  maxWidth: 900,
-                  textAlign: 'center',
-                }}
-              >
-                {v.hook.tag}
-              </div>
-            )}
-
-            {t >= 4.4 && (
-              <div
-                style={{
-                  transform: `scale(${hookLine3Spring})`,
-                  fontFamily: 'system-ui',
-                  fontSize: 32,
-                  fontWeight: 700,
-                  color: '#74c7ec',
-                  textShadow: '0 4px 20px rgba(0,0,0,0.9)',
-                }}
-              >
-                {v?.hook?.subtext || 'Here is exactly why — and the 5× faster fix.'}
-              </div>
-            )}
           </div>
         )}
 
         {/* ===================== ACT 1: HERO (5.8s - 12.5s) ===================== */}
-        {t >= 5.6 && t < 12.8 && (
+        {t >= 5.8 && t < 12.5 && (
           <div
             style={{
               position: 'absolute',
               inset: 0,
               display: 'flex',
               flexDirection: 'column',
+              justifyContent: 'center',
               alignItems: 'center',
-              paddingTop: Act1Primitive ? 120 : 135,
+              paddingBottom: 110,
               opacity: act1ExitOpacity,
               transform: `scale(${act1Entry * act1ExitScale}) rotateY(${act1Tilt}deg)`,
             }}
@@ -737,15 +679,16 @@ export const PythonStackScene: React.FC = () => {
         )}
 
         {/* ===================== ACT 2: 1000-FRAME CRASH (12.5s - 18.8s) ===================== */}
-        {t >= 12.3 && t < 19.0 && (
+        {t >= 12.5 && t < 18.8 && (
           <div
             style={{
               position: 'absolute',
               inset: 0,
               display: 'flex',
               flexDirection: 'column',
+              justifyContent: 'center',
               alignItems: 'center',
-              paddingTop: Act2Primitive ? 110 : 110,
+              paddingBottom: 110,
               transform: `translateX(${act2ExitX}px) scale(${act2Entry}) rotateY(${act2Tilt}deg)`,
             }}
           >
@@ -871,15 +814,16 @@ export const PythonStackScene: React.FC = () => {
         )}
 
         {/* ===================== ACT 3: V12 A/B SPLIT SCREEN (18.8s - 24.0s) ===================== */}
-        {t >= 18.6 && t < 24.2 && (
+        {t >= 18.8 && t < 24.0 && (
           <div
             style={{
               position: 'absolute',
               inset: 0,
               display: 'flex',
               flexDirection: 'column',
+              justifyContent: 'center',
               alignItems: 'center',
-              paddingTop: Act3Primitive ? 110 : 90,
+              paddingBottom: 110,
               transform: `translateX(${act3ExitX}px) scale(${act3Entry}) rotateY(${act3Tilt}deg)`,
             }}
           >
@@ -1025,15 +969,16 @@ export const PythonStackScene: React.FC = () => {
         )}
 
         {/* ===================== ACT 4: 5X BENCHMARK PAYOFF (24.0s - 30.0s) ===================== */}
-        {t >= 23.8 && (
+        {t >= 24.0 && (
           <div
             style={{
               position: 'absolute',
               inset: 0,
               display: 'flex',
               flexDirection: 'column',
+              justifyContent: 'center',
               alignItems: 'center',
-              paddingTop: Act4Primitive ? 110 : 100,
+              paddingBottom: 110,
               transform: `scale(${act4Entry})`,
             }}
           >
@@ -1153,17 +1098,17 @@ export const PythonStackScene: React.FC = () => {
         )}
       </div>
 
-      {/* ---------------- LAYER 2: V10 SUBTITLES WITH GENEROUS WORD SPACING ---------------- */}
+      {/* ---------------- LAYER 2: V10 SUBTITLES (3-WORD BATCH KARAOKE) ---------------- */}
       <div
         style={{
           position: 'absolute',
-          bottom: 160,
+          bottom: 140,
           left: 0,
           right: 0,
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          zIndex: 40,
+          zIndex: 90,
           pointerEvents: 'none',
           padding: '0 40px',
         }}
@@ -1174,12 +1119,13 @@ export const PythonStackScene: React.FC = () => {
             flexWrap: 'wrap',
             justifyContent: 'center',
             alignItems: 'center',
-            gap: '16px 36px',
-            maxWidth: 1000,
+            gap: '16px 28px',
+            maxWidth: 960,
           }}
         >
-          {visiblePhrase.map((w, idx) => {
-            const isCurrent = activeWord && activeWord.word === w.word && activeWord.start === w.start;
+          {currentChunk.map((w, idx) => {
+            const isCurrent = t >= w.start && t <= w.end;
+            const isPast = t > w.end;
             const cleanUpper = w.word.toUpperCase().replace(/[^A-Z]/g, '');
             const isHighlight = KEYWORDS.some((k) => cleanUpper.includes(k));
 
@@ -1189,33 +1135,32 @@ export const PythonStackScene: React.FC = () => {
                 style={{
                   fontFamily: 'system-ui, -apple-system, sans-serif',
                   fontWeight: 900,
-                  fontSize: isCurrent ? 56 : 48,
+                  fontSize: isCurrent ? 58 : 50,
                   letterSpacing: '0.04em',
                   textTransform: 'uppercase',
-                  margin: '0 10px',
-                  color: isHighlight
+                  color: isCurrent
                     ? '#00e5ff'
-                    : isCurrent
+                    : isPast
                     ? '#ffffff'
-                    : 'rgba(255, 255, 255, 0.65)',
-                  textShadow: isHighlight
-                    ? '0 0 28px rgba(0, 229, 255, 0.95), 0 4px 12px rgba(0,0,0,0.95)'
+                    : 'rgba(255, 255, 255, 0.45)',
+                  textShadow: isCurrent
+                    ? '0 0 30px rgba(0, 229, 255, 0.95), 0 4px 14px rgba(0,0,0,0.95)'
                     : '0 4px 16px rgba(0, 0, 0, 0.95)',
-                  transform: isCurrent ? 'scale(1.12)' : 'scale(1.0)',
-                  transition: 'transform 0.06s ease-out',
+                  transform: isCurrent ? 'scale(1.10)' : 'scale(1.0)',
+                  transition: 'transform 0.05s ease-out, color 0.05s ease-out',
                   display: 'inline-block',
                   position: 'relative',
                 }}
               >
-                {/* V10: Active Word Glow Ripple */}
+                {/* Active Word Glow Ripple */}
                 {isCurrent && (
                   <span
                     style={{
                       position: 'absolute',
                       inset: -8,
-                      borderRadius: 16,
-                      background: 'rgba(0, 229, 255, 0.15)',
-                      boxShadow: '0 0 30px rgba(0, 229, 255, 0.4)',
+                      borderRadius: 14,
+                      background: 'rgba(0, 229, 255, 0.18)',
+                      boxShadow: '0 0 30px rgba(0, 229, 255, 0.45)',
                       zIndex: -1,
                     }}
                   />

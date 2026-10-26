@@ -23,42 +23,42 @@ export interface ClientHealthScorecardProps {
 
 const DEFAULT_METRICS: HealthMetricItem[] = [
   {
+    id: 'velocity',
+    name: 'Onboarding Velocity',
+    value: '< 18 Hours',
+    benchmark: 'Goal: < 24 Hours',
+    status: 'healthy',
+    weight: '35%',
+    detail: '100% automated asset intake & Slack invite',
+  },
+  {
     id: 'nps',
     name: 'Client Sentiment (NPS)',
-    value: '6.0 / 10',
+    value: '9.8 / 10',
     benchmark: 'Goal: > 8.5',
-    status: 'warning',
+    status: 'healthy',
+    weight: '35%',
+    detail: 'Frictionless kickoff; zero manual overhead',
+  },
+  {
+    id: 'accuracy',
+    name: 'Asset Validation SLA',
+    value: '100% Passed',
+    benchmark: 'Terms: 0 Errors',
+    status: 'healthy',
     weight: '30%',
-    detail: 'Passive rating; slight communication friction noted',
-  },
-  {
-    id: 'revisions',
-    name: 'Revision Friction',
-    value: '4.8 Rounds',
-    benchmark: 'SLA Cap: 2.0',
-    status: 'critical',
-    weight: '35%',
-    detail: '+140% revision excess; eroding production margins',
-  },
-  {
-    id: 'dso',
-    name: 'Payment Velocity (DSO)',
-    value: '48 Days',
-    benchmark: 'Terms: Net 15',
-    status: 'warning',
-    weight: '35%',
-    detail: '33 days overdue; recurring cash flow delay',
+    detail: 'All vectors verified and fonts licensed automatically',
   },
 ];
 
 export const ClientHealthScorecard: React.FC<ClientHealthScorecardProps> = ({
   title = 'CLIENT HEALTH & RETENTION SCORECARD',
-  clientName = 'Aura Media Group',
-  clientTier = 'Enterprise Retainer ($7,500/mo)',
-  compositeScore = 54,
+  clientName = 'Apex Peak Ventures',
+  clientTier = 'Enterprise Retainer ($18,500/mo)',
+  compositeScore = 98,
   metrics = DEFAULT_METRICS,
-  width = 880,
-  height = 640,
+  width = 960,
+  height = 760,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -166,12 +166,12 @@ export const ClientHealthScorecard: React.FC<ClientHealthScorecardProps> = ({
           </div>
 
           <div>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
               <span
                 style={{
-                  fontSize: 17,
-                  fontWeight: 800,
-                  letterSpacing: '0.05em',
+                  fontSize: 24,
+                  fontWeight: 900,
+                  letterSpacing: '0.04em',
                   background: 'linear-gradient(90deg, #f8fafc 30%, #94a3b8 100%)',
                   WebkitBackgroundClip: 'text',
                   WebkitTextFillColor: 'transparent',
@@ -181,19 +181,19 @@ export const ClientHealthScorecard: React.FC<ClientHealthScorecardProps> = ({
               </span>
               <span
                 style={{
-                  fontSize: 10,
-                  fontWeight: 800,
-                  padding: '2px 8px',
+                  fontSize: 13,
+                  fontWeight: 900,
+                  padding: '4px 12px',
                   borderRadius: 9999,
-                  background: `${scoreColor}22`,
+                  background: `${scoreColor}25`,
                   color: scoreColor,
-                  border: `1px solid ${scoreColor}55`,
+                  border: `1.5px solid ${scoreColor}60`,
                 }}
               >
                 {scoreLabel}
               </span>
             </div>
-            <div style={{ fontSize: 13, color: '#94a3b8', marginTop: 2 }}>
+            <div style={{ fontSize: 16, color: '#94a3b8', marginTop: 4, fontWeight: 600 }}>
               {clientName} &bull; {clientTier}
             </div>
           </div>
@@ -202,17 +202,17 @@ export const ClientHealthScorecard: React.FC<ClientHealthScorecardProps> = ({
         {/* Status indicator badge */}
         <div
           style={{
-            background: 'rgba(0, 0, 0, 0.35)',
-            padding: '6px 14px',
-            borderRadius: 12,
-            border: '1px solid rgba(255, 255, 255, 0.08)',
+            background: 'rgba(0, 0, 0, 0.45)',
+            padding: '8px 18px',
+            borderRadius: 14,
+            border: '1.5px solid rgba(255, 255, 255, 0.12)',
             textAlign: 'right',
           }}
         >
-          <div style={{ fontSize: 10, color: '#64748b', fontWeight: 700, textTransform: 'uppercase' }}>
+          <div style={{ fontSize: 12, color: '#94a3b8', fontWeight: 800, textTransform: 'uppercase' }}>
             Account Health
           </div>
-          <div style={{ fontSize: 16, fontWeight: 800, color: scoreColor, fontFamily: 'monospace' }}>
+          <div style={{ fontSize: 20, fontWeight: 900, color: scoreColor, fontFamily: 'monospace' }}>
             {scoreLabel}
           </div>
         </div>
@@ -330,36 +330,36 @@ export const ClientHealthScorecard: React.FC<ClientHealthScorecardProps> = ({
             >
               <div>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                  <span style={{ fontSize: 11, fontWeight: 700, color: '#94a3b8' }}>{m.name}</span>
+                  <span style={{ fontSize: 16, fontWeight: 800, color: '#ffffff' }}>{m.name}</span>
                   <span
                     style={{
-                      fontSize: 9,
+                      fontSize: 12,
                       fontWeight: 800,
-                      backgroundColor: 'rgba(255, 255, 255, 0.08)',
-                      color: '#94a3b8',
-                      padding: '2px 6px',
-                      borderRadius: 4,
+                      backgroundColor: 'rgba(255, 255, 255, 0.1)',
+                      color: '#cbd5e1',
+                      padding: '3px 8px',
+                      borderRadius: 6,
                     }}
                   >
                     Wt {m.weight}
                   </span>
                 </div>
 
-                <div style={{ marginTop: 6, display: 'flex', alignItems: 'baseline', justifyContent: 'space-between' }}>
-                  <span style={{ fontSize: 20, fontWeight: 900, color: mColor, fontFamily: 'monospace' }}>
+                <div style={{ marginTop: 8, display: 'flex', alignItems: 'baseline', justifyContent: 'space-between' }}>
+                  <span style={{ fontSize: 26, fontWeight: 900, color: mColor, fontFamily: 'monospace' }}>
                     {m.value}
                   </span>
                 </div>
-                <div style={{ fontSize: 10, color: '#64748b', marginTop: 2 }}>{m.benchmark}</div>
+                <div style={{ fontSize: 14, color: '#94a3b8', marginTop: 4, fontWeight: 600 }}>{m.benchmark}</div>
               </div>
 
               <div
                 style={{
-                  marginTop: 10,
-                  fontSize: 11,
+                  marginTop: 12,
+                  fontSize: 15,
                   color: '#cbd5e1',
-                  borderTop: '1px solid rgba(255, 255, 255, 0.05)',
-                  paddingTop: 8,
+                  borderTop: '1px solid rgba(255, 255, 255, 0.1)',
+                  paddingTop: 10,
                   lineHeight: 1.35,
                 }}
               >
@@ -373,25 +373,25 @@ export const ClientHealthScorecard: React.FC<ClientHealthScorecardProps> = ({
       {/* Bottom Retention Action Prescription */}
       <div
         style={{
-          marginTop: 12,
-          padding: '10px 16px',
-          borderRadius: 12,
-          background: 'linear-gradient(90deg, rgba(245, 158, 11, 0.15) 0%, rgba(15, 23, 42, 0.7) 100%)',
-          border: '1px solid rgba(245, 158, 11, 0.35)',
+          marginTop: 14,
+          padding: '12px 20px',
+          borderRadius: 14,
+          background: 'linear-gradient(90deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%)',
+          border: '1.5px solid rgba(16, 185, 129, 0.45)',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
           zIndex: 2,
         }}
       >
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-          <span style={{ fontSize: 14 }}>🛡️</span>
-          <span style={{ fontSize: 12, fontWeight: 700, color: '#fef3c7' }}>
-            Retention Action: Trigger 30-day scope reset call & enforce 2-round review boundaries.
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+          <span style={{ fontSize: 18 }}>🏆</span>
+          <span style={{ fontSize: 15, fontWeight: 800, color: '#86efac' }}>
+            Instant Onboarding Victory: 100% SLA compliance achieved with zero manual overhead.
           </span>
         </div>
-        <div style={{ fontSize: 11, fontWeight: 800, color: '#f59e0b', letterSpacing: '0.04em' }}>
-          HIGH PRIORITY
+        <div style={{ fontSize: 14, fontWeight: 900, color: '#4ade80', letterSpacing: '0.04em' }}>
+          OPTIMAL SLA
         </div>
       </div>
     </div>
