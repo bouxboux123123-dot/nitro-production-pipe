@@ -37,10 +37,6 @@ export const PythonStackScene: React.FC = () => {
 
   const words = useMemo(() => manifestData.words as WordTimestamp[], []);
   const v = useMemo(() => (manifestData as any)?.visuals || null, []);
-  const scriptIndex = useMemo(() => {
-    return (manifestData as any)?.script_index || (((manifestData?.text?.length || 1) % 5) + 1);
-  }, []);
-  const bgStartFrame = (scriptIndex - 1) * 1500;
   const hookLine1Text = v?.hook?.line1 || 'The biggest bottleneck for scaling an agency is slow client onboarding.';
   const hookWords = useMemo(() => hookLine1Text.split(' '), [hookLine1Text]);
 
@@ -295,7 +291,6 @@ export const PythonStackScene: React.FC = () => {
       >
         <OffthreadVideo
           src={staticFile('minecraft_bg.mp4')}
-          startFrom={bgStartFrame}
           style={{ width: '100%', height: '100%', objectFit: 'cover' }}
         />
         {/* Crisp Edge Vignette: 100% natural, sharp, high-res gameplay */}
