@@ -5,6 +5,10 @@ import json
 import urllib.request
 from pathlib import Path
 
+# Force UTF-8 stdout on Windows console
+if sys.stdout.encoding != 'utf-8':
+    sys.stdout.reconfigure(encoding='utf-8')
+
 REPO_OWNER = "bouxboux123123-dot"
 REPO_NAME = "nitro-production-pipe"
 DEST_DIR = Path("F:/reels/page-01/idea-01")
