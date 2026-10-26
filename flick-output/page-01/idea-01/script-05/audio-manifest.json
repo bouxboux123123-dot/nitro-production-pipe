@@ -8,407 +8,387 @@
     {
       "word": "Make",
       "start": 0.0,
-      "end": 0.4
+      "end": 0.22
     },
     {
       "word": "your",
-      "start": 0.4,
-      "end": 0.7
+      "start": 0.22,
+      "end": 0.44
     },
     {
       "word": "agency",
-      "start": 0.7,
-      "end": 1.1
+      "start": 0.44,
+      "end": 0.76
     },
     {
       "word": "look",
-      "start": 1.1,
-      "end": 1.62
+      "start": 0.76,
+      "end": 1.08
     },
     {
       "word": "like",
-      "start": 1.62,
-      "end": 2.04
+      "start": 1.08,
+      "end": 1.36
     },
     {
       "word": "a",
-      "start": 2.04,
-      "end": 2.18
+      "start": 1.36,
+      "end": 1.52
     },
     {
-      "word": "faction",
-      "start": 2.18,
-      "end": 2.66
+      "word": "Fortune",
+      "start": 1.52,
+      "end": 1.8
     },
     {
       "word": "500",
-      "start": 2.66,
-      "end": 3.56
+      "start": 1.8,
+      "end": 2.44
     },
     {
-      "word": "farm",
-      "start": 3.56,
-      "end": 4.36
+      "word": "firm",
+      "start": 2.44,
+      "end": 2.86
     },
     {
       "word": "from",
-      "start": 4.36,
-      "end": 4.66
+      "start": 2.86,
+      "end": 3.1
     },
     {
       "word": "the",
-      "start": 4.66,
-      "end": 4.92
+      "start": 3.1,
+      "end": 3.26
     },
     {
       "word": "very",
-      "start": 4.92,
-      "end": 5.3
+      "start": 3.26,
+      "end": 3.52
     },
     {
       "word": "first",
-      "start": 5.3,
-      "end": 5.72
+      "start": 3.52,
+      "end": 3.82
     },
     {
       "word": "kickoff",
-      "start": 5.72,
-      "end": 6.26
+      "start": 3.82,
+      "end": 4.12
     },
     {
       "word": "call",
-      "start": 6.26,
-      "end": 7.02
+      "start": 4.12,
+      "end": 4.68
     },
     {
       "word": "Most",
-      "start": 7.54,
-      "end": 7.92
+      "start": 4.98,
+      "end": 5.26
     },
     {
       "word": "people",
-      "start": 7.92,
-      "end": 8.32
+      "start": 5.26,
+      "end": 5.6
     },
     {
       "word": "waste",
-      "start": 8.32,
-      "end": 8.92
+      "start": 5.6,
+      "end": 5.9
     },
     {
-      "word": "fair",
-      "start": 8.92,
-      "end": 9.46
+      "word": "four",
+      "start": 5.9,
+      "end": 6.32
     },
     {
       "word": "hours",
-      "start": 9.46,
-      "end": 9.94
+      "start": 6.32,
+      "end": 6.62
     },
     {
       "word": "every",
-      "start": 9.94,
-      "end": 10.5
+      "start": 6.62,
+      "end": 6.98
     },
     {
       "word": "week",
-      "start": 10.5,
-      "end": 10.86
+      "start": 6.98,
+      "end": 7.24
     },
     {
       "word": "doing",
-      "start": 10.86,
-      "end": 11.26
+      "start": 7.24,
+      "end": 7.5
     },
     {
       "word": "this",
-      "start": 11.26,
-      "end": 11.7
+      "start": 7.5,
+      "end": 7.78
     },
     {
       "word": "manually",
-      "start": 11.7,
-      "end": 12.28
+      "start": 7.78,
+      "end": 8.2
     },
     {
       "word": "Here",
-      "start": 13.2,
-      "end": 13.46
+      "start": 8.8,
+      "end": 8.98
     },
     {
       "word": "is",
-      "start": 13.46,
-      "end": 13.68
+      "start": 8.98,
+      "end": 9.14
     },
     {
       "word": "the",
-      "start": 13.68,
-      "end": 14.02
+      "start": 9.14,
+      "end": 9.34
     },
     {
       "word": "issue",
-      "start": 14.02,
-      "end": 14.48
+      "start": 9.34,
+      "end": 9.72
     },
     {
-      "word": "Repetitive",
-      "start": 15.12,
-      "end": 15.72
+      "word": "repetitive",
+      "start": 10.3,
+      "end": 10.42
     },
     {
-      "word": "lock",
-      "start": 15.72,
-      "end": 16.28
-    },
-    {
-      "word": "flows",
-      "start": 16.28,
-      "end": 16.62
+      "word": "workflows",
+      "start": 10.42,
+      "end": 11.06
     },
     {
       "word": "break",
-      "start": 16.62,
-      "end": 17.04
+      "start": 11.06,
+      "end": 11.36
     },
     {
-      "word": "on",
-      "start": 17.04,
-      "end": 17.24
+      "word": "under",
+      "start": 11.36,
+      "end": 11.58
     },
     {
-      "word": "the",
-      "start": 17.24,
-      "end": 17.54
-    },
-    {
-      "word": "road",
-      "start": 17.54,
-      "end": 17.86
+      "word": "load",
+      "start": 11.58,
+      "end": 11.9
     },
     {
       "word": "and",
-      "start": 17.86,
-      "end": 18.36
+      "start": 11.9,
+      "end": 12.18
     },
     {
       "word": "steal",
-      "start": 18.36,
-      "end": 18.66
+      "start": 12.18,
+      "end": 12.4
     },
     {
       "word": "your",
-      "start": 18.66,
-      "end": 18.98
+      "start": 12.4,
+      "end": 12.68
     },
     {
       "word": "focus",
-      "start": 18.98,
-      "end": 19.52
+      "start": 12.68,
+      "end": 13.02
     },
     {
       "word": "The",
-      "start": 20.3,
-      "end": 20.4
+      "start": 13.42,
+      "end": 13.6
     },
     {
       "word": "fix",
-      "start": 20.4,
-      "end": 20.66
+      "start": 13.6,
+      "end": 13.76
     },
     {
       "word": "is",
-      "start": 20.66,
-      "end": 21.04
+      "start": 13.76,
+      "end": 14.06
     },
     {
       "word": "simple",
-      "start": 21.04,
-      "end": 21.4
+      "start": 14.06,
+      "end": 14.34
     },
     {
-      "word": "Use",
-      "start": 21.4,
-      "end": 22.44
+      "word": "use",
+      "start": 14.72,
+      "end": 14.96
     },
     {
-      "word": "client",
-      "start": 22.44,
-      "end": 22.94
+      "word": "Client",
+      "start": 14.96,
+      "end": 15.32
     },
     {
       "word": "onboarding",
-      "start": 22.94,
-      "end": 23.7
+      "start": 15.32,
+      "end": 15.86
     },
     {
-      "word": "as",
-      "start": 23.7,
-      "end": 23.94
-    },
-    {
-      "word": "you'll",
-      "start": 23.94,
-      "end": 24.26
-    },
-    {
-      "word": "be",
-      "start": 24.26,
-      "end": 24.48
+      "word": "SOP",
+      "start": 15.86,
+      "end": 16.2
     },
     {
       "word": "that",
-      "start": 24.48,
-      "end": 24.84
+      "start": 16.2,
+      "end": 16.5
     },
     {
       "word": "collects",
-      "start": 24.84,
-      "end": 25.34
+      "start": 16.5,
+      "end": 16.8
     },
     {
       "word": "assets",
-      "start": 25.34,
-      "end": 25.98
+      "start": 16.8,
+      "end": 17.3
     },
     {
       "word": "and",
-      "start": 25.98,
-      "end": 26.36
+      "start": 17.3,
+      "end": 17.54
     },
     {
       "word": "logins",
-      "start": 26.36,
-      "end": 26.94
+      "start": 17.54,
+      "end": 17.9
     },
     {
       "word": "in",
-      "start": 26.94,
-      "end": 27.32
+      "start": 17.9,
+      "end": 18.16
     },
     {
       "word": "24",
-      "start": 27.32,
-      "end": 27.78
+      "start": 18.16,
+      "end": 18.54
     },
     {
       "word": "hours",
-      "start": 27.78,
-      "end": 28.5
+      "start": 18.54,
+      "end": 19.02
     },
     {
       "word": "instead",
-      "start": 28.5,
-      "end": 29.32
+      "start": 19.02,
+      "end": 19.52
     },
     {
       "word": "It",
-      "start": 30.28,
-      "end": 30.48
+      "start": 20.14,
+      "end": 20.32
     },
     {
       "word": "automates",
-      "start": 30.48,
-      "end": 31.12
+      "start": 20.32,
+      "end": 20.72
     },
     {
       "word": "every",
-      "start": 31.12,
-      "end": 31.78
+      "start": 20.72,
+      "end": 21.18
     },
     {
       "word": "step",
-      "start": 31.78,
-      "end": 32.14
+      "start": 21.18,
+      "end": 21.42
     },
     {
       "word": "in",
-      "start": 32.14,
-      "end": 32.44
+      "start": 21.42,
+      "end": 21.64
     },
     {
-      "word": "heat",
-      "start": 32.44,
-      "end": 32.8
+      "word": "heap",
+      "start": 21.64,
+      "end": 21.86
     },
     {
       "word": "memory",
-      "start": 32.8,
-      "end": 33.24
+      "start": 21.86,
+      "end": 22.16
     },
     {
       "word": "with",
-      "start": 33.24,
-      "end": 33.8
+      "start": 22.16,
+      "end": 22.48
     },
     {
       "word": "zero",
-      "start": 33.8,
-      "end": 34.24
+      "start": 22.48,
+      "end": 22.9
     },
     {
       "word": "manual",
-      "start": 34.24,
-      "end": 34.98
+      "start": 22.9,
+      "end": 23.34
     },
     {
       "word": "oversight",
-      "start": 34.98,
-      "end": 35.64
+      "start": 23.34,
+      "end": 23.78
     },
     {
       "word": "You",
-      "start": 36.6,
-      "end": 36.76
+      "start": 24.38,
+      "end": 24.52
     },
     {
       "word": "get",
-      "start": 36.76,
-      "end": 37.16
+      "start": 24.52,
+      "end": 24.76
     },
     {
       "word": "instant",
-      "start": 37.16,
-      "end": 37.74
+      "start": 24.76,
+      "end": 25.12
     },
     {
       "word": "results",
-      "start": 37.74,
-      "end": 38.38
+      "start": 25.12,
+      "end": 25.6
     },
     {
       "word": "zero",
-      "start": 39.1,
-      "end": 39.5
+      "start": 26.02,
+      "end": 26.44
     },
     {
-      "word": "hours",
-      "start": 39.5,
-      "end": 40.22
+      "word": "errors",
+      "start": 26.44,
+      "end": 26.8
     },
     {
       "word": "and",
-      "start": 40.22,
-      "end": 40.84
+      "start": 26.94,
+      "end": 27.18
     },
     {
       "word": "five",
-      "start": 40.84,
-      "end": 41.22
+      "start": 27.18,
+      "end": 27.52
     },
     {
       "word": "times",
-      "start": 41.22,
-      "end": 41.92
+      "start": 27.52,
+      "end": 27.96
     },
     {
       "word": "faster",
-      "start": 41.92,
-      "end": 42.4
+      "start": 27.96,
+      "end": 28.34
     },
     {
       "word": "turnaround",
-      "start": 42.4,
-      "end": 43.12
+      "start": 28.34,
+      "end": 28.8
     }
   ],
   "visuals": {
@@ -456,9 +436,16 @@
       "title": "24-Hour Kickoff SLA Victory",
       "primitive": "ClientHealthScorecard",
       "props": {
-        "title": "24-Hour Kickoff SLA Victory",
-        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours"
+        "compositeScore": 98,
+        "clientName": "Apex Peak Ventures",
+        "clientTier": "Full SLA Onboarding Victory"
       }
+    },
+    "timings": {
+      "hook": 4.68,
+      "act1": 8.2,
+      "act2": 13.02,
+      "act3": 19.52
     }
   }
 }

@@ -1,0 +1,67 @@
+name: Render 5-Reels Cloud Batch
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'flick-output/page-01/idea-01/**'
+      - '.github/workflows/render_5_reels.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  render-reel:
+    name: Render Reel ${{ matrix.script_id }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        script_id: ['script-01', 'script-02', 'script-03', 'script-04', 'script-05']
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: 'flick-output/remotion/package-lock.json'
+
+      - name: Install System Dependencies for Remotion Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-inter fonts-roboto chromium-browser
+
+      - name: Install Remotion NPM Packages
+        working-directory: flick-output/remotion
+        run: npm ci
+
+      - name: Prepare Assets & Manifest for ${{ matrix.script_id }}
+        run: |
+          SCRIPT_DIR="flick-output/page-01/idea-01/${{ matrix.script_id }}"
+          echo "Syncing assets from $SCRIPT_DIR..."
+          cp "$SCRIPT_DIR/audio-manifest.json" flick-output/remotion/public/audio-manifest.json
+          cp "$SCRIPT_DIR/audio-manifest.json" flick-output/remotion/src/data/audio-manifest.json
+          cp "$SCRIPT_DIR/full-dialogue.mp3" flick-output/remotion/public/full-dialogue.mp3
+
+      - name: Render Remotion 1080x1920 60fps MP4
+        working-directory: flick-output/remotion
+        run: |
+          mkdir -p ../../dist
+          OUT_PATH="../../dist/final-reel-${{ matrix.script_id }}.mp4"
+          npx remotion render src/index.tsx PythonStackReel "$OUT_PATH" --gl=angle --concurrency=4
+
+      - name: Upload to Release (Public Direct Download)
+        uses: softprops/action-gh-release@v2
+        if: success()
+        with:
+          tag_name: batch-run-5reels
+          name: "5-Reel Production Batch"
+          draft: false
+          prerelease: false
+          files: dist/final-reel-${{ matrix.script_id }}.mp4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
