@@ -287,33 +287,36 @@ export const OnboardingMilestoneRoadmap: React.FC<OnboardingMilestoneRoadmapProp
         }}
       >
         {stages.map((stage, idx) => {
+          // Progressive Disclosure: Each stage reveals sequentially with the narration
+          const stageDelay = 10 + idx * 38;
+          const isRevealed = frame >= stageDelay;
           const itemSpring = spring({
-            frame: Math.max(0, frame - (8 + idx * 6)),
+            frame: Math.max(0, frame - stageDelay),
             fps,
-            config: { damping: 14, stiffness: 140 },
+            config: { damping: 12, stiffness: 140 },
           });
-          const itemScale = interpolate(itemSpring, [0, 1], [0.85, 1]);
-          const itemOpacity = interpolate(itemSpring, [0, 1], [0, 1]);
+          const itemScale = isRevealed ? interpolate(itemSpring, [0, 1], [0.85, 1]) : 0.92;
+          const itemOpacity = isRevealed ? interpolate(itemSpring, [0, 1], [0.3, 1]) : 0.2;
 
           const isCompleted = stage.status === 'completed';
           const isActive = stage.status === 'active';
           const isUpcoming = stage.status === 'upcoming';
 
-          let borderColor = 'rgba(148, 163, 184, 0.18)';
-          let bgColor = 'rgba(30, 41, 59, 0.45)';
+          let borderColor = isRevealed ? 'rgba(148, 163, 184, 0.25)' : 'rgba(148, 163, 184, 0.08)';
+          let bgColor = isRevealed ? 'rgba(30, 41, 59, 0.55)' : 'rgba(15, 23, 42, 0.4)';
           let accentColor = '#94a3b8';
           let glowShadow = 'none';
 
-          if (isCompleted) {
-            borderColor = 'rgba(34, 197, 94, 0.4)';
-            bgColor = 'rgba(16, 185, 129, 0.08)';
+          if (isRevealed && isCompleted) {
+            borderColor = 'rgba(34, 197, 94, 0.5)';
+            bgColor = 'rgba(16, 185, 129, 0.12)';
             accentColor = '#22c55e';
-            glowShadow = '0 0 16px rgba(34, 197, 94, 0.15)';
-          } else if (isActive) {
-            borderColor = 'rgba(56, 189, 248, 0.7)';
-            bgColor = 'rgba(14, 165, 233, 0.14)';
+            glowShadow = '0 0 20px rgba(34, 197, 94, 0.25)';
+          } else if (isRevealed && isActive) {
+            borderColor = 'rgba(56, 189, 248, 0.8)';
+            bgColor = 'rgba(14, 165, 233, 0.18)';
             accentColor = '#38bdf8';
-            glowShadow = `0 0 ${activeGlow}px rgba(56, 189, 248, 0.35)`;
+            glowShadow = `0 0 ${activeGlow}px rgba(56, 189, 248, 0.45)`;
           }
 
           return (

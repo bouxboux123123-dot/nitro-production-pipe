@@ -304,10 +304,13 @@ export const ClientHealthScorecard: React.FC<ClientHealthScorecardProps> = ({
         }}
       >
         {metrics.map((m, index) => {
+          // Progressive Disclosure: Each victory metric unlocks sequentially
+          const metricDelay = 18 + index * 32;
+          const isRevealed = frame >= metricDelay;
           const itemSpring = spring({
-            frame: frame - (16 + index * 5),
+            frame: Math.max(0, frame - metricDelay),
             fps,
-            config: { damping: 14, stiffness: 100 },
+            config: { damping: 13, stiffness: 130 },
           });
 
           const mColor =
@@ -317,15 +320,17 @@ export const ClientHealthScorecard: React.FC<ClientHealthScorecardProps> = ({
             <div
               key={m.id}
               style={{
-                opacity: itemSpring,
-                transform: `translateY(${interpolate(itemSpring, [0, 1], [14, 0])}px)`,
-                background: 'rgba(15, 23, 42, 0.65)',
-                border: `1px solid ${mColor}44`,
-                borderRadius: 14,
-                padding: '12px 14px',
+                opacity: isRevealed ? interpolate(itemSpring, [0, 1], [0.2, 1]) : 0.1,
+                transform: `translateY(${isRevealed ? interpolate(itemSpring, [0, 1], [18, 0]) : 18}px) scale(${isRevealed ? interpolate(itemSpring, [0, 1], [0.93, 1]) : 0.95})`,
+                background: isRevealed ? 'rgba(15, 23, 42, 0.75)' : 'rgba(15, 23, 42, 0.35)',
+                border: isRevealed ? `1.5px solid ${mColor}60` : '1px solid rgba(255, 255, 255, 0.08)',
+                boxShadow: isRevealed ? `0 0 20px ${mColor}25` : 'none',
+                borderRadius: 16,
+                padding: '14px 16px',
                 display: 'flex',
                 flexDirection: 'column',
                 justifyContent: 'space-between',
+                transition: 'border 0.2s ease',
               }}
             >
               <div>
@@ -370,18 +375,20 @@ export const ClientHealthScorecard: React.FC<ClientHealthScorecardProps> = ({
         })}
       </div>
 
-      {/* Bottom Retention Action Prescription */}
+      {/* Bottom Retention Action Prescription (Slides in as final victory payoff) */}
       <div
         style={{
           marginTop: 14,
           padding: '12px 20px',
           borderRadius: 14,
-          background: 'linear-gradient(90deg, rgba(16, 185, 129, 0.2) 0%, rgba(15, 23, 42, 0.8) 100%)',
-          border: '1.5px solid rgba(16, 185, 129, 0.45)',
+          background: 'linear-gradient(90deg, rgba(16, 185, 129, 0.22) 0%, rgba(15, 23, 42, 0.85) 100%)',
+          border: '1.5px solid rgba(16, 185, 129, 0.5)',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
           zIndex: 2,
+          opacity: frame >= 100 ? interpolate(spring({ frame: Math.max(0, frame - 100), fps }), [0, 1], [0, 1]) : 0,
+          transform: `translateY(${frame >= 100 ? interpolate(spring({ frame: Math.max(0, frame - 100), fps }), [0, 1], [16, 0]) : 16}px)`,
         }}
       >
         <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>

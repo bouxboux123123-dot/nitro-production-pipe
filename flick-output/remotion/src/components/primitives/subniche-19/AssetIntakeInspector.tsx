@@ -24,40 +24,31 @@ export const AssetIntakeInspector: React.FC<AssetIntakeInspectorProps> = ({
   scanProgress = 92,
   assets = [
     {
-      fileName: 'apex_logo_primary_mark.svg',
-      fileType: 'Vector SVG',
-      size: '240 KB',
-      specs: 'Infinite Scalability • CMYK & RGB Paths Verified',
+      fileName: 'Client Brand Guidelines & Assets',
+      fileType: 'Vector SVG + Deck',
+      size: '14.2 MB',
+      specs: '12 Files Verified • Color Palettes & Fonts Sealed',
       status: 'passed',
-      badgeLabel: 'VECTOR CERTIFIED',
-      resolutionInfo: 'Vector Infinite',
+      badgeLabel: 'ASSETS READY',
+      resolutionInfo: '100% Validated',
     },
     {
-      fileName: 'brand_type_display_bold.otf',
-      fileType: 'OpenType Font',
-      size: '1.2 MB',
-      specs: 'Web & Desktop Font License Validated',
-      status: 'passed',
-      badgeLabel: 'FONTS READY',
-      resolutionInfo: 'Typography OTF',
-    },
-    {
-      fileName: 'hero_ad_master_raw.png',
-      fileType: 'PNG Image',
-      size: '14.8 MB',
-      specs: '3840 x 2160 • 300 DPI • Ultra-Wide Color Gamut',
-      status: 'passed',
-      badgeLabel: '4K RETINAPROOF',
-      resolutionInfo: '300 DPI High-Res',
-    },
-    {
-      fileName: 'legacy_icon_draft.jpg',
-      fileType: 'JPEG 72 DPI',
-      size: '88 KB',
-      specs: 'Low-res detected: Auto-vectorizing via AI Engine',
+      fileName: 'Meta Business Manager Admin Access',
+      fileType: 'OAuth Admin Invite',
+      size: '2FA Token',
+      specs: '🛑 STALLED: 2FA Token Expired • Admin Rights Missing',
       status: 'warning',
-      badgeLabel: 'AI VECTORIZING',
-      resolutionInfo: 'Auto-Upscaled to SVG',
+      badgeLabel: 'ACCESS BLOCKED',
+      resolutionInfo: 'Wrong Permissions',
+    },
+    {
+      fileName: 'Shopify Staff Collaborator Account',
+      fileType: 'Partner Token',
+      size: 'API Key',
+      specs: '⚠️ Pending Client Owner Acceptance • 4 Days Delay',
+      status: 'warning',
+      badgeLabel: 'CLIENT DELAY',
+      resolutionInfo: 'Awaiting Auth',
     },
   ],
   width = 960,
@@ -280,13 +271,17 @@ export const AssetIntakeInspector: React.FC<AssetIntakeInspectorProps> = ({
       {/* Asset Inspection Cards */}
       <div style={{ display: 'flex', flexDirection: 'column', gap: 12, flex: 1 }}>
         {assets.slice(0, 3).map((asset, idx) => {
+          // Progressive Disclosure: Each inspection item slams in timed with audio beats
+          const rowDelay = 15 + idx * 42; // 0.5s, 1.9s, 3.3s
+          const isRevealed = frame >= rowDelay;
           const rowSpring = spring({
-            frame: Math.max(0, frame - (10 + idx * 6)),
+            frame: Math.max(0, frame - rowDelay),
             fps,
-            config: { damping: 13, stiffness: 130 },
+            config: { damping: 12, stiffness: 150 },
           });
-          const rowOpacity = interpolate(rowSpring, [0, 1], [0, 1]);
-          const rowY = interpolate(rowSpring, [0, 1], [15, 0]);
+          const rowOpacity = isRevealed ? interpolate(rowSpring, [0, 1], [0.15, 1]) : 0.08;
+          const rowY = isRevealed ? interpolate(rowSpring, [0, 1], [24, 0]) : 24;
+          const rowScale = isRevealed ? interpolate(rowSpring, [0, 1], [0.92, 1]) : 0.95;
 
           const isPassed = asset.status === 'passed';
           const isWarning = asset.status === 'warning';
@@ -296,14 +291,18 @@ export const AssetIntakeInspector: React.FC<AssetIntakeInspectorProps> = ({
               key={asset.fileName}
               style={{
                 opacity: rowOpacity,
-                transform: `translateY(${rowY}px)`,
-                background: 'rgba(30, 41, 59, 0.65)',
-                border: `1.5px solid ${isPassed ? 'rgba(34, 197, 94, 0.4)' : 'rgba(245, 158, 11, 0.5)'}`,
+                transform: `translateY(${rowY}px) scale(${rowScale})`,
+                background: isRevealed ? 'rgba(30, 41, 59, 0.7)' : 'rgba(15, 23, 42, 0.4)',
+                border: isRevealed
+                  ? `1.5px solid ${isPassed ? 'rgba(34, 197, 94, 0.5)' : 'rgba(239, 68, 68, 0.6)'}`
+                  : '1px solid rgba(148, 163, 184, 0.1)',
+                boxShadow: isRevealed && !isPassed ? '0 0 25px rgba(239, 68, 68, 0.2)' : 'none',
                 borderRadius: 16,
                 padding: '16px 20px',
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'space-between',
+                transition: 'border 0.2s ease',
               }}
             >
               {/* File details */}

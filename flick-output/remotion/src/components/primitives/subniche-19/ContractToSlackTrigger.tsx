@@ -440,11 +440,11 @@ export const ContractToSlackTrigger: React.FC<ContractToSlackTriggerProps> = ({
               </div>
 
               <div style={{ fontSize: 16, color: '#f1f5f9', lineHeight: 1.4, fontWeight: 700 }}>
-                🎉 New Client Inbound! <span style={{ color: '#38bdf8' }}>{clientName}</span> signed {contractValue}!
+                🎉 24H SOP Triggered! <span style={{ color: '#38bdf8' }}>{clientName}</span> assets & logins verified!
               </div>
             </div>
 
-            {/* Automated provision checklist */}
+            {/* Automated provision checklist (Progressive checkoff) */}
             <div
               style={{
                 background: 'rgba(15, 23, 42, 0.85)',
@@ -456,21 +456,21 @@ export const ContractToSlackTrigger: React.FC<ContractToSlackTriggerProps> = ({
                 fontSize: 15,
               }}
             >
-              <div style={{ display: 'flex', alignItems: 'center', gap: 6, color: '#4ade80' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 6, color: '#4ade80', opacity: frame >= 65 ? 1 : 0.2, transition: 'opacity 0.2s' }}>
                 <span>✓</span>
                 <span>Created private channel <strong>#{channelName}</strong></span>
               </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 6, color: '#4ade80' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 6, color: '#4ade80', opacity: frame >= 85 ? 1 : 0.2, transition: 'opacity 0.2s' }}>
                 <span>✓</span>
-                <span>Auto-invited {teamInvitedCount} Core Team Leads</span>
+                <span>Auto-invited {teamInvitedCount} Core Team Leads & Client</span>
               </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 6, color: '#4ade80' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 6, color: '#4ade80', opacity: frame >= 105 ? 1 : 0.2, transition: 'opacity 0.2s' }}>
                 <span>✓</span>
                 <span>Google Drive client folders generated</span>
               </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 6, color: '#38bdf8' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 6, color: '#38bdf8', opacity: frame >= 120 ? 1 : 0.2, transition: 'opacity 0.2s' }}>
                 <span>⚡</span>
-                <span>ClickUp Onboarding Sprint initialized</span>
+                <span>24-Hour Kickoff Sprint initialized</span>
               </div>
             </div>
           </div>

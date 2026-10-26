@@ -544,7 +544,9 @@ export const PythonStackScene: React.FC = () => {
           >
             {Act1Primitive ? (
               <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
-                <Act1Primitive {...(v?.act1?.props || {})} />
+                <Sequence from={f(5.8)} durationInFrames={f(6.7)} layout="none">
+                  <Act1Primitive {...(v?.act1?.props || {})} />
+                </Sequence>
               </div>
             ) : (
               <>
@@ -694,7 +696,9 @@ export const PythonStackScene: React.FC = () => {
           >
             {Act2Primitive ? (
               <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
-                <Act2Primitive {...(v?.act2?.props || {})} />
+                <Sequence from={f(12.5)} durationInFrames={f(6.3)} layout="none">
+                  <Act2Primitive {...(v?.act2?.props || {})} />
+                </Sequence>
               </div>
             ) : (
               <>
@@ -829,7 +833,9 @@ export const PythonStackScene: React.FC = () => {
           >
             {Act3Primitive ? (
               <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
-                <Act3Primitive {...(v?.act3?.props || {})} />
+                <Sequence from={f(18.8)} durationInFrames={f(5.2)} layout="none">
+                  <Act3Primitive {...(v?.act3?.props || {})} />
+                </Sequence>
               </div>
             ) : (
               <>
@@ -984,7 +990,9 @@ export const PythonStackScene: React.FC = () => {
           >
             {Act4Primitive ? (
               <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
-                <Act4Primitive {...(v?.act4?.props || {})} />
+                <Sequence from={f(24.0)} durationInFrames={f(6.0)} layout="none">
+                  <Act4Primitive {...(v?.act4?.props || {})} />
+                </Sequence>
               </div>
             ) : (
               <>
