@@ -349,7 +349,7 @@ export const PythonStackScene: React.FC = () => {
 
 
 
-      {/* Top progress bar and Chapter pill removed per user instruction for ultra-clean HUD */}
+      {/* Top progress bar and Chapter pill removed per user instruction for ultra-clean HUD (Production Build) */}
 
       {/* V13: POLAROID CHAPTER STICKER (Positioned safely at top: 32px, right: 36px) */}
       {polaroidInfo && (
