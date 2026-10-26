@@ -1,0 +1,42 @@
+name: Benchmark Kokoro Voiceover Cloud Generation
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/benchmark_voiceover.yml'
+      - 'scripts/benchmark_cloud_voiceover.py'
+
+jobs:
+  benchmark-voiceover:
+    name: Benchmark Voiceover (P1 I1 S1)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install System Audio Tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python Dependencies
+        run: |
+          pip install kokoro-onnx faster-whisper soundfile numpy scipy
+
+      - name: Run Kokoro Download & Voiceover Synthesis Benchmark
+        run: |
+          python scripts/benchmark_cloud_voiceover.py
+
+      - name: Upload Generated Audio Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: voiceover-benchmark-p01-i01-s01
+          path: flick-output/benchmark-test/page-01/idea-01/script-01/
