@@ -11,24 +11,18 @@ jobs:
   synthesize-batch:
     name: ${{ matrix.page }} Chunk ${{ matrix.chunk }} (50 Scripts)
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 30
 
     strategy:
       fail-fast: false
-      max-parallel: 20
       matrix:
-        page:
-          - page-01
-          - page-02
-          - page-03
-          - page-04
-          - page-05
-          - page-06
-          - page-07
-          - page-08
-          - page-09
-          - page-10
-        chunk: [1, 2]
+        include:
+          - page: page-02
+            chunk: 1
+          - page: page-03
+            chunk: 1
+          - page: page-05
+            chunk: 1
 
     steps:
       - name: Checkout Code
@@ -39,10 +33,9 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install System Audio Tools
+      - name: Verify System Audio Tools
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          ffmpeg -version || (sudo apt-get update && sudo apt-get install -y ffmpeg)
 
       - name: Install Python Dependencies
         run: |
