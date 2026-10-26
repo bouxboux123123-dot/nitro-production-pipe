@@ -354,49 +354,7 @@ export const PythonStackScene: React.FC = () => {
 
 
 
-      {/* V7: TOP-OF-SCREEN PROGRESS BAR */}
-      <div
-        style={{
-          position: 'absolute',
-          top: 0,
-          left: 0,
-          width: topProgressWidth,
-          height: 6,
-          background: 'linear-gradient(90deg, #74c7ec 0%, #00e5ff 50%, #a6e3a1 100%)',
-          zIndex: 80,
-          boxShadow: '0 0 12px rgba(0, 229, 255, 0.8)',
-        }}
-      />
-
-      {/* V11: CHAPTER MARKER PILL (Top-Left HUD) */}
-      <div
-        style={{
-          position: 'absolute',
-          top: 26,
-          left: 40,
-          zIndex: 80,
-          display: 'flex',
-          alignItems: 'center',
-          gap: 8,
-          background: currentChapter.bg,
-          border: `2px solid ${currentChapter.color}`,
-          borderRadius: 40,
-          padding: '8px 22px',
-          boxShadow: `0 0 20px ${currentChapter.color}40`,
-        }}
-      >
-        <span
-          style={{
-            fontFamily: 'system-ui, -apple-system, sans-serif',
-            fontSize: 16,
-            fontWeight: 900,
-            color: currentChapter.color,
-            letterSpacing: '0.08em',
-          }}
-        >
-          {currentChapter.label}
-        </span>
-      </div>
+      {/* Top progress bar and Chapter pill removed per user instruction for ultra-clean HUD */}
 
       {/* V13: POLAROID CHAPTER STICKER (Positioned safely at top: 32px, right: 36px) */}
       {polaroidInfo && (
