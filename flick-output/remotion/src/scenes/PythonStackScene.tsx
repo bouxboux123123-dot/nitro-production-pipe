@@ -1138,7 +1138,7 @@ export const PythonStackScene: React.FC = () => {
         )}
       </div>
 
-      {/* ---------------- LAYER 2: V10 SUBTITLES (3-WORD BATCH KARAOKE) ---------------- */}
+      {/* ---------------- LAYER 2: SUBMAGIC NEON PILL CAPTIONS ---------------- */}
       <div
         style={{
           position: 'absolute',
@@ -1159,54 +1159,44 @@ export const PythonStackScene: React.FC = () => {
             flexWrap: 'wrap',
             justifyContent: 'center',
             alignItems: 'center',
-            gap: '16px 28px',
+            gap: '14px 18px',
             maxWidth: 960,
           }}
         >
           {currentChunk.map((w, idx) => {
             const isCurrent = t >= w.start && t <= w.end;
-            const isPast = t > w.end;
-            const cleanUpper = w.word.toUpperCase().replace(/[^A-Z]/g, '');
-            const isHighlight = KEYWORDS.some((k) => cleanUpper.includes(k));
+            const wordAge = frame - f(w.start);
+            const pop = isCurrent
+              ? spring({ frame: wordAge, fps, config: { damping: 11, stiffness: 220 } })
+              : 1.0;
+            const scale = isCurrent ? interpolate(pop, [0, 1], [0.92, 1.10]) : 1.0;
 
             return (
-              <span
+              <div
                 key={`${w.word}-${w.start}-${idx}`}
                 style={{
+                  background: isCurrent ? '#00e5ff' : 'rgba(10, 15, 30, 0.78)',
+                  backdropFilter: 'blur(8px)',
+                  color: isCurrent ? '#030712' : '#ffffff',
+                  border: isCurrent
+                    ? '2px solid #ffffff'
+                    : '1px solid rgba(255, 255, 255, 0.22)',
+                  borderRadius: 18,
+                  padding: '10px 22px',
                   fontFamily: 'system-ui, -apple-system, sans-serif',
                   fontWeight: 900,
-                  fontSize: isCurrent ? 58 : 50,
-                  letterSpacing: '0.04em',
+                  fontSize: 50,
                   textTransform: 'uppercase',
-                  color: isCurrent
-                    ? '#00e5ff'
-                    : isPast
-                    ? '#ffffff'
-                    : 'rgba(255, 255, 255, 0.45)',
-                  textShadow: isCurrent
-                    ? '0 0 30px rgba(0, 229, 255, 0.95), 0 4px 14px rgba(0,0,0,0.95)'
-                    : '0 4px 16px rgba(0, 0, 0, 0.95)',
-                  transform: isCurrent ? 'scale(1.10)' : 'scale(1.0)',
-                  transition: 'transform 0.05s ease-out, color 0.05s ease-out',
+                  boxShadow: isCurrent
+                    ? '0 0 45px rgba(0, 229, 255, 0.95), 0 8px 25px rgba(0, 0, 0, 0.85)'
+                    : '0 4px 16px rgba(0, 0, 0, 0.6)',
+                  transform: `scale(${scale})`,
                   display: 'inline-block',
-                  position: 'relative',
+                  letterSpacing: '0.04em',
                 }}
               >
-                {/* Active Word Glow Ripple */}
-                {isCurrent && (
-                  <span
-                    style={{
-                      position: 'absolute',
-                      inset: -8,
-                      borderRadius: 14,
-                      background: 'rgba(0, 229, 255, 0.18)',
-                      boxShadow: '0 0 30px rgba(0, 229, 255, 0.45)',
-                      zIndex: -1,
-                    }}
-                  />
-                )}
                 {w.word}
-              </span>
+              </div>
             );
           })}
         </div>
@@ -1215,6 +1205,17 @@ export const PythonStackScene: React.FC = () => {
       {/* ---------------- LAYER 3: MINIMAL ACOUSTIC SOUND SET ---------------- */}
       {/* Primary Voiceover Narration */}
       <Audio src={staticFile('full-dialogue.mp3')} volume={1.0} />
+
+      {/* Subtitle Word Transition Ticks (Subtle micro-click whenever active word changes) */}
+      {words.map((w, i) => (
+        <Sequence
+          key={`sub-tick-${i}-${w.word}`}
+          from={f(w.start)}
+          durationInFrames={4}
+        >
+          <Audio src={staticFile('sounds/Click.mp3')} volume={0.14} />
+        </Sequence>
+      ))}
 
       {/* Hook Rapid Kinetic Word Clicks */}
       {hookWords.map((_, i) => {
