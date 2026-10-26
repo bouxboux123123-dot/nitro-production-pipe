@@ -371,7 +371,7 @@
       "chapter": "\u26a1 HOOK",
       "badge": "\u26a1 AGENCY SYSTEMS",
       "line1": "How seven-figure digital agencies onboard new retainer clients on autopilot.",
-      "line2": "FIXED IN 24 HOURS",
+      "line2": "ONBOARD IN 24 HOURS",
       "tag": "\ud83d\uded1 Client onboarding SOP that collects assets and logins in 24 hours",
       "subtext": "Stop losing hours every week doing this manually."
     },
@@ -411,16 +411,11 @@
       "title": "24-Hour Kickoff SLA Victory",
       "primitive": "ClientHealthScorecard",
       "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours",
         "compositeScore": 98,
-        "clientName": "Apex Peak Ventures",
         "clientTier": "Full SLA Onboarding Victory"
       }
-    },
-    "timings": {
-      "hook": 4.62,
-      "act1": 8.34,
-      "act2": 13.28,
-      "act3": 19.8
     }
   }
 }

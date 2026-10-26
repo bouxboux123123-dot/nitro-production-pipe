@@ -1,0 +1,60 @@
+name: 20-Runner Parallel Voiceover Production (1000 Scripts)
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/batch_voiceover_matrix.yml'
+      - 'scripts/batch_voiceover_runner.py'
+
+jobs:
+  synthesize-batch:
+    name: ${{ matrix.page }} Chunk ${{ matrix.chunk }} (50 Scripts)
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        page:
+          - page-01
+          - page-02
+          - page-03
+          - page-04
+          - page-05
+          - page-06
+          - page-07
+          - page-08
+          - page-09
+          - page-10
+        chunk: [1, 2]
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install System Audio Tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python Dependencies
+        run: |
+          pip install kokoro-onnx faster-whisper soundfile numpy scipy
+
+      - name: Run 50-Script Batch Voiceover & Alignment
+        run: |
+          python scripts/batch_voiceover_runner.py --page ${{ matrix.page }} --chunk ${{ matrix.chunk }}
+
+      - name: Upload Voiceover Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: voiceovers-${{ matrix.page }}-chunk-${{ matrix.chunk }}
+          path: flick-output/${{ matrix.page }}/
+          retention-days: 7

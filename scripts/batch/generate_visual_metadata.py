@@ -1,4 +1,30 @@
 import re
+import json
+from pathlib import Path
+
+PUNCHLINES_FILE = Path(__file__).parent / "idea_punchlines.json"
+_PUNCHLINES_MAP = None
+
+def get_idea_punchline(idea: str, tool_or_topic: str) -> str:
+    global _PUNCHLINES_MAP
+    if _PUNCHLINES_MAP is None:
+        if PUNCHLINES_FILE.exists():
+            try:
+                with open(PUNCHLINES_FILE, "r", encoding="utf-8") as f:
+                    _PUNCHLINES_MAP = json.load(f)
+            except Exception:
+                _PUNCHLINES_MAP = {}
+        else:
+            _PUNCHLINES_MAP = {}
+    
+    if idea in _PUNCHLINES_MAP:
+        return _PUNCHLINES_MAP[idea]
+    
+    # Fallback to clean 2-3 word topic badge
+    words = re.sub(r'[^\w\s]', '', tool_or_topic).strip().split()
+    if len(words) <= 3:
+        return " ".join(words).upper()
+    return " ".join(words[:3]).upper()
 
 def create_visual_metadata(page: str, idea: str, hook: str) -> dict:
     """
@@ -191,7 +217,7 @@ def create_visual_metadata(page: str, idea: str, hook: str) -> dict:
             "chapter": "⚡ HOOK",
             "badge": f"⚡ {niche_title}",
             "line1": clean_hook,  # Complete, untruncated hook
-            "line2": "FIXED IN 24 HOURS",
+            "line2": get_idea_punchline(idea, tool_or_topic),
             "tag": f"🛑 {tool_or_topic}",
             "subtext": "Stop losing hours every week doing this manually."
         },

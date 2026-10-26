@@ -386,7 +386,7 @@
       "chapter": "\u26a1 HOOK",
       "badge": "\u26a1 AGENCY SYSTEMS",
       "line1": "How agency owners know the exact day they need to hire their next account manager.",
-      "line2": "FIXED IN 24 HOURS",
+      "line2": "PREVENT TEAM BURNOUT",
       "tag": "\ud83d\uded1 Agency capacity planning matrix that prevents team burnout",
       "subtext": "Stop losing hours every week doing this manually."
     },
@@ -427,7 +427,9 @@
       "primitive": "DeliverableVelocityTracker",
       "props": {
         "title": "Turnaround Benchmark Victory",
-        "subtitle": "Agency capacity planning matrix that prevents team burnout"
+        "subtitle": "Agency capacity planning matrix that prevents team burnout",
+        "compositeScore": null,
+        "clientTier": null
       }
     }
   }

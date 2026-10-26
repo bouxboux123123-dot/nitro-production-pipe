@@ -376,36 +376,38 @@
       "chapter": "\u26a1 HOOK",
       "badge": "\u26a1 AGENCY SYSTEMS",
       "line1": "The biggest bottleneck for scaling an agency is slow client onboarding.",
-      "line2": "FIXED IN 24 HOURS"
+      "line2": "ONBOARD IN 24 HOURS",
+      "tag": "\ud83d\uded1 Client onboarding SOP that collects assets and logins in 24 hours",
+      "subtext": "Stop losing hours every week doing this manually."
     },
     "act1": {
       "chapter": "\ud83d\udd37 THE BOTTLENECK",
       "badge": "AGENCY SYSTEMS BOTTLENECK",
-      "title": "24-Hour Client Onboarding SOP",
+      "title": "Client Onboarding Pipeline: Client onboarding SOP that collects assets and logins in 24 hours",
       "primitive": "OnboardingMilestoneRoadmap",
       "props": {
-        "clientName": "Apex Peak Ventures",
-        "contractTier": ",500/mo Retainer \u2022 24H SOP Active"
+        "title": "Client Onboarding Pipeline: Client onboarding SOP that collects assets and logins in 24 hours",
+        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours"
       }
     },
     "act2": {
       "chapter": "\ud83d\uded1 THE CRISIS",
       "badge": "CRITICAL BOTTLENECK",
-      "title": "Asset & Credential Inspection Stall",
+      "title": "Asset & Access Inspection Stall",
       "primitive": "AssetIntakeInspector",
       "props": {
-        "clientBrand": "Apex Peak Ventures"
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours"
       }
     },
     "act3": {
       "chapter": "\ud83d\ude80 THE FIX",
       "badge": "THE AUTOMATED PIPELINE",
-      "title": "Automated Webhook & Slack Provisioning",
+      "title": "Automated Welcome & Slack Provisioning",
       "primitive": "ContractToSlackTrigger",
       "props": {
-        "clientName": "Apex Peak Ventures",
-        "contractValue": ",500/mo Retainer",
-        "channelName": "client-apex-peak"
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours"
       }
     },
     "act4": {
@@ -414,16 +416,11 @@
       "title": "24-Hour Kickoff SLA Victory",
       "primitive": "ClientHealthScorecard",
       "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Client onboarding SOP that collects assets and logins in 24 hours",
         "compositeScore": 98,
-        "clientName": "Apex Peak Ventures",
         "clientTier": "Full SLA Onboarding Victory"
       }
-    },
-    "timings": {
-      "hook": 4.2,
-      "act1": 7.6,
-      "act2": 12.42,
-      "act3": 18.94
     }
   }
 }
