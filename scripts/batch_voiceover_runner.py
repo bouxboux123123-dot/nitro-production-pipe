@@ -35,7 +35,7 @@ def download_models_if_needed(model_dir: Path):
 
 def process_batch(page_slug: str, chunk: int, model_dir: Path, manifest_path: Path, output_root: Path):
     print("=" * 60)
-    print(f"🚀 STARTING BATCH VOICEOVER RUNNER: {page_slug} [Chunk {chunk}/2]")
+    print(f">> STARTING BATCH VOICEOVER RUNNER: {page_slug} [Chunk {chunk}/2]")
     print("=" * 60)
 
     # 1. Download & Initialize Models
@@ -52,7 +52,7 @@ def process_batch(page_slug: str, chunk: int, model_dir: Path, manifest_path: Pa
     whisper_model = WhisperModel("tiny.en", device="cpu", compute_type="int8")
 
     setup_duration = round(time.time() - t0_setup, 2)
-    print(f"✅ Setup & Model Initialization complete in {setup_duration}s\n")
+    print(f"[OK] Setup & Model Initialization complete in {setup_duration}s\n")
 
     # 2. Filter target scripts from video manifest
     with open(manifest_path, "r", encoding="utf-8") as f:
@@ -151,10 +151,10 @@ def process_batch(page_slug: str, chunk: int, model_dir: Path, manifest_path: Pa
     avg_per_script = round(sum(item_durations) / len(item_durations), 2)
 
     print("\n" + "=" * 60)
-    print(f"🎉 BATCH COMPLETE: {page_slug} [Chunk {chunk}/2]")
-    print(f"  • Scripts Synthesized: {total_items}")
-    print(f"  • Total Batch Time: {total_batch_time}s ({round(total_batch_time/60, 2)} minutes)")
-    print(f"  • Average Per Video: {avg_per_script}s")
+    print(f"[OK] BATCH COMPLETE: {page_slug} [Chunk {chunk}/2]")
+    print(f"  * Scripts Synthesized: {total_items}")
+    print(f"  * Total Batch Time: {total_batch_time}s ({round(total_batch_time/60, 2)} minutes)")
+    print(f"  * Average Per Video: {avg_per_script}s")
     print("=" * 60 + "\n")
 
 if __name__ == "__main__":

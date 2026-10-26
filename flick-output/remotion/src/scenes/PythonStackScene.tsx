@@ -37,6 +37,10 @@ export const PythonStackScene: React.FC = () => {
 
   const words = useMemo(() => manifestData.words as WordTimestamp[], []);
   const v = useMemo(() => (manifestData as any)?.visuals || null, []);
+  const scriptIndex = useMemo(() => {
+    return (manifestData as any)?.script_index || (((manifestData?.text?.length || 1) % 5) + 1);
+  }, []);
+  const bgStartFrame = (scriptIndex - 1) * 1500;
   const hookLine1Text = v?.hook?.line1 || 'The biggest bottleneck for scaling an agency is slow client onboarding.';
   const hookWords = useMemo(() => hookLine1Text.split(' '), [hookLine1Text]);
 
@@ -291,53 +295,19 @@ export const PythonStackScene: React.FC = () => {
       >
         <OffthreadVideo
           src={staticFile('minecraft_bg.mp4')}
+          startFrom={bgStartFrame}
           style={{ width: '100%', height: '100%', objectFit: 'cover' }}
         />
-        {/* Solution 2: CSS Mix-Blend-Mode Tint (Eliminates software filter rasterization lag) */}
-        <div
-          style={{
-            position: 'absolute',
-            inset: 0,
-            backgroundColor:
-              t < t_hook
-                ? 'rgba(137, 180, 250, 0.18)' // Act 1 Hook: Soft Indigo
-                : t < t_act1
-                ? 'rgba(203, 166, 247, 0.16)' // Act 1: Purple
-                : t < t_act2
-                ? 'rgba(243, 139, 168, 0.30)' // Act 2 Crash / Recursion: Crimson Red
-                : t < t_act3
-                ? 'rgba(166, 227, 161, 0.20)' // Act 3 Iterative: Emerald Green
-                : 'rgba(137, 220, 235, 0.20)', // Act 4 5x Faster: Cyan
-            mixBlendMode: 'color',
-          }}
-        />
-        {/* Dynamic Vignette */}
+        {/* Crisp Edge Vignette: 100% natural, sharp, high-res gameplay */}
         <div
           style={{
             position: 'absolute',
             inset: 0,
             background:
-              t >= t_act1 && t < t_act2
-                ? 'radial-gradient(circle at center, rgba(243, 139, 168, 0.25) 0%, rgba(10, 5, 10, 0.88) 100%)'
-                : 'radial-gradient(circle at center, rgba(0, 0, 0, 0.2) 0%, rgba(7, 8, 14, 0.85) 100%)',
+              'radial-gradient(circle at center, transparent 45%, rgba(7, 8, 14, 0.35) 100%)',
           }}
         />
       </div>
-
-      {/* V3: CRT SCAN-LINE OVERLAY (Act 2 Crash) */}
-      {t >= t_act1 && t < t_act2 && (
-        <div
-          style={{
-            position: 'absolute',
-            inset: 0,
-            zIndex: 4,
-            pointerEvents: 'none',
-            opacity: 0.55,
-            background:
-              'repeating-linear-gradient(to bottom, transparent 0px, transparent 3px, rgba(0, 0, 0, 0.45) 3px, rgba(0, 0, 0, 0.45) 5px)',
-          }}
-        />
-      )}
 
       {/* 2-FRAME CONTROLLED FLASH ON CRASH (Non-blinding) */}
       {crashFlash > 0 && (
