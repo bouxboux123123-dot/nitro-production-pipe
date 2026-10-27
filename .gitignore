@@ -11,6 +11,7 @@ videos/**/renders/
 *.log
 
 # Remotion Renders & Stills
+flick-output/remotion/out/
 flick-output/**/*.mp4
 flick-output/*.mp4
 !flick-output/remotion/public/minecraft_bg.mp4

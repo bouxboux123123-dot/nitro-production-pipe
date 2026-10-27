@@ -1,0 +1,406 @@
+{
+  "page": "page-05",
+  "idea": "Zapier webhook that triggers personalized onboarding emails",
+  "text": "Stop manually drafting welcome emails every time someone signs up. Copying and pasting agreement links, kickoff forms, and calendar invites eats up your morning and leads to broken links. Missing onboarding assets forces awkward back-and-forth emails that delay your actual project delivery timeline. Use a Zapier webhook connected to your checkout form to dispatch personalized onboarding sequences via Gmail. You onboard clients instantly while eliminating kickoff friction.",
+  "duration": 28.879,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "manually",
+      "start": 0.4,
+      "end": 0.78
+    },
+    {
+      "word": "drafting",
+      "start": 0.78,
+      "end": 1.32
+    },
+    {
+      "word": "welcome",
+      "start": 1.32,
+      "end": 1.76
+    },
+    {
+      "word": "emails",
+      "start": 1.76,
+      "end": 2.18
+    },
+    {
+      "word": "every",
+      "start": 2.18,
+      "end": 2.66
+    },
+    {
+      "word": "time",
+      "start": 2.66,
+      "end": 3.0
+    },
+    {
+      "word": "someone",
+      "start": 3.0,
+      "end": 3.36
+    },
+    {
+      "word": "signs",
+      "start": 3.36,
+      "end": 3.68
+    },
+    {
+      "word": "up.",
+      "start": 3.68,
+      "end": 4.46
+    },
+    {
+      "word": "Copying",
+      "start": 4.7,
+      "end": 4.96
+    },
+    {
+      "word": "and",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "word": "pasting",
+      "start": 5.2,
+      "end": 5.56
+    },
+    {
+      "word": "agreement",
+      "start": 5.56,
+      "end": 5.92
+    },
+    {
+      "word": "links,",
+      "start": 5.92,
+      "end": 6.34
+    },
+    {
+      "word": "kickoff",
+      "start": 6.94,
+      "end": 6.94
+    },
+    {
+      "word": "forms,",
+      "start": 6.94,
+      "end": 7.4
+    },
+    {
+      "word": "and",
+      "start": 7.78,
+      "end": 8.16
+    },
+    {
+      "word": "calendar",
+      "start": 8.16,
+      "end": 8.28
+    },
+    {
+      "word": "invites",
+      "start": 8.28,
+      "end": 8.7
+    },
+    {
+      "word": "eats",
+      "start": 8.7,
+      "end": 9.08
+    },
+    {
+      "word": "up",
+      "start": 9.08,
+      "end": 9.26
+    },
+    {
+      "word": "your",
+      "start": 9.26,
+      "end": 9.44
+    },
+    {
+      "word": "morning",
+      "start": 9.44,
+      "end": 9.66
+    },
+    {
+      "word": "and",
+      "start": 9.66,
+      "end": 9.9
+    },
+    {
+      "word": "leads",
+      "start": 9.9,
+      "end": 10.12
+    },
+    {
+      "word": "to",
+      "start": 10.12,
+      "end": 10.38
+    },
+    {
+      "word": "broken",
+      "start": 10.38,
+      "end": 10.62
+    },
+    {
+      "word": "links.",
+      "start": 10.62,
+      "end": 11.08
+    },
+    {
+      "word": "Missing",
+      "start": 11.7,
+      "end": 11.76
+    },
+    {
+      "word": "onboarding",
+      "start": 11.76,
+      "end": 12.34
+    },
+    {
+      "word": "assets",
+      "start": 12.34,
+      "end": 12.68
+    },
+    {
+      "word": "forces",
+      "start": 12.68,
+      "end": 13.28
+    },
+    {
+      "word": "awkward",
+      "start": 13.28,
+      "end": 13.66
+    },
+    {
+      "word": "back",
+      "start": 13.66,
+      "end": 13.98
+    },
+    {
+      "word": "and",
+      "start": 13.98,
+      "end": 14.16
+    },
+    {
+      "word": "forth",
+      "start": 14.16,
+      "end": 14.44
+    },
+    {
+      "word": "emails",
+      "start": 14.44,
+      "end": 14.84
+    },
+    {
+      "word": "that",
+      "start": 14.84,
+      "end": 15.36
+    },
+    {
+      "word": "delay",
+      "start": 15.36,
+      "end": 15.52
+    },
+    {
+      "word": "your",
+      "start": 15.52,
+      "end": 15.94
+    },
+    {
+      "word": "actual",
+      "start": 15.94,
+      "end": 16.22
+    },
+    {
+      "word": "project",
+      "start": 16.22,
+      "end": 16.68
+    },
+    {
+      "word": "delivery",
+      "start": 16.68,
+      "end": 17.0
+    },
+    {
+      "word": "timeline.",
+      "start": 17.0,
+      "end": 17.68
+    },
+    {
+      "word": "Use",
+      "start": 18.36,
+      "end": 18.42
+    },
+    {
+      "word": "a",
+      "start": 18.42,
+      "end": 18.7
+    },
+    {
+      "word": "Zapier",
+      "start": 18.7,
+      "end": 19.04
+    },
+    {
+      "word": "Webhook",
+      "start": 19.04,
+      "end": 19.42
+    },
+    {
+      "word": "connected",
+      "start": 19.42,
+      "end": 19.82
+    },
+    {
+      "word": "to",
+      "start": 19.82,
+      "end": 20.04
+    },
+    {
+      "word": "your",
+      "start": 20.04,
+      "end": 20.34
+    },
+    {
+      "word": "checkout",
+      "start": 20.34,
+      "end": 20.6
+    },
+    {
+      "word": "form",
+      "start": 20.6,
+      "end": 20.96
+    },
+    {
+      "word": "to",
+      "start": 20.96,
+      "end": 21.3
+    },
+    {
+      "word": "dispatch",
+      "start": 21.3,
+      "end": 21.64
+    },
+    {
+      "word": "personalized",
+      "start": 21.64,
+      "end": 22.44
+    },
+    {
+      "word": "onboarding",
+      "start": 22.44,
+      "end": 23.08
+    },
+    {
+      "word": "sequences",
+      "start": 23.08,
+      "end": 23.58
+    },
+    {
+      "word": "via",
+      "start": 23.58,
+      "end": 24.1
+    },
+    {
+      "word": "Gmail.",
+      "start": 24.1,
+      "end": 24.58
+    },
+    {
+      "word": "You",
+      "start": 25.28,
+      "end": 25.42
+    },
+    {
+      "word": "onboard",
+      "start": 25.42,
+      "end": 25.76
+    },
+    {
+      "word": "clients",
+      "start": 25.76,
+      "end": 26.26
+    },
+    {
+      "word": "instantly",
+      "start": 26.26,
+      "end": 26.88
+    },
+    {
+      "word": "while",
+      "start": 26.88,
+      "end": 27.38
+    },
+    {
+      "word": "eliminating",
+      "start": 27.38,
+      "end": 27.86
+    },
+    {
+      "word": "kickoff",
+      "start": 27.86,
+      "end": 28.42
+    },
+    {
+      "word": "friction.",
+      "start": 28.42,
+      "end": 28.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stop manually drafting welcome emails every time someone signs up.",
+      "line2": "TRIGGER ONBOARDING EMAILS",
+      "tag": "\ud83d\uded1 Zapier webhook that triggers personalized onboarding emails",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Zapier webhook that triggers personalized onboarding emails",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Zapier webhook that triggers personalized onboarding emails",
+        "subtitle": "Zapier webhook that triggers personalized onboarding emails"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Zapier webhook that triggers personalized onboarding emails"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Zapier webhook that triggers personalized onboarding emails"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Zapier webhook that triggers personalized onboarding emails",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "page": "page-01",
+  "idea": "Offboarding SOP that transitions departing clients with grace and security",
+  "text": "How to offboard departing agency clients smoothly while locking down company security. When contracts end, account managers send rushed emails while leaving staff access active across client ad accounts. Forgotten credentials create massive security liabilities, while messy file handoffs kill future referral opportunities. Trigger an automated offboarding SOP in ClickUp that revokes 1Password vaults, transfers deliverables, and sends exit surveys. You protect agency security and leave a stellar impression.",
+  "duration": 31.119,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "to",
+      "start": 0.24,
+      "end": 0.36
+    },
+    {
+      "word": "off",
+      "start": 0.36,
+      "end": 0.62
+    },
+    {
+      "word": "-board",
+      "start": 0.62,
+      "end": 0.82
+    },
+    {
+      "word": "departing",
+      "start": 0.82,
+      "end": 1.34
+    },
+    {
+      "word": "agency",
+      "start": 1.34,
+      "end": 1.86
+    },
+    {
+      "word": "clients",
+      "start": 1.86,
+      "end": 2.24
+    },
+    {
+      "word": "smoothly",
+      "start": 2.24,
+      "end": 2.72
+    },
+    {
+      "word": "while",
+      "start": 2.72,
+      "end": 3.08
+    },
+    {
+      "word": "locking",
+      "start": 3.08,
+      "end": 3.36
+    },
+    {
+      "word": "down",
+      "start": 3.36,
+      "end": 3.72
+    },
+    {
+      "word": "company",
+      "start": 3.72,
+      "end": 4.02
+    },
+    {
+      "word": "security.",
+      "start": 4.02,
+      "end": 4.62
+    },
+    {
+      "word": "When",
+      "start": 5.22,
+      "end": 5.38
+    },
+    {
+      "word": "contracts",
+      "start": 5.38,
+      "end": 5.86
+    },
+    {
+      "word": "end,",
+      "start": 5.86,
+      "end": 6.34
+    },
+    {
+      "word": "account",
+      "start": 6.68,
+      "end": 6.98
+    },
+    {
+      "word": "managers",
+      "start": 6.98,
+      "end": 7.36
+    },
+    {
+      "word": "send",
+      "start": 7.36,
+      "end": 7.84
+    },
+    {
+      "word": "rushed",
+      "start": 7.84,
+      "end": 8.2
+    },
+    {
+      "word": "emails",
+      "start": 8.2,
+      "end": 8.62
+    },
+    {
+      "word": "while",
+      "start": 8.62,
+      "end": 8.94
+    },
+    {
+      "word": "leaving",
+      "start": 8.94,
+      "end": 9.32
+    },
+    {
+      "word": "staff",
+      "start": 9.32,
+      "end": 9.68
+    },
+    {
+      "word": "access",
+      "start": 9.68,
+      "end": 10.1
+    },
+    {
+      "word": "active",
+      "start": 10.1,
+      "end": 10.42
+    },
+    {
+      "word": "across",
+      "start": 10.42,
+      "end": 10.8
+    },
+    {
+      "word": "client",
+      "start": 10.8,
+      "end": 11.18
+    },
+    {
+      "word": "ad",
+      "start": 11.18,
+      "end": 11.38
+    },
+    {
+      "word": "accounts.",
+      "start": 11.38,
+      "end": 11.92
+    },
+    {
+      "word": "Forgotten",
+      "start": 12.5,
+      "end": 12.6
+    },
+    {
+      "word": "credentials",
+      "start": 12.6,
+      "end": 13.2
+    },
+    {
+      "word": "create",
+      "start": 13.2,
+      "end": 13.76
+    },
+    {
+      "word": "massive",
+      "start": 13.76,
+      "end": 14.14
+    },
+    {
+      "word": "security",
+      "start": 14.14,
+      "end": 14.68
+    },
+    {
+      "word": "liabilities",
+      "start": 14.68,
+      "end": 15.28
+    },
+    {
+      "word": "while",
+      "start": 15.28,
+      "end": 15.96
+    },
+    {
+      "word": "messy",
+      "start": 15.96,
+      "end": 16.26
+    },
+    {
+      "word": "file",
+      "start": 16.26,
+      "end": 16.68
+    },
+    {
+      "word": "handoffs",
+      "start": 16.68,
+      "end": 17.12
+    },
+    {
+      "word": "kill",
+      "start": 17.12,
+      "end": 17.5
+    },
+    {
+      "word": "future",
+      "start": 17.5,
+      "end": 17.9
+    },
+    {
+      "word": "referral",
+      "start": 17.9,
+      "end": 18.36
+    },
+    {
+      "word": "opportunities.",
+      "start": 18.36,
+      "end": 19.08
+    },
+    {
+      "word": "Trigger",
+      "start": 19.72,
+      "end": 20.0
+    },
+    {
+      "word": "an",
+      "start": 20.0,
+      "end": 20.8
+    },
+    {
+      "word": "automated",
+      "start": 20.8,
+      "end": 20.8
+    },
+    {
+      "word": "off",
+      "start": 20.8,
+      "end": 21.08
+    },
+    {
+      "word": "-boarding",
+      "start": 21.08,
+      "end": 21.32
+    },
+    {
+      "word": "SOP",
+      "start": 21.32,
+      "end": 21.9
+    },
+    {
+      "word": "and",
+      "start": 21.9,
+      "end": 22.24
+    },
+    {
+      "word": "click",
+      "start": 22.24,
+      "end": 22.44
+    },
+    {
+      "word": "up",
+      "start": 22.44,
+      "end": 22.62
+    },
+    {
+      "word": "that",
+      "start": 22.62,
+      "end": 22.86
+    },
+    {
+      "word": "revokes",
+      "start": 22.86,
+      "end": 23.14
+    },
+    {
+      "word": "one",
+      "start": 23.14,
+      "end": 23.46
+    },
+    {
+      "word": "password",
+      "start": 23.46,
+      "end": 23.82
+    },
+    {
+      "word": "vaults,",
+      "start": 23.82,
+      "end": 24.52
+    },
+    {
+      "word": "transfers",
+      "start": 25.12,
+      "end": 25.12
+    },
+    {
+      "word": "deliverables,",
+      "start": 25.12,
+      "end": 25.78
+    },
+    {
+      "word": "and",
+      "start": 26.1,
+      "end": 26.2
+    },
+    {
+      "word": "sends",
+      "start": 26.2,
+      "end": 26.44
+    },
+    {
+      "word": "exit",
+      "start": 26.44,
+      "end": 26.86
+    },
+    {
+      "word": "surveys.",
+      "start": 26.86,
+      "end": 27.38
+    },
+    {
+      "word": "You",
+      "start": 27.38,
+      "end": 28.12
+    },
+    {
+      "word": "protect",
+      "start": 28.12,
+      "end": 28.5
+    },
+    {
+      "word": "agency",
+      "start": 28.5,
+      "end": 29.0
+    },
+    {
+      "word": "security",
+      "start": 29.0,
+      "end": 29.66
+    },
+    {
+      "word": "and",
+      "start": 29.66,
+      "end": 29.9
+    },
+    {
+      "word": "leave",
+      "start": 29.9,
+      "end": 30.08
+    },
+    {
+      "word": "a",
+      "start": 30.08,
+      "end": 30.3
+    },
+    {
+      "word": "stellar",
+      "start": 30.3,
+      "end": 30.54
+    },
+    {
+      "word": "impression.",
+      "start": 30.54,
+      "end": 31.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How to offboard departing agency clients smoothly while locking down company security.",
+      "line2": "SEAMLESS CLIENT OFFBOARDING",
+      "tag": "\ud83d\uded1 Offboarding SOP that transitions departing clients with grace and security",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

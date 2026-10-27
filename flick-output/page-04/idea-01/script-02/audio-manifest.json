@@ -1,0 +1,416 @@
+{
+  "page": "page-04",
+  "idea": "Stirling-PDF: 100 percent free open-source PDF power tool",
+  "text": "This free open-source tool gives you every premium PDF feature with zero limits. Freelancers often spend hours splitting giant invoices, converting scanned receipts, and manually redacting client addresses. Most online converters throttle file sizes or inject ugly watermarks unless you upgrade to paid tiers. Stirling-PDF lets you merge, split, password-protect, and convert hundreds of documents in seconds offline. You eliminate expensive software licenses while keeping your documents secure.",
+  "duration": 31.674,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "free",
+      "start": 0.28,
+      "end": 0.58
+    },
+    {
+      "word": "open",
+      "start": 0.58,
+      "end": 0.96
+    },
+    {
+      "word": "source",
+      "start": 0.96,
+      "end": 1.24
+    },
+    {
+      "word": "tool",
+      "start": 1.24,
+      "end": 1.66
+    },
+    {
+      "word": "gives",
+      "start": 1.66,
+      "end": 1.92
+    },
+    {
+      "word": "you",
+      "start": 1.92,
+      "end": 2.18
+    },
+    {
+      "word": "every",
+      "start": 2.18,
+      "end": 2.44
+    },
+    {
+      "word": "premium",
+      "start": 2.44,
+      "end": 2.9
+    },
+    {
+      "word": "PDF",
+      "start": 2.9,
+      "end": 3.4
+    },
+    {
+      "word": "feature",
+      "start": 3.4,
+      "end": 3.88
+    },
+    {
+      "word": "with",
+      "start": 3.88,
+      "end": 4.2
+    },
+    {
+      "word": "zero",
+      "start": 4.2,
+      "end": 4.6
+    },
+    {
+      "word": "limits.",
+      "start": 4.6,
+      "end": 5.04
+    },
+    {
+      "word": "Freelancers",
+      "start": 5.72,
+      "end": 6.12
+    },
+    {
+      "word": "often",
+      "start": 6.12,
+      "end": 6.64
+    },
+    {
+      "word": "spend",
+      "start": 6.64,
+      "end": 7.02
+    },
+    {
+      "word": "hours",
+      "start": 7.02,
+      "end": 7.4
+    },
+    {
+      "word": "splitting",
+      "start": 7.4,
+      "end": 7.82
+    },
+    {
+      "word": "giant",
+      "start": 7.82,
+      "end": 8.22
+    },
+    {
+      "word": "invoices,",
+      "start": 8.22,
+      "end": 8.86
+    },
+    {
+      "word": "converting",
+      "start": 9.62,
+      "end": 9.64
+    },
+    {
+      "word": "scanned",
+      "start": 9.64,
+      "end": 10.14
+    },
+    {
+      "word": "receipts,",
+      "start": 10.14,
+      "end": 10.58
+    },
+    {
+      "word": "and",
+      "start": 11.02,
+      "end": 11.24
+    },
+    {
+      "word": "manually",
+      "start": 11.24,
+      "end": 11.54
+    },
+    {
+      "word": "redacting",
+      "start": 11.54,
+      "end": 12.06
+    },
+    {
+      "word": "client",
+      "start": 12.06,
+      "end": 12.44
+    },
+    {
+      "word": "addresses.",
+      "start": 12.44,
+      "end": 12.98
+    },
+    {
+      "word": "Most",
+      "start": 13.42,
+      "end": 13.64
+    },
+    {
+      "word": "online",
+      "start": 13.64,
+      "end": 14.06
+    },
+    {
+      "word": "converters",
+      "start": 14.06,
+      "end": 14.62
+    },
+    {
+      "word": "throttle",
+      "start": 14.62,
+      "end": 15.04
+    },
+    {
+      "word": "file",
+      "start": 15.04,
+      "end": 15.4
+    },
+    {
+      "word": "sizes",
+      "start": 15.4,
+      "end": 15.9
+    },
+    {
+      "word": "or",
+      "start": 15.9,
+      "end": 16.42
+    },
+    {
+      "word": "inject",
+      "start": 16.42,
+      "end": 16.78
+    },
+    {
+      "word": "ugly",
+      "start": 16.78,
+      "end": 17.24
+    },
+    {
+      "word": "watermarks",
+      "start": 17.24,
+      "end": 17.74
+    },
+    {
+      "word": "unless",
+      "start": 17.74,
+      "end": 18.1
+    },
+    {
+      "word": "you",
+      "start": 18.1,
+      "end": 18.34
+    },
+    {
+      "word": "upgrade",
+      "start": 18.34,
+      "end": 18.64
+    },
+    {
+      "word": "to",
+      "start": 18.64,
+      "end": 18.9
+    },
+    {
+      "word": "paid",
+      "start": 18.9,
+      "end": 19.14
+    },
+    {
+      "word": "tiers.",
+      "start": 19.14,
+      "end": 19.54
+    },
+    {
+      "word": "Sterling",
+      "start": 20.52,
+      "end": 20.52
+    },
+    {
+      "word": "PDF",
+      "start": 20.52,
+      "end": 21.0
+    },
+    {
+      "word": "lets",
+      "start": 21.0,
+      "end": 21.4
+    },
+    {
+      "word": "you",
+      "start": 21.4,
+      "end": 21.64
+    },
+    {
+      "word": "merge,",
+      "start": 21.64,
+      "end": 22.04
+    },
+    {
+      "word": "split,",
+      "start": 22.3,
+      "end": 22.68
+    },
+    {
+      "word": "password",
+      "start": 23.28,
+      "end": 23.34
+    },
+    {
+      "word": "protect,",
+      "start": 23.34,
+      "end": 23.84
+    },
+    {
+      "word": "and",
+      "start": 24.14,
+      "end": 24.38
+    },
+    {
+      "word": "convert",
+      "start": 24.38,
+      "end": 24.6
+    },
+    {
+      "word": "hundreds",
+      "start": 24.6,
+      "end": 25.0
+    },
+    {
+      "word": "of",
+      "start": 25.0,
+      "end": 25.2
+    },
+    {
+      "word": "documents",
+      "start": 25.2,
+      "end": 25.6
+    },
+    {
+      "word": "in",
+      "start": 25.6,
+      "end": 25.98
+    },
+    {
+      "word": "seconds",
+      "start": 25.98,
+      "end": 26.3
+    },
+    {
+      "word": "offline.",
+      "start": 26.3,
+      "end": 26.84
+    },
+    {
+      "word": "You",
+      "start": 26.84,
+      "end": 27.58
+    },
+    {
+      "word": "eliminate",
+      "start": 27.58,
+      "end": 27.96
+    },
+    {
+      "word": "expensive",
+      "start": 27.96,
+      "end": 28.64
+    },
+    {
+      "word": "software",
+      "start": 28.64,
+      "end": 29.12
+    },
+    {
+      "word": "licenses",
+      "start": 29.12,
+      "end": 29.64
+    },
+    {
+      "word": "while",
+      "start": 29.64,
+      "end": 30.12
+    },
+    {
+      "word": "keeping",
+      "start": 30.12,
+      "end": 30.44
+    },
+    {
+      "word": "your",
+      "start": 30.44,
+      "end": 30.76
+    },
+    {
+      "word": "documents",
+      "start": 30.76,
+      "end": 31.14
+    },
+    {
+      "word": "secure.",
+      "start": 31.14,
+      "end": 31.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "This free open-source tool has every single premium PDF feature with zero limits.",
+      "line2": "100% FREE OPEN SOURCE",
+      "tag": "\ud83d\uded1 Stirling-PDF",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Stirling-PDF",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Stirling-PDF",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Stirling-PDF",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

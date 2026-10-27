@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "Simple keyboard shortcuts that save 100 hours of mouse clicking a year",
+  "text": "Stop right-clicking your mouse to copy, paste, undo, and reopen closed tabs. Hunting through drop-down context menus for everyday actions completely kills your typing momentum. Every right-click pulls your attention away from your actual document and strains your wrist. Instead, use Control-C to copy, Control-V to paste, and Control-Shift-T to resurrect accidentally closed tabs instantly. These basic keystrokes save hours of pointing and clicking.",
+  "duration": 25.813,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "right",
+      "start": 0.3,
+      "end": 0.58
+    },
+    {
+      "word": "-clicking",
+      "start": 0.58,
+      "end": 0.8
+    },
+    {
+      "word": "your",
+      "start": 0.8,
+      "end": 1.04
+    },
+    {
+      "word": "mouse",
+      "start": 1.04,
+      "end": 1.22
+    },
+    {
+      "word": "to",
+      "start": 1.22,
+      "end": 1.42
+    },
+    {
+      "word": "copy,",
+      "start": 1.42,
+      "end": 1.82
+    },
+    {
+      "word": "paste,",
+      "start": 1.96,
+      "end": 2.34
+    },
+    {
+      "word": "undo",
+      "start": 2.76,
+      "end": 2.98
+    },
+    {
+      "word": "and",
+      "start": 2.98,
+      "end": 3.26
+    },
+    {
+      "word": "reopen",
+      "start": 3.26,
+      "end": 3.64
+    },
+    {
+      "word": "closed",
+      "start": 3.64,
+      "end": 4.0
+    },
+    {
+      "word": "tabs.",
+      "start": 4.0,
+      "end": 4.38
+    },
+    {
+      "word": "Hunting",
+      "start": 5.06,
+      "end": 5.08
+    },
+    {
+      "word": "through",
+      "start": 5.08,
+      "end": 5.4
+    },
+    {
+      "word": "drop",
+      "start": 5.4,
+      "end": 5.62
+    },
+    {
+      "word": "-down",
+      "start": 5.62,
+      "end": 5.88
+    },
+    {
+      "word": "context",
+      "start": 5.88,
+      "end": 6.34
+    },
+    {
+      "word": "menus",
+      "start": 6.34,
+      "end": 6.7
+    },
+    {
+      "word": "for",
+      "start": 6.7,
+      "end": 7.0
+    },
+    {
+      "word": "everyday",
+      "start": 7.0,
+      "end": 7.26
+    },
+    {
+      "word": "actions",
+      "start": 7.26,
+      "end": 7.76
+    },
+    {
+      "word": "completely",
+      "start": 7.76,
+      "end": 8.26
+    },
+    {
+      "word": "kills",
+      "start": 8.26,
+      "end": 8.66
+    },
+    {
+      "word": "your",
+      "start": 8.66,
+      "end": 9.0
+    },
+    {
+      "word": "typing",
+      "start": 9.0,
+      "end": 9.14
+    },
+    {
+      "word": "momentum.",
+      "start": 9.14,
+      "end": 9.66
+    },
+    {
+      "word": "Every",
+      "start": 10.2,
+      "end": 10.46
+    },
+    {
+      "word": "right",
+      "start": 10.46,
+      "end": 10.7
+    },
+    {
+      "word": "-click",
+      "start": 10.7,
+      "end": 10.92
+    },
+    {
+      "word": "pulls",
+      "start": 10.92,
+      "end": 11.14
+    },
+    {
+      "word": "your",
+      "start": 11.14,
+      "end": 11.34
+    },
+    {
+      "word": "attention",
+      "start": 11.34,
+      "end": 11.6
+    },
+    {
+      "word": "away",
+      "start": 11.6,
+      "end": 11.88
+    },
+    {
+      "word": "from",
+      "start": 11.88,
+      "end": 12.08
+    },
+    {
+      "word": "your",
+      "start": 12.08,
+      "end": 12.32
+    },
+    {
+      "word": "actual",
+      "start": 12.32,
+      "end": 12.56
+    },
+    {
+      "word": "document",
+      "start": 12.56,
+      "end": 13.0
+    },
+    {
+      "word": "and",
+      "start": 13.0,
+      "end": 13.5
+    },
+    {
+      "word": "strains",
+      "start": 13.5,
+      "end": 13.76
+    },
+    {
+      "word": "your",
+      "start": 13.76,
+      "end": 13.98
+    },
+    {
+      "word": "wrist.",
+      "start": 13.98,
+      "end": 14.3
+    },
+    {
+      "word": "Instead,",
+      "start": 14.86,
+      "end": 15.16
+    },
+    {
+      "word": "use",
+      "start": 15.58,
+      "end": 15.76
+    },
+    {
+      "word": "Control",
+      "start": 15.76,
+      "end": 16.06
+    },
+    {
+      "word": "-C",
+      "start": 16.06,
+      "end": 16.32
+    },
+    {
+      "word": "to",
+      "start": 16.32,
+      "end": 16.54
+    },
+    {
+      "word": "copy,",
+      "start": 16.54,
+      "end": 16.86
+    },
+    {
+      "word": "Control",
+      "start": 17.16,
+      "end": 17.4
+    },
+    {
+      "word": "-V",
+      "start": 17.4,
+      "end": 17.62
+    },
+    {
+      "word": "to",
+      "start": 17.62,
+      "end": 17.82
+    },
+    {
+      "word": "paste,",
+      "start": 17.82,
+      "end": 18.14
+    },
+    {
+      "word": "and",
+      "start": 18.44,
+      "end": 18.7
+    },
+    {
+      "word": "Control",
+      "start": 18.7,
+      "end": 18.9
+    },
+    {
+      "word": "-Shift",
+      "start": 18.9,
+      "end": 19.2
+    },
+    {
+      "word": "-T",
+      "start": 19.2,
+      "end": 19.48
+    },
+    {
+      "word": "to",
+      "start": 19.48,
+      "end": 19.68
+    },
+    {
+      "word": "resurrect",
+      "start": 19.68,
+      "end": 20.16
+    },
+    {
+      "word": "accidentally",
+      "start": 20.16,
+      "end": 20.76
+    },
+    {
+      "word": "closed",
+      "start": 20.76,
+      "end": 21.28
+    },
+    {
+      "word": "tabs",
+      "start": 21.28,
+      "end": 21.64
+    },
+    {
+      "word": "instantly.",
+      "start": 21.64,
+      "end": 22.18
+    },
+    {
+      "word": "These",
+      "start": 22.18,
+      "end": 23.02
+    },
+    {
+      "word": "basic",
+      "start": 23.02,
+      "end": 23.44
+    },
+    {
+      "word": "keystrokes",
+      "start": 23.44,
+      "end": 24.02
+    },
+    {
+      "word": "save",
+      "start": 24.02,
+      "end": 24.28
+    },
+    {
+      "word": "hours",
+      "start": 24.28,
+      "end": 24.64
+    },
+    {
+      "word": "of",
+      "start": 24.64,
+      "end": 24.9
+    },
+    {
+      "word": "pointing",
+      "start": 24.9,
+      "end": 25.16
+    },
+    {
+      "word": "and",
+      "start": 25.16,
+      "end": 25.46
+    },
+    {
+      "word": "clicking.",
+      "start": 25.46,
+      "end": 25.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop right-clicking your mouse to copy, paste, undo, and reopen closed tabs.",
+      "line2": "SAVE 100 HOURS TYPING",
+      "tag": "\ud83d\uded1 Simple keyboard shortcuts that save 100 hours of mouse clicking a year",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Simple keyboard shortcuts that save 100 hours of mouse clicking a year",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Simple keyboard shortcuts that save 100 hours of mouse clicking a year",
+        "subtitle": "Simple keyboard shortcuts that save 100 hours of mouse clicking a year"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Simple keyboard shortcuts that save 100 hours of mouse clicking a year"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Simple keyboard shortcuts that save 100 hours of mouse clicking a year"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Simple keyboard shortcuts that save 100 hours of mouse clicking a year",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

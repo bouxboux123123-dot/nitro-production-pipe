@@ -1,0 +1,406 @@
+{
+  "page": "page-02",
+  "idea": "AI video caption generator with custom subtitle animations for editors",
+  "text": "This tool automatically transcribes, highlights keywords, and adds emojis. Clients constantly demand high-retention Alex Hormozi style captions, but building those motion graphics manually takes hours per video. Tedious subtitle formatting bottlenecks your delivery pipeline, preventing you from scaling your client roster. Run your raw timeline through Opus Clip to automatically identify speaker hooks, color-code primary keywords, and insert contextual emojis. You multiply your monthly editing capacity effortlessly.",
+  "duration": 32.442,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "tool",
+      "start": 0.24,
+      "end": 0.58
+    },
+    {
+      "word": "automatically",
+      "start": 0.58,
+      "end": 1.12
+    },
+    {
+      "word": "transcribes",
+      "start": 1.12,
+      "end": 2.08
+    },
+    {
+      "word": "highlights",
+      "start": 2.08,
+      "end": 2.78
+    },
+    {
+      "word": "keywords",
+      "start": 2.78,
+      "end": 3.24
+    },
+    {
+      "word": "and",
+      "start": 3.24,
+      "end": 3.68
+    },
+    {
+      "word": "adds",
+      "start": 3.68,
+      "end": 3.94
+    },
+    {
+      "word": "emojis.",
+      "start": 3.94,
+      "end": 4.7
+    },
+    {
+      "word": "Clients",
+      "start": 5.24,
+      "end": 5.56
+    },
+    {
+      "word": "constantly",
+      "start": 5.56,
+      "end": 6.14
+    },
+    {
+      "word": "demand",
+      "start": 6.14,
+      "end": 6.56
+    },
+    {
+      "word": "high",
+      "start": 6.56,
+      "end": 6.84
+    },
+    {
+      "word": "retention",
+      "start": 6.84,
+      "end": 7.32
+    },
+    {
+      "word": "Alex",
+      "start": 7.32,
+      "end": 7.76
+    },
+    {
+      "word": "Hormozi",
+      "start": 7.76,
+      "end": 8.36
+    },
+    {
+      "word": "style",
+      "start": 8.36,
+      "end": 8.7
+    },
+    {
+      "word": "captions,",
+      "start": 8.7,
+      "end": 9.44
+    },
+    {
+      "word": "but",
+      "start": 9.7,
+      "end": 9.76
+    },
+    {
+      "word": "building",
+      "start": 9.76,
+      "end": 10.08
+    },
+    {
+      "word": "those",
+      "start": 10.08,
+      "end": 10.42
+    },
+    {
+      "word": "motion",
+      "start": 10.42,
+      "end": 10.88
+    },
+    {
+      "word": "graphics",
+      "start": 10.88,
+      "end": 11.38
+    },
+    {
+      "word": "manually",
+      "start": 11.38,
+      "end": 11.76
+    },
+    {
+      "word": "takes",
+      "start": 11.76,
+      "end": 12.22
+    },
+    {
+      "word": "hours",
+      "start": 12.22,
+      "end": 12.6
+    },
+    {
+      "word": "per",
+      "start": 12.6,
+      "end": 12.84
+    },
+    {
+      "word": "video.",
+      "start": 12.84,
+      "end": 13.34
+    },
+    {
+      "word": "TDS",
+      "start": 13.68,
+      "end": 13.92
+    },
+    {
+      "word": "subtitle",
+      "start": 13.92,
+      "end": 14.42
+    },
+    {
+      "word": "formatting",
+      "start": 14.42,
+      "end": 15.0
+    },
+    {
+      "word": "bottlenecks",
+      "start": 15.0,
+      "end": 15.64
+    },
+    {
+      "word": "your",
+      "start": 15.64,
+      "end": 15.88
+    },
+    {
+      "word": "delivery",
+      "start": 15.88,
+      "end": 16.18
+    },
+    {
+      "word": "pipeline,",
+      "start": 16.18,
+      "end": 16.74
+    },
+    {
+      "word": "preventing",
+      "start": 17.12,
+      "end": 17.34
+    },
+    {
+      "word": "you",
+      "start": 17.34,
+      "end": 17.64
+    },
+    {
+      "word": "from",
+      "start": 17.64,
+      "end": 17.9
+    },
+    {
+      "word": "scaling",
+      "start": 17.9,
+      "end": 18.2
+    },
+    {
+      "word": "your",
+      "start": 18.2,
+      "end": 18.48
+    },
+    {
+      "word": "client",
+      "start": 18.48,
+      "end": 18.76
+    },
+    {
+      "word": "roster.",
+      "start": 18.76,
+      "end": 19.24
+    },
+    {
+      "word": "Run",
+      "start": 19.82,
+      "end": 20.02
+    },
+    {
+      "word": "your",
+      "start": 20.02,
+      "end": 20.24
+    },
+    {
+      "word": "raw",
+      "start": 20.24,
+      "end": 20.48
+    },
+    {
+      "word": "timeline",
+      "start": 20.48,
+      "end": 20.9
+    },
+    {
+      "word": "through",
+      "start": 20.9,
+      "end": 21.38
+    },
+    {
+      "word": "Opus",
+      "start": 21.38,
+      "end": 21.76
+    },
+    {
+      "word": "Clip",
+      "start": 21.76,
+      "end": 21.98
+    },
+    {
+      "word": "to",
+      "start": 21.98,
+      "end": 22.5
+    },
+    {
+      "word": "automatically",
+      "start": 22.5,
+      "end": 23.02
+    },
+    {
+      "word": "identify",
+      "start": 23.02,
+      "end": 23.82
+    },
+    {
+      "word": "speaker",
+      "start": 23.82,
+      "end": 24.18
+    },
+    {
+      "word": "hooks,",
+      "start": 24.18,
+      "end": 24.66
+    },
+    {
+      "word": "color",
+      "start": 25.18,
+      "end": 25.22
+    },
+    {
+      "word": "code",
+      "start": 25.22,
+      "end": 25.58
+    },
+    {
+      "word": "primary",
+      "start": 25.58,
+      "end": 25.96
+    },
+    {
+      "word": "keywords,",
+      "start": 25.96,
+      "end": 26.46
+    },
+    {
+      "word": "and",
+      "start": 26.8,
+      "end": 27.14
+    },
+    {
+      "word": "insert",
+      "start": 27.14,
+      "end": 27.38
+    },
+    {
+      "word": "contextual",
+      "start": 27.38,
+      "end": 28.02
+    },
+    {
+      "word": "emojis.",
+      "start": 28.02,
+      "end": 28.82
+    },
+    {
+      "word": "You",
+      "start": 28.82,
+      "end": 29.4
+    },
+    {
+      "word": "multiply",
+      "start": 29.4,
+      "end": 29.82
+    },
+    {
+      "word": "your",
+      "start": 29.82,
+      "end": 30.26
+    },
+    {
+      "word": "monthly",
+      "start": 30.26,
+      "end": 30.7
+    },
+    {
+      "word": "editing",
+      "start": 30.7,
+      "end": 31.06
+    },
+    {
+      "word": "capacity",
+      "start": 31.06,
+      "end": 31.74
+    },
+    {
+      "word": "effortlessly.",
+      "start": 31.74,
+      "end": 32.22
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This tool automatically transcribes, highlights keywords, and adds emojis.",
+      "line2": "ANIMATE VIDEO CAPTIONS",
+      "tag": "\ud83d\uded1 AI video caption generator with custom subtitle animations for editors",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI video caption generator with custom subtitle animations for editors",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI video caption generator with custom subtitle animations for editors",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "page": "page-04",
+  "idea": "Draw.io: free professional flowcharts and workflow diagrams",
+  "text": "Create clean, presentation-ready process maps without a paid software subscription. Teams struggle to document complex workflows when premium diagramming apps demand expensive monthly per-seat licenses. Hiding SOP diagrams behind paid team paywalls means contractors cannot view or update essential workflow charts. Draw.io gives you completely free, professional diagramming that stores files directly in your own cloud drives. You build presentation-grade system architectures without license fees.",
+  "duration": 31.909,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Create",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "clean,",
+      "start": 0.32,
+      "end": 1.02
+    },
+    {
+      "word": "presentation",
+      "start": 1.16,
+      "end": 1.62
+    },
+    {
+      "word": "ready",
+      "start": 1.62,
+      "end": 2.02
+    },
+    {
+      "word": "process",
+      "start": 2.02,
+      "end": 2.46
+    },
+    {
+      "word": "maps",
+      "start": 2.46,
+      "end": 2.84
+    },
+    {
+      "word": "without",
+      "start": 2.84,
+      "end": 3.26
+    },
+    {
+      "word": "a",
+      "start": 3.26,
+      "end": 3.48
+    },
+    {
+      "word": "paid",
+      "start": 3.48,
+      "end": 3.76
+    },
+    {
+      "word": "software",
+      "start": 3.76,
+      "end": 4.2
+    },
+    {
+      "word": "subscription.",
+      "start": 4.2,
+      "end": 5.16
+    },
+    {
+      "word": "Teams",
+      "start": 5.92,
+      "end": 5.92
+    },
+    {
+      "word": "struggle",
+      "start": 5.92,
+      "end": 6.26
+    },
+    {
+      "word": "to",
+      "start": 6.26,
+      "end": 6.62
+    },
+    {
+      "word": "document",
+      "start": 6.62,
+      "end": 6.96
+    },
+    {
+      "word": "complex",
+      "start": 6.96,
+      "end": 7.44
+    },
+    {
+      "word": "workflows",
+      "start": 7.44,
+      "end": 8.02
+    },
+    {
+      "word": "when",
+      "start": 8.02,
+      "end": 8.54
+    },
+    {
+      "word": "premium",
+      "start": 8.54,
+      "end": 8.96
+    },
+    {
+      "word": "diagramming",
+      "start": 8.96,
+      "end": 9.74
+    },
+    {
+      "word": "apps",
+      "start": 9.74,
+      "end": 10.12
+    },
+    {
+      "word": "demand",
+      "start": 10.12,
+      "end": 10.6
+    },
+    {
+      "word": "expensive",
+      "start": 10.6,
+      "end": 11.22
+    },
+    {
+      "word": "monthly",
+      "start": 11.22,
+      "end": 11.82
+    },
+    {
+      "word": "per",
+      "start": 11.82,
+      "end": 12.06
+    },
+    {
+      "word": "seat",
+      "start": 12.06,
+      "end": 12.28
+    },
+    {
+      "word": "licenses.",
+      "start": 12.28,
+      "end": 12.88
+    },
+    {
+      "word": "Hiding",
+      "start": 13.44,
+      "end": 13.58
+    },
+    {
+      "word": "SOP",
+      "start": 13.58,
+      "end": 14.18
+    },
+    {
+      "word": "diagrams",
+      "start": 14.18,
+      "end": 14.7
+    },
+    {
+      "word": "behind",
+      "start": 14.7,
+      "end": 15.12
+    },
+    {
+      "word": "paid",
+      "start": 15.12,
+      "end": 15.46
+    },
+    {
+      "word": "team",
+      "start": 15.46,
+      "end": 15.74
+    },
+    {
+      "word": "paywalls",
+      "start": 15.74,
+      "end": 16.28
+    },
+    {
+      "word": "means",
+      "start": 16.28,
+      "end": 16.76
+    },
+    {
+      "word": "contractors",
+      "start": 16.76,
+      "end": 17.22
+    },
+    {
+      "word": "cannot",
+      "start": 17.22,
+      "end": 17.74
+    },
+    {
+      "word": "view",
+      "start": 17.74,
+      "end": 18.08
+    },
+    {
+      "word": "or",
+      "start": 18.08,
+      "end": 18.3
+    },
+    {
+      "word": "update",
+      "start": 18.3,
+      "end": 18.54
+    },
+    {
+      "word": "essential",
+      "start": 18.54,
+      "end": 19.08
+    },
+    {
+      "word": "workflow",
+      "start": 19.08,
+      "end": 19.44
+    },
+    {
+      "word": "charts.",
+      "start": 19.44,
+      "end": 20.06
+    },
+    {
+      "word": "Draw.",
+      "start": 20.62,
+      "end": 20.92
+    },
+    {
+      "word": "EO",
+      "start": 21.5,
+      "end": 21.68
+    },
+    {
+      "word": "gives",
+      "start": 21.68,
+      "end": 21.9
+    },
+    {
+      "word": "you",
+      "start": 21.9,
+      "end": 22.2
+    },
+    {
+      "word": "completely",
+      "start": 22.2,
+      "end": 22.64
+    },
+    {
+      "word": "free",
+      "start": 22.64,
+      "end": 22.98
+    },
+    {
+      "word": "professional",
+      "start": 22.98,
+      "end": 23.52
+    },
+    {
+      "word": "diagramming",
+      "start": 23.52,
+      "end": 24.28
+    },
+    {
+      "word": "that",
+      "start": 24.28,
+      "end": 24.68
+    },
+    {
+      "word": "stores",
+      "start": 24.68,
+      "end": 25.12
+    },
+    {
+      "word": "files",
+      "start": 25.12,
+      "end": 25.56
+    },
+    {
+      "word": "directly",
+      "start": 25.56,
+      "end": 26.02
+    },
+    {
+      "word": "in",
+      "start": 26.02,
+      "end": 26.18
+    },
+    {
+      "word": "your",
+      "start": 26.18,
+      "end": 26.34
+    },
+    {
+      "word": "own",
+      "start": 26.34,
+      "end": 26.58
+    },
+    {
+      "word": "cloud",
+      "start": 26.58,
+      "end": 26.92
+    },
+    {
+      "word": "drives.",
+      "start": 26.92,
+      "end": 27.4
+    },
+    {
+      "word": "You",
+      "start": 27.4,
+      "end": 28.06
+    },
+    {
+      "word": "build",
+      "start": 28.06,
+      "end": 28.34
+    },
+    {
+      "word": "presentation",
+      "start": 28.34,
+      "end": 28.9
+    },
+    {
+      "word": "grade",
+      "start": 28.9,
+      "end": 29.42
+    },
+    {
+      "word": "system",
+      "start": 29.42,
+      "end": 29.78
+    },
+    {
+      "word": "architectures",
+      "start": 29.78,
+      "end": 30.34
+    },
+    {
+      "word": "without",
+      "start": 30.34,
+      "end": 30.94
+    },
+    {
+      "word": "license",
+      "start": 30.94,
+      "end": 31.32
+    },
+    {
+      "word": "fees.",
+      "start": 31.32,
+      "end": 31.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Create clean, presentation-ready process maps without a paid subscription.",
+      "line2": "BUILD FREE FLOWCHARTS",
+      "tag": "\ud83d\uded1 Draw.io",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Draw.io",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Draw.io",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Draw.io",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

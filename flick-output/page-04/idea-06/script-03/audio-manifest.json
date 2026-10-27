@@ -1,0 +1,376 @@
+{
+  "page": "page-04",
+  "idea": "Obsidian: build an interconnected personal knowledge base for free",
+  "text": "How to build a powerful knowledge base that you own one hundred percent. Relying on proprietary cloud workspaces leaves your notes vulnerable to sudden price hikes and outages. If their service closes, your database gets locked behind export walls with broken formatting. Instead, manage your notes inside Obsidian, storing everything locally as standard markdown files. You secure permanent data ownership while saving thousands in subscriptions.",
+  "duration": 25.749,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.28
+    },
+    {
+      "word": "build",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "a",
+      "start": 0.5,
+      "end": 0.82
+    },
+    {
+      "word": "powerful",
+      "start": 0.82,
+      "end": 1.0
+    },
+    {
+      "word": "knowledge",
+      "start": 1.0,
+      "end": 1.4
+    },
+    {
+      "word": "base",
+      "start": 1.4,
+      "end": 1.72
+    },
+    {
+      "word": "that",
+      "start": 1.72,
+      "end": 1.96
+    },
+    {
+      "word": "you",
+      "start": 1.96,
+      "end": 2.06
+    },
+    {
+      "word": "own",
+      "start": 2.06,
+      "end": 2.22
+    },
+    {
+      "word": "100%.",
+      "start": 2.22,
+      "end": 3.64
+    },
+    {
+      "word": "Relying",
+      "start": 3.64,
+      "end": 4.1
+    },
+    {
+      "word": "on",
+      "start": 4.1,
+      "end": 4.3
+    },
+    {
+      "word": "proprietary",
+      "start": 4.3,
+      "end": 4.8
+    },
+    {
+      "word": "cloud",
+      "start": 4.8,
+      "end": 5.3
+    },
+    {
+      "word": "workspaces",
+      "start": 5.3,
+      "end": 5.88
+    },
+    {
+      "word": "leaves",
+      "start": 5.88,
+      "end": 6.28
+    },
+    {
+      "word": "your",
+      "start": 6.28,
+      "end": 6.48
+    },
+    {
+      "word": "notes",
+      "start": 6.48,
+      "end": 6.72
+    },
+    {
+      "word": "vulnerable",
+      "start": 6.72,
+      "end": 7.1
+    },
+    {
+      "word": "to",
+      "start": 7.1,
+      "end": 7.46
+    },
+    {
+      "word": "sudden",
+      "start": 7.46,
+      "end": 7.72
+    },
+    {
+      "word": "price",
+      "start": 7.72,
+      "end": 8.06
+    },
+    {
+      "word": "hikes",
+      "start": 8.06,
+      "end": 8.3
+    },
+    {
+      "word": "and",
+      "start": 8.3,
+      "end": 8.54
+    },
+    {
+      "word": "outages.",
+      "start": 8.54,
+      "end": 8.94
+    },
+    {
+      "word": "If",
+      "start": 9.48,
+      "end": 9.62
+    },
+    {
+      "word": "their",
+      "start": 9.62,
+      "end": 9.88
+    },
+    {
+      "word": "service",
+      "start": 9.88,
+      "end": 10.14
+    },
+    {
+      "word": "closes,",
+      "start": 10.14,
+      "end": 10.62
+    },
+    {
+      "word": "your",
+      "start": 11.06,
+      "end": 11.22
+    },
+    {
+      "word": "database",
+      "start": 11.22,
+      "end": 11.56
+    },
+    {
+      "word": "gets",
+      "start": 11.56,
+      "end": 12.04
+    },
+    {
+      "word": "locked",
+      "start": 12.04,
+      "end": 12.36
+    },
+    {
+      "word": "behind",
+      "start": 12.36,
+      "end": 12.76
+    },
+    {
+      "word": "export",
+      "start": 12.76,
+      "end": 13.12
+    },
+    {
+      "word": "walls",
+      "start": 13.12,
+      "end": 13.56
+    },
+    {
+      "word": "with",
+      "start": 13.56,
+      "end": 13.84
+    },
+    {
+      "word": "broken",
+      "start": 13.84,
+      "end": 14.12
+    },
+    {
+      "word": "formatting.",
+      "start": 14.12,
+      "end": 14.54
+    },
+    {
+      "word": "Instead,",
+      "start": 15.38,
+      "end": 15.66
+    },
+    {
+      "word": "manage",
+      "start": 16.38,
+      "end": 16.4
+    },
+    {
+      "word": "your",
+      "start": 16.4,
+      "end": 16.62
+    },
+    {
+      "word": "notes",
+      "start": 16.62,
+      "end": 16.88
+    },
+    {
+      "word": "inside",
+      "start": 16.88,
+      "end": 17.3
+    },
+    {
+      "word": "Obsidian,",
+      "start": 17.3,
+      "end": 17.82
+    },
+    {
+      "word": "storing",
+      "start": 18.26,
+      "end": 18.6
+    },
+    {
+      "word": "everything",
+      "start": 18.6,
+      "end": 19.16
+    },
+    {
+      "word": "locally",
+      "start": 19.16,
+      "end": 19.56
+    },
+    {
+      "word": "as",
+      "start": 19.56,
+      "end": 19.9
+    },
+    {
+      "word": "standard",
+      "start": 19.9,
+      "end": 20.26
+    },
+    {
+      "word": "markdown",
+      "start": 20.26,
+      "end": 20.82
+    },
+    {
+      "word": "files.",
+      "start": 20.82,
+      "end": 21.26
+    },
+    {
+      "word": "You",
+      "start": 21.84,
+      "end": 21.96
+    },
+    {
+      "word": "secure",
+      "start": 21.96,
+      "end": 22.36
+    },
+    {
+      "word": "permanent",
+      "start": 22.36,
+      "end": 22.78
+    },
+    {
+      "word": "data",
+      "start": 22.78,
+      "end": 23.16
+    },
+    {
+      "word": "ownership",
+      "start": 23.16,
+      "end": 23.54
+    },
+    {
+      "word": "while",
+      "start": 23.54,
+      "end": 23.84
+    },
+    {
+      "word": "saving",
+      "start": 23.84,
+      "end": 24.22
+    },
+    {
+      "word": "thousands",
+      "start": 24.22,
+      "end": 24.7
+    },
+    {
+      "word": "in",
+      "start": 24.7,
+      "end": 25.04
+    },
+    {
+      "word": "subscriptions.",
+      "start": 25.04,
+      "end": 25.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How to build a powerful lifelong knowledge base that you own 100 percent.",
+      "line2": "FREE PERSONAL KNOWLEDGE BASE",
+      "tag": "\ud83d\uded1 Obsidian",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Obsidian",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Obsidian",
+        "subtitle": "Obsidian"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Obsidian"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Obsidian"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Obsidian",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

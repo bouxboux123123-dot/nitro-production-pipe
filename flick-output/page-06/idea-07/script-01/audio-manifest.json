@@ -1,0 +1,416 @@
+{
+  "page": "page-06",
+  "idea": "Automated team pulse check-in bot for tracking burnout and morale",
+  "text": "Smart remote leaders detect team burnout weeks before their best software engineers abruptly submit resignations. Remote employees often suffer in silence because overworking goes completely unnoticed behind green Slack status dots. By the time someone complains in a monthly private meeting, their resignation letter is already written. Deploying an automated Geekbot pulse check inside Slack captures weekly morale trends with two quick questions. You intervene early and protect top talent.",
+  "duration": 29.925,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Smart",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "remote",
+      "start": 0.38,
+      "end": 0.7
+    },
+    {
+      "word": "leaders",
+      "start": 0.7,
+      "end": 1.18
+    },
+    {
+      "word": "detect",
+      "start": 1.18,
+      "end": 1.6
+    },
+    {
+      "word": "team",
+      "start": 1.6,
+      "end": 1.94
+    },
+    {
+      "word": "burnout",
+      "start": 1.94,
+      "end": 2.4
+    },
+    {
+      "word": "weeks",
+      "start": 2.4,
+      "end": 2.68
+    },
+    {
+      "word": "before",
+      "start": 2.68,
+      "end": 2.9
+    },
+    {
+      "word": "their",
+      "start": 2.9,
+      "end": 3.14
+    },
+    {
+      "word": "best",
+      "start": 3.14,
+      "end": 3.46
+    },
+    {
+      "word": "software",
+      "start": 3.46,
+      "end": 3.88
+    },
+    {
+      "word": "engineers",
+      "start": 3.88,
+      "end": 4.5
+    },
+    {
+      "word": "abruptly",
+      "start": 4.5,
+      "end": 5.18
+    },
+    {
+      "word": "submit",
+      "start": 5.18,
+      "end": 5.62
+    },
+    {
+      "word": "resignations.",
+      "start": 5.62,
+      "end": 6.76
+    },
+    {
+      "word": "Remote",
+      "start": 7.14,
+      "end": 7.4
+    },
+    {
+      "word": "employees",
+      "start": 7.4,
+      "end": 7.98
+    },
+    {
+      "word": "often",
+      "start": 7.98,
+      "end": 8.52
+    },
+    {
+      "word": "suffer",
+      "start": 8.52,
+      "end": 8.8
+    },
+    {
+      "word": "in",
+      "start": 8.8,
+      "end": 9.08
+    },
+    {
+      "word": "silence",
+      "start": 9.08,
+      "end": 9.46
+    },
+    {
+      "word": "because",
+      "start": 9.46,
+      "end": 10.18
+    },
+    {
+      "word": "overworking",
+      "start": 10.18,
+      "end": 10.76
+    },
+    {
+      "word": "goes",
+      "start": 10.76,
+      "end": 11.1
+    },
+    {
+      "word": "completely",
+      "start": 11.1,
+      "end": 11.7
+    },
+    {
+      "word": "unnoticed",
+      "start": 11.7,
+      "end": 12.26
+    },
+    {
+      "word": "behind",
+      "start": 12.26,
+      "end": 12.76
+    },
+    {
+      "word": "green",
+      "start": 12.76,
+      "end": 13.24
+    },
+    {
+      "word": "Slack",
+      "start": 13.24,
+      "end": 13.62
+    },
+    {
+      "word": "status",
+      "start": 13.62,
+      "end": 13.98
+    },
+    {
+      "word": "dots.",
+      "start": 13.98,
+      "end": 14.42
+    },
+    {
+      "word": "By",
+      "start": 14.76,
+      "end": 14.88
+    },
+    {
+      "word": "the",
+      "start": 14.88,
+      "end": 15.08
+    },
+    {
+      "word": "time",
+      "start": 15.08,
+      "end": 15.3
+    },
+    {
+      "word": "someone",
+      "start": 15.3,
+      "end": 15.64
+    },
+    {
+      "word": "complains",
+      "start": 15.64,
+      "end": 16.12
+    },
+    {
+      "word": "in",
+      "start": 16.12,
+      "end": 16.36
+    },
+    {
+      "word": "a",
+      "start": 16.36,
+      "end": 16.48
+    },
+    {
+      "word": "monthly",
+      "start": 16.48,
+      "end": 16.78
+    },
+    {
+      "word": "private",
+      "start": 16.78,
+      "end": 17.16
+    },
+    {
+      "word": "meeting,",
+      "start": 17.16,
+      "end": 17.6
+    },
+    {
+      "word": "their",
+      "start": 18.0,
+      "end": 18.18
+    },
+    {
+      "word": "resignation",
+      "start": 18.18,
+      "end": 18.62
+    },
+    {
+      "word": "letter",
+      "start": 18.62,
+      "end": 19.04
+    },
+    {
+      "word": "is",
+      "start": 19.04,
+      "end": 19.36
+    },
+    {
+      "word": "already",
+      "start": 19.36,
+      "end": 19.66
+    },
+    {
+      "word": "written.",
+      "start": 19.66,
+      "end": 20.14
+    },
+    {
+      "word": "Deploying",
+      "start": 20.64,
+      "end": 21.06
+    },
+    {
+      "word": "an",
+      "start": 21.06,
+      "end": 21.32
+    },
+    {
+      "word": "automated",
+      "start": 21.32,
+      "end": 21.7
+    },
+    {
+      "word": "geek",
+      "start": 21.7,
+      "end": 22.02
+    },
+    {
+      "word": "bot",
+      "start": 22.02,
+      "end": 22.28
+    },
+    {
+      "word": "pulse",
+      "start": 22.28,
+      "end": 22.66
+    },
+    {
+      "word": "check",
+      "start": 22.66,
+      "end": 23.0
+    },
+    {
+      "word": "inside",
+      "start": 23.0,
+      "end": 23.6
+    },
+    {
+      "word": "Slack",
+      "start": 23.6,
+      "end": 24.0
+    },
+    {
+      "word": "captures",
+      "start": 24.0,
+      "end": 24.4
+    },
+    {
+      "word": "weekly",
+      "start": 24.4,
+      "end": 24.86
+    },
+    {
+      "word": "morale",
+      "start": 24.86,
+      "end": 25.26
+    },
+    {
+      "word": "trends",
+      "start": 25.26,
+      "end": 25.66
+    },
+    {
+      "word": "with",
+      "start": 25.66,
+      "end": 25.96
+    },
+    {
+      "word": "two",
+      "start": 25.96,
+      "end": 26.22
+    },
+    {
+      "word": "quick",
+      "start": 26.22,
+      "end": 26.48
+    },
+    {
+      "word": "questions.",
+      "start": 26.48,
+      "end": 27.0
+    },
+    {
+      "word": "You",
+      "start": 27.0,
+      "end": 27.66
+    },
+    {
+      "word": "intervene",
+      "start": 27.66,
+      "end": 27.96
+    },
+    {
+      "word": "early",
+      "start": 27.96,
+      "end": 28.46
+    },
+    {
+      "word": "and",
+      "start": 28.46,
+      "end": 28.78
+    },
+    {
+      "word": "protect",
+      "start": 28.78,
+      "end": 29.06
+    },
+    {
+      "word": "top",
+      "start": 29.06,
+      "end": 29.46
+    },
+    {
+      "word": "talent.",
+      "start": 29.46,
+      "end": 29.82
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How remote leaders detect team burnout weeks before someone abruptly resigns.",
+      "line2": "TRACK TEAM MORALE",
+      "tag": "\ud83d\uded1 Automated team pulse check-in bot for tracking burnout and morale",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated team pulse check-in bot for tracking burnout and morale",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated team pulse check-in bot for tracking burnout and morale",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

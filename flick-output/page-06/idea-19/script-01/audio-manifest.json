@@ -1,0 +1,386 @@
+{
+  "page": "page-06",
+  "idea": "Remote team contract compliance and global payroll management tool",
+  "text": "How to legally hire top talent across one hundred countries without opening foreign legal entities. Registering overseas corporate subsidiaries costs fifty thousand dollars and months of bureaucratic delays. Misclassifying international team members as contractors risks catastrophic back-tax penalties and compliance fines. Deel serves as your Employer of Record, automating localized labor contracts and multi-currency payroll. You safely onboard global engineers within two business days.",
+  "duration": 30.543,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.38
+    },
+    {
+      "word": "legally",
+      "start": 0.38,
+      "end": 0.68
+    },
+    {
+      "word": "hire",
+      "start": 0.68,
+      "end": 1.08
+    },
+    {
+      "word": "top",
+      "start": 1.08,
+      "end": 1.44
+    },
+    {
+      "word": "talent",
+      "start": 1.44,
+      "end": 1.78
+    },
+    {
+      "word": "across",
+      "start": 1.78,
+      "end": 2.18
+    },
+    {
+      "word": "100",
+      "start": 2.18,
+      "end": 2.6
+    },
+    {
+      "word": "countries",
+      "start": 2.6,
+      "end": 3.3
+    },
+    {
+      "word": "without",
+      "start": 3.3,
+      "end": 3.82
+    },
+    {
+      "word": "opening",
+      "start": 3.82,
+      "end": 4.3
+    },
+    {
+      "word": "foreign",
+      "start": 4.3,
+      "end": 4.72
+    },
+    {
+      "word": "legal",
+      "start": 4.72,
+      "end": 5.06
+    },
+    {
+      "word": "entities.",
+      "start": 5.06,
+      "end": 5.66
+    },
+    {
+      "word": "Registering",
+      "start": 6.5,
+      "end": 6.82
+    },
+    {
+      "word": "overseas",
+      "start": 6.82,
+      "end": 7.34
+    },
+    {
+      "word": "corporate",
+      "start": 7.34,
+      "end": 7.86
+    },
+    {
+      "word": "subsidiaries",
+      "start": 7.86,
+      "end": 8.56
+    },
+    {
+      "word": "costs",
+      "start": 8.56,
+      "end": 9.14
+    },
+    {
+      "word": "$50",
+      "start": 9.14,
+      "end": 9.64
+    },
+    {
+      "word": ",000",
+      "start": 9.64,
+      "end": 10.18
+    },
+    {
+      "word": "and",
+      "start": 10.18,
+      "end": 10.66
+    },
+    {
+      "word": "months",
+      "start": 10.66,
+      "end": 10.94
+    },
+    {
+      "word": "of",
+      "start": 10.94,
+      "end": 11.46
+    },
+    {
+      "word": "bureaucratic",
+      "start": 11.46,
+      "end": 11.76
+    },
+    {
+      "word": "delays.",
+      "start": 11.76,
+      "end": 12.46
+    },
+    {
+      "word": "Miss",
+      "start": 12.98,
+      "end": 13.06
+    },
+    {
+      "word": "classifying",
+      "start": 13.06,
+      "end": 13.7
+    },
+    {
+      "word": "international",
+      "start": 13.7,
+      "end": 14.2
+    },
+    {
+      "word": "team",
+      "start": 14.2,
+      "end": 14.64
+    },
+    {
+      "word": "members",
+      "start": 14.64,
+      "end": 14.94
+    },
+    {
+      "word": "as",
+      "start": 14.94,
+      "end": 15.26
+    },
+    {
+      "word": "contractors",
+      "start": 15.26,
+      "end": 15.96
+    },
+    {
+      "word": "risks",
+      "start": 15.96,
+      "end": 16.5
+    },
+    {
+      "word": "catastrophic",
+      "start": 16.5,
+      "end": 17.12
+    },
+    {
+      "word": "back",
+      "start": 17.12,
+      "end": 17.58
+    },
+    {
+      "word": "-tax",
+      "start": 17.58,
+      "end": 17.82
+    },
+    {
+      "word": "penalties",
+      "start": 17.82,
+      "end": 18.3
+    },
+    {
+      "word": "and",
+      "start": 18.3,
+      "end": 18.82
+    },
+    {
+      "word": "compliance",
+      "start": 18.82,
+      "end": 19.2
+    },
+    {
+      "word": "fines.",
+      "start": 19.2,
+      "end": 19.9
+    },
+    {
+      "word": "Deal",
+      "start": 20.36,
+      "end": 20.56
+    },
+    {
+      "word": "serves",
+      "start": 20.56,
+      "end": 21.0
+    },
+    {
+      "word": "as",
+      "start": 21.0,
+      "end": 21.24
+    },
+    {
+      "word": "your",
+      "start": 21.24,
+      "end": 21.54
+    },
+    {
+      "word": "employer",
+      "start": 21.54,
+      "end": 21.84
+    },
+    {
+      "word": "of",
+      "start": 21.84,
+      "end": 22.1
+    },
+    {
+      "word": "record,",
+      "start": 22.1,
+      "end": 22.64
+    },
+    {
+      "word": "automating",
+      "start": 23.04,
+      "end": 23.4
+    },
+    {
+      "word": "localized",
+      "start": 23.4,
+      "end": 24.02
+    },
+    {
+      "word": "labor",
+      "start": 24.02,
+      "end": 24.48
+    },
+    {
+      "word": "contracts",
+      "start": 24.48,
+      "end": 24.98
+    },
+    {
+      "word": "and",
+      "start": 24.98,
+      "end": 25.3
+    },
+    {
+      "word": "multi",
+      "start": 25.3,
+      "end": 25.64
+    },
+    {
+      "word": "-currency",
+      "start": 25.64,
+      "end": 25.98
+    },
+    {
+      "word": "payroll.",
+      "start": 25.98,
+      "end": 26.54
+    },
+    {
+      "word": "You",
+      "start": 27.1,
+      "end": 27.32
+    },
+    {
+      "word": "safely",
+      "start": 27.32,
+      "end": 27.72
+    },
+    {
+      "word": "onboard",
+      "start": 27.72,
+      "end": 28.16
+    },
+    {
+      "word": "global",
+      "start": 28.16,
+      "end": 28.64
+    },
+    {
+      "word": "engineers",
+      "start": 28.64,
+      "end": 29.08
+    },
+    {
+      "word": "within",
+      "start": 29.08,
+      "end": 29.38
+    },
+    {
+      "word": "two",
+      "start": 29.38,
+      "end": 29.78
+    },
+    {
+      "word": "business",
+      "start": 29.78,
+      "end": 30.06
+    },
+    {
+      "word": "days.",
+      "start": 30.06,
+      "end": 30.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How to legally hire talent in 100 different countries without setting up foreign entities.",
+      "line2": "MANAGE GLOBAL PAYROLL",
+      "tag": "\ud83d\uded1 Remote team contract compliance and global payroll management tool",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Remote team contract compliance and global payroll management tool",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Remote team contract compliance and global payroll management tool",
+        "subtitle": "Remote team contract compliance and global payroll management tool"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Remote team contract compliance and global payroll management tool"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Remote team contract compliance and global payroll management tool"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Remote team contract compliance and global payroll management tool",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

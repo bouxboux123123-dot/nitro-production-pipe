@@ -1,0 +1,411 @@
+{
+  "page": "page-02",
+  "idea": "AI multi-language translator for international client deliverables",
+  "text": "Stop relying on clunky Google Translate for your professional client deliverables. Generic machine translations make obvious grammatical blunders that signal amateur quality to enterprise marketing teams. Losing credibility over mistranslated product copy or legal disclaimers can cost you a five-figure retainer. DeepL Pro utilizes advanced neural networks trained on corporate glossaries to maintain brand voice across dozens of languages. You ship client-ready translations that sound completely natural.",
+  "duration": 31.311,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "relying",
+      "start": 0.44,
+      "end": 0.82
+    },
+    {
+      "word": "on",
+      "start": 0.82,
+      "end": 1.18
+    },
+    {
+      "word": "clunky",
+      "start": 1.18,
+      "end": 1.5
+    },
+    {
+      "word": "Google",
+      "start": 1.5,
+      "end": 1.92
+    },
+    {
+      "word": "Translate",
+      "start": 1.92,
+      "end": 2.46
+    },
+    {
+      "word": "for",
+      "start": 2.46,
+      "end": 2.7
+    },
+    {
+      "word": "your",
+      "start": 2.7,
+      "end": 3.34
+    },
+    {
+      "word": "professional",
+      "start": 3.34,
+      "end": 3.38
+    },
+    {
+      "word": "client",
+      "start": 3.38,
+      "end": 3.74
+    },
+    {
+      "word": "deliverables.",
+      "start": 3.74,
+      "end": 4.72
+    },
+    {
+      "word": "Generic",
+      "start": 5.36,
+      "end": 5.36
+    },
+    {
+      "word": "machine",
+      "start": 5.36,
+      "end": 5.86
+    },
+    {
+      "word": "translations",
+      "start": 5.86,
+      "end": 6.54
+    },
+    {
+      "word": "make",
+      "start": 6.54,
+      "end": 6.94
+    },
+    {
+      "word": "obvious",
+      "start": 6.94,
+      "end": 7.42
+    },
+    {
+      "word": "grammatical",
+      "start": 7.42,
+      "end": 8.04
+    },
+    {
+      "word": "blunders",
+      "start": 8.04,
+      "end": 8.42
+    },
+    {
+      "word": "that",
+      "start": 8.42,
+      "end": 8.92
+    },
+    {
+      "word": "signal",
+      "start": 8.92,
+      "end": 9.36
+    },
+    {
+      "word": "amateur",
+      "start": 9.36,
+      "end": 9.72
+    },
+    {
+      "word": "quality",
+      "start": 9.72,
+      "end": 10.28
+    },
+    {
+      "word": "to",
+      "start": 10.28,
+      "end": 10.72
+    },
+    {
+      "word": "enterprise",
+      "start": 10.72,
+      "end": 11.0
+    },
+    {
+      "word": "marketing",
+      "start": 11.0,
+      "end": 11.44
+    },
+    {
+      "word": "teams.",
+      "start": 11.44,
+      "end": 12.08
+    },
+    {
+      "word": "Losing",
+      "start": 12.46,
+      "end": 12.66
+    },
+    {
+      "word": "credibility",
+      "start": 12.66,
+      "end": 13.2
+    },
+    {
+      "word": "over",
+      "start": 13.2,
+      "end": 13.6
+    },
+    {
+      "word": "mistranslated",
+      "start": 13.6,
+      "end": 14.34
+    },
+    {
+      "word": "product",
+      "start": 14.34,
+      "end": 14.8
+    },
+    {
+      "word": "copy",
+      "start": 14.8,
+      "end": 15.14
+    },
+    {
+      "word": "or",
+      "start": 15.14,
+      "end": 15.52
+    },
+    {
+      "word": "legal",
+      "start": 15.52,
+      "end": 15.84
+    },
+    {
+      "word": "disclaimers",
+      "start": 15.84,
+      "end": 16.66
+    },
+    {
+      "word": "can",
+      "start": 16.66,
+      "end": 17.06
+    },
+    {
+      "word": "cost",
+      "start": 17.06,
+      "end": 17.34
+    },
+    {
+      "word": "you",
+      "start": 17.34,
+      "end": 17.58
+    },
+    {
+      "word": "a",
+      "start": 17.58,
+      "end": 17.66
+    },
+    {
+      "word": "five",
+      "start": 17.66,
+      "end": 17.98
+    },
+    {
+      "word": "-figure",
+      "start": 17.98,
+      "end": 18.24
+    },
+    {
+      "word": "retainer.",
+      "start": 18.24,
+      "end": 18.72
+    },
+    {
+      "word": "Deep",
+      "start": 19.4,
+      "end": 19.66
+    },
+    {
+      "word": "L",
+      "start": 19.66,
+      "end": 20.0
+    },
+    {
+      "word": "-Pro",
+      "start": 20.0,
+      "end": 20.22
+    },
+    {
+      "word": "utilizes",
+      "start": 20.22,
+      "end": 20.68
+    },
+    {
+      "word": "advanced",
+      "start": 20.68,
+      "end": 21.38
+    },
+    {
+      "word": "neural",
+      "start": 21.38,
+      "end": 21.78
+    },
+    {
+      "word": "networks",
+      "start": 21.78,
+      "end": 22.3
+    },
+    {
+      "word": "trained",
+      "start": 22.3,
+      "end": 22.62
+    },
+    {
+      "word": "on",
+      "start": 22.62,
+      "end": 22.94
+    },
+    {
+      "word": "corporate",
+      "start": 22.94,
+      "end": 23.28
+    },
+    {
+      "word": "glossaries",
+      "start": 23.28,
+      "end": 23.84
+    },
+    {
+      "word": "to",
+      "start": 23.84,
+      "end": 24.38
+    },
+    {
+      "word": "maintain",
+      "start": 24.38,
+      "end": 24.9
+    },
+    {
+      "word": "brand",
+      "start": 24.9,
+      "end": 25.32
+    },
+    {
+      "word": "voice",
+      "start": 25.32,
+      "end": 25.68
+    },
+    {
+      "word": "across",
+      "start": 25.68,
+      "end": 26.1
+    },
+    {
+      "word": "dozens",
+      "start": 26.1,
+      "end": 26.38
+    },
+    {
+      "word": "of",
+      "start": 26.38,
+      "end": 26.62
+    },
+    {
+      "word": "languages.",
+      "start": 26.62,
+      "end": 27.14
+    },
+    {
+      "word": "You",
+      "start": 27.14,
+      "end": 27.9
+    },
+    {
+      "word": "ship",
+      "start": 27.9,
+      "end": 28.18
+    },
+    {
+      "word": "client",
+      "start": 28.18,
+      "end": 28.54
+    },
+    {
+      "word": "-ready",
+      "start": 28.54,
+      "end": 28.8
+    },
+    {
+      "word": "translations",
+      "start": 28.8,
+      "end": 29.38
+    },
+    {
+      "word": "that",
+      "start": 29.38,
+      "end": 29.88
+    },
+    {
+      "word": "sound",
+      "start": 29.88,
+      "end": 30.24
+    },
+    {
+      "word": "completely",
+      "start": 30.24,
+      "end": 30.78
+    },
+    {
+      "word": "natural.",
+      "start": 30.78,
+      "end": 31.22
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop relying on clunky Google Translate for professional client work.",
+      "line2": "TRANSLATE CLIENT DELIVERABLES",
+      "tag": "\ud83d\uded1 AI multi-language translator for international client deliverables",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI multi-language translator for international client deliverables",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI multi-language translator for international client deliverables",
+        "subtitle": "AI multi-language translator for international client deliverables"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI multi-language translator for international client deliverables"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI multi-language translator for international client deliverables"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI multi-language translator for international client deliverables",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

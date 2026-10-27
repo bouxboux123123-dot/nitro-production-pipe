@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Airtable Cobuilder: build complex databases from plain English prompts",
+  "text": "Airtable just released an AI builder that generates entire internal software systems in seconds. Product managers spend weeks architecting relational databases and writing validation formulas for internal team trackers. Building custom business applications from scratch stalls when schema design mistakes corrupt linked data models. Airtable Cobuilder transforms plain English prompts into relational schemas, custom interface views, and automated record triggers instantly. You deploy production-ready team tools today.",
+  "duration": 32.186,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Airdable",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "just",
+      "start": 0.44,
+      "end": 0.78
+    },
+    {
+      "word": "released",
+      "start": 0.78,
+      "end": 1.16
+    },
+    {
+      "word": "an",
+      "start": 1.16,
+      "end": 1.5
+    },
+    {
+      "word": "AI",
+      "start": 1.5,
+      "end": 1.86
+    },
+    {
+      "word": "builder",
+      "start": 1.86,
+      "end": 2.14
+    },
+    {
+      "word": "that",
+      "start": 2.14,
+      "end": 2.48
+    },
+    {
+      "word": "generates",
+      "start": 2.48,
+      "end": 2.96
+    },
+    {
+      "word": "entire",
+      "start": 2.96,
+      "end": 3.66
+    },
+    {
+      "word": "internal",
+      "start": 3.66,
+      "end": 4.22
+    },
+    {
+      "word": "software",
+      "start": 4.22,
+      "end": 4.6
+    },
+    {
+      "word": "systems",
+      "start": 4.6,
+      "end": 5.16
+    },
+    {
+      "word": "in",
+      "start": 5.16,
+      "end": 5.44
+    },
+    {
+      "word": "seconds.",
+      "start": 5.44,
+      "end": 6.02
+    },
+    {
+      "word": "Product",
+      "start": 6.84,
+      "end": 6.84
+    },
+    {
+      "word": "managers",
+      "start": 6.84,
+      "end": 7.32
+    },
+    {
+      "word": "spend",
+      "start": 7.32,
+      "end": 8.02
+    },
+    {
+      "word": "weeks",
+      "start": 8.02,
+      "end": 8.46
+    },
+    {
+      "word": "architecting",
+      "start": 8.46,
+      "end": 9.14
+    },
+    {
+      "word": "relational",
+      "start": 9.14,
+      "end": 9.72
+    },
+    {
+      "word": "databases",
+      "start": 9.72,
+      "end": 10.36
+    },
+    {
+      "word": "and",
+      "start": 10.36,
+      "end": 11.02
+    },
+    {
+      "word": "writing",
+      "start": 11.02,
+      "end": 11.36
+    },
+    {
+      "word": "validation",
+      "start": 11.36,
+      "end": 11.94
+    },
+    {
+      "word": "formulas",
+      "start": 11.94,
+      "end": 12.5
+    },
+    {
+      "word": "for",
+      "start": 12.5,
+      "end": 12.9
+    },
+    {
+      "word": "internal",
+      "start": 12.9,
+      "end": 13.24
+    },
+    {
+      "word": "team",
+      "start": 13.24,
+      "end": 13.58
+    },
+    {
+      "word": "trackers.",
+      "start": 13.58,
+      "end": 14.2
+    },
+    {
+      "word": "Building",
+      "start": 14.7,
+      "end": 14.7
+    },
+    {
+      "word": "custom",
+      "start": 14.7,
+      "end": 15.14
+    },
+    {
+      "word": "business",
+      "start": 15.14,
+      "end": 15.52
+    },
+    {
+      "word": "applications",
+      "start": 15.52,
+      "end": 16.1
+    },
+    {
+      "word": "from",
+      "start": 16.1,
+      "end": 16.5
+    },
+    {
+      "word": "scratch",
+      "start": 16.5,
+      "end": 16.84
+    },
+    {
+      "word": "stalls",
+      "start": 16.84,
+      "end": 17.18
+    },
+    {
+      "word": "when",
+      "start": 17.18,
+      "end": 17.54
+    },
+    {
+      "word": "schema",
+      "start": 17.54,
+      "end": 17.78
+    },
+    {
+      "word": "design",
+      "start": 17.78,
+      "end": 18.48
+    },
+    {
+      "word": "mistakes",
+      "start": 18.48,
+      "end": 19.08
+    },
+    {
+      "word": "corrupt",
+      "start": 19.08,
+      "end": 19.5
+    },
+    {
+      "word": "link",
+      "start": 19.5,
+      "end": 19.92
+    },
+    {
+      "word": "data",
+      "start": 19.92,
+      "end": 20.22
+    },
+    {
+      "word": "models.",
+      "start": 20.22,
+      "end": 20.74
+    },
+    {
+      "word": "Airdable",
+      "start": 21.52,
+      "end": 21.76
+    },
+    {
+      "word": "cobbleder",
+      "start": 21.76,
+      "end": 22.5
+    },
+    {
+      "word": "transforms",
+      "start": 22.5,
+      "end": 22.84
+    },
+    {
+      "word": "plain",
+      "start": 22.84,
+      "end": 23.36
+    },
+    {
+      "word": "English",
+      "start": 23.36,
+      "end": 23.72
+    },
+    {
+      "word": "prompts",
+      "start": 23.72,
+      "end": 24.02
+    },
+    {
+      "word": "into",
+      "start": 24.02,
+      "end": 24.28
+    },
+    {
+      "word": "relational",
+      "start": 24.28,
+      "end": 24.8
+    },
+    {
+      "word": "schemas,",
+      "start": 24.8,
+      "end": 25.36
+    },
+    {
+      "word": "custom",
+      "start": 26.0,
+      "end": 26.08
+    },
+    {
+      "word": "interface",
+      "start": 26.08,
+      "end": 26.48
+    },
+    {
+      "word": "views,",
+      "start": 26.48,
+      "end": 26.94
+    },
+    {
+      "word": "and",
+      "start": 27.3,
+      "end": 27.6
+    },
+    {
+      "word": "automated",
+      "start": 27.6,
+      "end": 27.84
+    },
+    {
+      "word": "record",
+      "start": 27.84,
+      "end": 28.34
+    },
+    {
+      "word": "triggers",
+      "start": 28.34,
+      "end": 28.7
+    },
+    {
+      "word": "instantly.",
+      "start": 28.7,
+      "end": 29.26
+    },
+    {
+      "word": "You",
+      "start": 29.26,
+      "end": 29.94
+    },
+    {
+      "word": "deploy",
+      "start": 29.94,
+      "end": 30.26
+    },
+    {
+      "word": "production",
+      "start": 30.26,
+      "end": 30.76
+    },
+    {
+      "word": "ready",
+      "start": 30.76,
+      "end": 31.08
+    },
+    {
+      "word": "team",
+      "start": 31.08,
+      "end": 31.36
+    },
+    {
+      "word": "tools",
+      "start": 31.36,
+      "end": 31.7
+    },
+    {
+      "word": "today.",
+      "start": 31.7,
+      "end": 32.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Airtable just released an AI builder that generates entire software systems.",
+      "line2": "AIRTABLE AI COBUILDER LAUNCH",
+      "tag": "\ud83d\uded1 Airtable Cobuilder",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Airtable Cobuilder",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

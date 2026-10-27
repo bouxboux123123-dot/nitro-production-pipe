@@ -1,0 +1,391 @@
+{
+  "page": "page-08",
+  "idea": "How to turn any website into a standalone desktop app on your computer",
+  "text": "Stop keeping twenty pinned browser tabs open for apps like WhatsApp, Notion, or Trello. Your browser slows down, battery life drains fast, and you constantly misplace important conversations. Crowded tab bars force constant context switching and lead to accidentally closed work sessions. In Chrome or Edge, click the menu dots, select Save and Share, and click Install. You gain dedicated desktop icons with instant taskbar access.",
+  "duration": 24.981,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "keeping",
+      "start": 0.26,
+      "end": 0.56
+    },
+    {
+      "word": "20",
+      "start": 0.56,
+      "end": 0.9
+    },
+    {
+      "word": "-pin",
+      "start": 0.9,
+      "end": 1.12
+    },
+    {
+      "word": "browser",
+      "start": 1.12,
+      "end": 1.42
+    },
+    {
+      "word": "tabs",
+      "start": 1.42,
+      "end": 1.78
+    },
+    {
+      "word": "open",
+      "start": 1.78,
+      "end": 2.1
+    },
+    {
+      "word": "for",
+      "start": 2.1,
+      "end": 2.38
+    },
+    {
+      "word": "apps",
+      "start": 2.38,
+      "end": 2.6
+    },
+    {
+      "word": "like",
+      "start": 2.6,
+      "end": 2.82
+    },
+    {
+      "word": "WhatsApp,",
+      "start": 2.82,
+      "end": 3.32
+    },
+    {
+      "word": "Notion",
+      "start": 3.6,
+      "end": 3.82
+    },
+    {
+      "word": "or",
+      "start": 3.82,
+      "end": 4.04
+    },
+    {
+      "word": "Trello.",
+      "start": 4.04,
+      "end": 4.4
+    },
+    {
+      "word": "Your",
+      "start": 4.96,
+      "end": 5.1
+    },
+    {
+      "word": "browser",
+      "start": 5.1,
+      "end": 5.34
+    },
+    {
+      "word": "slows",
+      "start": 5.34,
+      "end": 5.7
+    },
+    {
+      "word": "down,",
+      "start": 5.7,
+      "end": 6.24
+    },
+    {
+      "word": "battery",
+      "start": 6.56,
+      "end": 6.56
+    },
+    {
+      "word": "life",
+      "start": 6.56,
+      "end": 6.94
+    },
+    {
+      "word": "drains",
+      "start": 6.94,
+      "end": 7.2
+    },
+    {
+      "word": "fast",
+      "start": 7.2,
+      "end": 7.7
+    },
+    {
+      "word": "and",
+      "start": 7.7,
+      "end": 7.86
+    },
+    {
+      "word": "you",
+      "start": 7.86,
+      "end": 8.08
+    },
+    {
+      "word": "constantly",
+      "start": 8.08,
+      "end": 8.44
+    },
+    {
+      "word": "misplace",
+      "start": 8.44,
+      "end": 8.94
+    },
+    {
+      "word": "important",
+      "start": 8.94,
+      "end": 9.42
+    },
+    {
+      "word": "conversations.",
+      "start": 9.42,
+      "end": 10.14
+    },
+    {
+      "word": "Crowded",
+      "start": 10.9,
+      "end": 11.16
+    },
+    {
+      "word": "tab",
+      "start": 11.16,
+      "end": 11.4
+    },
+    {
+      "word": "bars,",
+      "start": 11.4,
+      "end": 11.66
+    },
+    {
+      "word": "force",
+      "start": 11.94,
+      "end": 12.06
+    },
+    {
+      "word": "constant",
+      "start": 12.06,
+      "end": 12.5
+    },
+    {
+      "word": "context",
+      "start": 12.5,
+      "end": 12.9
+    },
+    {
+      "word": "switching",
+      "start": 12.9,
+      "end": 13.34
+    },
+    {
+      "word": "and",
+      "start": 13.34,
+      "end": 13.56
+    },
+    {
+      "word": "lead",
+      "start": 13.56,
+      "end": 13.72
+    },
+    {
+      "word": "to",
+      "start": 13.72,
+      "end": 14.12
+    },
+    {
+      "word": "accidentally",
+      "start": 14.12,
+      "end": 14.34
+    },
+    {
+      "word": "closed",
+      "start": 14.34,
+      "end": 14.82
+    },
+    {
+      "word": "work",
+      "start": 14.82,
+      "end": 15.04
+    },
+    {
+      "word": "sessions.",
+      "start": 15.04,
+      "end": 15.46
+    },
+    {
+      "word": "In",
+      "start": 16.06,
+      "end": 16.18
+    },
+    {
+      "word": "Chrome",
+      "start": 16.18,
+      "end": 16.46
+    },
+    {
+      "word": "or",
+      "start": 16.46,
+      "end": 16.74
+    },
+    {
+      "word": "Edge,",
+      "start": 16.74,
+      "end": 17.02
+    },
+    {
+      "word": "click",
+      "start": 17.56,
+      "end": 17.56
+    },
+    {
+      "word": "the",
+      "start": 17.56,
+      "end": 17.8
+    },
+    {
+      "word": "menu",
+      "start": 17.8,
+      "end": 18.02
+    },
+    {
+      "word": "dots,",
+      "start": 18.02,
+      "end": 18.42
+    },
+    {
+      "word": "select",
+      "start": 18.72,
+      "end": 19.08
+    },
+    {
+      "word": "Save",
+      "start": 19.08,
+      "end": 19.38
+    },
+    {
+      "word": "and",
+      "start": 19.38,
+      "end": 19.6
+    },
+    {
+      "word": "Share",
+      "start": 19.6,
+      "end": 19.9
+    },
+    {
+      "word": "and",
+      "start": 19.9,
+      "end": 20.1
+    },
+    {
+      "word": "click",
+      "start": 20.1,
+      "end": 20.3
+    },
+    {
+      "word": "Install.",
+      "start": 20.3,
+      "end": 20.76
+    },
+    {
+      "word": "You",
+      "start": 20.76,
+      "end": 21.48
+    },
+    {
+      "word": "gain",
+      "start": 21.48,
+      "end": 21.8
+    },
+    {
+      "word": "dedicated",
+      "start": 21.8,
+      "end": 22.28
+    },
+    {
+      "word": "desktop",
+      "start": 22.28,
+      "end": 22.68
+    },
+    {
+      "word": "icons",
+      "start": 22.68,
+      "end": 23.2
+    },
+    {
+      "word": "with",
+      "start": 23.2,
+      "end": 23.64
+    },
+    {
+      "word": "instant",
+      "start": 23.64,
+      "end": 23.88
+    },
+    {
+      "word": "taskbar",
+      "start": 23.88,
+      "end": 24.48
+    },
+    {
+      "word": "access.",
+      "start": 24.48,
+      "end": 24.86
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop keeping 20 pinned browser tabs open for tools like WhatsApp, Notion, or Trello.",
+      "line2": "TURN WEBSITES INTO APPS",
+      "tag": "\ud83d\uded1 How to turn any website into a standalone desktop app on your computer",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to turn any website into a standalone desktop app on your computer",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to turn any website into a standalone desktop app on your computer",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

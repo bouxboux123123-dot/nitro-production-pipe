@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Airtable automations that notify Slack when deals enter negotiation",
+  "text": "Learn how to celebrate deal wins and coordinate closing efforts automatically inside Slack. Reps celebrate signed contracts, but onboarding handoffs get buried in disorganized direct messages and lost emails. Incomplete sales handoffs leave customer success scrambling for context while new clients wait frustrated. Instead, configure an Airtable automation that posts closed-won details and kickoff links to Slack. This eliminates onboarding friction and costly client churn.",
+  "duration": 29.818,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "learn",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "how",
+      "start": 0.3,
+      "end": 0.52
+    },
+    {
+      "word": "to",
+      "start": 0.52,
+      "end": 0.66
+    },
+    {
+      "word": "celebrate",
+      "start": 0.66,
+      "end": 1.0
+    },
+    {
+      "word": "deal",
+      "start": 1.0,
+      "end": 1.48
+    },
+    {
+      "word": "wins",
+      "start": 1.48,
+      "end": 1.76
+    },
+    {
+      "word": "and",
+      "start": 1.76,
+      "end": 2.18
+    },
+    {
+      "word": "coordinate",
+      "start": 2.18,
+      "end": 2.52
+    },
+    {
+      "word": "closing",
+      "start": 2.52,
+      "end": 2.98
+    },
+    {
+      "word": "efforts",
+      "start": 2.98,
+      "end": 3.44
+    },
+    {
+      "word": "automatically",
+      "start": 3.44,
+      "end": 4.04
+    },
+    {
+      "word": "inside",
+      "start": 4.04,
+      "end": 4.78
+    },
+    {
+      "word": "Slack.",
+      "start": 4.78,
+      "end": 5.28
+    },
+    {
+      "word": "Rep",
+      "start": 5.96,
+      "end": 6.04
+    },
+    {
+      "word": "celebrate",
+      "start": 6.04,
+      "end": 6.6
+    },
+    {
+      "word": "signed",
+      "start": 6.6,
+      "end": 7.08
+    },
+    {
+      "word": "contracts,",
+      "start": 7.08,
+      "end": 7.6
+    },
+    {
+      "word": "but",
+      "start": 8.06,
+      "end": 8.26
+    },
+    {
+      "word": "onboarding",
+      "start": 8.26,
+      "end": 8.8
+    },
+    {
+      "word": "handoffs",
+      "start": 8.8,
+      "end": 9.22
+    },
+    {
+      "word": "get",
+      "start": 9.22,
+      "end": 9.56
+    },
+    {
+      "word": "buried",
+      "start": 9.56,
+      "end": 9.88
+    },
+    {
+      "word": "in",
+      "start": 9.88,
+      "end": 10.16
+    },
+    {
+      "word": "disorganized",
+      "start": 10.16,
+      "end": 10.74
+    },
+    {
+      "word": "direct",
+      "start": 10.74,
+      "end": 11.2
+    },
+    {
+      "word": "messages",
+      "start": 11.2,
+      "end": 11.72
+    },
+    {
+      "word": "and",
+      "start": 11.72,
+      "end": 12.26
+    },
+    {
+      "word": "lost",
+      "start": 12.26,
+      "end": 12.6
+    },
+    {
+      "word": "emails.",
+      "start": 12.6,
+      "end": 13.06
+    },
+    {
+      "word": "In",
+      "start": 13.52,
+      "end": 13.7
+    },
+    {
+      "word": "complete",
+      "start": 13.7,
+      "end": 13.92
+    },
+    {
+      "word": "sales",
+      "start": 13.92,
+      "end": 14.38
+    },
+    {
+      "word": "handoffs",
+      "start": 14.38,
+      "end": 14.86
+    },
+    {
+      "word": "leave",
+      "start": 14.86,
+      "end": 15.14
+    },
+    {
+      "word": "customer",
+      "start": 15.14,
+      "end": 15.52
+    },
+    {
+      "word": "success",
+      "start": 15.52,
+      "end": 16.06
+    },
+    {
+      "word": "scrambling",
+      "start": 16.06,
+      "end": 16.44
+    },
+    {
+      "word": "for",
+      "start": 16.44,
+      "end": 16.78
+    },
+    {
+      "word": "context",
+      "start": 16.78,
+      "end": 17.28
+    },
+    {
+      "word": "while",
+      "start": 17.28,
+      "end": 17.82
+    },
+    {
+      "word": "new",
+      "start": 17.82,
+      "end": 18.08
+    },
+    {
+      "word": "clients",
+      "start": 18.08,
+      "end": 18.42
+    },
+    {
+      "word": "wait",
+      "start": 18.42,
+      "end": 18.72
+    },
+    {
+      "word": "frustrated.",
+      "start": 18.72,
+      "end": 19.2
+    },
+    {
+      "word": "Instead,",
+      "start": 20.06,
+      "end": 20.4
+    },
+    {
+      "word": "configure",
+      "start": 21.04,
+      "end": 21.16
+    },
+    {
+      "word": "an",
+      "start": 21.16,
+      "end": 21.5
+    },
+    {
+      "word": "irritable",
+      "start": 21.5,
+      "end": 21.9
+    },
+    {
+      "word": "automation",
+      "start": 21.9,
+      "end": 22.42
+    },
+    {
+      "word": "that",
+      "start": 22.42,
+      "end": 22.88
+    },
+    {
+      "word": "posts",
+      "start": 22.88,
+      "end": 23.06
+    },
+    {
+      "word": "closed",
+      "start": 23.06,
+      "end": 23.52
+    },
+    {
+      "word": "one",
+      "start": 23.52,
+      "end": 23.76
+    },
+    {
+      "word": "details",
+      "start": 23.76,
+      "end": 24.28
+    },
+    {
+      "word": "and",
+      "start": 24.28,
+      "end": 24.6
+    },
+    {
+      "word": "kick",
+      "start": 24.6,
+      "end": 24.78
+    },
+    {
+      "word": "off",
+      "start": 24.78,
+      "end": 25.04
+    },
+    {
+      "word": "links",
+      "start": 25.04,
+      "end": 25.24
+    },
+    {
+      "word": "to",
+      "start": 25.24,
+      "end": 25.54
+    },
+    {
+      "word": "Slack.",
+      "start": 25.54,
+      "end": 25.98
+    },
+    {
+      "word": "This",
+      "start": 25.98,
+      "end": 26.72
+    },
+    {
+      "word": "eliminates",
+      "start": 26.72,
+      "end": 27.08
+    },
+    {
+      "word": "onboarding",
+      "start": 27.08,
+      "end": 27.86
+    },
+    {
+      "word": "friction",
+      "start": 27.86,
+      "end": 28.16
+    },
+    {
+      "word": "and",
+      "start": 28.16,
+      "end": 28.74
+    },
+    {
+      "word": "costly",
+      "start": 28.74,
+      "end": 29.0
+    },
+    {
+      "word": "client",
+      "start": 29.0,
+      "end": 29.4
+    },
+    {
+      "word": "churn.",
+      "start": 29.4,
+      "end": 29.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "How to celebrate deal wins and coordinate closing efforts automatically on Slack.",
+      "line2": "SLACK DEAL ALERTS",
+      "tag": "\ud83d\uded1 Airtable automations that notify Slack when deals enter negotiation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Airtable automations that notify Slack when deals enter negotiation",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Airtable automations that notify Slack when deals enter negotiation",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

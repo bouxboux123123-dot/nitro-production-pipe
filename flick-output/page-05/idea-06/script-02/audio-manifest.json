@@ -1,0 +1,386 @@
+{
+  "page": "page-05",
+  "idea": "Fillout smart forms that pre-fill existing user data dynamically",
+  "text": "How to build dynamic forms that automatically pull data from Airtable. Sending blank intake questionnaires forces clients to retype project briefs, company URLs, and contract terms. When users re-enter information manually, simple typos break downstream Make webhooks and CRM database syncs. Instead, use Fillout to map URL record IDs and auto-populate existing customer fields instantly. Clients breeze through updates without data errors.",
+  "duration": 28.474,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.32
+    },
+    {
+      "word": "build",
+      "start": 0.32,
+      "end": 0.54
+    },
+    {
+      "word": "dynamic",
+      "start": 0.54,
+      "end": 0.98
+    },
+    {
+      "word": "forms",
+      "start": 0.98,
+      "end": 1.48
+    },
+    {
+      "word": "that",
+      "start": 1.48,
+      "end": 1.92
+    },
+    {
+      "word": "automatically",
+      "start": 1.92,
+      "end": 2.32
+    },
+    {
+      "word": "pull",
+      "start": 2.32,
+      "end": 2.76
+    },
+    {
+      "word": "data",
+      "start": 2.76,
+      "end": 3.0
+    },
+    {
+      "word": "from",
+      "start": 3.0,
+      "end": 3.32
+    },
+    {
+      "word": "Airtable.",
+      "start": 3.32,
+      "end": 3.9
+    },
+    {
+      "word": "Sending",
+      "start": 4.58,
+      "end": 4.6
+    },
+    {
+      "word": "blank",
+      "start": 4.6,
+      "end": 5.0
+    },
+    {
+      "word": "intake",
+      "start": 5.0,
+      "end": 5.42
+    },
+    {
+      "word": "questionnaires",
+      "start": 5.42,
+      "end": 6.12
+    },
+    {
+      "word": "forces",
+      "start": 6.12,
+      "end": 6.64
+    },
+    {
+      "word": "clients",
+      "start": 6.64,
+      "end": 7.0
+    },
+    {
+      "word": "to",
+      "start": 7.0,
+      "end": 7.28
+    },
+    {
+      "word": "retire",
+      "start": 7.28,
+      "end": 7.56
+    },
+    {
+      "word": "project",
+      "start": 7.56,
+      "end": 8.1
+    },
+    {
+      "word": "briefs,",
+      "start": 8.1,
+      "end": 8.58
+    },
+    {
+      "word": "company",
+      "start": 8.96,
+      "end": 9.16
+    },
+    {
+      "word": "URLs,",
+      "start": 9.16,
+      "end": 9.64
+    },
+    {
+      "word": "and",
+      "start": 10.02,
+      "end": 10.34
+    },
+    {
+      "word": "contract",
+      "start": 10.34,
+      "end": 10.52
+    },
+    {
+      "word": "terms.",
+      "start": 10.52,
+      "end": 11.1
+    },
+    {
+      "word": "When",
+      "start": 11.44,
+      "end": 11.58
+    },
+    {
+      "word": "users",
+      "start": 11.58,
+      "end": 11.9
+    },
+    {
+      "word": "re",
+      "start": 11.9,
+      "end": 12.18
+    },
+    {
+      "word": "-enter",
+      "start": 12.18,
+      "end": 12.28
+    },
+    {
+      "word": "information",
+      "start": 12.28,
+      "end": 12.84
+    },
+    {
+      "word": "manually,",
+      "start": 12.84,
+      "end": 13.36
+    },
+    {
+      "word": "simple",
+      "start": 14.04,
+      "end": 14.12
+    },
+    {
+      "word": "typos",
+      "start": 14.12,
+      "end": 14.62
+    },
+    {
+      "word": "break",
+      "start": 14.62,
+      "end": 14.9
+    },
+    {
+      "word": "downstream",
+      "start": 14.9,
+      "end": 15.32
+    },
+    {
+      "word": "make",
+      "start": 15.32,
+      "end": 15.78
+    },
+    {
+      "word": "webhooks",
+      "start": 15.78,
+      "end": 16.36
+    },
+    {
+      "word": "and",
+      "start": 16.36,
+      "end": 16.54
+    },
+    {
+      "word": "CRM",
+      "start": 16.54,
+      "end": 17.1
+    },
+    {
+      "word": "database",
+      "start": 17.1,
+      "end": 17.42
+    },
+    {
+      "word": "sinks.",
+      "start": 17.42,
+      "end": 17.94
+    },
+    {
+      "word": "Instead,",
+      "start": 18.64,
+      "end": 18.96
+    },
+    {
+      "word": "use",
+      "start": 19.38,
+      "end": 19.6
+    },
+    {
+      "word": "fill",
+      "start": 19.6,
+      "end": 19.78
+    },
+    {
+      "word": "out",
+      "start": 19.78,
+      "end": 19.96
+    },
+    {
+      "word": "to",
+      "start": 19.96,
+      "end": 20.14
+    },
+    {
+      "word": "map",
+      "start": 20.14,
+      "end": 20.4
+    },
+    {
+      "word": "URL",
+      "start": 20.4,
+      "end": 20.84
+    },
+    {
+      "word": "record",
+      "start": 20.84,
+      "end": 21.34
+    },
+    {
+      "word": "ID,",
+      "start": 21.34,
+      "end": 21.8
+    },
+    {
+      "word": "and",
+      "start": 22.2,
+      "end": 22.4
+    },
+    {
+      "word": "auto",
+      "start": 22.4,
+      "end": 22.66
+    },
+    {
+      "word": "-populate",
+      "start": 22.66,
+      "end": 23.06
+    },
+    {
+      "word": "existing",
+      "start": 23.06,
+      "end": 23.64
+    },
+    {
+      "word": "customer",
+      "start": 23.64,
+      "end": 24.14
+    },
+    {
+      "word": "fields",
+      "start": 24.14,
+      "end": 24.56
+    },
+    {
+      "word": "instantly.",
+      "start": 24.56,
+      "end": 25.16
+    },
+    {
+      "word": "Clients",
+      "start": 25.16,
+      "end": 26.18
+    },
+    {
+      "word": "breeze",
+      "start": 26.18,
+      "end": 26.52
+    },
+    {
+      "word": "through",
+      "start": 26.52,
+      "end": 26.88
+    },
+    {
+      "word": "updates",
+      "start": 26.88,
+      "end": 27.22
+    },
+    {
+      "word": "without",
+      "start": 27.22,
+      "end": 27.68
+    },
+    {
+      "word": "data",
+      "start": 27.68,
+      "end": 28.04
+    },
+    {
+      "word": "errors.",
+      "start": 28.04,
+      "end": 28.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "How to build dynamic forms that automatically pull data from Airtable.",
+      "line2": "SMART AUTO-FILL FORMS",
+      "tag": "\ud83d\uded1 Fillout smart forms that pre-fill existing user data dynamically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Fillout smart forms that pre-fill existing user data dynamically",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Fillout smart forms that pre-fill existing user data dynamically",
+        "subtitle": "Fillout smart forms that pre-fill existing user data dynamically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Fillout smart forms that pre-fill existing user data dynamically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Fillout smart forms that pre-fill existing user data dynamically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Fillout smart forms that pre-fill existing user data dynamically",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

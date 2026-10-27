@@ -1,0 +1,386 @@
+{
+  "page": "page-01",
+  "idea": "SOP delegation framework: how to turn tasks into foolproof video guides",
+  "text": "Build an operational machine that runs whether you are at your desk or on vacation. Taking two days off triggers frantic client emails, missed milestones, and stalled deliverables. Operating without a central process library halts client production whenever you step away from Slack. Run an SOP audit that automates recurring workflows into Zapier triggers and standardized Loom hubs. You gain complete operational freedom without losing revenue.",
+  "duration": 24.747,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Build",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "an",
+      "start": 0.22,
+      "end": 0.42
+    },
+    {
+      "word": "operational",
+      "start": 0.42,
+      "end": 0.84
+    },
+    {
+      "word": "machine",
+      "start": 0.84,
+      "end": 1.26
+    },
+    {
+      "word": "that",
+      "start": 1.26,
+      "end": 1.52
+    },
+    {
+      "word": "runs",
+      "start": 1.52,
+      "end": 1.8
+    },
+    {
+      "word": "whether",
+      "start": 1.8,
+      "end": 2.04
+    },
+    {
+      "word": "you",
+      "start": 2.04,
+      "end": 2.24
+    },
+    {
+      "word": "are",
+      "start": 2.24,
+      "end": 2.36
+    },
+    {
+      "word": "at",
+      "start": 2.36,
+      "end": 2.46
+    },
+    {
+      "word": "your",
+      "start": 2.46,
+      "end": 2.72
+    },
+    {
+      "word": "desk",
+      "start": 2.72,
+      "end": 3.0
+    },
+    {
+      "word": "or",
+      "start": 3.0,
+      "end": 3.28
+    },
+    {
+      "word": "on",
+      "start": 3.28,
+      "end": 3.42
+    },
+    {
+      "word": "vacation.",
+      "start": 3.42,
+      "end": 3.9
+    },
+    {
+      "word": "Taking",
+      "start": 4.56,
+      "end": 4.64
+    },
+    {
+      "word": "two",
+      "start": 4.64,
+      "end": 4.9
+    },
+    {
+      "word": "days",
+      "start": 4.9,
+      "end": 5.12
+    },
+    {
+      "word": "off",
+      "start": 5.12,
+      "end": 5.38
+    },
+    {
+      "word": "triggers",
+      "start": 5.38,
+      "end": 5.7
+    },
+    {
+      "word": "frantic",
+      "start": 5.7,
+      "end": 6.16
+    },
+    {
+      "word": "client",
+      "start": 6.16,
+      "end": 6.56
+    },
+    {
+      "word": "emails,",
+      "start": 6.56,
+      "end": 6.98
+    },
+    {
+      "word": "missed",
+      "start": 7.56,
+      "end": 7.62
+    },
+    {
+      "word": "milestones,",
+      "start": 7.62,
+      "end": 8.2
+    },
+    {
+      "word": "installed",
+      "start": 8.7,
+      "end": 9.06
+    },
+    {
+      "word": "deliverables.",
+      "start": 9.06,
+      "end": 9.78
+    },
+    {
+      "word": "Operating",
+      "start": 10.28,
+      "end": 10.52
+    },
+    {
+      "word": "without",
+      "start": 10.52,
+      "end": 10.82
+    },
+    {
+      "word": "a",
+      "start": 10.82,
+      "end": 11.02
+    },
+    {
+      "word": "central",
+      "start": 11.02,
+      "end": 11.26
+    },
+    {
+      "word": "process",
+      "start": 11.26,
+      "end": 11.66
+    },
+    {
+      "word": "library",
+      "start": 11.66,
+      "end": 12.2
+    },
+    {
+      "word": "halts",
+      "start": 12.2,
+      "end": 12.74
+    },
+    {
+      "word": "client",
+      "start": 12.74,
+      "end": 13.08
+    },
+    {
+      "word": "production",
+      "start": 13.08,
+      "end": 13.56
+    },
+    {
+      "word": "whenever",
+      "start": 13.56,
+      "end": 13.82
+    },
+    {
+      "word": "you",
+      "start": 13.82,
+      "end": 14.06
+    },
+    {
+      "word": "step",
+      "start": 14.06,
+      "end": 14.22
+    },
+    {
+      "word": "away",
+      "start": 14.22,
+      "end": 14.44
+    },
+    {
+      "word": "from",
+      "start": 14.44,
+      "end": 14.78
+    },
+    {
+      "word": "slack.",
+      "start": 14.78,
+      "end": 15.16
+    },
+    {
+      "word": "Run",
+      "start": 15.68,
+      "end": 15.92
+    },
+    {
+      "word": "an",
+      "start": 15.92,
+      "end": 16.24
+    },
+    {
+      "word": "SOP",
+      "start": 16.24,
+      "end": 16.68
+    },
+    {
+      "word": "audit",
+      "start": 16.68,
+      "end": 16.96
+    },
+    {
+      "word": "that",
+      "start": 16.96,
+      "end": 17.36
+    },
+    {
+      "word": "automates",
+      "start": 17.36,
+      "end": 17.64
+    },
+    {
+      "word": "recurring",
+      "start": 17.64,
+      "end": 18.16
+    },
+    {
+      "word": "workflows",
+      "start": 18.16,
+      "end": 18.66
+    },
+    {
+      "word": "into",
+      "start": 18.66,
+      "end": 18.96
+    },
+    {
+      "word": "Zapier",
+      "start": 18.96,
+      "end": 19.42
+    },
+    {
+      "word": "triggers",
+      "start": 19.42,
+      "end": 19.8
+    },
+    {
+      "word": "and",
+      "start": 19.8,
+      "end": 20.28
+    },
+    {
+      "word": "standardized",
+      "start": 20.28,
+      "end": 20.64
+    },
+    {
+      "word": "loom",
+      "start": 20.64,
+      "end": 20.98
+    },
+    {
+      "word": "hubs.",
+      "start": 20.98,
+      "end": 21.26
+    },
+    {
+      "word": "You",
+      "start": 21.78,
+      "end": 21.84
+    },
+    {
+      "word": "gain",
+      "start": 21.84,
+      "end": 22.1
+    },
+    {
+      "word": "complete",
+      "start": 22.1,
+      "end": 22.5
+    },
+    {
+      "word": "operational",
+      "start": 22.5,
+      "end": 23.02
+    },
+    {
+      "word": "freedom",
+      "start": 23.02,
+      "end": 23.5
+    },
+    {
+      "word": "without",
+      "start": 23.5,
+      "end": 23.88
+    },
+    {
+      "word": "losing",
+      "start": 23.88,
+      "end": 24.28
+    },
+    {
+      "word": "revenue.",
+      "start": 24.28,
+      "end": 24.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Build an operational machine that runs whether you are at your desk or on vacation.",
+      "line2": "FOOLPROOF VIDEO SOPS",
+      "tag": "\ud83d\uded1 SOP delegation framework",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: SOP delegation framework",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: SOP delegation framework",
+        "subtitle": "SOP delegation framework"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "SOP delegation framework"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "SOP delegation framework"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "SOP delegation framework",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

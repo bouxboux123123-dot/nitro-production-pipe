@@ -1,0 +1,396 @@
+{
+  "page": "page-08",
+  "idea": "How to automatically format messy dates and names in Google Sheets",
+  "text": "Clean up messy client rosters and contact lists in Google Sheets in under thirty seconds. Exporting leads from web forms leaves you with chaotic capitalization, messy phone numbers, and inconsistent dates. Human data entry errors create duplicate records and cause bounce-backs whenever you launch email campaigns. Enable Smart Fill suggestions and apply the PROPER function to format dates and names automatically. You eliminate tedious administrative cleanup permanently.",
+  "duration": 28.453,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Clean",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "up",
+      "start": 0.3,
+      "end": 0.5
+    },
+    {
+      "word": "messy",
+      "start": 0.5,
+      "end": 0.82
+    },
+    {
+      "word": "client",
+      "start": 0.82,
+      "end": 1.2
+    },
+    {
+      "word": "rosters",
+      "start": 1.2,
+      "end": 1.62
+    },
+    {
+      "word": "and",
+      "start": 1.62,
+      "end": 2.1
+    },
+    {
+      "word": "contact",
+      "start": 2.1,
+      "end": 2.38
+    },
+    {
+      "word": "lists",
+      "start": 2.38,
+      "end": 2.74
+    },
+    {
+      "word": "in",
+      "start": 2.74,
+      "end": 3.0
+    },
+    {
+      "word": "Google",
+      "start": 3.0,
+      "end": 3.22
+    },
+    {
+      "word": "Sheets",
+      "start": 3.22,
+      "end": 3.7
+    },
+    {
+      "word": "in",
+      "start": 3.7,
+      "end": 3.82
+    },
+    {
+      "word": "under",
+      "start": 3.82,
+      "end": 4.04
+    },
+    {
+      "word": "30",
+      "start": 4.04,
+      "end": 4.42
+    },
+    {
+      "word": "seconds.",
+      "start": 4.42,
+      "end": 5.06
+    },
+    {
+      "word": "Exporting",
+      "start": 5.58,
+      "end": 5.9
+    },
+    {
+      "word": "leads",
+      "start": 5.9,
+      "end": 6.26
+    },
+    {
+      "word": "from",
+      "start": 6.26,
+      "end": 6.52
+    },
+    {
+      "word": "web",
+      "start": 6.52,
+      "end": 6.76
+    },
+    {
+      "word": "forms",
+      "start": 6.76,
+      "end": 7.08
+    },
+    {
+      "word": "leaves",
+      "start": 7.08,
+      "end": 7.44
+    },
+    {
+      "word": "you",
+      "start": 7.44,
+      "end": 7.64
+    },
+    {
+      "word": "with",
+      "start": 7.64,
+      "end": 7.92
+    },
+    {
+      "word": "chaotic",
+      "start": 7.92,
+      "end": 8.34
+    },
+    {
+      "word": "capitalization,",
+      "start": 8.34,
+      "end": 9.38
+    },
+    {
+      "word": "messy",
+      "start": 9.96,
+      "end": 10.0
+    },
+    {
+      "word": "phone",
+      "start": 10.0,
+      "end": 10.28
+    },
+    {
+      "word": "numbers,",
+      "start": 10.28,
+      "end": 10.64
+    },
+    {
+      "word": "and",
+      "start": 11.04,
+      "end": 11.18
+    },
+    {
+      "word": "inconsistent",
+      "start": 11.18,
+      "end": 11.7
+    },
+    {
+      "word": "dates.",
+      "start": 11.7,
+      "end": 12.22
+    },
+    {
+      "word": "Human",
+      "start": 12.78,
+      "end": 12.88
+    },
+    {
+      "word": "data",
+      "start": 12.88,
+      "end": 13.2
+    },
+    {
+      "word": "entry",
+      "start": 13.2,
+      "end": 13.52
+    },
+    {
+      "word": "errors",
+      "start": 13.52,
+      "end": 13.82
+    },
+    {
+      "word": "create",
+      "start": 13.82,
+      "end": 14.28
+    },
+    {
+      "word": "duplicate",
+      "start": 14.28,
+      "end": 14.72
+    },
+    {
+      "word": "records",
+      "start": 14.72,
+      "end": 15.18
+    },
+    {
+      "word": "and",
+      "start": 15.18,
+      "end": 15.6
+    },
+    {
+      "word": "cause",
+      "start": 15.6,
+      "end": 15.9
+    },
+    {
+      "word": "bouncebacks",
+      "start": 15.9,
+      "end": 16.68
+    },
+    {
+      "word": "whenever",
+      "start": 16.68,
+      "end": 17.12
+    },
+    {
+      "word": "you",
+      "start": 17.12,
+      "end": 17.3
+    },
+    {
+      "word": "launch",
+      "start": 17.3,
+      "end": 17.62
+    },
+    {
+      "word": "email",
+      "start": 17.62,
+      "end": 18.02
+    },
+    {
+      "word": "campaigns.",
+      "start": 18.02,
+      "end": 18.72
+    },
+    {
+      "word": "Enable",
+      "start": 19.58,
+      "end": 19.7
+    },
+    {
+      "word": "smart",
+      "start": 19.7,
+      "end": 20.26
+    },
+    {
+      "word": "fill",
+      "start": 20.26,
+      "end": 20.52
+    },
+    {
+      "word": "suggestions",
+      "start": 20.52,
+      "end": 21.18
+    },
+    {
+      "word": "and",
+      "start": 21.18,
+      "end": 21.76
+    },
+    {
+      "word": "apply",
+      "start": 21.76,
+      "end": 22.0
+    },
+    {
+      "word": "the",
+      "start": 22.0,
+      "end": 22.34
+    },
+    {
+      "word": "proper",
+      "start": 22.34,
+      "end": 22.48
+    },
+    {
+      "word": "function",
+      "start": 22.48,
+      "end": 22.8
+    },
+    {
+      "word": "to",
+      "start": 22.8,
+      "end": 23.06
+    },
+    {
+      "word": "format",
+      "start": 23.06,
+      "end": 23.32
+    },
+    {
+      "word": "dates",
+      "start": 23.32,
+      "end": 23.7
+    },
+    {
+      "word": "and",
+      "start": 23.7,
+      "end": 23.92
+    },
+    {
+      "word": "names",
+      "start": 23.92,
+      "end": 24.26
+    },
+    {
+      "word": "automatically.",
+      "start": 24.26,
+      "end": 24.9
+    },
+    {
+      "word": "You",
+      "start": 25.58,
+      "end": 25.8
+    },
+    {
+      "word": "eliminate",
+      "start": 25.8,
+      "end": 26.18
+    },
+    {
+      "word": "tedious",
+      "start": 26.18,
+      "end": 26.7
+    },
+    {
+      "word": "administrative",
+      "start": 26.7,
+      "end": 27.34
+    },
+    {
+      "word": "cleanup",
+      "start": 27.34,
+      "end": 27.9
+    },
+    {
+      "word": "permanently.",
+      "start": 27.9,
+      "end": 28.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Clean up client rosters and contact lists in under 30 seconds.",
+      "line2": "FORMAT DATES AND NAMES",
+      "tag": "\ud83d\uded1 How to automatically format messy dates and names in Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to automatically format messy dates and names in Google Sheets",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to automatically format messy dates and names in Google Sheets",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

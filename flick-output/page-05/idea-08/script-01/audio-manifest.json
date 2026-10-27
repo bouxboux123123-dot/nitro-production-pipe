@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Airtable interface designer for managing team project capacity",
+  "text": "Stop paying for expensive project management tools when Airtable can do this directly. Agencies pay thousands monthly for tools like Jira or Asana while teams still track deliverables in spreadsheets. Disconnected tools leave managers completely blind to actual team bandwidth until deadlines are already missed. Instead, build an Airtable Interface with custom capacity trackers that calculate project workloads automatically. You eliminate tool bloat and cut SaaS expenses.",
+  "duration": 29.903,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "paying",
+      "start": 0.4,
+      "end": 0.76
+    },
+    {
+      "word": "for",
+      "start": 0.76,
+      "end": 1.08
+    },
+    {
+      "word": "expensive",
+      "start": 1.08,
+      "end": 1.48
+    },
+    {
+      "word": "project",
+      "start": 1.48,
+      "end": 2.0
+    },
+    {
+      "word": "management",
+      "start": 2.0,
+      "end": 2.44
+    },
+    {
+      "word": "tools",
+      "start": 2.44,
+      "end": 2.84
+    },
+    {
+      "word": "when",
+      "start": 2.84,
+      "end": 3.32
+    },
+    {
+      "word": "arable",
+      "start": 3.32,
+      "end": 3.66
+    },
+    {
+      "word": "can",
+      "start": 3.66,
+      "end": 3.96
+    },
+    {
+      "word": "do",
+      "start": 3.96,
+      "end": 4.14
+    },
+    {
+      "word": "this",
+      "start": 4.14,
+      "end": 4.36
+    },
+    {
+      "word": "directly.",
+      "start": 4.36,
+      "end": 5.04
+    },
+    {
+      "word": "Agencies",
+      "start": 5.72,
+      "end": 6.02
+    },
+    {
+      "word": "pay",
+      "start": 6.02,
+      "end": 6.36
+    },
+    {
+      "word": "thousands",
+      "start": 6.36,
+      "end": 6.8
+    },
+    {
+      "word": "monthly",
+      "start": 6.8,
+      "end": 7.26
+    },
+    {
+      "word": "for",
+      "start": 7.26,
+      "end": 7.54
+    },
+    {
+      "word": "tools",
+      "start": 7.54,
+      "end": 7.88
+    },
+    {
+      "word": "like",
+      "start": 7.88,
+      "end": 8.26
+    },
+    {
+      "word": "Jira",
+      "start": 8.26,
+      "end": 8.62
+    },
+    {
+      "word": "or",
+      "start": 8.62,
+      "end": 9.14
+    },
+    {
+      "word": "Asana",
+      "start": 9.14,
+      "end": 9.58
+    },
+    {
+      "word": "while",
+      "start": 9.58,
+      "end": 10.18
+    },
+    {
+      "word": "teams",
+      "start": 10.18,
+      "end": 10.56
+    },
+    {
+      "word": "still",
+      "start": 10.56,
+      "end": 10.9
+    },
+    {
+      "word": "track",
+      "start": 10.9,
+      "end": 11.18
+    },
+    {
+      "word": "deliverables",
+      "start": 11.18,
+      "end": 11.7
+    },
+    {
+      "word": "in",
+      "start": 11.7,
+      "end": 12.0
+    },
+    {
+      "word": "spreadsheets.",
+      "start": 12.0,
+      "end": 12.62
+    },
+    {
+      "word": "Disconnected",
+      "start": 13.06,
+      "end": 13.44
+    },
+    {
+      "word": "tools",
+      "start": 13.44,
+      "end": 14.0
+    },
+    {
+      "word": "leave",
+      "start": 14.0,
+      "end": 14.28
+    },
+    {
+      "word": "managers",
+      "start": 14.28,
+      "end": 14.72
+    },
+    {
+      "word": "completely",
+      "start": 14.72,
+      "end": 15.36
+    },
+    {
+      "word": "blind",
+      "start": 15.36,
+      "end": 15.84
+    },
+    {
+      "word": "to",
+      "start": 15.84,
+      "end": 16.18
+    },
+    {
+      "word": "actual",
+      "start": 16.18,
+      "end": 16.44
+    },
+    {
+      "word": "team",
+      "start": 16.44,
+      "end": 16.74
+    },
+    {
+      "word": "bandwidth",
+      "start": 16.74,
+      "end": 17.14
+    },
+    {
+      "word": "until",
+      "start": 17.14,
+      "end": 17.84
+    },
+    {
+      "word": "deadlines",
+      "start": 17.84,
+      "end": 18.28
+    },
+    {
+      "word": "are",
+      "start": 18.28,
+      "end": 18.62
+    },
+    {
+      "word": "already",
+      "start": 18.62,
+      "end": 18.92
+    },
+    {
+      "word": "missed.",
+      "start": 18.92,
+      "end": 19.3
+    },
+    {
+      "word": "Instead,",
+      "start": 19.96,
+      "end": 20.28
+    },
+    {
+      "word": "build",
+      "start": 20.68,
+      "end": 20.9
+    },
+    {
+      "word": "an",
+      "start": 20.9,
+      "end": 21.12
+    },
+    {
+      "word": "arable",
+      "start": 21.12,
+      "end": 21.48
+    },
+    {
+      "word": "interface",
+      "start": 21.48,
+      "end": 21.9
+    },
+    {
+      "word": "with",
+      "start": 21.9,
+      "end": 22.38
+    },
+    {
+      "word": "custom",
+      "start": 22.38,
+      "end": 22.64
+    },
+    {
+      "word": "capacity",
+      "start": 22.64,
+      "end": 23.16
+    },
+    {
+      "word": "trackers",
+      "start": 23.16,
+      "end": 23.64
+    },
+    {
+      "word": "that",
+      "start": 23.64,
+      "end": 24.06
+    },
+    {
+      "word": "calculate",
+      "start": 24.06,
+      "end": 24.44
+    },
+    {
+      "word": "project",
+      "start": 24.44,
+      "end": 25.08
+    },
+    {
+      "word": "workloads",
+      "start": 25.08,
+      "end": 25.72
+    },
+    {
+      "word": "automatically.",
+      "start": 25.72,
+      "end": 26.24
+    },
+    {
+      "word": "You",
+      "start": 26.24,
+      "end": 27.08
+    },
+    {
+      "word": "eliminate",
+      "start": 27.08,
+      "end": 27.48
+    },
+    {
+      "word": "tool",
+      "start": 27.48,
+      "end": 27.92
+    },
+    {
+      "word": "bloat",
+      "start": 27.92,
+      "end": 28.22
+    },
+    {
+      "word": "and",
+      "start": 28.22,
+      "end": 28.46
+    },
+    {
+      "word": "cut",
+      "start": 28.46,
+      "end": 28.72
+    },
+    {
+      "word": "saw",
+      "start": 28.72,
+      "end": 28.96
+    },
+    {
+      "word": "S",
+      "start": 28.96,
+      "end": 29.22
+    },
+    {
+      "word": "expenses.",
+      "start": 29.22,
+      "end": 29.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stop paying for expensive project management tools when Airtable can do this.",
+      "line2": "MANAGE TEAM CAPACITY",
+      "tag": "\ud83d\uded1 Airtable interface designer for managing team project capacity",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Airtable interface designer for managing team project capacity",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Airtable interface designer for managing team project capacity",
+        "subtitle": "Airtable interface designer for managing team project capacity"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Airtable interface designer for managing team project capacity"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Airtable interface designer for managing team project capacity"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Airtable interface designer for managing team project capacity",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

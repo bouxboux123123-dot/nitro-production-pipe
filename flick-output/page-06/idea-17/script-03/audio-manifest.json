@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Focus time blocking tool that syncs Slack status and disables notifications",
+  "text": "Stop getting pinged with urgent Slack notifications while solving complex problems on remote teams. Nothing derails high-value execution faster than bright red badges popping up during critical coding sessions. Glancing at one message triggers context switching that burns twenty minutes before you refocus. Sync Reclaim with Google Calendar to automatically mute Slack, auto-decline conflicts, and post return times. This defends your mornings for deep uninterrupted output.",
+  "duration": 28.986,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "getting",
+      "start": 0.42,
+      "end": 0.76
+    },
+    {
+      "word": "pinged",
+      "start": 0.76,
+      "end": 1.1
+    },
+    {
+      "word": "with",
+      "start": 1.1,
+      "end": 1.42
+    },
+    {
+      "word": "urgent",
+      "start": 1.42,
+      "end": 1.76
+    },
+    {
+      "word": "slack",
+      "start": 1.76,
+      "end": 2.04
+    },
+    {
+      "word": "notifications",
+      "start": 2.04,
+      "end": 2.74
+    },
+    {
+      "word": "while",
+      "start": 2.74,
+      "end": 3.3
+    },
+    {
+      "word": "solving",
+      "start": 3.3,
+      "end": 3.74
+    },
+    {
+      "word": "complex",
+      "start": 3.74,
+      "end": 4.22
+    },
+    {
+      "word": "problems",
+      "start": 4.22,
+      "end": 4.76
+    },
+    {
+      "word": "on",
+      "start": 4.76,
+      "end": 5.08
+    },
+    {
+      "word": "remote",
+      "start": 5.08,
+      "end": 5.26
+    },
+    {
+      "word": "teams.",
+      "start": 5.26,
+      "end": 5.86
+    },
+    {
+      "word": "Nothing",
+      "start": 6.58,
+      "end": 6.8
+    },
+    {
+      "word": "derails",
+      "start": 6.8,
+      "end": 7.24
+    },
+    {
+      "word": "high",
+      "start": 7.24,
+      "end": 7.7
+    },
+    {
+      "word": "-value",
+      "start": 7.7,
+      "end": 8.0
+    },
+    {
+      "word": "execution",
+      "start": 8.0,
+      "end": 8.6
+    },
+    {
+      "word": "faster",
+      "start": 8.6,
+      "end": 9.24
+    },
+    {
+      "word": "than",
+      "start": 9.24,
+      "end": 9.5
+    },
+    {
+      "word": "bright",
+      "start": 9.5,
+      "end": 9.82
+    },
+    {
+      "word": "red",
+      "start": 9.82,
+      "end": 10.08
+    },
+    {
+      "word": "badges",
+      "start": 10.08,
+      "end": 10.48
+    },
+    {
+      "word": "popping",
+      "start": 10.48,
+      "end": 11.0
+    },
+    {
+      "word": "up",
+      "start": 11.0,
+      "end": 11.28
+    },
+    {
+      "word": "during",
+      "start": 11.28,
+      "end": 11.58
+    },
+    {
+      "word": "critical",
+      "start": 11.58,
+      "end": 11.98
+    },
+    {
+      "word": "coding",
+      "start": 11.98,
+      "end": 12.32
+    },
+    {
+      "word": "sessions.",
+      "start": 12.32,
+      "end": 12.88
+    },
+    {
+      "word": "Glancing",
+      "start": 13.26,
+      "end": 13.58
+    },
+    {
+      "word": "at",
+      "start": 13.58,
+      "end": 13.86
+    },
+    {
+      "word": "one",
+      "start": 13.86,
+      "end": 14.08
+    },
+    {
+      "word": "message",
+      "start": 14.08,
+      "end": 14.44
+    },
+    {
+      "word": "triggers",
+      "start": 14.44,
+      "end": 14.86
+    },
+    {
+      "word": "context",
+      "start": 14.86,
+      "end": 15.32
+    },
+    {
+      "word": "switching",
+      "start": 15.32,
+      "end": 15.86
+    },
+    {
+      "word": "that",
+      "start": 15.86,
+      "end": 16.14
+    },
+    {
+      "word": "burns",
+      "start": 16.14,
+      "end": 16.4
+    },
+    {
+      "word": "20",
+      "start": 16.4,
+      "end": 16.82
+    },
+    {
+      "word": "minutes",
+      "start": 16.82,
+      "end": 17.1
+    },
+    {
+      "word": "before",
+      "start": 17.1,
+      "end": 17.46
+    },
+    {
+      "word": "you",
+      "start": 17.46,
+      "end": 17.6
+    },
+    {
+      "word": "refocus.",
+      "start": 17.6,
+      "end": 18.18
+    },
+    {
+      "word": "Sync",
+      "start": 18.84,
+      "end": 19.08
+    },
+    {
+      "word": "reclaim",
+      "start": 19.08,
+      "end": 19.42
+    },
+    {
+      "word": "with",
+      "start": 19.42,
+      "end": 19.76
+    },
+    {
+      "word": "Google",
+      "start": 19.76,
+      "end": 20.12
+    },
+    {
+      "word": "Calendar",
+      "start": 20.12,
+      "end": 20.5
+    },
+    {
+      "word": "to",
+      "start": 20.5,
+      "end": 20.92
+    },
+    {
+      "word": "automatically",
+      "start": 20.92,
+      "end": 21.32
+    },
+    {
+      "word": "mute",
+      "start": 21.32,
+      "end": 21.82
+    },
+    {
+      "word": "slack,",
+      "start": 21.82,
+      "end": 22.3
+    },
+    {
+      "word": "auto",
+      "start": 22.78,
+      "end": 22.84
+    },
+    {
+      "word": "-decline",
+      "start": 22.84,
+      "end": 23.28
+    },
+    {
+      "word": "conflicts,",
+      "start": 23.28,
+      "end": 23.8
+    },
+    {
+      "word": "and",
+      "start": 24.22,
+      "end": 24.44
+    },
+    {
+      "word": "post",
+      "start": 24.44,
+      "end": 24.72
+    },
+    {
+      "word": "-return",
+      "start": 24.72,
+      "end": 25.08
+    },
+    {
+      "word": "times.",
+      "start": 25.08,
+      "end": 25.6
+    },
+    {
+      "word": "This",
+      "start": 25.6,
+      "end": 26.34
+    },
+    {
+      "word": "defends",
+      "start": 26.34,
+      "end": 26.62
+    },
+    {
+      "word": "your",
+      "start": 26.62,
+      "end": 27.0
+    },
+    {
+      "word": "warnings",
+      "start": 27.0,
+      "end": 27.2
+    },
+    {
+      "word": "for",
+      "start": 27.2,
+      "end": 27.52
+    },
+    {
+      "word": "deep",
+      "start": 27.52,
+      "end": 27.9
+    },
+    {
+      "word": "uninterrupted",
+      "start": 27.9,
+      "end": 28.46
+    },
+    {
+      "word": "output.",
+      "start": 28.46,
+      "end": 28.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop getting pinged with urgent Slack notifications while solving complex problems.",
+      "line2": "BLOCK FOCUS TIME",
+      "tag": "\ud83d\uded1 Focus time blocking tool that syncs Slack status and disables notifications",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Focus time blocking tool that syncs Slack status and disables notifications",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Focus time blocking tool that syncs Slack status and disables notifications",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

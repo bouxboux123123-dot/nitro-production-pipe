@@ -1,0 +1,426 @@
+{
+  "page": "page-01",
+  "idea": "Offboarding SOP that transitions departing clients with grace and security",
+  "text": "Leave such a clean, professional last impression that past clients frequently return. Most agencies vanish once the final invoice clears, leaving clients feeling abandoned with disorganized raw files. Bitter offboarding experiences ensure past clients never sign another retainer or recommend your agency to peers. Route contract end dates from HubSpot into Make to automatically deliver a branded Notion departure hub with assets. You generate effortless boomerang clients and high-value referrals.",
+  "duration": 30.607,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Leave",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "such",
+      "start": 0.28,
+      "end": 0.54
+    },
+    {
+      "word": "a",
+      "start": 0.54,
+      "end": 0.74
+    },
+    {
+      "word": "clean,",
+      "start": 0.74,
+      "end": 1.18
+    },
+    {
+      "word": "professional",
+      "start": 1.32,
+      "end": 1.64
+    },
+    {
+      "word": "last",
+      "start": 1.64,
+      "end": 2.14
+    },
+    {
+      "word": "impression",
+      "start": 2.14,
+      "end": 2.52
+    },
+    {
+      "word": "that",
+      "start": 2.52,
+      "end": 2.86
+    },
+    {
+      "word": "past",
+      "start": 2.86,
+      "end": 3.16
+    },
+    {
+      "word": "clients",
+      "start": 3.16,
+      "end": 3.52
+    },
+    {
+      "word": "frequently",
+      "start": 3.52,
+      "end": 4.04
+    },
+    {
+      "word": "return.",
+      "start": 4.04,
+      "end": 4.66
+    },
+    {
+      "word": "Most",
+      "start": 5.18,
+      "end": 5.48
+    },
+    {
+      "word": "agencies",
+      "start": 5.48,
+      "end": 6.02
+    },
+    {
+      "word": "vanish",
+      "start": 6.02,
+      "end": 6.5
+    },
+    {
+      "word": "once",
+      "start": 6.5,
+      "end": 6.82
+    },
+    {
+      "word": "the",
+      "start": 6.82,
+      "end": 7.1
+    },
+    {
+      "word": "final",
+      "start": 7.1,
+      "end": 7.36
+    },
+    {
+      "word": "invoice",
+      "start": 7.36,
+      "end": 7.78
+    },
+    {
+      "word": "clears,",
+      "start": 7.78,
+      "end": 8.32
+    },
+    {
+      "word": "leaving",
+      "start": 8.66,
+      "end": 8.88
+    },
+    {
+      "word": "clients",
+      "start": 8.88,
+      "end": 9.36
+    },
+    {
+      "word": "feeling",
+      "start": 9.36,
+      "end": 9.72
+    },
+    {
+      "word": "abandoned",
+      "start": 9.72,
+      "end": 10.16
+    },
+    {
+      "word": "with",
+      "start": 10.16,
+      "end": 10.56
+    },
+    {
+      "word": "disorganized",
+      "start": 10.56,
+      "end": 11.22
+    },
+    {
+      "word": "raw",
+      "start": 11.22,
+      "end": 11.58
+    },
+    {
+      "word": "files,",
+      "start": 11.58,
+      "end": 12.06
+    },
+    {
+      "word": "bitter",
+      "start": 12.58,
+      "end": 12.66
+    },
+    {
+      "word": "off",
+      "start": 12.66,
+      "end": 12.94
+    },
+    {
+      "word": "-boarding",
+      "start": 12.94,
+      "end": 13.12
+    },
+    {
+      "word": "experiences,",
+      "start": 13.12,
+      "end": 13.86
+    },
+    {
+      "word": "ensure",
+      "start": 14.24,
+      "end": 14.52
+    },
+    {
+      "word": "past",
+      "start": 14.52,
+      "end": 14.92
+    },
+    {
+      "word": "clients",
+      "start": 14.92,
+      "end": 15.3
+    },
+    {
+      "word": "never",
+      "start": 15.3,
+      "end": 15.62
+    },
+    {
+      "word": "sign",
+      "start": 15.62,
+      "end": 15.92
+    },
+    {
+      "word": "another",
+      "start": 15.92,
+      "end": 16.3
+    },
+    {
+      "word": "retainer",
+      "start": 16.3,
+      "end": 16.76
+    },
+    {
+      "word": "or",
+      "start": 16.76,
+      "end": 17.42
+    },
+    {
+      "word": "recommend",
+      "start": 17.42,
+      "end": 17.74
+    },
+    {
+      "word": "your",
+      "start": 17.74,
+      "end": 18.12
+    },
+    {
+      "word": "agency",
+      "start": 18.12,
+      "end": 18.48
+    },
+    {
+      "word": "to",
+      "start": 18.48,
+      "end": 18.82
+    },
+    {
+      "word": "peers.",
+      "start": 18.82,
+      "end": 19.2
+    },
+    {
+      "word": "Route",
+      "start": 19.82,
+      "end": 20.12
+    },
+    {
+      "word": "contract",
+      "start": 20.12,
+      "end": 20.58
+    },
+    {
+      "word": "end",
+      "start": 20.58,
+      "end": 20.86
+    },
+    {
+      "word": "dates",
+      "start": 20.86,
+      "end": 21.06
+    },
+    {
+      "word": "from",
+      "start": 21.06,
+      "end": 21.3
+    },
+    {
+      "word": "HubSpot",
+      "start": 21.3,
+      "end": 21.84
+    },
+    {
+      "word": "and",
+      "start": 21.84,
+      "end": 22.24
+    },
+    {
+      "word": "to",
+      "start": 22.24,
+      "end": 22.34
+    },
+    {
+      "word": "make",
+      "start": 22.34,
+      "end": 22.5
+    },
+    {
+      "word": "to",
+      "start": 22.5,
+      "end": 22.8
+    },
+    {
+      "word": "automatically",
+      "start": 22.8,
+      "end": 23.28
+    },
+    {
+      "word": "deliver",
+      "start": 23.28,
+      "end": 23.8
+    },
+    {
+      "word": "a",
+      "start": 23.8,
+      "end": 24.1
+    },
+    {
+      "word": "branded",
+      "start": 24.1,
+      "end": 24.44
+    },
+    {
+      "word": "notion",
+      "start": 24.44,
+      "end": 24.86
+    },
+    {
+      "word": "departure",
+      "start": 24.86,
+      "end": 25.34
+    },
+    {
+      "word": "hub",
+      "start": 25.34,
+      "end": 25.6
+    },
+    {
+      "word": "with",
+      "start": 25.6,
+      "end": 25.86
+    },
+    {
+      "word": "assets.",
+      "start": 25.86,
+      "end": 26.3
+    },
+    {
+      "word": "You",
+      "start": 26.88,
+      "end": 27.0
+    },
+    {
+      "word": "generate",
+      "start": 27.0,
+      "end": 27.42
+    },
+    {
+      "word": "effortless",
+      "start": 27.42,
+      "end": 28.0
+    },
+    {
+      "word": "boomerang",
+      "start": 28.0,
+      "end": 28.54
+    },
+    {
+      "word": "clients",
+      "start": 28.54,
+      "end": 28.94
+    },
+    {
+      "word": "and",
+      "start": 28.94,
+      "end": 29.34
+    },
+    {
+      "word": "high",
+      "start": 29.34,
+      "end": 29.62
+    },
+    {
+      "word": "value",
+      "start": 29.62,
+      "end": 29.92
+    },
+    {
+      "word": "referrals.",
+      "start": 29.92,
+      "end": 30.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Leave such a clean, professional last impression that past clients frequently return.",
+      "line2": "SEAMLESS CLIENT OFFBOARDING",
+      "tag": "\ud83d\uded1 Offboarding SOP that transitions departing clients with grace and security",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+name: Render 1000 Reels Batch Matrix (20 Runners x 50 Reels)
+
+on:
+  workflow_dispatch:
+
+env:
+  ACTIONS_RUNNER_DEBUG: 'true'
+  ACTIONS_STEP_DEBUG: 'true'
+
+jobs:
+  render-batch-slice:
+    name: Runner ${{ matrix.runner_id }} (Reels ${{ matrix.range }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runner_id: 1
+            runner_padded: "01"
+            range: "001-050"
+          - runner_id: 2
+            runner_padded: "02"
+            range: "051-100"
+          - runner_id: 3
+            runner_padded: "03"
+            range: "101-150"
+          - runner_id: 4
+            runner_padded: "04"
+            range: "151-200"
+          - runner_id: 5
+            runner_padded: "05"
+            range: "201-250"
+          - runner_id: 6
+            runner_padded: "06"
+            range: "251-300"
+          - runner_id: 7
+            runner_padded: "07"
+            range: "301-350"
+          - runner_id: 8
+            runner_padded: "08"
+            range: "351-400"
+          - runner_id: 9
+            runner_padded: "09"
+            range: "401-450"
+          - runner_id: 10
+            runner_padded: "10"
+            range: "451-500"
+          - runner_id: 11
+            runner_padded: "11"
+            range: "501-550"
+          - runner_id: 12
+            runner_padded: "12"
+            range: "551-600"
+          - runner_id: 13
+            runner_padded: "13"
+            range: "601-650"
+          - runner_id: 14
+            runner_padded: "14"
+            range: "651-700"
+          - runner_id: 15
+            runner_padded: "15"
+            range: "701-750"
+          - runner_id: 16
+            runner_padded: "16"
+            range: "751-800"
+          - runner_id: 17
+            runner_padded: "17"
+            range: "801-850"
+          - runner_id: 18
+            runner_padded: "18"
+            range: "851-900"
+          - runner_id: 19
+            runner_padded: "19"
+            range: "901-950"
+          - runner_id: 20
+            runner_padded: "20"
+            range: "951-1000"
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+          cache-dependency-path: 'flick-output/remotion/package-lock.json'
+
+      - name: Setup FFmpeg
+        uses: FedericoCarboni/setup-ffmpeg@v3
+
+      - name: Install Remotion Dependencies
+        working-directory: flick-output/remotion
+        run: |
+          npm ci || npm install
+
+      - name: Render 50 Reels Slice (Runner ${{ matrix.runner_id }})
+        run: |
+          python scripts/batch_runner_render.py --runner-id ${{ matrix.runner_id }} --total-runners 20
+
+      - name: Upload 50 Rendered Videos Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: batch-runner-${{ matrix.runner_padded }}-reels
+          path: flick-output/remotion/out/runner-${{ matrix.runner_padded }}/*.mp4
+          retention-days: 14
+          if-no-files-found: warn

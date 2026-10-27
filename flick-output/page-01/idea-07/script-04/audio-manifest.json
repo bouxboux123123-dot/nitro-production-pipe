@@ -1,0 +1,406 @@
+{
+  "page": "page-01",
+  "idea": "Automated contractor payroll calculation based on completed tasks",
+  "text": "Pay your agency talent accurately and on time with zero operational friction. Late contractor payments break trust with top freelancers, causing them to prioritize other agency clients. Juggling manual bank transfers and individual PDF invoices creates payroll bottlenecks that cause frustrating delays. Connect ClickUp task statuses to an automated Wise batch payout system triggered bi-weekly upon manager approval. You retain elite creative talent while eliminating payroll headaches.",
+  "duration": 30.863,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Pay",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "your",
+      "start": 0.26,
+      "end": 0.46
+    },
+    {
+      "word": "agency",
+      "start": 0.46,
+      "end": 0.88
+    },
+    {
+      "word": "talent",
+      "start": 0.88,
+      "end": 1.28
+    },
+    {
+      "word": "accurately",
+      "start": 1.28,
+      "end": 1.84
+    },
+    {
+      "word": "and",
+      "start": 1.84,
+      "end": 2.24
+    },
+    {
+      "word": "on",
+      "start": 2.24,
+      "end": 2.46
+    },
+    {
+      "word": "time",
+      "start": 2.46,
+      "end": 2.78
+    },
+    {
+      "word": "with",
+      "start": 2.78,
+      "end": 3.04
+    },
+    {
+      "word": "zero",
+      "start": 3.04,
+      "end": 3.46
+    },
+    {
+      "word": "operational",
+      "start": 3.46,
+      "end": 4.06
+    },
+    {
+      "word": "friction.",
+      "start": 4.06,
+      "end": 4.7
+    },
+    {
+      "word": "Late",
+      "start": 5.4,
+      "end": 5.44
+    },
+    {
+      "word": "contractor",
+      "start": 5.44,
+      "end": 5.94
+    },
+    {
+      "word": "payments",
+      "start": 5.94,
+      "end": 6.34
+    },
+    {
+      "word": "break",
+      "start": 6.34,
+      "end": 6.68
+    },
+    {
+      "word": "trust",
+      "start": 6.68,
+      "end": 6.96
+    },
+    {
+      "word": "with",
+      "start": 6.96,
+      "end": 7.22
+    },
+    {
+      "word": "top",
+      "start": 7.22,
+      "end": 7.5
+    },
+    {
+      "word": "freelancers,",
+      "start": 7.5,
+      "end": 8.1
+    },
+    {
+      "word": "causing",
+      "start": 8.54,
+      "end": 8.8
+    },
+    {
+      "word": "them",
+      "start": 8.8,
+      "end": 9.14
+    },
+    {
+      "word": "to",
+      "start": 9.14,
+      "end": 9.36
+    },
+    {
+      "word": "prioritize",
+      "start": 9.36,
+      "end": 9.88
+    },
+    {
+      "word": "other",
+      "start": 9.88,
+      "end": 10.4
+    },
+    {
+      "word": "agency",
+      "start": 10.4,
+      "end": 10.84
+    },
+    {
+      "word": "clients.",
+      "start": 10.84,
+      "end": 11.38
+    },
+    {
+      "word": "Juggling",
+      "start": 11.76,
+      "end": 12.12
+    },
+    {
+      "word": "manual",
+      "start": 12.12,
+      "end": 12.48
+    },
+    {
+      "word": "bank",
+      "start": 12.48,
+      "end": 12.74
+    },
+    {
+      "word": "transfers",
+      "start": 12.74,
+      "end": 13.22
+    },
+    {
+      "word": "and",
+      "start": 13.22,
+      "end": 13.64
+    },
+    {
+      "word": "individual",
+      "start": 13.64,
+      "end": 14.14
+    },
+    {
+      "word": "PDF",
+      "start": 14.14,
+      "end": 14.64
+    },
+    {
+      "word": "invoices",
+      "start": 14.64,
+      "end": 15.32
+    },
+    {
+      "word": "creates",
+      "start": 15.32,
+      "end": 15.98
+    },
+    {
+      "word": "payroll",
+      "start": 15.98,
+      "end": 16.4
+    },
+    {
+      "word": "bottlenecks",
+      "start": 16.4,
+      "end": 17.12
+    },
+    {
+      "word": "that",
+      "start": 17.12,
+      "end": 17.36
+    },
+    {
+      "word": "cause",
+      "start": 17.36,
+      "end": 17.68
+    },
+    {
+      "word": "frustrating",
+      "start": 17.68,
+      "end": 18.22
+    },
+    {
+      "word": "delays.",
+      "start": 18.22,
+      "end": 18.8
+    },
+    {
+      "word": "Connect",
+      "start": 19.44,
+      "end": 19.74
+    },
+    {
+      "word": "click",
+      "start": 19.74,
+      "end": 20.06
+    },
+    {
+      "word": "-up",
+      "start": 20.06,
+      "end": 20.3
+    },
+    {
+      "word": "task",
+      "start": 20.3,
+      "end": 20.52
+    },
+    {
+      "word": "statuses",
+      "start": 20.52,
+      "end": 21.1
+    },
+    {
+      "word": "to",
+      "start": 21.1,
+      "end": 21.58
+    },
+    {
+      "word": "an",
+      "start": 21.58,
+      "end": 21.84
+    },
+    {
+      "word": "automated",
+      "start": 21.84,
+      "end": 22.14
+    },
+    {
+      "word": "wise",
+      "start": 22.14,
+      "end": 22.68
+    },
+    {
+      "word": "batch",
+      "start": 22.68,
+      "end": 23.0
+    },
+    {
+      "word": "payout",
+      "start": 23.0,
+      "end": 23.34
+    },
+    {
+      "word": "system",
+      "start": 23.34,
+      "end": 23.84
+    },
+    {
+      "word": "triggered",
+      "start": 23.84,
+      "end": 24.4
+    },
+    {
+      "word": "by",
+      "start": 24.4,
+      "end": 24.74
+    },
+    {
+      "word": "weekly",
+      "start": 24.74,
+      "end": 25.1
+    },
+    {
+      "word": "upon",
+      "start": 25.1,
+      "end": 25.46
+    },
+    {
+      "word": "manager",
+      "start": 25.46,
+      "end": 25.84
+    },
+    {
+      "word": "approval.",
+      "start": 25.84,
+      "end": 26.32
+    },
+    {
+      "word": "You",
+      "start": 26.32,
+      "end": 27.06
+    },
+    {
+      "word": "retain",
+      "start": 27.06,
+      "end": 27.44
+    },
+    {
+      "word": "elite",
+      "start": 27.44,
+      "end": 27.88
+    },
+    {
+      "word": "creative",
+      "start": 27.88,
+      "end": 28.42
+    },
+    {
+      "word": "talent",
+      "start": 28.42,
+      "end": 28.82
+    },
+    {
+      "word": "while",
+      "start": 28.82,
+      "end": 29.24
+    },
+    {
+      "word": "eliminating",
+      "start": 29.24,
+      "end": 29.8
+    },
+    {
+      "word": "payroll",
+      "start": 29.8,
+      "end": 30.28
+    },
+    {
+      "word": "headaches.",
+      "start": 30.28,
+      "end": 30.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Pay your agency talent accurately and on time with zero operational friction.",
+      "line2": "AUTOMATE CONTRACTOR PAYROLL",
+      "tag": "\ud83d\uded1 Automated contractor payroll calculation based on completed tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated contractor payroll calculation based on completed tasks",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated contractor payroll calculation based on completed tasks",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

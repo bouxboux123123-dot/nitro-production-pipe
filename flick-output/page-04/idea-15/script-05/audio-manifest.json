@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "Draw.io: free professional flowcharts and workflow diagrams",
+  "text": "Map out your business systems in minutes with this zero-cost diagramming tool. Founders try explaining complicated backend architectures using messy whiteboards or confusing bulleted lists. Unclear system architecture leads to misaligned developers, duplicated databases, and costly integration rebuilds down the road. Draw.io provides drag-and-drop cloud architecture templates that turn messy ideas into structured technical flowcharts. You communicate complex systems with complete clarity.",
+  "duration": 30.949,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "map",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "out",
+      "start": 0.28,
+      "end": 0.44
+    },
+    {
+      "word": "your",
+      "start": 0.44,
+      "end": 0.68
+    },
+    {
+      "word": "business",
+      "start": 0.68,
+      "end": 0.84
+    },
+    {
+      "word": "systems",
+      "start": 0.84,
+      "end": 1.24
+    },
+    {
+      "word": "in",
+      "start": 1.24,
+      "end": 1.48
+    },
+    {
+      "word": "minutes",
+      "start": 1.48,
+      "end": 1.7
+    },
+    {
+      "word": "with",
+      "start": 1.7,
+      "end": 1.98
+    },
+    {
+      "word": "this",
+      "start": 1.98,
+      "end": 2.26
+    },
+    {
+      "word": "zero",
+      "start": 2.26,
+      "end": 2.6
+    },
+    {
+      "word": "cost",
+      "start": 2.6,
+      "end": 3.08
+    },
+    {
+      "word": "diagramming",
+      "start": 3.08,
+      "end": 3.82
+    },
+    {
+      "word": "tool.",
+      "start": 3.82,
+      "end": 4.4
+    },
+    {
+      "word": "Founders",
+      "start": 5.08,
+      "end": 5.12
+    },
+    {
+      "word": "try",
+      "start": 5.12,
+      "end": 5.62
+    },
+    {
+      "word": "explaining",
+      "start": 5.62,
+      "end": 6.12
+    },
+    {
+      "word": "complicated",
+      "start": 6.12,
+      "end": 6.76
+    },
+    {
+      "word": "back",
+      "start": 6.76,
+      "end": 7.08
+    },
+    {
+      "word": "-end",
+      "start": 7.08,
+      "end": 7.24
+    },
+    {
+      "word": "architectures",
+      "start": 7.24,
+      "end": 7.88
+    },
+    {
+      "word": "using",
+      "start": 7.88,
+      "end": 8.48
+    },
+    {
+      "word": "messy",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "word": "whiteboards",
+      "start": 8.8,
+      "end": 9.42
+    },
+    {
+      "word": "or",
+      "start": 9.42,
+      "end": 9.98
+    },
+    {
+      "word": "confusing",
+      "start": 9.98,
+      "end": 10.58
+    },
+    {
+      "word": "bulleted",
+      "start": 10.58,
+      "end": 10.96
+    },
+    {
+      "word": "lists.",
+      "start": 10.96,
+      "end": 11.4
+    },
+    {
+      "word": "Unclear",
+      "start": 11.92,
+      "end": 12.16
+    },
+    {
+      "word": "system",
+      "start": 12.16,
+      "end": 12.54
+    },
+    {
+      "word": "architecture",
+      "start": 12.54,
+      "end": 13.1
+    },
+    {
+      "word": "leads",
+      "start": 13.1,
+      "end": 13.54
+    },
+    {
+      "word": "to",
+      "start": 13.54,
+      "end": 13.78
+    },
+    {
+      "word": "misaligned",
+      "start": 13.78,
+      "end": 14.3
+    },
+    {
+      "word": "developers,",
+      "start": 14.3,
+      "end": 14.88
+    },
+    {
+      "word": "duplicated",
+      "start": 15.46,
+      "end": 15.9
+    },
+    {
+      "word": "databases,",
+      "start": 15.9,
+      "end": 16.48
+    },
+    {
+      "word": "and",
+      "start": 17.0,
+      "end": 17.2
+    },
+    {
+      "word": "costly",
+      "start": 17.2,
+      "end": 17.56
+    },
+    {
+      "word": "integration",
+      "start": 17.56,
+      "end": 18.22
+    },
+    {
+      "word": "rebuilds",
+      "start": 18.22,
+      "end": 18.82
+    },
+    {
+      "word": "down",
+      "start": 18.82,
+      "end": 19.04
+    },
+    {
+      "word": "the",
+      "start": 19.04,
+      "end": 19.16
+    },
+    {
+      "word": "road.",
+      "start": 19.16,
+      "end": 19.58
+    },
+    {
+      "word": "Draw.",
+      "start": 20.1,
+      "end": 20.44
+    },
+    {
+      "word": "EO",
+      "start": 21.02,
+      "end": 21.3
+    },
+    {
+      "word": "provides",
+      "start": 21.3,
+      "end": 21.72
+    },
+    {
+      "word": "drag",
+      "start": 21.72,
+      "end": 22.08
+    },
+    {
+      "word": "-and",
+      "start": 22.08,
+      "end": 22.3
+    },
+    {
+      "word": "-drop",
+      "start": 22.3,
+      "end": 22.58
+    },
+    {
+      "word": "cloud",
+      "start": 22.58,
+      "end": 23.02
+    },
+    {
+      "word": "architecture",
+      "start": 23.02,
+      "end": 23.56
+    },
+    {
+      "word": "templates",
+      "start": 23.56,
+      "end": 24.04
+    },
+    {
+      "word": "that",
+      "start": 24.04,
+      "end": 24.42
+    },
+    {
+      "word": "turn",
+      "start": 24.42,
+      "end": 24.68
+    },
+    {
+      "word": "messy",
+      "start": 24.68,
+      "end": 24.98
+    },
+    {
+      "word": "ideas",
+      "start": 24.98,
+      "end": 25.48
+    },
+    {
+      "word": "into",
+      "start": 25.48,
+      "end": 25.84
+    },
+    {
+      "word": "structured",
+      "start": 25.84,
+      "end": 26.28
+    },
+    {
+      "word": "technical",
+      "start": 26.28,
+      "end": 26.84
+    },
+    {
+      "word": "flow",
+      "start": 26.84,
+      "end": 27.14
+    },
+    {
+      "word": "charts.",
+      "start": 27.14,
+      "end": 27.54
+    },
+    {
+      "word": "You",
+      "start": 27.54,
+      "end": 28.18
+    },
+    {
+      "word": "communicate",
+      "start": 28.18,
+      "end": 28.62
+    },
+    {
+      "word": "complex",
+      "start": 28.62,
+      "end": 29.24
+    },
+    {
+      "word": "systems",
+      "start": 29.24,
+      "end": 29.74
+    },
+    {
+      "word": "with",
+      "start": 29.74,
+      "end": 30.16
+    },
+    {
+      "word": "complete",
+      "start": 30.16,
+      "end": 30.44
+    },
+    {
+      "word": "clarity.",
+      "start": 30.44,
+      "end": 30.82
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Map out your business systems in minutes with this zero-cost diagram tool.",
+      "line2": "BUILD FREE FLOWCHARTS",
+      "tag": "\ud83d\uded1 Draw.io",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Draw.io",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Draw.io",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Draw.io",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

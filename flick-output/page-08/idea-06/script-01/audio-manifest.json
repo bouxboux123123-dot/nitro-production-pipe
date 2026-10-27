@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "How to summarize long YouTube videos in 10 seconds without watching them",
+  "text": "Never sit through a 45-minute YouTube video just to get one answer again. Searching for quick answers in long tutorials usually means scrubbing through sponsor breaks and creator banter. Scrubbing blindly wastes study time and leaves you missing the exact steps you need. Instead, use a free Chrome extension like Glasp or Eightify to convert video transcripts into concise bullet points. You pull key insights in ten seconds.",
+  "duration": 23.829,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Never",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "sit",
+      "start": 0.28,
+      "end": 0.48
+    },
+    {
+      "word": "through",
+      "start": 0.48,
+      "end": 0.74
+    },
+    {
+      "word": "a",
+      "start": 0.74,
+      "end": 1.12
+    },
+    {
+      "word": "45",
+      "start": 1.12,
+      "end": 1.44
+    },
+    {
+      "word": "-minute",
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "word": "YouTube",
+      "start": 1.68,
+      "end": 2.12
+    },
+    {
+      "word": "video",
+      "start": 2.12,
+      "end": 2.5
+    },
+    {
+      "word": "just",
+      "start": 2.5,
+      "end": 2.72
+    },
+    {
+      "word": "to",
+      "start": 2.72,
+      "end": 2.8
+    },
+    {
+      "word": "get",
+      "start": 2.8,
+      "end": 2.96
+    },
+    {
+      "word": "one",
+      "start": 2.96,
+      "end": 3.22
+    },
+    {
+      "word": "answer",
+      "start": 3.22,
+      "end": 3.38
+    },
+    {
+      "word": "again.",
+      "start": 3.38,
+      "end": 3.98
+    },
+    {
+      "word": "Searching",
+      "start": 4.4,
+      "end": 4.64
+    },
+    {
+      "word": "for",
+      "start": 4.64,
+      "end": 4.82
+    },
+    {
+      "word": "quick",
+      "start": 4.82,
+      "end": 5.04
+    },
+    {
+      "word": "answers",
+      "start": 5.04,
+      "end": 5.32
+    },
+    {
+      "word": "and",
+      "start": 5.32,
+      "end": 5.58
+    },
+    {
+      "word": "long",
+      "start": 5.58,
+      "end": 5.82
+    },
+    {
+      "word": "tutorials",
+      "start": 5.82,
+      "end": 6.26
+    },
+    {
+      "word": "usually",
+      "start": 6.26,
+      "end": 6.78
+    },
+    {
+      "word": "means",
+      "start": 6.78,
+      "end": 7.12
+    },
+    {
+      "word": "scrubbing",
+      "start": 7.12,
+      "end": 7.48
+    },
+    {
+      "word": "through",
+      "start": 7.48,
+      "end": 7.74
+    },
+    {
+      "word": "sponsor",
+      "start": 7.74,
+      "end": 8.06
+    },
+    {
+      "word": "breaks",
+      "start": 8.06,
+      "end": 8.38
+    },
+    {
+      "word": "and",
+      "start": 8.38,
+      "end": 8.6
+    },
+    {
+      "word": "creator",
+      "start": 8.6,
+      "end": 8.88
+    },
+    {
+      "word": "banter.",
+      "start": 8.88,
+      "end": 9.36
+    },
+    {
+      "word": "Scrubbing",
+      "start": 9.92,
+      "end": 10.3
+    },
+    {
+      "word": "blindly",
+      "start": 10.3,
+      "end": 10.62
+    },
+    {
+      "word": "wastes",
+      "start": 10.62,
+      "end": 11.12
+    },
+    {
+      "word": "study",
+      "start": 11.12,
+      "end": 11.4
+    },
+    {
+      "word": "time",
+      "start": 11.4,
+      "end": 11.8
+    },
+    {
+      "word": "and",
+      "start": 11.8,
+      "end": 12.16
+    },
+    {
+      "word": "leaves",
+      "start": 12.16,
+      "end": 12.38
+    },
+    {
+      "word": "you",
+      "start": 12.38,
+      "end": 12.56
+    },
+    {
+      "word": "missing",
+      "start": 12.56,
+      "end": 12.8
+    },
+    {
+      "word": "the",
+      "start": 12.8,
+      "end": 13.02
+    },
+    {
+      "word": "exact",
+      "start": 13.02,
+      "end": 13.26
+    },
+    {
+      "word": "steps",
+      "start": 13.26,
+      "end": 13.58
+    },
+    {
+      "word": "you",
+      "start": 13.58,
+      "end": 13.76
+    },
+    {
+      "word": "need.",
+      "start": 13.76,
+      "end": 14.16
+    },
+    {
+      "word": "Instead,",
+      "start": 14.74,
+      "end": 15.04
+    },
+    {
+      "word": "use",
+      "start": 15.48,
+      "end": 15.58
+    },
+    {
+      "word": "a",
+      "start": 15.58,
+      "end": 15.78
+    },
+    {
+      "word": "free",
+      "start": 15.78,
+      "end": 15.98
+    },
+    {
+      "word": "chrome",
+      "start": 15.98,
+      "end": 16.2
+    },
+    {
+      "word": "extension",
+      "start": 16.2,
+      "end": 16.72
+    },
+    {
+      "word": "like",
+      "start": 16.72,
+      "end": 17.12
+    },
+    {
+      "word": "glass",
+      "start": 17.12,
+      "end": 17.48
+    },
+    {
+      "word": "or",
+      "start": 17.48,
+      "end": 17.96
+    },
+    {
+      "word": "edify",
+      "start": 17.96,
+      "end": 18.3
+    },
+    {
+      "word": "to",
+      "start": 18.3,
+      "end": 18.64
+    },
+    {
+      "word": "convert",
+      "start": 18.64,
+      "end": 18.82
+    },
+    {
+      "word": "video",
+      "start": 18.82,
+      "end": 19.26
+    },
+    {
+      "word": "transcripts",
+      "start": 19.26,
+      "end": 19.72
+    },
+    {
+      "word": "into",
+      "start": 19.72,
+      "end": 20.04
+    },
+    {
+      "word": "concise",
+      "start": 20.04,
+      "end": 20.56
+    },
+    {
+      "word": "bullet",
+      "start": 20.56,
+      "end": 20.76
+    },
+    {
+      "word": "points.",
+      "start": 20.76,
+      "end": 21.24
+    },
+    {
+      "word": "You",
+      "start": 21.24,
+      "end": 21.96
+    },
+    {
+      "word": "pull",
+      "start": 21.96,
+      "end": 22.16
+    },
+    {
+      "word": "key",
+      "start": 22.16,
+      "end": 22.42
+    },
+    {
+      "word": "insights",
+      "start": 22.42,
+      "end": 22.84
+    },
+    {
+      "word": "in",
+      "start": 22.84,
+      "end": 23.08
+    },
+    {
+      "word": "10",
+      "start": 23.08,
+      "end": 23.4
+    },
+    {
+      "word": "seconds.",
+      "start": 23.4,
+      "end": 23.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Never sit through a 45-minute YouTube video just to get one piece of information again.",
+      "line2": "SUMMARIZE YOUTUBE IN 10-SECONDS",
+      "tag": "\ud83d\uded1 How to summarize long YouTube videos in 10 seconds without watching them",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

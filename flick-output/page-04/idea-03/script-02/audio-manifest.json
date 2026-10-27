@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "Baserow: the completely free open-source Airtable alternative",
+  "text": "This open-source database gives you unlimited rows and custom relational views for free. Operations managers struggle when spreadsheet formulas lag, yet upgrading database software costs thousands. Clunky spreadsheets corrupt formulas while commercial SaaS tools charge steep fees for every single team collaborator. Baserow runs on PostgreSQL, offering lightning-fast Kanban views, formulas, and developer APIs without seat licenses. Your team tracks inventory and projects effortlessly.",
+  "duration": 31.695,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "open",
+      "start": 0.26,
+      "end": 0.64
+    },
+    {
+      "word": "source",
+      "start": 0.64,
+      "end": 0.94
+    },
+    {
+      "word": "database",
+      "start": 0.94,
+      "end": 1.42
+    },
+    {
+      "word": "gives",
+      "start": 1.42,
+      "end": 1.84
+    },
+    {
+      "word": "you",
+      "start": 1.84,
+      "end": 2.16
+    },
+    {
+      "word": "unlimited",
+      "start": 2.16,
+      "end": 2.5
+    },
+    {
+      "word": "rows",
+      "start": 2.5,
+      "end": 3.1
+    },
+    {
+      "word": "and",
+      "start": 3.1,
+      "end": 3.46
+    },
+    {
+      "word": "custom",
+      "start": 3.46,
+      "end": 3.82
+    },
+    {
+      "word": "relational",
+      "start": 3.82,
+      "end": 4.36
+    },
+    {
+      "word": "views",
+      "start": 4.36,
+      "end": 4.76
+    },
+    {
+      "word": "for",
+      "start": 4.76,
+      "end": 5.0
+    },
+    {
+      "word": "free.",
+      "start": 5.0,
+      "end": 5.52
+    },
+    {
+      "word": "Operations",
+      "start": 6.5,
+      "end": 6.5
+    },
+    {
+      "word": "managers",
+      "start": 6.5,
+      "end": 7.1
+    },
+    {
+      "word": "struggle",
+      "start": 7.1,
+      "end": 7.54
+    },
+    {
+      "word": "when",
+      "start": 7.54,
+      "end": 7.88
+    },
+    {
+      "word": "spreadsheet",
+      "start": 7.88,
+      "end": 8.28
+    },
+    {
+      "word": "formulas",
+      "start": 8.28,
+      "end": 8.78
+    },
+    {
+      "word": "lag,",
+      "start": 8.78,
+      "end": 9.24
+    },
+    {
+      "word": "yet",
+      "start": 9.66,
+      "end": 9.78
+    },
+    {
+      "word": "upgrading",
+      "start": 9.78,
+      "end": 10.26
+    },
+    {
+      "word": "database",
+      "start": 10.26,
+      "end": 10.88
+    },
+    {
+      "word": "software",
+      "start": 10.88,
+      "end": 11.32
+    },
+    {
+      "word": "costs",
+      "start": 11.32,
+      "end": 11.8
+    },
+    {
+      "word": "thousands.",
+      "start": 11.8,
+      "end": 12.5
+    },
+    {
+      "word": "Clunky",
+      "start": 12.86,
+      "end": 13.1
+    },
+    {
+      "word": "spreadsheets",
+      "start": 13.1,
+      "end": 13.74
+    },
+    {
+      "word": "corrupt",
+      "start": 13.74,
+      "end": 14.1
+    },
+    {
+      "word": "formulas",
+      "start": 14.1,
+      "end": 14.58
+    },
+    {
+      "word": "while",
+      "start": 14.58,
+      "end": 14.94
+    },
+    {
+      "word": "commercial",
+      "start": 14.94,
+      "end": 15.32
+    },
+    {
+      "word": "saw",
+      "start": 15.32,
+      "end": 15.66
+    },
+    {
+      "word": "S",
+      "start": 15.66,
+      "end": 15.88
+    },
+    {
+      "word": "tools",
+      "start": 15.88,
+      "end": 16.22
+    },
+    {
+      "word": "charge",
+      "start": 16.22,
+      "end": 16.92
+    },
+    {
+      "word": "steep",
+      "start": 16.92,
+      "end": 17.22
+    },
+    {
+      "word": "fees",
+      "start": 17.22,
+      "end": 17.6
+    },
+    {
+      "word": "for",
+      "start": 17.6,
+      "end": 17.84
+    },
+    {
+      "word": "every",
+      "start": 17.84,
+      "end": 18.16
+    },
+    {
+      "word": "single",
+      "start": 18.16,
+      "end": 18.46
+    },
+    {
+      "word": "team",
+      "start": 18.46,
+      "end": 18.78
+    },
+    {
+      "word": "collaborator.",
+      "start": 18.78,
+      "end": 19.34
+    },
+    {
+      "word": "Vassaro",
+      "start": 20.24,
+      "end": 20.5
+    },
+    {
+      "word": "runs",
+      "start": 20.5,
+      "end": 20.8
+    },
+    {
+      "word": "on",
+      "start": 20.8,
+      "end": 21.1
+    },
+    {
+      "word": "Postker",
+      "start": 21.1,
+      "end": 21.56
+    },
+    {
+      "word": "SQL,",
+      "start": 21.56,
+      "end": 22.12
+    },
+    {
+      "word": "offering",
+      "start": 22.68,
+      "end": 22.92
+    },
+    {
+      "word": "lightning",
+      "start": 22.92,
+      "end": 23.28
+    },
+    {
+      "word": "fast",
+      "start": 23.28,
+      "end": 23.74
+    },
+    {
+      "word": "Canbin",
+      "start": 23.74,
+      "end": 24.16
+    },
+    {
+      "word": "views,",
+      "start": 24.16,
+      "end": 24.6
+    },
+    {
+      "word": "formulas,",
+      "start": 25.42,
+      "end": 25.42
+    },
+    {
+      "word": "and",
+      "start": 25.78,
+      "end": 25.92
+    },
+    {
+      "word": "developer",
+      "start": 25.92,
+      "end": 26.28
+    },
+    {
+      "word": "APIs",
+      "start": 26.28,
+      "end": 26.9
+    },
+    {
+      "word": "without",
+      "start": 26.9,
+      "end": 27.4
+    },
+    {
+      "word": "seat",
+      "start": 27.4,
+      "end": 27.68
+    },
+    {
+      "word": "licenses.",
+      "start": 27.68,
+      "end": 28.16
+    },
+    {
+      "word": "Your",
+      "start": 28.16,
+      "end": 29.06
+    },
+    {
+      "word": "team",
+      "start": 29.06,
+      "end": 29.38
+    },
+    {
+      "word": "tracks",
+      "start": 29.38,
+      "end": 29.7
+    },
+    {
+      "word": "inventory",
+      "start": 29.7,
+      "end": 30.24
+    },
+    {
+      "word": "and",
+      "start": 30.24,
+      "end": 30.68
+    },
+    {
+      "word": "projects",
+      "start": 30.68,
+      "end": 31.02
+    },
+    {
+      "word": "effortlessly.",
+      "start": 31.02,
+      "end": 31.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "This open-source database gives you unlimited rows and custom views for free.",
+      "line2": "FREE AIRTABLE ALTERNATIVE",
+      "tag": "\ud83d\uded1 Baserow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Free DOM Extraction: Baserow",
+      "primitive": "DOMElementSniffer",
+      "props": {
+        "title": "Free DOM Extraction: Baserow",
+        "subtitle": "Baserow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Proxy Rotation & Rate Limits",
+      "primitive": "ProxyRotationGauge",
+      "props": {
+        "title": "Proxy Rotation & Rate Limits",
+        "subtitle": "Baserow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Deduplicated CSV Merge",
+      "primitive": "CSVMergeVisualizer",
+      "props": {
+        "title": "Deduplicated CSV Merge",
+        "subtitle": "Baserow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Headless CLI Execution",
+      "primitive": "HeadlessBrowserTerminal",
+      "props": {
+        "title": "Headless CLI Execution",
+        "subtitle": "Baserow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

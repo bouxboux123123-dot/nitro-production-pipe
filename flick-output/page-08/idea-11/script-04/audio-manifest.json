@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+  "text": "This beginner prompt framework makes your AI outputs look like they came from a senior consultant. Beginners struggle with ChatGPT hallucinating fake statistics and giving overly formal textbook definitions. Standard prompts provide zero reference data, forcing the neural network to fabricate believable yet inaccurate claims. Paste raw background notes first and instruct ChatGPT to answer exclusively using the provided source material. You eliminate hallucinations and produce accurate client briefs.",
+  "duration": 30.885,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "beginner",
+      "start": 0.24,
+      "end": 0.64
+    },
+    {
+      "word": "prompt",
+      "start": 0.64,
+      "end": 1.0
+    },
+    {
+      "word": "framework",
+      "start": 1.0,
+      "end": 1.42
+    },
+    {
+      "word": "makes",
+      "start": 1.42,
+      "end": 1.82
+    },
+    {
+      "word": "your",
+      "start": 1.82,
+      "end": 2.14
+    },
+    {
+      "word": "AI",
+      "start": 2.14,
+      "end": 2.5
+    },
+    {
+      "word": "outputs",
+      "start": 2.5,
+      "end": 2.9
+    },
+    {
+      "word": "look",
+      "start": 2.9,
+      "end": 3.24
+    },
+    {
+      "word": "like",
+      "start": 3.24,
+      "end": 3.44
+    },
+    {
+      "word": "they",
+      "start": 3.44,
+      "end": 3.6
+    },
+    {
+      "word": "came",
+      "start": 3.6,
+      "end": 3.86
+    },
+    {
+      "word": "from",
+      "start": 3.86,
+      "end": 4.1
+    },
+    {
+      "word": "a",
+      "start": 4.1,
+      "end": 4.24
+    },
+    {
+      "word": "senior",
+      "start": 4.24,
+      "end": 4.52
+    },
+    {
+      "word": "consultant.",
+      "start": 4.52,
+      "end": 5.24
+    },
+    {
+      "word": "Beginners",
+      "start": 5.88,
+      "end": 6.32
+    },
+    {
+      "word": "struggle",
+      "start": 6.32,
+      "end": 6.66
+    },
+    {
+      "word": "with",
+      "start": 6.66,
+      "end": 6.98
+    },
+    {
+      "word": "chat",
+      "start": 6.98,
+      "end": 7.34
+    },
+    {
+      "word": "GPT,",
+      "start": 7.34,
+      "end": 8.08
+    },
+    {
+      "word": "hallucinating",
+      "start": 8.2,
+      "end": 8.82
+    },
+    {
+      "word": "fake",
+      "start": 8.82,
+      "end": 9.14
+    },
+    {
+      "word": "statistics,",
+      "start": 9.14,
+      "end": 9.74
+    },
+    {
+      "word": "and",
+      "start": 10.2,
+      "end": 10.3
+    },
+    {
+      "word": "giving",
+      "start": 10.3,
+      "end": 10.6
+    },
+    {
+      "word": "overly",
+      "start": 10.6,
+      "end": 11.04
+    },
+    {
+      "word": "formal",
+      "start": 11.04,
+      "end": 11.46
+    },
+    {
+      "word": "textbook",
+      "start": 11.46,
+      "end": 11.98
+    },
+    {
+      "word": "definitions.",
+      "start": 11.98,
+      "end": 12.62
+    },
+    {
+      "word": "Standard",
+      "start": 13.44,
+      "end": 13.44
+    },
+    {
+      "word": "prompts",
+      "start": 13.44,
+      "end": 13.8
+    },
+    {
+      "word": "provide",
+      "start": 13.8,
+      "end": 14.2
+    },
+    {
+      "word": "zero",
+      "start": 14.2,
+      "end": 14.68
+    },
+    {
+      "word": "reference",
+      "start": 14.68,
+      "end": 15.08
+    },
+    {
+      "word": "data,",
+      "start": 15.08,
+      "end": 15.54
+    },
+    {
+      "word": "forcing",
+      "start": 15.98,
+      "end": 16.04
+    },
+    {
+      "word": "the",
+      "start": 16.04,
+      "end": 16.34
+    },
+    {
+      "word": "neural",
+      "start": 16.34,
+      "end": 16.52
+    },
+    {
+      "word": "network",
+      "start": 16.52,
+      "end": 17.02
+    },
+    {
+      "word": "to",
+      "start": 17.02,
+      "end": 17.22
+    },
+    {
+      "word": "fabricate",
+      "start": 17.22,
+      "end": 17.82
+    },
+    {
+      "word": "believable",
+      "start": 17.82,
+      "end": 18.4
+    },
+    {
+      "word": "yet",
+      "start": 18.4,
+      "end": 18.66
+    },
+    {
+      "word": "inaccurate",
+      "start": 18.66,
+      "end": 19.1
+    },
+    {
+      "word": "claims.",
+      "start": 19.1,
+      "end": 19.54
+    },
+    {
+      "word": "Paste",
+      "start": 20.18,
+      "end": 20.46
+    },
+    {
+      "word": "raw",
+      "start": 20.46,
+      "end": 20.74
+    },
+    {
+      "word": "background",
+      "start": 20.74,
+      "end": 21.12
+    },
+    {
+      "word": "notes",
+      "start": 21.12,
+      "end": 21.5
+    },
+    {
+      "word": "first,",
+      "start": 21.5,
+      "end": 22.0
+    },
+    {
+      "word": "and",
+      "start": 22.22,
+      "end": 22.36
+    },
+    {
+      "word": "instruct",
+      "start": 22.36,
+      "end": 22.68
+    },
+    {
+      "word": "chat",
+      "start": 22.68,
+      "end": 23.16
+    },
+    {
+      "word": "GPT",
+      "start": 23.16,
+      "end": 23.7
+    },
+    {
+      "word": "to",
+      "start": 23.7,
+      "end": 23.98
+    },
+    {
+      "word": "answer",
+      "start": 23.98,
+      "end": 24.26
+    },
+    {
+      "word": "exclusively",
+      "start": 24.26,
+      "end": 24.86
+    },
+    {
+      "word": "using",
+      "start": 24.86,
+      "end": 25.3
+    },
+    {
+      "word": "the",
+      "start": 25.3,
+      "end": 25.54
+    },
+    {
+      "word": "provided",
+      "start": 25.54,
+      "end": 25.84
+    },
+    {
+      "word": "source",
+      "start": 25.84,
+      "end": 26.3
+    },
+    {
+      "word": "material.",
+      "start": 26.3,
+      "end": 26.76
+    },
+    {
+      "word": "You",
+      "start": 26.76,
+      "end": 27.56
+    },
+    {
+      "word": "eliminate",
+      "start": 27.56,
+      "end": 27.94
+    },
+    {
+      "word": "hallucinations",
+      "start": 27.94,
+      "end": 28.58
+    },
+    {
+      "word": "and",
+      "start": 28.58,
+      "end": 29.3
+    },
+    {
+      "word": "produce",
+      "start": 29.3,
+      "end": 29.66
+    },
+    {
+      "word": "accurate",
+      "start": 29.66,
+      "end": 30.1
+    },
+    {
+      "word": "client",
+      "start": 30.1,
+      "end": 30.48
+    },
+    {
+      "word": "briefs.",
+      "start": 30.48,
+      "end": 30.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The prompt engineering secret that makes beginners look like senior AI experts.",
+      "line2": "BETTER CHATGPT PROMPTS",
+      "tag": "\ud83d\uded1 Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

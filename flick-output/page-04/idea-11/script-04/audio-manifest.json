@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Excalidraw: virtual whiteboard for brainstorming and architecture diagrams",
+  "text": "The hand-drawn style diagram tool that tech founders love. Presenting rigid, formal diagrams during early pitch stages makes ideas feel finished and discourages honest product feedback. High-fidelity mockups take hours to construct in complex vector editors, wasting valuable founder time before validating concepts. Excalidraw uses a casual sketch aesthetic that invites open collaboration and visualizes product architecture in minutes. You validate technical ideas much faster with investors.",
+  "duration": 31.567,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "hand",
+      "start": 0.22,
+      "end": 0.5
+    },
+    {
+      "word": "-drawn",
+      "start": 0.5,
+      "end": 0.78
+    },
+    {
+      "word": "style",
+      "start": 0.78,
+      "end": 1.18
+    },
+    {
+      "word": "diagram",
+      "start": 1.18,
+      "end": 1.58
+    },
+    {
+      "word": "tool",
+      "start": 1.58,
+      "end": 2.06
+    },
+    {
+      "word": "that",
+      "start": 2.06,
+      "end": 2.34
+    },
+    {
+      "word": "tech",
+      "start": 2.34,
+      "end": 2.58
+    },
+    {
+      "word": "founders",
+      "start": 2.58,
+      "end": 2.9
+    },
+    {
+      "word": "love.",
+      "start": 2.9,
+      "end": 3.58
+    },
+    {
+      "word": "Presenting",
+      "start": 4.0,
+      "end": 4.36
+    },
+    {
+      "word": "rigid,",
+      "start": 4.36,
+      "end": 4.82
+    },
+    {
+      "word": "formal",
+      "start": 4.94,
+      "end": 5.22
+    },
+    {
+      "word": "diagrams",
+      "start": 5.22,
+      "end": 5.7
+    },
+    {
+      "word": "during",
+      "start": 5.7,
+      "end": 6.28
+    },
+    {
+      "word": "early",
+      "start": 6.28,
+      "end": 6.56
+    },
+    {
+      "word": "pitch",
+      "start": 6.56,
+      "end": 6.86
+    },
+    {
+      "word": "stages",
+      "start": 6.86,
+      "end": 7.34
+    },
+    {
+      "word": "makes",
+      "start": 7.34,
+      "end": 7.92
+    },
+    {
+      "word": "ideas",
+      "start": 7.92,
+      "end": 8.4
+    },
+    {
+      "word": "feel",
+      "start": 8.4,
+      "end": 8.82
+    },
+    {
+      "word": "finished",
+      "start": 8.82,
+      "end": 9.18
+    },
+    {
+      "word": "and",
+      "start": 9.18,
+      "end": 9.72
+    },
+    {
+      "word": "discourages",
+      "start": 9.72,
+      "end": 10.34
+    },
+    {
+      "word": "honest",
+      "start": 10.34,
+      "end": 10.74
+    },
+    {
+      "word": "product",
+      "start": 10.74,
+      "end": 11.1
+    },
+    {
+      "word": "feedback.",
+      "start": 11.1,
+      "end": 11.62
+    },
+    {
+      "word": "High",
+      "start": 12.08,
+      "end": 12.18
+    },
+    {
+      "word": "-fidelity",
+      "start": 12.18,
+      "end": 12.54
+    },
+    {
+      "word": "mock",
+      "start": 12.54,
+      "end": 12.88
+    },
+    {
+      "word": "-ups",
+      "start": 12.88,
+      "end": 13.06
+    },
+    {
+      "word": "take",
+      "start": 13.06,
+      "end": 13.38
+    },
+    {
+      "word": "hours",
+      "start": 13.38,
+      "end": 13.72
+    },
+    {
+      "word": "to",
+      "start": 13.72,
+      "end": 14.02
+    },
+    {
+      "word": "construct",
+      "start": 14.02,
+      "end": 14.44
+    },
+    {
+      "word": "in",
+      "start": 14.44,
+      "end": 14.68
+    },
+    {
+      "word": "complex",
+      "start": 14.68,
+      "end": 15.14
+    },
+    {
+      "word": "vector",
+      "start": 15.14,
+      "end": 15.6
+    },
+    {
+      "word": "editors,",
+      "start": 15.6,
+      "end": 16.02
+    },
+    {
+      "word": "wasting",
+      "start": 16.6,
+      "end": 16.7
+    },
+    {
+      "word": "valuable",
+      "start": 16.7,
+      "end": 17.32
+    },
+    {
+      "word": "founder",
+      "start": 17.32,
+      "end": 17.7
+    },
+    {
+      "word": "time",
+      "start": 17.7,
+      "end": 18.16
+    },
+    {
+      "word": "before",
+      "start": 18.16,
+      "end": 18.54
+    },
+    {
+      "word": "validating",
+      "start": 18.54,
+      "end": 19.12
+    },
+    {
+      "word": "concepts.",
+      "start": 19.12,
+      "end": 19.72
+    },
+    {
+      "word": "Excaladroi",
+      "start": 20.52,
+      "end": 21.16
+    },
+    {
+      "word": "uses",
+      "start": 21.16,
+      "end": 21.4
+    },
+    {
+      "word": "a",
+      "start": 21.4,
+      "end": 21.68
+    },
+    {
+      "word": "casual",
+      "start": 21.68,
+      "end": 22.04
+    },
+    {
+      "word": "sketch",
+      "start": 22.04,
+      "end": 22.4
+    },
+    {
+      "word": "aesthetic",
+      "start": 22.4,
+      "end": 22.92
+    },
+    {
+      "word": "that",
+      "start": 22.92,
+      "end": 23.44
+    },
+    {
+      "word": "invites",
+      "start": 23.44,
+      "end": 23.72
+    },
+    {
+      "word": "open",
+      "start": 23.72,
+      "end": 24.24
+    },
+    {
+      "word": "collaboration",
+      "start": 24.24,
+      "end": 24.9
+    },
+    {
+      "word": "and",
+      "start": 24.9,
+      "end": 25.56
+    },
+    {
+      "word": "visualizes",
+      "start": 25.56,
+      "end": 26.16
+    },
+    {
+      "word": "product",
+      "start": 26.16,
+      "end": 26.62
+    },
+    {
+      "word": "architecture",
+      "start": 26.62,
+      "end": 27.16
+    },
+    {
+      "word": "in",
+      "start": 27.16,
+      "end": 27.48
+    },
+    {
+      "word": "minutes.",
+      "start": 27.48,
+      "end": 27.8
+    },
+    {
+      "word": "You",
+      "start": 27.8,
+      "end": 28.54
+    },
+    {
+      "word": "validate",
+      "start": 28.54,
+      "end": 28.84
+    },
+    {
+      "word": "technical",
+      "start": 28.84,
+      "end": 29.4
+    },
+    {
+      "word": "ideas",
+      "start": 29.4,
+      "end": 29.9
+    },
+    {
+      "word": "much",
+      "start": 29.9,
+      "end": 30.28
+    },
+    {
+      "word": "faster",
+      "start": 30.28,
+      "end": 30.7
+    },
+    {
+      "word": "with",
+      "start": 30.7,
+      "end": 30.96
+    },
+    {
+      "word": "investors.",
+      "start": 30.96,
+      "end": 31.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The hand-drawn style diagram tool that tech founders love.",
+      "line2": "FREE VIRTUAL WHITEBOARD",
+      "tag": "\ud83d\uded1 Excalidraw",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Excalidraw",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Excalidraw",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Excalidraw",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

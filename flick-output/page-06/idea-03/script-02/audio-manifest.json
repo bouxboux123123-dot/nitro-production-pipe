@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Automated Slack channel cleanup bot for archived project channels",
+  "text": "This automated Slack bot archives dead project channels after thirty days of total silence. When completed projects linger in your sidebar, important announcements get buried under abandoned discussions and notifications. Manual workspace audits take hours of administrative effort that managers continually postpone, letting channel sprawl explode unchecked. Set up a Zapier webhook connected to Slack that flags inactive channels and archives them automatically. You maintain a spotless workspace effortlessly.",
+  "duration": 30.863,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "automated",
+      "start": 0.3,
+      "end": 0.76
+    },
+    {
+      "word": "Slack",
+      "start": 0.76,
+      "end": 1.2
+    },
+    {
+      "word": "bot",
+      "start": 1.2,
+      "end": 1.48
+    },
+    {
+      "word": "archives",
+      "start": 1.48,
+      "end": 1.94
+    },
+    {
+      "word": "dead",
+      "start": 1.94,
+      "end": 2.4
+    },
+    {
+      "word": "project",
+      "start": 2.4,
+      "end": 2.86
+    },
+    {
+      "word": "channels",
+      "start": 2.86,
+      "end": 3.28
+    },
+    {
+      "word": "after",
+      "start": 3.28,
+      "end": 3.9
+    },
+    {
+      "word": "30",
+      "start": 3.9,
+      "end": 4.22
+    },
+    {
+      "word": "days",
+      "start": 4.22,
+      "end": 4.54
+    },
+    {
+      "word": "of",
+      "start": 4.54,
+      "end": 4.86
+    },
+    {
+      "word": "total",
+      "start": 4.86,
+      "end": 5.1
+    },
+    {
+      "word": "silence.",
+      "start": 5.1,
+      "end": 5.62
+    },
+    {
+      "word": "When",
+      "start": 6.22,
+      "end": 6.34
+    },
+    {
+      "word": "completed",
+      "start": 6.34,
+      "end": 6.72
+    },
+    {
+      "word": "projects",
+      "start": 6.72,
+      "end": 7.38
+    },
+    {
+      "word": "linger",
+      "start": 7.38,
+      "end": 7.72
+    },
+    {
+      "word": "in",
+      "start": 7.72,
+      "end": 7.86
+    },
+    {
+      "word": "your",
+      "start": 7.86,
+      "end": 8.22
+    },
+    {
+      "word": "sidebar,",
+      "start": 8.22,
+      "end": 8.54
+    },
+    {
+      "word": "important",
+      "start": 9.2,
+      "end": 9.34
+    },
+    {
+      "word": "announcements",
+      "start": 9.34,
+      "end": 9.82
+    },
+    {
+      "word": "get",
+      "start": 9.82,
+      "end": 10.32
+    },
+    {
+      "word": "buried",
+      "start": 10.32,
+      "end": 10.62
+    },
+    {
+      "word": "under",
+      "start": 10.62,
+      "end": 10.98
+    },
+    {
+      "word": "abandoned",
+      "start": 10.98,
+      "end": 11.38
+    },
+    {
+      "word": "discussions",
+      "start": 11.38,
+      "end": 12.0
+    },
+    {
+      "word": "and",
+      "start": 12.0,
+      "end": 12.34
+    },
+    {
+      "word": "notifications.",
+      "start": 12.34,
+      "end": 13.04
+    },
+    {
+      "word": "Manual",
+      "start": 13.88,
+      "end": 13.88
+    },
+    {
+      "word": "workspace",
+      "start": 13.88,
+      "end": 14.34
+    },
+    {
+      "word": "audits",
+      "start": 14.34,
+      "end": 14.8
+    },
+    {
+      "word": "take",
+      "start": 14.8,
+      "end": 15.16
+    },
+    {
+      "word": "hours",
+      "start": 15.16,
+      "end": 15.48
+    },
+    {
+      "word": "of",
+      "start": 15.48,
+      "end": 15.78
+    },
+    {
+      "word": "administrative",
+      "start": 15.78,
+      "end": 16.2
+    },
+    {
+      "word": "effort",
+      "start": 16.2,
+      "end": 16.72
+    },
+    {
+      "word": "that",
+      "start": 16.72,
+      "end": 17.44
+    },
+    {
+      "word": "managers",
+      "start": 17.44,
+      "end": 17.44
+    },
+    {
+      "word": "continually",
+      "start": 17.44,
+      "end": 18.1
+    },
+    {
+      "word": "postpone,",
+      "start": 18.1,
+      "end": 18.8
+    },
+    {
+      "word": "letting",
+      "start": 19.22,
+      "end": 19.46
+    },
+    {
+      "word": "channels",
+      "start": 19.46,
+      "end": 19.86
+    },
+    {
+      "word": "sprawl",
+      "start": 19.86,
+      "end": 20.34
+    },
+    {
+      "word": "explode",
+      "start": 20.34,
+      "end": 20.86
+    },
+    {
+      "word": "unchecked.",
+      "start": 20.86,
+      "end": 21.42
+    },
+    {
+      "word": "Set",
+      "start": 22.06,
+      "end": 22.24
+    },
+    {
+      "word": "up",
+      "start": 22.24,
+      "end": 22.44
+    },
+    {
+      "word": "a",
+      "start": 22.44,
+      "end": 22.64
+    },
+    {
+      "word": "Zapier",
+      "start": 22.64,
+      "end": 23.04
+    },
+    {
+      "word": "webhook",
+      "start": 23.04,
+      "end": 23.5
+    },
+    {
+      "word": "connected",
+      "start": 23.5,
+      "end": 23.9
+    },
+    {
+      "word": "to",
+      "start": 23.9,
+      "end": 24.26
+    },
+    {
+      "word": "Slack",
+      "start": 24.26,
+      "end": 24.5
+    },
+    {
+      "word": "that",
+      "start": 24.5,
+      "end": 24.78
+    },
+    {
+      "word": "flags",
+      "start": 24.78,
+      "end": 25.12
+    },
+    {
+      "word": "inactive",
+      "start": 25.12,
+      "end": 25.58
+    },
+    {
+      "word": "channels",
+      "start": 25.58,
+      "end": 26.16
+    },
+    {
+      "word": "and",
+      "start": 26.16,
+      "end": 26.48
+    },
+    {
+      "word": "archives",
+      "start": 26.48,
+      "end": 26.78
+    },
+    {
+      "word": "them",
+      "start": 26.78,
+      "end": 27.18
+    },
+    {
+      "word": "automatically.",
+      "start": 27.18,
+      "end": 27.72
+    },
+    {
+      "word": "You",
+      "start": 27.72,
+      "end": 28.46
+    },
+    {
+      "word": "maintain",
+      "start": 28.46,
+      "end": 28.84
+    },
+    {
+      "word": "a",
+      "start": 28.84,
+      "end": 29.12
+    },
+    {
+      "word": "spotless",
+      "start": 29.12,
+      "end": 29.58
+    },
+    {
+      "word": "workspace",
+      "start": 29.58,
+      "end": 30.08
+    },
+    {
+      "word": "effortlessly.",
+      "start": 30.08,
+      "end": 30.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "This automated bot archives inactive channels after 30 days of silence.",
+      "line2": "AUTO-CLEAN SLACK CHANNELS",
+      "tag": "\ud83d\uded1 Automated Slack channel cleanup bot for archived project channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated Slack channel cleanup bot for archived project channels",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated Slack channel cleanup bot for archived project channels",
+        "subtitle": "Automated Slack channel cleanup bot for archived project channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated Slack channel cleanup bot for archived project channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated Slack channel cleanup bot for archived project channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated Slack channel cleanup bot for archived project channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

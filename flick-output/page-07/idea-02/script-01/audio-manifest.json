@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+  "text": "Writing the monthly investor update takes hours unless you automate this data pipeline. You waste weekends exporting CSVs, calculating churn, and wrestling raw revenue numbers into an email draft. Fragmented data across Stripe and QuickBooks turns monthly reporting into a painful administrative chore. Connect Make to pull live Stripe MRR and bank balances directly into a Claude prompt template. This delivers a polished investor draft in sixty seconds.",
+  "duration": 29.071,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Writing",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "the",
+      "start": 0.38,
+      "end": 0.68
+    },
+    {
+      "word": "monthly",
+      "start": 0.68,
+      "end": 1.04
+    },
+    {
+      "word": "investor",
+      "start": 1.04,
+      "end": 1.56
+    },
+    {
+      "word": "update",
+      "start": 1.56,
+      "end": 1.9
+    },
+    {
+      "word": "takes",
+      "start": 1.9,
+      "end": 2.3
+    },
+    {
+      "word": "hours",
+      "start": 2.3,
+      "end": 2.76
+    },
+    {
+      "word": "unless",
+      "start": 2.76,
+      "end": 3.22
+    },
+    {
+      "word": "you",
+      "start": 3.22,
+      "end": 3.82
+    },
+    {
+      "word": "automate",
+      "start": 3.82,
+      "end": 3.82
+    },
+    {
+      "word": "this",
+      "start": 3.82,
+      "end": 4.14
+    },
+    {
+      "word": "data",
+      "start": 4.14,
+      "end": 4.42
+    },
+    {
+      "word": "pipeline.",
+      "start": 4.42,
+      "end": 5.04
+    },
+    {
+      "word": "You",
+      "start": 5.6,
+      "end": 5.68
+    },
+    {
+      "word": "waste",
+      "start": 5.68,
+      "end": 5.94
+    },
+    {
+      "word": "weekends",
+      "start": 5.94,
+      "end": 6.4
+    },
+    {
+      "word": "exporting",
+      "start": 6.4,
+      "end": 7.14
+    },
+    {
+      "word": "CSV's,",
+      "start": 7.14,
+      "end": 8.34
+    },
+    {
+      "word": "calculating",
+      "start": 8.36,
+      "end": 8.9
+    },
+    {
+      "word": "churn",
+      "start": 8.9,
+      "end": 9.56
+    },
+    {
+      "word": "and",
+      "start": 9.56,
+      "end": 10.1
+    },
+    {
+      "word": "wrestling",
+      "start": 10.1,
+      "end": 10.44
+    },
+    {
+      "word": "raw",
+      "start": 10.44,
+      "end": 10.78
+    },
+    {
+      "word": "revenue",
+      "start": 10.78,
+      "end": 11.02
+    },
+    {
+      "word": "numbers",
+      "start": 11.02,
+      "end": 11.5
+    },
+    {
+      "word": "into",
+      "start": 11.5,
+      "end": 11.74
+    },
+    {
+      "word": "an",
+      "start": 11.74,
+      "end": 11.98
+    },
+    {
+      "word": "email",
+      "start": 11.98,
+      "end": 12.3
+    },
+    {
+      "word": "draft.",
+      "start": 12.3,
+      "end": 12.78
+    },
+    {
+      "word": "Fragmented",
+      "start": 13.34,
+      "end": 13.66
+    },
+    {
+      "word": "data",
+      "start": 13.66,
+      "end": 14.04
+    },
+    {
+      "word": "across",
+      "start": 14.04,
+      "end": 14.38
+    },
+    {
+      "word": "Stripe",
+      "start": 14.38,
+      "end": 14.8
+    },
+    {
+      "word": "and",
+      "start": 14.8,
+      "end": 15.16
+    },
+    {
+      "word": "QuickBooks",
+      "start": 15.16,
+      "end": 15.68
+    },
+    {
+      "word": "turns",
+      "start": 15.68,
+      "end": 16.12
+    },
+    {
+      "word": "monthly",
+      "start": 16.12,
+      "end": 16.48
+    },
+    {
+      "word": "reporting",
+      "start": 16.48,
+      "end": 16.92
+    },
+    {
+      "word": "into",
+      "start": 16.92,
+      "end": 17.24
+    },
+    {
+      "word": "a",
+      "start": 17.24,
+      "end": 17.58
+    },
+    {
+      "word": "painful",
+      "start": 17.58,
+      "end": 17.8
+    },
+    {
+      "word": "administrative",
+      "start": 17.8,
+      "end": 18.42
+    },
+    {
+      "word": "chore.",
+      "start": 18.42,
+      "end": 19.12
+    },
+    {
+      "word": "Connect",
+      "start": 19.5,
+      "end": 19.8
+    },
+    {
+      "word": "make",
+      "start": 19.8,
+      "end": 20.12
+    },
+    {
+      "word": "to",
+      "start": 20.12,
+      "end": 20.36
+    },
+    {
+      "word": "pull",
+      "start": 20.36,
+      "end": 20.58
+    },
+    {
+      "word": "live",
+      "start": 20.58,
+      "end": 20.9
+    },
+    {
+      "word": "Stripe",
+      "start": 20.9,
+      "end": 21.22
+    },
+    {
+      "word": "MRR",
+      "start": 21.22,
+      "end": 22.0
+    },
+    {
+      "word": "and",
+      "start": 22.0,
+      "end": 22.14
+    },
+    {
+      "word": "Bank",
+      "start": 22.14,
+      "end": 22.52
+    },
+    {
+      "word": "balances",
+      "start": 22.52,
+      "end": 23.08
+    },
+    {
+      "word": "directly",
+      "start": 23.08,
+      "end": 23.56
+    },
+    {
+      "word": "into",
+      "start": 23.56,
+      "end": 23.96
+    },
+    {
+      "word": "a",
+      "start": 23.96,
+      "end": 24.1
+    },
+    {
+      "word": "clawed",
+      "start": 24.1,
+      "end": 24.52
+    },
+    {
+      "word": "prompt",
+      "start": 24.52,
+      "end": 24.78
+    },
+    {
+      "word": "template.",
+      "start": 24.78,
+      "end": 25.22
+    },
+    {
+      "word": "This",
+      "start": 25.82,
+      "end": 26.04
+    },
+    {
+      "word": "delivers",
+      "start": 26.04,
+      "end": 26.36
+    },
+    {
+      "word": "a",
+      "start": 26.36,
+      "end": 26.72
+    },
+    {
+      "word": "polished",
+      "start": 26.72,
+      "end": 27.04
+    },
+    {
+      "word": "investor",
+      "start": 27.04,
+      "end": 27.62
+    },
+    {
+      "word": "draft",
+      "start": 27.62,
+      "end": 27.98
+    },
+    {
+      "word": "in",
+      "start": 27.98,
+      "end": 28.26
+    },
+    {
+      "word": "60",
+      "start": 28.26,
+      "end": 28.62
+    },
+    {
+      "word": "seconds.",
+      "start": 28.62,
+      "end": 28.96
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Writing the monthly investor update takes hours unless you automate this pipeline.",
+      "line2": "INVESTOR UPDATES IN 60-SECONDS",
+      "tag": "\ud83d\uded1 Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

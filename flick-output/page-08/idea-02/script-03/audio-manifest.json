@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "How to dictate emails 3 times faster using built-in voice typing",
+  "text": "How to write complete reports and emails while pacing around your living room. Being hunched over a tiny laptop keyboard typing tedious project updates triggers mental fatigue before lunch. Physical stiffness and slow typing bottleneck your best thoughts and stall your weekly deliverables. Put on wireless earbuds, activate Windows voice dictation with Windows key plus H, and speak out loud. Built-in speech recognition types your thoughts with punctuation automatically.",
+  "duration": 27.855,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "to",
+      "start": 0.26,
+      "end": 0.34
+    },
+    {
+      "word": "write",
+      "start": 0.34,
+      "end": 0.6
+    },
+    {
+      "word": "complete",
+      "start": 0.6,
+      "end": 0.96
+    },
+    {
+      "word": "reports",
+      "start": 0.96,
+      "end": 1.52
+    },
+    {
+      "word": "and",
+      "start": 1.52,
+      "end": 1.8
+    },
+    {
+      "word": "emails",
+      "start": 1.8,
+      "end": 2.14
+    },
+    {
+      "word": "while",
+      "start": 2.14,
+      "end": 2.52
+    },
+    {
+      "word": "pacing",
+      "start": 2.52,
+      "end": 2.82
+    },
+    {
+      "word": "around",
+      "start": 2.82,
+      "end": 3.1
+    },
+    {
+      "word": "your",
+      "start": 3.1,
+      "end": 3.32
+    },
+    {
+      "word": "living",
+      "start": 3.32,
+      "end": 3.5
+    },
+    {
+      "word": "room.",
+      "start": 3.5,
+      "end": 4.1
+    },
+    {
+      "word": "Being",
+      "start": 4.58,
+      "end": 4.68
+    },
+    {
+      "word": "hunched",
+      "start": 4.68,
+      "end": 4.96
+    },
+    {
+      "word": "over",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "word": "a",
+      "start": 5.2,
+      "end": 5.62
+    },
+    {
+      "word": "tiny",
+      "start": 5.62,
+      "end": 5.64
+    },
+    {
+      "word": "laptop",
+      "start": 5.64,
+      "end": 6.04
+    },
+    {
+      "word": "keyboard,",
+      "start": 6.04,
+      "end": 6.72
+    },
+    {
+      "word": "typing",
+      "start": 7.32,
+      "end": 7.32
+    },
+    {
+      "word": "tedious",
+      "start": 7.32,
+      "end": 7.74
+    },
+    {
+      "word": "project",
+      "start": 7.74,
+      "end": 8.46
+    },
+    {
+      "word": "updates",
+      "start": 8.46,
+      "end": 9.02
+    },
+    {
+      "word": "triggers",
+      "start": 9.02,
+      "end": 9.54
+    },
+    {
+      "word": "mental",
+      "start": 9.54,
+      "end": 9.86
+    },
+    {
+      "word": "fatigue",
+      "start": 9.86,
+      "end": 10.36
+    },
+    {
+      "word": "before",
+      "start": 10.36,
+      "end": 10.76
+    },
+    {
+      "word": "lunch,",
+      "start": 10.76,
+      "end": 11.2
+    },
+    {
+      "word": "physical",
+      "start": 11.66,
+      "end": 11.84
+    },
+    {
+      "word": "stiffness",
+      "start": 11.84,
+      "end": 12.2
+    },
+    {
+      "word": "and",
+      "start": 12.2,
+      "end": 12.58
+    },
+    {
+      "word": "slow",
+      "start": 12.58,
+      "end": 12.86
+    },
+    {
+      "word": "typing",
+      "start": 12.86,
+      "end": 13.2
+    },
+    {
+      "word": "bottleneck",
+      "start": 13.2,
+      "end": 13.62
+    },
+    {
+      "word": "your",
+      "start": 13.62,
+      "end": 13.94
+    },
+    {
+      "word": "best",
+      "start": 13.94,
+      "end": 14.26
+    },
+    {
+      "word": "thoughts",
+      "start": 14.26,
+      "end": 14.72
+    },
+    {
+      "word": "and",
+      "start": 14.72,
+      "end": 14.98
+    },
+    {
+      "word": "stall",
+      "start": 14.98,
+      "end": 15.24
+    },
+    {
+      "word": "your",
+      "start": 15.24,
+      "end": 15.44
+    },
+    {
+      "word": "weekly",
+      "start": 15.44,
+      "end": 15.74
+    },
+    {
+      "word": "deliverables.",
+      "start": 15.74,
+      "end": 16.36
+    },
+    {
+      "word": "Put",
+      "start": 16.88,
+      "end": 17.0
+    },
+    {
+      "word": "on",
+      "start": 17.0,
+      "end": 17.24
+    },
+    {
+      "word": "wireless",
+      "start": 17.24,
+      "end": 17.62
+    },
+    {
+      "word": "earbuds,",
+      "start": 17.62,
+      "end": 18.26
+    },
+    {
+      "word": "activate",
+      "start": 18.94,
+      "end": 18.94
+    },
+    {
+      "word": "Windows",
+      "start": 18.94,
+      "end": 19.42
+    },
+    {
+      "word": "voice",
+      "start": 19.42,
+      "end": 19.76
+    },
+    {
+      "word": "dictation",
+      "start": 19.76,
+      "end": 20.34
+    },
+    {
+      "word": "with",
+      "start": 20.34,
+      "end": 20.58
+    },
+    {
+      "word": "Windows",
+      "start": 20.58,
+      "end": 20.92
+    },
+    {
+      "word": "key",
+      "start": 20.92,
+      "end": 21.34
+    },
+    {
+      "word": "plus",
+      "start": 21.34,
+      "end": 21.58
+    },
+    {
+      "word": "H",
+      "start": 21.58,
+      "end": 22.1
+    },
+    {
+      "word": "and",
+      "start": 22.1,
+      "end": 22.5
+    },
+    {
+      "word": "speak",
+      "start": 22.5,
+      "end": 22.7
+    },
+    {
+      "word": "out",
+      "start": 22.7,
+      "end": 23.02
+    },
+    {
+      "word": "loud.",
+      "start": 23.02,
+      "end": 23.4
+    },
+    {
+      "word": "Built",
+      "start": 24.14,
+      "end": 24.2
+    },
+    {
+      "word": "-in",
+      "start": 24.2,
+      "end": 24.46
+    },
+    {
+      "word": "speech",
+      "start": 24.46,
+      "end": 24.76
+    },
+    {
+      "word": "recognition",
+      "start": 24.76,
+      "end": 25.28
+    },
+    {
+      "word": "types",
+      "start": 25.28,
+      "end": 25.68
+    },
+    {
+      "word": "your",
+      "start": 25.68,
+      "end": 25.92
+    },
+    {
+      "word": "thoughts",
+      "start": 25.92,
+      "end": 26.22
+    },
+    {
+      "word": "with",
+      "start": 26.22,
+      "end": 26.46
+    },
+    {
+      "word": "punctuation",
+      "start": 26.46,
+      "end": 27.1
+    },
+    {
+      "word": "automatically.",
+      "start": 27.1,
+      "end": 27.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How to write complete reports and emails while pacing around your living room.",
+      "line2": "DICTATE EMAILS 3X FASTER",
+      "tag": "\ud83d\uded1 How to dictate emails 3 times faster using built-in voice typing",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to dictate emails 3 times faster using built-in voice typing",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to dictate emails 3 times faster using built-in voice typing",
+        "subtitle": "How to dictate emails 3 times faster using built-in voice typing"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to dictate emails 3 times faster using built-in voice typing"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to dictate emails 3 times faster using built-in voice typing"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to dictate emails 3 times faster using built-in voice typing",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Automated Slack channel cleanup bot for archived project channels",
+  "text": "Is your remote team's Slack sidebar cluttered with eighty dead project channels? Employees waste ten minutes every day hunting through zombie channels just to find active project threads. Ghost channels scatter documentation across outdated threads, causing new hires to read stale specs and instructions. Deploy a Make automation that scans channel activity weekly and auto-archives any room dormant for thirty days. Your team stays organized with zero maintenance.",
+  "duration": 25.856,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "is",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "your",
+      "start": 0.2,
+      "end": 0.32
+    },
+    {
+      "word": "remote",
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "word": "team",
+      "start": 0.56,
+      "end": 0.96
+    },
+    {
+      "word": "Slack",
+      "start": 0.96,
+      "end": 1.24
+    },
+    {
+      "word": "sidebar",
+      "start": 1.24,
+      "end": 1.68
+    },
+    {
+      "word": "cluttered",
+      "start": 1.68,
+      "end": 2.1
+    },
+    {
+      "word": "with",
+      "start": 2.1,
+      "end": 2.36
+    },
+    {
+      "word": "80",
+      "start": 2.36,
+      "end": 2.56
+    },
+    {
+      "word": "dead",
+      "start": 2.56,
+      "end": 2.82
+    },
+    {
+      "word": "project",
+      "start": 2.82,
+      "end": 3.22
+    },
+    {
+      "word": "channels.",
+      "start": 3.22,
+      "end": 3.8
+    },
+    {
+      "word": "Employees",
+      "start": 4.28,
+      "end": 4.56
+    },
+    {
+      "word": "waste",
+      "start": 4.56,
+      "end": 5.0
+    },
+    {
+      "word": "10",
+      "start": 5.0,
+      "end": 5.3
+    },
+    {
+      "word": "minutes",
+      "start": 5.3,
+      "end": 5.54
+    },
+    {
+      "word": "every",
+      "start": 5.54,
+      "end": 5.8
+    },
+    {
+      "word": "day",
+      "start": 5.8,
+      "end": 6.06
+    },
+    {
+      "word": "hunting",
+      "start": 6.06,
+      "end": 6.34
+    },
+    {
+      "word": "through",
+      "start": 6.34,
+      "end": 6.64
+    },
+    {
+      "word": "zombie",
+      "start": 6.64,
+      "end": 6.92
+    },
+    {
+      "word": "channels,",
+      "start": 6.92,
+      "end": 7.42
+    },
+    {
+      "word": "just",
+      "start": 7.92,
+      "end": 7.92
+    },
+    {
+      "word": "to",
+      "start": 7.92,
+      "end": 8.04
+    },
+    {
+      "word": "find",
+      "start": 8.04,
+      "end": 8.3
+    },
+    {
+      "word": "active",
+      "start": 8.3,
+      "end": 8.62
+    },
+    {
+      "word": "project",
+      "start": 8.62,
+      "end": 9.08
+    },
+    {
+      "word": "threads.",
+      "start": 9.08,
+      "end": 9.58
+    },
+    {
+      "word": "Ghost",
+      "start": 10.06,
+      "end": 10.34
+    },
+    {
+      "word": "channels",
+      "start": 10.34,
+      "end": 10.74
+    },
+    {
+      "word": "scatter",
+      "start": 10.74,
+      "end": 11.08
+    },
+    {
+      "word": "documentation",
+      "start": 11.08,
+      "end": 11.76
+    },
+    {
+      "word": "across",
+      "start": 11.76,
+      "end": 12.22
+    },
+    {
+      "word": "outdated",
+      "start": 12.22,
+      "end": 12.56
+    },
+    {
+      "word": "threads,",
+      "start": 12.56,
+      "end": 13.14
+    },
+    {
+      "word": "causing",
+      "start": 13.58,
+      "end": 13.68
+    },
+    {
+      "word": "new",
+      "start": 13.68,
+      "end": 14.0
+    },
+    {
+      "word": "hires",
+      "start": 14.0,
+      "end": 14.22
+    },
+    {
+      "word": "to",
+      "start": 14.22,
+      "end": 14.46
+    },
+    {
+      "word": "read",
+      "start": 14.46,
+      "end": 14.7
+    },
+    {
+      "word": "stale",
+      "start": 14.7,
+      "end": 15.02
+    },
+    {
+      "word": "specs",
+      "start": 15.02,
+      "end": 15.38
+    },
+    {
+      "word": "and",
+      "start": 15.38,
+      "end": 15.54
+    },
+    {
+      "word": "instructions.",
+      "start": 15.54,
+      "end": 16.16
+    },
+    {
+      "word": "Deploy",
+      "start": 16.76,
+      "end": 16.9
+    },
+    {
+      "word": "a",
+      "start": 16.9,
+      "end": 17.12
+    },
+    {
+      "word": "make",
+      "start": 17.12,
+      "end": 17.26
+    },
+    {
+      "word": "automation",
+      "start": 17.26,
+      "end": 17.74
+    },
+    {
+      "word": "that",
+      "start": 17.74,
+      "end": 18.06
+    },
+    {
+      "word": "scans",
+      "start": 18.06,
+      "end": 18.4
+    },
+    {
+      "word": "channel",
+      "start": 18.4,
+      "end": 18.84
+    },
+    {
+      "word": "activity",
+      "start": 18.84,
+      "end": 19.26
+    },
+    {
+      "word": "weekly",
+      "start": 19.26,
+      "end": 19.66
+    },
+    {
+      "word": "and",
+      "start": 19.66,
+      "end": 20.32
+    },
+    {
+      "word": "auto",
+      "start": 20.32,
+      "end": 20.48
+    },
+    {
+      "word": "archives",
+      "start": 20.48,
+      "end": 20.9
+    },
+    {
+      "word": "any",
+      "start": 20.9,
+      "end": 21.16
+    },
+    {
+      "word": "room",
+      "start": 21.16,
+      "end": 21.4
+    },
+    {
+      "word": "dormant",
+      "start": 21.4,
+      "end": 21.68
+    },
+    {
+      "word": "for",
+      "start": 21.68,
+      "end": 22.0
+    },
+    {
+      "word": "30",
+      "start": 22.0,
+      "end": 22.18
+    },
+    {
+      "word": "days.",
+      "start": 22.18,
+      "end": 22.62
+    },
+    {
+      "word": "Your",
+      "start": 23.18,
+      "end": 23.36
+    },
+    {
+      "word": "team",
+      "start": 23.36,
+      "end": 23.68
+    },
+    {
+      "word": "stays",
+      "start": 23.68,
+      "end": 24.06
+    },
+    {
+      "word": "organized",
+      "start": 24.06,
+      "end": 24.5
+    },
+    {
+      "word": "with",
+      "start": 24.5,
+      "end": 24.88
+    },
+    {
+      "word": "zero",
+      "start": 24.88,
+      "end": 25.28
+    },
+    {
+      "word": "maintenance.",
+      "start": 25.28,
+      "end": 25.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Is your team's Slack sidebar cluttered with 80 dead project channels?",
+      "line2": "AUTO-CLEAN SLACK CHANNELS",
+      "tag": "\ud83d\uded1 Automated Slack channel cleanup bot for archived project channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated Slack channel cleanup bot for archived project channels",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated Slack channel cleanup bot for archived project channels",
+        "subtitle": "Automated Slack channel cleanup bot for archived project channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated Slack channel cleanup bot for archived project channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated Slack channel cleanup bot for archived project channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated Slack channel cleanup bot for archived project channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

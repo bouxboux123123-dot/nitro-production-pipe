@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Cross-account benchmark tracker that spots industry advertising trends",
+  "text": "This dashboard aggregates CPC and CPM data so you know if rising costs are platform-wide. Panicked clients email demanding explanations whenever cost per acquisition jumps twenty percent overnight. Without vertical benchmarks, account managers cannot prove if expensive traffic stems from bad creative or macro auctions. Build an automated Funnel pipeline that normalizes ad spend and pushes sector benchmarks into Looker Studio. You protect client trust with hard comparative data.",
+  "duration": 30.757,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "dashboard",
+      "start": 0.24,
+      "end": 0.68
+    },
+    {
+      "word": "aggregates",
+      "start": 0.68,
+      "end": 1.32
+    },
+    {
+      "word": "CPC",
+      "start": 1.32,
+      "end": 1.94
+    },
+    {
+      "word": "and",
+      "start": 1.94,
+      "end": 2.4
+    },
+    {
+      "word": "CPM",
+      "start": 2.4,
+      "end": 2.86
+    },
+    {
+      "word": "data,",
+      "start": 2.86,
+      "end": 3.3
+    },
+    {
+      "word": "so",
+      "start": 3.58,
+      "end": 3.66
+    },
+    {
+      "word": "you",
+      "start": 3.66,
+      "end": 3.8
+    },
+    {
+      "word": "know",
+      "start": 3.8,
+      "end": 3.98
+    },
+    {
+      "word": "if",
+      "start": 3.98,
+      "end": 4.18
+    },
+    {
+      "word": "rising",
+      "start": 4.18,
+      "end": 4.54
+    },
+    {
+      "word": "costs",
+      "start": 4.54,
+      "end": 5.02
+    },
+    {
+      "word": "are",
+      "start": 5.02,
+      "end": 5.26
+    },
+    {
+      "word": "platform",
+      "start": 5.26,
+      "end": 5.72
+    },
+    {
+      "word": "-wide.",
+      "start": 5.72,
+      "end": 6.16
+    },
+    {
+      "word": "Panic",
+      "start": 7.04,
+      "end": 7.04
+    },
+    {
+      "word": "clients",
+      "start": 7.04,
+      "end": 7.42
+    },
+    {
+      "word": "email",
+      "start": 7.42,
+      "end": 7.9
+    },
+    {
+      "word": "demanding",
+      "start": 7.9,
+      "end": 8.48
+    },
+    {
+      "word": "explanations,",
+      "start": 8.48,
+      "end": 9.28
+    },
+    {
+      "word": "whenever",
+      "start": 9.74,
+      "end": 9.98
+    },
+    {
+      "word": "cost",
+      "start": 9.98,
+      "end": 10.4
+    },
+    {
+      "word": "per",
+      "start": 10.4,
+      "end": 10.62
+    },
+    {
+      "word": "acquisition",
+      "start": 10.62,
+      "end": 11.02
+    },
+    {
+      "word": "jumps",
+      "start": 11.02,
+      "end": 11.66
+    },
+    {
+      "word": "20",
+      "start": 11.66,
+      "end": 12.12
+    },
+    {
+      "word": "%",
+      "start": 12.12,
+      "end": 12.44
+    },
+    {
+      "word": "overnight.",
+      "start": 12.44,
+      "end": 12.76
+    },
+    {
+      "word": "Without",
+      "start": 13.14,
+      "end": 13.46
+    },
+    {
+      "word": "vertical",
+      "start": 13.46,
+      "end": 13.86
+    },
+    {
+      "word": "benchmarks,",
+      "start": 13.86,
+      "end": 14.42
+    },
+    {
+      "word": "account",
+      "start": 14.94,
+      "end": 15.24
+    },
+    {
+      "word": "managers",
+      "start": 15.24,
+      "end": 15.7
+    },
+    {
+      "word": "cannot",
+      "start": 15.7,
+      "end": 16.2
+    },
+    {
+      "word": "prove",
+      "start": 16.2,
+      "end": 16.46
+    },
+    {
+      "word": "if",
+      "start": 16.46,
+      "end": 16.8
+    },
+    {
+      "word": "expensive",
+      "start": 16.8,
+      "end": 17.22
+    },
+    {
+      "word": "traffic",
+      "start": 17.22,
+      "end": 17.7
+    },
+    {
+      "word": "stems",
+      "start": 17.7,
+      "end": 18.04
+    },
+    {
+      "word": "from",
+      "start": 18.04,
+      "end": 18.32
+    },
+    {
+      "word": "bad",
+      "start": 18.32,
+      "end": 18.66
+    },
+    {
+      "word": "creative",
+      "start": 18.66,
+      "end": 19.14
+    },
+    {
+      "word": "or",
+      "start": 19.14,
+      "end": 19.48
+    },
+    {
+      "word": "macro",
+      "start": 19.48,
+      "end": 19.88
+    },
+    {
+      "word": "auctions.",
+      "start": 19.88,
+      "end": 20.34
+    },
+    {
+      "word": "Build",
+      "start": 20.98,
+      "end": 21.18
+    },
+    {
+      "word": "an",
+      "start": 21.18,
+      "end": 21.68
+    },
+    {
+      "word": "automated",
+      "start": 21.68,
+      "end": 21.9
+    },
+    {
+      "word": "funnel",
+      "start": 21.9,
+      "end": 22.24
+    },
+    {
+      "word": "pipeline",
+      "start": 22.24,
+      "end": 22.72
+    },
+    {
+      "word": "that",
+      "start": 22.72,
+      "end": 23.1
+    },
+    {
+      "word": "normalizes",
+      "start": 23.1,
+      "end": 23.7
+    },
+    {
+      "word": "ad",
+      "start": 23.7,
+      "end": 24.16
+    },
+    {
+      "word": "spend",
+      "start": 24.16,
+      "end": 24.52
+    },
+    {
+      "word": "and",
+      "start": 24.52,
+      "end": 25.0
+    },
+    {
+      "word": "pushes",
+      "start": 25.0,
+      "end": 25.3
+    },
+    {
+      "word": "sector",
+      "start": 25.3,
+      "end": 25.72
+    },
+    {
+      "word": "benchmarks",
+      "start": 25.72,
+      "end": 26.24
+    },
+    {
+      "word": "into",
+      "start": 26.24,
+      "end": 26.54
+    },
+    {
+      "word": "Looker",
+      "start": 26.54,
+      "end": 26.88
+    },
+    {
+      "word": "Studio.",
+      "start": 26.88,
+      "end": 27.24
+    },
+    {
+      "word": "You",
+      "start": 27.24,
+      "end": 27.96
+    },
+    {
+      "word": "protect",
+      "start": 27.96,
+      "end": 28.34
+    },
+    {
+      "word": "client",
+      "start": 28.34,
+      "end": 28.78
+    },
+    {
+      "word": "trust",
+      "start": 28.78,
+      "end": 29.1
+    },
+    {
+      "word": "with",
+      "start": 29.1,
+      "end": 29.44
+    },
+    {
+      "word": "hard",
+      "start": 29.44,
+      "end": 29.78
+    },
+    {
+      "word": "comparative",
+      "start": 29.78,
+      "end": 30.26
+    },
+    {
+      "word": "data.",
+      "start": 30.26,
+      "end": 30.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "This dashboard aggregates CPC and CPM data so you know if rising costs are platform-wide.",
+      "line2": "SPOT ADVERTISING TRENDS",
+      "tag": "\ud83d\uded1 Cross-account benchmark tracker that spots industry advertising trends",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Cross-account benchmark tracker that spots industry advertising trends",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Cross-account benchmark tracker that spots industry advertising trends",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

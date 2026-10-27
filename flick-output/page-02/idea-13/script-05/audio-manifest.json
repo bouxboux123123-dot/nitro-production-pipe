@@ -1,0 +1,411 @@
+{
+  "page": "page-02",
+  "idea": "Automated tax and expense sorter for solo freelancers",
+  "text": "This sixty-second routine keeps your freelance finances completely audit-proof all year long. Most independent consultants dread IRS audits because their personal and business expenses blur across shared accounts. Missing vendor details and unlinked payment receipts will trigger heavy penalties during an unexpected financial review. Keeper scans your banking feeds daily, prompting quick swipe-to-categorize confirmations that store complete IRS documentation. You stay organized with zero weekend stress.",
+  "duration": 30.629,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "60",
+      "start": 0.24,
+      "end": 0.6
+    },
+    {
+      "word": "-second",
+      "start": 0.6,
+      "end": 0.88
+    },
+    {
+      "word": "routine",
+      "start": 0.88,
+      "end": 1.28
+    },
+    {
+      "word": "keeps",
+      "start": 1.28,
+      "end": 1.66
+    },
+    {
+      "word": "your",
+      "start": 1.66,
+      "end": 2.0
+    },
+    {
+      "word": "freelance",
+      "start": 2.0,
+      "end": 2.22
+    },
+    {
+      "word": "finances",
+      "start": 2.22,
+      "end": 2.88
+    },
+    {
+      "word": "completely",
+      "start": 2.88,
+      "end": 3.56
+    },
+    {
+      "word": "audit",
+      "start": 3.56,
+      "end": 3.88
+    },
+    {
+      "word": "-proof",
+      "start": 3.88,
+      "end": 4.18
+    },
+    {
+      "word": "all",
+      "start": 4.18,
+      "end": 4.54
+    },
+    {
+      "word": "year",
+      "start": 4.54,
+      "end": 4.76
+    },
+    {
+      "word": "long.",
+      "start": 4.76,
+      "end": 5.32
+    },
+    {
+      "word": "Most",
+      "start": 5.68,
+      "end": 6.0
+    },
+    {
+      "word": "independent",
+      "start": 6.0,
+      "end": 6.52
+    },
+    {
+      "word": "consultants",
+      "start": 6.52,
+      "end": 7.18
+    },
+    {
+      "word": "dread",
+      "start": 7.18,
+      "end": 7.58
+    },
+    {
+      "word": "IRS",
+      "start": 7.58,
+      "end": 8.04
+    },
+    {
+      "word": "audits",
+      "start": 8.04,
+      "end": 8.6
+    },
+    {
+      "word": "because",
+      "start": 8.6,
+      "end": 9.26
+    },
+    {
+      "word": "their",
+      "start": 9.26,
+      "end": 9.62
+    },
+    {
+      "word": "personal",
+      "start": 9.62,
+      "end": 10.0
+    },
+    {
+      "word": "and",
+      "start": 10.0,
+      "end": 10.2
+    },
+    {
+      "word": "business",
+      "start": 10.2,
+      "end": 10.52
+    },
+    {
+      "word": "expenses",
+      "start": 10.52,
+      "end": 11.18
+    },
+    {
+      "word": "blur",
+      "start": 11.18,
+      "end": 11.5
+    },
+    {
+      "word": "across",
+      "start": 11.5,
+      "end": 11.92
+    },
+    {
+      "word": "shared",
+      "start": 11.92,
+      "end": 12.2
+    },
+    {
+      "word": "accounts.",
+      "start": 12.2,
+      "end": 12.68
+    },
+    {
+      "word": "Missing",
+      "start": 13.16,
+      "end": 13.32
+    },
+    {
+      "word": "vendor",
+      "start": 13.32,
+      "end": 13.62
+    },
+    {
+      "word": "details",
+      "start": 13.62,
+      "end": 14.1
+    },
+    {
+      "word": "and",
+      "start": 14.1,
+      "end": 14.54
+    },
+    {
+      "word": "unlinked",
+      "start": 14.54,
+      "end": 14.88
+    },
+    {
+      "word": "payment",
+      "start": 14.88,
+      "end": 15.2
+    },
+    {
+      "word": "receipts",
+      "start": 15.2,
+      "end": 15.56
+    },
+    {
+      "word": "will",
+      "start": 15.56,
+      "end": 15.94
+    },
+    {
+      "word": "trigger",
+      "start": 15.94,
+      "end": 16.22
+    },
+    {
+      "word": "heavy",
+      "start": 16.22,
+      "end": 16.48
+    },
+    {
+      "word": "penalties",
+      "start": 16.48,
+      "end": 16.88
+    },
+    {
+      "word": "during",
+      "start": 16.88,
+      "end": 17.34
+    },
+    {
+      "word": "an",
+      "start": 17.34,
+      "end": 17.74
+    },
+    {
+      "word": "unexpected",
+      "start": 17.74,
+      "end": 18.08
+    },
+    {
+      "word": "financial",
+      "start": 18.08,
+      "end": 18.76
+    },
+    {
+      "word": "review.",
+      "start": 18.76,
+      "end": 19.34
+    },
+    {
+      "word": "Keepers",
+      "start": 20.04,
+      "end": 20.3
+    },
+    {
+      "word": "scans",
+      "start": 20.3,
+      "end": 20.58
+    },
+    {
+      "word": "your",
+      "start": 20.58,
+      "end": 21.06
+    },
+    {
+      "word": "banking",
+      "start": 21.06,
+      "end": 21.06
+    },
+    {
+      "word": "feeds",
+      "start": 21.06,
+      "end": 21.5
+    },
+    {
+      "word": "daily,",
+      "start": 21.5,
+      "end": 21.88
+    },
+    {
+      "word": "prompting",
+      "start": 22.4,
+      "end": 22.52
+    },
+    {
+      "word": "quick",
+      "start": 22.52,
+      "end": 22.96
+    },
+    {
+      "word": "swipe",
+      "start": 22.96,
+      "end": 23.18
+    },
+    {
+      "word": "to",
+      "start": 23.18,
+      "end": 23.6
+    },
+    {
+      "word": "categorize",
+      "start": 23.6,
+      "end": 23.96
+    },
+    {
+      "word": "confirmations",
+      "start": 23.96,
+      "end": 24.72
+    },
+    {
+      "word": "that",
+      "start": 24.72,
+      "end": 25.16
+    },
+    {
+      "word": "store",
+      "start": 25.16,
+      "end": 25.44
+    },
+    {
+      "word": "complete",
+      "start": 25.44,
+      "end": 25.96
+    },
+    {
+      "word": "IRS",
+      "start": 25.96,
+      "end": 26.52
+    },
+    {
+      "word": "documentation.",
+      "start": 26.52,
+      "end": 27.38
+    },
+    {
+      "word": "You",
+      "start": 27.38,
+      "end": 28.08
+    },
+    {
+      "word": "stay",
+      "start": 28.08,
+      "end": 28.5
+    },
+    {
+      "word": "organized",
+      "start": 28.5,
+      "end": 29.0
+    },
+    {
+      "word": "with",
+      "start": 29.0,
+      "end": 29.36
+    },
+    {
+      "word": "zero",
+      "start": 29.36,
+      "end": 29.82
+    },
+    {
+      "word": "-week",
+      "start": 29.82,
+      "end": 30.04
+    },
+    {
+      "word": "interest.",
+      "start": 30.04,
+      "end": 30.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "The 60-second routine that keeps your freelance finances audit-proof.",
+      "line2": "AUTO-SORT FREELANCE TAXES",
+      "tag": "\ud83d\uded1 Automated tax and expense sorter for solo freelancers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated tax and expense sorter for solo freelancers",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated tax and expense sorter for solo freelancers",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated tax and expense sorter for solo freelancers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Jellyfin: self-host your own private media streaming server for free",
+  "text": "The open-source Plex alternative with zero tracking, paywalls, or premium feature locks. Mainstream media servers increasingly harvest personal data, inject sponsored content, and restrict basic mobile playback behind paywalls. Relying on proprietary software leaves your private internal video library vulnerable to remote account lockouts. Jellyfin gives you a completely free, open-source streaming ecosystem with hardware acceleration and zero tracking. You enjoy private on-demand streaming across all devices.",
+  "duration": 32.805,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "open",
+      "start": 0.2,
+      "end": 0.54
+    },
+    {
+      "word": "source",
+      "start": 0.54,
+      "end": 0.78
+    },
+    {
+      "word": "Plex",
+      "start": 0.78,
+      "end": 1.14
+    },
+    {
+      "word": "Alternative",
+      "start": 1.14,
+      "end": 1.66
+    },
+    {
+      "word": "with",
+      "start": 1.66,
+      "end": 2.02
+    },
+    {
+      "word": "zero",
+      "start": 2.02,
+      "end": 2.42
+    },
+    {
+      "word": "tracking,",
+      "start": 2.42,
+      "end": 2.88
+    },
+    {
+      "word": "paywalls,",
+      "start": 3.4,
+      "end": 3.72
+    },
+    {
+      "word": "or",
+      "start": 3.96,
+      "end": 4.26
+    },
+    {
+      "word": "premium",
+      "start": 4.26,
+      "end": 4.52
+    },
+    {
+      "word": "feature",
+      "start": 4.52,
+      "end": 4.92
+    },
+    {
+      "word": "locks.",
+      "start": 4.92,
+      "end": 5.5
+    },
+    {
+      "word": "Mainstream",
+      "start": 6.18,
+      "end": 6.44
+    },
+    {
+      "word": "media",
+      "start": 6.44,
+      "end": 6.84
+    },
+    {
+      "word": "servers",
+      "start": 6.84,
+      "end": 7.26
+    },
+    {
+      "word": "increasingly",
+      "start": 7.26,
+      "end": 8.08
+    },
+    {
+      "word": "harvest",
+      "start": 8.08,
+      "end": 8.52
+    },
+    {
+      "word": "personal",
+      "start": 8.52,
+      "end": 8.98
+    },
+    {
+      "word": "data,",
+      "start": 8.98,
+      "end": 9.52
+    },
+    {
+      "word": "inject",
+      "start": 10.08,
+      "end": 10.08
+    },
+    {
+      "word": "sponsored",
+      "start": 10.08,
+      "end": 10.54
+    },
+    {
+      "word": "content,",
+      "start": 10.54,
+      "end": 11.2
+    },
+    {
+      "word": "and",
+      "start": 11.34,
+      "end": 11.72
+    },
+    {
+      "word": "restrict",
+      "start": 11.72,
+      "end": 12.1
+    },
+    {
+      "word": "basic",
+      "start": 12.1,
+      "end": 12.56
+    },
+    {
+      "word": "mobile",
+      "start": 12.56,
+      "end": 12.9
+    },
+    {
+      "word": "playback",
+      "start": 12.9,
+      "end": 13.42
+    },
+    {
+      "word": "behind",
+      "start": 13.42,
+      "end": 13.84
+    },
+    {
+      "word": "paywalls.",
+      "start": 13.84,
+      "end": 14.44
+    },
+    {
+      "word": "Relying",
+      "start": 14.82,
+      "end": 15.12
+    },
+    {
+      "word": "on",
+      "start": 15.12,
+      "end": 15.38
+    },
+    {
+      "word": "proprietary",
+      "start": 15.38,
+      "end": 15.86
+    },
+    {
+      "word": "software",
+      "start": 15.86,
+      "end": 16.46
+    },
+    {
+      "word": "leaves",
+      "start": 16.46,
+      "end": 17.0
+    },
+    {
+      "word": "your",
+      "start": 17.0,
+      "end": 17.32
+    },
+    {
+      "word": "private",
+      "start": 17.32,
+      "end": 17.6
+    },
+    {
+      "word": "internal",
+      "start": 17.6,
+      "end": 18.08
+    },
+    {
+      "word": "video",
+      "start": 18.08,
+      "end": 18.42
+    },
+    {
+      "word": "library",
+      "start": 18.42,
+      "end": 18.96
+    },
+    {
+      "word": "vulnerable",
+      "start": 18.96,
+      "end": 19.48
+    },
+    {
+      "word": "to",
+      "start": 19.48,
+      "end": 19.86
+    },
+    {
+      "word": "remote",
+      "start": 19.86,
+      "end": 20.08
+    },
+    {
+      "word": "account",
+      "start": 20.08,
+      "end": 20.54
+    },
+    {
+      "word": "lockouts.",
+      "start": 20.54,
+      "end": 21.06
+    },
+    {
+      "word": "Gelifin",
+      "start": 21.66,
+      "end": 22.12
+    },
+    {
+      "word": "gives",
+      "start": 22.12,
+      "end": 22.42
+    },
+    {
+      "word": "you",
+      "start": 22.42,
+      "end": 22.64
+    },
+    {
+      "word": "a",
+      "start": 22.64,
+      "end": 23.28
+    },
+    {
+      "word": "completely",
+      "start": 23.28,
+      "end": 23.28
+    },
+    {
+      "word": "free",
+      "start": 23.28,
+      "end": 23.94
+    },
+    {
+      "word": "open",
+      "start": 23.94,
+      "end": 24.38
+    },
+    {
+      "word": "-source",
+      "start": 24.38,
+      "end": 24.72
+    },
+    {
+      "word": "streaming",
+      "start": 24.72,
+      "end": 25.14
+    },
+    {
+      "word": "ecosystem",
+      "start": 25.14,
+      "end": 25.66
+    },
+    {
+      "word": "with",
+      "start": 25.66,
+      "end": 26.16
+    },
+    {
+      "word": "hardware",
+      "start": 26.16,
+      "end": 26.56
+    },
+    {
+      "word": "acceleration",
+      "start": 26.56,
+      "end": 27.24
+    },
+    {
+      "word": "and",
+      "start": 27.24,
+      "end": 27.94
+    },
+    {
+      "word": "zero",
+      "start": 27.94,
+      "end": 28.32
+    },
+    {
+      "word": "tracking.",
+      "start": 28.32,
+      "end": 28.72
+    },
+    {
+      "word": "You",
+      "start": 28.72,
+      "end": 29.44
+    },
+    {
+      "word": "enjoy",
+      "start": 29.44,
+      "end": 29.84
+    },
+    {
+      "word": "private",
+      "start": 29.84,
+      "end": 30.3
+    },
+    {
+      "word": "on",
+      "start": 30.3,
+      "end": 30.54
+    },
+    {
+      "word": "-demand",
+      "start": 30.54,
+      "end": 30.9
+    },
+    {
+      "word": "streaming",
+      "start": 30.9,
+      "end": 31.42
+    },
+    {
+      "word": "across",
+      "start": 31.42,
+      "end": 31.84
+    },
+    {
+      "word": "all",
+      "start": 31.84,
+      "end": 32.16
+    },
+    {
+      "word": "devices.",
+      "start": 32.16,
+      "end": 32.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The open-source Plex alternative with zero tracking, paywalls, or premium locks.",
+      "line2": "SELF-HOST MEDIA SERVERS",
+      "tag": "\ud83d\uded1 Jellyfin",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Jellyfin",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Jellyfin",
+        "subtitle": "Jellyfin"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Jellyfin"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Jellyfin"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Jellyfin",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

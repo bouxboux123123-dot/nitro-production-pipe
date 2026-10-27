@@ -1,0 +1,421 @@
+{
+  "page": "page-07",
+  "idea": "Automated customer testimonial widget that embeds live on sales pages",
+  "text": "This automated workflow captures positive customer quotes and embeds them directly onto your checkout page. Potential buyers hesitate at the payment screen when they cannot find recent proof from real users. Copying and pasting quotes manually from support tickets into Webflow takes hours and quickly becomes outdated. Connect Zapier to push five-star reviews from Testimonial.to directly into your checkout page testimonial carousel. You eliminate checkout abandonment while driving higher conversions.",
+  "duration": 30.223,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "automated",
+      "start": 0.32,
+      "end": 0.76
+    },
+    {
+      "word": "workflow",
+      "start": 0.76,
+      "end": 1.36
+    },
+    {
+      "word": "captures",
+      "start": 1.36,
+      "end": 1.9
+    },
+    {
+      "word": "positive",
+      "start": 1.9,
+      "end": 2.56
+    },
+    {
+      "word": "customer",
+      "start": 2.56,
+      "end": 3.02
+    },
+    {
+      "word": "quotes",
+      "start": 3.02,
+      "end": 3.5
+    },
+    {
+      "word": "and",
+      "start": 3.5,
+      "end": 3.98
+    },
+    {
+      "word": "embeds",
+      "start": 3.98,
+      "end": 4.34
+    },
+    {
+      "word": "them",
+      "start": 4.34,
+      "end": 4.52
+    },
+    {
+      "word": "directly",
+      "start": 4.52,
+      "end": 5.0
+    },
+    {
+      "word": "onto",
+      "start": 5.0,
+      "end": 5.3
+    },
+    {
+      "word": "your",
+      "start": 5.3,
+      "end": 5.64
+    },
+    {
+      "word": "checkout",
+      "start": 5.64,
+      "end": 5.82
+    },
+    {
+      "word": "page.",
+      "start": 5.82,
+      "end": 6.54
+    },
+    {
+      "word": "Potential",
+      "start": 7.42,
+      "end": 7.42
+    },
+    {
+      "word": "buyers",
+      "start": 7.42,
+      "end": 7.84
+    },
+    {
+      "word": "hesitate",
+      "start": 7.84,
+      "end": 8.38
+    },
+    {
+      "word": "at",
+      "start": 8.38,
+      "end": 8.62
+    },
+    {
+      "word": "the",
+      "start": 8.62,
+      "end": 8.8
+    },
+    {
+      "word": "payment",
+      "start": 8.8,
+      "end": 8.94
+    },
+    {
+      "word": "screen",
+      "start": 8.94,
+      "end": 9.36
+    },
+    {
+      "word": "when",
+      "start": 9.36,
+      "end": 9.64
+    },
+    {
+      "word": "they",
+      "start": 9.64,
+      "end": 9.8
+    },
+    {
+      "word": "cannot",
+      "start": 9.8,
+      "end": 10.14
+    },
+    {
+      "word": "find",
+      "start": 10.14,
+      "end": 10.5
+    },
+    {
+      "word": "recent",
+      "start": 10.5,
+      "end": 10.88
+    },
+    {
+      "word": "proof",
+      "start": 10.88,
+      "end": 11.2
+    },
+    {
+      "word": "from",
+      "start": 11.2,
+      "end": 11.42
+    },
+    {
+      "word": "real",
+      "start": 11.42,
+      "end": 11.66
+    },
+    {
+      "word": "users.",
+      "start": 11.66,
+      "end": 12.22
+    },
+    {
+      "word": "Copying",
+      "start": 12.56,
+      "end": 13.0
+    },
+    {
+      "word": "and",
+      "start": 13.0,
+      "end": 13.22
+    },
+    {
+      "word": "pasting",
+      "start": 13.22,
+      "end": 13.64
+    },
+    {
+      "word": "quotes",
+      "start": 13.64,
+      "end": 14.04
+    },
+    {
+      "word": "manually",
+      "start": 14.04,
+      "end": 14.42
+    },
+    {
+      "word": "from",
+      "start": 14.42,
+      "end": 14.78
+    },
+    {
+      "word": "support",
+      "start": 14.78,
+      "end": 15.1
+    },
+    {
+      "word": "tickets",
+      "start": 15.1,
+      "end": 15.44
+    },
+    {
+      "word": "into",
+      "start": 15.44,
+      "end": 15.7
+    },
+    {
+      "word": "Webflow",
+      "start": 15.7,
+      "end": 16.22
+    },
+    {
+      "word": "takes",
+      "start": 16.22,
+      "end": 16.62
+    },
+    {
+      "word": "hours",
+      "start": 16.62,
+      "end": 17.06
+    },
+    {
+      "word": "and",
+      "start": 17.06,
+      "end": 17.56
+    },
+    {
+      "word": "quickly",
+      "start": 17.56,
+      "end": 17.86
+    },
+    {
+      "word": "becomes",
+      "start": 17.86,
+      "end": 18.3
+    },
+    {
+      "word": "outdated.",
+      "start": 18.3,
+      "end": 18.86
+    },
+    {
+      "word": "Connect",
+      "start": 19.82,
+      "end": 19.82
+    },
+    {
+      "word": "Zapier",
+      "start": 19.82,
+      "end": 20.28
+    },
+    {
+      "word": "to",
+      "start": 20.28,
+      "end": 20.46
+    },
+    {
+      "word": "push",
+      "start": 20.46,
+      "end": 20.72
+    },
+    {
+      "word": "five",
+      "start": 20.72,
+      "end": 21.1
+    },
+    {
+      "word": "-star",
+      "start": 21.1,
+      "end": 21.34
+    },
+    {
+      "word": "reviews",
+      "start": 21.34,
+      "end": 21.7
+    },
+    {
+      "word": "from",
+      "start": 21.7,
+      "end": 22.06
+    },
+    {
+      "word": "testimonial",
+      "start": 22.06,
+      "end": 22.76
+    },
+    {
+      "word": "to",
+      "start": 22.76,
+      "end": 23.3
+    },
+    {
+      "word": "directly",
+      "start": 23.3,
+      "end": 23.74
+    },
+    {
+      "word": "into",
+      "start": 23.74,
+      "end": 24.0
+    },
+    {
+      "word": "your",
+      "start": 24.0,
+      "end": 24.34
+    },
+    {
+      "word": "checkout",
+      "start": 24.34,
+      "end": 24.6
+    },
+    {
+      "word": "page",
+      "start": 24.6,
+      "end": 24.98
+    },
+    {
+      "word": "testimonial",
+      "start": 24.98,
+      "end": 25.7
+    },
+    {
+      "word": "carousel.",
+      "start": 25.7,
+      "end": 26.32
+    },
+    {
+      "word": "You",
+      "start": 26.32,
+      "end": 27.1
+    },
+    {
+      "word": "eliminate",
+      "start": 27.1,
+      "end": 27.48
+    },
+    {
+      "word": "checkout",
+      "start": 27.48,
+      "end": 27.9
+    },
+    {
+      "word": "abandonment",
+      "start": 27.9,
+      "end": 28.38
+    },
+    {
+      "word": "while",
+      "start": 28.38,
+      "end": 28.72
+    },
+    {
+      "word": "driving",
+      "start": 28.72,
+      "end": 29.1
+    },
+    {
+      "word": "higher",
+      "start": 29.1,
+      "end": 29.48
+    },
+    {
+      "word": "conversions.",
+      "start": 29.48,
+      "end": 30.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "This workflow captures positive customer quotes and embeds them on your checkout page.",
+      "line2": "EMBED LIVE TESTIMONIALS",
+      "tag": "\ud83d\uded1 Automated customer testimonial widget that embeds live on sales pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated customer testimonial widget that embeds live on sales pages",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated customer testimonial widget that embeds live on sales pages",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

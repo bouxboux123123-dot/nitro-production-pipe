@@ -1,0 +1,426 @@
+{
+  "page": "page-10",
+  "idea": "Linear Insights update for software engineering velocity tracking",
+  "text": "The fastest-shipping startups are using Linear's new feature to prioritize features by revenue impact. Founders often struggle to decide which user request deserves sprint priority when ten accounts demand conflicting changes. Misallocating developer hours to small tire-kickers instead of contract renewals stalls company growth and drains runway. Linear Customer Requests aggregates user feedback and attaches Salesforce account values directly to linked roadmap issues. You ship maximum revenue impact with every sprint.",
+  "duration": 32.741,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "fastest",
+      "start": 0.26,
+      "end": 0.56
+    },
+    {
+      "word": "-chipping",
+      "start": 0.56,
+      "end": 0.9
+    },
+    {
+      "word": "startups",
+      "start": 0.9,
+      "end": 1.26
+    },
+    {
+      "word": "are",
+      "start": 1.26,
+      "end": 1.66
+    },
+    {
+      "word": "using",
+      "start": 1.66,
+      "end": 2.02
+    },
+    {
+      "word": "linear's",
+      "start": 2.02,
+      "end": 2.44
+    },
+    {
+      "word": "new",
+      "start": 2.44,
+      "end": 2.7
+    },
+    {
+      "word": "feature",
+      "start": 2.7,
+      "end": 3.02
+    },
+    {
+      "word": "to",
+      "start": 3.02,
+      "end": 3.34
+    },
+    {
+      "word": "prioritize",
+      "start": 3.34,
+      "end": 3.86
+    },
+    {
+      "word": "features",
+      "start": 3.86,
+      "end": 4.58
+    },
+    {
+      "word": "by",
+      "start": 4.58,
+      "end": 5.06
+    },
+    {
+      "word": "revenue",
+      "start": 5.06,
+      "end": 5.46
+    },
+    {
+      "word": "impact.",
+      "start": 5.46,
+      "end": 6.1
+    },
+    {
+      "word": "Founders",
+      "start": 7.02,
+      "end": 7.02
+    },
+    {
+      "word": "often",
+      "start": 7.02,
+      "end": 7.56
+    },
+    {
+      "word": "struggle",
+      "start": 7.56,
+      "end": 7.86
+    },
+    {
+      "word": "to",
+      "start": 7.86,
+      "end": 8.12
+    },
+    {
+      "word": "decide",
+      "start": 8.12,
+      "end": 8.54
+    },
+    {
+      "word": "which",
+      "start": 8.54,
+      "end": 8.86
+    },
+    {
+      "word": "user",
+      "start": 8.86,
+      "end": 9.14
+    },
+    {
+      "word": "request",
+      "start": 9.14,
+      "end": 9.62
+    },
+    {
+      "word": "deserves",
+      "start": 9.62,
+      "end": 10.1
+    },
+    {
+      "word": "sprint",
+      "start": 10.1,
+      "end": 10.44
+    },
+    {
+      "word": "priority",
+      "start": 10.44,
+      "end": 10.96
+    },
+    {
+      "word": "when",
+      "start": 10.96,
+      "end": 11.6
+    },
+    {
+      "word": "10",
+      "start": 11.6,
+      "end": 11.86
+    },
+    {
+      "word": "accounts",
+      "start": 11.86,
+      "end": 12.34
+    },
+    {
+      "word": "demand",
+      "start": 12.34,
+      "end": 12.8
+    },
+    {
+      "word": "conflicting",
+      "start": 12.8,
+      "end": 13.26
+    },
+    {
+      "word": "changes,",
+      "start": 13.26,
+      "end": 14.0
+    },
+    {
+      "word": "misallocating",
+      "start": 14.42,
+      "end": 14.94
+    },
+    {
+      "word": "developer",
+      "start": 14.94,
+      "end": 15.42
+    },
+    {
+      "word": "hours",
+      "start": 15.42,
+      "end": 15.9
+    },
+    {
+      "word": "to",
+      "start": 15.9,
+      "end": 16.18
+    },
+    {
+      "word": "small",
+      "start": 16.18,
+      "end": 16.48
+    },
+    {
+      "word": "tire",
+      "start": 16.48,
+      "end": 16.8
+    },
+    {
+      "word": "kickers",
+      "start": 16.8,
+      "end": 17.24
+    },
+    {
+      "word": "instead",
+      "start": 17.24,
+      "end": 17.7
+    },
+    {
+      "word": "of",
+      "start": 17.7,
+      "end": 17.98
+    },
+    {
+      "word": "contract",
+      "start": 17.98,
+      "end": 18.32
+    },
+    {
+      "word": "renewals,",
+      "start": 18.32,
+      "end": 18.98
+    },
+    {
+      "word": "stalls",
+      "start": 19.24,
+      "end": 19.5
+    },
+    {
+      "word": "company",
+      "start": 19.5,
+      "end": 19.94
+    },
+    {
+      "word": "growth",
+      "start": 19.94,
+      "end": 20.34
+    },
+    {
+      "word": "and",
+      "start": 20.34,
+      "end": 20.7
+    },
+    {
+      "word": "drains",
+      "start": 20.7,
+      "end": 21.0
+    },
+    {
+      "word": "runway.",
+      "start": 21.0,
+      "end": 21.64
+    },
+    {
+      "word": "Linear",
+      "start": 22.32,
+      "end": 22.46
+    },
+    {
+      "word": "customer",
+      "start": 22.46,
+      "end": 22.88
+    },
+    {
+      "word": "requests",
+      "start": 22.88,
+      "end": 23.48
+    },
+    {
+      "word": "aggregates",
+      "start": 23.48,
+      "end": 24.18
+    },
+    {
+      "word": "user",
+      "start": 24.18,
+      "end": 24.48
+    },
+    {
+      "word": "feedback",
+      "start": 24.48,
+      "end": 24.98
+    },
+    {
+      "word": "and",
+      "start": 24.98,
+      "end": 25.46
+    },
+    {
+      "word": "attaches",
+      "start": 25.46,
+      "end": 25.86
+    },
+    {
+      "word": "Salesforce",
+      "start": 25.86,
+      "end": 26.54
+    },
+    {
+      "word": "account",
+      "start": 26.54,
+      "end": 26.98
+    },
+    {
+      "word": "values",
+      "start": 26.98,
+      "end": 27.6
+    },
+    {
+      "word": "directly",
+      "start": 27.6,
+      "end": 28.0
+    },
+    {
+      "word": "to",
+      "start": 28.0,
+      "end": 28.36
+    },
+    {
+      "word": "linked",
+      "start": 28.36,
+      "end": 28.6
+    },
+    {
+      "word": "roadmap",
+      "start": 28.6,
+      "end": 28.98
+    },
+    {
+      "word": "issues.",
+      "start": 28.98,
+      "end": 29.5
+    },
+    {
+      "word": "You",
+      "start": 30.14,
+      "end": 30.22
+    },
+    {
+      "word": "ship",
+      "start": 30.22,
+      "end": 30.48
+    },
+    {
+      "word": "maximum",
+      "start": 30.48,
+      "end": 30.96
+    },
+    {
+      "word": "revenue",
+      "start": 30.96,
+      "end": 31.38
+    },
+    {
+      "word": "impact",
+      "start": 31.38,
+      "end": 31.78
+    },
+    {
+      "word": "with",
+      "start": 31.78,
+      "end": 32.06
+    },
+    {
+      "word": "every",
+      "start": 32.06,
+      "end": 32.4
+    },
+    {
+      "word": "sprint.",
+      "start": 32.4,
+      "end": 32.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Why teams are abandoning traditional project management tools for Linear.",
+      "line2": "LINEAR ENGINEERING VELOCITY INSIGHTS",
+      "tag": "\ud83d\uded1 Linear Insights update for software engineering velocity tracking",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Linear Insights update for software engineering velocity tracking",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Linear Insights update for software engineering velocity tracking",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Linear Insights update for software engineering velocity tracking",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

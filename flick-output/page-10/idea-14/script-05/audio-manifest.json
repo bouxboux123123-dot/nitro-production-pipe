@@ -1,0 +1,411 @@
+{
+  "page": "page-10",
+  "idea": "Linear Insights update for software engineering velocity tracking",
+  "text": "Customer feedback usually dies in support channels, but Linear just automated the entire handoff. Valuable user insights get buried in Slack threads and helpdesks because nobody maintains centralized product logs. That disconnect blinds engineers to recurring software glitches and drives frustrated users to competitors. Linear captures customer signals across Zendesk, Slack, and Front, clustering similar requests into actionable engineering issues. You resolve user friction before it causes churn.",
+  "duration": 30.799,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Customer",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "feedback",
+      "start": 0.4,
+      "end": 0.9
+    },
+    {
+      "word": "usually",
+      "start": 0.9,
+      "end": 1.48
+    },
+    {
+      "word": "dies",
+      "start": 1.48,
+      "end": 1.88
+    },
+    {
+      "word": "in",
+      "start": 1.88,
+      "end": 2.14
+    },
+    {
+      "word": "support",
+      "start": 2.14,
+      "end": 2.44
+    },
+    {
+      "word": "channels,",
+      "start": 2.44,
+      "end": 3.0
+    },
+    {
+      "word": "but",
+      "start": 3.34,
+      "end": 3.52
+    },
+    {
+      "word": "linear",
+      "start": 3.52,
+      "end": 3.68
+    },
+    {
+      "word": "just",
+      "start": 3.68,
+      "end": 4.2
+    },
+    {
+      "word": "automated",
+      "start": 4.2,
+      "end": 4.6
+    },
+    {
+      "word": "the",
+      "start": 4.6,
+      "end": 4.98
+    },
+    {
+      "word": "entire",
+      "start": 4.98,
+      "end": 5.32
+    },
+    {
+      "word": "handoff.",
+      "start": 5.32,
+      "end": 6.08
+    },
+    {
+      "word": "Valuable",
+      "start": 6.4,
+      "end": 6.82
+    },
+    {
+      "word": "user",
+      "start": 6.82,
+      "end": 7.26
+    },
+    {
+      "word": "insights",
+      "start": 7.26,
+      "end": 7.66
+    },
+    {
+      "word": "get",
+      "start": 7.66,
+      "end": 8.08
+    },
+    {
+      "word": "buried",
+      "start": 8.08,
+      "end": 8.36
+    },
+    {
+      "word": "in",
+      "start": 8.36,
+      "end": 8.68
+    },
+    {
+      "word": "slack",
+      "start": 8.68,
+      "end": 8.92
+    },
+    {
+      "word": "threads",
+      "start": 8.92,
+      "end": 9.3
+    },
+    {
+      "word": "and",
+      "start": 9.3,
+      "end": 9.52
+    },
+    {
+      "word": "help",
+      "start": 9.52,
+      "end": 9.8
+    },
+    {
+      "word": "desks",
+      "start": 9.8,
+      "end": 10.08
+    },
+    {
+      "word": "because",
+      "start": 10.08,
+      "end": 10.66
+    },
+    {
+      "word": "nobody",
+      "start": 10.66,
+      "end": 11.0
+    },
+    {
+      "word": "maintains",
+      "start": 11.0,
+      "end": 11.72
+    },
+    {
+      "word": "centralized",
+      "start": 11.72,
+      "end": 12.34
+    },
+    {
+      "word": "product",
+      "start": 12.34,
+      "end": 12.82
+    },
+    {
+      "word": "logs",
+      "start": 12.82,
+      "end": 13.28
+    },
+    {
+      "word": "that",
+      "start": 13.28,
+      "end": 13.84
+    },
+    {
+      "word": "disconnect",
+      "start": 13.84,
+      "end": 14.2
+    },
+    {
+      "word": "blinds",
+      "start": 14.2,
+      "end": 14.82
+    },
+    {
+      "word": "engineers",
+      "start": 14.82,
+      "end": 15.1
+    },
+    {
+      "word": "to",
+      "start": 15.1,
+      "end": 15.48
+    },
+    {
+      "word": "recurring",
+      "start": 15.48,
+      "end": 15.9
+    },
+    {
+      "word": "software",
+      "start": 15.9,
+      "end": 16.34
+    },
+    {
+      "word": "glitches",
+      "start": 16.34,
+      "end": 16.78
+    },
+    {
+      "word": "and",
+      "start": 16.78,
+      "end": 17.32
+    },
+    {
+      "word": "drives",
+      "start": 17.32,
+      "end": 17.74
+    },
+    {
+      "word": "frustrated",
+      "start": 17.74,
+      "end": 18.22
+    },
+    {
+      "word": "users",
+      "start": 18.22,
+      "end": 18.7
+    },
+    {
+      "word": "to",
+      "start": 18.7,
+      "end": 18.98
+    },
+    {
+      "word": "competitors.",
+      "start": 18.98,
+      "end": 19.44
+    },
+    {
+      "word": "Linear",
+      "start": 20.28,
+      "end": 20.3
+    },
+    {
+      "word": "captures",
+      "start": 20.3,
+      "end": 20.72
+    },
+    {
+      "word": "customer",
+      "start": 20.72,
+      "end": 21.3
+    },
+    {
+      "word": "signals",
+      "start": 21.3,
+      "end": 21.68
+    },
+    {
+      "word": "across",
+      "start": 21.68,
+      "end": 22.1
+    },
+    {
+      "word": "zen",
+      "start": 22.1,
+      "end": 22.38
+    },
+    {
+      "word": "desk,",
+      "start": 22.38,
+      "end": 22.72
+    },
+    {
+      "word": "slack",
+      "start": 23.1,
+      "end": 23.38
+    },
+    {
+      "word": "and",
+      "start": 23.38,
+      "end": 23.62
+    },
+    {
+      "word": "front,",
+      "start": 23.62,
+      "end": 24.1
+    },
+    {
+      "word": "clustering",
+      "start": 24.52,
+      "end": 24.82
+    },
+    {
+      "word": "similar",
+      "start": 24.82,
+      "end": 25.16
+    },
+    {
+      "word": "requests",
+      "start": 25.16,
+      "end": 25.64
+    },
+    {
+      "word": "into",
+      "start": 25.64,
+      "end": 25.94
+    },
+    {
+      "word": "actionable",
+      "start": 25.94,
+      "end": 26.5
+    },
+    {
+      "word": "engineering",
+      "start": 26.5,
+      "end": 26.98
+    },
+    {
+      "word": "issues.",
+      "start": 26.98,
+      "end": 27.48
+    },
+    {
+      "word": "You",
+      "start": 27.48,
+      "end": 28.18
+    },
+    {
+      "word": "resolve",
+      "start": 28.18,
+      "end": 28.56
+    },
+    {
+      "word": "user",
+      "start": 28.56,
+      "end": 28.94
+    },
+    {
+      "word": "friction",
+      "start": 28.94,
+      "end": 29.38
+    },
+    {
+      "word": "before",
+      "start": 29.38,
+      "end": 29.7
+    },
+    {
+      "word": "it",
+      "start": 29.7,
+      "end": 30.3
+    },
+    {
+      "word": "causes",
+      "start": 30.3,
+      "end": 30.3
+    },
+    {
+      "word": "churn.",
+      "start": 30.3,
+      "end": 30.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The cleanest issue-tracking update released this quarter.",
+      "line2": "LINEAR ENGINEERING VELOCITY INSIGHTS",
+      "tag": "\ud83d\uded1 Linear Insights update for software engineering velocity tracking",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Linear Insights update for software engineering velocity tracking",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Linear Insights update for software engineering velocity tracking",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Linear Insights update for software engineering velocity tracking",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

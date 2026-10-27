@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "AppFlowy: the open-source Notion replacement that stays local",
+  "text": "This privacy-first, completely free Notion alternative runs directly on your local machine. Creators and developers waste time waiting for cloud workspaces to load on spotty internet. Centralized notes apps expose sensitive strategies to external servers and fail during unexpected cloud outages. AppFlowy stores your entire knowledge base locally with markdown support, custom boards, and blazing-fast performance. You keep private notes completely secure and accessible anywhere.",
+  "duration": 29.818,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "privacy",
+      "start": 0.28,
+      "end": 0.66
+    },
+    {
+      "word": "first,",
+      "start": 0.66,
+      "end": 1.18
+    },
+    {
+      "word": "completely",
+      "start": 1.88,
+      "end": 1.88
+    },
+    {
+      "word": "free",
+      "start": 1.88,
+      "end": 2.2
+    },
+    {
+      "word": "-notion",
+      "start": 2.2,
+      "end": 2.58
+    },
+    {
+      "word": "alternative,",
+      "start": 2.58,
+      "end": 3.3
+    },
+    {
+      "word": "runs",
+      "start": 3.78,
+      "end": 3.92
+    },
+    {
+      "word": "directly",
+      "start": 3.92,
+      "end": 4.36
+    },
+    {
+      "word": "on",
+      "start": 4.36,
+      "end": 4.6
+    },
+    {
+      "word": "your",
+      "start": 4.6,
+      "end": 4.84
+    },
+    {
+      "word": "local",
+      "start": 4.84,
+      "end": 5.0
+    },
+    {
+      "word": "machine.",
+      "start": 5.0,
+      "end": 5.66
+    },
+    {
+      "word": "Creators",
+      "start": 6.4,
+      "end": 6.6
+    },
+    {
+      "word": "and",
+      "start": 6.6,
+      "end": 6.76
+    },
+    {
+      "word": "developers",
+      "start": 6.76,
+      "end": 7.14
+    },
+    {
+      "word": "waste",
+      "start": 7.14,
+      "end": 7.6
+    },
+    {
+      "word": "time",
+      "start": 7.6,
+      "end": 8.0
+    },
+    {
+      "word": "waiting",
+      "start": 8.0,
+      "end": 8.32
+    },
+    {
+      "word": "for",
+      "start": 8.32,
+      "end": 8.62
+    },
+    {
+      "word": "cloud",
+      "start": 8.62,
+      "end": 9.02
+    },
+    {
+      "word": "workspaces",
+      "start": 9.02,
+      "end": 9.66
+    },
+    {
+      "word": "to",
+      "start": 9.66,
+      "end": 9.96
+    },
+    {
+      "word": "load",
+      "start": 9.96,
+      "end": 10.22
+    },
+    {
+      "word": "on",
+      "start": 10.22,
+      "end": 10.54
+    },
+    {
+      "word": "spotty",
+      "start": 10.54,
+      "end": 11.02
+    },
+    {
+      "word": "internet.",
+      "start": 11.02,
+      "end": 11.42
+    },
+    {
+      "word": "Centralized",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "word": "notes",
+      "start": 12.32,
+      "end": 12.64
+    },
+    {
+      "word": "apps",
+      "start": 12.64,
+      "end": 12.94
+    },
+    {
+      "word": "expose",
+      "start": 12.94,
+      "end": 13.46
+    },
+    {
+      "word": "sensitive",
+      "start": 13.46,
+      "end": 13.84
+    },
+    {
+      "word": "strategies",
+      "start": 13.84,
+      "end": 14.36
+    },
+    {
+      "word": "to",
+      "start": 14.36,
+      "end": 14.78
+    },
+    {
+      "word": "external",
+      "start": 14.78,
+      "end": 15.1
+    },
+    {
+      "word": "servers",
+      "start": 15.1,
+      "end": 15.6
+    },
+    {
+      "word": "and",
+      "start": 15.6,
+      "end": 16.16
+    },
+    {
+      "word": "fail",
+      "start": 16.16,
+      "end": 16.44
+    },
+    {
+      "word": "during",
+      "start": 16.44,
+      "end": 16.92
+    },
+    {
+      "word": "unexpected",
+      "start": 16.92,
+      "end": 17.38
+    },
+    {
+      "word": "cloud",
+      "start": 17.38,
+      "end": 17.98
+    },
+    {
+      "word": "outages.",
+      "start": 17.98,
+      "end": 18.5
+    },
+    {
+      "word": "App",
+      "start": 19.38,
+      "end": 19.44
+    },
+    {
+      "word": "flowy",
+      "start": 19.44,
+      "end": 19.82
+    },
+    {
+      "word": "stores",
+      "start": 19.82,
+      "end": 20.08
+    },
+    {
+      "word": "your",
+      "start": 20.08,
+      "end": 20.38
+    },
+    {
+      "word": "entire",
+      "start": 20.38,
+      "end": 20.82
+    },
+    {
+      "word": "knowledge",
+      "start": 20.82,
+      "end": 21.14
+    },
+    {
+      "word": "base",
+      "start": 21.14,
+      "end": 21.52
+    },
+    {
+      "word": "locally",
+      "start": 21.52,
+      "end": 21.88
+    },
+    {
+      "word": "with",
+      "start": 21.88,
+      "end": 22.18
+    },
+    {
+      "word": "markdown",
+      "start": 22.18,
+      "end": 22.68
+    },
+    {
+      "word": "support,",
+      "start": 22.68,
+      "end": 23.16
+    },
+    {
+      "word": "custom",
+      "start": 23.84,
+      "end": 23.84
+    },
+    {
+      "word": "boards,",
+      "start": 23.84,
+      "end": 24.22
+    },
+    {
+      "word": "and",
+      "start": 24.48,
+      "end": 24.66
+    },
+    {
+      "word": "blazing",
+      "start": 24.66,
+      "end": 24.96
+    },
+    {
+      "word": "fast",
+      "start": 24.96,
+      "end": 25.36
+    },
+    {
+      "word": "performance.",
+      "start": 25.36,
+      "end": 25.86
+    },
+    {
+      "word": "You",
+      "start": 26.46,
+      "end": 26.58
+    },
+    {
+      "word": "keep",
+      "start": 26.58,
+      "end": 26.82
+    },
+    {
+      "word": "private",
+      "start": 26.82,
+      "end": 27.14
+    },
+    {
+      "word": "notes",
+      "start": 27.14,
+      "end": 27.44
+    },
+    {
+      "word": "completely",
+      "start": 27.44,
+      "end": 28.04
+    },
+    {
+      "word": "secure",
+      "start": 28.04,
+      "end": 28.58
+    },
+    {
+      "word": "and",
+      "start": 28.58,
+      "end": 28.78
+    },
+    {
+      "word": "accessible",
+      "start": 28.78,
+      "end": 29.26
+    },
+    {
+      "word": "anywhere.",
+      "start": 29.26,
+      "end": 29.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "A privacy-first, completely free Notion alternative that runs directly on your machine.",
+      "line2": "LOCAL NOTION ALTERNATIVE",
+      "tag": "\ud83d\uded1 AppFlowy",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: AppFlowy",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: AppFlowy",
+        "subtitle": "AppFlowy"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "AppFlowy"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "AppFlowy"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "AppFlowy",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

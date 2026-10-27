@@ -1,0 +1,386 @@
+{
+  "page": "page-03",
+  "idea": "Automated digital course access and student onboarding sequence",
+  "text": "The frictionless checkout workflow that gives your course buyers an elite experience. Forcing students to wait hours for login links destroys customer confidence right after purchase. Onboarding friction causes immediate buyer remorse, driving digital course refund rates up to twenty percent. Route Stripe checkout webhooks to Teachable, triggering instant platform access alongside automated SMS confirmation via Twilio. You eliminate student churn while protecting your evenings.",
+  "duration": 29.263,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "frictionless",
+      "start": 0.22,
+      "end": 0.72
+    },
+    {
+      "word": "checkout",
+      "start": 0.72,
+      "end": 1.06
+    },
+    {
+      "word": "workflow",
+      "start": 1.06,
+      "end": 1.58
+    },
+    {
+      "word": "that",
+      "start": 1.58,
+      "end": 1.9
+    },
+    {
+      "word": "gives",
+      "start": 1.9,
+      "end": 2.08
+    },
+    {
+      "word": "your",
+      "start": 2.08,
+      "end": 2.36
+    },
+    {
+      "word": "course",
+      "start": 2.36,
+      "end": 2.64
+    },
+    {
+      "word": "buyers",
+      "start": 2.64,
+      "end": 3.04
+    },
+    {
+      "word": "an",
+      "start": 3.04,
+      "end": 3.28
+    },
+    {
+      "word": "elite",
+      "start": 3.28,
+      "end": 3.5
+    },
+    {
+      "word": "experience.",
+      "start": 3.5,
+      "end": 4.38
+    },
+    {
+      "word": "Forcing",
+      "start": 4.96,
+      "end": 5.18
+    },
+    {
+      "word": "students",
+      "start": 5.18,
+      "end": 5.52
+    },
+    {
+      "word": "to",
+      "start": 5.52,
+      "end": 5.74
+    },
+    {
+      "word": "wait",
+      "start": 5.74,
+      "end": 6.0
+    },
+    {
+      "word": "hours",
+      "start": 6.0,
+      "end": 6.36
+    },
+    {
+      "word": "for",
+      "start": 6.36,
+      "end": 6.62
+    },
+    {
+      "word": "log",
+      "start": 6.62,
+      "end": 6.86
+    },
+    {
+      "word": "-in",
+      "start": 6.86,
+      "end": 7.02
+    },
+    {
+      "word": "links,",
+      "start": 7.02,
+      "end": 7.34
+    },
+    {
+      "word": "destroys",
+      "start": 7.62,
+      "end": 7.92
+    },
+    {
+      "word": "customer",
+      "start": 7.92,
+      "end": 8.5
+    },
+    {
+      "word": "confidence",
+      "start": 8.5,
+      "end": 9.06
+    },
+    {
+      "word": "right",
+      "start": 9.06,
+      "end": 9.64
+    },
+    {
+      "word": "after",
+      "start": 9.64,
+      "end": 9.96
+    },
+    {
+      "word": "purchase.",
+      "start": 9.96,
+      "end": 10.48
+    },
+    {
+      "word": "Onboarding",
+      "start": 11.2,
+      "end": 11.62
+    },
+    {
+      "word": "friction",
+      "start": 11.62,
+      "end": 12.0
+    },
+    {
+      "word": "causes",
+      "start": 12.0,
+      "end": 12.52
+    },
+    {
+      "word": "immediate",
+      "start": 12.52,
+      "end": 13.02
+    },
+    {
+      "word": "buyer",
+      "start": 13.02,
+      "end": 13.4
+    },
+    {
+      "word": "remorse,",
+      "start": 13.4,
+      "end": 13.82
+    },
+    {
+      "word": "driving",
+      "start": 14.3,
+      "end": 14.68
+    },
+    {
+      "word": "digital",
+      "start": 14.68,
+      "end": 15.12
+    },
+    {
+      "word": "course",
+      "start": 15.12,
+      "end": 15.52
+    },
+    {
+      "word": "refund",
+      "start": 15.52,
+      "end": 15.92
+    },
+    {
+      "word": "rates",
+      "start": 15.92,
+      "end": 16.28
+    },
+    {
+      "word": "up",
+      "start": 16.28,
+      "end": 16.5
+    },
+    {
+      "word": "to",
+      "start": 16.5,
+      "end": 16.68
+    },
+    {
+      "word": "20%.",
+      "start": 16.68,
+      "end": 17.64
+    },
+    {
+      "word": "Route",
+      "start": 17.64,
+      "end": 17.98
+    },
+    {
+      "word": "Stripe",
+      "start": 17.98,
+      "end": 18.3
+    },
+    {
+      "word": "checkout",
+      "start": 18.3,
+      "end": 18.68
+    },
+    {
+      "word": "webhooks",
+      "start": 18.68,
+      "end": 19.24
+    },
+    {
+      "word": "to",
+      "start": 19.24,
+      "end": 19.44
+    },
+    {
+      "word": "teachable,",
+      "start": 19.44,
+      "end": 19.92
+    },
+    {
+      "word": "triggering",
+      "start": 20.28,
+      "end": 20.56
+    },
+    {
+      "word": "instant",
+      "start": 20.56,
+      "end": 21.04
+    },
+    {
+      "word": "platform",
+      "start": 21.04,
+      "end": 21.46
+    },
+    {
+      "word": "access",
+      "start": 21.46,
+      "end": 22.12
+    },
+    {
+      "word": "alongside",
+      "start": 22.12,
+      "end": 22.96
+    },
+    {
+      "word": "automated",
+      "start": 22.96,
+      "end": 23.58
+    },
+    {
+      "word": "SMS",
+      "start": 23.58,
+      "end": 24.2
+    },
+    {
+      "word": "confirmation",
+      "start": 24.2,
+      "end": 24.94
+    },
+    {
+      "word": "via",
+      "start": 24.94,
+      "end": 25.36
+    },
+    {
+      "word": "Twilio.",
+      "start": 25.36,
+      "end": 25.92
+    },
+    {
+      "word": "You",
+      "start": 26.48,
+      "end": 26.66
+    },
+    {
+      "word": "eliminate",
+      "start": 26.66,
+      "end": 26.98
+    },
+    {
+      "word": "student",
+      "start": 26.98,
+      "end": 27.52
+    },
+    {
+      "word": "churn",
+      "start": 27.52,
+      "end": 27.82
+    },
+    {
+      "word": "while",
+      "start": 27.82,
+      "end": 28.16
+    },
+    {
+      "word": "protecting",
+      "start": 28.16,
+      "end": 28.44
+    },
+    {
+      "word": "your",
+      "start": 28.44,
+      "end": 28.84
+    },
+    {
+      "word": "evenings.",
+      "start": 28.84,
+      "end": 29.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The frictionless checkout workflow that gives your course buyers an elite experience.",
+      "line2": "ONBOARD COURSE STUDENTS",
+      "tag": "\ud83d\uded1 Automated digital course access and student onboarding sequence",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated digital course access and student onboarding sequence",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated digital course access and student onboarding sequence",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated digital course access and student onboarding sequence",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

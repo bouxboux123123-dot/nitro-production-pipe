@@ -1,0 +1,386 @@
+{
+  "page": "page-07",
+  "idea": "Automated bug triage system that routes user reports directly to Linear",
+  "text": "The automated bug report workflow that cuts engineering triage time by eighty percent. Developers lose whole afternoons context-switching between Slack pings, support tickets, and sprint backlogs. Unstructured bug reports lack critical user IDs and environment variables needed to reproduce issues. Build an automated triage flow that parses Intercom attachments, enriches user metadata, and assigns Linear priorities. You fix high-severity defects before churn happens.",
+  "duration": 29.605,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "automated",
+      "start": 0.24,
+      "end": 0.6
+    },
+    {
+      "word": "bug",
+      "start": 0.6,
+      "end": 0.96
+    },
+    {
+      "word": "report",
+      "start": 0.96,
+      "end": 1.44
+    },
+    {
+      "word": "workflow",
+      "start": 1.44,
+      "end": 1.86
+    },
+    {
+      "word": "that",
+      "start": 1.86,
+      "end": 2.18
+    },
+    {
+      "word": "cuts",
+      "start": 2.18,
+      "end": 2.44
+    },
+    {
+      "word": "engineering",
+      "start": 2.44,
+      "end": 3.06
+    },
+    {
+      "word": "triage",
+      "start": 3.06,
+      "end": 3.52
+    },
+    {
+      "word": "time",
+      "start": 3.52,
+      "end": 3.96
+    },
+    {
+      "word": "by",
+      "start": 3.96,
+      "end": 4.26
+    },
+    {
+      "word": "80%.",
+      "start": 4.26,
+      "end": 5.56
+    },
+    {
+      "word": "Developers",
+      "start": 5.56,
+      "end": 5.96
+    },
+    {
+      "word": "lose",
+      "start": 5.96,
+      "end": 6.42
+    },
+    {
+      "word": "whole",
+      "start": 6.42,
+      "end": 6.84
+    },
+    {
+      "word": "afternoons",
+      "start": 6.84,
+      "end": 7.48
+    },
+    {
+      "word": "context",
+      "start": 7.48,
+      "end": 8.02
+    },
+    {
+      "word": "switching",
+      "start": 8.02,
+      "end": 8.5
+    },
+    {
+      "word": "between",
+      "start": 8.5,
+      "end": 8.94
+    },
+    {
+      "word": "slack",
+      "start": 8.94,
+      "end": 9.28
+    },
+    {
+      "word": "pings,",
+      "start": 9.28,
+      "end": 9.72
+    },
+    {
+      "word": "support",
+      "start": 10.12,
+      "end": 10.38
+    },
+    {
+      "word": "tickets,",
+      "start": 10.38,
+      "end": 10.76
+    },
+    {
+      "word": "and",
+      "start": 10.96,
+      "end": 11.26
+    },
+    {
+      "word": "sprint",
+      "start": 11.26,
+      "end": 11.48
+    },
+    {
+      "word": "backlogs.",
+      "start": 11.48,
+      "end": 12.28
+    },
+    {
+      "word": "Unstructured",
+      "start": 12.6,
+      "end": 13.08
+    },
+    {
+      "word": "bug",
+      "start": 13.08,
+      "end": 13.34
+    },
+    {
+      "word": "reports",
+      "start": 13.34,
+      "end": 13.88
+    },
+    {
+      "word": "lack",
+      "start": 13.88,
+      "end": 14.3
+    },
+    {
+      "word": "critical",
+      "start": 14.3,
+      "end": 14.7
+    },
+    {
+      "word": "user",
+      "start": 14.7,
+      "end": 15.06
+    },
+    {
+      "word": "ID",
+      "start": 15.06,
+      "end": 15.48
+    },
+    {
+      "word": "and",
+      "start": 15.48,
+      "end": 15.8
+    },
+    {
+      "word": "environment",
+      "start": 15.8,
+      "end": 16.3
+    },
+    {
+      "word": "variables",
+      "start": 16.3,
+      "end": 16.76
+    },
+    {
+      "word": "needed",
+      "start": 16.76,
+      "end": 17.14
+    },
+    {
+      "word": "to",
+      "start": 17.14,
+      "end": 17.4
+    },
+    {
+      "word": "reproduce",
+      "start": 17.4,
+      "end": 17.74
+    },
+    {
+      "word": "issues.",
+      "start": 17.74,
+      "end": 18.32
+    },
+    {
+      "word": "Build",
+      "start": 18.9,
+      "end": 19.1
+    },
+    {
+      "word": "an",
+      "start": 19.1,
+      "end": 19.58
+    },
+    {
+      "word": "automated",
+      "start": 19.58,
+      "end": 19.84
+    },
+    {
+      "word": "triage",
+      "start": 19.84,
+      "end": 20.34
+    },
+    {
+      "word": "flow",
+      "start": 20.34,
+      "end": 20.64
+    },
+    {
+      "word": "that",
+      "start": 20.64,
+      "end": 20.88
+    },
+    {
+      "word": "parses",
+      "start": 20.88,
+      "end": 21.32
+    },
+    {
+      "word": "intercom",
+      "start": 21.32,
+      "end": 21.78
+    },
+    {
+      "word": "attachments",
+      "start": 21.78,
+      "end": 22.42
+    },
+    {
+      "word": "and",
+      "start": 22.42,
+      "end": 23.06
+    },
+    {
+      "word": "riches",
+      "start": 23.06,
+      "end": 23.3
+    },
+    {
+      "word": "user",
+      "start": 23.3,
+      "end": 23.78
+    },
+    {
+      "word": "metadata",
+      "start": 23.78,
+      "end": 24.2
+    },
+    {
+      "word": "and",
+      "start": 24.2,
+      "end": 24.84
+    },
+    {
+      "word": "assigns",
+      "start": 24.84,
+      "end": 25.26
+    },
+    {
+      "word": "linear",
+      "start": 25.26,
+      "end": 25.62
+    },
+    {
+      "word": "priorities.",
+      "start": 25.62,
+      "end": 26.3
+    },
+    {
+      "word": "You",
+      "start": 26.3,
+      "end": 27.02
+    },
+    {
+      "word": "fix",
+      "start": 27.02,
+      "end": 27.22
+    },
+    {
+      "word": "high",
+      "start": 27.22,
+      "end": 27.56
+    },
+    {
+      "word": "severity",
+      "start": 27.56,
+      "end": 27.96
+    },
+    {
+      "word": "defects",
+      "start": 27.96,
+      "end": 28.3
+    },
+    {
+      "word": "before",
+      "start": 28.3,
+      "end": 28.8
+    },
+    {
+      "word": "churn",
+      "start": 28.8,
+      "end": 29.06
+    },
+    {
+      "word": "happens.",
+      "start": 29.06,
+      "end": 29.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The automated bug report workflow that cuts engineering triage time by 80 percent.",
+      "line2": "ROUTE BUGS TO LINEAR",
+      "tag": "\ud83d\uded1 Automated bug triage system that routes user reports directly to Linear",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated bug triage system that routes user reports directly to Linear",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated bug triage system that routes user reports directly to Linear",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

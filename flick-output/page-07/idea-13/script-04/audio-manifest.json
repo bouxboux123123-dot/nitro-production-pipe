@@ -1,0 +1,381 @@
+{
+  "page": "page-07",
+  "idea": "Automated runway and cash burn dashboard on Google Sheets",
+  "text": "Here is how financially disciplined founders manage cash flow during tough markets. When fundraising stalls, surprise infrastructure bills and delayed client receivables trigger dangerous capital shortages. Tracking expenses through CSV exports prevents founders from spotting cash contraction before payroll hits. Instead, build a centralized Google Sheets dashboard connected to Mercury and Stripe via Make webhooks. You maintain thirty days of predictive cash clarity effortlessly.",
+  "duration": 29.882,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "is",
+      "start": 0.3,
+      "end": 0.46
+    },
+    {
+      "word": "how",
+      "start": 0.46,
+      "end": 0.84
+    },
+    {
+      "word": "financially",
+      "start": 0.84,
+      "end": 1.34
+    },
+    {
+      "word": "disciplined",
+      "start": 1.34,
+      "end": 1.88
+    },
+    {
+      "word": "founders",
+      "start": 1.88,
+      "end": 2.4
+    },
+    {
+      "word": "manage",
+      "start": 2.4,
+      "end": 2.98
+    },
+    {
+      "word": "cash",
+      "start": 2.98,
+      "end": 3.36
+    },
+    {
+      "word": "flow",
+      "start": 3.36,
+      "end": 3.74
+    },
+    {
+      "word": "during",
+      "start": 3.74,
+      "end": 4.12
+    },
+    {
+      "word": "tough",
+      "start": 4.12,
+      "end": 4.34
+    },
+    {
+      "word": "markets.",
+      "start": 4.34,
+      "end": 4.78
+    },
+    {
+      "word": "When",
+      "start": 5.38,
+      "end": 5.5
+    },
+    {
+      "word": "fundraising",
+      "start": 5.5,
+      "end": 5.98
+    },
+    {
+      "word": "stalls,",
+      "start": 5.98,
+      "end": 6.68
+    },
+    {
+      "word": "surprise",
+      "start": 7.14,
+      "end": 7.54
+    },
+    {
+      "word": "infrastructure",
+      "start": 7.54,
+      "end": 8.14
+    },
+    {
+      "word": "bills",
+      "start": 8.14,
+      "end": 8.6
+    },
+    {
+      "word": "and",
+      "start": 8.6,
+      "end": 9.06
+    },
+    {
+      "word": "delayed",
+      "start": 9.06,
+      "end": 9.36
+    },
+    {
+      "word": "client",
+      "start": 9.36,
+      "end": 9.74
+    },
+    {
+      "word": "receivables",
+      "start": 9.74,
+      "end": 10.34
+    },
+    {
+      "word": "trigger",
+      "start": 10.34,
+      "end": 10.8
+    },
+    {
+      "word": "dangerous",
+      "start": 10.8,
+      "end": 11.24
+    },
+    {
+      "word": "capital",
+      "start": 11.24,
+      "end": 11.82
+    },
+    {
+      "word": "shortages.",
+      "start": 11.82,
+      "end": 12.34
+    },
+    {
+      "word": "Tracking",
+      "start": 13.02,
+      "end": 13.04
+    },
+    {
+      "word": "expenses",
+      "start": 13.04,
+      "end": 13.64
+    },
+    {
+      "word": "through",
+      "start": 13.64,
+      "end": 14.12
+    },
+    {
+      "word": "CSV",
+      "start": 14.12,
+      "end": 14.58
+    },
+    {
+      "word": "exports",
+      "start": 14.58,
+      "end": 15.28
+    },
+    {
+      "word": "prevents",
+      "start": 15.28,
+      "end": 15.78
+    },
+    {
+      "word": "founders",
+      "start": 15.78,
+      "end": 16.26
+    },
+    {
+      "word": "from",
+      "start": 16.26,
+      "end": 16.66
+    },
+    {
+      "word": "spotting",
+      "start": 16.66,
+      "end": 17.04
+    },
+    {
+      "word": "cash",
+      "start": 17.04,
+      "end": 17.42
+    },
+    {
+      "word": "contraction",
+      "start": 17.42,
+      "end": 17.96
+    },
+    {
+      "word": "before",
+      "start": 17.96,
+      "end": 18.34
+    },
+    {
+      "word": "payroll",
+      "start": 18.34,
+      "end": 18.66
+    },
+    {
+      "word": "hits.",
+      "start": 18.66,
+      "end": 19.12
+    },
+    {
+      "word": "Instead,",
+      "start": 19.8,
+      "end": 20.18
+    },
+    {
+      "word": "build",
+      "start": 20.72,
+      "end": 20.8
+    },
+    {
+      "word": "a",
+      "start": 20.8,
+      "end": 21.46
+    },
+    {
+      "word": "centralized",
+      "start": 21.46,
+      "end": 21.5
+    },
+    {
+      "word": "Google",
+      "start": 21.5,
+      "end": 22.0
+    },
+    {
+      "word": "Sheets",
+      "start": 22.0,
+      "end": 22.34
+    },
+    {
+      "word": "dashboard",
+      "start": 22.34,
+      "end": 22.92
+    },
+    {
+      "word": "connected",
+      "start": 22.92,
+      "end": 23.46
+    },
+    {
+      "word": "to",
+      "start": 23.46,
+      "end": 23.78
+    },
+    {
+      "word": "Mercury",
+      "start": 23.78,
+      "end": 24.12
+    },
+    {
+      "word": "and",
+      "start": 24.12,
+      "end": 24.42
+    },
+    {
+      "word": "Stripe",
+      "start": 24.42,
+      "end": 24.9
+    },
+    {
+      "word": "via",
+      "start": 24.9,
+      "end": 25.2
+    },
+    {
+      "word": "Make",
+      "start": 25.2,
+      "end": 25.5
+    },
+    {
+      "word": "Webhooks.",
+      "start": 25.5,
+      "end": 26.3
+    },
+    {
+      "word": "You",
+      "start": 26.3,
+      "end": 26.7
+    },
+    {
+      "word": "maintain",
+      "start": 26.7,
+      "end": 27.06
+    },
+    {
+      "word": "30",
+      "start": 27.06,
+      "end": 27.38
+    },
+    {
+      "word": "days",
+      "start": 27.38,
+      "end": 27.76
+    },
+    {
+      "word": "of",
+      "start": 27.76,
+      "end": 28.02
+    },
+    {
+      "word": "predictive",
+      "start": 28.02,
+      "end": 28.36
+    },
+    {
+      "word": "cash",
+      "start": 28.36,
+      "end": 28.76
+    },
+    {
+      "word": "clarity",
+      "start": 28.76,
+      "end": 29.2
+    },
+    {
+      "word": "effortlessly.",
+      "start": 29.2,
+      "end": 29.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How financially disciplined founders manage cash flow during tough markets.",
+      "line2": "TRACK STARTUP RUNWAY",
+      "tag": "\ud83d\uded1 Automated runway and cash burn dashboard on Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "page": "page-05",
+  "idea": "Airtable interface designer for managing team project capacity",
+  "text": "The simple no-code interface trick that replaced Jira and Asana for our team. Complex enterprise project management tools overwhelm creative agencies with hundreds of unnecessary settings and custom configurations. Confusing software creates low adoption rates, leaving team members logging tasks inconsistently and missing crucial sprint deadlines. Instead, build a streamlined Airtable Interface that displays only assigned tasks and active project milestones. Your team delivers client work on schedule.",
+  "duration": 32.399,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "simple",
+      "start": 0.22,
+      "end": 0.52
+    },
+    {
+      "word": "no",
+      "start": 0.52,
+      "end": 0.82
+    },
+    {
+      "word": "-code",
+      "start": 0.82,
+      "end": 1.08
+    },
+    {
+      "word": "interface",
+      "start": 1.08,
+      "end": 1.52
+    },
+    {
+      "word": "trick",
+      "start": 1.52,
+      "end": 1.9
+    },
+    {
+      "word": "that",
+      "start": 1.9,
+      "end": 2.28
+    },
+    {
+      "word": "replaced",
+      "start": 2.28,
+      "end": 2.66
+    },
+    {
+      "word": "Gira",
+      "start": 2.66,
+      "end": 3.08
+    },
+    {
+      "word": "and",
+      "start": 3.08,
+      "end": 3.56
+    },
+    {
+      "word": "Asana",
+      "start": 3.56,
+      "end": 3.92
+    },
+    {
+      "word": "for",
+      "start": 3.92,
+      "end": 4.18
+    },
+    {
+      "word": "our",
+      "start": 4.18,
+      "end": 4.38
+    },
+    {
+      "word": "team.",
+      "start": 4.38,
+      "end": 4.9
+    },
+    {
+      "word": "Complex",
+      "start": 5.76,
+      "end": 5.8
+    },
+    {
+      "word": "Enterprise",
+      "start": 5.8,
+      "end": 6.36
+    },
+    {
+      "word": "project",
+      "start": 6.36,
+      "end": 6.9
+    },
+    {
+      "word": "management",
+      "start": 6.9,
+      "end": 7.38
+    },
+    {
+      "word": "tools",
+      "start": 7.38,
+      "end": 7.98
+    },
+    {
+      "word": "overwhelm",
+      "start": 7.98,
+      "end": 8.6
+    },
+    {
+      "word": "creative",
+      "start": 8.6,
+      "end": 9.14
+    },
+    {
+      "word": "agencies",
+      "start": 9.14,
+      "end": 9.74
+    },
+    {
+      "word": "with",
+      "start": 9.74,
+      "end": 10.34
+    },
+    {
+      "word": "hundreds",
+      "start": 10.34,
+      "end": 10.66
+    },
+    {
+      "word": "of",
+      "start": 10.66,
+      "end": 10.96
+    },
+    {
+      "word": "unnecessary",
+      "start": 10.96,
+      "end": 11.46
+    },
+    {
+      "word": "settings",
+      "start": 11.46,
+      "end": 12.06
+    },
+    {
+      "word": "and",
+      "start": 12.06,
+      "end": 12.66
+    },
+    {
+      "word": "custom",
+      "start": 12.66,
+      "end": 12.9
+    },
+    {
+      "word": "configurations.",
+      "start": 12.9,
+      "end": 13.68
+    },
+    {
+      "word": "Confusing",
+      "start": 14.26,
+      "end": 14.62
+    },
+    {
+      "word": "software",
+      "start": 14.62,
+      "end": 15.1
+    },
+    {
+      "word": "creates",
+      "start": 15.1,
+      "end": 15.72
+    },
+    {
+      "word": "low",
+      "start": 15.72,
+      "end": 16.0
+    },
+    {
+      "word": "adoption",
+      "start": 16.0,
+      "end": 16.44
+    },
+    {
+      "word": "rates,",
+      "start": 16.44,
+      "end": 16.92
+    },
+    {
+      "word": "leaving",
+      "start": 17.46,
+      "end": 17.5
+    },
+    {
+      "word": "team",
+      "start": 17.5,
+      "end": 17.88
+    },
+    {
+      "word": "members",
+      "start": 17.88,
+      "end": 18.26
+    },
+    {
+      "word": "logging",
+      "start": 18.26,
+      "end": 18.68
+    },
+    {
+      "word": "tasks",
+      "start": 18.68,
+      "end": 19.14
+    },
+    {
+      "word": "inconsistently",
+      "start": 19.14,
+      "end": 20.02
+    },
+    {
+      "word": "and",
+      "start": 20.02,
+      "end": 20.62
+    },
+    {
+      "word": "missing",
+      "start": 20.62,
+      "end": 20.92
+    },
+    {
+      "word": "crucial",
+      "start": 20.92,
+      "end": 21.3
+    },
+    {
+      "word": "sprint",
+      "start": 21.3,
+      "end": 21.62
+    },
+    {
+      "word": "deadlines.",
+      "start": 21.62,
+      "end": 22.12
+    },
+    {
+      "word": "Instead,",
+      "start": 22.94,
+      "end": 23.3
+    },
+    {
+      "word": "build",
+      "start": 23.76,
+      "end": 23.84
+    },
+    {
+      "word": "a",
+      "start": 23.84,
+      "end": 24.1
+    },
+    {
+      "word": "streamlined,",
+      "start": 24.1,
+      "end": 24.68
+    },
+    {
+      "word": "irritable",
+      "start": 24.76,
+      "end": 25.16
+    },
+    {
+      "word": "interface",
+      "start": 25.16,
+      "end": 25.58
+    },
+    {
+      "word": "that",
+      "start": 25.58,
+      "end": 26.0
+    },
+    {
+      "word": "displays",
+      "start": 26.0,
+      "end": 26.3
+    },
+    {
+      "word": "only",
+      "start": 26.3,
+      "end": 26.74
+    },
+    {
+      "word": "assigned",
+      "start": 26.74,
+      "end": 27.24
+    },
+    {
+      "word": "tasks",
+      "start": 27.24,
+      "end": 27.72
+    },
+    {
+      "word": "and",
+      "start": 27.72,
+      "end": 28.06
+    },
+    {
+      "word": "active",
+      "start": 28.06,
+      "end": 28.38
+    },
+    {
+      "word": "project",
+      "start": 28.38,
+      "end": 28.84
+    },
+    {
+      "word": "milestones.",
+      "start": 28.84,
+      "end": 29.44
+    },
+    {
+      "word": "Your",
+      "start": 30.0,
+      "end": 30.3
+    },
+    {
+      "word": "team",
+      "start": 30.3,
+      "end": 30.62
+    },
+    {
+      "word": "delivers",
+      "start": 30.62,
+      "end": 31.02
+    },
+    {
+      "word": "client",
+      "start": 31.02,
+      "end": 31.36
+    },
+    {
+      "word": "work",
+      "start": 31.36,
+      "end": 31.7
+    },
+    {
+      "word": "on",
+      "start": 31.7,
+      "end": 31.94
+    },
+    {
+      "word": "schedule.",
+      "start": 31.94,
+      "end": 32.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The no-code interface trick that replaced Jira and Asana for our team.",
+      "line2": "MANAGE TEAM CAPACITY",
+      "tag": "\ud83d\uded1 Airtable interface designer for managing team project capacity",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Airtable interface designer for managing team project capacity",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Airtable interface designer for managing team project capacity",
+        "subtitle": "Airtable interface designer for managing team project capacity"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Airtable interface designer for managing team project capacity"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Airtable interface designer for managing team project capacity"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Airtable interface designer for managing team project capacity",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

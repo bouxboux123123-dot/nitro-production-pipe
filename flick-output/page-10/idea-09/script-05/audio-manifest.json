@@ -1,0 +1,421 @@
+{
+  "page": "page-10",
+  "idea": "Microsoft Copilot Studio improvements for custom enterprise bots",
+  "text": "Here is everything you need to know about the newest enterprise Microsoft Copilot features. Companies roll out generic chatbots that hallucinate facts because their models lack secure business grounding. Traditional language models fail in production when they cannot access real-time tenant security and role-based permissions. Microsoft Copilot now integrates native Graph connectors and Purview compliance safeguards across your entire workspace. You protect sensitive corporate data while automating complex admin workflows.",
+  "duration": 31.695,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "is",
+      "start": 0.2,
+      "end": 0.42
+    },
+    {
+      "word": "everything",
+      "start": 0.42,
+      "end": 0.8
+    },
+    {
+      "word": "you",
+      "start": 0.8,
+      "end": 0.92
+    },
+    {
+      "word": "need",
+      "start": 0.92,
+      "end": 1.16
+    },
+    {
+      "word": "to",
+      "start": 1.16,
+      "end": 1.3
+    },
+    {
+      "word": "know",
+      "start": 1.3,
+      "end": 1.5
+    },
+    {
+      "word": "about",
+      "start": 1.5,
+      "end": 1.76
+    },
+    {
+      "word": "the",
+      "start": 1.76,
+      "end": 1.96
+    },
+    {
+      "word": "newest",
+      "start": 1.96,
+      "end": 2.32
+    },
+    {
+      "word": "enterprise",
+      "start": 2.32,
+      "end": 2.9
+    },
+    {
+      "word": "Microsoft",
+      "start": 2.9,
+      "end": 3.72
+    },
+    {
+      "word": "Copilot",
+      "start": 3.72,
+      "end": 4.24
+    },
+    {
+      "word": "features.",
+      "start": 4.24,
+      "end": 4.84
+    },
+    {
+      "word": "Companies",
+      "start": 5.78,
+      "end": 5.78
+    },
+    {
+      "word": "roll",
+      "start": 5.78,
+      "end": 6.1
+    },
+    {
+      "word": "out",
+      "start": 6.1,
+      "end": 6.38
+    },
+    {
+      "word": "generic",
+      "start": 6.38,
+      "end": 6.82
+    },
+    {
+      "word": "chatbots",
+      "start": 6.82,
+      "end": 7.34
+    },
+    {
+      "word": "that",
+      "start": 7.34,
+      "end": 7.66
+    },
+    {
+      "word": "hallucinate",
+      "start": 7.66,
+      "end": 8.22
+    },
+    {
+      "word": "facts",
+      "start": 8.22,
+      "end": 8.66
+    },
+    {
+      "word": "because",
+      "start": 8.66,
+      "end": 9.28
+    },
+    {
+      "word": "their",
+      "start": 9.28,
+      "end": 9.56
+    },
+    {
+      "word": "models",
+      "start": 9.56,
+      "end": 9.92
+    },
+    {
+      "word": "lack",
+      "start": 9.92,
+      "end": 10.3
+    },
+    {
+      "word": "secure",
+      "start": 10.3,
+      "end": 10.72
+    },
+    {
+      "word": "business",
+      "start": 10.72,
+      "end": 11.12
+    },
+    {
+      "word": "grounding.",
+      "start": 11.12,
+      "end": 11.76
+    },
+    {
+      "word": "Traditional",
+      "start": 12.48,
+      "end": 12.58
+    },
+    {
+      "word": "language",
+      "start": 12.58,
+      "end": 13.08
+    },
+    {
+      "word": "models",
+      "start": 13.08,
+      "end": 13.52
+    },
+    {
+      "word": "fail",
+      "start": 13.52,
+      "end": 13.8
+    },
+    {
+      "word": "in",
+      "start": 13.8,
+      "end": 14.02
+    },
+    {
+      "word": "production",
+      "start": 14.02,
+      "end": 14.38
+    },
+    {
+      "word": "when",
+      "start": 14.38,
+      "end": 14.8
+    },
+    {
+      "word": "they",
+      "start": 14.8,
+      "end": 14.96
+    },
+    {
+      "word": "cannot",
+      "start": 14.96,
+      "end": 15.32
+    },
+    {
+      "word": "access",
+      "start": 15.32,
+      "end": 15.76
+    },
+    {
+      "word": "real",
+      "start": 15.76,
+      "end": 16.14
+    },
+    {
+      "word": "-time",
+      "start": 16.14,
+      "end": 16.52
+    },
+    {
+      "word": "tenant",
+      "start": 16.52,
+      "end": 16.82
+    },
+    {
+      "word": "security",
+      "start": 16.82,
+      "end": 17.34
+    },
+    {
+      "word": "and",
+      "start": 17.34,
+      "end": 17.82
+    },
+    {
+      "word": "role",
+      "start": 17.82,
+      "end": 18.1
+    },
+    {
+      "word": "-based",
+      "start": 18.1,
+      "end": 18.36
+    },
+    {
+      "word": "permissions.",
+      "start": 18.36,
+      "end": 18.86
+    },
+    {
+      "word": "Microsoft",
+      "start": 19.5,
+      "end": 19.74
+    },
+    {
+      "word": "Copilot",
+      "start": 19.74,
+      "end": 20.52
+    },
+    {
+      "word": "now",
+      "start": 20.52,
+      "end": 21.02
+    },
+    {
+      "word": "integrates",
+      "start": 21.02,
+      "end": 21.44
+    },
+    {
+      "word": "native",
+      "start": 21.44,
+      "end": 21.94
+    },
+    {
+      "word": "graph",
+      "start": 21.94,
+      "end": 22.28
+    },
+    {
+      "word": "connectors",
+      "start": 22.28,
+      "end": 22.74
+    },
+    {
+      "word": "and",
+      "start": 22.74,
+      "end": 23.26
+    },
+    {
+      "word": "purview",
+      "start": 23.26,
+      "end": 23.6
+    },
+    {
+      "word": "compliance",
+      "start": 23.6,
+      "end": 24.18
+    },
+    {
+      "word": "safeguards",
+      "start": 24.18,
+      "end": 24.72
+    },
+    {
+      "word": "across",
+      "start": 24.72,
+      "end": 25.4
+    },
+    {
+      "word": "your",
+      "start": 25.4,
+      "end": 25.7
+    },
+    {
+      "word": "entire",
+      "start": 25.7,
+      "end": 26.1
+    },
+    {
+      "word": "workspace.",
+      "start": 26.1,
+      "end": 26.62
+    },
+    {
+      "word": "You",
+      "start": 26.9,
+      "end": 27.38
+    },
+    {
+      "word": "protect",
+      "start": 27.38,
+      "end": 27.76
+    },
+    {
+      "word": "sensitive",
+      "start": 27.76,
+      "end": 28.32
+    },
+    {
+      "word": "corporate",
+      "start": 28.32,
+      "end": 28.78
+    },
+    {
+      "word": "data",
+      "start": 28.78,
+      "end": 29.2
+    },
+    {
+      "word": "while",
+      "start": 29.2,
+      "end": 29.58
+    },
+    {
+      "word": "automating",
+      "start": 29.58,
+      "end": 30.08
+    },
+    {
+      "word": "complex",
+      "start": 30.08,
+      "end": 30.68
+    },
+    {
+      "word": "admin",
+      "start": 30.68,
+      "end": 31.02
+    },
+    {
+      "word": "workflows.",
+      "start": 31.02,
+      "end": 31.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Everything you need to know about the new enterprise Copilot features.",
+      "line2": "COPILOT STUDIO ENTERPRISE BOTS",
+      "tag": "\ud83d\uded1 Microsoft Copilot Studio improvements for custom enterprise bots",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Microsoft Copilot Studio improvements for custom enterprise bots",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Microsoft Copilot Studio improvements for custom enterprise bots",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

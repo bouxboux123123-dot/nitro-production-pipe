@@ -1,0 +1,411 @@
+{
+  "page": "page-09",
+  "idea": "Cursor vs GitHub Copilot: which AI coding assistant writes better software",
+  "text": "Here is why senior developers are ditching VS Code and Copilot for Cursor. Copilot was built as a basic plugin, but modern engineering requires deep context across massive repositories. Outdated extension suggestions frequently hallucinate invalid methods and break existing package dependencies. Cursor indexes your entire codebase with embeddings, generating precise multi-file diffs via Claude 3.5 Sonnet. You merge production-ready code ten times faster.",
+  "duration": 30.202,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.48
+    },
+    {
+      "word": "why",
+      "start": 0.48,
+      "end": 0.78
+    },
+    {
+      "word": "senior",
+      "start": 0.78,
+      "end": 1.04
+    },
+    {
+      "word": "developers",
+      "start": 1.04,
+      "end": 1.48
+    },
+    {
+      "word": "are",
+      "start": 1.48,
+      "end": 1.86
+    },
+    {
+      "word": "ditching",
+      "start": 1.86,
+      "end": 2.2
+    },
+    {
+      "word": "VS",
+      "start": 2.2,
+      "end": 2.8
+    },
+    {
+      "word": "code",
+      "start": 2.8,
+      "end": 3.2
+    },
+    {
+      "word": "and",
+      "start": 3.2,
+      "end": 3.54
+    },
+    {
+      "word": "co",
+      "start": 3.54,
+      "end": 3.8
+    },
+    {
+      "word": "-pilot",
+      "start": 3.8,
+      "end": 4.0
+    },
+    {
+      "word": "for",
+      "start": 4.0,
+      "end": 4.3
+    },
+    {
+      "word": "cursor.",
+      "start": 4.3,
+      "end": 4.76
+    },
+    {
+      "word": "Co",
+      "start": 5.46,
+      "end": 5.54
+    },
+    {
+      "word": "-pilot",
+      "start": 5.54,
+      "end": 5.84
+    },
+    {
+      "word": "was",
+      "start": 5.84,
+      "end": 6.16
+    },
+    {
+      "word": "built",
+      "start": 6.16,
+      "end": 6.36
+    },
+    {
+      "word": "as",
+      "start": 6.36,
+      "end": 6.6
+    },
+    {
+      "word": "a",
+      "start": 6.6,
+      "end": 6.68
+    },
+    {
+      "word": "basic",
+      "start": 6.68,
+      "end": 7.04
+    },
+    {
+      "word": "plug",
+      "start": 7.04,
+      "end": 7.26
+    },
+    {
+      "word": "-in,",
+      "start": 7.26,
+      "end": 7.54
+    },
+    {
+      "word": "but",
+      "start": 7.8,
+      "end": 7.98
+    },
+    {
+      "word": "modern",
+      "start": 7.98,
+      "end": 8.3
+    },
+    {
+      "word": "engineering",
+      "start": 8.3,
+      "end": 8.88
+    },
+    {
+      "word": "requires",
+      "start": 8.88,
+      "end": 9.44
+    },
+    {
+      "word": "deep",
+      "start": 9.44,
+      "end": 9.86
+    },
+    {
+      "word": "context",
+      "start": 9.86,
+      "end": 10.28
+    },
+    {
+      "word": "across",
+      "start": 10.28,
+      "end": 10.74
+    },
+    {
+      "word": "massive",
+      "start": 10.74,
+      "end": 11.16
+    },
+    {
+      "word": "repositories,",
+      "start": 11.16,
+      "end": 11.98
+    },
+    {
+      "word": "outdated",
+      "start": 12.56,
+      "end": 12.82
+    },
+    {
+      "word": "extension",
+      "start": 12.82,
+      "end": 13.44
+    },
+    {
+      "word": "suggestions",
+      "start": 13.44,
+      "end": 14.2
+    },
+    {
+      "word": "frequently",
+      "start": 14.2,
+      "end": 14.78
+    },
+    {
+      "word": "hallucinate",
+      "start": 14.78,
+      "end": 15.46
+    },
+    {
+      "word": "invalid",
+      "start": 15.46,
+      "end": 15.96
+    },
+    {
+      "word": "methods",
+      "start": 15.96,
+      "end": 16.4
+    },
+    {
+      "word": "and",
+      "start": 16.4,
+      "end": 16.84
+    },
+    {
+      "word": "break",
+      "start": 16.84,
+      "end": 17.1
+    },
+    {
+      "word": "existing",
+      "start": 17.1,
+      "end": 17.62
+    },
+    {
+      "word": "package",
+      "start": 17.62,
+      "end": 18.06
+    },
+    {
+      "word": "dependencies.",
+      "start": 18.06,
+      "end": 18.72
+    },
+    {
+      "word": "Cursor",
+      "start": 19.68,
+      "end": 19.68
+    },
+    {
+      "word": "indexes",
+      "start": 19.68,
+      "end": 20.12
+    },
+    {
+      "word": "your",
+      "start": 20.12,
+      "end": 20.52
+    },
+    {
+      "word": "entire",
+      "start": 20.52,
+      "end": 20.96
+    },
+    {
+      "word": "code",
+      "start": 20.96,
+      "end": 21.26
+    },
+    {
+      "word": "base",
+      "start": 21.26,
+      "end": 21.5
+    },
+    {
+      "word": "with",
+      "start": 21.5,
+      "end": 21.72
+    },
+    {
+      "word": "embeddings,",
+      "start": 21.72,
+      "end": 22.36
+    },
+    {
+      "word": "generating",
+      "start": 23.1,
+      "end": 23.1
+    },
+    {
+      "word": "precise",
+      "start": 23.1,
+      "end": 23.68
+    },
+    {
+      "word": "multi",
+      "start": 23.68,
+      "end": 24.12
+    },
+    {
+      "word": "-file",
+      "start": 24.12,
+      "end": 24.46
+    },
+    {
+      "word": "diffs",
+      "start": 24.46,
+      "end": 24.92
+    },
+    {
+      "word": "via",
+      "start": 24.92,
+      "end": 25.24
+    },
+    {
+      "word": "Claude",
+      "start": 25.24,
+      "end": 25.58
+    },
+    {
+      "word": "3",
+      "start": 25.58,
+      "end": 25.96
+    },
+    {
+      "word": ".5",
+      "start": 25.96,
+      "end": 26.64
+    },
+    {
+      "word": "Sonnet.",
+      "start": 26.64,
+      "end": 27.16
+    },
+    {
+      "word": "You",
+      "start": 27.16,
+      "end": 27.68
+    },
+    {
+      "word": "merge",
+      "start": 27.68,
+      "end": 27.94
+    },
+    {
+      "word": "production",
+      "start": 27.94,
+      "end": 28.38
+    },
+    {
+      "word": "ready",
+      "start": 28.38,
+      "end": 28.66
+    },
+    {
+      "word": "code",
+      "start": 28.66,
+      "end": 28.96
+    },
+    {
+      "word": "10",
+      "start": 28.96,
+      "end": 29.28
+    },
+    {
+      "word": "times",
+      "start": 29.28,
+      "end": 29.68
+    },
+    {
+      "word": "faster.",
+      "start": 29.68,
+      "end": 30.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why developers are leaving VS Code with Copilot to use the dedicated Cursor editor.",
+      "line2": "CURSOR VS GITHUB COPILOT",
+      "tag": "\ud83d\uded1 Cursor vs GitHub Copilot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Cursor vs GitHub Copilot",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Cursor vs GitHub Copilot",
+        "subtitle": "Cursor vs GitHub Copilot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Cursor vs GitHub Copilot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Cursor vs GitHub Copilot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Cursor vs GitHub Copilot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

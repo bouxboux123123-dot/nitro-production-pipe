@@ -1,0 +1,396 @@
+{
+  "page": "page-10",
+  "idea": "Slack AI summary features and channel catch-up automation",
+  "text": "Slack just rolled out an AI button that saves you forty-five minutes of reading every morning. Starting your morning means scrolling through hundreds of unorganized channel messages and messy project threads. Critical action items get buried under chatter, causing missed deadlines and constant context switching. Slack AI now synthesizes unread channels into bulleted recaps and extracts assigned tasks in one click. This saves hours of communication triage.",
+  "duration": 25.813,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Slack",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "just",
+      "start": 0.36,
+      "end": 0.62
+    },
+    {
+      "word": "rolled",
+      "start": 0.62,
+      "end": 0.8
+    },
+    {
+      "word": "out",
+      "start": 0.8,
+      "end": 1.02
+    },
+    {
+      "word": "an",
+      "start": 1.02,
+      "end": 1.26
+    },
+    {
+      "word": "AI",
+      "start": 1.26,
+      "end": 1.56
+    },
+    {
+      "word": "button",
+      "start": 1.56,
+      "end": 1.82
+    },
+    {
+      "word": "that",
+      "start": 1.82,
+      "end": 2.1
+    },
+    {
+      "word": "saves",
+      "start": 2.1,
+      "end": 2.3
+    },
+    {
+      "word": "you",
+      "start": 2.3,
+      "end": 2.66
+    },
+    {
+      "word": "45",
+      "start": 2.66,
+      "end": 3.16
+    },
+    {
+      "word": "minutes",
+      "start": 3.16,
+      "end": 3.42
+    },
+    {
+      "word": "of",
+      "start": 3.42,
+      "end": 3.64
+    },
+    {
+      "word": "reading",
+      "start": 3.64,
+      "end": 3.84
+    },
+    {
+      "word": "every",
+      "start": 3.84,
+      "end": 4.14
+    },
+    {
+      "word": "morning.",
+      "start": 4.14,
+      "end": 4.54
+    },
+    {
+      "word": "Starting",
+      "start": 5.1,
+      "end": 5.18
+    },
+    {
+      "word": "your",
+      "start": 5.18,
+      "end": 5.42
+    },
+    {
+      "word": "morning",
+      "start": 5.42,
+      "end": 5.7
+    },
+    {
+      "word": "means",
+      "start": 5.7,
+      "end": 6.14
+    },
+    {
+      "word": "scrolling",
+      "start": 6.14,
+      "end": 6.44
+    },
+    {
+      "word": "through",
+      "start": 6.44,
+      "end": 6.88
+    },
+    {
+      "word": "hundreds",
+      "start": 6.88,
+      "end": 7.14
+    },
+    {
+      "word": "of",
+      "start": 7.14,
+      "end": 7.46
+    },
+    {
+      "word": "unorganized",
+      "start": 7.46,
+      "end": 8.02
+    },
+    {
+      "word": "channel",
+      "start": 8.02,
+      "end": 8.4
+    },
+    {
+      "word": "messages",
+      "start": 8.4,
+      "end": 8.84
+    },
+    {
+      "word": "and",
+      "start": 8.84,
+      "end": 9.4
+    },
+    {
+      "word": "messy",
+      "start": 9.4,
+      "end": 9.58
+    },
+    {
+      "word": "project",
+      "start": 9.58,
+      "end": 10.0
+    },
+    {
+      "word": "threads.",
+      "start": 10.0,
+      "end": 10.44
+    },
+    {
+      "word": "Critical",
+      "start": 11.26,
+      "end": 11.28
+    },
+    {
+      "word": "action",
+      "start": 11.28,
+      "end": 11.64
+    },
+    {
+      "word": "items",
+      "start": 11.64,
+      "end": 11.98
+    },
+    {
+      "word": "get",
+      "start": 11.98,
+      "end": 12.32
+    },
+    {
+      "word": "buried",
+      "start": 12.32,
+      "end": 12.54
+    },
+    {
+      "word": "under",
+      "start": 12.54,
+      "end": 12.84
+    },
+    {
+      "word": "chatter,",
+      "start": 12.84,
+      "end": 13.18
+    },
+    {
+      "word": "causing",
+      "start": 13.68,
+      "end": 13.82
+    },
+    {
+      "word": "missed",
+      "start": 13.82,
+      "end": 14.12
+    },
+    {
+      "word": "deadlines",
+      "start": 14.12,
+      "end": 14.52
+    },
+    {
+      "word": "and",
+      "start": 14.52,
+      "end": 14.86
+    },
+    {
+      "word": "constant",
+      "start": 14.86,
+      "end": 15.18
+    },
+    {
+      "word": "context",
+      "start": 15.18,
+      "end": 15.62
+    },
+    {
+      "word": "switching.",
+      "start": 15.62,
+      "end": 16.06
+    },
+    {
+      "word": "Slack",
+      "start": 16.68,
+      "end": 16.92
+    },
+    {
+      "word": "AI",
+      "start": 16.92,
+      "end": 17.38
+    },
+    {
+      "word": "now",
+      "start": 17.38,
+      "end": 17.78
+    },
+    {
+      "word": "synthesizes",
+      "start": 17.78,
+      "end": 18.34
+    },
+    {
+      "word": "unread",
+      "start": 18.34,
+      "end": 18.76
+    },
+    {
+      "word": "channels",
+      "start": 18.76,
+      "end": 19.14
+    },
+    {
+      "word": "into",
+      "start": 19.14,
+      "end": 19.46
+    },
+    {
+      "word": "bulleted",
+      "start": 19.46,
+      "end": 19.8
+    },
+    {
+      "word": "recaps",
+      "start": 19.8,
+      "end": 20.28
+    },
+    {
+      "word": "and",
+      "start": 20.28,
+      "end": 20.84
+    },
+    {
+      "word": "extracts",
+      "start": 20.84,
+      "end": 21.18
+    },
+    {
+      "word": "assigned",
+      "start": 21.18,
+      "end": 21.68
+    },
+    {
+      "word": "tasks",
+      "start": 21.68,
+      "end": 22.08
+    },
+    {
+      "word": "in",
+      "start": 22.08,
+      "end": 22.34
+    },
+    {
+      "word": "one",
+      "start": 22.34,
+      "end": 22.58
+    },
+    {
+      "word": "click.",
+      "start": 22.58,
+      "end": 22.84
+    },
+    {
+      "word": "This",
+      "start": 23.32,
+      "end": 23.56
+    },
+    {
+      "word": "saves",
+      "start": 23.56,
+      "end": 23.84
+    },
+    {
+      "word": "hours",
+      "start": 23.84,
+      "end": 24.3
+    },
+    {
+      "word": "of",
+      "start": 24.3,
+      "end": 24.52
+    },
+    {
+      "word": "communication",
+      "start": 24.52,
+      "end": 25.12
+    },
+    {
+      "word": "triage.",
+      "start": 25.12,
+      "end": 25.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Slack just rolled out an AI button that saves you 45 minutes of reading every morning.",
+      "line2": "SLACK AI CHANNEL SUMMARIES",
+      "tag": "\ud83d\uded1 Slack AI summary features and channel catch-up automation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Slack AI summary features and channel catch-up automation",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Slack AI summary features and channel catch-up automation",
+        "subtitle": "Slack AI summary features and channel catch-up automation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Slack AI summary features and channel catch-up automation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Slack AI summary features and channel catch-up automation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Slack AI summary features and channel catch-up automation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-03",
+  "idea": "AI graphic design workflow for selling stock graphics and templates",
+  "text": "Stop designing individual graphics from scratch when launching digital products. Building full template bundles one file at a time eats up all your spare evening hours. You end up stuck resizing layers, adjusting margins, and copying text boxes rather than marketing your store. Instead, connect Airtable to Canva with Zapier to push structured headline variations straight into pre-formatted designs automatically. You publish thirty ready-to-sell assets before dinner.",
+  "duration": 25.792,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "designing",
+      "start": 0.34,
+      "end": 0.76
+    },
+    {
+      "word": "individual",
+      "start": 0.76,
+      "end": 1.28
+    },
+    {
+      "word": "graphics",
+      "start": 1.28,
+      "end": 1.62
+    },
+    {
+      "word": "from",
+      "start": 1.62,
+      "end": 1.98
+    },
+    {
+      "word": "scratch",
+      "start": 1.98,
+      "end": 2.32
+    },
+    {
+      "word": "when",
+      "start": 2.32,
+      "end": 2.5
+    },
+    {
+      "word": "launching",
+      "start": 2.5,
+      "end": 2.84
+    },
+    {
+      "word": "digital",
+      "start": 2.84,
+      "end": 3.18
+    },
+    {
+      "word": "products.",
+      "start": 3.18,
+      "end": 3.8
+    },
+    {
+      "word": "Building",
+      "start": 4.5,
+      "end": 4.5
+    },
+    {
+      "word": "full",
+      "start": 4.5,
+      "end": 4.86
+    },
+    {
+      "word": "template",
+      "start": 4.86,
+      "end": 5.2
+    },
+    {
+      "word": "bundles",
+      "start": 5.2,
+      "end": 5.48
+    },
+    {
+      "word": "one",
+      "start": 5.48,
+      "end": 5.88
+    },
+    {
+      "word": "file",
+      "start": 5.88,
+      "end": 6.12
+    },
+    {
+      "word": "at",
+      "start": 6.12,
+      "end": 6.3
+    },
+    {
+      "word": "time",
+      "start": 6.3,
+      "end": 6.72
+    },
+    {
+      "word": "eats",
+      "start": 6.72,
+      "end": 6.98
+    },
+    {
+      "word": "up",
+      "start": 6.98,
+      "end": 7.22
+    },
+    {
+      "word": "all",
+      "start": 7.22,
+      "end": 7.36
+    },
+    {
+      "word": "your",
+      "start": 7.36,
+      "end": 7.54
+    },
+    {
+      "word": "spare",
+      "start": 7.54,
+      "end": 7.82
+    },
+    {
+      "word": "evening",
+      "start": 7.82,
+      "end": 8.12
+    },
+    {
+      "word": "hours.",
+      "start": 8.12,
+      "end": 8.56
+    },
+    {
+      "word": "You",
+      "start": 9.06,
+      "end": 9.14
+    },
+    {
+      "word": "end",
+      "start": 9.14,
+      "end": 9.28
+    },
+    {
+      "word": "up",
+      "start": 9.28,
+      "end": 9.54
+    },
+    {
+      "word": "stuck",
+      "start": 9.54,
+      "end": 9.72
+    },
+    {
+      "word": "resizing",
+      "start": 9.72,
+      "end": 10.2
+    },
+    {
+      "word": "layers,",
+      "start": 10.2,
+      "end": 10.6
+    },
+    {
+      "word": "adjusting",
+      "start": 11.02,
+      "end": 11.38
+    },
+    {
+      "word": "margins,",
+      "start": 11.38,
+      "end": 11.84
+    },
+    {
+      "word": "and",
+      "start": 12.22,
+      "end": 12.4
+    },
+    {
+      "word": "copying",
+      "start": 12.4,
+      "end": 12.66
+    },
+    {
+      "word": "text",
+      "start": 12.66,
+      "end": 13.02
+    },
+    {
+      "word": "boxes",
+      "start": 13.02,
+      "end": 13.42
+    },
+    {
+      "word": "rather",
+      "start": 13.42,
+      "end": 13.78
+    },
+    {
+      "word": "than",
+      "start": 13.78,
+      "end": 14.0
+    },
+    {
+      "word": "marketing",
+      "start": 14.0,
+      "end": 14.28
+    },
+    {
+      "word": "your",
+      "start": 14.28,
+      "end": 14.54
+    },
+    {
+      "word": "store.",
+      "start": 14.54,
+      "end": 14.84
+    },
+    {
+      "word": "Instead,",
+      "start": 15.48,
+      "end": 15.86
+    },
+    {
+      "word": "connect",
+      "start": 16.48,
+      "end": 16.58
+    },
+    {
+      "word": "airable",
+      "start": 16.58,
+      "end": 16.92
+    },
+    {
+      "word": "to",
+      "start": 16.92,
+      "end": 17.18
+    },
+    {
+      "word": "Canva",
+      "start": 17.18,
+      "end": 17.4
+    },
+    {
+      "word": "with",
+      "start": 17.4,
+      "end": 17.66
+    },
+    {
+      "word": "Zapier",
+      "start": 17.66,
+      "end": 18.02
+    },
+    {
+      "word": "to",
+      "start": 18.02,
+      "end": 18.22
+    },
+    {
+      "word": "push",
+      "start": 18.22,
+      "end": 18.5
+    },
+    {
+      "word": "structured",
+      "start": 18.5,
+      "end": 18.94
+    },
+    {
+      "word": "headline",
+      "start": 18.94,
+      "end": 19.42
+    },
+    {
+      "word": "variations",
+      "start": 19.42,
+      "end": 19.98
+    },
+    {
+      "word": "straight",
+      "start": 19.98,
+      "end": 20.56
+    },
+    {
+      "word": "into",
+      "start": 20.56,
+      "end": 20.8
+    },
+    {
+      "word": "preformatted",
+      "start": 20.8,
+      "end": 21.46
+    },
+    {
+      "word": "designs",
+      "start": 21.46,
+      "end": 21.94
+    },
+    {
+      "word": "automatically.",
+      "start": 21.94,
+      "end": 22.58
+    },
+    {
+      "word": "You",
+      "start": 22.58,
+      "end": 23.28
+    },
+    {
+      "word": "publish",
+      "start": 23.28,
+      "end": 23.68
+    },
+    {
+      "word": "30",
+      "start": 23.68,
+      "end": 24.06
+    },
+    {
+      "word": "ready",
+      "start": 24.06,
+      "end": 24.24
+    },
+    {
+      "word": "to",
+      "start": 24.24,
+      "end": 24.46
+    },
+    {
+      "word": "sell",
+      "start": 24.46,
+      "end": 24.72
+    },
+    {
+      "word": "assets",
+      "start": 24.72,
+      "end": 25.06
+    },
+    {
+      "word": "before",
+      "start": 25.06,
+      "end": 25.5
+    },
+    {
+      "word": "dinner.",
+      "start": 25.5,
+      "end": 25.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop designing individual graphics from scratch when launching digital products.",
+      "line2": "SELL STOCK GRAPHICS",
+      "tag": "\ud83d\uded1 AI graphic design workflow for selling stock graphics and templates",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: AI graphic design workflow for selling stock graphics and templates",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: AI graphic design workflow for selling stock graphics and templates",
+        "subtitle": "AI graphic design workflow for selling stock graphics and templates"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "AI graphic design workflow for selling stock graphics and templates"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "AI graphic design workflow for selling stock graphics and templates"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "AI graphic design workflow for selling stock graphics and templates",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+  "text": "If you have a messy Excel spreadsheet with broken formatting, watch this thirty-second fix. Raw CSV exports usually arrive with merged names, unformatted phone numbers, and random trailing spaces. Reorganizing each cell by hand across five hundred rows inevitably introduces typos that break your lookup formulas. Simply copy your unformatted rows into ChatGPT and submit the prompt: format as table. The AI instantly generates pristine delimited columns ready for paste.",
+  "duration": 30.714,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "you",
+      "start": 0.16,
+      "end": 0.26
+    },
+    {
+      "word": "have",
+      "start": 0.26,
+      "end": 0.46
+    },
+    {
+      "word": "a",
+      "start": 0.46,
+      "end": 0.56
+    },
+    {
+      "word": "messy",
+      "start": 0.56,
+      "end": 0.78
+    },
+    {
+      "word": "Excel",
+      "start": 0.78,
+      "end": 1.28
+    },
+    {
+      "word": "spreadsheet",
+      "start": 1.28,
+      "end": 1.72
+    },
+    {
+      "word": "with",
+      "start": 1.72,
+      "end": 2.06
+    },
+    {
+      "word": "broken",
+      "start": 2.06,
+      "end": 2.42
+    },
+    {
+      "word": "formatting,",
+      "start": 2.42,
+      "end": 2.78
+    },
+    {
+      "word": "watch",
+      "start": 3.3,
+      "end": 3.64
+    },
+    {
+      "word": "this",
+      "start": 3.64,
+      "end": 4.0
+    },
+    {
+      "word": "30",
+      "start": 4.0,
+      "end": 4.28
+    },
+    {
+      "word": "-second",
+      "start": 4.28,
+      "end": 4.6
+    },
+    {
+      "word": "fix.",
+      "start": 4.6,
+      "end": 5.1
+    },
+    {
+      "word": "Raw",
+      "start": 5.64,
+      "end": 5.92
+    },
+    {
+      "word": "CSV",
+      "start": 5.92,
+      "end": 6.42
+    },
+    {
+      "word": "exports",
+      "start": 6.42,
+      "end": 7.02
+    },
+    {
+      "word": "usually",
+      "start": 7.02,
+      "end": 7.54
+    },
+    {
+      "word": "arrive",
+      "start": 7.54,
+      "end": 7.94
+    },
+    {
+      "word": "with",
+      "start": 7.94,
+      "end": 8.2
+    },
+    {
+      "word": "merged",
+      "start": 8.2,
+      "end": 8.5
+    },
+    {
+      "word": "names,",
+      "start": 8.5,
+      "end": 8.94
+    },
+    {
+      "word": "unformatted",
+      "start": 9.46,
+      "end": 10.02
+    },
+    {
+      "word": "phone",
+      "start": 10.02,
+      "end": 10.34
+    },
+    {
+      "word": "numbers,",
+      "start": 10.34,
+      "end": 10.68
+    },
+    {
+      "word": "and",
+      "start": 11.06,
+      "end": 11.2
+    },
+    {
+      "word": "random",
+      "start": 11.2,
+      "end": 11.56
+    },
+    {
+      "word": "trailing",
+      "start": 11.56,
+      "end": 11.94
+    },
+    {
+      "word": "spaces.",
+      "start": 11.94,
+      "end": 12.56
+    },
+    {
+      "word": "Reorganizing",
+      "start": 12.92,
+      "end": 13.54
+    },
+    {
+      "word": "each",
+      "start": 13.54,
+      "end": 13.92
+    },
+    {
+      "word": "cell",
+      "start": 13.92,
+      "end": 14.18
+    },
+    {
+      "word": "by",
+      "start": 14.18,
+      "end": 14.44
+    },
+    {
+      "word": "hand",
+      "start": 14.44,
+      "end": 14.62
+    },
+    {
+      "word": "across",
+      "start": 14.62,
+      "end": 14.96
+    },
+    {
+      "word": "500",
+      "start": 14.96,
+      "end": 15.5
+    },
+    {
+      "word": "rows,",
+      "start": 15.5,
+      "end": 16.1
+    },
+    {
+      "word": "inevitably",
+      "start": 16.52,
+      "end": 16.72
+    },
+    {
+      "word": "introduces",
+      "start": 16.72,
+      "end": 17.34
+    },
+    {
+      "word": "typos",
+      "start": 17.34,
+      "end": 17.92
+    },
+    {
+      "word": "that",
+      "start": 17.92,
+      "end": 18.16
+    },
+    {
+      "word": "break",
+      "start": 18.16,
+      "end": 18.38
+    },
+    {
+      "word": "your",
+      "start": 18.38,
+      "end": 18.56
+    },
+    {
+      "word": "lookup",
+      "start": 18.56,
+      "end": 18.84
+    },
+    {
+      "word": "formulas.",
+      "start": 18.84,
+      "end": 19.34
+    },
+    {
+      "word": "Simply",
+      "start": 19.98,
+      "end": 20.26
+    },
+    {
+      "word": "copy",
+      "start": 20.26,
+      "end": 20.58
+    },
+    {
+      "word": "your",
+      "start": 20.58,
+      "end": 20.96
+    },
+    {
+      "word": "unformatted",
+      "start": 20.96,
+      "end": 21.5
+    },
+    {
+      "word": "rows",
+      "start": 21.5,
+      "end": 21.88
+    },
+    {
+      "word": "into",
+      "start": 21.88,
+      "end": 22.16
+    },
+    {
+      "word": "chat",
+      "start": 22.16,
+      "end": 22.52
+    },
+    {
+      "word": "GPT",
+      "start": 22.52,
+      "end": 23.16
+    },
+    {
+      "word": "and",
+      "start": 23.16,
+      "end": 23.48
+    },
+    {
+      "word": "submit",
+      "start": 23.48,
+      "end": 23.74
+    },
+    {
+      "word": "the",
+      "start": 23.74,
+      "end": 24.44
+    },
+    {
+      "word": "prompt,",
+      "start": 24.44,
+      "end": 24.44
+    },
+    {
+      "word": "format",
+      "start": 25.06,
+      "end": 25.06
+    },
+    {
+      "word": "as",
+      "start": 25.06,
+      "end": 25.5
+    },
+    {
+      "word": "table.",
+      "start": 25.5,
+      "end": 25.82
+    },
+    {
+      "word": "The",
+      "start": 26.42,
+      "end": 26.66
+    },
+    {
+      "word": "AI",
+      "start": 26.66,
+      "end": 27.16
+    },
+    {
+      "word": "instantly",
+      "start": 27.16,
+      "end": 27.7
+    },
+    {
+      "word": "generates",
+      "start": 27.7,
+      "end": 28.26
+    },
+    {
+      "word": "pristine,",
+      "start": 28.26,
+      "end": 28.76
+    },
+    {
+      "word": "delimited",
+      "start": 28.76,
+      "end": 29.3
+    },
+    {
+      "word": "columns",
+      "start": 29.3,
+      "end": 29.72
+    },
+    {
+      "word": "ready",
+      "start": 29.72,
+      "end": 30.06
+    },
+    {
+      "word": "for",
+      "start": 30.06,
+      "end": 30.38
+    },
+    {
+      "word": "paste.",
+      "start": 30.38,
+      "end": 30.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "If you have a messy Excel spreadsheet with broken formatting, watch this 30-second fix.",
+      "line2": "CLEAN MESSY DATA INSTANTLY",
+      "tag": "\ud83d\uded1 The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+        "subtitle": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

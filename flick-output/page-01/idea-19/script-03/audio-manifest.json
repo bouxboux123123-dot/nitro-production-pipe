@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated Slack digest that highlights weekly agency revenue and margins",
+  "text": "Stop flying blind on your agency's financial health until the accountant calls. Waiting for month-end reconciliations means discovering uncollected retainers and ballooning software subscriptions three weeks too late. Reactive financial tracking forces agencies into sudden cash crunches when multiple client invoices bounce simultaneously. Set up Zapier to sync Stripe billing data and ClickUp contractor budgets into a weekly margin alert. You protect operating margins without manual accounting headaches.",
+  "duration": 31.525,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "flying",
+      "start": 0.44,
+      "end": 0.88
+    },
+    {
+      "word": "blind",
+      "start": 0.88,
+      "end": 1.32
+    },
+    {
+      "word": "on",
+      "start": 1.32,
+      "end": 1.5
+    },
+    {
+      "word": "your",
+      "start": 1.5,
+      "end": 1.74
+    },
+    {
+      "word": "agency's",
+      "start": 1.74,
+      "end": 2.3
+    },
+    {
+      "word": "financial",
+      "start": 2.3,
+      "end": 2.68
+    },
+    {
+      "word": "health",
+      "start": 2.68,
+      "end": 3.34
+    },
+    {
+      "word": "until",
+      "start": 3.34,
+      "end": 3.6
+    },
+    {
+      "word": "the",
+      "start": 3.6,
+      "end": 3.84
+    },
+    {
+      "word": "account",
+      "start": 3.84,
+      "end": 4.06
+    },
+    {
+      "word": "calls.",
+      "start": 4.06,
+      "end": 4.64
+    },
+    {
+      "word": "Waiting",
+      "start": 5.38,
+      "end": 5.5
+    },
+    {
+      "word": "for",
+      "start": 5.5,
+      "end": 5.84
+    },
+    {
+      "word": "month",
+      "start": 5.84,
+      "end": 6.16
+    },
+    {
+      "word": "-end",
+      "start": 6.16,
+      "end": 6.42
+    },
+    {
+      "word": "reconciliation",
+      "start": 6.42,
+      "end": 7.08
+    },
+    {
+      "word": "means",
+      "start": 7.08,
+      "end": 7.98
+    },
+    {
+      "word": "discovering",
+      "start": 7.98,
+      "end": 8.62
+    },
+    {
+      "word": "uncollected",
+      "start": 8.62,
+      "end": 9.34
+    },
+    {
+      "word": "retainers",
+      "start": 9.34,
+      "end": 10.08
+    },
+    {
+      "word": "and",
+      "start": 10.08,
+      "end": 10.5
+    },
+    {
+      "word": "ballooning",
+      "start": 10.5,
+      "end": 10.94
+    },
+    {
+      "word": "software",
+      "start": 10.94,
+      "end": 11.34
+    },
+    {
+      "word": "subscriptions",
+      "start": 11.34,
+      "end": 12.04
+    },
+    {
+      "word": "three",
+      "start": 12.04,
+      "end": 12.44
+    },
+    {
+      "word": "weeks",
+      "start": 12.44,
+      "end": 12.72
+    },
+    {
+      "word": "too",
+      "start": 12.72,
+      "end": 12.98
+    },
+    {
+      "word": "late.",
+      "start": 12.98,
+      "end": 13.26
+    },
+    {
+      "word": "Reactive",
+      "start": 13.52,
+      "end": 13.9
+    },
+    {
+      "word": "financial",
+      "start": 13.9,
+      "end": 14.48
+    },
+    {
+      "word": "tracking",
+      "start": 14.48,
+      "end": 14.98
+    },
+    {
+      "word": "forces",
+      "start": 14.98,
+      "end": 15.4
+    },
+    {
+      "word": "agencies",
+      "start": 15.4,
+      "end": 15.94
+    },
+    {
+      "word": "into",
+      "start": 15.94,
+      "end": 16.34
+    },
+    {
+      "word": "sudden",
+      "start": 16.34,
+      "end": 16.66
+    },
+    {
+      "word": "cash",
+      "start": 16.66,
+      "end": 17.0
+    },
+    {
+      "word": "crunches",
+      "start": 17.0,
+      "end": 17.44
+    },
+    {
+      "word": "when",
+      "start": 17.44,
+      "end": 17.96
+    },
+    {
+      "word": "multiple",
+      "start": 17.96,
+      "end": 18.48
+    },
+    {
+      "word": "client",
+      "start": 18.48,
+      "end": 18.84
+    },
+    {
+      "word": "invoices",
+      "start": 18.84,
+      "end": 19.46
+    },
+    {
+      "word": "bounce",
+      "start": 19.46,
+      "end": 19.92
+    },
+    {
+      "word": "simultaneously.",
+      "start": 19.92,
+      "end": 20.74
+    },
+    {
+      "word": "Set",
+      "start": 21.56,
+      "end": 21.7
+    },
+    {
+      "word": "up",
+      "start": 21.7,
+      "end": 21.94
+    },
+    {
+      "word": "Zapier",
+      "start": 21.94,
+      "end": 22.36
+    },
+    {
+      "word": "to",
+      "start": 22.36,
+      "end": 22.6
+    },
+    {
+      "word": "sync",
+      "start": 22.6,
+      "end": 22.86
+    },
+    {
+      "word": "stripe",
+      "start": 22.86,
+      "end": 23.28
+    },
+    {
+      "word": "billing",
+      "start": 23.28,
+      "end": 23.56
+    },
+    {
+      "word": "data",
+      "start": 23.56,
+      "end": 23.94
+    },
+    {
+      "word": "and",
+      "start": 23.94,
+      "end": 24.4
+    },
+    {
+      "word": "click",
+      "start": 24.4,
+      "end": 24.6
+    },
+    {
+      "word": "up",
+      "start": 24.6,
+      "end": 24.92
+    },
+    {
+      "word": "contractor",
+      "start": 24.92,
+      "end": 25.3
+    },
+    {
+      "word": "budgets",
+      "start": 25.3,
+      "end": 25.7
+    },
+    {
+      "word": "into",
+      "start": 25.7,
+      "end": 26.08
+    },
+    {
+      "word": "a",
+      "start": 26.08,
+      "end": 26.2
+    },
+    {
+      "word": "weekly",
+      "start": 26.2,
+      "end": 26.54
+    },
+    {
+      "word": "margin",
+      "start": 26.54,
+      "end": 26.94
+    },
+    {
+      "word": "alert.",
+      "start": 26.94,
+      "end": 27.36
+    },
+    {
+      "word": "You",
+      "start": 27.36,
+      "end": 28.08
+    },
+    {
+      "word": "protect",
+      "start": 28.08,
+      "end": 28.48
+    },
+    {
+      "word": "operating",
+      "start": 28.48,
+      "end": 29.02
+    },
+    {
+      "word": "margins",
+      "start": 29.02,
+      "end": 29.54
+    },
+    {
+      "word": "without",
+      "start": 29.54,
+      "end": 30.04
+    },
+    {
+      "word": "manual",
+      "start": 30.04,
+      "end": 30.44
+    },
+    {
+      "word": "accounting",
+      "start": 30.44,
+      "end": 31.0
+    },
+    {
+      "word": "headaches.",
+      "start": 31.0,
+      "end": 31.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop flying blind on your agency's financial health until the accountant calls.",
+      "line2": "WEEKLY REVENUE DIGEST",
+      "tag": "\ud83d\uded1 Automated Slack digest that highlights weekly agency revenue and margins",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Automated Slack digest that highlights weekly agency revenue and margins",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Automated Slack digest that highlights weekly agency revenue and margins",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

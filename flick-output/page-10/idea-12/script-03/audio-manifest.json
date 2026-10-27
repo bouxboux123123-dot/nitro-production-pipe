@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "Airtable Cobuilder: build complex databases from plain English prompts",
+  "text": "This new AI update marks the end of manual database architecture for non-technical founders. Non-technical creators spend days trying to connect primary keys, foreign keys, and rollup summaries in relational databases. Architectural mistakes early on cause sync errors and make scaling your business operations nearly impossible. Airtable Cobuilder builds optimized relational schemas, connects entity relationships, and styles front-end dashboards in seconds. You launch custom enterprise apps instantly.",
+  "duration": 31.973,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "new",
+      "start": 0.26,
+      "end": 0.58
+    },
+    {
+      "word": "AI",
+      "start": 0.58,
+      "end": 1.0
+    },
+    {
+      "word": "update",
+      "start": 1.0,
+      "end": 1.42
+    },
+    {
+      "word": "marks",
+      "start": 1.42,
+      "end": 1.82
+    },
+    {
+      "word": "the",
+      "start": 1.82,
+      "end": 2.08
+    },
+    {
+      "word": "end",
+      "start": 2.08,
+      "end": 2.24
+    },
+    {
+      "word": "of",
+      "start": 2.24,
+      "end": 2.42
+    },
+    {
+      "word": "manual",
+      "start": 2.42,
+      "end": 2.84
+    },
+    {
+      "word": "database",
+      "start": 2.84,
+      "end": 3.38
+    },
+    {
+      "word": "architecture",
+      "start": 3.38,
+      "end": 4.0
+    },
+    {
+      "word": "for",
+      "start": 4.0,
+      "end": 4.42
+    },
+    {
+      "word": "non",
+      "start": 4.42,
+      "end": 4.66
+    },
+    {
+      "word": "-technical",
+      "start": 4.66,
+      "end": 5.02
+    },
+    {
+      "word": "founders.",
+      "start": 5.02,
+      "end": 5.68
+    },
+    {
+      "word": "Non",
+      "start": 6.56,
+      "end": 6.62
+    },
+    {
+      "word": "-technical",
+      "start": 6.62,
+      "end": 6.98
+    },
+    {
+      "word": "creators",
+      "start": 6.98,
+      "end": 7.58
+    },
+    {
+      "word": "spend",
+      "start": 7.58,
+      "end": 8.02
+    },
+    {
+      "word": "days",
+      "start": 8.02,
+      "end": 8.36
+    },
+    {
+      "word": "trying",
+      "start": 8.36,
+      "end": 8.64
+    },
+    {
+      "word": "to",
+      "start": 8.64,
+      "end": 8.82
+    },
+    {
+      "word": "connect",
+      "start": 8.82,
+      "end": 9.16
+    },
+    {
+      "word": "primary",
+      "start": 9.16,
+      "end": 9.54
+    },
+    {
+      "word": "keys,",
+      "start": 9.54,
+      "end": 10.12
+    },
+    {
+      "word": "foreign",
+      "start": 10.52,
+      "end": 10.82
+    },
+    {
+      "word": "keys,",
+      "start": 10.82,
+      "end": 11.28
+    },
+    {
+      "word": "and",
+      "start": 11.52,
+      "end": 11.78
+    },
+    {
+      "word": "roll",
+      "start": 11.78,
+      "end": 11.94
+    },
+    {
+      "word": "up",
+      "start": 11.94,
+      "end": 12.2
+    },
+    {
+      "word": "summaries",
+      "start": 12.2,
+      "end": 12.64
+    },
+    {
+      "word": "in",
+      "start": 12.64,
+      "end": 13.08
+    },
+    {
+      "word": "relational",
+      "start": 13.08,
+      "end": 13.64
+    },
+    {
+      "word": "databases.",
+      "start": 13.64,
+      "end": 14.28
+    },
+    {
+      "word": "Architectural",
+      "start": 14.96,
+      "end": 15.4
+    },
+    {
+      "word": "mistakes",
+      "start": 15.4,
+      "end": 15.78
+    },
+    {
+      "word": "early",
+      "start": 15.78,
+      "end": 16.26
+    },
+    {
+      "word": "on",
+      "start": 16.26,
+      "end": 16.52
+    },
+    {
+      "word": "cause",
+      "start": 16.52,
+      "end": 16.86
+    },
+    {
+      "word": "sync",
+      "start": 16.86,
+      "end": 17.18
+    },
+    {
+      "word": "errors",
+      "start": 17.18,
+      "end": 17.52
+    },
+    {
+      "word": "and",
+      "start": 17.52,
+      "end": 18.0
+    },
+    {
+      "word": "make",
+      "start": 18.0,
+      "end": 18.28
+    },
+    {
+      "word": "scaling",
+      "start": 18.28,
+      "end": 18.62
+    },
+    {
+      "word": "your",
+      "start": 18.62,
+      "end": 18.88
+    },
+    {
+      "word": "business",
+      "start": 18.88,
+      "end": 19.2
+    },
+    {
+      "word": "operations",
+      "start": 19.2,
+      "end": 19.8
+    },
+    {
+      "word": "nearly",
+      "start": 19.8,
+      "end": 20.22
+    },
+    {
+      "word": "impossible.",
+      "start": 20.22,
+      "end": 20.9
+    },
+    {
+      "word": "Airdable",
+      "start": 21.58,
+      "end": 21.94
+    },
+    {
+      "word": "Cobbleder",
+      "start": 21.94,
+      "end": 22.5
+    },
+    {
+      "word": "builds",
+      "start": 22.5,
+      "end": 22.84
+    },
+    {
+      "word": "optimized",
+      "start": 22.84,
+      "end": 23.4
+    },
+    {
+      "word": "relational",
+      "start": 23.4,
+      "end": 24.04
+    },
+    {
+      "word": "schemas,",
+      "start": 24.04,
+      "end": 24.48
+    },
+    {
+      "word": "connects",
+      "start": 25.22,
+      "end": 25.24
+    },
+    {
+      "word": "entity",
+      "start": 25.24,
+      "end": 25.58
+    },
+    {
+      "word": "relationships",
+      "start": 25.58,
+      "end": 26.18
+    },
+    {
+      "word": "and",
+      "start": 26.18,
+      "end": 26.8
+    },
+    {
+      "word": "styles",
+      "start": 26.8,
+      "end": 27.16
+    },
+    {
+      "word": "front",
+      "start": 27.16,
+      "end": 27.62
+    },
+    {
+      "word": "-end",
+      "start": 27.62,
+      "end": 27.82
+    },
+    {
+      "word": "dashboards",
+      "start": 27.82,
+      "end": 28.4
+    },
+    {
+      "word": "in",
+      "start": 28.4,
+      "end": 28.7
+    },
+    {
+      "word": "seconds.",
+      "start": 28.7,
+      "end": 29.12
+    },
+    {
+      "word": "You",
+      "start": 29.12,
+      "end": 29.8
+    },
+    {
+      "word": "launch",
+      "start": 29.8,
+      "end": 30.08
+    },
+    {
+      "word": "custom",
+      "start": 30.08,
+      "end": 30.46
+    },
+    {
+      "word": "enterprise",
+      "start": 30.46,
+      "end": 30.96
+    },
+    {
+      "word": "apps",
+      "start": 30.96,
+      "end": 31.44
+    },
+    {
+      "word": "instantly.",
+      "start": 31.44,
+      "end": 31.84
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The end of manual database architecture for non-technical founders.",
+      "line2": "AIRTABLE AI COBUILDER LAUNCH",
+      "tag": "\ud83d\uded1 Airtable Cobuilder",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Airtable Cobuilder",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

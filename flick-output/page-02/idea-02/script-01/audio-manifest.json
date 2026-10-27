@@ -1,0 +1,401 @@
+{
+  "page": "page-02",
+  "idea": "Voice-to-invoice app that generates itemized bills from voice memos",
+  "text": "If invoicing clients feels like pulling teeth, this tool does it from a voice memo. Freelancers waste Sunday afternoons piecing together scribbled notes and Slack timestamps to calculate billable hours. Delayed billing triggers unpredictable cash flow, forgotten project add-ons, and painful payment disputes. Speak a thirty-second memo into AudioPen to automatically parse rambling tasks into itemized Stripe invoices. You get invoices paid in twenty-four hours.",
+  "duration": 26.091,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "invoicing",
+      "start": 0.24,
+      "end": 0.62
+    },
+    {
+      "word": "clients",
+      "start": 0.62,
+      "end": 0.98
+    },
+    {
+      "word": "feels",
+      "start": 0.98,
+      "end": 1.3
+    },
+    {
+      "word": "like",
+      "start": 1.3,
+      "end": 1.58
+    },
+    {
+      "word": "pulling",
+      "start": 1.58,
+      "end": 1.86
+    },
+    {
+      "word": "teeth,",
+      "start": 1.86,
+      "end": 2.2
+    },
+    {
+      "word": "this",
+      "start": 2.62,
+      "end": 2.76
+    },
+    {
+      "word": "tool",
+      "start": 2.76,
+      "end": 2.96
+    },
+    {
+      "word": "does",
+      "start": 2.96,
+      "end": 3.16
+    },
+    {
+      "word": "it",
+      "start": 3.16,
+      "end": 3.3
+    },
+    {
+      "word": "from",
+      "start": 3.3,
+      "end": 3.44
+    },
+    {
+      "word": "a",
+      "start": 3.44,
+      "end": 3.56
+    },
+    {
+      "word": "voice",
+      "start": 3.56,
+      "end": 3.76
+    },
+    {
+      "word": "memo.",
+      "start": 3.76,
+      "end": 4.16
+    },
+    {
+      "word": "Freelancers",
+      "start": 4.72,
+      "end": 5.1
+    },
+    {
+      "word": "waste",
+      "start": 5.1,
+      "end": 5.54
+    },
+    {
+      "word": "Sunday",
+      "start": 5.54,
+      "end": 5.9
+    },
+    {
+      "word": "afternoons",
+      "start": 5.9,
+      "end": 6.5
+    },
+    {
+      "word": "piecing",
+      "start": 6.5,
+      "end": 6.88
+    },
+    {
+      "word": "together",
+      "start": 6.88,
+      "end": 7.2
+    },
+    {
+      "word": "scribbled",
+      "start": 7.2,
+      "end": 7.6
+    },
+    {
+      "word": "notes",
+      "start": 7.6,
+      "end": 7.86
+    },
+    {
+      "word": "and",
+      "start": 7.86,
+      "end": 8.1
+    },
+    {
+      "word": "slack",
+      "start": 8.1,
+      "end": 8.32
+    },
+    {
+      "word": "timestamps",
+      "start": 8.32,
+      "end": 8.86
+    },
+    {
+      "word": "to",
+      "start": 8.86,
+      "end": 9.1
+    },
+    {
+      "word": "calculate",
+      "start": 9.1,
+      "end": 9.52
+    },
+    {
+      "word": "billable",
+      "start": 9.52,
+      "end": 9.94
+    },
+    {
+      "word": "hours.",
+      "start": 9.94,
+      "end": 10.4
+    },
+    {
+      "word": "Delayed",
+      "start": 10.92,
+      "end": 11.18
+    },
+    {
+      "word": "billing",
+      "start": 11.18,
+      "end": 11.42
+    },
+    {
+      "word": "triggers",
+      "start": 11.42,
+      "end": 11.84
+    },
+    {
+      "word": "unpredictable",
+      "start": 11.84,
+      "end": 12.46
+    },
+    {
+      "word": "cash",
+      "start": 12.46,
+      "end": 12.9
+    },
+    {
+      "word": "flow,",
+      "start": 12.9,
+      "end": 13.26
+    },
+    {
+      "word": "forgotten",
+      "start": 13.62,
+      "end": 13.86
+    },
+    {
+      "word": "project",
+      "start": 13.86,
+      "end": 14.36
+    },
+    {
+      "word": "add",
+      "start": 14.36,
+      "end": 14.66
+    },
+    {
+      "word": "-ons,",
+      "start": 14.66,
+      "end": 14.9
+    },
+    {
+      "word": "and",
+      "start": 15.3,
+      "end": 15.44
+    },
+    {
+      "word": "painful",
+      "start": 15.44,
+      "end": 15.7
+    },
+    {
+      "word": "payment",
+      "start": 15.7,
+      "end": 16.06
+    },
+    {
+      "word": "disputes.",
+      "start": 16.06,
+      "end": 16.5
+    },
+    {
+      "word": "Speak",
+      "start": 17.08,
+      "end": 17.24
+    },
+    {
+      "word": "a",
+      "start": 17.24,
+      "end": 17.58
+    },
+    {
+      "word": "30",
+      "start": 17.58,
+      "end": 17.7
+    },
+    {
+      "word": "-second",
+      "start": 17.7,
+      "end": 18.0
+    },
+    {
+      "word": "memo",
+      "start": 18.0,
+      "end": 18.28
+    },
+    {
+      "word": "into",
+      "start": 18.28,
+      "end": 18.6
+    },
+    {
+      "word": "audio",
+      "start": 18.6,
+      "end": 18.96
+    },
+    {
+      "word": "pen",
+      "start": 18.96,
+      "end": 19.22
+    },
+    {
+      "word": "to",
+      "start": 19.22,
+      "end": 19.8
+    },
+    {
+      "word": "automatically",
+      "start": 19.8,
+      "end": 20.34
+    },
+    {
+      "word": "parse",
+      "start": 20.34,
+      "end": 20.76
+    },
+    {
+      "word": "rambling",
+      "start": 20.76,
+      "end": 21.16
+    },
+    {
+      "word": "tasks",
+      "start": 21.16,
+      "end": 21.56
+    },
+    {
+      "word": "into",
+      "start": 21.56,
+      "end": 21.88
+    },
+    {
+      "word": "itemized",
+      "start": 21.88,
+      "end": 22.46
+    },
+    {
+      "word": "stripe",
+      "start": 22.46,
+      "end": 22.72
+    },
+    {
+      "word": "invoices.",
+      "start": 22.72,
+      "end": 23.3
+    },
+    {
+      "word": "You",
+      "start": 23.82,
+      "end": 23.92
+    },
+    {
+      "word": "get",
+      "start": 23.92,
+      "end": 24.1
+    },
+    {
+      "word": "invoices",
+      "start": 24.1,
+      "end": 24.62
+    },
+    {
+      "word": "paid",
+      "start": 24.62,
+      "end": 24.92
+    },
+    {
+      "word": "in",
+      "start": 24.92,
+      "end": 25.14
+    },
+    {
+      "word": "24",
+      "start": 25.14,
+      "end": 25.54
+    },
+    {
+      "word": "hours.",
+      "start": 25.54,
+      "end": 26.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "If invoicing clients feels like pulling teeth, this tool does it from a voice memo.",
+      "line2": "VOICE TO INVOICE",
+      "tag": "\ud83d\uded1 Voice-to-invoice app that generates itemized bills from voice memos",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "Voice-to-Invoice Stream: Voice-to-invoice app that generates itemized bills from voice memos",
+      "primitive": "VoiceWaveToReceipt",
+      "props": {
+        "title": "Voice-to-Invoice Stream: Voice-to-invoice app that generates itemized bills from voice memos",
+        "subtitle": "Voice-to-invoice app that generates itemized bills from voice memos"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Overdue Payment Chaser",
+      "primitive": "OverdueChaserTimeline",
+      "props": {
+        "title": "Overdue Payment Chaser",
+        "subtitle": "Voice-to-invoice app that generates itemized bills from voice memos"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Retainer Value Conversion",
+      "primitive": "HourlyToRetainerConverter",
+      "props": {
+        "title": "Retainer Value Conversion",
+        "subtitle": "Voice-to-invoice app that generates itemized bills from voice memos"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant 24H Auto-Deposit",
+      "primitive": "StripePayoutCountdown",
+      "props": {
+        "title": "Instant 24H Auto-Deposit",
+        "subtitle": "Voice-to-invoice app that generates itemized bills from voice memos",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

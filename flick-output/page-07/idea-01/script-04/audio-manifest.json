@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+  "text": "Here is how venture-backed founders protect their focus for strategic product moves. You wake up ready to ship core features, but urgent fires and reactive requests hijack your morning. Fragmented focus destroys deep engineering time and pushes critical roadmap milestones back by weeks. Use Clockwise combined with Raycast shortcuts to batch internal meetings and lock four-hour focus blocks automatically. This guards your strategic bandwidth and accelerates shipping velocity.",
+  "duration": 28.879,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.42
+    },
+    {
+      "word": "how",
+      "start": 0.42,
+      "end": 0.74
+    },
+    {
+      "word": "venture",
+      "start": 0.74,
+      "end": 0.94
+    },
+    {
+      "word": "backed",
+      "start": 0.94,
+      "end": 1.32
+    },
+    {
+      "word": "founders",
+      "start": 1.32,
+      "end": 1.7
+    },
+    {
+      "word": "protect",
+      "start": 1.7,
+      "end": 2.1
+    },
+    {
+      "word": "their",
+      "start": 2.1,
+      "end": 2.5
+    },
+    {
+      "word": "focus",
+      "start": 2.5,
+      "end": 2.7
+    },
+    {
+      "word": "for",
+      "start": 2.7,
+      "end": 3.06
+    },
+    {
+      "word": "strategic",
+      "start": 3.06,
+      "end": 3.44
+    },
+    {
+      "word": "product",
+      "start": 3.44,
+      "end": 3.92
+    },
+    {
+      "word": "moves.",
+      "start": 3.92,
+      "end": 4.3
+    },
+    {
+      "word": "You",
+      "start": 4.78,
+      "end": 4.9
+    },
+    {
+      "word": "wake",
+      "start": 4.9,
+      "end": 5.08
+    },
+    {
+      "word": "up",
+      "start": 5.08,
+      "end": 5.3
+    },
+    {
+      "word": "ready",
+      "start": 5.3,
+      "end": 5.46
+    },
+    {
+      "word": "to",
+      "start": 5.46,
+      "end": 5.68
+    },
+    {
+      "word": "ship",
+      "start": 5.68,
+      "end": 5.92
+    },
+    {
+      "word": "core",
+      "start": 5.92,
+      "end": 6.2
+    },
+    {
+      "word": "features,",
+      "start": 6.2,
+      "end": 6.6
+    },
+    {
+      "word": "but",
+      "start": 6.98,
+      "end": 7.2
+    },
+    {
+      "word": "urgent",
+      "start": 7.2,
+      "end": 7.5
+    },
+    {
+      "word": "fires",
+      "start": 7.5,
+      "end": 8.02
+    },
+    {
+      "word": "and",
+      "start": 8.02,
+      "end": 8.3
+    },
+    {
+      "word": "reactive",
+      "start": 8.3,
+      "end": 8.7
+    },
+    {
+      "word": "requests",
+      "start": 8.7,
+      "end": 9.3
+    },
+    {
+      "word": "hijack",
+      "start": 9.3,
+      "end": 9.9
+    },
+    {
+      "word": "your",
+      "start": 9.9,
+      "end": 10.12
+    },
+    {
+      "word": "morning.",
+      "start": 10.12,
+      "end": 10.5
+    },
+    {
+      "word": "Fragmented",
+      "start": 11.06,
+      "end": 11.54
+    },
+    {
+      "word": "focus",
+      "start": 11.54,
+      "end": 12.08
+    },
+    {
+      "word": "destroys",
+      "start": 12.08,
+      "end": 12.62
+    },
+    {
+      "word": "deep",
+      "start": 12.62,
+      "end": 12.96
+    },
+    {
+      "word": "engineering",
+      "start": 12.96,
+      "end": 13.46
+    },
+    {
+      "word": "time",
+      "start": 13.46,
+      "end": 13.98
+    },
+    {
+      "word": "and",
+      "start": 13.98,
+      "end": 14.36
+    },
+    {
+      "word": "pushes",
+      "start": 14.36,
+      "end": 14.64
+    },
+    {
+      "word": "critical",
+      "start": 14.64,
+      "end": 15.16
+    },
+    {
+      "word": "roadmap",
+      "start": 15.16,
+      "end": 15.52
+    },
+    {
+      "word": "milestones",
+      "start": 15.52,
+      "end": 16.06
+    },
+    {
+      "word": "back",
+      "start": 16.06,
+      "end": 16.56
+    },
+    {
+      "word": "by",
+      "start": 16.56,
+      "end": 16.78
+    },
+    {
+      "word": "weeks.",
+      "start": 16.78,
+      "end": 17.14
+    },
+    {
+      "word": "Use",
+      "start": 17.58,
+      "end": 17.7
+    },
+    {
+      "word": "clockwise",
+      "start": 17.7,
+      "end": 18.2
+    },
+    {
+      "word": "combined",
+      "start": 18.2,
+      "end": 18.7
+    },
+    {
+      "word": "with",
+      "start": 18.7,
+      "end": 19.0
+    },
+    {
+      "word": "Raycast",
+      "start": 19.0,
+      "end": 19.42
+    },
+    {
+      "word": "shortcuts",
+      "start": 19.42,
+      "end": 19.86
+    },
+    {
+      "word": "to",
+      "start": 19.86,
+      "end": 20.32
+    },
+    {
+      "word": "batch",
+      "start": 20.32,
+      "end": 20.56
+    },
+    {
+      "word": "internal",
+      "start": 20.56,
+      "end": 21.0
+    },
+    {
+      "word": "meetings",
+      "start": 21.0,
+      "end": 21.42
+    },
+    {
+      "word": "and",
+      "start": 21.42,
+      "end": 21.92
+    },
+    {
+      "word": "lock",
+      "start": 21.92,
+      "end": 22.2
+    },
+    {
+      "word": "four",
+      "start": 22.2,
+      "end": 22.52
+    },
+    {
+      "word": "-hour",
+      "start": 22.52,
+      "end": 22.8
+    },
+    {
+      "word": "focus",
+      "start": 22.8,
+      "end": 23.26
+    },
+    {
+      "word": "blocks",
+      "start": 23.26,
+      "end": 23.82
+    },
+    {
+      "word": "automatically.",
+      "start": 23.82,
+      "end": 24.42
+    },
+    {
+      "word": "This",
+      "start": 25.16,
+      "end": 25.38
+    },
+    {
+      "word": "guards",
+      "start": 25.38,
+      "end": 25.68
+    },
+    {
+      "word": "your",
+      "start": 25.68,
+      "end": 26.0
+    },
+    {
+      "word": "strategic",
+      "start": 26.0,
+      "end": 26.42
+    },
+    {
+      "word": "bandwidth",
+      "start": 26.42,
+      "end": 26.88
+    },
+    {
+      "word": "and",
+      "start": 26.88,
+      "end": 27.38
+    },
+    {
+      "word": "accelerates",
+      "start": 27.38,
+      "end": 27.9
+    },
+    {
+      "word": "shipping",
+      "start": 27.9,
+      "end": 28.22
+    },
+    {
+      "word": "velocity.",
+      "start": 28.22,
+      "end": 28.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How venture-backed founders protect their focus for strategic product moves.",
+      "line2": "SAVE 10 FOUNDER HOURS",
+      "tag": "\ud83d\uded1 Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

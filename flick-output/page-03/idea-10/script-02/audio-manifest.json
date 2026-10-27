@@ -1,0 +1,391 @@
+{
+  "page": "page-03",
+  "idea": "Automated review collector that emails customers 3 days after delivery",
+  "text": "This automated sequence checks order delivery status and sends a friendly review link. Requesting product feedback before a package arrives damages customer trust and spikes refund requests. Tracking carrier updates manually across dozens of orders every afternoon is completely unscalable. Instead, use Make to connect AfterShip delivery webhooks with automated Loox review requests three days later. Your store builds credible social proof while you sleep.",
+  "duration": 25.685,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "automated",
+      "start": 0.3,
+      "end": 0.58
+    },
+    {
+      "word": "sequence",
+      "start": 0.58,
+      "end": 1.14
+    },
+    {
+      "word": "checks",
+      "start": 1.14,
+      "end": 1.56
+    },
+    {
+      "word": "order",
+      "start": 1.56,
+      "end": 1.88
+    },
+    {
+      "word": "delivery",
+      "start": 1.88,
+      "end": 2.16
+    },
+    {
+      "word": "status",
+      "start": 2.16,
+      "end": 2.66
+    },
+    {
+      "word": "and",
+      "start": 2.66,
+      "end": 3.16
+    },
+    {
+      "word": "sends",
+      "start": 3.16,
+      "end": 3.32
+    },
+    {
+      "word": "a",
+      "start": 3.32,
+      "end": 3.54
+    },
+    {
+      "word": "friendly",
+      "start": 3.54,
+      "end": 3.84
+    },
+    {
+      "word": "review",
+      "start": 3.84,
+      "end": 4.14
+    },
+    {
+      "word": "link.",
+      "start": 4.14,
+      "end": 4.62
+    },
+    {
+      "word": "Requesting",
+      "start": 5.02,
+      "end": 5.44
+    },
+    {
+      "word": "product",
+      "start": 5.44,
+      "end": 5.72
+    },
+    {
+      "word": "feedback",
+      "start": 5.72,
+      "end": 6.1
+    },
+    {
+      "word": "before",
+      "start": 6.1,
+      "end": 6.46
+    },
+    {
+      "word": "a",
+      "start": 6.46,
+      "end": 6.58
+    },
+    {
+      "word": "package",
+      "start": 6.58,
+      "end": 6.84
+    },
+    {
+      "word": "arrives,",
+      "start": 6.84,
+      "end": 7.3
+    },
+    {
+      "word": "damages",
+      "start": 7.88,
+      "end": 7.88
+    },
+    {
+      "word": "customer",
+      "start": 7.88,
+      "end": 8.4
+    },
+    {
+      "word": "trust",
+      "start": 8.4,
+      "end": 8.72
+    },
+    {
+      "word": "and",
+      "start": 8.72,
+      "end": 8.98
+    },
+    {
+      "word": "spikes",
+      "start": 8.98,
+      "end": 9.28
+    },
+    {
+      "word": "refund",
+      "start": 9.28,
+      "end": 9.64
+    },
+    {
+      "word": "requests.",
+      "start": 9.64,
+      "end": 10.24
+    },
+    {
+      "word": "Tracking",
+      "start": 10.98,
+      "end": 11.06
+    },
+    {
+      "word": "carrier",
+      "start": 11.06,
+      "end": 11.44
+    },
+    {
+      "word": "updates",
+      "start": 11.44,
+      "end": 11.84
+    },
+    {
+      "word": "manually",
+      "start": 11.84,
+      "end": 12.3
+    },
+    {
+      "word": "across",
+      "start": 12.3,
+      "end": 12.7
+    },
+    {
+      "word": "dozens",
+      "start": 12.7,
+      "end": 13.0
+    },
+    {
+      "word": "of",
+      "start": 13.0,
+      "end": 13.22
+    },
+    {
+      "word": "orders",
+      "start": 13.22,
+      "end": 13.5
+    },
+    {
+      "word": "every",
+      "start": 13.5,
+      "end": 14.06
+    },
+    {
+      "word": "afternoon",
+      "start": 14.06,
+      "end": 14.48
+    },
+    {
+      "word": "is",
+      "start": 14.48,
+      "end": 14.86
+    },
+    {
+      "word": "completely",
+      "start": 14.86,
+      "end": 15.3
+    },
+    {
+      "word": "unscalable.",
+      "start": 15.3,
+      "end": 16.0
+    },
+    {
+      "word": "Instead,",
+      "start": 16.64,
+      "end": 16.94
+    },
+    {
+      "word": "use",
+      "start": 17.52,
+      "end": 17.56
+    },
+    {
+      "word": "make",
+      "start": 17.56,
+      "end": 17.74
+    },
+    {
+      "word": "to",
+      "start": 17.74,
+      "end": 17.92
+    },
+    {
+      "word": "connect",
+      "start": 17.92,
+      "end": 18.16
+    },
+    {
+      "word": "after",
+      "start": 18.16,
+      "end": 18.56
+    },
+    {
+      "word": "ship",
+      "start": 18.56,
+      "end": 18.82
+    },
+    {
+      "word": "delivery",
+      "start": 18.82,
+      "end": 19.18
+    },
+    {
+      "word": "webhooks",
+      "start": 19.18,
+      "end": 19.68
+    },
+    {
+      "word": "with",
+      "start": 19.68,
+      "end": 19.9
+    },
+    {
+      "word": "automated",
+      "start": 19.9,
+      "end": 20.24
+    },
+    {
+      "word": "Luke's",
+      "start": 20.24,
+      "end": 21.0
+    },
+    {
+      "word": "review",
+      "start": 21.0,
+      "end": 21.0
+    },
+    {
+      "word": "requests",
+      "start": 21.0,
+      "end": 21.44
+    },
+    {
+      "word": "three",
+      "start": 21.44,
+      "end": 21.8
+    },
+    {
+      "word": "days",
+      "start": 21.8,
+      "end": 22.1
+    },
+    {
+      "word": "later.",
+      "start": 22.1,
+      "end": 22.44
+    },
+    {
+      "word": "Your",
+      "start": 23.0,
+      "end": 23.24
+    },
+    {
+      "word": "store",
+      "start": 23.24,
+      "end": 23.5
+    },
+    {
+      "word": "builds",
+      "start": 23.5,
+      "end": 23.84
+    },
+    {
+      "word": "credible",
+      "start": 23.84,
+      "end": 24.3
+    },
+    {
+      "word": "social",
+      "start": 24.3,
+      "end": 24.74
+    },
+    {
+      "word": "proof",
+      "start": 24.74,
+      "end": 25.08
+    },
+    {
+      "word": "while",
+      "start": 25.08,
+      "end": 25.28
+    },
+    {
+      "word": "you",
+      "start": 25.28,
+      "end": 25.48
+    },
+    {
+      "word": "sleep.",
+      "start": 25.48,
+      "end": 25.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "This automated sequence checks order delivery status and sends a friendly review link.",
+      "line2": "COLLECT 5-STAR REVIEWS",
+      "tag": "\ud83d\uded1 Automated review collector that emails customers 3 days after delivery",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated review collector that emails customers 3 days after delivery",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated review collector that emails customers 3 days after delivery",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

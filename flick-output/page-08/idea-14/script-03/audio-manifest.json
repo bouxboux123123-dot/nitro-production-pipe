@@ -1,0 +1,376 @@
+{
+  "page": "page-08",
+  "idea": "How to split your computer screen into two clean windows for multitasking",
+  "text": "Compare two documents or take notes while watching lectures side by side without frustration. Flipping between video screens and open documents constantly derails your focus and wastes study hours. Disorganized, stacked windows force you to hunt for lost cursors and pause your playback. Trigger Windows Snap Assist to lock your lecture left and your document editor right. This doubles your screen efficiency effortlessly.",
+  "duration": 22.997,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Compare",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "two",
+      "start": 0.34,
+      "end": 0.66
+    },
+    {
+      "word": "documents",
+      "start": 0.66,
+      "end": 1.06
+    },
+    {
+      "word": "or",
+      "start": 1.06,
+      "end": 1.36
+    },
+    {
+      "word": "take",
+      "start": 1.36,
+      "end": 1.58
+    },
+    {
+      "word": "notes",
+      "start": 1.58,
+      "end": 1.88
+    },
+    {
+      "word": "while",
+      "start": 1.88,
+      "end": 2.16
+    },
+    {
+      "word": "watching",
+      "start": 2.16,
+      "end": 2.54
+    },
+    {
+      "word": "lectures",
+      "start": 2.54,
+      "end": 2.98
+    },
+    {
+      "word": "side",
+      "start": 2.98,
+      "end": 3.34
+    },
+    {
+      "word": "by",
+      "start": 3.34,
+      "end": 3.6
+    },
+    {
+      "word": "side",
+      "start": 3.6,
+      "end": 3.88
+    },
+    {
+      "word": "without",
+      "start": 3.88,
+      "end": 4.18
+    },
+    {
+      "word": "frustration.",
+      "start": 4.18,
+      "end": 4.88
+    },
+    {
+      "word": "Flipping",
+      "start": 5.4,
+      "end": 5.62
+    },
+    {
+      "word": "between",
+      "start": 5.62,
+      "end": 5.96
+    },
+    {
+      "word": "video",
+      "start": 5.96,
+      "end": 6.24
+    },
+    {
+      "word": "screens",
+      "start": 6.24,
+      "end": 6.6
+    },
+    {
+      "word": "and",
+      "start": 6.6,
+      "end": 6.86
+    },
+    {
+      "word": "open",
+      "start": 6.86,
+      "end": 7.16
+    },
+    {
+      "word": "documents",
+      "start": 7.16,
+      "end": 7.62
+    },
+    {
+      "word": "constantly",
+      "start": 7.62,
+      "end": 8.2
+    },
+    {
+      "word": "derails",
+      "start": 8.2,
+      "end": 8.6
+    },
+    {
+      "word": "your",
+      "start": 8.6,
+      "end": 8.92
+    },
+    {
+      "word": "focus",
+      "start": 8.92,
+      "end": 9.18
+    },
+    {
+      "word": "and",
+      "start": 9.18,
+      "end": 9.44
+    },
+    {
+      "word": "waste",
+      "start": 9.44,
+      "end": 9.74
+    },
+    {
+      "word": "study",
+      "start": 9.74,
+      "end": 10.08
+    },
+    {
+      "word": "hours.",
+      "start": 10.08,
+      "end": 10.52
+    },
+    {
+      "word": "Disorganized,",
+      "start": 11.1,
+      "end": 11.74
+    },
+    {
+      "word": "stacked",
+      "start": 12.18,
+      "end": 12.52
+    },
+    {
+      "word": "windows",
+      "start": 12.52,
+      "end": 12.82
+    },
+    {
+      "word": "force",
+      "start": 12.82,
+      "end": 13.22
+    },
+    {
+      "word": "you",
+      "start": 13.22,
+      "end": 13.36
+    },
+    {
+      "word": "to",
+      "start": 13.36,
+      "end": 13.48
+    },
+    {
+      "word": "hunt",
+      "start": 13.48,
+      "end": 13.62
+    },
+    {
+      "word": "for",
+      "start": 13.62,
+      "end": 13.84
+    },
+    {
+      "word": "lost",
+      "start": 13.84,
+      "end": 14.14
+    },
+    {
+      "word": "cursors",
+      "start": 14.14,
+      "end": 14.62
+    },
+    {
+      "word": "and",
+      "start": 14.62,
+      "end": 14.86
+    },
+    {
+      "word": "pause",
+      "start": 14.86,
+      "end": 15.04
+    },
+    {
+      "word": "your",
+      "start": 15.04,
+      "end": 15.38
+    },
+    {
+      "word": "playback.",
+      "start": 15.38,
+      "end": 15.62
+    },
+    {
+      "word": "Trigger",
+      "start": 16.16,
+      "end": 16.42
+    },
+    {
+      "word": "windows",
+      "start": 16.42,
+      "end": 16.84
+    },
+    {
+      "word": "snap",
+      "start": 16.84,
+      "end": 17.16
+    },
+    {
+      "word": "assist",
+      "start": 17.16,
+      "end": 17.54
+    },
+    {
+      "word": "to",
+      "start": 17.54,
+      "end": 17.78
+    },
+    {
+      "word": "lock",
+      "start": 17.78,
+      "end": 17.94
+    },
+    {
+      "word": "your",
+      "start": 17.94,
+      "end": 18.36
+    },
+    {
+      "word": "lecture",
+      "start": 18.36,
+      "end": 18.46
+    },
+    {
+      "word": "left",
+      "start": 18.46,
+      "end": 18.72
+    },
+    {
+      "word": "and",
+      "start": 18.72,
+      "end": 19.08
+    },
+    {
+      "word": "your",
+      "start": 19.08,
+      "end": 19.28
+    },
+    {
+      "word": "document",
+      "start": 19.28,
+      "end": 19.64
+    },
+    {
+      "word": "editor",
+      "start": 19.64,
+      "end": 19.94
+    },
+    {
+      "word": "right.",
+      "start": 19.94,
+      "end": 20.46
+    },
+    {
+      "word": "This",
+      "start": 20.88,
+      "end": 21.04
+    },
+    {
+      "word": "doubles",
+      "start": 21.04,
+      "end": 21.3
+    },
+    {
+      "word": "your",
+      "start": 21.3,
+      "end": 21.66
+    },
+    {
+      "word": "screen",
+      "start": 21.66,
+      "end": 21.78
+    },
+    {
+      "word": "efficiency",
+      "start": 21.78,
+      "end": 22.34
+    },
+    {
+      "word": "effortlessly.",
+      "start": 22.34,
+      "end": 22.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How to compare two documents or take notes while watching a lecture side-by-side.",
+      "line2": "SPLIT SCREEN MULTITASKING",
+      "tag": "\ud83d\uded1 How to split your computer screen into two clean windows for multitasking",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to split your computer screen into two clean windows for multitasking",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to split your computer screen into two clean windows for multitasking",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

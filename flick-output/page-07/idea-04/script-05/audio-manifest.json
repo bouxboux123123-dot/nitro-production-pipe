@@ -1,0 +1,376 @@
+{
+  "page": "page-07",
+  "idea": "Pitch deck slide generator that formats raw traction metrics",
+  "text": "Create a compelling investor pitch deck in a single afternoon. Founders waste weeks rewriting market slides and rebuilding financial projections from scratch across multiple files. Disorganized narrative flow and outdated traction metrics confuse angels and stall term sheet negotiations. Connect Google Sheets to Gamma using Zapier to dynamically refresh financial charts across every slide. This keeps your deck investor-ready without design headaches.",
+  "duration": 26.283,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Create",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "a",
+      "start": 0.28,
+      "end": 0.54
+    },
+    {
+      "word": "compelling",
+      "start": 0.54,
+      "end": 0.88
+    },
+    {
+      "word": "investor",
+      "start": 0.88,
+      "end": 1.34
+    },
+    {
+      "word": "-pitched",
+      "start": 1.34,
+      "end": 1.66
+    },
+    {
+      "word": "deck",
+      "start": 1.66,
+      "end": 1.9
+    },
+    {
+      "word": "in",
+      "start": 1.9,
+      "end": 2.04
+    },
+    {
+      "word": "a",
+      "start": 2.04,
+      "end": 2.18
+    },
+    {
+      "word": "single",
+      "start": 2.18,
+      "end": 2.4
+    },
+    {
+      "word": "afternoon.",
+      "start": 2.4,
+      "end": 3.28
+    },
+    {
+      "word": "Founders",
+      "start": 3.98,
+      "end": 3.98
+    },
+    {
+      "word": "waste",
+      "start": 3.98,
+      "end": 4.26
+    },
+    {
+      "word": "weeks,",
+      "start": 4.26,
+      "end": 4.64
+    },
+    {
+      "word": "rewriting",
+      "start": 4.94,
+      "end": 5.04
+    },
+    {
+      "word": "market",
+      "start": 5.04,
+      "end": 5.44
+    },
+    {
+      "word": "slides,",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "word": "and",
+      "start": 6.26,
+      "end": 6.38
+    },
+    {
+      "word": "rebuilding",
+      "start": 6.38,
+      "end": 6.74
+    },
+    {
+      "word": "financial",
+      "start": 6.74,
+      "end": 7.34
+    },
+    {
+      "word": "projections",
+      "start": 7.34,
+      "end": 7.8
+    },
+    {
+      "word": "from",
+      "start": 7.8,
+      "end": 8.22
+    },
+    {
+      "word": "scratch",
+      "start": 8.22,
+      "end": 8.5
+    },
+    {
+      "word": "across",
+      "start": 8.5,
+      "end": 8.9
+    },
+    {
+      "word": "multiple",
+      "start": 8.9,
+      "end": 9.22
+    },
+    {
+      "word": "files.",
+      "start": 9.22,
+      "end": 9.8
+    },
+    {
+      "word": "Disorganized",
+      "start": 10.46,
+      "end": 10.88
+    },
+    {
+      "word": "narrative",
+      "start": 10.88,
+      "end": 11.6
+    },
+    {
+      "word": "flow",
+      "start": 11.6,
+      "end": 11.92
+    },
+    {
+      "word": "and",
+      "start": 11.92,
+      "end": 12.14
+    },
+    {
+      "word": "outdated",
+      "start": 12.14,
+      "end": 12.38
+    },
+    {
+      "word": "traction",
+      "start": 12.38,
+      "end": 12.86
+    },
+    {
+      "word": "metrics",
+      "start": 12.86,
+      "end": 13.32
+    },
+    {
+      "word": "confuse",
+      "start": 13.32,
+      "end": 13.96
+    },
+    {
+      "word": "angels",
+      "start": 13.96,
+      "end": 14.4
+    },
+    {
+      "word": "and",
+      "start": 14.4,
+      "end": 14.76
+    },
+    {
+      "word": "stall",
+      "start": 14.76,
+      "end": 15.08
+    },
+    {
+      "word": "-term",
+      "start": 15.08,
+      "end": 15.32
+    },
+    {
+      "word": "sheet",
+      "start": 15.32,
+      "end": 15.58
+    },
+    {
+      "word": "negotiations.",
+      "start": 15.58,
+      "end": 16.36
+    },
+    {
+      "word": "Connect",
+      "start": 17.02,
+      "end": 17.3
+    },
+    {
+      "word": "Google",
+      "start": 17.3,
+      "end": 17.76
+    },
+    {
+      "word": "Sheets",
+      "start": 17.76,
+      "end": 18.06
+    },
+    {
+      "word": "to",
+      "start": 18.06,
+      "end": 18.28
+    },
+    {
+      "word": "gamma",
+      "start": 18.28,
+      "end": 18.52
+    },
+    {
+      "word": "using",
+      "start": 18.52,
+      "end": 19.02
+    },
+    {
+      "word": "Zapier",
+      "start": 19.02,
+      "end": 19.48
+    },
+    {
+      "word": "to",
+      "start": 19.48,
+      "end": 19.88
+    },
+    {
+      "word": "dynamically",
+      "start": 19.88,
+      "end": 20.3
+    },
+    {
+      "word": "refresh",
+      "start": 20.3,
+      "end": 20.82
+    },
+    {
+      "word": "financial",
+      "start": 20.82,
+      "end": 21.32
+    },
+    {
+      "word": "charts",
+      "start": 21.32,
+      "end": 21.78
+    },
+    {
+      "word": "across",
+      "start": 21.78,
+      "end": 22.22
+    },
+    {
+      "word": "every",
+      "start": 22.22,
+      "end": 22.56
+    },
+    {
+      "word": "slide.",
+      "start": 22.56,
+      "end": 22.98
+    },
+    {
+      "word": "This",
+      "start": 23.46,
+      "end": 23.64
+    },
+    {
+      "word": "keeps",
+      "start": 23.64,
+      "end": 23.88
+    },
+    {
+      "word": "your",
+      "start": 23.88,
+      "end": 24.08
+    },
+    {
+      "word": "deck",
+      "start": 24.08,
+      "end": 24.3
+    },
+    {
+      "word": "invest",
+      "start": 24.3,
+      "end": 24.68
+    },
+    {
+      "word": "ready",
+      "start": 24.68,
+      "end": 24.94
+    },
+    {
+      "word": "without",
+      "start": 24.94,
+      "end": 25.34
+    },
+    {
+      "word": "design",
+      "start": 25.34,
+      "end": 25.74
+    },
+    {
+      "word": "headaches.",
+      "start": 25.74,
+      "end": 26.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Create a compelling investor pitch deck in a single afternoon.",
+      "line2": "FORMAT PITCH DECKS",
+      "tag": "\ud83d\uded1 Pitch deck slide generator that formats raw traction metrics",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Pitch deck slide generator that formats raw traction metrics",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Pitch deck slide generator that formats raw traction metrics",
+        "subtitle": "Pitch deck slide generator that formats raw traction metrics"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Pitch deck slide generator that formats raw traction metrics"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Pitch deck slide generator that formats raw traction metrics"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Pitch deck slide generator that formats raw traction metrics",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "Google Gemini workspace integration upgrades for Docs and Sheets",
+  "text": "How to turn on the latest Google Docs workflow shortcuts right now. Teams waste hours drafting repetitive client proposals, project scopes, and follow-up memos from scratch. Starting from blank documents slows down project kickoff and causes inconsistent formatting across team deliverables. Typing the smart chip menu in Docs now accesses Gemini building blocks that generate structured briefs and tracking tables instantly. You eliminate hours of tedious document setup.",
+  "duration": 29.285,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "to",
+      "start": 0.24,
+      "end": 0.38
+    },
+    {
+      "word": "turn",
+      "start": 0.38,
+      "end": 0.56
+    },
+    {
+      "word": "on",
+      "start": 0.56,
+      "end": 0.74
+    },
+    {
+      "word": "the",
+      "start": 0.74,
+      "end": 0.9
+    },
+    {
+      "word": "latest",
+      "start": 0.9,
+      "end": 1.2
+    },
+    {
+      "word": "Google",
+      "start": 1.2,
+      "end": 1.6
+    },
+    {
+      "word": "Docs",
+      "start": 1.6,
+      "end": 2.18
+    },
+    {
+      "word": "workflow",
+      "start": 2.18,
+      "end": 2.34
+    },
+    {
+      "word": "shortcuts",
+      "start": 2.34,
+      "end": 2.86
+    },
+    {
+      "word": "right",
+      "start": 2.86,
+      "end": 3.3
+    },
+    {
+      "word": "now.",
+      "start": 3.3,
+      "end": 3.92
+    },
+    {
+      "word": "Teams",
+      "start": 4.48,
+      "end": 4.5
+    },
+    {
+      "word": "waste",
+      "start": 4.5,
+      "end": 4.84
+    },
+    {
+      "word": "hours",
+      "start": 4.84,
+      "end": 5.28
+    },
+    {
+      "word": "drafting",
+      "start": 5.28,
+      "end": 5.74
+    },
+    {
+      "word": "repetitive",
+      "start": 5.74,
+      "end": 6.34
+    },
+    {
+      "word": "client",
+      "start": 6.34,
+      "end": 6.7
+    },
+    {
+      "word": "proposals,",
+      "start": 6.7,
+      "end": 7.26
+    },
+    {
+      "word": "project",
+      "start": 8.0,
+      "end": 8.0
+    },
+    {
+      "word": "scopes,",
+      "start": 8.0,
+      "end": 8.4
+    },
+    {
+      "word": "and",
+      "start": 8.76,
+      "end": 9.02
+    },
+    {
+      "word": "follow",
+      "start": 9.02,
+      "end": 9.26
+    },
+    {
+      "word": "-up",
+      "start": 9.26,
+      "end": 9.54
+    },
+    {
+      "word": "memos",
+      "start": 9.54,
+      "end": 9.78
+    },
+    {
+      "word": "from",
+      "start": 9.78,
+      "end": 10.22
+    },
+    {
+      "word": "scratch.",
+      "start": 10.22,
+      "end": 10.66
+    },
+    {
+      "word": "Starting",
+      "start": 11.46,
+      "end": 11.5
+    },
+    {
+      "word": "from",
+      "start": 11.5,
+      "end": 11.8
+    },
+    {
+      "word": "blank",
+      "start": 11.8,
+      "end": 12.08
+    },
+    {
+      "word": "documents,",
+      "start": 12.08,
+      "end": 12.58
+    },
+    {
+      "word": "slows",
+      "start": 12.76,
+      "end": 12.96
+    },
+    {
+      "word": "down",
+      "start": 12.96,
+      "end": 13.38
+    },
+    {
+      "word": "project",
+      "start": 13.38,
+      "end": 13.74
+    },
+    {
+      "word": "kickoff,",
+      "start": 13.74,
+      "end": 14.2
+    },
+    {
+      "word": "and",
+      "start": 14.68,
+      "end": 14.82
+    },
+    {
+      "word": "causes",
+      "start": 14.82,
+      "end": 15.14
+    },
+    {
+      "word": "inconsistent",
+      "start": 15.14,
+      "end": 15.88
+    },
+    {
+      "word": "formatting",
+      "start": 15.88,
+      "end": 16.4
+    },
+    {
+      "word": "across",
+      "start": 16.4,
+      "end": 16.9
+    },
+    {
+      "word": "team",
+      "start": 16.9,
+      "end": 17.24
+    },
+    {
+      "word": "deliverables.",
+      "start": 17.24,
+      "end": 17.86
+    },
+    {
+      "word": "Typing",
+      "start": 18.24,
+      "end": 18.54
+    },
+    {
+      "word": "the",
+      "start": 18.54,
+      "end": 18.74
+    },
+    {
+      "word": "smart",
+      "start": 18.74,
+      "end": 19.02
+    },
+    {
+      "word": "chip",
+      "start": 19.02,
+      "end": 19.28
+    },
+    {
+      "word": "menu",
+      "start": 19.28,
+      "end": 19.56
+    },
+    {
+      "word": "in",
+      "start": 19.56,
+      "end": 19.8
+    },
+    {
+      "word": "Docs,",
+      "start": 19.8,
+      "end": 20.32
+    },
+    {
+      "word": "now",
+      "start": 20.38,
+      "end": 20.74
+    },
+    {
+      "word": "accesses",
+      "start": 20.74,
+      "end": 21.44
+    },
+    {
+      "word": "Gemini",
+      "start": 21.44,
+      "end": 21.86
+    },
+    {
+      "word": "building",
+      "start": 21.86,
+      "end": 22.3
+    },
+    {
+      "word": "blocks",
+      "start": 22.3,
+      "end": 22.7
+    },
+    {
+      "word": "that",
+      "start": 22.7,
+      "end": 22.98
+    },
+    {
+      "word": "generate",
+      "start": 22.98,
+      "end": 23.32
+    },
+    {
+      "word": "structured",
+      "start": 23.32,
+      "end": 23.9
+    },
+    {
+      "word": "briefs",
+      "start": 23.9,
+      "end": 24.3
+    },
+    {
+      "word": "and",
+      "start": 24.3,
+      "end": 24.76
+    },
+    {
+      "word": "tracking",
+      "start": 24.76,
+      "end": 25.08
+    },
+    {
+      "word": "tables",
+      "start": 25.08,
+      "end": 25.48
+    },
+    {
+      "word": "instantly.",
+      "start": 25.48,
+      "end": 26.1
+    },
+    {
+      "word": "You",
+      "start": 26.1,
+      "end": 26.9
+    },
+    {
+      "word": "eliminate",
+      "start": 26.9,
+      "end": 27.26
+    },
+    {
+      "word": "hours",
+      "start": 27.26,
+      "end": 27.82
+    },
+    {
+      "word": "of",
+      "start": 27.82,
+      "end": 28.12
+    },
+    {
+      "word": "tedious",
+      "start": 28.12,
+      "end": 28.46
+    },
+    {
+      "word": "document",
+      "start": 28.46,
+      "end": 28.94
+    },
+    {
+      "word": "setup.",
+      "start": 28.94,
+      "end": 29.26
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "How to turn on the latest Google Docs workflow shortcuts right now.",
+      "line2": "GEMINI WORKSPACE INTEGRATION UPGRADES",
+      "tag": "\ud83d\uded1 Google Gemini workspace integration upgrades for Docs and Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Google Gemini workspace integration upgrades for Docs and Sheets",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Google Gemini workspace integration upgrades for Docs and Sheets",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

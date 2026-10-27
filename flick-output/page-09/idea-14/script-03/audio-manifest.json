@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "ElevenLabs vs Edge TTS: is paid AI voice generation worth the price tag",
+  "text": "When can you use free voice generation, and when must you pay for premium AI? Beginners overspend on ElevenLabs subscriptions when their audience only needs clear instructional walkthroughs. Free Edge TTS generates crisp speech, but it cannot deliver realistic laughter, whispers, or custom voice clones. Run Edge TTS scripts for automated news summaries, and deploy ElevenLabs for cinematic narratives and conversion ads. That simple strategy protects your production margins.",
+  "duration": 29.754,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "When",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "can",
+      "start": 0.2,
+      "end": 0.32
+    },
+    {
+      "word": "you",
+      "start": 0.32,
+      "end": 0.4
+    },
+    {
+      "word": "use",
+      "start": 0.4,
+      "end": 0.68
+    },
+    {
+      "word": "free",
+      "start": 0.68,
+      "end": 0.94
+    },
+    {
+      "word": "voice",
+      "start": 0.94,
+      "end": 1.18
+    },
+    {
+      "word": "generation?",
+      "start": 1.18,
+      "end": 1.76
+    },
+    {
+      "word": "And",
+      "start": 2.06,
+      "end": 2.3
+    },
+    {
+      "word": "when",
+      "start": 2.3,
+      "end": 2.46
+    },
+    {
+      "word": "must",
+      "start": 2.46,
+      "end": 2.64
+    },
+    {
+      "word": "you",
+      "start": 2.64,
+      "end": 2.8
+    },
+    {
+      "word": "pay",
+      "start": 2.8,
+      "end": 3.0
+    },
+    {
+      "word": "for",
+      "start": 3.0,
+      "end": 3.24
+    },
+    {
+      "word": "premium",
+      "start": 3.24,
+      "end": 3.58
+    },
+    {
+      "word": "AI?",
+      "start": 3.58,
+      "end": 4.3
+    },
+    {
+      "word": "Beginners",
+      "start": 4.96,
+      "end": 5.34
+    },
+    {
+      "word": "overspend",
+      "start": 5.34,
+      "end": 5.92
+    },
+    {
+      "word": "on",
+      "start": 5.92,
+      "end": 6.18
+    },
+    {
+      "word": "11",
+      "start": 6.18,
+      "end": 6.54
+    },
+    {
+      "word": "labs",
+      "start": 6.54,
+      "end": 6.88
+    },
+    {
+      "word": "subscriptions",
+      "start": 6.88,
+      "end": 7.58
+    },
+    {
+      "word": "when",
+      "start": 7.58,
+      "end": 8.06
+    },
+    {
+      "word": "their",
+      "start": 8.06,
+      "end": 8.36
+    },
+    {
+      "word": "audience",
+      "start": 8.36,
+      "end": 8.7
+    },
+    {
+      "word": "only",
+      "start": 8.7,
+      "end": 9.04
+    },
+    {
+      "word": "needs",
+      "start": 9.04,
+      "end": 9.46
+    },
+    {
+      "word": "clear",
+      "start": 9.46,
+      "end": 9.78
+    },
+    {
+      "word": "instructional",
+      "start": 9.78,
+      "end": 10.42
+    },
+    {
+      "word": "walkthroughs.",
+      "start": 10.42,
+      "end": 11.32
+    },
+    {
+      "word": "Free",
+      "start": 11.72,
+      "end": 11.74
+    },
+    {
+      "word": "-edge",
+      "start": 11.74,
+      "end": 12.02
+    },
+    {
+      "word": "TTS",
+      "start": 12.02,
+      "end": 12.7
+    },
+    {
+      "word": "generates",
+      "start": 12.7,
+      "end": 13.14
+    },
+    {
+      "word": "crisp",
+      "start": 13.14,
+      "end": 13.48
+    },
+    {
+      "word": "speech,",
+      "start": 13.48,
+      "end": 13.92
+    },
+    {
+      "word": "but",
+      "start": 14.24,
+      "end": 14.46
+    },
+    {
+      "word": "it",
+      "start": 14.46,
+      "end": 14.56
+    },
+    {
+      "word": "cannot",
+      "start": 14.56,
+      "end": 14.88
+    },
+    {
+      "word": "deliver",
+      "start": 14.88,
+      "end": 15.26
+    },
+    {
+      "word": "realistic",
+      "start": 15.26,
+      "end": 15.78
+    },
+    {
+      "word": "laughter,",
+      "start": 15.78,
+      "end": 16.32
+    },
+    {
+      "word": "whispers,",
+      "start": 16.8,
+      "end": 17.0
+    },
+    {
+      "word": "or",
+      "start": 17.4,
+      "end": 17.62
+    },
+    {
+      "word": "custom",
+      "start": 17.62,
+      "end": 17.98
+    },
+    {
+      "word": "voice",
+      "start": 17.98,
+      "end": 18.3
+    },
+    {
+      "word": "clones.",
+      "start": 18.3,
+      "end": 18.68
+    },
+    {
+      "word": "Run",
+      "start": 19.32,
+      "end": 19.68
+    },
+    {
+      "word": "-edge",
+      "start": 19.68,
+      "end": 19.96
+    },
+    {
+      "word": "TTS",
+      "start": 19.96,
+      "end": 20.58
+    },
+    {
+      "word": "scripts",
+      "start": 20.58,
+      "end": 20.86
+    },
+    {
+      "word": "for",
+      "start": 20.86,
+      "end": 21.38
+    },
+    {
+      "word": "automated",
+      "start": 21.38,
+      "end": 21.48
+    },
+    {
+      "word": "news",
+      "start": 21.48,
+      "end": 21.94
+    },
+    {
+      "word": "summaries",
+      "start": 21.94,
+      "end": 22.32
+    },
+    {
+      "word": "and",
+      "start": 22.32,
+      "end": 22.9
+    },
+    {
+      "word": "deploy",
+      "start": 22.9,
+      "end": 23.14
+    },
+    {
+      "word": "11",
+      "start": 23.14,
+      "end": 23.6
+    },
+    {
+      "word": "labs",
+      "start": 23.6,
+      "end": 23.92
+    },
+    {
+      "word": "for",
+      "start": 23.92,
+      "end": 24.28
+    },
+    {
+      "word": "cinematic",
+      "start": 24.28,
+      "end": 24.68
+    },
+    {
+      "word": "narratives",
+      "start": 24.68,
+      "end": 25.26
+    },
+    {
+      "word": "and",
+      "start": 25.26,
+      "end": 25.66
+    },
+    {
+      "word": "conversion",
+      "start": 25.66,
+      "end": 25.98
+    },
+    {
+      "word": "ads.",
+      "start": 25.98,
+      "end": 26.5
+    },
+    {
+      "word": "That",
+      "start": 26.5,
+      "end": 27.22
+    },
+    {
+      "word": "simple",
+      "start": 27.22,
+      "end": 27.58
+    },
+    {
+      "word": "strategy",
+      "start": 27.58,
+      "end": 28.06
+    },
+    {
+      "word": "protects",
+      "start": 28.06,
+      "end": 28.44
+    },
+    {
+      "word": "your",
+      "start": 28.44,
+      "end": 29.1
+    },
+    {
+      "word": "production",
+      "start": 29.1,
+      "end": 29.12
+    },
+    {
+      "word": "margins.",
+      "start": 29.12,
+      "end": 29.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "When you can get away with free voice generation and when you must pay for premium.",
+      "line2": "ELEVENLABS VS EDGE TTS",
+      "tag": "\ud83d\uded1 ElevenLabs vs Edge TTS",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: ElevenLabs vs Edge TTS",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: ElevenLabs vs Edge TTS",
+        "subtitle": "ElevenLabs vs Edge TTS"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "ElevenLabs vs Edge TTS"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "ElevenLabs vs Edge TTS"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "ElevenLabs vs Edge TTS",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

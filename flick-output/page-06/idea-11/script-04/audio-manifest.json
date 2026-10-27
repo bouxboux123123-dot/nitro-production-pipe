@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Digital whiteboard template for running remote design sprint workshops",
+  "text": "This workshop framework turns raw ideas into prioritized product wireframes in two hours. Remote product teams spend weeks debating feature specs across disjointed Slack threads and Loom videos. Misaligned user flows create costly developer rework when wireframes fail to address actual customer pain points. Running a structured Miro design sprint board forces rapid user story mapping and instant sketch alignment. Your engineering squad ships features with total confidence.",
+  "duration": 29.647,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "workshop",
+      "start": 0.26,
+      "end": 0.66
+    },
+    {
+      "word": "framework",
+      "start": 0.66,
+      "end": 1.0
+    },
+    {
+      "word": "turns",
+      "start": 1.0,
+      "end": 1.6
+    },
+    {
+      "word": "raw",
+      "start": 1.6,
+      "end": 1.92
+    },
+    {
+      "word": "ideas",
+      "start": 1.92,
+      "end": 2.42
+    },
+    {
+      "word": "into",
+      "start": 2.42,
+      "end": 2.7
+    },
+    {
+      "word": "prioritized",
+      "start": 2.7,
+      "end": 3.56
+    },
+    {
+      "word": "product",
+      "start": 3.56,
+      "end": 3.94
+    },
+    {
+      "word": "wireframes",
+      "start": 3.94,
+      "end": 4.52
+    },
+    {
+      "word": "in",
+      "start": 4.52,
+      "end": 4.76
+    },
+    {
+      "word": "two",
+      "start": 4.76,
+      "end": 5.08
+    },
+    {
+      "word": "hours.",
+      "start": 5.08,
+      "end": 5.58
+    },
+    {
+      "word": "Remote",
+      "start": 6.18,
+      "end": 6.42
+    },
+    {
+      "word": "product",
+      "start": 6.42,
+      "end": 6.82
+    },
+    {
+      "word": "team",
+      "start": 6.82,
+      "end": 7.18
+    },
+    {
+      "word": "spend",
+      "start": 7.18,
+      "end": 7.5
+    },
+    {
+      "word": "weeks",
+      "start": 7.5,
+      "end": 7.86
+    },
+    {
+      "word": "debating",
+      "start": 7.86,
+      "end": 8.26
+    },
+    {
+      "word": "feature",
+      "start": 8.26,
+      "end": 8.7
+    },
+    {
+      "word": "specs",
+      "start": 8.7,
+      "end": 9.06
+    },
+    {
+      "word": "across",
+      "start": 9.06,
+      "end": 9.6
+    },
+    {
+      "word": "disjointed",
+      "start": 9.6,
+      "end": 10.24
+    },
+    {
+      "word": "Slack",
+      "start": 10.24,
+      "end": 10.58
+    },
+    {
+      "word": "threads",
+      "start": 10.58,
+      "end": 11.0
+    },
+    {
+      "word": "and",
+      "start": 11.0,
+      "end": 11.26
+    },
+    {
+      "word": "loom",
+      "start": 11.26,
+      "end": 11.5
+    },
+    {
+      "word": "videos.",
+      "start": 11.5,
+      "end": 11.94
+    },
+    {
+      "word": "Misaligned",
+      "start": 12.46,
+      "end": 12.84
+    },
+    {
+      "word": "user",
+      "start": 12.84,
+      "end": 13.22
+    },
+    {
+      "word": "flows",
+      "start": 13.22,
+      "end": 13.56
+    },
+    {
+      "word": "create",
+      "start": 13.56,
+      "end": 14.0
+    },
+    {
+      "word": "costly",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "word": "developer",
+      "start": 14.4,
+      "end": 14.82
+    },
+    {
+      "word": "work",
+      "start": 14.82,
+      "end": 15.28
+    },
+    {
+      "word": "when",
+      "start": 15.28,
+      "end": 15.72
+    },
+    {
+      "word": "wireframes",
+      "start": 15.72,
+      "end": 16.34
+    },
+    {
+      "word": "fail",
+      "start": 16.34,
+      "end": 16.68
+    },
+    {
+      "word": "to",
+      "start": 16.68,
+      "end": 16.86
+    },
+    {
+      "word": "address",
+      "start": 16.86,
+      "end": 17.18
+    },
+    {
+      "word": "actual",
+      "start": 17.18,
+      "end": 17.68
+    },
+    {
+      "word": "customer",
+      "start": 17.68,
+      "end": 18.08
+    },
+    {
+      "word": "pain",
+      "start": 18.08,
+      "end": 18.44
+    },
+    {
+      "word": "points.",
+      "start": 18.44,
+      "end": 18.84
+    },
+    {
+      "word": "Running",
+      "start": 19.48,
+      "end": 19.7
+    },
+    {
+      "word": "a",
+      "start": 19.7,
+      "end": 19.98
+    },
+    {
+      "word": "structured",
+      "start": 19.98,
+      "end": 20.4
+    },
+    {
+      "word": "myro",
+      "start": 20.4,
+      "end": 20.88
+    },
+    {
+      "word": "design",
+      "start": 20.88,
+      "end": 21.3
+    },
+    {
+      "word": "sprint",
+      "start": 21.3,
+      "end": 21.66
+    },
+    {
+      "word": "board",
+      "start": 21.66,
+      "end": 22.0
+    },
+    {
+      "word": "forces",
+      "start": 22.0,
+      "end": 22.58
+    },
+    {
+      "word": "rapid",
+      "start": 22.58,
+      "end": 22.96
+    },
+    {
+      "word": "user",
+      "start": 22.96,
+      "end": 23.34
+    },
+    {
+      "word": "story",
+      "start": 23.34,
+      "end": 23.74
+    },
+    {
+      "word": "mapping",
+      "start": 23.74,
+      "end": 24.1
+    },
+    {
+      "word": "and",
+      "start": 24.1,
+      "end": 24.74
+    },
+    {
+      "word": "instant",
+      "start": 24.74,
+      "end": 25.02
+    },
+    {
+      "word": "sketch",
+      "start": 25.02,
+      "end": 25.36
+    },
+    {
+      "word": "alignment.",
+      "start": 25.36,
+      "end": 25.82
+    },
+    {
+      "word": "Your",
+      "start": 25.82,
+      "end": 26.62
+    },
+    {
+      "word": "engineering",
+      "start": 26.62,
+      "end": 27.08
+    },
+    {
+      "word": "squad",
+      "start": 27.08,
+      "end": 27.56
+    },
+    {
+      "word": "ships",
+      "start": 27.56,
+      "end": 27.84
+    },
+    {
+      "word": "features",
+      "start": 27.84,
+      "end": 28.28
+    },
+    {
+      "word": "with",
+      "start": 28.28,
+      "end": 28.7
+    },
+    {
+      "word": "total",
+      "start": 28.7,
+      "end": 28.98
+    },
+    {
+      "word": "confidence.",
+      "start": 28.98,
+      "end": 29.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The workshop framework that turns raw ideas into prioritized product wireframes in 2 hours.",
+      "line2": "REMOTE DESIGN SPRINTS",
+      "tag": "\ud83d\uded1 Digital whiteboard template for running remote design sprint workshops",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Digital whiteboard template for running remote design sprint workshops",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Digital whiteboard template for running remote design sprint workshops",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

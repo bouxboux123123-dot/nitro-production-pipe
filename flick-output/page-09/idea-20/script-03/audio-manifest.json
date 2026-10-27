@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "Cal.com vs Calendly: which booking scheduler is better for your business",
+  "text": "Stop paying recurring monthly fees just to manage multiple calendar booking links. Calendly restricts free users to one event type, charging monthly the second you add another link. If you run discovery calls, demos, and reviews, per-user seat fees escalate quickly across your team. Cal.com provides unlimited event types, multi-calendar conflict checks, and team routing on their free tier. You eliminate unnecessary software subscriptions while streamlining client booking.",
+  "duration": 28.538,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "paying",
+      "start": 0.38,
+      "end": 0.74
+    },
+    {
+      "word": "recurring",
+      "start": 0.74,
+      "end": 1.24
+    },
+    {
+      "word": "monthly",
+      "start": 1.24,
+      "end": 1.64
+    },
+    {
+      "word": "fees",
+      "start": 1.64,
+      "end": 1.98
+    },
+    {
+      "word": "just",
+      "start": 1.98,
+      "end": 2.28
+    },
+    {
+      "word": "to",
+      "start": 2.28,
+      "end": 2.48
+    },
+    {
+      "word": "manage",
+      "start": 2.48,
+      "end": 2.8
+    },
+    {
+      "word": "multiple",
+      "start": 2.8,
+      "end": 3.34
+    },
+    {
+      "word": "calendar",
+      "start": 3.34,
+      "end": 3.74
+    },
+    {
+      "word": "booking",
+      "start": 3.74,
+      "end": 4.04
+    },
+    {
+      "word": "links.",
+      "start": 4.04,
+      "end": 4.62
+    },
+    {
+      "word": "Calently",
+      "start": 5.14,
+      "end": 5.4
+    },
+    {
+      "word": "restricts",
+      "start": 5.4,
+      "end": 5.84
+    },
+    {
+      "word": "free",
+      "start": 5.84,
+      "end": 6.22
+    },
+    {
+      "word": "users",
+      "start": 6.22,
+      "end": 6.5
+    },
+    {
+      "word": "to",
+      "start": 6.5,
+      "end": 6.78
+    },
+    {
+      "word": "one",
+      "start": 6.78,
+      "end": 6.96
+    },
+    {
+      "word": "event",
+      "start": 6.96,
+      "end": 7.24
+    },
+    {
+      "word": "type,",
+      "start": 7.24,
+      "end": 7.64
+    },
+    {
+      "word": "charging",
+      "start": 8.28,
+      "end": 8.28
+    },
+    {
+      "word": "monthly",
+      "start": 8.28,
+      "end": 8.8
+    },
+    {
+      "word": "the",
+      "start": 8.8,
+      "end": 9.06
+    },
+    {
+      "word": "second",
+      "start": 9.06,
+      "end": 9.26
+    },
+    {
+      "word": "you",
+      "start": 9.26,
+      "end": 9.5
+    },
+    {
+      "word": "add",
+      "start": 9.5,
+      "end": 9.7
+    },
+    {
+      "word": "another",
+      "start": 9.7,
+      "end": 10.02
+    },
+    {
+      "word": "link.",
+      "start": 10.02,
+      "end": 10.36
+    },
+    {
+      "word": "If",
+      "start": 10.8,
+      "end": 10.94
+    },
+    {
+      "word": "you",
+      "start": 10.94,
+      "end": 11.1
+    },
+    {
+      "word": "run",
+      "start": 11.1,
+      "end": 11.3
+    },
+    {
+      "word": "discovery",
+      "start": 11.3,
+      "end": 11.76
+    },
+    {
+      "word": "calls,",
+      "start": 11.76,
+      "end": 12.26
+    },
+    {
+      "word": "demos,",
+      "start": 12.46,
+      "end": 12.68
+    },
+    {
+      "word": "and",
+      "start": 12.98,
+      "end": 13.0
+    },
+    {
+      "word": "reviews,",
+      "start": 13.0,
+      "end": 13.52
+    },
+    {
+      "word": "per",
+      "start": 13.8,
+      "end": 13.92
+    },
+    {
+      "word": "user",
+      "start": 13.92,
+      "end": 14.24
+    },
+    {
+      "word": "seat",
+      "start": 14.24,
+      "end": 14.54
+    },
+    {
+      "word": "fees",
+      "start": 14.54,
+      "end": 14.86
+    },
+    {
+      "word": "escalate",
+      "start": 14.86,
+      "end": 15.2
+    },
+    {
+      "word": "quickly",
+      "start": 15.2,
+      "end": 15.68
+    },
+    {
+      "word": "across",
+      "start": 15.68,
+      "end": 15.96
+    },
+    {
+      "word": "your",
+      "start": 15.96,
+      "end": 16.26
+    },
+    {
+      "word": "team.",
+      "start": 16.26,
+      "end": 16.7
+    },
+    {
+      "word": "Cal",
+      "start": 17.26,
+      "end": 17.32
+    },
+    {
+      "word": "Com",
+      "start": 17.32,
+      "end": 17.64
+    },
+    {
+      "word": "provides",
+      "start": 17.64,
+      "end": 18.06
+    },
+    {
+      "word": "unlimited",
+      "start": 18.06,
+      "end": 18.52
+    },
+    {
+      "word": "event",
+      "start": 18.52,
+      "end": 18.98
+    },
+    {
+      "word": "types,",
+      "start": 18.98,
+      "end": 19.3
+    },
+    {
+      "word": "multi",
+      "start": 19.8,
+      "end": 20.0
+    },
+    {
+      "word": "-calendar",
+      "start": 20.0,
+      "end": 20.52
+    },
+    {
+      "word": "conflict",
+      "start": 20.52,
+      "end": 20.98
+    },
+    {
+      "word": "checks,",
+      "start": 20.98,
+      "end": 21.36
+    },
+    {
+      "word": "and",
+      "start": 21.6,
+      "end": 21.88
+    },
+    {
+      "word": "team",
+      "start": 21.88,
+      "end": 22.22
+    },
+    {
+      "word": "routing",
+      "start": 22.22,
+      "end": 22.5
+    },
+    {
+      "word": "on",
+      "start": 22.5,
+      "end": 22.72
+    },
+    {
+      "word": "their",
+      "start": 22.72,
+      "end": 22.94
+    },
+    {
+      "word": "free",
+      "start": 22.94,
+      "end": 23.2
+    },
+    {
+      "word": "tier.",
+      "start": 23.2,
+      "end": 23.54
+    },
+    {
+      "word": "You",
+      "start": 24.26,
+      "end": 24.32
+    },
+    {
+      "word": "eliminate",
+      "start": 24.32,
+      "end": 24.8
+    },
+    {
+      "word": "unnecessary",
+      "start": 24.8,
+      "end": 25.5
+    },
+    {
+      "word": "software",
+      "start": 25.5,
+      "end": 26.08
+    },
+    {
+      "word": "subscriptions",
+      "start": 26.08,
+      "end": 26.76
+    },
+    {
+      "word": "while",
+      "start": 26.76,
+      "end": 27.2
+    },
+    {
+      "word": "streamlining",
+      "start": 27.2,
+      "end": 27.76
+    },
+    {
+      "word": "client",
+      "start": 27.76,
+      "end": 28.2
+    },
+    {
+      "word": "booking.",
+      "start": 28.2,
+      "end": 28.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Stop paying monthly fees for multiple calendar booking links.",
+      "line2": "CAL.COM VS CALENDLY",
+      "tag": "\ud83d\uded1 Cal.com vs Calendly",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Cal.com vs Calendly",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Cal.com vs Calendly",
+        "subtitle": "Cal.com vs Calendly"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Cal.com vs Calendly"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Cal.com vs Calendly"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Cal.com vs Calendly",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

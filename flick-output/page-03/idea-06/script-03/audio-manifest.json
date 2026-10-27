@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated lead generation scraper for local service business clients",
+  "text": "The automated workflow that finds business contacts and phone numbers for you. Freelancers pitch generic support inboxes because finding an owner's verified direct contact takes forever manually. Sending proposals to info addresses leaves pitches unread, wasting hours without landing a single paying client. Use PhantomBuster to scrape local business directories, enriching mobile numbers and verified inboxes through Apollo automatically. You reach direct decision-makers with zero manual research.",
+  "duration": 30.799,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "automated",
+      "start": 0.22,
+      "end": 0.66
+    },
+    {
+      "word": "workflow",
+      "start": 0.66,
+      "end": 1.12
+    },
+    {
+      "word": "that",
+      "start": 1.12,
+      "end": 1.42
+    },
+    {
+      "word": "finds",
+      "start": 1.42,
+      "end": 1.82
+    },
+    {
+      "word": "business",
+      "start": 1.82,
+      "end": 2.24
+    },
+    {
+      "word": "contacts",
+      "start": 2.24,
+      "end": 2.72
+    },
+    {
+      "word": "and",
+      "start": 2.72,
+      "end": 3.02
+    },
+    {
+      "word": "phone",
+      "start": 3.02,
+      "end": 3.28
+    },
+    {
+      "word": "numbers",
+      "start": 3.28,
+      "end": 3.58
+    },
+    {
+      "word": "for",
+      "start": 3.58,
+      "end": 3.86
+    },
+    {
+      "word": "you.",
+      "start": 3.86,
+      "end": 4.56
+    },
+    {
+      "word": "Freelancers",
+      "start": 4.78,
+      "end": 5.16
+    },
+    {
+      "word": "pitch",
+      "start": 5.16,
+      "end": 5.66
+    },
+    {
+      "word": "generic",
+      "start": 5.66,
+      "end": 6.1
+    },
+    {
+      "word": "support",
+      "start": 6.1,
+      "end": 6.48
+    },
+    {
+      "word": "inboxes",
+      "start": 6.48,
+      "end": 7.32
+    },
+    {
+      "word": "because",
+      "start": 7.32,
+      "end": 7.84
+    },
+    {
+      "word": "finding",
+      "start": 7.84,
+      "end": 8.24
+    },
+    {
+      "word": "an",
+      "start": 8.24,
+      "end": 8.52
+    },
+    {
+      "word": "owner's",
+      "start": 8.52,
+      "end": 9.44
+    },
+    {
+      "word": "verified",
+      "start": 9.44,
+      "end": 9.44
+    },
+    {
+      "word": "direct",
+      "start": 9.44,
+      "end": 9.98
+    },
+    {
+      "word": "contact",
+      "start": 9.98,
+      "end": 10.48
+    },
+    {
+      "word": "takes",
+      "start": 10.48,
+      "end": 10.94
+    },
+    {
+      "word": "forever",
+      "start": 10.94,
+      "end": 11.3
+    },
+    {
+      "word": "manually.",
+      "start": 11.3,
+      "end": 11.86
+    },
+    {
+      "word": "Sending",
+      "start": 12.48,
+      "end": 12.48
+    },
+    {
+      "word": "proposals",
+      "start": 12.48,
+      "end": 12.96
+    },
+    {
+      "word": "to",
+      "start": 12.96,
+      "end": 13.4
+    },
+    {
+      "word": "info",
+      "start": 13.4,
+      "end": 13.62
+    },
+    {
+      "word": "addresses",
+      "start": 13.62,
+      "end": 14.1
+    },
+    {
+      "word": "leaves",
+      "start": 14.1,
+      "end": 14.56
+    },
+    {
+      "word": "pitches",
+      "start": 14.56,
+      "end": 14.94
+    },
+    {
+      "word": "on",
+      "start": 14.94,
+      "end": 15.2
+    },
+    {
+      "word": "red,",
+      "start": 15.2,
+      "end": 15.62
+    },
+    {
+      "word": "wasting",
+      "start": 16.22,
+      "end": 16.22
+    },
+    {
+      "word": "hours",
+      "start": 16.22,
+      "end": 16.68
+    },
+    {
+      "word": "without",
+      "start": 16.68,
+      "end": 17.04
+    },
+    {
+      "word": "landing",
+      "start": 17.04,
+      "end": 17.36
+    },
+    {
+      "word": "a",
+      "start": 17.36,
+      "end": 17.6
+    },
+    {
+      "word": "single",
+      "start": 17.6,
+      "end": 17.86
+    },
+    {
+      "word": "paying",
+      "start": 17.86,
+      "end": 18.22
+    },
+    {
+      "word": "client.",
+      "start": 18.22,
+      "end": 18.7
+    },
+    {
+      "word": "Use",
+      "start": 19.26,
+      "end": 19.48
+    },
+    {
+      "word": "Phantom",
+      "start": 19.48,
+      "end": 19.88
+    },
+    {
+      "word": "Buster",
+      "start": 19.88,
+      "end": 20.16
+    },
+    {
+      "word": "to",
+      "start": 20.16,
+      "end": 20.5
+    },
+    {
+      "word": "scrape",
+      "start": 20.5,
+      "end": 20.8
+    },
+    {
+      "word": "local",
+      "start": 20.8,
+      "end": 21.18
+    },
+    {
+      "word": "business",
+      "start": 21.18,
+      "end": 21.54
+    },
+    {
+      "word": "directories",
+      "start": 21.54,
+      "end": 22.06
+    },
+    {
+      "word": "and",
+      "start": 22.06,
+      "end": 22.7
+    },
+    {
+      "word": "reaching",
+      "start": 22.7,
+      "end": 23.08
+    },
+    {
+      "word": "mobile",
+      "start": 23.08,
+      "end": 23.4
+    },
+    {
+      "word": "numbers",
+      "start": 23.4,
+      "end": 23.86
+    },
+    {
+      "word": "and",
+      "start": 23.86,
+      "end": 24.28
+    },
+    {
+      "word": "verified",
+      "start": 24.28,
+      "end": 24.56
+    },
+    {
+      "word": "inboxes",
+      "start": 24.56,
+      "end": 25.28
+    },
+    {
+      "word": "through",
+      "start": 25.28,
+      "end": 25.58
+    },
+    {
+      "word": "Apollo",
+      "start": 25.58,
+      "end": 26.04
+    },
+    {
+      "word": "automatically.",
+      "start": 26.04,
+      "end": 26.66
+    },
+    {
+      "word": "You",
+      "start": 26.66,
+      "end": 27.42
+    },
+    {
+      "word": "reach",
+      "start": 27.42,
+      "end": 27.82
+    },
+    {
+      "word": "direct",
+      "start": 27.82,
+      "end": 28.2
+    },
+    {
+      "word": "decision",
+      "start": 28.2,
+      "end": 28.62
+    },
+    {
+      "word": "makers",
+      "start": 28.62,
+      "end": 28.98
+    },
+    {
+      "word": "with",
+      "start": 28.98,
+      "end": 29.38
+    },
+    {
+      "word": "zero",
+      "start": 29.38,
+      "end": 29.78
+    },
+    {
+      "word": "manual",
+      "start": 29.78,
+      "end": 30.22
+    },
+    {
+      "word": "research.",
+      "start": 30.22,
+      "end": 30.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The automated workflow that finds business contacts and phone numbers for you.",
+      "line2": "SCRAPE LOCAL LEADS",
+      "tag": "\ud83d\uded1 Automated lead generation scraper for local service business clients",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated lead generation scraper for local service business clients",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated lead generation scraper for local service business clients",
+        "subtitle": "Automated lead generation scraper for local service business clients"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated lead generation scraper for local service business clients"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated lead generation scraper for local service business clients"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated lead generation scraper for local service business clients",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

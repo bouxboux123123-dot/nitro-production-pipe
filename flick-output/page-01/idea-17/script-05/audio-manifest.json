@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated post-launch case study interview generator",
+  "text": "Build an undeniable library of client proof that sells your agency services for you. Prospects demand industry-specific results, forcing founders to build custom decks and hunt down analytics screenshots. Storing testimonials across scattered Google Docs makes retrieving proof painfully slow during live sales calls. Sync automated Senja reviews and Stripe billing milestones directly into a categorized Notion proof database. Your team accesses verified case studies instantly to close deals.",
+  "duration": 31.333,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "build",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "an",
+      "start": 0.26,
+      "end": 0.54
+    },
+    {
+      "word": "undeniable",
+      "start": 0.54,
+      "end": 0.98
+    },
+    {
+      "word": "library",
+      "start": 0.98,
+      "end": 1.64
+    },
+    {
+      "word": "of",
+      "start": 1.64,
+      "end": 1.88
+    },
+    {
+      "word": "client",
+      "start": 1.88,
+      "end": 2.26
+    },
+    {
+      "word": "proof",
+      "start": 2.26,
+      "end": 2.56
+    },
+    {
+      "word": "that",
+      "start": 2.56,
+      "end": 3.06
+    },
+    {
+      "word": "sells",
+      "start": 3.06,
+      "end": 3.32
+    },
+    {
+      "word": "your",
+      "start": 3.32,
+      "end": 3.62
+    },
+    {
+      "word": "agency",
+      "start": 3.62,
+      "end": 3.96
+    },
+    {
+      "word": "services",
+      "start": 3.96,
+      "end": 4.46
+    },
+    {
+      "word": "for",
+      "start": 4.46,
+      "end": 4.82
+    },
+    {
+      "word": "you.",
+      "start": 4.82,
+      "end": 5.54
+    },
+    {
+      "word": "Prospects",
+      "start": 5.88,
+      "end": 6.28
+    },
+    {
+      "word": "demand",
+      "start": 6.28,
+      "end": 6.7
+    },
+    {
+      "word": "industry",
+      "start": 6.7,
+      "end": 7.18
+    },
+    {
+      "word": "-specific",
+      "start": 7.18,
+      "end": 7.76
+    },
+    {
+      "word": "results,",
+      "start": 7.76,
+      "end": 8.4
+    },
+    {
+      "word": "forcing",
+      "start": 8.82,
+      "end": 8.92
+    },
+    {
+      "word": "founders",
+      "start": 8.92,
+      "end": 9.38
+    },
+    {
+      "word": "to",
+      "start": 9.38,
+      "end": 9.68
+    },
+    {
+      "word": "build",
+      "start": 9.68,
+      "end": 9.96
+    },
+    {
+      "word": "custom",
+      "start": 9.96,
+      "end": 10.32
+    },
+    {
+      "word": "decks",
+      "start": 10.32,
+      "end": 10.68
+    },
+    {
+      "word": "and",
+      "start": 10.68,
+      "end": 11.08
+    },
+    {
+      "word": "hunt",
+      "start": 11.08,
+      "end": 11.3
+    },
+    {
+      "word": "down",
+      "start": 11.3,
+      "end": 11.6
+    },
+    {
+      "word": "analytic",
+      "start": 11.6,
+      "end": 11.9
+    },
+    {
+      "word": "screenshots.",
+      "start": 11.9,
+      "end": 12.6
+    },
+    {
+      "word": "Storing",
+      "start": 13.2,
+      "end": 13.46
+    },
+    {
+      "word": "testimonials",
+      "start": 13.46,
+      "end": 14.18
+    },
+    {
+      "word": "across",
+      "start": 14.18,
+      "end": 14.62
+    },
+    {
+      "word": "scattered",
+      "start": 14.62,
+      "end": 15.0
+    },
+    {
+      "word": "Google",
+      "start": 15.0,
+      "end": 15.34
+    },
+    {
+      "word": "Docs",
+      "start": 15.34,
+      "end": 15.84
+    },
+    {
+      "word": "makes",
+      "start": 15.84,
+      "end": 16.08
+    },
+    {
+      "word": "retrieving",
+      "start": 16.08,
+      "end": 16.54
+    },
+    {
+      "word": "proof",
+      "start": 16.54,
+      "end": 17.02
+    },
+    {
+      "word": "painfully",
+      "start": 17.02,
+      "end": 17.44
+    },
+    {
+      "word": "slow",
+      "start": 17.44,
+      "end": 18.0
+    },
+    {
+      "word": "during",
+      "start": 18.0,
+      "end": 18.3
+    },
+    {
+      "word": "live",
+      "start": 18.3,
+      "end": 18.64
+    },
+    {
+      "word": "sales",
+      "start": 18.64,
+      "end": 18.98
+    },
+    {
+      "word": "calls.",
+      "start": 18.98,
+      "end": 19.64
+    },
+    {
+      "word": "Sync",
+      "start": 20.36,
+      "end": 20.4
+    },
+    {
+      "word": "automated",
+      "start": 20.4,
+      "end": 20.9
+    },
+    {
+      "word": "senior",
+      "start": 20.9,
+      "end": 21.3
+    },
+    {
+      "word": "reviews",
+      "start": 21.3,
+      "end": 21.78
+    },
+    {
+      "word": "and",
+      "start": 21.78,
+      "end": 22.28
+    },
+    {
+      "word": "stripe",
+      "start": 22.28,
+      "end": 22.58
+    },
+    {
+      "word": "billing",
+      "start": 22.58,
+      "end": 22.88
+    },
+    {
+      "word": "milestones",
+      "start": 22.88,
+      "end": 23.44
+    },
+    {
+      "word": "directly",
+      "start": 23.44,
+      "end": 24.2
+    },
+    {
+      "word": "into",
+      "start": 24.2,
+      "end": 24.52
+    },
+    {
+      "word": "a",
+      "start": 24.52,
+      "end": 25.18
+    },
+    {
+      "word": "categorized",
+      "start": 25.18,
+      "end": 25.18
+    },
+    {
+      "word": "notion",
+      "start": 25.18,
+      "end": 25.72
+    },
+    {
+      "word": "proof",
+      "start": 25.72,
+      "end": 26.1
+    },
+    {
+      "word": "database.",
+      "start": 26.1,
+      "end": 26.58
+    },
+    {
+      "word": "Your",
+      "start": 26.98,
+      "end": 27.38
+    },
+    {
+      "word": "team",
+      "start": 27.38,
+      "end": 27.7
+    },
+    {
+      "word": "accesses",
+      "start": 27.7,
+      "end": 28.34
+    },
+    {
+      "word": "verified",
+      "start": 28.34,
+      "end": 28.74
+    },
+    {
+      "word": "case",
+      "start": 28.74,
+      "end": 29.26
+    },
+    {
+      "word": "studies",
+      "start": 29.26,
+      "end": 29.66
+    },
+    {
+      "word": "instantly",
+      "start": 29.66,
+      "end": 30.22
+    },
+    {
+      "word": "to",
+      "start": 30.22,
+      "end": 30.54
+    },
+    {
+      "word": "close",
+      "start": 30.54,
+      "end": 30.86
+    },
+    {
+      "word": "deals.",
+      "start": 30.86,
+      "end": 31.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Build an undeniable library of client proof that sells your agency services for you.",
+      "line2": "AUTOMATE CASE STUDIES",
+      "tag": "\ud83d\uded1 Automated post-launch case study interview generator",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated post-launch case study interview generator",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated post-launch case study interview generator",
+        "subtitle": "Automated post-launch case study interview generator"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated post-launch case study interview generator"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated post-launch case study interview generator"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated post-launch case study interview generator",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "page": "page-10",
+  "idea": "Linear Insights update for software engineering velocity tracking",
+  "text": "Linear just shipped customer request intelligence and your support-to-engineering feedback loop is finally solved. Customer support reps spend entire afternoons pasting user bug complaints into disconnected spreadsheets that developers never check. Vital product feedback disappears into black holes, leaving high-value enterprise accounts feeling completely ignored. Linear Customer Requests automatically groups incoming Intercom and Zendesk tickets into prioritized feature requests with ARR tracking. Engineering teams build what truly drives revenue.",
+  "duration": 33.551,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Linear",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "just",
+      "start": 0.26,
+      "end": 0.66
+    },
+    {
+      "word": "shipped",
+      "start": 0.66,
+      "end": 0.96
+    },
+    {
+      "word": "customer",
+      "start": 0.96,
+      "end": 1.4
+    },
+    {
+      "word": "request",
+      "start": 1.4,
+      "end": 1.82
+    },
+    {
+      "word": "intelligence,",
+      "start": 1.82,
+      "end": 2.42
+    },
+    {
+      "word": "and",
+      "start": 2.82,
+      "end": 2.96
+    },
+    {
+      "word": "your",
+      "start": 2.96,
+      "end": 3.14
+    },
+    {
+      "word": "support",
+      "start": 3.14,
+      "end": 3.46
+    },
+    {
+      "word": "to",
+      "start": 3.46,
+      "end": 3.7
+    },
+    {
+      "word": "engineering",
+      "start": 3.7,
+      "end": 4.04
+    },
+    {
+      "word": "feedback",
+      "start": 4.04,
+      "end": 4.56
+    },
+    {
+      "word": "loop",
+      "start": 4.56,
+      "end": 4.88
+    },
+    {
+      "word": "is",
+      "start": 4.88,
+      "end": 5.54
+    },
+    {
+      "word": "finally",
+      "start": 5.54,
+      "end": 5.6
+    },
+    {
+      "word": "solved.",
+      "start": 5.6,
+      "end": 6.08
+    },
+    {
+      "word": "Customer",
+      "start": 6.94,
+      "end": 6.96
+    },
+    {
+      "word": "support",
+      "start": 6.96,
+      "end": 7.5
+    },
+    {
+      "word": "reps",
+      "start": 7.5,
+      "end": 7.78
+    },
+    {
+      "word": "spend",
+      "start": 7.78,
+      "end": 8.06
+    },
+    {
+      "word": "entire",
+      "start": 8.06,
+      "end": 8.62
+    },
+    {
+      "word": "afternoons",
+      "start": 8.62,
+      "end": 9.28
+    },
+    {
+      "word": "pasting",
+      "start": 9.28,
+      "end": 9.9
+    },
+    {
+      "word": "user",
+      "start": 9.9,
+      "end": 10.26
+    },
+    {
+      "word": "bug",
+      "start": 10.26,
+      "end": 10.54
+    },
+    {
+      "word": "complaints",
+      "start": 10.54,
+      "end": 10.98
+    },
+    {
+      "word": "into",
+      "start": 10.98,
+      "end": 11.26
+    },
+    {
+      "word": "disconnected",
+      "start": 11.26,
+      "end": 11.82
+    },
+    {
+      "word": "spreadsheets",
+      "start": 11.82,
+      "end": 12.6
+    },
+    {
+      "word": "that",
+      "start": 12.6,
+      "end": 13.08
+    },
+    {
+      "word": "developers",
+      "start": 13.08,
+      "end": 13.44
+    },
+    {
+      "word": "never",
+      "start": 13.44,
+      "end": 13.96
+    },
+    {
+      "word": "check.",
+      "start": 13.96,
+      "end": 14.36
+    },
+    {
+      "word": "Vital",
+      "start": 14.98,
+      "end": 14.98
+    },
+    {
+      "word": "product",
+      "start": 14.98,
+      "end": 15.36
+    },
+    {
+      "word": "feedback",
+      "start": 15.36,
+      "end": 15.86
+    },
+    {
+      "word": "disappears",
+      "start": 15.86,
+      "end": 16.42
+    },
+    {
+      "word": "into",
+      "start": 16.42,
+      "end": 16.7
+    },
+    {
+      "word": "black",
+      "start": 16.7,
+      "end": 17.0
+    },
+    {
+      "word": "holes,",
+      "start": 17.0,
+      "end": 17.38
+    },
+    {
+      "word": "leaving",
+      "start": 18.02,
+      "end": 18.02
+    },
+    {
+      "word": "high",
+      "start": 18.02,
+      "end": 18.4
+    },
+    {
+      "word": "value",
+      "start": 18.4,
+      "end": 18.7
+    },
+    {
+      "word": "enterprise",
+      "start": 18.7,
+      "end": 19.14
+    },
+    {
+      "word": "accounts",
+      "start": 19.14,
+      "end": 19.66
+    },
+    {
+      "word": "feeling",
+      "start": 19.66,
+      "end": 20.02
+    },
+    {
+      "word": "completely",
+      "start": 20.02,
+      "end": 20.58
+    },
+    {
+      "word": "ignored.",
+      "start": 20.58,
+      "end": 21.12
+    },
+    {
+      "word": "Linear",
+      "start": 21.92,
+      "end": 21.98
+    },
+    {
+      "word": "customer",
+      "start": 21.98,
+      "end": 22.44
+    },
+    {
+      "word": "requests",
+      "start": 22.44,
+      "end": 23.04
+    },
+    {
+      "word": "automatically",
+      "start": 23.04,
+      "end": 23.64
+    },
+    {
+      "word": "groups",
+      "start": 23.64,
+      "end": 24.12
+    },
+    {
+      "word": "incoming",
+      "start": 24.12,
+      "end": 24.58
+    },
+    {
+      "word": "intercom",
+      "start": 24.58,
+      "end": 25.24
+    },
+    {
+      "word": "and",
+      "start": 25.24,
+      "end": 25.5
+    },
+    {
+      "word": "Zendesk",
+      "start": 25.5,
+      "end": 26.1
+    },
+    {
+      "word": "tickets",
+      "start": 26.1,
+      "end": 26.44
+    },
+    {
+      "word": "into",
+      "start": 26.44,
+      "end": 26.8
+    },
+    {
+      "word": "prioritized",
+      "start": 26.8,
+      "end": 27.6
+    },
+    {
+      "word": "feature",
+      "start": 27.6,
+      "end": 27.96
+    },
+    {
+      "word": "requests",
+      "start": 27.96,
+      "end": 28.42
+    },
+    {
+      "word": "with",
+      "start": 28.42,
+      "end": 28.92
+    },
+    {
+      "word": "ARR",
+      "start": 28.92,
+      "end": 29.52
+    },
+    {
+      "word": "tracking.",
+      "start": 29.52,
+      "end": 30.02
+    },
+    {
+      "word": "Engineering",
+      "start": 30.92,
+      "end": 30.96
+    },
+    {
+      "word": "teams",
+      "start": 30.96,
+      "end": 31.6
+    },
+    {
+      "word": "build",
+      "start": 31.6,
+      "end": 31.92
+    },
+    {
+      "word": "what",
+      "start": 31.92,
+      "end": 32.26
+    },
+    {
+      "word": "truly",
+      "start": 32.26,
+      "end": 32.6
+    },
+    {
+      "word": "drives",
+      "start": 32.6,
+      "end": 33.06
+    },
+    {
+      "word": "revenue.",
+      "start": 33.06,
+      "end": 33.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Linear just rolled out new project analytics and engineering teams love it.",
+      "line2": "LINEAR ENGINEERING VELOCITY INSIGHTS",
+      "tag": "\ud83d\uded1 Linear Insights update for software engineering velocity tracking",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Linear Insights update for software engineering velocity tracking",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Linear Insights update for software engineering velocity tracking",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Linear Insights update for software engineering velocity tracking",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

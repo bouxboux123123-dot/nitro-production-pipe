@@ -1,0 +1,401 @@
+{
+  "page": "page-09",
+  "idea": "Raycast vs Alfred: which Mac productivity launcher takes the crown",
+  "text": "Raycast versus Alfred remains the ultimate showdown for controlling your Mac desktop workflow. Alfred loyalists prize its tiny memory footprint, but manual workflow setup creates recurring maintenance overhead. Lacking modern team extensions and integrated AI prompts forces you to juggle several disconnected utility apps. Raycast replaces standalone apps by packing floating notes, window controls, and community extensions into one launcher. Your entire workstation feels unified and lightning fast.",
+  "duration": 31.247,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Raycast",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "v.",
+      "start": 0.54,
+      "end": 0.98
+    },
+    {
+      "word": "Alfred",
+      "start": 1.14,
+      "end": 1.42
+    },
+    {
+      "word": "remains",
+      "start": 1.42,
+      "end": 1.78
+    },
+    {
+      "word": "the",
+      "start": 1.78,
+      "end": 2.26
+    },
+    {
+      "word": "ultimate",
+      "start": 2.26,
+      "end": 2.56
+    },
+    {
+      "word": "showdown",
+      "start": 2.56,
+      "end": 2.96
+    },
+    {
+      "word": "for",
+      "start": 2.96,
+      "end": 3.46
+    },
+    {
+      "word": "controlling",
+      "start": 3.46,
+      "end": 3.9
+    },
+    {
+      "word": "your",
+      "start": 3.9,
+      "end": 4.24
+    },
+    {
+      "word": "Mac",
+      "start": 4.24,
+      "end": 4.52
+    },
+    {
+      "word": "desktop",
+      "start": 4.52,
+      "end": 5.0
+    },
+    {
+      "word": "workflow.",
+      "start": 5.0,
+      "end": 5.84
+    },
+    {
+      "word": "Alfred",
+      "start": 6.62,
+      "end": 6.62
+    },
+    {
+      "word": "loyalists",
+      "start": 6.62,
+      "end": 7.28
+    },
+    {
+      "word": "prize",
+      "start": 7.28,
+      "end": 7.64
+    },
+    {
+      "word": "its",
+      "start": 7.64,
+      "end": 7.94
+    },
+    {
+      "word": "tiny",
+      "start": 7.94,
+      "end": 8.28
+    },
+    {
+      "word": "memory",
+      "start": 8.28,
+      "end": 8.64
+    },
+    {
+      "word": "footprint,",
+      "start": 8.64,
+      "end": 9.1
+    },
+    {
+      "word": "but",
+      "start": 9.48,
+      "end": 9.66
+    },
+    {
+      "word": "manual",
+      "start": 9.66,
+      "end": 10.04
+    },
+    {
+      "word": "workflow",
+      "start": 10.04,
+      "end": 10.56
+    },
+    {
+      "word": "setup",
+      "start": 10.56,
+      "end": 10.98
+    },
+    {
+      "word": "creates",
+      "start": 10.98,
+      "end": 11.46
+    },
+    {
+      "word": "recurring",
+      "start": 11.46,
+      "end": 11.96
+    },
+    {
+      "word": "maintenance",
+      "start": 11.96,
+      "end": 12.42
+    },
+    {
+      "word": "overhead,",
+      "start": 12.42,
+      "end": 13.18
+    },
+    {
+      "word": "lacking",
+      "start": 13.68,
+      "end": 13.72
+    },
+    {
+      "word": "modern",
+      "start": 13.72,
+      "end": 14.12
+    },
+    {
+      "word": "team",
+      "start": 14.12,
+      "end": 14.34
+    },
+    {
+      "word": "extensions",
+      "start": 14.34,
+      "end": 14.92
+    },
+    {
+      "word": "and",
+      "start": 14.92,
+      "end": 15.34
+    },
+    {
+      "word": "integrated",
+      "start": 15.34,
+      "end": 15.7
+    },
+    {
+      "word": "AI",
+      "start": 15.7,
+      "end": 16.4
+    },
+    {
+      "word": "prompts",
+      "start": 16.4,
+      "end": 16.66
+    },
+    {
+      "word": "forces",
+      "start": 16.66,
+      "end": 17.08
+    },
+    {
+      "word": "you",
+      "start": 17.08,
+      "end": 17.28
+    },
+    {
+      "word": "to",
+      "start": 17.28,
+      "end": 17.46
+    },
+    {
+      "word": "juggle",
+      "start": 17.46,
+      "end": 17.84
+    },
+    {
+      "word": "several",
+      "start": 17.84,
+      "end": 18.22
+    },
+    {
+      "word": "disconnected",
+      "start": 18.22,
+      "end": 18.74
+    },
+    {
+      "word": "utility",
+      "start": 18.74,
+      "end": 19.34
+    },
+    {
+      "word": "apps.",
+      "start": 19.34,
+      "end": 19.84
+    },
+    {
+      "word": "Raycast",
+      "start": 20.4,
+      "end": 20.78
+    },
+    {
+      "word": "replaces",
+      "start": 20.78,
+      "end": 21.3
+    },
+    {
+      "word": "standalone",
+      "start": 21.3,
+      "end": 21.74
+    },
+    {
+      "word": "apps",
+      "start": 21.74,
+      "end": 22.22
+    },
+    {
+      "word": "by",
+      "start": 22.22,
+      "end": 22.48
+    },
+    {
+      "word": "packing",
+      "start": 22.48,
+      "end": 22.9
+    },
+    {
+      "word": "floating",
+      "start": 22.9,
+      "end": 23.24
+    },
+    {
+      "word": "notes,",
+      "start": 23.24,
+      "end": 23.66
+    },
+    {
+      "word": "window",
+      "start": 24.22,
+      "end": 24.22
+    },
+    {
+      "word": "controls,",
+      "start": 24.22,
+      "end": 24.84
+    },
+    {
+      "word": "and",
+      "start": 25.12,
+      "end": 25.42
+    },
+    {
+      "word": "community",
+      "start": 25.42,
+      "end": 25.78
+    },
+    {
+      "word": "extensions",
+      "start": 25.78,
+      "end": 26.42
+    },
+    {
+      "word": "into",
+      "start": 26.42,
+      "end": 26.72
+    },
+    {
+      "word": "one",
+      "start": 26.72,
+      "end": 26.94
+    },
+    {
+      "word": "launcher.",
+      "start": 26.94,
+      "end": 27.28
+    },
+    {
+      "word": "Your",
+      "start": 27.94,
+      "end": 28.12
+    },
+    {
+      "word": "entire",
+      "start": 28.12,
+      "end": 28.52
+    },
+    {
+      "word": "workstation",
+      "start": 28.52,
+      "end": 29.14
+    },
+    {
+      "word": "feels",
+      "start": 29.14,
+      "end": 29.56
+    },
+    {
+      "word": "unified",
+      "start": 29.56,
+      "end": 30.14
+    },
+    {
+      "word": "and",
+      "start": 30.14,
+      "end": 30.48
+    },
+    {
+      "word": "lightning",
+      "start": 30.48,
+      "end": 30.72
+    },
+    {
+      "word": "fast.",
+      "start": 30.72,
+      "end": 31.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Raycast vs Alfred: the battle for the ultimate Mac productivity tool.",
+      "line2": "RAYCAST VS ALFRED",
+      "tag": "\ud83d\uded1 Raycast vs Alfred",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Raycast vs Alfred",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Raycast vs Alfred",
+        "subtitle": "Raycast vs Alfred"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Raycast vs Alfred"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Raycast vs Alfred"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Raycast vs Alfred",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

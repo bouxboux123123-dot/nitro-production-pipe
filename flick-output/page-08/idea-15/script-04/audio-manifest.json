@@ -1,0 +1,401 @@
+{
+  "page": "page-08",
+  "idea": "How to compress massive PDF files so they can be emailed easily",
+  "text": "Here is how to shrink high-resolution documents down to lightweight attachments in seconds. Sending fifty-megabyte design presentations or legal packets through email fails every single time. Hidden high-dpi graphics embed excessive data into the file structure, choking out client email servers. Use the free Adobe Acrobat web compressor to optimize file structures and slash file sizes safely. You will send pristine documents without delivery errors.",
+  "duration": 26.325,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "It",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "is",
+      "start": 0.14,
+      "end": 0.28
+    },
+    {
+      "word": "how",
+      "start": 0.28,
+      "end": 0.44
+    },
+    {
+      "word": "to",
+      "start": 0.44,
+      "end": 0.64
+    },
+    {
+      "word": "shrink",
+      "start": 0.64,
+      "end": 0.78
+    },
+    {
+      "word": "high",
+      "start": 0.78,
+      "end": 1.12
+    },
+    {
+      "word": "-resolution",
+      "start": 1.12,
+      "end": 1.42
+    },
+    {
+      "word": "documents",
+      "start": 1.42,
+      "end": 1.9
+    },
+    {
+      "word": "down",
+      "start": 1.9,
+      "end": 2.3
+    },
+    {
+      "word": "to",
+      "start": 2.3,
+      "end": 2.5
+    },
+    {
+      "word": "lightweight",
+      "start": 2.5,
+      "end": 2.8
+    },
+    {
+      "word": "attachments",
+      "start": 2.8,
+      "end": 3.36
+    },
+    {
+      "word": "in",
+      "start": 3.36,
+      "end": 3.68
+    },
+    {
+      "word": "seconds,",
+      "start": 3.68,
+      "end": 4.16
+    },
+    {
+      "word": "sending",
+      "start": 4.8,
+      "end": 4.84
+    },
+    {
+      "word": "50",
+      "start": 4.84,
+      "end": 5.24
+    },
+    {
+      "word": "-megabyte",
+      "start": 5.24,
+      "end": 5.7
+    },
+    {
+      "word": "design",
+      "start": 5.7,
+      "end": 6.06
+    },
+    {
+      "word": "presentations",
+      "start": 6.06,
+      "end": 6.64
+    },
+    {
+      "word": "or",
+      "start": 6.64,
+      "end": 7.32
+    },
+    {
+      "word": "legal",
+      "start": 7.32,
+      "end": 7.6
+    },
+    {
+      "word": "packets",
+      "start": 7.6,
+      "end": 8.0
+    },
+    {
+      "word": "through",
+      "start": 8.0,
+      "end": 8.4
+    },
+    {
+      "word": "email",
+      "start": 8.4,
+      "end": 8.66
+    },
+    {
+      "word": "fails",
+      "start": 8.66,
+      "end": 9.1
+    },
+    {
+      "word": "every",
+      "start": 9.1,
+      "end": 9.5
+    },
+    {
+      "word": "single",
+      "start": 9.5,
+      "end": 9.84
+    },
+    {
+      "word": "time.",
+      "start": 9.84,
+      "end": 10.3
+    },
+    {
+      "word": "Hidden",
+      "start": 10.7,
+      "end": 10.9
+    },
+    {
+      "word": "high",
+      "start": 10.9,
+      "end": 11.16
+    },
+    {
+      "word": "-DPI",
+      "start": 11.16,
+      "end": 11.78
+    },
+    {
+      "word": "graphics",
+      "start": 11.78,
+      "end": 12.16
+    },
+    {
+      "word": "embed",
+      "start": 12.16,
+      "end": 12.48
+    },
+    {
+      "word": "excessive",
+      "start": 12.48,
+      "end": 13.02
+    },
+    {
+      "word": "data",
+      "start": 13.02,
+      "end": 13.3
+    },
+    {
+      "word": "into",
+      "start": 13.3,
+      "end": 13.56
+    },
+    {
+      "word": "the",
+      "start": 13.56,
+      "end": 13.78
+    },
+    {
+      "word": "file",
+      "start": 13.78,
+      "end": 13.96
+    },
+    {
+      "word": "structure,",
+      "start": 13.96,
+      "end": 14.44
+    },
+    {
+      "word": "choking",
+      "start": 14.98,
+      "end": 15.08
+    },
+    {
+      "word": "out",
+      "start": 15.08,
+      "end": 15.4
+    },
+    {
+      "word": "client",
+      "start": 15.4,
+      "end": 15.7
+    },
+    {
+      "word": "email",
+      "start": 15.7,
+      "end": 16.04
+    },
+    {
+      "word": "servers.",
+      "start": 16.04,
+      "end": 16.46
+    },
+    {
+      "word": "Use",
+      "start": 17.06,
+      "end": 17.22
+    },
+    {
+      "word": "the",
+      "start": 17.22,
+      "end": 17.44
+    },
+    {
+      "word": "free",
+      "start": 17.44,
+      "end": 17.62
+    },
+    {
+      "word": "Adobe",
+      "start": 17.62,
+      "end": 18.04
+    },
+    {
+      "word": "Acrobat",
+      "start": 18.04,
+      "end": 18.46
+    },
+    {
+      "word": "web",
+      "start": 18.46,
+      "end": 18.86
+    },
+    {
+      "word": "compressor",
+      "start": 18.86,
+      "end": 19.12
+    },
+    {
+      "word": "to",
+      "start": 19.12,
+      "end": 19.62
+    },
+    {
+      "word": "optimize",
+      "start": 19.62,
+      "end": 19.88
+    },
+    {
+      "word": "file",
+      "start": 19.88,
+      "end": 20.36
+    },
+    {
+      "word": "structures",
+      "start": 20.36,
+      "end": 20.76
+    },
+    {
+      "word": "and",
+      "start": 20.76,
+      "end": 21.36
+    },
+    {
+      "word": "slash",
+      "start": 21.36,
+      "end": 21.72
+    },
+    {
+      "word": "file",
+      "start": 21.72,
+      "end": 22.1
+    },
+    {
+      "word": "sizes",
+      "start": 22.1,
+      "end": 22.44
+    },
+    {
+      "word": "safely.",
+      "start": 22.44,
+      "end": 22.92
+    },
+    {
+      "word": "You",
+      "start": 22.92,
+      "end": 23.58
+    },
+    {
+      "word": "will",
+      "start": 23.58,
+      "end": 23.84
+    },
+    {
+      "word": "send",
+      "start": 23.84,
+      "end": 24.06
+    },
+    {
+      "word": "pristine",
+      "start": 24.06,
+      "end": 24.46
+    },
+    {
+      "word": "documents",
+      "start": 24.46,
+      "end": 25.02
+    },
+    {
+      "word": "without",
+      "start": 25.02,
+      "end": 25.46
+    },
+    {
+      "word": "delivery",
+      "start": 25.46,
+      "end": 25.76
+    },
+    {
+      "word": "errors.",
+      "start": 25.76,
+      "end": 26.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How to shrink high-resolution documents down to lightweight attachments in seconds.",
+      "line2": "COMPRESS LARGE PDF FILES",
+      "tag": "\ud83d\uded1 How to compress massive PDF files so they can be emailed easily",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to compress massive PDF files so they can be emailed easily",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to compress massive PDF files so they can be emailed easily",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

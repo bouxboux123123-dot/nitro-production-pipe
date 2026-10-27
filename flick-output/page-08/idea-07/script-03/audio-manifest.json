@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "Automated email filter that unsubscribes from spam newsletters",
+  "text": "Stop wasting ten minutes every morning deleting marketing emails you never opened. Retail newsletters pile up relentlessly, pushing your actual work conversations down where you forget to reply. Deleting individual emails daily treats the symptom while letting dozens of new marketing drips flood in overnight. Connect a clean-up utility like Leave Me Alone or build a native Gmail filter targeting promotional keywords. You permanently stop unwanted junk mail.",
+  "duration": 27.578,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "wasting",
+      "start": 0.44,
+      "end": 0.72
+    },
+    {
+      "word": "10",
+      "start": 0.72,
+      "end": 1.12
+    },
+    {
+      "word": "minutes",
+      "start": 1.12,
+      "end": 1.42
+    },
+    {
+      "word": "every",
+      "start": 1.42,
+      "end": 1.78
+    },
+    {
+      "word": "morning",
+      "start": 1.78,
+      "end": 2.06
+    },
+    {
+      "word": "deleting",
+      "start": 2.06,
+      "end": 2.56
+    },
+    {
+      "word": "marketing",
+      "start": 2.56,
+      "end": 3.08
+    },
+    {
+      "word": "emails",
+      "start": 3.08,
+      "end": 3.48
+    },
+    {
+      "word": "you",
+      "start": 3.48,
+      "end": 3.8
+    },
+    {
+      "word": "never",
+      "start": 3.8,
+      "end": 4.08
+    },
+    {
+      "word": "opened.",
+      "start": 4.08,
+      "end": 4.62
+    },
+    {
+      "word": "Retail",
+      "start": 5.2,
+      "end": 5.38
+    },
+    {
+      "word": "newsletters",
+      "start": 5.38,
+      "end": 6.02
+    },
+    {
+      "word": "pile",
+      "start": 6.02,
+      "end": 6.46
+    },
+    {
+      "word": "up",
+      "start": 6.46,
+      "end": 6.72
+    },
+    {
+      "word": "relentlessly,",
+      "start": 6.72,
+      "end": 7.26
+    },
+    {
+      "word": "pushing",
+      "start": 7.92,
+      "end": 8.02
+    },
+    {
+      "word": "your",
+      "start": 8.02,
+      "end": 8.66
+    },
+    {
+      "word": "actual",
+      "start": 8.66,
+      "end": 8.72
+    },
+    {
+      "word": "work",
+      "start": 8.72,
+      "end": 9.1
+    },
+    {
+      "word": "conversations",
+      "start": 9.1,
+      "end": 9.64
+    },
+    {
+      "word": "down",
+      "start": 9.64,
+      "end": 10.1
+    },
+    {
+      "word": "where",
+      "start": 10.1,
+      "end": 10.28
+    },
+    {
+      "word": "you",
+      "start": 10.28,
+      "end": 10.42
+    },
+    {
+      "word": "forget",
+      "start": 10.42,
+      "end": 10.66
+    },
+    {
+      "word": "to",
+      "start": 10.66,
+      "end": 10.92
+    },
+    {
+      "word": "reply.",
+      "start": 10.92,
+      "end": 11.36
+    },
+    {
+      "word": "Deleating",
+      "start": 11.72,
+      "end": 12.12
+    },
+    {
+      "word": "individual",
+      "start": 12.12,
+      "end": 12.7
+    },
+    {
+      "word": "emails",
+      "start": 12.7,
+      "end": 13.18
+    },
+    {
+      "word": "daily",
+      "start": 13.18,
+      "end": 13.62
+    },
+    {
+      "word": "treats",
+      "start": 13.62,
+      "end": 13.94
+    },
+    {
+      "word": "the",
+      "start": 13.94,
+      "end": 14.2
+    },
+    {
+      "word": "symptom",
+      "start": 14.2,
+      "end": 14.48
+    },
+    {
+      "word": "while",
+      "start": 14.48,
+      "end": 14.86
+    },
+    {
+      "word": "letting",
+      "start": 14.86,
+      "end": 15.14
+    },
+    {
+      "word": "dozens",
+      "start": 15.14,
+      "end": 15.46
+    },
+    {
+      "word": "of",
+      "start": 15.46,
+      "end": 15.7
+    },
+    {
+      "word": "new",
+      "start": 15.7,
+      "end": 15.92
+    },
+    {
+      "word": "marketing",
+      "start": 15.92,
+      "end": 16.3
+    },
+    {
+      "word": "drips",
+      "start": 16.3,
+      "end": 16.68
+    },
+    {
+      "word": "flood",
+      "start": 16.68,
+      "end": 16.98
+    },
+    {
+      "word": "in",
+      "start": 16.98,
+      "end": 17.14
+    },
+    {
+      "word": "overnight.",
+      "start": 17.14,
+      "end": 17.68
+    },
+    {
+      "word": "Connect",
+      "start": 18.32,
+      "end": 18.54
+    },
+    {
+      "word": "a",
+      "start": 18.54,
+      "end": 18.82
+    },
+    {
+      "word": "clean",
+      "start": 18.82,
+      "end": 19.0
+    },
+    {
+      "word": "up",
+      "start": 19.0,
+      "end": 19.2
+    },
+    {
+      "word": "utility",
+      "start": 19.2,
+      "end": 19.58
+    },
+    {
+      "word": "like",
+      "start": 19.58,
+      "end": 19.94
+    },
+    {
+      "word": "Leave",
+      "start": 19.94,
+      "end": 20.16
+    },
+    {
+      "word": "Me",
+      "start": 20.16,
+      "end": 20.36
+    },
+    {
+      "word": "Alone",
+      "start": 20.36,
+      "end": 20.7
+    },
+    {
+      "word": "or",
+      "start": 20.7,
+      "end": 21.22
+    },
+    {
+      "word": "build",
+      "start": 21.22,
+      "end": 21.44
+    },
+    {
+      "word": "a",
+      "start": 21.44,
+      "end": 21.66
+    },
+    {
+      "word": "native",
+      "start": 21.66,
+      "end": 22.02
+    },
+    {
+      "word": "Gmail",
+      "start": 22.02,
+      "end": 22.42
+    },
+    {
+      "word": "filter",
+      "start": 22.42,
+      "end": 22.92
+    },
+    {
+      "word": "targeting",
+      "start": 22.92,
+      "end": 23.5
+    },
+    {
+      "word": "promotional",
+      "start": 23.5,
+      "end": 24.02
+    },
+    {
+      "word": "keywords.",
+      "start": 24.02,
+      "end": 24.66
+    },
+    {
+      "word": "You",
+      "start": 25.22,
+      "end": 25.46
+    },
+    {
+      "word": "permanently",
+      "start": 25.46,
+      "end": 25.86
+    },
+    {
+      "word": "stop",
+      "start": 25.86,
+      "end": 26.38
+    },
+    {
+      "word": "unwanted",
+      "start": 26.38,
+      "end": 26.88
+    },
+    {
+      "word": "junk",
+      "start": 26.88,
+      "end": 27.26
+    },
+    {
+      "word": "mail.",
+      "start": 27.26,
+      "end": 27.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop wasting 10 minutes every morning deleting marketing emails you never read.",
+      "line2": "AUTO-UNSUBSCRIBE FROM SPAM",
+      "tag": "\ud83d\uded1 Automated email filter that unsubscribes from spam newsletters",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Automated email filter that unsubscribes from spam newsletters",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Automated email filter that unsubscribes from spam newsletters",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

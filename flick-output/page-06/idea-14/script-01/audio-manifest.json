@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Async team trivia and social gaming bot for building remote camaraderie",
+  "text": "Here is how remote teams build real personal connections without cringey, forced Zoom games. Mandating virtual happy hours on Friday evenings breeds resentment among distributed workers wanting to unplug. Forcing introverts into awkward video icebreakers kills genuine team bonding and creates silent, disengaged meeting rooms. Instead, install Ricotta or Trivia directly into your general Slack channels for automated daily async quizzes. Colleagues banter naturally on their own schedule.",
+  "duration": 30.607,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.48
+    },
+    {
+      "word": "how",
+      "start": 0.48,
+      "end": 0.76
+    },
+    {
+      "word": "remote",
+      "start": 0.76,
+      "end": 1.02
+    },
+    {
+      "word": "teams",
+      "start": 1.02,
+      "end": 1.46
+    },
+    {
+      "word": "build",
+      "start": 1.46,
+      "end": 1.88
+    },
+    {
+      "word": "real",
+      "start": 1.88,
+      "end": 2.22
+    },
+    {
+      "word": "personal",
+      "start": 2.22,
+      "end": 2.64
+    },
+    {
+      "word": "connections",
+      "start": 2.64,
+      "end": 3.18
+    },
+    {
+      "word": "without",
+      "start": 3.18,
+      "end": 3.92
+    },
+    {
+      "word": "cringy",
+      "start": 3.92,
+      "end": 4.48
+    },
+    {
+      "word": "forced",
+      "start": 4.48,
+      "end": 4.92
+    },
+    {
+      "word": "Zoom",
+      "start": 4.92,
+      "end": 5.24
+    },
+    {
+      "word": "games.",
+      "start": 5.24,
+      "end": 5.78
+    },
+    {
+      "word": "Mandating",
+      "start": 6.46,
+      "end": 6.68
+    },
+    {
+      "word": "virtual",
+      "start": 6.68,
+      "end": 7.24
+    },
+    {
+      "word": "happy",
+      "start": 7.24,
+      "end": 7.6
+    },
+    {
+      "word": "hours",
+      "start": 7.6,
+      "end": 7.98
+    },
+    {
+      "word": "on",
+      "start": 7.98,
+      "end": 8.28
+    },
+    {
+      "word": "Friday",
+      "start": 8.28,
+      "end": 8.62
+    },
+    {
+      "word": "evening's",
+      "start": 8.62,
+      "end": 9.54
+    },
+    {
+      "word": "breeds",
+      "start": 9.54,
+      "end": 9.54
+    },
+    {
+      "word": "resentment",
+      "start": 9.54,
+      "end": 10.12
+    },
+    {
+      "word": "among",
+      "start": 10.12,
+      "end": 10.7
+    },
+    {
+      "word": "distributed",
+      "start": 10.7,
+      "end": 11.22
+    },
+    {
+      "word": "workers",
+      "start": 11.22,
+      "end": 11.76
+    },
+    {
+      "word": "wanting",
+      "start": 11.76,
+      "end": 12.14
+    },
+    {
+      "word": "to",
+      "start": 12.14,
+      "end": 12.36
+    },
+    {
+      "word": "unplug,",
+      "start": 12.36,
+      "end": 12.9
+    },
+    {
+      "word": "forcing",
+      "start": 13.28,
+      "end": 13.56
+    },
+    {
+      "word": "introverts",
+      "start": 13.56,
+      "end": 14.12
+    },
+    {
+      "word": "into",
+      "start": 14.12,
+      "end": 14.38
+    },
+    {
+      "word": "awkward",
+      "start": 14.38,
+      "end": 14.68
+    },
+    {
+      "word": "video",
+      "start": 14.68,
+      "end": 15.04
+    },
+    {
+      "word": "icebreakers",
+      "start": 15.04,
+      "end": 15.64
+    },
+    {
+      "word": "kills",
+      "start": 15.64,
+      "end": 16.16
+    },
+    {
+      "word": "genuine",
+      "start": 16.16,
+      "end": 16.52
+    },
+    {
+      "word": "team",
+      "start": 16.52,
+      "end": 16.96
+    },
+    {
+      "word": "bonding",
+      "start": 16.96,
+      "end": 17.3
+    },
+    {
+      "word": "and",
+      "start": 17.3,
+      "end": 17.88
+    },
+    {
+      "word": "creates",
+      "start": 17.88,
+      "end": 18.28
+    },
+    {
+      "word": "silent,",
+      "start": 18.28,
+      "end": 18.78
+    },
+    {
+      "word": "disengaged",
+      "start": 19.16,
+      "end": 19.72
+    },
+    {
+      "word": "meeting",
+      "start": 19.72,
+      "end": 20.02
+    },
+    {
+      "word": "rooms.",
+      "start": 20.02,
+      "end": 20.48
+    },
+    {
+      "word": "Instead,",
+      "start": 21.16,
+      "end": 21.52
+    },
+    {
+      "word": "install",
+      "start": 22.06,
+      "end": 22.36
+    },
+    {
+      "word": "Ricotta",
+      "start": 22.36,
+      "end": 22.78
+    },
+    {
+      "word": "or",
+      "start": 22.78,
+      "end": 23.14
+    },
+    {
+      "word": "trivia",
+      "start": 23.14,
+      "end": 23.4
+    },
+    {
+      "word": "directly",
+      "start": 23.4,
+      "end": 24.0
+    },
+    {
+      "word": "into",
+      "start": 24.0,
+      "end": 24.22
+    },
+    {
+      "word": "your",
+      "start": 24.22,
+      "end": 24.72
+    },
+    {
+      "word": "general",
+      "start": 24.72,
+      "end": 24.8
+    },
+    {
+      "word": "Slack",
+      "start": 24.8,
+      "end": 25.08
+    },
+    {
+      "word": "channels",
+      "start": 25.08,
+      "end": 25.52
+    },
+    {
+      "word": "for",
+      "start": 25.52,
+      "end": 26.08
+    },
+    {
+      "word": "automated",
+      "start": 26.08,
+      "end": 26.32
+    },
+    {
+      "word": "daily",
+      "start": 26.32,
+      "end": 26.72
+    },
+    {
+      "word": "async",
+      "start": 26.72,
+      "end": 27.12
+    },
+    {
+      "word": "quizzes.",
+      "start": 27.12,
+      "end": 27.9
+    },
+    {
+      "word": "Colleagues",
+      "start": 27.9,
+      "end": 28.68
+    },
+    {
+      "word": "banter",
+      "start": 28.68,
+      "end": 28.98
+    },
+    {
+      "word": "naturally",
+      "start": 28.98,
+      "end": 29.52
+    },
+    {
+      "word": "on",
+      "start": 29.52,
+      "end": 29.74
+    },
+    {
+      "word": "their",
+      "start": 29.74,
+      "end": 30.1
+    },
+    {
+      "word": "own",
+      "start": 30.1,
+      "end": 30.14
+    },
+    {
+      "word": "schedule.",
+      "start": 30.14,
+      "end": 30.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How remote teams build real personal connections without cringey forced Zoom games.",
+      "line2": "BOOST REMOTE CAMARADERIE",
+      "tag": "\ud83d\uded1 Async team trivia and social gaming bot for building remote camaraderie",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Async team trivia and social gaming bot for building remote camaraderie",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Async team trivia and social gaming bot for building remote camaraderie",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

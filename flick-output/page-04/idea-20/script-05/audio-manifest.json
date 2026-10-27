@@ -1,0 +1,406 @@
+{
+  "page": "page-04",
+  "idea": "Greenshot: lightweight screenshot utility with instant annotation tools",
+  "text": "The tiny free app that makes team communications ten times clearer. Remote teams waste valuable hours deciphering vague bug reports and disorganized screenshots dumped into shared communication channels. Unannotated screen captures force developers to guess exact error triggers, browser settings, and user click sequences. Greenshot instantly captures active windows, stamps numbered action badges, highlights error notices, and exports straight to Jira tickets. Accelerate your engineering handoffs without communication bottlenecks.",
+  "duration": 32.57,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "tiny",
+      "start": 0.24,
+      "end": 0.46
+    },
+    {
+      "word": "free",
+      "start": 0.46,
+      "end": 0.82
+    },
+    {
+      "word": "app",
+      "start": 0.82,
+      "end": 1.0
+    },
+    {
+      "word": "that",
+      "start": 1.0,
+      "end": 1.14
+    },
+    {
+      "word": "makes",
+      "start": 1.14,
+      "end": 1.38
+    },
+    {
+      "word": "team",
+      "start": 1.38,
+      "end": 1.7
+    },
+    {
+      "word": "communications",
+      "start": 1.7,
+      "end": 2.34
+    },
+    {
+      "word": "ten",
+      "start": 2.34,
+      "end": 2.78
+    },
+    {
+      "word": "times",
+      "start": 2.78,
+      "end": 3.16
+    },
+    {
+      "word": "clearer.",
+      "start": 3.16,
+      "end": 3.76
+    },
+    {
+      "word": "Remote",
+      "start": 4.18,
+      "end": 4.34
+    },
+    {
+      "word": "teams",
+      "start": 4.34,
+      "end": 4.86
+    },
+    {
+      "word": "waste",
+      "start": 4.86,
+      "end": 5.2
+    },
+    {
+      "word": "valuable",
+      "start": 5.2,
+      "end": 5.66
+    },
+    {
+      "word": "hours",
+      "start": 5.66,
+      "end": 6.22
+    },
+    {
+      "word": "deciphering",
+      "start": 6.22,
+      "end": 6.84
+    },
+    {
+      "word": "vague",
+      "start": 6.84,
+      "end": 7.16
+    },
+    {
+      "word": "bug",
+      "start": 7.16,
+      "end": 7.38
+    },
+    {
+      "word": "reports",
+      "start": 7.38,
+      "end": 7.86
+    },
+    {
+      "word": "and",
+      "start": 7.86,
+      "end": 8.38
+    },
+    {
+      "word": "disorganized",
+      "start": 8.38,
+      "end": 8.98
+    },
+    {
+      "word": "screenshots",
+      "start": 8.98,
+      "end": 9.7
+    },
+    {
+      "word": "dumped",
+      "start": 9.7,
+      "end": 10.28
+    },
+    {
+      "word": "into",
+      "start": 10.28,
+      "end": 10.58
+    },
+    {
+      "word": "shared",
+      "start": 10.58,
+      "end": 10.9
+    },
+    {
+      "word": "communication",
+      "start": 10.9,
+      "end": 11.46
+    },
+    {
+      "word": "channels.",
+      "start": 11.46,
+      "end": 12.22
+    },
+    {
+      "word": "Unanitated",
+      "start": 12.88,
+      "end": 13.44
+    },
+    {
+      "word": "screen",
+      "start": 13.44,
+      "end": 13.96
+    },
+    {
+      "word": "captures",
+      "start": 13.96,
+      "end": 14.34
+    },
+    {
+      "word": "forced",
+      "start": 14.34,
+      "end": 14.82
+    },
+    {
+      "word": "developers",
+      "start": 14.82,
+      "end": 15.2
+    },
+    {
+      "word": "to",
+      "start": 15.2,
+      "end": 15.5
+    },
+    {
+      "word": "guess",
+      "start": 15.5,
+      "end": 15.74
+    },
+    {
+      "word": "exact",
+      "start": 15.74,
+      "end": 16.24
+    },
+    {
+      "word": "error",
+      "start": 16.24,
+      "end": 16.54
+    },
+    {
+      "word": "triggers,",
+      "start": 16.54,
+      "end": 16.9
+    },
+    {
+      "word": "browser",
+      "start": 17.3,
+      "end": 17.64
+    },
+    {
+      "word": "settings,",
+      "start": 17.64,
+      "end": 18.12
+    },
+    {
+      "word": "and",
+      "start": 18.54,
+      "end": 18.74
+    },
+    {
+      "word": "user",
+      "start": 18.74,
+      "end": 19.0
+    },
+    {
+      "word": "-click",
+      "start": 19.0,
+      "end": 19.24
+    },
+    {
+      "word": "sequences.",
+      "start": 19.24,
+      "end": 19.76
+    },
+    {
+      "word": "Greenshot",
+      "start": 20.4,
+      "end": 20.76
+    },
+    {
+      "word": "instantly",
+      "start": 20.76,
+      "end": 21.28
+    },
+    {
+      "word": "captures",
+      "start": 21.28,
+      "end": 21.76
+    },
+    {
+      "word": "active",
+      "start": 21.76,
+      "end": 22.26
+    },
+    {
+      "word": "windows,",
+      "start": 22.26,
+      "end": 22.72
+    },
+    {
+      "word": "stamps",
+      "start": 23.5,
+      "end": 23.5
+    },
+    {
+      "word": "numbered",
+      "start": 23.5,
+      "end": 23.84
+    },
+    {
+      "word": "action",
+      "start": 23.84,
+      "end": 24.24
+    },
+    {
+      "word": "badges,",
+      "start": 24.24,
+      "end": 24.62
+    },
+    {
+      "word": "highlights",
+      "start": 25.54,
+      "end": 25.54
+    },
+    {
+      "word": "error",
+      "start": 25.54,
+      "end": 25.84
+    },
+    {
+      "word": "notices,",
+      "start": 25.84,
+      "end": 26.28
+    },
+    {
+      "word": "and",
+      "start": 26.58,
+      "end": 26.88
+    },
+    {
+      "word": "exports",
+      "start": 26.88,
+      "end": 27.18
+    },
+    {
+      "word": "straight",
+      "start": 27.18,
+      "end": 27.64
+    },
+    {
+      "word": "to",
+      "start": 27.64,
+      "end": 27.9
+    },
+    {
+      "word": "Jira",
+      "start": 27.9,
+      "end": 28.14
+    },
+    {
+      "word": "tickets.",
+      "start": 28.14,
+      "end": 28.52
+    },
+    {
+      "word": "Accelerate",
+      "start": 28.52,
+      "end": 29.72
+    },
+    {
+      "word": "your",
+      "start": 29.72,
+      "end": 29.9
+    },
+    {
+      "word": "engineering",
+      "start": 29.9,
+      "end": 30.36
+    },
+    {
+      "word": "handoffs",
+      "start": 30.36,
+      "end": 30.84
+    },
+    {
+      "word": "without",
+      "start": 30.84,
+      "end": 31.2
+    },
+    {
+      "word": "communication",
+      "start": 31.2,
+      "end": 31.88
+    },
+    {
+      "word": "bottlenecks.",
+      "start": 31.88,
+      "end": 32.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The tiny free app that makes team communications 10 times clearer.",
+      "line2": "FAST SCREENSHOT ANNOTATIONS",
+      "tag": "\ud83d\uded1 Greenshot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Greenshot",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Greenshot",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Greenshot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

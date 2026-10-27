@@ -1,0 +1,421 @@
+{
+  "page": "page-09",
+  "idea": "Perplexity AI vs Google Search: which is faster for professional research",
+  "text": "Scrubbing through ten search-optimized spam articles on Google is silently wasting your entire afternoon. You search for market benchmarks and end up skimming thousand-word affiliate fluff pieces that never answer your question. Google's ad-driven algorithm rewards word count over concise answers, burying factual documentation under sponsored recommendations. Query Perplexity with Pro Search to aggregate verified data points with clickable citations directly into your workflow. This accelerates strategic decisions instantly.",
+  "duration": 32.463,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Scrubbing",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "through",
+      "start": 0.46,
+      "end": 0.78
+    },
+    {
+      "word": "10",
+      "start": 0.78,
+      "end": 1.2
+    },
+    {
+      "word": "search",
+      "start": 1.2,
+      "end": 1.54
+    },
+    {
+      "word": "optimized",
+      "start": 1.54,
+      "end": 2.04
+    },
+    {
+      "word": "spam",
+      "start": 2.04,
+      "end": 2.5
+    },
+    {
+      "word": "articles",
+      "start": 2.5,
+      "end": 2.84
+    },
+    {
+      "word": "on",
+      "start": 2.84,
+      "end": 3.1
+    },
+    {
+      "word": "Google",
+      "start": 3.1,
+      "end": 3.54
+    },
+    {
+      "word": "is",
+      "start": 3.54,
+      "end": 3.96
+    },
+    {
+      "word": "silently",
+      "start": 3.96,
+      "end": 4.46
+    },
+    {
+      "word": "wasting",
+      "start": 4.46,
+      "end": 4.8
+    },
+    {
+      "word": "your",
+      "start": 4.8,
+      "end": 5.2
+    },
+    {
+      "word": "entire",
+      "start": 5.2,
+      "end": 5.62
+    },
+    {
+      "word": "afternoon.",
+      "start": 5.62,
+      "end": 6.38
+    },
+    {
+      "word": "You",
+      "start": 6.96,
+      "end": 7.04
+    },
+    {
+      "word": "search",
+      "start": 7.04,
+      "end": 7.3
+    },
+    {
+      "word": "for",
+      "start": 7.3,
+      "end": 7.6
+    },
+    {
+      "word": "market",
+      "start": 7.6,
+      "end": 7.84
+    },
+    {
+      "word": "benchmarks",
+      "start": 7.84,
+      "end": 8.34
+    },
+    {
+      "word": "and",
+      "start": 8.34,
+      "end": 8.92
+    },
+    {
+      "word": "end",
+      "start": 8.92,
+      "end": 9.14
+    },
+    {
+      "word": "up",
+      "start": 9.14,
+      "end": 9.42
+    },
+    {
+      "word": "skimming",
+      "start": 9.42,
+      "end": 9.78
+    },
+    {
+      "word": "thousand",
+      "start": 9.78,
+      "end": 10.36
+    },
+    {
+      "word": "word",
+      "start": 10.36,
+      "end": 10.78
+    },
+    {
+      "word": "affiliate",
+      "start": 10.78,
+      "end": 11.3
+    },
+    {
+      "word": "fluff",
+      "start": 11.3,
+      "end": 11.58
+    },
+    {
+      "word": "pieces",
+      "start": 11.58,
+      "end": 12.0
+    },
+    {
+      "word": "that",
+      "start": 12.0,
+      "end": 12.38
+    },
+    {
+      "word": "never",
+      "start": 12.38,
+      "end": 12.68
+    },
+    {
+      "word": "answer",
+      "start": 12.68,
+      "end": 12.88
+    },
+    {
+      "word": "your",
+      "start": 12.88,
+      "end": 13.16
+    },
+    {
+      "word": "question.",
+      "start": 13.16,
+      "end": 13.58
+    },
+    {
+      "word": "Google's",
+      "start": 14.1,
+      "end": 14.4
+    },
+    {
+      "word": "ad",
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "word": "-driven",
+      "start": 14.64,
+      "end": 14.92
+    },
+    {
+      "word": "algorithm",
+      "start": 14.92,
+      "end": 15.52
+    },
+    {
+      "word": "rewards",
+      "start": 15.52,
+      "end": 16.1
+    },
+    {
+      "word": "word",
+      "start": 16.1,
+      "end": 16.54
+    },
+    {
+      "word": "count",
+      "start": 16.54,
+      "end": 16.82
+    },
+    {
+      "word": "over",
+      "start": 16.82,
+      "end": 17.06
+    },
+    {
+      "word": "concise",
+      "start": 17.06,
+      "end": 17.38
+    },
+    {
+      "word": "answers,",
+      "start": 17.38,
+      "end": 18.0
+    },
+    {
+      "word": "burying",
+      "start": 18.74,
+      "end": 18.74
+    },
+    {
+      "word": "factual",
+      "start": 18.74,
+      "end": 19.32
+    },
+    {
+      "word": "documentation",
+      "start": 19.32,
+      "end": 20.12
+    },
+    {
+      "word": "under",
+      "start": 20.12,
+      "end": 20.52
+    },
+    {
+      "word": "sponsored",
+      "start": 20.52,
+      "end": 20.96
+    },
+    {
+      "word": "recommendations.",
+      "start": 20.96,
+      "end": 21.82
+    },
+    {
+      "word": "Query",
+      "start": 22.48,
+      "end": 22.8
+    },
+    {
+      "word": "perplexity",
+      "start": 22.8,
+      "end": 23.38
+    },
+    {
+      "word": "with",
+      "start": 23.38,
+      "end": 23.64
+    },
+    {
+      "word": "pro",
+      "start": 23.64,
+      "end": 23.94
+    },
+    {
+      "word": "-search",
+      "start": 23.94,
+      "end": 24.24
+    },
+    {
+      "word": "to",
+      "start": 24.24,
+      "end": 24.7
+    },
+    {
+      "word": "aggregate",
+      "start": 24.7,
+      "end": 25.14
+    },
+    {
+      "word": "verified",
+      "start": 25.14,
+      "end": 25.72
+    },
+    {
+      "word": "data",
+      "start": 25.72,
+      "end": 26.02
+    },
+    {
+      "word": "points",
+      "start": 26.02,
+      "end": 26.36
+    },
+    {
+      "word": "with",
+      "start": 26.36,
+      "end": 26.76
+    },
+    {
+      "word": "clickable",
+      "start": 26.76,
+      "end": 27.14
+    },
+    {
+      "word": "citations",
+      "start": 27.14,
+      "end": 27.82
+    },
+    {
+      "word": "directly",
+      "start": 27.82,
+      "end": 28.4
+    },
+    {
+      "word": "into",
+      "start": 28.4,
+      "end": 28.66
+    },
+    {
+      "word": "your",
+      "start": 28.66,
+      "end": 28.98
+    },
+    {
+      "word": "workflow.",
+      "start": 28.98,
+      "end": 29.22
+    },
+    {
+      "word": "This",
+      "start": 29.22,
+      "end": 30.02
+    },
+    {
+      "word": "accelerates",
+      "start": 30.02,
+      "end": 30.68
+    },
+    {
+      "word": "strategic",
+      "start": 30.68,
+      "end": 31.18
+    },
+    {
+      "word": "decisions",
+      "start": 31.18,
+      "end": 31.78
+    },
+    {
+      "word": "instantly.",
+      "start": 31.78,
+      "end": 32.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why scrubbing through 10 SEO spam articles on Google is wasting your afternoon.",
+      "line2": "PERPLEXITY VS GOOGLE SEARCH",
+      "tag": "\ud83d\uded1 Perplexity AI vs Google Search",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Perplexity AI vs Google Search",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Perplexity AI vs Google Search",
+        "subtitle": "Perplexity AI vs Google Search"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Perplexity AI vs Google Search"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Perplexity AI vs Google Search"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Perplexity AI vs Google Search",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

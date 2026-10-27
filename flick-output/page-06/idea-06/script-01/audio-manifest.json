@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Async decision documentation framework using Github or Notion RFCs",
+  "text": "The best remote companies make critical architectural decisions without ever scheduling a live meeting. Dragging ten engineers across six time zones into one Zoom call leads to endless circular arguments. Worse, verbal agreements vanish from memory, forcing teams to revisit identical technical debates months later. Instituting a formal Request For Comments process inside GitHub Discussions requires authors to document proposals in writing. Decisions get approved asynchronously within two days.",
+  "duration": 31.141,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "best",
+      "start": 0.18,
+      "end": 0.5
+    },
+    {
+      "word": "remote",
+      "start": 0.5,
+      "end": 0.82
+    },
+    {
+      "word": "companies",
+      "start": 0.82,
+      "end": 1.28
+    },
+    {
+      "word": "make",
+      "start": 1.28,
+      "end": 1.68
+    },
+    {
+      "word": "critical",
+      "start": 1.68,
+      "end": 2.08
+    },
+    {
+      "word": "architectural",
+      "start": 2.08,
+      "end": 2.7
+    },
+    {
+      "word": "decisions",
+      "start": 2.7,
+      "end": 3.34
+    },
+    {
+      "word": "without",
+      "start": 3.34,
+      "end": 3.92
+    },
+    {
+      "word": "ever",
+      "start": 3.92,
+      "end": 4.28
+    },
+    {
+      "word": "scheduling",
+      "start": 4.28,
+      "end": 4.68
+    },
+    {
+      "word": "a",
+      "start": 4.68,
+      "end": 5.02
+    },
+    {
+      "word": "live",
+      "start": 5.02,
+      "end": 5.28
+    },
+    {
+      "word": "meeting.",
+      "start": 5.28,
+      "end": 5.9
+    },
+    {
+      "word": "Dragging",
+      "start": 6.28,
+      "end": 6.64
+    },
+    {
+      "word": "10",
+      "start": 6.64,
+      "end": 6.94
+    },
+    {
+      "word": "engineers",
+      "start": 6.94,
+      "end": 7.38
+    },
+    {
+      "word": "across",
+      "start": 7.38,
+      "end": 7.8
+    },
+    {
+      "word": "six",
+      "start": 7.8,
+      "end": 8.14
+    },
+    {
+      "word": "-time",
+      "start": 8.14,
+      "end": 8.46
+    },
+    {
+      "word": "zones",
+      "start": 8.46,
+      "end": 8.86
+    },
+    {
+      "word": "into",
+      "start": 8.86,
+      "end": 9.24
+    },
+    {
+      "word": "one",
+      "start": 9.24,
+      "end": 9.5
+    },
+    {
+      "word": "Zoom",
+      "start": 9.5,
+      "end": 9.82
+    },
+    {
+      "word": "call",
+      "start": 9.82,
+      "end": 10.26
+    },
+    {
+      "word": "leads",
+      "start": 10.26,
+      "end": 10.74
+    },
+    {
+      "word": "to",
+      "start": 10.74,
+      "end": 11.0
+    },
+    {
+      "word": "endless",
+      "start": 11.0,
+      "end": 11.3
+    },
+    {
+      "word": "circular",
+      "start": 11.3,
+      "end": 11.8
+    },
+    {
+      "word": "arguments.",
+      "start": 11.8,
+      "end": 12.46
+    },
+    {
+      "word": "Worse,",
+      "start": 12.82,
+      "end": 13.06
+    },
+    {
+      "word": "verbal",
+      "start": 13.32,
+      "end": 13.5
+    },
+    {
+      "word": "agreements",
+      "start": 13.5,
+      "end": 14.0
+    },
+    {
+      "word": "vanish",
+      "start": 14.0,
+      "end": 14.36
+    },
+    {
+      "word": "from",
+      "start": 14.36,
+      "end": 14.64
+    },
+    {
+      "word": "memory,",
+      "start": 14.64,
+      "end": 15.02
+    },
+    {
+      "word": "forcing",
+      "start": 15.52,
+      "end": 15.58
+    },
+    {
+      "word": "teams",
+      "start": 15.58,
+      "end": 16.14
+    },
+    {
+      "word": "to",
+      "start": 16.14,
+      "end": 16.42
+    },
+    {
+      "word": "revisit",
+      "start": 16.42,
+      "end": 16.72
+    },
+    {
+      "word": "identical",
+      "start": 16.72,
+      "end": 17.44
+    },
+    {
+      "word": "technical",
+      "start": 17.44,
+      "end": 17.94
+    },
+    {
+      "word": "debates",
+      "start": 17.94,
+      "end": 18.28
+    },
+    {
+      "word": "months",
+      "start": 18.28,
+      "end": 18.7
+    },
+    {
+      "word": "later.",
+      "start": 18.7,
+      "end": 19.16
+    },
+    {
+      "word": "Instituting",
+      "start": 19.78,
+      "end": 20.14
+    },
+    {
+      "word": "a",
+      "start": 20.14,
+      "end": 20.4
+    },
+    {
+      "word": "formal",
+      "start": 20.4,
+      "end": 20.68
+    },
+    {
+      "word": "request",
+      "start": 20.68,
+      "end": 21.12
+    },
+    {
+      "word": "for",
+      "start": 21.12,
+      "end": 21.38
+    },
+    {
+      "word": "comments",
+      "start": 21.38,
+      "end": 21.72
+    },
+    {
+      "word": "process",
+      "start": 21.72,
+      "end": 22.38
+    },
+    {
+      "word": "inside",
+      "start": 22.38,
+      "end": 23.18
+    },
+    {
+      "word": "GitHub",
+      "start": 23.18,
+      "end": 23.56
+    },
+    {
+      "word": "discussions",
+      "start": 23.56,
+      "end": 24.34
+    },
+    {
+      "word": "requires",
+      "start": 24.34,
+      "end": 25.06
+    },
+    {
+      "word": "authors",
+      "start": 25.06,
+      "end": 25.54
+    },
+    {
+      "word": "to",
+      "start": 25.54,
+      "end": 25.84
+    },
+    {
+      "word": "document",
+      "start": 25.84,
+      "end": 26.26
+    },
+    {
+      "word": "proposals",
+      "start": 26.26,
+      "end": 26.82
+    },
+    {
+      "word": "in",
+      "start": 26.82,
+      "end": 27.12
+    },
+    {
+      "word": "writing.",
+      "start": 27.12,
+      "end": 27.58
+    },
+    {
+      "word": "Decisions",
+      "start": 27.58,
+      "end": 28.64
+    },
+    {
+      "word": "get",
+      "start": 28.64,
+      "end": 28.92
+    },
+    {
+      "word": "approved",
+      "start": 28.92,
+      "end": 29.38
+    },
+    {
+      "word": "asynchronously",
+      "start": 29.38,
+      "end": 30.16
+    },
+    {
+      "word": "within",
+      "start": 30.16,
+      "end": 30.42
+    },
+    {
+      "word": "two",
+      "start": 30.42,
+      "end": 30.72
+    },
+    {
+      "word": "days.",
+      "start": 30.72,
+      "end": 31.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How the best remote companies make high-stakes decisions without a single meeting.",
+      "line2": "ASYNC DECISION FRAMEWORK",
+      "tag": "\ud83d\uded1 Async decision documentation framework using Github or Notion RFCs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

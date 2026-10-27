@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Automated customer testimonial widget that embeds live on sales pages",
+  "text": "Stop letting great customer feedback disappear into archived Zendesk and Intercom support threads. Customers frequently praise features during support chats, yet that high-converting praise never reaches prospective buyers. Without a centralized testimonial pipeline, growth teams struggle to produce credible social proof for marketing campaigns. Trigger an automated prompt using Testimonial.to whenever a support ticket receives a five-star CSAT rating. You build an automated library of customer advocacy.",
+  "duration": 31.461,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "letting",
+      "start": 0.34,
+      "end": 0.6
+    },
+    {
+      "word": "great",
+      "start": 0.6,
+      "end": 1.04
+    },
+    {
+      "word": "customer",
+      "start": 1.04,
+      "end": 1.36
+    },
+    {
+      "word": "feedback",
+      "start": 1.36,
+      "end": 1.96
+    },
+    {
+      "word": "disappear",
+      "start": 1.96,
+      "end": 2.56
+    },
+    {
+      "word": "into",
+      "start": 2.56,
+      "end": 2.9
+    },
+    {
+      "word": "archived",
+      "start": 2.9,
+      "end": 3.38
+    },
+    {
+      "word": "Zendisk",
+      "start": 3.38,
+      "end": 4.02
+    },
+    {
+      "word": "and",
+      "start": 4.02,
+      "end": 4.46
+    },
+    {
+      "word": "intercom",
+      "start": 4.46,
+      "end": 4.96
+    },
+    {
+      "word": "support",
+      "start": 4.96,
+      "end": 5.42
+    },
+    {
+      "word": "threads.",
+      "start": 5.42,
+      "end": 5.98
+    },
+    {
+      "word": "Customers",
+      "start": 6.98,
+      "end": 6.98
+    },
+    {
+      "word": "frequently",
+      "start": 6.98,
+      "end": 7.6
+    },
+    {
+      "word": "praise",
+      "start": 7.6,
+      "end": 8.04
+    },
+    {
+      "word": "features",
+      "start": 8.04,
+      "end": 8.5
+    },
+    {
+      "word": "during",
+      "start": 8.5,
+      "end": 8.92
+    },
+    {
+      "word": "support",
+      "start": 8.92,
+      "end": 9.34
+    },
+    {
+      "word": "chats,",
+      "start": 9.34,
+      "end": 9.8
+    },
+    {
+      "word": "yet",
+      "start": 10.2,
+      "end": 10.28
+    },
+    {
+      "word": "that",
+      "start": 10.28,
+      "end": 10.5
+    },
+    {
+      "word": "high",
+      "start": 10.5,
+      "end": 10.66
+    },
+    {
+      "word": "converting",
+      "start": 10.66,
+      "end": 11.06
+    },
+    {
+      "word": "praise",
+      "start": 11.06,
+      "end": 11.54
+    },
+    {
+      "word": "never",
+      "start": 11.54,
+      "end": 11.86
+    },
+    {
+      "word": "reaches",
+      "start": 11.86,
+      "end": 12.22
+    },
+    {
+      "word": "prospective",
+      "start": 12.22,
+      "end": 12.8
+    },
+    {
+      "word": "buyers.",
+      "start": 12.8,
+      "end": 13.32
+    },
+    {
+      "word": "Without",
+      "start": 13.86,
+      "end": 13.9
+    },
+    {
+      "word": "a",
+      "start": 13.9,
+      "end": 14.26
+    },
+    {
+      "word": "centralized",
+      "start": 14.26,
+      "end": 14.66
+    },
+    {
+      "word": "testimonial",
+      "start": 14.66,
+      "end": 15.46
+    },
+    {
+      "word": "pipeline,",
+      "start": 15.46,
+      "end": 16.08
+    },
+    {
+      "word": "growth",
+      "start": 16.52,
+      "end": 16.84
+    },
+    {
+      "word": "teams",
+      "start": 16.84,
+      "end": 17.28
+    },
+    {
+      "word": "struggle",
+      "start": 17.28,
+      "end": 17.58
+    },
+    {
+      "word": "to",
+      "start": 17.58,
+      "end": 17.86
+    },
+    {
+      "word": "produce",
+      "start": 17.86,
+      "end": 18.22
+    },
+    {
+      "word": "credible",
+      "start": 18.22,
+      "end": 18.58
+    },
+    {
+      "word": "social",
+      "start": 18.58,
+      "end": 19.16
+    },
+    {
+      "word": "proof",
+      "start": 19.16,
+      "end": 19.48
+    },
+    {
+      "word": "for",
+      "start": 19.48,
+      "end": 19.74
+    },
+    {
+      "word": "marketing",
+      "start": 19.74,
+      "end": 20.06
+    },
+    {
+      "word": "campaigns.",
+      "start": 20.06,
+      "end": 20.78
+    },
+    {
+      "word": "Trigger",
+      "start": 21.4,
+      "end": 21.7
+    },
+    {
+      "word": "an",
+      "start": 21.7,
+      "end": 22.56
+    },
+    {
+      "word": "automated",
+      "start": 22.56,
+      "end": 22.56
+    },
+    {
+      "word": "prompt",
+      "start": 22.56,
+      "end": 22.84
+    },
+    {
+      "word": "using",
+      "start": 22.84,
+      "end": 23.18
+    },
+    {
+      "word": "testimonial",
+      "start": 23.18,
+      "end": 23.88
+    },
+    {
+      "word": "to",
+      "start": 23.88,
+      "end": 24.5
+    },
+    {
+      "word": "whenever",
+      "start": 24.5,
+      "end": 24.82
+    },
+    {
+      "word": "a",
+      "start": 24.82,
+      "end": 25.04
+    },
+    {
+      "word": "support",
+      "start": 25.04,
+      "end": 25.38
+    },
+    {
+      "word": "ticket",
+      "start": 25.38,
+      "end": 25.68
+    },
+    {
+      "word": "receives",
+      "start": 25.68,
+      "end": 26.06
+    },
+    {
+      "word": "a",
+      "start": 26.06,
+      "end": 26.36
+    },
+    {
+      "word": "five",
+      "start": 26.36,
+      "end": 26.7
+    },
+    {
+      "word": "-star",
+      "start": 26.7,
+      "end": 26.96
+    },
+    {
+      "word": "CSAT",
+      "start": 26.96,
+      "end": 27.48
+    },
+    {
+      "word": "rating.",
+      "start": 27.48,
+      "end": 27.86
+    },
+    {
+      "word": "You",
+      "start": 27.86,
+      "end": 28.56
+    },
+    {
+      "word": "build",
+      "start": 28.56,
+      "end": 28.76
+    },
+    {
+      "word": "an",
+      "start": 28.76,
+      "end": 29.28
+    },
+    {
+      "word": "automated",
+      "start": 29.28,
+      "end": 29.44
+    },
+    {
+      "word": "library",
+      "start": 29.44,
+      "end": 30.06
+    },
+    {
+      "word": "of",
+      "start": 30.06,
+      "end": 30.46
+    },
+    {
+      "word": "customer",
+      "start": 30.46,
+      "end": 30.84
+    },
+    {
+      "word": "advocacy.",
+      "start": 30.84,
+      "end": 31.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop letting great customer feedback disappear into archived support threads.",
+      "line2": "EMBED LIVE TESTIMONIALS",
+      "tag": "\ud83d\uded1 Automated customer testimonial widget that embeds live on sales pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated customer testimonial widget that embeds live on sales pages",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated customer testimonial widget that embeds live on sales pages",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

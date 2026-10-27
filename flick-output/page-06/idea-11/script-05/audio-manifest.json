@@ -1,0 +1,436 @@
+{
+  "page": "page-06",
+  "idea": "Digital whiteboard template for running remote design sprint workshops",
+  "text": "Run world-class remote strategy workshops with this plug-and-play collaborative template. Facilitating executive alignment across multiple time zones is exhausting when leadership meetings lack clear structural guardrails. Discussions wander into operational weeds, leaving high-stakes quarterly OKRs unfinished and strategic company bets completely undefined. Using an interactive FigJam strategy canvas locks in timeboxed debate intervals, impact-effort scoring, and immediate task assignments. You align your leadership team in a single session.",
+  "duration": 33.402,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Run",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "world",
+      "start": 0.36,
+      "end": 0.8
+    },
+    {
+      "word": "class",
+      "start": 0.8,
+      "end": 1.18
+    },
+    {
+      "word": "remote",
+      "start": 1.18,
+      "end": 1.54
+    },
+    {
+      "word": "strategy",
+      "start": 1.54,
+      "end": 2.14
+    },
+    {
+      "word": "workshops",
+      "start": 2.14,
+      "end": 2.56
+    },
+    {
+      "word": "with",
+      "start": 2.56,
+      "end": 2.92
+    },
+    {
+      "word": "this",
+      "start": 2.92,
+      "end": 3.18
+    },
+    {
+      "word": "plug",
+      "start": 3.18,
+      "end": 3.38
+    },
+    {
+      "word": "-and",
+      "start": 3.38,
+      "end": 3.62
+    },
+    {
+      "word": "-play",
+      "start": 3.62,
+      "end": 3.9
+    },
+    {
+      "word": "collaborative",
+      "start": 3.9,
+      "end": 4.4
+    },
+    {
+      "word": "template.",
+      "start": 4.4,
+      "end": 5.06
+    },
+    {
+      "word": "Facilitating",
+      "start": 5.74,
+      "end": 6.16
+    },
+    {
+      "word": "executive",
+      "start": 6.16,
+      "end": 6.76
+    },
+    {
+      "word": "alignment",
+      "start": 6.76,
+      "end": 7.26
+    },
+    {
+      "word": "across",
+      "start": 7.26,
+      "end": 7.72
+    },
+    {
+      "word": "multiple",
+      "start": 7.72,
+      "end": 8.16
+    },
+    {
+      "word": "time",
+      "start": 8.16,
+      "end": 8.54
+    },
+    {
+      "word": "zones",
+      "start": 8.54,
+      "end": 8.94
+    },
+    {
+      "word": "is",
+      "start": 8.94,
+      "end": 9.52
+    },
+    {
+      "word": "exhausting",
+      "start": 9.52,
+      "end": 9.98
+    },
+    {
+      "word": "when",
+      "start": 9.98,
+      "end": 10.34
+    },
+    {
+      "word": "leadership",
+      "start": 10.34,
+      "end": 10.68
+    },
+    {
+      "word": "meetings",
+      "start": 10.68,
+      "end": 11.18
+    },
+    {
+      "word": "lack",
+      "start": 11.18,
+      "end": 11.66
+    },
+    {
+      "word": "clear",
+      "start": 11.66,
+      "end": 11.98
+    },
+    {
+      "word": "structural",
+      "start": 11.98,
+      "end": 12.52
+    },
+    {
+      "word": "guardrails.",
+      "start": 12.52,
+      "end": 13.22
+    },
+    {
+      "word": "Discussions",
+      "start": 13.72,
+      "end": 14.16
+    },
+    {
+      "word": "wander",
+      "start": 14.16,
+      "end": 14.54
+    },
+    {
+      "word": "into",
+      "start": 14.54,
+      "end": 14.78
+    },
+    {
+      "word": "operational",
+      "start": 14.78,
+      "end": 15.28
+    },
+    {
+      "word": "weeds,",
+      "start": 15.28,
+      "end": 15.84
+    },
+    {
+      "word": "leaving",
+      "start": 16.42,
+      "end": 16.46
+    },
+    {
+      "word": "high",
+      "start": 16.46,
+      "end": 16.78
+    },
+    {
+      "word": "stakes",
+      "start": 16.78,
+      "end": 17.02
+    },
+    {
+      "word": "quarterly",
+      "start": 17.02,
+      "end": 17.52
+    },
+    {
+      "word": "OKRs",
+      "start": 17.52,
+      "end": 18.28
+    },
+    {
+      "word": "unfinished",
+      "start": 18.28,
+      "end": 18.86
+    },
+    {
+      "word": "and",
+      "start": 18.86,
+      "end": 19.28
+    },
+    {
+      "word": "strategic",
+      "start": 19.28,
+      "end": 19.6
+    },
+    {
+      "word": "company",
+      "start": 19.6,
+      "end": 20.24
+    },
+    {
+      "word": "bets",
+      "start": 20.24,
+      "end": 20.52
+    },
+    {
+      "word": "completely",
+      "start": 20.52,
+      "end": 21.12
+    },
+    {
+      "word": "undefined.",
+      "start": 21.12,
+      "end": 21.72
+    },
+    {
+      "word": "Using",
+      "start": 22.5,
+      "end": 22.64
+    },
+    {
+      "word": "an",
+      "start": 22.64,
+      "end": 23.16
+    },
+    {
+      "word": "interactive",
+      "start": 23.16,
+      "end": 23.34
+    },
+    {
+      "word": "Fig",
+      "start": 23.34,
+      "end": 23.7
+    },
+    {
+      "word": "Jam",
+      "start": 23.7,
+      "end": 23.94
+    },
+    {
+      "word": "strategy",
+      "start": 23.94,
+      "end": 24.46
+    },
+    {
+      "word": "canvas",
+      "start": 24.46,
+      "end": 24.84
+    },
+    {
+      "word": "locks",
+      "start": 24.84,
+      "end": 25.4
+    },
+    {
+      "word": "in",
+      "start": 25.4,
+      "end": 25.68
+    },
+    {
+      "word": "time",
+      "start": 25.68,
+      "end": 25.96
+    },
+    {
+      "word": "-box",
+      "start": 25.96,
+      "end": 26.22
+    },
+    {
+      "word": "debate",
+      "start": 26.22,
+      "end": 26.64
+    },
+    {
+      "word": "intervals,",
+      "start": 26.64,
+      "end": 27.06
+    },
+    {
+      "word": "impact",
+      "start": 27.06,
+      "end": 27.86
+    },
+    {
+      "word": "effort",
+      "start": 27.86,
+      "end": 28.2
+    },
+    {
+      "word": "scoring",
+      "start": 28.2,
+      "end": 28.7
+    },
+    {
+      "word": "and",
+      "start": 28.7,
+      "end": 29.22
+    },
+    {
+      "word": "immediate",
+      "start": 29.22,
+      "end": 29.56
+    },
+    {
+      "word": "task",
+      "start": 29.56,
+      "end": 29.88
+    },
+    {
+      "word": "assignments.",
+      "start": 29.88,
+      "end": 30.44
+    },
+    {
+      "word": "You",
+      "start": 31.16,
+      "end": 31.24
+    },
+    {
+      "word": "align",
+      "start": 31.24,
+      "end": 31.46
+    },
+    {
+      "word": "your",
+      "start": 31.46,
+      "end": 31.88
+    },
+    {
+      "word": "leadership",
+      "start": 31.88,
+      "end": 31.98
+    },
+    {
+      "word": "team",
+      "start": 31.98,
+      "end": 32.42
+    },
+    {
+      "word": "in",
+      "start": 32.42,
+      "end": 32.64
+    },
+    {
+      "word": "a",
+      "start": 32.64,
+      "end": 32.8
+    },
+    {
+      "word": "single",
+      "start": 32.8,
+      "end": 32.92
+    },
+    {
+      "word": "session.",
+      "start": 32.92,
+      "end": 33.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Run world-class remote strategy workshops with this plug-and-play template.",
+      "line2": "REMOTE DESIGN SPRINTS",
+      "tag": "\ud83d\uded1 Digital whiteboard template for running remote design sprint workshops",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Digital whiteboard template for running remote design sprint workshops",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Digital whiteboard template for running remote design sprint workshops",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

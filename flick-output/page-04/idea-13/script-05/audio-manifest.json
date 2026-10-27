@@ -1,0 +1,416 @@
+{
+  "page": "page-04",
+  "idea": "LocalSend: share files between iPhone, Android, and PC with zero cables",
+  "text": "How to transfer ten-gigabyte files in seconds between any device completely free. Uploading massive b-roll archives to WeTransfer or Dropbox eats up hourly limits and stalls your editing pipeline. Public cloud storage forces data through remote servers, creating frustrating bottlenecks on residential broadband. LocalSend bypasses external internet entirely, pushing data at maximum local router speed across your machines. You offload huge project files with zero fees or size restrictions.",
+  "duration": 31.759,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "to",
+      "start": 0.2,
+      "end": 0.5
+    },
+    {
+      "word": "transfer",
+      "start": 0.5,
+      "end": 0.72
+    },
+    {
+      "word": "10GB",
+      "start": 0.72,
+      "end": 1.4
+    },
+    {
+      "word": "files",
+      "start": 1.4,
+      "end": 1.98
+    },
+    {
+      "word": "in",
+      "start": 1.98,
+      "end": 2.28
+    },
+    {
+      "word": "seconds",
+      "start": 2.28,
+      "end": 2.6
+    },
+    {
+      "word": "between",
+      "start": 2.6,
+      "end": 2.94
+    },
+    {
+      "word": "any",
+      "start": 2.94,
+      "end": 3.18
+    },
+    {
+      "word": "device",
+      "start": 3.18,
+      "end": 3.62
+    },
+    {
+      "word": "completely",
+      "start": 3.62,
+      "end": 4.26
+    },
+    {
+      "word": "free.",
+      "start": 4.26,
+      "end": 4.86
+    },
+    {
+      "word": "Uploading",
+      "start": 5.34,
+      "end": 5.76
+    },
+    {
+      "word": "massive",
+      "start": 5.76,
+      "end": 6.2
+    },
+    {
+      "word": "B",
+      "start": 6.2,
+      "end": 6.4
+    },
+    {
+      "word": "-roll",
+      "start": 6.4,
+      "end": 6.68
+    },
+    {
+      "word": "archives",
+      "start": 6.68,
+      "end": 7.08
+    },
+    {
+      "word": "to",
+      "start": 7.08,
+      "end": 7.36
+    },
+    {
+      "word": "Wii",
+      "start": 7.36,
+      "end": 7.58
+    },
+    {
+      "word": "Transfer",
+      "start": 7.58,
+      "end": 8.02
+    },
+    {
+      "word": "or",
+      "start": 8.02,
+      "end": 8.46
+    },
+    {
+      "word": "Dropbox",
+      "start": 8.46,
+      "end": 8.98
+    },
+    {
+      "word": "eats",
+      "start": 8.98,
+      "end": 9.64
+    },
+    {
+      "word": "up",
+      "start": 9.64,
+      "end": 9.96
+    },
+    {
+      "word": "hourly",
+      "start": 9.96,
+      "end": 10.22
+    },
+    {
+      "word": "limits,",
+      "start": 10.22,
+      "end": 10.66
+    },
+    {
+      "word": "installs",
+      "start": 10.98,
+      "end": 11.24
+    },
+    {
+      "word": "your",
+      "start": 11.24,
+      "end": 11.64
+    },
+    {
+      "word": "editing",
+      "start": 11.64,
+      "end": 11.9
+    },
+    {
+      "word": "pipeline.",
+      "start": 11.9,
+      "end": 12.44
+    },
+    {
+      "word": "Public",
+      "start": 13.14,
+      "end": 13.18
+    },
+    {
+      "word": "cloud",
+      "start": 13.18,
+      "end": 13.54
+    },
+    {
+      "word": "storage",
+      "start": 13.54,
+      "end": 13.98
+    },
+    {
+      "word": "forces",
+      "start": 13.98,
+      "end": 14.4
+    },
+    {
+      "word": "data",
+      "start": 14.4,
+      "end": 14.7
+    },
+    {
+      "word": "through",
+      "start": 14.7,
+      "end": 15.08
+    },
+    {
+      "word": "remote",
+      "start": 15.08,
+      "end": 15.38
+    },
+    {
+      "word": "servers,",
+      "start": 15.38,
+      "end": 15.88
+    },
+    {
+      "word": "creating",
+      "start": 16.6,
+      "end": 16.72
+    },
+    {
+      "word": "frustrating",
+      "start": 16.72,
+      "end": 17.24
+    },
+    {
+      "word": "bottlenecks",
+      "start": 17.24,
+      "end": 17.84
+    },
+    {
+      "word": "on",
+      "start": 17.84,
+      "end": 18.12
+    },
+    {
+      "word": "residential",
+      "start": 18.12,
+      "end": 18.66
+    },
+    {
+      "word": "broadband.",
+      "start": 18.66,
+      "end": 19.26
+    },
+    {
+      "word": "Local",
+      "start": 20.28,
+      "end": 20.3
+    },
+    {
+      "word": "send",
+      "start": 20.3,
+      "end": 20.64
+    },
+    {
+      "word": "bypasses",
+      "start": 20.64,
+      "end": 21.4
+    },
+    {
+      "word": "external",
+      "start": 21.4,
+      "end": 21.78
+    },
+    {
+      "word": "internet",
+      "start": 21.78,
+      "end": 22.22
+    },
+    {
+      "word": "entirely,",
+      "start": 22.22,
+      "end": 22.88
+    },
+    {
+      "word": "pushing",
+      "start": 23.36,
+      "end": 23.54
+    },
+    {
+      "word": "data",
+      "start": 23.54,
+      "end": 23.88
+    },
+    {
+      "word": "at",
+      "start": 23.88,
+      "end": 24.36
+    },
+    {
+      "word": "maximum",
+      "start": 24.36,
+      "end": 24.64
+    },
+    {
+      "word": "local",
+      "start": 24.64,
+      "end": 25.06
+    },
+    {
+      "word": "router",
+      "start": 25.06,
+      "end": 25.4
+    },
+    {
+      "word": "speed",
+      "start": 25.4,
+      "end": 25.74
+    },
+    {
+      "word": "across",
+      "start": 25.74,
+      "end": 26.04
+    },
+    {
+      "word": "your",
+      "start": 26.04,
+      "end": 26.58
+    },
+    {
+      "word": "machines.",
+      "start": 26.58,
+      "end": 26.74
+    },
+    {
+      "word": "You",
+      "start": 26.74,
+      "end": 27.52
+    },
+    {
+      "word": "offload",
+      "start": 27.52,
+      "end": 27.94
+    },
+    {
+      "word": "huge",
+      "start": 27.94,
+      "end": 28.38
+    },
+    {
+      "word": "project",
+      "start": 28.38,
+      "end": 28.9
+    },
+    {
+      "word": "files",
+      "start": 28.9,
+      "end": 29.24
+    },
+    {
+      "word": "with",
+      "start": 29.24,
+      "end": 29.58
+    },
+    {
+      "word": "zero",
+      "start": 29.58,
+      "end": 30.02
+    },
+    {
+      "word": "fees",
+      "start": 30.02,
+      "end": 30.38
+    },
+    {
+      "word": "or",
+      "start": 30.38,
+      "end": 30.7
+    },
+    {
+      "word": "size",
+      "start": 30.7,
+      "end": 31.04
+    },
+    {
+      "word": "restrictions.",
+      "start": 31.04,
+      "end": 31.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Transfer 10GB files in seconds between any device for free.",
+      "line2": "SHARE FILES WIRELESSLY",
+      "tag": "\ud83d\uded1 LocalSend",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: LocalSend",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: LocalSend",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "LocalSend",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

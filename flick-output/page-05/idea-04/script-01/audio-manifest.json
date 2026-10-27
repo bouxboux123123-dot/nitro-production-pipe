@@ -1,0 +1,421 @@
+{
+  "page": "page-05",
+  "idea": "Glide app built on a Google Sheet in under 15 minutes",
+  "text": "You can turn any Google Sheet into a functional mobile app before lunch. Teams struggle with clunky spreadsheets that are nearly impossible to navigate on mobile devices during fieldwork. Hard-to-read mobile rows cause missing records, bad data entries, and constant team confusion. Connect your Google Sheet to Glide to build an interactive, mobile-friendly web application in fifteen minutes. You give your team intuitive mobile tools without writing code.",
+  "duration": 25.259,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "can",
+      "start": 0.18,
+      "end": 0.24
+    },
+    {
+      "word": "turn",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "any",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "Google",
+      "start": 0.66,
+      "end": 0.88
+    },
+    {
+      "word": "Sheet",
+      "start": 0.88,
+      "end": 1.22
+    },
+    {
+      "word": "into",
+      "start": 1.22,
+      "end": 1.46
+    },
+    {
+      "word": "a",
+      "start": 1.46,
+      "end": 1.96
+    },
+    {
+      "word": "functional",
+      "start": 1.96,
+      "end": 1.96
+    },
+    {
+      "word": "mobile",
+      "start": 1.96,
+      "end": 2.32
+    },
+    {
+      "word": "app",
+      "start": 2.32,
+      "end": 2.58
+    },
+    {
+      "word": "before",
+      "start": 2.58,
+      "end": 2.9
+    },
+    {
+      "word": "lunch.",
+      "start": 2.9,
+      "end": 3.3
+    },
+    {
+      "word": "Teams",
+      "start": 4.06,
+      "end": 4.06
+    },
+    {
+      "word": "struggle",
+      "start": 4.06,
+      "end": 4.32
+    },
+    {
+      "word": "with",
+      "start": 4.32,
+      "end": 4.64
+    },
+    {
+      "word": "clunky",
+      "start": 4.64,
+      "end": 4.92
+    },
+    {
+      "word": "spreadsheets",
+      "start": 4.92,
+      "end": 5.54
+    },
+    {
+      "word": "that",
+      "start": 5.54,
+      "end": 5.86
+    },
+    {
+      "word": "are",
+      "start": 5.86,
+      "end": 6.0
+    },
+    {
+      "word": "nearly",
+      "start": 6.0,
+      "end": 6.28
+    },
+    {
+      "word": "impossible",
+      "start": 6.28,
+      "end": 6.78
+    },
+    {
+      "word": "to",
+      "start": 6.78,
+      "end": 7.2
+    },
+    {
+      "word": "navigate",
+      "start": 7.2,
+      "end": 7.44
+    },
+    {
+      "word": "on",
+      "start": 7.44,
+      "end": 7.78
+    },
+    {
+      "word": "mobile",
+      "start": 7.78,
+      "end": 8.06
+    },
+    {
+      "word": "devices",
+      "start": 8.06,
+      "end": 8.52
+    },
+    {
+      "word": "during",
+      "start": 8.52,
+      "end": 8.98
+    },
+    {
+      "word": "field",
+      "start": 8.98,
+      "end": 9.28
+    },
+    {
+      "word": "work.",
+      "start": 9.28,
+      "end": 9.7
+    },
+    {
+      "word": "Hard",
+      "start": 10.26,
+      "end": 10.3
+    },
+    {
+      "word": "to",
+      "start": 10.3,
+      "end": 10.4
+    },
+    {
+      "word": "read",
+      "start": 10.4,
+      "end": 10.64
+    },
+    {
+      "word": "mobile",
+      "start": 10.64,
+      "end": 11.0
+    },
+    {
+      "word": "rows",
+      "start": 11.0,
+      "end": 11.36
+    },
+    {
+      "word": "cause",
+      "start": 11.36,
+      "end": 11.68
+    },
+    {
+      "word": "missing",
+      "start": 11.68,
+      "end": 12.0
+    },
+    {
+      "word": "records,",
+      "start": 12.0,
+      "end": 12.42
+    },
+    {
+      "word": "bad",
+      "start": 13.04,
+      "end": 13.1
+    },
+    {
+      "word": "data",
+      "start": 13.1,
+      "end": 13.38
+    },
+    {
+      "word": "entries,",
+      "start": 13.38,
+      "end": 13.76
+    },
+    {
+      "word": "and",
+      "start": 14.12,
+      "end": 14.38
+    },
+    {
+      "word": "constant",
+      "start": 14.38,
+      "end": 14.72
+    },
+    {
+      "word": "team",
+      "start": 14.72,
+      "end": 15.0
+    },
+    {
+      "word": "confusion.",
+      "start": 15.0,
+      "end": 15.46
+    },
+    {
+      "word": "Connect",
+      "start": 16.12,
+      "end": 16.36
+    },
+    {
+      "word": "your",
+      "start": 16.36,
+      "end": 16.66
+    },
+    {
+      "word": "Google",
+      "start": 16.66,
+      "end": 16.92
+    },
+    {
+      "word": "Sheet",
+      "start": 16.92,
+      "end": 17.14
+    },
+    {
+      "word": "to",
+      "start": 17.14,
+      "end": 17.34
+    },
+    {
+      "word": "glide",
+      "start": 17.34,
+      "end": 17.62
+    },
+    {
+      "word": "to",
+      "start": 17.62,
+      "end": 17.82
+    },
+    {
+      "word": "build",
+      "start": 17.82,
+      "end": 18.0
+    },
+    {
+      "word": "an",
+      "start": 18.0,
+      "end": 18.26
+    },
+    {
+      "word": "interactive",
+      "start": 18.26,
+      "end": 18.8
+    },
+    {
+      "word": "mobile",
+      "start": 18.8,
+      "end": 19.48
+    },
+    {
+      "word": "-friendly",
+      "start": 19.48,
+      "end": 19.78
+    },
+    {
+      "word": "web",
+      "start": 19.78,
+      "end": 20.02
+    },
+    {
+      "word": "application",
+      "start": 20.02,
+      "end": 20.52
+    },
+    {
+      "word": "in",
+      "start": 20.52,
+      "end": 20.9
+    },
+    {
+      "word": "15",
+      "start": 20.9,
+      "end": 21.22
+    },
+    {
+      "word": "minutes.",
+      "start": 21.22,
+      "end": 21.56
+    },
+    {
+      "word": "You",
+      "start": 21.56,
+      "end": 22.12
+    },
+    {
+      "word": "give",
+      "start": 22.12,
+      "end": 22.32
+    },
+    {
+      "word": "your",
+      "start": 22.32,
+      "end": 22.5
+    },
+    {
+      "word": "team",
+      "start": 22.5,
+      "end": 22.78
+    },
+    {
+      "word": "intuitive",
+      "start": 22.78,
+      "end": 23.32
+    },
+    {
+      "word": "mobile",
+      "start": 23.32,
+      "end": 23.68
+    },
+    {
+      "word": "tools",
+      "start": 23.68,
+      "end": 24.12
+    },
+    {
+      "word": "without",
+      "start": 24.12,
+      "end": 24.52
+    },
+    {
+      "word": "writing",
+      "start": 24.52,
+      "end": 24.86
+    },
+    {
+      "word": "code.",
+      "start": 24.86,
+      "end": 25.22
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "You can turn any Google Sheet into a functional mobile app before lunch.",
+      "line2": "BUILD APPS IN 15-MINUTES",
+      "tag": "\ud83d\uded1 Glide app built on a Google Sheet in under 15 minutes",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Glide app built on a Google Sheet in under 15 minutes",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Glide app built on a Google Sheet in under 15 minutes",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

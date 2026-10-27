@@ -1,0 +1,431 @@
+{
+  "page": "page-01",
+  "idea": "Automated multi-client monthly reporting dashboard using Looker Studio",
+  "text": "Never leave company credentials active inside a past client's ad accounts. When retainers end, agency team logins often linger inside client Meta and Google dashboards for months. Orphaned user accounts expose your agency to severe liability if the client suffers a breach or unapproved ad spend. Automate credential revocation through 1Password and Leadsie the moment a contract termination date is logged in Airtable. This locks down enterprise security and protects your reputation.",
+  "duration": 30.223,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Never",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "leave",
+      "start": 0.3,
+      "end": 0.6
+    },
+    {
+      "word": "company",
+      "start": 0.6,
+      "end": 0.92
+    },
+    {
+      "word": "credentials",
+      "start": 0.92,
+      "end": 1.38
+    },
+    {
+      "word": "active",
+      "start": 1.38,
+      "end": 1.88
+    },
+    {
+      "word": "inside",
+      "start": 1.88,
+      "end": 2.26
+    },
+    {
+      "word": "a",
+      "start": 2.26,
+      "end": 2.48
+    },
+    {
+      "word": "past",
+      "start": 2.48,
+      "end": 2.76
+    },
+    {
+      "word": "client's",
+      "start": 2.76,
+      "end": 3.24
+    },
+    {
+      "word": "ad",
+      "start": 3.24,
+      "end": 3.38
+    },
+    {
+      "word": "accounts.",
+      "start": 3.38,
+      "end": 3.84
+    },
+    {
+      "word": "When",
+      "start": 4.34,
+      "end": 4.5
+    },
+    {
+      "word": "retainer's",
+      "start": 4.5,
+      "end": 5.12
+    },
+    {
+      "word": "end,",
+      "start": 5.12,
+      "end": 5.52
+    },
+    {
+      "word": "agency",
+      "start": 6.02,
+      "end": 6.1
+    },
+    {
+      "word": "team",
+      "start": 6.1,
+      "end": 6.56
+    },
+    {
+      "word": "logins",
+      "start": 6.56,
+      "end": 6.96
+    },
+    {
+      "word": "often",
+      "start": 6.96,
+      "end": 7.36
+    },
+    {
+      "word": "linger",
+      "start": 7.36,
+      "end": 7.68
+    },
+    {
+      "word": "inside",
+      "start": 7.68,
+      "end": 8.22
+    },
+    {
+      "word": "client",
+      "start": 8.22,
+      "end": 8.62
+    },
+    {
+      "word": "meta",
+      "start": 8.62,
+      "end": 8.84
+    },
+    {
+      "word": "and",
+      "start": 8.84,
+      "end": 9.38
+    },
+    {
+      "word": "Google",
+      "start": 9.38,
+      "end": 9.72
+    },
+    {
+      "word": "dashboards",
+      "start": 9.72,
+      "end": 10.28
+    },
+    {
+      "word": "for",
+      "start": 10.28,
+      "end": 10.56
+    },
+    {
+      "word": "months.",
+      "start": 10.56,
+      "end": 11.04
+    },
+    {
+      "word": "Orphan",
+      "start": 11.62,
+      "end": 11.86
+    },
+    {
+      "word": "user",
+      "start": 11.86,
+      "end": 12.12
+    },
+    {
+      "word": "accounts",
+      "start": 12.12,
+      "end": 12.54
+    },
+    {
+      "word": "expose",
+      "start": 12.54,
+      "end": 13.04
+    },
+    {
+      "word": "your",
+      "start": 13.04,
+      "end": 13.28
+    },
+    {
+      "word": "agency",
+      "start": 13.28,
+      "end": 13.62
+    },
+    {
+      "word": "to",
+      "start": 13.62,
+      "end": 13.98
+    },
+    {
+      "word": "severe",
+      "start": 13.98,
+      "end": 14.24
+    },
+    {
+      "word": "liability",
+      "start": 14.24,
+      "end": 14.82
+    },
+    {
+      "word": "if",
+      "start": 14.82,
+      "end": 15.36
+    },
+    {
+      "word": "the",
+      "start": 15.36,
+      "end": 15.56
+    },
+    {
+      "word": "client",
+      "start": 15.56,
+      "end": 15.84
+    },
+    {
+      "word": "suffers",
+      "start": 15.84,
+      "end": 16.14
+    },
+    {
+      "word": "a",
+      "start": 16.14,
+      "end": 16.42
+    },
+    {
+      "word": "breach",
+      "start": 16.42,
+      "end": 16.74
+    },
+    {
+      "word": "or",
+      "start": 16.74,
+      "end": 17.14
+    },
+    {
+      "word": "unapproved",
+      "start": 17.14,
+      "end": 17.6
+    },
+    {
+      "word": "ad",
+      "start": 17.6,
+      "end": 18.12
+    },
+    {
+      "word": "spend.",
+      "start": 18.12,
+      "end": 18.56
+    },
+    {
+      "word": "Automate",
+      "start": 19.0,
+      "end": 19.24
+    },
+    {
+      "word": "credential",
+      "start": 19.24,
+      "end": 19.78
+    },
+    {
+      "word": "revocation",
+      "start": 19.78,
+      "end": 20.3
+    },
+    {
+      "word": "through",
+      "start": 20.3,
+      "end": 20.76
+    },
+    {
+      "word": "one",
+      "start": 20.76,
+      "end": 21.0
+    },
+    {
+      "word": "password",
+      "start": 21.0,
+      "end": 21.48
+    },
+    {
+      "word": "and",
+      "start": 21.48,
+      "end": 22.06
+    },
+    {
+      "word": "lead",
+      "start": 22.06,
+      "end": 22.26
+    },
+    {
+      "word": "see",
+      "start": 22.26,
+      "end": 22.42
+    },
+    {
+      "word": "the",
+      "start": 22.42,
+      "end": 22.62
+    },
+    {
+      "word": "moment",
+      "start": 22.62,
+      "end": 22.8
+    },
+    {
+      "word": "a",
+      "start": 22.8,
+      "end": 23.22
+    },
+    {
+      "word": "contract",
+      "start": 23.22,
+      "end": 23.54
+    },
+    {
+      "word": "termination",
+      "start": 23.54,
+      "end": 24.02
+    },
+    {
+      "word": "date",
+      "start": 24.02,
+      "end": 24.56
+    },
+    {
+      "word": "is",
+      "start": 24.56,
+      "end": 24.84
+    },
+    {
+      "word": "logged",
+      "start": 24.84,
+      "end": 25.2
+    },
+    {
+      "word": "in",
+      "start": 25.2,
+      "end": 25.46
+    },
+    {
+      "word": "Airtable.",
+      "start": 25.46,
+      "end": 25.92
+    },
+    {
+      "word": "This",
+      "start": 25.92,
+      "end": 26.8
+    },
+    {
+      "word": "locks",
+      "start": 26.8,
+      "end": 27.1
+    },
+    {
+      "word": "down",
+      "start": 27.1,
+      "end": 27.52
+    },
+    {
+      "word": "enterprise",
+      "start": 27.52,
+      "end": 27.96
+    },
+    {
+      "word": "security",
+      "start": 27.96,
+      "end": 28.58
+    },
+    {
+      "word": "and",
+      "start": 28.58,
+      "end": 29.06
+    },
+    {
+      "word": "protects",
+      "start": 29.06,
+      "end": 29.34
+    },
+    {
+      "word": "your",
+      "start": 29.34,
+      "end": 30.12
+    },
+    {
+      "word": "reputation.",
+      "start": 30.12,
+      "end": 30.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Give your retainer clients 24/7 transparent performance reporting with zero manual work.",
+      "line2": "AUTOMATE CLIENT REPORTS",
+      "tag": "\ud83d\uded1 Automated multi-client monthly reporting dashboard using Looker Studio",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated multi-client monthly reporting dashboard using Looker Studio",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated multi-client monthly reporting dashboard using Looker Studio",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

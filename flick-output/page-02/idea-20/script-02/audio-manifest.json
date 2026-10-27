@@ -1,0 +1,401 @@
+{
+  "page": "page-02",
+  "idea": "AI video caption generator with custom subtitle animations for editors",
+  "text": "Stop manually typing subtitles in Premiere Pro word by word. Listening at half speed just to type subtitles and adjust timestamp markers drains your creative energy. A single mistimed subtitle ruins viewer retention and triggers annoying revision requests from social media clients. Import your export into the Captions app to automatically synchronize spoken words with glowing bounce animations and sound effects. You cut client turnaround time in half.",
+  "duration": 25.579,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "manually",
+      "start": 0.32,
+      "end": 0.68
+    },
+    {
+      "word": "typing",
+      "start": 0.68,
+      "end": 1.12
+    },
+    {
+      "word": "subtitles",
+      "start": 1.12,
+      "end": 1.58
+    },
+    {
+      "word": "in",
+      "start": 1.58,
+      "end": 1.94
+    },
+    {
+      "word": "Premiere",
+      "start": 1.94,
+      "end": 2.22
+    },
+    {
+      "word": "Pro",
+      "start": 2.22,
+      "end": 2.5
+    },
+    {
+      "word": "word",
+      "start": 2.5,
+      "end": 2.72
+    },
+    {
+      "word": "by",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "word": "word.",
+      "start": 2.96,
+      "end": 3.48
+    },
+    {
+      "word": "Listening",
+      "start": 3.76,
+      "end": 4.02
+    },
+    {
+      "word": "at",
+      "start": 4.02,
+      "end": 4.2
+    },
+    {
+      "word": "half",
+      "start": 4.2,
+      "end": 4.48
+    },
+    {
+      "word": "speed",
+      "start": 4.48,
+      "end": 4.78
+    },
+    {
+      "word": "just",
+      "start": 4.78,
+      "end": 5.06
+    },
+    {
+      "word": "to",
+      "start": 5.06,
+      "end": 5.22
+    },
+    {
+      "word": "type",
+      "start": 5.22,
+      "end": 5.44
+    },
+    {
+      "word": "subtitles,",
+      "start": 5.44,
+      "end": 5.96
+    },
+    {
+      "word": "and",
+      "start": 6.44,
+      "end": 6.5
+    },
+    {
+      "word": "adjust",
+      "start": 6.5,
+      "end": 6.76
+    },
+    {
+      "word": "timestamp",
+      "start": 6.76,
+      "end": 7.22
+    },
+    {
+      "word": "markers,",
+      "start": 7.22,
+      "end": 7.68
+    },
+    {
+      "word": "drains",
+      "start": 7.96,
+      "end": 8.18
+    },
+    {
+      "word": "your",
+      "start": 8.18,
+      "end": 8.42
+    },
+    {
+      "word": "creative",
+      "start": 8.42,
+      "end": 8.72
+    },
+    {
+      "word": "energy.",
+      "start": 8.72,
+      "end": 9.1
+    },
+    {
+      "word": "A",
+      "start": 9.7,
+      "end": 9.84
+    },
+    {
+      "word": "single",
+      "start": 9.84,
+      "end": 10.04
+    },
+    {
+      "word": "mistime",
+      "start": 10.04,
+      "end": 10.5
+    },
+    {
+      "word": "subtitle",
+      "start": 10.5,
+      "end": 11.0
+    },
+    {
+      "word": "ruins",
+      "start": 11.0,
+      "end": 11.46
+    },
+    {
+      "word": "viewer",
+      "start": 11.46,
+      "end": 11.82
+    },
+    {
+      "word": "retention,",
+      "start": 11.82,
+      "end": 12.3
+    },
+    {
+      "word": "and",
+      "start": 12.8,
+      "end": 12.92
+    },
+    {
+      "word": "triggers",
+      "start": 12.92,
+      "end": 13.16
+    },
+    {
+      "word": "annoying",
+      "start": 13.16,
+      "end": 13.6
+    },
+    {
+      "word": "revision",
+      "start": 13.6,
+      "end": 13.98
+    },
+    {
+      "word": "requests",
+      "start": 13.98,
+      "end": 14.4
+    },
+    {
+      "word": "from",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "word": "social",
+      "start": 14.72,
+      "end": 15.08
+    },
+    {
+      "word": "media",
+      "start": 15.08,
+      "end": 15.38
+    },
+    {
+      "word": "clients.",
+      "start": 15.38,
+      "end": 15.8
+    },
+    {
+      "word": "Import",
+      "start": 16.48,
+      "end": 16.64
+    },
+    {
+      "word": "your",
+      "start": 16.64,
+      "end": 16.96
+    },
+    {
+      "word": "export",
+      "start": 16.96,
+      "end": 17.28
+    },
+    {
+      "word": "into",
+      "start": 17.28,
+      "end": 17.52
+    },
+    {
+      "word": "the",
+      "start": 17.52,
+      "end": 17.68
+    },
+    {
+      "word": "captions",
+      "start": 17.68,
+      "end": 18.08
+    },
+    {
+      "word": "app",
+      "start": 18.08,
+      "end": 18.36
+    },
+    {
+      "word": "to",
+      "start": 18.36,
+      "end": 18.68
+    },
+    {
+      "word": "automatically",
+      "start": 18.68,
+      "end": 19.12
+    },
+    {
+      "word": "synchronize",
+      "start": 19.12,
+      "end": 19.86
+    },
+    {
+      "word": "spoken",
+      "start": 19.86,
+      "end": 20.1
+    },
+    {
+      "word": "words",
+      "start": 20.1,
+      "end": 20.54
+    },
+    {
+      "word": "with",
+      "start": 20.54,
+      "end": 20.86
+    },
+    {
+      "word": "glowing",
+      "start": 20.86,
+      "end": 21.2
+    },
+    {
+      "word": "bounce",
+      "start": 21.2,
+      "end": 21.58
+    },
+    {
+      "word": "animations",
+      "start": 21.58,
+      "end": 22.14
+    },
+    {
+      "word": "and",
+      "start": 22.14,
+      "end": 22.48
+    },
+    {
+      "word": "sound",
+      "start": 22.48,
+      "end": 22.74
+    },
+    {
+      "word": "effects.",
+      "start": 22.74,
+      "end": 23.1
+    },
+    {
+      "word": "You",
+      "start": 23.1,
+      "end": 23.66
+    },
+    {
+      "word": "cut",
+      "start": 23.66,
+      "end": 23.96
+    },
+    {
+      "word": "client",
+      "start": 23.96,
+      "end": 24.26
+    },
+    {
+      "word": "turnaround",
+      "start": 24.26,
+      "end": 24.74
+    },
+    {
+      "word": "time",
+      "start": 24.74,
+      "end": 25.12
+    },
+    {
+      "word": "in",
+      "start": 25.12,
+      "end": 25.28
+    },
+    {
+      "word": "half.",
+      "start": 25.28,
+      "end": 25.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop manually typing subtitles in Premiere Pro word by word.",
+      "line2": "ANIMATE VIDEO CAPTIONS",
+      "tag": "\ud83d\uded1 AI video caption generator with custom subtitle animations for editors",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI video caption generator with custom subtitle animations for editors",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI video caption generator with custom subtitle animations for editors",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

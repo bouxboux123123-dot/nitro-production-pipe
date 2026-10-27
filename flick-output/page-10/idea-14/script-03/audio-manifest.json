@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Linear Insights update for software engineering velocity tracking",
+  "text": "Stop manually copying customer bug reports from Zendesk into Jira backlog tickets. Support engineers lose hours each week copy-pasting error logs, customer emails, and duplicate tickets between tabs. That manual data transfer creates fragmented issue descriptions and leaves customer tickets hanging when fixes deploy. Linear Customer Requests links Zendesk tickets directly to engineering cycles and auto-notifies reps upon deployment. You close the customer feedback loop seamlessly.",
+  "duration": 30.245,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "manually",
+      "start": 0.36,
+      "end": 0.78
+    },
+    {
+      "word": "copying",
+      "start": 0.78,
+      "end": 1.3
+    },
+    {
+      "word": "customer",
+      "start": 1.3,
+      "end": 1.82
+    },
+    {
+      "word": "bug",
+      "start": 1.82,
+      "end": 2.16
+    },
+    {
+      "word": "reports",
+      "start": 2.16,
+      "end": 2.54
+    },
+    {
+      "word": "from",
+      "start": 2.54,
+      "end": 2.86
+    },
+    {
+      "word": "Zendesk",
+      "start": 2.86,
+      "end": 3.42
+    },
+    {
+      "word": "into",
+      "start": 3.42,
+      "end": 3.64
+    },
+    {
+      "word": "Jira",
+      "start": 3.64,
+      "end": 4.0
+    },
+    {
+      "word": "backlog",
+      "start": 4.0,
+      "end": 4.38
+    },
+    {
+      "word": "tickets.",
+      "start": 4.38,
+      "end": 4.94
+    },
+    {
+      "word": "Support",
+      "start": 5.64,
+      "end": 5.86
+    },
+    {
+      "word": "engineers",
+      "start": 5.86,
+      "end": 6.32
+    },
+    {
+      "word": "lose",
+      "start": 6.32,
+      "end": 6.76
+    },
+    {
+      "word": "hours",
+      "start": 6.76,
+      "end": 7.12
+    },
+    {
+      "word": "each",
+      "start": 7.12,
+      "end": 7.52
+    },
+    {
+      "word": "week,",
+      "start": 7.52,
+      "end": 7.84
+    },
+    {
+      "word": "copper",
+      "start": 8.04,
+      "end": 8.1
+    },
+    {
+      "word": "-pasting",
+      "start": 8.1,
+      "end": 8.44
+    },
+    {
+      "word": "error",
+      "start": 8.44,
+      "end": 8.8
+    },
+    {
+      "word": "logs,",
+      "start": 8.8,
+      "end": 9.2
+    },
+    {
+      "word": "customer",
+      "start": 9.98,
+      "end": 10.0
+    },
+    {
+      "word": "emails,",
+      "start": 10.0,
+      "end": 10.5
+    },
+    {
+      "word": "and",
+      "start": 10.88,
+      "end": 11.08
+    },
+    {
+      "word": "duplicate",
+      "start": 11.08,
+      "end": 11.42
+    },
+    {
+      "word": "tickets",
+      "start": 11.42,
+      "end": 11.92
+    },
+    {
+      "word": "between",
+      "start": 11.92,
+      "end": 12.34
+    },
+    {
+      "word": "tabs.",
+      "start": 12.34,
+      "end": 12.74
+    },
+    {
+      "word": "That",
+      "start": 13.12,
+      "end": 13.32
+    },
+    {
+      "word": "manual",
+      "start": 13.32,
+      "end": 13.66
+    },
+    {
+      "word": "data",
+      "start": 13.66,
+      "end": 14.04
+    },
+    {
+      "word": "transfer",
+      "start": 14.04,
+      "end": 14.58
+    },
+    {
+      "word": "creates",
+      "start": 14.58,
+      "end": 15.06
+    },
+    {
+      "word": "fragmented",
+      "start": 15.06,
+      "end": 15.58
+    },
+    {
+      "word": "issue",
+      "start": 15.58,
+      "end": 16.0
+    },
+    {
+      "word": "descriptions",
+      "start": 16.0,
+      "end": 16.56
+    },
+    {
+      "word": "and",
+      "start": 16.56,
+      "end": 17.08
+    },
+    {
+      "word": "leaves",
+      "start": 17.08,
+      "end": 17.36
+    },
+    {
+      "word": "customer",
+      "start": 17.36,
+      "end": 17.8
+    },
+    {
+      "word": "tickets",
+      "start": 17.8,
+      "end": 18.26
+    },
+    {
+      "word": "hanging",
+      "start": 18.26,
+      "end": 18.62
+    },
+    {
+      "word": "when",
+      "start": 18.62,
+      "end": 18.92
+    },
+    {
+      "word": "fixes",
+      "start": 18.92,
+      "end": 19.26
+    },
+    {
+      "word": "deploy.",
+      "start": 19.26,
+      "end": 19.9
+    },
+    {
+      "word": "Linear",
+      "start": 20.46,
+      "end": 20.7
+    },
+    {
+      "word": "customer",
+      "start": 20.7,
+      "end": 21.16
+    },
+    {
+      "word": "requests",
+      "start": 21.16,
+      "end": 21.62
+    },
+    {
+      "word": "links",
+      "start": 21.62,
+      "end": 22.06
+    },
+    {
+      "word": "Zendesk",
+      "start": 22.06,
+      "end": 22.56
+    },
+    {
+      "word": "tickets",
+      "start": 22.56,
+      "end": 22.96
+    },
+    {
+      "word": "directly",
+      "start": 22.96,
+      "end": 23.4
+    },
+    {
+      "word": "to",
+      "start": 23.4,
+      "end": 23.76
+    },
+    {
+      "word": "engineering",
+      "start": 23.76,
+      "end": 24.2
+    },
+    {
+      "word": "cycles",
+      "start": 24.2,
+      "end": 24.68
+    },
+    {
+      "word": "and",
+      "start": 24.68,
+      "end": 25.28
+    },
+    {
+      "word": "auto",
+      "start": 25.28,
+      "end": 25.5
+    },
+    {
+      "word": "-notifies",
+      "start": 25.5,
+      "end": 26.02
+    },
+    {
+      "word": "reps",
+      "start": 26.02,
+      "end": 26.38
+    },
+    {
+      "word": "upon",
+      "start": 26.38,
+      "end": 26.7
+    },
+    {
+      "word": "deployment.",
+      "start": 26.7,
+      "end": 27.2
+    },
+    {
+      "word": "You",
+      "start": 27.2,
+      "end": 27.98
+    },
+    {
+      "word": "close",
+      "start": 27.98,
+      "end": 28.26
+    },
+    {
+      "word": "the",
+      "start": 28.26,
+      "end": 28.78
+    },
+    {
+      "word": "customer",
+      "start": 28.78,
+      "end": 28.78
+    },
+    {
+      "word": "feedback",
+      "start": 28.78,
+      "end": 29.24
+    },
+    {
+      "word": "loop",
+      "start": 29.24,
+      "end": 29.62
+    },
+    {
+      "word": "seamlessly.",
+      "start": 29.62,
+      "end": 30.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new Linear features that keep product launches on schedule effortlessly.",
+      "line2": "LINEAR ENGINEERING VELOCITY INSIGHTS",
+      "tag": "\ud83d\uded1 Linear Insights update for software engineering velocity tracking",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Linear Insights update for software engineering velocity tracking",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Linear Insights update for software engineering velocity tracking",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Linear Insights update for software engineering velocity tracking"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Linear Insights update for software engineering velocity tracking",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

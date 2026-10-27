@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Notion 3.0 workspace automation updates and native database triggers",
+  "text": "Notion just released their biggest automation update of the entire year. Operations managers waste hours updating project statuses, pinging teammates on Slack, and duplicating database rows. Manual board maintenance causes missed task handoffs and messy discrepancies across client roadmaps. Notion\u2019s native triggers now auto-assign owners, update linked child properties, and send customized Slack alerts the moment statuses switch. Your workspace runs autonomously without third-party connector costs.",
+  "duration": 31.141,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Notion",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "just",
+      "start": 0.42,
+      "end": 0.74
+    },
+    {
+      "word": "released",
+      "start": 0.74,
+      "end": 1.16
+    },
+    {
+      "word": "their",
+      "start": 1.16,
+      "end": 1.48
+    },
+    {
+      "word": "biggest",
+      "start": 1.48,
+      "end": 1.8
+    },
+    {
+      "word": "automation",
+      "start": 1.8,
+      "end": 2.32
+    },
+    {
+      "word": "update",
+      "start": 2.32,
+      "end": 2.7
+    },
+    {
+      "word": "of",
+      "start": 2.7,
+      "end": 2.9
+    },
+    {
+      "word": "the",
+      "start": 2.9,
+      "end": 3.08
+    },
+    {
+      "word": "entire",
+      "start": 3.08,
+      "end": 3.48
+    },
+    {
+      "word": "year.",
+      "start": 3.48,
+      "end": 4.12
+    },
+    {
+      "word": "Operations",
+      "start": 4.78,
+      "end": 4.9
+    },
+    {
+      "word": "managers",
+      "start": 4.9,
+      "end": 5.5
+    },
+    {
+      "word": "waste",
+      "start": 5.5,
+      "end": 5.96
+    },
+    {
+      "word": "hours",
+      "start": 5.96,
+      "end": 6.38
+    },
+    {
+      "word": "updating",
+      "start": 6.38,
+      "end": 6.8
+    },
+    {
+      "word": "project",
+      "start": 6.8,
+      "end": 7.32
+    },
+    {
+      "word": "statuses,",
+      "start": 7.32,
+      "end": 7.96
+    },
+    {
+      "word": "pinging",
+      "start": 8.44,
+      "end": 8.64
+    },
+    {
+      "word": "teammates",
+      "start": 8.64,
+      "end": 8.98
+    },
+    {
+      "word": "on",
+      "start": 8.98,
+      "end": 9.4
+    },
+    {
+      "word": "Slack",
+      "start": 9.4,
+      "end": 9.84
+    },
+    {
+      "word": "and",
+      "start": 9.84,
+      "end": 10.32
+    },
+    {
+      "word": "duplicating",
+      "start": 10.32,
+      "end": 10.8
+    },
+    {
+      "word": "database",
+      "start": 10.8,
+      "end": 11.24
+    },
+    {
+      "word": "rows.",
+      "start": 11.24,
+      "end": 11.92
+    },
+    {
+      "word": "Manual",
+      "start": 12.74,
+      "end": 12.74
+    },
+    {
+      "word": "board",
+      "start": 12.74,
+      "end": 13.06
+    },
+    {
+      "word": "maintenance",
+      "start": 13.06,
+      "end": 13.4
+    },
+    {
+      "word": "causes",
+      "start": 13.4,
+      "end": 13.96
+    },
+    {
+      "word": "missed",
+      "start": 13.96,
+      "end": 14.32
+    },
+    {
+      "word": "task",
+      "start": 14.32,
+      "end": 14.66
+    },
+    {
+      "word": "handoffs",
+      "start": 14.66,
+      "end": 15.1
+    },
+    {
+      "word": "and",
+      "start": 15.1,
+      "end": 15.56
+    },
+    {
+      "word": "messy",
+      "start": 15.56,
+      "end": 15.74
+    },
+    {
+      "word": "discrepancies",
+      "start": 15.74,
+      "end": 16.36
+    },
+    {
+      "word": "across",
+      "start": 16.36,
+      "end": 16.88
+    },
+    {
+      "word": "client",
+      "start": 16.88,
+      "end": 17.26
+    },
+    {
+      "word": "roadmaps.",
+      "start": 17.26,
+      "end": 17.86
+    },
+    {
+      "word": "Notion's",
+      "start": 18.3,
+      "end": 19.04
+    },
+    {
+      "word": "native",
+      "start": 19.04,
+      "end": 19.04
+    },
+    {
+      "word": "triggers",
+      "start": 19.04,
+      "end": 19.38
+    },
+    {
+      "word": "now",
+      "start": 19.38,
+      "end": 19.82
+    },
+    {
+      "word": "auto",
+      "start": 19.82,
+      "end": 20.06
+    },
+    {
+      "word": "assign",
+      "start": 20.06,
+      "end": 20.44
+    },
+    {
+      "word": "owners,",
+      "start": 20.44,
+      "end": 20.94
+    },
+    {
+      "word": "update",
+      "start": 21.38,
+      "end": 21.62
+    },
+    {
+      "word": "linked",
+      "start": 21.62,
+      "end": 21.96
+    },
+    {
+      "word": "child",
+      "start": 21.96,
+      "end": 22.38
+    },
+    {
+      "word": "properties",
+      "start": 22.38,
+      "end": 22.82
+    },
+    {
+      "word": "and",
+      "start": 22.82,
+      "end": 23.38
+    },
+    {
+      "word": "send",
+      "start": 23.38,
+      "end": 23.72
+    },
+    {
+      "word": "customized",
+      "start": 23.72,
+      "end": 24.24
+    },
+    {
+      "word": "Slack",
+      "start": 24.24,
+      "end": 24.76
+    },
+    {
+      "word": "alerts",
+      "start": 24.76,
+      "end": 25.02
+    },
+    {
+      "word": "the",
+      "start": 25.02,
+      "end": 25.32
+    },
+    {
+      "word": "moment",
+      "start": 25.32,
+      "end": 25.64
+    },
+    {
+      "word": "statuses",
+      "start": 25.64,
+      "end": 26.14
+    },
+    {
+      "word": "switch.",
+      "start": 26.14,
+      "end": 26.64
+    },
+    {
+      "word": "Your",
+      "start": 26.64,
+      "end": 27.42
+    },
+    {
+      "word": "workspace",
+      "start": 27.42,
+      "end": 27.78
+    },
+    {
+      "word": "runs",
+      "start": 27.78,
+      "end": 28.3
+    },
+    {
+      "word": "autonomously",
+      "start": 28.3,
+      "end": 28.98
+    },
+    {
+      "word": "without",
+      "start": 28.98,
+      "end": 29.4
+    },
+    {
+      "word": "third",
+      "start": 29.4,
+      "end": 29.78
+    },
+    {
+      "word": "party",
+      "start": 29.78,
+      "end": 30.16
+    },
+    {
+      "word": "connector",
+      "start": 30.16,
+      "end": 30.58
+    },
+    {
+      "word": "costs.",
+      "start": 30.58,
+      "end": 31.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Notion just released their biggest automation update of the entire year.",
+      "line2": "NOTION 3.0 DATABASE TRIGGERS",
+      "tag": "\ud83d\uded1 Notion 3.0 workspace automation updates and native database triggers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Notion 3.0 workspace automation updates and native database triggers",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Notion 3.0 workspace automation updates and native database triggers",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

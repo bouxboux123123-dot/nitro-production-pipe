@@ -1,0 +1,391 @@
+{
+  "page": "page-06",
+  "idea": "Loom video comment threading workflow for async design reviews",
+  "text": "Give your product designers precise visual feedback without scheduling another painful screen share. Typing long feedback bullet points in Slack leads to confusion, multiple revisions, and misaligned expectations. Meanwhile, waiting to sync calendars across different time zones delays production sprints by several days. Recording a quick Loom walkthrough with timestamped comments lets designers click directly to exact layout fixes. Creative approvals wrap up seventy percent faster.",
+  "duration": 29.413,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Give",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "your",
+      "start": 0.2,
+      "end": 0.42
+    },
+    {
+      "word": "product",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "designers",
+      "start": 0.66,
+      "end": 1.1
+    },
+    {
+      "word": "precise",
+      "start": 1.1,
+      "end": 1.68
+    },
+    {
+      "word": "visual",
+      "start": 1.68,
+      "end": 2.06
+    },
+    {
+      "word": "feedback",
+      "start": 2.06,
+      "end": 2.6
+    },
+    {
+      "word": "without",
+      "start": 2.6,
+      "end": 3.18
+    },
+    {
+      "word": "scheduling",
+      "start": 3.18,
+      "end": 3.64
+    },
+    {
+      "word": "another",
+      "start": 3.64,
+      "end": 4.12
+    },
+    {
+      "word": "painful",
+      "start": 4.12,
+      "end": 4.48
+    },
+    {
+      "word": "screen",
+      "start": 4.48,
+      "end": 4.96
+    },
+    {
+      "word": "share.",
+      "start": 4.96,
+      "end": 5.48
+    },
+    {
+      "word": "Typing",
+      "start": 6.08,
+      "end": 6.28
+    },
+    {
+      "word": "long",
+      "start": 6.28,
+      "end": 6.68
+    },
+    {
+      "word": "feedback",
+      "start": 6.68,
+      "end": 7.08
+    },
+    {
+      "word": "bullet",
+      "start": 7.08,
+      "end": 7.48
+    },
+    {
+      "word": "points",
+      "start": 7.48,
+      "end": 7.84
+    },
+    {
+      "word": "in",
+      "start": 7.84,
+      "end": 8.14
+    },
+    {
+      "word": "slack",
+      "start": 8.14,
+      "end": 8.4
+    },
+    {
+      "word": "leads",
+      "start": 8.4,
+      "end": 8.72
+    },
+    {
+      "word": "to",
+      "start": 8.72,
+      "end": 9.02
+    },
+    {
+      "word": "confusion,",
+      "start": 9.02,
+      "end": 9.48
+    },
+    {
+      "word": "multiple",
+      "start": 10.28,
+      "end": 10.28
+    },
+    {
+      "word": "revisions,",
+      "start": 10.28,
+      "end": 10.82
+    },
+    {
+      "word": "and",
+      "start": 11.26,
+      "end": 11.44
+    },
+    {
+      "word": "misaligned",
+      "start": 11.44,
+      "end": 11.96
+    },
+    {
+      "word": "expectations.",
+      "start": 11.96,
+      "end": 12.78
+    },
+    {
+      "word": "Meanwhile,",
+      "start": 13.22,
+      "end": 13.6
+    },
+    {
+      "word": "waiting",
+      "start": 13.8,
+      "end": 14.06
+    },
+    {
+      "word": "to",
+      "start": 14.06,
+      "end": 14.32
+    },
+    {
+      "word": "sync",
+      "start": 14.32,
+      "end": 14.58
+    },
+    {
+      "word": "calendars",
+      "start": 14.58,
+      "end": 14.92
+    },
+    {
+      "word": "across",
+      "start": 14.92,
+      "end": 15.42
+    },
+    {
+      "word": "different",
+      "start": 15.42,
+      "end": 15.76
+    },
+    {
+      "word": "time",
+      "start": 15.76,
+      "end": 16.12
+    },
+    {
+      "word": "zones",
+      "start": 16.12,
+      "end": 16.6
+    },
+    {
+      "word": "delays",
+      "start": 16.6,
+      "end": 17.12
+    },
+    {
+      "word": "production",
+      "start": 17.12,
+      "end": 17.62
+    },
+    {
+      "word": "sprints",
+      "start": 17.62,
+      "end": 18.1
+    },
+    {
+      "word": "by",
+      "start": 18.1,
+      "end": 18.34
+    },
+    {
+      "word": "several",
+      "start": 18.34,
+      "end": 18.58
+    },
+    {
+      "word": "days.",
+      "start": 18.58,
+      "end": 19.08
+    },
+    {
+      "word": "Recording",
+      "start": 19.72,
+      "end": 19.94
+    },
+    {
+      "word": "a",
+      "start": 19.94,
+      "end": 20.26
+    },
+    {
+      "word": "quick",
+      "start": 20.26,
+      "end": 20.46
+    },
+    {
+      "word": "loom",
+      "start": 20.46,
+      "end": 20.76
+    },
+    {
+      "word": "walkthrough",
+      "start": 20.76,
+      "end": 21.28
+    },
+    {
+      "word": "with",
+      "start": 21.28,
+      "end": 21.58
+    },
+    {
+      "word": "timestamp",
+      "start": 21.58,
+      "end": 21.92
+    },
+    {
+      "word": "comments,",
+      "start": 21.92,
+      "end": 22.56
+    },
+    {
+      "word": "let's",
+      "start": 23.06,
+      "end": 23.28
+    },
+    {
+      "word": "designers",
+      "start": 23.28,
+      "end": 23.72
+    },
+    {
+      "word": "click",
+      "start": 23.72,
+      "end": 24.1
+    },
+    {
+      "word": "directly",
+      "start": 24.1,
+      "end": 24.5
+    },
+    {
+      "word": "to",
+      "start": 24.5,
+      "end": 24.86
+    },
+    {
+      "word": "exact",
+      "start": 24.86,
+      "end": 25.22
+    },
+    {
+      "word": "layout",
+      "start": 25.22,
+      "end": 25.54
+    },
+    {
+      "word": "fixes.",
+      "start": 25.54,
+      "end": 26.1
+    },
+    {
+      "word": "Creative",
+      "start": 26.1,
+      "end": 27.04
+    },
+    {
+      "word": "approvals",
+      "start": 27.04,
+      "end": 27.56
+    },
+    {
+      "word": "wrap",
+      "start": 27.56,
+      "end": 27.9
+    },
+    {
+      "word": "up",
+      "start": 27.9,
+      "end": 28.16
+    },
+    {
+      "word": "70",
+      "start": 28.16,
+      "end": 28.56
+    },
+    {
+      "word": "%",
+      "start": 28.56,
+      "end": 28.98
+    },
+    {
+      "word": "faster.",
+      "start": 28.98,
+      "end": 29.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How to give precise design feedback without scheduling a 45-minute screen share.",
+      "line2": "ASYNC DESIGN REVIEWS",
+      "tag": "\ud83d\uded1 Loom video comment threading workflow for async design reviews",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Loom video comment threading workflow for async design reviews",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Loom video comment threading workflow for async design reviews",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Loom video comment threading workflow for async design reviews",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

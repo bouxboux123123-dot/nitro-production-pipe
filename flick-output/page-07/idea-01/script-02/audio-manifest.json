@@ -1,0 +1,416 @@
+{
+  "page": "page-07",
+  "idea": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+  "text": "Here is the simple tracking method that reveals exactly where your high-leverage time goes. Most founders assume they spend forty hours on product growth, but reactive busywork devours their afternoons. Untracked context switching between email, hiring pipelines, and customer bugs shreds your cognitive focus. Run Rize in the background to automatically score focus quality and pipe category metrics into Airtable. This eliminates invisible operational leaks and protects your schedule.",
+  "duration": 29.519,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "is",
+      "start": 0.3,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.76
+    },
+    {
+      "word": "simple",
+      "start": 0.76,
+      "end": 0.98
+    },
+    {
+      "word": "tracking",
+      "start": 0.98,
+      "end": 1.32
+    },
+    {
+      "word": "method",
+      "start": 1.32,
+      "end": 1.68
+    },
+    {
+      "word": "that",
+      "start": 1.68,
+      "end": 1.98
+    },
+    {
+      "word": "reveals",
+      "start": 1.98,
+      "end": 2.28
+    },
+    {
+      "word": "exactly",
+      "start": 2.28,
+      "end": 2.94
+    },
+    {
+      "word": "where",
+      "start": 2.94,
+      "end": 3.2
+    },
+    {
+      "word": "your",
+      "start": 3.2,
+      "end": 3.52
+    },
+    {
+      "word": "high",
+      "start": 3.52,
+      "end": 3.6
+    },
+    {
+      "word": "leverage",
+      "start": 3.6,
+      "end": 3.94
+    },
+    {
+      "word": "time",
+      "start": 3.94,
+      "end": 4.42
+    },
+    {
+      "word": "goes.",
+      "start": 4.42,
+      "end": 4.86
+    },
+    {
+      "word": "Most",
+      "start": 5.42,
+      "end": 5.72
+    },
+    {
+      "word": "founders",
+      "start": 5.72,
+      "end": 6.14
+    },
+    {
+      "word": "assume",
+      "start": 6.14,
+      "end": 6.52
+    },
+    {
+      "word": "they",
+      "start": 6.52,
+      "end": 6.76
+    },
+    {
+      "word": "spend",
+      "start": 6.76,
+      "end": 7.08
+    },
+    {
+      "word": "40",
+      "start": 7.08,
+      "end": 7.4
+    },
+    {
+      "word": "hours",
+      "start": 7.4,
+      "end": 7.72
+    },
+    {
+      "word": "on",
+      "start": 7.72,
+      "end": 8.06
+    },
+    {
+      "word": "product",
+      "start": 8.06,
+      "end": 8.36
+    },
+    {
+      "word": "growth,",
+      "start": 8.36,
+      "end": 8.76
+    },
+    {
+      "word": "but",
+      "start": 9.02,
+      "end": 9.28
+    },
+    {
+      "word": "reactive",
+      "start": 9.28,
+      "end": 9.72
+    },
+    {
+      "word": "busy",
+      "start": 9.72,
+      "end": 10.06
+    },
+    {
+      "word": "work",
+      "start": 10.06,
+      "end": 10.3
+    },
+    {
+      "word": "devours",
+      "start": 10.3,
+      "end": 10.78
+    },
+    {
+      "word": "their",
+      "start": 10.78,
+      "end": 11.12
+    },
+    {
+      "word": "afternoons.",
+      "start": 11.12,
+      "end": 11.78
+    },
+    {
+      "word": "Untract",
+      "start": 12.26,
+      "end": 12.56
+    },
+    {
+      "word": "context",
+      "start": 12.56,
+      "end": 13.06
+    },
+    {
+      "word": "switching",
+      "start": 13.06,
+      "end": 13.52
+    },
+    {
+      "word": "between",
+      "start": 13.52,
+      "end": 13.92
+    },
+    {
+      "word": "email,",
+      "start": 13.92,
+      "end": 14.3
+    },
+    {
+      "word": "hiring",
+      "start": 14.92,
+      "end": 14.92
+    },
+    {
+      "word": "pipelines,",
+      "start": 14.92,
+      "end": 15.44
+    },
+    {
+      "word": "and",
+      "start": 15.84,
+      "end": 16.34
+    },
+    {
+      "word": "customer",
+      "start": 16.34,
+      "end": 16.42
+    },
+    {
+      "word": "bugs",
+      "start": 16.42,
+      "end": 16.9
+    },
+    {
+      "word": "shreds",
+      "start": 16.9,
+      "end": 17.46
+    },
+    {
+      "word": "your",
+      "start": 17.46,
+      "end": 17.66
+    },
+    {
+      "word": "cognitive",
+      "start": 17.66,
+      "end": 18.04
+    },
+    {
+      "word": "focus.",
+      "start": 18.04,
+      "end": 18.74
+    },
+    {
+      "word": "Run",
+      "start": 19.26,
+      "end": 19.6
+    },
+    {
+      "word": "rise",
+      "start": 19.6,
+      "end": 19.98
+    },
+    {
+      "word": "in",
+      "start": 19.98,
+      "end": 20.18
+    },
+    {
+      "word": "the",
+      "start": 20.18,
+      "end": 20.3
+    },
+    {
+      "word": "background",
+      "start": 20.3,
+      "end": 20.62
+    },
+    {
+      "word": "to",
+      "start": 20.62,
+      "end": 21.12
+    },
+    {
+      "word": "automatically",
+      "start": 21.12,
+      "end": 21.52
+    },
+    {
+      "word": "score",
+      "start": 21.52,
+      "end": 22.04
+    },
+    {
+      "word": "focus",
+      "start": 22.04,
+      "end": 22.5
+    },
+    {
+      "word": "quality",
+      "start": 22.5,
+      "end": 22.96
+    },
+    {
+      "word": "and",
+      "start": 22.96,
+      "end": 23.26
+    },
+    {
+      "word": "pipe",
+      "start": 23.26,
+      "end": 23.58
+    },
+    {
+      "word": "category",
+      "start": 23.58,
+      "end": 23.92
+    },
+    {
+      "word": "metrics",
+      "start": 23.92,
+      "end": 24.34
+    },
+    {
+      "word": "into",
+      "start": 24.34,
+      "end": 24.68
+    },
+    {
+      "word": "irritable.",
+      "start": 24.68,
+      "end": 25.22
+    },
+    {
+      "word": "This",
+      "start": 25.68,
+      "end": 25.9
+    },
+    {
+      "word": "eliminates",
+      "start": 25.9,
+      "end": 26.38
+    },
+    {
+      "word": "invisible",
+      "start": 26.38,
+      "end": 27.04
+    },
+    {
+      "word": "operational",
+      "start": 27.04,
+      "end": 27.7
+    },
+    {
+      "word": "leaks",
+      "start": 27.7,
+      "end": 28.04
+    },
+    {
+      "word": "and",
+      "start": 28.04,
+      "end": 28.5
+    },
+    {
+      "word": "protects",
+      "start": 28.5,
+      "end": 28.84
+    },
+    {
+      "word": "your",
+      "start": 28.84,
+      "end": 29.1
+    },
+    {
+      "word": "schedule.",
+      "start": 29.1,
+      "end": 29.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The simple tracking method that reveals exactly where your high-leverage time goes.",
+      "line2": "SAVE 10 FOUNDER HOURS",
+      "tag": "\ud83d\uded1 Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

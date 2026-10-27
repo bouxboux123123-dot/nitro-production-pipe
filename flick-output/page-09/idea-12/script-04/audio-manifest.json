@@ -1,0 +1,391 @@
+{
+  "page": "page-09",
+  "idea": "Framer vs Webflow: which visual website builder should you build on",
+  "text": "Here is the honest truth about hosting costs, animations, and SEO across Framer and Webflow. Freelancers get blindsided when Webflow workspace add-ons, CMS tiers, and traffic overages spike monthly bills. Custom animations inside Webflow frequently require complex JavaScript libraries that hurt mobile page speeds. Framer packages hardware-accelerated motion, global CDN hosting, and automated metadata into one flat rate. You protect your agency profit margins.",
+  "duration": 31.503,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "is",
+      "start": 0.2,
+      "end": 0.42
+    },
+    {
+      "word": "the",
+      "start": 0.42,
+      "end": 0.58
+    },
+    {
+      "word": "honest",
+      "start": 0.58,
+      "end": 0.82
+    },
+    {
+      "word": "truth",
+      "start": 0.82,
+      "end": 1.1
+    },
+    {
+      "word": "about",
+      "start": 1.1,
+      "end": 1.42
+    },
+    {
+      "word": "hosting",
+      "start": 1.42,
+      "end": 1.8
+    },
+    {
+      "word": "costs,",
+      "start": 1.8,
+      "end": 2.3
+    },
+    {
+      "word": "animations,",
+      "start": 2.88,
+      "end": 2.94
+    },
+    {
+      "word": "and",
+      "start": 3.44,
+      "end": 3.68
+    },
+    {
+      "word": "SEO",
+      "start": 3.68,
+      "end": 4.0
+    },
+    {
+      "word": "across",
+      "start": 4.0,
+      "end": 4.52
+    },
+    {
+      "word": "Framer",
+      "start": 4.52,
+      "end": 4.9
+    },
+    {
+      "word": "and",
+      "start": 4.9,
+      "end": 5.06
+    },
+    {
+      "word": "Webflow.",
+      "start": 5.06,
+      "end": 5.64
+    },
+    {
+      "word": "Freelancers",
+      "start": 6.18,
+      "end": 6.62
+    },
+    {
+      "word": "get",
+      "start": 6.62,
+      "end": 6.98
+    },
+    {
+      "word": "blindsided",
+      "start": 6.98,
+      "end": 7.66
+    },
+    {
+      "word": "when",
+      "start": 7.66,
+      "end": 7.94
+    },
+    {
+      "word": "Webflow",
+      "start": 7.94,
+      "end": 8.38
+    },
+    {
+      "word": "workspace",
+      "start": 8.38,
+      "end": 8.82
+    },
+    {
+      "word": "add",
+      "start": 8.82,
+      "end": 9.22
+    },
+    {
+      "word": "-ons,",
+      "start": 9.22,
+      "end": 9.66
+    },
+    {
+      "word": "CMS",
+      "start": 10.28,
+      "end": 10.34
+    },
+    {
+      "word": "tiers,",
+      "start": 10.34,
+      "end": 10.96
+    },
+    {
+      "word": "and",
+      "start": 11.22,
+      "end": 11.36
+    },
+    {
+      "word": "traffic",
+      "start": 11.36,
+      "end": 11.68
+    },
+    {
+      "word": "overages",
+      "start": 11.68,
+      "end": 12.32
+    },
+    {
+      "word": "spike",
+      "start": 12.32,
+      "end": 12.9
+    },
+    {
+      "word": "monthly",
+      "start": 12.9,
+      "end": 13.3
+    },
+    {
+      "word": "bills.",
+      "start": 13.3,
+      "end": 13.76
+    },
+    {
+      "word": "Custom",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "animations",
+      "start": 14.46,
+      "end": 15.04
+    },
+    {
+      "word": "inside",
+      "start": 15.04,
+      "end": 15.7
+    },
+    {
+      "word": "Webflow",
+      "start": 15.7,
+      "end": 16.32
+    },
+    {
+      "word": "frequently",
+      "start": 16.32,
+      "end": 16.82
+    },
+    {
+      "word": "require",
+      "start": 16.82,
+      "end": 17.36
+    },
+    {
+      "word": "complex",
+      "start": 17.36,
+      "end": 18.04
+    },
+    {
+      "word": "JavaScript",
+      "start": 18.04,
+      "end": 18.62
+    },
+    {
+      "word": "libraries",
+      "start": 18.62,
+      "end": 19.26
+    },
+    {
+      "word": "that",
+      "start": 19.26,
+      "end": 19.66
+    },
+    {
+      "word": "hurt",
+      "start": 19.66,
+      "end": 19.92
+    },
+    {
+      "word": "mobile",
+      "start": 19.92,
+      "end": 20.34
+    },
+    {
+      "word": "page",
+      "start": 20.34,
+      "end": 20.72
+    },
+    {
+      "word": "speeds.",
+      "start": 20.72,
+      "end": 21.24
+    },
+    {
+      "word": "Framer",
+      "start": 22.08,
+      "end": 22.28
+    },
+    {
+      "word": "packages",
+      "start": 22.28,
+      "end": 22.7
+    },
+    {
+      "word": "hardware",
+      "start": 22.7,
+      "end": 23.26
+    },
+    {
+      "word": "accelerated",
+      "start": 23.26,
+      "end": 23.9
+    },
+    {
+      "word": "motion,",
+      "start": 23.9,
+      "end": 24.46
+    },
+    {
+      "word": "global",
+      "start": 25.16,
+      "end": 25.18
+    },
+    {
+      "word": "CDN",
+      "start": 25.18,
+      "end": 25.72
+    },
+    {
+      "word": "hosting,",
+      "start": 25.72,
+      "end": 26.16
+    },
+    {
+      "word": "and",
+      "start": 26.56,
+      "end": 26.86
+    },
+    {
+      "word": "automated",
+      "start": 26.86,
+      "end": 27.08
+    },
+    {
+      "word": "metadata",
+      "start": 27.08,
+      "end": 27.6
+    },
+    {
+      "word": "into",
+      "start": 27.6,
+      "end": 28.02
+    },
+    {
+      "word": "one",
+      "start": 28.02,
+      "end": 28.3
+    },
+    {
+      "word": "flat",
+      "start": 28.3,
+      "end": 28.58
+    },
+    {
+      "word": "rate.",
+      "start": 28.58,
+      "end": 28.88
+    },
+    {
+      "word": "You",
+      "start": 28.88,
+      "end": 29.44
+    },
+    {
+      "word": "protect",
+      "start": 29.44,
+      "end": 29.78
+    },
+    {
+      "word": "your",
+      "start": 29.78,
+      "end": 30.06
+    },
+    {
+      "word": "agency",
+      "start": 30.06,
+      "end": 30.42
+    },
+    {
+      "word": "profit",
+      "start": 30.42,
+      "end": 30.86
+    },
+    {
+      "word": "margins.",
+      "start": 30.86,
+      "end": 31.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The honest truth about hosting costs, animations, and SEO across Framer and Webflow.",
+      "line2": "FRAMER VS WEBFLOW",
+      "tag": "\ud83d\uded1 Framer vs Webflow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Framer vs Webflow",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Framer vs Webflow",
+        "subtitle": "Framer vs Webflow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Framer vs Webflow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Framer vs Webflow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Framer vs Webflow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

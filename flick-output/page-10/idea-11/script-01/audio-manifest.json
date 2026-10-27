@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Perplexity AI computer assistant and browser automation tools",
+  "text": "Perplexity just previewed an autonomous web browser assistant that actually takes action for you. Analysts lose hours every week copying competitor pricing and compiling data across dozens of open tabs. Standard search engines only provide blue links, leaving you to manually extract and verify critical details. Perplexity's autonomous agent visits target URLs, aggregates cited facts, and structures output tables without manual scraping. You cut research cycles by seventy percent.",
+  "duration": 30.927,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "perplexity",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "word": "just",
+      "start": 0.62,
+      "end": 0.98
+    },
+    {
+      "word": "previewed",
+      "start": 0.98,
+      "end": 1.54
+    },
+    {
+      "word": "an",
+      "start": 1.54,
+      "end": 1.54
+    },
+    {
+      "word": "autonomous",
+      "start": 1.54,
+      "end": 2.02
+    },
+    {
+      "word": "web",
+      "start": 2.02,
+      "end": 2.4
+    },
+    {
+      "word": "browser",
+      "start": 2.4,
+      "end": 2.74
+    },
+    {
+      "word": "assistant",
+      "start": 2.74,
+      "end": 3.28
+    },
+    {
+      "word": "that",
+      "start": 3.28,
+      "end": 3.76
+    },
+    {
+      "word": "actually",
+      "start": 3.76,
+      "end": 4.2
+    },
+    {
+      "word": "takes",
+      "start": 4.2,
+      "end": 4.56
+    },
+    {
+      "word": "action",
+      "start": 4.56,
+      "end": 4.86
+    },
+    {
+      "word": "for",
+      "start": 4.86,
+      "end": 5.16
+    },
+    {
+      "word": "you.",
+      "start": 5.16,
+      "end": 5.9
+    },
+    {
+      "word": "Analysts",
+      "start": 6.24,
+      "end": 6.52
+    },
+    {
+      "word": "lose",
+      "start": 6.52,
+      "end": 6.84
+    },
+    {
+      "word": "hours",
+      "start": 6.84,
+      "end": 7.22
+    },
+    {
+      "word": "every",
+      "start": 7.22,
+      "end": 7.66
+    },
+    {
+      "word": "week",
+      "start": 7.66,
+      "end": 8.0
+    },
+    {
+      "word": "copying",
+      "start": 8.0,
+      "end": 8.4
+    },
+    {
+      "word": "competitor",
+      "start": 8.4,
+      "end": 8.9
+    },
+    {
+      "word": "pricing",
+      "start": 8.9,
+      "end": 9.38
+    },
+    {
+      "word": "and",
+      "start": 9.38,
+      "end": 10.02
+    },
+    {
+      "word": "compiling",
+      "start": 10.02,
+      "end": 10.4
+    },
+    {
+      "word": "data",
+      "start": 10.4,
+      "end": 10.86
+    },
+    {
+      "word": "across",
+      "start": 10.86,
+      "end": 11.24
+    },
+    {
+      "word": "dozens",
+      "start": 11.24,
+      "end": 11.58
+    },
+    {
+      "word": "of",
+      "start": 11.58,
+      "end": 11.86
+    },
+    {
+      "word": "open",
+      "start": 11.86,
+      "end": 12.12
+    },
+    {
+      "word": "tabs.",
+      "start": 12.12,
+      "end": 12.6
+    },
+    {
+      "word": "Standard",
+      "start": 13.3,
+      "end": 13.3
+    },
+    {
+      "word": "search",
+      "start": 13.3,
+      "end": 13.76
+    },
+    {
+      "word": "engines",
+      "start": 13.76,
+      "end": 14.16
+    },
+    {
+      "word": "only",
+      "start": 14.16,
+      "end": 14.52
+    },
+    {
+      "word": "provide",
+      "start": 14.52,
+      "end": 14.96
+    },
+    {
+      "word": "blue",
+      "start": 14.96,
+      "end": 15.26
+    },
+    {
+      "word": "links",
+      "start": 15.26,
+      "end": 15.62
+    },
+    {
+      "word": "leaving",
+      "start": 15.62,
+      "end": 16.16
+    },
+    {
+      "word": "you",
+      "start": 16.16,
+      "end": 16.36
+    },
+    {
+      "word": "to",
+      "start": 16.36,
+      "end": 16.54
+    },
+    {
+      "word": "manually",
+      "start": 16.54,
+      "end": 16.96
+    },
+    {
+      "word": "extract",
+      "start": 16.96,
+      "end": 17.48
+    },
+    {
+      "word": "and",
+      "start": 17.48,
+      "end": 17.7
+    },
+    {
+      "word": "verify",
+      "start": 17.7,
+      "end": 18.08
+    },
+    {
+      "word": "critical",
+      "start": 18.08,
+      "end": 18.58
+    },
+    {
+      "word": "details.",
+      "start": 18.58,
+      "end": 19.2
+    },
+    {
+      "word": "Proplexity's",
+      "start": 19.9,
+      "end": 20.6
+    },
+    {
+      "word": "autonomous",
+      "start": 20.6,
+      "end": 21.04
+    },
+    {
+      "word": "agent",
+      "start": 21.04,
+      "end": 21.52
+    },
+    {
+      "word": "visits",
+      "start": 21.52,
+      "end": 21.88
+    },
+    {
+      "word": "target",
+      "start": 21.88,
+      "end": 22.36
+    },
+    {
+      "word": "URLs,",
+      "start": 22.36,
+      "end": 22.96
+    },
+    {
+      "word": "aggregates",
+      "start": 23.48,
+      "end": 24.0
+    },
+    {
+      "word": "cited",
+      "start": 24.0,
+      "end": 24.36
+    },
+    {
+      "word": "facts",
+      "start": 24.36,
+      "end": 24.88
+    },
+    {
+      "word": "and",
+      "start": 24.88,
+      "end": 25.32
+    },
+    {
+      "word": "structures",
+      "start": 25.32,
+      "end": 25.68
+    },
+    {
+      "word": "output",
+      "start": 25.68,
+      "end": 26.18
+    },
+    {
+      "word": "tables",
+      "start": 26.18,
+      "end": 26.7
+    },
+    {
+      "word": "without",
+      "start": 26.7,
+      "end": 27.08
+    },
+    {
+      "word": "manual",
+      "start": 27.08,
+      "end": 27.5
+    },
+    {
+      "word": "scraping.",
+      "start": 27.5,
+      "end": 28.0
+    },
+    {
+      "word": "You",
+      "start": 28.0,
+      "end": 28.64
+    },
+    {
+      "word": "cut",
+      "start": 28.64,
+      "end": 28.86
+    },
+    {
+      "word": "research",
+      "start": 28.86,
+      "end": 29.28
+    },
+    {
+      "word": "cycles",
+      "start": 29.28,
+      "end": 29.7
+    },
+    {
+      "word": "by",
+      "start": 29.7,
+      "end": 30.1
+    },
+    {
+      "word": "70%.",
+      "start": 30.1,
+      "end": 30.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Perplexity just previewed their autonomous web browser assistant.",
+      "line2": "PERPLEXITY BROWSER AUTOMATION TOOLS",
+      "tag": "\ud83d\uded1 Perplexity AI computer assistant and browser automation tools",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Perplexity AI computer assistant and browser automation tools",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Perplexity AI computer assistant and browser automation tools",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

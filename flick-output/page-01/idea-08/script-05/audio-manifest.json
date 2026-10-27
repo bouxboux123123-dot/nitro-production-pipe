@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Sales proposal to kickoff automation that spins up client folders in seconds",
+  "text": "How seven-figure agencies create unforgettable first impressions. Elite digital agencies do not send manual welcome emails or scramble to assemble client resources after contract signing. Unorganized onboarding handoffs create immediate client friction and raise doubts about your agency's professional standards. Automate the entire post-sale transition using Zapier to provision Drive assets, invite clients to Slack, and deliver agendas. You set enterprise-level operational standards from day one.",
+  "duration": 31.503,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "seven",
+      "start": 0.3,
+      "end": 0.66
+    },
+    {
+      "word": "figure",
+      "start": 0.66,
+      "end": 0.98
+    },
+    {
+      "word": "agencies",
+      "start": 0.98,
+      "end": 1.5
+    },
+    {
+      "word": "create",
+      "start": 1.5,
+      "end": 2.22
+    },
+    {
+      "word": "unforgettable",
+      "start": 2.22,
+      "end": 2.72
+    },
+    {
+      "word": "first",
+      "start": 2.72,
+      "end": 3.22
+    },
+    {
+      "word": "impressions.",
+      "start": 3.22,
+      "end": 3.98
+    },
+    {
+      "word": "Elite",
+      "start": 4.74,
+      "end": 4.74
+    },
+    {
+      "word": "digital",
+      "start": 4.74,
+      "end": 5.14
+    },
+    {
+      "word": "agencies",
+      "start": 5.14,
+      "end": 5.76
+    },
+    {
+      "word": "do",
+      "start": 5.76,
+      "end": 6.02
+    },
+    {
+      "word": "not",
+      "start": 6.02,
+      "end": 6.3
+    },
+    {
+      "word": "send",
+      "start": 6.3,
+      "end": 6.56
+    },
+    {
+      "word": "manual",
+      "start": 6.56,
+      "end": 6.98
+    },
+    {
+      "word": "welcome",
+      "start": 6.98,
+      "end": 7.46
+    },
+    {
+      "word": "emails",
+      "start": 7.46,
+      "end": 7.9
+    },
+    {
+      "word": "or",
+      "start": 7.9,
+      "end": 8.62
+    },
+    {
+      "word": "scramble",
+      "start": 8.62,
+      "end": 8.98
+    },
+    {
+      "word": "to",
+      "start": 8.98,
+      "end": 9.38
+    },
+    {
+      "word": "assemble",
+      "start": 9.38,
+      "end": 9.74
+    },
+    {
+      "word": "client",
+      "start": 9.74,
+      "end": 10.14
+    },
+    {
+      "word": "resources",
+      "start": 10.14,
+      "end": 10.72
+    },
+    {
+      "word": "after",
+      "start": 10.72,
+      "end": 11.14
+    },
+    {
+      "word": "contract",
+      "start": 11.14,
+      "end": 11.6
+    },
+    {
+      "word": "signing.",
+      "start": 11.6,
+      "end": 12.06
+    },
+    {
+      "word": "An",
+      "start": 12.42,
+      "end": 12.6
+    },
+    {
+      "word": "organized",
+      "start": 12.6,
+      "end": 13.04
+    },
+    {
+      "word": "onboarding",
+      "start": 13.04,
+      "end": 13.7
+    },
+    {
+      "word": "handoffs",
+      "start": 13.7,
+      "end": 14.12
+    },
+    {
+      "word": "create",
+      "start": 14.12,
+      "end": 14.62
+    },
+    {
+      "word": "immediate",
+      "start": 14.62,
+      "end": 15.06
+    },
+    {
+      "word": "client",
+      "start": 15.06,
+      "end": 15.44
+    },
+    {
+      "word": "friction",
+      "start": 15.44,
+      "end": 15.82
+    },
+    {
+      "word": "and",
+      "start": 15.82,
+      "end": 16.34
+    },
+    {
+      "word": "raise",
+      "start": 16.34,
+      "end": 16.66
+    },
+    {
+      "word": "doubts",
+      "start": 16.66,
+      "end": 16.94
+    },
+    {
+      "word": "about",
+      "start": 16.94,
+      "end": 17.26
+    },
+    {
+      "word": "your",
+      "start": 17.26,
+      "end": 17.52
+    },
+    {
+      "word": "agency's",
+      "start": 17.52,
+      "end": 18.54
+    },
+    {
+      "word": "professional",
+      "start": 18.54,
+      "end": 18.54
+    },
+    {
+      "word": "standards.",
+      "start": 18.54,
+      "end": 19.2
+    },
+    {
+      "word": "Automate",
+      "start": 19.9,
+      "end": 20.12
+    },
+    {
+      "word": "the",
+      "start": 20.12,
+      "end": 20.72
+    },
+    {
+      "word": "entire",
+      "start": 20.72,
+      "end": 20.82
+    },
+    {
+      "word": "post",
+      "start": 20.82,
+      "end": 21.16
+    },
+    {
+      "word": "-sale",
+      "start": 21.16,
+      "end": 21.38
+    },
+    {
+      "word": "transition",
+      "start": 21.38,
+      "end": 22.02
+    },
+    {
+      "word": "using",
+      "start": 22.02,
+      "end": 22.44
+    },
+    {
+      "word": "Zapier",
+      "start": 22.44,
+      "end": 22.9
+    },
+    {
+      "word": "to",
+      "start": 22.9,
+      "end": 23.14
+    },
+    {
+      "word": "provision",
+      "start": 23.14,
+      "end": 23.42
+    },
+    {
+      "word": "drive",
+      "start": 23.42,
+      "end": 23.96
+    },
+    {
+      "word": "assets,",
+      "start": 23.96,
+      "end": 24.46
+    },
+    {
+      "word": "invite",
+      "start": 25.26,
+      "end": 25.26
+    },
+    {
+      "word": "clients",
+      "start": 25.26,
+      "end": 25.62
+    },
+    {
+      "word": "to",
+      "start": 25.62,
+      "end": 25.96
+    },
+    {
+      "word": "Slack",
+      "start": 25.96,
+      "end": 26.32
+    },
+    {
+      "word": "and",
+      "start": 26.32,
+      "end": 26.82
+    },
+    {
+      "word": "deliver",
+      "start": 26.82,
+      "end": 27.06
+    },
+    {
+      "word": "agendas.",
+      "start": 27.06,
+      "end": 27.62
+    },
+    {
+      "word": "You",
+      "start": 27.62,
+      "end": 28.4
+    },
+    {
+      "word": "set",
+      "start": 28.4,
+      "end": 28.68
+    },
+    {
+      "word": "enterprise",
+      "start": 28.68,
+      "end": 29.16
+    },
+    {
+      "word": "level",
+      "start": 29.16,
+      "end": 29.6
+    },
+    {
+      "word": "operational",
+      "start": 29.6,
+      "end": 30.22
+    },
+    {
+      "word": "standards",
+      "start": 30.22,
+      "end": 30.68
+    },
+    {
+      "word": "from",
+      "start": 30.68,
+      "end": 30.98
+    },
+    {
+      "word": "day",
+      "start": 30.98,
+      "end": 31.16
+    },
+    {
+      "word": "one.",
+      "start": 31.16,
+      "end": 31.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How seven-figure agencies create unforgettable first impressions.",
+      "line2": "INSTANT CLIENT KICKOFF",
+      "tag": "\ud83d\uded1 Sales proposal to kickoff automation that spins up client folders in seconds",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Sales proposal to kickoff automation that spins up client folders in seconds",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Sales proposal to kickoff automation that spins up client folders in seconds",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

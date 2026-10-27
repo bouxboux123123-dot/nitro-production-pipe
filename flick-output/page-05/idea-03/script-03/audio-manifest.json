@@ -1,0 +1,416 @@
+{
+  "page": "page-05",
+  "idea": "Zapier webhook that triggers personalized onboarding emails",
+  "text": "This no-code trigger turns new signups into loyal, happy clients instantly. When clients pay substantial retainers, waiting twenty-four hours for basic kickoff instructions triggers immediate buyer regret. Disorganized intake workflows signal to premium customers that your backend operations cannot handle their account. Connect your Stripe checkout to Zapier to spin up private Notion workspaces and dispatch welcome credentials automatically. You protect high-value retainers and stop client churn early.",
+  "duration": 30.607,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "no",
+      "start": 0.24,
+      "end": 0.52
+    },
+    {
+      "word": "-code",
+      "start": 0.52,
+      "end": 0.76
+    },
+    {
+      "word": "trigger",
+      "start": 0.76,
+      "end": 1.06
+    },
+    {
+      "word": "turns",
+      "start": 1.06,
+      "end": 1.46
+    },
+    {
+      "word": "new",
+      "start": 1.46,
+      "end": 1.78
+    },
+    {
+      "word": "sign",
+      "start": 1.78,
+      "end": 2.0
+    },
+    {
+      "word": "-ups",
+      "start": 2.0,
+      "end": 2.14
+    },
+    {
+      "word": "into",
+      "start": 2.14,
+      "end": 2.46
+    },
+    {
+      "word": "loyal,",
+      "start": 2.46,
+      "end": 2.9
+    },
+    {
+      "word": "happy",
+      "start": 2.98,
+      "end": 3.2
+    },
+    {
+      "word": "clients",
+      "start": 3.2,
+      "end": 3.62
+    },
+    {
+      "word": "instantly.",
+      "start": 3.62,
+      "end": 4.28
+    },
+    {
+      "word": "When",
+      "start": 4.74,
+      "end": 4.96
+    },
+    {
+      "word": "clients",
+      "start": 4.96,
+      "end": 5.3
+    },
+    {
+      "word": "pay",
+      "start": 5.3,
+      "end": 5.62
+    },
+    {
+      "word": "substantial",
+      "start": 5.62,
+      "end": 6.24
+    },
+    {
+      "word": "retainers,",
+      "start": 6.24,
+      "end": 7.0
+    },
+    {
+      "word": "waiting",
+      "start": 7.36,
+      "end": 7.46
+    },
+    {
+      "word": "24",
+      "start": 7.46,
+      "end": 8.14
+    },
+    {
+      "word": "hours",
+      "start": 8.14,
+      "end": 8.58
+    },
+    {
+      "word": "for",
+      "start": 8.58,
+      "end": 8.88
+    },
+    {
+      "word": "basic",
+      "start": 8.88,
+      "end": 9.22
+    },
+    {
+      "word": "kickoff",
+      "start": 9.22,
+      "end": 9.56
+    },
+    {
+      "word": "instructions",
+      "start": 9.56,
+      "end": 10.24
+    },
+    {
+      "word": "triggers",
+      "start": 10.24,
+      "end": 10.86
+    },
+    {
+      "word": "immediate",
+      "start": 10.86,
+      "end": 11.44
+    },
+    {
+      "word": "buyer",
+      "start": 11.44,
+      "end": 11.78
+    },
+    {
+      "word": "regret.",
+      "start": 11.78,
+      "end": 12.28
+    },
+    {
+      "word": "Disorganized",
+      "start": 12.56,
+      "end": 13.14
+    },
+    {
+      "word": "intake",
+      "start": 13.14,
+      "end": 13.64
+    },
+    {
+      "word": "workflows",
+      "start": 13.64,
+      "end": 14.26
+    },
+    {
+      "word": "signal",
+      "start": 14.26,
+      "end": 14.68
+    },
+    {
+      "word": "to",
+      "start": 14.68,
+      "end": 15.04
+    },
+    {
+      "word": "premium",
+      "start": 15.04,
+      "end": 15.22
+    },
+    {
+      "word": "customers",
+      "start": 15.22,
+      "end": 15.78
+    },
+    {
+      "word": "that",
+      "start": 15.78,
+      "end": 16.3
+    },
+    {
+      "word": "your",
+      "start": 16.3,
+      "end": 16.6
+    },
+    {
+      "word": "backend",
+      "start": 16.6,
+      "end": 16.86
+    },
+    {
+      "word": "operations",
+      "start": 16.86,
+      "end": 17.6
+    },
+    {
+      "word": "cannot",
+      "start": 17.6,
+      "end": 18.24
+    },
+    {
+      "word": "handle",
+      "start": 18.24,
+      "end": 18.56
+    },
+    {
+      "word": "their",
+      "start": 18.56,
+      "end": 18.84
+    },
+    {
+      "word": "account.",
+      "start": 18.84,
+      "end": 19.4
+    },
+    {
+      "word": "Connect",
+      "start": 19.82,
+      "end": 20.08
+    },
+    {
+      "word": "your",
+      "start": 20.08,
+      "end": 20.36
+    },
+    {
+      "word": "Stripe",
+      "start": 20.36,
+      "end": 20.66
+    },
+    {
+      "word": "checkout",
+      "start": 20.66,
+      "end": 21.04
+    },
+    {
+      "word": "to",
+      "start": 21.04,
+      "end": 21.28
+    },
+    {
+      "word": "Zapier",
+      "start": 21.28,
+      "end": 21.68
+    },
+    {
+      "word": "to",
+      "start": 21.68,
+      "end": 21.94
+    },
+    {
+      "word": "spin",
+      "start": 21.94,
+      "end": 22.12
+    },
+    {
+      "word": "up",
+      "start": 22.12,
+      "end": 22.32
+    },
+    {
+      "word": "private",
+      "start": 22.32,
+      "end": 22.68
+    },
+    {
+      "word": "notion",
+      "start": 22.68,
+      "end": 23.1
+    },
+    {
+      "word": "workspaces",
+      "start": 23.1,
+      "end": 23.76
+    },
+    {
+      "word": "and",
+      "start": 23.76,
+      "end": 24.38
+    },
+    {
+      "word": "dispatch",
+      "start": 24.38,
+      "end": 24.72
+    },
+    {
+      "word": "welcome",
+      "start": 24.72,
+      "end": 25.26
+    },
+    {
+      "word": "credentials",
+      "start": 25.26,
+      "end": 25.84
+    },
+    {
+      "word": "automatically.",
+      "start": 25.84,
+      "end": 26.48
+    },
+    {
+      "word": "You",
+      "start": 26.48,
+      "end": 27.22
+    },
+    {
+      "word": "protect",
+      "start": 27.22,
+      "end": 27.6
+    },
+    {
+      "word": "high",
+      "start": 27.6,
+      "end": 28.04
+    },
+    {
+      "word": "value",
+      "start": 28.04,
+      "end": 28.28
+    },
+    {
+      "word": "retainers",
+      "start": 28.28,
+      "end": 28.88
+    },
+    {
+      "word": "and",
+      "start": 28.88,
+      "end": 29.12
+    },
+    {
+      "word": "stop",
+      "start": 29.12,
+      "end": 29.46
+    },
+    {
+      "word": "client",
+      "start": 29.46,
+      "end": 29.82
+    },
+    {
+      "word": "churn",
+      "start": 29.82,
+      "end": 30.14
+    },
+    {
+      "word": "early.",
+      "start": 30.14,
+      "end": 30.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The no-code trigger that turns new signups into loyal, happy clients.",
+      "line2": "TRIGGER ONBOARDING EMAILS",
+      "tag": "\ud83d\uded1 Zapier webhook that triggers personalized onboarding emails",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Zapier webhook that triggers personalized onboarding emails",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Zapier webhook that triggers personalized onboarding emails",
+        "subtitle": "Zapier webhook that triggers personalized onboarding emails"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Zapier webhook that triggers personalized onboarding emails"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Zapier webhook that triggers personalized onboarding emails"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Zapier webhook that triggers personalized onboarding emails",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

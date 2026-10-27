@@ -1,0 +1,421 @@
+{
+  "page": "page-05",
+  "idea": "Automated calendar reminder sequence via Twilio SMS and Make",
+  "text": "This two-minute no-code workflow practically guarantees your clients show up on time. Service businesses hemorrhage billable revenue when clients ghost discovery calls because they forgot to check calendar invites. Email reminders get buried beneath hundreds of unread newsletters, driving no-show rates above thirty-five percent. Connect your Google Calendar events to Twilio through Make to automatically send personalized SMS reminders with meeting links. Your calendar stays fully booked with engaged prospects.",
+  "duration": 30.65,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "two",
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "word": "-minute",
+      "start": 0.52,
+      "end": 0.78
+    },
+    {
+      "word": "no",
+      "start": 0.78,
+      "end": 1.06
+    },
+    {
+      "word": "-code",
+      "start": 1.06,
+      "end": 1.3
+    },
+    {
+      "word": "workflow",
+      "start": 1.3,
+      "end": 1.96
+    },
+    {
+      "word": "practically",
+      "start": 1.96,
+      "end": 2.64
+    },
+    {
+      "word": "guarantees",
+      "start": 2.64,
+      "end": 3.1
+    },
+    {
+      "word": "your",
+      "start": 3.1,
+      "end": 3.52
+    },
+    {
+      "word": "clients",
+      "start": 3.52,
+      "end": 3.8
+    },
+    {
+      "word": "show",
+      "start": 3.8,
+      "end": 4.08
+    },
+    {
+      "word": "up",
+      "start": 4.08,
+      "end": 4.26
+    },
+    {
+      "word": "on",
+      "start": 4.26,
+      "end": 4.5
+    },
+    {
+      "word": "time.",
+      "start": 4.5,
+      "end": 5.16
+    },
+    {
+      "word": "Service",
+      "start": 5.7,
+      "end": 5.7
+    },
+    {
+      "word": "businesses",
+      "start": 5.7,
+      "end": 6.38
+    },
+    {
+      "word": "hemorrhage",
+      "start": 6.38,
+      "end": 6.9
+    },
+    {
+      "word": "billable",
+      "start": 6.9,
+      "end": 7.36
+    },
+    {
+      "word": "revenue",
+      "start": 7.36,
+      "end": 7.68
+    },
+    {
+      "word": "when",
+      "start": 7.68,
+      "end": 8.04
+    },
+    {
+      "word": "clients'",
+      "start": 8.04,
+      "end": 8.42
+    },
+    {
+      "word": "ghost",
+      "start": 8.52,
+      "end": 8.8
+    },
+    {
+      "word": "discovery",
+      "start": 8.8,
+      "end": 9.24
+    },
+    {
+      "word": "calls",
+      "start": 9.24,
+      "end": 9.72
+    },
+    {
+      "word": "because",
+      "start": 9.72,
+      "end": 10.26
+    },
+    {
+      "word": "they",
+      "start": 10.26,
+      "end": 10.44
+    },
+    {
+      "word": "forgot",
+      "start": 10.44,
+      "end": 10.72
+    },
+    {
+      "word": "to",
+      "start": 10.72,
+      "end": 10.9
+    },
+    {
+      "word": "check",
+      "start": 10.9,
+      "end": 11.18
+    },
+    {
+      "word": "calendar",
+      "start": 11.18,
+      "end": 11.58
+    },
+    {
+      "word": "invites.",
+      "start": 11.58,
+      "end": 12.16
+    },
+    {
+      "word": "Email",
+      "start": 12.9,
+      "end": 12.9
+    },
+    {
+      "word": "reminders",
+      "start": 12.9,
+      "end": 13.4
+    },
+    {
+      "word": "get",
+      "start": 13.4,
+      "end": 13.86
+    },
+    {
+      "word": "buried",
+      "start": 13.86,
+      "end": 14.14
+    },
+    {
+      "word": "beneath",
+      "start": 14.14,
+      "end": 14.48
+    },
+    {
+      "word": "hundreds",
+      "start": 14.48,
+      "end": 14.84
+    },
+    {
+      "word": "of",
+      "start": 14.84,
+      "end": 15.18
+    },
+    {
+      "word": "unread",
+      "start": 15.18,
+      "end": 15.5
+    },
+    {
+      "word": "newsletters,",
+      "start": 15.5,
+      "end": 16.0
+    },
+    {
+      "word": "driving",
+      "start": 16.54,
+      "end": 16.9
+    },
+    {
+      "word": "no",
+      "start": 16.9,
+      "end": 17.22
+    },
+    {
+      "word": "show",
+      "start": 17.22,
+      "end": 17.46
+    },
+    {
+      "word": "rates",
+      "start": 17.46,
+      "end": 17.7
+    },
+    {
+      "word": "above",
+      "start": 17.7,
+      "end": 17.98
+    },
+    {
+      "word": "35%.",
+      "start": 17.98,
+      "end": 19.64
+    },
+    {
+      "word": "Connect",
+      "start": 19.64,
+      "end": 19.96
+    },
+    {
+      "word": "your",
+      "start": 19.96,
+      "end": 20.22
+    },
+    {
+      "word": "Google",
+      "start": 20.22,
+      "end": 20.58
+    },
+    {
+      "word": "Calendar",
+      "start": 20.58,
+      "end": 20.94
+    },
+    {
+      "word": "events",
+      "start": 20.94,
+      "end": 21.3
+    },
+    {
+      "word": "to",
+      "start": 21.3,
+      "end": 21.54
+    },
+    {
+      "word": "Twilio",
+      "start": 21.54,
+      "end": 21.96
+    },
+    {
+      "word": "through,",
+      "start": 21.96,
+      "end": 22.44
+    },
+    {
+      "word": "make",
+      "start": 22.46,
+      "end": 22.66
+    },
+    {
+      "word": "to",
+      "start": 22.66,
+      "end": 23.0
+    },
+    {
+      "word": "automatically",
+      "start": 23.0,
+      "end": 23.4
+    },
+    {
+      "word": "send",
+      "start": 23.4,
+      "end": 23.98
+    },
+    {
+      "word": "personalized",
+      "start": 23.98,
+      "end": 24.7
+    },
+    {
+      "word": "SMS",
+      "start": 24.7,
+      "end": 25.32
+    },
+    {
+      "word": "reminders",
+      "start": 25.32,
+      "end": 26.02
+    },
+    {
+      "word": "with",
+      "start": 26.02,
+      "end": 26.44
+    },
+    {
+      "word": "meeting",
+      "start": 26.44,
+      "end": 26.7
+    },
+    {
+      "word": "links.",
+      "start": 26.7,
+      "end": 27.12
+    },
+    {
+      "word": "Your",
+      "start": 27.12,
+      "end": 27.94
+    },
+    {
+      "word": "calendar",
+      "start": 27.94,
+      "end": 28.14
+    },
+    {
+      "word": "stays",
+      "start": 28.14,
+      "end": 28.64
+    },
+    {
+      "word": "fully",
+      "start": 28.64,
+      "end": 29.0
+    },
+    {
+      "word": "booked",
+      "start": 29.0,
+      "end": 29.24
+    },
+    {
+      "word": "with",
+      "start": 29.24,
+      "end": 29.54
+    },
+    {
+      "word": "engaged",
+      "start": 29.54,
+      "end": 29.96
+    },
+    {
+      "word": "prospects.",
+      "start": 29.96,
+      "end": 30.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The 2-minute no-code workflow that guarantees clients show up on time.",
+      "line2": "AUTOMATED SMS REMINDERS",
+      "tag": "\ud83d\uded1 Automated calendar reminder sequence via Twilio SMS and Make",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated calendar reminder sequence via Twilio SMS and Make",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated calendar reminder sequence via Twilio SMS and Make",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "page": "page-05",
+  "idea": "Automated content repurposing workflow using Make and Notion",
+  "text": "The no-code automation that populates your social media calendar every Monday morning. Creators sit at their desks every week agonizing over what to post across five different channels. Starting from scratch every single day leads to inconsistent publishing schedules and stalled audience growth. Instead, build a Make workflow that turns approved Notion drafts into scheduled social updates automatically. Your distribution runs on complete autopilot.",
+  "duration": 25.259,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "No",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "code",
+      "start": 0.34,
+      "end": 0.62
+    },
+    {
+      "word": "automation",
+      "start": 0.62,
+      "end": 1.08
+    },
+    {
+      "word": "that",
+      "start": 1.08,
+      "end": 1.38
+    },
+    {
+      "word": "populates",
+      "start": 1.38,
+      "end": 1.82
+    },
+    {
+      "word": "your",
+      "start": 1.82,
+      "end": 2.32
+    },
+    {
+      "word": "social",
+      "start": 2.32,
+      "end": 2.34
+    },
+    {
+      "word": "media",
+      "start": 2.34,
+      "end": 2.64
+    },
+    {
+      "word": "calendar",
+      "start": 2.64,
+      "end": 3.02
+    },
+    {
+      "word": "every",
+      "start": 3.02,
+      "end": 3.36
+    },
+    {
+      "word": "Monday",
+      "start": 3.36,
+      "end": 3.58
+    },
+    {
+      "word": "morning.",
+      "start": 3.58,
+      "end": 4.3
+    },
+    {
+      "word": "Creators",
+      "start": 4.78,
+      "end": 5.0
+    },
+    {
+      "word": "sit",
+      "start": 5.0,
+      "end": 5.14
+    },
+    {
+      "word": "at",
+      "start": 5.14,
+      "end": 5.3
+    },
+    {
+      "word": "their",
+      "start": 5.3,
+      "end": 5.5
+    },
+    {
+      "word": "desks",
+      "start": 5.5,
+      "end": 5.74
+    },
+    {
+      "word": "every",
+      "start": 5.74,
+      "end": 6.08
+    },
+    {
+      "word": "week",
+      "start": 6.08,
+      "end": 6.38
+    },
+    {
+      "word": "agonizing",
+      "start": 6.38,
+      "end": 6.92
+    },
+    {
+      "word": "over",
+      "start": 6.92,
+      "end": 7.18
+    },
+    {
+      "word": "what",
+      "start": 7.18,
+      "end": 7.32
+    },
+    {
+      "word": "to",
+      "start": 7.32,
+      "end": 7.48
+    },
+    {
+      "word": "post",
+      "start": 7.48,
+      "end": 7.68
+    },
+    {
+      "word": "across",
+      "start": 7.68,
+      "end": 8.06
+    },
+    {
+      "word": "five",
+      "start": 8.06,
+      "end": 8.48
+    },
+    {
+      "word": "different",
+      "start": 8.48,
+      "end": 8.82
+    },
+    {
+      "word": "channels.",
+      "start": 8.82,
+      "end": 9.34
+    },
+    {
+      "word": "Starting",
+      "start": 9.98,
+      "end": 10.04
+    },
+    {
+      "word": "from",
+      "start": 10.04,
+      "end": 10.4
+    },
+    {
+      "word": "scratch,",
+      "start": 10.4,
+      "end": 10.74
+    },
+    {
+      "word": "every",
+      "start": 11.1,
+      "end": 11.3
+    },
+    {
+      "word": "single",
+      "start": 11.3,
+      "end": 11.62
+    },
+    {
+      "word": "day",
+      "start": 11.62,
+      "end": 11.9
+    },
+    {
+      "word": "leads",
+      "start": 11.9,
+      "end": 12.18
+    },
+    {
+      "word": "to",
+      "start": 12.18,
+      "end": 12.4
+    },
+    {
+      "word": "inconsistent",
+      "start": 12.4,
+      "end": 12.88
+    },
+    {
+      "word": "publishing",
+      "start": 12.88,
+      "end": 13.36
+    },
+    {
+      "word": "schedules",
+      "start": 13.36,
+      "end": 13.92
+    },
+    {
+      "word": "and",
+      "start": 13.92,
+      "end": 14.54
+    },
+    {
+      "word": "stalled",
+      "start": 14.54,
+      "end": 14.9
+    },
+    {
+      "word": "audience",
+      "start": 14.9,
+      "end": 15.3
+    },
+    {
+      "word": "growth.",
+      "start": 15.3,
+      "end": 15.74
+    },
+    {
+      "word": "Instead,",
+      "start": 16.34,
+      "end": 16.68
+    },
+    {
+      "word": "build",
+      "start": 17.2,
+      "end": 17.26
+    },
+    {
+      "word": "a",
+      "start": 17.26,
+      "end": 17.4
+    },
+    {
+      "word": "make",
+      "start": 17.4,
+      "end": 17.58
+    },
+    {
+      "word": "workflow",
+      "start": 17.58,
+      "end": 18.0
+    },
+    {
+      "word": "that",
+      "start": 18.0,
+      "end": 18.3
+    },
+    {
+      "word": "turns",
+      "start": 18.3,
+      "end": 18.56
+    },
+    {
+      "word": "approved",
+      "start": 18.56,
+      "end": 19.06
+    },
+    {
+      "word": "notion",
+      "start": 19.06,
+      "end": 19.44
+    },
+    {
+      "word": "drafts",
+      "start": 19.44,
+      "end": 19.82
+    },
+    {
+      "word": "into",
+      "start": 19.82,
+      "end": 20.18
+    },
+    {
+      "word": "scheduled",
+      "start": 20.18,
+      "end": 20.6
+    },
+    {
+      "word": "social",
+      "start": 20.6,
+      "end": 21.08
+    },
+    {
+      "word": "updates",
+      "start": 21.08,
+      "end": 21.48
+    },
+    {
+      "word": "automatically.",
+      "start": 21.48,
+      "end": 22.08
+    },
+    {
+      "word": "Your",
+      "start": 22.76,
+      "end": 22.86
+    },
+    {
+      "word": "distribution",
+      "start": 22.86,
+      "end": 23.34
+    },
+    {
+      "word": "runs",
+      "start": 23.34,
+      "end": 23.84
+    },
+    {
+      "word": "on",
+      "start": 23.84,
+      "end": 24.22
+    },
+    {
+      "word": "complete",
+      "start": 24.22,
+      "end": 24.6
+    },
+    {
+      "word": "autopilot.",
+      "start": 24.6,
+      "end": 25.22
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The no-code automation that populates your social media calendar every Monday.",
+      "line2": "REPURPOSE CONTENT AUTOMATICALLY",
+      "tag": "\ud83d\uded1 Automated content repurposing workflow using Make and Notion",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Automated content repurposing workflow using Make and Notion",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Automated content repurposing workflow using Make and Notion",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Automated content repurposing workflow using Make and Notion",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

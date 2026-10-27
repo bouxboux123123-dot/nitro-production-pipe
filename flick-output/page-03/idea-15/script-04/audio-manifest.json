@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated abandoned cart recovery sequence that reclaims lost sales",
+  "text": "The exact three-part reminder email formula that brings buyers back to complete payment. Most creators either send zero abandoned checkout emails or blast aggressive discount spam that kills margins. Poorly timed messages annoy prospective buyers instead of answering their key objections about product value. Build an automated Klaviyo sequence: helpful support at one hour, social proof at twenty-four, and expiry warnings at forty-eight. You maximize checkout conversions while preserving margins.",
+  "duration": 31.311,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "exact",
+      "start": 0.22,
+      "end": 0.58
+    },
+    {
+      "word": "three",
+      "start": 0.58,
+      "end": 0.94
+    },
+    {
+      "word": "-part",
+      "start": 0.94,
+      "end": 1.2
+    },
+    {
+      "word": "reminder",
+      "start": 1.2,
+      "end": 1.6
+    },
+    {
+      "word": "email",
+      "start": 1.6,
+      "end": 2.12
+    },
+    {
+      "word": "formula",
+      "start": 2.12,
+      "end": 2.62
+    },
+    {
+      "word": "that",
+      "start": 2.62,
+      "end": 2.98
+    },
+    {
+      "word": "brings",
+      "start": 2.98,
+      "end": 3.3
+    },
+    {
+      "word": "buyers",
+      "start": 3.3,
+      "end": 3.64
+    },
+    {
+      "word": "back",
+      "start": 3.64,
+      "end": 4.02
+    },
+    {
+      "word": "to",
+      "start": 4.02,
+      "end": 4.26
+    },
+    {
+      "word": "complete",
+      "start": 4.26,
+      "end": 4.56
+    },
+    {
+      "word": "payment.",
+      "start": 4.56,
+      "end": 5.04
+    },
+    {
+      "word": "Most",
+      "start": 5.54,
+      "end": 5.86
+    },
+    {
+      "word": "creators",
+      "start": 5.86,
+      "end": 6.28
+    },
+    {
+      "word": "either",
+      "start": 6.28,
+      "end": 6.72
+    },
+    {
+      "word": "send",
+      "start": 6.72,
+      "end": 6.98
+    },
+    {
+      "word": "zero",
+      "start": 6.98,
+      "end": 7.46
+    },
+    {
+      "word": "abandoned",
+      "start": 7.46,
+      "end": 7.96
+    },
+    {
+      "word": "checkout",
+      "start": 7.96,
+      "end": 8.48
+    },
+    {
+      "word": "emails",
+      "start": 8.48,
+      "end": 8.94
+    },
+    {
+      "word": "or",
+      "start": 8.94,
+      "end": 9.56
+    },
+    {
+      "word": "blast",
+      "start": 9.56,
+      "end": 9.96
+    },
+    {
+      "word": "aggressive",
+      "start": 9.96,
+      "end": 10.42
+    },
+    {
+      "word": "discount",
+      "start": 10.42,
+      "end": 10.98
+    },
+    {
+      "word": "spam",
+      "start": 10.98,
+      "end": 11.34
+    },
+    {
+      "word": "that",
+      "start": 11.34,
+      "end": 11.68
+    },
+    {
+      "word": "kills",
+      "start": 11.68,
+      "end": 12.02
+    },
+    {
+      "word": "margins.",
+      "start": 12.02,
+      "end": 12.62
+    },
+    {
+      "word": "Poorly",
+      "start": 13.18,
+      "end": 13.44
+    },
+    {
+      "word": "timed",
+      "start": 13.44,
+      "end": 13.74
+    },
+    {
+      "word": "messages",
+      "start": 13.74,
+      "end": 14.3
+    },
+    {
+      "word": "annoy",
+      "start": 14.3,
+      "end": 14.7
+    },
+    {
+      "word": "prospective",
+      "start": 14.7,
+      "end": 15.26
+    },
+    {
+      "word": "buyers",
+      "start": 15.26,
+      "end": 15.78
+    },
+    {
+      "word": "instead",
+      "start": 15.78,
+      "end": 16.34
+    },
+    {
+      "word": "of",
+      "start": 16.34,
+      "end": 16.64
+    },
+    {
+      "word": "answering",
+      "start": 16.64,
+      "end": 16.88
+    },
+    {
+      "word": "their",
+      "start": 16.88,
+      "end": 17.14
+    },
+    {
+      "word": "key",
+      "start": 17.14,
+      "end": 17.36
+    },
+    {
+      "word": "objections",
+      "start": 17.36,
+      "end": 17.88
+    },
+    {
+      "word": "about",
+      "start": 17.88,
+      "end": 18.3
+    },
+    {
+      "word": "product",
+      "start": 18.3,
+      "end": 18.56
+    },
+    {
+      "word": "value.",
+      "start": 18.56,
+      "end": 19.0
+    },
+    {
+      "word": "Build",
+      "start": 19.54,
+      "end": 19.74
+    },
+    {
+      "word": "an",
+      "start": 19.74,
+      "end": 20.18
+    },
+    {
+      "word": "automated",
+      "start": 20.18,
+      "end": 20.42
+    },
+    {
+      "word": "Clavio",
+      "start": 20.42,
+      "end": 20.92
+    },
+    {
+      "word": "sequence,",
+      "start": 20.92,
+      "end": 21.46
+    },
+    {
+      "word": "helpful",
+      "start": 22.02,
+      "end": 22.16
+    },
+    {
+      "word": "support",
+      "start": 22.16,
+      "end": 22.64
+    },
+    {
+      "word": "at",
+      "start": 22.64,
+      "end": 22.86
+    },
+    {
+      "word": "one",
+      "start": 22.86,
+      "end": 23.08
+    },
+    {
+      "word": "hour,",
+      "start": 23.08,
+      "end": 23.46
+    },
+    {
+      "word": "social",
+      "start": 24.1,
+      "end": 24.18
+    },
+    {
+      "word": "proof",
+      "start": 24.18,
+      "end": 24.42
+    },
+    {
+      "word": "at",
+      "start": 24.42,
+      "end": 24.56
+    },
+    {
+      "word": "24,",
+      "start": 24.56,
+      "end": 25.18
+    },
+    {
+      "word": "and",
+      "start": 25.58,
+      "end": 25.78
+    },
+    {
+      "word": "expiry",
+      "start": 25.78,
+      "end": 26.3
+    },
+    {
+      "word": "warnings",
+      "start": 26.3,
+      "end": 26.64
+    },
+    {
+      "word": "at",
+      "start": 26.64,
+      "end": 27.0
+    },
+    {
+      "word": "48.",
+      "start": 27.0,
+      "end": 27.48
+    },
+    {
+      "word": "You",
+      "start": 27.48,
+      "end": 28.28
+    },
+    {
+      "word": "maximize",
+      "start": 28.28,
+      "end": 28.72
+    },
+    {
+      "word": "checkout",
+      "start": 28.72,
+      "end": 29.24
+    },
+    {
+      "word": "conversions",
+      "start": 29.24,
+      "end": 29.78
+    },
+    {
+      "word": "while",
+      "start": 29.78,
+      "end": 30.22
+    },
+    {
+      "word": "preserving",
+      "start": 30.22,
+      "end": 30.64
+    },
+    {
+      "word": "margins.",
+      "start": 30.64,
+      "end": 31.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The exact 3-part reminder email formula that brings buyers back to complete payment.",
+      "line2": "RECLAIM LOST SALES",
+      "tag": "\ud83d\uded1 Automated abandoned cart recovery sequence that reclaims lost sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated abandoned cart recovery sequence that reclaims lost sales",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated abandoned cart recovery sequence that reclaims lost sales",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

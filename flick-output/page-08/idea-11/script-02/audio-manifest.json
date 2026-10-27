@@ -1,0 +1,441 @@
+{
+  "page": "page-08",
+  "idea": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+  "text": "The role-task-format formula turns vague AI responses into executive-ready deliverables on your first try. Most beginners treat ChatGPT like a search bar, typing three words and expecting an expert marketing plan. Without assigned persona and context, the model produces shallow summaries lacking tactical depth and numbers. Tell ChatGPT to act as a senior copywriter, define the objective, and specify Markdown bullet points. You receive sharp, tailored drafts in thirty seconds.",
+  "duration": 30.778,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "roll",
+      "start": 0.18,
+      "end": 0.46
+    },
+    {
+      "word": "task",
+      "start": 0.46,
+      "end": 0.78
+    },
+    {
+      "word": "format",
+      "start": 0.78,
+      "end": 1.14
+    },
+    {
+      "word": "formula",
+      "start": 1.14,
+      "end": 1.64
+    },
+    {
+      "word": "turns",
+      "start": 1.64,
+      "end": 2.22
+    },
+    {
+      "word": "vague",
+      "start": 2.22,
+      "end": 2.62
+    },
+    {
+      "word": "AI",
+      "start": 2.62,
+      "end": 3.1
+    },
+    {
+      "word": "responses",
+      "start": 3.1,
+      "end": 3.68
+    },
+    {
+      "word": "into",
+      "start": 3.68,
+      "end": 4.14
+    },
+    {
+      "word": "executive",
+      "start": 4.14,
+      "end": 4.62
+    },
+    {
+      "word": "ready",
+      "start": 4.62,
+      "end": 4.94
+    },
+    {
+      "word": "deliverables",
+      "start": 4.94,
+      "end": 5.52
+    },
+    {
+      "word": "on",
+      "start": 5.52,
+      "end": 5.7
+    },
+    {
+      "word": "your",
+      "start": 5.7,
+      "end": 5.88
+    },
+    {
+      "word": "first",
+      "start": 5.88,
+      "end": 6.18
+    },
+    {
+      "word": "try.",
+      "start": 6.18,
+      "end": 6.7
+    },
+    {
+      "word": "Most",
+      "start": 7.16,
+      "end": 7.44
+    },
+    {
+      "word": "beginners",
+      "start": 7.44,
+      "end": 7.9
+    },
+    {
+      "word": "treat",
+      "start": 7.9,
+      "end": 8.24
+    },
+    {
+      "word": "chat",
+      "start": 8.24,
+      "end": 8.58
+    },
+    {
+      "word": "GPT",
+      "start": 8.58,
+      "end": 9.18
+    },
+    {
+      "word": "like",
+      "start": 9.18,
+      "end": 9.46
+    },
+    {
+      "word": "a",
+      "start": 9.46,
+      "end": 9.68
+    },
+    {
+      "word": "search",
+      "start": 9.68,
+      "end": 9.88
+    },
+    {
+      "word": "bar,",
+      "start": 9.88,
+      "end": 10.24
+    },
+    {
+      "word": "typing",
+      "start": 10.54,
+      "end": 10.86
+    },
+    {
+      "word": "three",
+      "start": 10.86,
+      "end": 11.28
+    },
+    {
+      "word": "words",
+      "start": 11.28,
+      "end": 11.62
+    },
+    {
+      "word": "and",
+      "start": 11.62,
+      "end": 12.06
+    },
+    {
+      "word": "expecting",
+      "start": 12.06,
+      "end": 12.46
+    },
+    {
+      "word": "an",
+      "start": 12.46,
+      "end": 12.8
+    },
+    {
+      "word": "expert",
+      "start": 12.8,
+      "end": 13.1
+    },
+    {
+      "word": "marketing",
+      "start": 13.1,
+      "end": 13.56
+    },
+    {
+      "word": "plan.",
+      "start": 13.56,
+      "end": 14.1
+    },
+    {
+      "word": "Without",
+      "start": 14.32,
+      "end": 14.54
+    },
+    {
+      "word": "a",
+      "start": 14.54,
+      "end": 14.76
+    },
+    {
+      "word": "signed",
+      "start": 14.76,
+      "end": 15.02
+    },
+    {
+      "word": "persona",
+      "start": 15.02,
+      "end": 15.44
+    },
+    {
+      "word": "and",
+      "start": 15.44,
+      "end": 15.78
+    },
+    {
+      "word": "context,",
+      "start": 15.78,
+      "end": 16.26
+    },
+    {
+      "word": "the",
+      "start": 16.64,
+      "end": 16.74
+    },
+    {
+      "word": "model",
+      "start": 16.74,
+      "end": 16.94
+    },
+    {
+      "word": "produces",
+      "start": 16.94,
+      "end": 17.32
+    },
+    {
+      "word": "shallow",
+      "start": 17.32,
+      "end": 17.8
+    },
+    {
+      "word": "summaries",
+      "start": 17.8,
+      "end": 18.26
+    },
+    {
+      "word": "lacking",
+      "start": 18.26,
+      "end": 18.64
+    },
+    {
+      "word": "tactical",
+      "start": 18.64,
+      "end": 19.2
+    },
+    {
+      "word": "depth",
+      "start": 19.2,
+      "end": 19.52
+    },
+    {
+      "word": "and",
+      "start": 19.52,
+      "end": 19.78
+    },
+    {
+      "word": "numbers.",
+      "start": 19.78,
+      "end": 20.14
+    },
+    {
+      "word": "Tell",
+      "start": 20.72,
+      "end": 20.96
+    },
+    {
+      "word": "chat",
+      "start": 20.96,
+      "end": 21.28
+    },
+    {
+      "word": "GPT",
+      "start": 21.28,
+      "end": 21.82
+    },
+    {
+      "word": "to",
+      "start": 21.82,
+      "end": 22.06
+    },
+    {
+      "word": "act",
+      "start": 22.06,
+      "end": 22.26
+    },
+    {
+      "word": "as",
+      "start": 22.26,
+      "end": 22.48
+    },
+    {
+      "word": "a",
+      "start": 22.48,
+      "end": 22.6
+    },
+    {
+      "word": "senior",
+      "start": 22.6,
+      "end": 22.88
+    },
+    {
+      "word": "copywriter,",
+      "start": 22.88,
+      "end": 23.62
+    },
+    {
+      "word": "define",
+      "start": 23.92,
+      "end": 24.18
+    },
+    {
+      "word": "the",
+      "start": 24.18,
+      "end": 24.48
+    },
+    {
+      "word": "objective,",
+      "start": 24.48,
+      "end": 24.92
+    },
+    {
+      "word": "and",
+      "start": 25.3,
+      "end": 25.48
+    },
+    {
+      "word": "specify",
+      "start": 25.48,
+      "end": 25.88
+    },
+    {
+      "word": "markdown",
+      "start": 25.88,
+      "end": 26.56
+    },
+    {
+      "word": "bullet",
+      "start": 26.56,
+      "end": 26.82
+    },
+    {
+      "word": "points.",
+      "start": 26.82,
+      "end": 27.28
+    },
+    {
+      "word": "You",
+      "start": 27.28,
+      "end": 27.96
+    },
+    {
+      "word": "receive",
+      "start": 27.96,
+      "end": 28.32
+    },
+    {
+      "word": "sharp,",
+      "start": 28.32,
+      "end": 28.88
+    },
+    {
+      "word": "tailored",
+      "start": 29.0,
+      "end": 29.34
+    },
+    {
+      "word": "drafts",
+      "start": 29.34,
+      "end": 29.76
+    },
+    {
+      "word": "in",
+      "start": 29.76,
+      "end": 30.04
+    },
+    {
+      "word": "30",
+      "start": 30.04,
+      "end": 30.36
+    },
+    {
+      "word": "seconds.",
+      "start": 30.36,
+      "end": 30.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The role-task-format formula that turns bad AI responses into gold.",
+      "line2": "BETTER CHATGPT PROMPTS",
+      "tag": "\ud83d\uded1 Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

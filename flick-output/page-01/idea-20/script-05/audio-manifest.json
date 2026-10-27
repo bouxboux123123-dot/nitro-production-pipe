@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Offboarding SOP that transitions departing clients with grace and security",
+  "text": "Here is the bulletproof offboarding protocol every mature agency needs to implement. Client churn is inevitable, but mishandling departures burns bridges and leaves your team in complete disarray. Without a standardized offboarding protocol, staff waste hours guessing which tools, permissions, and client subscriptions to cancel. Deploy an automated Airtable pipeline that handles asset transfers, archives shared Slack channels, and cancels recurring subscriptions. You protect agency profitability while preserving executive relationships.",
+  "duration": 32.506,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "word": "the",
+      "start": 0.44,
+      "end": 0.58
+    },
+    {
+      "word": "Bulletproof",
+      "start": 0.58,
+      "end": 1.08
+    },
+    {
+      "word": "offboarding",
+      "start": 1.08,
+      "end": 1.54
+    },
+    {
+      "word": "protocol",
+      "start": 1.54,
+      "end": 2.0
+    },
+    {
+      "word": "every",
+      "start": 2.0,
+      "end": 2.44
+    },
+    {
+      "word": "mature",
+      "start": 2.44,
+      "end": 2.9
+    },
+    {
+      "word": "agency",
+      "start": 2.9,
+      "end": 3.32
+    },
+    {
+      "word": "needs",
+      "start": 3.32,
+      "end": 3.7
+    },
+    {
+      "word": "to",
+      "start": 3.7,
+      "end": 3.9
+    },
+    {
+      "word": "implement.",
+      "start": 3.9,
+      "end": 4.44
+    },
+    {
+      "word": "Client",
+      "start": 4.88,
+      "end": 5.16
+    },
+    {
+      "word": "churn",
+      "start": 5.16,
+      "end": 5.44
+    },
+    {
+      "word": "is",
+      "start": 5.44,
+      "end": 5.72
+    },
+    {
+      "word": "inevitable,",
+      "start": 5.72,
+      "end": 6.12
+    },
+    {
+      "word": "but",
+      "start": 6.58,
+      "end": 6.74
+    },
+    {
+      "word": "mishandling",
+      "start": 6.74,
+      "end": 7.32
+    },
+    {
+      "word": "departures",
+      "start": 7.32,
+      "end": 7.82
+    },
+    {
+      "word": "burns",
+      "start": 7.82,
+      "end": 8.4
+    },
+    {
+      "word": "bridges",
+      "start": 8.4,
+      "end": 8.82
+    },
+    {
+      "word": "and",
+      "start": 8.82,
+      "end": 9.08
+    },
+    {
+      "word": "leaves",
+      "start": 9.08,
+      "end": 9.3
+    },
+    {
+      "word": "your",
+      "start": 9.3,
+      "end": 9.52
+    },
+    {
+      "word": "team",
+      "start": 9.52,
+      "end": 9.8
+    },
+    {
+      "word": "in",
+      "start": 9.8,
+      "end": 10.0
+    },
+    {
+      "word": "complete",
+      "start": 10.0,
+      "end": 10.42
+    },
+    {
+      "word": "disarray.",
+      "start": 10.42,
+      "end": 11.02
+    },
+    {
+      "word": "Without",
+      "start": 11.62,
+      "end": 11.82
+    },
+    {
+      "word": "a",
+      "start": 11.82,
+      "end": 12.52
+    },
+    {
+      "word": "standardized",
+      "start": 12.52,
+      "end": 12.52
+    },
+    {
+      "word": "offboarding",
+      "start": 12.52,
+      "end": 13.14
+    },
+    {
+      "word": "protocol,",
+      "start": 13.14,
+      "end": 13.84
+    },
+    {
+      "word": "staff",
+      "start": 14.44,
+      "end": 14.5
+    },
+    {
+      "word": "waste",
+      "start": 14.5,
+      "end": 14.78
+    },
+    {
+      "word": "hours",
+      "start": 14.78,
+      "end": 15.2
+    },
+    {
+      "word": "guessing",
+      "start": 15.2,
+      "end": 15.62
+    },
+    {
+      "word": "which",
+      "start": 15.62,
+      "end": 15.94
+    },
+    {
+      "word": "tools,",
+      "start": 15.94,
+      "end": 16.5
+    },
+    {
+      "word": "permissions,",
+      "start": 17.06,
+      "end": 17.06
+    },
+    {
+      "word": "and",
+      "start": 17.42,
+      "end": 17.64
+    },
+    {
+      "word": "client",
+      "start": 17.64,
+      "end": 17.92
+    },
+    {
+      "word": "subscriptions",
+      "start": 17.92,
+      "end": 18.5
+    },
+    {
+      "word": "to",
+      "start": 18.5,
+      "end": 18.84
+    },
+    {
+      "word": "cancel.",
+      "start": 18.84,
+      "end": 19.16
+    },
+    {
+      "word": "Deploy",
+      "start": 19.6,
+      "end": 19.84
+    },
+    {
+      "word": "an",
+      "start": 19.84,
+      "end": 20.14
+    },
+    {
+      "word": "automated,",
+      "start": 20.14,
+      "end": 20.6
+    },
+    {
+      "word": "irritable",
+      "start": 20.84,
+      "end": 21.1
+    },
+    {
+      "word": "pipeline",
+      "start": 21.1,
+      "end": 21.58
+    },
+    {
+      "word": "that",
+      "start": 21.58,
+      "end": 22.34
+    },
+    {
+      "word": "handles",
+      "start": 22.34,
+      "end": 22.34
+    },
+    {
+      "word": "asset",
+      "start": 22.34,
+      "end": 22.74
+    },
+    {
+      "word": "transfers,",
+      "start": 22.74,
+      "end": 23.32
+    },
+    {
+      "word": "archives",
+      "start": 24.34,
+      "end": 24.34
+    },
+    {
+      "word": "shared",
+      "start": 24.34,
+      "end": 24.72
+    },
+    {
+      "word": "slack",
+      "start": 24.72,
+      "end": 25.04
+    },
+    {
+      "word": "channels,",
+      "start": 25.04,
+      "end": 25.48
+    },
+    {
+      "word": "and",
+      "start": 25.7,
+      "end": 26.04
+    },
+    {
+      "word": "cancels",
+      "start": 26.04,
+      "end": 26.6
+    },
+    {
+      "word": "recurring",
+      "start": 26.6,
+      "end": 26.9
+    },
+    {
+      "word": "subscriptions.",
+      "start": 26.9,
+      "end": 27.62
+    },
+    {
+      "word": "You",
+      "start": 27.9,
+      "end": 28.44
+    },
+    {
+      "word": "protect",
+      "start": 28.44,
+      "end": 28.82
+    },
+    {
+      "word": "agency",
+      "start": 28.82,
+      "end": 29.36
+    },
+    {
+      "word": "profitability",
+      "start": 29.36,
+      "end": 30.02
+    },
+    {
+      "word": "while",
+      "start": 30.02,
+      "end": 30.52
+    },
+    {
+      "word": "preserving",
+      "start": 30.52,
+      "end": 30.92
+    },
+    {
+      "word": "executive",
+      "start": 30.92,
+      "end": 31.56
+    },
+    {
+      "word": "relationships.",
+      "start": 31.56,
+      "end": 32.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The bulletproof offboarding protocol every mature agency needs to implement.",
+      "line2": "SEAMLESS CLIENT OFFBOARDING",
+      "tag": "\ud83d\uded1 Offboarding SOP that transitions departing clients with grace and security",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

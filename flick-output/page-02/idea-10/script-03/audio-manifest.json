@@ -1,0 +1,411 @@
+{
+  "page": "page-02",
+  "idea": "Automated time tracking that links directly to freelance tasks",
+  "text": "Stop manually filling out timesheets at midnight on Friday. Trying to remember hours spent revising copy, taking client calls, and managing revisions leads to chronic underbilling. Spreadsheet timecards collapse under pressure because manual data entry breaks down during heavy deadline crunches. Toggl Track automated triggers sync your Google Calendar events and project tasks directly into itemized billing entries. You submit accurate invoices while giving you your weekends back.",
+  "duration": 28.837,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "manually",
+      "start": 0.4,
+      "end": 0.74
+    },
+    {
+      "word": "filling",
+      "start": 0.74,
+      "end": 1.12
+    },
+    {
+      "word": "out",
+      "start": 1.12,
+      "end": 1.5
+    },
+    {
+      "word": "time",
+      "start": 1.5,
+      "end": 1.66
+    },
+    {
+      "word": "sheets",
+      "start": 1.66,
+      "end": 1.9
+    },
+    {
+      "word": "at",
+      "start": 1.9,
+      "end": 2.12
+    },
+    {
+      "word": "midnight",
+      "start": 2.12,
+      "end": 2.34
+    },
+    {
+      "word": "on",
+      "start": 2.34,
+      "end": 2.68
+    },
+    {
+      "word": "Friday,",
+      "start": 2.68,
+      "end": 3.04
+    },
+    {
+      "word": "trying",
+      "start": 3.62,
+      "end": 3.84
+    },
+    {
+      "word": "to",
+      "start": 3.84,
+      "end": 4.06
+    },
+    {
+      "word": "remember",
+      "start": 4.06,
+      "end": 4.4
+    },
+    {
+      "word": "hours",
+      "start": 4.4,
+      "end": 4.88
+    },
+    {
+      "word": "spent",
+      "start": 4.88,
+      "end": 5.18
+    },
+    {
+      "word": "revising",
+      "start": 5.18,
+      "end": 5.62
+    },
+    {
+      "word": "copy,",
+      "start": 5.62,
+      "end": 6.1
+    },
+    {
+      "word": "taking",
+      "start": 6.68,
+      "end": 6.78
+    },
+    {
+      "word": "client",
+      "start": 6.78,
+      "end": 7.14
+    },
+    {
+      "word": "calls,",
+      "start": 7.14,
+      "end": 7.58
+    },
+    {
+      "word": "and",
+      "start": 7.88,
+      "end": 8.12
+    },
+    {
+      "word": "managing",
+      "start": 8.12,
+      "end": 8.44
+    },
+    {
+      "word": "revisions",
+      "start": 8.44,
+      "end": 8.98
+    },
+    {
+      "word": "leads",
+      "start": 8.98,
+      "end": 9.52
+    },
+    {
+      "word": "to",
+      "start": 9.52,
+      "end": 9.74
+    },
+    {
+      "word": "chronic",
+      "start": 9.74,
+      "end": 10.0
+    },
+    {
+      "word": "underbilling.",
+      "start": 10.0,
+      "end": 10.66
+    },
+    {
+      "word": "Spreadsheet",
+      "start": 11.36,
+      "end": 11.84
+    },
+    {
+      "word": "time",
+      "start": 11.84,
+      "end": 12.18
+    },
+    {
+      "word": "cards",
+      "start": 12.18,
+      "end": 12.48
+    },
+    {
+      "word": "collapse",
+      "start": 12.48,
+      "end": 12.88
+    },
+    {
+      "word": "under",
+      "start": 12.88,
+      "end": 13.1
+    },
+    {
+      "word": "pressure",
+      "start": 13.1,
+      "end": 13.44
+    },
+    {
+      "word": "because",
+      "start": 13.44,
+      "end": 14.08
+    },
+    {
+      "word": "manual",
+      "start": 14.08,
+      "end": 14.52
+    },
+    {
+      "word": "data",
+      "start": 14.52,
+      "end": 14.88
+    },
+    {
+      "word": "entry",
+      "start": 14.88,
+      "end": 15.24
+    },
+    {
+      "word": "breaks",
+      "start": 15.24,
+      "end": 15.58
+    },
+    {
+      "word": "down",
+      "start": 15.58,
+      "end": 15.94
+    },
+    {
+      "word": "during",
+      "start": 15.94,
+      "end": 16.28
+    },
+    {
+      "word": "heavy",
+      "start": 16.28,
+      "end": 16.58
+    },
+    {
+      "word": "deadline",
+      "start": 16.58,
+      "end": 17.02
+    },
+    {
+      "word": "crunches,",
+      "start": 17.02,
+      "end": 17.62
+    },
+    {
+      "word": "toggle",
+      "start": 18.34,
+      "end": 18.38
+    },
+    {
+      "word": "track",
+      "start": 18.38,
+      "end": 18.8
+    },
+    {
+      "word": "automated",
+      "start": 18.8,
+      "end": 19.16
+    },
+    {
+      "word": "triggers,",
+      "start": 19.16,
+      "end": 19.64
+    },
+    {
+      "word": "sink",
+      "start": 20.1,
+      "end": 20.16
+    },
+    {
+      "word": "your",
+      "start": 20.16,
+      "end": 20.42
+    },
+    {
+      "word": "Google",
+      "start": 20.42,
+      "end": 20.76
+    },
+    {
+      "word": "calendar",
+      "start": 20.76,
+      "end": 21.08
+    },
+    {
+      "word": "events,",
+      "start": 21.08,
+      "end": 21.58
+    },
+    {
+      "word": "and",
+      "start": 21.78,
+      "end": 22.1
+    },
+    {
+      "word": "project",
+      "start": 22.1,
+      "end": 22.28
+    },
+    {
+      "word": "tasks",
+      "start": 22.28,
+      "end": 22.88
+    },
+    {
+      "word": "directly",
+      "start": 22.88,
+      "end": 23.38
+    },
+    {
+      "word": "into",
+      "start": 23.38,
+      "end": 23.7
+    },
+    {
+      "word": "itemized",
+      "start": 23.7,
+      "end": 24.28
+    },
+    {
+      "word": "billing",
+      "start": 24.28,
+      "end": 24.56
+    },
+    {
+      "word": "entries.",
+      "start": 24.56,
+      "end": 25.0
+    },
+    {
+      "word": "You",
+      "start": 25.0,
+      "end": 25.72
+    },
+    {
+      "word": "submit",
+      "start": 25.72,
+      "end": 26.12
+    },
+    {
+      "word": "accurate",
+      "start": 26.12,
+      "end": 26.5
+    },
+    {
+      "word": "invoices",
+      "start": 26.5,
+      "end": 27.1
+    },
+    {
+      "word": "while",
+      "start": 27.1,
+      "end": 27.42
+    },
+    {
+      "word": "giving",
+      "start": 27.42,
+      "end": 27.64
+    },
+    {
+      "word": "you",
+      "start": 27.64,
+      "end": 27.9
+    },
+    {
+      "word": "your",
+      "start": 27.9,
+      "end": 28.08
+    },
+    {
+      "word": "weekends",
+      "start": 28.08,
+      "end": 28.36
+    },
+    {
+      "word": "back.",
+      "start": 28.36,
+      "end": 28.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop manually filling out timesheets at midnight on Friday.",
+      "line2": "AUTOMATE TIME TRACKING",
+      "tag": "\ud83d\uded1 Automated time tracking that links directly to freelance tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated time tracking that links directly to freelance tasks",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated time tracking that links directly to freelance tasks",
+        "subtitle": "Automated time tracking that links directly to freelance tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated time tracking that links directly to freelance tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated time tracking that links directly to freelance tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated time tracking that links directly to freelance tasks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

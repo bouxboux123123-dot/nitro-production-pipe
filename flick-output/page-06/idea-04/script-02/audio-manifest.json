@@ -1,0 +1,421 @@
+{
+  "page": "page-06",
+  "idea": "AI meeting recording summarizer that pushes key decisions to Notion",
+  "text": "This AI tool transcribes your calls, extracts key decisions, and syncs everything directly into Notion. Remote teams waste hours rewatching meeting recordings just to locate one specific client agreement or deadline. Without centralized documentation, agreed deliverables disappear into video archives and never translate into actual work. Use Fireflies with a Make webhook to push timestamped decisions and assigned tasks into your Notion database. This eliminates administrative busywork across your company.",
+  "duration": 31.269,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "AI",
+      "start": 0.26,
+      "end": 0.72
+    },
+    {
+      "word": "tool",
+      "start": 0.72,
+      "end": 1.06
+    },
+    {
+      "word": "transcribes",
+      "start": 1.06,
+      "end": 1.62
+    },
+    {
+      "word": "your",
+      "start": 1.62,
+      "end": 1.94
+    },
+    {
+      "word": "calls,",
+      "start": 1.94,
+      "end": 2.36
+    },
+    {
+      "word": "extracts",
+      "start": 2.78,
+      "end": 3.0
+    },
+    {
+      "word": "key",
+      "start": 3.0,
+      "end": 3.36
+    },
+    {
+      "word": "decisions,",
+      "start": 3.36,
+      "end": 3.86
+    },
+    {
+      "word": "and",
+      "start": 4.28,
+      "end": 4.46
+    },
+    {
+      "word": "syncs",
+      "start": 4.46,
+      "end": 4.7
+    },
+    {
+      "word": "everything",
+      "start": 4.7,
+      "end": 5.2
+    },
+    {
+      "word": "directly",
+      "start": 5.2,
+      "end": 5.72
+    },
+    {
+      "word": "into",
+      "start": 5.72,
+      "end": 5.94
+    },
+    {
+      "word": "Notion.",
+      "start": 5.94,
+      "end": 6.62
+    },
+    {
+      "word": "Remote",
+      "start": 7.12,
+      "end": 7.3
+    },
+    {
+      "word": "teams",
+      "start": 7.3,
+      "end": 7.82
+    },
+    {
+      "word": "waste",
+      "start": 7.82,
+      "end": 8.18
+    },
+    {
+      "word": "hours",
+      "start": 8.18,
+      "end": 8.54
+    },
+    {
+      "word": "were",
+      "start": 8.54,
+      "end": 8.8
+    },
+    {
+      "word": "watching",
+      "start": 8.8,
+      "end": 9.18
+    },
+    {
+      "word": "meeting",
+      "start": 9.18,
+      "end": 9.52
+    },
+    {
+      "word": "recordings",
+      "start": 9.52,
+      "end": 10.02
+    },
+    {
+      "word": "just",
+      "start": 10.02,
+      "end": 10.46
+    },
+    {
+      "word": "to",
+      "start": 10.46,
+      "end": 10.64
+    },
+    {
+      "word": "locate",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "word": "one",
+      "start": 10.96,
+      "end": 11.36
+    },
+    {
+      "word": "specific",
+      "start": 11.36,
+      "end": 11.86
+    },
+    {
+      "word": "client",
+      "start": 11.86,
+      "end": 12.16
+    },
+    {
+      "word": "agreement",
+      "start": 12.16,
+      "end": 12.6
+    },
+    {
+      "word": "or",
+      "start": 12.6,
+      "end": 13.0
+    },
+    {
+      "word": "deadline.",
+      "start": 13.0,
+      "end": 13.5
+    },
+    {
+      "word": "Without",
+      "start": 13.92,
+      "end": 14.24
+    },
+    {
+      "word": "centralized",
+      "start": 14.24,
+      "end": 14.78
+    },
+    {
+      "word": "documentation,",
+      "start": 14.78,
+      "end": 15.66
+    },
+    {
+      "word": "agreed",
+      "start": 16.2,
+      "end": 16.44
+    },
+    {
+      "word": "deliverables",
+      "start": 16.44,
+      "end": 16.98
+    },
+    {
+      "word": "disappear",
+      "start": 16.98,
+      "end": 17.48
+    },
+    {
+      "word": "into",
+      "start": 17.48,
+      "end": 17.78
+    },
+    {
+      "word": "video",
+      "start": 17.78,
+      "end": 18.1
+    },
+    {
+      "word": "archives",
+      "start": 18.1,
+      "end": 18.54
+    },
+    {
+      "word": "and",
+      "start": 18.54,
+      "end": 19.08
+    },
+    {
+      "word": "never",
+      "start": 19.08,
+      "end": 19.34
+    },
+    {
+      "word": "translate",
+      "start": 19.34,
+      "end": 19.8
+    },
+    {
+      "word": "into",
+      "start": 19.8,
+      "end": 20.16
+    },
+    {
+      "word": "actual",
+      "start": 20.16,
+      "end": 20.54
+    },
+    {
+      "word": "work.",
+      "start": 20.54,
+      "end": 21.18
+    },
+    {
+      "word": "Use",
+      "start": 21.52,
+      "end": 21.74
+    },
+    {
+      "word": "fireflies",
+      "start": 21.74,
+      "end": 22.36
+    },
+    {
+      "word": "with",
+      "start": 22.36,
+      "end": 22.62
+    },
+    {
+      "word": "a",
+      "start": 22.62,
+      "end": 22.74
+    },
+    {
+      "word": "make",
+      "start": 22.74,
+      "end": 22.92
+    },
+    {
+      "word": "webhook",
+      "start": 22.92,
+      "end": 23.32
+    },
+    {
+      "word": "to",
+      "start": 23.32,
+      "end": 23.5
+    },
+    {
+      "word": "push",
+      "start": 23.5,
+      "end": 23.76
+    },
+    {
+      "word": "timestamp",
+      "start": 23.76,
+      "end": 24.26
+    },
+    {
+      "word": "decisions",
+      "start": 24.26,
+      "end": 24.88
+    },
+    {
+      "word": "and",
+      "start": 24.88,
+      "end": 25.42
+    },
+    {
+      "word": "assign",
+      "start": 25.42,
+      "end": 25.76
+    },
+    {
+      "word": "tasks",
+      "start": 25.76,
+      "end": 26.26
+    },
+    {
+      "word": "into",
+      "start": 26.26,
+      "end": 26.5
+    },
+    {
+      "word": "your",
+      "start": 26.5,
+      "end": 26.74
+    },
+    {
+      "word": "Notion",
+      "start": 26.74,
+      "end": 27.04
+    },
+    {
+      "word": "database.",
+      "start": 27.04,
+      "end": 27.5
+    },
+    {
+      "word": "This",
+      "start": 27.5,
+      "end": 28.32
+    },
+    {
+      "word": "eliminates",
+      "start": 28.32,
+      "end": 28.92
+    },
+    {
+      "word": "administrative",
+      "start": 28.92,
+      "end": 29.64
+    },
+    {
+      "word": "busy",
+      "start": 29.64,
+      "end": 30.0
+    },
+    {
+      "word": "work",
+      "start": 30.0,
+      "end": 30.28
+    },
+    {
+      "word": "across",
+      "start": 30.28,
+      "end": 30.64
+    },
+    {
+      "word": "your",
+      "start": 30.64,
+      "end": 30.94
+    },
+    {
+      "word": "company.",
+      "start": 30.94,
+      "end": 31.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "This AI tool transcribes the call, highlights key decisions, and syncs directly to Notion.",
+      "line2": "PUSH DECISIONS TO NOTION",
+      "tag": "\ud83d\uded1 AI meeting recording summarizer that pushes key decisions to Notion",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: AI meeting recording summarizer that pushes key decisions to Notion",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: AI meeting recording summarizer that pushes key decisions to Notion",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

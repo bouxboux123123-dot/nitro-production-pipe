@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+  "text": "Here is how to get the exact answer from ChatGPT on your very first try. Iterating through five bad AI drafts wastes creative momentum and ruins your workflow efficiency. Unstructured prompts omit target audience, producing generic advice that solves none of your specific problems. Provide two high-performing writing examples before asking the model to generate your new copy. This few-shot prompt method guarantees spot-on deliverables instantly.",
+  "duration": 26.411,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "is",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "how",
+      "start": 0.34,
+      "end": 0.48
+    },
+    {
+      "word": "to",
+      "start": 0.48,
+      "end": 0.58
+    },
+    {
+      "word": "get",
+      "start": 0.58,
+      "end": 0.76
+    },
+    {
+      "word": "the",
+      "start": 0.76,
+      "end": 0.94
+    },
+    {
+      "word": "exact",
+      "start": 0.94,
+      "end": 1.22
+    },
+    {
+      "word": "answer",
+      "start": 1.22,
+      "end": 1.46
+    },
+    {
+      "word": "from",
+      "start": 1.46,
+      "end": 1.76
+    },
+    {
+      "word": "chat",
+      "start": 1.76,
+      "end": 2.04
+    },
+    {
+      "word": "GPT",
+      "start": 2.04,
+      "end": 2.54
+    },
+    {
+      "word": "on",
+      "start": 2.54,
+      "end": 2.68
+    },
+    {
+      "word": "your",
+      "start": 2.68,
+      "end": 2.88
+    },
+    {
+      "word": "very",
+      "start": 2.88,
+      "end": 3.1
+    },
+    {
+      "word": "first",
+      "start": 3.1,
+      "end": 3.42
+    },
+    {
+      "word": "try.",
+      "start": 3.42,
+      "end": 3.92
+    },
+    {
+      "word": "Iterating",
+      "start": 4.3,
+      "end": 4.62
+    },
+    {
+      "word": "through",
+      "start": 4.62,
+      "end": 4.94
+    },
+    {
+      "word": "five",
+      "start": 4.94,
+      "end": 5.34
+    },
+    {
+      "word": "bad",
+      "start": 5.34,
+      "end": 5.64
+    },
+    {
+      "word": "AI",
+      "start": 5.64,
+      "end": 6.02
+    },
+    {
+      "word": "drafts,",
+      "start": 6.02,
+      "end": 6.4
+    },
+    {
+      "word": "wastes",
+      "start": 6.6,
+      "end": 6.84
+    },
+    {
+      "word": "creative",
+      "start": 6.84,
+      "end": 7.32
+    },
+    {
+      "word": "momentum,",
+      "start": 7.32,
+      "end": 7.78
+    },
+    {
+      "word": "and",
+      "start": 8.36,
+      "end": 8.36
+    },
+    {
+      "word": "ruins",
+      "start": 8.36,
+      "end": 8.62
+    },
+    {
+      "word": "your",
+      "start": 8.62,
+      "end": 9.02
+    },
+    {
+      "word": "workflow",
+      "start": 9.02,
+      "end": 9.22
+    },
+    {
+      "word": "efficiency.",
+      "start": 9.22,
+      "end": 9.92
+    },
+    {
+      "word": "Unstructured",
+      "start": 10.6,
+      "end": 11.1
+    },
+    {
+      "word": "prompts",
+      "start": 11.1,
+      "end": 11.4
+    },
+    {
+      "word": "omit",
+      "start": 11.4,
+      "end": 11.74
+    },
+    {
+      "word": "target",
+      "start": 11.74,
+      "end": 12.16
+    },
+    {
+      "word": "audience,",
+      "start": 12.16,
+      "end": 12.68
+    },
+    {
+      "word": "producing",
+      "start": 13.04,
+      "end": 13.34
+    },
+    {
+      "word": "generic",
+      "start": 13.34,
+      "end": 13.78
+    },
+    {
+      "word": "advice",
+      "start": 13.78,
+      "end": 14.3
+    },
+    {
+      "word": "that",
+      "start": 14.3,
+      "end": 14.7
+    },
+    {
+      "word": "solves",
+      "start": 14.7,
+      "end": 15.02
+    },
+    {
+      "word": "none",
+      "start": 15.02,
+      "end": 15.32
+    },
+    {
+      "word": "of",
+      "start": 15.32,
+      "end": 15.4
+    },
+    {
+      "word": "your",
+      "start": 15.4,
+      "end": 15.64
+    },
+    {
+      "word": "specific",
+      "start": 15.64,
+      "end": 16.0
+    },
+    {
+      "word": "problems.",
+      "start": 16.0,
+      "end": 16.5
+    },
+    {
+      "word": "Provide",
+      "start": 17.04,
+      "end": 17.32
+    },
+    {
+      "word": "two",
+      "start": 17.32,
+      "end": 17.74
+    },
+    {
+      "word": "high",
+      "start": 17.74,
+      "end": 17.94
+    },
+    {
+      "word": "performing",
+      "start": 17.94,
+      "end": 18.4
+    },
+    {
+      "word": "writing",
+      "start": 18.4,
+      "end": 18.74
+    },
+    {
+      "word": "examples",
+      "start": 18.74,
+      "end": 19.28
+    },
+    {
+      "word": "before",
+      "start": 19.28,
+      "end": 19.84
+    },
+    {
+      "word": "asking",
+      "start": 19.84,
+      "end": 20.1
+    },
+    {
+      "word": "the",
+      "start": 20.1,
+      "end": 20.4
+    },
+    {
+      "word": "model",
+      "start": 20.4,
+      "end": 20.54
+    },
+    {
+      "word": "to",
+      "start": 20.54,
+      "end": 20.82
+    },
+    {
+      "word": "generate",
+      "start": 20.82,
+      "end": 21.08
+    },
+    {
+      "word": "your",
+      "start": 21.08,
+      "end": 21.38
+    },
+    {
+      "word": "new",
+      "start": 21.38,
+      "end": 21.54
+    },
+    {
+      "word": "copy.",
+      "start": 21.54,
+      "end": 21.8
+    },
+    {
+      "word": "This",
+      "start": 22.46,
+      "end": 22.7
+    },
+    {
+      "word": "few",
+      "start": 22.7,
+      "end": 22.96
+    },
+    {
+      "word": "-shot",
+      "start": 22.96,
+      "end": 23.24
+    },
+    {
+      "word": "prompt",
+      "start": 23.24,
+      "end": 23.58
+    },
+    {
+      "word": "method",
+      "start": 23.58,
+      "end": 24.0
+    },
+    {
+      "word": "guarantees",
+      "start": 24.0,
+      "end": 24.58
+    },
+    {
+      "word": "spot",
+      "start": 24.58,
+      "end": 25.02
+    },
+    {
+      "word": "-on",
+      "start": 25.02,
+      "end": 25.24
+    },
+    {
+      "word": "deliverables",
+      "start": 25.24,
+      "end": 25.8
+    },
+    {
+      "word": "instantly.",
+      "start": 25.8,
+      "end": 26.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How to get the exact answer you need from AI on your very first try.",
+      "line2": "BETTER CHATGPT PROMPTS",
+      "tag": "\ud83d\uded1 Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

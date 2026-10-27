@@ -1,0 +1,396 @@
+{
+  "page": "page-08",
+  "idea": "How to schedule emails to send at a later date and time automatically",
+  "text": "How to protect your work boundaries and make client communication look completely professional every day. Replying to emails late at night forces you into stressful twenty-four-hour availability loops. Unrestricted communication schedules invite constant client interruptions, ruining your evenings and creating severe burnout. Draft your responses whenever inspiration strikes, then click Schedule Send to deliver during business hours. You establish firm professional boundaries without delaying project deliverables.",
+  "duration": 29.882,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "to",
+      "start": 0.24,
+      "end": 0.36
+    },
+    {
+      "word": "protect",
+      "start": 0.36,
+      "end": 0.6
+    },
+    {
+      "word": "your",
+      "start": 0.6,
+      "end": 0.84
+    },
+    {
+      "word": "work",
+      "start": 0.84,
+      "end": 1.08
+    },
+    {
+      "word": "boundaries",
+      "start": 1.08,
+      "end": 1.48
+    },
+    {
+      "word": "and",
+      "start": 1.48,
+      "end": 1.86
+    },
+    {
+      "word": "make",
+      "start": 1.86,
+      "end": 2.14
+    },
+    {
+      "word": "client",
+      "start": 2.14,
+      "end": 2.42
+    },
+    {
+      "word": "communication",
+      "start": 2.42,
+      "end": 3.08
+    },
+    {
+      "word": "look",
+      "start": 3.08,
+      "end": 3.58
+    },
+    {
+      "word": "completely",
+      "start": 3.58,
+      "end": 4.08
+    },
+    {
+      "word": "professional",
+      "start": 4.08,
+      "end": 4.68
+    },
+    {
+      "word": "every",
+      "start": 4.68,
+      "end": 5.08
+    },
+    {
+      "word": "day.",
+      "start": 5.08,
+      "end": 5.92
+    },
+    {
+      "word": "Replying",
+      "start": 6.18,
+      "end": 6.5
+    },
+    {
+      "word": "to",
+      "start": 6.5,
+      "end": 6.72
+    },
+    {
+      "word": "emails",
+      "start": 6.72,
+      "end": 7.1
+    },
+    {
+      "word": "late",
+      "start": 7.1,
+      "end": 7.4
+    },
+    {
+      "word": "at",
+      "start": 7.4,
+      "end": 7.6
+    },
+    {
+      "word": "night",
+      "start": 7.6,
+      "end": 7.82
+    },
+    {
+      "word": "forces",
+      "start": 7.82,
+      "end": 8.12
+    },
+    {
+      "word": "you",
+      "start": 8.12,
+      "end": 8.44
+    },
+    {
+      "word": "into",
+      "start": 8.44,
+      "end": 8.72
+    },
+    {
+      "word": "stressful",
+      "start": 8.72,
+      "end": 9.08
+    },
+    {
+      "word": "24",
+      "start": 9.08,
+      "end": 9.7
+    },
+    {
+      "word": "hour",
+      "start": 9.7,
+      "end": 10.14
+    },
+    {
+      "word": "availability",
+      "start": 10.14,
+      "end": 10.56
+    },
+    {
+      "word": "loops.",
+      "start": 10.56,
+      "end": 11.12
+    },
+    {
+      "word": "Unrestricted",
+      "start": 11.54,
+      "end": 12.0
+    },
+    {
+      "word": "communication",
+      "start": 12.0,
+      "end": 12.76
+    },
+    {
+      "word": "schedules",
+      "start": 12.76,
+      "end": 13.5
+    },
+    {
+      "word": "invite",
+      "start": 13.5,
+      "end": 14.04
+    },
+    {
+      "word": "constant",
+      "start": 14.04,
+      "end": 14.56
+    },
+    {
+      "word": "client",
+      "start": 14.56,
+      "end": 14.9
+    },
+    {
+      "word": "interruptions,",
+      "start": 14.9,
+      "end": 15.86
+    },
+    {
+      "word": "ruining",
+      "start": 16.06,
+      "end": 16.18
+    },
+    {
+      "word": "your",
+      "start": 16.18,
+      "end": 16.56
+    },
+    {
+      "word": "evenings",
+      "start": 16.56,
+      "end": 16.88
+    },
+    {
+      "word": "and",
+      "start": 16.88,
+      "end": 17.34
+    },
+    {
+      "word": "creating",
+      "start": 17.34,
+      "end": 17.8
+    },
+    {
+      "word": "severe",
+      "start": 17.8,
+      "end": 18.2
+    },
+    {
+      "word": "burnout.",
+      "start": 18.2,
+      "end": 19.06
+    },
+    {
+      "word": "Draft",
+      "start": 19.28,
+      "end": 19.56
+    },
+    {
+      "word": "your",
+      "start": 19.56,
+      "end": 19.8
+    },
+    {
+      "word": "responses",
+      "start": 19.8,
+      "end": 20.3
+    },
+    {
+      "word": "whenever",
+      "start": 20.3,
+      "end": 20.7
+    },
+    {
+      "word": "inspiration",
+      "start": 20.7,
+      "end": 21.2
+    },
+    {
+      "word": "strikes,",
+      "start": 21.2,
+      "end": 21.72
+    },
+    {
+      "word": "then",
+      "start": 22.24,
+      "end": 22.36
+    },
+    {
+      "word": "click",
+      "start": 22.36,
+      "end": 22.6
+    },
+    {
+      "word": "schedule",
+      "start": 22.6,
+      "end": 22.96
+    },
+    {
+      "word": "send",
+      "start": 22.96,
+      "end": 23.34
+    },
+    {
+      "word": "to",
+      "start": 23.34,
+      "end": 23.56
+    },
+    {
+      "word": "deliver",
+      "start": 23.56,
+      "end": 23.76
+    },
+    {
+      "word": "during",
+      "start": 23.76,
+      "end": 24.2
+    },
+    {
+      "word": "business",
+      "start": 24.2,
+      "end": 24.58
+    },
+    {
+      "word": "hours.",
+      "start": 24.58,
+      "end": 25.04
+    },
+    {
+      "word": "You",
+      "start": 25.6,
+      "end": 25.76
+    },
+    {
+      "word": "establish",
+      "start": 25.76,
+      "end": 26.32
+    },
+    {
+      "word": "firm",
+      "start": 26.32,
+      "end": 26.68
+    },
+    {
+      "word": "professional",
+      "start": 26.68,
+      "end": 27.18
+    },
+    {
+      "word": "boundaries",
+      "start": 27.18,
+      "end": 27.72
+    },
+    {
+      "word": "without",
+      "start": 27.72,
+      "end": 28.26
+    },
+    {
+      "word": "delaying",
+      "start": 28.26,
+      "end": 28.66
+    },
+    {
+      "word": "project",
+      "start": 28.66,
+      "end": 29.24
+    },
+    {
+      "word": "deliverables.",
+      "start": 29.24,
+      "end": 29.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How to protect your work boundaries and make your communication look professional.",
+      "line2": "AUTO-SCHEDULE EMAILS",
+      "tag": "\ud83d\uded1 How to schedule emails to send at a later date and time automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to schedule emails to send at a later date and time automatically",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to schedule emails to send at a later date and time automatically",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to schedule emails to send at a later date and time automatically",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

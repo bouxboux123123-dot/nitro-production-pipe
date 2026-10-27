@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Founder personal brand content repurposing engine for LinkedIn and X",
+  "text": "Stop letting your startup's unique insights gather dust in internal Slack channels. Breakthrough product discoveries and customer feedback vanish into message archives instead of attracting new users. Great ideas die because busy founders lack time to reformat messy engineering notes into social copy. Set up an automation that turns bookmarked Slack messages into polished LinkedIn posts inside Notion queues. You turn everyday company wins into compounding audience growth.",
+  "duration": 29.093,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "letting",
+      "start": 0.4,
+      "end": 0.64
+    },
+    {
+      "word": "your",
+      "start": 0.64,
+      "end": 0.9
+    },
+    {
+      "word": "startups",
+      "start": 0.9,
+      "end": 1.16
+    },
+    {
+      "word": "unique",
+      "start": 1.16,
+      "end": 1.74
+    },
+    {
+      "word": "insights",
+      "start": 1.74,
+      "end": 2.28
+    },
+    {
+      "word": "gather",
+      "start": 2.28,
+      "end": 2.7
+    },
+    {
+      "word": "dust",
+      "start": 2.7,
+      "end": 3.1
+    },
+    {
+      "word": "in",
+      "start": 3.1,
+      "end": 3.46
+    },
+    {
+      "word": "internal",
+      "start": 3.46,
+      "end": 3.84
+    },
+    {
+      "word": "Slack",
+      "start": 3.84,
+      "end": 4.18
+    },
+    {
+      "word": "channels.",
+      "start": 4.18,
+      "end": 4.7
+    },
+    {
+      "word": "Breakthrough",
+      "start": 5.5,
+      "end": 5.8
+    },
+    {
+      "word": "product",
+      "start": 5.8,
+      "end": 6.12
+    },
+    {
+      "word": "discoveries",
+      "start": 6.12,
+      "end": 6.62
+    },
+    {
+      "word": "and",
+      "start": 6.62,
+      "end": 7.14
+    },
+    {
+      "word": "customer",
+      "start": 7.14,
+      "end": 7.34
+    },
+    {
+      "word": "feedback",
+      "start": 7.34,
+      "end": 7.88
+    },
+    {
+      "word": "vanish",
+      "start": 7.88,
+      "end": 8.6
+    },
+    {
+      "word": "into",
+      "start": 8.6,
+      "end": 8.86
+    },
+    {
+      "word": "message",
+      "start": 8.86,
+      "end": 9.24
+    },
+    {
+      "word": "archives",
+      "start": 9.24,
+      "end": 9.72
+    },
+    {
+      "word": "instead",
+      "start": 9.72,
+      "end": 10.3
+    },
+    {
+      "word": "of",
+      "start": 10.3,
+      "end": 10.5
+    },
+    {
+      "word": "attracting",
+      "start": 10.5,
+      "end": 10.88
+    },
+    {
+      "word": "new",
+      "start": 10.88,
+      "end": 11.18
+    },
+    {
+      "word": "users.",
+      "start": 11.18,
+      "end": 11.58
+    },
+    {
+      "word": "Great",
+      "start": 11.96,
+      "end": 12.26
+    },
+    {
+      "word": "ideas",
+      "start": 12.26,
+      "end": 12.74
+    },
+    {
+      "word": "die",
+      "start": 12.74,
+      "end": 13.26
+    },
+    {
+      "word": "because",
+      "start": 13.26,
+      "end": 13.66
+    },
+    {
+      "word": "busy",
+      "start": 13.66,
+      "end": 14.0
+    },
+    {
+      "word": "founders",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "word": "lack",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "word": "time",
+      "start": 14.72,
+      "end": 15.04
+    },
+    {
+      "word": "to",
+      "start": 15.04,
+      "end": 15.24
+    },
+    {
+      "word": "reform",
+      "start": 15.24,
+      "end": 15.56
+    },
+    {
+      "word": "at",
+      "start": 15.56,
+      "end": 15.86
+    },
+    {
+      "word": "messy",
+      "start": 15.86,
+      "end": 16.04
+    },
+    {
+      "word": "engineering",
+      "start": 16.04,
+      "end": 16.58
+    },
+    {
+      "word": "notes",
+      "start": 16.58,
+      "end": 16.9
+    },
+    {
+      "word": "into",
+      "start": 16.9,
+      "end": 17.18
+    },
+    {
+      "word": "social",
+      "start": 17.18,
+      "end": 17.56
+    },
+    {
+      "word": "copy.",
+      "start": 17.56,
+      "end": 18.08
+    },
+    {
+      "word": "Set",
+      "start": 18.56,
+      "end": 18.72
+    },
+    {
+      "word": "up",
+      "start": 18.72,
+      "end": 18.88
+    },
+    {
+      "word": "an",
+      "start": 18.88,
+      "end": 19.08
+    },
+    {
+      "word": "automation",
+      "start": 19.08,
+      "end": 19.52
+    },
+    {
+      "word": "that",
+      "start": 19.52,
+      "end": 20.26
+    },
+    {
+      "word": "turns",
+      "start": 20.26,
+      "end": 20.28
+    },
+    {
+      "word": "bookmarked",
+      "start": 20.28,
+      "end": 21.12
+    },
+    {
+      "word": "Slack",
+      "start": 21.12,
+      "end": 21.18
+    },
+    {
+      "word": "messages",
+      "start": 21.18,
+      "end": 21.66
+    },
+    {
+      "word": "into",
+      "start": 21.66,
+      "end": 22.06
+    },
+    {
+      "word": "polished",
+      "start": 22.06,
+      "end": 22.46
+    },
+    {
+      "word": "linked",
+      "start": 22.46,
+      "end": 22.88
+    },
+    {
+      "word": "-in",
+      "start": 22.88,
+      "end": 23.1
+    },
+    {
+      "word": "posts",
+      "start": 23.1,
+      "end": 23.52
+    },
+    {
+      "word": "inside",
+      "start": 23.52,
+      "end": 24.12
+    },
+    {
+      "word": "notion",
+      "start": 24.12,
+      "end": 24.56
+    },
+    {
+      "word": "queues.",
+      "start": 24.56,
+      "end": 25.08
+    },
+    {
+      "word": "You",
+      "start": 25.54,
+      "end": 25.7
+    },
+    {
+      "word": "turn",
+      "start": 25.7,
+      "end": 25.94
+    },
+    {
+      "word": "everyday",
+      "start": 25.94,
+      "end": 26.42
+    },
+    {
+      "word": "company",
+      "start": 26.42,
+      "end": 26.92
+    },
+    {
+      "word": "wins",
+      "start": 26.92,
+      "end": 27.2
+    },
+    {
+      "word": "into",
+      "start": 27.2,
+      "end": 27.48
+    },
+    {
+      "word": "compounding",
+      "start": 27.48,
+      "end": 28.12
+    },
+    {
+      "word": "audience",
+      "start": 28.12,
+      "end": 28.66
+    },
+    {
+      "word": "growth.",
+      "start": 28.66,
+      "end": 29.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop letting your startup's unique insights gather dust in Slack channels.",
+      "line2": "REPURPOSE FOUNDER CONTENT",
+      "tag": "\ud83d\uded1 Founder personal brand content repurposing engine for LinkedIn and X",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder personal brand content repurposing engine for LinkedIn and X",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder personal brand content repurposing engine for LinkedIn and X",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

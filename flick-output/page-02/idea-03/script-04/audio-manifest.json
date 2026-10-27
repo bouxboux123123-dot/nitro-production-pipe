@@ -1,0 +1,421 @@
+{
+  "page": "page-02",
+  "idea": "AI scope creep detector for client email threads",
+  "text": "Never do free work again: this tool catches unpaid client requests instantly. Clients rarely respect project boundaries when extra requests are scattered across random Slack threads and weekend emails. Without clear tracking, scope creep drains your team capacity and pushes client deliverables weeks behind schedule. Link your Gmail and Slack to Zapier to compare incoming tasks directly against your original contract deliverables. You convert sneaky scope creep into profitable add-on revenue.",
+  "duration": 29.669,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Never",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "do",
+      "start": 0.28,
+      "end": 0.52
+    },
+    {
+      "word": "free",
+      "start": 0.52,
+      "end": 0.7
+    },
+    {
+      "word": "work",
+      "start": 0.7,
+      "end": 0.86
+    },
+    {
+      "word": "again.",
+      "start": 0.86,
+      "end": 1.24
+    },
+    {
+      "word": "This",
+      "start": 1.62,
+      "end": 1.84
+    },
+    {
+      "word": "tool",
+      "start": 1.84,
+      "end": 2.14
+    },
+    {
+      "word": "catches",
+      "start": 2.14,
+      "end": 2.6
+    },
+    {
+      "word": "unpaid",
+      "start": 2.6,
+      "end": 3.1
+    },
+    {
+      "word": "client",
+      "start": 3.1,
+      "end": 3.5
+    },
+    {
+      "word": "requests",
+      "start": 3.5,
+      "end": 3.98
+    },
+    {
+      "word": "instantly.",
+      "start": 3.98,
+      "end": 4.64
+    },
+    {
+      "word": "Clients",
+      "start": 5.34,
+      "end": 5.58
+    },
+    {
+      "word": "rarely",
+      "start": 5.58,
+      "end": 6.0
+    },
+    {
+      "word": "respect",
+      "start": 6.0,
+      "end": 6.46
+    },
+    {
+      "word": "project",
+      "start": 6.46,
+      "end": 7.02
+    },
+    {
+      "word": "boundaries",
+      "start": 7.02,
+      "end": 7.42
+    },
+    {
+      "word": "when",
+      "start": 7.42,
+      "end": 7.84
+    },
+    {
+      "word": "extra",
+      "start": 7.84,
+      "end": 8.18
+    },
+    {
+      "word": "requests",
+      "start": 8.18,
+      "end": 8.72
+    },
+    {
+      "word": "are",
+      "start": 8.72,
+      "end": 9.08
+    },
+    {
+      "word": "scattered",
+      "start": 9.08,
+      "end": 9.34
+    },
+    {
+      "word": "across",
+      "start": 9.34,
+      "end": 9.78
+    },
+    {
+      "word": "random",
+      "start": 9.78,
+      "end": 10.2
+    },
+    {
+      "word": "Slack",
+      "start": 10.2,
+      "end": 10.52
+    },
+    {
+      "word": "threads",
+      "start": 10.52,
+      "end": 10.92
+    },
+    {
+      "word": "and",
+      "start": 10.92,
+      "end": 11.16
+    },
+    {
+      "word": "weekend",
+      "start": 11.16,
+      "end": 11.52
+    },
+    {
+      "word": "emails.",
+      "start": 11.52,
+      "end": 12.0
+    },
+    {
+      "word": "Without",
+      "start": 12.4,
+      "end": 12.72
+    },
+    {
+      "word": "clear",
+      "start": 12.72,
+      "end": 12.94
+    },
+    {
+      "word": "tracking,",
+      "start": 12.94,
+      "end": 13.46
+    },
+    {
+      "word": "scope",
+      "start": 13.82,
+      "end": 14.1
+    },
+    {
+      "word": "creep",
+      "start": 14.1,
+      "end": 14.32
+    },
+    {
+      "word": "drains",
+      "start": 14.32,
+      "end": 14.64
+    },
+    {
+      "word": "your",
+      "start": 14.64,
+      "end": 14.88
+    },
+    {
+      "word": "team",
+      "start": 14.88,
+      "end": 15.12
+    },
+    {
+      "word": "capacity",
+      "start": 15.12,
+      "end": 15.68
+    },
+    {
+      "word": "and",
+      "start": 15.68,
+      "end": 16.22
+    },
+    {
+      "word": "pushes",
+      "start": 16.22,
+      "end": 16.46
+    },
+    {
+      "word": "client",
+      "start": 16.46,
+      "end": 16.9
+    },
+    {
+      "word": "deliverables",
+      "start": 16.9,
+      "end": 17.38
+    },
+    {
+      "word": "weeks",
+      "start": 17.38,
+      "end": 17.76
+    },
+    {
+      "word": "behind",
+      "start": 17.76,
+      "end": 18.14
+    },
+    {
+      "word": "schedule.",
+      "start": 18.14,
+      "end": 18.62
+    },
+    {
+      "word": "Link",
+      "start": 19.16,
+      "end": 19.34
+    },
+    {
+      "word": "your",
+      "start": 19.34,
+      "end": 19.6
+    },
+    {
+      "word": "Gmail",
+      "start": 19.6,
+      "end": 20.02
+    },
+    {
+      "word": "and",
+      "start": 20.02,
+      "end": 20.4
+    },
+    {
+      "word": "Slack",
+      "start": 20.4,
+      "end": 20.64
+    },
+    {
+      "word": "to",
+      "start": 20.64,
+      "end": 20.86
+    },
+    {
+      "word": "Zapier",
+      "start": 20.86,
+      "end": 21.26
+    },
+    {
+      "word": "to",
+      "start": 21.26,
+      "end": 21.58
+    },
+    {
+      "word": "compare",
+      "start": 21.58,
+      "end": 21.94
+    },
+    {
+      "word": "incoming",
+      "start": 21.94,
+      "end": 22.44
+    },
+    {
+      "word": "tasks",
+      "start": 22.44,
+      "end": 22.98
+    },
+    {
+      "word": "directly",
+      "start": 22.98,
+      "end": 23.48
+    },
+    {
+      "word": "against",
+      "start": 23.48,
+      "end": 23.88
+    },
+    {
+      "word": "your",
+      "start": 23.88,
+      "end": 24.12
+    },
+    {
+      "word": "original",
+      "start": 24.12,
+      "end": 24.5
+    },
+    {
+      "word": "contract",
+      "start": 24.5,
+      "end": 24.98
+    },
+    {
+      "word": "deliverables.",
+      "start": 24.98,
+      "end": 25.6
+    },
+    {
+      "word": "You",
+      "start": 26.2,
+      "end": 26.32
+    },
+    {
+      "word": "convert",
+      "start": 26.32,
+      "end": 26.68
+    },
+    {
+      "word": "sneaky",
+      "start": 26.68,
+      "end": 27.14
+    },
+    {
+      "word": "scope",
+      "start": 27.14,
+      "end": 27.62
+    },
+    {
+      "word": "creep",
+      "start": 27.62,
+      "end": 27.88
+    },
+    {
+      "word": "into",
+      "start": 27.88,
+      "end": 28.18
+    },
+    {
+      "word": "profitable",
+      "start": 28.18,
+      "end": 28.7
+    },
+    {
+      "word": "add",
+      "start": 28.7,
+      "end": 29.0
+    },
+    {
+      "word": "-on",
+      "start": 29.0,
+      "end": 29.24
+    },
+    {
+      "word": "revenue.",
+      "start": 29.24,
+      "end": 29.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Never do free work again: this tool catches unpaid client requests instantly.",
+      "line2": "STOP SCOPE CREEP",
+      "tag": "\ud83d\uded1 AI scope creep detector for client email threads",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI scope creep detector for client email threads",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI scope creep detector for client email threads",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI scope creep detector for client email threads",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

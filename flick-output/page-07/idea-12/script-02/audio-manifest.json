@@ -1,0 +1,421 @@
+{
+  "page": "page-07",
+  "idea": "AI meeting prep bot that briefs founders before prospective client calls",
+  "text": "This automated workflow scans LinkedIn, recent news, and company filings into a one-page brief. Busy executives lose thirty minutes manually researching prospect backgrounds before every single prospect consultation. Incomplete intel causes missed rapport opportunities and fumbled questions during high-stakes discovery conversations. Trigger Perplexity and Make via your calendar events to compile executive history, funding rounds, and pain points into Slack. Command the conversation with authoritative insights every time.",
+  "duration": 32.527,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "automated",
+      "start": 0.3,
+      "end": 0.8
+    },
+    {
+      "word": "workflow",
+      "start": 0.8,
+      "end": 1.24
+    },
+    {
+      "word": "scans",
+      "start": 1.24,
+      "end": 1.76
+    },
+    {
+      "word": "linked",
+      "start": 1.76,
+      "end": 2.06
+    },
+    {
+      "word": "in,",
+      "start": 2.06,
+      "end": 2.62
+    },
+    {
+      "word": "recent",
+      "start": 2.8,
+      "end": 2.98
+    },
+    {
+      "word": "news,",
+      "start": 2.98,
+      "end": 3.48
+    },
+    {
+      "word": "and",
+      "start": 3.84,
+      "end": 4.08
+    },
+    {
+      "word": "company",
+      "start": 4.08,
+      "end": 4.4
+    },
+    {
+      "word": "filings",
+      "start": 4.4,
+      "end": 4.82
+    },
+    {
+      "word": "into",
+      "start": 4.82,
+      "end": 5.16
+    },
+    {
+      "word": "a",
+      "start": 5.16,
+      "end": 5.32
+    },
+    {
+      "word": "one",
+      "start": 5.32,
+      "end": 5.56
+    },
+    {
+      "word": "-page",
+      "start": 5.56,
+      "end": 5.84
+    },
+    {
+      "word": "brief.",
+      "start": 5.84,
+      "end": 6.54
+    },
+    {
+      "word": "Busy",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "word": "executives",
+      "start": 7.2,
+      "end": 7.7
+    },
+    {
+      "word": "lose",
+      "start": 7.7,
+      "end": 8.16
+    },
+    {
+      "word": "30",
+      "start": 8.16,
+      "end": 8.54
+    },
+    {
+      "word": "minutes",
+      "start": 8.54,
+      "end": 8.84
+    },
+    {
+      "word": "manually",
+      "start": 8.84,
+      "end": 9.28
+    },
+    {
+      "word": "researching",
+      "start": 9.28,
+      "end": 9.84
+    },
+    {
+      "word": "prospect",
+      "start": 9.84,
+      "end": 10.44
+    },
+    {
+      "word": "backgrounds",
+      "start": 10.44,
+      "end": 10.94
+    },
+    {
+      "word": "before",
+      "start": 10.94,
+      "end": 11.44
+    },
+    {
+      "word": "every",
+      "start": 11.44,
+      "end": 11.78
+    },
+    {
+      "word": "single",
+      "start": 11.78,
+      "end": 12.14
+    },
+    {
+      "word": "prospect",
+      "start": 12.14,
+      "end": 12.66
+    },
+    {
+      "word": "consultation.",
+      "start": 12.66,
+      "end": 13.34
+    },
+    {
+      "word": "In",
+      "start": 13.84,
+      "end": 13.92
+    },
+    {
+      "word": "complete",
+      "start": 13.92,
+      "end": 14.28
+    },
+    {
+      "word": "intel",
+      "start": 14.28,
+      "end": 14.64
+    },
+    {
+      "word": "causes",
+      "start": 14.64,
+      "end": 15.18
+    },
+    {
+      "word": "missed",
+      "start": 15.18,
+      "end": 15.56
+    },
+    {
+      "word": "rapport",
+      "start": 15.56,
+      "end": 15.96
+    },
+    {
+      "word": "opportunities",
+      "start": 15.96,
+      "end": 16.6
+    },
+    {
+      "word": "and",
+      "start": 16.6,
+      "end": 17.14
+    },
+    {
+      "word": "fumbled",
+      "start": 17.14,
+      "end": 17.44
+    },
+    {
+      "word": "questions",
+      "start": 17.44,
+      "end": 17.96
+    },
+    {
+      "word": "during",
+      "start": 17.96,
+      "end": 18.4
+    },
+    {
+      "word": "high",
+      "start": 18.4,
+      "end": 18.72
+    },
+    {
+      "word": "stakes",
+      "start": 18.72,
+      "end": 19.0
+    },
+    {
+      "word": "discovery",
+      "start": 19.0,
+      "end": 19.58
+    },
+    {
+      "word": "conversations.",
+      "start": 19.58,
+      "end": 20.34
+    },
+    {
+      "word": "Trigger",
+      "start": 21.02,
+      "end": 21.26
+    },
+    {
+      "word": "perplexity",
+      "start": 21.26,
+      "end": 21.92
+    },
+    {
+      "word": "and",
+      "start": 21.92,
+      "end": 22.3
+    },
+    {
+      "word": "make",
+      "start": 22.3,
+      "end": 22.52
+    },
+    {
+      "word": "via",
+      "start": 22.52,
+      "end": 22.74
+    },
+    {
+      "word": "your",
+      "start": 22.74,
+      "end": 23.08
+    },
+    {
+      "word": "calendar",
+      "start": 23.08,
+      "end": 23.32
+    },
+    {
+      "word": "events",
+      "start": 23.32,
+      "end": 23.72
+    },
+    {
+      "word": "to",
+      "start": 23.72,
+      "end": 24.02
+    },
+    {
+      "word": "compile",
+      "start": 24.02,
+      "end": 24.42
+    },
+    {
+      "word": "executive",
+      "start": 24.42,
+      "end": 24.98
+    },
+    {
+      "word": "history,",
+      "start": 24.98,
+      "end": 25.66
+    },
+    {
+      "word": "funding",
+      "start": 26.22,
+      "end": 26.22
+    },
+    {
+      "word": "rounds,",
+      "start": 26.22,
+      "end": 26.7
+    },
+    {
+      "word": "and",
+      "start": 27.02,
+      "end": 27.36
+    },
+    {
+      "word": "pain",
+      "start": 27.36,
+      "end": 27.62
+    },
+    {
+      "word": "points",
+      "start": 27.62,
+      "end": 27.92
+    },
+    {
+      "word": "into",
+      "start": 27.92,
+      "end": 28.2
+    },
+    {
+      "word": "Slack.",
+      "start": 28.2,
+      "end": 28.64
+    },
+    {
+      "word": "Command",
+      "start": 28.64,
+      "end": 29.44
+    },
+    {
+      "word": "the",
+      "start": 29.44,
+      "end": 29.82
+    },
+    {
+      "word": "conversation",
+      "start": 29.82,
+      "end": 30.28
+    },
+    {
+      "word": "with",
+      "start": 30.28,
+      "end": 30.72
+    },
+    {
+      "word": "authoritative",
+      "start": 30.72,
+      "end": 31.18
+    },
+    {
+      "word": "insights",
+      "start": 31.18,
+      "end": 31.72
+    },
+    {
+      "word": "every",
+      "start": 31.72,
+      "end": 32.08
+    },
+    {
+      "word": "time.",
+      "start": 32.08,
+      "end": 32.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "This tool scans LinkedIn, recent news, and company filings, and outputs a 1-page brief.",
+      "line2": "PREP CLIENT CALLS FASTER",
+      "tag": "\ud83d\uded1 AI meeting prep bot that briefs founders before prospective client calls",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: AI meeting prep bot that briefs founders before prospective client calls",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: AI meeting prep bot that briefs founders before prospective client calls",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

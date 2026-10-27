@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Jellyfin: self-host your own private media streaming server for free",
+  "text": "Turn an old laptop or desktop into your personal free streaming hub today. Unused computers sit in office closets collecting dust while teams pay recurring subscriptions for cloud storage. Consumer cloud services charge expensive monthly fees that scale rapidly as your video archives grow. Installing Jellyfin on that spare machine instantly converts it into a high-speed local streaming media server. You repurpose idle hardware into zero-cost media infrastructure.",
+  "duration": 29.327,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Turn",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "an",
+      "start": 0.26,
+      "end": 0.44
+    },
+    {
+      "word": "old",
+      "start": 0.44,
+      "end": 0.68
+    },
+    {
+      "word": "laptop",
+      "start": 0.68,
+      "end": 1.06
+    },
+    {
+      "word": "or",
+      "start": 1.06,
+      "end": 1.46
+    },
+    {
+      "word": "desktop",
+      "start": 1.46,
+      "end": 1.92
+    },
+    {
+      "word": "into",
+      "start": 1.92,
+      "end": 2.2
+    },
+    {
+      "word": "your",
+      "start": 2.2,
+      "end": 2.46
+    },
+    {
+      "word": "personal",
+      "start": 2.46,
+      "end": 2.8
+    },
+    {
+      "word": "free",
+      "start": 2.8,
+      "end": 3.08
+    },
+    {
+      "word": "streaming",
+      "start": 3.08,
+      "end": 3.42
+    },
+    {
+      "word": "hub",
+      "start": 3.42,
+      "end": 3.66
+    },
+    {
+      "word": "today.",
+      "start": 3.66,
+      "end": 4.28
+    },
+    {
+      "word": "Unused",
+      "start": 4.82,
+      "end": 5.12
+    },
+    {
+      "word": "computers",
+      "start": 5.12,
+      "end": 5.56
+    },
+    {
+      "word": "sit",
+      "start": 5.56,
+      "end": 5.86
+    },
+    {
+      "word": "in",
+      "start": 5.86,
+      "end": 6.06
+    },
+    {
+      "word": "office",
+      "start": 6.06,
+      "end": 6.32
+    },
+    {
+      "word": "closets",
+      "start": 6.32,
+      "end": 6.84
+    },
+    {
+      "word": "collecting",
+      "start": 6.84,
+      "end": 7.26
+    },
+    {
+      "word": "dust",
+      "start": 7.26,
+      "end": 7.72
+    },
+    {
+      "word": "while",
+      "start": 7.72,
+      "end": 8.2
+    },
+    {
+      "word": "teams",
+      "start": 8.2,
+      "end": 8.6
+    },
+    {
+      "word": "pay",
+      "start": 8.6,
+      "end": 8.96
+    },
+    {
+      "word": "recurring",
+      "start": 8.96,
+      "end": 9.4
+    },
+    {
+      "word": "subscriptions",
+      "start": 9.4,
+      "end": 10.04
+    },
+    {
+      "word": "for",
+      "start": 10.04,
+      "end": 10.38
+    },
+    {
+      "word": "cloud",
+      "start": 10.38,
+      "end": 10.76
+    },
+    {
+      "word": "storage.",
+      "start": 10.76,
+      "end": 11.28
+    },
+    {
+      "word": "Consumer",
+      "start": 11.98,
+      "end": 12.0
+    },
+    {
+      "word": "cloud",
+      "start": 12.0,
+      "end": 12.48
+    },
+    {
+      "word": "services",
+      "start": 12.48,
+      "end": 12.96
+    },
+    {
+      "word": "charge",
+      "start": 12.96,
+      "end": 13.54
+    },
+    {
+      "word": "expensive",
+      "start": 13.54,
+      "end": 14.16
+    },
+    {
+      "word": "monthly",
+      "start": 14.16,
+      "end": 14.76
+    },
+    {
+      "word": "fees",
+      "start": 14.76,
+      "end": 15.22
+    },
+    {
+      "word": "that",
+      "start": 15.22,
+      "end": 15.66
+    },
+    {
+      "word": "scale",
+      "start": 15.66,
+      "end": 16.0
+    },
+    {
+      "word": "rapidly",
+      "start": 16.0,
+      "end": 16.42
+    },
+    {
+      "word": "as",
+      "start": 16.42,
+      "end": 16.94
+    },
+    {
+      "word": "your",
+      "start": 16.94,
+      "end": 17.1
+    },
+    {
+      "word": "video",
+      "start": 17.1,
+      "end": 17.36
+    },
+    {
+      "word": "archives",
+      "start": 17.36,
+      "end": 17.78
+    },
+    {
+      "word": "grow.",
+      "start": 17.78,
+      "end": 18.36
+    },
+    {
+      "word": "Installing",
+      "start": 18.98,
+      "end": 19.44
+    },
+    {
+      "word": "jellafin",
+      "start": 19.44,
+      "end": 19.94
+    },
+    {
+      "word": "on",
+      "start": 19.94,
+      "end": 20.14
+    },
+    {
+      "word": "that",
+      "start": 20.14,
+      "end": 20.4
+    },
+    {
+      "word": "spare",
+      "start": 20.4,
+      "end": 20.6
+    },
+    {
+      "word": "machine",
+      "start": 20.6,
+      "end": 21.22
+    },
+    {
+      "word": "instantly",
+      "start": 21.22,
+      "end": 21.88
+    },
+    {
+      "word": "converts",
+      "start": 21.88,
+      "end": 22.3
+    },
+    {
+      "word": "it",
+      "start": 22.3,
+      "end": 22.56
+    },
+    {
+      "word": "into",
+      "start": 22.56,
+      "end": 22.74
+    },
+    {
+      "word": "a",
+      "start": 22.74,
+      "end": 22.92
+    },
+    {
+      "word": "high",
+      "start": 22.92,
+      "end": 23.2
+    },
+    {
+      "word": "-speed",
+      "start": 23.2,
+      "end": 23.48
+    },
+    {
+      "word": "local",
+      "start": 23.48,
+      "end": 23.88
+    },
+    {
+      "word": "streaming",
+      "start": 23.88,
+      "end": 24.32
+    },
+    {
+      "word": "media",
+      "start": 24.32,
+      "end": 24.68
+    },
+    {
+      "word": "server.",
+      "start": 24.68,
+      "end": 25.12
+    },
+    {
+      "word": "You",
+      "start": 25.12,
+      "end": 25.76
+    },
+    {
+      "word": "repurpose",
+      "start": 25.76,
+      "end": 26.26
+    },
+    {
+      "word": "idle",
+      "start": 26.26,
+      "end": 26.58
+    },
+    {
+      "word": "hardware",
+      "start": 26.58,
+      "end": 27.06
+    },
+    {
+      "word": "into",
+      "start": 27.06,
+      "end": 27.4
+    },
+    {
+      "word": "zero",
+      "start": 27.4,
+      "end": 27.8
+    },
+    {
+      "word": "cost",
+      "start": 27.8,
+      "end": 28.2
+    },
+    {
+      "word": "media",
+      "start": 28.2,
+      "end": 28.56
+    },
+    {
+      "word": "infrastructure.",
+      "start": 28.56,
+      "end": 29.18
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Turn an old laptop or desktop into your personal free streaming hub.",
+      "line2": "SELF-HOST MEDIA SERVERS",
+      "tag": "\ud83d\uded1 Jellyfin",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Jellyfin",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Jellyfin",
+        "subtitle": "Jellyfin"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Jellyfin"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Jellyfin"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Jellyfin",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

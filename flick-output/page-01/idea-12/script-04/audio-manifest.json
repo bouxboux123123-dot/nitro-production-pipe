@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated lead qualification funnel that filters out tire-kickers",
+  "text": "How top agencies double their sales conversion rate by talking to fewer, better prospects. Taking every discovery call creates burnout while lowering proposal close rates across your entire sales organization. Unfiltered booking pages force founders into unpaid consulting calls that never convert into paying client retainers. Implement an automated Make qualification funnel that screens lead revenue before releasing your private booking calendar. You maximize sales efficiency and win higher retainers.",
+  "duration": 30.821,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "top",
+      "start": 0.28,
+      "end": 0.6
+    },
+    {
+      "word": "agencies",
+      "start": 0.6,
+      "end": 1.06
+    },
+    {
+      "word": "double",
+      "start": 1.06,
+      "end": 1.46
+    },
+    {
+      "word": "their",
+      "start": 1.46,
+      "end": 1.74
+    },
+    {
+      "word": "sales",
+      "start": 1.74,
+      "end": 2.08
+    },
+    {
+      "word": "conversion",
+      "start": 2.08,
+      "end": 2.56
+    },
+    {
+      "word": "rate",
+      "start": 2.56,
+      "end": 2.92
+    },
+    {
+      "word": "by",
+      "start": 2.92,
+      "end": 3.12
+    },
+    {
+      "word": "talking",
+      "start": 3.12,
+      "end": 3.46
+    },
+    {
+      "word": "to",
+      "start": 3.46,
+      "end": 3.74
+    },
+    {
+      "word": "fewer,",
+      "start": 3.74,
+      "end": 4.18
+    },
+    {
+      "word": "better",
+      "start": 4.2,
+      "end": 4.44
+    },
+    {
+      "word": "prospects.",
+      "start": 4.44,
+      "end": 5.08
+    },
+    {
+      "word": "Taking",
+      "start": 5.92,
+      "end": 5.92
+    },
+    {
+      "word": "every",
+      "start": 5.92,
+      "end": 6.36
+    },
+    {
+      "word": "discovery",
+      "start": 6.36,
+      "end": 6.78
+    },
+    {
+      "word": "call",
+      "start": 6.78,
+      "end": 7.16
+    },
+    {
+      "word": "creates",
+      "start": 7.16,
+      "end": 7.62
+    },
+    {
+      "word": "burnout",
+      "start": 7.62,
+      "end": 8.22
+    },
+    {
+      "word": "while",
+      "start": 8.22,
+      "end": 8.52
+    },
+    {
+      "word": "lowering",
+      "start": 8.52,
+      "end": 8.88
+    },
+    {
+      "word": "proposal",
+      "start": 8.88,
+      "end": 9.36
+    },
+    {
+      "word": "close",
+      "start": 9.36,
+      "end": 9.76
+    },
+    {
+      "word": "rates",
+      "start": 9.76,
+      "end": 10.08
+    },
+    {
+      "word": "across",
+      "start": 10.08,
+      "end": 10.38
+    },
+    {
+      "word": "your",
+      "start": 10.38,
+      "end": 10.7
+    },
+    {
+      "word": "entire",
+      "start": 10.7,
+      "end": 10.98
+    },
+    {
+      "word": "sales",
+      "start": 10.98,
+      "end": 11.52
+    },
+    {
+      "word": "organization.",
+      "start": 11.52,
+      "end": 12.34
+    },
+    {
+      "word": "Unfiltered",
+      "start": 12.8,
+      "end": 13.24
+    },
+    {
+      "word": "booking",
+      "start": 13.24,
+      "end": 13.6
+    },
+    {
+      "word": "pages",
+      "start": 13.6,
+      "end": 14.08
+    },
+    {
+      "word": "force",
+      "start": 14.08,
+      "end": 14.58
+    },
+    {
+      "word": "founders",
+      "start": 14.58,
+      "end": 14.96
+    },
+    {
+      "word": "into",
+      "start": 14.96,
+      "end": 15.36
+    },
+    {
+      "word": "unpaid",
+      "start": 15.36,
+      "end": 15.8
+    },
+    {
+      "word": "consulting",
+      "start": 15.8,
+      "end": 16.34
+    },
+    {
+      "word": "calls",
+      "start": 16.34,
+      "end": 16.86
+    },
+    {
+      "word": "that",
+      "start": 16.86,
+      "end": 17.3
+    },
+    {
+      "word": "never",
+      "start": 17.3,
+      "end": 17.58
+    },
+    {
+      "word": "convert",
+      "start": 17.58,
+      "end": 17.9
+    },
+    {
+      "word": "into",
+      "start": 17.9,
+      "end": 18.18
+    },
+    {
+      "word": "paying",
+      "start": 18.18,
+      "end": 18.6
+    },
+    {
+      "word": "client",
+      "start": 18.6,
+      "end": 18.98
+    },
+    {
+      "word": "retainers.",
+      "start": 18.98,
+      "end": 19.94
+    },
+    {
+      "word": "Implement",
+      "start": 20.3,
+      "end": 20.54
+    },
+    {
+      "word": "an",
+      "start": 20.54,
+      "end": 21.08
+    },
+    {
+      "word": "automated",
+      "start": 21.08,
+      "end": 21.4
+    },
+    {
+      "word": "make",
+      "start": 21.4,
+      "end": 21.86
+    },
+    {
+      "word": "qualification",
+      "start": 21.86,
+      "end": 22.42
+    },
+    {
+      "word": "funnel",
+      "start": 22.42,
+      "end": 22.86
+    },
+    {
+      "word": "that",
+      "start": 22.86,
+      "end": 23.42
+    },
+    {
+      "word": "screens",
+      "start": 23.42,
+      "end": 23.84
+    },
+    {
+      "word": "lead",
+      "start": 23.84,
+      "end": 24.14
+    },
+    {
+      "word": "revenue",
+      "start": 24.14,
+      "end": 24.58
+    },
+    {
+      "word": "before",
+      "start": 24.58,
+      "end": 25.02
+    },
+    {
+      "word": "releasing",
+      "start": 25.02,
+      "end": 25.32
+    },
+    {
+      "word": "your",
+      "start": 25.32,
+      "end": 25.92
+    },
+    {
+      "word": "private",
+      "start": 25.92,
+      "end": 26.0
+    },
+    {
+      "word": "booking",
+      "start": 26.0,
+      "end": 26.38
+    },
+    {
+      "word": "calendar.",
+      "start": 26.38,
+      "end": 26.74
+    },
+    {
+      "word": "You",
+      "start": 26.74,
+      "end": 27.52
+    },
+    {
+      "word": "maximize",
+      "start": 27.52,
+      "end": 27.88
+    },
+    {
+      "word": "sales",
+      "start": 27.88,
+      "end": 28.44
+    },
+    {
+      "word": "efficiency",
+      "start": 28.44,
+      "end": 29.06
+    },
+    {
+      "word": "and",
+      "start": 29.06,
+      "end": 29.6
+    },
+    {
+      "word": "win",
+      "start": 29.6,
+      "end": 29.88
+    },
+    {
+      "word": "higher",
+      "start": 29.88,
+      "end": 30.18
+    },
+    {
+      "word": "retainers.",
+      "start": 30.18,
+      "end": 30.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How top agencies double their sales conversion rate by talking to fewer, better prospects.",
+      "line2": "FILTER OUT TIRE-KICKERS",
+      "tag": "\ud83d\uded1 Automated lead qualification funnel that filters out tire-kickers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated lead qualification funnel that filters out tire-kickers",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated lead qualification funnel that filters out tire-kickers",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

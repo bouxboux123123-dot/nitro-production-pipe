@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Figma AI design tools launch and layout generation features",
+  "text": "Prototyping complex user flows in Figma now takes half the time with their latest update. Manually wiring dozens of interactive frames and transitions across multi-screen flows drains days from every sprint. A single broken connection ruins client walkthroughs and forces tedious troubleshooting under pressure. Figma AI automatically detects intended screen relationships and connects fully interactive prototype noodles in one click. You deliver flawless interactive flows without stress.",
+  "duration": 30.266,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "prototyping",
+      "start": 0.0,
+      "end": 0.8
+    },
+    {
+      "word": "complex",
+      "start": 0.8,
+      "end": 1.24
+    },
+    {
+      "word": "user,",
+      "start": 1.24,
+      "end": 1.76
+    },
+    {
+      "word": "flows",
+      "start": 2.1,
+      "end": 2.1
+    },
+    {
+      "word": "in",
+      "start": 2.1,
+      "end": 2.36
+    },
+    {
+      "word": "Figma",
+      "start": 2.36,
+      "end": 2.64
+    },
+    {
+      "word": "now,",
+      "start": 2.64,
+      "end": 3.0
+    },
+    {
+      "word": "takes",
+      "start": 3.24,
+      "end": 3.36
+    },
+    {
+      "word": "half",
+      "start": 3.36,
+      "end": 3.64
+    },
+    {
+      "word": "the",
+      "start": 3.64,
+      "end": 3.84
+    },
+    {
+      "word": "time",
+      "start": 3.84,
+      "end": 4.08
+    },
+    {
+      "word": "with",
+      "start": 4.08,
+      "end": 4.26
+    },
+    {
+      "word": "their",
+      "start": 4.26,
+      "end": 4.54
+    },
+    {
+      "word": "latest",
+      "start": 4.54,
+      "end": 4.78
+    },
+    {
+      "word": "update.",
+      "start": 4.78,
+      "end": 5.48
+    },
+    {
+      "word": "Manually",
+      "start": 6.08,
+      "end": 6.38
+    },
+    {
+      "word": "wiring",
+      "start": 6.38,
+      "end": 6.74
+    },
+    {
+      "word": "dozens",
+      "start": 6.74,
+      "end": 7.18
+    },
+    {
+      "word": "of",
+      "start": 7.18,
+      "end": 7.56
+    },
+    {
+      "word": "interactive",
+      "start": 7.56,
+      "end": 8.04
+    },
+    {
+      "word": "frames",
+      "start": 8.04,
+      "end": 8.46
+    },
+    {
+      "word": "and",
+      "start": 8.46,
+      "end": 8.8
+    },
+    {
+      "word": "transitions",
+      "start": 8.8,
+      "end": 9.34
+    },
+    {
+      "word": "across",
+      "start": 9.34,
+      "end": 10.04
+    },
+    {
+      "word": "multi",
+      "start": 10.04,
+      "end": 10.44
+    },
+    {
+      "word": "-screen",
+      "start": 10.44,
+      "end": 10.94
+    },
+    {
+      "word": "flows",
+      "start": 10.94,
+      "end": 11.36
+    },
+    {
+      "word": "drains",
+      "start": 11.36,
+      "end": 11.78
+    },
+    {
+      "word": "days",
+      "start": 11.78,
+      "end": 12.16
+    },
+    {
+      "word": "from",
+      "start": 12.16,
+      "end": 12.48
+    },
+    {
+      "word": "every",
+      "start": 12.48,
+      "end": 12.78
+    },
+    {
+      "word": "sprint.",
+      "start": 12.78,
+      "end": 13.14
+    },
+    {
+      "word": "A",
+      "start": 13.52,
+      "end": 13.62
+    },
+    {
+      "word": "single",
+      "start": 13.62,
+      "end": 13.9
+    },
+    {
+      "word": "broken",
+      "start": 13.9,
+      "end": 14.26
+    },
+    {
+      "word": "connection",
+      "start": 14.26,
+      "end": 14.84
+    },
+    {
+      "word": "ruins",
+      "start": 14.84,
+      "end": 15.18
+    },
+    {
+      "word": "client",
+      "start": 15.18,
+      "end": 15.64
+    },
+    {
+      "word": "walkthroughs",
+      "start": 15.64,
+      "end": 16.38
+    },
+    {
+      "word": "and",
+      "start": 16.38,
+      "end": 16.66
+    },
+    {
+      "word": "forces",
+      "start": 16.66,
+      "end": 17.02
+    },
+    {
+      "word": "tedious",
+      "start": 17.02,
+      "end": 17.46
+    },
+    {
+      "word": "troubleshooting",
+      "start": 17.46,
+      "end": 18.16
+    },
+    {
+      "word": "under",
+      "start": 18.16,
+      "end": 18.38
+    },
+    {
+      "word": "pressure.",
+      "start": 18.38,
+      "end": 18.86
+    },
+    {
+      "word": "Figma",
+      "start": 19.58,
+      "end": 19.76
+    },
+    {
+      "word": "AI",
+      "start": 19.76,
+      "end": 20.46
+    },
+    {
+      "word": "automatically",
+      "start": 20.46,
+      "end": 21.04
+    },
+    {
+      "word": "detects",
+      "start": 21.04,
+      "end": 21.5
+    },
+    {
+      "word": "intended",
+      "start": 21.5,
+      "end": 21.98
+    },
+    {
+      "word": "screen",
+      "start": 21.98,
+      "end": 22.44
+    },
+    {
+      "word": "relationships",
+      "start": 22.44,
+      "end": 23.08
+    },
+    {
+      "word": "and",
+      "start": 23.08,
+      "end": 23.7
+    },
+    {
+      "word": "connects",
+      "start": 23.7,
+      "end": 24.04
+    },
+    {
+      "word": "fully",
+      "start": 24.04,
+      "end": 24.44
+    },
+    {
+      "word": "interactive",
+      "start": 24.44,
+      "end": 25.02
+    },
+    {
+      "word": "prototype",
+      "start": 25.02,
+      "end": 25.5
+    },
+    {
+      "word": "noodles",
+      "start": 25.5,
+      "end": 25.94
+    },
+    {
+      "word": "in",
+      "start": 25.94,
+      "end": 26.24
+    },
+    {
+      "word": "one",
+      "start": 26.24,
+      "end": 26.52
+    },
+    {
+      "word": "click.",
+      "start": 26.52,
+      "end": 26.8
+    },
+    {
+      "word": "You",
+      "start": 26.8,
+      "end": 27.48
+    },
+    {
+      "word": "deliver",
+      "start": 27.48,
+      "end": 27.86
+    },
+    {
+      "word": "flawless",
+      "start": 27.86,
+      "end": 28.34
+    },
+    {
+      "word": "interactive",
+      "start": 28.34,
+      "end": 28.92
+    },
+    {
+      "word": "flows",
+      "start": 28.92,
+      "end": 29.38
+    },
+    {
+      "word": "without",
+      "start": 29.38,
+      "end": 29.82
+    },
+    {
+      "word": "stress.",
+      "start": 29.82,
+      "end": 30.18
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "How designers are prototyping user flows in half the time using the new update.",
+      "line2": "FIGMA AI DESIGN TOOLS",
+      "tag": "\ud83d\uded1 Figma AI design tools launch and layout generation features",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Figma AI design tools launch and layout generation features",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

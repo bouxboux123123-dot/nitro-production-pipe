@@ -1,0 +1,396 @@
+{
+  "page": "page-05",
+  "idea": "Automated weekly executive digest generator sent via email",
+  "text": "Stop spending Sunday night pulling stats from Stripe, Google Analytics, and Notion. Operators dread digging through disparate reporting tabs just to prepare weekly executive updates. Disconnected data sources mean metrics fall out of sync, turning performance tracking into high-stress manual labor. Instead, connect your analytics stack inside Make to aggregate monthly revenue, churn, and traffic automatically. You deliver polished leadership reports effortlessly while protecting your weekends.",
+  "duration": 28.922,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "spending",
+      "start": 0.4,
+      "end": 0.72
+    },
+    {
+      "word": "Sunday",
+      "start": 0.72,
+      "end": 1.02
+    },
+    {
+      "word": "night",
+      "start": 1.02,
+      "end": 1.4
+    },
+    {
+      "word": "pulling",
+      "start": 1.4,
+      "end": 1.74
+    },
+    {
+      "word": "stats",
+      "start": 1.74,
+      "end": 2.0
+    },
+    {
+      "word": "from",
+      "start": 2.0,
+      "end": 2.38
+    },
+    {
+      "word": "Stripe,",
+      "start": 2.38,
+      "end": 3.02
+    },
+    {
+      "word": "Google",
+      "start": 3.1,
+      "end": 3.46
+    },
+    {
+      "word": "Analytics,",
+      "start": 3.46,
+      "end": 3.86
+    },
+    {
+      "word": "and",
+      "start": 4.16,
+      "end": 4.26
+    },
+    {
+      "word": "Notion.",
+      "start": 4.26,
+      "end": 4.92
+    },
+    {
+      "word": "Operators",
+      "start": 5.34,
+      "end": 5.76
+    },
+    {
+      "word": "dread",
+      "start": 5.76,
+      "end": 6.12
+    },
+    {
+      "word": "digging",
+      "start": 6.12,
+      "end": 6.44
+    },
+    {
+      "word": "through",
+      "start": 6.44,
+      "end": 6.82
+    },
+    {
+      "word": "disparate",
+      "start": 6.82,
+      "end": 7.08
+    },
+    {
+      "word": "reporting",
+      "start": 7.08,
+      "end": 7.56
+    },
+    {
+      "word": "tabs",
+      "start": 7.56,
+      "end": 7.96
+    },
+    {
+      "word": "just",
+      "start": 7.96,
+      "end": 8.52
+    },
+    {
+      "word": "to",
+      "start": 8.52,
+      "end": 8.72
+    },
+    {
+      "word": "prepare",
+      "start": 8.72,
+      "end": 9.0
+    },
+    {
+      "word": "weekly",
+      "start": 9.0,
+      "end": 9.4
+    },
+    {
+      "word": "executive",
+      "start": 9.4,
+      "end": 9.96
+    },
+    {
+      "word": "updates.",
+      "start": 9.96,
+      "end": 10.5
+    },
+    {
+      "word": "Disconnected",
+      "start": 11.2,
+      "end": 11.62
+    },
+    {
+      "word": "data",
+      "start": 11.62,
+      "end": 12.04
+    },
+    {
+      "word": "sources",
+      "start": 12.04,
+      "end": 12.5
+    },
+    {
+      "word": "mean",
+      "start": 12.5,
+      "end": 12.8
+    },
+    {
+      "word": "metrics",
+      "start": 12.8,
+      "end": 13.2
+    },
+    {
+      "word": "fall",
+      "start": 13.2,
+      "end": 13.58
+    },
+    {
+      "word": "out",
+      "start": 13.58,
+      "end": 13.82
+    },
+    {
+      "word": "of",
+      "start": 13.82,
+      "end": 13.9
+    },
+    {
+      "word": "sync,",
+      "start": 13.9,
+      "end": 14.22
+    },
+    {
+      "word": "turning",
+      "start": 14.76,
+      "end": 14.78
+    },
+    {
+      "word": "performance",
+      "start": 14.78,
+      "end": 15.38
+    },
+    {
+      "word": "tracking",
+      "start": 15.38,
+      "end": 15.76
+    },
+    {
+      "word": "into",
+      "start": 15.76,
+      "end": 16.08
+    },
+    {
+      "word": "high",
+      "start": 16.08,
+      "end": 16.36
+    },
+    {
+      "word": "stress",
+      "start": 16.36,
+      "end": 16.62
+    },
+    {
+      "word": "manual",
+      "start": 16.62,
+      "end": 17.1
+    },
+    {
+      "word": "labor.",
+      "start": 17.1,
+      "end": 17.48
+    },
+    {
+      "word": "Instead,",
+      "start": 17.92,
+      "end": 18.36
+    },
+    {
+      "word": "connect",
+      "start": 18.66,
+      "end": 18.7
+    },
+    {
+      "word": "your",
+      "start": 18.7,
+      "end": 19.02
+    },
+    {
+      "word": "analytics",
+      "start": 19.02,
+      "end": 19.36
+    },
+    {
+      "word": "stack",
+      "start": 19.36,
+      "end": 19.66
+    },
+    {
+      "word": "inside",
+      "start": 19.66,
+      "end": 20.2
+    },
+    {
+      "word": "make",
+      "start": 20.2,
+      "end": 20.44
+    },
+    {
+      "word": "to",
+      "start": 20.44,
+      "end": 20.7
+    },
+    {
+      "word": "aggregate",
+      "start": 20.7,
+      "end": 21.04
+    },
+    {
+      "word": "monthly",
+      "start": 21.04,
+      "end": 21.62
+    },
+    {
+      "word": "revenue,",
+      "start": 21.62,
+      "end": 22.04
+    },
+    {
+      "word": "churn,",
+      "start": 22.58,
+      "end": 22.78
+    },
+    {
+      "word": "and",
+      "start": 23.04,
+      "end": 23.16
+    },
+    {
+      "word": "traffic",
+      "start": 23.16,
+      "end": 23.58
+    },
+    {
+      "word": "automatically.",
+      "start": 23.58,
+      "end": 24.12
+    },
+    {
+      "word": "You",
+      "start": 24.84,
+      "end": 24.98
+    },
+    {
+      "word": "deliver",
+      "start": 24.98,
+      "end": 25.3
+    },
+    {
+      "word": "polished",
+      "start": 25.3,
+      "end": 25.78
+    },
+    {
+      "word": "leadership",
+      "start": 25.78,
+      "end": 26.2
+    },
+    {
+      "word": "reports",
+      "start": 26.2,
+      "end": 26.8
+    },
+    {
+      "word": "effortlessly",
+      "start": 26.8,
+      "end": 27.24
+    },
+    {
+      "word": "while",
+      "start": 27.24,
+      "end": 27.76
+    },
+    {
+      "word": "protecting",
+      "start": 27.76,
+      "end": 28.06
+    },
+    {
+      "word": "your",
+      "start": 28.06,
+      "end": 28.46
+    },
+    {
+      "word": "weekends.",
+      "start": 28.46,
+      "end": 28.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stop spending Sunday night pulling stats from Stripe, Google Analytics, and Notion.",
+      "line2": "WEEKLY EXECUTIVE DIGEST",
+      "tag": "\ud83d\uded1 Automated weekly executive digest generator sent via email",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Automated weekly executive digest generator sent via email",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Automated weekly executive digest generator sent via email",
+        "subtitle": "Automated weekly executive digest generator sent via email"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Automated weekly executive digest generator sent via email"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Automated weekly executive digest generator sent via email"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Automated weekly executive digest generator sent via email",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

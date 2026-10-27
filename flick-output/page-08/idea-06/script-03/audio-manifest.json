@@ -1,0 +1,391 @@
+{
+  "page": "page-08",
+  "idea": "How to summarize long YouTube videos in 10 seconds without watching them",
+  "text": "Here is how students and researchers learn key concepts from long videos in thirty seconds. Sifting through hour-long recorded lectures to find exam definitions creates massive study fatigue. Skipping through video timelines blindly leaves huge knowledge gaps right before assignment deadlines. Instead, use the Harpa AI Chrome extension to scan the lecture transcript and generate timestamped study notes instantly. You master complex lecture material in minutes.",
+  "duration": 26.347,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here's",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "how",
+      "start": 0.3,
+      "end": 0.56
+    },
+    {
+      "word": "students",
+      "start": 0.56,
+      "end": 0.8
+    },
+    {
+      "word": "and",
+      "start": 0.8,
+      "end": 1.04
+    },
+    {
+      "word": "researchers",
+      "start": 1.04,
+      "end": 1.42
+    },
+    {
+      "word": "learn",
+      "start": 1.42,
+      "end": 1.86
+    },
+    {
+      "word": "key",
+      "start": 1.86,
+      "end": 2.24
+    },
+    {
+      "word": "concepts",
+      "start": 2.24,
+      "end": 2.5
+    },
+    {
+      "word": "from",
+      "start": 2.5,
+      "end": 2.8
+    },
+    {
+      "word": "long",
+      "start": 2.8,
+      "end": 3.08
+    },
+    {
+      "word": "videos",
+      "start": 3.08,
+      "end": 3.38
+    },
+    {
+      "word": "in",
+      "start": 3.38,
+      "end": 3.68
+    },
+    {
+      "word": "30",
+      "start": 3.68,
+      "end": 4.0
+    },
+    {
+      "word": "seconds.",
+      "start": 4.0,
+      "end": 4.62
+    },
+    {
+      "word": "Sifting",
+      "start": 4.94,
+      "end": 5.12
+    },
+    {
+      "word": "through",
+      "start": 5.12,
+      "end": 5.52
+    },
+    {
+      "word": "our",
+      "start": 5.52,
+      "end": 5.78
+    },
+    {
+      "word": "long",
+      "start": 5.78,
+      "end": 6.04
+    },
+    {
+      "word": "recorded",
+      "start": 6.04,
+      "end": 6.44
+    },
+    {
+      "word": "lectures",
+      "start": 6.44,
+      "end": 6.86
+    },
+    {
+      "word": "to",
+      "start": 6.86,
+      "end": 7.16
+    },
+    {
+      "word": "find",
+      "start": 7.16,
+      "end": 7.46
+    },
+    {
+      "word": "exam",
+      "start": 7.46,
+      "end": 7.82
+    },
+    {
+      "word": "definitions",
+      "start": 7.82,
+      "end": 8.38
+    },
+    {
+      "word": "creates",
+      "start": 8.38,
+      "end": 9.08
+    },
+    {
+      "word": "massive",
+      "start": 9.08,
+      "end": 9.46
+    },
+    {
+      "word": "study",
+      "start": 9.46,
+      "end": 9.78
+    },
+    {
+      "word": "fatigue.",
+      "start": 9.78,
+      "end": 10.36
+    },
+    {
+      "word": "Skipping",
+      "start": 10.88,
+      "end": 11.12
+    },
+    {
+      "word": "through",
+      "start": 11.12,
+      "end": 11.4
+    },
+    {
+      "word": "video",
+      "start": 11.4,
+      "end": 11.7
+    },
+    {
+      "word": "timelines",
+      "start": 11.7,
+      "end": 12.14
+    },
+    {
+      "word": "blindly",
+      "start": 12.14,
+      "end": 12.68
+    },
+    {
+      "word": "leaves",
+      "start": 12.68,
+      "end": 13.06
+    },
+    {
+      "word": "huge",
+      "start": 13.06,
+      "end": 13.52
+    },
+    {
+      "word": "knowledge",
+      "start": 13.52,
+      "end": 13.9
+    },
+    {
+      "word": "gaps",
+      "start": 13.9,
+      "end": 14.26
+    },
+    {
+      "word": "right",
+      "start": 14.26,
+      "end": 14.56
+    },
+    {
+      "word": "before",
+      "start": 14.56,
+      "end": 14.84
+    },
+    {
+      "word": "assignment",
+      "start": 14.84,
+      "end": 15.26
+    },
+    {
+      "word": "deadlines.",
+      "start": 15.26,
+      "end": 15.8
+    },
+    {
+      "word": "Instead,",
+      "start": 16.52,
+      "end": 16.82
+    },
+    {
+      "word": "use",
+      "start": 17.34,
+      "end": 17.42
+    },
+    {
+      "word": "the",
+      "start": 17.42,
+      "end": 17.62
+    },
+    {
+      "word": "Harper",
+      "start": 17.62,
+      "end": 17.9
+    },
+    {
+      "word": "AI",
+      "start": 17.9,
+      "end": 18.36
+    },
+    {
+      "word": "Chrome",
+      "start": 18.36,
+      "end": 18.64
+    },
+    {
+      "word": "extension",
+      "start": 18.64,
+      "end": 19.08
+    },
+    {
+      "word": "to",
+      "start": 19.08,
+      "end": 19.4
+    },
+    {
+      "word": "scan",
+      "start": 19.4,
+      "end": 19.6
+    },
+    {
+      "word": "the",
+      "start": 19.6,
+      "end": 20.0
+    },
+    {
+      "word": "lecture",
+      "start": 20.0,
+      "end": 20.1
+    },
+    {
+      "word": "transcript",
+      "start": 20.1,
+      "end": 20.62
+    },
+    {
+      "word": "and",
+      "start": 20.62,
+      "end": 21.14
+    },
+    {
+      "word": "generate",
+      "start": 21.14,
+      "end": 21.52
+    },
+    {
+      "word": "timestamp",
+      "start": 21.52,
+      "end": 22.02
+    },
+    {
+      "word": "study",
+      "start": 22.02,
+      "end": 22.48
+    },
+    {
+      "word": "notes",
+      "start": 22.48,
+      "end": 22.76
+    },
+    {
+      "word": "instantly.",
+      "start": 22.76,
+      "end": 23.32
+    },
+    {
+      "word": "You",
+      "start": 23.32,
+      "end": 24.04
+    },
+    {
+      "word": "master",
+      "start": 24.04,
+      "end": 24.32
+    },
+    {
+      "word": "complex",
+      "start": 24.32,
+      "end": 24.84
+    },
+    {
+      "word": "lecture",
+      "start": 24.84,
+      "end": 25.32
+    },
+    {
+      "word": "material",
+      "start": 25.32,
+      "end": 25.78
+    },
+    {
+      "word": "in",
+      "start": 25.78,
+      "end": 25.98
+    },
+    {
+      "word": "minutes.",
+      "start": 25.98,
+      "end": 26.26
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How students and researchers learn key concepts from videos in 30 seconds.",
+      "line2": "SUMMARIZE YOUTUBE IN 10-SECONDS",
+      "tag": "\ud83d\uded1 How to summarize long YouTube videos in 10 seconds without watching them",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

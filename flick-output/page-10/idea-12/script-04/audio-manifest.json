@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "Airtable Cobuilder: build complex databases from plain English prompts",
+  "text": "Here is how to spin up a custom CRM using Airtable's newest AI tool. Service businesses struggle with rigid software that charges high per-seat fees without matching their daily workflows. Building custom internal tools takes months of engineering bandwidth and costs thousands in agency invoices. Airtable Cobuilder designs bespoke deal pipelines, automated statuses, and interactive client portals from simple conversational descriptions. You gain tailor-made business software without writing code.",
+  "duration": 31.141,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "how",
+      "start": 0.42,
+      "end": 0.62
+    },
+    {
+      "word": "to",
+      "start": 0.62,
+      "end": 0.74
+    },
+    {
+      "word": "spin",
+      "start": 0.74,
+      "end": 0.88
+    },
+    {
+      "word": "up",
+      "start": 0.88,
+      "end": 1.04
+    },
+    {
+      "word": "a",
+      "start": 1.04,
+      "end": 1.46
+    },
+    {
+      "word": "custom",
+      "start": 1.46,
+      "end": 1.5
+    },
+    {
+      "word": "CRM",
+      "start": 1.5,
+      "end": 2.22
+    },
+    {
+      "word": "using",
+      "start": 2.22,
+      "end": 2.58
+    },
+    {
+      "word": "Airtble's",
+      "start": 2.58,
+      "end": 3.48
+    },
+    {
+      "word": "newest",
+      "start": 3.48,
+      "end": 3.5
+    },
+    {
+      "word": "AI",
+      "start": 3.5,
+      "end": 3.96
+    },
+    {
+      "word": "tool.",
+      "start": 3.96,
+      "end": 4.44
+    },
+    {
+      "word": "Service",
+      "start": 5.2,
+      "end": 5.2
+    },
+    {
+      "word": "businesses",
+      "start": 5.2,
+      "end": 5.76
+    },
+    {
+      "word": "struggle",
+      "start": 5.76,
+      "end": 6.16
+    },
+    {
+      "word": "with",
+      "start": 6.16,
+      "end": 6.48
+    },
+    {
+      "word": "rigid",
+      "start": 6.48,
+      "end": 6.76
+    },
+    {
+      "word": "software",
+      "start": 6.76,
+      "end": 7.32
+    },
+    {
+      "word": "that",
+      "start": 7.32,
+      "end": 7.86
+    },
+    {
+      "word": "charges",
+      "start": 7.86,
+      "end": 8.24
+    },
+    {
+      "word": "high",
+      "start": 8.24,
+      "end": 8.7
+    },
+    {
+      "word": "-per",
+      "start": 8.7,
+      "end": 8.9
+    },
+    {
+      "word": "-seat",
+      "start": 8.9,
+      "end": 9.12
+    },
+    {
+      "word": "fees",
+      "start": 9.12,
+      "end": 9.58
+    },
+    {
+      "word": "without",
+      "start": 9.58,
+      "end": 10.08
+    },
+    {
+      "word": "matching",
+      "start": 10.08,
+      "end": 10.42
+    },
+    {
+      "word": "their",
+      "start": 10.42,
+      "end": 10.66
+    },
+    {
+      "word": "daily",
+      "start": 10.66,
+      "end": 10.96
+    },
+    {
+      "word": "workflows.",
+      "start": 10.96,
+      "end": 11.6
+    },
+    {
+      "word": "Building",
+      "start": 12.52,
+      "end": 12.52
+    },
+    {
+      "word": "custom",
+      "start": 12.52,
+      "end": 12.96
+    },
+    {
+      "word": "internal",
+      "start": 12.96,
+      "end": 13.38
+    },
+    {
+      "word": "tools",
+      "start": 13.38,
+      "end": 13.86
+    },
+    {
+      "word": "takes",
+      "start": 13.86,
+      "end": 14.26
+    },
+    {
+      "word": "months",
+      "start": 14.26,
+      "end": 14.62
+    },
+    {
+      "word": "of",
+      "start": 14.62,
+      "end": 14.94
+    },
+    {
+      "word": "engineering",
+      "start": 14.94,
+      "end": 15.24
+    },
+    {
+      "word": "bandwidth",
+      "start": 15.24,
+      "end": 15.8
+    },
+    {
+      "word": "and",
+      "start": 15.8,
+      "end": 16.34
+    },
+    {
+      "word": "costs",
+      "start": 16.34,
+      "end": 16.64
+    },
+    {
+      "word": "thousands",
+      "start": 16.64,
+      "end": 17.26
+    },
+    {
+      "word": "in",
+      "start": 17.26,
+      "end": 17.56
+    },
+    {
+      "word": "agency",
+      "start": 17.56,
+      "end": 17.96
+    },
+    {
+      "word": "invoices.",
+      "start": 17.96,
+      "end": 18.58
+    },
+    {
+      "word": "Airtable",
+      "start": 19.16,
+      "end": 19.4
+    },
+    {
+      "word": "Cobbleder",
+      "start": 19.4,
+      "end": 19.98
+    },
+    {
+      "word": "designs",
+      "start": 19.98,
+      "end": 20.44
+    },
+    {
+      "word": "bespoke",
+      "start": 20.44,
+      "end": 20.92
+    },
+    {
+      "word": "deal",
+      "start": 20.92,
+      "end": 21.2
+    },
+    {
+      "word": "pipelines,",
+      "start": 21.2,
+      "end": 21.76
+    },
+    {
+      "word": "automated",
+      "start": 22.6,
+      "end": 22.6
+    },
+    {
+      "word": "statuses,",
+      "start": 22.6,
+      "end": 23.3
+    },
+    {
+      "word": "and",
+      "start": 23.72,
+      "end": 24.04
+    },
+    {
+      "word": "interactive",
+      "start": 24.04,
+      "end": 24.48
+    },
+    {
+      "word": "client",
+      "start": 24.48,
+      "end": 24.9
+    },
+    {
+      "word": "portals",
+      "start": 24.9,
+      "end": 25.22
+    },
+    {
+      "word": "from",
+      "start": 25.22,
+      "end": 25.62
+    },
+    {
+      "word": "simple",
+      "start": 25.62,
+      "end": 26.0
+    },
+    {
+      "word": "conversational",
+      "start": 26.0,
+      "end": 26.72
+    },
+    {
+      "word": "descriptions.",
+      "start": 26.72,
+      "end": 27.36
+    },
+    {
+      "word": "You",
+      "start": 27.36,
+      "end": 28.14
+    },
+    {
+      "word": "gain",
+      "start": 28.14,
+      "end": 28.44
+    },
+    {
+      "word": "tailor",
+      "start": 28.44,
+      "end": 28.76
+    },
+    {
+      "word": "-made",
+      "start": 28.76,
+      "end": 29.06
+    },
+    {
+      "word": "business",
+      "start": 29.06,
+      "end": 29.42
+    },
+    {
+      "word": "software",
+      "start": 29.42,
+      "end": 29.86
+    },
+    {
+      "word": "without",
+      "start": 29.86,
+      "end": 30.32
+    },
+    {
+      "word": "writing",
+      "start": 30.32,
+      "end": 30.76
+    },
+    {
+      "word": "code.",
+      "start": 30.76,
+      "end": 31.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "How to spin up a custom CRM or project hub using Airtable's newest AI tool.",
+      "line2": "AIRTABLE AI COBUILDER LAUNCH",
+      "tag": "\ud83d\uded1 Airtable Cobuilder",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Airtable Cobuilder",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

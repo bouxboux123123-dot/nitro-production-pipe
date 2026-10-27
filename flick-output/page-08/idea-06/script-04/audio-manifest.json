@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "How to summarize long YouTube videos in 10 seconds without watching them",
+  "text": "This study shortcut saves hours of video watching every single week for computer beginners. Sitting through two-hour webinars hoping for practical advice usually ends in frustration and wasted study time. Without searchable text, finding the presenter's specific recommendations takes endless scrubbing and replaying. Instead, use the Glasp YouTube extension to grab the full transcript and summarize key takeaways in one click. You cut study hours in half effortlessly.",
+  "duration": 26.091,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "study",
+      "start": 0.3,
+      "end": 0.46
+    },
+    {
+      "word": "shortcut",
+      "start": 0.46,
+      "end": 0.78
+    },
+    {
+      "word": "saves",
+      "start": 0.78,
+      "end": 1.22
+    },
+    {
+      "word": "hours",
+      "start": 1.22,
+      "end": 1.62
+    },
+    {
+      "word": "of",
+      "start": 1.62,
+      "end": 1.84
+    },
+    {
+      "word": "video",
+      "start": 1.84,
+      "end": 2.0
+    },
+    {
+      "word": "watching",
+      "start": 2.0,
+      "end": 2.44
+    },
+    {
+      "word": "every",
+      "start": 2.44,
+      "end": 2.84
+    },
+    {
+      "word": "single",
+      "start": 2.84,
+      "end": 3.14
+    },
+    {
+      "word": "week",
+      "start": 3.14,
+      "end": 3.38
+    },
+    {
+      "word": "for",
+      "start": 3.38,
+      "end": 3.56
+    },
+    {
+      "word": "computer",
+      "start": 3.56,
+      "end": 3.86
+    },
+    {
+      "word": "beginners.",
+      "start": 3.86,
+      "end": 4.4
+    },
+    {
+      "word": "Sitting",
+      "start": 4.92,
+      "end": 5.1
+    },
+    {
+      "word": "through",
+      "start": 5.1,
+      "end": 5.4
+    },
+    {
+      "word": "two",
+      "start": 5.4,
+      "end": 5.74
+    },
+    {
+      "word": "-hour",
+      "start": 5.74,
+      "end": 5.94
+    },
+    {
+      "word": "webinars",
+      "start": 5.94,
+      "end": 6.4
+    },
+    {
+      "word": "hoping",
+      "start": 6.4,
+      "end": 6.68
+    },
+    {
+      "word": "for",
+      "start": 6.68,
+      "end": 7.0
+    },
+    {
+      "word": "practical",
+      "start": 7.0,
+      "end": 7.32
+    },
+    {
+      "word": "advice",
+      "start": 7.32,
+      "end": 7.82
+    },
+    {
+      "word": "usually",
+      "start": 7.82,
+      "end": 8.36
+    },
+    {
+      "word": "ends",
+      "start": 8.36,
+      "end": 8.64
+    },
+    {
+      "word": "in",
+      "start": 8.64,
+      "end": 9.04
+    },
+    {
+      "word": "frustration",
+      "start": 9.04,
+      "end": 9.32
+    },
+    {
+      "word": "and",
+      "start": 9.32,
+      "end": 9.64
+    },
+    {
+      "word": "wasted",
+      "start": 9.64,
+      "end": 9.92
+    },
+    {
+      "word": "study",
+      "start": 9.92,
+      "end": 10.3
+    },
+    {
+      "word": "time.",
+      "start": 10.3,
+      "end": 10.72
+    },
+    {
+      "word": "Without",
+      "start": 11.14,
+      "end": 11.48
+    },
+    {
+      "word": "searchable",
+      "start": 11.48,
+      "end": 11.96
+    },
+    {
+      "word": "text,",
+      "start": 11.96,
+      "end": 12.38
+    },
+    {
+      "word": "finding",
+      "start": 12.8,
+      "end": 12.92
+    },
+    {
+      "word": "the",
+      "start": 12.92,
+      "end": 13.4
+    },
+    {
+      "word": "presenter's",
+      "start": 13.4,
+      "end": 13.98
+    },
+    {
+      "word": "specific",
+      "start": 13.98,
+      "end": 13.98
+    },
+    {
+      "word": "recommendations",
+      "start": 13.98,
+      "end": 14.58
+    },
+    {
+      "word": "takes",
+      "start": 14.58,
+      "end": 15.28
+    },
+    {
+      "word": "endless",
+      "start": 15.28,
+      "end": 15.64
+    },
+    {
+      "word": "scrubbing",
+      "start": 15.64,
+      "end": 16.06
+    },
+    {
+      "word": "and",
+      "start": 16.06,
+      "end": 16.22
+    },
+    {
+      "word": "replaying.",
+      "start": 16.22,
+      "end": 16.74
+    },
+    {
+      "word": "Instead,",
+      "start": 17.42,
+      "end": 17.74
+    },
+    {
+      "word": "use",
+      "start": 18.16,
+      "end": 18.34
+    },
+    {
+      "word": "the",
+      "start": 18.34,
+      "end": 18.54
+    },
+    {
+      "word": "glass",
+      "start": 18.54,
+      "end": 18.88
+    },
+    {
+      "word": "-butube",
+      "start": 18.88,
+      "end": 19.28
+    },
+    {
+      "word": "extension",
+      "start": 19.28,
+      "end": 19.68
+    },
+    {
+      "word": "to",
+      "start": 19.68,
+      "end": 20.0
+    },
+    {
+      "word": "grab",
+      "start": 20.0,
+      "end": 20.24
+    },
+    {
+      "word": "the",
+      "start": 20.24,
+      "end": 20.44
+    },
+    {
+      "word": "full",
+      "start": 20.44,
+      "end": 20.7
+    },
+    {
+      "word": "transcript",
+      "start": 20.7,
+      "end": 21.14
+    },
+    {
+      "word": "and",
+      "start": 21.14,
+      "end": 21.62
+    },
+    {
+      "word": "summarize",
+      "start": 21.62,
+      "end": 21.86
+    },
+    {
+      "word": "key",
+      "start": 21.86,
+      "end": 22.28
+    },
+    {
+      "word": "takeaways",
+      "start": 22.28,
+      "end": 22.74
+    },
+    {
+      "word": "in",
+      "start": 22.74,
+      "end": 23.02
+    },
+    {
+      "word": "one",
+      "start": 23.02,
+      "end": 23.26
+    },
+    {
+      "word": "click.",
+      "start": 23.26,
+      "end": 23.5
+    },
+    {
+      "word": "You",
+      "start": 23.5,
+      "end": 24.14
+    },
+    {
+      "word": "cut",
+      "start": 24.14,
+      "end": 24.4
+    },
+    {
+      "word": "study",
+      "start": 24.4,
+      "end": 24.7
+    },
+    {
+      "word": "hours",
+      "start": 24.7,
+      "end": 25.04
+    },
+    {
+      "word": "in",
+      "start": 25.04,
+      "end": 25.26
+    },
+    {
+      "word": "half",
+      "start": 25.26,
+      "end": 25.52
+    },
+    {
+      "word": "effortlessly.",
+      "start": 25.52,
+      "end": 25.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The study shortcut that saves hours of video watching every single week.",
+      "line2": "SUMMARIZE YOUTUBE IN 10-SECONDS",
+      "tag": "\ud83d\uded1 How to summarize long YouTube videos in 10 seconds without watching them",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

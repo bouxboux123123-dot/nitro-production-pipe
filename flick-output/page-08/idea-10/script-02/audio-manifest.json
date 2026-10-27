@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "How to turn paper documents into search-ready PDFs using your phone",
+  "text": "Your smartphone has a built-in document scanner that automatically turns physical paper into searchable text. Most professionals waste hours manually retyping printed invoices and signed agreements into desktop documents. Normal camera photos leave dark shadows, skewing proportions and making small print impossible to index. Open Adobe Scan or Apple Notes, point your camera, and let auto-cropping export a crisp PDF. You extract readable text and find invoices instantly.",
+  "duration": 29.562,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Your",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "smartphone",
+      "start": 0.28,
+      "end": 0.72
+    },
+    {
+      "word": "has",
+      "start": 0.72,
+      "end": 1.06
+    },
+    {
+      "word": "a",
+      "start": 1.06,
+      "end": 1.26
+    },
+    {
+      "word": "built",
+      "start": 1.26,
+      "end": 1.44
+    },
+    {
+      "word": "-in",
+      "start": 1.44,
+      "end": 1.6
+    },
+    {
+      "word": "document",
+      "start": 1.6,
+      "end": 2.08
+    },
+    {
+      "word": "scanner",
+      "start": 2.08,
+      "end": 2.44
+    },
+    {
+      "word": "that",
+      "start": 2.44,
+      "end": 3.0
+    },
+    {
+      "word": "automatically",
+      "start": 3.0,
+      "end": 3.5
+    },
+    {
+      "word": "turns",
+      "start": 3.5,
+      "end": 4.08
+    },
+    {
+      "word": "physical",
+      "start": 4.08,
+      "end": 4.48
+    },
+    {
+      "word": "paper",
+      "start": 4.48,
+      "end": 4.88
+    },
+    {
+      "word": "into",
+      "start": 4.88,
+      "end": 5.14
+    },
+    {
+      "word": "searchable",
+      "start": 5.14,
+      "end": 5.68
+    },
+    {
+      "word": "text.",
+      "start": 5.68,
+      "end": 6.14
+    },
+    {
+      "word": "Most",
+      "start": 6.62,
+      "end": 6.9
+    },
+    {
+      "word": "professionals",
+      "start": 6.9,
+      "end": 7.36
+    },
+    {
+      "word": "waste",
+      "start": 7.36,
+      "end": 7.84
+    },
+    {
+      "word": "hours",
+      "start": 7.84,
+      "end": 8.28
+    },
+    {
+      "word": "manually",
+      "start": 8.28,
+      "end": 8.74
+    },
+    {
+      "word": "retyping",
+      "start": 8.74,
+      "end": 9.34
+    },
+    {
+      "word": "printed",
+      "start": 9.34,
+      "end": 9.7
+    },
+    {
+      "word": "invoices",
+      "start": 9.7,
+      "end": 10.3
+    },
+    {
+      "word": "and",
+      "start": 10.3,
+      "end": 10.84
+    },
+    {
+      "word": "signed",
+      "start": 10.84,
+      "end": 11.12
+    },
+    {
+      "word": "agreements",
+      "start": 11.12,
+      "end": 11.5
+    },
+    {
+      "word": "into",
+      "start": 11.5,
+      "end": 11.84
+    },
+    {
+      "word": "desktop",
+      "start": 11.84,
+      "end": 12.3
+    },
+    {
+      "word": "documents.",
+      "start": 12.3,
+      "end": 12.94
+    },
+    {
+      "word": "Normal",
+      "start": 13.64,
+      "end": 13.66
+    },
+    {
+      "word": "camera",
+      "start": 13.66,
+      "end": 14.06
+    },
+    {
+      "word": "photos",
+      "start": 14.06,
+      "end": 14.44
+    },
+    {
+      "word": "leave",
+      "start": 14.44,
+      "end": 14.82
+    },
+    {
+      "word": "dark",
+      "start": 14.82,
+      "end": 15.16
+    },
+    {
+      "word": "shadows,",
+      "start": 15.16,
+      "end": 15.56
+    },
+    {
+      "word": "skewing",
+      "start": 16.0,
+      "end": 16.3
+    },
+    {
+      "word": "proportions",
+      "start": 16.3,
+      "end": 16.78
+    },
+    {
+      "word": "and",
+      "start": 16.78,
+      "end": 17.08
+    },
+    {
+      "word": "making",
+      "start": 17.08,
+      "end": 17.38
+    },
+    {
+      "word": "small",
+      "start": 17.38,
+      "end": 17.8
+    },
+    {
+      "word": "print",
+      "start": 17.8,
+      "end": 18.06
+    },
+    {
+      "word": "impossible",
+      "start": 18.06,
+      "end": 18.54
+    },
+    {
+      "word": "to",
+      "start": 18.54,
+      "end": 18.9
+    },
+    {
+      "word": "index.",
+      "start": 18.9,
+      "end": 19.24
+    },
+    {
+      "word": "Open",
+      "start": 19.88,
+      "end": 20.06
+    },
+    {
+      "word": "Adobe",
+      "start": 20.06,
+      "end": 20.58
+    },
+    {
+      "word": "Scan",
+      "start": 20.58,
+      "end": 21.0
+    },
+    {
+      "word": "or",
+      "start": 21.0,
+      "end": 21.32
+    },
+    {
+      "word": "Apple",
+      "start": 21.32,
+      "end": 21.6
+    },
+    {
+      "word": "Notes,",
+      "start": 21.6,
+      "end": 21.92
+    },
+    {
+      "word": "point",
+      "start": 22.26,
+      "end": 22.46
+    },
+    {
+      "word": "your",
+      "start": 22.46,
+      "end": 22.72
+    },
+    {
+      "word": "camera,",
+      "start": 22.72,
+      "end": 22.96
+    },
+    {
+      "word": "and",
+      "start": 23.32,
+      "end": 23.48
+    },
+    {
+      "word": "let",
+      "start": 23.48,
+      "end": 23.76
+    },
+    {
+      "word": "autocropping",
+      "start": 23.76,
+      "end": 24.36
+    },
+    {
+      "word": "export",
+      "start": 24.36,
+      "end": 24.8
+    },
+    {
+      "word": "a",
+      "start": 24.8,
+      "end": 25.1
+    },
+    {
+      "word": "crisp",
+      "start": 25.1,
+      "end": 25.36
+    },
+    {
+      "word": "PDF.",
+      "start": 25.36,
+      "end": 25.8
+    },
+    {
+      "word": "You",
+      "start": 25.8,
+      "end": 26.6
+    },
+    {
+      "word": "extract",
+      "start": 26.6,
+      "end": 27.04
+    },
+    {
+      "word": "readable",
+      "start": 27.04,
+      "end": 27.46
+    },
+    {
+      "word": "text",
+      "start": 27.46,
+      "end": 27.94
+    },
+    {
+      "word": "and",
+      "start": 27.94,
+      "end": 28.16
+    },
+    {
+      "word": "find",
+      "start": 28.16,
+      "end": 28.4
+    },
+    {
+      "word": "invoices",
+      "start": 28.4,
+      "end": 28.96
+    },
+    {
+      "word": "instantly.",
+      "start": 28.96,
+      "end": 29.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The hidden document scanner built into your phone that makes text searchable.",
+      "line2": "SCAN PAPERS TO PDF",
+      "tag": "\ud83d\uded1 How to turn paper documents into search-ready PDFs using your phone",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

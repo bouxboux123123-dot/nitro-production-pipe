@@ -1,0 +1,411 @@
+{
+  "page": "page-06",
+  "idea": "Automated sprint retro board with anonymous feedback collection",
+  "text": "This automated board lets remote team members submit feedback anonymously so real engineering issues surface. When retros require public attribution, developers hold back to avoid offending managers or tech leads. Hiding genuine friction behind polite praise allows broken CI/CD pipelines to derail future sprints. EasyRetro collects masked feedback cards all week and enables blind upvoting on top blockers. This exposes critical delivery roadblocks without defensive arguments.",
+  "duration": 31.567,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "automated",
+      "start": 0.32,
+      "end": 0.72
+    },
+    {
+      "word": "board",
+      "start": 0.72,
+      "end": 1.18
+    },
+    {
+      "word": "lets",
+      "start": 1.18,
+      "end": 1.5
+    },
+    {
+      "word": "remote",
+      "start": 1.5,
+      "end": 1.8
+    },
+    {
+      "word": "team",
+      "start": 1.8,
+      "end": 2.22
+    },
+    {
+      "word": "members",
+      "start": 2.22,
+      "end": 2.58
+    },
+    {
+      "word": "submit",
+      "start": 2.58,
+      "end": 2.98
+    },
+    {
+      "word": "feedback",
+      "start": 2.98,
+      "end": 3.56
+    },
+    {
+      "word": "anonymously",
+      "start": 3.56,
+      "end": 4.2
+    },
+    {
+      "word": "so",
+      "start": 4.2,
+      "end": 4.8
+    },
+    {
+      "word": "real",
+      "start": 4.8,
+      "end": 5.16
+    },
+    {
+      "word": "engineering",
+      "start": 5.16,
+      "end": 5.76
+    },
+    {
+      "word": "issues",
+      "start": 5.76,
+      "end": 6.18
+    },
+    {
+      "word": "surface.",
+      "start": 6.18,
+      "end": 6.7
+    },
+    {
+      "word": "When",
+      "start": 7.24,
+      "end": 7.36
+    },
+    {
+      "word": "Retro",
+      "start": 7.36,
+      "end": 7.68
+    },
+    {
+      "word": "S",
+      "start": 7.68,
+      "end": 7.98
+    },
+    {
+      "word": "require",
+      "start": 7.98,
+      "end": 8.48
+    },
+    {
+      "word": "public",
+      "start": 8.48,
+      "end": 8.84
+    },
+    {
+      "word": "attribution,",
+      "start": 8.84,
+      "end": 9.5
+    },
+    {
+      "word": "developers",
+      "start": 10.2,
+      "end": 10.28
+    },
+    {
+      "word": "hold",
+      "start": 10.28,
+      "end": 10.74
+    },
+    {
+      "word": "back",
+      "start": 10.74,
+      "end": 11.06
+    },
+    {
+      "word": "to",
+      "start": 11.06,
+      "end": 11.26
+    },
+    {
+      "word": "avoid",
+      "start": 11.26,
+      "end": 11.56
+    },
+    {
+      "word": "offending",
+      "start": 11.56,
+      "end": 12.06
+    },
+    {
+      "word": "managers",
+      "start": 12.06,
+      "end": 12.5
+    },
+    {
+      "word": "or",
+      "start": 12.5,
+      "end": 12.98
+    },
+    {
+      "word": "tech",
+      "start": 12.98,
+      "end": 13.22
+    },
+    {
+      "word": "leads.",
+      "start": 13.22,
+      "end": 13.64
+    },
+    {
+      "word": "Hiding",
+      "start": 14.16,
+      "end": 14.26
+    },
+    {
+      "word": "genuine",
+      "start": 14.26,
+      "end": 14.7
+    },
+    {
+      "word": "friction",
+      "start": 14.7,
+      "end": 15.14
+    },
+    {
+      "word": "behind",
+      "start": 15.14,
+      "end": 15.54
+    },
+    {
+      "word": "polite",
+      "start": 15.54,
+      "end": 15.92
+    },
+    {
+      "word": "praise",
+      "start": 15.92,
+      "end": 16.32
+    },
+    {
+      "word": "allows",
+      "start": 16.32,
+      "end": 17.02
+    },
+    {
+      "word": "broken",
+      "start": 17.02,
+      "end": 17.54
+    },
+    {
+      "word": "CI",
+      "start": 17.54,
+      "end": 18.08
+    },
+    {
+      "word": "slash",
+      "start": 18.08,
+      "end": 18.54
+    },
+    {
+      "word": "CD",
+      "start": 18.54,
+      "end": 18.84
+    },
+    {
+      "word": "pipelines",
+      "start": 18.84,
+      "end": 19.3
+    },
+    {
+      "word": "to",
+      "start": 19.3,
+      "end": 19.72
+    },
+    {
+      "word": "derail",
+      "start": 19.72,
+      "end": 19.94
+    },
+    {
+      "word": "future",
+      "start": 19.94,
+      "end": 20.38
+    },
+    {
+      "word": "sprints.",
+      "start": 20.38,
+      "end": 21.44
+    },
+    {
+      "word": "Easy",
+      "start": 21.56,
+      "end": 21.76
+    },
+    {
+      "word": "Retro",
+      "start": 21.76,
+      "end": 22.14
+    },
+    {
+      "word": "collects",
+      "start": 22.14,
+      "end": 22.48
+    },
+    {
+      "word": "masked",
+      "start": 22.48,
+      "end": 22.92
+    },
+    {
+      "word": "feedback",
+      "start": 22.92,
+      "end": 23.24
+    },
+    {
+      "word": "cards",
+      "start": 23.24,
+      "end": 23.72
+    },
+    {
+      "word": "all",
+      "start": 23.72,
+      "end": 24.0
+    },
+    {
+      "word": "week",
+      "start": 24.0,
+      "end": 24.4
+    },
+    {
+      "word": "and",
+      "start": 24.4,
+      "end": 24.72
+    },
+    {
+      "word": "enables",
+      "start": 24.72,
+      "end": 25.12
+    },
+    {
+      "word": "blind",
+      "start": 25.12,
+      "end": 25.64
+    },
+    {
+      "word": "upvoting",
+      "start": 25.64,
+      "end": 26.08
+    },
+    {
+      "word": "on",
+      "start": 26.08,
+      "end": 26.36
+    },
+    {
+      "word": "top",
+      "start": 26.36,
+      "end": 26.66
+    },
+    {
+      "word": "blockers.",
+      "start": 26.66,
+      "end": 27.08
+    },
+    {
+      "word": "This",
+      "start": 27.08,
+      "end": 27.88
+    },
+    {
+      "word": "exposes",
+      "start": 27.88,
+      "end": 28.42
+    },
+    {
+      "word": "critical",
+      "start": 28.42,
+      "end": 29.02
+    },
+    {
+      "word": "delivery",
+      "start": 29.02,
+      "end": 29.4
+    },
+    {
+      "word": "roadblocks",
+      "start": 29.4,
+      "end": 30.0
+    },
+    {
+      "word": "without",
+      "start": 30.0,
+      "end": 30.42
+    },
+    {
+      "word": "defensive",
+      "start": 30.42,
+      "end": 30.98
+    },
+    {
+      "word": "arguments.",
+      "start": 30.98,
+      "end": 31.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "This board lets team members submit feedback anonymously so the real issues get surfaced.",
+      "line2": "ANONYMOUS SPRINT RETROS",
+      "tag": "\ud83d\uded1 Automated sprint retro board with anonymous feedback collection",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated sprint retro board with anonymous feedback collection",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated sprint retro board with anonymous feedback collection",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

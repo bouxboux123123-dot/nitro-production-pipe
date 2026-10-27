@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated competitor price comparison tracker on Google Sheets",
+  "text": "Here is how to track competitor pricing on your bestselling products in real time. Manually checking rival e-commerce stores every single morning drains your energy and burns valuable hours. Unannounced competitor discounts quietly steal your sales before you ever notice the market shift. Build a Google Sheets tracker using IMPORTXML and Make to log rival catalog price changes daily. This safeguards your profit margins without wasting your evenings.",
+  "duration": 25.685,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "is",
+      "start": 0.16,
+      "end": 0.28
+    },
+    {
+      "word": "how",
+      "start": 0.28,
+      "end": 0.46
+    },
+    {
+      "word": "to",
+      "start": 0.46,
+      "end": 0.56
+    },
+    {
+      "word": "track",
+      "start": 0.56,
+      "end": 0.8
+    },
+    {
+      "word": "competitor",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "word": "pricing",
+      "start": 1.2,
+      "end": 1.58
+    },
+    {
+      "word": "on",
+      "start": 1.58,
+      "end": 1.78
+    },
+    {
+      "word": "your",
+      "start": 1.78,
+      "end": 1.92
+    },
+    {
+      "word": "best",
+      "start": 1.92,
+      "end": 2.18
+    },
+    {
+      "word": "-selling",
+      "start": 2.18,
+      "end": 2.42
+    },
+    {
+      "word": "products",
+      "start": 2.42,
+      "end": 2.84
+    },
+    {
+      "word": "in",
+      "start": 2.84,
+      "end": 3.1
+    },
+    {
+      "word": "real",
+      "start": 3.1,
+      "end": 3.34
+    },
+    {
+      "word": "time.",
+      "start": 3.34,
+      "end": 4.0
+    },
+    {
+      "word": "Manually",
+      "start": 4.36,
+      "end": 4.62
+    },
+    {
+      "word": "checking",
+      "start": 4.62,
+      "end": 5.0
+    },
+    {
+      "word": "rival",
+      "start": 5.0,
+      "end": 5.4
+    },
+    {
+      "word": "e",
+      "start": 5.4,
+      "end": 5.62
+    },
+    {
+      "word": "-commerce",
+      "start": 5.62,
+      "end": 5.86
+    },
+    {
+      "word": "stores,",
+      "start": 5.86,
+      "end": 6.32
+    },
+    {
+      "word": "every",
+      "start": 6.66,
+      "end": 6.88
+    },
+    {
+      "word": "single",
+      "start": 6.88,
+      "end": 7.2
+    },
+    {
+      "word": "morning",
+      "start": 7.2,
+      "end": 7.5
+    },
+    {
+      "word": "drains",
+      "start": 7.5,
+      "end": 7.86
+    },
+    {
+      "word": "your",
+      "start": 7.86,
+      "end": 8.08
+    },
+    {
+      "word": "energy",
+      "start": 8.08,
+      "end": 8.46
+    },
+    {
+      "word": "and",
+      "start": 8.46,
+      "end": 8.9
+    },
+    {
+      "word": "burns",
+      "start": 8.9,
+      "end": 9.24
+    },
+    {
+      "word": "valuable",
+      "start": 9.24,
+      "end": 9.74
+    },
+    {
+      "word": "hours.",
+      "start": 9.74,
+      "end": 10.34
+    },
+    {
+      "word": "Unannounced",
+      "start": 10.9,
+      "end": 11.32
+    },
+    {
+      "word": "competitor",
+      "start": 11.32,
+      "end": 11.78
+    },
+    {
+      "word": "discounts",
+      "start": 11.78,
+      "end": 12.22
+    },
+    {
+      "word": "quietly",
+      "start": 12.22,
+      "end": 12.7
+    },
+    {
+      "word": "steal",
+      "start": 12.7,
+      "end": 13.02
+    },
+    {
+      "word": "your",
+      "start": 13.02,
+      "end": 13.26
+    },
+    {
+      "word": "sales",
+      "start": 13.26,
+      "end": 13.58
+    },
+    {
+      "word": "before",
+      "start": 13.58,
+      "end": 13.94
+    },
+    {
+      "word": "you",
+      "start": 13.94,
+      "end": 14.18
+    },
+    {
+      "word": "ever",
+      "start": 14.18,
+      "end": 14.36
+    },
+    {
+      "word": "notice",
+      "start": 14.36,
+      "end": 14.62
+    },
+    {
+      "word": "the",
+      "start": 14.62,
+      "end": 14.92
+    },
+    {
+      "word": "market",
+      "start": 14.92,
+      "end": 15.14
+    },
+    {
+      "word": "shift.",
+      "start": 15.14,
+      "end": 15.52
+    },
+    {
+      "word": "Build",
+      "start": 16.04,
+      "end": 16.22
+    },
+    {
+      "word": "a",
+      "start": 16.22,
+      "end": 16.4
+    },
+    {
+      "word": "Google",
+      "start": 16.4,
+      "end": 16.7
+    },
+    {
+      "word": "Sheets",
+      "start": 16.7,
+      "end": 17.0
+    },
+    {
+      "word": "tracker",
+      "start": 17.0,
+      "end": 17.32
+    },
+    {
+      "word": "using",
+      "start": 17.32,
+      "end": 17.74
+    },
+    {
+      "word": "import",
+      "start": 17.74,
+      "end": 18.2
+    },
+    {
+      "word": "small",
+      "start": 18.2,
+      "end": 18.48
+    },
+    {
+      "word": "and",
+      "start": 18.48,
+      "end": 18.92
+    },
+    {
+      "word": "make",
+      "start": 18.92,
+      "end": 19.1
+    },
+    {
+      "word": "to",
+      "start": 19.1,
+      "end": 19.32
+    },
+    {
+      "word": "log",
+      "start": 19.32,
+      "end": 19.58
+    },
+    {
+      "word": "rival",
+      "start": 19.58,
+      "end": 19.98
+    },
+    {
+      "word": "catalog",
+      "start": 19.98,
+      "end": 20.42
+    },
+    {
+      "word": "price",
+      "start": 20.42,
+      "end": 20.94
+    },
+    {
+      "word": "changes",
+      "start": 20.94,
+      "end": 21.4
+    },
+    {
+      "word": "daily.",
+      "start": 21.4,
+      "end": 21.78
+    },
+    {
+      "word": "This",
+      "start": 21.78,
+      "end": 22.58
+    },
+    {
+      "word": "safeguards",
+      "start": 22.58,
+      "end": 22.98
+    },
+    {
+      "word": "your",
+      "start": 22.98,
+      "end": 23.48
+    },
+    {
+      "word": "profit",
+      "start": 23.48,
+      "end": 23.66
+    },
+    {
+      "word": "margins",
+      "start": 23.66,
+      "end": 24.12
+    },
+    {
+      "word": "without",
+      "start": 24.12,
+      "end": 24.58
+    },
+    {
+      "word": "wasting",
+      "start": 24.58,
+      "end": 24.9
+    },
+    {
+      "word": "your",
+      "start": 24.9,
+      "end": 25.28
+    },
+    {
+      "word": "evenings.",
+      "start": 25.28,
+      "end": 25.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How to track competitor pricing on your bestselling products in real time.",
+      "line2": "TRACK COMPETITOR PRICES",
+      "tag": "\ud83d\uded1 Automated competitor price comparison tracker on Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated competitor price comparison tracker on Google Sheets",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated competitor price comparison tracker on Google Sheets",
+        "subtitle": "Automated competitor price comparison tracker on Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated competitor price comparison tracker on Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated competitor price comparison tracker on Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated competitor price comparison tracker on Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

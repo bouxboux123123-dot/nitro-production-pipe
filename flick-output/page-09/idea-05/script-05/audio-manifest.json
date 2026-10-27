@@ -1,0 +1,401 @@
+{
+  "page": "page-09",
+  "idea": "Slack vs Discord: which platform is best for internal team communication",
+  "text": "Slack vs Discord: which one keeps your team focused instead of distracted? Unstructured messaging and endless notifications destroy deep work across fast-moving remote companies. Discord's informal layout invites constant social distractions, while Slack's red badges create perpetual context-switching anxiety. Enforce structured Slack threads for documentation, then restrict Discord audio to scheduled thirty-minute co-working sprints. This disciplined system reclaims ten hours of weekly focus.",
+  "duration": 30.629,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Slack",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "VS",
+      "start": 0.44,
+      "end": 0.86
+    },
+    {
+      "word": "Discord,",
+      "start": 0.86,
+      "end": 1.34
+    },
+    {
+      "word": "which",
+      "start": 1.68,
+      "end": 1.86
+    },
+    {
+      "word": "one",
+      "start": 1.86,
+      "end": 2.1
+    },
+    {
+      "word": "keeps",
+      "start": 2.1,
+      "end": 2.3
+    },
+    {
+      "word": "your",
+      "start": 2.3,
+      "end": 2.5
+    },
+    {
+      "word": "team",
+      "start": 2.5,
+      "end": 2.86
+    },
+    {
+      "word": "focused",
+      "start": 2.86,
+      "end": 3.22
+    },
+    {
+      "word": "instead",
+      "start": 3.22,
+      "end": 3.52
+    },
+    {
+      "word": "of",
+      "start": 3.52,
+      "end": 4.38
+    },
+    {
+      "word": "distracted,",
+      "start": 4.38,
+      "end": 4.38
+    },
+    {
+      "word": "unstructured",
+      "start": 5.0,
+      "end": 5.5
+    },
+    {
+      "word": "messaging",
+      "start": 5.5,
+      "end": 6.0
+    },
+    {
+      "word": "and",
+      "start": 6.0,
+      "end": 6.34
+    },
+    {
+      "word": "endless",
+      "start": 6.34,
+      "end": 6.64
+    },
+    {
+      "word": "notifications",
+      "start": 6.64,
+      "end": 7.46
+    },
+    {
+      "word": "destroy",
+      "start": 7.46,
+      "end": 7.94
+    },
+    {
+      "word": "deep",
+      "start": 7.94,
+      "end": 8.28
+    },
+    {
+      "word": "work",
+      "start": 8.28,
+      "end": 8.54
+    },
+    {
+      "word": "across",
+      "start": 8.54,
+      "end": 8.9
+    },
+    {
+      "word": "fast",
+      "start": 8.9,
+      "end": 9.28
+    },
+    {
+      "word": "-moving",
+      "start": 9.28,
+      "end": 9.6
+    },
+    {
+      "word": "remote",
+      "start": 9.6,
+      "end": 9.94
+    },
+    {
+      "word": "companies.",
+      "start": 9.94,
+      "end": 10.54
+    },
+    {
+      "word": "Discord's",
+      "start": 11.3,
+      "end": 11.9
+    },
+    {
+      "word": "informal",
+      "start": 11.9,
+      "end": 12.22
+    },
+    {
+      "word": "layout",
+      "start": 12.22,
+      "end": 12.68
+    },
+    {
+      "word": "invites",
+      "start": 12.68,
+      "end": 13.14
+    },
+    {
+      "word": "constant",
+      "start": 13.14,
+      "end": 13.64
+    },
+    {
+      "word": "social",
+      "start": 13.64,
+      "end": 14.02
+    },
+    {
+      "word": "distractions,",
+      "start": 14.02,
+      "end": 14.62
+    },
+    {
+      "word": "while",
+      "start": 15.1,
+      "end": 15.34
+    },
+    {
+      "word": "Slack's",
+      "start": 15.34,
+      "end": 15.98
+    },
+    {
+      "word": "red",
+      "start": 15.98,
+      "end": 16.06
+    },
+    {
+      "word": "badges",
+      "start": 16.06,
+      "end": 16.4
+    },
+    {
+      "word": "create",
+      "start": 16.4,
+      "end": 16.94
+    },
+    {
+      "word": "perpetual",
+      "start": 16.94,
+      "end": 17.46
+    },
+    {
+      "word": "context",
+      "start": 17.46,
+      "end": 17.94
+    },
+    {
+      "word": "switching",
+      "start": 17.94,
+      "end": 18.38
+    },
+    {
+      "word": "anxiety,",
+      "start": 18.38,
+      "end": 18.92
+    },
+    {
+      "word": "and",
+      "start": 19.3,
+      "end": 19.54
+    },
+    {
+      "word": "four",
+      "start": 19.54,
+      "end": 19.84
+    },
+    {
+      "word": "structured",
+      "start": 19.84,
+      "end": 20.36
+    },
+    {
+      "word": "Slack",
+      "start": 20.36,
+      "end": 20.64
+    },
+    {
+      "word": "threads",
+      "start": 20.64,
+      "end": 20.98
+    },
+    {
+      "word": "for",
+      "start": 20.98,
+      "end": 21.24
+    },
+    {
+      "word": "documentation,",
+      "start": 21.24,
+      "end": 21.98
+    },
+    {
+      "word": "then",
+      "start": 22.66,
+      "end": 22.7
+    },
+    {
+      "word": "restrict",
+      "start": 22.7,
+      "end": 23.16
+    },
+    {
+      "word": "Discord",
+      "start": 23.16,
+      "end": 23.74
+    },
+    {
+      "word": "audio",
+      "start": 23.74,
+      "end": 24.12
+    },
+    {
+      "word": "to",
+      "start": 24.12,
+      "end": 24.44
+    },
+    {
+      "word": "scheduled",
+      "start": 24.44,
+      "end": 24.9
+    },
+    {
+      "word": "30",
+      "start": 24.9,
+      "end": 25.32
+    },
+    {
+      "word": "-minute",
+      "start": 25.32,
+      "end": 25.62
+    },
+    {
+      "word": "co",
+      "start": 25.62,
+      "end": 25.9
+    },
+    {
+      "word": "-working",
+      "start": 25.9,
+      "end": 26.18
+    },
+    {
+      "word": "sprints.",
+      "start": 26.18,
+      "end": 27.22
+    },
+    {
+      "word": "This",
+      "start": 27.22,
+      "end": 27.7
+    },
+    {
+      "word": "discipline",
+      "start": 27.7,
+      "end": 27.9
+    },
+    {
+      "word": "system",
+      "start": 27.9,
+      "end": 28.42
+    },
+    {
+      "word": "reclaims",
+      "start": 28.42,
+      "end": 28.94
+    },
+    {
+      "word": "10",
+      "start": 28.94,
+      "end": 29.28
+    },
+    {
+      "word": "hours",
+      "start": 29.28,
+      "end": 29.62
+    },
+    {
+      "word": "of",
+      "start": 29.62,
+      "end": 29.86
+    },
+    {
+      "word": "weekly",
+      "start": 29.86,
+      "end": 30.1
+    },
+    {
+      "word": "focus.",
+      "start": 30.1,
+      "end": 30.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Slack vs Discord: which one keeps your team focused instead of distracted?",
+      "line2": "SLACK VS DISCORD",
+      "tag": "\ud83d\uded1 Slack vs Discord",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Slack vs Discord",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Slack vs Discord",
+        "subtitle": "Slack vs Discord"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Slack vs Discord"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Slack vs Discord"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Slack vs Discord",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

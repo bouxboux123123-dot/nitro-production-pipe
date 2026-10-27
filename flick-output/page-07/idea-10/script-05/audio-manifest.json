@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Rapid MVP validation landing page stack launched in under 2 hours",
+  "text": "Launch your startup waitlist page before you go to bed tonight. Founders stall product launches for months because they overthink complex databases, authentication flows, and payment processors. Prolonged delay kills founder momentum while letting agile competitors capture your prospective audience first. Deploy a clean Carrd landing page connected to Tally forms and sync incoming emails straight to HubSpot. Wake up to qualified prospect submissions ready for customer calls.",
+  "duration": 29.221,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Launch",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "your",
+      "start": 0.28,
+      "end": 0.56
+    },
+    {
+      "word": "startup",
+      "start": 0.56,
+      "end": 0.82
+    },
+    {
+      "word": "weightless",
+      "start": 0.82,
+      "end": 1.4
+    },
+    {
+      "word": "page",
+      "start": 1.4,
+      "end": 1.78
+    },
+    {
+      "word": "before",
+      "start": 1.78,
+      "end": 2.1
+    },
+    {
+      "word": "you",
+      "start": 2.1,
+      "end": 2.24
+    },
+    {
+      "word": "go",
+      "start": 2.24,
+      "end": 2.4
+    },
+    {
+      "word": "to",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "word": "bed",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "word": "tonight.",
+      "start": 2.72,
+      "end": 3.46
+    },
+    {
+      "word": "Founders",
+      "start": 4.12,
+      "end": 4.12
+    },
+    {
+      "word": "stall",
+      "start": 4.12,
+      "end": 4.6
+    },
+    {
+      "word": "product",
+      "start": 4.6,
+      "end": 4.96
+    },
+    {
+      "word": "launches",
+      "start": 4.96,
+      "end": 5.32
+    },
+    {
+      "word": "for",
+      "start": 5.32,
+      "end": 5.62
+    },
+    {
+      "word": "months",
+      "start": 5.62,
+      "end": 6.0
+    },
+    {
+      "word": "because",
+      "start": 6.0,
+      "end": 6.44
+    },
+    {
+      "word": "they",
+      "start": 6.44,
+      "end": 6.78
+    },
+    {
+      "word": "overthink",
+      "start": 6.78,
+      "end": 7.26
+    },
+    {
+      "word": "complex",
+      "start": 7.26,
+      "end": 7.82
+    },
+    {
+      "word": "databases,",
+      "start": 7.82,
+      "end": 8.42
+    },
+    {
+      "word": "authentication",
+      "start": 9.1,
+      "end": 9.58
+    },
+    {
+      "word": "flows",
+      "start": 9.58,
+      "end": 10.26
+    },
+    {
+      "word": "and",
+      "start": 10.26,
+      "end": 10.48
+    },
+    {
+      "word": "payment",
+      "start": 10.48,
+      "end": 10.78
+    },
+    {
+      "word": "processors.",
+      "start": 10.78,
+      "end": 11.42
+    },
+    {
+      "word": "For",
+      "start": 11.92,
+      "end": 12.02
+    },
+    {
+      "word": "long",
+      "start": 12.02,
+      "end": 12.3
+    },
+    {
+      "word": "delay",
+      "start": 12.3,
+      "end": 12.6
+    },
+    {
+      "word": "kills",
+      "start": 12.6,
+      "end": 12.96
+    },
+    {
+      "word": "founder",
+      "start": 12.96,
+      "end": 13.38
+    },
+    {
+      "word": "momentum",
+      "start": 13.38,
+      "end": 13.88
+    },
+    {
+      "word": "while",
+      "start": 13.88,
+      "end": 14.34
+    },
+    {
+      "word": "letting",
+      "start": 14.34,
+      "end": 14.64
+    },
+    {
+      "word": "agile",
+      "start": 14.64,
+      "end": 15.0
+    },
+    {
+      "word": "competitors",
+      "start": 15.0,
+      "end": 15.52
+    },
+    {
+      "word": "capture",
+      "start": 15.52,
+      "end": 16.02
+    },
+    {
+      "word": "your",
+      "start": 16.02,
+      "end": 16.38
+    },
+    {
+      "word": "prospective",
+      "start": 16.38,
+      "end": 16.68
+    },
+    {
+      "word": "audience",
+      "start": 16.68,
+      "end": 17.2
+    },
+    {
+      "word": "first.",
+      "start": 17.2,
+      "end": 17.88
+    },
+    {
+      "word": "Deploy",
+      "start": 18.32,
+      "end": 18.5
+    },
+    {
+      "word": "a",
+      "start": 18.5,
+      "end": 18.8
+    },
+    {
+      "word": "clean",
+      "start": 18.8,
+      "end": 19.16
+    },
+    {
+      "word": "CAD",
+      "start": 19.16,
+      "end": 19.54
+    },
+    {
+      "word": "landing",
+      "start": 19.54,
+      "end": 19.84
+    },
+    {
+      "word": "page,",
+      "start": 19.84,
+      "end": 20.44
+    },
+    {
+      "word": "connect",
+      "start": 20.62,
+      "end": 20.88
+    },
+    {
+      "word": "it",
+      "start": 20.88,
+      "end": 21.14
+    },
+    {
+      "word": "to",
+      "start": 21.14,
+      "end": 21.38
+    },
+    {
+      "word": "tally",
+      "start": 21.38,
+      "end": 21.58
+    },
+    {
+      "word": "forms",
+      "start": 21.58,
+      "end": 22.0
+    },
+    {
+      "word": "and",
+      "start": 22.0,
+      "end": 22.5
+    },
+    {
+      "word": "sync",
+      "start": 22.5,
+      "end": 22.8
+    },
+    {
+      "word": "incoming",
+      "start": 22.8,
+      "end": 23.26
+    },
+    {
+      "word": "emails",
+      "start": 23.26,
+      "end": 23.78
+    },
+    {
+      "word": "straight",
+      "start": 23.78,
+      "end": 24.16
+    },
+    {
+      "word": "to",
+      "start": 24.16,
+      "end": 24.34
+    },
+    {
+      "word": "HubSpot.",
+      "start": 24.34,
+      "end": 24.96
+    },
+    {
+      "word": "Wake",
+      "start": 25.62,
+      "end": 25.66
+    },
+    {
+      "word": "up",
+      "start": 25.66,
+      "end": 25.82
+    },
+    {
+      "word": "to",
+      "start": 25.82,
+      "end": 26.18
+    },
+    {
+      "word": "qualified",
+      "start": 26.18,
+      "end": 26.54
+    },
+    {
+      "word": "prospect",
+      "start": 26.54,
+      "end": 27.1
+    },
+    {
+      "word": "submissions",
+      "start": 27.1,
+      "end": 27.8
+    },
+    {
+      "word": "ready",
+      "start": 27.8,
+      "end": 28.06
+    },
+    {
+      "word": "for",
+      "start": 28.06,
+      "end": 28.48
+    },
+    {
+      "word": "customer",
+      "start": 28.48,
+      "end": 28.7
+    },
+    {
+      "word": "calls.",
+      "start": 28.7,
+      "end": 29.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Launch your startup waitlist page before going to bed tonight.",
+      "line2": "LAUNCH MVP IN 2-HOURS",
+      "tag": "\ud83d\uded1 Rapid MVP validation landing page stack launched in under 2 hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Rapid MVP validation landing page stack launched in under 2 hours",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Rapid MVP validation landing page stack launched in under 2 hours",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

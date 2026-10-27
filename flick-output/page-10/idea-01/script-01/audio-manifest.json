@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "New Claude Sonnet 4.6 feature update and productivity benchmarks",
+  "text": "Claude just dropped a massive model update and the benchmarks are crazy. Developers burn entire mornings fixing hallucinated code and broken logic from older AI assistants. Complex software workflows collapse whenever limited context windows lose track of shared database schemas. The upgraded Sonnet engine parses entire multi-file codebases natively while auto-correcting architectural bugs in seconds. You ship production-ready features twice as fast without manual troubleshooting.",
+  "duration": 30.458,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Claude",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "just",
+      "start": 0.34,
+      "end": 0.6
+    },
+    {
+      "word": "dropped",
+      "start": 0.6,
+      "end": 0.86
+    },
+    {
+      "word": "a",
+      "start": 0.86,
+      "end": 1.12
+    },
+    {
+      "word": "massive",
+      "start": 1.12,
+      "end": 1.38
+    },
+    {
+      "word": "model",
+      "start": 1.38,
+      "end": 1.72
+    },
+    {
+      "word": "update,",
+      "start": 1.72,
+      "end": 2.14
+    },
+    {
+      "word": "and",
+      "start": 2.14,
+      "end": 2.4
+    },
+    {
+      "word": "the",
+      "start": 2.4,
+      "end": 2.68
+    },
+    {
+      "word": "benchmarks",
+      "start": 2.68,
+      "end": 2.82
+    },
+    {
+      "word": "are",
+      "start": 2.82,
+      "end": 3.22
+    },
+    {
+      "word": "crazy.",
+      "start": 3.22,
+      "end": 3.64
+    },
+    {
+      "word": "Developers",
+      "start": 4.56,
+      "end": 4.56
+    },
+    {
+      "word": "burn",
+      "start": 4.56,
+      "end": 5.02
+    },
+    {
+      "word": "entire",
+      "start": 5.02,
+      "end": 5.56
+    },
+    {
+      "word": "mornings,",
+      "start": 5.56,
+      "end": 5.94
+    },
+    {
+      "word": "fixing",
+      "start": 6.38,
+      "end": 6.38
+    },
+    {
+      "word": "hallucinated",
+      "start": 6.38,
+      "end": 7.04
+    },
+    {
+      "word": "code,",
+      "start": 7.04,
+      "end": 7.52
+    },
+    {
+      "word": "and",
+      "start": 7.8,
+      "end": 7.98
+    },
+    {
+      "word": "broken",
+      "start": 7.98,
+      "end": 8.3
+    },
+    {
+      "word": "logic",
+      "start": 8.3,
+      "end": 8.72
+    },
+    {
+      "word": "from",
+      "start": 8.72,
+      "end": 9.1
+    },
+    {
+      "word": "older",
+      "start": 9.1,
+      "end": 9.52
+    },
+    {
+      "word": "AI",
+      "start": 9.52,
+      "end": 9.96
+    },
+    {
+      "word": "assistants.",
+      "start": 9.96,
+      "end": 10.54
+    },
+    {
+      "word": "Complex",
+      "start": 11.4,
+      "end": 11.58
+    },
+    {
+      "word": "software",
+      "start": 11.58,
+      "end": 12.2
+    },
+    {
+      "word": "workflows",
+      "start": 12.2,
+      "end": 12.76
+    },
+    {
+      "word": "collapse",
+      "start": 12.76,
+      "end": 13.28
+    },
+    {
+      "word": "whenever",
+      "start": 13.28,
+      "end": 13.76
+    },
+    {
+      "word": "limited",
+      "start": 13.76,
+      "end": 14.2
+    },
+    {
+      "word": "context",
+      "start": 14.2,
+      "end": 14.78
+    },
+    {
+      "word": "windows",
+      "start": 14.78,
+      "end": 15.12
+    },
+    {
+      "word": "lose",
+      "start": 15.12,
+      "end": 15.64
+    },
+    {
+      "word": "track",
+      "start": 15.64,
+      "end": 15.98
+    },
+    {
+      "word": "of",
+      "start": 15.98,
+      "end": 16.26
+    },
+    {
+      "word": "shared",
+      "start": 16.26,
+      "end": 16.56
+    },
+    {
+      "word": "database",
+      "start": 16.56,
+      "end": 17.04
+    },
+    {
+      "word": "schemas.",
+      "start": 17.04,
+      "end": 17.52
+    },
+    {
+      "word": "The",
+      "start": 17.96,
+      "end": 18.06
+    },
+    {
+      "word": "upgraded",
+      "start": 18.06,
+      "end": 18.56
+    },
+    {
+      "word": "Sonnet",
+      "start": 18.56,
+      "end": 19.0
+    },
+    {
+      "word": "engine",
+      "start": 19.0,
+      "end": 19.34
+    },
+    {
+      "word": "passes",
+      "start": 19.34,
+      "end": 19.8
+    },
+    {
+      "word": "entire",
+      "start": 19.8,
+      "end": 20.48
+    },
+    {
+      "word": "multi",
+      "start": 20.48,
+      "end": 20.82
+    },
+    {
+      "word": "-file",
+      "start": 20.82,
+      "end": 21.24
+    },
+    {
+      "word": "code",
+      "start": 21.24,
+      "end": 21.56
+    },
+    {
+      "word": "bases",
+      "start": 21.56,
+      "end": 21.88
+    },
+    {
+      "word": "natively",
+      "start": 21.88,
+      "end": 22.7
+    },
+    {
+      "word": "while",
+      "start": 22.7,
+      "end": 23.1
+    },
+    {
+      "word": "auto",
+      "start": 23.1,
+      "end": 23.4
+    },
+    {
+      "word": "-correcting",
+      "start": 23.4,
+      "end": 23.86
+    },
+    {
+      "word": "architectural",
+      "start": 23.86,
+      "end": 24.44
+    },
+    {
+      "word": "bugs",
+      "start": 24.44,
+      "end": 24.9
+    },
+    {
+      "word": "in",
+      "start": 24.9,
+      "end": 25.22
+    },
+    {
+      "word": "seconds.",
+      "start": 25.22,
+      "end": 25.62
+    },
+    {
+      "word": "You",
+      "start": 26.2,
+      "end": 26.4
+    },
+    {
+      "word": "ship",
+      "start": 26.4,
+      "end": 26.64
+    },
+    {
+      "word": "production",
+      "start": 26.64,
+      "end": 27.08
+    },
+    {
+      "word": "-ready",
+      "start": 27.08,
+      "end": 27.32
+    },
+    {
+      "word": "features",
+      "start": 27.32,
+      "end": 27.8
+    },
+    {
+      "word": "twice",
+      "start": 27.8,
+      "end": 28.32
+    },
+    {
+      "word": "as",
+      "start": 28.32,
+      "end": 28.56
+    },
+    {
+      "word": "fast",
+      "start": 28.56,
+      "end": 28.92
+    },
+    {
+      "word": "without",
+      "start": 28.92,
+      "end": 29.3
+    },
+    {
+      "word": "manual",
+      "start": 29.3,
+      "end": 29.76
+    },
+    {
+      "word": "troubleshooting.",
+      "start": 29.76,
+      "end": 30.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Claude just dropped a massive model update and the benchmarks are crazy.",
+      "line2": "CLAUDE SONNET 4.6 BENCHMARKS",
+      "tag": "\ud83d\uded1 New Claude Sonnet 4.6 feature update and productivity benchmarks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "LLM Generation Velocity: New Claude Sonnet 4.6 feature update and productivity benchmarks",
+      "primitive": "TokensPerSecondTachometer",
+      "props": {
+        "title": "LLM Generation Velocity: New Claude Sonnet 4.6 feature update and productivity benchmarks",
+        "subtitle": "New Claude Sonnet 4.6 feature update and productivity benchmarks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hallucination & Grounding Check",
+      "primitive": "HallucinationConfidenceGauge",
+      "props": {
+        "title": "Hallucination & Grounding Check",
+        "subtitle": "New Claude Sonnet 4.6 feature update and productivity benchmarks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "1M Token Needle In Haystack",
+      "primitive": "NeedleInHaystackMatrix",
+      "props": {
+        "title": "1M Token Needle In Haystack",
+        "subtitle": "New Claude Sonnet 4.6 feature update and productivity benchmarks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Cost-Per-Million Token Deflation",
+      "primitive": "CostPerMillionTokensBar",
+      "props": {
+        "title": "Cost-Per-Million Token Deflation",
+        "subtitle": "New Claude Sonnet 4.6 feature update and productivity benchmarks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Async peer recognition bot that rewards teammates in public Slack channels",
+  "text": "This peer reward bot lets teammates send bonus points and praise directly inside Slack. Annual performance reviews fail to motivate remote staff because feedback arrives months after project milestones wrap up. Without immediate recognition, employees feel isolated behind their screens and disconnected from company mission. Implementing Bonusly enables staff to gift reward points redeemable for gift cards and custom perks instantly. You build continuous peer gratitude on autopilot.",
+  "duration": 29.839,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "peer",
+      "start": 0.28,
+      "end": 0.58
+    },
+    {
+      "word": "-reward",
+      "start": 0.58,
+      "end": 0.96
+    },
+    {
+      "word": "bot",
+      "start": 0.96,
+      "end": 1.26
+    },
+    {
+      "word": "lets",
+      "start": 1.26,
+      "end": 1.58
+    },
+    {
+      "word": "teammates",
+      "start": 1.58,
+      "end": 1.94
+    },
+    {
+      "word": "and",
+      "start": 1.94,
+      "end": 2.28
+    },
+    {
+      "word": "bonus",
+      "start": 2.28,
+      "end": 2.58
+    },
+    {
+      "word": "points",
+      "start": 2.58,
+      "end": 3.04
+    },
+    {
+      "word": "and",
+      "start": 3.04,
+      "end": 3.3
+    },
+    {
+      "word": "praise",
+      "start": 3.3,
+      "end": 3.66
+    },
+    {
+      "word": "directly",
+      "start": 3.66,
+      "end": 4.18
+    },
+    {
+      "word": "inside",
+      "start": 4.18,
+      "end": 4.7
+    },
+    {
+      "word": "Slack.",
+      "start": 4.7,
+      "end": 5.3
+    },
+    {
+      "word": "Annual",
+      "start": 6.02,
+      "end": 6.04
+    },
+    {
+      "word": "performance",
+      "start": 6.04,
+      "end": 6.64
+    },
+    {
+      "word": "reviews",
+      "start": 6.64,
+      "end": 7.08
+    },
+    {
+      "word": "fail",
+      "start": 7.08,
+      "end": 7.38
+    },
+    {
+      "word": "to",
+      "start": 7.38,
+      "end": 7.74
+    },
+    {
+      "word": "motivate",
+      "start": 7.74,
+      "end": 8.06
+    },
+    {
+      "word": "remote",
+      "start": 8.06,
+      "end": 8.44
+    },
+    {
+      "word": "staff",
+      "start": 8.44,
+      "end": 8.94
+    },
+    {
+      "word": "because",
+      "start": 8.94,
+      "end": 9.56
+    },
+    {
+      "word": "feedback",
+      "start": 9.56,
+      "end": 9.88
+    },
+    {
+      "word": "arrives",
+      "start": 9.88,
+      "end": 10.42
+    },
+    {
+      "word": "months",
+      "start": 10.42,
+      "end": 10.92
+    },
+    {
+      "word": "after",
+      "start": 10.92,
+      "end": 11.28
+    },
+    {
+      "word": "project",
+      "start": 11.28,
+      "end": 11.74
+    },
+    {
+      "word": "milestones",
+      "start": 11.74,
+      "end": 12.28
+    },
+    {
+      "word": "wrap",
+      "start": 12.28,
+      "end": 12.66
+    },
+    {
+      "word": "up.",
+      "start": 12.66,
+      "end": 13.02
+    },
+    {
+      "word": "Without",
+      "start": 13.22,
+      "end": 13.52
+    },
+    {
+      "word": "immediate",
+      "start": 13.52,
+      "end": 14.02
+    },
+    {
+      "word": "recognition,",
+      "start": 14.02,
+      "end": 14.7
+    },
+    {
+      "word": "employees",
+      "start": 15.22,
+      "end": 15.5
+    },
+    {
+      "word": "feel",
+      "start": 15.5,
+      "end": 15.96
+    },
+    {
+      "word": "isolated",
+      "start": 15.96,
+      "end": 16.42
+    },
+    {
+      "word": "behind",
+      "start": 16.42,
+      "end": 16.78
+    },
+    {
+      "word": "their",
+      "start": 16.78,
+      "end": 17.08
+    },
+    {
+      "word": "screens",
+      "start": 17.08,
+      "end": 17.52
+    },
+    {
+      "word": "and",
+      "start": 17.52,
+      "end": 18.02
+    },
+    {
+      "word": "disconnected",
+      "start": 18.02,
+      "end": 18.44
+    },
+    {
+      "word": "from",
+      "start": 18.44,
+      "end": 18.78
+    },
+    {
+      "word": "company",
+      "start": 18.78,
+      "end": 19.08
+    },
+    {
+      "word": "mission.",
+      "start": 19.08,
+      "end": 19.6
+    },
+    {
+      "word": "Implementing",
+      "start": 20.12,
+      "end": 20.66
+    },
+    {
+      "word": "bonusly",
+      "start": 20.66,
+      "end": 21.26
+    },
+    {
+      "word": "enables",
+      "start": 21.26,
+      "end": 21.74
+    },
+    {
+      "word": "staff",
+      "start": 21.74,
+      "end": 22.12
+    },
+    {
+      "word": "to",
+      "start": 22.12,
+      "end": 22.32
+    },
+    {
+      "word": "gift",
+      "start": 22.32,
+      "end": 22.58
+    },
+    {
+      "word": "reward",
+      "start": 22.58,
+      "end": 22.98
+    },
+    {
+      "word": "points",
+      "start": 22.98,
+      "end": 23.36
+    },
+    {
+      "word": "redeemable",
+      "start": 23.36,
+      "end": 23.94
+    },
+    {
+      "word": "for",
+      "start": 23.94,
+      "end": 24.2
+    },
+    {
+      "word": "gift",
+      "start": 24.2,
+      "end": 24.42
+    },
+    {
+      "word": "cards",
+      "start": 24.42,
+      "end": 24.84
+    },
+    {
+      "word": "and",
+      "start": 24.84,
+      "end": 25.48
+    },
+    {
+      "word": "custom",
+      "start": 25.48,
+      "end": 25.56
+    },
+    {
+      "word": "perks",
+      "start": 25.56,
+      "end": 25.84
+    },
+    {
+      "word": "instantly.",
+      "start": 25.84,
+      "end": 26.44
+    },
+    {
+      "word": "You",
+      "start": 26.44,
+      "end": 27.14
+    },
+    {
+      "word": "build",
+      "start": 27.14,
+      "end": 27.42
+    },
+    {
+      "word": "continuous",
+      "start": 27.42,
+      "end": 27.98
+    },
+    {
+      "word": "peer",
+      "start": 27.98,
+      "end": 28.38
+    },
+    {
+      "word": "gratitude",
+      "start": 28.38,
+      "end": 28.84
+    },
+    {
+      "word": "on",
+      "start": 28.84,
+      "end": 29.26
+    },
+    {
+      "word": "autopilot.",
+      "start": 29.26,
+      "end": 29.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "This peer reward bot lets teammates send bonus points and praise directly in Slack.",
+      "line2": "REWARD REMOTE TEAMMATES",
+      "tag": "\ud83d\uded1 Async peer recognition bot that rewards teammates in public Slack channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async peer recognition bot that rewards teammates in public Slack channels",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async peer recognition bot that rewards teammates in public Slack channels",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Cobalt: clean, ad-free video and audio downloader with no paywalls",
+  "text": "The only media downloader tool you will ever need on your bookmarks bar. Maintaining separate downloader bookmarks for YouTube, TikTok, and Instagram clutters your workspace and invites malware. Unofficial converter sites break whenever platforms update their code, stalling your production schedule during tight editing deadlines. Cobalt provides an open-source universal engine that processes links across major platforms with zero ads. You extract clean video and audio in one click.",
+  "duration": 29.178,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "only",
+      "start": 0.24,
+      "end": 0.54
+    },
+    {
+      "word": "media",
+      "start": 0.54,
+      "end": 0.88
+    },
+    {
+      "word": "downloader",
+      "start": 0.88,
+      "end": 1.54
+    },
+    {
+      "word": "tool",
+      "start": 1.54,
+      "end": 1.72
+    },
+    {
+      "word": "you",
+      "start": 1.72,
+      "end": 1.92
+    },
+    {
+      "word": "will",
+      "start": 1.92,
+      "end": 2.12
+    },
+    {
+      "word": "ever",
+      "start": 2.12,
+      "end": 2.32
+    },
+    {
+      "word": "need",
+      "start": 2.32,
+      "end": 2.54
+    },
+    {
+      "word": "on",
+      "start": 2.54,
+      "end": 2.7
+    },
+    {
+      "word": "your",
+      "start": 2.7,
+      "end": 2.86
+    },
+    {
+      "word": "bookmarks",
+      "start": 2.86,
+      "end": 3.28
+    },
+    {
+      "word": "bar.",
+      "start": 3.28,
+      "end": 3.74
+    },
+    {
+      "word": "Maintaining",
+      "start": 4.34,
+      "end": 4.78
+    },
+    {
+      "word": "separate",
+      "start": 4.78,
+      "end": 5.18
+    },
+    {
+      "word": "downloader",
+      "start": 5.18,
+      "end": 5.88
+    },
+    {
+      "word": "bookmarks",
+      "start": 5.88,
+      "end": 6.2
+    },
+    {
+      "word": "for",
+      "start": 6.2,
+      "end": 6.46
+    },
+    {
+      "word": "YouTube,",
+      "start": 6.46,
+      "end": 7.14
+    },
+    {
+      "word": "TikTok,",
+      "start": 7.54,
+      "end": 7.92
+    },
+    {
+      "word": "and",
+      "start": 8.28,
+      "end": 8.54
+    },
+    {
+      "word": "Instagram",
+      "start": 8.54,
+      "end": 9.02
+    },
+    {
+      "word": "clutters",
+      "start": 9.02,
+      "end": 9.38
+    },
+    {
+      "word": "your",
+      "start": 9.38,
+      "end": 9.6
+    },
+    {
+      "word": "workspace",
+      "start": 9.6,
+      "end": 9.96
+    },
+    {
+      "word": "and",
+      "start": 9.96,
+      "end": 10.5
+    },
+    {
+      "word": "invites",
+      "start": 10.5,
+      "end": 10.92
+    },
+    {
+      "word": "malware.",
+      "start": 10.92,
+      "end": 11.32
+    },
+    {
+      "word": "Unofficial",
+      "start": 11.76,
+      "end": 12.24
+    },
+    {
+      "word": "converter",
+      "start": 12.24,
+      "end": 12.62
+    },
+    {
+      "word": "sites",
+      "start": 12.62,
+      "end": 13.1
+    },
+    {
+      "word": "break",
+      "start": 13.1,
+      "end": 13.42
+    },
+    {
+      "word": "whenever",
+      "start": 13.42,
+      "end": 13.68
+    },
+    {
+      "word": "platforms",
+      "start": 13.68,
+      "end": 14.18
+    },
+    {
+      "word": "update",
+      "start": 14.18,
+      "end": 14.6
+    },
+    {
+      "word": "their",
+      "start": 14.6,
+      "end": 14.98
+    },
+    {
+      "word": "code,",
+      "start": 14.98,
+      "end": 15.46
+    },
+    {
+      "word": "stalling",
+      "start": 15.74,
+      "end": 16.06
+    },
+    {
+      "word": "your",
+      "start": 16.06,
+      "end": 16.34
+    },
+    {
+      "word": "production",
+      "start": 16.34,
+      "end": 16.68
+    },
+    {
+      "word": "schedule",
+      "start": 16.68,
+      "end": 17.16
+    },
+    {
+      "word": "during",
+      "start": 17.16,
+      "end": 17.54
+    },
+    {
+      "word": "tight",
+      "start": 17.54,
+      "end": 17.92
+    },
+    {
+      "word": "editing",
+      "start": 17.92,
+      "end": 18.2
+    },
+    {
+      "word": "deadlines.",
+      "start": 18.2,
+      "end": 18.82
+    },
+    {
+      "word": "Cobalt",
+      "start": 19.58,
+      "end": 19.84
+    },
+    {
+      "word": "provides",
+      "start": 19.84,
+      "end": 20.22
+    },
+    {
+      "word": "an",
+      "start": 20.22,
+      "end": 20.54
+    },
+    {
+      "word": "open",
+      "start": 20.54,
+      "end": 20.8
+    },
+    {
+      "word": "source",
+      "start": 20.8,
+      "end": 21.24
+    },
+    {
+      "word": "universal",
+      "start": 21.24,
+      "end": 21.82
+    },
+    {
+      "word": "engine",
+      "start": 21.82,
+      "end": 22.22
+    },
+    {
+      "word": "that",
+      "start": 22.22,
+      "end": 22.7
+    },
+    {
+      "word": "processes",
+      "start": 22.7,
+      "end": 23.1
+    },
+    {
+      "word": "links",
+      "start": 23.1,
+      "end": 23.52
+    },
+    {
+      "word": "across",
+      "start": 23.52,
+      "end": 23.96
+    },
+    {
+      "word": "major",
+      "start": 23.96,
+      "end": 24.18
+    },
+    {
+      "word": "platforms",
+      "start": 24.18,
+      "end": 24.7
+    },
+    {
+      "word": "with",
+      "start": 24.7,
+      "end": 25.12
+    },
+    {
+      "word": "zero",
+      "start": 25.12,
+      "end": 25.54
+    },
+    {
+      "word": "ads.",
+      "start": 25.54,
+      "end": 25.92
+    },
+    {
+      "word": "You",
+      "start": 25.92,
+      "end": 26.56
+    },
+    {
+      "word": "extract",
+      "start": 26.56,
+      "end": 26.96
+    },
+    {
+      "word": "clean",
+      "start": 26.96,
+      "end": 27.4
+    },
+    {
+      "word": "video",
+      "start": 27.4,
+      "end": 27.78
+    },
+    {
+      "word": "and",
+      "start": 27.78,
+      "end": 28.08
+    },
+    {
+      "word": "audio",
+      "start": 28.08,
+      "end": 28.38
+    },
+    {
+      "word": "in",
+      "start": 28.38,
+      "end": 28.62
+    },
+    {
+      "word": "one",
+      "start": 28.62,
+      "end": 28.88
+    },
+    {
+      "word": "click.",
+      "start": 28.88,
+      "end": 29.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The only media downloader tool you will ever need on your bookmarks bar.",
+      "line2": "AD-FREE MEDIA DOWNLOADER",
+      "tag": "\ud83d\uded1 Cobalt",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Cobalt",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Cobalt",
+        "subtitle": "Cobalt"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Cobalt"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Cobalt"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Cobalt",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

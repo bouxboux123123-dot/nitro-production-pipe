@@ -1,0 +1,421 @@
+{
+  "page": "page-09",
+  "idea": "ClickUp vs Monday.com: which all-in-one project tool is less chaotic",
+  "text": "ClickUp versus Monday: which project management tool will your team actually adopt? Teams constantly abandon new project boards when basic task updates require tedious manual maintenance. ClickUp creates paralysis with overly nested hierarchies, while Monday locks advanced formula columns behind expensive enterprise tiers. Choose Monday for effortless visual pipelines, or deploy ClickUp when your developers need granular custom fields and docs. Making the right choice eliminates messy project bottlenecks.",
+  "duration": 31.375,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Click",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "Up",
+      "start": 0.22,
+      "end": 0.44
+    },
+    {
+      "word": "vs.",
+      "start": 0.44,
+      "end": 0.78
+    },
+    {
+      "word": "Monday,",
+      "start": 0.94,
+      "end": 1.24
+    },
+    {
+      "word": "which",
+      "start": 1.7,
+      "end": 1.9
+    },
+    {
+      "word": "project",
+      "start": 1.9,
+      "end": 2.26
+    },
+    {
+      "word": "management",
+      "start": 2.26,
+      "end": 2.82
+    },
+    {
+      "word": "tool",
+      "start": 2.82,
+      "end": 3.16
+    },
+    {
+      "word": "will",
+      "start": 3.16,
+      "end": 3.38
+    },
+    {
+      "word": "your",
+      "start": 3.38,
+      "end": 3.58
+    },
+    {
+      "word": "team",
+      "start": 3.58,
+      "end": 3.86
+    },
+    {
+      "word": "actually",
+      "start": 3.86,
+      "end": 4.34
+    },
+    {
+      "word": "adopt.",
+      "start": 4.34,
+      "end": 4.86
+    },
+    {
+      "word": "Teams",
+      "start": 5.78,
+      "end": 5.78
+    },
+    {
+      "word": "constantly",
+      "start": 5.78,
+      "end": 6.34
+    },
+    {
+      "word": "abandon",
+      "start": 6.34,
+      "end": 6.8
+    },
+    {
+      "word": "new",
+      "start": 6.8,
+      "end": 7.14
+    },
+    {
+      "word": "project",
+      "start": 7.14,
+      "end": 7.56
+    },
+    {
+      "word": "boards",
+      "start": 7.56,
+      "end": 7.9
+    },
+    {
+      "word": "when",
+      "start": 7.9,
+      "end": 8.22
+    },
+    {
+      "word": "basic",
+      "start": 8.22,
+      "end": 8.58
+    },
+    {
+      "word": "task",
+      "start": 8.58,
+      "end": 8.94
+    },
+    {
+      "word": "updates",
+      "start": 8.94,
+      "end": 9.3
+    },
+    {
+      "word": "require",
+      "start": 9.3,
+      "end": 9.88
+    },
+    {
+      "word": "tedious",
+      "start": 9.88,
+      "end": 10.4
+    },
+    {
+      "word": "manual",
+      "start": 10.4,
+      "end": 10.88
+    },
+    {
+      "word": "maintenance.",
+      "start": 10.88,
+      "end": 11.38
+    },
+    {
+      "word": "Click",
+      "start": 11.86,
+      "end": 12.0
+    },
+    {
+      "word": "Up",
+      "start": 12.0,
+      "end": 12.22
+    },
+    {
+      "word": "creates",
+      "start": 12.22,
+      "end": 12.64
+    },
+    {
+      "word": "paralysis",
+      "start": 12.64,
+      "end": 13.16
+    },
+    {
+      "word": "with",
+      "start": 13.16,
+      "end": 13.68
+    },
+    {
+      "word": "overly",
+      "start": 13.68,
+      "end": 13.86
+    },
+    {
+      "word": "nested",
+      "start": 13.86,
+      "end": 14.28
+    },
+    {
+      "word": "hierarchies,",
+      "start": 14.28,
+      "end": 15.0
+    },
+    {
+      "word": "while",
+      "start": 15.36,
+      "end": 15.54
+    },
+    {
+      "word": "Monday",
+      "start": 15.54,
+      "end": 15.82
+    },
+    {
+      "word": "locks",
+      "start": 15.82,
+      "end": 16.16
+    },
+    {
+      "word": "advanced",
+      "start": 16.16,
+      "end": 16.76
+    },
+    {
+      "word": "formula",
+      "start": 16.76,
+      "end": 17.14
+    },
+    {
+      "word": "columns",
+      "start": 17.14,
+      "end": 17.66
+    },
+    {
+      "word": "behind",
+      "start": 17.66,
+      "end": 18.18
+    },
+    {
+      "word": "expensive",
+      "start": 18.18,
+      "end": 18.8
+    },
+    {
+      "word": "enterprise",
+      "start": 18.8,
+      "end": 19.32
+    },
+    {
+      "word": "tiers.",
+      "start": 19.32,
+      "end": 19.84
+    },
+    {
+      "word": "Choose",
+      "start": 20.42,
+      "end": 20.7
+    },
+    {
+      "word": "Monday",
+      "start": 20.7,
+      "end": 20.98
+    },
+    {
+      "word": "for",
+      "start": 20.98,
+      "end": 21.42
+    },
+    {
+      "word": "effortless",
+      "start": 21.42,
+      "end": 21.76
+    },
+    {
+      "word": "visual",
+      "start": 21.76,
+      "end": 22.18
+    },
+    {
+      "word": "pipelines",
+      "start": 22.18,
+      "end": 22.74
+    },
+    {
+      "word": "or",
+      "start": 22.74,
+      "end": 23.46
+    },
+    {
+      "word": "deploy",
+      "start": 23.46,
+      "end": 23.78
+    },
+    {
+      "word": "click",
+      "start": 23.78,
+      "end": 24.18
+    },
+    {
+      "word": "-up",
+      "start": 24.18,
+      "end": 24.46
+    },
+    {
+      "word": "when",
+      "start": 24.46,
+      "end": 24.66
+    },
+    {
+      "word": "your",
+      "start": 24.66,
+      "end": 25.16
+    },
+    {
+      "word": "developers",
+      "start": 25.16,
+      "end": 25.16
+    },
+    {
+      "word": "need",
+      "start": 25.16,
+      "end": 25.64
+    },
+    {
+      "word": "granular",
+      "start": 25.64,
+      "end": 26.1
+    },
+    {
+      "word": "custom",
+      "start": 26.1,
+      "end": 26.5
+    },
+    {
+      "word": "fields",
+      "start": 26.5,
+      "end": 26.94
+    },
+    {
+      "word": "and",
+      "start": 26.94,
+      "end": 27.22
+    },
+    {
+      "word": "docks.",
+      "start": 27.22,
+      "end": 27.6
+    },
+    {
+      "word": "Making",
+      "start": 27.6,
+      "end": 28.4
+    },
+    {
+      "word": "the",
+      "start": 28.4,
+      "end": 28.6
+    },
+    {
+      "word": "right",
+      "start": 28.6,
+      "end": 28.86
+    },
+    {
+      "word": "choice",
+      "start": 28.86,
+      "end": 29.22
+    },
+    {
+      "word": "eliminates",
+      "start": 29.22,
+      "end": 29.8
+    },
+    {
+      "word": "messy",
+      "start": 29.8,
+      "end": 30.18
+    },
+    {
+      "word": "project",
+      "start": 30.18,
+      "end": 30.66
+    },
+    {
+      "word": "bottlenecks.",
+      "start": 30.66,
+      "end": 31.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "ClickUp vs Monday: which project management tool will your team actually enjoy using?",
+      "line2": "CLICKUP VS MONDAY",
+      "tag": "\ud83d\uded1 ClickUp vs Monday.com",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: ClickUp vs Monday.com",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: ClickUp vs Monday.com",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "ClickUp vs Monday.com",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-10",
+  "idea": "Make.com native AI assistants for scenario building and debugging",
+  "text": "You are paying thirty dollars monthly for a form builder that should live inside your database. Solopreneurs juggle expensive subscriptions for Typeform and Zapier just to collect basic client inquiries. Managing separate bills and debugging broken webhook endpoints burns valuable operational energy every week. Notion now turns any internal database view into a shareable branded form with instant field mapping. You save hundreds in software fees annually.",
+  "duration": 26.155,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "who",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "are",
+      "start": 0.24,
+      "end": 0.28
+    },
+    {
+      "word": "paying",
+      "start": 0.28,
+      "end": 0.56
+    },
+    {
+      "word": "$30",
+      "start": 0.56,
+      "end": 1.06
+    },
+    {
+      "word": "monthly",
+      "start": 1.06,
+      "end": 1.5
+    },
+    {
+      "word": "for",
+      "start": 1.5,
+      "end": 1.8
+    },
+    {
+      "word": "form",
+      "start": 1.8,
+      "end": 2.08
+    },
+    {
+      "word": "builder",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "word": "that",
+      "start": 2.32,
+      "end": 2.6
+    },
+    {
+      "word": "should",
+      "start": 2.6,
+      "end": 2.8
+    },
+    {
+      "word": "live",
+      "start": 2.8,
+      "end": 3.0
+    },
+    {
+      "word": "inside",
+      "start": 3.0,
+      "end": 3.36
+    },
+    {
+      "word": "your",
+      "start": 3.36,
+      "end": 3.72
+    },
+    {
+      "word": "database.",
+      "start": 3.72,
+      "end": 4.06
+    },
+    {
+      "word": "Solopreneurs",
+      "start": 4.84,
+      "end": 5.36
+    },
+    {
+      "word": "juggle",
+      "start": 5.36,
+      "end": 5.84
+    },
+    {
+      "word": "expensive",
+      "start": 5.84,
+      "end": 6.2
+    },
+    {
+      "word": "subscriptions",
+      "start": 6.2,
+      "end": 6.78
+    },
+    {
+      "word": "for",
+      "start": 6.78,
+      "end": 7.1
+    },
+    {
+      "word": "type",
+      "start": 7.1,
+      "end": 7.34
+    },
+    {
+      "word": "form",
+      "start": 7.34,
+      "end": 7.58
+    },
+    {
+      "word": "and",
+      "start": 7.58,
+      "end": 7.76
+    },
+    {
+      "word": "Zapier",
+      "start": 7.76,
+      "end": 8.26
+    },
+    {
+      "word": "just",
+      "start": 8.26,
+      "end": 8.76
+    },
+    {
+      "word": "to",
+      "start": 8.76,
+      "end": 8.94
+    },
+    {
+      "word": "collect",
+      "start": 8.94,
+      "end": 9.22
+    },
+    {
+      "word": "basic",
+      "start": 9.22,
+      "end": 9.64
+    },
+    {
+      "word": "client",
+      "start": 9.64,
+      "end": 9.98
+    },
+    {
+      "word": "inquiries.",
+      "start": 9.98,
+      "end": 10.48
+    },
+    {
+      "word": "Managing",
+      "start": 11.26,
+      "end": 11.38
+    },
+    {
+      "word": "separate",
+      "start": 11.38,
+      "end": 11.84
+    },
+    {
+      "word": "bills",
+      "start": 11.84,
+      "end": 12.22
+    },
+    {
+      "word": "and",
+      "start": 12.22,
+      "end": 12.8
+    },
+    {
+      "word": "debugging",
+      "start": 12.8,
+      "end": 12.8
+    },
+    {
+      "word": "broken",
+      "start": 12.8,
+      "end": 13.24
+    },
+    {
+      "word": "webhook",
+      "start": 13.24,
+      "end": 13.8
+    },
+    {
+      "word": "and",
+      "start": 13.8,
+      "end": 14.14
+    },
+    {
+      "word": "points",
+      "start": 14.14,
+      "end": 14.48
+    },
+    {
+      "word": "Burns",
+      "start": 14.48,
+      "end": 14.88
+    },
+    {
+      "word": "valuable",
+      "start": 14.88,
+      "end": 15.4
+    },
+    {
+      "word": "operational",
+      "start": 15.4,
+      "end": 16.08
+    },
+    {
+      "word": "energy",
+      "start": 16.08,
+      "end": 16.54
+    },
+    {
+      "word": "every",
+      "start": 16.54,
+      "end": 16.86
+    },
+    {
+      "word": "week.",
+      "start": 16.86,
+      "end": 17.48
+    },
+    {
+      "word": "Notion",
+      "start": 17.78,
+      "end": 18.1
+    },
+    {
+      "word": "now",
+      "start": 18.1,
+      "end": 18.44
+    },
+    {
+      "word": "turns",
+      "start": 18.44,
+      "end": 18.72
+    },
+    {
+      "word": "any",
+      "start": 18.72,
+      "end": 19.0
+    },
+    {
+      "word": "internal",
+      "start": 19.0,
+      "end": 19.4
+    },
+    {
+      "word": "database",
+      "start": 19.4,
+      "end": 19.82
+    },
+    {
+      "word": "view",
+      "start": 19.82,
+      "end": 20.2
+    },
+    {
+      "word": "into",
+      "start": 20.2,
+      "end": 20.46
+    },
+    {
+      "word": "a",
+      "start": 20.46,
+      "end": 20.66
+    },
+    {
+      "word": "shareable",
+      "start": 20.66,
+      "end": 21.06
+    },
+    {
+      "word": "branded",
+      "start": 21.06,
+      "end": 21.38
+    },
+    {
+      "word": "form",
+      "start": 21.38,
+      "end": 21.9
+    },
+    {
+      "word": "with",
+      "start": 21.9,
+      "end": 22.26
+    },
+    {
+      "word": "instant",
+      "start": 22.26,
+      "end": 22.56
+    },
+    {
+      "word": "field",
+      "start": 22.56,
+      "end": 22.9
+    },
+    {
+      "word": "mapping.",
+      "start": 22.9,
+      "end": 23.26
+    },
+    {
+      "word": "You",
+      "start": 23.82,
+      "end": 23.94
+    },
+    {
+      "word": "save",
+      "start": 23.94,
+      "end": 24.16
+    },
+    {
+      "word": "hundreds",
+      "start": 24.16,
+      "end": 24.52
+    },
+    {
+      "word": "in",
+      "start": 24.52,
+      "end": 24.86
+    },
+    {
+      "word": "software",
+      "start": 24.86,
+      "end": 25.16
+    },
+    {
+      "word": "fees",
+      "start": 25.16,
+      "end": 25.68
+    },
+    {
+      "word": "annually.",
+      "start": 25.68,
+      "end": 26.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Stuck on an error in your automation scenario? This AI diagnoses the bug instantly.",
+      "line2": "MAKE AI SCENARIO DEBUGGER",
+      "tag": "\ud83d\uded1 Make.com native AI assistants for scenario building and debugging",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Make.com native AI assistants for scenario building and debugging",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Make.com native AI assistants for scenario building and debugging",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

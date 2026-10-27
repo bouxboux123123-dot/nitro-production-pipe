@@ -1,0 +1,376 @@
+{
+  "page": "page-07",
+  "idea": "Automated employee onboarding hub that issues accounts and permissions",
+  "text": "This automated onboarding checklist sets up Google Workspace, Slack, and internal tools seamlessly. Growing startups lose entire mornings hunting down software licenses and pasting passwords manually. A single forgotten GitHub invite stalls sprint momentum and damages team morale. Connect an Airtable roster through Zapier to automatically provision seats, invite members, and assign documentation. New hires get instant access while saving founders valuable time.",
+  "duration": 27.264,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "automated",
+      "start": 0.3,
+      "end": 0.64
+    },
+    {
+      "word": "onboarding",
+      "start": 0.64,
+      "end": 1.24
+    },
+    {
+      "word": "checklist",
+      "start": 1.24,
+      "end": 1.58
+    },
+    {
+      "word": "sets",
+      "start": 1.58,
+      "end": 1.88
+    },
+    {
+      "word": "up",
+      "start": 1.88,
+      "end": 2.08
+    },
+    {
+      "word": "Google",
+      "start": 2.08,
+      "end": 2.38
+    },
+    {
+      "word": "workspace,",
+      "start": 2.38,
+      "end": 2.88
+    },
+    {
+      "word": "slack,",
+      "start": 3.32,
+      "end": 3.66
+    },
+    {
+      "word": "and",
+      "start": 4.04,
+      "end": 4.06
+    },
+    {
+      "word": "internal",
+      "start": 4.06,
+      "end": 4.36
+    },
+    {
+      "word": "tools",
+      "start": 4.36,
+      "end": 4.78
+    },
+    {
+      "word": "seamlessly.",
+      "start": 4.78,
+      "end": 5.36
+    },
+    {
+      "word": "Growing",
+      "start": 6.14,
+      "end": 6.3
+    },
+    {
+      "word": "startups",
+      "start": 6.3,
+      "end": 6.62
+    },
+    {
+      "word": "lose",
+      "start": 6.62,
+      "end": 7.04
+    },
+    {
+      "word": "entire",
+      "start": 7.04,
+      "end": 7.48
+    },
+    {
+      "word": "mornings",
+      "start": 7.48,
+      "end": 7.82
+    },
+    {
+      "word": "hunting",
+      "start": 7.82,
+      "end": 8.12
+    },
+    {
+      "word": "down",
+      "start": 8.12,
+      "end": 8.48
+    },
+    {
+      "word": "software",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "word": "licenses",
+      "start": 8.8,
+      "end": 9.26
+    },
+    {
+      "word": "and",
+      "start": 9.26,
+      "end": 9.84
+    },
+    {
+      "word": "pasting",
+      "start": 9.84,
+      "end": 10.12
+    },
+    {
+      "word": "passwords",
+      "start": 10.12,
+      "end": 10.54
+    },
+    {
+      "word": "manually.",
+      "start": 10.54,
+      "end": 11.08
+    },
+    {
+      "word": "A",
+      "start": 11.68,
+      "end": 11.78
+    },
+    {
+      "word": "single",
+      "start": 11.78,
+      "end": 12.02
+    },
+    {
+      "word": "forgotten",
+      "start": 12.02,
+      "end": 12.42
+    },
+    {
+      "word": "GitHub",
+      "start": 12.42,
+      "end": 12.84
+    },
+    {
+      "word": "invites",
+      "start": 12.84,
+      "end": 13.34
+    },
+    {
+      "word": "stalls,",
+      "start": 13.34,
+      "end": 13.72
+    },
+    {
+      "word": "sprint",
+      "start": 13.96,
+      "end": 13.98
+    },
+    {
+      "word": "momentum,",
+      "start": 13.98,
+      "end": 14.4
+    },
+    {
+      "word": "and",
+      "start": 14.64,
+      "end": 14.72
+    },
+    {
+      "word": "damages",
+      "start": 14.72,
+      "end": 15.08
+    },
+    {
+      "word": "team",
+      "start": 15.08,
+      "end": 15.58
+    },
+    {
+      "word": "morale.",
+      "start": 15.58,
+      "end": 15.96
+    },
+    {
+      "word": "Connect",
+      "start": 16.58,
+      "end": 16.76
+    },
+    {
+      "word": "an",
+      "start": 16.76,
+      "end": 17.0
+    },
+    {
+      "word": "irritable",
+      "start": 17.0,
+      "end": 17.36
+    },
+    {
+      "word": "roster",
+      "start": 17.36,
+      "end": 17.7
+    },
+    {
+      "word": "through",
+      "start": 17.7,
+      "end": 18.04
+    },
+    {
+      "word": "Zapier",
+      "start": 18.04,
+      "end": 18.44
+    },
+    {
+      "word": "to",
+      "start": 18.44,
+      "end": 18.78
+    },
+    {
+      "word": "automatically",
+      "start": 18.78,
+      "end": 19.22
+    },
+    {
+      "word": "provision",
+      "start": 19.22,
+      "end": 19.64
+    },
+    {
+      "word": "seats,",
+      "start": 19.64,
+      "end": 20.28
+    },
+    {
+      "word": "invite",
+      "start": 20.9,
+      "end": 20.9
+    },
+    {
+      "word": "members,",
+      "start": 20.9,
+      "end": 21.26
+    },
+    {
+      "word": "and",
+      "start": 21.64,
+      "end": 21.84
+    },
+    {
+      "word": "assign",
+      "start": 21.84,
+      "end": 22.14
+    },
+    {
+      "word": "documentation.",
+      "start": 22.14,
+      "end": 22.84
+    },
+    {
+      "word": "New",
+      "start": 23.6,
+      "end": 23.84
+    },
+    {
+      "word": "hires",
+      "start": 23.84,
+      "end": 24.1
+    },
+    {
+      "word": "get",
+      "start": 24.1,
+      "end": 24.44
+    },
+    {
+      "word": "instant",
+      "start": 24.44,
+      "end": 24.72
+    },
+    {
+      "word": "access",
+      "start": 24.72,
+      "end": 25.12
+    },
+    {
+      "word": "while",
+      "start": 25.12,
+      "end": 25.46
+    },
+    {
+      "word": "saving",
+      "start": 25.46,
+      "end": 25.86
+    },
+    {
+      "word": "founders",
+      "start": 25.86,
+      "end": 26.3
+    },
+    {
+      "word": "valuable",
+      "start": 26.3,
+      "end": 26.76
+    },
+    {
+      "word": "time.",
+      "start": 26.76,
+      "end": 27.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The automated checklist that sets up Google Workspace, Slack, and tools seamlessly.",
+      "line2": "PROVISION EMPLOYEE ACCOUNTS",
+      "tag": "\ud83d\uded1 Automated employee onboarding hub that issues accounts and permissions",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated employee onboarding hub that issues accounts and permissions",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated employee onboarding hub that issues accounts and permissions",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

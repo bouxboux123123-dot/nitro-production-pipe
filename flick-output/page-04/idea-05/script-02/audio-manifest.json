@@ -1,0 +1,391 @@
+{
+  "page": "page-04",
+  "idea": "Whisper locally: free unlimited speech-to-text with zero API bills",
+  "text": "Stop paying fifteen dollars a month for audio transcription services. Uploading client recordings to cloud apps burns through monthly credits before you finish your second project. When your balance runs out, platforms hit you with paywalls or force you into slow queues. Instead, download Whisper Desktop to convert speech into text directly through your local processor. You get unlimited transcriptions with zero data caps and complete privacy.",
+  "duration": 24.811,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "paying",
+      "start": 0.3,
+      "end": 0.58
+    },
+    {
+      "word": "$15",
+      "start": 0.58,
+      "end": 1.08
+    },
+    {
+      "word": "a",
+      "start": 1.08,
+      "end": 1.4
+    },
+    {
+      "word": "month",
+      "start": 1.4,
+      "end": 1.6
+    },
+    {
+      "word": "for",
+      "start": 1.6,
+      "end": 1.86
+    },
+    {
+      "word": "audio",
+      "start": 1.86,
+      "end": 2.06
+    },
+    {
+      "word": "transcription",
+      "start": 2.06,
+      "end": 2.62
+    },
+    {
+      "word": "services.",
+      "start": 2.62,
+      "end": 3.38
+    },
+    {
+      "word": "Uploading",
+      "start": 3.96,
+      "end": 4.36
+    },
+    {
+      "word": "client",
+      "start": 4.36,
+      "end": 4.62
+    },
+    {
+      "word": "recordings",
+      "start": 4.62,
+      "end": 5.04
+    },
+    {
+      "word": "to",
+      "start": 5.04,
+      "end": 5.32
+    },
+    {
+      "word": "cloud",
+      "start": 5.32,
+      "end": 5.62
+    },
+    {
+      "word": "apps",
+      "start": 5.62,
+      "end": 5.94
+    },
+    {
+      "word": "burns",
+      "start": 5.94,
+      "end": 6.32
+    },
+    {
+      "word": "through",
+      "start": 6.32,
+      "end": 6.58
+    },
+    {
+      "word": "monthly",
+      "start": 6.58,
+      "end": 6.94
+    },
+    {
+      "word": "credits",
+      "start": 6.94,
+      "end": 7.28
+    },
+    {
+      "word": "before",
+      "start": 7.28,
+      "end": 7.58
+    },
+    {
+      "word": "you",
+      "start": 7.58,
+      "end": 7.9
+    },
+    {
+      "word": "finish",
+      "start": 7.9,
+      "end": 7.9
+    },
+    {
+      "word": "your",
+      "start": 7.9,
+      "end": 8.34
+    },
+    {
+      "word": "second",
+      "start": 8.34,
+      "end": 8.38
+    },
+    {
+      "word": "project.",
+      "start": 8.38,
+      "end": 8.9
+    },
+    {
+      "word": "When",
+      "start": 9.38,
+      "end": 9.52
+    },
+    {
+      "word": "your",
+      "start": 9.52,
+      "end": 9.7
+    },
+    {
+      "word": "balance",
+      "start": 9.7,
+      "end": 9.96
+    },
+    {
+      "word": "runs",
+      "start": 9.96,
+      "end": 10.28
+    },
+    {
+      "word": "out,",
+      "start": 10.28,
+      "end": 10.86
+    },
+    {
+      "word": "platforms",
+      "start": 11.04,
+      "end": 11.16
+    },
+    {
+      "word": "hit",
+      "start": 11.16,
+      "end": 11.54
+    },
+    {
+      "word": "you",
+      "start": 11.54,
+      "end": 11.66
+    },
+    {
+      "word": "with",
+      "start": 11.66,
+      "end": 11.86
+    },
+    {
+      "word": "paywalls",
+      "start": 11.86,
+      "end": 12.32
+    },
+    {
+      "word": "or",
+      "start": 12.32,
+      "end": 12.86
+    },
+    {
+      "word": "force",
+      "start": 12.86,
+      "end": 13.14
+    },
+    {
+      "word": "you",
+      "start": 13.14,
+      "end": 13.3
+    },
+    {
+      "word": "into",
+      "start": 13.3,
+      "end": 13.52
+    },
+    {
+      "word": "slow",
+      "start": 13.52,
+      "end": 13.8
+    },
+    {
+      "word": "cues.",
+      "start": 13.8,
+      "end": 14.24
+    },
+    {
+      "word": "Instead,",
+      "start": 14.9,
+      "end": 15.22
+    },
+    {
+      "word": "download",
+      "start": 16.0,
+      "end": 16.0
+    },
+    {
+      "word": "Whisper",
+      "start": 16.0,
+      "end": 16.44
+    },
+    {
+      "word": "Desktop",
+      "start": 16.44,
+      "end": 16.82
+    },
+    {
+      "word": "to",
+      "start": 16.82,
+      "end": 17.22
+    },
+    {
+      "word": "convert",
+      "start": 17.22,
+      "end": 17.48
+    },
+    {
+      "word": "speech",
+      "start": 17.48,
+      "end": 17.88
+    },
+    {
+      "word": "into",
+      "start": 17.88,
+      "end": 18.14
+    },
+    {
+      "word": "text",
+      "start": 18.14,
+      "end": 18.46
+    },
+    {
+      "word": "directly",
+      "start": 18.46,
+      "end": 18.86
+    },
+    {
+      "word": "through",
+      "start": 18.86,
+      "end": 19.24
+    },
+    {
+      "word": "your",
+      "start": 19.24,
+      "end": 19.42
+    },
+    {
+      "word": "local",
+      "start": 19.42,
+      "end": 19.72
+    },
+    {
+      "word": "processor.",
+      "start": 19.72,
+      "end": 20.24
+    },
+    {
+      "word": "You",
+      "start": 20.24,
+      "end": 20.86
+    },
+    {
+      "word": "get",
+      "start": 20.86,
+      "end": 21.22
+    },
+    {
+      "word": "unlimited",
+      "start": 21.22,
+      "end": 21.54
+    },
+    {
+      "word": "transcriptions",
+      "start": 21.54,
+      "end": 22.34
+    },
+    {
+      "word": "with",
+      "start": 22.34,
+      "end": 22.62
+    },
+    {
+      "word": "zero",
+      "start": 22.62,
+      "end": 23.04
+    },
+    {
+      "word": "data",
+      "start": 23.04,
+      "end": 23.34
+    },
+    {
+      "word": "caps",
+      "start": 23.34,
+      "end": 23.66
+    },
+    {
+      "word": "and",
+      "start": 23.66,
+      "end": 24.0
+    },
+    {
+      "word": "complete",
+      "start": 24.0,
+      "end": 24.24
+    },
+    {
+      "word": "privacy.",
+      "start": 24.24,
+      "end": 24.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop paying 15 dollars a month for audio transcription services.",
+      "line2": "FREE LOCAL SPEECH-TO-TEXT",
+      "tag": "\ud83d\uded1 Whisper locally",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Whisper locally",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Whisper locally",
+        "subtitle": "Whisper locally"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Whisper locally"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Whisper locally"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Whisper locally",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

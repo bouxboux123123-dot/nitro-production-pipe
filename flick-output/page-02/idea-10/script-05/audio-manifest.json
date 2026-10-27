@@ -1,0 +1,411 @@
+{
+  "page": "page-02",
+  "idea": "Automated time tracking that links directly to freelance tasks",
+  "text": "If you charge hourly, this tool will find at least five missing billable hours every week. Administrative tasks like replying to emails and sending proposals routinely slip past manual logging habits. These untracked micro-tasks silently drain hundreds of billable dollars from your bottom line each month. Memory by Timely passively records every file interaction, assembling full client work timelines automatically. You maximize your billable rate without working longer hours.",
+  "duration": 29.093,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "you",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "charge",
+      "start": 0.3,
+      "end": 0.66
+    },
+    {
+      "word": "hourly,",
+      "start": 0.66,
+      "end": 1.1
+    },
+    {
+      "word": "this",
+      "start": 1.46,
+      "end": 1.64
+    },
+    {
+      "word": "tool",
+      "start": 1.64,
+      "end": 1.92
+    },
+    {
+      "word": "will",
+      "start": 1.92,
+      "end": 2.14
+    },
+    {
+      "word": "find",
+      "start": 2.14,
+      "end": 2.36
+    },
+    {
+      "word": "at",
+      "start": 2.36,
+      "end": 2.46
+    },
+    {
+      "word": "least",
+      "start": 2.46,
+      "end": 2.7
+    },
+    {
+      "word": "five",
+      "start": 2.7,
+      "end": 3.12
+    },
+    {
+      "word": "missing",
+      "start": 3.12,
+      "end": 3.44
+    },
+    {
+      "word": "billable",
+      "start": 3.44,
+      "end": 3.86
+    },
+    {
+      "word": "hours",
+      "start": 3.86,
+      "end": 4.22
+    },
+    {
+      "word": "every",
+      "start": 4.22,
+      "end": 4.54
+    },
+    {
+      "word": "week.",
+      "start": 4.54,
+      "end": 5.2
+    },
+    {
+      "word": "Administrative",
+      "start": 5.78,
+      "end": 5.94
+    },
+    {
+      "word": "tasks",
+      "start": 5.94,
+      "end": 6.58
+    },
+    {
+      "word": "like",
+      "start": 6.58,
+      "end": 6.92
+    },
+    {
+      "word": "replying",
+      "start": 6.92,
+      "end": 7.26
+    },
+    {
+      "word": "to",
+      "start": 7.26,
+      "end": 7.54
+    },
+    {
+      "word": "emails",
+      "start": 7.54,
+      "end": 7.88
+    },
+    {
+      "word": "and",
+      "start": 7.88,
+      "end": 8.32
+    },
+    {
+      "word": "sending",
+      "start": 8.32,
+      "end": 8.6
+    },
+    {
+      "word": "proposals",
+      "start": 8.6,
+      "end": 9.28
+    },
+    {
+      "word": "routinely",
+      "start": 9.28,
+      "end": 9.94
+    },
+    {
+      "word": "slip",
+      "start": 9.94,
+      "end": 10.46
+    },
+    {
+      "word": "past",
+      "start": 10.46,
+      "end": 10.82
+    },
+    {
+      "word": "manual",
+      "start": 10.82,
+      "end": 11.22
+    },
+    {
+      "word": "logging",
+      "start": 11.22,
+      "end": 11.64
+    },
+    {
+      "word": "habits.",
+      "start": 11.64,
+      "end": 12.08
+    },
+    {
+      "word": "These",
+      "start": 12.52,
+      "end": 12.7
+    },
+    {
+      "word": "untracked",
+      "start": 12.7,
+      "end": 13.12
+    },
+    {
+      "word": "micro",
+      "start": 13.12,
+      "end": 13.5
+    },
+    {
+      "word": "tasks",
+      "start": 13.5,
+      "end": 14.02
+    },
+    {
+      "word": "silently",
+      "start": 14.02,
+      "end": 14.66
+    },
+    {
+      "word": "drain",
+      "start": 14.66,
+      "end": 15.04
+    },
+    {
+      "word": "hundreds",
+      "start": 15.04,
+      "end": 15.4
+    },
+    {
+      "word": "of",
+      "start": 15.4,
+      "end": 15.68
+    },
+    {
+      "word": "billable",
+      "start": 15.68,
+      "end": 15.96
+    },
+    {
+      "word": "dollars",
+      "start": 15.96,
+      "end": 16.3
+    },
+    {
+      "word": "from",
+      "start": 16.3,
+      "end": 16.58
+    },
+    {
+      "word": "your",
+      "start": 16.58,
+      "end": 16.78
+    },
+    {
+      "word": "bottom",
+      "start": 16.78,
+      "end": 17.02
+    },
+    {
+      "word": "line",
+      "start": 17.02,
+      "end": 17.4
+    },
+    {
+      "word": "each",
+      "start": 17.4,
+      "end": 17.74
+    },
+    {
+      "word": "month.",
+      "start": 17.74,
+      "end": 18.28
+    },
+    {
+      "word": "Memory",
+      "start": 18.98,
+      "end": 18.98
+    },
+    {
+      "word": "by",
+      "start": 18.98,
+      "end": 19.34
+    },
+    {
+      "word": "timely,",
+      "start": 19.34,
+      "end": 19.8
+    },
+    {
+      "word": "passively",
+      "start": 20.28,
+      "end": 20.28
+    },
+    {
+      "word": "records",
+      "start": 20.28,
+      "end": 20.68
+    },
+    {
+      "word": "every",
+      "start": 20.68,
+      "end": 21.14
+    },
+    {
+      "word": "file",
+      "start": 21.14,
+      "end": 21.46
+    },
+    {
+      "word": "interaction,",
+      "start": 21.46,
+      "end": 22.16
+    },
+    {
+      "word": "assembling",
+      "start": 22.86,
+      "end": 22.86
+    },
+    {
+      "word": "full",
+      "start": 22.86,
+      "end": 23.32
+    },
+    {
+      "word": "client",
+      "start": 23.32,
+      "end": 23.66
+    },
+    {
+      "word": "work",
+      "start": 23.66,
+      "end": 23.98
+    },
+    {
+      "word": "timelines",
+      "start": 23.98,
+      "end": 24.52
+    },
+    {
+      "word": "automatically.",
+      "start": 24.52,
+      "end": 25.26
+    },
+    {
+      "word": "You",
+      "start": 25.26,
+      "end": 26.04
+    },
+    {
+      "word": "maximize",
+      "start": 26.04,
+      "end": 26.44
+    },
+    {
+      "word": "your",
+      "start": 26.44,
+      "end": 26.84
+    },
+    {
+      "word": "billable",
+      "start": 26.84,
+      "end": 27.18
+    },
+    {
+      "word": "rate",
+      "start": 27.18,
+      "end": 27.46
+    },
+    {
+      "word": "without",
+      "start": 27.46,
+      "end": 27.76
+    },
+    {
+      "word": "working",
+      "start": 27.76,
+      "end": 28.12
+    },
+    {
+      "word": "longer",
+      "start": 28.12,
+      "end": 28.5
+    },
+    {
+      "word": "hours.",
+      "start": 28.5,
+      "end": 29.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "If you charge hourly, this tool will find at least 5 missing billable hours every week.",
+      "line2": "AUTOMATE TIME TRACKING",
+      "tag": "\ud83d\uded1 Automated time tracking that links directly to freelance tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "Voice-to-Invoice Stream: Automated time tracking that links directly to freelance tasks",
+      "primitive": "VoiceWaveToReceipt",
+      "props": {
+        "title": "Voice-to-Invoice Stream: Automated time tracking that links directly to freelance tasks",
+        "subtitle": "Automated time tracking that links directly to freelance tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Overdue Payment Chaser",
+      "primitive": "OverdueChaserTimeline",
+      "props": {
+        "title": "Overdue Payment Chaser",
+        "subtitle": "Automated time tracking that links directly to freelance tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Retainer Value Conversion",
+      "primitive": "HourlyToRetainerConverter",
+      "props": {
+        "title": "Retainer Value Conversion",
+        "subtitle": "Automated time tracking that links directly to freelance tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant 24H Auto-Deposit",
+      "primitive": "StripePayoutCountdown",
+      "props": {
+        "title": "Instant 24H Auto-Deposit",
+        "subtitle": "Automated time tracking that links directly to freelance tasks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

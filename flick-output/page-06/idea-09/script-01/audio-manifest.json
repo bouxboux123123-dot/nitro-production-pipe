@@ -1,0 +1,396 @@
+{
+  "page": "page-06",
+  "idea": "Automated password and 2FA credential sharing hub for remote teams",
+  "text": "Stop sharing company login passwords over unencrypted Slack messages. Remote contractors constantly drop plain-text credentials and authenticator codes into public channels to unblock urgent tasks. Without centralized access controls, offboarded staff retain permanent entry to your client billing portals and analytics. Implementing a 1Password Teams vault automates credential distribution with zero-knowledge encryption and biometric permissions. This eliminates security breaches while granting instant access.",
+  "duration": 32.165,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "sharing",
+      "start": 0.42,
+      "end": 0.78
+    },
+    {
+      "word": "company",
+      "start": 0.78,
+      "end": 1.22
+    },
+    {
+      "word": "login",
+      "start": 1.22,
+      "end": 1.6
+    },
+    {
+      "word": "passwords",
+      "start": 1.6,
+      "end": 2.08
+    },
+    {
+      "word": "over",
+      "start": 2.08,
+      "end": 2.62
+    },
+    {
+      "word": "unencrypted",
+      "start": 2.62,
+      "end": 3.16
+    },
+    {
+      "word": "Slack",
+      "start": 3.16,
+      "end": 3.62
+    },
+    {
+      "word": "messages.",
+      "start": 3.62,
+      "end": 4.28
+    },
+    {
+      "word": "Remote",
+      "start": 4.9,
+      "end": 5.14
+    },
+    {
+      "word": "contractors",
+      "start": 5.14,
+      "end": 5.72
+    },
+    {
+      "word": "constantly",
+      "start": 5.72,
+      "end": 6.38
+    },
+    {
+      "word": "drop",
+      "start": 6.38,
+      "end": 6.84
+    },
+    {
+      "word": "plain",
+      "start": 6.84,
+      "end": 7.16
+    },
+    {
+      "word": "text",
+      "start": 7.16,
+      "end": 7.46
+    },
+    {
+      "word": "credentials",
+      "start": 7.46,
+      "end": 7.98
+    },
+    {
+      "word": "and",
+      "start": 7.98,
+      "end": 8.62
+    },
+    {
+      "word": "authenticator",
+      "start": 8.62,
+      "end": 9.2
+    },
+    {
+      "word": "codes",
+      "start": 9.2,
+      "end": 9.58
+    },
+    {
+      "word": "into",
+      "start": 9.58,
+      "end": 9.84
+    },
+    {
+      "word": "public",
+      "start": 9.84,
+      "end": 10.24
+    },
+    {
+      "word": "channels",
+      "start": 10.24,
+      "end": 10.66
+    },
+    {
+      "word": "to",
+      "start": 10.66,
+      "end": 11.18
+    },
+    {
+      "word": "unblock",
+      "start": 11.18,
+      "end": 11.72
+    },
+    {
+      "word": "urgent",
+      "start": 11.72,
+      "end": 12.1
+    },
+    {
+      "word": "tasks.",
+      "start": 12.1,
+      "end": 12.56
+    },
+    {
+      "word": "Without",
+      "start": 13.0,
+      "end": 13.32
+    },
+    {
+      "word": "centralized",
+      "start": 13.32,
+      "end": 13.92
+    },
+    {
+      "word": "access",
+      "start": 13.92,
+      "end": 14.4
+    },
+    {
+      "word": "controls,",
+      "start": 14.4,
+      "end": 15.12
+    },
+    {
+      "word": "off",
+      "start": 15.62,
+      "end": 15.62
+    },
+    {
+      "word": "-boarded",
+      "start": 15.62,
+      "end": 15.96
+    },
+    {
+      "word": "staff",
+      "start": 15.96,
+      "end": 16.28
+    },
+    {
+      "word": "retain",
+      "start": 16.28,
+      "end": 16.7
+    },
+    {
+      "word": "permanent",
+      "start": 16.7,
+      "end": 17.12
+    },
+    {
+      "word": "entry",
+      "start": 17.12,
+      "end": 17.46
+    },
+    {
+      "word": "to",
+      "start": 17.46,
+      "end": 17.64
+    },
+    {
+      "word": "your",
+      "start": 17.64,
+      "end": 17.84
+    },
+    {
+      "word": "client",
+      "start": 17.84,
+      "end": 18.14
+    },
+    {
+      "word": "billing",
+      "start": 18.14,
+      "end": 18.5
+    },
+    {
+      "word": "portals",
+      "start": 18.5,
+      "end": 18.88
+    },
+    {
+      "word": "and",
+      "start": 18.88,
+      "end": 19.2
+    },
+    {
+      "word": "analytics.",
+      "start": 19.2,
+      "end": 19.7
+    },
+    {
+      "word": "Implementing",
+      "start": 20.4,
+      "end": 20.9
+    },
+    {
+      "word": "a",
+      "start": 20.9,
+      "end": 21.08
+    },
+    {
+      "word": "one",
+      "start": 21.08,
+      "end": 21.34
+    },
+    {
+      "word": "password",
+      "start": 21.34,
+      "end": 21.76
+    },
+    {
+      "word": "team's",
+      "start": 21.76,
+      "end": 22.24
+    },
+    {
+      "word": "vault",
+      "start": 22.24,
+      "end": 22.6
+    },
+    {
+      "word": "automates",
+      "start": 22.6,
+      "end": 23.12
+    },
+    {
+      "word": "credential",
+      "start": 23.12,
+      "end": 23.7
+    },
+    {
+      "word": "distribution",
+      "start": 23.7,
+      "end": 24.32
+    },
+    {
+      "word": "with",
+      "start": 24.32,
+      "end": 24.76
+    },
+    {
+      "word": "zero",
+      "start": 24.76,
+      "end": 25.1
+    },
+    {
+      "word": "knowledge",
+      "start": 25.1,
+      "end": 25.5
+    },
+    {
+      "word": "encryption",
+      "start": 25.5,
+      "end": 26.08
+    },
+    {
+      "word": "and",
+      "start": 26.08,
+      "end": 26.66
+    },
+    {
+      "word": "biometric",
+      "start": 26.66,
+      "end": 27.24
+    },
+    {
+      "word": "permissions.",
+      "start": 27.24,
+      "end": 27.86
+    },
+    {
+      "word": "This",
+      "start": 28.18,
+      "end": 28.66
+    },
+    {
+      "word": "eliminates",
+      "start": 28.66,
+      "end": 29.14
+    },
+    {
+      "word": "security",
+      "start": 29.14,
+      "end": 29.62
+    },
+    {
+      "word": "breaches",
+      "start": 29.62,
+      "end": 30.12
+    },
+    {
+      "word": "while",
+      "start": 30.12,
+      "end": 30.68
+    },
+    {
+      "word": "granting",
+      "start": 30.68,
+      "end": 31.16
+    },
+    {
+      "word": "instant",
+      "start": 31.16,
+      "end": 31.52
+    },
+    {
+      "word": "access.",
+      "start": 31.52,
+      "end": 32.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop sharing company login passwords over unencrypted Slack messages.",
+      "line2": "SHARE 2FA CREDENTIALS SAFELY",
+      "tag": "\ud83d\uded1 Automated password and 2FA credential sharing hub for remote teams",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated password and 2FA credential sharing hub for remote teams",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated password and 2FA credential sharing hub for remote teams",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

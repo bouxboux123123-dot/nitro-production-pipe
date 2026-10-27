@@ -1,0 +1,416 @@
+{
+  "page": "page-04",
+  "idea": "LocalSend: share files between iPhone, Android, and PC with zero cables",
+  "text": "Stop emailing files to yourself just to get them from your phone to your PC. Snapping product photos on mobile only to wait on email attachment limits stalls creative momentum. Email clients cap file attachments at twenty-five megabytes and strip high-resolution camera metadata. LocalSend eliminates manual emailing by establishing instant peer-to-peer file sharing across your local network. Your photos land on desktop instantly at full original quality.",
+  "duration": 28.581,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "emailing",
+      "start": 0.46,
+      "end": 0.96
+    },
+    {
+      "word": "files",
+      "start": 0.96,
+      "end": 1.28
+    },
+    {
+      "word": "to",
+      "start": 1.28,
+      "end": 1.46
+    },
+    {
+      "word": "yourself",
+      "start": 1.46,
+      "end": 1.96
+    },
+    {
+      "word": "just",
+      "start": 1.96,
+      "end": 2.22
+    },
+    {
+      "word": "to",
+      "start": 2.22,
+      "end": 2.32
+    },
+    {
+      "word": "get",
+      "start": 2.32,
+      "end": 2.48
+    },
+    {
+      "word": "them",
+      "start": 2.48,
+      "end": 2.66
+    },
+    {
+      "word": "from",
+      "start": 2.66,
+      "end": 2.8
+    },
+    {
+      "word": "your",
+      "start": 2.8,
+      "end": 3.0
+    },
+    {
+      "word": "phone",
+      "start": 3.0,
+      "end": 3.3
+    },
+    {
+      "word": "to",
+      "start": 3.3,
+      "end": 3.48
+    },
+    {
+      "word": "your",
+      "start": 3.48,
+      "end": 3.78
+    },
+    {
+      "word": "PC.",
+      "start": 3.78,
+      "end": 4.2
+    },
+    {
+      "word": "Snapping",
+      "start": 4.96,
+      "end": 5.16
+    },
+    {
+      "word": "product",
+      "start": 5.16,
+      "end": 5.6
+    },
+    {
+      "word": "photos",
+      "start": 5.6,
+      "end": 5.94
+    },
+    {
+      "word": "on",
+      "start": 5.94,
+      "end": 6.2
+    },
+    {
+      "word": "mobile",
+      "start": 6.2,
+      "end": 6.54
+    },
+    {
+      "word": "only",
+      "start": 6.54,
+      "end": 6.94
+    },
+    {
+      "word": "to",
+      "start": 6.94,
+      "end": 7.14
+    },
+    {
+      "word": "wait",
+      "start": 7.14,
+      "end": 7.34
+    },
+    {
+      "word": "on",
+      "start": 7.34,
+      "end": 7.58
+    },
+    {
+      "word": "email",
+      "start": 7.58,
+      "end": 7.88
+    },
+    {
+      "word": "attachment",
+      "start": 7.88,
+      "end": 8.6
+    },
+    {
+      "word": "limits",
+      "start": 8.6,
+      "end": 9.24
+    },
+    {
+      "word": "stalls",
+      "start": 9.24,
+      "end": 9.64
+    },
+    {
+      "word": "creative",
+      "start": 9.64,
+      "end": 10.24
+    },
+    {
+      "word": "momentum.",
+      "start": 10.24,
+      "end": 10.76
+    },
+    {
+      "word": "Email",
+      "start": 11.5,
+      "end": 11.5
+    },
+    {
+      "word": "clients",
+      "start": 11.5,
+      "end": 11.98
+    },
+    {
+      "word": "cap",
+      "start": 11.98,
+      "end": 12.3
+    },
+    {
+      "word": "file",
+      "start": 12.3,
+      "end": 12.64
+    },
+    {
+      "word": "attachments",
+      "start": 12.64,
+      "end": 13.14
+    },
+    {
+      "word": "at",
+      "start": 13.14,
+      "end": 13.6
+    },
+    {
+      "word": "25",
+      "start": 13.6,
+      "end": 14.02
+    },
+    {
+      "word": "megabytes",
+      "start": 14.02,
+      "end": 14.52
+    },
+    {
+      "word": "and",
+      "start": 14.52,
+      "end": 14.96
+    },
+    {
+      "word": "strip",
+      "start": 14.96,
+      "end": 15.16
+    },
+    {
+      "word": "high",
+      "start": 15.16,
+      "end": 15.52
+    },
+    {
+      "word": "-resolution",
+      "start": 15.52,
+      "end": 15.9
+    },
+    {
+      "word": "camera",
+      "start": 15.9,
+      "end": 16.32
+    },
+    {
+      "word": "metadata.",
+      "start": 16.32,
+      "end": 16.78
+    },
+    {
+      "word": "Local",
+      "start": 17.82,
+      "end": 17.84
+    },
+    {
+      "word": "send",
+      "start": 17.84,
+      "end": 18.34
+    },
+    {
+      "word": "eliminates",
+      "start": 18.34,
+      "end": 18.94
+    },
+    {
+      "word": "manual",
+      "start": 18.94,
+      "end": 19.48
+    },
+    {
+      "word": "emailing",
+      "start": 19.48,
+      "end": 20.16
+    },
+    {
+      "word": "by",
+      "start": 20.16,
+      "end": 20.46
+    },
+    {
+      "word": "establishing",
+      "start": 20.46,
+      "end": 20.98
+    },
+    {
+      "word": "instant",
+      "start": 20.98,
+      "end": 21.52
+    },
+    {
+      "word": "peer",
+      "start": 21.52,
+      "end": 21.88
+    },
+    {
+      "word": "-to",
+      "start": 21.88,
+      "end": 21.9
+    },
+    {
+      "word": "-peer",
+      "start": 21.9,
+      "end": 22.12
+    },
+    {
+      "word": "files",
+      "start": 22.12,
+      "end": 22.58
+    },
+    {
+      "word": "sharing",
+      "start": 22.58,
+      "end": 22.92
+    },
+    {
+      "word": "across",
+      "start": 22.92,
+      "end": 23.24
+    },
+    {
+      "word": "your",
+      "start": 23.24,
+      "end": 23.52
+    },
+    {
+      "word": "local",
+      "start": 23.52,
+      "end": 23.74
+    },
+    {
+      "word": "network.",
+      "start": 23.74,
+      "end": 24.24
+    },
+    {
+      "word": "Your",
+      "start": 24.24,
+      "end": 25.02
+    },
+    {
+      "word": "photos",
+      "start": 25.02,
+      "end": 25.32
+    },
+    {
+      "word": "land",
+      "start": 25.32,
+      "end": 25.74
+    },
+    {
+      "word": "on",
+      "start": 25.74,
+      "end": 26.14
+    },
+    {
+      "word": "desktop",
+      "start": 26.14,
+      "end": 26.38
+    },
+    {
+      "word": "instantly",
+      "start": 26.38,
+      "end": 26.96
+    },
+    {
+      "word": "at",
+      "start": 26.96,
+      "end": 27.34
+    },
+    {
+      "word": "full",
+      "start": 27.34,
+      "end": 27.62
+    },
+    {
+      "word": "original",
+      "start": 27.62,
+      "end": 28.08
+    },
+    {
+      "word": "quality.",
+      "start": 28.08,
+      "end": 28.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop emailing files to yourself just to get them from your phone to your PC.",
+      "line2": "SHARE FILES WIRELESSLY",
+      "tag": "\ud83d\uded1 LocalSend",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: LocalSend",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: LocalSend",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "LocalSend",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

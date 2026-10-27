@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "How to schedule emails to send at a later date and time automatically",
+  "text": "Write your work messages whenever you want, but deliver them whenever it is actually best. Working during your peak night hours tempts you to hit send, creating messy after-hours communication. Random midnight notifications annoy colleagues, blur your boundaries, and invite stressful late-night message threads. Hit the Schedule Send arrow in Outlook or Gmail to dispatch messages tomorrow morning at eight. You maintain complete control over your working schedule.",
+  "duration": 25.152,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Write",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "your",
+      "start": 0.22,
+      "end": 0.4
+    },
+    {
+      "word": "work",
+      "start": 0.4,
+      "end": 0.62
+    },
+    {
+      "word": "messages",
+      "start": 0.62,
+      "end": 1.02
+    },
+    {
+      "word": "whenever",
+      "start": 1.02,
+      "end": 1.28
+    },
+    {
+      "word": "you",
+      "start": 1.28,
+      "end": 1.56
+    },
+    {
+      "word": "want,",
+      "start": 1.56,
+      "end": 1.88
+    },
+    {
+      "word": "but",
+      "start": 2.18,
+      "end": 2.3
+    },
+    {
+      "word": "deliver",
+      "start": 2.3,
+      "end": 2.42
+    },
+    {
+      "word": "them",
+      "start": 2.42,
+      "end": 2.76
+    },
+    {
+      "word": "whenever",
+      "start": 2.76,
+      "end": 3.02
+    },
+    {
+      "word": "it",
+      "start": 3.02,
+      "end": 3.22
+    },
+    {
+      "word": "is",
+      "start": 3.22,
+      "end": 3.52
+    },
+    {
+      "word": "actually",
+      "start": 3.52,
+      "end": 3.82
+    },
+    {
+      "word": "best.",
+      "start": 3.82,
+      "end": 4.3
+    },
+    {
+      "word": "Working",
+      "start": 4.72,
+      "end": 4.86
+    },
+    {
+      "word": "during",
+      "start": 4.86,
+      "end": 5.22
+    },
+    {
+      "word": "your",
+      "start": 5.22,
+      "end": 5.42
+    },
+    {
+      "word": "peak",
+      "start": 5.42,
+      "end": 5.6
+    },
+    {
+      "word": "night",
+      "start": 5.6,
+      "end": 5.84
+    },
+    {
+      "word": "hours",
+      "start": 5.84,
+      "end": 6.14
+    },
+    {
+      "word": "tempts",
+      "start": 6.14,
+      "end": 6.44
+    },
+    {
+      "word": "you",
+      "start": 6.44,
+      "end": 6.58
+    },
+    {
+      "word": "to",
+      "start": 6.58,
+      "end": 6.68
+    },
+    {
+      "word": "hit",
+      "start": 6.68,
+      "end": 6.92
+    },
+    {
+      "word": "send,",
+      "start": 6.92,
+      "end": 7.2
+    },
+    {
+      "word": "creating",
+      "start": 7.54,
+      "end": 7.86
+    },
+    {
+      "word": "messy",
+      "start": 7.86,
+      "end": 8.22
+    },
+    {
+      "word": "after",
+      "start": 8.22,
+      "end": 8.56
+    },
+    {
+      "word": "hours",
+      "start": 8.56,
+      "end": 8.84
+    },
+    {
+      "word": "communication.",
+      "start": 8.84,
+      "end": 9.56
+    },
+    {
+      "word": "Random",
+      "start": 10.3,
+      "end": 10.54
+    },
+    {
+      "word": "midnight",
+      "start": 10.54,
+      "end": 10.9
+    },
+    {
+      "word": "notifications,",
+      "start": 10.9,
+      "end": 11.58
+    },
+    {
+      "word": "annoy",
+      "start": 11.78,
+      "end": 11.9
+    },
+    {
+      "word": "colleagues,",
+      "start": 11.9,
+      "end": 12.5
+    },
+    {
+      "word": "blur",
+      "start": 12.88,
+      "end": 13.04
+    },
+    {
+      "word": "your",
+      "start": 13.04,
+      "end": 13.26
+    },
+    {
+      "word": "boundaries,",
+      "start": 13.26,
+      "end": 13.58
+    },
+    {
+      "word": "and",
+      "start": 14.08,
+      "end": 14.24
+    },
+    {
+      "word": "invite",
+      "start": 14.24,
+      "end": 14.48
+    },
+    {
+      "word": "stressful",
+      "start": 14.48,
+      "end": 15.06
+    },
+    {
+      "word": "late",
+      "start": 15.06,
+      "end": 15.38
+    },
+    {
+      "word": "night",
+      "start": 15.38,
+      "end": 15.68
+    },
+    {
+      "word": "message",
+      "start": 15.68,
+      "end": 16.02
+    },
+    {
+      "word": "threads.",
+      "start": 16.02,
+      "end": 16.38
+    },
+    {
+      "word": "Hit",
+      "start": 17.0,
+      "end": 17.0
+    },
+    {
+      "word": "the",
+      "start": 17.0,
+      "end": 17.18
+    },
+    {
+      "word": "schedule",
+      "start": 17.18,
+      "end": 17.54
+    },
+    {
+      "word": "send",
+      "start": 17.54,
+      "end": 17.9
+    },
+    {
+      "word": "arrow",
+      "start": 17.9,
+      "end": 18.18
+    },
+    {
+      "word": "and",
+      "start": 18.18,
+      "end": 18.38
+    },
+    {
+      "word": "outlook",
+      "start": 18.38,
+      "end": 18.68
+    },
+    {
+      "word": "or",
+      "start": 18.68,
+      "end": 19.16
+    },
+    {
+      "word": "Gmail",
+      "start": 19.16,
+      "end": 19.46
+    },
+    {
+      "word": "to",
+      "start": 19.46,
+      "end": 19.92
+    },
+    {
+      "word": "dispatch",
+      "start": 19.92,
+      "end": 20.18
+    },
+    {
+      "word": "messages",
+      "start": 20.18,
+      "end": 20.72
+    },
+    {
+      "word": "tomorrow",
+      "start": 20.72,
+      "end": 21.12
+    },
+    {
+      "word": "morning",
+      "start": 21.12,
+      "end": 21.54
+    },
+    {
+      "word": "at",
+      "start": 21.54,
+      "end": 21.76
+    },
+    {
+      "word": "eight.",
+      "start": 21.76,
+      "end": 22.18
+    },
+    {
+      "word": "You",
+      "start": 22.5,
+      "end": 22.6
+    },
+    {
+      "word": "maintain",
+      "start": 22.6,
+      "end": 23.02
+    },
+    {
+      "word": "complete",
+      "start": 23.02,
+      "end": 23.44
+    },
+    {
+      "word": "control",
+      "start": 23.44,
+      "end": 23.96
+    },
+    {
+      "word": "over",
+      "start": 23.96,
+      "end": 24.2
+    },
+    {
+      "word": "your",
+      "start": 24.2,
+      "end": 24.62
+    },
+    {
+      "word": "working",
+      "start": 24.62,
+      "end": 24.68
+    },
+    {
+      "word": "schedule.",
+      "start": 24.68,
+      "end": 25.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Write messages whenever you want, deliver them whenever it's best.",
+      "line2": "AUTO-SCHEDULE EMAILS",
+      "tag": "\ud83d\uded1 How to schedule emails to send at a later date and time automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to schedule emails to send at a later date and time automatically",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to schedule emails to send at a later date and time automatically",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to schedule emails to send at a later date and time automatically",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

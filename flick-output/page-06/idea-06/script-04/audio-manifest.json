@@ -1,0 +1,391 @@
+{
+  "page": "page-06",
+  "idea": "Async decision documentation framework using Github or Notion RFCs",
+  "text": "This exact written decision framework powers engineering velocity at Amazon, Gitlab, and Stripe. Endless committee meetings burn hundreds of expensive engineering hours without delivering clear technical direction. Teams leave calls confused because verbal consensus leaves no searchable paper trail for downstream execution. Mandating structured Notion RFCs forces authors to clarify assumptions before seeking stakeholder sign-off. You cut alignment time in half while preserving institutional memory.",
+  "duration": 31.546,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "exact",
+      "start": 0.24,
+      "end": 0.74
+    },
+    {
+      "word": "written",
+      "start": 0.74,
+      "end": 1.04
+    },
+    {
+      "word": "decision",
+      "start": 1.04,
+      "end": 1.5
+    },
+    {
+      "word": "framework",
+      "start": 1.5,
+      "end": 1.88
+    },
+    {
+      "word": "powers",
+      "start": 1.88,
+      "end": 2.4
+    },
+    {
+      "word": "engineering",
+      "start": 2.4,
+      "end": 2.94
+    },
+    {
+      "word": "velocity",
+      "start": 2.94,
+      "end": 3.54
+    },
+    {
+      "word": "at",
+      "start": 3.54,
+      "end": 3.86
+    },
+    {
+      "word": "Amazon,",
+      "start": 3.86,
+      "end": 4.34
+    },
+    {
+      "word": "GitLab,",
+      "start": 4.8,
+      "end": 5.24
+    },
+    {
+      "word": "and",
+      "start": 5.52,
+      "end": 5.78
+    },
+    {
+      "word": "Stripe.",
+      "start": 5.78,
+      "end": 6.66
+    },
+    {
+      "word": "Endless",
+      "start": 6.92,
+      "end": 7.08
+    },
+    {
+      "word": "committee",
+      "start": 7.08,
+      "end": 7.48
+    },
+    {
+      "word": "meetings",
+      "start": 7.48,
+      "end": 7.98
+    },
+    {
+      "word": "burn",
+      "start": 7.98,
+      "end": 8.38
+    },
+    {
+      "word": "hundreds",
+      "start": 8.38,
+      "end": 8.76
+    },
+    {
+      "word": "of",
+      "start": 8.76,
+      "end": 9.08
+    },
+    {
+      "word": "expensive",
+      "start": 9.08,
+      "end": 9.48
+    },
+    {
+      "word": "engineering",
+      "start": 9.48,
+      "end": 10.12
+    },
+    {
+      "word": "hours",
+      "start": 10.12,
+      "end": 10.58
+    },
+    {
+      "word": "without",
+      "start": 10.58,
+      "end": 11.24
+    },
+    {
+      "word": "delivering",
+      "start": 11.24,
+      "end": 11.68
+    },
+    {
+      "word": "clear",
+      "start": 11.68,
+      "end": 12.14
+    },
+    {
+      "word": "technical",
+      "start": 12.14,
+      "end": 12.6
+    },
+    {
+      "word": "direction.",
+      "start": 12.6,
+      "end": 13.18
+    },
+    {
+      "word": "Teams",
+      "start": 13.8,
+      "end": 13.8
+    },
+    {
+      "word": "leave",
+      "start": 13.8,
+      "end": 14.12
+    },
+    {
+      "word": "calls",
+      "start": 14.12,
+      "end": 14.44
+    },
+    {
+      "word": "confused",
+      "start": 14.44,
+      "end": 15.02
+    },
+    {
+      "word": "because",
+      "start": 15.02,
+      "end": 15.46
+    },
+    {
+      "word": "verbal",
+      "start": 15.46,
+      "end": 15.8
+    },
+    {
+      "word": "consensus",
+      "start": 15.8,
+      "end": 16.28
+    },
+    {
+      "word": "leaves",
+      "start": 16.28,
+      "end": 16.82
+    },
+    {
+      "word": "no",
+      "start": 16.82,
+      "end": 17.22
+    },
+    {
+      "word": "searchable",
+      "start": 17.22,
+      "end": 17.72
+    },
+    {
+      "word": "paper",
+      "start": 17.72,
+      "end": 18.06
+    },
+    {
+      "word": "trail",
+      "start": 18.06,
+      "end": 18.38
+    },
+    {
+      "word": "for",
+      "start": 18.38,
+      "end": 18.7
+    },
+    {
+      "word": "downstream",
+      "start": 18.7,
+      "end": 19.16
+    },
+    {
+      "word": "execution.",
+      "start": 19.16,
+      "end": 19.92
+    },
+    {
+      "word": "Mandating",
+      "start": 20.7,
+      "end": 20.98
+    },
+    {
+      "word": "structured",
+      "start": 20.98,
+      "end": 21.54
+    },
+    {
+      "word": "notion",
+      "start": 21.54,
+      "end": 22.04
+    },
+    {
+      "word": "RFCs",
+      "start": 22.04,
+      "end": 23.44
+    },
+    {
+      "word": "forces",
+      "start": 23.44,
+      "end": 23.44
+    },
+    {
+      "word": "authors",
+      "start": 23.44,
+      "end": 23.76
+    },
+    {
+      "word": "to",
+      "start": 23.76,
+      "end": 24.08
+    },
+    {
+      "word": "clarify",
+      "start": 24.08,
+      "end": 24.48
+    },
+    {
+      "word": "assumptions",
+      "start": 24.48,
+      "end": 25.18
+    },
+    {
+      "word": "before",
+      "start": 25.18,
+      "end": 25.78
+    },
+    {
+      "word": "seeking",
+      "start": 25.78,
+      "end": 26.2
+    },
+    {
+      "word": "stakeholder",
+      "start": 26.2,
+      "end": 26.76
+    },
+    {
+      "word": "sign",
+      "start": 26.76,
+      "end": 27.1
+    },
+    {
+      "word": "off.",
+      "start": 27.1,
+      "end": 27.52
+    },
+    {
+      "word": "You",
+      "start": 27.52,
+      "end": 28.04
+    },
+    {
+      "word": "cut",
+      "start": 28.04,
+      "end": 28.26
+    },
+    {
+      "word": "alignment",
+      "start": 28.26,
+      "end": 28.6
+    },
+    {
+      "word": "time",
+      "start": 28.6,
+      "end": 29.06
+    },
+    {
+      "word": "in",
+      "start": 29.06,
+      "end": 29.24
+    },
+    {
+      "word": "half",
+      "start": 29.24,
+      "end": 29.6
+    },
+    {
+      "word": "while",
+      "start": 29.6,
+      "end": 29.94
+    },
+    {
+      "word": "preserving",
+      "start": 29.94,
+      "end": 30.4
+    },
+    {
+      "word": "institutional",
+      "start": 30.4,
+      "end": 31.02
+    },
+    {
+      "word": "memory.",
+      "start": 31.02,
+      "end": 31.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The decision-making system used by Amazon, Gitlab, and Stripe.",
+      "line2": "ASYNC DECISION FRAMEWORK",
+      "tag": "\ud83d\uded1 Async decision documentation framework using Github or Notion RFCs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

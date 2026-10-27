@@ -1,0 +1,436 @@
+{
+  "page": "page-02",
+  "idea": "Automated cold pitch researcher for finding high-paying freelance gigs",
+  "text": "How to find high-paying freelance clients before they post on job boards. Waiting for public job listings forces you into bidding wars against hundreds of cut-rate freelancers on Upwork. Manual outbound prospecting takes hours and usually yields generic pitches that land straight in spam folders. Use Clay to monitor LinkedIn hiring signals, scrape verified executive emails, and draft personalized pitch angles automatically. You land four-figure retainers before competitors notice the opportunity.",
+  "duration": 30.245,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "to",
+      "start": 0.26,
+      "end": 0.28
+    },
+    {
+      "word": "find",
+      "start": 0.28,
+      "end": 0.56
+    },
+    {
+      "word": "high",
+      "start": 0.56,
+      "end": 0.88
+    },
+    {
+      "word": "-paying",
+      "start": 0.88,
+      "end": 1.18
+    },
+    {
+      "word": "freelance",
+      "start": 1.18,
+      "end": 1.58
+    },
+    {
+      "word": "clients",
+      "start": 1.58,
+      "end": 2.12
+    },
+    {
+      "word": "before",
+      "start": 2.12,
+      "end": 2.4
+    },
+    {
+      "word": "they",
+      "start": 2.4,
+      "end": 2.64
+    },
+    {
+      "word": "post",
+      "start": 2.64,
+      "end": 2.86
+    },
+    {
+      "word": "on",
+      "start": 2.86,
+      "end": 3.12
+    },
+    {
+      "word": "job",
+      "start": 3.12,
+      "end": 3.46
+    },
+    {
+      "word": "boards,",
+      "start": 3.46,
+      "end": 3.9
+    },
+    {
+      "word": "waiting",
+      "start": 4.54,
+      "end": 4.6
+    },
+    {
+      "word": "for",
+      "start": 4.6,
+      "end": 4.98
+    },
+    {
+      "word": "public",
+      "start": 4.98,
+      "end": 5.3
+    },
+    {
+      "word": "job",
+      "start": 5.3,
+      "end": 5.62
+    },
+    {
+      "word": "listings",
+      "start": 5.62,
+      "end": 6.02
+    },
+    {
+      "word": "forces",
+      "start": 6.02,
+      "end": 6.5
+    },
+    {
+      "word": "you",
+      "start": 6.5,
+      "end": 6.74
+    },
+    {
+      "word": "into",
+      "start": 6.74,
+      "end": 6.94
+    },
+    {
+      "word": "bidding",
+      "start": 6.94,
+      "end": 7.2
+    },
+    {
+      "word": "wars",
+      "start": 7.2,
+      "end": 7.5
+    },
+    {
+      "word": "against",
+      "start": 7.5,
+      "end": 7.92
+    },
+    {
+      "word": "hundreds",
+      "start": 7.92,
+      "end": 8.26
+    },
+    {
+      "word": "of",
+      "start": 8.26,
+      "end": 8.52
+    },
+    {
+      "word": "cut",
+      "start": 8.52,
+      "end": 8.74
+    },
+    {
+      "word": "-rate",
+      "start": 8.74,
+      "end": 9.02
+    },
+    {
+      "word": "freelancers",
+      "start": 9.02,
+      "end": 9.54
+    },
+    {
+      "word": "on",
+      "start": 9.54,
+      "end": 9.86
+    },
+    {
+      "word": "upwork.",
+      "start": 9.86,
+      "end": 10.8
+    },
+    {
+      "word": "Manual",
+      "start": 11.24,
+      "end": 11.24
+    },
+    {
+      "word": "outbound",
+      "start": 11.24,
+      "end": 11.86
+    },
+    {
+      "word": "prospecting",
+      "start": 11.86,
+      "end": 12.58
+    },
+    {
+      "word": "takes",
+      "start": 12.58,
+      "end": 12.94
+    },
+    {
+      "word": "hours",
+      "start": 12.94,
+      "end": 13.42
+    },
+    {
+      "word": "and",
+      "start": 13.42,
+      "end": 13.94
+    },
+    {
+      "word": "usually",
+      "start": 13.94,
+      "end": 14.34
+    },
+    {
+      "word": "yields",
+      "start": 14.34,
+      "end": 14.72
+    },
+    {
+      "word": "generic",
+      "start": 14.72,
+      "end": 15.2
+    },
+    {
+      "word": "pitches",
+      "start": 15.2,
+      "end": 15.58
+    },
+    {
+      "word": "that",
+      "start": 15.58,
+      "end": 15.9
+    },
+    {
+      "word": "land",
+      "start": 15.9,
+      "end": 16.12
+    },
+    {
+      "word": "straight",
+      "start": 16.12,
+      "end": 16.6
+    },
+    {
+      "word": "in",
+      "start": 16.6,
+      "end": 16.84
+    },
+    {
+      "word": "spam",
+      "start": 16.84,
+      "end": 17.2
+    },
+    {
+      "word": "folders.",
+      "start": 17.2,
+      "end": 17.66
+    },
+    {
+      "word": "Use",
+      "start": 18.16,
+      "end": 18.34
+    },
+    {
+      "word": "clay",
+      "start": 18.34,
+      "end": 18.52
+    },
+    {
+      "word": "to",
+      "start": 18.52,
+      "end": 18.68
+    },
+    {
+      "word": "monitor",
+      "start": 18.68,
+      "end": 18.94
+    },
+    {
+      "word": "linked",
+      "start": 18.94,
+      "end": 19.32
+    },
+    {
+      "word": "in",
+      "start": 19.32,
+      "end": 19.58
+    },
+    {
+      "word": "hiring",
+      "start": 19.58,
+      "end": 19.96
+    },
+    {
+      "word": "signals,",
+      "start": 19.96,
+      "end": 20.46
+    },
+    {
+      "word": "scrape",
+      "start": 21.24,
+      "end": 21.28
+    },
+    {
+      "word": "verified",
+      "start": 21.28,
+      "end": 21.76
+    },
+    {
+      "word": "executive",
+      "start": 21.76,
+      "end": 22.4
+    },
+    {
+      "word": "emails",
+      "start": 22.4,
+      "end": 22.84
+    },
+    {
+      "word": "and",
+      "start": 22.84,
+      "end": 23.42
+    },
+    {
+      "word": "draft",
+      "start": 23.42,
+      "end": 23.88
+    },
+    {
+      "word": "personalized",
+      "start": 23.88,
+      "end": 24.46
+    },
+    {
+      "word": "pitch",
+      "start": 24.46,
+      "end": 24.86
+    },
+    {
+      "word": "angles",
+      "start": 24.86,
+      "end": 25.2
+    },
+    {
+      "word": "automatically.",
+      "start": 25.2,
+      "end": 25.86
+    },
+    {
+      "word": "You",
+      "start": 25.86,
+      "end": 26.74
+    },
+    {
+      "word": "land",
+      "start": 26.74,
+      "end": 27.02
+    },
+    {
+      "word": "for",
+      "start": 27.02,
+      "end": 27.34
+    },
+    {
+      "word": "figure",
+      "start": 27.34,
+      "end": 27.62
+    },
+    {
+      "word": "retainers",
+      "start": 27.62,
+      "end": 28.16
+    },
+    {
+      "word": "before",
+      "start": 28.16,
+      "end": 28.5
+    },
+    {
+      "word": "competitors",
+      "start": 28.5,
+      "end": 28.96
+    },
+    {
+      "word": "notice",
+      "start": 28.96,
+      "end": 29.44
+    },
+    {
+      "word": "the",
+      "start": 29.44,
+      "end": 29.78
+    },
+    {
+      "word": "opportunity.",
+      "start": 29.78,
+      "end": 30.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "How to find high-paying freelance clients before they post on job boards.",
+      "line2": "FIND HIGH-PAYING GIGS",
+      "tag": "\ud83d\uded1 Automated cold pitch researcher for finding high-paying freelance gigs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated cold pitch researcher for finding high-paying freelance gigs",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated cold pitch researcher for finding high-paying freelance gigs",
+        "subtitle": "Automated cold pitch researcher for finding high-paying freelance gigs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated cold pitch researcher for finding high-paying freelance gigs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated cold pitch researcher for finding high-paying freelance gigs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated cold pitch researcher for finding high-paying freelance gigs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

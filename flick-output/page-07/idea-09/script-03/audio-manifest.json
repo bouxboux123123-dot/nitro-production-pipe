@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Automated employee onboarding hub that issues accounts and permissions",
+  "text": "Stop wasting day one of a new engineer's time waiting for software access. Engineering managers waste entire mornings granting repository rights, creating cloud accounts, and sharing API keys. Unprovisioned developers sit completely blocked instead of learning codebases and pushing their first commits. Run an automated Make pipeline that syncs GitHub seats, provisions AWS credentials, and delivers 1Password vaults instantly. Your new engineer ships pull requests on day one.",
+  "duration": 29.69,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "wasting",
+      "start": 0.38,
+      "end": 0.66
+    },
+    {
+      "word": "day",
+      "start": 0.66,
+      "end": 1.1
+    },
+    {
+      "word": "one",
+      "start": 1.1,
+      "end": 1.28
+    },
+    {
+      "word": "of",
+      "start": 1.28,
+      "end": 1.38
+    },
+    {
+      "word": "a",
+      "start": 1.38,
+      "end": 1.54
+    },
+    {
+      "word": "new",
+      "start": 1.54,
+      "end": 1.68
+    },
+    {
+      "word": "engineer's",
+      "start": 1.68,
+      "end": 2.26
+    },
+    {
+      "word": "time",
+      "start": 2.26,
+      "end": 2.6
+    },
+    {
+      "word": "waiting",
+      "start": 2.6,
+      "end": 2.9
+    },
+    {
+      "word": "for",
+      "start": 2.9,
+      "end": 3.2
+    },
+    {
+      "word": "software",
+      "start": 3.2,
+      "end": 3.56
+    },
+    {
+      "word": "access.",
+      "start": 3.56,
+      "end": 4.22
+    },
+    {
+      "word": "Engineering",
+      "start": 4.88,
+      "end": 5.12
+    },
+    {
+      "word": "managers",
+      "start": 5.12,
+      "end": 5.66
+    },
+    {
+      "word": "waste",
+      "start": 5.66,
+      "end": 6.18
+    },
+    {
+      "word": "entire",
+      "start": 6.18,
+      "end": 6.68
+    },
+    {
+      "word": "mornings",
+      "start": 6.68,
+      "end": 7.08
+    },
+    {
+      "word": "granting",
+      "start": 7.08,
+      "end": 7.52
+    },
+    {
+      "word": "repository",
+      "start": 7.52,
+      "end": 8.16
+    },
+    {
+      "word": "rights,",
+      "start": 8.16,
+      "end": 8.76
+    },
+    {
+      "word": "creating",
+      "start": 9.32,
+      "end": 9.34
+    },
+    {
+      "word": "cloud",
+      "start": 9.34,
+      "end": 9.74
+    },
+    {
+      "word": "accounts",
+      "start": 9.74,
+      "end": 10.22
+    },
+    {
+      "word": "and",
+      "start": 10.22,
+      "end": 10.68
+    },
+    {
+      "word": "sharing",
+      "start": 10.68,
+      "end": 11.02
+    },
+    {
+      "word": "API",
+      "start": 11.02,
+      "end": 11.46
+    },
+    {
+      "word": "keys.",
+      "start": 11.46,
+      "end": 12.06
+    },
+    {
+      "word": "Unprovisioned",
+      "start": 12.46,
+      "end": 13.04
+    },
+    {
+      "word": "developers",
+      "start": 13.04,
+      "end": 13.38
+    },
+    {
+      "word": "sit",
+      "start": 13.38,
+      "end": 13.82
+    },
+    {
+      "word": "completely",
+      "start": 13.82,
+      "end": 14.3
+    },
+    {
+      "word": "blocked",
+      "start": 14.3,
+      "end": 14.7
+    },
+    {
+      "word": "instead",
+      "start": 14.7,
+      "end": 14.94
+    },
+    {
+      "word": "of",
+      "start": 14.94,
+      "end": 15.1
+    },
+    {
+      "word": "learning",
+      "start": 15.1,
+      "end": 15.42
+    },
+    {
+      "word": "code",
+      "start": 15.42,
+      "end": 15.68
+    },
+    {
+      "word": "bases",
+      "start": 15.68,
+      "end": 16.04
+    },
+    {
+      "word": "and",
+      "start": 16.04,
+      "end": 16.56
+    },
+    {
+      "word": "pushing",
+      "start": 16.56,
+      "end": 16.82
+    },
+    {
+      "word": "their",
+      "start": 16.82,
+      "end": 17.12
+    },
+    {
+      "word": "first",
+      "start": 17.12,
+      "end": 17.44
+    },
+    {
+      "word": "commits.",
+      "start": 17.44,
+      "end": 17.86
+    },
+    {
+      "word": "Run",
+      "start": 18.48,
+      "end": 18.7
+    },
+    {
+      "word": "an",
+      "start": 18.7,
+      "end": 18.98
+    },
+    {
+      "word": "automated",
+      "start": 18.98,
+      "end": 19.34
+    },
+    {
+      "word": "make",
+      "start": 19.34,
+      "end": 19.72
+    },
+    {
+      "word": "pipeline",
+      "start": 19.72,
+      "end": 20.14
+    },
+    {
+      "word": "that",
+      "start": 20.14,
+      "end": 20.56
+    },
+    {
+      "word": "sinks",
+      "start": 20.56,
+      "end": 20.74
+    },
+    {
+      "word": "GitHub",
+      "start": 20.74,
+      "end": 21.08
+    },
+    {
+      "word": "seats,",
+      "start": 21.08,
+      "end": 21.66
+    },
+    {
+      "word": "provisions",
+      "start": 22.34,
+      "end": 22.34
+    },
+    {
+      "word": "AWS",
+      "start": 22.34,
+      "end": 23.1
+    },
+    {
+      "word": "credentials,",
+      "start": 23.1,
+      "end": 23.8
+    },
+    {
+      "word": "and",
+      "start": 24.28,
+      "end": 24.4
+    },
+    {
+      "word": "delivers",
+      "start": 24.4,
+      "end": 24.58
+    },
+    {
+      "word": "one",
+      "start": 24.58,
+      "end": 25.02
+    },
+    {
+      "word": "password",
+      "start": 25.02,
+      "end": 25.42
+    },
+    {
+      "word": "vaults",
+      "start": 25.42,
+      "end": 25.92
+    },
+    {
+      "word": "instantly.",
+      "start": 25.92,
+      "end": 26.44
+    },
+    {
+      "word": "Your",
+      "start": 27.02,
+      "end": 27.18
+    },
+    {
+      "word": "new",
+      "start": 27.18,
+      "end": 27.5
+    },
+    {
+      "word": "engineer",
+      "start": 27.5,
+      "end": 27.84
+    },
+    {
+      "word": "ships",
+      "start": 27.84,
+      "end": 28.2
+    },
+    {
+      "word": "pull",
+      "start": 28.2,
+      "end": 28.48
+    },
+    {
+      "word": "requests",
+      "start": 28.48,
+      "end": 28.92
+    },
+    {
+      "word": "on",
+      "start": 28.92,
+      "end": 29.18
+    },
+    {
+      "word": "day",
+      "start": 29.18,
+      "end": 29.38
+    },
+    {
+      "word": "one.",
+      "start": 29.38,
+      "end": 29.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop wasting day one of a new engineer's time waiting for software access.",
+      "line2": "PROVISION EMPLOYEE ACCOUNTS",
+      "tag": "\ud83d\uded1 Automated employee onboarding hub that issues accounts and permissions",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated employee onboarding hub that issues accounts and permissions",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated employee onboarding hub that issues accounts and permissions",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

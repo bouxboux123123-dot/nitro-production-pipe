@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated weekly backup system for store assets and customer records",
+  "text": "This five-minute automated backup routine protects your digital income and customer records forever. Solo creators often delay backups because manually exporting data feels complicated and time-consuming after work. Losing access to your store database means rebuilding your entire buyer list completely from scratch. Configure a Make scenario that compiles weekly order summaries and deposits them into secure Dropbox folders. You will run your store with complete peace of mind.",
+  "duration": 29.007,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "five",
+      "start": 0.28,
+      "end": 0.62
+    },
+    {
+      "word": "-minute",
+      "start": 0.62,
+      "end": 0.92
+    },
+    {
+      "word": "automated",
+      "start": 0.92,
+      "end": 1.4
+    },
+    {
+      "word": "backup",
+      "start": 1.4,
+      "end": 1.82
+    },
+    {
+      "word": "routine",
+      "start": 1.82,
+      "end": 2.4
+    },
+    {
+      "word": "protects",
+      "start": 2.4,
+      "end": 2.96
+    },
+    {
+      "word": "your",
+      "start": 2.96,
+      "end": 3.26
+    },
+    {
+      "word": "digital",
+      "start": 3.26,
+      "end": 3.56
+    },
+    {
+      "word": "income",
+      "start": 3.56,
+      "end": 4.06
+    },
+    {
+      "word": "and",
+      "start": 4.06,
+      "end": 4.5
+    },
+    {
+      "word": "customer",
+      "start": 4.5,
+      "end": 4.72
+    },
+    {
+      "word": "records",
+      "start": 4.72,
+      "end": 5.14
+    },
+    {
+      "word": "forever.",
+      "start": 5.14,
+      "end": 5.82
+    },
+    {
+      "word": "Solo",
+      "start": 6.62,
+      "end": 6.62
+    },
+    {
+      "word": "creators",
+      "start": 6.62,
+      "end": 7.1
+    },
+    {
+      "word": "often",
+      "start": 7.1,
+      "end": 7.66
+    },
+    {
+      "word": "delay",
+      "start": 7.66,
+      "end": 7.98
+    },
+    {
+      "word": "backups",
+      "start": 7.98,
+      "end": 8.34
+    },
+    {
+      "word": "because",
+      "start": 8.34,
+      "end": 9.04
+    },
+    {
+      "word": "manually",
+      "start": 9.04,
+      "end": 9.5
+    },
+    {
+      "word": "exporting",
+      "start": 9.5,
+      "end": 10.08
+    },
+    {
+      "word": "data",
+      "start": 10.08,
+      "end": 10.44
+    },
+    {
+      "word": "feels",
+      "start": 10.44,
+      "end": 10.82
+    },
+    {
+      "word": "complicated",
+      "start": 10.82,
+      "end": 11.48
+    },
+    {
+      "word": "and",
+      "start": 11.48,
+      "end": 12.0
+    },
+    {
+      "word": "time",
+      "start": 12.0,
+      "end": 12.24
+    },
+    {
+      "word": "-consuming",
+      "start": 12.24,
+      "end": 12.66
+    },
+    {
+      "word": "after",
+      "start": 12.66,
+      "end": 13.1
+    },
+    {
+      "word": "work.",
+      "start": 13.1,
+      "end": 13.58
+    },
+    {
+      "word": "Losing",
+      "start": 13.9,
+      "end": 14.08
+    },
+    {
+      "word": "access",
+      "start": 14.08,
+      "end": 14.5
+    },
+    {
+      "word": "to",
+      "start": 14.5,
+      "end": 14.68
+    },
+    {
+      "word": "your",
+      "start": 14.68,
+      "end": 14.86
+    },
+    {
+      "word": "store",
+      "start": 14.86,
+      "end": 15.1
+    },
+    {
+      "word": "database",
+      "start": 15.1,
+      "end": 15.62
+    },
+    {
+      "word": "means",
+      "start": 15.62,
+      "end": 16.18
+    },
+    {
+      "word": "rebuilding",
+      "start": 16.18,
+      "end": 16.58
+    },
+    {
+      "word": "your",
+      "start": 16.58,
+      "end": 17.0
+    },
+    {
+      "word": "entire",
+      "start": 17.0,
+      "end": 17.42
+    },
+    {
+      "word": "buyer",
+      "start": 17.42,
+      "end": 17.72
+    },
+    {
+      "word": "list",
+      "start": 17.72,
+      "end": 18.0
+    },
+    {
+      "word": "completely",
+      "start": 18.0,
+      "end": 18.42
+    },
+    {
+      "word": "from",
+      "start": 18.42,
+      "end": 18.86
+    },
+    {
+      "word": "scratch.",
+      "start": 18.86,
+      "end": 19.32
+    },
+    {
+      "word": "Configure",
+      "start": 20.04,
+      "end": 20.4
+    },
+    {
+      "word": "a",
+      "start": 20.4,
+      "end": 20.5
+    },
+    {
+      "word": "make",
+      "start": 20.5,
+      "end": 20.7
+    },
+    {
+      "word": "scenario",
+      "start": 20.7,
+      "end": 21.14
+    },
+    {
+      "word": "that",
+      "start": 21.14,
+      "end": 21.5
+    },
+    {
+      "word": "compiles",
+      "start": 21.5,
+      "end": 21.92
+    },
+    {
+      "word": "weekly",
+      "start": 21.92,
+      "end": 22.42
+    },
+    {
+      "word": "order",
+      "start": 22.42,
+      "end": 22.7
+    },
+    {
+      "word": "summaries",
+      "start": 22.7,
+      "end": 23.16
+    },
+    {
+      "word": "and",
+      "start": 23.16,
+      "end": 23.7
+    },
+    {
+      "word": "deposits",
+      "start": 23.7,
+      "end": 24.04
+    },
+    {
+      "word": "them",
+      "start": 24.04,
+      "end": 24.4
+    },
+    {
+      "word": "into",
+      "start": 24.4,
+      "end": 24.68
+    },
+    {
+      "word": "secure",
+      "start": 24.68,
+      "end": 25.04
+    },
+    {
+      "word": "Dropbox",
+      "start": 25.04,
+      "end": 25.46
+    },
+    {
+      "word": "folders.",
+      "start": 25.46,
+      "end": 26.06
+    },
+    {
+      "word": "You",
+      "start": 26.62,
+      "end": 26.72
+    },
+    {
+      "word": "will",
+      "start": 26.72,
+      "end": 26.88
+    },
+    {
+      "word": "run",
+      "start": 26.88,
+      "end": 27.02
+    },
+    {
+      "word": "your",
+      "start": 27.02,
+      "end": 27.24
+    },
+    {
+      "word": "store",
+      "start": 27.24,
+      "end": 27.48
+    },
+    {
+      "word": "with",
+      "start": 27.48,
+      "end": 27.72
+    },
+    {
+      "word": "complete",
+      "start": 27.72,
+      "end": 28.1
+    },
+    {
+      "word": "peace",
+      "start": 28.1,
+      "end": 28.4
+    },
+    {
+      "word": "of",
+      "start": 28.4,
+      "end": 28.62
+    },
+    {
+      "word": "mind.",
+      "start": 28.62,
+      "end": 28.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The 5-minute automated backup routine that protects your digital income forever.",
+      "line2": "AUTO-BACKUP STORE DATA",
+      "tag": "\ud83d\uded1 Automated weekly backup system for store assets and customer records",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated weekly backup system for store assets and customer records",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated weekly backup system for store assets and customer records",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated weekly backup system for store assets and customer records",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

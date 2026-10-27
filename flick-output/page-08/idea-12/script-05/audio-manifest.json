@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "How to automate your phone to mute during meetings and bedtime",
+  "text": "Automate your phone settings today so loud notification rings never interrupt your important moments again. Having ringtones go off during quiet library study sessions or executive presentations creates instant embarrassment. Default notification profiles treat every promotional sales email with the same sound urgency as emergency calls. Use iOS Shortcuts or Samsung Modes to activate silent mode based on your calendar events. You stay professional and focused without manual toggling.",
+  "duration": 31.418,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Automate",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "your",
+      "start": 0.42,
+      "end": 0.72
+    },
+    {
+      "word": "phone",
+      "start": 0.72,
+      "end": 0.98
+    },
+    {
+      "word": "settings",
+      "start": 0.98,
+      "end": 1.24
+    },
+    {
+      "word": "today,",
+      "start": 1.24,
+      "end": 1.74
+    },
+    {
+      "word": "so",
+      "start": 2.02,
+      "end": 2.08
+    },
+    {
+      "word": "loud",
+      "start": 2.08,
+      "end": 2.42
+    },
+    {
+      "word": "notification",
+      "start": 2.42,
+      "end": 2.98
+    },
+    {
+      "word": "rings",
+      "start": 2.98,
+      "end": 3.54
+    },
+    {
+      "word": "never",
+      "start": 3.54,
+      "end": 4.16
+    },
+    {
+      "word": "interrupt",
+      "start": 4.16,
+      "end": 4.56
+    },
+    {
+      "word": "your",
+      "start": 4.56,
+      "end": 4.92
+    },
+    {
+      "word": "important",
+      "start": 4.92,
+      "end": 5.28
+    },
+    {
+      "word": "moments",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "word": "again.",
+      "start": 5.6,
+      "end": 6.32
+    },
+    {
+      "word": "Having",
+      "start": 6.84,
+      "end": 6.9
+    },
+    {
+      "word": "ringtones",
+      "start": 6.9,
+      "end": 7.4
+    },
+    {
+      "word": "go",
+      "start": 7.4,
+      "end": 7.7
+    },
+    {
+      "word": "off",
+      "start": 7.7,
+      "end": 7.94
+    },
+    {
+      "word": "during",
+      "start": 7.94,
+      "end": 8.32
+    },
+    {
+      "word": "quiet",
+      "start": 8.32,
+      "end": 8.72
+    },
+    {
+      "word": "library",
+      "start": 8.72,
+      "end": 9.24
+    },
+    {
+      "word": "study",
+      "start": 9.24,
+      "end": 9.52
+    },
+    {
+      "word": "sessions",
+      "start": 9.52,
+      "end": 9.94
+    },
+    {
+      "word": "or",
+      "start": 9.94,
+      "end": 10.54
+    },
+    {
+      "word": "executive",
+      "start": 10.54,
+      "end": 11.04
+    },
+    {
+      "word": "presentations",
+      "start": 11.04,
+      "end": 11.9
+    },
+    {
+      "word": "creates",
+      "start": 11.9,
+      "end": 12.72
+    },
+    {
+      "word": "instant",
+      "start": 12.72,
+      "end": 13.2
+    },
+    {
+      "word": "embarrassment.",
+      "start": 13.2,
+      "end": 13.86
+    },
+    {
+      "word": "Default",
+      "start": 14.58,
+      "end": 14.58
+    },
+    {
+      "word": "notification",
+      "start": 14.58,
+      "end": 15.22
+    },
+    {
+      "word": "profiles",
+      "start": 15.22,
+      "end": 15.8
+    },
+    {
+      "word": "treat",
+      "start": 15.8,
+      "end": 16.28
+    },
+    {
+      "word": "every",
+      "start": 16.28,
+      "end": 16.68
+    },
+    {
+      "word": "promotional",
+      "start": 16.68,
+      "end": 17.04
+    },
+    {
+      "word": "sales",
+      "start": 17.04,
+      "end": 17.58
+    },
+    {
+      "word": "email",
+      "start": 17.58,
+      "end": 17.96
+    },
+    {
+      "word": "with",
+      "start": 17.96,
+      "end": 18.34
+    },
+    {
+      "word": "the",
+      "start": 18.34,
+      "end": 18.54
+    },
+    {
+      "word": "same",
+      "start": 18.54,
+      "end": 18.78
+    },
+    {
+      "word": "sound",
+      "start": 18.78,
+      "end": 19.16
+    },
+    {
+      "word": "urgency",
+      "start": 19.16,
+      "end": 19.6
+    },
+    {
+      "word": "as",
+      "start": 19.6,
+      "end": 20.12
+    },
+    {
+      "word": "emergency",
+      "start": 20.12,
+      "end": 20.62
+    },
+    {
+      "word": "calls.",
+      "start": 20.62,
+      "end": 21.14
+    },
+    {
+      "word": "Use",
+      "start": 21.7,
+      "end": 21.98
+    },
+    {
+      "word": "iOS",
+      "start": 21.98,
+      "end": 22.54
+    },
+    {
+      "word": "shortcuts",
+      "start": 22.54,
+      "end": 23.1
+    },
+    {
+      "word": "or",
+      "start": 23.1,
+      "end": 23.88
+    },
+    {
+      "word": "Samsung",
+      "start": 23.88,
+      "end": 24.26
+    },
+    {
+      "word": "modes",
+      "start": 24.26,
+      "end": 24.72
+    },
+    {
+      "word": "to",
+      "start": 24.72,
+      "end": 25.14
+    },
+    {
+      "word": "activate",
+      "start": 25.14,
+      "end": 25.42
+    },
+    {
+      "word": "silent",
+      "start": 25.42,
+      "end": 25.92
+    },
+    {
+      "word": "mode",
+      "start": 25.92,
+      "end": 26.4
+    },
+    {
+      "word": "based",
+      "start": 26.4,
+      "end": 26.7
+    },
+    {
+      "word": "on",
+      "start": 26.7,
+      "end": 26.84
+    },
+    {
+      "word": "your",
+      "start": 26.84,
+      "end": 27.32
+    },
+    {
+      "word": "calendar",
+      "start": 27.32,
+      "end": 27.36
+    },
+    {
+      "word": "events.",
+      "start": 27.36,
+      "end": 27.86
+    },
+    {
+      "word": "You",
+      "start": 27.86,
+      "end": 28.58
+    },
+    {
+      "word": "stay",
+      "start": 28.58,
+      "end": 28.82
+    },
+    {
+      "word": "professional",
+      "start": 28.82,
+      "end": 29.32
+    },
+    {
+      "word": "and",
+      "start": 29.32,
+      "end": 29.74
+    },
+    {
+      "word": "focused",
+      "start": 29.74,
+      "end": 30.02
+    },
+    {
+      "word": "without",
+      "start": 30.02,
+      "end": 30.48
+    },
+    {
+      "word": "manual",
+      "start": 30.48,
+      "end": 30.9
+    },
+    {
+      "word": "toggling.",
+      "start": 30.9,
+      "end": 31.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Automate your phone settings so you never get interrupted again.",
+      "line2": "AUTO-MUTE YOUR PHONE",
+      "tag": "\ud83d\uded1 How to automate your phone to mute during meetings and bedtime",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to automate your phone to mute during meetings and bedtime",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to automate your phone to mute during meetings and bedtime",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

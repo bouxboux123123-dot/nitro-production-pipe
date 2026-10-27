@@ -1,0 +1,391 @@
+{
+  "page": "page-07",
+  "idea": "Automated competitor product release monitoring using webhooks",
+  "text": "Stay two steps ahead of your market with automated changelog tracking. Startup founders constantly react to rival product releases after losing key customer renewals. Delegating competitor monitoring to junior staff creates messy spreadsheets that get outdated within days. Deploy visual change detection bots via webhooks that automatically categorize rival updates using Claude. You execute counter-campaigns on launch day and retain top-tier accounts.",
+  "duration": 25.728,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Day",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "2",
+      "start": 0.24,
+      "end": 0.52
+    },
+    {
+      "word": "steps",
+      "start": 0.52,
+      "end": 0.72
+    },
+    {
+      "word": "ahead",
+      "start": 0.72,
+      "end": 0.94
+    },
+    {
+      "word": "of",
+      "start": 0.94,
+      "end": 1.06
+    },
+    {
+      "word": "your",
+      "start": 1.06,
+      "end": 1.24
+    },
+    {
+      "word": "market",
+      "start": 1.24,
+      "end": 1.4
+    },
+    {
+      "word": "with",
+      "start": 1.4,
+      "end": 2.06
+    },
+    {
+      "word": "automated",
+      "start": 2.06,
+      "end": 2.06
+    },
+    {
+      "word": "changelog",
+      "start": 2.06,
+      "end": 2.72
+    },
+    {
+      "word": "tracking.",
+      "start": 2.72,
+      "end": 3.28
+    },
+    {
+      "word": "Start",
+      "start": 3.72,
+      "end": 3.9
+    },
+    {
+      "word": "-up",
+      "start": 3.9,
+      "end": 4.08
+    },
+    {
+      "word": "founders",
+      "start": 4.08,
+      "end": 4.36
+    },
+    {
+      "word": "constantly",
+      "start": 4.36,
+      "end": 4.92
+    },
+    {
+      "word": "react",
+      "start": 4.92,
+      "end": 5.34
+    },
+    {
+      "word": "to",
+      "start": 5.34,
+      "end": 5.56
+    },
+    {
+      "word": "rival",
+      "start": 5.56,
+      "end": 5.78
+    },
+    {
+      "word": "product",
+      "start": 5.78,
+      "end": 6.2
+    },
+    {
+      "word": "releases",
+      "start": 6.2,
+      "end": 6.66
+    },
+    {
+      "word": "after",
+      "start": 6.66,
+      "end": 7.26
+    },
+    {
+      "word": "losing",
+      "start": 7.26,
+      "end": 7.6
+    },
+    {
+      "word": "key",
+      "start": 7.6,
+      "end": 8.02
+    },
+    {
+      "word": "customer",
+      "start": 8.02,
+      "end": 8.36
+    },
+    {
+      "word": "renewals.",
+      "start": 8.36,
+      "end": 9.14
+    },
+    {
+      "word": "Delegating",
+      "start": 9.52,
+      "end": 9.9
+    },
+    {
+      "word": "competitor",
+      "start": 9.9,
+      "end": 10.36
+    },
+    {
+      "word": "monitoring",
+      "start": 10.36,
+      "end": 10.78
+    },
+    {
+      "word": "to",
+      "start": 10.78,
+      "end": 11.1
+    },
+    {
+      "word": "junior",
+      "start": 11.1,
+      "end": 11.38
+    },
+    {
+      "word": "staff",
+      "start": 11.38,
+      "end": 11.84
+    },
+    {
+      "word": "creates",
+      "start": 11.84,
+      "end": 12.38
+    },
+    {
+      "word": "messy",
+      "start": 12.38,
+      "end": 12.66
+    },
+    {
+      "word": "spreadsheets",
+      "start": 12.66,
+      "end": 13.28
+    },
+    {
+      "word": "that",
+      "start": 13.28,
+      "end": 13.5
+    },
+    {
+      "word": "get",
+      "start": 13.5,
+      "end": 13.7
+    },
+    {
+      "word": "outdated",
+      "start": 13.7,
+      "end": 14.12
+    },
+    {
+      "word": "within",
+      "start": 14.12,
+      "end": 14.42
+    },
+    {
+      "word": "days.",
+      "start": 14.42,
+      "end": 14.86
+    },
+    {
+      "word": "Deploy",
+      "start": 15.44,
+      "end": 15.58
+    },
+    {
+      "word": "visual",
+      "start": 15.58,
+      "end": 16.02
+    },
+    {
+      "word": "change",
+      "start": 16.02,
+      "end": 16.36
+    },
+    {
+      "word": "detection",
+      "start": 16.36,
+      "end": 16.84
+    },
+    {
+      "word": "bots",
+      "start": 16.84,
+      "end": 17.2
+    },
+    {
+      "word": "via",
+      "start": 17.2,
+      "end": 17.52
+    },
+    {
+      "word": "web",
+      "start": 17.52,
+      "end": 17.72
+    },
+    {
+      "word": "hooks",
+      "start": 17.72,
+      "end": 17.94
+    },
+    {
+      "word": "that",
+      "start": 17.94,
+      "end": 18.36
+    },
+    {
+      "word": "automatically",
+      "start": 18.36,
+      "end": 18.84
+    },
+    {
+      "word": "categorize",
+      "start": 18.84,
+      "end": 19.6
+    },
+    {
+      "word": "rival",
+      "start": 19.6,
+      "end": 19.98
+    },
+    {
+      "word": "updates",
+      "start": 19.98,
+      "end": 20.3
+    },
+    {
+      "word": "using",
+      "start": 20.3,
+      "end": 20.82
+    },
+    {
+      "word": "Claude.",
+      "start": 20.82,
+      "end": 21.24
+    },
+    {
+      "word": "You",
+      "start": 21.72,
+      "end": 21.88
+    },
+    {
+      "word": "execute",
+      "start": 21.88,
+      "end": 22.26
+    },
+    {
+      "word": "counter",
+      "start": 22.26,
+      "end": 22.64
+    },
+    {
+      "word": "campaigns",
+      "start": 22.64,
+      "end": 23.16
+    },
+    {
+      "word": "on",
+      "start": 23.16,
+      "end": 23.42
+    },
+    {
+      "word": "launch",
+      "start": 23.42,
+      "end": 23.68
+    },
+    {
+      "word": "day",
+      "start": 23.68,
+      "end": 23.98
+    },
+    {
+      "word": "and",
+      "start": 23.98,
+      "end": 24.34
+    },
+    {
+      "word": "retain",
+      "start": 24.34,
+      "end": 24.64
+    },
+    {
+      "word": "top",
+      "start": 24.64,
+      "end": 24.96
+    },
+    {
+      "word": "tier",
+      "start": 24.96,
+      "end": 25.16
+    },
+    {
+      "word": "accounts.",
+      "start": 25.16,
+      "end": 25.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stay two steps ahead of your market with automated changelog tracking.",
+      "line2": "MONITOR COMPETITOR RELEASES",
+      "tag": "\ud83d\uded1 Automated competitor product release monitoring using webhooks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated competitor product release monitoring using webhooks",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated competitor product release monitoring using webhooks",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated competitor product release monitoring using webhooks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

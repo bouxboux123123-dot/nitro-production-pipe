@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Automated content repurposing workflow using Make and Notion",
+  "text": "The exact system content creators use to post five times daily without burning out. Solopreneurs try building a massive personal brand, but manually producing multiple posts every day is unsustainable. When production bottlenecks hit, posting stops completely and your algorithmic distribution drops to zero. Instead, build a Make scenario connecting Notion to schedule multi-format posts from single source ideas. You scale your publishing output without extra stress.",
+  "duration": 29.114,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "exact",
+      "start": 0.26,
+      "end": 0.58
+    },
+    {
+      "word": "system",
+      "start": 0.58,
+      "end": 0.96
+    },
+    {
+      "word": "content",
+      "start": 0.96,
+      "end": 1.4
+    },
+    {
+      "word": "creators",
+      "start": 1.4,
+      "end": 1.72
+    },
+    {
+      "word": "use",
+      "start": 1.72,
+      "end": 2.12
+    },
+    {
+      "word": "to",
+      "start": 2.12,
+      "end": 2.32
+    },
+    {
+      "word": "post",
+      "start": 2.32,
+      "end": 2.58
+    },
+    {
+      "word": "five",
+      "start": 2.58,
+      "end": 3.04
+    },
+    {
+      "word": "times",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "word": "daily",
+      "start": 3.44,
+      "end": 3.8
+    },
+    {
+      "word": "without",
+      "start": 3.8,
+      "end": 4.18
+    },
+    {
+      "word": "burning",
+      "start": 4.18,
+      "end": 4.44
+    },
+    {
+      "word": "out.",
+      "start": 4.44,
+      "end": 5.12
+    },
+    {
+      "word": "Solopreneurs",
+      "start": 5.6,
+      "end": 6.1
+    },
+    {
+      "word": "try",
+      "start": 6.1,
+      "end": 6.42
+    },
+    {
+      "word": "building",
+      "start": 6.42,
+      "end": 6.7
+    },
+    {
+      "word": "a",
+      "start": 6.7,
+      "end": 6.96
+    },
+    {
+      "word": "massive",
+      "start": 6.96,
+      "end": 7.3
+    },
+    {
+      "word": "personal",
+      "start": 7.3,
+      "end": 7.8
+    },
+    {
+      "word": "brand,",
+      "start": 7.8,
+      "end": 8.2
+    },
+    {
+      "word": "but",
+      "start": 8.66,
+      "end": 8.74
+    },
+    {
+      "word": "manually",
+      "start": 8.74,
+      "end": 9.16
+    },
+    {
+      "word": "producing",
+      "start": 9.16,
+      "end": 9.68
+    },
+    {
+      "word": "multiple",
+      "start": 9.68,
+      "end": 10.2
+    },
+    {
+      "word": "posts",
+      "start": 10.2,
+      "end": 10.64
+    },
+    {
+      "word": "every",
+      "start": 10.64,
+      "end": 11.02
+    },
+    {
+      "word": "day",
+      "start": 11.02,
+      "end": 11.32
+    },
+    {
+      "word": "is",
+      "start": 11.32,
+      "end": 11.64
+    },
+    {
+      "word": "unsustainable.",
+      "start": 11.64,
+      "end": 12.2
+    },
+    {
+      "word": "When",
+      "start": 12.66,
+      "end": 12.88
+    },
+    {
+      "word": "production",
+      "start": 12.88,
+      "end": 13.22
+    },
+    {
+      "word": "bottlenecks",
+      "start": 13.22,
+      "end": 13.88
+    },
+    {
+      "word": "hit,",
+      "start": 13.88,
+      "end": 14.26
+    },
+    {
+      "word": "posting",
+      "start": 14.48,
+      "end": 14.78
+    },
+    {
+      "word": "stops",
+      "start": 14.78,
+      "end": 15.26
+    },
+    {
+      "word": "completely",
+      "start": 15.26,
+      "end": 15.8
+    },
+    {
+      "word": "and",
+      "start": 15.8,
+      "end": 16.3
+    },
+    {
+      "word": "your",
+      "start": 16.3,
+      "end": 16.6
+    },
+    {
+      "word": "algorithmic",
+      "start": 16.6,
+      "end": 17.18
+    },
+    {
+      "word": "distribution",
+      "start": 17.18,
+      "end": 17.74
+    },
+    {
+      "word": "drops",
+      "start": 17.74,
+      "end": 18.18
+    },
+    {
+      "word": "to",
+      "start": 18.18,
+      "end": 18.48
+    },
+    {
+      "word": "zero.",
+      "start": 18.48,
+      "end": 18.88
+    },
+    {
+      "word": "Instead,",
+      "start": 19.52,
+      "end": 19.9
+    },
+    {
+      "word": "build",
+      "start": 20.44,
+      "end": 20.46
+    },
+    {
+      "word": "a",
+      "start": 20.46,
+      "end": 20.6
+    },
+    {
+      "word": "make",
+      "start": 20.6,
+      "end": 20.8
+    },
+    {
+      "word": "scenario",
+      "start": 20.8,
+      "end": 21.24
+    },
+    {
+      "word": "connecting",
+      "start": 21.24,
+      "end": 21.72
+    },
+    {
+      "word": "notion",
+      "start": 21.72,
+      "end": 22.22
+    },
+    {
+      "word": "to",
+      "start": 22.22,
+      "end": 22.6
+    },
+    {
+      "word": "schedule",
+      "start": 22.6,
+      "end": 22.98
+    },
+    {
+      "word": "multi",
+      "start": 22.98,
+      "end": 23.3
+    },
+    {
+      "word": "-format",
+      "start": 23.3,
+      "end": 23.76
+    },
+    {
+      "word": "posts",
+      "start": 23.76,
+      "end": 24.22
+    },
+    {
+      "word": "from",
+      "start": 24.22,
+      "end": 24.56
+    },
+    {
+      "word": "single",
+      "start": 24.56,
+      "end": 24.86
+    },
+    {
+      "word": "source",
+      "start": 24.86,
+      "end": 25.28
+    },
+    {
+      "word": "ideas.",
+      "start": 25.28,
+      "end": 25.8
+    },
+    {
+      "word": "You",
+      "start": 25.8,
+      "end": 26.52
+    },
+    {
+      "word": "scale",
+      "start": 26.52,
+      "end": 26.76
+    },
+    {
+      "word": "your",
+      "start": 26.76,
+      "end": 27.02
+    },
+    {
+      "word": "publishing",
+      "start": 27.02,
+      "end": 27.4
+    },
+    {
+      "word": "output",
+      "start": 27.4,
+      "end": 27.84
+    },
+    {
+      "word": "without",
+      "start": 27.84,
+      "end": 28.22
+    },
+    {
+      "word": "extra",
+      "start": 28.22,
+      "end": 28.6
+    },
+    {
+      "word": "stress.",
+      "start": 28.6,
+      "end": 28.96
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The exact system content creators use to post 5 times a day without burning out.",
+      "line2": "REPURPOSE CONTENT AUTOMATICALLY",
+      "tag": "\ud83d\uded1 Automated content repurposing workflow using Make and Notion",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Automated content repurposing workflow using Make and Notion",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Automated content repurposing workflow using Make and Notion",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Automated content repurposing workflow using Make and Notion",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

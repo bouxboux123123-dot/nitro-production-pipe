@@ -1,0 +1,381 @@
+{
+  "page": "page-07",
+  "idea": "Automated runway and cash burn dashboard on Google Sheets",
+  "text": "Stop checking bank balances to guess if you can afford that next engineer. Calculating runway in your head turns critical hiring decisions into reckless gambles. Traditional monthly bookkeeping lags weeks behind, concealing expensive cloud overages and unused software seats. Route live transaction webhooks from Plaid and Stripe into an automated Google Sheets dashboard. You make confident hiring decisions backed by real-time financial telemetry.",
+  "duration": 26.048,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "checking",
+      "start": 0.34,
+      "end": 0.64
+    },
+    {
+      "word": "bank",
+      "start": 0.64,
+      "end": 0.9
+    },
+    {
+      "word": "balances",
+      "start": 0.9,
+      "end": 1.26
+    },
+    {
+      "word": "to",
+      "start": 1.26,
+      "end": 1.54
+    },
+    {
+      "word": "guess",
+      "start": 1.54,
+      "end": 1.8
+    },
+    {
+      "word": "if",
+      "start": 1.8,
+      "end": 2.04
+    },
+    {
+      "word": "you",
+      "start": 2.04,
+      "end": 2.1
+    },
+    {
+      "word": "can",
+      "start": 2.1,
+      "end": 2.26
+    },
+    {
+      "word": "afford",
+      "start": 2.26,
+      "end": 2.48
+    },
+    {
+      "word": "that",
+      "start": 2.48,
+      "end": 2.8
+    },
+    {
+      "word": "next",
+      "start": 2.8,
+      "end": 3.04
+    },
+    {
+      "word": "engineer.",
+      "start": 3.04,
+      "end": 3.48
+    },
+    {
+      "word": "Calculating",
+      "start": 4.3,
+      "end": 4.56
+    },
+    {
+      "word": "runway",
+      "start": 4.56,
+      "end": 4.88
+    },
+    {
+      "word": "in",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "word": "your",
+      "start": 5.04,
+      "end": 5.2
+    },
+    {
+      "word": "head",
+      "start": 5.2,
+      "end": 5.6
+    },
+    {
+      "word": "turns",
+      "start": 5.6,
+      "end": 5.98
+    },
+    {
+      "word": "critical",
+      "start": 5.98,
+      "end": 6.4
+    },
+    {
+      "word": "hiring",
+      "start": 6.4,
+      "end": 6.74
+    },
+    {
+      "word": "decisions",
+      "start": 6.74,
+      "end": 7.2
+    },
+    {
+      "word": "into",
+      "start": 7.2,
+      "end": 7.5
+    },
+    {
+      "word": "reckless",
+      "start": 7.5,
+      "end": 7.8
+    },
+    {
+      "word": "gambles.",
+      "start": 7.8,
+      "end": 8.48
+    },
+    {
+      "word": "Traditional",
+      "start": 9.2,
+      "end": 9.22
+    },
+    {
+      "word": "monthly",
+      "start": 9.22,
+      "end": 9.7
+    },
+    {
+      "word": "bookkeeping",
+      "start": 9.7,
+      "end": 10.22
+    },
+    {
+      "word": "lags",
+      "start": 10.22,
+      "end": 10.58
+    },
+    {
+      "word": "weeks",
+      "start": 10.58,
+      "end": 10.94
+    },
+    {
+      "word": "behind,",
+      "start": 10.94,
+      "end": 11.52
+    },
+    {
+      "word": "concealing",
+      "start": 11.9,
+      "end": 12.28
+    },
+    {
+      "word": "expensive",
+      "start": 12.28,
+      "end": 12.86
+    },
+    {
+      "word": "cloud",
+      "start": 12.86,
+      "end": 13.18
+    },
+    {
+      "word": "overages,",
+      "start": 13.18,
+      "end": 13.74
+    },
+    {
+      "word": "and",
+      "start": 14.16,
+      "end": 14.36
+    },
+    {
+      "word": "unused",
+      "start": 14.36,
+      "end": 14.64
+    },
+    {
+      "word": "software",
+      "start": 14.64,
+      "end": 15.12
+    },
+    {
+      "word": "seats.",
+      "start": 15.12,
+      "end": 15.64
+    },
+    {
+      "word": "Route",
+      "start": 16.16,
+      "end": 16.42
+    },
+    {
+      "word": "live",
+      "start": 16.42,
+      "end": 16.74
+    },
+    {
+      "word": "transaction",
+      "start": 16.74,
+      "end": 17.28
+    },
+    {
+      "word": "webhooks",
+      "start": 17.28,
+      "end": 17.84
+    },
+    {
+      "word": "from",
+      "start": 17.84,
+      "end": 18.1
+    },
+    {
+      "word": "Plaid",
+      "start": 18.1,
+      "end": 18.42
+    },
+    {
+      "word": "and",
+      "start": 18.42,
+      "end": 18.72
+    },
+    {
+      "word": "Stripe",
+      "start": 18.72,
+      "end": 19.12
+    },
+    {
+      "word": "into",
+      "start": 19.12,
+      "end": 19.3
+    },
+    {
+      "word": "an",
+      "start": 19.3,
+      "end": 19.58
+    },
+    {
+      "word": "automated",
+      "start": 19.58,
+      "end": 19.86
+    },
+    {
+      "word": "Google",
+      "start": 19.86,
+      "end": 20.36
+    },
+    {
+      "word": "Sheets",
+      "start": 20.36,
+      "end": 20.66
+    },
+    {
+      "word": "dashboard.",
+      "start": 20.66,
+      "end": 21.14
+    },
+    {
+      "word": "You",
+      "start": 21.14,
+      "end": 21.72
+    },
+    {
+      "word": "make",
+      "start": 21.72,
+      "end": 22.18
+    },
+    {
+      "word": "confident",
+      "start": 22.18,
+      "end": 22.46
+    },
+    {
+      "word": "hiring",
+      "start": 22.46,
+      "end": 22.9
+    },
+    {
+      "word": "decisions",
+      "start": 22.9,
+      "end": 23.5
+    },
+    {
+      "word": "backed",
+      "start": 23.5,
+      "end": 23.96
+    },
+    {
+      "word": "by",
+      "start": 23.96,
+      "end": 24.26
+    },
+    {
+      "word": "real",
+      "start": 24.26,
+      "end": 24.52
+    },
+    {
+      "word": "-time",
+      "start": 24.52,
+      "end": 24.86
+    },
+    {
+      "word": "financial",
+      "start": 24.86,
+      "end": 25.4
+    },
+    {
+      "word": "telemetry.",
+      "start": 25.4,
+      "end": 25.96
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop looking at bank balances and wondering if you can afford that next engineer.",
+      "line2": "TRACK STARTUP RUNWAY",
+      "tag": "\ud83d\uded1 Automated runway and cash burn dashboard on Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

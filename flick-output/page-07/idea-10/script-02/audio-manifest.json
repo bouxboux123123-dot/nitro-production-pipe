@@ -1,0 +1,426 @@
+{
+  "page": "page-07",
+  "idea": "Rapid MVP validation landing page stack launched in under 2 hours",
+  "text": "This exact no-code stack lets you build a high-converting waitlist page in under two hours. First-time founders overcomplicate early launches by setting up full web frameworks and complex databases. Wasting three weeks on basic frontend code delays critical customer discovery when speed matters most. Combine Carrd for responsive design, PostHog for user analytics, and Loops for automated onboarding welcome sequences. You capture validated early adopters before the weekend.",
+  "duration": 30.031,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "exact",
+      "start": 0.28,
+      "end": 0.68
+    },
+    {
+      "word": "no",
+      "start": 0.68,
+      "end": 1.0
+    },
+    {
+      "word": "-code",
+      "start": 1.0,
+      "end": 1.3
+    },
+    {
+      "word": "stack",
+      "start": 1.3,
+      "end": 1.66
+    },
+    {
+      "word": "lets",
+      "start": 1.66,
+      "end": 1.98
+    },
+    {
+      "word": "you",
+      "start": 1.98,
+      "end": 2.12
+    },
+    {
+      "word": "build",
+      "start": 2.12,
+      "end": 2.32
+    },
+    {
+      "word": "a",
+      "start": 2.32,
+      "end": 2.54
+    },
+    {
+      "word": "hike",
+      "start": 2.54,
+      "end": 2.74
+    },
+    {
+      "word": "-inverting",
+      "start": 2.74,
+      "end": 3.2
+    },
+    {
+      "word": "weightless",
+      "start": 3.2,
+      "end": 3.7
+    },
+    {
+      "word": "page",
+      "start": 3.7,
+      "end": 4.22
+    },
+    {
+      "word": "in",
+      "start": 4.22,
+      "end": 4.42
+    },
+    {
+      "word": "under",
+      "start": 4.42,
+      "end": 4.62
+    },
+    {
+      "word": "two",
+      "start": 4.62,
+      "end": 4.92
+    },
+    {
+      "word": "hours.",
+      "start": 4.92,
+      "end": 5.48
+    },
+    {
+      "word": "First",
+      "start": 5.92,
+      "end": 6.22
+    },
+    {
+      "word": "-time",
+      "start": 6.22,
+      "end": 6.56
+    },
+    {
+      "word": "founders",
+      "start": 6.56,
+      "end": 7.0
+    },
+    {
+      "word": "overcomplicate",
+      "start": 7.0,
+      "end": 7.96
+    },
+    {
+      "word": "early",
+      "start": 7.96,
+      "end": 8.3
+    },
+    {
+      "word": "launches",
+      "start": 8.3,
+      "end": 8.7
+    },
+    {
+      "word": "by",
+      "start": 8.7,
+      "end": 9.3
+    },
+    {
+      "word": "setting",
+      "start": 9.3,
+      "end": 9.54
+    },
+    {
+      "word": "up",
+      "start": 9.54,
+      "end": 9.82
+    },
+    {
+      "word": "full",
+      "start": 9.82,
+      "end": 10.1
+    },
+    {
+      "word": "web",
+      "start": 10.1,
+      "end": 10.36
+    },
+    {
+      "word": "frameworks",
+      "start": 10.36,
+      "end": 10.8
+    },
+    {
+      "word": "and",
+      "start": 10.8,
+      "end": 11.22
+    },
+    {
+      "word": "complex",
+      "start": 11.22,
+      "end": 11.6
+    },
+    {
+      "word": "databases.",
+      "start": 11.6,
+      "end": 12.22
+    },
+    {
+      "word": "Wasting",
+      "start": 12.84,
+      "end": 13.0
+    },
+    {
+      "word": "three",
+      "start": 13.0,
+      "end": 13.38
+    },
+    {
+      "word": "weeks",
+      "start": 13.38,
+      "end": 13.64
+    },
+    {
+      "word": "on",
+      "start": 13.64,
+      "end": 13.92
+    },
+    {
+      "word": "basic",
+      "start": 13.92,
+      "end": 14.26
+    },
+    {
+      "word": "front",
+      "start": 14.26,
+      "end": 14.58
+    },
+    {
+      "word": "-end",
+      "start": 14.58,
+      "end": 14.8
+    },
+    {
+      "word": "code",
+      "start": 14.8,
+      "end": 15.16
+    },
+    {
+      "word": "delays",
+      "start": 15.16,
+      "end": 15.6
+    },
+    {
+      "word": "critical",
+      "start": 15.6,
+      "end": 16.08
+    },
+    {
+      "word": "customer",
+      "start": 16.08,
+      "end": 16.54
+    },
+    {
+      "word": "discovery",
+      "start": 16.54,
+      "end": 17.1
+    },
+    {
+      "word": "when",
+      "start": 17.1,
+      "end": 17.54
+    },
+    {
+      "word": "speed",
+      "start": 17.54,
+      "end": 17.84
+    },
+    {
+      "word": "matters",
+      "start": 17.84,
+      "end": 18.1
+    },
+    {
+      "word": "most.",
+      "start": 18.1,
+      "end": 18.88
+    },
+    {
+      "word": "Combined",
+      "start": 19.28,
+      "end": 19.54
+    },
+    {
+      "word": "CAD",
+      "start": 19.54,
+      "end": 19.98
+    },
+    {
+      "word": "for",
+      "start": 19.98,
+      "end": 20.24
+    },
+    {
+      "word": "responsive",
+      "start": 20.24,
+      "end": 20.64
+    },
+    {
+      "word": "design,",
+      "start": 20.64,
+      "end": 21.28
+    },
+    {
+      "word": "post",
+      "start": 21.76,
+      "end": 21.88
+    },
+    {
+      "word": "-HOG",
+      "start": 21.88,
+      "end": 22.16
+    },
+    {
+      "word": "for",
+      "start": 22.16,
+      "end": 22.42
+    },
+    {
+      "word": "user",
+      "start": 22.42,
+      "end": 22.74
+    },
+    {
+      "word": "analytics,",
+      "start": 22.74,
+      "end": 23.14
+    },
+    {
+      "word": "and",
+      "start": 23.56,
+      "end": 23.78
+    },
+    {
+      "word": "loops",
+      "start": 23.78,
+      "end": 23.98
+    },
+    {
+      "word": "for",
+      "start": 23.98,
+      "end": 24.54
+    },
+    {
+      "word": "automated",
+      "start": 24.54,
+      "end": 24.7
+    },
+    {
+      "word": "onboarding",
+      "start": 24.7,
+      "end": 25.38
+    },
+    {
+      "word": "welcome",
+      "start": 25.38,
+      "end": 25.74
+    },
+    {
+      "word": "sequences.",
+      "start": 25.74,
+      "end": 26.38
+    },
+    {
+      "word": "You",
+      "start": 26.38,
+      "end": 27.14
+    },
+    {
+      "word": "capture",
+      "start": 27.14,
+      "end": 27.5
+    },
+    {
+      "word": "validated",
+      "start": 27.5,
+      "end": 28.0
+    },
+    {
+      "word": "early",
+      "start": 28.0,
+      "end": 28.48
+    },
+    {
+      "word": "adopters",
+      "start": 28.48,
+      "end": 29.06
+    },
+    {
+      "word": "before",
+      "start": 29.06,
+      "end": 29.38
+    },
+    {
+      "word": "the",
+      "start": 29.38,
+      "end": 29.68
+    },
+    {
+      "word": "weekend.",
+      "start": 29.68,
+      "end": 29.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The exact no-code stack used to build a high-converting waitlist page in 2 hours.",
+      "line2": "LAUNCH MVP IN 2-HOURS",
+      "tag": "\ud83d\uded1 Rapid MVP validation landing page stack launched in under 2 hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Rapid MVP validation landing page stack launched in under 2 hours",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Rapid MVP validation landing page stack launched in under 2 hours",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

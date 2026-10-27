@@ -1,0 +1,421 @@
+{
+  "page": "page-03",
+  "idea": "Automated supplier price monitoring to protect profit margins",
+  "text": "Stop manually re-entering Shopify customer addresses into your print-on-demand dashboard. Typing customer shipping data into supplier portals during sales spikes creates catastrophic delivery backlogs. Typos in street addresses delay printing queues and ruin your store's reputation with first-time buyers. Integrate the Gelato API directly with your Shopify storefront to automatically route verified orders to local production hubs. This slashes delivery times while giving you your weekends back.",
+  "duration": 30.501,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "manually",
+      "start": 0.46,
+      "end": 0.94
+    },
+    {
+      "word": "re",
+      "start": 0.94,
+      "end": 1.24
+    },
+    {
+      "word": "-entering",
+      "start": 1.24,
+      "end": 1.52
+    },
+    {
+      "word": "Shopify",
+      "start": 1.52,
+      "end": 2.1
+    },
+    {
+      "word": "customer",
+      "start": 2.1,
+      "end": 2.54
+    },
+    {
+      "word": "addresses",
+      "start": 2.54,
+      "end": 3.06
+    },
+    {
+      "word": "into",
+      "start": 3.06,
+      "end": 3.5
+    },
+    {
+      "word": "your",
+      "start": 3.5,
+      "end": 3.76
+    },
+    {
+      "word": "print",
+      "start": 3.76,
+      "end": 4.0
+    },
+    {
+      "word": "-on",
+      "start": 4.0,
+      "end": 4.16
+    },
+    {
+      "word": "-demand",
+      "start": 4.16,
+      "end": 4.5
+    },
+    {
+      "word": "dashboard.",
+      "start": 4.5,
+      "end": 5.16
+    },
+    {
+      "word": "Typing",
+      "start": 5.9,
+      "end": 6.14
+    },
+    {
+      "word": "customer",
+      "start": 6.14,
+      "end": 6.58
+    },
+    {
+      "word": "shipping",
+      "start": 6.58,
+      "end": 6.96
+    },
+    {
+      "word": "data",
+      "start": 6.96,
+      "end": 7.38
+    },
+    {
+      "word": "into",
+      "start": 7.38,
+      "end": 7.6
+    },
+    {
+      "word": "supplier",
+      "start": 7.6,
+      "end": 8.02
+    },
+    {
+      "word": "portals",
+      "start": 8.02,
+      "end": 8.48
+    },
+    {
+      "word": "during",
+      "start": 8.48,
+      "end": 8.88
+    },
+    {
+      "word": "sales",
+      "start": 8.88,
+      "end": 9.24
+    },
+    {
+      "word": "spikes",
+      "start": 9.24,
+      "end": 9.78
+    },
+    {
+      "word": "creates",
+      "start": 9.78,
+      "end": 10.42
+    },
+    {
+      "word": "catastrophic",
+      "start": 10.42,
+      "end": 11.1
+    },
+    {
+      "word": "delivery",
+      "start": 11.1,
+      "end": 11.62
+    },
+    {
+      "word": "backlogs.",
+      "start": 11.62,
+      "end": 12.56
+    },
+    {
+      "word": "Typos",
+      "start": 12.82,
+      "end": 13.12
+    },
+    {
+      "word": "in",
+      "start": 13.12,
+      "end": 13.38
+    },
+    {
+      "word": "street",
+      "start": 13.38,
+      "end": 13.54
+    },
+    {
+      "word": "addresses",
+      "start": 13.54,
+      "end": 14.08
+    },
+    {
+      "word": "delay",
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "word": "printing",
+      "start": 14.4,
+      "end": 14.78
+    },
+    {
+      "word": "queues",
+      "start": 14.78,
+      "end": 15.2
+    },
+    {
+      "word": "and",
+      "start": 15.2,
+      "end": 15.58
+    },
+    {
+      "word": "ruin",
+      "start": 15.58,
+      "end": 15.8
+    },
+    {
+      "word": "your",
+      "start": 15.8,
+      "end": 16.06
+    },
+    {
+      "word": "store's",
+      "start": 16.06,
+      "end": 16.52
+    },
+    {
+      "word": "reputation",
+      "start": 16.52,
+      "end": 16.92
+    },
+    {
+      "word": "with",
+      "start": 16.92,
+      "end": 17.32
+    },
+    {
+      "word": "first",
+      "start": 17.32,
+      "end": 17.66
+    },
+    {
+      "word": "-time",
+      "start": 17.66,
+      "end": 17.98
+    },
+    {
+      "word": "buyers.",
+      "start": 17.98,
+      "end": 18.44
+    },
+    {
+      "word": "Integrate",
+      "start": 19.14,
+      "end": 19.38
+    },
+    {
+      "word": "the",
+      "start": 19.38,
+      "end": 19.64
+    },
+    {
+      "word": "Gelato",
+      "start": 19.64,
+      "end": 20.08
+    },
+    {
+      "word": "API",
+      "start": 20.08,
+      "end": 20.64
+    },
+    {
+      "word": "directly",
+      "start": 20.64,
+      "end": 21.16
+    },
+    {
+      "word": "with",
+      "start": 21.16,
+      "end": 21.44
+    },
+    {
+      "word": "your",
+      "start": 21.44,
+      "end": 21.84
+    },
+    {
+      "word": "Shopify",
+      "start": 21.84,
+      "end": 22.22
+    },
+    {
+      "word": "storefront",
+      "start": 22.22,
+      "end": 22.68
+    },
+    {
+      "word": "to",
+      "start": 22.68,
+      "end": 23.38
+    },
+    {
+      "word": "automatically",
+      "start": 23.38,
+      "end": 23.84
+    },
+    {
+      "word": "route",
+      "start": 23.84,
+      "end": 24.34
+    },
+    {
+      "word": "verified",
+      "start": 24.34,
+      "end": 24.84
+    },
+    {
+      "word": "orders",
+      "start": 24.84,
+      "end": 25.26
+    },
+    {
+      "word": "to",
+      "start": 25.26,
+      "end": 25.52
+    },
+    {
+      "word": "local",
+      "start": 25.52,
+      "end": 25.78
+    },
+    {
+      "word": "production",
+      "start": 25.78,
+      "end": 26.22
+    },
+    {
+      "word": "hubs.",
+      "start": 26.22,
+      "end": 26.68
+    },
+    {
+      "word": "This",
+      "start": 26.68,
+      "end": 27.48
+    },
+    {
+      "word": "slash",
+      "start": 27.48,
+      "end": 27.74
+    },
+    {
+      "word": "is",
+      "start": 27.74,
+      "end": 28.08
+    },
+    {
+      "word": "delivery",
+      "start": 28.08,
+      "end": 28.32
+    },
+    {
+      "word": "times",
+      "start": 28.32,
+      "end": 28.88
+    },
+    {
+      "word": "while",
+      "start": 28.88,
+      "end": 29.1
+    },
+    {
+      "word": "giving",
+      "start": 29.1,
+      "end": 29.32
+    },
+    {
+      "word": "you",
+      "start": 29.32,
+      "end": 29.58
+    },
+    {
+      "word": "your",
+      "start": 29.58,
+      "end": 29.78
+    },
+    {
+      "word": "weekends",
+      "start": 29.78,
+      "end": 30.04
+    },
+    {
+      "word": "back.",
+      "start": 30.04,
+      "end": 30.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "This free tool tracks supplier pricing changes and alerts you the second they update.",
+      "line2": "PROTECT PROFIT MARGINS",
+      "tag": "\ud83d\uded1 Automated supplier price monitoring to protect profit margins",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated supplier price monitoring to protect profit margins",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated supplier price monitoring to protect profit margins",
+        "subtitle": "Automated supplier price monitoring to protect profit margins"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated supplier price monitoring to protect profit margins"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated supplier price monitoring to protect profit margins"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated supplier price monitoring to protect profit margins",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

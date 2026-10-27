@@ -1,0 +1,421 @@
+{
+  "page": "page-09",
+  "idea": "Loom vs Tella: which screen recording tool makes better client demos",
+  "text": "The head-to-head comparison between the two biggest screen recording apps. When communicating bug reports to engineers, Loom provides instant cloud sharing before you even finish talking. However, using Loom for paid course materials or sales demos leaves your footage looking flat and uninspired. Tella solves this by providing modular scene reordering, custom aspect ratios, and studio-grade subtitle generation. Pick Loom for team updates and Tella for customer content.",
+  "duration": 29.007,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "head",
+      "start": 0.2,
+      "end": 0.4
+    },
+    {
+      "word": "-to",
+      "start": 0.4,
+      "end": 0.46
+    },
+    {
+      "word": "-head",
+      "start": 0.46,
+      "end": 0.7
+    },
+    {
+      "word": "comparison",
+      "start": 0.7,
+      "end": 1.1
+    },
+    {
+      "word": "between",
+      "start": 1.1,
+      "end": 1.54
+    },
+    {
+      "word": "the",
+      "start": 1.54,
+      "end": 1.74
+    },
+    {
+      "word": "two",
+      "start": 1.74,
+      "end": 2.0
+    },
+    {
+      "word": "biggest",
+      "start": 2.0,
+      "end": 2.34
+    },
+    {
+      "word": "screen",
+      "start": 2.34,
+      "end": 2.72
+    },
+    {
+      "word": "recording",
+      "start": 2.72,
+      "end": 3.2
+    },
+    {
+      "word": "apps.",
+      "start": 3.2,
+      "end": 3.56
+    },
+    {
+      "word": "When",
+      "start": 4.04,
+      "end": 4.28
+    },
+    {
+      "word": "communicating",
+      "start": 4.28,
+      "end": 4.68
+    },
+    {
+      "word": "bug",
+      "start": 4.68,
+      "end": 5.04
+    },
+    {
+      "word": "reports",
+      "start": 5.04,
+      "end": 5.42
+    },
+    {
+      "word": "to",
+      "start": 5.42,
+      "end": 5.68
+    },
+    {
+      "word": "engineers,",
+      "start": 5.68,
+      "end": 6.18
+    },
+    {
+      "word": "Loom",
+      "start": 6.6,
+      "end": 6.78
+    },
+    {
+      "word": "provides",
+      "start": 6.78,
+      "end": 7.24
+    },
+    {
+      "word": "instant",
+      "start": 7.24,
+      "end": 7.74
+    },
+    {
+      "word": "cloud",
+      "start": 7.74,
+      "end": 8.14
+    },
+    {
+      "word": "sharing",
+      "start": 8.14,
+      "end": 8.5
+    },
+    {
+      "word": "before",
+      "start": 8.5,
+      "end": 8.82
+    },
+    {
+      "word": "you",
+      "start": 8.82,
+      "end": 9.04
+    },
+    {
+      "word": "even",
+      "start": 9.04,
+      "end": 9.32
+    },
+    {
+      "word": "finish",
+      "start": 9.32,
+      "end": 9.58
+    },
+    {
+      "word": "talking.",
+      "start": 9.58,
+      "end": 10.12
+    },
+    {
+      "word": "However,",
+      "start": 10.7,
+      "end": 11.12
+    },
+    {
+      "word": "using",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "word": "Loom",
+      "start": 11.76,
+      "end": 12.04
+    },
+    {
+      "word": "for",
+      "start": 12.04,
+      "end": 12.28
+    },
+    {
+      "word": "paid",
+      "start": 12.28,
+      "end": 12.56
+    },
+    {
+      "word": "course",
+      "start": 12.56,
+      "end": 12.86
+    },
+    {
+      "word": "materials",
+      "start": 12.86,
+      "end": 13.32
+    },
+    {
+      "word": "or",
+      "start": 13.32,
+      "end": 13.86
+    },
+    {
+      "word": "sales",
+      "start": 13.86,
+      "end": 14.26
+    },
+    {
+      "word": "demos",
+      "start": 14.26,
+      "end": 14.66
+    },
+    {
+      "word": "leaves",
+      "start": 14.66,
+      "end": 15.04
+    },
+    {
+      "word": "your",
+      "start": 15.04,
+      "end": 15.3
+    },
+    {
+      "word": "footage",
+      "start": 15.3,
+      "end": 15.56
+    },
+    {
+      "word": "looking",
+      "start": 15.56,
+      "end": 15.98
+    },
+    {
+      "word": "flat",
+      "start": 15.98,
+      "end": 16.34
+    },
+    {
+      "word": "and",
+      "start": 16.34,
+      "end": 16.64
+    },
+    {
+      "word": "uninspired.",
+      "start": 16.64,
+      "end": 17.18
+    },
+    {
+      "word": "Tell",
+      "start": 17.66,
+      "end": 17.84
+    },
+    {
+      "word": "us",
+      "start": 17.84,
+      "end": 18.1
+    },
+    {
+      "word": "solves",
+      "start": 18.1,
+      "end": 18.36
+    },
+    {
+      "word": "this",
+      "start": 18.36,
+      "end": 18.66
+    },
+    {
+      "word": "by",
+      "start": 18.66,
+      "end": 18.9
+    },
+    {
+      "word": "providing",
+      "start": 18.9,
+      "end": 19.4
+    },
+    {
+      "word": "modular",
+      "start": 19.4,
+      "end": 19.86
+    },
+    {
+      "word": "scene",
+      "start": 19.86,
+      "end": 20.34
+    },
+    {
+      "word": "reordering,",
+      "start": 20.34,
+      "end": 20.94
+    },
+    {
+      "word": "custom",
+      "start": 21.52,
+      "end": 21.72
+    },
+    {
+      "word": "aspect",
+      "start": 21.72,
+      "end": 22.16
+    },
+    {
+      "word": "ratios,",
+      "start": 22.16,
+      "end": 22.68
+    },
+    {
+      "word": "and",
+      "start": 23.08,
+      "end": 23.34
+    },
+    {
+      "word": "studio",
+      "start": 23.34,
+      "end": 23.64
+    },
+    {
+      "word": "grade",
+      "start": 23.64,
+      "end": 24.12
+    },
+    {
+      "word": "subtitle",
+      "start": 24.12,
+      "end": 24.62
+    },
+    {
+      "word": "generation.",
+      "start": 24.62,
+      "end": 25.32
+    },
+    {
+      "word": "Pick",
+      "start": 25.32,
+      "end": 26.18
+    },
+    {
+      "word": "Loom",
+      "start": 26.18,
+      "end": 26.42
+    },
+    {
+      "word": "for",
+      "start": 26.42,
+      "end": 26.7
+    },
+    {
+      "word": "team",
+      "start": 26.7,
+      "end": 26.92
+    },
+    {
+      "word": "updates",
+      "start": 26.92,
+      "end": 27.28
+    },
+    {
+      "word": "and",
+      "start": 27.28,
+      "end": 27.56
+    },
+    {
+      "word": "tele",
+      "start": 27.56,
+      "end": 27.74
+    },
+    {
+      "word": "for",
+      "start": 27.74,
+      "end": 28.2
+    },
+    {
+      "word": "customer",
+      "start": 28.2,
+      "end": 28.38
+    },
+    {
+      "word": "content.",
+      "start": 28.38,
+      "end": 28.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The head-to-head comparison between the two biggest screen recording apps.",
+      "line2": "LOOM VS TELLA",
+      "tag": "\ud83d\uded1 Loom vs Tella",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Loom vs Tella",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Loom vs Tella",
+        "subtitle": "Loom vs Tella"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Loom vs Tella"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Loom vs Tella"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Loom vs Tella",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

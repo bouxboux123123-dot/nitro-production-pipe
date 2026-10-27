@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to password managers: never forget a password again",
+  "text": "Here is the essential digital safety step every beginner needs to take this afternoon. Writing passwords on sticky notes or keeping them in text files leaves you vulnerable to leaks. Simple passwords take automated brute-force cracking tools only seconds to crack and compromise your accounts. Set up an encrypted password manager like 1Password or Bitwarden to manage randomized, complex credentials. You will lock down your digital life immediately.",
+  "duration": 25.344,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.44
+    },
+    {
+      "word": "the",
+      "start": 0.44,
+      "end": 0.88
+    },
+    {
+      "word": "essential",
+      "start": 0.88,
+      "end": 0.9
+    },
+    {
+      "word": "digital",
+      "start": 0.9,
+      "end": 1.32
+    },
+    {
+      "word": "safety",
+      "start": 1.32,
+      "end": 1.66
+    },
+    {
+      "word": "step",
+      "start": 1.66,
+      "end": 2.08
+    },
+    {
+      "word": "every",
+      "start": 2.08,
+      "end": 2.38
+    },
+    {
+      "word": "beginner",
+      "start": 2.38,
+      "end": 2.64
+    },
+    {
+      "word": "needs",
+      "start": 2.64,
+      "end": 3.02
+    },
+    {
+      "word": "to",
+      "start": 3.02,
+      "end": 3.2
+    },
+    {
+      "word": "take",
+      "start": 3.2,
+      "end": 3.42
+    },
+    {
+      "word": "this",
+      "start": 3.42,
+      "end": 3.66
+    },
+    {
+      "word": "afternoon.",
+      "start": 3.66,
+      "end": 4.3
+    },
+    {
+      "word": "Writing",
+      "start": 4.94,
+      "end": 4.96
+    },
+    {
+      "word": "passwords",
+      "start": 4.96,
+      "end": 5.36
+    },
+    {
+      "word": "on",
+      "start": 5.36,
+      "end": 5.66
+    },
+    {
+      "word": "sticky",
+      "start": 5.66,
+      "end": 5.88
+    },
+    {
+      "word": "notes",
+      "start": 5.88,
+      "end": 6.18
+    },
+    {
+      "word": "or",
+      "start": 6.18,
+      "end": 6.6
+    },
+    {
+      "word": "keeping",
+      "start": 6.6,
+      "end": 6.86
+    },
+    {
+      "word": "them",
+      "start": 6.86,
+      "end": 7.08
+    },
+    {
+      "word": "in",
+      "start": 7.08,
+      "end": 7.3
+    },
+    {
+      "word": "text",
+      "start": 7.3,
+      "end": 7.44
+    },
+    {
+      "word": "files",
+      "start": 7.44,
+      "end": 7.92
+    },
+    {
+      "word": "leaves",
+      "start": 7.92,
+      "end": 8.42
+    },
+    {
+      "word": "you",
+      "start": 8.42,
+      "end": 8.64
+    },
+    {
+      "word": "vulnerable",
+      "start": 8.64,
+      "end": 8.96
+    },
+    {
+      "word": "to",
+      "start": 8.96,
+      "end": 9.28
+    },
+    {
+      "word": "leaks.",
+      "start": 9.28,
+      "end": 9.62
+    },
+    {
+      "word": "Simple",
+      "start": 10.24,
+      "end": 10.4
+    },
+    {
+      "word": "passwords",
+      "start": 10.4,
+      "end": 10.8
+    },
+    {
+      "word": "take",
+      "start": 10.8,
+      "end": 11.24
+    },
+    {
+      "word": "automated",
+      "start": 11.24,
+      "end": 11.64
+    },
+    {
+      "word": "brute",
+      "start": 11.64,
+      "end": 11.98
+    },
+    {
+      "word": "force",
+      "start": 11.98,
+      "end": 12.2
+    },
+    {
+      "word": "cracking",
+      "start": 12.2,
+      "end": 12.54
+    },
+    {
+      "word": "tools",
+      "start": 12.54,
+      "end": 13.0
+    },
+    {
+      "word": "only",
+      "start": 13.0,
+      "end": 13.4
+    },
+    {
+      "word": "seconds",
+      "start": 13.4,
+      "end": 13.7
+    },
+    {
+      "word": "to",
+      "start": 13.7,
+      "end": 13.98
+    },
+    {
+      "word": "crack",
+      "start": 13.98,
+      "end": 14.28
+    },
+    {
+      "word": "and",
+      "start": 14.28,
+      "end": 14.78
+    },
+    {
+      "word": "compromise",
+      "start": 14.78,
+      "end": 14.88
+    },
+    {
+      "word": "your",
+      "start": 14.88,
+      "end": 15.22
+    },
+    {
+      "word": "accounts.",
+      "start": 15.22,
+      "end": 15.72
+    },
+    {
+      "word": "Set",
+      "start": 16.2,
+      "end": 16.36
+    },
+    {
+      "word": "up",
+      "start": 16.36,
+      "end": 16.52
+    },
+    {
+      "word": "an",
+      "start": 16.52,
+      "end": 16.68
+    },
+    {
+      "word": "encrypted",
+      "start": 16.68,
+      "end": 17.0
+    },
+    {
+      "word": "password",
+      "start": 17.0,
+      "end": 17.5
+    },
+    {
+      "word": "manager",
+      "start": 17.5,
+      "end": 17.92
+    },
+    {
+      "word": "like",
+      "start": 17.92,
+      "end": 18.26
+    },
+    {
+      "word": "one",
+      "start": 18.26,
+      "end": 18.54
+    },
+    {
+      "word": "password",
+      "start": 18.54,
+      "end": 18.94
+    },
+    {
+      "word": "or",
+      "start": 18.94,
+      "end": 19.38
+    },
+    {
+      "word": "Bitwarden",
+      "start": 19.38,
+      "end": 19.98
+    },
+    {
+      "word": "to",
+      "start": 19.98,
+      "end": 20.34
+    },
+    {
+      "word": "manage",
+      "start": 20.34,
+      "end": 20.7
+    },
+    {
+      "word": "randomized",
+      "start": 20.7,
+      "end": 21.34
+    },
+    {
+      "word": "complex",
+      "start": 21.34,
+      "end": 22.02
+    },
+    {
+      "word": "credentials.",
+      "start": 22.02,
+      "end": 22.56
+    },
+    {
+      "word": "You",
+      "start": 23.12,
+      "end": 23.3
+    },
+    {
+      "word": "will",
+      "start": 23.3,
+      "end": 23.46
+    },
+    {
+      "word": "lock",
+      "start": 23.46,
+      "end": 23.64
+    },
+    {
+      "word": "down",
+      "start": 23.64,
+      "end": 23.92
+    },
+    {
+      "word": "your",
+      "start": 23.92,
+      "end": 24.12
+    },
+    {
+      "word": "digital",
+      "start": 24.12,
+      "end": 24.4
+    },
+    {
+      "word": "life",
+      "start": 24.4,
+      "end": 24.76
+    },
+    {
+      "word": "immediately.",
+      "start": 24.76,
+      "end": 25.18
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The essential digital safety step every beginner needs to take this afternoon.",
+      "line2": "NEVER FORGET PASSWORDS",
+      "tag": "\ud83d\uded1 Beginner guide to password managers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to password managers",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to password managers",
+        "subtitle": "Beginner guide to password managers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to password managers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to password managers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to password managers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

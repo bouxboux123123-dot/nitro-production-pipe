@@ -1,0 +1,406 @@
+{
+  "page": "page-01",
+  "idea": "SOP delegation framework: how to turn tasks into foolproof video guides",
+  "text": "Stop taking work back from team members because it feels faster to do it yourself. Stepping back into daily fulfillment eats fifteen hours weekly, trapping you in low-value client tasks. Fixing mistakes yourself reinforces employee dependency and prevents your team from taking true accountability. Deploy an SOP audit template in Airtable that logs bottlenecks and assigns standardized Loom video SOPs. You reclaim your week while scaling team autonomy.",
+  "duration": 25.515,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "taking",
+      "start": 0.28,
+      "end": 0.58
+    },
+    {
+      "word": "work",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "back",
+      "start": 0.86,
+      "end": 1.08
+    },
+    {
+      "word": "from",
+      "start": 1.08,
+      "end": 1.26
+    },
+    {
+      "word": "team",
+      "start": 1.26,
+      "end": 1.48
+    },
+    {
+      "word": "members",
+      "start": 1.48,
+      "end": 1.8
+    },
+    {
+      "word": "because",
+      "start": 1.8,
+      "end": 2.12
+    },
+    {
+      "word": "it",
+      "start": 2.12,
+      "end": 2.28
+    },
+    {
+      "word": "feels",
+      "start": 2.28,
+      "end": 2.48
+    },
+    {
+      "word": "faster",
+      "start": 2.48,
+      "end": 2.84
+    },
+    {
+      "word": "to",
+      "start": 2.84,
+      "end": 3.06
+    },
+    {
+      "word": "do",
+      "start": 3.06,
+      "end": 3.2
+    },
+    {
+      "word": "it",
+      "start": 3.2,
+      "end": 3.3
+    },
+    {
+      "word": "yourself.",
+      "start": 3.3,
+      "end": 3.98
+    },
+    {
+      "word": "Stepping",
+      "start": 4.44,
+      "end": 4.6
+    },
+    {
+      "word": "back",
+      "start": 4.6,
+      "end": 4.9
+    },
+    {
+      "word": "into",
+      "start": 4.9,
+      "end": 5.12
+    },
+    {
+      "word": "daily",
+      "start": 5.12,
+      "end": 5.4
+    },
+    {
+      "word": "fulfillment",
+      "start": 5.4,
+      "end": 5.82
+    },
+    {
+      "word": "eats",
+      "start": 5.82,
+      "end": 6.2
+    },
+    {
+      "word": "15",
+      "start": 6.2,
+      "end": 6.52
+    },
+    {
+      "word": "hours",
+      "start": 6.52,
+      "end": 6.86
+    },
+    {
+      "word": "weekly,",
+      "start": 6.86,
+      "end": 7.4
+    },
+    {
+      "word": "trapping",
+      "start": 7.78,
+      "end": 7.88
+    },
+    {
+      "word": "you",
+      "start": 7.88,
+      "end": 8.12
+    },
+    {
+      "word": "in",
+      "start": 8.12,
+      "end": 8.22
+    },
+    {
+      "word": "low",
+      "start": 8.22,
+      "end": 8.44
+    },
+    {
+      "word": "value",
+      "start": 8.44,
+      "end": 8.74
+    },
+    {
+      "word": "client",
+      "start": 8.74,
+      "end": 9.1
+    },
+    {
+      "word": "tasks.",
+      "start": 9.1,
+      "end": 9.52
+    },
+    {
+      "word": "Fixing",
+      "start": 10.16,
+      "end": 10.42
+    },
+    {
+      "word": "mistakes",
+      "start": 10.42,
+      "end": 10.72
+    },
+    {
+      "word": "yourself",
+      "start": 10.72,
+      "end": 11.22
+    },
+    {
+      "word": "reinforces",
+      "start": 11.22,
+      "end": 11.7
+    },
+    {
+      "word": "employee",
+      "start": 11.7,
+      "end": 12.3
+    },
+    {
+      "word": "dependency",
+      "start": 12.3,
+      "end": 12.86
+    },
+    {
+      "word": "and",
+      "start": 12.86,
+      "end": 13.5
+    },
+    {
+      "word": "prevents",
+      "start": 13.5,
+      "end": 13.66
+    },
+    {
+      "word": "your",
+      "start": 13.66,
+      "end": 13.96
+    },
+    {
+      "word": "team",
+      "start": 13.96,
+      "end": 14.14
+    },
+    {
+      "word": "from",
+      "start": 14.14,
+      "end": 14.34
+    },
+    {
+      "word": "taking",
+      "start": 14.34,
+      "end": 14.64
+    },
+    {
+      "word": "true",
+      "start": 14.64,
+      "end": 14.9
+    },
+    {
+      "word": "accountability.",
+      "start": 14.9,
+      "end": 15.5
+    },
+    {
+      "word": "Deploy",
+      "start": 16.24,
+      "end": 16.46
+    },
+    {
+      "word": "an",
+      "start": 16.46,
+      "end": 16.7
+    },
+    {
+      "word": "SOP",
+      "start": 16.7,
+      "end": 17.22
+    },
+    {
+      "word": "audit",
+      "start": 17.22,
+      "end": 17.48
+    },
+    {
+      "word": "template",
+      "start": 17.48,
+      "end": 17.84
+    },
+    {
+      "word": "in",
+      "start": 17.84,
+      "end": 18.06
+    },
+    {
+      "word": "Airtable",
+      "start": 18.06,
+      "end": 18.42
+    },
+    {
+      "word": "that",
+      "start": 18.42,
+      "end": 18.7
+    },
+    {
+      "word": "logs",
+      "start": 18.7,
+      "end": 19.0
+    },
+    {
+      "word": "bottlenecks",
+      "start": 19.0,
+      "end": 19.9
+    },
+    {
+      "word": "and",
+      "start": 19.9,
+      "end": 20.1
+    },
+    {
+      "word": "assigns",
+      "start": 20.1,
+      "end": 20.48
+    },
+    {
+      "word": "standardized",
+      "start": 20.48,
+      "end": 21.14
+    },
+    {
+      "word": "loom",
+      "start": 21.14,
+      "end": 21.52
+    },
+    {
+      "word": "video",
+      "start": 21.52,
+      "end": 21.82
+    },
+    {
+      "word": "SOPs.",
+      "start": 21.82,
+      "end": 22.56
+    },
+    {
+      "word": "You",
+      "start": 22.98,
+      "end": 23.2
+    },
+    {
+      "word": "reclaim",
+      "start": 23.2,
+      "end": 23.38
+    },
+    {
+      "word": "your",
+      "start": 23.38,
+      "end": 23.66
+    },
+    {
+      "word": "week",
+      "start": 23.66,
+      "end": 23.9
+    },
+    {
+      "word": "while",
+      "start": 23.9,
+      "end": 24.18
+    },
+    {
+      "word": "scaling",
+      "start": 24.18,
+      "end": 24.5
+    },
+    {
+      "word": "team",
+      "start": 24.5,
+      "end": 24.96
+    },
+    {
+      "word": "autonomy.",
+      "start": 24.96,
+      "end": 25.36
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop taking work back from team members because 'it's faster to do it myself.",
+      "line2": "FOOLPROOF VIDEO SOPS",
+      "tag": "\ud83d\uded1 SOP delegation framework",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: SOP delegation framework",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: SOP delegation framework",
+        "subtitle": "SOP delegation framework"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "SOP delegation framework"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "SOP delegation framework"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "SOP delegation framework",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

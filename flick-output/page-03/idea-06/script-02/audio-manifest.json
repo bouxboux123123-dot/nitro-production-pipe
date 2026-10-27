@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated lead generation scraper for local service business clients",
+  "text": "Stop manually scrolling Google Maps searching for potential side hustle clients. Copying business names, phone numbers, and broken links into spreadsheets eats up your entire weekend. Tedious data entry produces stale lead lists full of generic info emails that bounce immediately. Connect Apify to scrape local profiles, filtering non-mobile websites and pushing owner emails straight to Smartlead. You fill your pipeline with eager clients while protecting your evenings.",
+  "duration": 28.261,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "manually",
+      "start": 0.36,
+      "end": 0.76
+    },
+    {
+      "word": "scrolling",
+      "start": 0.76,
+      "end": 1.3
+    },
+    {
+      "word": "Google",
+      "start": 1.3,
+      "end": 1.68
+    },
+    {
+      "word": "Maps",
+      "start": 1.68,
+      "end": 2.04
+    },
+    {
+      "word": "searching",
+      "start": 2.04,
+      "end": 2.44
+    },
+    {
+      "word": "for",
+      "start": 2.44,
+      "end": 2.7
+    },
+    {
+      "word": "potential",
+      "start": 2.7,
+      "end": 3.14
+    },
+    {
+      "word": "side",
+      "start": 3.14,
+      "end": 3.52
+    },
+    {
+      "word": "hustle",
+      "start": 3.52,
+      "end": 3.86
+    },
+    {
+      "word": "clients.",
+      "start": 3.86,
+      "end": 4.32
+    },
+    {
+      "word": "Copying",
+      "start": 4.88,
+      "end": 5.28
+    },
+    {
+      "word": "business",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "word": "names,",
+      "start": 5.6,
+      "end": 6.08
+    },
+    {
+      "word": "phone",
+      "start": 6.6,
+      "end": 6.66
+    },
+    {
+      "word": "numbers,",
+      "start": 6.66,
+      "end": 7.04
+    },
+    {
+      "word": "and",
+      "start": 7.4,
+      "end": 7.62
+    },
+    {
+      "word": "broken",
+      "start": 7.62,
+      "end": 7.9
+    },
+    {
+      "word": "links",
+      "start": 7.9,
+      "end": 8.2
+    },
+    {
+      "word": "into",
+      "start": 8.2,
+      "end": 8.54
+    },
+    {
+      "word": "spreadsheets",
+      "start": 8.54,
+      "end": 9.12
+    },
+    {
+      "word": "eats",
+      "start": 9.12,
+      "end": 9.48
+    },
+    {
+      "word": "up",
+      "start": 9.48,
+      "end": 9.68
+    },
+    {
+      "word": "your",
+      "start": 9.68,
+      "end": 9.9
+    },
+    {
+      "word": "entire",
+      "start": 9.9,
+      "end": 10.3
+    },
+    {
+      "word": "weekend.",
+      "start": 10.3,
+      "end": 10.84
+    },
+    {
+      "word": "TDS",
+      "start": 11.58,
+      "end": 11.82
+    },
+    {
+      "word": "data",
+      "start": 11.82,
+      "end": 12.16
+    },
+    {
+      "word": "entry",
+      "start": 12.16,
+      "end": 12.5
+    },
+    {
+      "word": "produces",
+      "start": 12.5,
+      "end": 13.0
+    },
+    {
+      "word": "stale",
+      "start": 13.0,
+      "end": 13.36
+    },
+    {
+      "word": "lead",
+      "start": 13.36,
+      "end": 13.6
+    },
+    {
+      "word": "lists",
+      "start": 13.6,
+      "end": 13.88
+    },
+    {
+      "word": "full",
+      "start": 13.88,
+      "end": 14.2
+    },
+    {
+      "word": "of",
+      "start": 14.2,
+      "end": 14.38
+    },
+    {
+      "word": "generic",
+      "start": 14.38,
+      "end": 14.78
+    },
+    {
+      "word": "info",
+      "start": 14.78,
+      "end": 15.2
+    },
+    {
+      "word": "emails",
+      "start": 15.2,
+      "end": 15.64
+    },
+    {
+      "word": "that",
+      "start": 15.64,
+      "end": 15.96
+    },
+    {
+      "word": "bounce",
+      "start": 15.96,
+      "end": 16.26
+    },
+    {
+      "word": "immediately.",
+      "start": 16.26,
+      "end": 16.88
+    },
+    {
+      "word": "Connect",
+      "start": 17.52,
+      "end": 17.54
+    },
+    {
+      "word": "a",
+      "start": 17.54,
+      "end": 17.76
+    },
+    {
+      "word": "PIFI",
+      "start": 17.76,
+      "end": 18.02
+    },
+    {
+      "word": "to",
+      "start": 18.02,
+      "end": 18.3
+    },
+    {
+      "word": "scrape",
+      "start": 18.3,
+      "end": 18.6
+    },
+    {
+      "word": "local",
+      "start": 18.6,
+      "end": 18.98
+    },
+    {
+      "word": "profiles,",
+      "start": 18.98,
+      "end": 19.52
+    },
+    {
+      "word": "filtering",
+      "start": 20.26,
+      "end": 20.32
+    },
+    {
+      "word": "non",
+      "start": 20.32,
+      "end": 20.82
+    },
+    {
+      "word": "-mobile",
+      "start": 20.82,
+      "end": 21.08
+    },
+    {
+      "word": "websites",
+      "start": 21.08,
+      "end": 21.56
+    },
+    {
+      "word": "and",
+      "start": 21.56,
+      "end": 21.96
+    },
+    {
+      "word": "pushing",
+      "start": 21.96,
+      "end": 22.34
+    },
+    {
+      "word": "owner",
+      "start": 22.34,
+      "end": 22.66
+    },
+    {
+      "word": "emails",
+      "start": 22.66,
+      "end": 23.12
+    },
+    {
+      "word": "straight",
+      "start": 23.12,
+      "end": 23.48
+    },
+    {
+      "word": "to",
+      "start": 23.48,
+      "end": 23.76
+    },
+    {
+      "word": "smart",
+      "start": 23.76,
+      "end": 24.06
+    },
+    {
+      "word": "lead.",
+      "start": 24.06,
+      "end": 24.44
+    },
+    {
+      "word": "You",
+      "start": 24.88,
+      "end": 25.06
+    },
+    {
+      "word": "fill",
+      "start": 25.06,
+      "end": 25.2
+    },
+    {
+      "word": "your",
+      "start": 25.2,
+      "end": 25.4
+    },
+    {
+      "word": "pipeline",
+      "start": 25.4,
+      "end": 25.76
+    },
+    {
+      "word": "with",
+      "start": 25.76,
+      "end": 26.16
+    },
+    {
+      "word": "eager",
+      "start": 26.16,
+      "end": 26.36
+    },
+    {
+      "word": "clients",
+      "start": 26.36,
+      "end": 26.8
+    },
+    {
+      "word": "while",
+      "start": 26.8,
+      "end": 27.16
+    },
+    {
+      "word": "protecting",
+      "start": 27.16,
+      "end": 27.46
+    },
+    {
+      "word": "your",
+      "start": 27.46,
+      "end": 27.84
+    },
+    {
+      "word": "evenings.",
+      "start": 27.84,
+      "end": 28.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop manually scrolling Google Maps searching for potential side hustle clients.",
+      "line2": "SCRAPE LOCAL LEADS",
+      "tag": "\ud83d\uded1 Automated lead generation scraper for local service business clients",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated lead generation scraper for local service business clients",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated lead generation scraper for local service business clients",
+        "subtitle": "Automated lead generation scraper for local service business clients"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated lead generation scraper for local service business clients"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated lead generation scraper for local service business clients"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated lead generation scraper for local service business clients",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

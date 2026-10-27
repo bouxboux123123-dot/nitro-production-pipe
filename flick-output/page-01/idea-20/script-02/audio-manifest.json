@@ -1,0 +1,431 @@
+{
+  "page": "page-01",
+  "idea": "Offboarding SOP that transitions departing clients with grace and security",
+  "text": "The automated offboarding checklist that revokes access, transfers assets, and requests feedback. Agencies treat client departures as an afterthought, leading to chaotic handoffs, missing files, and awkward administrative disputes. Failing to systematically transition creative assets leaves departing clients frustrated and kills chances of future re-engagement. Connect Asana to Google Drive using Make to compile final deliverables and trigger a Typeform exit evaluation. You turn departing retainers into lifelong brand advocates.",
+  "duration": 33.146,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "automated",
+      "start": 0.24,
+      "end": 0.64
+    },
+    {
+      "word": "off",
+      "start": 0.64,
+      "end": 0.98
+    },
+    {
+      "word": "-boarding",
+      "start": 0.98,
+      "end": 1.22
+    },
+    {
+      "word": "checklist",
+      "start": 1.22,
+      "end": 1.64
+    },
+    {
+      "word": "that",
+      "start": 1.64,
+      "end": 2.0
+    },
+    {
+      "word": "revokes",
+      "start": 2.0,
+      "end": 2.34
+    },
+    {
+      "word": "access,",
+      "start": 2.34,
+      "end": 2.94
+    },
+    {
+      "word": "transfers",
+      "start": 3.58,
+      "end": 3.58
+    },
+    {
+      "word": "assets,",
+      "start": 3.58,
+      "end": 4.16
+    },
+    {
+      "word": "and",
+      "start": 4.36,
+      "end": 4.62
+    },
+    {
+      "word": "requests",
+      "start": 4.62,
+      "end": 4.86
+    },
+    {
+      "word": "feedback.",
+      "start": 4.86,
+      "end": 5.5
+    },
+    {
+      "word": "Agencies",
+      "start": 6.26,
+      "end": 6.68
+    },
+    {
+      "word": "treat",
+      "start": 6.68,
+      "end": 7.04
+    },
+    {
+      "word": "client",
+      "start": 7.04,
+      "end": 7.34
+    },
+    {
+      "word": "departures",
+      "start": 7.34,
+      "end": 7.78
+    },
+    {
+      "word": "as",
+      "start": 7.78,
+      "end": 8.1
+    },
+    {
+      "word": "an",
+      "start": 8.1,
+      "end": 8.26
+    },
+    {
+      "word": "afterthought,",
+      "start": 8.26,
+      "end": 8.92
+    },
+    {
+      "word": "leading",
+      "start": 9.36,
+      "end": 9.36
+    },
+    {
+      "word": "to",
+      "start": 9.36,
+      "end": 9.68
+    },
+    {
+      "word": "chaotic",
+      "start": 9.68,
+      "end": 10.08
+    },
+    {
+      "word": "handoffs,",
+      "start": 10.08,
+      "end": 10.64
+    },
+    {
+      "word": "missing",
+      "start": 11.22,
+      "end": 11.26
+    },
+    {
+      "word": "files,",
+      "start": 11.26,
+      "end": 11.7
+    },
+    {
+      "word": "and",
+      "start": 11.88,
+      "end": 12.1
+    },
+    {
+      "word": "awkward",
+      "start": 12.1,
+      "end": 12.38
+    },
+    {
+      "word": "administrative",
+      "start": 12.38,
+      "end": 13.06
+    },
+    {
+      "word": "disputes,",
+      "start": 13.06,
+      "end": 13.58
+    },
+    {
+      "word": "failing",
+      "start": 14.2,
+      "end": 14.3
+    },
+    {
+      "word": "to",
+      "start": 14.3,
+      "end": 14.66
+    },
+    {
+      "word": "systematically",
+      "start": 14.66,
+      "end": 15.1
+    },
+    {
+      "word": "transition",
+      "start": 15.1,
+      "end": 15.86
+    },
+    {
+      "word": "creative",
+      "start": 15.86,
+      "end": 16.38
+    },
+    {
+      "word": "assets,",
+      "start": 16.38,
+      "end": 16.86
+    },
+    {
+      "word": "leaves",
+      "start": 17.24,
+      "end": 17.52
+    },
+    {
+      "word": "departing",
+      "start": 17.52,
+      "end": 17.96
+    },
+    {
+      "word": "clients",
+      "start": 17.96,
+      "end": 18.54
+    },
+    {
+      "word": "frustrated",
+      "start": 18.54,
+      "end": 19.06
+    },
+    {
+      "word": "and",
+      "start": 19.06,
+      "end": 19.54
+    },
+    {
+      "word": "kills",
+      "start": 19.54,
+      "end": 19.9
+    },
+    {
+      "word": "chances",
+      "start": 19.9,
+      "end": 20.36
+    },
+    {
+      "word": "of",
+      "start": 20.36,
+      "end": 20.66
+    },
+    {
+      "word": "future",
+      "start": 20.66,
+      "end": 20.92
+    },
+    {
+      "word": "re",
+      "start": 20.92,
+      "end": 21.1
+    },
+    {
+      "word": "-engagement.",
+      "start": 21.1,
+      "end": 21.56
+    },
+    {
+      "word": "Connect",
+      "start": 22.28,
+      "end": 22.56
+    },
+    {
+      "word": "a",
+      "start": 22.56,
+      "end": 22.82
+    },
+    {
+      "word": "sauna",
+      "start": 22.82,
+      "end": 23.06
+    },
+    {
+      "word": "to",
+      "start": 23.06,
+      "end": 23.34
+    },
+    {
+      "word": "Google",
+      "start": 23.34,
+      "end": 23.66
+    },
+    {
+      "word": "Drive",
+      "start": 23.66,
+      "end": 24.04
+    },
+    {
+      "word": "using",
+      "start": 24.04,
+      "end": 24.46
+    },
+    {
+      "word": "make",
+      "start": 24.46,
+      "end": 24.7
+    },
+    {
+      "word": "-to",
+      "start": 24.7,
+      "end": 24.88
+    },
+    {
+      "word": "-compile",
+      "start": 24.88,
+      "end": 25.28
+    },
+    {
+      "word": "final",
+      "start": 25.28,
+      "end": 25.74
+    },
+    {
+      "word": "deliverables",
+      "start": 25.74,
+      "end": 26.36
+    },
+    {
+      "word": "and",
+      "start": 26.36,
+      "end": 26.9
+    },
+    {
+      "word": "trigger",
+      "start": 26.9,
+      "end": 27.16
+    },
+    {
+      "word": "a",
+      "start": 27.16,
+      "end": 27.42
+    },
+    {
+      "word": "type",
+      "start": 27.42,
+      "end": 27.68
+    },
+    {
+      "word": "form",
+      "start": 27.68,
+      "end": 27.98
+    },
+    {
+      "word": "exit",
+      "start": 27.98,
+      "end": 28.32
+    },
+    {
+      "word": "evaluation.",
+      "start": 28.32,
+      "end": 29.02
+    },
+    {
+      "word": "You",
+      "start": 29.02,
+      "end": 29.84
+    },
+    {
+      "word": "turn",
+      "start": 29.84,
+      "end": 30.12
+    },
+    {
+      "word": "departing",
+      "start": 30.12,
+      "end": 30.64
+    },
+    {
+      "word": "retainers",
+      "start": 30.64,
+      "end": 31.24
+    },
+    {
+      "word": "into",
+      "start": 31.24,
+      "end": 31.5
+    },
+    {
+      "word": "lifelong",
+      "start": 31.5,
+      "end": 32.02
+    },
+    {
+      "word": "brand",
+      "start": 32.02,
+      "end": 32.5
+    },
+    {
+      "word": "advocates.",
+      "start": 32.5,
+      "end": 33.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The automated offboarding checklist that revokes access, transfers assets, and requests feedback.",
+      "line2": "SEAMLESS CLIENT OFFBOARDING",
+      "tag": "\ud83d\uded1 Offboarding SOP that transitions departing clients with grace and security",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

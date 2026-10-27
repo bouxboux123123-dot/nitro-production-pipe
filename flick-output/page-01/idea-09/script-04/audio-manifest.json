@@ -1,0 +1,401 @@
+{
+  "page": "page-01",
+  "idea": "Automated QA checklist that audits deliverables before client review",
+  "text": "How elite agencies maintain flawless quality control across hundreds of assets a month. As your agency scales, managing revisions across dozens of concurrent ad campaigns creates operational chaos. Without automated stage gates, unfinished deliverables accidentally bypass senior review and land directly in client inboxes. Connect Notion to ClickUp with webhooks that block client sharing until QA checks hit one hundred percent. You safeguard client trust while scaling production seamlessly.",
+  "duration": 31.141,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "elite",
+      "start": 0.24,
+      "end": 0.58
+    },
+    {
+      "word": "agencies",
+      "start": 0.58,
+      "end": 1.08
+    },
+    {
+      "word": "maintain",
+      "start": 1.08,
+      "end": 1.86
+    },
+    {
+      "word": "flawless",
+      "start": 1.86,
+      "end": 2.3
+    },
+    {
+      "word": "quality",
+      "start": 2.3,
+      "end": 2.76
+    },
+    {
+      "word": "control",
+      "start": 2.76,
+      "end": 3.26
+    },
+    {
+      "word": "across",
+      "start": 3.26,
+      "end": 3.74
+    },
+    {
+      "word": "hundreds",
+      "start": 3.74,
+      "end": 4.08
+    },
+    {
+      "word": "of",
+      "start": 4.08,
+      "end": 4.32
+    },
+    {
+      "word": "assets",
+      "start": 4.32,
+      "end": 4.62
+    },
+    {
+      "word": "a",
+      "start": 4.62,
+      "end": 4.82
+    },
+    {
+      "word": "month.",
+      "start": 4.82,
+      "end": 5.3
+    },
+    {
+      "word": "As",
+      "start": 5.64,
+      "end": 5.8
+    },
+    {
+      "word": "your",
+      "start": 5.8,
+      "end": 6.0
+    },
+    {
+      "word": "agency",
+      "start": 6.0,
+      "end": 6.44
+    },
+    {
+      "word": "scales,",
+      "start": 6.44,
+      "end": 6.98
+    },
+    {
+      "word": "managing",
+      "start": 7.3,
+      "end": 7.68
+    },
+    {
+      "word": "revisions",
+      "start": 7.68,
+      "end": 8.22
+    },
+    {
+      "word": "across",
+      "start": 8.22,
+      "end": 8.72
+    },
+    {
+      "word": "dozens",
+      "start": 8.72,
+      "end": 9.08
+    },
+    {
+      "word": "of",
+      "start": 9.08,
+      "end": 9.42
+    },
+    {
+      "word": "concurrent",
+      "start": 9.42,
+      "end": 9.82
+    },
+    {
+      "word": "ad",
+      "start": 9.82,
+      "end": 10.16
+    },
+    {
+      "word": "campaigns",
+      "start": 10.16,
+      "end": 10.68
+    },
+    {
+      "word": "creates",
+      "start": 10.68,
+      "end": 11.46
+    },
+    {
+      "word": "operational",
+      "start": 11.46,
+      "end": 12.12
+    },
+    {
+      "word": "chaos.",
+      "start": 12.12,
+      "end": 12.72
+    },
+    {
+      "word": "Without",
+      "start": 13.16,
+      "end": 13.54
+    },
+    {
+      "word": "automated",
+      "start": 13.54,
+      "end": 13.92
+    },
+    {
+      "word": "stage",
+      "start": 13.92,
+      "end": 14.44
+    },
+    {
+      "word": "gates,",
+      "start": 14.44,
+      "end": 14.86
+    },
+    {
+      "word": "unfinished",
+      "start": 15.32,
+      "end": 15.68
+    },
+    {
+      "word": "deliverables",
+      "start": 15.68,
+      "end": 16.26
+    },
+    {
+      "word": "accidentally",
+      "start": 16.26,
+      "end": 16.86
+    },
+    {
+      "word": "bypass",
+      "start": 16.86,
+      "end": 17.36
+    },
+    {
+      "word": "senior",
+      "start": 17.36,
+      "end": 17.82
+    },
+    {
+      "word": "review",
+      "start": 17.82,
+      "end": 18.38
+    },
+    {
+      "word": "and",
+      "start": 18.38,
+      "end": 18.84
+    },
+    {
+      "word": "land",
+      "start": 18.84,
+      "end": 19.12
+    },
+    {
+      "word": "directly",
+      "start": 19.12,
+      "end": 19.6
+    },
+    {
+      "word": "in",
+      "start": 19.6,
+      "end": 19.86
+    },
+    {
+      "word": "client",
+      "start": 19.86,
+      "end": 20.16
+    },
+    {
+      "word": "inboxes.",
+      "start": 20.16,
+      "end": 21.1
+    },
+    {
+      "word": "Connect",
+      "start": 21.38,
+      "end": 21.62
+    },
+    {
+      "word": "notion",
+      "start": 21.62,
+      "end": 22.02
+    },
+    {
+      "word": "to",
+      "start": 22.02,
+      "end": 22.32
+    },
+    {
+      "word": "click",
+      "start": 22.32,
+      "end": 22.5
+    },
+    {
+      "word": "up",
+      "start": 22.5,
+      "end": 22.68
+    },
+    {
+      "word": "with",
+      "start": 22.68,
+      "end": 22.88
+    },
+    {
+      "word": "webhooks",
+      "start": 22.88,
+      "end": 23.34
+    },
+    {
+      "word": "that",
+      "start": 23.34,
+      "end": 23.52
+    },
+    {
+      "word": "block",
+      "start": 23.52,
+      "end": 23.84
+    },
+    {
+      "word": "client",
+      "start": 23.84,
+      "end": 24.2
+    },
+    {
+      "word": "sharing",
+      "start": 24.2,
+      "end": 24.66
+    },
+    {
+      "word": "until",
+      "start": 24.66,
+      "end": 25.22
+    },
+    {
+      "word": "QA",
+      "start": 25.22,
+      "end": 25.78
+    },
+    {
+      "word": "checks",
+      "start": 25.78,
+      "end": 25.98
+    },
+    {
+      "word": "hit",
+      "start": 25.98,
+      "end": 26.34
+    },
+    {
+      "word": "100%.",
+      "start": 26.34,
+      "end": 27.68
+    },
+    {
+      "word": "You",
+      "start": 27.68,
+      "end": 28.02
+    },
+    {
+      "word": "safeguard",
+      "start": 28.02,
+      "end": 28.42
+    },
+    {
+      "word": "client",
+      "start": 28.42,
+      "end": 28.92
+    },
+    {
+      "word": "trust",
+      "start": 28.92,
+      "end": 29.24
+    },
+    {
+      "word": "while",
+      "start": 29.24,
+      "end": 29.54
+    },
+    {
+      "word": "scaling",
+      "start": 29.54,
+      "end": 29.94
+    },
+    {
+      "word": "production",
+      "start": 29.94,
+      "end": 30.5
+    },
+    {
+      "word": "seamlessly.",
+      "start": 30.5,
+      "end": 30.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How elite agencies maintain flawless quality control across hundreds of assets a month.",
+      "line2": "AUDIT DELIVERABLES INSTANTLY",
+      "tag": "\ud83d\uded1 Automated QA checklist that audits deliverables before client review",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Automated QA checklist that audits deliverables before client review",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Automated QA checklist that audits deliverables before client review",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Automated QA checklist that audits deliverables before client review",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

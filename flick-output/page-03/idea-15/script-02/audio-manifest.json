@@ -1,0 +1,401 @@
+{
+  "page": "page-03",
+  "idea": "Automated abandoned cart recovery sequence that reclaims lost sales",
+  "text": "This automated email sequence recovers fifteen percent of lost sales with zero ongoing effort. Creators waste hours tweaking store buttons while ignoring hot buyers who leave at the payment step. When abandoned carts trigger no immediate follow-up, temporary buyer hesitation permanently kills the purchase. Deploy a Shopify webhook connected to Klaviyo that automatically sends personalized cart reminders with dynamic discounts. You unlock backend profits on complete autopilot.",
+  "duration": 29.626,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "automated",
+      "start": 0.32,
+      "end": 0.7
+    },
+    {
+      "word": "email",
+      "start": 0.7,
+      "end": 1.2
+    },
+    {
+      "word": "sequence",
+      "start": 1.2,
+      "end": 1.82
+    },
+    {
+      "word": "recovers",
+      "start": 1.82,
+      "end": 2.16
+    },
+    {
+      "word": "15",
+      "start": 2.16,
+      "end": 2.76
+    },
+    {
+      "word": "%",
+      "start": 2.76,
+      "end": 3.08
+    },
+    {
+      "word": "of",
+      "start": 3.08,
+      "end": 3.24
+    },
+    {
+      "word": "lost",
+      "start": 3.24,
+      "end": 3.58
+    },
+    {
+      "word": "sales",
+      "start": 3.58,
+      "end": 3.96
+    },
+    {
+      "word": "with",
+      "start": 3.96,
+      "end": 4.52
+    },
+    {
+      "word": "zero",
+      "start": 4.52,
+      "end": 5.0
+    },
+    {
+      "word": "ongoing",
+      "start": 5.0,
+      "end": 5.42
+    },
+    {
+      "word": "effort.",
+      "start": 5.42,
+      "end": 6.1
+    },
+    {
+      "word": "Creators",
+      "start": 6.72,
+      "end": 6.98
+    },
+    {
+      "word": "waste",
+      "start": 6.98,
+      "end": 7.34
+    },
+    {
+      "word": "hours",
+      "start": 7.34,
+      "end": 7.78
+    },
+    {
+      "word": "tweaking",
+      "start": 7.78,
+      "end": 8.14
+    },
+    {
+      "word": "store",
+      "start": 8.14,
+      "end": 8.54
+    },
+    {
+      "word": "buttons",
+      "start": 8.54,
+      "end": 8.88
+    },
+    {
+      "word": "while",
+      "start": 8.88,
+      "end": 9.44
+    },
+    {
+      "word": "ignoring",
+      "start": 9.44,
+      "end": 9.86
+    },
+    {
+      "word": "hot",
+      "start": 9.86,
+      "end": 10.26
+    },
+    {
+      "word": "buyers",
+      "start": 10.26,
+      "end": 10.56
+    },
+    {
+      "word": "who",
+      "start": 10.56,
+      "end": 10.78
+    },
+    {
+      "word": "leave",
+      "start": 10.78,
+      "end": 10.96
+    },
+    {
+      "word": "at",
+      "start": 10.96,
+      "end": 11.16
+    },
+    {
+      "word": "the",
+      "start": 11.16,
+      "end": 11.48
+    },
+    {
+      "word": "payment",
+      "start": 11.48,
+      "end": 11.48
+    },
+    {
+      "word": "step.",
+      "start": 11.48,
+      "end": 11.9
+    },
+    {
+      "word": "When",
+      "start": 12.16,
+      "end": 12.3
+    },
+    {
+      "word": "abandoned",
+      "start": 12.3,
+      "end": 12.58
+    },
+    {
+      "word": "carts",
+      "start": 12.58,
+      "end": 13.06
+    },
+    {
+      "word": "trigger",
+      "start": 13.06,
+      "end": 13.4
+    },
+    {
+      "word": "no",
+      "start": 13.4,
+      "end": 13.74
+    },
+    {
+      "word": "immediate",
+      "start": 13.74,
+      "end": 14.18
+    },
+    {
+      "word": "follow",
+      "start": 14.18,
+      "end": 14.56
+    },
+    {
+      "word": "-up,",
+      "start": 14.56,
+      "end": 15.12
+    },
+    {
+      "word": "temporary",
+      "start": 15.36,
+      "end": 15.54
+    },
+    {
+      "word": "buyer",
+      "start": 15.54,
+      "end": 16.06
+    },
+    {
+      "word": "hesitation",
+      "start": 16.06,
+      "end": 16.62
+    },
+    {
+      "word": "permanently",
+      "start": 16.62,
+      "end": 17.18
+    },
+    {
+      "word": "kills",
+      "start": 17.18,
+      "end": 17.6
+    },
+    {
+      "word": "the",
+      "start": 17.6,
+      "end": 17.88
+    },
+    {
+      "word": "purchase.",
+      "start": 17.88,
+      "end": 18.3
+    },
+    {
+      "word": "Deploy",
+      "start": 18.96,
+      "end": 19.16
+    },
+    {
+      "word": "a",
+      "start": 19.16,
+      "end": 19.46
+    },
+    {
+      "word": "Shopify",
+      "start": 19.46,
+      "end": 20.06
+    },
+    {
+      "word": "webhook",
+      "start": 20.06,
+      "end": 20.5
+    },
+    {
+      "word": "connected",
+      "start": 20.5,
+      "end": 20.88
+    },
+    {
+      "word": "to",
+      "start": 20.88,
+      "end": 21.2
+    },
+    {
+      "word": "Clavio",
+      "start": 21.2,
+      "end": 21.62
+    },
+    {
+      "word": "that",
+      "start": 21.62,
+      "end": 22.06
+    },
+    {
+      "word": "automatically",
+      "start": 22.06,
+      "end": 22.56
+    },
+    {
+      "word": "sends",
+      "start": 22.56,
+      "end": 23.12
+    },
+    {
+      "word": "personalized",
+      "start": 23.12,
+      "end": 23.76
+    },
+    {
+      "word": "cart",
+      "start": 23.76,
+      "end": 24.16
+    },
+    {
+      "word": "reminders",
+      "start": 24.16,
+      "end": 24.58
+    },
+    {
+      "word": "with",
+      "start": 24.58,
+      "end": 25.0
+    },
+    {
+      "word": "dynamic",
+      "start": 25.0,
+      "end": 25.5
+    },
+    {
+      "word": "discounts.",
+      "start": 25.5,
+      "end": 26.08
+    },
+    {
+      "word": "You",
+      "start": 26.08,
+      "end": 26.86
+    },
+    {
+      "word": "unlock",
+      "start": 26.86,
+      "end": 27.28
+    },
+    {
+      "word": "backend",
+      "start": 27.28,
+      "end": 27.76
+    },
+    {
+      "word": "profits",
+      "start": 27.76,
+      "end": 28.28
+    },
+    {
+      "word": "on",
+      "start": 28.28,
+      "end": 28.64
+    },
+    {
+      "word": "complete",
+      "start": 28.64,
+      "end": 28.96
+    },
+    {
+      "word": "autopilot.",
+      "start": 28.96,
+      "end": 29.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "This automated email sequence recovers 15 percent of lost sales with zero effort.",
+      "line2": "RECLAIM LOST SALES",
+      "tag": "\ud83d\uded1 Automated abandoned cart recovery sequence that reclaims lost sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated abandoned cart recovery sequence that reclaims lost sales",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated abandoned cart recovery sequence that reclaims lost sales",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

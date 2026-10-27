@@ -1,0 +1,421 @@
+{
+  "page": "page-08",
+  "idea": "Simple Google Sheets formula to translate 100 foreign phrases at once",
+  "text": "This magic Google Sheets formula is something every beginner needs to bookmark immediately. Working with international suppliers often leaves you sorting through non-English inventory spreadsheets and delivery descriptions. Translating rows manually one by one eats up precious work hours and leads to costly ordering mistakes. Drop the GOOGLETRANSLATE formula into an empty column, set your target language code, and double-click the corner square. Your entire table updates in seconds.",
+  "duration": 29.413,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "magic",
+      "start": 0.28,
+      "end": 0.74
+    },
+    {
+      "word": "Google",
+      "start": 0.74,
+      "end": 1.08
+    },
+    {
+      "word": "Sheets",
+      "start": 1.08,
+      "end": 1.4
+    },
+    {
+      "word": "formula",
+      "start": 1.4,
+      "end": 1.82
+    },
+    {
+      "word": "is",
+      "start": 1.82,
+      "end": 2.36
+    },
+    {
+      "word": "something",
+      "start": 2.36,
+      "end": 2.7
+    },
+    {
+      "word": "every",
+      "start": 2.7,
+      "end": 3.02
+    },
+    {
+      "word": "beginner",
+      "start": 3.02,
+      "end": 3.32
+    },
+    {
+      "word": "needs",
+      "start": 3.32,
+      "end": 3.76
+    },
+    {
+      "word": "to",
+      "start": 3.76,
+      "end": 3.98
+    },
+    {
+      "word": "bookmark",
+      "start": 3.98,
+      "end": 4.36
+    },
+    {
+      "word": "immediately.",
+      "start": 4.36,
+      "end": 5.1
+    },
+    {
+      "word": "Working",
+      "start": 5.86,
+      "end": 5.96
+    },
+    {
+      "word": "with",
+      "start": 5.96,
+      "end": 6.3
+    },
+    {
+      "word": "international",
+      "start": 6.3,
+      "end": 6.7
+    },
+    {
+      "word": "suppliers",
+      "start": 6.7,
+      "end": 7.32
+    },
+    {
+      "word": "often",
+      "start": 7.32,
+      "end": 7.98
+    },
+    {
+      "word": "leaves",
+      "start": 7.98,
+      "end": 8.28
+    },
+    {
+      "word": "you",
+      "start": 8.28,
+      "end": 8.58
+    },
+    {
+      "word": "sorting",
+      "start": 8.58,
+      "end": 8.82
+    },
+    {
+      "word": "through",
+      "start": 8.82,
+      "end": 9.28
+    },
+    {
+      "word": "non",
+      "start": 9.28,
+      "end": 9.58
+    },
+    {
+      "word": "-English",
+      "start": 9.58,
+      "end": 9.96
+    },
+    {
+      "word": "inventory",
+      "start": 9.96,
+      "end": 10.52
+    },
+    {
+      "word": "spreadsheets",
+      "start": 10.52,
+      "end": 11.24
+    },
+    {
+      "word": "and",
+      "start": 11.24,
+      "end": 11.72
+    },
+    {
+      "word": "delivery",
+      "start": 11.72,
+      "end": 12.02
+    },
+    {
+      "word": "descriptions.",
+      "start": 12.02,
+      "end": 12.74
+    },
+    {
+      "word": "Translating",
+      "start": 13.32,
+      "end": 13.64
+    },
+    {
+      "word": "rows",
+      "start": 13.64,
+      "end": 14.1
+    },
+    {
+      "word": "manually",
+      "start": 14.1,
+      "end": 14.54
+    },
+    {
+      "word": "one",
+      "start": 14.54,
+      "end": 14.88
+    },
+    {
+      "word": "by",
+      "start": 14.88,
+      "end": 15.18
+    },
+    {
+      "word": "one",
+      "start": 15.18,
+      "end": 15.52
+    },
+    {
+      "word": "eats",
+      "start": 15.52,
+      "end": 15.78
+    },
+    {
+      "word": "up",
+      "start": 15.78,
+      "end": 16.04
+    },
+    {
+      "word": "precious",
+      "start": 16.04,
+      "end": 16.36
+    },
+    {
+      "word": "work",
+      "start": 16.36,
+      "end": 16.68
+    },
+    {
+      "word": "hours",
+      "start": 16.68,
+      "end": 17.08
+    },
+    {
+      "word": "and",
+      "start": 17.08,
+      "end": 17.54
+    },
+    {
+      "word": "leads",
+      "start": 17.54,
+      "end": 17.78
+    },
+    {
+      "word": "to",
+      "start": 17.78,
+      "end": 18.1
+    },
+    {
+      "word": "costly",
+      "start": 18.1,
+      "end": 18.48
+    },
+    {
+      "word": "ordering",
+      "start": 18.48,
+      "end": 18.84
+    },
+    {
+      "word": "mistakes.",
+      "start": 18.84,
+      "end": 19.42
+    },
+    {
+      "word": "Drop",
+      "start": 20.0,
+      "end": 20.24
+    },
+    {
+      "word": "the",
+      "start": 20.24,
+      "end": 20.46
+    },
+    {
+      "word": "Google",
+      "start": 20.46,
+      "end": 20.8
+    },
+    {
+      "word": "Translate",
+      "start": 20.8,
+      "end": 21.38
+    },
+    {
+      "word": "formula",
+      "start": 21.38,
+      "end": 21.78
+    },
+    {
+      "word": "into",
+      "start": 21.78,
+      "end": 22.06
+    },
+    {
+      "word": "an",
+      "start": 22.06,
+      "end": 22.3
+    },
+    {
+      "word": "empty",
+      "start": 22.3,
+      "end": 22.52
+    },
+    {
+      "word": "column,",
+      "start": 22.52,
+      "end": 22.98
+    },
+    {
+      "word": "set",
+      "start": 23.34,
+      "end": 23.52
+    },
+    {
+      "word": "your",
+      "start": 23.52,
+      "end": 23.84
+    },
+    {
+      "word": "target",
+      "start": 23.84,
+      "end": 24.04
+    },
+    {
+      "word": "language",
+      "start": 24.04,
+      "end": 24.44
+    },
+    {
+      "word": "code,",
+      "start": 24.44,
+      "end": 24.96
+    },
+    {
+      "word": "and",
+      "start": 25.08,
+      "end": 25.26
+    },
+    {
+      "word": "double",
+      "start": 25.26,
+      "end": 25.5
+    },
+    {
+      "word": "-click",
+      "start": 25.5,
+      "end": 25.66
+    },
+    {
+      "word": "the",
+      "start": 25.66,
+      "end": 26.08
+    },
+    {
+      "word": "corner",
+      "start": 26.08,
+      "end": 26.08
+    },
+    {
+      "word": "square.",
+      "start": 26.08,
+      "end": 26.62
+    },
+    {
+      "word": "Your",
+      "start": 26.62,
+      "end": 27.38
+    },
+    {
+      "word": "entire",
+      "start": 27.38,
+      "end": 27.78
+    },
+    {
+      "word": "table",
+      "start": 27.78,
+      "end": 28.22
+    },
+    {
+      "word": "updates",
+      "start": 28.22,
+      "end": 28.62
+    },
+    {
+      "word": "in",
+      "start": 28.62,
+      "end": 28.96
+    },
+    {
+      "word": "seconds.",
+      "start": 28.96,
+      "end": 29.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The magic Google Sheets formula that every beginner needs to bookmark.",
+      "line2": "TRANSLATE 100 PHRASES INSTANTLY",
+      "tag": "\ud83d\uded1 Simple Google Sheets formula to translate 100 foreign phrases at once",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Simple Google Sheets formula to translate 100 foreign phrases at once",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Simple Google Sheets formula to translate 100 foreign phrases at once",
+        "subtitle": "Simple Google Sheets formula to translate 100 foreign phrases at once"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Simple Google Sheets formula to translate 100 foreign phrases at once"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Simple Google Sheets formula to translate 100 foreign phrases at once"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Simple Google Sheets formula to translate 100 foreign phrases at once",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

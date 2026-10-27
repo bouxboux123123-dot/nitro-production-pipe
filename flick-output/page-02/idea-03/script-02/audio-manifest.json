@@ -1,0 +1,426 @@
+{
+  "page": "page-02",
+  "idea": "AI scope creep detector for client email threads",
+  "text": "This AI tool scans client emails and alerts you the second scope creep happens. Freelancers often accept minor client favors without realizing they are giving away twenty unpaid hours monthly. Vagueness in email threads blurs project boundaries until clients expect unlimited revisions as standard delivery. Deploy a Make workflow that scans client Slack channels and emails, flagging out-of-scope requests in real time. You eliminate unpaid labor while preserving great client relationships.",
+  "duration": 30.266,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "this",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "AI",
+      "start": 0.26,
+      "end": 0.7
+    },
+    {
+      "word": "tool",
+      "start": 0.7,
+      "end": 1.06
+    },
+    {
+      "word": "scans",
+      "start": 1.06,
+      "end": 1.46
+    },
+    {
+      "word": "client",
+      "start": 1.46,
+      "end": 1.9
+    },
+    {
+      "word": "emails",
+      "start": 1.9,
+      "end": 2.32
+    },
+    {
+      "word": "and",
+      "start": 2.32,
+      "end": 2.84
+    },
+    {
+      "word": "alerts",
+      "start": 2.84,
+      "end": 3.1
+    },
+    {
+      "word": "you",
+      "start": 3.1,
+      "end": 3.38
+    },
+    {
+      "word": "the",
+      "start": 3.38,
+      "end": 3.76
+    },
+    {
+      "word": "second",
+      "start": 3.76,
+      "end": 3.84
+    },
+    {
+      "word": "scope",
+      "start": 3.84,
+      "end": 4.16
+    },
+    {
+      "word": "creep",
+      "start": 4.16,
+      "end": 4.44
+    },
+    {
+      "word": "happens.",
+      "start": 4.44,
+      "end": 5.04
+    },
+    {
+      "word": "Freelancers",
+      "start": 5.66,
+      "end": 6.04
+    },
+    {
+      "word": "often",
+      "start": 6.04,
+      "end": 6.48
+    },
+    {
+      "word": "accept",
+      "start": 6.48,
+      "end": 6.96
+    },
+    {
+      "word": "minor",
+      "start": 6.96,
+      "end": 7.28
+    },
+    {
+      "word": "client",
+      "start": 7.28,
+      "end": 7.64
+    },
+    {
+      "word": "favors",
+      "start": 7.64,
+      "end": 8.02
+    },
+    {
+      "word": "without",
+      "start": 8.02,
+      "end": 8.66
+    },
+    {
+      "word": "realizing",
+      "start": 8.66,
+      "end": 9.16
+    },
+    {
+      "word": "they",
+      "start": 9.16,
+      "end": 9.46
+    },
+    {
+      "word": "are",
+      "start": 9.46,
+      "end": 9.56
+    },
+    {
+      "word": "giving",
+      "start": 9.56,
+      "end": 9.84
+    },
+    {
+      "word": "away",
+      "start": 9.84,
+      "end": 10.1
+    },
+    {
+      "word": "20",
+      "start": 10.1,
+      "end": 10.52
+    },
+    {
+      "word": "unpaid",
+      "start": 10.52,
+      "end": 10.84
+    },
+    {
+      "word": "hours",
+      "start": 10.84,
+      "end": 11.36
+    },
+    {
+      "word": "monthly.",
+      "start": 11.36,
+      "end": 12.02
+    },
+    {
+      "word": "Vignus",
+      "start": 12.36,
+      "end": 12.56
+    },
+    {
+      "word": "and",
+      "start": 12.56,
+      "end": 12.76
+    },
+    {
+      "word": "email",
+      "start": 12.76,
+      "end": 13.08
+    },
+    {
+      "word": "threads",
+      "start": 13.08,
+      "end": 13.46
+    },
+    {
+      "word": "Blur's",
+      "start": 13.46,
+      "end": 13.88
+    },
+    {
+      "word": "Project",
+      "start": 13.88,
+      "end": 14.32
+    },
+    {
+      "word": "Boundaries",
+      "start": 14.32,
+      "end": 14.86
+    },
+    {
+      "word": "until",
+      "start": 14.86,
+      "end": 15.46
+    },
+    {
+      "word": "clients",
+      "start": 15.46,
+      "end": 15.8
+    },
+    {
+      "word": "expect",
+      "start": 15.8,
+      "end": 16.36
+    },
+    {
+      "word": "unlimited",
+      "start": 16.36,
+      "end": 16.82
+    },
+    {
+      "word": "revisions",
+      "start": 16.82,
+      "end": 17.26
+    },
+    {
+      "word": "as",
+      "start": 17.26,
+      "end": 17.66
+    },
+    {
+      "word": "standard",
+      "start": 17.66,
+      "end": 17.96
+    },
+    {
+      "word": "delivery.",
+      "start": 17.96,
+      "end": 18.5
+    },
+    {
+      "word": "Deploy",
+      "start": 19.16,
+      "end": 19.32
+    },
+    {
+      "word": "a",
+      "start": 19.32,
+      "end": 19.54
+    },
+    {
+      "word": "make",
+      "start": 19.54,
+      "end": 19.74
+    },
+    {
+      "word": "workflow",
+      "start": 19.74,
+      "end": 20.16
+    },
+    {
+      "word": "that",
+      "start": 20.16,
+      "end": 20.54
+    },
+    {
+      "word": "scans",
+      "start": 20.54,
+      "end": 20.84
+    },
+    {
+      "word": "client",
+      "start": 20.84,
+      "end": 21.4
+    },
+    {
+      "word": "slack",
+      "start": 21.4,
+      "end": 21.66
+    },
+    {
+      "word": "channels",
+      "start": 21.66,
+      "end": 22.1
+    },
+    {
+      "word": "and",
+      "start": 22.1,
+      "end": 22.4
+    },
+    {
+      "word": "emails,",
+      "start": 22.4,
+      "end": 22.84
+    },
+    {
+      "word": "flagging",
+      "start": 23.26,
+      "end": 23.62
+    },
+    {
+      "word": "out",
+      "start": 23.62,
+      "end": 23.84
+    },
+    {
+      "word": "of",
+      "start": 23.84,
+      "end": 24.06
+    },
+    {
+      "word": "scope",
+      "start": 24.06,
+      "end": 24.34
+    },
+    {
+      "word": "requests",
+      "start": 24.34,
+      "end": 24.82
+    },
+    {
+      "word": "in",
+      "start": 24.82,
+      "end": 25.12
+    },
+    {
+      "word": "real",
+      "start": 25.12,
+      "end": 25.36
+    },
+    {
+      "word": "time.",
+      "start": 25.36,
+      "end": 25.86
+    },
+    {
+      "word": "You",
+      "start": 26.3,
+      "end": 26.52
+    },
+    {
+      "word": "eliminate",
+      "start": 26.52,
+      "end": 26.9
+    },
+    {
+      "word": "unpaid",
+      "start": 26.9,
+      "end": 27.5
+    },
+    {
+      "word": "labor",
+      "start": 27.5,
+      "end": 27.92
+    },
+    {
+      "word": "while",
+      "start": 27.92,
+      "end": 28.22
+    },
+    {
+      "word": "preserving",
+      "start": 28.22,
+      "end": 28.64
+    },
+    {
+      "word": "great",
+      "start": 28.64,
+      "end": 29.12
+    },
+    {
+      "word": "client",
+      "start": 29.12,
+      "end": 29.48
+    },
+    {
+      "word": "relationships.",
+      "start": 29.48,
+      "end": 29.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This AI tool scans client emails and alerts you the second scope creep happens.",
+      "line2": "STOP SCOPE CREEP",
+      "tag": "\ud83d\uded1 AI scope creep detector for client email threads",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI scope creep detector for client email threads",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI scope creep detector for client email threads",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI scope creep detector for client email threads",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "page": "page-03",
+  "idea": "AI customer service bot that answers buyer DMs and closes sales",
+  "text": "Lost sales because you were asleep when a customer messaged your side hustle? Shoppers expect answers about sizing and shipping within five minutes before abandoning their carts for competitors. Sleeping through late-night Instagram messages directly surrenders high-intent buyers who are ready to purchase. Connect ManyChat and ChatGPT to answer product questions and drop trackable checkout links instantly. You close sales twenty-four seven while giving you your weekends back.",
+  "duration": 25.493,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Lost",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "sales",
+      "start": 0.38,
+      "end": 0.68
+    },
+    {
+      "word": "because",
+      "start": 0.68,
+      "end": 1.0
+    },
+    {
+      "word": "you",
+      "start": 1.0,
+      "end": 1.12
+    },
+    {
+      "word": "were",
+      "start": 1.12,
+      "end": 1.32
+    },
+    {
+      "word": "asleep",
+      "start": 1.32,
+      "end": 1.62
+    },
+    {
+      "word": "when",
+      "start": 1.62,
+      "end": 1.78
+    },
+    {
+      "word": "a",
+      "start": 1.78,
+      "end": 2.06
+    },
+    {
+      "word": "customer",
+      "start": 2.06,
+      "end": 2.2
+    },
+    {
+      "word": "messaged",
+      "start": 2.2,
+      "end": 2.64
+    },
+    {
+      "word": "your",
+      "start": 2.64,
+      "end": 2.88
+    },
+    {
+      "word": "side",
+      "start": 2.88,
+      "end": 3.08
+    },
+    {
+      "word": "hustle.",
+      "start": 3.08,
+      "end": 3.66
+    },
+    {
+      "word": "Choppers",
+      "start": 4.06,
+      "end": 4.22
+    },
+    {
+      "word": "expect",
+      "start": 4.22,
+      "end": 4.68
+    },
+    {
+      "word": "answers",
+      "start": 4.68,
+      "end": 5.0
+    },
+    {
+      "word": "about",
+      "start": 5.0,
+      "end": 5.4
+    },
+    {
+      "word": "sizing",
+      "start": 5.4,
+      "end": 5.82
+    },
+    {
+      "word": "and",
+      "start": 5.82,
+      "end": 6.08
+    },
+    {
+      "word": "shipping",
+      "start": 6.08,
+      "end": 6.34
+    },
+    {
+      "word": "within",
+      "start": 6.34,
+      "end": 6.62
+    },
+    {
+      "word": "five",
+      "start": 6.62,
+      "end": 7.0
+    },
+    {
+      "word": "minutes",
+      "start": 7.0,
+      "end": 7.28
+    },
+    {
+      "word": "before",
+      "start": 7.28,
+      "end": 7.74
+    },
+    {
+      "word": "abandoning",
+      "start": 7.74,
+      "end": 8.04
+    },
+    {
+      "word": "their",
+      "start": 8.04,
+      "end": 8.36
+    },
+    {
+      "word": "carts",
+      "start": 8.36,
+      "end": 8.6
+    },
+    {
+      "word": "for",
+      "start": 8.6,
+      "end": 8.88
+    },
+    {
+      "word": "competitors.",
+      "start": 8.88,
+      "end": 9.34
+    },
+    {
+      "word": "Sleeping",
+      "start": 10.08,
+      "end": 10.22
+    },
+    {
+      "word": "through",
+      "start": 10.22,
+      "end": 10.64
+    },
+    {
+      "word": "late",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "word": "night",
+      "start": 10.88,
+      "end": 11.18
+    },
+    {
+      "word": "Instagram",
+      "start": 11.18,
+      "end": 11.6
+    },
+    {
+      "word": "messages",
+      "start": 11.6,
+      "end": 12.18
+    },
+    {
+      "word": "directly",
+      "start": 12.18,
+      "end": 12.88
+    },
+    {
+      "word": "surrenders",
+      "start": 12.88,
+      "end": 13.42
+    },
+    {
+      "word": "high",
+      "start": 13.42,
+      "end": 13.68
+    },
+    {
+      "word": "intent",
+      "start": 13.68,
+      "end": 13.98
+    },
+    {
+      "word": "buyers",
+      "start": 13.98,
+      "end": 14.32
+    },
+    {
+      "word": "who",
+      "start": 14.32,
+      "end": 14.58
+    },
+    {
+      "word": "are",
+      "start": 14.58,
+      "end": 14.66
+    },
+    {
+      "word": "ready",
+      "start": 14.66,
+      "end": 14.76
+    },
+    {
+      "word": "to",
+      "start": 14.76,
+      "end": 15.02
+    },
+    {
+      "word": "purchase.",
+      "start": 15.02,
+      "end": 15.44
+    },
+    {
+      "word": "Connect",
+      "start": 15.92,
+      "end": 16.18
+    },
+    {
+      "word": "many",
+      "start": 16.18,
+      "end": 16.52
+    },
+    {
+      "word": "chat",
+      "start": 16.52,
+      "end": 16.84
+    },
+    {
+      "word": "and",
+      "start": 16.84,
+      "end": 17.0
+    },
+    {
+      "word": "chat",
+      "start": 17.0,
+      "end": 17.32
+    },
+    {
+      "word": "GPT",
+      "start": 17.32,
+      "end": 17.74
+    },
+    {
+      "word": "to",
+      "start": 17.74,
+      "end": 18.08
+    },
+    {
+      "word": "answer",
+      "start": 18.08,
+      "end": 18.3
+    },
+    {
+      "word": "product",
+      "start": 18.3,
+      "end": 18.6
+    },
+    {
+      "word": "questions",
+      "start": 18.6,
+      "end": 19.14
+    },
+    {
+      "word": "and",
+      "start": 19.14,
+      "end": 19.68
+    },
+    {
+      "word": "drop",
+      "start": 19.68,
+      "end": 19.96
+    },
+    {
+      "word": "trackable",
+      "start": 19.96,
+      "end": 20.46
+    },
+    {
+      "word": "checkout",
+      "start": 20.46,
+      "end": 20.78
+    },
+    {
+      "word": "links",
+      "start": 20.78,
+      "end": 21.14
+    },
+    {
+      "word": "instantly.",
+      "start": 21.14,
+      "end": 21.68
+    },
+    {
+      "word": "You",
+      "start": 21.68,
+      "end": 22.42
+    },
+    {
+      "word": "close",
+      "start": 22.42,
+      "end": 22.7
+    },
+    {
+      "word": "sales",
+      "start": 22.7,
+      "end": 22.96
+    },
+    {
+      "word": "24",
+      "start": 22.96,
+      "end": 23.5
+    },
+    {
+      "word": "seven",
+      "start": 23.5,
+      "end": 24.0
+    },
+    {
+      "word": "while",
+      "start": 24.0,
+      "end": 24.2
+    },
+    {
+      "word": "giving",
+      "start": 24.2,
+      "end": 24.42
+    },
+    {
+      "word": "you",
+      "start": 24.42,
+      "end": 24.64
+    },
+    {
+      "word": "your",
+      "start": 24.64,
+      "end": 24.8
+    },
+    {
+      "word": "weekends",
+      "start": 24.8,
+      "end": 25.04
+    },
+    {
+      "word": "back.",
+      "start": 25.04,
+      "end": 25.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Lost sales because you were asleep when a customer messaged your side hustle?",
+      "line2": "CLOSE SALES IN DMS",
+      "tag": "\ud83d\uded1 AI customer service bot that answers buyer DMs and closes sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: AI customer service bot that answers buyer DMs and closes sales",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: AI customer service bot that answers buyer DMs and closes sales",
+        "subtitle": "AI customer service bot that answers buyer DMs and closes sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "AI customer service bot that answers buyer DMs and closes sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "AI customer service bot that answers buyer DMs and closes sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "AI customer service bot that answers buyer DMs and closes sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

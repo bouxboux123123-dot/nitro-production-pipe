@@ -1,0 +1,391 @@
+{
+  "page": "page-03",
+  "idea": "Automated social media scheduling for print-on-demand products",
+  "text": "Transform your side hustle blog into endless viral short-form posts on autopilot. Creating fresh social posts daily while holding a job causes rapid creator exhaustion. Inconsistent posting kills audience momentum and leaves your follower growth completely flatlined. Connect Airtable to Claude to ingest published articles and generate thirty days of punchy short-form updates. This maintains unstoppable momentum while giving you your weekends back.",
+  "duration": 26.688,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Transform",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "your",
+      "start": 0.42,
+      "end": 0.76
+    },
+    {
+      "word": "side",
+      "start": 0.76,
+      "end": 0.96
+    },
+    {
+      "word": "hustle",
+      "start": 0.96,
+      "end": 1.28
+    },
+    {
+      "word": "blog",
+      "start": 1.28,
+      "end": 1.6
+    },
+    {
+      "word": "into",
+      "start": 1.6,
+      "end": 1.94
+    },
+    {
+      "word": "endless",
+      "start": 1.94,
+      "end": 2.28
+    },
+    {
+      "word": "viral",
+      "start": 2.28,
+      "end": 2.8
+    },
+    {
+      "word": "short",
+      "start": 2.8,
+      "end": 3.14
+    },
+    {
+      "word": "-form",
+      "start": 3.14,
+      "end": 3.34
+    },
+    {
+      "word": "posts",
+      "start": 3.34,
+      "end": 3.74
+    },
+    {
+      "word": "on",
+      "start": 3.74,
+      "end": 4.04
+    },
+    {
+      "word": "autopilot.",
+      "start": 4.04,
+      "end": 4.82
+    },
+    {
+      "word": "Creating",
+      "start": 5.46,
+      "end": 5.46
+    },
+    {
+      "word": "fresh",
+      "start": 5.46,
+      "end": 5.84
+    },
+    {
+      "word": "social",
+      "start": 5.84,
+      "end": 6.2
+    },
+    {
+      "word": "posts",
+      "start": 6.2,
+      "end": 6.54
+    },
+    {
+      "word": "daily",
+      "start": 6.54,
+      "end": 6.84
+    },
+    {
+      "word": "while",
+      "start": 6.84,
+      "end": 7.28
+    },
+    {
+      "word": "holding",
+      "start": 7.28,
+      "end": 7.48
+    },
+    {
+      "word": "a",
+      "start": 7.48,
+      "end": 7.68
+    },
+    {
+      "word": "job",
+      "start": 7.68,
+      "end": 8.02
+    },
+    {
+      "word": "causes",
+      "start": 8.02,
+      "end": 8.42
+    },
+    {
+      "word": "rapid",
+      "start": 8.42,
+      "end": 8.76
+    },
+    {
+      "word": "creator",
+      "start": 8.76,
+      "end": 9.24
+    },
+    {
+      "word": "exhaustion.",
+      "start": 9.24,
+      "end": 9.92
+    },
+    {
+      "word": "In",
+      "start": 10.56,
+      "end": 10.7
+    },
+    {
+      "word": "consistent",
+      "start": 10.7,
+      "end": 11.04
+    },
+    {
+      "word": "posting",
+      "start": 11.04,
+      "end": 11.54
+    },
+    {
+      "word": "kills",
+      "start": 11.54,
+      "end": 11.94
+    },
+    {
+      "word": "audience",
+      "start": 11.94,
+      "end": 12.36
+    },
+    {
+      "word": "momentum",
+      "start": 12.36,
+      "end": 12.86
+    },
+    {
+      "word": "and",
+      "start": 12.86,
+      "end": 13.46
+    },
+    {
+      "word": "leaves",
+      "start": 13.46,
+      "end": 13.68
+    },
+    {
+      "word": "your",
+      "start": 13.68,
+      "end": 14.06
+    },
+    {
+      "word": "follower",
+      "start": 14.06,
+      "end": 14.26
+    },
+    {
+      "word": "growth",
+      "start": 14.26,
+      "end": 14.66
+    },
+    {
+      "word": "completely",
+      "start": 14.66,
+      "end": 15.24
+    },
+    {
+      "word": "flatlined.",
+      "start": 15.24,
+      "end": 15.92
+    },
+    {
+      "word": "Connect",
+      "start": 16.36,
+      "end": 16.68
+    },
+    {
+      "word": "Airtable",
+      "start": 16.68,
+      "end": 17.14
+    },
+    {
+      "word": "to",
+      "start": 17.14,
+      "end": 17.36
+    },
+    {
+      "word": "claw",
+      "start": 17.36,
+      "end": 17.54
+    },
+    {
+      "word": "to",
+      "start": 17.54,
+      "end": 17.8
+    },
+    {
+      "word": "ingest",
+      "start": 17.8,
+      "end": 18.14
+    },
+    {
+      "word": "published",
+      "start": 18.14,
+      "end": 18.64
+    },
+    {
+      "word": "articles",
+      "start": 18.64,
+      "end": 19.1
+    },
+    {
+      "word": "and",
+      "start": 19.1,
+      "end": 19.68
+    },
+    {
+      "word": "generate",
+      "start": 19.68,
+      "end": 20.02
+    },
+    {
+      "word": "30",
+      "start": 20.02,
+      "end": 20.38
+    },
+    {
+      "word": "days",
+      "start": 20.38,
+      "end": 20.74
+    },
+    {
+      "word": "of",
+      "start": 20.74,
+      "end": 21.04
+    },
+    {
+      "word": "punchy",
+      "start": 21.04,
+      "end": 21.36
+    },
+    {
+      "word": "short",
+      "start": 21.36,
+      "end": 21.64
+    },
+    {
+      "word": "-form",
+      "start": 21.64,
+      "end": 21.88
+    },
+    {
+      "word": "updates.",
+      "start": 21.88,
+      "end": 22.36
+    },
+    {
+      "word": "This",
+      "start": 22.36,
+      "end": 23.1
+    },
+    {
+      "word": "maintains",
+      "start": 23.1,
+      "end": 23.6
+    },
+    {
+      "word": "unstoppable",
+      "start": 23.6,
+      "end": 24.34
+    },
+    {
+      "word": "momentum",
+      "start": 24.34,
+      "end": 24.94
+    },
+    {
+      "word": "while",
+      "start": 24.94,
+      "end": 25.34
+    },
+    {
+      "word": "giving",
+      "start": 25.34,
+      "end": 25.6
+    },
+    {
+      "word": "you",
+      "start": 25.6,
+      "end": 25.82
+    },
+    {
+      "word": "your",
+      "start": 25.82,
+      "end": 26.0
+    },
+    {
+      "word": "weekends",
+      "start": 26.0,
+      "end": 26.24
+    },
+    {
+      "word": "back.",
+      "start": 26.24,
+      "end": 26.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Generate product mockups and schedule them to Instagram on autopilot.",
+      "line2": "AUTO-SCHEDULE SOCIAL POSTS",
+      "tag": "\ud83d\uded1 Automated social media scheduling for print-on-demand products",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: Automated social media scheduling for print-on-demand products",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: Automated social media scheduling for print-on-demand products",
+        "subtitle": "Automated social media scheduling for print-on-demand products"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "Automated social media scheduling for print-on-demand products"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "Automated social media scheduling for print-on-demand products"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "Automated social media scheduling for print-on-demand products",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated client churn prediction system based on communication frequency",
+  "text": "Stop being blindsided by surprise client departures at the end of the quarter. Losing premium monthly retainers with zero warning destroys your agency cash flow and ruins hiring plans. Agencies lose clients not from poor work, but from creeping disconnection that goes unnoticed for weeks. Use a Make automation to analyze Slack message intervals and trigger executive alerts when activity plummets. You prevent client churn and stabilize retainer cash flow.",
+  "duration": 27.514,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "being",
+      "start": 0.4,
+      "end": 0.66
+    },
+    {
+      "word": "blindsided",
+      "start": 0.66,
+      "end": 1.34
+    },
+    {
+      "word": "by",
+      "start": 1.34,
+      "end": 1.7
+    },
+    {
+      "word": "surprise",
+      "start": 1.7,
+      "end": 2.22
+    },
+    {
+      "word": "client",
+      "start": 2.22,
+      "end": 2.56
+    },
+    {
+      "word": "departures",
+      "start": 2.56,
+      "end": 3.0
+    },
+    {
+      "word": "at",
+      "start": 3.0,
+      "end": 3.32
+    },
+    {
+      "word": "the",
+      "start": 3.32,
+      "end": 3.44
+    },
+    {
+      "word": "end",
+      "start": 3.44,
+      "end": 3.54
+    },
+    {
+      "word": "of",
+      "start": 3.54,
+      "end": 3.7
+    },
+    {
+      "word": "the",
+      "start": 3.7,
+      "end": 3.82
+    },
+    {
+      "word": "quarter.",
+      "start": 3.82,
+      "end": 4.18
+    },
+    {
+      "word": "Losing",
+      "start": 4.82,
+      "end": 5.0
+    },
+    {
+      "word": "premium",
+      "start": 5.0,
+      "end": 5.48
+    },
+    {
+      "word": "monthly",
+      "start": 5.48,
+      "end": 5.9
+    },
+    {
+      "word": "retainers",
+      "start": 5.9,
+      "end": 6.54
+    },
+    {
+      "word": "with",
+      "start": 6.54,
+      "end": 7.0
+    },
+    {
+      "word": "zero",
+      "start": 7.0,
+      "end": 7.42
+    },
+    {
+      "word": "warning",
+      "start": 7.42,
+      "end": 7.7
+    },
+    {
+      "word": "destroys",
+      "start": 7.7,
+      "end": 8.16
+    },
+    {
+      "word": "your",
+      "start": 8.16,
+      "end": 8.56
+    },
+    {
+      "word": "agency",
+      "start": 8.56,
+      "end": 8.88
+    },
+    {
+      "word": "cash",
+      "start": 8.88,
+      "end": 9.34
+    },
+    {
+      "word": "flow",
+      "start": 9.34,
+      "end": 9.68
+    },
+    {
+      "word": "and",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "word": "ruins",
+      "start": 9.92,
+      "end": 10.2
+    },
+    {
+      "word": "hiring",
+      "start": 10.2,
+      "end": 10.64
+    },
+    {
+      "word": "plans.",
+      "start": 10.64,
+      "end": 11.22
+    },
+    {
+      "word": "Agencies",
+      "start": 11.64,
+      "end": 12.12
+    },
+    {
+      "word": "lose",
+      "start": 12.12,
+      "end": 12.48
+    },
+    {
+      "word": "clients",
+      "start": 12.48,
+      "end": 12.82
+    },
+    {
+      "word": "not",
+      "start": 12.82,
+      "end": 13.12
+    },
+    {
+      "word": "from",
+      "start": 13.12,
+      "end": 13.34
+    },
+    {
+      "word": "poor",
+      "start": 13.34,
+      "end": 13.58
+    },
+    {
+      "word": "work,",
+      "start": 13.58,
+      "end": 13.96
+    },
+    {
+      "word": "but",
+      "start": 14.08,
+      "end": 14.3
+    },
+    {
+      "word": "from",
+      "start": 14.3,
+      "end": 14.54
+    },
+    {
+      "word": "creeping",
+      "start": 14.54,
+      "end": 14.88
+    },
+    {
+      "word": "disconnection",
+      "start": 14.88,
+      "end": 15.66
+    },
+    {
+      "word": "that",
+      "start": 15.66,
+      "end": 15.86
+    },
+    {
+      "word": "goes",
+      "start": 15.86,
+      "end": 16.14
+    },
+    {
+      "word": "unnoticed",
+      "start": 16.14,
+      "end": 16.62
+    },
+    {
+      "word": "for",
+      "start": 16.62,
+      "end": 16.98
+    },
+    {
+      "word": "weeks.",
+      "start": 16.98,
+      "end": 17.44
+    },
+    {
+      "word": "Use",
+      "start": 17.98,
+      "end": 18.06
+    },
+    {
+      "word": "a",
+      "start": 18.06,
+      "end": 18.2
+    },
+    {
+      "word": "make",
+      "start": 18.2,
+      "end": 18.38
+    },
+    {
+      "word": "automation",
+      "start": 18.38,
+      "end": 18.84
+    },
+    {
+      "word": "to",
+      "start": 18.84,
+      "end": 19.32
+    },
+    {
+      "word": "analyze",
+      "start": 19.32,
+      "end": 19.66
+    },
+    {
+      "word": "slack",
+      "start": 19.66,
+      "end": 20.02
+    },
+    {
+      "word": "message",
+      "start": 20.02,
+      "end": 20.36
+    },
+    {
+      "word": "intervals",
+      "start": 20.36,
+      "end": 20.74
+    },
+    {
+      "word": "and",
+      "start": 20.74,
+      "end": 21.32
+    },
+    {
+      "word": "trigger",
+      "start": 21.32,
+      "end": 21.56
+    },
+    {
+      "word": "executive",
+      "start": 21.56,
+      "end": 22.12
+    },
+    {
+      "word": "alerts",
+      "start": 22.12,
+      "end": 22.46
+    },
+    {
+      "word": "when",
+      "start": 22.46,
+      "end": 22.8
+    },
+    {
+      "word": "activity",
+      "start": 22.8,
+      "end": 23.18
+    },
+    {
+      "word": "plummets.",
+      "start": 23.18,
+      "end": 23.68
+    },
+    {
+      "word": "You",
+      "start": 24.24,
+      "end": 24.36
+    },
+    {
+      "word": "prevent",
+      "start": 24.36,
+      "end": 24.6
+    },
+    {
+      "word": "client",
+      "start": 24.6,
+      "end": 25.02
+    },
+    {
+      "word": "churn",
+      "start": 25.02,
+      "end": 25.34
+    },
+    {
+      "word": "and",
+      "start": 25.34,
+      "end": 25.64
+    },
+    {
+      "word": "stabilize",
+      "start": 25.64,
+      "end": 26.16
+    },
+    {
+      "word": "retainer",
+      "start": 26.16,
+      "end": 26.7
+    },
+    {
+      "word": "cash",
+      "start": 26.7,
+      "end": 27.14
+    },
+    {
+      "word": "flow.",
+      "start": 27.14,
+      "end": 27.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop being blindsided by surprise client departures at the end of the quarter.",
+      "line2": "PREDICT CLIENT CHURN",
+      "tag": "\ud83d\uded1 Automated client churn prediction system based on communication frequency",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated client churn prediction system based on communication frequency",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

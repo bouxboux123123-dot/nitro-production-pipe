@@ -1,0 +1,416 @@
+{
+  "page": "page-06",
+  "idea": "Automated employee equipment ordering and home office stipend flow",
+  "text": "Stop wasting founder hours coordinating hardware deliveries to new hires across five different countries. Every remote onboarding turns into a mess of local credit card limits, warranty voids, and currency conversions. Founders lose entire afternoons filling out export manifests just to replace a cracked developer screen. Modern teams deploy Rippling IT or Deel Equipment to dispatch pre-imaged Dell and Apple workstations automatically. Your engineers start coding immediately without hardware delays.",
+  "duration": 31.141,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "wasting",
+      "start": 0.44,
+      "end": 0.8
+    },
+    {
+      "word": "founder",
+      "start": 0.8,
+      "end": 1.34
+    },
+    {
+      "word": "hours",
+      "start": 1.34,
+      "end": 1.86
+    },
+    {
+      "word": "coordinating",
+      "start": 1.86,
+      "end": 2.44
+    },
+    {
+      "word": "hardware",
+      "start": 2.44,
+      "end": 3.02
+    },
+    {
+      "word": "deliveries",
+      "start": 3.02,
+      "end": 3.6
+    },
+    {
+      "word": "to",
+      "start": 3.6,
+      "end": 3.98
+    },
+    {
+      "word": "new",
+      "start": 3.98,
+      "end": 4.24
+    },
+    {
+      "word": "hires",
+      "start": 4.24,
+      "end": 4.6
+    },
+    {
+      "word": "across",
+      "start": 4.6,
+      "end": 5.0
+    },
+    {
+      "word": "five",
+      "start": 5.0,
+      "end": 5.44
+    },
+    {
+      "word": "different",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "word": "countries.",
+      "start": 5.76,
+      "end": 6.38
+    },
+    {
+      "word": "Every",
+      "start": 7.12,
+      "end": 7.14
+    },
+    {
+      "word": "remote",
+      "start": 7.14,
+      "end": 7.56
+    },
+    {
+      "word": "onboarding",
+      "start": 7.56,
+      "end": 8.24
+    },
+    {
+      "word": "turns",
+      "start": 8.24,
+      "end": 8.54
+    },
+    {
+      "word": "into",
+      "start": 8.54,
+      "end": 8.84
+    },
+    {
+      "word": "a",
+      "start": 8.84,
+      "end": 9.0
+    },
+    {
+      "word": "mess",
+      "start": 9.0,
+      "end": 9.18
+    },
+    {
+      "word": "of",
+      "start": 9.18,
+      "end": 9.46
+    },
+    {
+      "word": "local",
+      "start": 9.46,
+      "end": 9.74
+    },
+    {
+      "word": "credit",
+      "start": 9.74,
+      "end": 10.0
+    },
+    {
+      "word": "card",
+      "start": 10.0,
+      "end": 10.34
+    },
+    {
+      "word": "limits,",
+      "start": 10.34,
+      "end": 10.7
+    },
+    {
+      "word": "warranty",
+      "start": 11.38,
+      "end": 11.46
+    },
+    {
+      "word": "voids,",
+      "start": 11.46,
+      "end": 12.3
+    },
+    {
+      "word": "and",
+      "start": 12.3,
+      "end": 12.5
+    },
+    {
+      "word": "currency",
+      "start": 12.5,
+      "end": 12.84
+    },
+    {
+      "word": "conversions.",
+      "start": 12.84,
+      "end": 13.54
+    },
+    {
+      "word": "Founders",
+      "start": 14.36,
+      "end": 14.36
+    },
+    {
+      "word": "lose",
+      "start": 14.36,
+      "end": 14.74
+    },
+    {
+      "word": "entire",
+      "start": 14.74,
+      "end": 15.2
+    },
+    {
+      "word": "afternoons",
+      "start": 15.2,
+      "end": 15.92
+    },
+    {
+      "word": "filling",
+      "start": 15.92,
+      "end": 16.24
+    },
+    {
+      "word": "out",
+      "start": 16.24,
+      "end": 16.56
+    },
+    {
+      "word": "export",
+      "start": 16.56,
+      "end": 16.9
+    },
+    {
+      "word": "manifests",
+      "start": 16.9,
+      "end": 17.4
+    },
+    {
+      "word": "just",
+      "start": 17.4,
+      "end": 18.1
+    },
+    {
+      "word": "to",
+      "start": 18.1,
+      "end": 18.24
+    },
+    {
+      "word": "replace",
+      "start": 18.24,
+      "end": 18.5
+    },
+    {
+      "word": "a",
+      "start": 18.5,
+      "end": 18.76
+    },
+    {
+      "word": "crack",
+      "start": 18.76,
+      "end": 19.0
+    },
+    {
+      "word": "developer",
+      "start": 19.0,
+      "end": 19.38
+    },
+    {
+      "word": "screen.",
+      "start": 19.38,
+      "end": 20.08
+    },
+    {
+      "word": "Modern",
+      "start": 20.68,
+      "end": 20.68
+    },
+    {
+      "word": "teams",
+      "start": 20.68,
+      "end": 21.08
+    },
+    {
+      "word": "deploy",
+      "start": 21.08,
+      "end": 21.46
+    },
+    {
+      "word": "rippling",
+      "start": 21.46,
+      "end": 21.84
+    },
+    {
+      "word": "IT",
+      "start": 21.84,
+      "end": 22.32
+    },
+    {
+      "word": "or",
+      "start": 22.32,
+      "end": 22.7
+    },
+    {
+      "word": "deal",
+      "start": 22.7,
+      "end": 22.92
+    },
+    {
+      "word": "equipment",
+      "start": 22.92,
+      "end": 23.3
+    },
+    {
+      "word": "to",
+      "start": 23.3,
+      "end": 23.66
+    },
+    {
+      "word": "dispatch",
+      "start": 23.66,
+      "end": 23.98
+    },
+    {
+      "word": "pre",
+      "start": 23.98,
+      "end": 24.36
+    },
+    {
+      "word": "-image",
+      "start": 24.36,
+      "end": 24.64
+    },
+    {
+      "word": "Dell",
+      "start": 24.64,
+      "end": 25.06
+    },
+    {
+      "word": "and",
+      "start": 25.06,
+      "end": 25.46
+    },
+    {
+      "word": "Apple",
+      "start": 25.46,
+      "end": 25.64
+    },
+    {
+      "word": "workstations",
+      "start": 25.64,
+      "end": 26.36
+    },
+    {
+      "word": "automatically.",
+      "start": 26.36,
+      "end": 26.98
+    },
+    {
+      "word": "Your",
+      "start": 27.34,
+      "end": 27.84
+    },
+    {
+      "word": "engineers",
+      "start": 27.84,
+      "end": 28.28
+    },
+    {
+      "word": "start",
+      "start": 28.28,
+      "end": 28.78
+    },
+    {
+      "word": "coding",
+      "start": 28.78,
+      "end": 29.12
+    },
+    {
+      "word": "immediately",
+      "start": 29.12,
+      "end": 29.64
+    },
+    {
+      "word": "without",
+      "start": 29.64,
+      "end": 30.16
+    },
+    {
+      "word": "hardware",
+      "start": 30.16,
+      "end": 30.54
+    },
+    {
+      "word": "delays.",
+      "start": 30.54,
+      "end": 31.04
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop wasting founder hours coordinating hardware deliveries to five countries.",
+      "line2": "AUTOMATE EQUIPMENT STIPENDS",
+      "tag": "\ud83d\uded1 Automated employee equipment ordering and home office stipend flow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

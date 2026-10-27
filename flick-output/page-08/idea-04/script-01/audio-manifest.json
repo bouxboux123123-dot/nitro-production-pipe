@@ -1,0 +1,396 @@
+{
+  "page": "page-08",
+  "idea": "How to extract text from a screenshot or image without retyping it",
+  "text": "Stop manually retyping text from images, scanned receipts, or screenshots. Squinting at a receipt while manually typing tracking codes into Excel invites instant errors. Manual transcription wastes valuable working hours and risks costly invoicing mistakes across your books. Open the screenshot with Snipping Tool, click Text Actions, and copy recognized text with one click. The built-in OCR extracts every letter and digit with pinpoint accuracy.",
+  "duration": 25.664,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "manually",
+      "start": 0.3,
+      "end": 0.64
+    },
+    {
+      "word": "re",
+      "start": 0.64,
+      "end": 0.88
+    },
+    {
+      "word": "-typing",
+      "start": 0.88,
+      "end": 1.22
+    },
+    {
+      "word": "text",
+      "start": 1.22,
+      "end": 1.5
+    },
+    {
+      "word": "from",
+      "start": 1.5,
+      "end": 1.72
+    },
+    {
+      "word": "images,",
+      "start": 1.72,
+      "end": 2.12
+    },
+    {
+      "word": "scan",
+      "start": 2.54,
+      "end": 2.78
+    },
+    {
+      "word": "receipts",
+      "start": 2.78,
+      "end": 3.18
+    },
+    {
+      "word": "or",
+      "start": 3.18,
+      "end": 3.48
+    },
+    {
+      "word": "screenshots.",
+      "start": 3.48,
+      "end": 4.04
+    },
+    {
+      "word": "Squinting",
+      "start": 4.6,
+      "end": 4.92
+    },
+    {
+      "word": "at",
+      "start": 4.92,
+      "end": 5.04
+    },
+    {
+      "word": "a",
+      "start": 5.04,
+      "end": 5.22
+    },
+    {
+      "word": "receipt",
+      "start": 5.22,
+      "end": 5.42
+    },
+    {
+      "word": "while",
+      "start": 5.42,
+      "end": 5.64
+    },
+    {
+      "word": "manually",
+      "start": 5.64,
+      "end": 6.06
+    },
+    {
+      "word": "typing",
+      "start": 6.06,
+      "end": 6.46
+    },
+    {
+      "word": "tracking",
+      "start": 6.46,
+      "end": 6.82
+    },
+    {
+      "word": "codes",
+      "start": 6.82,
+      "end": 7.14
+    },
+    {
+      "word": "into",
+      "start": 7.14,
+      "end": 7.42
+    },
+    {
+      "word": "Excel",
+      "start": 7.42,
+      "end": 8.06
+    },
+    {
+      "word": "invites",
+      "start": 8.06,
+      "end": 8.54
+    },
+    {
+      "word": "instant",
+      "start": 8.54,
+      "end": 8.9
+    },
+    {
+      "word": "errors.",
+      "start": 8.9,
+      "end": 9.32
+    },
+    {
+      "word": "Manual",
+      "start": 10.18,
+      "end": 10.22
+    },
+    {
+      "word": "transcription",
+      "start": 10.22,
+      "end": 10.74
+    },
+    {
+      "word": "wastes",
+      "start": 10.74,
+      "end": 11.22
+    },
+    {
+      "word": "valuable",
+      "start": 11.22,
+      "end": 11.64
+    },
+    {
+      "word": "working",
+      "start": 11.64,
+      "end": 12.12
+    },
+    {
+      "word": "hours",
+      "start": 12.12,
+      "end": 12.5
+    },
+    {
+      "word": "and",
+      "start": 12.5,
+      "end": 12.78
+    },
+    {
+      "word": "risks",
+      "start": 12.78,
+      "end": 12.96
+    },
+    {
+      "word": "costly",
+      "start": 12.96,
+      "end": 13.48
+    },
+    {
+      "word": "invoicing",
+      "start": 13.48,
+      "end": 13.94
+    },
+    {
+      "word": "mistakes",
+      "start": 13.94,
+      "end": 14.32
+    },
+    {
+      "word": "across",
+      "start": 14.32,
+      "end": 14.6
+    },
+    {
+      "word": "your",
+      "start": 14.6,
+      "end": 14.82
+    },
+    {
+      "word": "books.",
+      "start": 14.82,
+      "end": 15.14
+    },
+    {
+      "word": "Open",
+      "start": 15.58,
+      "end": 15.74
+    },
+    {
+      "word": "the",
+      "start": 15.74,
+      "end": 15.96
+    },
+    {
+      "word": "screenshot",
+      "start": 15.96,
+      "end": 16.28
+    },
+    {
+      "word": "with",
+      "start": 16.28,
+      "end": 16.6
+    },
+    {
+      "word": "Snipping",
+      "start": 16.6,
+      "end": 16.88
+    },
+    {
+      "word": "Tool,",
+      "start": 16.88,
+      "end": 17.28
+    },
+    {
+      "word": "click",
+      "start": 17.58,
+      "end": 17.84
+    },
+    {
+      "word": "text",
+      "start": 17.84,
+      "end": 18.14
+    },
+    {
+      "word": "actions,",
+      "start": 18.14,
+      "end": 18.56
+    },
+    {
+      "word": "and",
+      "start": 18.86,
+      "end": 19.12
+    },
+    {
+      "word": "copy",
+      "start": 19.12,
+      "end": 19.4
+    },
+    {
+      "word": "recognized",
+      "start": 19.4,
+      "end": 19.96
+    },
+    {
+      "word": "text",
+      "start": 19.96,
+      "end": 20.34
+    },
+    {
+      "word": "with",
+      "start": 20.34,
+      "end": 20.56
+    },
+    {
+      "word": "one",
+      "start": 20.56,
+      "end": 20.82
+    },
+    {
+      "word": "click.",
+      "start": 20.82,
+      "end": 21.08
+    },
+    {
+      "word": "The",
+      "start": 21.62,
+      "end": 21.78
+    },
+    {
+      "word": "built",
+      "start": 21.78,
+      "end": 21.94
+    },
+    {
+      "word": "-in",
+      "start": 21.94,
+      "end": 22.2
+    },
+    {
+      "word": "OCR",
+      "start": 22.2,
+      "end": 22.8
+    },
+    {
+      "word": "extracts",
+      "start": 22.8,
+      "end": 23.24
+    },
+    {
+      "word": "every",
+      "start": 23.24,
+      "end": 23.68
+    },
+    {
+      "word": "letter",
+      "start": 23.68,
+      "end": 23.94
+    },
+    {
+      "word": "and",
+      "start": 23.94,
+      "end": 24.14
+    },
+    {
+      "word": "digit",
+      "start": 24.14,
+      "end": 24.36
+    },
+    {
+      "word": "with",
+      "start": 24.36,
+      "end": 24.7
+    },
+    {
+      "word": "pinpoint",
+      "start": 24.7,
+      "end": 25.1
+    },
+    {
+      "word": "accuracy.",
+      "start": 25.1,
+      "end": 25.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop manually retyping text from images, scanned receipts, or screenshots.",
+      "line2": "EXTRACT TEXT FROM IMAGES",
+      "tag": "\ud83d\uded1 How to extract text from a screenshot or image without retyping it",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to extract text from a screenshot or image without retyping it",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to extract text from a screenshot or image without retyping it",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to extract text from a screenshot or image without retyping it",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

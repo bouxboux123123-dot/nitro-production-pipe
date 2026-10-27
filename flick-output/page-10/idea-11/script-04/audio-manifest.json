@@ -1,0 +1,411 @@
+{
+  "page": "page-10",
+  "idea": "Perplexity AI computer assistant and browser automation tools",
+  "text": "Here are the massive productivity features coming to web browsers over the next few months. Knowledge workers waste half their workday toggling between disconnected SaaS web applications and browser extensions. Traditional web browsers remain dumb document viewers that cannot understand page context or automate complex steps. Autonomous browser agents will soon fill out expense reports, summarize webinars, and extract table data automatically. You save ten hours every single week.",
+  "duration": 29.519,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "are",
+      "start": 0.26,
+      "end": 0.42
+    },
+    {
+      "word": "the",
+      "start": 0.42,
+      "end": 0.56
+    },
+    {
+      "word": "massive",
+      "start": 0.56,
+      "end": 0.96
+    },
+    {
+      "word": "productivity",
+      "start": 0.96,
+      "end": 1.48
+    },
+    {
+      "word": "features",
+      "start": 1.48,
+      "end": 2.14
+    },
+    {
+      "word": "coming",
+      "start": 2.14,
+      "end": 2.44
+    },
+    {
+      "word": "to",
+      "start": 2.44,
+      "end": 2.68
+    },
+    {
+      "word": "web",
+      "start": 2.68,
+      "end": 2.86
+    },
+    {
+      "word": "browsers",
+      "start": 2.86,
+      "end": 3.26
+    },
+    {
+      "word": "over",
+      "start": 3.26,
+      "end": 3.58
+    },
+    {
+      "word": "the",
+      "start": 3.58,
+      "end": 3.72
+    },
+    {
+      "word": "next",
+      "start": 3.72,
+      "end": 3.92
+    },
+    {
+      "word": "few",
+      "start": 3.92,
+      "end": 4.16
+    },
+    {
+      "word": "months.",
+      "start": 4.16,
+      "end": 4.76
+    },
+    {
+      "word": "Knowledge",
+      "start": 5.26,
+      "end": 5.46
+    },
+    {
+      "word": "workers",
+      "start": 5.46,
+      "end": 5.9
+    },
+    {
+      "word": "waste",
+      "start": 5.9,
+      "end": 6.3
+    },
+    {
+      "word": "half",
+      "start": 6.3,
+      "end": 6.6
+    },
+    {
+      "word": "their",
+      "start": 6.6,
+      "end": 6.8
+    },
+    {
+      "word": "workday",
+      "start": 6.8,
+      "end": 7.2
+    },
+    {
+      "word": "toggling",
+      "start": 7.2,
+      "end": 7.62
+    },
+    {
+      "word": "between",
+      "start": 7.62,
+      "end": 8.1
+    },
+    {
+      "word": "disconnected",
+      "start": 8.1,
+      "end": 8.74
+    },
+    {
+      "word": "saw",
+      "start": 8.74,
+      "end": 9.12
+    },
+    {
+      "word": "S",
+      "start": 9.12,
+      "end": 9.42
+    },
+    {
+      "word": "-Web",
+      "start": 9.42,
+      "end": 9.64
+    },
+    {
+      "word": "applications",
+      "start": 9.64,
+      "end": 10.14
+    },
+    {
+      "word": "and",
+      "start": 10.14,
+      "end": 10.72
+    },
+    {
+      "word": "browser",
+      "start": 10.72,
+      "end": 11.1
+    },
+    {
+      "word": "extensions.",
+      "start": 11.1,
+      "end": 11.76
+    },
+    {
+      "word": "Traditional",
+      "start": 12.56,
+      "end": 12.56
+    },
+    {
+      "word": "web",
+      "start": 12.56,
+      "end": 12.96
+    },
+    {
+      "word": "browsers",
+      "start": 12.96,
+      "end": 13.38
+    },
+    {
+      "word": "remain",
+      "start": 13.38,
+      "end": 13.88
+    },
+    {
+      "word": "dumb",
+      "start": 13.88,
+      "end": 14.18
+    },
+    {
+      "word": "document",
+      "start": 14.18,
+      "end": 14.64
+    },
+    {
+      "word": "viewers",
+      "start": 14.64,
+      "end": 15.02
+    },
+    {
+      "word": "that",
+      "start": 15.02,
+      "end": 15.3
+    },
+    {
+      "word": "cannot",
+      "start": 15.3,
+      "end": 15.6
+    },
+    {
+      "word": "understand",
+      "start": 15.6,
+      "end": 16.18
+    },
+    {
+      "word": "page",
+      "start": 16.18,
+      "end": 16.58
+    },
+    {
+      "word": "context",
+      "start": 16.58,
+      "end": 17.1
+    },
+    {
+      "word": "or",
+      "start": 17.1,
+      "end": 17.78
+    },
+    {
+      "word": "automate",
+      "start": 17.78,
+      "end": 18.1
+    },
+    {
+      "word": "complex",
+      "start": 18.1,
+      "end": 18.66
+    },
+    {
+      "word": "steps.",
+      "start": 18.66,
+      "end": 19.12
+    },
+    {
+      "word": "Autonomous",
+      "start": 19.76,
+      "end": 20.22
+    },
+    {
+      "word": "browser",
+      "start": 20.22,
+      "end": 20.7
+    },
+    {
+      "word": "agents",
+      "start": 20.7,
+      "end": 21.08
+    },
+    {
+      "word": "will",
+      "start": 21.08,
+      "end": 21.32
+    },
+    {
+      "word": "soon",
+      "start": 21.32,
+      "end": 21.6
+    },
+    {
+      "word": "fill",
+      "start": 21.6,
+      "end": 21.8
+    },
+    {
+      "word": "out",
+      "start": 21.8,
+      "end": 22.08
+    },
+    {
+      "word": "expense",
+      "start": 22.08,
+      "end": 22.4
+    },
+    {
+      "word": "reports,",
+      "start": 22.4,
+      "end": 22.88
+    },
+    {
+      "word": "summarize",
+      "start": 23.48,
+      "end": 23.72
+    },
+    {
+      "word": "webinars",
+      "start": 23.72,
+      "end": 24.38
+    },
+    {
+      "word": "and",
+      "start": 24.38,
+      "end": 24.94
+    },
+    {
+      "word": "extract",
+      "start": 24.94,
+      "end": 25.36
+    },
+    {
+      "word": "table",
+      "start": 25.36,
+      "end": 25.76
+    },
+    {
+      "word": "data",
+      "start": 25.76,
+      "end": 26.12
+    },
+    {
+      "word": "automatically.",
+      "start": 26.12,
+      "end": 26.66
+    },
+    {
+      "word": "You",
+      "start": 26.66,
+      "end": 27.44
+    },
+    {
+      "word": "save",
+      "start": 27.44,
+      "end": 27.7
+    },
+    {
+      "word": "10",
+      "start": 27.7,
+      "end": 28.1
+    },
+    {
+      "word": "hours",
+      "start": 28.1,
+      "end": 28.46
+    },
+    {
+      "word": "every",
+      "start": 28.46,
+      "end": 28.9
+    },
+    {
+      "word": "single",
+      "start": 28.9,
+      "end": 29.22
+    },
+    {
+      "word": "week.",
+      "start": 29.22,
+      "end": 29.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new productivity features coming to web browsers in the next few months.",
+      "line2": "PERPLEXITY BROWSER AUTOMATION TOOLS",
+      "tag": "\ud83d\uded1 Perplexity AI computer assistant and browser automation tools",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Perplexity AI computer assistant and browser automation tools",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Perplexity AI computer assistant and browser automation tools",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

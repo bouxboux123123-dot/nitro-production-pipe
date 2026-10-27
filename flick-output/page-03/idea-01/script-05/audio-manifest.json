@@ -1,0 +1,391 @@
+{
+  "page": "page-03",
+  "idea": "Automated Etsy digital product delivery with zero manual work",
+  "text": "The step-by-step automation every digital Etsy seller needs to know. Selling digital journals requires managing file permissions that quickly consume your entire evening. Forgetting to set link permissions to public triggers locked-file complaints and damaging shop reviews. Use Make to duplicate a master template into a unique buyer folder upon every verified sale. You eliminate permission errors while saving ten hours every week.",
+  "duration": 24.171,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "step",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "-by",
+      "start": 0.38,
+      "end": 0.58
+    },
+    {
+      "word": "-step",
+      "start": 0.58,
+      "end": 0.82
+    },
+    {
+      "word": "automation",
+      "start": 0.82,
+      "end": 1.3
+    },
+    {
+      "word": "every",
+      "start": 1.3,
+      "end": 1.78
+    },
+    {
+      "word": "digital",
+      "start": 1.78,
+      "end": 2.18
+    },
+    {
+      "word": "Etsy",
+      "start": 2.18,
+      "end": 2.52
+    },
+    {
+      "word": "seller",
+      "start": 2.52,
+      "end": 2.8
+    },
+    {
+      "word": "needs",
+      "start": 2.8,
+      "end": 3.12
+    },
+    {
+      "word": "to",
+      "start": 3.12,
+      "end": 3.34
+    },
+    {
+      "word": "know.",
+      "start": 3.34,
+      "end": 3.86
+    },
+    {
+      "word": "Selling",
+      "start": 4.34,
+      "end": 4.38
+    },
+    {
+      "word": "digital",
+      "start": 4.38,
+      "end": 4.74
+    },
+    {
+      "word": "journals",
+      "start": 4.74,
+      "end": 5.12
+    },
+    {
+      "word": "requires",
+      "start": 5.12,
+      "end": 5.64
+    },
+    {
+      "word": "managing",
+      "start": 5.64,
+      "end": 6.14
+    },
+    {
+      "word": "file",
+      "start": 6.14,
+      "end": 6.56
+    },
+    {
+      "word": "permissions",
+      "start": 6.56,
+      "end": 6.98
+    },
+    {
+      "word": "that",
+      "start": 6.98,
+      "end": 7.38
+    },
+    {
+      "word": "quickly",
+      "start": 7.38,
+      "end": 7.7
+    },
+    {
+      "word": "consume",
+      "start": 7.7,
+      "end": 8.08
+    },
+    {
+      "word": "your",
+      "start": 8.08,
+      "end": 8.34
+    },
+    {
+      "word": "entire",
+      "start": 8.34,
+      "end": 8.78
+    },
+    {
+      "word": "evening.",
+      "start": 8.78,
+      "end": 9.26
+    },
+    {
+      "word": "For",
+      "start": 9.7,
+      "end": 9.8
+    },
+    {
+      "word": "getting",
+      "start": 9.8,
+      "end": 9.98
+    },
+    {
+      "word": "to",
+      "start": 9.98,
+      "end": 10.22
+    },
+    {
+      "word": "set",
+      "start": 10.22,
+      "end": 10.42
+    },
+    {
+      "word": "link",
+      "start": 10.42,
+      "end": 10.66
+    },
+    {
+      "word": "permissions",
+      "start": 10.66,
+      "end": 11.02
+    },
+    {
+      "word": "to",
+      "start": 11.02,
+      "end": 11.38
+    },
+    {
+      "word": "public",
+      "start": 11.38,
+      "end": 11.64
+    },
+    {
+      "word": "triggers,",
+      "start": 11.64,
+      "end": 12.1
+    },
+    {
+      "word": "locked",
+      "start": 12.64,
+      "end": 12.66
+    },
+    {
+      "word": "file",
+      "start": 12.66,
+      "end": 13.0
+    },
+    {
+      "word": "complaints",
+      "start": 13.0,
+      "end": 13.42
+    },
+    {
+      "word": "and",
+      "start": 13.42,
+      "end": 13.86
+    },
+    {
+      "word": "damaging",
+      "start": 13.86,
+      "end": 14.16
+    },
+    {
+      "word": "shop",
+      "start": 14.16,
+      "end": 14.62
+    },
+    {
+      "word": "reviews.",
+      "start": 14.62,
+      "end": 15.06
+    },
+    {
+      "word": "Use",
+      "start": 15.68,
+      "end": 15.76
+    },
+    {
+      "word": "make",
+      "start": 15.76,
+      "end": 15.96
+    },
+    {
+      "word": "to",
+      "start": 15.96,
+      "end": 16.14
+    },
+    {
+      "word": "duplicate",
+      "start": 16.14,
+      "end": 16.44
+    },
+    {
+      "word": "a",
+      "start": 16.44,
+      "end": 16.84
+    },
+    {
+      "word": "master",
+      "start": 16.84,
+      "end": 16.94
+    },
+    {
+      "word": "template",
+      "start": 16.94,
+      "end": 17.34
+    },
+    {
+      "word": "into",
+      "start": 17.34,
+      "end": 17.64
+    },
+    {
+      "word": "a",
+      "start": 17.64,
+      "end": 17.78
+    },
+    {
+      "word": "unique",
+      "start": 17.78,
+      "end": 18.08
+    },
+    {
+      "word": "buyer",
+      "start": 18.08,
+      "end": 18.46
+    },
+    {
+      "word": "folder",
+      "start": 18.46,
+      "end": 18.8
+    },
+    {
+      "word": "upon",
+      "start": 18.8,
+      "end": 19.2
+    },
+    {
+      "word": "every",
+      "start": 19.2,
+      "end": 19.56
+    },
+    {
+      "word": "verified",
+      "start": 19.56,
+      "end": 19.9
+    },
+    {
+      "word": "sale.",
+      "start": 19.9,
+      "end": 20.52
+    },
+    {
+      "word": "You",
+      "start": 20.52,
+      "end": 21.2
+    },
+    {
+      "word": "eliminate",
+      "start": 21.2,
+      "end": 21.46
+    },
+    {
+      "word": "permission",
+      "start": 21.46,
+      "end": 21.86
+    },
+    {
+      "word": "errors",
+      "start": 21.86,
+      "end": 22.26
+    },
+    {
+      "word": "while",
+      "start": 22.26,
+      "end": 22.54
+    },
+    {
+      "word": "saving",
+      "start": 22.54,
+      "end": 22.84
+    },
+    {
+      "word": "10",
+      "start": 22.84,
+      "end": 23.22
+    },
+    {
+      "word": "hours",
+      "start": 23.22,
+      "end": 23.52
+    },
+    {
+      "word": "every",
+      "start": 23.52,
+      "end": 23.84
+    },
+    {
+      "word": "week.",
+      "start": 23.84,
+      "end": 24.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The step-by-step automation every digital Etsy seller needs to know.",
+      "line2": "ZERO MANUAL FULFILLMENT",
+      "tag": "\ud83d\uded1 Automated Etsy digital product delivery with zero manual work",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated Etsy digital product delivery with zero manual work",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated Etsy digital product delivery with zero manual work",
+        "subtitle": "Automated Etsy digital product delivery with zero manual work"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated Etsy digital product delivery with zero manual work"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated Etsy digital product delivery with zero manual work"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated Etsy digital product delivery with zero manual work",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

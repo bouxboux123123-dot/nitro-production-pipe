@@ -1,0 +1,386 @@
+{
+  "page": "page-09",
+  "idea": "Airtable vs Google Sheets: when do you actually need a relational database",
+  "text": "Google Sheets vs Airtable: when should you actually upgrade to a database? Operations managers run businesses on spreadsheets until broken VLOOKUP formulas and duplicate rows corrupt records. Google Sheets handles financial modeling well, but collapses when tracking relational workflows and multi-stage project approvals. Migrate to Airtable to link client accounts directly to deliverables with automated field validation. This upgrade prevents costly tracking mistakes permanently.",
+  "duration": 29.775,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Google",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "Sheets",
+      "start": 0.42,
+      "end": 0.78
+    },
+    {
+      "word": "VS",
+      "start": 0.78,
+      "end": 1.3
+    },
+    {
+      "word": "Airtable.",
+      "start": 1.3,
+      "end": 1.74
+    },
+    {
+      "word": "When",
+      "start": 2.16,
+      "end": 2.32
+    },
+    {
+      "word": "should",
+      "start": 2.32,
+      "end": 2.48
+    },
+    {
+      "word": "you",
+      "start": 2.48,
+      "end": 2.76
+    },
+    {
+      "word": "actually",
+      "start": 2.76,
+      "end": 3.1
+    },
+    {
+      "word": "upgrade",
+      "start": 3.1,
+      "end": 3.48
+    },
+    {
+      "word": "to",
+      "start": 3.48,
+      "end": 3.76
+    },
+    {
+      "word": "a",
+      "start": 3.76,
+      "end": 4.38
+    },
+    {
+      "word": "database?",
+      "start": 4.38,
+      "end": 4.38
+    },
+    {
+      "word": "Operations",
+      "start": 5.08,
+      "end": 5.6
+    },
+    {
+      "word": "managers",
+      "start": 5.6,
+      "end": 6.12
+    },
+    {
+      "word": "run",
+      "start": 6.12,
+      "end": 6.58
+    },
+    {
+      "word": "businesses",
+      "start": 6.58,
+      "end": 7.02
+    },
+    {
+      "word": "on",
+      "start": 7.02,
+      "end": 7.44
+    },
+    {
+      "word": "spreadsheets",
+      "start": 7.44,
+      "end": 8.06
+    },
+    {
+      "word": "until",
+      "start": 8.06,
+      "end": 8.58
+    },
+    {
+      "word": "broken",
+      "start": 8.58,
+      "end": 8.96
+    },
+    {
+      "word": "VLOOKUP",
+      "start": 8.96,
+      "end": 9.5
+    },
+    {
+      "word": "formulas",
+      "start": 9.5,
+      "end": 9.96
+    },
+    {
+      "word": "and",
+      "start": 9.96,
+      "end": 10.46
+    },
+    {
+      "word": "duplicate",
+      "start": 10.46,
+      "end": 10.8
+    },
+    {
+      "word": "rows",
+      "start": 10.8,
+      "end": 11.42
+    },
+    {
+      "word": "corrupt",
+      "start": 11.42,
+      "end": 11.78
+    },
+    {
+      "word": "records.",
+      "start": 11.78,
+      "end": 12.26
+    },
+    {
+      "word": "Google",
+      "start": 12.74,
+      "end": 12.98
+    },
+    {
+      "word": "Sheets",
+      "start": 12.98,
+      "end": 13.26
+    },
+    {
+      "word": "handles",
+      "start": 13.26,
+      "end": 13.7
+    },
+    {
+      "word": "financial",
+      "start": 13.7,
+      "end": 14.3
+    },
+    {
+      "word": "modeling",
+      "start": 14.3,
+      "end": 14.72
+    },
+    {
+      "word": "well,",
+      "start": 14.72,
+      "end": 15.18
+    },
+    {
+      "word": "but",
+      "start": 15.36,
+      "end": 15.58
+    },
+    {
+      "word": "collapses",
+      "start": 15.58,
+      "end": 15.94
+    },
+    {
+      "word": "when",
+      "start": 15.94,
+      "end": 16.3
+    },
+    {
+      "word": "tracking",
+      "start": 16.3,
+      "end": 16.66
+    },
+    {
+      "word": "relational",
+      "start": 16.66,
+      "end": 17.32
+    },
+    {
+      "word": "workflows",
+      "start": 17.32,
+      "end": 17.92
+    },
+    {
+      "word": "and",
+      "start": 17.92,
+      "end": 18.32
+    },
+    {
+      "word": "multi",
+      "start": 18.32,
+      "end": 18.46
+    },
+    {
+      "word": "-stage",
+      "start": 18.46,
+      "end": 18.96
+    },
+    {
+      "word": "project",
+      "start": 18.96,
+      "end": 19.48
+    },
+    {
+      "word": "approvals.",
+      "start": 19.48,
+      "end": 19.94
+    },
+    {
+      "word": "Migrate",
+      "start": 20.56,
+      "end": 20.86
+    },
+    {
+      "word": "to",
+      "start": 20.86,
+      "end": 21.2
+    },
+    {
+      "word": "Airtable",
+      "start": 21.2,
+      "end": 21.52
+    },
+    {
+      "word": "to",
+      "start": 21.52,
+      "end": 21.74
+    },
+    {
+      "word": "link",
+      "start": 21.74,
+      "end": 21.98
+    },
+    {
+      "word": "client",
+      "start": 21.98,
+      "end": 22.36
+    },
+    {
+      "word": "accounts",
+      "start": 22.36,
+      "end": 22.98
+    },
+    {
+      "word": "directly",
+      "start": 22.98,
+      "end": 23.4
+    },
+    {
+      "word": "to",
+      "start": 23.4,
+      "end": 23.74
+    },
+    {
+      "word": "deliverables",
+      "start": 23.74,
+      "end": 24.24
+    },
+    {
+      "word": "with",
+      "start": 24.24,
+      "end": 24.64
+    },
+    {
+      "word": "automated",
+      "start": 24.64,
+      "end": 24.92
+    },
+    {
+      "word": "field",
+      "start": 24.92,
+      "end": 25.38
+    },
+    {
+      "word": "validation.",
+      "start": 25.38,
+      "end": 26.02
+    },
+    {
+      "word": "This",
+      "start": 26.02,
+      "end": 26.88
+    },
+    {
+      "word": "upgrade",
+      "start": 26.88,
+      "end": 27.34
+    },
+    {
+      "word": "prevents",
+      "start": 27.34,
+      "end": 27.76
+    },
+    {
+      "word": "costly",
+      "start": 27.76,
+      "end": 28.32
+    },
+    {
+      "word": "tracking",
+      "start": 28.32,
+      "end": 28.66
+    },
+    {
+      "word": "mistakes",
+      "start": 28.66,
+      "end": 29.16
+    },
+    {
+      "word": "permanently.",
+      "start": 29.16,
+      "end": 29.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Google Sheets vs Airtable: when should you actually upgrade to a database?",
+      "line2": "AIRTABLE VS GOOGLE SHEETS",
+      "tag": "\ud83d\uded1 Airtable vs Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Airtable vs Google Sheets",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Airtable vs Google Sheets",
+        "subtitle": "Airtable vs Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Airtable vs Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Airtable vs Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Airtable vs Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

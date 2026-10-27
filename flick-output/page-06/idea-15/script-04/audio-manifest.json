@@ -1,0 +1,396 @@
+{
+  "page": "page-06",
+  "idea": "Centralized team SOP hub that answers common questions using AI search",
+  "text": "Fast-growing remote teams must preserve operational knowledge as they scale from ten to one hundred employees. Rapid hiring usually dilutes execution quality because tribal knowledge gets passed down through unrecorded video calls. Without structured documentation, duplicate operational mistakes compound across departments and degrade customer support. Implementing Slab with AI indexing automatically catalogs workflow guides and serves verified answers inside Slack. You protect execution standards while scaling headcount.",
+  "duration": 33.039,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Fast",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "-growing",
+      "start": 0.44,
+      "end": 0.78
+    },
+    {
+      "word": "remote",
+      "start": 0.78,
+      "end": 1.12
+    },
+    {
+      "word": "teams",
+      "start": 1.12,
+      "end": 1.6
+    },
+    {
+      "word": "must",
+      "start": 1.6,
+      "end": 1.92
+    },
+    {
+      "word": "preserve",
+      "start": 1.92,
+      "end": 2.28
+    },
+    {
+      "word": "operational",
+      "start": 2.28,
+      "end": 2.86
+    },
+    {
+      "word": "knowledge",
+      "start": 2.86,
+      "end": 3.44
+    },
+    {
+      "word": "as",
+      "start": 3.44,
+      "end": 3.88
+    },
+    {
+      "word": "they",
+      "start": 3.88,
+      "end": 4.1
+    },
+    {
+      "word": "scale",
+      "start": 4.1,
+      "end": 4.4
+    },
+    {
+      "word": "from",
+      "start": 4.4,
+      "end": 4.68
+    },
+    {
+      "word": "10",
+      "start": 4.68,
+      "end": 5.16
+    },
+    {
+      "word": "to",
+      "start": 5.16,
+      "end": 5.5
+    },
+    {
+      "word": "100",
+      "start": 5.5,
+      "end": 5.92
+    },
+    {
+      "word": "employees.",
+      "start": 5.92,
+      "end": 6.62
+    },
+    {
+      "word": "Rapid",
+      "start": 7.36,
+      "end": 7.52
+    },
+    {
+      "word": "hiring",
+      "start": 7.52,
+      "end": 7.94
+    },
+    {
+      "word": "usually",
+      "start": 7.94,
+      "end": 8.46
+    },
+    {
+      "word": "dilutes",
+      "start": 8.46,
+      "end": 8.88
+    },
+    {
+      "word": "execution",
+      "start": 8.88,
+      "end": 9.38
+    },
+    {
+      "word": "quality",
+      "start": 9.38,
+      "end": 10.0
+    },
+    {
+      "word": "because",
+      "start": 10.0,
+      "end": 10.68
+    },
+    {
+      "word": "tribal",
+      "start": 10.68,
+      "end": 11.02
+    },
+    {
+      "word": "knowledge",
+      "start": 11.02,
+      "end": 11.52
+    },
+    {
+      "word": "gets",
+      "start": 11.52,
+      "end": 11.9
+    },
+    {
+      "word": "passed",
+      "start": 11.9,
+      "end": 12.22
+    },
+    {
+      "word": "down",
+      "start": 12.22,
+      "end": 12.6
+    },
+    {
+      "word": "through",
+      "start": 12.6,
+      "end": 12.9
+    },
+    {
+      "word": "unrecorded",
+      "start": 12.9,
+      "end": 13.4
+    },
+    {
+      "word": "video",
+      "start": 13.4,
+      "end": 13.82
+    },
+    {
+      "word": "calls.",
+      "start": 13.82,
+      "end": 14.24
+    },
+    {
+      "word": "Without",
+      "start": 14.64,
+      "end": 14.92
+    },
+    {
+      "word": "structured",
+      "start": 14.92,
+      "end": 15.38
+    },
+    {
+      "word": "documentation,",
+      "start": 15.38,
+      "end": 16.2
+    },
+    {
+      "word": "duplicate",
+      "start": 16.78,
+      "end": 17.02
+    },
+    {
+      "word": "operational",
+      "start": 17.02,
+      "end": 17.76
+    },
+    {
+      "word": "mistakes",
+      "start": 17.76,
+      "end": 18.26
+    },
+    {
+      "word": "compound",
+      "start": 18.26,
+      "end": 18.74
+    },
+    {
+      "word": "across",
+      "start": 18.74,
+      "end": 19.16
+    },
+    {
+      "word": "departments",
+      "start": 19.16,
+      "end": 19.7
+    },
+    {
+      "word": "and",
+      "start": 19.7,
+      "end": 20.22
+    },
+    {
+      "word": "degrade",
+      "start": 20.22,
+      "end": 20.56
+    },
+    {
+      "word": "customer",
+      "start": 20.56,
+      "end": 21.04
+    },
+    {
+      "word": "support.",
+      "start": 21.04,
+      "end": 21.74
+    },
+    {
+      "word": "Implementing",
+      "start": 22.26,
+      "end": 22.84
+    },
+    {
+      "word": "slab",
+      "start": 22.84,
+      "end": 23.16
+    },
+    {
+      "word": "with",
+      "start": 23.16,
+      "end": 23.46
+    },
+    {
+      "word": "AI",
+      "start": 23.46,
+      "end": 23.9
+    },
+    {
+      "word": "indexing",
+      "start": 23.9,
+      "end": 24.58
+    },
+    {
+      "word": "automatically",
+      "start": 24.58,
+      "end": 25.22
+    },
+    {
+      "word": "catalogs",
+      "start": 25.22,
+      "end": 26.1
+    },
+    {
+      "word": "workflow",
+      "start": 26.1,
+      "end": 26.3
+    },
+    {
+      "word": "guides",
+      "start": 26.3,
+      "end": 26.82
+    },
+    {
+      "word": "and",
+      "start": 26.82,
+      "end": 27.36
+    },
+    {
+      "word": "serves",
+      "start": 27.36,
+      "end": 27.66
+    },
+    {
+      "word": "verified",
+      "start": 27.66,
+      "end": 28.16
+    },
+    {
+      "word": "answers",
+      "start": 28.16,
+      "end": 28.68
+    },
+    {
+      "word": "inside",
+      "start": 28.68,
+      "end": 29.22
+    },
+    {
+      "word": "Slack.",
+      "start": 29.22,
+      "end": 29.66
+    },
+    {
+      "word": "You",
+      "start": 30.22,
+      "end": 30.38
+    },
+    {
+      "word": "protect",
+      "start": 30.38,
+      "end": 30.66
+    },
+    {
+      "word": "execution",
+      "start": 30.66,
+      "end": 31.2
+    },
+    {
+      "word": "standards",
+      "start": 31.2,
+      "end": 31.76
+    },
+    {
+      "word": "while",
+      "start": 31.76,
+      "end": 32.1
+    },
+    {
+      "word": "scaling",
+      "start": 32.1,
+      "end": 32.5
+    },
+    {
+      "word": "headcount.",
+      "start": 32.5,
+      "end": 33.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How fast-growing remote teams preserve operational knowledge as they scale.",
+      "line2": "AI-POWERED SOP SEARCH",
+      "tag": "\ud83d\uded1 Centralized team SOP hub that answers common questions using AI search",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Centralized team SOP hub that answers common questions using AI search",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Centralized team SOP hub that answers common questions using AI search",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

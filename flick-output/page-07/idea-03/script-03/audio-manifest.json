@@ -1,0 +1,406 @@
+{
+  "page": "page-07",
+  "idea": "AI customer interview transcription and feature request clustering",
+  "text": "Stop guessing what product features your users actually want built next. Founders argue over sprint priorities because feedback is trapped in sales call recordings, Slack channels, and support tickets. When user feedback lacks centralized frequency metrics, engineering teams waste quarters building features nobody uses. Route Grain transcripts through an OpenAI assistant that tallies user friction points inside an Airtable repository. This gives your engineering team unmistakable product clarity.",
+  "duration": 30.287,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "guessing",
+      "start": 0.36,
+      "end": 0.66
+    },
+    {
+      "word": "what",
+      "start": 0.66,
+      "end": 1.02
+    },
+    {
+      "word": "product",
+      "start": 1.02,
+      "end": 1.28
+    },
+    {
+      "word": "features",
+      "start": 1.28,
+      "end": 1.62
+    },
+    {
+      "word": "your",
+      "start": 1.62,
+      "end": 1.94
+    },
+    {
+      "word": "users",
+      "start": 1.94,
+      "end": 2.3
+    },
+    {
+      "word": "actually",
+      "start": 2.3,
+      "end": 2.78
+    },
+    {
+      "word": "want",
+      "start": 2.78,
+      "end": 3.06
+    },
+    {
+      "word": "built",
+      "start": 3.06,
+      "end": 3.28
+    },
+    {
+      "word": "next.",
+      "start": 3.28,
+      "end": 3.84
+    },
+    {
+      "word": "Founders",
+      "start": 4.6,
+      "end": 4.6
+    },
+    {
+      "word": "argue",
+      "start": 4.6,
+      "end": 5.12
+    },
+    {
+      "word": "over",
+      "start": 5.12,
+      "end": 5.42
+    },
+    {
+      "word": "sprint",
+      "start": 5.42,
+      "end": 5.68
+    },
+    {
+      "word": "priorities",
+      "start": 5.68,
+      "end": 6.2
+    },
+    {
+      "word": "because",
+      "start": 6.2,
+      "end": 6.82
+    },
+    {
+      "word": "feedback",
+      "start": 6.82,
+      "end": 7.14
+    },
+    {
+      "word": "is",
+      "start": 7.14,
+      "end": 7.5
+    },
+    {
+      "word": "trapped",
+      "start": 7.5,
+      "end": 7.74
+    },
+    {
+      "word": "in",
+      "start": 7.74,
+      "end": 8.04
+    },
+    {
+      "word": "sales,",
+      "start": 8.04,
+      "end": 8.34
+    },
+    {
+      "word": "call",
+      "start": 8.42,
+      "end": 8.64
+    },
+    {
+      "word": "recordings,",
+      "start": 8.64,
+      "end": 9.14
+    },
+    {
+      "word": "Slack",
+      "start": 9.6,
+      "end": 9.84
+    },
+    {
+      "word": "channels,",
+      "start": 9.84,
+      "end": 10.32
+    },
+    {
+      "word": "and",
+      "start": 10.5,
+      "end": 10.66
+    },
+    {
+      "word": "support",
+      "start": 10.66,
+      "end": 10.92
+    },
+    {
+      "word": "tickets.",
+      "start": 10.92,
+      "end": 11.34
+    },
+    {
+      "word": "When",
+      "start": 11.72,
+      "end": 11.88
+    },
+    {
+      "word": "user",
+      "start": 11.88,
+      "end": 12.14
+    },
+    {
+      "word": "feedback",
+      "start": 12.14,
+      "end": 12.58
+    },
+    {
+      "word": "lacks",
+      "start": 12.58,
+      "end": 13.0
+    },
+    {
+      "word": "centralized",
+      "start": 13.0,
+      "end": 13.56
+    },
+    {
+      "word": "frequency",
+      "start": 13.56,
+      "end": 14.08
+    },
+    {
+      "word": "metrics,",
+      "start": 14.08,
+      "end": 14.56
+    },
+    {
+      "word": "engineering",
+      "start": 15.16,
+      "end": 15.36
+    },
+    {
+      "word": "teams",
+      "start": 15.36,
+      "end": 15.94
+    },
+    {
+      "word": "waste",
+      "start": 15.94,
+      "end": 16.3
+    },
+    {
+      "word": "quarters",
+      "start": 16.3,
+      "end": 16.64
+    },
+    {
+      "word": "building",
+      "start": 16.64,
+      "end": 17.1
+    },
+    {
+      "word": "features",
+      "start": 17.1,
+      "end": 17.58
+    },
+    {
+      "word": "nobody",
+      "start": 17.58,
+      "end": 18.0
+    },
+    {
+      "word": "uses.",
+      "start": 18.0,
+      "end": 18.52
+    },
+    {
+      "word": "Route",
+      "start": 19.18,
+      "end": 19.5
+    },
+    {
+      "word": "grain",
+      "start": 19.5,
+      "end": 19.82
+    },
+    {
+      "word": "transcripts",
+      "start": 19.82,
+      "end": 20.34
+    },
+    {
+      "word": "through",
+      "start": 20.34,
+      "end": 20.72
+    },
+    {
+      "word": "an",
+      "start": 20.72,
+      "end": 20.9
+    },
+    {
+      "word": "open",
+      "start": 20.9,
+      "end": 21.26
+    },
+    {
+      "word": "AI",
+      "start": 21.26,
+      "end": 21.68
+    },
+    {
+      "word": "assistant",
+      "start": 21.68,
+      "end": 22.2
+    },
+    {
+      "word": "that",
+      "start": 22.2,
+      "end": 22.8
+    },
+    {
+      "word": "Tala's",
+      "start": 22.8,
+      "end": 23.26
+    },
+    {
+      "word": "user",
+      "start": 23.26,
+      "end": 23.5
+    },
+    {
+      "word": "friction",
+      "start": 23.5,
+      "end": 23.86
+    },
+    {
+      "word": "points",
+      "start": 23.86,
+      "end": 24.3
+    },
+    {
+      "word": "inside",
+      "start": 24.3,
+      "end": 24.76
+    },
+    {
+      "word": "an",
+      "start": 24.76,
+      "end": 25.0
+    },
+    {
+      "word": "irritable",
+      "start": 25.0,
+      "end": 25.42
+    },
+    {
+      "word": "repository.",
+      "start": 25.42,
+      "end": 26.16
+    },
+    {
+      "word": "This",
+      "start": 26.88,
+      "end": 27.06
+    },
+    {
+      "word": "gives",
+      "start": 27.06,
+      "end": 27.3
+    },
+    {
+      "word": "your",
+      "start": 27.3,
+      "end": 27.54
+    },
+    {
+      "word": "engineering",
+      "start": 27.54,
+      "end": 27.98
+    },
+    {
+      "word": "team",
+      "start": 27.98,
+      "end": 28.54
+    },
+    {
+      "word": "unmistakable",
+      "start": 28.54,
+      "end": 29.36
+    },
+    {
+      "word": "product",
+      "start": 29.36,
+      "end": 29.84
+    },
+    {
+      "word": "clarity.",
+      "start": 29.84,
+      "end": 30.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop guessing what product features your users actually want built next.",
+      "line2": "CLUSTER FEATURE REQUESTS",
+      "tag": "\ud83d\uded1 AI customer interview transcription and feature request clustering",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: AI customer interview transcription and feature request clustering",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: AI customer interview transcription and feature request clustering",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "AI customer interview transcription and feature request clustering",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

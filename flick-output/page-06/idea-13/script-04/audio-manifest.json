@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Automated employee equipment ordering and home office stipend flow",
+  "text": "Equip your remote workforce with top-tier gear without enduring massive logistical headaches. Offering home stipends sounds simple until employees buy incompatible docks and submit endless expensable receipts. Finance teams waste days auditing purchases while workers struggle with cheap webcams and ergonomic pain. Instead, launch an automated Hofy portal where pre-approved ergonomic chairs and 4K displays order instantly. You standardize home offices while eliminating expense overhead.",
+  "duration": 31.525,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "equip",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "your",
+      "start": 0.32,
+      "end": 0.58
+    },
+    {
+      "word": "remote",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "workforce",
+      "start": 0.86,
+      "end": 1.32
+    },
+    {
+      "word": "with",
+      "start": 1.32,
+      "end": 1.7
+    },
+    {
+      "word": "top",
+      "start": 1.7,
+      "end": 2.0
+    },
+    {
+      "word": "-tier",
+      "start": 2.0,
+      "end": 2.24
+    },
+    {
+      "word": "gear",
+      "start": 2.24,
+      "end": 2.7
+    },
+    {
+      "word": "without",
+      "start": 2.7,
+      "end": 3.16
+    },
+    {
+      "word": "enduring",
+      "start": 3.16,
+      "end": 3.7
+    },
+    {
+      "word": "massive",
+      "start": 3.7,
+      "end": 4.18
+    },
+    {
+      "word": "logistical",
+      "start": 4.18,
+      "end": 4.78
+    },
+    {
+      "word": "headaches.",
+      "start": 4.78,
+      "end": 5.32
+    },
+    {
+      "word": "Offering",
+      "start": 6.04,
+      "end": 6.28
+    },
+    {
+      "word": "home",
+      "start": 6.28,
+      "end": 6.64
+    },
+    {
+      "word": "stipends",
+      "start": 6.64,
+      "end": 7.12
+    },
+    {
+      "word": "sound",
+      "start": 7.12,
+      "end": 7.6
+    },
+    {
+      "word": "simple",
+      "start": 7.6,
+      "end": 8.04
+    },
+    {
+      "word": "until",
+      "start": 8.04,
+      "end": 8.56
+    },
+    {
+      "word": "employees",
+      "start": 8.56,
+      "end": 9.14
+    },
+    {
+      "word": "buy",
+      "start": 9.14,
+      "end": 9.64
+    },
+    {
+      "word": "incompatible",
+      "start": 9.64,
+      "end": 10.22
+    },
+    {
+      "word": "docs",
+      "start": 10.22,
+      "end": 10.82
+    },
+    {
+      "word": "and",
+      "start": 10.82,
+      "end": 11.36
+    },
+    {
+      "word": "submit",
+      "start": 11.36,
+      "end": 11.7
+    },
+    {
+      "word": "endless,",
+      "start": 11.7,
+      "end": 12.06
+    },
+    {
+      "word": "expenseable",
+      "start": 12.46,
+      "end": 12.82
+    },
+    {
+      "word": "receipts.",
+      "start": 12.82,
+      "end": 13.36
+    },
+    {
+      "word": "Finance",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "teams",
+      "start": 14.14,
+      "end": 14.58
+    },
+    {
+      "word": "waste",
+      "start": 14.58,
+      "end": 14.88
+    },
+    {
+      "word": "days",
+      "start": 14.88,
+      "end": 15.24
+    },
+    {
+      "word": "auditing",
+      "start": 15.24,
+      "end": 15.62
+    },
+    {
+      "word": "purchases",
+      "start": 15.62,
+      "end": 16.14
+    },
+    {
+      "word": "while",
+      "start": 16.14,
+      "end": 16.68
+    },
+    {
+      "word": "workers",
+      "start": 16.68,
+      "end": 17.0
+    },
+    {
+      "word": "struggle",
+      "start": 17.0,
+      "end": 17.4
+    },
+    {
+      "word": "with",
+      "start": 17.4,
+      "end": 17.72
+    },
+    {
+      "word": "cheap",
+      "start": 17.72,
+      "end": 18.0
+    },
+    {
+      "word": "webcams",
+      "start": 18.0,
+      "end": 18.5
+    },
+    {
+      "word": "and",
+      "start": 18.5,
+      "end": 18.78
+    },
+    {
+      "word": "ergonomic",
+      "start": 18.78,
+      "end": 19.28
+    },
+    {
+      "word": "pain.",
+      "start": 19.28,
+      "end": 19.78
+    },
+    {
+      "word": "Instead,",
+      "start": 20.4,
+      "end": 20.84
+    },
+    {
+      "word": "launch",
+      "start": 21.4,
+      "end": 21.42
+    },
+    {
+      "word": "an",
+      "start": 21.42,
+      "end": 22.02
+    },
+    {
+      "word": "automated",
+      "start": 22.02,
+      "end": 22.1
+    },
+    {
+      "word": "ho",
+      "start": 22.1,
+      "end": 22.34
+    },
+    {
+      "word": "-fi",
+      "start": 22.34,
+      "end": 22.52
+    },
+    {
+      "word": "portal",
+      "start": 22.52,
+      "end": 22.9
+    },
+    {
+      "word": "where",
+      "start": 22.9,
+      "end": 23.26
+    },
+    {
+      "word": "pre",
+      "start": 23.26,
+      "end": 23.54
+    },
+    {
+      "word": "-approved",
+      "start": 23.54,
+      "end": 23.86
+    },
+    {
+      "word": "ergonomic",
+      "start": 23.86,
+      "end": 24.52
+    },
+    {
+      "word": "chairs",
+      "start": 24.52,
+      "end": 24.94
+    },
+    {
+      "word": "and",
+      "start": 24.94,
+      "end": 25.52
+    },
+    {
+      "word": "4K",
+      "start": 25.52,
+      "end": 26.06
+    },
+    {
+      "word": "displays",
+      "start": 26.06,
+      "end": 26.62
+    },
+    {
+      "word": "order",
+      "start": 26.62,
+      "end": 26.92
+    },
+    {
+      "word": "instantly.",
+      "start": 26.92,
+      "end": 27.44
+    },
+    {
+      "word": "You",
+      "start": 27.84,
+      "end": 28.28
+    },
+    {
+      "word": "standardize",
+      "start": 28.28,
+      "end": 28.84
+    },
+    {
+      "word": "home",
+      "start": 28.84,
+      "end": 29.16
+    },
+    {
+      "word": "offices",
+      "start": 29.16,
+      "end": 29.54
+    },
+    {
+      "word": "while",
+      "start": 29.54,
+      "end": 29.92
+    },
+    {
+      "word": "eliminating",
+      "start": 29.92,
+      "end": 30.36
+    },
+    {
+      "word": "expense",
+      "start": 30.36,
+      "end": 30.96
+    },
+    {
+      "word": "overhead.",
+      "start": 30.96,
+      "end": 31.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Equip your remote workforce with top-tier gear without logistical headaches.",
+      "line2": "AUTOMATE EQUIPMENT STIPENDS",
+      "tag": "\ud83d\uded1 Automated employee equipment ordering and home office stipend flow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

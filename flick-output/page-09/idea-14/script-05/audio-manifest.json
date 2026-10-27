@@ -1,0 +1,421 @@
+{
+  "page": "page-09",
+  "idea": "ElevenLabs vs Edge TTS: is paid AI voice generation worth the price tag",
+  "text": "Save hundreds of dollars on recurring AI voice subscriptions with this clear operational breakdown. Subscribing to high-tier voice plans drains startup cash flow when simple narrations would easily suffice. The financial trap is burning ElevenLabs character credits on unscripted drafts and internal prototype videos. Generate automated video drafts with free Edge TTS, then route finalized hero scripts to ElevenLabs via webhooks. This smart routing preserves your creative budget.",
+  "duration": 30.735,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Save",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "hundreds",
+      "start": 0.36,
+      "end": 0.68
+    },
+    {
+      "word": "of",
+      "start": 0.68,
+      "end": 0.94
+    },
+    {
+      "word": "dollars",
+      "start": 0.94,
+      "end": 1.2
+    },
+    {
+      "word": "on",
+      "start": 1.2,
+      "end": 1.56
+    },
+    {
+      "word": "recurring",
+      "start": 1.56,
+      "end": 1.98
+    },
+    {
+      "word": "AI",
+      "start": 1.98,
+      "end": 2.46
+    },
+    {
+      "word": "voice",
+      "start": 2.46,
+      "end": 2.78
+    },
+    {
+      "word": "subscriptions",
+      "start": 2.78,
+      "end": 3.38
+    },
+    {
+      "word": "with",
+      "start": 3.38,
+      "end": 3.9
+    },
+    {
+      "word": "this",
+      "start": 3.9,
+      "end": 4.16
+    },
+    {
+      "word": "clear",
+      "start": 4.16,
+      "end": 4.48
+    },
+    {
+      "word": "operational",
+      "start": 4.48,
+      "end": 5.12
+    },
+    {
+      "word": "breakdown.",
+      "start": 5.12,
+      "end": 5.72
+    },
+    {
+      "word": "Subscribing",
+      "start": 6.46,
+      "end": 6.86
+    },
+    {
+      "word": "to",
+      "start": 6.86,
+      "end": 7.14
+    },
+    {
+      "word": "high",
+      "start": 7.14,
+      "end": 7.36
+    },
+    {
+      "word": "tier",
+      "start": 7.36,
+      "end": 7.56
+    },
+    {
+      "word": "voice",
+      "start": 7.56,
+      "end": 7.88
+    },
+    {
+      "word": "plans,",
+      "start": 7.88,
+      "end": 8.38
+    },
+    {
+      "word": "drains",
+      "start": 8.72,
+      "end": 9.0
+    },
+    {
+      "word": "start",
+      "start": 9.0,
+      "end": 9.3
+    },
+    {
+      "word": "up",
+      "start": 9.3,
+      "end": 9.54
+    },
+    {
+      "word": "cash",
+      "start": 9.54,
+      "end": 9.86
+    },
+    {
+      "word": "flow",
+      "start": 9.86,
+      "end": 10.26
+    },
+    {
+      "word": "when",
+      "start": 10.26,
+      "end": 10.64
+    },
+    {
+      "word": "simple",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "word": "narrations",
+      "start": 10.96,
+      "end": 11.58
+    },
+    {
+      "word": "would",
+      "start": 11.58,
+      "end": 11.88
+    },
+    {
+      "word": "easily",
+      "start": 11.88,
+      "end": 12.26
+    },
+    {
+      "word": "suffice.",
+      "start": 12.26,
+      "end": 12.72
+    },
+    {
+      "word": "The",
+      "start": 13.2,
+      "end": 13.38
+    },
+    {
+      "word": "financial",
+      "start": 13.38,
+      "end": 13.7
+    },
+    {
+      "word": "trap",
+      "start": 13.7,
+      "end": 14.18
+    },
+    {
+      "word": "is",
+      "start": 14.18,
+      "end": 14.46
+    },
+    {
+      "word": "burning",
+      "start": 14.46,
+      "end": 14.78
+    },
+    {
+      "word": "11",
+      "start": 14.78,
+      "end": 15.24
+    },
+    {
+      "word": "labs",
+      "start": 15.24,
+      "end": 15.62
+    },
+    {
+      "word": "character",
+      "start": 15.62,
+      "end": 16.1
+    },
+    {
+      "word": "credits",
+      "start": 16.1,
+      "end": 16.42
+    },
+    {
+      "word": "on",
+      "start": 16.42,
+      "end": 16.76
+    },
+    {
+      "word": "unscripted",
+      "start": 16.76,
+      "end": 17.3
+    },
+    {
+      "word": "drafts",
+      "start": 17.3,
+      "end": 17.66
+    },
+    {
+      "word": "and",
+      "start": 17.66,
+      "end": 18.22
+    },
+    {
+      "word": "internal",
+      "start": 18.22,
+      "end": 18.62
+    },
+    {
+      "word": "prototype",
+      "start": 18.62,
+      "end": 19.04
+    },
+    {
+      "word": "videos.",
+      "start": 19.04,
+      "end": 19.68
+    },
+    {
+      "word": "Generate",
+      "start": 20.26,
+      "end": 20.74
+    },
+    {
+      "word": "automated",
+      "start": 20.74,
+      "end": 21.08
+    },
+    {
+      "word": "video",
+      "start": 21.08,
+      "end": 21.52
+    },
+    {
+      "word": "drafts",
+      "start": 21.52,
+      "end": 21.84
+    },
+    {
+      "word": "with",
+      "start": 21.84,
+      "end": 22.18
+    },
+    {
+      "word": "free",
+      "start": 22.18,
+      "end": 22.48
+    },
+    {
+      "word": "-edge",
+      "start": 22.48,
+      "end": 22.78
+    },
+    {
+      "word": "TTS",
+      "start": 22.78,
+      "end": 23.5
+    },
+    {
+      "word": "then",
+      "start": 23.5,
+      "end": 24.06
+    },
+    {
+      "word": "route",
+      "start": 24.06,
+      "end": 24.46
+    },
+    {
+      "word": "finalized",
+      "start": 24.46,
+      "end": 25.0
+    },
+    {
+      "word": "hero",
+      "start": 25.0,
+      "end": 25.36
+    },
+    {
+      "word": "scripts",
+      "start": 25.36,
+      "end": 25.7
+    },
+    {
+      "word": "to",
+      "start": 25.7,
+      "end": 26.0
+    },
+    {
+      "word": "11",
+      "start": 26.0,
+      "end": 26.36
+    },
+    {
+      "word": "labs",
+      "start": 26.36,
+      "end": 26.74
+    },
+    {
+      "word": "via",
+      "start": 26.74,
+      "end": 27.08
+    },
+    {
+      "word": "webhooks.",
+      "start": 27.08,
+      "end": 28.08
+    },
+    {
+      "word": "This",
+      "start": 28.08,
+      "end": 28.46
+    },
+    {
+      "word": "smart",
+      "start": 28.46,
+      "end": 28.76
+    },
+    {
+      "word": "routing",
+      "start": 28.76,
+      "end": 29.1
+    },
+    {
+      "word": "preserves",
+      "start": 29.1,
+      "end": 29.62
+    },
+    {
+      "word": "your",
+      "start": 29.62,
+      "end": 30.34
+    },
+    {
+      "word": "creative",
+      "start": 30.34,
+      "end": 30.36
+    },
+    {
+      "word": "budget.",
+      "start": 30.36,
+      "end": 30.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Save hundreds on AI voice subscriptions with this clear breakdown.",
+      "line2": "ELEVENLABS VS EDGE TTS",
+      "tag": "\ud83d\uded1 ElevenLabs vs Edge TTS",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: ElevenLabs vs Edge TTS",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: ElevenLabs vs Edge TTS",
+        "subtitle": "ElevenLabs vs Edge TTS"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "ElevenLabs vs Edge TTS"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "ElevenLabs vs Edge TTS"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "ElevenLabs vs Edge TTS",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

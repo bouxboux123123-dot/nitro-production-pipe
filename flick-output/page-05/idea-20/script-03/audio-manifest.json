@@ -1,0 +1,381 @@
+{
+  "page": "page-05",
+  "idea": "Airtable automations that notify Slack when deals enter negotiation",
+  "text": "Stop asking your sales reps for manual status updates in weekly pipeline meetings. Sales managers waste prime hours interrogating reps about deal progress instead of coaching closing strategy. Forcing verbal updates annoys top performers while leaving CRM pipeline records completely out of date. Instead, use Airtable automations to broadcast live stage movements and deal sizes directly into Slack. You gain total revenue visibility effortlessly.",
+  "duration": 26.795,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "asking",
+      "start": 0.32,
+      "end": 0.62
+    },
+    {
+      "word": "your",
+      "start": 0.62,
+      "end": 1.04
+    },
+    {
+      "word": "sales",
+      "start": 1.04,
+      "end": 1.08
+    },
+    {
+      "word": "reps",
+      "start": 1.08,
+      "end": 1.3
+    },
+    {
+      "word": "for",
+      "start": 1.3,
+      "end": 1.6
+    },
+    {
+      "word": "manual",
+      "start": 1.6,
+      "end": 1.86
+    },
+    {
+      "word": "status",
+      "start": 1.86,
+      "end": 2.34
+    },
+    {
+      "word": "updates",
+      "start": 2.34,
+      "end": 2.68
+    },
+    {
+      "word": "in",
+      "start": 2.68,
+      "end": 2.96
+    },
+    {
+      "word": "weekly",
+      "start": 2.96,
+      "end": 3.24
+    },
+    {
+      "word": "pipeline",
+      "start": 3.24,
+      "end": 3.7
+    },
+    {
+      "word": "meetings.",
+      "start": 3.7,
+      "end": 4.2
+    },
+    {
+      "word": "Sales",
+      "start": 5.06,
+      "end": 5.1
+    },
+    {
+      "word": "managers",
+      "start": 5.1,
+      "end": 5.54
+    },
+    {
+      "word": "waste",
+      "start": 5.54,
+      "end": 5.96
+    },
+    {
+      "word": "prime",
+      "start": 5.96,
+      "end": 6.32
+    },
+    {
+      "word": "hours",
+      "start": 6.32,
+      "end": 6.68
+    },
+    {
+      "word": "interrogating",
+      "start": 6.68,
+      "end": 7.34
+    },
+    {
+      "word": "reps",
+      "start": 7.34,
+      "end": 7.56
+    },
+    {
+      "word": "about",
+      "start": 7.56,
+      "end": 7.86
+    },
+    {
+      "word": "deal",
+      "start": 7.86,
+      "end": 8.12
+    },
+    {
+      "word": "progress",
+      "start": 8.12,
+      "end": 8.56
+    },
+    {
+      "word": "instead",
+      "start": 8.56,
+      "end": 8.98
+    },
+    {
+      "word": "of",
+      "start": 8.98,
+      "end": 9.2
+    },
+    {
+      "word": "coaching",
+      "start": 9.2,
+      "end": 9.5
+    },
+    {
+      "word": "closing",
+      "start": 9.5,
+      "end": 9.84
+    },
+    {
+      "word": "strategy.",
+      "start": 9.84,
+      "end": 10.62
+    },
+    {
+      "word": "Fourcing",
+      "start": 11.06,
+      "end": 11.36
+    },
+    {
+      "word": "verbal",
+      "start": 11.36,
+      "end": 11.68
+    },
+    {
+      "word": "updates",
+      "start": 11.68,
+      "end": 12.06
+    },
+    {
+      "word": "annoys",
+      "start": 12.06,
+      "end": 12.52
+    },
+    {
+      "word": "top",
+      "start": 12.52,
+      "end": 12.76
+    },
+    {
+      "word": "performers",
+      "start": 12.76,
+      "end": 13.2
+    },
+    {
+      "word": "while",
+      "start": 13.2,
+      "end": 13.76
+    },
+    {
+      "word": "leaving",
+      "start": 13.76,
+      "end": 14.1
+    },
+    {
+      "word": "CRM",
+      "start": 14.1,
+      "end": 14.74
+    },
+    {
+      "word": "pipeline",
+      "start": 14.74,
+      "end": 15.18
+    },
+    {
+      "word": "records",
+      "start": 15.18,
+      "end": 15.62
+    },
+    {
+      "word": "completely",
+      "start": 15.62,
+      "end": 16.18
+    },
+    {
+      "word": "out",
+      "start": 16.18,
+      "end": 16.36
+    },
+    {
+      "word": "of",
+      "start": 16.36,
+      "end": 16.5
+    },
+    {
+      "word": "date.",
+      "start": 16.5,
+      "end": 16.92
+    },
+    {
+      "word": "Instead,",
+      "start": 17.42,
+      "end": 17.76
+    },
+    {
+      "word": "use",
+      "start": 18.18,
+      "end": 18.42
+    },
+    {
+      "word": "irritable",
+      "start": 18.42,
+      "end": 18.86
+    },
+    {
+      "word": "automations",
+      "start": 18.86,
+      "end": 19.44
+    },
+    {
+      "word": "to",
+      "start": 19.44,
+      "end": 19.74
+    },
+    {
+      "word": "broadcast",
+      "start": 19.74,
+      "end": 20.2
+    },
+    {
+      "word": "live",
+      "start": 20.2,
+      "end": 20.64
+    },
+    {
+      "word": "stage",
+      "start": 20.64,
+      "end": 20.96
+    },
+    {
+      "word": "movements",
+      "start": 20.96,
+      "end": 21.36
+    },
+    {
+      "word": "and",
+      "start": 21.36,
+      "end": 21.88
+    },
+    {
+      "word": "deal",
+      "start": 21.88,
+      "end": 22.1
+    },
+    {
+      "word": "sizes",
+      "start": 22.1,
+      "end": 22.62
+    },
+    {
+      "word": "directly",
+      "start": 22.62,
+      "end": 23.08
+    },
+    {
+      "word": "into",
+      "start": 23.08,
+      "end": 23.44
+    },
+    {
+      "word": "Slack.",
+      "start": 23.44,
+      "end": 23.86
+    },
+    {
+      "word": "You",
+      "start": 23.86,
+      "end": 24.46
+    },
+    {
+      "word": "gain",
+      "start": 24.46,
+      "end": 24.78
+    },
+    {
+      "word": "total",
+      "start": 24.78,
+      "end": 25.08
+    },
+    {
+      "word": "revenue",
+      "start": 25.08,
+      "end": 25.38
+    },
+    {
+      "word": "visibility",
+      "start": 25.38,
+      "end": 26.14
+    },
+    {
+      "word": "effortlessly.",
+      "start": 26.14,
+      "end": 26.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stop asking your sales reps for manual status updates in meetings.",
+      "line2": "SLACK DEAL ALERTS",
+      "tag": "\ud83d\uded1 Airtable automations that notify Slack when deals enter negotiation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Airtable automations that notify Slack when deals enter negotiation",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Airtable automations that notify Slack when deals enter negotiation",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

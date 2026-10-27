@@ -1,0 +1,406 @@
+{
+  "page": "page-01",
+  "idea": "Automated QA checklist that audits deliverables before client review",
+  "text": "Here is the safety net that protects your agency reputation on every single project. One sloppy mistake on a live client campaign can erase months of hard-earned goodwill in seconds. Manual proofreading breaks down when account executives juggle multiple client approvals across email and Slack. Deploy an automated Airtable verification checklist that mandates visual audits and tracking link tests before file delivery. You eliminate embarrassing delivery errors permanently.",
+  "duration": 28.858,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.46
+    },
+    {
+      "word": "the",
+      "start": 0.46,
+      "end": 0.66
+    },
+    {
+      "word": "safety",
+      "start": 0.66,
+      "end": 0.96
+    },
+    {
+      "word": "net",
+      "start": 0.96,
+      "end": 1.26
+    },
+    {
+      "word": "that",
+      "start": 1.26,
+      "end": 1.58
+    },
+    {
+      "word": "protects",
+      "start": 1.58,
+      "end": 1.86
+    },
+    {
+      "word": "your",
+      "start": 1.86,
+      "end": 2.38
+    },
+    {
+      "word": "agency",
+      "start": 2.38,
+      "end": 2.52
+    },
+    {
+      "word": "reputation",
+      "start": 2.52,
+      "end": 3.18
+    },
+    {
+      "word": "on",
+      "start": 3.18,
+      "end": 3.54
+    },
+    {
+      "word": "every",
+      "start": 3.54,
+      "end": 3.84
+    },
+    {
+      "word": "single",
+      "start": 3.84,
+      "end": 4.2
+    },
+    {
+      "word": "project.",
+      "start": 4.2,
+      "end": 4.86
+    },
+    {
+      "word": "One",
+      "start": 5.36,
+      "end": 5.72
+    },
+    {
+      "word": "sloppy",
+      "start": 5.72,
+      "end": 6.04
+    },
+    {
+      "word": "mistake",
+      "start": 6.04,
+      "end": 6.52
+    },
+    {
+      "word": "on",
+      "start": 6.52,
+      "end": 6.74
+    },
+    {
+      "word": "a",
+      "start": 6.74,
+      "end": 6.9
+    },
+    {
+      "word": "live",
+      "start": 6.9,
+      "end": 7.16
+    },
+    {
+      "word": "client",
+      "start": 7.16,
+      "end": 7.48
+    },
+    {
+      "word": "campaign",
+      "start": 7.48,
+      "end": 8.14
+    },
+    {
+      "word": "can",
+      "start": 8.14,
+      "end": 8.58
+    },
+    {
+      "word": "erase",
+      "start": 8.58,
+      "end": 8.84
+    },
+    {
+      "word": "months",
+      "start": 8.84,
+      "end": 9.2
+    },
+    {
+      "word": "of",
+      "start": 9.2,
+      "end": 9.5
+    },
+    {
+      "word": "hard",
+      "start": 9.5,
+      "end": 9.76
+    },
+    {
+      "word": "-earned",
+      "start": 9.76,
+      "end": 10.02
+    },
+    {
+      "word": "goodwill",
+      "start": 10.02,
+      "end": 10.38
+    },
+    {
+      "word": "in",
+      "start": 10.38,
+      "end": 10.72
+    },
+    {
+      "word": "seconds.",
+      "start": 10.72,
+      "end": 11.16
+    },
+    {
+      "word": "Manual",
+      "start": 11.84,
+      "end": 11.84
+    },
+    {
+      "word": "proofreading",
+      "start": 11.84,
+      "end": 12.4
+    },
+    {
+      "word": "breaks",
+      "start": 12.4,
+      "end": 12.72
+    },
+    {
+      "word": "down",
+      "start": 12.72,
+      "end": 13.18
+    },
+    {
+      "word": "when",
+      "start": 13.18,
+      "end": 13.36
+    },
+    {
+      "word": "account",
+      "start": 13.36,
+      "end": 13.78
+    },
+    {
+      "word": "executives",
+      "start": 13.78,
+      "end": 14.34
+    },
+    {
+      "word": "juggle",
+      "start": 14.34,
+      "end": 14.78
+    },
+    {
+      "word": "multiple",
+      "start": 14.78,
+      "end": 15.28
+    },
+    {
+      "word": "client",
+      "start": 15.28,
+      "end": 15.6
+    },
+    {
+      "word": "approvals",
+      "start": 15.6,
+      "end": 16.0
+    },
+    {
+      "word": "across",
+      "start": 16.0,
+      "end": 16.5
+    },
+    {
+      "word": "email",
+      "start": 16.5,
+      "end": 16.8
+    },
+    {
+      "word": "and",
+      "start": 16.8,
+      "end": 17.16
+    },
+    {
+      "word": "slack.",
+      "start": 17.16,
+      "end": 17.58
+    },
+    {
+      "word": "Deploy",
+      "start": 18.16,
+      "end": 18.4
+    },
+    {
+      "word": "an",
+      "start": 18.4,
+      "end": 18.72
+    },
+    {
+      "word": "automated,",
+      "start": 18.72,
+      "end": 19.2
+    },
+    {
+      "word": "irritable",
+      "start": 19.26,
+      "end": 19.66
+    },
+    {
+      "word": "verification",
+      "start": 19.66,
+      "end": 20.26
+    },
+    {
+      "word": "checklist",
+      "start": 20.26,
+      "end": 20.88
+    },
+    {
+      "word": "that",
+      "start": 20.88,
+      "end": 21.4
+    },
+    {
+      "word": "mandates",
+      "start": 21.4,
+      "end": 21.72
+    },
+    {
+      "word": "visual",
+      "start": 21.72,
+      "end": 22.38
+    },
+    {
+      "word": "audits",
+      "start": 22.38,
+      "end": 22.72
+    },
+    {
+      "word": "and",
+      "start": 22.72,
+      "end": 23.24
+    },
+    {
+      "word": "tracking",
+      "start": 23.24,
+      "end": 23.56
+    },
+    {
+      "word": "link",
+      "start": 23.56,
+      "end": 23.86
+    },
+    {
+      "word": "tests",
+      "start": 23.86,
+      "end": 24.24
+    },
+    {
+      "word": "before",
+      "start": 24.24,
+      "end": 24.66
+    },
+    {
+      "word": "file",
+      "start": 24.66,
+      "end": 25.0
+    },
+    {
+      "word": "delivery.",
+      "start": 25.0,
+      "end": 25.42
+    },
+    {
+      "word": "You",
+      "start": 26.28,
+      "end": 26.3
+    },
+    {
+      "word": "eliminate",
+      "start": 26.3,
+      "end": 26.76
+    },
+    {
+      "word": "embarrassing",
+      "start": 26.76,
+      "end": 27.42
+    },
+    {
+      "word": "delivery",
+      "start": 27.42,
+      "end": 27.9
+    },
+    {
+      "word": "errors",
+      "start": 27.9,
+      "end": 28.26
+    },
+    {
+      "word": "permanently.",
+      "start": 28.26,
+      "end": 28.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The safety net that protects your agency's reputation on every single project.",
+      "line2": "AUDIT DELIVERABLES INSTANTLY",
+      "tag": "\ud83d\uded1 Automated QA checklist that audits deliverables before client review",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Automated QA checklist that audits deliverables before client review",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Automated QA checklist that audits deliverables before client review",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Automated QA checklist that audits deliverables before client review",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-02",
+  "idea": "AI research agent that pulls industry benchmarks for client reports",
+  "text": "Spend less time researching for freelance client decks and more time billing. Spending hours hunting for credible market stats across paywalled reports burns valuable billable time without adding margin. Client decks fall flat when deliverable claims lack third-party data citations to justify strategic recommendations. Using Perplexity Pro with academic search filters instantly pulls verified industry benchmarks complete with direct source citations. You build high-ticket client presentations in minutes.",
+  "duration": 31.013,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Spend",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "less",
+      "start": 0.3,
+      "end": 0.56
+    },
+    {
+      "word": "time",
+      "start": 0.56,
+      "end": 0.86
+    },
+    {
+      "word": "researching",
+      "start": 0.86,
+      "end": 1.28
+    },
+    {
+      "word": "for",
+      "start": 1.28,
+      "end": 1.68
+    },
+    {
+      "word": "freelance",
+      "start": 1.68,
+      "end": 2.02
+    },
+    {
+      "word": "client",
+      "start": 2.02,
+      "end": 2.5
+    },
+    {
+      "word": "decks,",
+      "start": 2.5,
+      "end": 2.8
+    },
+    {
+      "word": "and",
+      "start": 3.02,
+      "end": 3.2
+    },
+    {
+      "word": "more",
+      "start": 3.2,
+      "end": 3.48
+    },
+    {
+      "word": "time",
+      "start": 3.48,
+      "end": 3.8
+    },
+    {
+      "word": "billing.",
+      "start": 3.8,
+      "end": 4.18
+    },
+    {
+      "word": "Spending",
+      "start": 4.78,
+      "end": 4.96
+    },
+    {
+      "word": "hours",
+      "start": 4.96,
+      "end": 5.48
+    },
+    {
+      "word": "hunting",
+      "start": 5.48,
+      "end": 5.9
+    },
+    {
+      "word": "for",
+      "start": 5.9,
+      "end": 6.14
+    },
+    {
+      "word": "credible",
+      "start": 6.14,
+      "end": 6.48
+    },
+    {
+      "word": "market",
+      "start": 6.48,
+      "end": 6.9
+    },
+    {
+      "word": "stats",
+      "start": 6.9,
+      "end": 7.24
+    },
+    {
+      "word": "across",
+      "start": 7.24,
+      "end": 7.68
+    },
+    {
+      "word": "pay",
+      "start": 7.68,
+      "end": 7.94
+    },
+    {
+      "word": "-walled",
+      "start": 7.94,
+      "end": 8.14
+    },
+    {
+      "word": "reports",
+      "start": 8.14,
+      "end": 8.7
+    },
+    {
+      "word": "burns",
+      "start": 8.7,
+      "end": 9.18
+    },
+    {
+      "word": "valuable",
+      "start": 9.18,
+      "end": 9.8
+    },
+    {
+      "word": "billable",
+      "start": 9.8,
+      "end": 10.26
+    },
+    {
+      "word": "time",
+      "start": 10.26,
+      "end": 10.74
+    },
+    {
+      "word": "without",
+      "start": 10.74,
+      "end": 11.14
+    },
+    {
+      "word": "adding",
+      "start": 11.14,
+      "end": 11.44
+    },
+    {
+      "word": "margin.",
+      "start": 11.44,
+      "end": 11.96
+    },
+    {
+      "word": "Client",
+      "start": 12.56,
+      "end": 12.56
+    },
+    {
+      "word": "decks",
+      "start": 12.56,
+      "end": 12.88
+    },
+    {
+      "word": "fall",
+      "start": 12.88,
+      "end": 13.16
+    },
+    {
+      "word": "flat",
+      "start": 13.16,
+      "end": 13.48
+    },
+    {
+      "word": "when",
+      "start": 13.48,
+      "end": 13.68
+    },
+    {
+      "word": "deliverable",
+      "start": 13.68,
+      "end": 14.18
+    },
+    {
+      "word": "claims",
+      "start": 14.18,
+      "end": 14.64
+    },
+    {
+      "word": "lack",
+      "start": 14.64,
+      "end": 14.94
+    },
+    {
+      "word": "third",
+      "start": 14.94,
+      "end": 15.36
+    },
+    {
+      "word": "-party",
+      "start": 15.36,
+      "end": 15.66
+    },
+    {
+      "word": "data",
+      "start": 15.66,
+      "end": 16.0
+    },
+    {
+      "word": "citations",
+      "start": 16.0,
+      "end": 16.6
+    },
+    {
+      "word": "to",
+      "start": 16.6,
+      "end": 17.08
+    },
+    {
+      "word": "justify",
+      "start": 17.08,
+      "end": 17.54
+    },
+    {
+      "word": "strategic",
+      "start": 17.54,
+      "end": 18.24
+    },
+    {
+      "word": "recommendations.",
+      "start": 18.24,
+      "end": 19.04
+    },
+    {
+      "word": "Using",
+      "start": 19.84,
+      "end": 20.04
+    },
+    {
+      "word": "perplexity",
+      "start": 20.04,
+      "end": 20.66
+    },
+    {
+      "word": "pro",
+      "start": 20.66,
+      "end": 21.0
+    },
+    {
+      "word": "with",
+      "start": 21.0,
+      "end": 21.24
+    },
+    {
+      "word": "academic",
+      "start": 21.24,
+      "end": 21.64
+    },
+    {
+      "word": "search",
+      "start": 21.64,
+      "end": 22.12
+    },
+    {
+      "word": "filters",
+      "start": 22.12,
+      "end": 22.6
+    },
+    {
+      "word": "instantly",
+      "start": 22.6,
+      "end": 23.38
+    },
+    {
+      "word": "pulls",
+      "start": 23.38,
+      "end": 23.92
+    },
+    {
+      "word": "verified",
+      "start": 23.92,
+      "end": 24.52
+    },
+    {
+      "word": "industry",
+      "start": 24.52,
+      "end": 24.98
+    },
+    {
+      "word": "benchmarks",
+      "start": 24.98,
+      "end": 25.48
+    },
+    {
+      "word": "complete",
+      "start": 25.48,
+      "end": 25.96
+    },
+    {
+      "word": "with",
+      "start": 25.96,
+      "end": 26.32
+    },
+    {
+      "word": "direct",
+      "start": 26.32,
+      "end": 26.7
+    },
+    {
+      "word": "source",
+      "start": 26.7,
+      "end": 27.02
+    },
+    {
+      "word": "citations.",
+      "start": 27.02,
+      "end": 27.62
+    },
+    {
+      "word": "You",
+      "start": 27.62,
+      "end": 28.36
+    },
+    {
+      "word": "build",
+      "start": 28.36,
+      "end": 28.66
+    },
+    {
+      "word": "high",
+      "start": 28.66,
+      "end": 28.92
+    },
+    {
+      "word": "-ticket",
+      "start": 28.92,
+      "end": 29.14
+    },
+    {
+      "word": "client",
+      "start": 29.14,
+      "end": 29.64
+    },
+    {
+      "word": "presentations",
+      "start": 29.64,
+      "end": 30.32
+    },
+    {
+      "word": "in",
+      "start": 30.32,
+      "end": 30.66
+    },
+    {
+      "word": "minutes.",
+      "start": 30.66,
+      "end": 30.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Spend less time researching for freelance client decks and more time billing.",
+      "line2": "PULL INDUSTRY BENCHMARKS",
+      "tag": "\ud83d\uded1 AI research agent that pulls industry benchmarks for client reports",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "Voice-to-Invoice Stream: AI research agent that pulls industry benchmarks for client reports",
+      "primitive": "VoiceWaveToReceipt",
+      "props": {
+        "title": "Voice-to-Invoice Stream: AI research agent that pulls industry benchmarks for client reports",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Overdue Payment Chaser",
+      "primitive": "OverdueChaserTimeline",
+      "props": {
+        "title": "Overdue Payment Chaser",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Retainer Value Conversion",
+      "primitive": "HourlyToRetainerConverter",
+      "props": {
+        "title": "Retainer Value Conversion",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant 24H Auto-Deposit",
+      "primitive": "StripePayoutCountdown",
+      "props": {
+        "title": "Instant 24H Auto-Deposit",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

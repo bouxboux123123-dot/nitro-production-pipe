@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to password managers: never forget a password again",
+  "text": "A free password manager fills your logins automatically with zero tedious memorization required. Juggling dozens of complicated passwords across work accounts, portals, and subscriptions causes constant daily frustration. Manually typing passwords slows you down and tempts you into using dangerously short, predictable phrases. Install the Bitwarden or 1Password extension to detect login fields and autofill credentials with one click. You will never reset a forgotten password again.",
+  "duration": 30.501,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "A",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "free",
+      "start": 0.22,
+      "end": 0.44
+    },
+    {
+      "word": "password",
+      "start": 0.44,
+      "end": 0.76
+    },
+    {
+      "word": "manager",
+      "start": 0.76,
+      "end": 1.26
+    },
+    {
+      "word": "fills",
+      "start": 1.26,
+      "end": 1.66
+    },
+    {
+      "word": "your",
+      "start": 1.66,
+      "end": 1.86
+    },
+    {
+      "word": "logins",
+      "start": 1.86,
+      "end": 2.22
+    },
+    {
+      "word": "automatically",
+      "start": 2.22,
+      "end": 2.84
+    },
+    {
+      "word": "with",
+      "start": 2.84,
+      "end": 3.4
+    },
+    {
+      "word": "zero",
+      "start": 3.4,
+      "end": 3.86
+    },
+    {
+      "word": "tedious",
+      "start": 3.86,
+      "end": 4.24
+    },
+    {
+      "word": "memorization",
+      "start": 4.24,
+      "end": 5.06
+    },
+    {
+      "word": "required.",
+      "start": 5.06,
+      "end": 6.0
+    },
+    {
+      "word": "Juggling",
+      "start": 6.42,
+      "end": 6.82
+    },
+    {
+      "word": "dozens",
+      "start": 6.82,
+      "end": 7.16
+    },
+    {
+      "word": "of",
+      "start": 7.16,
+      "end": 7.54
+    },
+    {
+      "word": "complicated",
+      "start": 7.54,
+      "end": 7.94
+    },
+    {
+      "word": "passwords",
+      "start": 7.94,
+      "end": 8.54
+    },
+    {
+      "word": "across",
+      "start": 8.54,
+      "end": 8.98
+    },
+    {
+      "word": "work",
+      "start": 8.98,
+      "end": 9.24
+    },
+    {
+      "word": "accounts,",
+      "start": 9.24,
+      "end": 9.68
+    },
+    {
+      "word": "portals",
+      "start": 10.04,
+      "end": 10.34
+    },
+    {
+      "word": "and",
+      "start": 10.34,
+      "end": 10.76
+    },
+    {
+      "word": "subscriptions",
+      "start": 10.76,
+      "end": 11.48
+    },
+    {
+      "word": "causes",
+      "start": 11.48,
+      "end": 12.2
+    },
+    {
+      "word": "constant",
+      "start": 12.2,
+      "end": 12.72
+    },
+    {
+      "word": "daily",
+      "start": 12.72,
+      "end": 13.06
+    },
+    {
+      "word": "frustration.",
+      "start": 13.06,
+      "end": 13.78
+    },
+    {
+      "word": "Manually",
+      "start": 14.24,
+      "end": 14.56
+    },
+    {
+      "word": "typing",
+      "start": 14.56,
+      "end": 14.88
+    },
+    {
+      "word": "passwords",
+      "start": 14.88,
+      "end": 15.44
+    },
+    {
+      "word": "slows",
+      "start": 15.44,
+      "end": 15.78
+    },
+    {
+      "word": "you",
+      "start": 15.78,
+      "end": 16.02
+    },
+    {
+      "word": "down",
+      "start": 16.02,
+      "end": 16.4
+    },
+    {
+      "word": "and",
+      "start": 16.4,
+      "end": 16.62
+    },
+    {
+      "word": "tempts",
+      "start": 16.62,
+      "end": 16.98
+    },
+    {
+      "word": "you",
+      "start": 16.98,
+      "end": 17.14
+    },
+    {
+      "word": "into",
+      "start": 17.14,
+      "end": 17.32
+    },
+    {
+      "word": "using",
+      "start": 17.32,
+      "end": 17.72
+    },
+    {
+      "word": "dangerously",
+      "start": 17.72,
+      "end": 18.3
+    },
+    {
+      "word": "short,",
+      "start": 18.3,
+      "end": 19.04
+    },
+    {
+      "word": "predictable",
+      "start": 19.12,
+      "end": 19.46
+    },
+    {
+      "word": "phrases.",
+      "start": 19.46,
+      "end": 20.14
+    },
+    {
+      "word": "Install",
+      "start": 20.88,
+      "end": 21.14
+    },
+    {
+      "word": "the",
+      "start": 21.14,
+      "end": 21.36
+    },
+    {
+      "word": "bitwarden",
+      "start": 21.36,
+      "end": 21.98
+    },
+    {
+      "word": "or",
+      "start": 21.98,
+      "end": 22.3
+    },
+    {
+      "word": "one",
+      "start": 22.3,
+      "end": 22.58
+    },
+    {
+      "word": "password",
+      "start": 22.58,
+      "end": 22.98
+    },
+    {
+      "word": "extension",
+      "start": 22.98,
+      "end": 23.52
+    },
+    {
+      "word": "to",
+      "start": 23.52,
+      "end": 23.84
+    },
+    {
+      "word": "detect",
+      "start": 23.84,
+      "end": 24.2
+    },
+    {
+      "word": "login",
+      "start": 24.2,
+      "end": 24.6
+    },
+    {
+      "word": "fields",
+      "start": 24.6,
+      "end": 25.06
+    },
+    {
+      "word": "and",
+      "start": 25.06,
+      "end": 25.68
+    },
+    {
+      "word": "auto",
+      "start": 25.68,
+      "end": 25.96
+    },
+    {
+      "word": "fill",
+      "start": 25.96,
+      "end": 26.22
+    },
+    {
+      "word": "credentials",
+      "start": 26.22,
+      "end": 26.7
+    },
+    {
+      "word": "with",
+      "start": 26.7,
+      "end": 27.08
+    },
+    {
+      "word": "one",
+      "start": 27.08,
+      "end": 27.36
+    },
+    {
+      "word": "click.",
+      "start": 27.36,
+      "end": 27.62
+    },
+    {
+      "word": "You",
+      "start": 27.62,
+      "end": 28.34
+    },
+    {
+      "word": "will",
+      "start": 28.34,
+      "end": 28.5
+    },
+    {
+      "word": "never",
+      "start": 28.5,
+      "end": 28.72
+    },
+    {
+      "word": "reset",
+      "start": 28.72,
+      "end": 28.96
+    },
+    {
+      "word": "a",
+      "start": 28.96,
+      "end": 29.18
+    },
+    {
+      "word": "forgotten",
+      "start": 29.18,
+      "end": 29.56
+    },
+    {
+      "word": "password",
+      "start": 29.56,
+      "end": 30.02
+    },
+    {
+      "word": "again.",
+      "start": 30.02,
+      "end": 30.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How a free password manager fills your logins automatically with zero memorization.",
+      "line2": "NEVER FORGET PASSWORDS",
+      "tag": "\ud83d\uded1 Beginner guide to password managers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to password managers",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to password managers",
+        "subtitle": "Beginner guide to password managers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to password managers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to password managers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to password managers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

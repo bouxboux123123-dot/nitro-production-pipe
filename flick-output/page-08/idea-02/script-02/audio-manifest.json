@@ -1,0 +1,401 @@
+{
+  "page": "page-08",
+  "idea": "How to dictate emails 3 times faster using built-in voice typing",
+  "text": "The free keyboard shortcut on Windows and Mac that enables instant voice typing. Writing twenty client updates each morning exhausts your wrists and drags your workday into overtime. Typing creates friction between your thoughts and screen, leaving drafts stranded in your outbox. Hit Windows key plus H on PC or tap microphone on Mac to trigger speech recognition. The system inserts punctuated sentences as fast as you talk.",
+  "duration": 24.32,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "free",
+      "start": 0.22,
+      "end": 0.4
+    },
+    {
+      "word": "keyboard",
+      "start": 0.4,
+      "end": 0.66
+    },
+    {
+      "word": "shortcut",
+      "start": 0.66,
+      "end": 1.12
+    },
+    {
+      "word": "on",
+      "start": 1.12,
+      "end": 1.44
+    },
+    {
+      "word": "Windows",
+      "start": 1.44,
+      "end": 1.78
+    },
+    {
+      "word": "and",
+      "start": 1.78,
+      "end": 2.04
+    },
+    {
+      "word": "Mac",
+      "start": 2.04,
+      "end": 2.26
+    },
+    {
+      "word": "that",
+      "start": 2.26,
+      "end": 2.82
+    },
+    {
+      "word": "enables",
+      "start": 2.82,
+      "end": 2.82
+    },
+    {
+      "word": "instant",
+      "start": 2.82,
+      "end": 3.24
+    },
+    {
+      "word": "voice",
+      "start": 3.24,
+      "end": 3.56
+    },
+    {
+      "word": "typing.",
+      "start": 3.56,
+      "end": 4.0
+    },
+    {
+      "word": "Writing",
+      "start": 4.66,
+      "end": 4.66
+    },
+    {
+      "word": "20",
+      "start": 4.66,
+      "end": 5.08
+    },
+    {
+      "word": "client",
+      "start": 5.08,
+      "end": 5.38
+    },
+    {
+      "word": "updates",
+      "start": 5.38,
+      "end": 5.66
+    },
+    {
+      "word": "each",
+      "start": 5.66,
+      "end": 6.1
+    },
+    {
+      "word": "morning",
+      "start": 6.1,
+      "end": 6.36
+    },
+    {
+      "word": "exhaust",
+      "start": 6.36,
+      "end": 6.74
+    },
+    {
+      "word": "your",
+      "start": 6.74,
+      "end": 7.04
+    },
+    {
+      "word": "wrists",
+      "start": 7.04,
+      "end": 7.34
+    },
+    {
+      "word": "and",
+      "start": 7.34,
+      "end": 7.64
+    },
+    {
+      "word": "drags",
+      "start": 7.64,
+      "end": 7.94
+    },
+    {
+      "word": "your",
+      "start": 7.94,
+      "end": 8.16
+    },
+    {
+      "word": "workday",
+      "start": 8.16,
+      "end": 8.48
+    },
+    {
+      "word": "into",
+      "start": 8.48,
+      "end": 8.72
+    },
+    {
+      "word": "overtime.",
+      "start": 8.72,
+      "end": 9.24
+    },
+    {
+      "word": "Typing",
+      "start": 9.82,
+      "end": 10.22
+    },
+    {
+      "word": "creates",
+      "start": 10.22,
+      "end": 10.56
+    },
+    {
+      "word": "friction",
+      "start": 10.56,
+      "end": 10.86
+    },
+    {
+      "word": "between",
+      "start": 10.86,
+      "end": 11.18
+    },
+    {
+      "word": "your",
+      "start": 11.18,
+      "end": 11.36
+    },
+    {
+      "word": "thoughts",
+      "start": 11.36,
+      "end": 11.62
+    },
+    {
+      "word": "and",
+      "start": 11.62,
+      "end": 11.92
+    },
+    {
+      "word": "screen,",
+      "start": 11.92,
+      "end": 12.4
+    },
+    {
+      "word": "leaving",
+      "start": 12.9,
+      "end": 12.94
+    },
+    {
+      "word": "drafts",
+      "start": 12.94,
+      "end": 13.32
+    },
+    {
+      "word": "stranded",
+      "start": 13.32,
+      "end": 13.66
+    },
+    {
+      "word": "in",
+      "start": 13.66,
+      "end": 13.84
+    },
+    {
+      "word": "your",
+      "start": 13.84,
+      "end": 13.94
+    },
+    {
+      "word": "outbox.",
+      "start": 13.94,
+      "end": 14.5
+    },
+    {
+      "word": "Hit",
+      "start": 15.0,
+      "end": 15.2
+    },
+    {
+      "word": "Windows",
+      "start": 15.2,
+      "end": 15.54
+    },
+    {
+      "word": "key",
+      "start": 15.54,
+      "end": 15.86
+    },
+    {
+      "word": "plus",
+      "start": 15.86,
+      "end": 16.14
+    },
+    {
+      "word": "H",
+      "start": 16.14,
+      "end": 16.44
+    },
+    {
+      "word": "on",
+      "start": 16.44,
+      "end": 16.66
+    },
+    {
+      "word": "PC",
+      "start": 16.66,
+      "end": 17.06
+    },
+    {
+      "word": "or",
+      "start": 17.06,
+      "end": 17.64
+    },
+    {
+      "word": "tap",
+      "start": 17.64,
+      "end": 17.98
+    },
+    {
+      "word": "microphone",
+      "start": 17.98,
+      "end": 18.34
+    },
+    {
+      "word": "on",
+      "start": 18.34,
+      "end": 18.72
+    },
+    {
+      "word": "Mac",
+      "start": 18.72,
+      "end": 18.9
+    },
+    {
+      "word": "to",
+      "start": 18.9,
+      "end": 19.14
+    },
+    {
+      "word": "trigger",
+      "start": 19.14,
+      "end": 19.4
+    },
+    {
+      "word": "speech",
+      "start": 19.4,
+      "end": 19.7
+    },
+    {
+      "word": "recognition.",
+      "start": 19.7,
+      "end": 20.2
+    },
+    {
+      "word": "The",
+      "start": 20.84,
+      "end": 21.06
+    },
+    {
+      "word": "system",
+      "start": 21.06,
+      "end": 21.3
+    },
+    {
+      "word": "inserts",
+      "start": 21.3,
+      "end": 21.74
+    },
+    {
+      "word": "punctuated",
+      "start": 21.74,
+      "end": 22.42
+    },
+    {
+      "word": "sentences",
+      "start": 22.42,
+      "end": 22.9
+    },
+    {
+      "word": "as",
+      "start": 22.9,
+      "end": 23.34
+    },
+    {
+      "word": "fast",
+      "start": 23.34,
+      "end": 23.66
+    },
+    {
+      "word": "as",
+      "start": 23.66,
+      "end": 23.82
+    },
+    {
+      "word": "you",
+      "start": 23.82,
+      "end": 24.0
+    },
+    {
+      "word": "talk.",
+      "start": 24.0,
+      "end": 24.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The free keyboard shortcut on Windows and Mac that enables instant voice typing.",
+      "line2": "DICTATE EMAILS 3X FASTER",
+      "tag": "\ud83d\uded1 How to dictate emails 3 times faster using built-in voice typing",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to dictate emails 3 times faster using built-in voice typing",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to dictate emails 3 times faster using built-in voice typing",
+        "subtitle": "How to dictate emails 3 times faster using built-in voice typing"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to dictate emails 3 times faster using built-in voice typing"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to dictate emails 3 times faster using built-in voice typing"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to dictate emails 3 times faster using built-in voice typing",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

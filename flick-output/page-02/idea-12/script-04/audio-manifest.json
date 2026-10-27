@@ -1,0 +1,426 @@
+{
+  "page": "page-02",
+  "idea": "AI research agent that pulls industry benchmarks for client reports",
+  "text": "Stop manually digging through Google search results for client presentations. Sifting through clickbait articles to locate market penetration stats wastes time better spent closing new contracts. Inaccurate data damages your consulting authority when stakeholders fact-check slides during high-stakes client reviews. Setting up Browse AI alongside Claude automatically extracts competitor benchmarks and pricing structures directly into client-ready Notion tables. You deliver executive-ready intelligence while saving ten hours every week.",
+  "duration": 32.421,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "manually",
+      "start": 0.36,
+      "end": 0.78
+    },
+    {
+      "word": "digging",
+      "start": 0.78,
+      "end": 1.14
+    },
+    {
+      "word": "through",
+      "start": 1.14,
+      "end": 1.46
+    },
+    {
+      "word": "Google",
+      "start": 1.46,
+      "end": 1.82
+    },
+    {
+      "word": "search",
+      "start": 1.82,
+      "end": 2.14
+    },
+    {
+      "word": "results",
+      "start": 2.14,
+      "end": 2.54
+    },
+    {
+      "word": "for",
+      "start": 2.54,
+      "end": 2.84
+    },
+    {
+      "word": "client",
+      "start": 2.84,
+      "end": 3.18
+    },
+    {
+      "word": "presentations.",
+      "start": 3.18,
+      "end": 4.02
+    },
+    {
+      "word": "Sifting",
+      "start": 4.74,
+      "end": 4.9
+    },
+    {
+      "word": "through",
+      "start": 4.9,
+      "end": 5.24
+    },
+    {
+      "word": "clickbait",
+      "start": 5.24,
+      "end": 5.6
+    },
+    {
+      "word": "articles",
+      "start": 5.6,
+      "end": 5.98
+    },
+    {
+      "word": "to",
+      "start": 5.98,
+      "end": 6.28
+    },
+    {
+      "word": "locate",
+      "start": 6.28,
+      "end": 6.62
+    },
+    {
+      "word": "market",
+      "start": 6.62,
+      "end": 7.08
+    },
+    {
+      "word": "penetration,",
+      "start": 7.08,
+      "end": 7.76
+    },
+    {
+      "word": "stats",
+      "start": 8.18,
+      "end": 8.48
+    },
+    {
+      "word": "waste",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "word": "time",
+      "start": 8.8,
+      "end": 9.26
+    },
+    {
+      "word": "better",
+      "start": 9.26,
+      "end": 9.56
+    },
+    {
+      "word": "spent",
+      "start": 9.56,
+      "end": 9.82
+    },
+    {
+      "word": "closing",
+      "start": 9.82,
+      "end": 10.2
+    },
+    {
+      "word": "new",
+      "start": 10.2,
+      "end": 10.52
+    },
+    {
+      "word": "contracts.",
+      "start": 10.52,
+      "end": 11.04
+    },
+    {
+      "word": "In",
+      "start": 11.7,
+      "end": 11.8
+    },
+    {
+      "word": "accurate",
+      "start": 11.8,
+      "end": 12.12
+    },
+    {
+      "word": "data",
+      "start": 12.12,
+      "end": 12.52
+    },
+    {
+      "word": "damages",
+      "start": 12.52,
+      "end": 12.92
+    },
+    {
+      "word": "your",
+      "start": 12.92,
+      "end": 13.34
+    },
+    {
+      "word": "consulting",
+      "start": 13.34,
+      "end": 13.74
+    },
+    {
+      "word": "authority",
+      "start": 13.74,
+      "end": 14.34
+    },
+    {
+      "word": "when",
+      "start": 14.34,
+      "end": 14.88
+    },
+    {
+      "word": "stakeholders",
+      "start": 14.88,
+      "end": 15.34
+    },
+    {
+      "word": "fact",
+      "start": 15.34,
+      "end": 15.88
+    },
+    {
+      "word": "-check",
+      "start": 15.88,
+      "end": 16.12
+    },
+    {
+      "word": "slides",
+      "start": 16.12,
+      "end": 16.54
+    },
+    {
+      "word": "during",
+      "start": 16.54,
+      "end": 16.92
+    },
+    {
+      "word": "high",
+      "start": 16.92,
+      "end": 17.26
+    },
+    {
+      "word": "-stakes",
+      "start": 17.26,
+      "end": 17.5
+    },
+    {
+      "word": "client",
+      "start": 17.5,
+      "end": 17.96
+    },
+    {
+      "word": "reviews.",
+      "start": 17.96,
+      "end": 18.44
+    },
+    {
+      "word": "Setting",
+      "start": 19.06,
+      "end": 19.1
+    },
+    {
+      "word": "up",
+      "start": 19.1,
+      "end": 19.4
+    },
+    {
+      "word": "browse",
+      "start": 19.4,
+      "end": 19.8
+    },
+    {
+      "word": "AI",
+      "start": 19.8,
+      "end": 20.3
+    },
+    {
+      "word": "alongside",
+      "start": 20.3,
+      "end": 20.98
+    },
+    {
+      "word": "Claude",
+      "start": 20.98,
+      "end": 21.38
+    },
+    {
+      "word": "automatically",
+      "start": 21.38,
+      "end": 22.1
+    },
+    {
+      "word": "extracts",
+      "start": 22.1,
+      "end": 22.66
+    },
+    {
+      "word": "competitor",
+      "start": 22.66,
+      "end": 23.22
+    },
+    {
+      "word": "benchmarks",
+      "start": 23.22,
+      "end": 23.68
+    },
+    {
+      "word": "and",
+      "start": 23.68,
+      "end": 24.14
+    },
+    {
+      "word": "pricing",
+      "start": 24.14,
+      "end": 24.48
+    },
+    {
+      "word": "structures",
+      "start": 24.48,
+      "end": 25.2
+    },
+    {
+      "word": "directly",
+      "start": 25.2,
+      "end": 25.9
+    },
+    {
+      "word": "into",
+      "start": 25.9,
+      "end": 26.22
+    },
+    {
+      "word": "client",
+      "start": 26.22,
+      "end": 26.6
+    },
+    {
+      "word": "-ready",
+      "start": 26.6,
+      "end": 26.84
+    },
+    {
+      "word": "notion",
+      "start": 26.84,
+      "end": 27.2
+    },
+    {
+      "word": "tables.",
+      "start": 27.2,
+      "end": 27.66
+    },
+    {
+      "word": "You",
+      "start": 27.66,
+      "end": 28.38
+    },
+    {
+      "word": "deliver",
+      "start": 28.38,
+      "end": 28.72
+    },
+    {
+      "word": "executive",
+      "start": 28.72,
+      "end": 29.3
+    },
+    {
+      "word": "-ready",
+      "start": 29.3,
+      "end": 29.7
+    },
+    {
+      "word": "intelligence",
+      "start": 29.7,
+      "end": 30.3
+    },
+    {
+      "word": "while",
+      "start": 30.3,
+      "end": 30.74
+    },
+    {
+      "word": "saving",
+      "start": 30.74,
+      "end": 31.04
+    },
+    {
+      "word": "10",
+      "start": 31.04,
+      "end": 31.44
+    },
+    {
+      "word": "hours",
+      "start": 31.44,
+      "end": 31.78
+    },
+    {
+      "word": "every",
+      "start": 31.78,
+      "end": 32.08
+    },
+    {
+      "word": "week.",
+      "start": 32.08,
+      "end": 32.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop manually digging through Google search results for client presentations.",
+      "line2": "PULL INDUSTRY BENCHMARKS",
+      "tag": "\ud83d\uded1 AI research agent that pulls industry benchmarks for client reports",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI research agent that pulls industry benchmarks for client reports",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI research agent that pulls industry benchmarks for client reports",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

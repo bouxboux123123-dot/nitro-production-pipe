@@ -1,0 +1,401 @@
+{
+  "page": "page-08",
+  "idea": "How to turn paper documents into search-ready PDFs using your phone",
+  "text": "Find any old tax receipt or contract in five seconds flat using search-ready PDFs. Digging through shoeboxes of paper receipts creates massive stress right before quarterly tax deadlines. Standard phone snapshots lack digital text layers, preventing your computer search bar from indexing them. Scan them using Google Drive to automatically convert printed vendor names into searchable PDF metadata. You locate any deduction instantly by typing one keyword.",
+  "duration": 28.517,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Find",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "any",
+      "start": 0.32,
+      "end": 0.54
+    },
+    {
+      "word": "old",
+      "start": 0.54,
+      "end": 0.82
+    },
+    {
+      "word": "tax",
+      "start": 0.82,
+      "end": 1.14
+    },
+    {
+      "word": "receipt",
+      "start": 1.14,
+      "end": 1.52
+    },
+    {
+      "word": "or",
+      "start": 1.52,
+      "end": 1.84
+    },
+    {
+      "word": "contract",
+      "start": 1.84,
+      "end": 2.22
+    },
+    {
+      "word": "in",
+      "start": 2.22,
+      "end": 2.48
+    },
+    {
+      "word": "five",
+      "start": 2.48,
+      "end": 2.82
+    },
+    {
+      "word": "seconds",
+      "start": 2.82,
+      "end": 3.14
+    },
+    {
+      "word": "flat",
+      "start": 3.14,
+      "end": 3.62
+    },
+    {
+      "word": "using",
+      "start": 3.62,
+      "end": 4.1
+    },
+    {
+      "word": "search",
+      "start": 4.1,
+      "end": 4.44
+    },
+    {
+      "word": "-ready",
+      "start": 4.44,
+      "end": 4.66
+    },
+    {
+      "word": "PDFs.",
+      "start": 4.66,
+      "end": 5.86
+    },
+    {
+      "word": "Digging",
+      "start": 6.0,
+      "end": 6.26
+    },
+    {
+      "word": "through",
+      "start": 6.26,
+      "end": 6.56
+    },
+    {
+      "word": "shoeboxes",
+      "start": 6.56,
+      "end": 7.18
+    },
+    {
+      "word": "of",
+      "start": 7.18,
+      "end": 7.36
+    },
+    {
+      "word": "paper",
+      "start": 7.36,
+      "end": 7.6
+    },
+    {
+      "word": "receipts",
+      "start": 7.6,
+      "end": 8.04
+    },
+    {
+      "word": "creates",
+      "start": 8.04,
+      "end": 8.52
+    },
+    {
+      "word": "massive",
+      "start": 8.52,
+      "end": 8.88
+    },
+    {
+      "word": "stress",
+      "start": 8.88,
+      "end": 9.5
+    },
+    {
+      "word": "right",
+      "start": 9.5,
+      "end": 9.92
+    },
+    {
+      "word": "before",
+      "start": 9.92,
+      "end": 10.3
+    },
+    {
+      "word": "quarterly",
+      "start": 10.3,
+      "end": 10.7
+    },
+    {
+      "word": "tax",
+      "start": 10.7,
+      "end": 11.08
+    },
+    {
+      "word": "deadlines.",
+      "start": 11.08,
+      "end": 11.62
+    },
+    {
+      "word": "Standard",
+      "start": 12.38,
+      "end": 12.38
+    },
+    {
+      "word": "phone",
+      "start": 12.38,
+      "end": 12.76
+    },
+    {
+      "word": "snapshots,",
+      "start": 12.76,
+      "end": 13.18
+    },
+    {
+      "word": "lack",
+      "start": 13.68,
+      "end": 13.76
+    },
+    {
+      "word": "digital",
+      "start": 13.76,
+      "end": 14.12
+    },
+    {
+      "word": "text",
+      "start": 14.12,
+      "end": 14.5
+    },
+    {
+      "word": "layers,",
+      "start": 14.5,
+      "end": 14.88
+    },
+    {
+      "word": "preventing",
+      "start": 15.3,
+      "end": 15.5
+    },
+    {
+      "word": "your",
+      "start": 15.5,
+      "end": 16.18
+    },
+    {
+      "word": "computer",
+      "start": 16.18,
+      "end": 16.18
+    },
+    {
+      "word": "search",
+      "start": 16.18,
+      "end": 16.56
+    },
+    {
+      "word": "bar",
+      "start": 16.56,
+      "end": 16.84
+    },
+    {
+      "word": "from",
+      "start": 16.84,
+      "end": 17.2
+    },
+    {
+      "word": "indexing",
+      "start": 17.2,
+      "end": 17.66
+    },
+    {
+      "word": "them.",
+      "start": 17.66,
+      "end": 18.2
+    },
+    {
+      "word": "Scan",
+      "start": 18.52,
+      "end": 18.74
+    },
+    {
+      "word": "them",
+      "start": 18.74,
+      "end": 19.0
+    },
+    {
+      "word": "using",
+      "start": 19.0,
+      "end": 19.34
+    },
+    {
+      "word": "Google",
+      "start": 19.34,
+      "end": 19.68
+    },
+    {
+      "word": "Drive",
+      "start": 19.68,
+      "end": 20.12
+    },
+    {
+      "word": "to",
+      "start": 20.12,
+      "end": 20.6
+    },
+    {
+      "word": "automatically",
+      "start": 20.6,
+      "end": 21.0
+    },
+    {
+      "word": "convert",
+      "start": 21.0,
+      "end": 21.56
+    },
+    {
+      "word": "printed",
+      "start": 21.56,
+      "end": 21.92
+    },
+    {
+      "word": "vendor",
+      "start": 21.92,
+      "end": 22.18
+    },
+    {
+      "word": "names",
+      "start": 22.18,
+      "end": 22.56
+    },
+    {
+      "word": "into",
+      "start": 22.56,
+      "end": 22.88
+    },
+    {
+      "word": "searchable",
+      "start": 22.88,
+      "end": 23.48
+    },
+    {
+      "word": "PDF",
+      "start": 23.48,
+      "end": 23.96
+    },
+    {
+      "word": "metadata.",
+      "start": 23.96,
+      "end": 24.48
+    },
+    {
+      "word": "You",
+      "start": 24.48,
+      "end": 25.26
+    },
+    {
+      "word": "locate",
+      "start": 25.26,
+      "end": 25.6
+    },
+    {
+      "word": "any",
+      "start": 25.6,
+      "end": 25.88
+    },
+    {
+      "word": "deduction",
+      "start": 25.88,
+      "end": 26.32
+    },
+    {
+      "word": "instantly",
+      "start": 26.32,
+      "end": 26.88
+    },
+    {
+      "word": "by",
+      "start": 26.88,
+      "end": 27.28
+    },
+    {
+      "word": "typing",
+      "start": 27.28,
+      "end": 27.62
+    },
+    {
+      "word": "one",
+      "start": 27.62,
+      "end": 28.0
+    },
+    {
+      "word": "keyword.",
+      "start": 28.0,
+      "end": 28.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Find any old tax receipt or contract in 5 seconds with search-ready PDFs.",
+      "line2": "SCAN PAPERS TO PDF",
+      "tag": "\ud83d\uded1 How to turn paper documents into search-ready PDFs using your phone",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

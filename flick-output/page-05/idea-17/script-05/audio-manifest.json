@@ -1,0 +1,416 @@
+{
+  "page": "page-05",
+  "idea": "No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+  "text": "Scale your digital sales with automated partner tracking without paying for bloated SaaS platforms. Word-of-mouth referrals convert faster than ads, but tracking links across disconnected channels becomes unmanageable overnight. Missing attribution tags and manual spreadsheet reconciliations cause inaccurate payouts and broken partner trust. Instead, stream Lemon Squeezy purchase webhooks into Airtable using Make to calculate commissions in real time. You scale affiliate revenue with zero admin overhead.",
+  "duration": 31.077,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Scale",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "your",
+      "start": 0.3,
+      "end": 0.56
+    },
+    {
+      "word": "digital",
+      "start": 0.56,
+      "end": 0.94
+    },
+    {
+      "word": "sales",
+      "start": 0.94,
+      "end": 1.32
+    },
+    {
+      "word": "with",
+      "start": 1.32,
+      "end": 1.68
+    },
+    {
+      "word": "automated",
+      "start": 1.68,
+      "end": 2.04
+    },
+    {
+      "word": "partner",
+      "start": 2.04,
+      "end": 2.54
+    },
+    {
+      "word": "tracking",
+      "start": 2.54,
+      "end": 3.0
+    },
+    {
+      "word": "without",
+      "start": 3.0,
+      "end": 3.4
+    },
+    {
+      "word": "paying",
+      "start": 3.4,
+      "end": 3.78
+    },
+    {
+      "word": "for",
+      "start": 3.78,
+      "end": 4.04
+    },
+    {
+      "word": "bloated",
+      "start": 4.04,
+      "end": 4.42
+    },
+    {
+      "word": "saw",
+      "start": 4.42,
+      "end": 4.7
+    },
+    {
+      "word": "s",
+      "start": 4.7,
+      "end": 4.94
+    },
+    {
+      "word": "-platforms.",
+      "start": 4.94,
+      "end": 6.14
+    },
+    {
+      "word": "Word",
+      "start": 6.28,
+      "end": 6.34
+    },
+    {
+      "word": "of",
+      "start": 6.34,
+      "end": 6.48
+    },
+    {
+      "word": "mouth",
+      "start": 6.48,
+      "end": 6.78
+    },
+    {
+      "word": "referrals",
+      "start": 6.78,
+      "end": 7.28
+    },
+    {
+      "word": "convert",
+      "start": 7.28,
+      "end": 7.74
+    },
+    {
+      "word": "faster",
+      "start": 7.74,
+      "end": 8.22
+    },
+    {
+      "word": "than",
+      "start": 8.22,
+      "end": 8.48
+    },
+    {
+      "word": "ads,",
+      "start": 8.48,
+      "end": 8.82
+    },
+    {
+      "word": "but",
+      "start": 9.24,
+      "end": 9.42
+    },
+    {
+      "word": "tracking",
+      "start": 9.42,
+      "end": 9.76
+    },
+    {
+      "word": "links",
+      "start": 9.76,
+      "end": 10.06
+    },
+    {
+      "word": "across",
+      "start": 10.06,
+      "end": 10.5
+    },
+    {
+      "word": "disconnected",
+      "start": 10.5,
+      "end": 10.96
+    },
+    {
+      "word": "channels",
+      "start": 10.96,
+      "end": 11.7
+    },
+    {
+      "word": "becomes",
+      "start": 11.7,
+      "end": 12.4
+    },
+    {
+      "word": "unmanageable",
+      "start": 12.4,
+      "end": 13.28
+    },
+    {
+      "word": "overnight.",
+      "start": 13.28,
+      "end": 13.78
+    },
+    {
+      "word": "Missing",
+      "start": 14.32,
+      "end": 14.32
+    },
+    {
+      "word": "attribution",
+      "start": 14.32,
+      "end": 14.82
+    },
+    {
+      "word": "tags",
+      "start": 14.82,
+      "end": 15.24
+    },
+    {
+      "word": "and",
+      "start": 15.24,
+      "end": 15.64
+    },
+    {
+      "word": "manual",
+      "start": 15.64,
+      "end": 15.92
+    },
+    {
+      "word": "spreadsheet",
+      "start": 15.92,
+      "end": 16.38
+    },
+    {
+      "word": "reconciliation",
+      "start": 16.38,
+      "end": 17.12
+    },
+    {
+      "word": "calls",
+      "start": 17.12,
+      "end": 17.96
+    },
+    {
+      "word": "inaccurate",
+      "start": 17.96,
+      "end": 18.5
+    },
+    {
+      "word": "payouts",
+      "start": 18.5,
+      "end": 19.02
+    },
+    {
+      "word": "and",
+      "start": 19.02,
+      "end": 19.26
+    },
+    {
+      "word": "broken",
+      "start": 19.26,
+      "end": 19.6
+    },
+    {
+      "word": "partner",
+      "start": 19.6,
+      "end": 20.0
+    },
+    {
+      "word": "trust.",
+      "start": 20.0,
+      "end": 20.38
+    },
+    {
+      "word": "Instead,",
+      "start": 21.02,
+      "end": 21.36
+    },
+    {
+      "word": "stream",
+      "start": 22.1,
+      "end": 22.16
+    },
+    {
+      "word": "lemon",
+      "start": 22.16,
+      "end": 22.44
+    },
+    {
+      "word": "squeezy",
+      "start": 22.44,
+      "end": 23.04
+    },
+    {
+      "word": "purchase",
+      "start": 23.04,
+      "end": 23.46
+    },
+    {
+      "word": "web",
+      "start": 23.46,
+      "end": 23.68
+    },
+    {
+      "word": "hooks",
+      "start": 23.68,
+      "end": 23.88
+    },
+    {
+      "word": "into",
+      "start": 23.88,
+      "end": 24.2
+    },
+    {
+      "word": "irritable",
+      "start": 24.2,
+      "end": 24.6
+    },
+    {
+      "word": "using",
+      "start": 24.6,
+      "end": 25.02
+    },
+    {
+      "word": "make",
+      "start": 25.02,
+      "end": 25.26
+    },
+    {
+      "word": "-to",
+      "start": 25.26,
+      "end": 25.46
+    },
+    {
+      "word": "-calculate",
+      "start": 25.46,
+      "end": 25.9
+    },
+    {
+      "word": "commissions",
+      "start": 25.9,
+      "end": 26.32
+    },
+    {
+      "word": "in",
+      "start": 26.32,
+      "end": 26.68
+    },
+    {
+      "word": "real",
+      "start": 26.68,
+      "end": 26.94
+    },
+    {
+      "word": "time.",
+      "start": 26.94,
+      "end": 27.48
+    },
+    {
+      "word": "You",
+      "start": 27.48,
+      "end": 28.08
+    },
+    {
+      "word": "scale",
+      "start": 28.08,
+      "end": 28.32
+    },
+    {
+      "word": "affiliate",
+      "start": 28.32,
+      "end": 28.92
+    },
+    {
+      "word": "revenue",
+      "start": 28.92,
+      "end": 29.28
+    },
+    {
+      "word": "with",
+      "start": 29.28,
+      "end": 29.64
+    },
+    {
+      "word": "zero",
+      "start": 29.64,
+      "end": 30.16
+    },
+    {
+      "word": "admin",
+      "start": 30.16,
+      "end": 30.48
+    },
+    {
+      "word": "overhead.",
+      "start": 30.48,
+      "end": 30.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Scale your digital sales with automated partner tracking.",
+      "line2": "TRACK AFFILIATES AUTOMATICALLY",
+      "tag": "\ud83d\uded1 No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

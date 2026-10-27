@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "AI meeting prep bot that briefs founders before prospective client calls",
+  "text": "This executive briefing workflow gives founders an immediate edge in every client meeting. Selling enterprise software requires knowing prospect tech stacks, recent hiring sprees, and operational pain points upfront. Skipping background research creates tone-deaf pitches that fail to convince seasoned decision-makers. Build an automated Clay table that enriches calendar invitations and delivers comprehensive dossiers directly into Slack. Secure higher contract values with zero manual research.",
+  "duration": 30.458,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "executive",
+      "start": 0.24,
+      "end": 0.76
+    },
+    {
+      "word": "briefing",
+      "start": 0.76,
+      "end": 1.2
+    },
+    {
+      "word": "workflow",
+      "start": 1.2,
+      "end": 1.76
+    },
+    {
+      "word": "gives",
+      "start": 1.76,
+      "end": 2.18
+    },
+    {
+      "word": "founders",
+      "start": 2.18,
+      "end": 2.62
+    },
+    {
+      "word": "an",
+      "start": 2.62,
+      "end": 2.94
+    },
+    {
+      "word": "immediate",
+      "start": 2.94,
+      "end": 3.26
+    },
+    {
+      "word": "edge",
+      "start": 3.26,
+      "end": 3.62
+    },
+    {
+      "word": "in",
+      "start": 3.62,
+      "end": 3.86
+    },
+    {
+      "word": "every",
+      "start": 3.86,
+      "end": 4.16
+    },
+    {
+      "word": "client",
+      "start": 4.16,
+      "end": 4.48
+    },
+    {
+      "word": "meeting.",
+      "start": 4.48,
+      "end": 5.06
+    },
+    {
+      "word": "Selling",
+      "start": 5.6,
+      "end": 5.8
+    },
+    {
+      "word": "enterprise",
+      "start": 5.8,
+      "end": 6.32
+    },
+    {
+      "word": "software",
+      "start": 6.32,
+      "end": 7.0
+    },
+    {
+      "word": "requires",
+      "start": 7.0,
+      "end": 7.58
+    },
+    {
+      "word": "knowing",
+      "start": 7.58,
+      "end": 8.0
+    },
+    {
+      "word": "prospect",
+      "start": 8.0,
+      "end": 8.52
+    },
+    {
+      "word": "tech",
+      "start": 8.52,
+      "end": 8.84
+    },
+    {
+      "word": "stacks,",
+      "start": 8.84,
+      "end": 9.24
+    },
+    {
+      "word": "recent",
+      "start": 9.76,
+      "end": 10.0
+    },
+    {
+      "word": "hiring",
+      "start": 10.0,
+      "end": 10.4
+    },
+    {
+      "word": "sprees,",
+      "start": 10.4,
+      "end": 10.86
+    },
+    {
+      "word": "and",
+      "start": 11.24,
+      "end": 11.44
+    },
+    {
+      "word": "operational",
+      "start": 11.44,
+      "end": 11.98
+    },
+    {
+      "word": "pain",
+      "start": 11.98,
+      "end": 12.38
+    },
+    {
+      "word": "points",
+      "start": 12.38,
+      "end": 12.7
+    },
+    {
+      "word": "upfront.",
+      "start": 12.7,
+      "end": 13.32
+    },
+    {
+      "word": "Skipping",
+      "start": 13.6,
+      "end": 13.84
+    },
+    {
+      "word": "background",
+      "start": 13.84,
+      "end": 14.38
+    },
+    {
+      "word": "research",
+      "start": 14.38,
+      "end": 14.9
+    },
+    {
+      "word": "creates",
+      "start": 14.9,
+      "end": 15.4
+    },
+    {
+      "word": "tone",
+      "start": 15.4,
+      "end": 15.78
+    },
+    {
+      "word": "deaf",
+      "start": 15.78,
+      "end": 16.0
+    },
+    {
+      "word": "pitches",
+      "start": 16.0,
+      "end": 16.3
+    },
+    {
+      "word": "that",
+      "start": 16.3,
+      "end": 16.6
+    },
+    {
+      "word": "fail",
+      "start": 16.6,
+      "end": 16.8
+    },
+    {
+      "word": "to",
+      "start": 16.8,
+      "end": 17.06
+    },
+    {
+      "word": "convince",
+      "start": 17.06,
+      "end": 17.42
+    },
+    {
+      "word": "seasoned",
+      "start": 17.42,
+      "end": 17.86
+    },
+    {
+      "word": "decision",
+      "start": 17.86,
+      "end": 18.3
+    },
+    {
+      "word": "makers.",
+      "start": 18.3,
+      "end": 18.72
+    },
+    {
+      "word": "Build",
+      "start": 19.48,
+      "end": 19.54
+    },
+    {
+      "word": "an",
+      "start": 19.54,
+      "end": 20.24
+    },
+    {
+      "word": "automated",
+      "start": 20.24,
+      "end": 20.24
+    },
+    {
+      "word": "clay",
+      "start": 20.24,
+      "end": 20.56
+    },
+    {
+      "word": "table",
+      "start": 20.56,
+      "end": 20.9
+    },
+    {
+      "word": "that",
+      "start": 20.9,
+      "end": 21.38
+    },
+    {
+      "word": "enriches",
+      "start": 21.38,
+      "end": 21.8
+    },
+    {
+      "word": "calendar",
+      "start": 21.8,
+      "end": 22.26
+    },
+    {
+      "word": "invitations",
+      "start": 22.26,
+      "end": 22.94
+    },
+    {
+      "word": "and",
+      "start": 22.94,
+      "end": 23.54
+    },
+    {
+      "word": "delivers",
+      "start": 23.54,
+      "end": 23.82
+    },
+    {
+      "word": "comprehensive",
+      "start": 23.82,
+      "end": 24.66
+    },
+    {
+      "word": "dossiers",
+      "start": 24.66,
+      "end": 25.3
+    },
+    {
+      "word": "directly",
+      "start": 25.3,
+      "end": 25.82
+    },
+    {
+      "word": "into",
+      "start": 25.82,
+      "end": 26.18
+    },
+    {
+      "word": "Slack.",
+      "start": 26.18,
+      "end": 26.68
+    },
+    {
+      "word": "Secure",
+      "start": 26.68,
+      "end": 27.46
+    },
+    {
+      "word": "higher",
+      "start": 27.46,
+      "end": 27.86
+    },
+    {
+      "word": "contract",
+      "start": 27.86,
+      "end": 28.28
+    },
+    {
+      "word": "values",
+      "start": 28.28,
+      "end": 28.68
+    },
+    {
+      "word": "with",
+      "start": 28.68,
+      "end": 29.06
+    },
+    {
+      "word": "zero",
+      "start": 29.06,
+      "end": 29.46
+    },
+    {
+      "word": "manual",
+      "start": 29.46,
+      "end": 29.88
+    },
+    {
+      "word": "research.",
+      "start": 29.88,
+      "end": 30.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The executive briefing assistant that gives founders an immediate edge in meetings.",
+      "line2": "PREP CLIENT CALLS FASTER",
+      "tag": "\ud83d\uded1 AI meeting prep bot that briefs founders before prospective client calls",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: AI meeting prep bot that briefs founders before prospective client calls",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: AI meeting prep bot that briefs founders before prospective client calls",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

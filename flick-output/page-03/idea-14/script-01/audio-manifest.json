@@ -1,0 +1,426 @@
+{
+  "page": "page-03",
+  "idea": "Automated link-in-bio funnel that captures email addresses",
+  "text": "Stop sending social media traffic to a dead link tree that never captures leads. Dumping profile visitors onto ten confusing buttons triggers decision paralysis, losing ninety percent of interested prospects. When casual viewers bounce without entering an email address, you lose the chance to pitch future products. Deploy a high-converting Carrd landing page that feeds new subscribers straight into an automated ConvertKit sequence. You turn viral attention into predictable recurring sales.",
+  "duration": 29.775,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "sending",
+      "start": 0.42,
+      "end": 0.76
+    },
+    {
+      "word": "social",
+      "start": 0.76,
+      "end": 1.2
+    },
+    {
+      "word": "media",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "word": "traffic",
+      "start": 1.52,
+      "end": 1.96
+    },
+    {
+      "word": "to",
+      "start": 1.96,
+      "end": 2.28
+    },
+    {
+      "word": "a",
+      "start": 2.28,
+      "end": 2.48
+    },
+    {
+      "word": "dead",
+      "start": 2.48,
+      "end": 2.7
+    },
+    {
+      "word": "-linked",
+      "start": 2.7,
+      "end": 2.98
+    },
+    {
+      "word": "tree",
+      "start": 2.98,
+      "end": 3.36
+    },
+    {
+      "word": "that",
+      "start": 3.36,
+      "end": 3.62
+    },
+    {
+      "word": "never",
+      "start": 3.62,
+      "end": 3.9
+    },
+    {
+      "word": "captures",
+      "start": 3.9,
+      "end": 4.36
+    },
+    {
+      "word": "leads.",
+      "start": 4.36,
+      "end": 4.9
+    },
+    {
+      "word": "Dumping",
+      "start": 5.58,
+      "end": 5.74
+    },
+    {
+      "word": "profile",
+      "start": 5.74,
+      "end": 6.16
+    },
+    {
+      "word": "visitors",
+      "start": 6.16,
+      "end": 6.68
+    },
+    {
+      "word": "onto",
+      "start": 6.68,
+      "end": 7.04
+    },
+    {
+      "word": "10",
+      "start": 7.04,
+      "end": 7.4
+    },
+    {
+      "word": "confusing",
+      "start": 7.4,
+      "end": 7.88
+    },
+    {
+      "word": "buttons",
+      "start": 7.88,
+      "end": 8.44
+    },
+    {
+      "word": "triggers",
+      "start": 8.44,
+      "end": 8.86
+    },
+    {
+      "word": "decision",
+      "start": 8.86,
+      "end": 9.36
+    },
+    {
+      "word": "paralysis,",
+      "start": 9.36,
+      "end": 9.92
+    },
+    {
+      "word": "losing",
+      "start": 10.74,
+      "end": 10.74
+    },
+    {
+      "word": "90",
+      "start": 10.74,
+      "end": 11.22
+    },
+    {
+      "word": "%",
+      "start": 11.22,
+      "end": 11.56
+    },
+    {
+      "word": "of",
+      "start": 11.56,
+      "end": 11.72
+    },
+    {
+      "word": "interested",
+      "start": 11.72,
+      "end": 12.14
+    },
+    {
+      "word": "prospects.",
+      "start": 12.14,
+      "end": 12.7
+    },
+    {
+      "word": "When",
+      "start": 13.14,
+      "end": 13.32
+    },
+    {
+      "word": "casual",
+      "start": 13.32,
+      "end": 13.6
+    },
+    {
+      "word": "viewers",
+      "start": 13.6,
+      "end": 14.08
+    },
+    {
+      "word": "bounce",
+      "start": 14.08,
+      "end": 14.46
+    },
+    {
+      "word": "without",
+      "start": 14.46,
+      "end": 14.86
+    },
+    {
+      "word": "entering",
+      "start": 14.86,
+      "end": 15.12
+    },
+    {
+      "word": "an",
+      "start": 15.12,
+      "end": 15.38
+    },
+    {
+      "word": "email",
+      "start": 15.38,
+      "end": 15.64
+    },
+    {
+      "word": "address,",
+      "start": 15.64,
+      "end": 16.16
+    },
+    {
+      "word": "you",
+      "start": 16.52,
+      "end": 16.66
+    },
+    {
+      "word": "lose",
+      "start": 16.66,
+      "end": 16.9
+    },
+    {
+      "word": "the",
+      "start": 16.9,
+      "end": 17.16
+    },
+    {
+      "word": "chance",
+      "start": 17.16,
+      "end": 17.36
+    },
+    {
+      "word": "to",
+      "start": 17.36,
+      "end": 17.6
+    },
+    {
+      "word": "pitch",
+      "start": 17.6,
+      "end": 17.82
+    },
+    {
+      "word": "future",
+      "start": 17.82,
+      "end": 18.18
+    },
+    {
+      "word": "products.",
+      "start": 18.18,
+      "end": 18.74
+    },
+    {
+      "word": "Deploy",
+      "start": 19.34,
+      "end": 19.54
+    },
+    {
+      "word": "a",
+      "start": 19.54,
+      "end": 19.84
+    },
+    {
+      "word": "high",
+      "start": 19.84,
+      "end": 20.06
+    },
+    {
+      "word": "-converting",
+      "start": 20.06,
+      "end": 20.48
+    },
+    {
+      "word": "CAD",
+      "start": 20.48,
+      "end": 20.96
+    },
+    {
+      "word": "landing",
+      "start": 20.96,
+      "end": 21.22
+    },
+    {
+      "word": "page",
+      "start": 21.22,
+      "end": 21.72
+    },
+    {
+      "word": "that",
+      "start": 21.72,
+      "end": 22.12
+    },
+    {
+      "word": "feeds",
+      "start": 22.12,
+      "end": 22.42
+    },
+    {
+      "word": "new",
+      "start": 22.42,
+      "end": 22.76
+    },
+    {
+      "word": "subscribers",
+      "start": 22.76,
+      "end": 23.2
+    },
+    {
+      "word": "straight",
+      "start": 23.2,
+      "end": 23.8
+    },
+    {
+      "word": "into",
+      "start": 23.8,
+      "end": 24.04
+    },
+    {
+      "word": "an",
+      "start": 24.04,
+      "end": 24.58
+    },
+    {
+      "word": "automated",
+      "start": 24.58,
+      "end": 24.78
+    },
+    {
+      "word": "convert",
+      "start": 24.78,
+      "end": 25.32
+    },
+    {
+      "word": "kit",
+      "start": 25.32,
+      "end": 25.56
+    },
+    {
+      "word": "sequence.",
+      "start": 25.56,
+      "end": 26.02
+    },
+    {
+      "word": "You",
+      "start": 26.02,
+      "end": 26.7
+    },
+    {
+      "word": "turn",
+      "start": 26.7,
+      "end": 26.96
+    },
+    {
+      "word": "viral",
+      "start": 26.96,
+      "end": 27.34
+    },
+    {
+      "word": "attention",
+      "start": 27.34,
+      "end": 27.88
+    },
+    {
+      "word": "into",
+      "start": 27.88,
+      "end": 28.22
+    },
+    {
+      "word": "predictable",
+      "start": 28.22,
+      "end": 28.72
+    },
+    {
+      "word": "recurring",
+      "start": 28.72,
+      "end": 29.18
+    },
+    {
+      "word": "sales.",
+      "start": 29.18,
+      "end": 29.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop sending social media traffic to a dead link tree that doesn't capture leads.",
+      "line2": "CAPTURE EMAIL LEADS",
+      "tag": "\ud83d\uded1 Automated link-in-bio funnel that captures email addresses",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: Automated link-in-bio funnel that captures email addresses",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: Automated link-in-bio funnel that captures email addresses",
+        "subtitle": "Automated link-in-bio funnel that captures email addresses"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "Automated link-in-bio funnel that captures email addresses"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "Automated link-in-bio funnel that captures email addresses"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "Automated link-in-bio funnel that captures email addresses",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

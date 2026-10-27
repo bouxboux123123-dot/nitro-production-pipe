@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Automated customer testimonial widget that embeds live on sales pages",
+  "text": "Display authentic user love on your product website automatically without writing any code. Gathering customer testimonials manually involves chasing clients over email and waiting weeks for written approvals. Most founders give up, leaving their landing pages with generic placeholder quotes that ruin credibility. Deploy an automated collection form using Testimonial.to that gathers video reviews and auto-syncs to Webflow. You build unstoppable brand credibility while scaling revenue.",
+  "duration": 29.861,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "display",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "authentic",
+      "start": 0.5,
+      "end": 1.04
+    },
+    {
+      "word": "user",
+      "start": 1.04,
+      "end": 1.44
+    },
+    {
+      "word": "love",
+      "start": 1.44,
+      "end": 1.72
+    },
+    {
+      "word": "on",
+      "start": 1.72,
+      "end": 1.86
+    },
+    {
+      "word": "your",
+      "start": 1.86,
+      "end": 2.26
+    },
+    {
+      "word": "product",
+      "start": 2.26,
+      "end": 2.36
+    },
+    {
+      "word": "website",
+      "start": 2.36,
+      "end": 2.88
+    },
+    {
+      "word": "automatically",
+      "start": 2.88,
+      "end": 3.48
+    },
+    {
+      "word": "without",
+      "start": 3.48,
+      "end": 4.26
+    },
+    {
+      "word": "writing",
+      "start": 4.26,
+      "end": 4.58
+    },
+    {
+      "word": "any",
+      "start": 4.58,
+      "end": 4.86
+    },
+    {
+      "word": "code.",
+      "start": 4.86,
+      "end": 5.48
+    },
+    {
+      "word": "Gathering",
+      "start": 6.24,
+      "end": 6.24
+    },
+    {
+      "word": "customer",
+      "start": 6.24,
+      "end": 6.82
+    },
+    {
+      "word": "testimonials,",
+      "start": 6.82,
+      "end": 7.68
+    },
+    {
+      "word": "manually",
+      "start": 8.0,
+      "end": 8.26
+    },
+    {
+      "word": "involves",
+      "start": 8.26,
+      "end": 8.82
+    },
+    {
+      "word": "chasing",
+      "start": 8.82,
+      "end": 9.22
+    },
+    {
+      "word": "clients",
+      "start": 9.22,
+      "end": 9.68
+    },
+    {
+      "word": "over",
+      "start": 9.68,
+      "end": 10.02
+    },
+    {
+      "word": "email",
+      "start": 10.02,
+      "end": 10.38
+    },
+    {
+      "word": "and",
+      "start": 10.38,
+      "end": 10.9
+    },
+    {
+      "word": "waiting",
+      "start": 10.9,
+      "end": 11.12
+    },
+    {
+      "word": "weeks",
+      "start": 11.12,
+      "end": 11.54
+    },
+    {
+      "word": "for",
+      "start": 11.54,
+      "end": 11.76
+    },
+    {
+      "word": "written",
+      "start": 11.76,
+      "end": 11.92
+    },
+    {
+      "word": "approvals.",
+      "start": 11.92,
+      "end": 12.38
+    },
+    {
+      "word": "Most",
+      "start": 13.08,
+      "end": 13.12
+    },
+    {
+      "word": "founders",
+      "start": 13.12,
+      "end": 13.46
+    },
+    {
+      "word": "give",
+      "start": 13.46,
+      "end": 13.8
+    },
+    {
+      "word": "up,",
+      "start": 13.8,
+      "end": 14.28
+    },
+    {
+      "word": "leaving",
+      "start": 14.28,
+      "end": 14.56
+    },
+    {
+      "word": "their",
+      "start": 14.56,
+      "end": 14.88
+    },
+    {
+      "word": "landing",
+      "start": 14.88,
+      "end": 15.18
+    },
+    {
+      "word": "pages",
+      "start": 15.18,
+      "end": 15.68
+    },
+    {
+      "word": "with",
+      "start": 15.68,
+      "end": 16.02
+    },
+    {
+      "word": "generic",
+      "start": 16.02,
+      "end": 16.5
+    },
+    {
+      "word": "placeholder",
+      "start": 16.5,
+      "end": 16.9
+    },
+    {
+      "word": "quotes",
+      "start": 16.9,
+      "end": 17.42
+    },
+    {
+      "word": "that",
+      "start": 17.42,
+      "end": 17.68
+    },
+    {
+      "word": "ruin",
+      "start": 17.68,
+      "end": 18.02
+    },
+    {
+      "word": "credibility.",
+      "start": 18.02,
+      "end": 18.66
+    },
+    {
+      "word": "Deploy",
+      "start": 19.4,
+      "end": 19.64
+    },
+    {
+      "word": "an",
+      "start": 19.64,
+      "end": 19.98
+    },
+    {
+      "word": "automated",
+      "start": 19.98,
+      "end": 20.34
+    },
+    {
+      "word": "collection",
+      "start": 20.34,
+      "end": 20.98
+    },
+    {
+      "word": "form",
+      "start": 20.98,
+      "end": 21.28
+    },
+    {
+      "word": "using",
+      "start": 21.28,
+      "end": 21.64
+    },
+    {
+      "word": "testimonial",
+      "start": 21.64,
+      "end": 22.42
+    },
+    {
+      "word": "to",
+      "start": 22.42,
+      "end": 23.0
+    },
+    {
+      "word": "that",
+      "start": 23.0,
+      "end": 23.28
+    },
+    {
+      "word": "Gather's",
+      "start": 23.28,
+      "end": 23.74
+    },
+    {
+      "word": "video",
+      "start": 23.74,
+      "end": 24.02
+    },
+    {
+      "word": "reviews",
+      "start": 24.02,
+      "end": 24.44
+    },
+    {
+      "word": "and",
+      "start": 24.44,
+      "end": 24.86
+    },
+    {
+      "word": "auto",
+      "start": 24.86,
+      "end": 25.08
+    },
+    {
+      "word": "sinks",
+      "start": 25.08,
+      "end": 25.32
+    },
+    {
+      "word": "to",
+      "start": 25.32,
+      "end": 25.58
+    },
+    {
+      "word": "Webflow.",
+      "start": 25.58,
+      "end": 26.02
+    },
+    {
+      "word": "You",
+      "start": 26.02,
+      "end": 26.66
+    },
+    {
+      "word": "build",
+      "start": 26.66,
+      "end": 26.94
+    },
+    {
+      "word": "unstoppable",
+      "start": 26.94,
+      "end": 27.6
+    },
+    {
+      "word": "brand",
+      "start": 27.6,
+      "end": 28.12
+    },
+    {
+      "word": "credibility",
+      "start": 28.12,
+      "end": 28.58
+    },
+    {
+      "word": "while",
+      "start": 28.58,
+      "end": 29.0
+    },
+    {
+      "word": "scaling",
+      "start": 29.0,
+      "end": 29.4
+    },
+    {
+      "word": "revenue.",
+      "start": 29.4,
+      "end": 29.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Display authentic user love on your product website automatically.",
+      "line2": "EMBED LIVE TESTIMONIALS",
+      "tag": "\ud83d\uded1 Automated customer testimonial widget that embeds live on sales pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated customer testimonial widget that embeds live on sales pages",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated customer testimonial widget that embeds live on sales pages",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

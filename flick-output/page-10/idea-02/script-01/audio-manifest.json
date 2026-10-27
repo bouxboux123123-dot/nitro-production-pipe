@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "ChatGPT deep research agent rollout for automated market analysis",
+  "text": "OpenAI just launched an autonomous research agent and it changes everything. Founders and analysts spend countless evenings reading dozens of fragmented market reports and competitor whitepapers. Manual internet research leads to confirmation bias, missed data points, and outdated statistics buried in paywalled sources. The new Deep Research agent autonomously browses hundreds of web pages, synthesizing findings into fully cited executive briefs. You get comprehensive competitive intelligence in minutes.",
+  "duration": 31.951,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Open",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "AI",
+      "start": 0.38,
+      "end": 0.88
+    },
+    {
+      "word": "just",
+      "start": 0.88,
+      "end": 1.26
+    },
+    {
+      "word": "launched",
+      "start": 1.26,
+      "end": 1.56
+    },
+    {
+      "word": "an",
+      "start": 1.56,
+      "end": 1.84
+    },
+    {
+      "word": "autonomous",
+      "start": 1.84,
+      "end": 2.28
+    },
+    {
+      "word": "research",
+      "start": 2.28,
+      "end": 2.78
+    },
+    {
+      "word": "agent,",
+      "start": 2.78,
+      "end": 3.32
+    },
+    {
+      "word": "and",
+      "start": 3.5,
+      "end": 3.62
+    },
+    {
+      "word": "it",
+      "start": 3.62,
+      "end": 3.8
+    },
+    {
+      "word": "changes",
+      "start": 3.8,
+      "end": 4.12
+    },
+    {
+      "word": "everything.",
+      "start": 4.12,
+      "end": 5.06
+    },
+    {
+      "word": "Founders",
+      "start": 5.88,
+      "end": 5.88
+    },
+    {
+      "word": "and",
+      "start": 5.88,
+      "end": 6.22
+    },
+    {
+      "word": "analysts",
+      "start": 6.22,
+      "end": 6.58
+    },
+    {
+      "word": "spend",
+      "start": 6.58,
+      "end": 7.06
+    },
+    {
+      "word": "countless",
+      "start": 7.06,
+      "end": 7.54
+    },
+    {
+      "word": "evenings",
+      "start": 7.54,
+      "end": 8.0
+    },
+    {
+      "word": "reading",
+      "start": 8.0,
+      "end": 8.48
+    },
+    {
+      "word": "dozens",
+      "start": 8.48,
+      "end": 8.9
+    },
+    {
+      "word": "of",
+      "start": 8.9,
+      "end": 9.2
+    },
+    {
+      "word": "fragmented",
+      "start": 9.2,
+      "end": 9.62
+    },
+    {
+      "word": "market",
+      "start": 9.62,
+      "end": 10.1
+    },
+    {
+      "word": "reports",
+      "start": 10.1,
+      "end": 10.62
+    },
+    {
+      "word": "and",
+      "start": 10.62,
+      "end": 11.04
+    },
+    {
+      "word": "competitor",
+      "start": 11.04,
+      "end": 11.34
+    },
+    {
+      "word": "white",
+      "start": 11.34,
+      "end": 11.72
+    },
+    {
+      "word": "papers.",
+      "start": 11.72,
+      "end": 12.1
+    },
+    {
+      "word": "Manual",
+      "start": 12.9,
+      "end": 12.9
+    },
+    {
+      "word": "internet",
+      "start": 12.9,
+      "end": 13.3
+    },
+    {
+      "word": "research",
+      "start": 13.3,
+      "end": 13.86
+    },
+    {
+      "word": "leads",
+      "start": 13.86,
+      "end": 14.16
+    },
+    {
+      "word": "to",
+      "start": 14.16,
+      "end": 14.48
+    },
+    {
+      "word": "confirmation",
+      "start": 14.48,
+      "end": 14.88
+    },
+    {
+      "word": "bias,",
+      "start": 14.88,
+      "end": 15.46
+    },
+    {
+      "word": "missed",
+      "start": 16.08,
+      "end": 16.14
+    },
+    {
+      "word": "data",
+      "start": 16.14,
+      "end": 16.5
+    },
+    {
+      "word": "points,",
+      "start": 16.5,
+      "end": 16.84
+    },
+    {
+      "word": "and",
+      "start": 17.14,
+      "end": 17.42
+    },
+    {
+      "word": "outdated",
+      "start": 17.42,
+      "end": 17.74
+    },
+    {
+      "word": "statistics",
+      "start": 17.74,
+      "end": 18.54
+    },
+    {
+      "word": "buried",
+      "start": 18.54,
+      "end": 18.88
+    },
+    {
+      "word": "in",
+      "start": 18.88,
+      "end": 19.16
+    },
+    {
+      "word": "paywalled",
+      "start": 19.16,
+      "end": 19.58
+    },
+    {
+      "word": "sources.",
+      "start": 19.58,
+      "end": 20.14
+    },
+    {
+      "word": "The",
+      "start": 20.78,
+      "end": 20.92
+    },
+    {
+      "word": "new",
+      "start": 20.92,
+      "end": 21.14
+    },
+    {
+      "word": "deep",
+      "start": 21.14,
+      "end": 21.4
+    },
+    {
+      "word": "research",
+      "start": 21.4,
+      "end": 21.84
+    },
+    {
+      "word": "agent",
+      "start": 21.84,
+      "end": 22.28
+    },
+    {
+      "word": "autonomously",
+      "start": 22.28,
+      "end": 23.06
+    },
+    {
+      "word": "brows",
+      "start": 23.06,
+      "end": 23.42
+    },
+    {
+      "word": "his",
+      "start": 23.42,
+      "end": 23.66
+    },
+    {
+      "word": "hundreds",
+      "start": 23.66,
+      "end": 23.94
+    },
+    {
+      "word": "of",
+      "start": 23.94,
+      "end": 24.18
+    },
+    {
+      "word": "web",
+      "start": 24.18,
+      "end": 24.4
+    },
+    {
+      "word": "pages,",
+      "start": 24.4,
+      "end": 24.9
+    },
+    {
+      "word": "synthesizing",
+      "start": 25.44,
+      "end": 25.94
+    },
+    {
+      "word": "findings",
+      "start": 25.94,
+      "end": 26.4
+    },
+    {
+      "word": "into",
+      "start": 26.4,
+      "end": 26.74
+    },
+    {
+      "word": "fully",
+      "start": 26.74,
+      "end": 27.1
+    },
+    {
+      "word": "cited",
+      "start": 27.1,
+      "end": 27.48
+    },
+    {
+      "word": "executive",
+      "start": 27.48,
+      "end": 28.12
+    },
+    {
+      "word": "briefs.",
+      "start": 28.12,
+      "end": 28.54
+    },
+    {
+      "word": "You",
+      "start": 28.54,
+      "end": 29.12
+    },
+    {
+      "word": "get",
+      "start": 29.12,
+      "end": 29.46
+    },
+    {
+      "word": "comprehensive",
+      "start": 29.46,
+      "end": 30.0
+    },
+    {
+      "word": "competitive",
+      "start": 30.0,
+      "end": 30.76
+    },
+    {
+      "word": "intelligence",
+      "start": 30.76,
+      "end": 31.32
+    },
+    {
+      "word": "in",
+      "start": 31.32,
+      "end": 31.6
+    },
+    {
+      "word": "minutes.",
+      "start": 31.6,
+      "end": 31.86
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "OpenAI just launched an autonomous research agent and it changes everything.",
+      "line2": "CHATGPT DEEP RESEARCH ROLLOUT",
+      "tag": "\ud83d\uded1 ChatGPT deep research agent rollout for automated market analysis",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "LLM Generation Velocity: ChatGPT deep research agent rollout for automated market analysis",
+      "primitive": "TokensPerSecondTachometer",
+      "props": {
+        "title": "LLM Generation Velocity: ChatGPT deep research agent rollout for automated market analysis",
+        "subtitle": "ChatGPT deep research agent rollout for automated market analysis"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hallucination & Grounding Check",
+      "primitive": "HallucinationConfidenceGauge",
+      "props": {
+        "title": "Hallucination & Grounding Check",
+        "subtitle": "ChatGPT deep research agent rollout for automated market analysis"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "1M Token Needle In Haystack",
+      "primitive": "NeedleInHaystackMatrix",
+      "props": {
+        "title": "1M Token Needle In Haystack",
+        "subtitle": "ChatGPT deep research agent rollout for automated market analysis"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Cost-Per-Million Token Deflation",
+      "primitive": "CostPerMillionTokensBar",
+      "props": {
+        "title": "Cost-Per-Million Token Deflation",
+        "subtitle": "ChatGPT deep research agent rollout for automated market analysis",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

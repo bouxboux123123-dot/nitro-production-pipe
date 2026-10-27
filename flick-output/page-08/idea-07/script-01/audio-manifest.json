@@ -1,0 +1,396 @@
+{
+  "page": "page-08",
+  "idea": "Automated email filter that unsubscribes from spam newsletters",
+  "text": "Is your email inbox overflowing with 5,000 unread promotional emails right now? Every brand you ever bought from sends daily sales pitches, burying crucial client and personal messages. Deleting marketing emails one by one is an endless treadmill that leaves your inbox permanently cluttered. Type unsubscribe into your Gmail search bar, click Create filter, and check Skip the Inbox. You purge newsletter clutter in sixty seconds.",
+  "duration": 24.747,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Is",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "your",
+      "start": 0.16,
+      "end": 0.34
+    },
+    {
+      "word": "email",
+      "start": 0.34,
+      "end": 0.62
+    },
+    {
+      "word": "inbox",
+      "start": 0.62,
+      "end": 1.1
+    },
+    {
+      "word": "overflowing",
+      "start": 1.1,
+      "end": 1.6
+    },
+    {
+      "word": "with",
+      "start": 1.6,
+      "end": 2.2
+    },
+    {
+      "word": "5",
+      "start": 2.2,
+      "end": 2.42
+    },
+    {
+      "word": ",000",
+      "start": 2.42,
+      "end": 2.68
+    },
+    {
+      "word": "unread",
+      "start": 2.68,
+      "end": 3.02
+    },
+    {
+      "word": "promotional",
+      "start": 3.02,
+      "end": 3.46
+    },
+    {
+      "word": "emails",
+      "start": 3.46,
+      "end": 3.92
+    },
+    {
+      "word": "right",
+      "start": 3.92,
+      "end": 4.28
+    },
+    {
+      "word": "now?",
+      "start": 4.28,
+      "end": 4.78
+    },
+    {
+      "word": "Every",
+      "start": 5.02,
+      "end": 5.3
+    },
+    {
+      "word": "brand",
+      "start": 5.3,
+      "end": 5.56
+    },
+    {
+      "word": "you",
+      "start": 5.56,
+      "end": 5.72
+    },
+    {
+      "word": "ever",
+      "start": 5.72,
+      "end": 5.9
+    },
+    {
+      "word": "bought",
+      "start": 5.9,
+      "end": 6.08
+    },
+    {
+      "word": "from",
+      "start": 6.08,
+      "end": 6.32
+    },
+    {
+      "word": "Sen's",
+      "start": 6.32,
+      "end": 6.88
+    },
+    {
+      "word": "Daily",
+      "start": 6.88,
+      "end": 6.88
+    },
+    {
+      "word": "Sales",
+      "start": 6.88,
+      "end": 7.2
+    },
+    {
+      "word": "pitches,",
+      "start": 7.2,
+      "end": 7.68
+    },
+    {
+      "word": "burying",
+      "start": 8.18,
+      "end": 8.34
+    },
+    {
+      "word": "crucial",
+      "start": 8.34,
+      "end": 8.84
+    },
+    {
+      "word": "client",
+      "start": 8.84,
+      "end": 9.14
+    },
+    {
+      "word": "and",
+      "start": 9.14,
+      "end": 9.52
+    },
+    {
+      "word": "personal",
+      "start": 9.52,
+      "end": 9.74
+    },
+    {
+      "word": "messages.",
+      "start": 9.74,
+      "end": 10.26
+    },
+    {
+      "word": "Deleting",
+      "start": 10.88,
+      "end": 11.18
+    },
+    {
+      "word": "marketing",
+      "start": 11.18,
+      "end": 11.6
+    },
+    {
+      "word": "emails",
+      "start": 11.6,
+      "end": 12.0
+    },
+    {
+      "word": "one",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "word": "by",
+      "start": 12.32,
+      "end": 12.56
+    },
+    {
+      "word": "one",
+      "start": 12.56,
+      "end": 12.86
+    },
+    {
+      "word": "is",
+      "start": 12.86,
+      "end": 13.06
+    },
+    {
+      "word": "an",
+      "start": 13.06,
+      "end": 13.24
+    },
+    {
+      "word": "endless",
+      "start": 13.24,
+      "end": 13.56
+    },
+    {
+      "word": "treadmill",
+      "start": 13.56,
+      "end": 13.9
+    },
+    {
+      "word": "that",
+      "start": 13.9,
+      "end": 14.2
+    },
+    {
+      "word": "leaves",
+      "start": 14.2,
+      "end": 14.42
+    },
+    {
+      "word": "your",
+      "start": 14.42,
+      "end": 14.66
+    },
+    {
+      "word": "inbox",
+      "start": 14.66,
+      "end": 14.98
+    },
+    {
+      "word": "permanently",
+      "start": 14.98,
+      "end": 15.5
+    },
+    {
+      "word": "cluttered.",
+      "start": 15.5,
+      "end": 16.06
+    },
+    {
+      "word": "Type",
+      "start": 16.7,
+      "end": 16.72
+    },
+    {
+      "word": "unsubscribe",
+      "start": 16.72,
+      "end": 17.5
+    },
+    {
+      "word": "into",
+      "start": 17.5,
+      "end": 17.7
+    },
+    {
+      "word": "your",
+      "start": 17.7,
+      "end": 18.0
+    },
+    {
+      "word": "Gmail",
+      "start": 18.0,
+      "end": 18.24
+    },
+    {
+      "word": "search",
+      "start": 18.24,
+      "end": 18.72
+    },
+    {
+      "word": "bar,",
+      "start": 18.72,
+      "end": 19.06
+    },
+    {
+      "word": "click",
+      "start": 19.5,
+      "end": 19.6
+    },
+    {
+      "word": "Create",
+      "start": 19.6,
+      "end": 19.98
+    },
+    {
+      "word": "Filter,",
+      "start": 19.98,
+      "end": 20.26
+    },
+    {
+      "word": "and",
+      "start": 20.7,
+      "end": 20.84
+    },
+    {
+      "word": "check",
+      "start": 20.84,
+      "end": 21.06
+    },
+    {
+      "word": "skip",
+      "start": 21.06,
+      "end": 21.3
+    },
+    {
+      "word": "the",
+      "start": 21.3,
+      "end": 21.56
+    },
+    {
+      "word": "inbox.",
+      "start": 21.56,
+      "end": 21.9
+    },
+    {
+      "word": "You",
+      "start": 21.9,
+      "end": 22.6
+    },
+    {
+      "word": "purge",
+      "start": 22.6,
+      "end": 22.86
+    },
+    {
+      "word": "newsletter",
+      "start": 22.86,
+      "end": 23.28
+    },
+    {
+      "word": "clutter",
+      "start": 23.28,
+      "end": 23.7
+    },
+    {
+      "word": "in",
+      "start": 23.7,
+      "end": 23.92
+    },
+    {
+      "word": "60",
+      "start": 23.92,
+      "end": 24.3
+    },
+    {
+      "word": "seconds.",
+      "start": 24.3,
+      "end": 24.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Is your email inbox overflowing with 5,000 unread promotional emails?",
+      "line2": "AUTO-UNSUBSCRIBE FROM SPAM",
+      "tag": "\ud83d\uded1 Automated email filter that unsubscribes from spam newsletters",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Automated email filter that unsubscribes from spam newsletters",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Automated email filter that unsubscribes from spam newsletters",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

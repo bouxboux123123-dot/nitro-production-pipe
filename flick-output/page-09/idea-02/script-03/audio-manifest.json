@@ -1,0 +1,396 @@
+{
+  "page": "page-09",
+  "idea": "Zapier vs Make.com: price comparison and complex scenario limits",
+  "text": "The exact scenario where Make completely crushes Zapier in speed and cost. Syncing hundreds of Shopify orders into your database through Zapier triggers massive rate-limit errors. Zapier counts every line item as a separate task, exhausting your monthly quota in hours. Make processes entire payloads as single array bundles using built-in iterators and error handlers. This protects API limits while saving thousands in subscription fees.",
+  "duration": 25.451,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "exact",
+      "start": 0.28,
+      "end": 0.56
+    },
+    {
+      "word": "scenario",
+      "start": 0.56,
+      "end": 1.02
+    },
+    {
+      "word": "where",
+      "start": 1.02,
+      "end": 1.28
+    },
+    {
+      "word": "make",
+      "start": 1.28,
+      "end": 1.56
+    },
+    {
+      "word": "completely",
+      "start": 1.56,
+      "end": 1.96
+    },
+    {
+      "word": "crushes",
+      "start": 1.96,
+      "end": 2.38
+    },
+    {
+      "word": "Zapier",
+      "start": 2.38,
+      "end": 2.86
+    },
+    {
+      "word": "in",
+      "start": 2.86,
+      "end": 3.14
+    },
+    {
+      "word": "speed",
+      "start": 3.14,
+      "end": 3.38
+    },
+    {
+      "word": "and",
+      "start": 3.38,
+      "end": 3.66
+    },
+    {
+      "word": "cost,",
+      "start": 3.66,
+      "end": 4.14
+    },
+    {
+      "word": "sinking",
+      "start": 4.6,
+      "end": 4.76
+    },
+    {
+      "word": "hundreds",
+      "start": 4.76,
+      "end": 5.1
+    },
+    {
+      "word": "of",
+      "start": 5.1,
+      "end": 5.34
+    },
+    {
+      "word": "Shopify",
+      "start": 5.34,
+      "end": 5.92
+    },
+    {
+      "word": "orders",
+      "start": 5.92,
+      "end": 6.18
+    },
+    {
+      "word": "into",
+      "start": 6.18,
+      "end": 6.38
+    },
+    {
+      "word": "your",
+      "start": 6.38,
+      "end": 6.68
+    },
+    {
+      "word": "database",
+      "start": 6.68,
+      "end": 6.88
+    },
+    {
+      "word": "through",
+      "start": 6.88,
+      "end": 7.46
+    },
+    {
+      "word": "Zapier",
+      "start": 7.46,
+      "end": 7.84
+    },
+    {
+      "word": "triggers",
+      "start": 7.84,
+      "end": 8.16
+    },
+    {
+      "word": "massive",
+      "start": 8.16,
+      "end": 8.72
+    },
+    {
+      "word": "rate",
+      "start": 8.72,
+      "end": 8.98
+    },
+    {
+      "word": "limit",
+      "start": 8.98,
+      "end": 9.26
+    },
+    {
+      "word": "errors.",
+      "start": 9.26,
+      "end": 9.66
+    },
+    {
+      "word": "Zapier",
+      "start": 10.38,
+      "end": 10.54
+    },
+    {
+      "word": "counts",
+      "start": 10.54,
+      "end": 10.86
+    },
+    {
+      "word": "every",
+      "start": 10.86,
+      "end": 11.18
+    },
+    {
+      "word": "line",
+      "start": 11.18,
+      "end": 11.5
+    },
+    {
+      "word": "item",
+      "start": 11.5,
+      "end": 11.76
+    },
+    {
+      "word": "as",
+      "start": 11.76,
+      "end": 11.98
+    },
+    {
+      "word": "a",
+      "start": 11.98,
+      "end": 12.26
+    },
+    {
+      "word": "separate",
+      "start": 12.26,
+      "end": 12.32
+    },
+    {
+      "word": "task,",
+      "start": 12.32,
+      "end": 12.78
+    },
+    {
+      "word": "exhausting",
+      "start": 13.4,
+      "end": 13.42
+    },
+    {
+      "word": "your",
+      "start": 13.42,
+      "end": 14.0
+    },
+    {
+      "word": "monthly",
+      "start": 14.0,
+      "end": 14.06
+    },
+    {
+      "word": "quota",
+      "start": 14.06,
+      "end": 14.36
+    },
+    {
+      "word": "in",
+      "start": 14.36,
+      "end": 14.64
+    },
+    {
+      "word": "hours,",
+      "start": 14.64,
+      "end": 15.02
+    },
+    {
+      "word": "make",
+      "start": 15.62,
+      "end": 15.7
+    },
+    {
+      "word": "processes",
+      "start": 15.7,
+      "end": 16.16
+    },
+    {
+      "word": "entire",
+      "start": 16.16,
+      "end": 16.78
+    },
+    {
+      "word": "payloads",
+      "start": 16.78,
+      "end": 17.36
+    },
+    {
+      "word": "as",
+      "start": 17.36,
+      "end": 17.6
+    },
+    {
+      "word": "single",
+      "start": 17.6,
+      "end": 17.86
+    },
+    {
+      "word": "array",
+      "start": 17.86,
+      "end": 18.2
+    },
+    {
+      "word": "bundles",
+      "start": 18.2,
+      "end": 18.5
+    },
+    {
+      "word": "using",
+      "start": 18.5,
+      "end": 18.98
+    },
+    {
+      "word": "built",
+      "start": 18.98,
+      "end": 19.22
+    },
+    {
+      "word": "-in",
+      "start": 19.22,
+      "end": 19.46
+    },
+    {
+      "word": "iterators",
+      "start": 19.46,
+      "end": 19.9
+    },
+    {
+      "word": "and",
+      "start": 19.9,
+      "end": 20.18
+    },
+    {
+      "word": "error",
+      "start": 20.18,
+      "end": 20.44
+    },
+    {
+      "word": "handlers.",
+      "start": 20.44,
+      "end": 20.76
+    },
+    {
+      "word": "This",
+      "start": 20.76,
+      "end": 21.56
+    },
+    {
+      "word": "protects",
+      "start": 21.56,
+      "end": 22.0
+    },
+    {
+      "word": "API",
+      "start": 22.0,
+      "end": 22.5
+    },
+    {
+      "word": "limits",
+      "start": 22.5,
+      "end": 22.9
+    },
+    {
+      "word": "while",
+      "start": 22.9,
+      "end": 23.24
+    },
+    {
+      "word": "saving",
+      "start": 23.24,
+      "end": 23.62
+    },
+    {
+      "word": "thousands",
+      "start": 23.62,
+      "end": 24.12
+    },
+    {
+      "word": "in",
+      "start": 24.12,
+      "end": 24.56
+    },
+    {
+      "word": "subscription",
+      "start": 24.56,
+      "end": 24.88
+    },
+    {
+      "word": "fees.",
+      "start": 24.88,
+      "end": 25.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The exact scenario where Make completely crushes Zapier in speed and cost.",
+      "line2": "ZAPIER VS MAKE",
+      "tag": "\ud83d\uded1 Zapier vs Make.com",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Zapier vs Make.com",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Zapier vs Make.com",
+        "subtitle": "Zapier vs Make.com"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Zapier vs Make.com"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Zapier vs Make.com"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Zapier vs Make.com",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

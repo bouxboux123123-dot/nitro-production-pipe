@@ -1,0 +1,391 @@
+{
+  "page": "page-03",
+  "idea": "AI podcast clip generator that repurposes audio into viral short clips",
+  "text": "This AI tool finds the best soundbites, crops faces, and generates subtitles automatically. Promoting long episodes without short video teasers leaves your podcast undiscovered by new audiences. Paying human editors costs thousands, while editing clips yourself burns out your creative energy. Upload your audio directly into Opus Clip to extract viral vertical shorts with highlighted captions. You scale organic impressions across Reels and Shorts effortlessly.",
+  "duration": 28.943,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "AI",
+      "start": 0.28,
+      "end": 0.7
+    },
+    {
+      "word": "tool",
+      "start": 0.7,
+      "end": 0.98
+    },
+    {
+      "word": "finds",
+      "start": 0.98,
+      "end": 1.28
+    },
+    {
+      "word": "the",
+      "start": 1.28,
+      "end": 1.48
+    },
+    {
+      "word": "best",
+      "start": 1.48,
+      "end": 1.74
+    },
+    {
+      "word": "sound",
+      "start": 1.74,
+      "end": 2.1
+    },
+    {
+      "word": "bites,",
+      "start": 2.1,
+      "end": 2.4
+    },
+    {
+      "word": "crops",
+      "start": 2.7,
+      "end": 3.02
+    },
+    {
+      "word": "faces,",
+      "start": 3.02,
+      "end": 3.5
+    },
+    {
+      "word": "and",
+      "start": 3.88,
+      "end": 4.04
+    },
+    {
+      "word": "generates",
+      "start": 4.04,
+      "end": 4.52
+    },
+    {
+      "word": "subtitles",
+      "start": 4.52,
+      "end": 5.06
+    },
+    {
+      "word": "automatically.",
+      "start": 5.06,
+      "end": 5.8
+    },
+    {
+      "word": "Promoting",
+      "start": 6.62,
+      "end": 6.84
+    },
+    {
+      "word": "long",
+      "start": 6.84,
+      "end": 7.34
+    },
+    {
+      "word": "episodes",
+      "start": 7.34,
+      "end": 7.8
+    },
+    {
+      "word": "without",
+      "start": 7.8,
+      "end": 8.26
+    },
+    {
+      "word": "short",
+      "start": 8.26,
+      "end": 8.58
+    },
+    {
+      "word": "video",
+      "start": 8.58,
+      "end": 8.86
+    },
+    {
+      "word": "teasers",
+      "start": 8.86,
+      "end": 9.26
+    },
+    {
+      "word": "leaves",
+      "start": 9.26,
+      "end": 9.88
+    },
+    {
+      "word": "your",
+      "start": 9.88,
+      "end": 10.16
+    },
+    {
+      "word": "podcast",
+      "start": 10.16,
+      "end": 10.66
+    },
+    {
+      "word": "undiscovered",
+      "start": 10.66,
+      "end": 11.3
+    },
+    {
+      "word": "by",
+      "start": 11.3,
+      "end": 11.68
+    },
+    {
+      "word": "new",
+      "start": 11.68,
+      "end": 11.92
+    },
+    {
+      "word": "audiences,",
+      "start": 11.92,
+      "end": 12.44
+    },
+    {
+      "word": "paying",
+      "start": 12.82,
+      "end": 13.16
+    },
+    {
+      "word": "human",
+      "start": 13.16,
+      "end": 13.52
+    },
+    {
+      "word": "editors",
+      "start": 13.52,
+      "end": 13.84
+    },
+    {
+      "word": "costs",
+      "start": 13.84,
+      "end": 14.26
+    },
+    {
+      "word": "thousands",
+      "start": 14.26,
+      "end": 14.88
+    },
+    {
+      "word": "while",
+      "start": 14.88,
+      "end": 15.48
+    },
+    {
+      "word": "editing",
+      "start": 15.48,
+      "end": 15.8
+    },
+    {
+      "word": "clips",
+      "start": 15.8,
+      "end": 16.08
+    },
+    {
+      "word": "yourself",
+      "start": 16.08,
+      "end": 16.6
+    },
+    {
+      "word": "burns",
+      "start": 16.6,
+      "end": 16.88
+    },
+    {
+      "word": "out",
+      "start": 16.88,
+      "end": 17.14
+    },
+    {
+      "word": "your",
+      "start": 17.14,
+      "end": 17.34
+    },
+    {
+      "word": "creative",
+      "start": 17.34,
+      "end": 17.74
+    },
+    {
+      "word": "energy.",
+      "start": 17.74,
+      "end": 18.3
+    },
+    {
+      "word": "Upload",
+      "start": 18.84,
+      "end": 18.96
+    },
+    {
+      "word": "your",
+      "start": 18.96,
+      "end": 19.28
+    },
+    {
+      "word": "audio",
+      "start": 19.28,
+      "end": 19.62
+    },
+    {
+      "word": "directly",
+      "start": 19.62,
+      "end": 20.06
+    },
+    {
+      "word": "into",
+      "start": 20.06,
+      "end": 20.4
+    },
+    {
+      "word": "Opus",
+      "start": 20.4,
+      "end": 20.78
+    },
+    {
+      "word": "clip",
+      "start": 20.78,
+      "end": 21.0
+    },
+    {
+      "word": "to",
+      "start": 21.0,
+      "end": 21.5
+    },
+    {
+      "word": "extract",
+      "start": 21.5,
+      "end": 21.94
+    },
+    {
+      "word": "viral",
+      "start": 21.94,
+      "end": 22.38
+    },
+    {
+      "word": "vertical",
+      "start": 22.38,
+      "end": 22.94
+    },
+    {
+      "word": "shorts",
+      "start": 22.94,
+      "end": 23.28
+    },
+    {
+      "word": "with",
+      "start": 23.28,
+      "end": 23.6
+    },
+    {
+      "word": "highlighted",
+      "start": 23.6,
+      "end": 23.98
+    },
+    {
+      "word": "captions.",
+      "start": 23.98,
+      "end": 24.9
+    },
+    {
+      "word": "You",
+      "start": 25.32,
+      "end": 25.38
+    },
+    {
+      "word": "scale",
+      "start": 25.38,
+      "end": 25.7
+    },
+    {
+      "word": "organic",
+      "start": 25.7,
+      "end": 26.18
+    },
+    {
+      "word": "impressions",
+      "start": 26.18,
+      "end": 26.72
+    },
+    {
+      "word": "across",
+      "start": 26.72,
+      "end": 27.22
+    },
+    {
+      "word": "reels",
+      "start": 27.22,
+      "end": 27.62
+    },
+    {
+      "word": "and",
+      "start": 27.62,
+      "end": 27.9
+    },
+    {
+      "word": "shorts",
+      "start": 27.9,
+      "end": 28.3
+    },
+    {
+      "word": "effortlessly.",
+      "start": 28.3,
+      "end": 28.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "This AI tool finds the most engaging soundbites, crops faces, and adds subtitles.",
+      "line2": "CREATE VIRAL CLIPS",
+      "tag": "\ud83d\uded1 AI podcast clip generator that repurposes audio into viral short clips",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: AI podcast clip generator that repurposes audio into viral short clips",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: AI podcast clip generator that repurposes audio into viral short clips",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

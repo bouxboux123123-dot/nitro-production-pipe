@@ -1,0 +1,431 @@
+{
+  "page": "page-01",
+  "idea": "Automated multi-client monthly reporting dashboard using Looker Studio",
+  "text": "The automated offboarding checklist that revokes access, transfers assets, and requests feedback. Manually wrapping up high-ticket retainer contracts often takes days of chaotic back-and-forth messages. Forgetting to revoke shared credentials or deliver archive links creates major security risks and leaves clients dissatisfied. Build an automated Make workflow that archives Google Drive folders, revokes Slack access, and triggers a structured NPS survey. You protect company security while generating high-converting testimonials.",
+  "duration": 32.335,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "automated",
+      "start": 0.2,
+      "end": 0.58
+    },
+    {
+      "word": "off",
+      "start": 0.58,
+      "end": 0.92
+    },
+    {
+      "word": "-boarding",
+      "start": 0.92,
+      "end": 1.12
+    },
+    {
+      "word": "checklist",
+      "start": 1.12,
+      "end": 1.54
+    },
+    {
+      "word": "that",
+      "start": 1.54,
+      "end": 1.88
+    },
+    {
+      "word": "Revokes",
+      "start": 1.88,
+      "end": 2.18
+    },
+    {
+      "word": "access",
+      "start": 2.18,
+      "end": 2.86
+    },
+    {
+      "word": "transfers",
+      "start": 2.86,
+      "end": 3.48
+    },
+    {
+      "word": "assets",
+      "start": 3.48,
+      "end": 4.08
+    },
+    {
+      "word": "and",
+      "start": 4.08,
+      "end": 4.6
+    },
+    {
+      "word": "requests",
+      "start": 4.6,
+      "end": 4.88
+    },
+    {
+      "word": "feedback.",
+      "start": 4.88,
+      "end": 5.52
+    },
+    {
+      "word": "Manually",
+      "start": 6.24,
+      "end": 6.54
+    },
+    {
+      "word": "wrapping",
+      "start": 6.54,
+      "end": 6.8
+    },
+    {
+      "word": "up",
+      "start": 6.8,
+      "end": 7.12
+    },
+    {
+      "word": "high",
+      "start": 7.12,
+      "end": 7.34
+    },
+    {
+      "word": "-ticket",
+      "start": 7.34,
+      "end": 7.56
+    },
+    {
+      "word": "retainer",
+      "start": 7.56,
+      "end": 8.0
+    },
+    {
+      "word": "contracts",
+      "start": 8.0,
+      "end": 8.62
+    },
+    {
+      "word": "often",
+      "start": 8.62,
+      "end": 9.1
+    },
+    {
+      "word": "takes",
+      "start": 9.1,
+      "end": 9.4
+    },
+    {
+      "word": "days",
+      "start": 9.4,
+      "end": 9.7
+    },
+    {
+      "word": "of",
+      "start": 9.7,
+      "end": 9.98
+    },
+    {
+      "word": "chaotic",
+      "start": 9.98,
+      "end": 10.36
+    },
+    {
+      "word": "back",
+      "start": 10.36,
+      "end": 10.74
+    },
+    {
+      "word": "-and",
+      "start": 10.74,
+      "end": 10.92
+    },
+    {
+      "word": "-forth",
+      "start": 10.92,
+      "end": 11.2
+    },
+    {
+      "word": "messages.",
+      "start": 11.2,
+      "end": 11.82
+    },
+    {
+      "word": "Forgetting",
+      "start": 12.48,
+      "end": 12.78
+    },
+    {
+      "word": "to",
+      "start": 12.78,
+      "end": 13.04
+    },
+    {
+      "word": "Revokes",
+      "start": 13.04,
+      "end": 13.36
+    },
+    {
+      "word": "shared",
+      "start": 13.36,
+      "end": 13.68
+    },
+    {
+      "word": "credentials",
+      "start": 13.68,
+      "end": 14.18
+    },
+    {
+      "word": "or",
+      "start": 14.18,
+      "end": 14.76
+    },
+    {
+      "word": "deliver",
+      "start": 14.76,
+      "end": 15.14
+    },
+    {
+      "word": "archive",
+      "start": 15.14,
+      "end": 15.56
+    },
+    {
+      "word": "links",
+      "start": 15.56,
+      "end": 16.02
+    },
+    {
+      "word": "creates",
+      "start": 16.02,
+      "end": 16.66
+    },
+    {
+      "word": "major",
+      "start": 16.66,
+      "end": 17.04
+    },
+    {
+      "word": "security",
+      "start": 17.04,
+      "end": 17.56
+    },
+    {
+      "word": "risks",
+      "start": 17.56,
+      "end": 17.88
+    },
+    {
+      "word": "and",
+      "start": 17.88,
+      "end": 18.08
+    },
+    {
+      "word": "leaves",
+      "start": 18.08,
+      "end": 18.38
+    },
+    {
+      "word": "clients",
+      "start": 18.38,
+      "end": 18.82
+    },
+    {
+      "word": "dissatisfied.",
+      "start": 18.82,
+      "end": 19.44
+    },
+    {
+      "word": "Build",
+      "start": 20.08,
+      "end": 20.14
+    },
+    {
+      "word": "an",
+      "start": 20.14,
+      "end": 20.68
+    },
+    {
+      "word": "automated",
+      "start": 20.68,
+      "end": 20.78
+    },
+    {
+      "word": "make",
+      "start": 20.78,
+      "end": 21.16
+    },
+    {
+      "word": "workflow",
+      "start": 21.16,
+      "end": 21.6
+    },
+    {
+      "word": "that",
+      "start": 21.6,
+      "end": 22.38
+    },
+    {
+      "word": "archives",
+      "start": 22.38,
+      "end": 22.38
+    },
+    {
+      "word": "Google",
+      "start": 22.38,
+      "end": 22.78
+    },
+    {
+      "word": "Drive",
+      "start": 22.78,
+      "end": 23.18
+    },
+    {
+      "word": "folders,",
+      "start": 23.18,
+      "end": 23.58
+    },
+    {
+      "word": "Revokes",
+      "start": 24.1,
+      "end": 24.5
+    },
+    {
+      "word": "Slack",
+      "start": 24.5,
+      "end": 24.8
+    },
+    {
+      "word": "access,",
+      "start": 24.8,
+      "end": 25.28
+    },
+    {
+      "word": "and",
+      "start": 25.64,
+      "end": 25.82
+    },
+    {
+      "word": "triggers",
+      "start": 25.82,
+      "end": 26.04
+    },
+    {
+      "word": "a",
+      "start": 26.04,
+      "end": 26.34
+    },
+    {
+      "word": "structured",
+      "start": 26.34,
+      "end": 26.78
+    },
+    {
+      "word": "NPS",
+      "start": 26.78,
+      "end": 27.42
+    },
+    {
+      "word": "survey.",
+      "start": 27.42,
+      "end": 27.78
+    },
+    {
+      "word": "You",
+      "start": 27.78,
+      "end": 28.54
+    },
+    {
+      "word": "protect",
+      "start": 28.54,
+      "end": 28.88
+    },
+    {
+      "word": "company",
+      "start": 28.88,
+      "end": 29.26
+    },
+    {
+      "word": "security",
+      "start": 29.26,
+      "end": 29.82
+    },
+    {
+      "word": "while",
+      "start": 29.82,
+      "end": 30.22
+    },
+    {
+      "word": "generating",
+      "start": 30.22,
+      "end": 30.7
+    },
+    {
+      "word": "high",
+      "start": 30.7,
+      "end": 31.0
+    },
+    {
+      "word": "-converting",
+      "start": 31.0,
+      "end": 31.44
+    },
+    {
+      "word": "testimonials.",
+      "start": 31.44,
+      "end": 32.26
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The automated reporting template that syncs live ad spend, ROAS, and conversions.",
+      "line2": "AUTOMATE CLIENT REPORTS",
+      "tag": "\ud83d\uded1 Automated multi-client monthly reporting dashboard using Looker Studio",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated multi-client monthly reporting dashboard using Looker Studio",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated multi-client monthly reporting dashboard using Looker Studio",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "page": "page-06",
+  "idea": "Automated sprint retro board with anonymous feedback collection",
+  "text": "How remote engineering teams run honest, blameless sprint retrospectives that solve real bottlenecks. Standard Zoom retros breed awkward silence because junior engineers fear criticizing broken processes out loud. Unspoken friction festers across sprints, piling up technical debt while tanking team morale. Parabol automates anonymous retro boards that collect feedback, group similar topics, and conduct blind voting. Teams fix root operational issues without political friction.",
+  "duration": 30.778,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "remote",
+      "start": 0.28,
+      "end": 0.68
+    },
+    {
+      "word": "engineering",
+      "start": 0.68,
+      "end": 1.14
+    },
+    {
+      "word": "teams",
+      "start": 1.14,
+      "end": 1.6
+    },
+    {
+      "word": "run",
+      "start": 1.6,
+      "end": 1.94
+    },
+    {
+      "word": "honest,",
+      "start": 1.94,
+      "end": 2.52
+    },
+    {
+      "word": "blameless",
+      "start": 2.74,
+      "end": 2.98
+    },
+    {
+      "word": "sprint",
+      "start": 2.98,
+      "end": 3.34
+    },
+    {
+      "word": "retrospectives",
+      "start": 3.34,
+      "end": 4.12
+    },
+    {
+      "word": "that",
+      "start": 4.12,
+      "end": 4.68
+    },
+    {
+      "word": "solve",
+      "start": 4.68,
+      "end": 5.08
+    },
+    {
+      "word": "real",
+      "start": 5.08,
+      "end": 5.46
+    },
+    {
+      "word": "bottlenecks.",
+      "start": 5.46,
+      "end": 6.52
+    },
+    {
+      "word": "Standard",
+      "start": 7.08,
+      "end": 7.18
+    },
+    {
+      "word": "Zoom",
+      "start": 7.18,
+      "end": 7.58
+    },
+    {
+      "word": "Retro",
+      "start": 7.58,
+      "end": 7.96
+    },
+    {
+      "word": "-S",
+      "start": 7.96,
+      "end": 8.24
+    },
+    {
+      "word": "breed",
+      "start": 8.24,
+      "end": 8.68
+    },
+    {
+      "word": "awkward",
+      "start": 8.68,
+      "end": 9.0
+    },
+    {
+      "word": "silence",
+      "start": 9.0,
+      "end": 9.56
+    },
+    {
+      "word": "because",
+      "start": 9.56,
+      "end": 10.28
+    },
+    {
+      "word": "junior",
+      "start": 10.28,
+      "end": 10.68
+    },
+    {
+      "word": "engineers",
+      "start": 10.68,
+      "end": 11.34
+    },
+    {
+      "word": "fear",
+      "start": 11.34,
+      "end": 11.74
+    },
+    {
+      "word": "criticizing",
+      "start": 11.74,
+      "end": 12.3
+    },
+    {
+      "word": "broken",
+      "start": 12.3,
+      "end": 12.8
+    },
+    {
+      "word": "processes",
+      "start": 12.8,
+      "end": 13.46
+    },
+    {
+      "word": "out",
+      "start": 13.46,
+      "end": 13.78
+    },
+    {
+      "word": "loud.",
+      "start": 13.78,
+      "end": 14.18
+    },
+    {
+      "word": "Unspoken",
+      "start": 14.68,
+      "end": 15.04
+    },
+    {
+      "word": "friction",
+      "start": 15.04,
+      "end": 15.5
+    },
+    {
+      "word": "festers",
+      "start": 15.5,
+      "end": 15.84
+    },
+    {
+      "word": "across",
+      "start": 15.84,
+      "end": 16.28
+    },
+    {
+      "word": "sprints,",
+      "start": 16.28,
+      "end": 17.0
+    },
+    {
+      "word": "piling",
+      "start": 17.18,
+      "end": 17.34
+    },
+    {
+      "word": "up",
+      "start": 17.34,
+      "end": 17.62
+    },
+    {
+      "word": "technical",
+      "start": 17.62,
+      "end": 17.98
+    },
+    {
+      "word": "debt",
+      "start": 17.98,
+      "end": 18.38
+    },
+    {
+      "word": "while",
+      "start": 18.38,
+      "end": 18.58
+    },
+    {
+      "word": "tanking",
+      "start": 18.58,
+      "end": 19.02
+    },
+    {
+      "word": "team",
+      "start": 19.02,
+      "end": 19.3
+    },
+    {
+      "word": "morale.",
+      "start": 19.3,
+      "end": 19.76
+    },
+    {
+      "word": "Parable",
+      "start": 20.58,
+      "end": 20.82
+    },
+    {
+      "word": "automates",
+      "start": 20.82,
+      "end": 21.4
+    },
+    {
+      "word": "anonymous",
+      "start": 21.4,
+      "end": 21.86
+    },
+    {
+      "word": "retro",
+      "start": 21.86,
+      "end": 22.3
+    },
+    {
+      "word": "boards",
+      "start": 22.3,
+      "end": 22.66
+    },
+    {
+      "word": "that",
+      "start": 22.66,
+      "end": 22.88
+    },
+    {
+      "word": "collect",
+      "start": 22.88,
+      "end": 23.12
+    },
+    {
+      "word": "feedback,",
+      "start": 23.12,
+      "end": 23.56
+    },
+    {
+      "word": "group",
+      "start": 24.32,
+      "end": 24.4
+    },
+    {
+      "word": "similar",
+      "start": 24.4,
+      "end": 24.78
+    },
+    {
+      "word": "topics,",
+      "start": 24.78,
+      "end": 25.2
+    },
+    {
+      "word": "and",
+      "start": 25.5,
+      "end": 25.84
+    },
+    {
+      "word": "conduct",
+      "start": 25.84,
+      "end": 26.12
+    },
+    {
+      "word": "blind",
+      "start": 26.12,
+      "end": 26.56
+    },
+    {
+      "word": "voting.",
+      "start": 26.56,
+      "end": 26.9
+    },
+    {
+      "word": "Teams",
+      "start": 27.42,
+      "end": 27.84
+    },
+    {
+      "word": "fix",
+      "start": 27.84,
+      "end": 28.16
+    },
+    {
+      "word": "route",
+      "start": 28.16,
+      "end": 28.48
+    },
+    {
+      "word": "operational",
+      "start": 28.48,
+      "end": 28.98
+    },
+    {
+      "word": "issues",
+      "start": 28.98,
+      "end": 29.48
+    },
+    {
+      "word": "without",
+      "start": 29.48,
+      "end": 29.86
+    },
+    {
+      "word": "political",
+      "start": 29.86,
+      "end": 30.3
+    },
+    {
+      "word": "friction.",
+      "start": 30.3,
+      "end": 30.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How remote engineering teams run honest, blameless sprint retrospective meetings.",
+      "line2": "ANONYMOUS SPRINT RETROS",
+      "tag": "\ud83d\uded1 Automated sprint retro board with anonymous feedback collection",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Automated sprint retro board with anonymous feedback collection",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Automated sprint retro board with anonymous feedback collection",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

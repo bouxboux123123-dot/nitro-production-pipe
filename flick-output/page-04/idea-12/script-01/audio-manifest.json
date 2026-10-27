@@ -1,0 +1,396 @@
+{
+  "page": "page-04",
+  "idea": "Cyberchef: the swiss army knife for data conversion and formatting",
+  "text": "If you ever need to decode, format, clean, or convert messy text, bookmark this. Wrangling garbled strings or mangled JSON usually involves jumping across multiple ad-filled converter sites. Pasting sensitive API tokens or client payloads into random online tools creates massive security leaks. CyberChef solves this by running hundreds of data recipes entirely inside your client-side browser. You transform complex records safely in seconds.",
+  "duration": 29.861,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "you",
+      "start": 0.16,
+      "end": 0.32
+    },
+    {
+      "word": "ever",
+      "start": 0.32,
+      "end": 0.5
+    },
+    {
+      "word": "need",
+      "start": 0.5,
+      "end": 0.74
+    },
+    {
+      "word": "to",
+      "start": 0.74,
+      "end": 0.88
+    },
+    {
+      "word": "decode,",
+      "start": 0.88,
+      "end": 1.4
+    },
+    {
+      "word": "format,",
+      "start": 1.56,
+      "end": 1.88
+    },
+    {
+      "word": "clean,",
+      "start": 2.36,
+      "end": 2.74
+    },
+    {
+      "word": "or",
+      "start": 2.9,
+      "end": 3.12
+    },
+    {
+      "word": "convert",
+      "start": 3.12,
+      "end": 3.42
+    },
+    {
+      "word": "messy",
+      "start": 3.42,
+      "end": 3.68
+    },
+    {
+      "word": "text,",
+      "start": 3.68,
+      "end": 4.2
+    },
+    {
+      "word": "bookmark",
+      "start": 4.64,
+      "end": 4.78
+    },
+    {
+      "word": "this.",
+      "start": 4.78,
+      "end": 5.54
+    },
+    {
+      "word": "Wrangling",
+      "start": 6.08,
+      "end": 6.32
+    },
+    {
+      "word": "garbled",
+      "start": 6.32,
+      "end": 6.9
+    },
+    {
+      "word": "strings",
+      "start": 6.9,
+      "end": 7.26
+    },
+    {
+      "word": "or",
+      "start": 7.26,
+      "end": 7.56
+    },
+    {
+      "word": "mangled",
+      "start": 7.56,
+      "end": 8.02
+    },
+    {
+      "word": "JSON",
+      "start": 8.02,
+      "end": 8.48
+    },
+    {
+      "word": "usually",
+      "start": 8.48,
+      "end": 9.04
+    },
+    {
+      "word": "involves",
+      "start": 9.04,
+      "end": 9.52
+    },
+    {
+      "word": "jumping",
+      "start": 9.52,
+      "end": 9.96
+    },
+    {
+      "word": "across",
+      "start": 9.96,
+      "end": 10.38
+    },
+    {
+      "word": "multiple",
+      "start": 10.38,
+      "end": 10.88
+    },
+    {
+      "word": "ad",
+      "start": 10.88,
+      "end": 11.16
+    },
+    {
+      "word": "-filled",
+      "start": 11.16,
+      "end": 11.42
+    },
+    {
+      "word": "converter",
+      "start": 11.42,
+      "end": 11.86
+    },
+    {
+      "word": "sites,",
+      "start": 11.86,
+      "end": 12.4
+    },
+    {
+      "word": "pasting",
+      "start": 12.86,
+      "end": 13.14
+    },
+    {
+      "word": "sensitive",
+      "start": 13.14,
+      "end": 13.7
+    },
+    {
+      "word": "API",
+      "start": 13.7,
+      "end": 14.22
+    },
+    {
+      "word": "tokens",
+      "start": 14.22,
+      "end": 14.7
+    },
+    {
+      "word": "or",
+      "start": 14.7,
+      "end": 15.18
+    },
+    {
+      "word": "client",
+      "start": 15.18,
+      "end": 15.56
+    },
+    {
+      "word": "payloads",
+      "start": 15.56,
+      "end": 16.1
+    },
+    {
+      "word": "into",
+      "start": 16.1,
+      "end": 16.28
+    },
+    {
+      "word": "random",
+      "start": 16.28,
+      "end": 16.62
+    },
+    {
+      "word": "online",
+      "start": 16.62,
+      "end": 17.14
+    },
+    {
+      "word": "tools",
+      "start": 17.14,
+      "end": 17.68
+    },
+    {
+      "word": "creates",
+      "start": 17.68,
+      "end": 18.34
+    },
+    {
+      "word": "massive",
+      "start": 18.34,
+      "end": 18.76
+    },
+    {
+      "word": "security",
+      "start": 18.76,
+      "end": 19.28
+    },
+    {
+      "word": "leaks.",
+      "start": 19.28,
+      "end": 19.9
+    },
+    {
+      "word": "Cyber",
+      "start": 20.6,
+      "end": 20.64
+    },
+    {
+      "word": "Chef",
+      "start": 20.64,
+      "end": 20.9
+    },
+    {
+      "word": "solves",
+      "start": 20.9,
+      "end": 21.34
+    },
+    {
+      "word": "this",
+      "start": 21.34,
+      "end": 21.66
+    },
+    {
+      "word": "by",
+      "start": 21.66,
+      "end": 21.88
+    },
+    {
+      "word": "running",
+      "start": 21.88,
+      "end": 22.2
+    },
+    {
+      "word": "hundreds",
+      "start": 22.2,
+      "end": 22.54
+    },
+    {
+      "word": "of",
+      "start": 22.54,
+      "end": 22.78
+    },
+    {
+      "word": "data",
+      "start": 22.78,
+      "end": 23.02
+    },
+    {
+      "word": "recipes",
+      "start": 23.02,
+      "end": 23.74
+    },
+    {
+      "word": "entirely",
+      "start": 23.74,
+      "end": 24.62
+    },
+    {
+      "word": "inside",
+      "start": 24.62,
+      "end": 25.1
+    },
+    {
+      "word": "your",
+      "start": 25.1,
+      "end": 25.34
+    },
+    {
+      "word": "client",
+      "start": 25.34,
+      "end": 25.68
+    },
+    {
+      "word": "-side",
+      "start": 25.68,
+      "end": 26.02
+    },
+    {
+      "word": "browser.",
+      "start": 26.02,
+      "end": 26.48
+    },
+    {
+      "word": "You",
+      "start": 26.48,
+      "end": 27.22
+    },
+    {
+      "word": "transform",
+      "start": 27.22,
+      "end": 27.72
+    },
+    {
+      "word": "complex",
+      "start": 27.72,
+      "end": 28.26
+    },
+    {
+      "word": "records",
+      "start": 28.26,
+      "end": 28.76
+    },
+    {
+      "word": "safely",
+      "start": 28.76,
+      "end": 29.14
+    },
+    {
+      "word": "in",
+      "start": 29.14,
+      "end": 29.42
+    },
+    {
+      "word": "seconds.",
+      "start": 29.42,
+      "end": 29.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "If you ever need to decode, format, clean, or convert messy text, bookmark this.",
+      "line2": "CONVERT DATA INSTANTLY",
+      "tag": "\ud83d\uded1 Cyberchef",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Free DOM Extraction: Cyberchef",
+      "primitive": "DOMElementSniffer",
+      "props": {
+        "title": "Free DOM Extraction: Cyberchef",
+        "subtitle": "Cyberchef"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Proxy Rotation & Rate Limits",
+      "primitive": "ProxyRotationGauge",
+      "props": {
+        "title": "Proxy Rotation & Rate Limits",
+        "subtitle": "Cyberchef"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Deduplicated CSV Merge",
+      "primitive": "CSVMergeVisualizer",
+      "props": {
+        "title": "Deduplicated CSV Merge",
+        "subtitle": "Cyberchef"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Headless CLI Execution",
+      "primitive": "HeadlessBrowserTerminal",
+      "props": {
+        "title": "Headless CLI Execution",
+        "subtitle": "Cyberchef",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

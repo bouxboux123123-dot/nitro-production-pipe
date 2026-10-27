@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "ElevenLabs vs Edge TTS: is paid AI voice generation worth the price tag",
+  "text": "ElevenLabs versus Edge TTS: do you actually need to pay for realistic AI voiceovers? Solo creators burn hundreds of dollars on voice tokens before even validating their video format. Edge TTS provides free neural voices without character caps, but lacks emotional inflection and human breathing. Use Edge TTS for faceless bulk channels, and reserve ElevenLabs for dramatic storytelling and paid commercials. This hybrid audio workflow slashes your production expenses.",
+  "duration": 30.607,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "11",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "labs",
+      "start": 0.36,
+      "end": 0.82
+    },
+    {
+      "word": "versus",
+      "start": 0.82,
+      "end": 1.42
+    },
+    {
+      "word": "Edge",
+      "start": 1.42,
+      "end": 1.82
+    },
+    {
+      "word": "TTS.",
+      "start": 1.82,
+      "end": 2.5
+    },
+    {
+      "word": "Do",
+      "start": 2.98,
+      "end": 3.12
+    },
+    {
+      "word": "you",
+      "start": 3.12,
+      "end": 3.52
+    },
+    {
+      "word": "actually",
+      "start": 3.52,
+      "end": 3.58
+    },
+    {
+      "word": "need",
+      "start": 3.58,
+      "end": 3.86
+    },
+    {
+      "word": "to",
+      "start": 3.86,
+      "end": 3.96
+    },
+    {
+      "word": "pay",
+      "start": 3.96,
+      "end": 4.2
+    },
+    {
+      "word": "for",
+      "start": 4.2,
+      "end": 4.4
+    },
+    {
+      "word": "realistic",
+      "start": 4.4,
+      "end": 4.88
+    },
+    {
+      "word": "AI",
+      "start": 4.88,
+      "end": 5.4
+    },
+    {
+      "word": "voiceovers?",
+      "start": 5.4,
+      "end": 6.08
+    },
+    {
+      "word": "Solo",
+      "start": 6.7,
+      "end": 6.98
+    },
+    {
+      "word": "creators",
+      "start": 6.98,
+      "end": 7.5
+    },
+    {
+      "word": "burn",
+      "start": 7.5,
+      "end": 8.0
+    },
+    {
+      "word": "hundreds",
+      "start": 8.0,
+      "end": 8.4
+    },
+    {
+      "word": "of",
+      "start": 8.4,
+      "end": 8.64
+    },
+    {
+      "word": "dollars",
+      "start": 8.64,
+      "end": 8.92
+    },
+    {
+      "word": "on",
+      "start": 8.92,
+      "end": 9.2
+    },
+    {
+      "word": "voice",
+      "start": 9.2,
+      "end": 9.52
+    },
+    {
+      "word": "tokens",
+      "start": 9.52,
+      "end": 9.92
+    },
+    {
+      "word": "before",
+      "start": 9.92,
+      "end": 10.5
+    },
+    {
+      "word": "even",
+      "start": 10.5,
+      "end": 10.82
+    },
+    {
+      "word": "validating",
+      "start": 10.82,
+      "end": 11.32
+    },
+    {
+      "word": "their",
+      "start": 11.32,
+      "end": 11.6
+    },
+    {
+      "word": "video",
+      "start": 11.6,
+      "end": 11.92
+    },
+    {
+      "word": "format.",
+      "start": 11.92,
+      "end": 12.3
+    },
+    {
+      "word": "Edge",
+      "start": 12.86,
+      "end": 12.9
+    },
+    {
+      "word": "TTS",
+      "start": 12.9,
+      "end": 13.48
+    },
+    {
+      "word": "provides",
+      "start": 13.48,
+      "end": 13.88
+    },
+    {
+      "word": "free",
+      "start": 13.88,
+      "end": 14.3
+    },
+    {
+      "word": "neural",
+      "start": 14.3,
+      "end": 14.6
+    },
+    {
+      "word": "voices",
+      "start": 14.6,
+      "end": 15.04
+    },
+    {
+      "word": "without",
+      "start": 15.04,
+      "end": 15.46
+    },
+    {
+      "word": "character",
+      "start": 15.46,
+      "end": 15.82
+    },
+    {
+      "word": "caps,",
+      "start": 15.82,
+      "end": 16.28
+    },
+    {
+      "word": "but",
+      "start": 16.64,
+      "end": 16.76
+    },
+    {
+      "word": "lacks",
+      "start": 16.76,
+      "end": 17.02
+    },
+    {
+      "word": "emotional",
+      "start": 17.02,
+      "end": 17.56
+    },
+    {
+      "word": "inflection",
+      "start": 17.56,
+      "end": 18.12
+    },
+    {
+      "word": "and",
+      "start": 18.12,
+      "end": 18.48
+    },
+    {
+      "word": "human",
+      "start": 18.48,
+      "end": 18.78
+    },
+    {
+      "word": "breathing.",
+      "start": 18.78,
+      "end": 19.16
+    },
+    {
+      "word": "Use",
+      "start": 19.72,
+      "end": 19.96
+    },
+    {
+      "word": "Edge",
+      "start": 19.96,
+      "end": 20.36
+    },
+    {
+      "word": "TTS",
+      "start": 20.36,
+      "end": 20.96
+    },
+    {
+      "word": "for",
+      "start": 20.96,
+      "end": 21.22
+    },
+    {
+      "word": "faceless",
+      "start": 21.22,
+      "end": 21.62
+    },
+    {
+      "word": "bulk",
+      "start": 21.62,
+      "end": 21.92
+    },
+    {
+      "word": "channels",
+      "start": 21.92,
+      "end": 22.34
+    },
+    {
+      "word": "and",
+      "start": 22.34,
+      "end": 22.9
+    },
+    {
+      "word": "reserve",
+      "start": 22.9,
+      "end": 23.16
+    },
+    {
+      "word": "11",
+      "start": 23.16,
+      "end": 23.64
+    },
+    {
+      "word": "labs",
+      "start": 23.64,
+      "end": 24.02
+    },
+    {
+      "word": "for",
+      "start": 24.02,
+      "end": 24.32
+    },
+    {
+      "word": "dramatic",
+      "start": 24.32,
+      "end": 24.82
+    },
+    {
+      "word": "storytelling",
+      "start": 24.82,
+      "end": 25.28
+    },
+    {
+      "word": "and",
+      "start": 25.28,
+      "end": 25.66
+    },
+    {
+      "word": "paid",
+      "start": 25.66,
+      "end": 25.94
+    },
+    {
+      "word": "commercials.",
+      "start": 25.94,
+      "end": 26.42
+    },
+    {
+      "word": "This",
+      "start": 27.2,
+      "end": 27.4
+    },
+    {
+      "word": "hybrid",
+      "start": 27.4,
+      "end": 27.8
+    },
+    {
+      "word": "audio",
+      "start": 27.8,
+      "end": 28.2
+    },
+    {
+      "word": "workflow",
+      "start": 28.2,
+      "end": 28.7
+    },
+    {
+      "word": "slashes",
+      "start": 28.7,
+      "end": 29.26
+    },
+    {
+      "word": "your",
+      "start": 29.26,
+      "end": 29.56
+    },
+    {
+      "word": "production",
+      "start": 29.56,
+      "end": 29.88
+    },
+    {
+      "word": "expenses.",
+      "start": 29.88,
+      "end": 30.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "ElevenLabs vs Edge TTS: do you really need to pay for realistic AI voiceovers?",
+      "line2": "ELEVENLABS VS EDGE TTS",
+      "tag": "\ud83d\uded1 ElevenLabs vs Edge TTS",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: ElevenLabs vs Edge TTS",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: ElevenLabs vs Edge TTS",
+        "subtitle": "ElevenLabs vs Edge TTS"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "ElevenLabs vs Edge TTS"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "ElevenLabs vs Edge TTS"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "ElevenLabs vs Edge TTS",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

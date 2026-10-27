@@ -1,0 +1,411 @@
+{
+  "page": "page-02",
+  "idea": "Automated freelance proposal writer tailored to client job posts",
+  "text": "If your freelance proposals keep getting ghosted by clients, test this exact format today. Bombarding potential clients with lengthy resumes and generic portfolio links overwhelms busy decision-makers. Without an upfront breakdown of deliverables and turnaround timelines, prospects assume your rates carry high execution risk. Use Copy.ai to generate concise three-point proposals outlining current bottlenecks, recommended fixes, and guaranteed milestones. You boost response rates while charging premium retainers.",
+  "duration": 31.653,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "your",
+      "start": 0.16,
+      "end": 0.48
+    },
+    {
+      "word": "freelance",
+      "start": 0.48,
+      "end": 0.68
+    },
+    {
+      "word": "proposals",
+      "start": 0.68,
+      "end": 1.26
+    },
+    {
+      "word": "keep",
+      "start": 1.26,
+      "end": 1.62
+    },
+    {
+      "word": "getting",
+      "start": 1.62,
+      "end": 1.92
+    },
+    {
+      "word": "ghosted",
+      "start": 1.92,
+      "end": 2.36
+    },
+    {
+      "word": "by",
+      "start": 2.36,
+      "end": 2.56
+    },
+    {
+      "word": "clients,",
+      "start": 2.56,
+      "end": 3.0
+    },
+    {
+      "word": "test",
+      "start": 3.34,
+      "end": 3.64
+    },
+    {
+      "word": "this",
+      "start": 3.64,
+      "end": 3.98
+    },
+    {
+      "word": "exact",
+      "start": 3.98,
+      "end": 4.36
+    },
+    {
+      "word": "format",
+      "start": 4.36,
+      "end": 4.66
+    },
+    {
+      "word": "today.",
+      "start": 4.66,
+      "end": 5.4
+    },
+    {
+      "word": "Bombarding",
+      "start": 5.88,
+      "end": 6.2
+    },
+    {
+      "word": "potential",
+      "start": 6.2,
+      "end": 6.66
+    },
+    {
+      "word": "clients",
+      "start": 6.66,
+      "end": 7.1
+    },
+    {
+      "word": "with",
+      "start": 7.1,
+      "end": 7.4
+    },
+    {
+      "word": "lengthy",
+      "start": 7.4,
+      "end": 7.76
+    },
+    {
+      "word": "resumes",
+      "start": 7.76,
+      "end": 8.26
+    },
+    {
+      "word": "and",
+      "start": 8.26,
+      "end": 8.52
+    },
+    {
+      "word": "generic",
+      "start": 8.52,
+      "end": 8.96
+    },
+    {
+      "word": "portfolio",
+      "start": 8.96,
+      "end": 9.44
+    },
+    {
+      "word": "links",
+      "start": 9.44,
+      "end": 10.08
+    },
+    {
+      "word": "overwhelms",
+      "start": 10.08,
+      "end": 10.9
+    },
+    {
+      "word": "busy",
+      "start": 10.9,
+      "end": 11.2
+    },
+    {
+      "word": "decision",
+      "start": 11.2,
+      "end": 11.66
+    },
+    {
+      "word": "makers.",
+      "start": 11.66,
+      "end": 12.1
+    },
+    {
+      "word": "Without",
+      "start": 12.6,
+      "end": 12.68
+    },
+    {
+      "word": "an",
+      "start": 12.68,
+      "end": 12.86
+    },
+    {
+      "word": "upfront",
+      "start": 12.86,
+      "end": 13.22
+    },
+    {
+      "word": "breakdown",
+      "start": 13.22,
+      "end": 13.62
+    },
+    {
+      "word": "of",
+      "start": 13.62,
+      "end": 13.88
+    },
+    {
+      "word": "deliverables",
+      "start": 13.88,
+      "end": 14.44
+    },
+    {
+      "word": "and",
+      "start": 14.44,
+      "end": 14.68
+    },
+    {
+      "word": "turnaround",
+      "start": 14.68,
+      "end": 15.04
+    },
+    {
+      "word": "timelines,",
+      "start": 15.04,
+      "end": 15.82
+    },
+    {
+      "word": "prospects",
+      "start": 16.46,
+      "end": 16.64
+    },
+    {
+      "word": "assume",
+      "start": 16.64,
+      "end": 17.0
+    },
+    {
+      "word": "your",
+      "start": 17.0,
+      "end": 17.22
+    },
+    {
+      "word": "rates",
+      "start": 17.22,
+      "end": 17.46
+    },
+    {
+      "word": "carry",
+      "start": 17.46,
+      "end": 17.74
+    },
+    {
+      "word": "high",
+      "start": 17.74,
+      "end": 18.16
+    },
+    {
+      "word": "execution",
+      "start": 18.16,
+      "end": 18.56
+    },
+    {
+      "word": "risk.",
+      "start": 18.56,
+      "end": 19.2
+    },
+    {
+      "word": "Use",
+      "start": 19.6,
+      "end": 19.8
+    },
+    {
+      "word": "copy.",
+      "start": 19.8,
+      "end": 20.24
+    },
+    {
+      "word": "AI",
+      "start": 20.82,
+      "end": 21.02
+    },
+    {
+      "word": "to",
+      "start": 21.02,
+      "end": 21.34
+    },
+    {
+      "word": "generate",
+      "start": 21.34,
+      "end": 21.72
+    },
+    {
+      "word": "concise",
+      "start": 21.72,
+      "end": 22.22
+    },
+    {
+      "word": "three",
+      "start": 22.22,
+      "end": 22.56
+    },
+    {
+      "word": "-point",
+      "start": 22.56,
+      "end": 22.78
+    },
+    {
+      "word": "proposals",
+      "start": 22.78,
+      "end": 23.3
+    },
+    {
+      "word": "outlining",
+      "start": 23.3,
+      "end": 23.84
+    },
+    {
+      "word": "current",
+      "start": 23.84,
+      "end": 24.38
+    },
+    {
+      "word": "bottlenecks,",
+      "start": 24.38,
+      "end": 25.18
+    },
+    {
+      "word": "recommended",
+      "start": 25.68,
+      "end": 25.68
+    },
+    {
+      "word": "fixes",
+      "start": 25.68,
+      "end": 26.3
+    },
+    {
+      "word": "and",
+      "start": 26.3,
+      "end": 26.86
+    },
+    {
+      "word": "guaranteed",
+      "start": 26.86,
+      "end": 27.1
+    },
+    {
+      "word": "milestones.",
+      "start": 27.1,
+      "end": 27.8
+    },
+    {
+      "word": "You",
+      "start": 27.8,
+      "end": 28.64
+    },
+    {
+      "word": "boost",
+      "start": 28.64,
+      "end": 28.94
+    },
+    {
+      "word": "response",
+      "start": 28.94,
+      "end": 29.46
+    },
+    {
+      "word": "rates",
+      "start": 29.46,
+      "end": 29.72
+    },
+    {
+      "word": "while",
+      "start": 29.72,
+      "end": 30.0
+    },
+    {
+      "word": "charging",
+      "start": 30.0,
+      "end": 30.52
+    },
+    {
+      "word": "premium",
+      "start": 30.52,
+      "end": 30.98
+    },
+    {
+      "word": "retainers.",
+      "start": 30.98,
+      "end": 31.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "If your proposals are getting ghosted by clients, try this exact format.",
+      "line2": "WRITE WINNING PROPOSALS",
+      "tag": "\ud83d\uded1 Automated freelance proposal writer tailored to client job posts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated freelance proposal writer tailored to client job posts",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated freelance proposal writer tailored to client job posts",
+        "subtitle": "Automated freelance proposal writer tailored to client job posts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated freelance proposal writer tailored to client job posts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated freelance proposal writer tailored to client job posts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated freelance proposal writer tailored to client job posts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

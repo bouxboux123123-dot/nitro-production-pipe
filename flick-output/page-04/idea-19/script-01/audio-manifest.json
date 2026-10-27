@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "Krita: free open-source digital painting and graphics tool",
+  "text": "You do not need an expensive Photoshop subscription to make clean digital graphics. Creative Cloud charges over thirty dollars every month just to crop assets, design banners, or tweak graphics. Basic online graphic editors lack non-destructive layer masks, precise brush smoothing, and advanced color profiles. Krita delivers full PSD compatibility, professional brush stabilization, vector shapes, and layer blending entirely free. Design high-converting visuals without recurring software taxes.",
+  "duration": 30.906,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "do",
+      "start": 0.14,
+      "end": 0.28
+    },
+    {
+      "word": "not",
+      "start": 0.28,
+      "end": 0.42
+    },
+    {
+      "word": "need",
+      "start": 0.42,
+      "end": 0.62
+    },
+    {
+      "word": "an",
+      "start": 0.62,
+      "end": 0.84
+    },
+    {
+      "word": "expensive",
+      "start": 0.84,
+      "end": 1.36
+    },
+    {
+      "word": "Photoshop",
+      "start": 1.36,
+      "end": 1.84
+    },
+    {
+      "word": "subscription",
+      "start": 1.84,
+      "end": 2.5
+    },
+    {
+      "word": "to",
+      "start": 2.5,
+      "end": 2.72
+    },
+    {
+      "word": "make",
+      "start": 2.72,
+      "end": 3.0
+    },
+    {
+      "word": "clean",
+      "start": 3.0,
+      "end": 3.32
+    },
+    {
+      "word": "digital",
+      "start": 3.32,
+      "end": 3.74
+    },
+    {
+      "word": "graphics.",
+      "start": 3.74,
+      "end": 4.26
+    },
+    {
+      "word": "Creative",
+      "start": 5.18,
+      "end": 5.18
+    },
+    {
+      "word": "Cloud",
+      "start": 5.18,
+      "end": 5.6
+    },
+    {
+      "word": "charges",
+      "start": 5.6,
+      "end": 6.08
+    },
+    {
+      "word": "over",
+      "start": 6.08,
+      "end": 6.4
+    },
+    {
+      "word": "$30",
+      "start": 6.4,
+      "end": 6.92
+    },
+    {
+      "word": "every",
+      "start": 6.92,
+      "end": 7.38
+    },
+    {
+      "word": "month",
+      "start": 7.38,
+      "end": 8.0
+    },
+    {
+      "word": "just",
+      "start": 8.0,
+      "end": 8.28
+    },
+    {
+      "word": "to",
+      "start": 8.28,
+      "end": 8.44
+    },
+    {
+      "word": "crop",
+      "start": 8.44,
+      "end": 8.74
+    },
+    {
+      "word": "assets,",
+      "start": 8.74,
+      "end": 9.2
+    },
+    {
+      "word": "design",
+      "start": 9.62,
+      "end": 9.94
+    },
+    {
+      "word": "banners,",
+      "start": 9.94,
+      "end": 10.36
+    },
+    {
+      "word": "or",
+      "start": 10.56,
+      "end": 10.76
+    },
+    {
+      "word": "tweak",
+      "start": 10.76,
+      "end": 11.04
+    },
+    {
+      "word": "graphics.",
+      "start": 11.04,
+      "end": 11.66
+    },
+    {
+      "word": "Basic",
+      "start": 12.26,
+      "end": 12.26
+    },
+    {
+      "word": "online",
+      "start": 12.26,
+      "end": 12.7
+    },
+    {
+      "word": "graphic",
+      "start": 12.7,
+      "end": 13.16
+    },
+    {
+      "word": "editors",
+      "start": 13.16,
+      "end": 13.46
+    },
+    {
+      "word": "lack",
+      "start": 13.46,
+      "end": 13.82
+    },
+    {
+      "word": "non",
+      "start": 13.82,
+      "end": 14.14
+    },
+    {
+      "word": "-destructive",
+      "start": 14.14,
+      "end": 14.64
+    },
+    {
+      "word": "layer",
+      "start": 14.64,
+      "end": 14.9
+    },
+    {
+      "word": "masks,",
+      "start": 14.9,
+      "end": 15.34
+    },
+    {
+      "word": "precise",
+      "start": 16.08,
+      "end": 16.08
+    },
+    {
+      "word": "brush",
+      "start": 16.08,
+      "end": 16.46
+    },
+    {
+      "word": "smoothing,",
+      "start": 16.46,
+      "end": 16.88
+    },
+    {
+      "word": "and",
+      "start": 17.16,
+      "end": 17.3
+    },
+    {
+      "word": "advanced",
+      "start": 17.3,
+      "end": 17.74
+    },
+    {
+      "word": "color",
+      "start": 17.74,
+      "end": 18.12
+    },
+    {
+      "word": "profiles.",
+      "start": 18.12,
+      "end": 18.62
+    },
+    {
+      "word": "Creta",
+      "start": 19.32,
+      "end": 19.66
+    },
+    {
+      "word": "delivers",
+      "start": 19.66,
+      "end": 20.0
+    },
+    {
+      "word": "full",
+      "start": 20.0,
+      "end": 20.5
+    },
+    {
+      "word": "PSD",
+      "start": 20.5,
+      "end": 21.06
+    },
+    {
+      "word": "compatibility,",
+      "start": 21.06,
+      "end": 21.6
+    },
+    {
+      "word": "professional",
+      "start": 22.6,
+      "end": 22.6
+    },
+    {
+      "word": "brush",
+      "start": 22.6,
+      "end": 22.94
+    },
+    {
+      "word": "stabilization,",
+      "start": 22.94,
+      "end": 23.56
+    },
+    {
+      "word": "vector",
+      "start": 24.26,
+      "end": 24.28
+    },
+    {
+      "word": "shapes,",
+      "start": 24.28,
+      "end": 24.64
+    },
+    {
+      "word": "and",
+      "start": 24.84,
+      "end": 25.08
+    },
+    {
+      "word": "layer",
+      "start": 25.08,
+      "end": 25.32
+    },
+    {
+      "word": "blending",
+      "start": 25.32,
+      "end": 25.7
+    },
+    {
+      "word": "entirely",
+      "start": 25.7,
+      "end": 26.46
+    },
+    {
+      "word": "free.",
+      "start": 26.46,
+      "end": 26.98
+    },
+    {
+      "word": "Design",
+      "start": 26.98,
+      "end": 27.8
+    },
+    {
+      "word": "high",
+      "start": 27.8,
+      "end": 28.08
+    },
+    {
+      "word": "converting",
+      "start": 28.08,
+      "end": 28.36
+    },
+    {
+      "word": "visuals",
+      "start": 28.36,
+      "end": 28.92
+    },
+    {
+      "word": "without",
+      "start": 28.92,
+      "end": 29.4
+    },
+    {
+      "word": "recurring",
+      "start": 29.4,
+      "end": 29.84
+    },
+    {
+      "word": "software",
+      "start": 29.84,
+      "end": 30.28
+    },
+    {
+      "word": "taxes.",
+      "start": 30.28,
+      "end": 30.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "You do not need an expensive Photoshop subscription to make clean digital graphics.",
+      "line2": "FREE DIGITAL PAINTING",
+      "tag": "\ud83d\uded1 Krita",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Krita",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Krita",
+        "subtitle": "Krita"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Krita"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Krita"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Krita",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "page": "page-02",
+  "idea": "AI presentation slide designer for freelance consultants",
+  "text": "How freelance strategists build high-converting client presentations in minutes. Winning five-figure consulting retainers demands flawless pitch decks, but manual formatting eats away your actual client delivery time. Static PDF decks fail to engage prospects and prevent you from tracking who actually viewed your proposal. Feed your scope outline into Gamma to generate responsive web-based presentations with embedded video embeds and live analytics. You secure higher consulting fees with interactive decks.",
+  "duration": 30.799,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "freelance",
+      "start": 0.32,
+      "end": 0.7
+    },
+    {
+      "word": "strategists",
+      "start": 0.7,
+      "end": 1.46
+    },
+    {
+      "word": "build",
+      "start": 1.46,
+      "end": 1.78
+    },
+    {
+      "word": "high",
+      "start": 1.78,
+      "end": 2.02
+    },
+    {
+      "word": "-converting",
+      "start": 2.02,
+      "end": 2.42
+    },
+    {
+      "word": "client",
+      "start": 2.42,
+      "end": 2.9
+    },
+    {
+      "word": "presentations",
+      "start": 2.9,
+      "end": 3.6
+    },
+    {
+      "word": "in",
+      "start": 3.6,
+      "end": 3.92
+    },
+    {
+      "word": "minutes.",
+      "start": 3.92,
+      "end": 4.3
+    },
+    {
+      "word": "Winning",
+      "start": 5.04,
+      "end": 5.04
+    },
+    {
+      "word": "five",
+      "start": 5.04,
+      "end": 5.58
+    },
+    {
+      "word": "-figure",
+      "start": 5.58,
+      "end": 5.9
+    },
+    {
+      "word": "consulting",
+      "start": 5.9,
+      "end": 6.46
+    },
+    {
+      "word": "retainers",
+      "start": 6.46,
+      "end": 7.16
+    },
+    {
+      "word": "demands",
+      "start": 7.16,
+      "end": 7.66
+    },
+    {
+      "word": "flawless",
+      "start": 7.66,
+      "end": 8.12
+    },
+    {
+      "word": "pitch",
+      "start": 8.12,
+      "end": 8.4
+    },
+    {
+      "word": "decks,",
+      "start": 8.4,
+      "end": 8.72
+    },
+    {
+      "word": "but",
+      "start": 9.1,
+      "end": 9.28
+    },
+    {
+      "word": "manual",
+      "start": 9.28,
+      "end": 9.68
+    },
+    {
+      "word": "formatting",
+      "start": 9.68,
+      "end": 10.02
+    },
+    {
+      "word": "eats",
+      "start": 10.02,
+      "end": 10.52
+    },
+    {
+      "word": "away",
+      "start": 10.52,
+      "end": 10.82
+    },
+    {
+      "word": "your",
+      "start": 10.82,
+      "end": 11.12
+    },
+    {
+      "word": "actual",
+      "start": 11.12,
+      "end": 11.58
+    },
+    {
+      "word": "client",
+      "start": 11.58,
+      "end": 11.94
+    },
+    {
+      "word": "delivery",
+      "start": 11.94,
+      "end": 12.24
+    },
+    {
+      "word": "time.",
+      "start": 12.24,
+      "end": 12.78
+    },
+    {
+      "word": "Static",
+      "start": 13.4,
+      "end": 13.4
+    },
+    {
+      "word": "PDF",
+      "start": 13.4,
+      "end": 13.84
+    },
+    {
+      "word": "decks",
+      "start": 13.84,
+      "end": 14.3
+    },
+    {
+      "word": "fail",
+      "start": 14.3,
+      "end": 14.6
+    },
+    {
+      "word": "to",
+      "start": 14.6,
+      "end": 14.82
+    },
+    {
+      "word": "engage",
+      "start": 14.82,
+      "end": 15.16
+    },
+    {
+      "word": "prospects",
+      "start": 15.16,
+      "end": 15.76
+    },
+    {
+      "word": "and",
+      "start": 15.76,
+      "end": 16.3
+    },
+    {
+      "word": "prevent",
+      "start": 16.3,
+      "end": 16.48
+    },
+    {
+      "word": "you",
+      "start": 16.48,
+      "end": 16.76
+    },
+    {
+      "word": "from",
+      "start": 16.76,
+      "end": 16.94
+    },
+    {
+      "word": "tracking",
+      "start": 16.94,
+      "end": 17.28
+    },
+    {
+      "word": "who",
+      "start": 17.28,
+      "end": 17.66
+    },
+    {
+      "word": "actually",
+      "start": 17.66,
+      "end": 18.06
+    },
+    {
+      "word": "viewed",
+      "start": 18.06,
+      "end": 18.32
+    },
+    {
+      "word": "your",
+      "start": 18.32,
+      "end": 18.56
+    },
+    {
+      "word": "proposal.",
+      "start": 18.56,
+      "end": 19.02
+    },
+    {
+      "word": "Feed",
+      "start": 19.72,
+      "end": 19.76
+    },
+    {
+      "word": "your",
+      "start": 19.76,
+      "end": 19.96
+    },
+    {
+      "word": "scope",
+      "start": 19.96,
+      "end": 20.24
+    },
+    {
+      "word": "outline",
+      "start": 20.24,
+      "end": 20.64
+    },
+    {
+      "word": "into",
+      "start": 20.64,
+      "end": 20.88
+    },
+    {
+      "word": "gamma",
+      "start": 20.88,
+      "end": 21.16
+    },
+    {
+      "word": "to",
+      "start": 21.16,
+      "end": 21.62
+    },
+    {
+      "word": "generate",
+      "start": 21.62,
+      "end": 22.0
+    },
+    {
+      "word": "responsive",
+      "start": 22.0,
+      "end": 22.74
+    },
+    {
+      "word": "web",
+      "start": 22.74,
+      "end": 23.04
+    },
+    {
+      "word": "-based",
+      "start": 23.04,
+      "end": 23.3
+    },
+    {
+      "word": "presentations",
+      "start": 23.3,
+      "end": 24.1
+    },
+    {
+      "word": "with",
+      "start": 24.1,
+      "end": 24.72
+    },
+    {
+      "word": "embedded",
+      "start": 24.72,
+      "end": 25.04
+    },
+    {
+      "word": "video",
+      "start": 25.04,
+      "end": 25.44
+    },
+    {
+      "word": "embeds",
+      "start": 25.44,
+      "end": 26.04
+    },
+    {
+      "word": "and",
+      "start": 26.04,
+      "end": 26.26
+    },
+    {
+      "word": "live",
+      "start": 26.26,
+      "end": 26.58
+    },
+    {
+      "word": "analytics.",
+      "start": 26.58,
+      "end": 27.06
+    },
+    {
+      "word": "You",
+      "start": 27.06,
+      "end": 27.8
+    },
+    {
+      "word": "secure",
+      "start": 27.8,
+      "end": 28.16
+    },
+    {
+      "word": "higher",
+      "start": 28.16,
+      "end": 28.6
+    },
+    {
+      "word": "consulting",
+      "start": 28.6,
+      "end": 29.14
+    },
+    {
+      "word": "fees",
+      "start": 29.14,
+      "end": 29.56
+    },
+    {
+      "word": "with",
+      "start": 29.56,
+      "end": 29.94
+    },
+    {
+      "word": "interactive",
+      "start": 29.94,
+      "end": 30.3
+    },
+    {
+      "word": "decks.",
+      "start": 30.3,
+      "end": 30.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "How freelance strategists build high-converting client presentations in minutes.",
+      "line2": "DESIGN SLIDES FASTER",
+      "tag": "\ud83d\uded1 AI presentation slide designer for freelance consultants",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI presentation slide designer for freelance consultants",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI presentation slide designer for freelance consultants",
+        "subtitle": "AI presentation slide designer for freelance consultants"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI presentation slide designer for freelance consultants"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI presentation slide designer for freelance consultants"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI presentation slide designer for freelance consultants",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

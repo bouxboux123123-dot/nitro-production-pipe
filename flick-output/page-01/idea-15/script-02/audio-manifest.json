@@ -1,0 +1,431 @@
+{
+  "page": "page-01",
+  "idea": "Automated client gift and milestone celebration pipeline",
+  "text": "This automation triggers custom gift deliveries on client birthdays and six-month contract anniversaries. You promise premium white-glove service, but tracking client birthdays manually across team calendars always fails. Account managers get buried in deliverables, causing thoughtful relationship touchpoints to slip completely through the cracks. Build an automated pipeline connecting Airtable to Postal.io that ships curated gift boxes based on contract dates. You delight decision-makers and secure effortless retainer renewals.",
+  "duration": 31.674,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "automation",
+      "start": 0.24,
+      "end": 0.74
+    },
+    {
+      "word": "triggers",
+      "start": 0.74,
+      "end": 1.22
+    },
+    {
+      "word": "custom",
+      "start": 1.22,
+      "end": 1.68
+    },
+    {
+      "word": "gift",
+      "start": 1.68,
+      "end": 1.96
+    },
+    {
+      "word": "deliveries",
+      "start": 1.96,
+      "end": 2.3
+    },
+    {
+      "word": "on",
+      "start": 2.3,
+      "end": 2.68
+    },
+    {
+      "word": "client",
+      "start": 2.68,
+      "end": 3.02
+    },
+    {
+      "word": "birthdays",
+      "start": 3.02,
+      "end": 3.5
+    },
+    {
+      "word": "and",
+      "start": 3.5,
+      "end": 3.96
+    },
+    {
+      "word": "six",
+      "start": 3.96,
+      "end": 4.22
+    },
+    {
+      "word": "-month",
+      "start": 4.22,
+      "end": 4.52
+    },
+    {
+      "word": "contract",
+      "start": 4.52,
+      "end": 5.02
+    },
+    {
+      "word": "anniversaries.",
+      "start": 5.02,
+      "end": 5.86
+    },
+    {
+      "word": "You",
+      "start": 6.44,
+      "end": 6.54
+    },
+    {
+      "word": "promise",
+      "start": 6.54,
+      "end": 6.9
+    },
+    {
+      "word": "premium",
+      "start": 6.9,
+      "end": 7.44
+    },
+    {
+      "word": "white",
+      "start": 7.44,
+      "end": 7.78
+    },
+    {
+      "word": "-glove",
+      "start": 7.78,
+      "end": 8.02
+    },
+    {
+      "word": "service,",
+      "start": 8.02,
+      "end": 8.5
+    },
+    {
+      "word": "but",
+      "start": 8.92,
+      "end": 9.04
+    },
+    {
+      "word": "tracking",
+      "start": 9.04,
+      "end": 9.34
+    },
+    {
+      "word": "client",
+      "start": 9.34,
+      "end": 9.82
+    },
+    {
+      "word": "birthdays",
+      "start": 9.82,
+      "end": 10.3
+    },
+    {
+      "word": "manually",
+      "start": 10.3,
+      "end": 10.76
+    },
+    {
+      "word": "across",
+      "start": 10.76,
+      "end": 11.16
+    },
+    {
+      "word": "team",
+      "start": 11.16,
+      "end": 11.5
+    },
+    {
+      "word": "calendars",
+      "start": 11.5,
+      "end": 11.9
+    },
+    {
+      "word": "always",
+      "start": 11.9,
+      "end": 12.48
+    },
+    {
+      "word": "fails.",
+      "start": 12.48,
+      "end": 12.92
+    },
+    {
+      "word": "Account",
+      "start": 13.4,
+      "end": 13.66
+    },
+    {
+      "word": "managers",
+      "start": 13.66,
+      "end": 14.04
+    },
+    {
+      "word": "get",
+      "start": 14.04,
+      "end": 14.54
+    },
+    {
+      "word": "buried",
+      "start": 14.54,
+      "end": 14.82
+    },
+    {
+      "word": "in",
+      "start": 14.82,
+      "end": 15.08
+    },
+    {
+      "word": "deliverables,",
+      "start": 15.08,
+      "end": 15.6
+    },
+    {
+      "word": "causing",
+      "start": 16.34,
+      "end": 16.34
+    },
+    {
+      "word": "thoughtful",
+      "start": 16.34,
+      "end": 16.8
+    },
+    {
+      "word": "relationship",
+      "start": 16.8,
+      "end": 17.38
+    },
+    {
+      "word": "touch",
+      "start": 17.38,
+      "end": 17.86
+    },
+    {
+      "word": "points",
+      "start": 17.86,
+      "end": 18.1
+    },
+    {
+      "word": "to",
+      "start": 18.1,
+      "end": 18.38
+    },
+    {
+      "word": "slip",
+      "start": 18.38,
+      "end": 18.6
+    },
+    {
+      "word": "completely",
+      "start": 18.6,
+      "end": 19.02
+    },
+    {
+      "word": "through",
+      "start": 19.02,
+      "end": 19.38
+    },
+    {
+      "word": "the",
+      "start": 19.38,
+      "end": 19.5
+    },
+    {
+      "word": "cracks.",
+      "start": 19.5,
+      "end": 19.84
+    },
+    {
+      "word": "Build",
+      "start": 20.58,
+      "end": 20.66
+    },
+    {
+      "word": "an",
+      "start": 20.66,
+      "end": 20.92
+    },
+    {
+      "word": "automated",
+      "start": 20.92,
+      "end": 21.32
+    },
+    {
+      "word": "pipeline",
+      "start": 21.32,
+      "end": 21.88
+    },
+    {
+      "word": "connecting",
+      "start": 21.88,
+      "end": 22.5
+    },
+    {
+      "word": "irritable",
+      "start": 22.5,
+      "end": 22.92
+    },
+    {
+      "word": "to",
+      "start": 22.92,
+      "end": 23.18
+    },
+    {
+      "word": "postal,",
+      "start": 23.18,
+      "end": 23.6
+    },
+    {
+      "word": "EO",
+      "start": 24.08,
+      "end": 24.36
+    },
+    {
+      "word": "that",
+      "start": 24.36,
+      "end": 24.62
+    },
+    {
+      "word": "ships",
+      "start": 24.62,
+      "end": 24.94
+    },
+    {
+      "word": "curated",
+      "start": 24.94,
+      "end": 25.4
+    },
+    {
+      "word": "gift",
+      "start": 25.4,
+      "end": 25.7
+    },
+    {
+      "word": "boxes",
+      "start": 25.7,
+      "end": 26.1
+    },
+    {
+      "word": "based",
+      "start": 26.1,
+      "end": 26.52
+    },
+    {
+      "word": "on",
+      "start": 26.52,
+      "end": 26.86
+    },
+    {
+      "word": "contract",
+      "start": 26.86,
+      "end": 27.16
+    },
+    {
+      "word": "dates.",
+      "start": 27.16,
+      "end": 27.58
+    },
+    {
+      "word": "You",
+      "start": 27.58,
+      "end": 28.22
+    },
+    {
+      "word": "delight",
+      "start": 28.22,
+      "end": 28.48
+    },
+    {
+      "word": "decision",
+      "start": 28.48,
+      "end": 28.92
+    },
+    {
+      "word": "makers",
+      "start": 28.92,
+      "end": 29.32
+    },
+    {
+      "word": "and",
+      "start": 29.32,
+      "end": 29.78
+    },
+    {
+      "word": "secure",
+      "start": 29.78,
+      "end": 30.16
+    },
+    {
+      "word": "effortless",
+      "start": 30.16,
+      "end": 30.68
+    },
+    {
+      "word": "retainer",
+      "start": 30.68,
+      "end": 31.1
+    },
+    {
+      "word": "renewals.",
+      "start": 31.1,
+      "end": 31.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "This automation triggers custom gift deliveries on client birthdays and contract anniversaries.",
+      "line2": "AUTOMATE CLIENT CELEBRATIONS",
+      "tag": "\ud83d\uded1 Automated client gift and milestone celebration pipeline",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated client gift and milestone celebration pipeline",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated client gift and milestone celebration pipeline",
+        "subtitle": "Automated client gift and milestone celebration pipeline"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated client gift and milestone celebration pipeline"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated client gift and milestone celebration pipeline"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated client gift and milestone celebration pipeline",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

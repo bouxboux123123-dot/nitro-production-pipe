@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Async project health check widget that flags stalled deliverables",
+  "text": "Stop micromanaging your remote team with 'Any update on this?' messages all afternoon. Pinging engineers for ad-hoc progress reports shatters their focus and creates unnecessary interpersonal tension. Constant manual check-ins trigger costly context switches, delaying the exact deliverables you are awaiting. Automated Linear health widgets track live GitHub pull requests and broadcast milestone progress to Slack. You achieve full delivery visibility without interrupting maker flow.",
+  "duration": 29.562,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "micromanaging",
+      "start": 0.44,
+      "end": 1.24
+    },
+    {
+      "word": "your",
+      "start": 1.24,
+      "end": 1.58
+    },
+    {
+      "word": "remote",
+      "start": 1.58,
+      "end": 1.8
+    },
+    {
+      "word": "team",
+      "start": 1.8,
+      "end": 2.24
+    },
+    {
+      "word": "with",
+      "start": 2.24,
+      "end": 2.44
+    },
+    {
+      "word": "any",
+      "start": 2.44,
+      "end": 2.66
+    },
+    {
+      "word": "update",
+      "start": 2.66,
+      "end": 2.9
+    },
+    {
+      "word": "on",
+      "start": 2.9,
+      "end": 3.18
+    },
+    {
+      "word": "this.",
+      "start": 3.18,
+      "end": 3.78
+    },
+    {
+      "word": "Messages",
+      "start": 4.2,
+      "end": 4.2
+    },
+    {
+      "word": "all",
+      "start": 4.2,
+      "end": 4.72
+    },
+    {
+      "word": "afternoon.",
+      "start": 4.72,
+      "end": 5.5
+    },
+    {
+      "word": "Pinging",
+      "start": 6.04,
+      "end": 6.16
+    },
+    {
+      "word": "engineers",
+      "start": 6.16,
+      "end": 6.66
+    },
+    {
+      "word": "for",
+      "start": 6.66,
+      "end": 7.06
+    },
+    {
+      "word": "ad",
+      "start": 7.06,
+      "end": 7.24
+    },
+    {
+      "word": "hoc",
+      "start": 7.24,
+      "end": 7.46
+    },
+    {
+      "word": "progress",
+      "start": 7.46,
+      "end": 7.98
+    },
+    {
+      "word": "reports",
+      "start": 7.98,
+      "end": 8.5
+    },
+    {
+      "word": "shatters",
+      "start": 8.5,
+      "end": 8.78
+    },
+    {
+      "word": "their",
+      "start": 8.78,
+      "end": 9.18
+    },
+    {
+      "word": "focus",
+      "start": 9.18,
+      "end": 9.56
+    },
+    {
+      "word": "and",
+      "start": 9.56,
+      "end": 10.06
+    },
+    {
+      "word": "creates",
+      "start": 10.06,
+      "end": 10.46
+    },
+    {
+      "word": "unnecessary",
+      "start": 10.46,
+      "end": 11.24
+    },
+    {
+      "word": "interpersonal",
+      "start": 11.24,
+      "end": 11.92
+    },
+    {
+      "word": "tension.",
+      "start": 11.92,
+      "end": 12.56
+    },
+    {
+      "word": "Constant",
+      "start": 13.28,
+      "end": 13.28
+    },
+    {
+      "word": "manual",
+      "start": 13.28,
+      "end": 13.7
+    },
+    {
+      "word": "check",
+      "start": 13.7,
+      "end": 13.96
+    },
+    {
+      "word": "-ins",
+      "start": 13.96,
+      "end": 14.2
+    },
+    {
+      "word": "trigger",
+      "start": 14.2,
+      "end": 14.64
+    },
+    {
+      "word": "costly",
+      "start": 14.64,
+      "end": 15.08
+    },
+    {
+      "word": "context",
+      "start": 15.08,
+      "end": 15.58
+    },
+    {
+      "word": "switches,",
+      "start": 15.58,
+      "end": 16.24
+    },
+    {
+      "word": "delaying",
+      "start": 16.6,
+      "end": 16.74
+    },
+    {
+      "word": "the",
+      "start": 16.74,
+      "end": 17.12
+    },
+    {
+      "word": "exact",
+      "start": 17.12,
+      "end": 17.44
+    },
+    {
+      "word": "deliverables",
+      "start": 17.44,
+      "end": 17.94
+    },
+    {
+      "word": "you",
+      "start": 17.94,
+      "end": 18.22
+    },
+    {
+      "word": "are",
+      "start": 18.22,
+      "end": 18.38
+    },
+    {
+      "word": "awaiting.",
+      "start": 18.38,
+      "end": 18.78
+    },
+    {
+      "word": "Automated",
+      "start": 19.5,
+      "end": 19.82
+    },
+    {
+      "word": "linear",
+      "start": 19.82,
+      "end": 20.1
+    },
+    {
+      "word": "health",
+      "start": 20.1,
+      "end": 20.44
+    },
+    {
+      "word": "widgets,",
+      "start": 20.44,
+      "end": 20.76
+    },
+    {
+      "word": "track",
+      "start": 21.18,
+      "end": 21.18
+    },
+    {
+      "word": "live,",
+      "start": 21.18,
+      "end": 21.58
+    },
+    {
+      "word": "GitHub",
+      "start": 21.7,
+      "end": 21.9
+    },
+    {
+      "word": "pull",
+      "start": 21.9,
+      "end": 22.32
+    },
+    {
+      "word": "requests",
+      "start": 22.32,
+      "end": 22.76
+    },
+    {
+      "word": "and",
+      "start": 22.76,
+      "end": 23.28
+    },
+    {
+      "word": "broadcast",
+      "start": 23.28,
+      "end": 23.74
+    },
+    {
+      "word": "milestone",
+      "start": 23.74,
+      "end": 24.36
+    },
+    {
+      "word": "progress",
+      "start": 24.36,
+      "end": 24.84
+    },
+    {
+      "word": "to",
+      "start": 24.84,
+      "end": 25.18
+    },
+    {
+      "word": "Slack.",
+      "start": 25.18,
+      "end": 25.54
+    },
+    {
+      "word": "You",
+      "start": 26.06,
+      "end": 26.24
+    },
+    {
+      "word": "achieve",
+      "start": 26.24,
+      "end": 26.6
+    },
+    {
+      "word": "full",
+      "start": 26.6,
+      "end": 26.92
+    },
+    {
+      "word": "delivery",
+      "start": 26.92,
+      "end": 27.2
+    },
+    {
+      "word": "visibility",
+      "start": 27.2,
+      "end": 27.82
+    },
+    {
+      "word": "without",
+      "start": 27.82,
+      "end": 28.22
+    },
+    {
+      "word": "interrupting",
+      "start": 28.22,
+      "end": 28.88
+    },
+    {
+      "word": "make",
+      "start": 28.88,
+      "end": 29.04
+    },
+    {
+      "word": "or",
+      "start": 29.04,
+      "end": 29.26
+    },
+    {
+      "word": "flow.",
+      "start": 29.26,
+      "end": 29.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop micromanaging your team with 'Any update on this?' messages all afternoon.",
+      "line2": "FLAG STALLED DELIVERABLES",
+      "tag": "\ud83d\uded1 Async project health check widget that flags stalled deliverables",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async project health check widget that flags stalled deliverables",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async project health check widget that flags stalled deliverables",
+        "subtitle": "Async project health check widget that flags stalled deliverables"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async project health check widget that flags stalled deliverables"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async project health check widget that flags stalled deliverables"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async project health check widget that flags stalled deliverables",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

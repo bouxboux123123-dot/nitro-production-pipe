@@ -1,0 +1,426 @@
+{
+  "page": "page-04",
+  "idea": "Krita: free open-source digital painting and graphics tool",
+  "text": "The community-driven graphics app packed with professional brushes and layer tools. Digital creators waste hours fighting browser design tools that stutter under high-resolution canvases and complex layer hierarchies. Lightweight drawing apps lack brush smoothing engines, transform tools, and non-destructive adjustment masks for serious work. Krita provides over one hundred customizable brushes, hand-jitter stabilizers, vector paths, and complete color management without restrictions. You craft professional digital artwork without expensive commercial licenses.",
+  "duration": 33.487,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "community",
+      "start": 0.2,
+      "end": 0.58
+    },
+    {
+      "word": "-driven",
+      "start": 0.58,
+      "end": 0.88
+    },
+    {
+      "word": "graphics",
+      "start": 0.88,
+      "end": 1.32
+    },
+    {
+      "word": "app",
+      "start": 1.32,
+      "end": 1.68
+    },
+    {
+      "word": "packed",
+      "start": 1.68,
+      "end": 1.92
+    },
+    {
+      "word": "with",
+      "start": 1.92,
+      "end": 2.2
+    },
+    {
+      "word": "professional",
+      "start": 2.2,
+      "end": 2.58
+    },
+    {
+      "word": "brushes",
+      "start": 2.58,
+      "end": 3.04
+    },
+    {
+      "word": "and",
+      "start": 3.04,
+      "end": 3.32
+    },
+    {
+      "word": "layer",
+      "start": 3.32,
+      "end": 3.54
+    },
+    {
+      "word": "tools.",
+      "start": 3.54,
+      "end": 4.1
+    },
+    {
+      "word": "Digital",
+      "start": 4.98,
+      "end": 4.98
+    },
+    {
+      "word": "creators",
+      "start": 4.98,
+      "end": 5.5
+    },
+    {
+      "word": "waste",
+      "start": 5.5,
+      "end": 5.92
+    },
+    {
+      "word": "hours",
+      "start": 5.92,
+      "end": 6.3
+    },
+    {
+      "word": "fighting",
+      "start": 6.3,
+      "end": 6.74
+    },
+    {
+      "word": "browser",
+      "start": 6.74,
+      "end": 7.1
+    },
+    {
+      "word": "design",
+      "start": 7.1,
+      "end": 7.52
+    },
+    {
+      "word": "tools",
+      "start": 7.52,
+      "end": 8.0
+    },
+    {
+      "word": "that",
+      "start": 8.0,
+      "end": 8.42
+    },
+    {
+      "word": "stutter",
+      "start": 8.42,
+      "end": 8.62
+    },
+    {
+      "word": "under",
+      "start": 8.62,
+      "end": 8.88
+    },
+    {
+      "word": "high",
+      "start": 8.88,
+      "end": 9.2
+    },
+    {
+      "word": "-resolution",
+      "start": 9.2,
+      "end": 9.58
+    },
+    {
+      "word": "canvases",
+      "start": 9.58,
+      "end": 10.22
+    },
+    {
+      "word": "and",
+      "start": 10.22,
+      "end": 10.64
+    },
+    {
+      "word": "complex",
+      "start": 10.64,
+      "end": 11.06
+    },
+    {
+      "word": "layer",
+      "start": 11.06,
+      "end": 11.46
+    },
+    {
+      "word": "hierarchies.",
+      "start": 11.46,
+      "end": 12.54
+    },
+    {
+      "word": "Lightweight",
+      "start": 12.98,
+      "end": 13.26
+    },
+    {
+      "word": "drawing",
+      "start": 13.26,
+      "end": 13.64
+    },
+    {
+      "word": "apps",
+      "start": 13.64,
+      "end": 13.9
+    },
+    {
+      "word": "lack",
+      "start": 13.9,
+      "end": 14.22
+    },
+    {
+      "word": "brush",
+      "start": 14.22,
+      "end": 14.56
+    },
+    {
+      "word": "smoothing",
+      "start": 14.56,
+      "end": 14.92
+    },
+    {
+      "word": "engines,",
+      "start": 14.92,
+      "end": 15.34
+    },
+    {
+      "word": "transform",
+      "start": 15.96,
+      "end": 16.14
+    },
+    {
+      "word": "tools,",
+      "start": 16.14,
+      "end": 16.76
+    },
+    {
+      "word": "and",
+      "start": 17.16,
+      "end": 17.34
+    },
+    {
+      "word": "non",
+      "start": 17.34,
+      "end": 17.52
+    },
+    {
+      "word": "-destructive",
+      "start": 17.52,
+      "end": 18.1
+    },
+    {
+      "word": "adjustment",
+      "start": 18.1,
+      "end": 18.54
+    },
+    {
+      "word": "masks",
+      "start": 18.54,
+      "end": 18.94
+    },
+    {
+      "word": "for",
+      "start": 18.94,
+      "end": 19.26
+    },
+    {
+      "word": "serious",
+      "start": 19.26,
+      "end": 19.52
+    },
+    {
+      "word": "work.",
+      "start": 19.52,
+      "end": 20.24
+    },
+    {
+      "word": "Creta",
+      "start": 20.46,
+      "end": 20.62
+    },
+    {
+      "word": "provides",
+      "start": 20.62,
+      "end": 21.02
+    },
+    {
+      "word": "over",
+      "start": 21.02,
+      "end": 21.44
+    },
+    {
+      "word": "100",
+      "start": 21.44,
+      "end": 22.02
+    },
+    {
+      "word": "customizable",
+      "start": 22.02,
+      "end": 22.64
+    },
+    {
+      "word": "brushes,",
+      "start": 22.64,
+      "end": 23.28
+    },
+    {
+      "word": "hand",
+      "start": 23.92,
+      "end": 23.98
+    },
+    {
+      "word": "jitter",
+      "start": 23.98,
+      "end": 24.26
+    },
+    {
+      "word": "stabilizers,",
+      "start": 24.26,
+      "end": 25.04
+    },
+    {
+      "word": "vector",
+      "start": 25.66,
+      "end": 25.72
+    },
+    {
+      "word": "paths,",
+      "start": 25.72,
+      "end": 26.14
+    },
+    {
+      "word": "and",
+      "start": 26.38,
+      "end": 26.72
+    },
+    {
+      "word": "complete",
+      "start": 26.72,
+      "end": 27.02
+    },
+    {
+      "word": "color",
+      "start": 27.02,
+      "end": 27.38
+    },
+    {
+      "word": "management",
+      "start": 27.38,
+      "end": 27.88
+    },
+    {
+      "word": "without",
+      "start": 27.88,
+      "end": 28.28
+    },
+    {
+      "word": "restrictions.",
+      "start": 28.28,
+      "end": 28.86
+    },
+    {
+      "word": "You",
+      "start": 29.22,
+      "end": 29.7
+    },
+    {
+      "word": "craft",
+      "start": 29.7,
+      "end": 29.98
+    },
+    {
+      "word": "professional",
+      "start": 29.98,
+      "end": 30.48
+    },
+    {
+      "word": "digital",
+      "start": 30.48,
+      "end": 30.94
+    },
+    {
+      "word": "artwork",
+      "start": 30.94,
+      "end": 31.36
+    },
+    {
+      "word": "without",
+      "start": 31.36,
+      "end": 31.74
+    },
+    {
+      "word": "expensive",
+      "start": 31.74,
+      "end": 32.28
+    },
+    {
+      "word": "commercial",
+      "start": 32.28,
+      "end": 32.78
+    },
+    {
+      "word": "licenses.",
+      "start": 32.78,
+      "end": 33.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The community-driven graphics app packed with professional brushes and layer tools.",
+      "line2": "FREE DIGITAL PAINTING",
+      "tag": "\ud83d\uded1 Krita",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Krita",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Krita",
+        "subtitle": "Krita"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Krita"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Krita"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Krita",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

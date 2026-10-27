@@ -1,0 +1,391 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to bookmark managers that save tabs across all devices",
+  "text": "This clean tool saves all your open tabs into one organized collection in one click. Hoarding tabs because you might read them later drains your battery and slows down your computer. Traditional bookmarks become an unsearchable graveyard where saved links are easily forgotten. Add OneTab to collapse dozens of open tabs into a clean, searchable list in one second. You speed up your machine effortlessly.",
+  "duration": 22.805,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "clean",
+      "start": 0.26,
+      "end": 0.56
+    },
+    {
+      "word": "tool",
+      "start": 0.56,
+      "end": 0.86
+    },
+    {
+      "word": "saves",
+      "start": 0.86,
+      "end": 1.18
+    },
+    {
+      "word": "all",
+      "start": 1.18,
+      "end": 1.46
+    },
+    {
+      "word": "your",
+      "start": 1.46,
+      "end": 1.7
+    },
+    {
+      "word": "open",
+      "start": 1.7,
+      "end": 1.94
+    },
+    {
+      "word": "tabs",
+      "start": 1.94,
+      "end": 2.28
+    },
+    {
+      "word": "into",
+      "start": 2.28,
+      "end": 2.56
+    },
+    {
+      "word": "one",
+      "start": 2.56,
+      "end": 2.94
+    },
+    {
+      "word": "organized",
+      "start": 2.94,
+      "end": 3.3
+    },
+    {
+      "word": "collection",
+      "start": 3.3,
+      "end": 3.78
+    },
+    {
+      "word": "in",
+      "start": 3.78,
+      "end": 4.02
+    },
+    {
+      "word": "one",
+      "start": 4.02,
+      "end": 4.28
+    },
+    {
+      "word": "click.",
+      "start": 4.28,
+      "end": 4.66
+    },
+    {
+      "word": "Hording",
+      "start": 5.2,
+      "end": 5.32
+    },
+    {
+      "word": "tabs",
+      "start": 5.32,
+      "end": 5.74
+    },
+    {
+      "word": "because",
+      "start": 5.74,
+      "end": 6.06
+    },
+    {
+      "word": "you",
+      "start": 6.06,
+      "end": 6.2
+    },
+    {
+      "word": "might",
+      "start": 6.2,
+      "end": 6.4
+    },
+    {
+      "word": "read",
+      "start": 6.4,
+      "end": 6.58
+    },
+    {
+      "word": "them",
+      "start": 6.58,
+      "end": 6.76
+    },
+    {
+      "word": "later",
+      "start": 6.76,
+      "end": 7.0
+    },
+    {
+      "word": "drains",
+      "start": 7.0,
+      "end": 7.3
+    },
+    {
+      "word": "your",
+      "start": 7.3,
+      "end": 7.58
+    },
+    {
+      "word": "battery",
+      "start": 7.58,
+      "end": 7.84
+    },
+    {
+      "word": "and",
+      "start": 7.84,
+      "end": 8.4
+    },
+    {
+      "word": "slows",
+      "start": 8.4,
+      "end": 8.66
+    },
+    {
+      "word": "down",
+      "start": 8.66,
+      "end": 8.98
+    },
+    {
+      "word": "your",
+      "start": 8.98,
+      "end": 9.82
+    },
+    {
+      "word": "computer.",
+      "start": 9.82,
+      "end": 9.82
+    },
+    {
+      "word": "Traditional",
+      "start": 10.5,
+      "end": 10.5
+    },
+    {
+      "word": "bookmarks",
+      "start": 10.5,
+      "end": 11.06
+    },
+    {
+      "word": "become",
+      "start": 11.06,
+      "end": 11.38
+    },
+    {
+      "word": "an",
+      "start": 11.38,
+      "end": 11.68
+    },
+    {
+      "word": "unsearchable",
+      "start": 11.68,
+      "end": 12.26
+    },
+    {
+      "word": "graveyard",
+      "start": 12.26,
+      "end": 12.68
+    },
+    {
+      "word": "where",
+      "start": 12.68,
+      "end": 13.22
+    },
+    {
+      "word": "saved",
+      "start": 13.22,
+      "end": 13.58
+    },
+    {
+      "word": "links",
+      "start": 13.58,
+      "end": 13.84
+    },
+    {
+      "word": "are",
+      "start": 13.84,
+      "end": 14.16
+    },
+    {
+      "word": "easily",
+      "start": 14.16,
+      "end": 14.46
+    },
+    {
+      "word": "forgotten.",
+      "start": 14.46,
+      "end": 14.98
+    },
+    {
+      "word": "Add",
+      "start": 15.6,
+      "end": 15.86
+    },
+    {
+      "word": "one",
+      "start": 15.86,
+      "end": 16.16
+    },
+    {
+      "word": "tab",
+      "start": 16.16,
+      "end": 16.34
+    },
+    {
+      "word": "to",
+      "start": 16.34,
+      "end": 16.54
+    },
+    {
+      "word": "collapse",
+      "start": 16.54,
+      "end": 16.82
+    },
+    {
+      "word": "dozens",
+      "start": 16.82,
+      "end": 17.16
+    },
+    {
+      "word": "of",
+      "start": 17.16,
+      "end": 17.48
+    },
+    {
+      "word": "open",
+      "start": 17.48,
+      "end": 17.7
+    },
+    {
+      "word": "tabs",
+      "start": 17.7,
+      "end": 18.06
+    },
+    {
+      "word": "into",
+      "start": 18.06,
+      "end": 18.34
+    },
+    {
+      "word": "a",
+      "start": 18.34,
+      "end": 18.58
+    },
+    {
+      "word": "clean",
+      "start": 18.58,
+      "end": 19.04
+    },
+    {
+      "word": "searchable",
+      "start": 19.04,
+      "end": 19.56
+    },
+    {
+      "word": "list",
+      "start": 19.56,
+      "end": 19.82
+    },
+    {
+      "word": "in",
+      "start": 19.82,
+      "end": 20.04
+    },
+    {
+      "word": "one",
+      "start": 20.04,
+      "end": 20.3
+    },
+    {
+      "word": "second.",
+      "start": 20.3,
+      "end": 20.6
+    },
+    {
+      "word": "You",
+      "start": 21.08,
+      "end": 21.3
+    },
+    {
+      "word": "speed",
+      "start": 21.3,
+      "end": 21.46
+    },
+    {
+      "word": "up",
+      "start": 21.46,
+      "end": 21.64
+    },
+    {
+      "word": "your",
+      "start": 21.64,
+      "end": 21.82
+    },
+    {
+      "word": "machine",
+      "start": 21.82,
+      "end": 22.18
+    },
+    {
+      "word": "effortlessly.",
+      "start": 22.18,
+      "end": 22.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The clean tool that saves all your open tabs into one organized collection in 1 click.",
+      "line2": "SAVE TABS ACROSS DEVICES",
+      "tag": "\ud83d\uded1 Beginner guide to bookmark managers that save tabs across all devices",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to bookmark managers that save tabs across all devices",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to bookmark managers that save tabs across all devices",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-02",
+  "idea": "AI design feedback translator that turns vague feedback into clear edits",
+  "text": "This AI tool translates confusing client feedback into actionable design steps. Decoding rambling client voice notes and contradictory Slack messages wastes hours of billable creative time. Scope creep explodes when ambiguous revision requests lack defined acceptance criteria before you touch the file. Feeding raw client remarks into ChatGPT-4o creates an itemized revision checklist mapped directly to Figma design components. You finish client edits on the first try.",
+  "duration": 30.778,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "AI",
+      "start": 0.26,
+      "end": 0.74
+    },
+    {
+      "word": "tool",
+      "start": 0.74,
+      "end": 1.08
+    },
+    {
+      "word": "translates",
+      "start": 1.08,
+      "end": 1.7
+    },
+    {
+      "word": "confusing",
+      "start": 1.7,
+      "end": 2.3
+    },
+    {
+      "word": "client",
+      "start": 2.3,
+      "end": 2.72
+    },
+    {
+      "word": "feedback",
+      "start": 2.72,
+      "end": 3.16
+    },
+    {
+      "word": "into",
+      "start": 3.16,
+      "end": 3.48
+    },
+    {
+      "word": "actionable",
+      "start": 3.48,
+      "end": 4.02
+    },
+    {
+      "word": "design",
+      "start": 4.02,
+      "end": 4.38
+    },
+    {
+      "word": "steps,",
+      "start": 4.38,
+      "end": 4.9
+    },
+    {
+      "word": "decoding",
+      "start": 5.48,
+      "end": 5.78
+    },
+    {
+      "word": "rambling",
+      "start": 5.78,
+      "end": 6.34
+    },
+    {
+      "word": "client",
+      "start": 6.34,
+      "end": 6.78
+    },
+    {
+      "word": "voice",
+      "start": 6.78,
+      "end": 7.14
+    },
+    {
+      "word": "notes",
+      "start": 7.14,
+      "end": 7.48
+    },
+    {
+      "word": "and",
+      "start": 7.48,
+      "end": 8.06
+    },
+    {
+      "word": "contradictory",
+      "start": 8.06,
+      "end": 8.48
+    },
+    {
+      "word": "slack",
+      "start": 8.48,
+      "end": 8.94
+    },
+    {
+      "word": "messages",
+      "start": 8.94,
+      "end": 9.48
+    },
+    {
+      "word": "waste",
+      "start": 9.48,
+      "end": 10.22
+    },
+    {
+      "word": "hours",
+      "start": 10.22,
+      "end": 10.66
+    },
+    {
+      "word": "of",
+      "start": 10.66,
+      "end": 10.94
+    },
+    {
+      "word": "billable",
+      "start": 10.94,
+      "end": 11.3
+    },
+    {
+      "word": "creative",
+      "start": 11.3,
+      "end": 11.74
+    },
+    {
+      "word": "time.",
+      "start": 11.74,
+      "end": 12.42
+    },
+    {
+      "word": "Scope",
+      "start": 12.78,
+      "end": 12.78
+    },
+    {
+      "word": "creep",
+      "start": 12.78,
+      "end": 13.02
+    },
+    {
+      "word": "explodes",
+      "start": 13.02,
+      "end": 13.56
+    },
+    {
+      "word": "when",
+      "start": 13.56,
+      "end": 14.04
+    },
+    {
+      "word": "ambiguous",
+      "start": 14.04,
+      "end": 14.44
+    },
+    {
+      "word": "revision",
+      "start": 14.44,
+      "end": 14.92
+    },
+    {
+      "word": "requests",
+      "start": 14.92,
+      "end": 15.48
+    },
+    {
+      "word": "lacked",
+      "start": 15.48,
+      "end": 15.86
+    },
+    {
+      "word": "defined",
+      "start": 15.86,
+      "end": 16.34
+    },
+    {
+      "word": "acceptance",
+      "start": 16.34,
+      "end": 16.94
+    },
+    {
+      "word": "criteria",
+      "start": 16.94,
+      "end": 17.56
+    },
+    {
+      "word": "before",
+      "start": 17.56,
+      "end": 18.18
+    },
+    {
+      "word": "you",
+      "start": 18.18,
+      "end": 18.38
+    },
+    {
+      "word": "touch",
+      "start": 18.38,
+      "end": 18.6
+    },
+    {
+      "word": "the",
+      "start": 18.6,
+      "end": 18.88
+    },
+    {
+      "word": "file.",
+      "start": 18.88,
+      "end": 19.2
+    },
+    {
+      "word": "Feeding",
+      "start": 19.92,
+      "end": 20.08
+    },
+    {
+      "word": "raw",
+      "start": 20.08,
+      "end": 20.36
+    },
+    {
+      "word": "client",
+      "start": 20.36,
+      "end": 20.7
+    },
+    {
+      "word": "remarks",
+      "start": 20.7,
+      "end": 21.1
+    },
+    {
+      "word": "into",
+      "start": 21.1,
+      "end": 21.38
+    },
+    {
+      "word": "chat",
+      "start": 21.38,
+      "end": 21.74
+    },
+    {
+      "word": "GPT",
+      "start": 21.74,
+      "end": 22.4
+    },
+    {
+      "word": "-4,",
+      "start": 22.4,
+      "end": 22.92
+    },
+    {
+      "word": "oh,",
+      "start": 22.98,
+      "end": 23.44
+    },
+    {
+      "word": "creates",
+      "start": 23.58,
+      "end": 23.8
+    },
+    {
+      "word": "an",
+      "start": 23.8,
+      "end": 24.16
+    },
+    {
+      "word": "itemized",
+      "start": 24.16,
+      "end": 24.6
+    },
+    {
+      "word": "revision",
+      "start": 24.6,
+      "end": 24.96
+    },
+    {
+      "word": "checklist",
+      "start": 24.96,
+      "end": 25.58
+    },
+    {
+      "word": "mapped",
+      "start": 25.58,
+      "end": 26.12
+    },
+    {
+      "word": "directly",
+      "start": 26.12,
+      "end": 26.54
+    },
+    {
+      "word": "to",
+      "start": 26.54,
+      "end": 26.82
+    },
+    {
+      "word": "Figma",
+      "start": 26.82,
+      "end": 27.12
+    },
+    {
+      "word": "design",
+      "start": 27.12,
+      "end": 27.52
+    },
+    {
+      "word": "components.",
+      "start": 27.52,
+      "end": 28.1
+    },
+    {
+      "word": "You",
+      "start": 28.1,
+      "end": 28.82
+    },
+    {
+      "word": "finish",
+      "start": 28.82,
+      "end": 29.12
+    },
+    {
+      "word": "client",
+      "start": 29.12,
+      "end": 29.44
+    },
+    {
+      "word": "edits",
+      "start": 29.44,
+      "end": 29.76
+    },
+    {
+      "word": "on",
+      "start": 29.76,
+      "end": 29.98
+    },
+    {
+      "word": "the",
+      "start": 29.98,
+      "end": 30.14
+    },
+    {
+      "word": "first",
+      "start": 30.14,
+      "end": 30.38
+    },
+    {
+      "word": "try.",
+      "start": 30.38,
+      "end": 30.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This AI tool translates confusing client feedback into actionable design steps.",
+      "line2": "CLARIFY VAGUE FEEDBACK",
+      "tag": "\ud83d\uded1 AI design feedback translator that turns vague feedback into clear edits",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI design feedback translator that turns vague feedback into clear edits",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI design feedback translator that turns vague feedback into clear edits",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

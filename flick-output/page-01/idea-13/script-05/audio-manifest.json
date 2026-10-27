@@ -1,0 +1,391 @@
+{
+  "page": "page-01",
+  "idea": "Client revision tracker that enforces scope boundaries automatically",
+  "text": "Here is the professional way to stop client scope creep dead in its tracks. When clients request extra revisions, agency owners feel pressured to say yes to avoid conflict. Manual boundaries fail because there is no neutral system enforcing your master services agreement. Use an Airtable client dashboard that displays remaining revision credits before accepting additional design tickets. You eliminate unpaid work while preserving client trust.",
+  "duration": 25.216,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.4
+    },
+    {
+      "word": "the",
+      "start": 0.4,
+      "end": 0.56
+    },
+    {
+      "word": "professional",
+      "start": 0.56,
+      "end": 0.88
+    },
+    {
+      "word": "way",
+      "start": 0.88,
+      "end": 1.2
+    },
+    {
+      "word": "to",
+      "start": 1.2,
+      "end": 1.42
+    },
+    {
+      "word": "stop",
+      "start": 1.42,
+      "end": 1.74
+    },
+    {
+      "word": "client",
+      "start": 1.74,
+      "end": 2.06
+    },
+    {
+      "word": "scope",
+      "start": 2.06,
+      "end": 2.4
+    },
+    {
+      "word": "creep",
+      "start": 2.4,
+      "end": 2.7
+    },
+    {
+      "word": "dead",
+      "start": 2.7,
+      "end": 2.9
+    },
+    {
+      "word": "in",
+      "start": 2.9,
+      "end": 3.02
+    },
+    {
+      "word": "its",
+      "start": 3.02,
+      "end": 3.18
+    },
+    {
+      "word": "tracks.",
+      "start": 3.18,
+      "end": 3.6
+    },
+    {
+      "word": "When",
+      "start": 4.06,
+      "end": 4.22
+    },
+    {
+      "word": "clients",
+      "start": 4.22,
+      "end": 4.5
+    },
+    {
+      "word": "request",
+      "start": 4.5,
+      "end": 4.96
+    },
+    {
+      "word": "extra",
+      "start": 4.96,
+      "end": 5.34
+    },
+    {
+      "word": "revisions,",
+      "start": 5.34,
+      "end": 5.84
+    },
+    {
+      "word": "agency",
+      "start": 6.52,
+      "end": 6.68
+    },
+    {
+      "word": "owners",
+      "start": 6.68,
+      "end": 7.06
+    },
+    {
+      "word": "feel",
+      "start": 7.06,
+      "end": 7.36
+    },
+    {
+      "word": "pressured",
+      "start": 7.36,
+      "end": 7.64
+    },
+    {
+      "word": "to",
+      "start": 7.64,
+      "end": 7.94
+    },
+    {
+      "word": "say",
+      "start": 7.94,
+      "end": 8.18
+    },
+    {
+      "word": "yes",
+      "start": 8.18,
+      "end": 8.44
+    },
+    {
+      "word": "to",
+      "start": 8.44,
+      "end": 8.62
+    },
+    {
+      "word": "avoid",
+      "start": 8.62,
+      "end": 8.94
+    },
+    {
+      "word": "conflict.",
+      "start": 8.94,
+      "end": 9.6
+    },
+    {
+      "word": "Manual",
+      "start": 10.44,
+      "end": 10.46
+    },
+    {
+      "word": "boundaries",
+      "start": 10.46,
+      "end": 10.84
+    },
+    {
+      "word": "fail",
+      "start": 10.84,
+      "end": 11.22
+    },
+    {
+      "word": "because",
+      "start": 11.22,
+      "end": 11.52
+    },
+    {
+      "word": "there",
+      "start": 11.52,
+      "end": 11.7
+    },
+    {
+      "word": "is",
+      "start": 11.7,
+      "end": 11.84
+    },
+    {
+      "word": "no",
+      "start": 11.84,
+      "end": 12.12
+    },
+    {
+      "word": "neutral",
+      "start": 12.12,
+      "end": 12.4
+    },
+    {
+      "word": "system",
+      "start": 12.4,
+      "end": 12.98
+    },
+    {
+      "word": "enforcing",
+      "start": 12.98,
+      "end": 13.46
+    },
+    {
+      "word": "your",
+      "start": 13.46,
+      "end": 13.8
+    },
+    {
+      "word": "master",
+      "start": 13.8,
+      "end": 14.02
+    },
+    {
+      "word": "services",
+      "start": 14.02,
+      "end": 14.56
+    },
+    {
+      "word": "agreement.",
+      "start": 14.56,
+      "end": 15.1
+    },
+    {
+      "word": "Use",
+      "start": 15.7,
+      "end": 15.74
+    },
+    {
+      "word": "an",
+      "start": 15.74,
+      "end": 15.94
+    },
+    {
+      "word": "irritable",
+      "start": 15.94,
+      "end": 16.3
+    },
+    {
+      "word": "client",
+      "start": 16.3,
+      "end": 16.68
+    },
+    {
+      "word": "dashboard",
+      "start": 16.68,
+      "end": 17.12
+    },
+    {
+      "word": "that",
+      "start": 17.12,
+      "end": 17.62
+    },
+    {
+      "word": "displays",
+      "start": 17.62,
+      "end": 17.92
+    },
+    {
+      "word": "remaining",
+      "start": 17.92,
+      "end": 18.48
+    },
+    {
+      "word": "revision",
+      "start": 18.48,
+      "end": 18.86
+    },
+    {
+      "word": "credits",
+      "start": 18.86,
+      "end": 19.32
+    },
+    {
+      "word": "before",
+      "start": 19.32,
+      "end": 19.82
+    },
+    {
+      "word": "accepting",
+      "start": 19.82,
+      "end": 20.34
+    },
+    {
+      "word": "additional",
+      "start": 20.34,
+      "end": 20.82
+    },
+    {
+      "word": "design",
+      "start": 20.82,
+      "end": 21.22
+    },
+    {
+      "word": "tickets.",
+      "start": 21.22,
+      "end": 21.64
+    },
+    {
+      "word": "You",
+      "start": 22.28,
+      "end": 22.42
+    },
+    {
+      "word": "eliminate",
+      "start": 22.42,
+      "end": 22.82
+    },
+    {
+      "word": "unpaid",
+      "start": 22.82,
+      "end": 23.34
+    },
+    {
+      "word": "work",
+      "start": 23.34,
+      "end": 23.74
+    },
+    {
+      "word": "while",
+      "start": 23.74,
+      "end": 24.0
+    },
+    {
+      "word": "preserving",
+      "start": 24.0,
+      "end": 24.34
+    },
+    {
+      "word": "client",
+      "start": 24.34,
+      "end": 24.82
+    },
+    {
+      "word": "trust.",
+      "start": 24.82,
+      "end": 25.18
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The polite, professional way to stop scope creep in its tracks.",
+      "line2": "ENFORCE SCOPE BOUNDARIES",
+      "tag": "\ud83d\uded1 Client revision tracker that enforces scope boundaries automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Client revision tracker that enforces scope boundaries automatically",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Client revision tracker that enforces scope boundaries automatically",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

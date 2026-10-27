@@ -1,0 +1,406 @@
+{
+  "page": "page-03",
+  "idea": "Automated weekly backup system for store assets and customer records",
+  "text": "Here is how smart entrepreneurs de-risk their side hustle business against sudden platform bans. Operating without an independent customer database leaves your hard-earned revenue exposed to third-party volatility. If a marketplace closes your storefront, reconnecting with past buyers to restart sales becomes impossible. Build an automated workflow syncing Stripe customer data and digital download files directly into Notion. You will maintain total control over your business assets.",
+  "duration": 29.839,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "is",
+      "start": 0.3,
+      "end": 0.46
+    },
+    {
+      "word": "how",
+      "start": 0.46,
+      "end": 0.74
+    },
+    {
+      "word": "smart",
+      "start": 0.74,
+      "end": 1.16
+    },
+    {
+      "word": "entrepreneurs",
+      "start": 1.16,
+      "end": 1.64
+    },
+    {
+      "word": "derisk",
+      "start": 1.64,
+      "end": 2.24
+    },
+    {
+      "word": "their",
+      "start": 2.24,
+      "end": 2.54
+    },
+    {
+      "word": "side",
+      "start": 2.54,
+      "end": 2.9
+    },
+    {
+      "word": "hustle",
+      "start": 2.9,
+      "end": 3.24
+    },
+    {
+      "word": "business",
+      "start": 3.24,
+      "end": 3.64
+    },
+    {
+      "word": "against",
+      "start": 3.64,
+      "end": 4.42
+    },
+    {
+      "word": "sudden",
+      "start": 4.42,
+      "end": 4.76
+    },
+    {
+      "word": "platform",
+      "start": 4.76,
+      "end": 5.26
+    },
+    {
+      "word": "bands.",
+      "start": 5.26,
+      "end": 5.84
+    },
+    {
+      "word": "Operating",
+      "start": 6.38,
+      "end": 6.72
+    },
+    {
+      "word": "without",
+      "start": 6.72,
+      "end": 7.1
+    },
+    {
+      "word": "an",
+      "start": 7.1,
+      "end": 7.38
+    },
+    {
+      "word": "independent",
+      "start": 7.38,
+      "end": 7.86
+    },
+    {
+      "word": "customer",
+      "start": 7.86,
+      "end": 8.32
+    },
+    {
+      "word": "database",
+      "start": 8.32,
+      "end": 8.96
+    },
+    {
+      "word": "leaves",
+      "start": 8.96,
+      "end": 9.6
+    },
+    {
+      "word": "your",
+      "start": 9.6,
+      "end": 9.9
+    },
+    {
+      "word": "hard",
+      "start": 9.9,
+      "end": 10.16
+    },
+    {
+      "word": "-earned",
+      "start": 10.16,
+      "end": 10.4
+    },
+    {
+      "word": "revenue",
+      "start": 10.4,
+      "end": 10.82
+    },
+    {
+      "word": "exposed",
+      "start": 10.82,
+      "end": 11.48
+    },
+    {
+      "word": "to",
+      "start": 11.48,
+      "end": 11.7
+    },
+    {
+      "word": "third",
+      "start": 11.7,
+      "end": 12.04
+    },
+    {
+      "word": "-party",
+      "start": 12.04,
+      "end": 12.34
+    },
+    {
+      "word": "volatility.",
+      "start": 12.34,
+      "end": 12.92
+    },
+    {
+      "word": "If",
+      "start": 13.32,
+      "end": 13.48
+    },
+    {
+      "word": "a",
+      "start": 13.48,
+      "end": 13.82
+    },
+    {
+      "word": "marketplace",
+      "start": 13.82,
+      "end": 13.96
+    },
+    {
+      "word": "closes",
+      "start": 13.96,
+      "end": 14.5
+    },
+    {
+      "word": "your",
+      "start": 14.5,
+      "end": 14.8
+    },
+    {
+      "word": "storefront,",
+      "start": 14.8,
+      "end": 15.24
+    },
+    {
+      "word": "reconnecting",
+      "start": 15.76,
+      "end": 16.22
+    },
+    {
+      "word": "with",
+      "start": 16.22,
+      "end": 16.46
+    },
+    {
+      "word": "past",
+      "start": 16.46,
+      "end": 16.84
+    },
+    {
+      "word": "buyers",
+      "start": 16.84,
+      "end": 17.24
+    },
+    {
+      "word": "to",
+      "start": 17.24,
+      "end": 17.5
+    },
+    {
+      "word": "restart",
+      "start": 17.5,
+      "end": 17.82
+    },
+    {
+      "word": "sales",
+      "start": 17.82,
+      "end": 18.4
+    },
+    {
+      "word": "becomes",
+      "start": 18.4,
+      "end": 18.8
+    },
+    {
+      "word": "impossible.",
+      "start": 18.8,
+      "end": 19.56
+    },
+    {
+      "word": "Build",
+      "start": 20.16,
+      "end": 20.38
+    },
+    {
+      "word": "an",
+      "start": 20.38,
+      "end": 20.64
+    },
+    {
+      "word": "automated",
+      "start": 20.64,
+      "end": 21.06
+    },
+    {
+      "word": "workflow",
+      "start": 21.06,
+      "end": 21.56
+    },
+    {
+      "word": "sinking",
+      "start": 21.56,
+      "end": 21.98
+    },
+    {
+      "word": "stripe",
+      "start": 21.98,
+      "end": 22.46
+    },
+    {
+      "word": "customer",
+      "start": 22.46,
+      "end": 22.84
+    },
+    {
+      "word": "data",
+      "start": 22.84,
+      "end": 23.22
+    },
+    {
+      "word": "and",
+      "start": 23.22,
+      "end": 23.74
+    },
+    {
+      "word": "digital",
+      "start": 23.74,
+      "end": 24.06
+    },
+    {
+      "word": "download",
+      "start": 24.06,
+      "end": 24.6
+    },
+    {
+      "word": "files",
+      "start": 24.6,
+      "end": 25.08
+    },
+    {
+      "word": "directly",
+      "start": 25.08,
+      "end": 25.58
+    },
+    {
+      "word": "into",
+      "start": 25.58,
+      "end": 25.82
+    },
+    {
+      "word": "Notion.",
+      "start": 25.82,
+      "end": 26.44
+    },
+    {
+      "word": "You",
+      "start": 26.44,
+      "end": 26.96
+    },
+    {
+      "word": "will",
+      "start": 26.96,
+      "end": 27.1
+    },
+    {
+      "word": "maintain",
+      "start": 27.1,
+      "end": 27.56
+    },
+    {
+      "word": "total",
+      "start": 27.56,
+      "end": 27.92
+    },
+    {
+      "word": "control",
+      "start": 27.92,
+      "end": 28.46
+    },
+    {
+      "word": "over",
+      "start": 28.46,
+      "end": 28.74
+    },
+    {
+      "word": "your",
+      "start": 28.74,
+      "end": 29.14
+    },
+    {
+      "word": "business",
+      "start": 29.14,
+      "end": 29.28
+    },
+    {
+      "word": "assets.",
+      "start": 29.28,
+      "end": 29.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How smart entrepreneurs de-risk their side hustle business.",
+      "line2": "AUTO-BACKUP STORE DATA",
+      "tag": "\ud83d\uded1 Automated weekly backup system for store assets and customer records",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated weekly backup system for store assets and customer records",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated weekly backup system for store assets and customer records",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated weekly backup system for store assets and customer records",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

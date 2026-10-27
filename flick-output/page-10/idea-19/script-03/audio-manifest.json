@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "Superhuman AI update for automated email triage and instant drafts",
+  "text": "This new email triage system surfaces urgent client messages before you open your inbox. High-value deals slip through the cracks when critical inquiries get buried beneath newsletters and automated receipts. Manual folder rules and colored labels require constant upkeep and fail during busy product launches. Superhuman uses real-time sentiment analysis and sender ranking to highlight urgent action items at the top. This prevents lost revenue and eliminates client churn.",
+  "duration": 29.349,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "new",
+      "start": 0.22,
+      "end": 0.5
+    },
+    {
+      "word": "email",
+      "start": 0.5,
+      "end": 0.82
+    },
+    {
+      "word": "triage",
+      "start": 0.82,
+      "end": 1.26
+    },
+    {
+      "word": "system",
+      "start": 1.26,
+      "end": 1.7
+    },
+    {
+      "word": "surfaces",
+      "start": 1.7,
+      "end": 2.22
+    },
+    {
+      "word": "urgent",
+      "start": 2.22,
+      "end": 2.78
+    },
+    {
+      "word": "client",
+      "start": 2.78,
+      "end": 3.16
+    },
+    {
+      "word": "messages",
+      "start": 3.16,
+      "end": 3.66
+    },
+    {
+      "word": "before",
+      "start": 3.66,
+      "end": 4.24
+    },
+    {
+      "word": "you",
+      "start": 4.24,
+      "end": 4.48
+    },
+    {
+      "word": "open",
+      "start": 4.48,
+      "end": 4.72
+    },
+    {
+      "word": "your",
+      "start": 4.72,
+      "end": 5.02
+    },
+    {
+      "word": "inbox.",
+      "start": 5.02,
+      "end": 5.56
+    },
+    {
+      "word": "High",
+      "start": 6.32,
+      "end": 6.42
+    },
+    {
+      "word": "value",
+      "start": 6.42,
+      "end": 6.68
+    },
+    {
+      "word": "deals",
+      "start": 6.68,
+      "end": 7.02
+    },
+    {
+      "word": "slip",
+      "start": 7.02,
+      "end": 7.28
+    },
+    {
+      "word": "through",
+      "start": 7.28,
+      "end": 7.5
+    },
+    {
+      "word": "the",
+      "start": 7.5,
+      "end": 7.64
+    },
+    {
+      "word": "cracks",
+      "start": 7.64,
+      "end": 7.94
+    },
+    {
+      "word": "when",
+      "start": 7.94,
+      "end": 8.4
+    },
+    {
+      "word": "critical",
+      "start": 8.4,
+      "end": 8.78
+    },
+    {
+      "word": "inquiries",
+      "start": 8.78,
+      "end": 9.2
+    },
+    {
+      "word": "get",
+      "start": 9.2,
+      "end": 9.6
+    },
+    {
+      "word": "buried",
+      "start": 9.6,
+      "end": 9.98
+    },
+    {
+      "word": "beneath",
+      "start": 9.98,
+      "end": 10.36
+    },
+    {
+      "word": "newsletters",
+      "start": 10.36,
+      "end": 10.84
+    },
+    {
+      "word": "and",
+      "start": 10.84,
+      "end": 11.4
+    },
+    {
+      "word": "automated",
+      "start": 11.4,
+      "end": 11.7
+    },
+    {
+      "word": "receipts.",
+      "start": 11.7,
+      "end": 12.3
+    },
+    {
+      "word": "Manual",
+      "start": 13.06,
+      "end": 13.06
+    },
+    {
+      "word": "folder",
+      "start": 13.06,
+      "end": 13.42
+    },
+    {
+      "word": "rules",
+      "start": 13.42,
+      "end": 13.82
+    },
+    {
+      "word": "and",
+      "start": 13.82,
+      "end": 14.1
+    },
+    {
+      "word": "colored",
+      "start": 14.1,
+      "end": 14.38
+    },
+    {
+      "word": "labels",
+      "start": 14.38,
+      "end": 14.86
+    },
+    {
+      "word": "require",
+      "start": 14.86,
+      "end": 15.42
+    },
+    {
+      "word": "constant",
+      "start": 15.42,
+      "end": 15.98
+    },
+    {
+      "word": "upkeep",
+      "start": 15.98,
+      "end": 16.38
+    },
+    {
+      "word": "and",
+      "start": 16.38,
+      "end": 16.82
+    },
+    {
+      "word": "fail",
+      "start": 16.82,
+      "end": 17.06
+    },
+    {
+      "word": "during",
+      "start": 17.06,
+      "end": 17.44
+    },
+    {
+      "word": "busy",
+      "start": 17.44,
+      "end": 17.72
+    },
+    {
+      "word": "product",
+      "start": 17.72,
+      "end": 18.06
+    },
+    {
+      "word": "launches.",
+      "start": 18.06,
+      "end": 18.56
+    },
+    {
+      "word": "Superhuman",
+      "start": 19.4,
+      "end": 19.78
+    },
+    {
+      "word": "uses",
+      "start": 19.78,
+      "end": 20.14
+    },
+    {
+      "word": "real",
+      "start": 20.14,
+      "end": 20.52
+    },
+    {
+      "word": "-time",
+      "start": 20.52,
+      "end": 20.88
+    },
+    {
+      "word": "sentiment",
+      "start": 20.88,
+      "end": 21.3
+    },
+    {
+      "word": "analysis",
+      "start": 21.3,
+      "end": 21.76
+    },
+    {
+      "word": "and",
+      "start": 21.76,
+      "end": 22.44
+    },
+    {
+      "word": "sender",
+      "start": 22.44,
+      "end": 22.58
+    },
+    {
+      "word": "ranking",
+      "start": 22.58,
+      "end": 22.9
+    },
+    {
+      "word": "to",
+      "start": 22.9,
+      "end": 23.42
+    },
+    {
+      "word": "highlight",
+      "start": 23.42,
+      "end": 23.88
+    },
+    {
+      "word": "urgent",
+      "start": 23.88,
+      "end": 24.24
+    },
+    {
+      "word": "action",
+      "start": 24.24,
+      "end": 24.64
+    },
+    {
+      "word": "items",
+      "start": 24.64,
+      "end": 24.92
+    },
+    {
+      "word": "at",
+      "start": 24.92,
+      "end": 25.14
+    },
+    {
+      "word": "the",
+      "start": 25.14,
+      "end": 25.32
+    },
+    {
+      "word": "top.",
+      "start": 25.32,
+      "end": 25.68
+    },
+    {
+      "word": "This",
+      "start": 25.68,
+      "end": 26.38
+    },
+    {
+      "word": "prevents",
+      "start": 26.38,
+      "end": 26.68
+    },
+    {
+      "word": "lost",
+      "start": 26.68,
+      "end": 27.18
+    },
+    {
+      "word": "revenue",
+      "start": 27.18,
+      "end": 27.58
+    },
+    {
+      "word": "and",
+      "start": 27.58,
+      "end": 28.12
+    },
+    {
+      "word": "eliminates",
+      "start": 28.12,
+      "end": 28.52
+    },
+    {
+      "word": "client",
+      "start": 28.52,
+      "end": 28.94
+    },
+    {
+      "word": "churn.",
+      "start": 28.94,
+      "end": 29.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new email triage system that surfaces urgent client messages before you look.",
+      "line2": "SUPERHUMAN AI EMAIL TRIAGE",
+      "tag": "\ud83d\uded1 Superhuman AI update for automated email triage and instant drafts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Superhuman AI update for automated email triage and instant drafts",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Superhuman AI update for automated email triage and instant drafts",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "page": "page-09",
+  "idea": "ClickUp vs Monday.com: which all-in-one project tool is less chaotic",
+  "text": "ClickUp versus Monday: which platform keeps projects on time without crippling software bloat? Heavy workspace apps slow down browser tabs and bury critical delivery deadlines under nested subtasks. ClickUp offers unmatched custom views at lower cost, while Monday delivers snappier performance with simpler automations. Standardize on Monday for marketing agencies needing speed, or deploy ClickUp for product teams managing complex dependencies. Keeping your tool stack lightweight saves hours every week.",
+  "duration": 30.223,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Click",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "Up",
+      "start": 0.22,
+      "end": 0.44
+    },
+    {
+      "word": "vs.",
+      "start": 0.44,
+      "end": 0.76
+    },
+    {
+      "word": "Monday,",
+      "start": 0.9,
+      "end": 1.22
+    },
+    {
+      "word": "which",
+      "start": 1.68,
+      "end": 1.9
+    },
+    {
+      "word": "platform",
+      "start": 1.9,
+      "end": 2.28
+    },
+    {
+      "word": "keeps",
+      "start": 2.28,
+      "end": 2.74
+    },
+    {
+      "word": "projects",
+      "start": 2.74,
+      "end": 3.18
+    },
+    {
+      "word": "on",
+      "start": 3.18,
+      "end": 3.46
+    },
+    {
+      "word": "time",
+      "start": 3.46,
+      "end": 3.76
+    },
+    {
+      "word": "without",
+      "start": 3.76,
+      "end": 4.14
+    },
+    {
+      "word": "crippling",
+      "start": 4.14,
+      "end": 4.52
+    },
+    {
+      "word": "software",
+      "start": 4.52,
+      "end": 4.96
+    },
+    {
+      "word": "bloat.",
+      "start": 4.96,
+      "end": 5.64
+    },
+    {
+      "word": "Heavy",
+      "start": 6.06,
+      "end": 6.1
+    },
+    {
+      "word": "workspace",
+      "start": 6.1,
+      "end": 6.48
+    },
+    {
+      "word": "apps",
+      "start": 6.48,
+      "end": 6.98
+    },
+    {
+      "word": "slow",
+      "start": 6.98,
+      "end": 7.24
+    },
+    {
+      "word": "down",
+      "start": 7.24,
+      "end": 7.56
+    },
+    {
+      "word": "browser",
+      "start": 7.56,
+      "end": 7.9
+    },
+    {
+      "word": "tabs",
+      "start": 7.9,
+      "end": 8.38
+    },
+    {
+      "word": "and",
+      "start": 8.38,
+      "end": 8.76
+    },
+    {
+      "word": "bury",
+      "start": 8.76,
+      "end": 9.04
+    },
+    {
+      "word": "critical",
+      "start": 9.04,
+      "end": 9.44
+    },
+    {
+      "word": "delivery",
+      "start": 9.44,
+      "end": 9.84
+    },
+    {
+      "word": "deadlines",
+      "start": 9.84,
+      "end": 10.3
+    },
+    {
+      "word": "under",
+      "start": 10.3,
+      "end": 10.6
+    },
+    {
+      "word": "nested",
+      "start": 10.6,
+      "end": 10.92
+    },
+    {
+      "word": "sub",
+      "start": 10.92,
+      "end": 11.28
+    },
+    {
+      "word": "-tasks.",
+      "start": 11.28,
+      "end": 11.6
+    },
+    {
+      "word": "Click",
+      "start": 12.1,
+      "end": 12.2
+    },
+    {
+      "word": "Up",
+      "start": 12.2,
+      "end": 12.44
+    },
+    {
+      "word": "offers",
+      "start": 12.44,
+      "end": 12.76
+    },
+    {
+      "word": "unmatched",
+      "start": 12.76,
+      "end": 13.3
+    },
+    {
+      "word": "custom",
+      "start": 13.3,
+      "end": 13.74
+    },
+    {
+      "word": "views",
+      "start": 13.74,
+      "end": 14.08
+    },
+    {
+      "word": "at",
+      "start": 14.08,
+      "end": 14.3
+    },
+    {
+      "word": "lower",
+      "start": 14.3,
+      "end": 14.54
+    },
+    {
+      "word": "cost,",
+      "start": 14.54,
+      "end": 15.0
+    },
+    {
+      "word": "while",
+      "start": 15.32,
+      "end": 15.52
+    },
+    {
+      "word": "Monday",
+      "start": 15.52,
+      "end": 15.8
+    },
+    {
+      "word": "delivers",
+      "start": 15.8,
+      "end": 16.24
+    },
+    {
+      "word": "snappier",
+      "start": 16.24,
+      "end": 16.78
+    },
+    {
+      "word": "performance",
+      "start": 16.78,
+      "end": 17.2
+    },
+    {
+      "word": "with",
+      "start": 17.2,
+      "end": 17.6
+    },
+    {
+      "word": "simpler",
+      "start": 17.6,
+      "end": 17.94
+    },
+    {
+      "word": "automations.",
+      "start": 17.94,
+      "end": 18.7
+    },
+    {
+      "word": "Standardize",
+      "start": 19.32,
+      "end": 19.86
+    },
+    {
+      "word": "on",
+      "start": 19.86,
+      "end": 20.06
+    },
+    {
+      "word": "Monday",
+      "start": 20.06,
+      "end": 20.36
+    },
+    {
+      "word": "for",
+      "start": 20.36,
+      "end": 20.66
+    },
+    {
+      "word": "marketing",
+      "start": 20.66,
+      "end": 20.96
+    },
+    {
+      "word": "agencies",
+      "start": 20.96,
+      "end": 21.46
+    },
+    {
+      "word": "needing",
+      "start": 21.46,
+      "end": 21.96
+    },
+    {
+      "word": "speed",
+      "start": 21.96,
+      "end": 22.44
+    },
+    {
+      "word": "or",
+      "start": 22.44,
+      "end": 22.9
+    },
+    {
+      "word": "deploy",
+      "start": 22.9,
+      "end": 23.24
+    },
+    {
+      "word": "Click",
+      "start": 23.24,
+      "end": 23.58
+    },
+    {
+      "word": "Up",
+      "start": 23.58,
+      "end": 23.74
+    },
+    {
+      "word": "for",
+      "start": 23.74,
+      "end": 23.98
+    },
+    {
+      "word": "product",
+      "start": 23.98,
+      "end": 24.28
+    },
+    {
+      "word": "teams",
+      "start": 24.28,
+      "end": 24.72
+    },
+    {
+      "word": "managing",
+      "start": 24.72,
+      "end": 25.18
+    },
+    {
+      "word": "complex",
+      "start": 25.18,
+      "end": 25.7
+    },
+    {
+      "word": "dependencies.",
+      "start": 25.7,
+      "end": 26.42
+    },
+    {
+      "word": "Keeping",
+      "start": 26.42,
+      "end": 27.28
+    },
+    {
+      "word": "your",
+      "start": 27.28,
+      "end": 27.6
+    },
+    {
+      "word": "tools",
+      "start": 27.6,
+      "end": 27.96
+    },
+    {
+      "word": "stack",
+      "start": 27.96,
+      "end": 28.26
+    },
+    {
+      "word": "lightweight",
+      "start": 28.26,
+      "end": 28.6
+    },
+    {
+      "word": "saves",
+      "start": 28.6,
+      "end": 29.2
+    },
+    {
+      "word": "hours",
+      "start": 29.2,
+      "end": 29.58
+    },
+    {
+      "word": "every",
+      "start": 29.58,
+      "end": 29.9
+    },
+    {
+      "word": "week.",
+      "start": 29.9,
+      "end": 30.2
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "ClickUp vs Monday: which platform keeps projects on time without the bloat?",
+      "line2": "CLICKUP VS MONDAY",
+      "tag": "\ud83d\uded1 ClickUp vs Monday.com",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: ClickUp vs Monday.com",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: ClickUp vs Monday.com",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "ClickUp vs Monday.com",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

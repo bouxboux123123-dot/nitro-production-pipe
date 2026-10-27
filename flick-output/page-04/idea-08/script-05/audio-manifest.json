@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Penpot: the free open-source Figma alternative for design teams",
+  "text": "Try this free design canvas that runs right in your web browser. Installing bloated design software clogs your machine resources and freezes during heavy collaborative reviews with clients. Coordinating live feedback through screen shares causes endless miscommunication and rounds of tedious revisions. Instead, share a direct Penpot link where clients and developers can click into interactive prototypes and leave comments. You streamline stakeholder approvals and launch client projects faster.",
+  "duration": 29.754,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Try",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "this",
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "word": "free",
+      "start": 0.56,
+      "end": 0.78
+    },
+    {
+      "word": "design",
+      "start": 0.78,
+      "end": 1.2
+    },
+    {
+      "word": "canvas",
+      "start": 1.2,
+      "end": 1.56
+    },
+    {
+      "word": "that",
+      "start": 1.56,
+      "end": 1.86
+    },
+    {
+      "word": "runs",
+      "start": 1.86,
+      "end": 2.12
+    },
+    {
+      "word": "right",
+      "start": 2.12,
+      "end": 2.44
+    },
+    {
+      "word": "in",
+      "start": 2.44,
+      "end": 2.56
+    },
+    {
+      "word": "your",
+      "start": 2.56,
+      "end": 2.76
+    },
+    {
+      "word": "web",
+      "start": 2.76,
+      "end": 2.94
+    },
+    {
+      "word": "browser.",
+      "start": 2.94,
+      "end": 3.4
+    },
+    {
+      "word": "Installing",
+      "start": 4.14,
+      "end": 4.62
+    },
+    {
+      "word": "bloated",
+      "start": 4.62,
+      "end": 4.96
+    },
+    {
+      "word": "design",
+      "start": 4.96,
+      "end": 5.38
+    },
+    {
+      "word": "software",
+      "start": 5.38,
+      "end": 6.0
+    },
+    {
+      "word": "clogs",
+      "start": 6.0,
+      "end": 6.48
+    },
+    {
+      "word": "your",
+      "start": 6.48,
+      "end": 6.72
+    },
+    {
+      "word": "machine",
+      "start": 6.72,
+      "end": 6.96
+    },
+    {
+      "word": "resources",
+      "start": 6.96,
+      "end": 7.52
+    },
+    {
+      "word": "and",
+      "start": 7.52,
+      "end": 7.86
+    },
+    {
+      "word": "freezes",
+      "start": 7.86,
+      "end": 8.28
+    },
+    {
+      "word": "during",
+      "start": 8.28,
+      "end": 8.76
+    },
+    {
+      "word": "heavy",
+      "start": 8.76,
+      "end": 9.04
+    },
+    {
+      "word": "collaborative",
+      "start": 9.04,
+      "end": 9.64
+    },
+    {
+      "word": "reviews",
+      "start": 9.64,
+      "end": 10.06
+    },
+    {
+      "word": "with",
+      "start": 10.06,
+      "end": 10.36
+    },
+    {
+      "word": "clients.",
+      "start": 10.36,
+      "end": 10.82
+    },
+    {
+      "word": "Coordinating",
+      "start": 11.54,
+      "end": 12.02
+    },
+    {
+      "word": "live",
+      "start": 12.02,
+      "end": 12.44
+    },
+    {
+      "word": "feedback",
+      "start": 12.44,
+      "end": 12.8
+    },
+    {
+      "word": "through",
+      "start": 12.8,
+      "end": 13.16
+    },
+    {
+      "word": "screen",
+      "start": 13.16,
+      "end": 13.5
+    },
+    {
+      "word": "shares",
+      "start": 13.5,
+      "end": 13.88
+    },
+    {
+      "word": "causes",
+      "start": 13.88,
+      "end": 14.62
+    },
+    {
+      "word": "endless",
+      "start": 14.62,
+      "end": 15.0
+    },
+    {
+      "word": "miscommunication",
+      "start": 15.0,
+      "end": 15.84
+    },
+    {
+      "word": "and",
+      "start": 15.84,
+      "end": 16.42
+    },
+    {
+      "word": "rounds",
+      "start": 16.42,
+      "end": 16.74
+    },
+    {
+      "word": "of",
+      "start": 16.74,
+      "end": 17.04
+    },
+    {
+      "word": "tedious",
+      "start": 17.04,
+      "end": 17.34
+    },
+    {
+      "word": "revisions.",
+      "start": 17.34,
+      "end": 17.92
+    },
+    {
+      "word": "Instead,",
+      "start": 18.5,
+      "end": 18.78
+    },
+    {
+      "word": "share",
+      "start": 19.0,
+      "end": 19.22
+    },
+    {
+      "word": "a",
+      "start": 19.22,
+      "end": 19.74
+    },
+    {
+      "word": "direct",
+      "start": 19.74,
+      "end": 19.76
+    },
+    {
+      "word": "pen",
+      "start": 19.76,
+      "end": 20.06
+    },
+    {
+      "word": "pot",
+      "start": 20.06,
+      "end": 20.32
+    },
+    {
+      "word": "link",
+      "start": 20.32,
+      "end": 20.62
+    },
+    {
+      "word": "where",
+      "start": 20.62,
+      "end": 20.88
+    },
+    {
+      "word": "clients",
+      "start": 20.88,
+      "end": 21.2
+    },
+    {
+      "word": "and",
+      "start": 21.2,
+      "end": 21.4
+    },
+    {
+      "word": "developers",
+      "start": 21.4,
+      "end": 21.74
+    },
+    {
+      "word": "can",
+      "start": 21.74,
+      "end": 22.18
+    },
+    {
+      "word": "click",
+      "start": 22.18,
+      "end": 22.36
+    },
+    {
+      "word": "into",
+      "start": 22.36,
+      "end": 22.64
+    },
+    {
+      "word": "interactive",
+      "start": 22.64,
+      "end": 23.16
+    },
+    {
+      "word": "prototypes",
+      "start": 23.16,
+      "end": 23.74
+    },
+    {
+      "word": "and",
+      "start": 23.74,
+      "end": 24.34
+    },
+    {
+      "word": "leave",
+      "start": 24.34,
+      "end": 24.64
+    },
+    {
+      "word": "comments.",
+      "start": 24.64,
+      "end": 25.1
+    },
+    {
+      "word": "You",
+      "start": 25.1,
+      "end": 25.94
+    },
+    {
+      "word": "streamline",
+      "start": 25.94,
+      "end": 26.54
+    },
+    {
+      "word": "stakeholder",
+      "start": 26.54,
+      "end": 27.06
+    },
+    {
+      "word": "approvals",
+      "start": 27.06,
+      "end": 27.56
+    },
+    {
+      "word": "and",
+      "start": 27.56,
+      "end": 28.02
+    },
+    {
+      "word": "launch",
+      "start": 28.02,
+      "end": 28.34
+    },
+    {
+      "word": "client",
+      "start": 28.34,
+      "end": 28.72
+    },
+    {
+      "word": "projects",
+      "start": 28.72,
+      "end": 29.18
+    },
+    {
+      "word": "faster.",
+      "start": 29.18,
+      "end": 29.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Try this free design canvas that runs right in your browser.",
+      "line2": "FREE FIGMA ALTERNATIVE",
+      "tag": "\ud83d\uded1 Penpot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Free DOM Extraction: Penpot",
+      "primitive": "DOMElementSniffer",
+      "props": {
+        "title": "Free DOM Extraction: Penpot",
+        "subtitle": "Penpot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Proxy Rotation & Rate Limits",
+      "primitive": "ProxyRotationGauge",
+      "props": {
+        "title": "Proxy Rotation & Rate Limits",
+        "subtitle": "Penpot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Deduplicated CSV Merge",
+      "primitive": "CSVMergeVisualizer",
+      "props": {
+        "title": "Deduplicated CSV Merge",
+        "subtitle": "Penpot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Headless CLI Execution",
+      "primitive": "HeadlessBrowserTerminal",
+      "props": {
+        "title": "Headless CLI Execution",
+        "subtitle": "Penpot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

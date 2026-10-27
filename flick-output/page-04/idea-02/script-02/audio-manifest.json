@@ -1,0 +1,406 @@
+{
+  "page": "page-04",
+  "idea": "N8N self-hosted: unlimited workflow automations for zero dollars",
+  "text": "You can run thousands of workflow automations every month for zero dollars. Founders often throttle notification bots and customer sequences just to avoid triggering costly tier upgrades. That restriction delays lead responses and breaks critical data syncs between payment gateways and databases. Deploying n8n with Docker gives you complete control over unlimited webhooks, custom logic, and API connectors. Your pipeline processes leads in real time without extra costs.",
+  "duration": 30.074,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "can",
+      "start": 0.12,
+      "end": 0.26
+    },
+    {
+      "word": "run",
+      "start": 0.26,
+      "end": 0.5
+    },
+    {
+      "word": "thousands",
+      "start": 0.5,
+      "end": 0.96
+    },
+    {
+      "word": "of",
+      "start": 0.96,
+      "end": 1.32
+    },
+    {
+      "word": "workflow",
+      "start": 1.32,
+      "end": 1.6
+    },
+    {
+      "word": "automations",
+      "start": 1.6,
+      "end": 2.26
+    },
+    {
+      "word": "every",
+      "start": 2.26,
+      "end": 2.62
+    },
+    {
+      "word": "month",
+      "start": 2.62,
+      "end": 2.92
+    },
+    {
+      "word": "for",
+      "start": 2.92,
+      "end": 3.1
+    },
+    {
+      "word": "zero",
+      "start": 3.1,
+      "end": 3.52
+    },
+    {
+      "word": "dollars.",
+      "start": 3.52,
+      "end": 4.02
+    },
+    {
+      "word": "Founders",
+      "start": 4.94,
+      "end": 4.94
+    },
+    {
+      "word": "often",
+      "start": 4.94,
+      "end": 5.44
+    },
+    {
+      "word": "throttle",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "word": "notification",
+      "start": 5.84,
+      "end": 6.44
+    },
+    {
+      "word": "bots",
+      "start": 6.44,
+      "end": 6.96
+    },
+    {
+      "word": "and",
+      "start": 6.96,
+      "end": 7.44
+    },
+    {
+      "word": "customer",
+      "start": 7.44,
+      "end": 7.66
+    },
+    {
+      "word": "sequences",
+      "start": 7.66,
+      "end": 8.38
+    },
+    {
+      "word": "just",
+      "start": 8.38,
+      "end": 9.0
+    },
+    {
+      "word": "to",
+      "start": 9.0,
+      "end": 9.2
+    },
+    {
+      "word": "avoid",
+      "start": 9.2,
+      "end": 9.6
+    },
+    {
+      "word": "triggering",
+      "start": 9.6,
+      "end": 10.1
+    },
+    {
+      "word": "costly",
+      "start": 10.1,
+      "end": 10.56
+    },
+    {
+      "word": "tier",
+      "start": 10.56,
+      "end": 10.9
+    },
+    {
+      "word": "upgrades.",
+      "start": 10.9,
+      "end": 11.36
+    },
+    {
+      "word": "That",
+      "start": 12.1,
+      "end": 12.22
+    },
+    {
+      "word": "restriction",
+      "start": 12.22,
+      "end": 12.7
+    },
+    {
+      "word": "delays",
+      "start": 12.7,
+      "end": 13.12
+    },
+    {
+      "word": "lead",
+      "start": 13.12,
+      "end": 13.4
+    },
+    {
+      "word": "responses",
+      "start": 13.4,
+      "end": 14.02
+    },
+    {
+      "word": "and",
+      "start": 14.02,
+      "end": 14.54
+    },
+    {
+      "word": "breaks",
+      "start": 14.54,
+      "end": 14.84
+    },
+    {
+      "word": "critical",
+      "start": 14.84,
+      "end": 15.24
+    },
+    {
+      "word": "data",
+      "start": 15.24,
+      "end": 15.62
+    },
+    {
+      "word": "sinks",
+      "start": 15.62,
+      "end": 15.9
+    },
+    {
+      "word": "between",
+      "start": 15.9,
+      "end": 16.3
+    },
+    {
+      "word": "payment",
+      "start": 16.3,
+      "end": 16.68
+    },
+    {
+      "word": "gateways",
+      "start": 16.68,
+      "end": 17.12
+    },
+    {
+      "word": "and",
+      "start": 17.12,
+      "end": 17.38
+    },
+    {
+      "word": "databases.",
+      "start": 17.38,
+      "end": 17.92
+    },
+    {
+      "word": "Deploying",
+      "start": 18.56,
+      "end": 19.0
+    },
+    {
+      "word": "N8N",
+      "start": 19.0,
+      "end": 19.68
+    },
+    {
+      "word": "with",
+      "start": 19.68,
+      "end": 19.9
+    },
+    {
+      "word": "Docker",
+      "start": 19.9,
+      "end": 20.18
+    },
+    {
+      "word": "gives",
+      "start": 20.18,
+      "end": 20.5
+    },
+    {
+      "word": "you",
+      "start": 20.5,
+      "end": 20.76
+    },
+    {
+      "word": "complete",
+      "start": 20.76,
+      "end": 21.02
+    },
+    {
+      "word": "control",
+      "start": 21.02,
+      "end": 21.56
+    },
+    {
+      "word": "over",
+      "start": 21.56,
+      "end": 21.9
+    },
+    {
+      "word": "unlimited",
+      "start": 21.9,
+      "end": 22.34
+    },
+    {
+      "word": "web",
+      "start": 22.34,
+      "end": 22.62
+    },
+    {
+      "word": "hooks,",
+      "start": 22.62,
+      "end": 22.9
+    },
+    {
+      "word": "custom",
+      "start": 23.56,
+      "end": 23.56
+    },
+    {
+      "word": "logic,",
+      "start": 23.56,
+      "end": 24.02
+    },
+    {
+      "word": "and",
+      "start": 24.38,
+      "end": 24.82
+    },
+    {
+      "word": "API",
+      "start": 24.82,
+      "end": 24.98
+    },
+    {
+      "word": "connectors.",
+      "start": 24.98,
+      "end": 25.54
+    },
+    {
+      "word": "Your",
+      "start": 26.26,
+      "end": 26.44
+    },
+    {
+      "word": "pipeline",
+      "start": 26.44,
+      "end": 26.84
+    },
+    {
+      "word": "processes",
+      "start": 26.84,
+      "end": 27.52
+    },
+    {
+      "word": "leads",
+      "start": 27.52,
+      "end": 27.86
+    },
+    {
+      "word": "in",
+      "start": 27.86,
+      "end": 28.1
+    },
+    {
+      "word": "real",
+      "start": 28.1,
+      "end": 28.4
+    },
+    {
+      "word": "time",
+      "start": 28.4,
+      "end": 28.8
+    },
+    {
+      "word": "without",
+      "start": 28.8,
+      "end": 29.18
+    },
+    {
+      "word": "extra",
+      "start": 29.18,
+      "end": 29.54
+    },
+    {
+      "word": "costs.",
+      "start": 29.54,
+      "end": 29.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How to run thousands of workflow automations every month for zero dollars.",
+      "line2": "UNLIMITED FREE AUTOMATIONS",
+      "tag": "\ud83d\uded1 N8N self-hosted",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: N8N self-hosted",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: N8N self-hosted",
+        "subtitle": "N8N self-hosted"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "N8N self-hosted"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "N8N self-hosted"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "N8N self-hosted",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

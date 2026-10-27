@@ -1,0 +1,386 @@
+{
+  "page": "page-08",
+  "idea": "How to turn paper documents into search-ready PDFs using your phone",
+  "text": "Stop keeping messy paper receipts and contracts in physical drawers where they get lost. Shuffling through folders during tax season wastes hours and risks lost business deduction claims. Basic phone photos create dark, crooked images that cannot be searched by text or keyword. Instead, open Google Drive or Apple Notes, tap scan, and enable automatic text recognition. You turn physical paperwork into searchable PDFs in seconds.",
+  "duration": 25.365,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "keeping",
+      "start": 0.28,
+      "end": 0.62
+    },
+    {
+      "word": "messy",
+      "start": 0.62,
+      "end": 0.86
+    },
+    {
+      "word": "paper",
+      "start": 0.86,
+      "end": 1.2
+    },
+    {
+      "word": "receipts",
+      "start": 1.2,
+      "end": 1.56
+    },
+    {
+      "word": "and",
+      "start": 1.56,
+      "end": 1.9
+    },
+    {
+      "word": "contracts",
+      "start": 1.9,
+      "end": 2.2
+    },
+    {
+      "word": "and",
+      "start": 2.2,
+      "end": 2.74
+    },
+    {
+      "word": "physical",
+      "start": 2.74,
+      "end": 2.76
+    },
+    {
+      "word": "drawers",
+      "start": 2.76,
+      "end": 3.16
+    },
+    {
+      "word": "where",
+      "start": 3.16,
+      "end": 3.34
+    },
+    {
+      "word": "they",
+      "start": 3.34,
+      "end": 3.42
+    },
+    {
+      "word": "get",
+      "start": 3.42,
+      "end": 3.64
+    },
+    {
+      "word": "lost.",
+      "start": 3.64,
+      "end": 4.06
+    },
+    {
+      "word": "Shuffling",
+      "start": 4.66,
+      "end": 4.92
+    },
+    {
+      "word": "through",
+      "start": 4.92,
+      "end": 5.24
+    },
+    {
+      "word": "folders",
+      "start": 5.24,
+      "end": 5.52
+    },
+    {
+      "word": "during",
+      "start": 5.52,
+      "end": 5.98
+    },
+    {
+      "word": "tax",
+      "start": 5.98,
+      "end": 6.34
+    },
+    {
+      "word": "season",
+      "start": 6.34,
+      "end": 6.68
+    },
+    {
+      "word": "wastes",
+      "start": 6.68,
+      "end": 7.04
+    },
+    {
+      "word": "hours",
+      "start": 7.04,
+      "end": 7.38
+    },
+    {
+      "word": "and",
+      "start": 7.38,
+      "end": 7.6
+    },
+    {
+      "word": "risks",
+      "start": 7.6,
+      "end": 7.86
+    },
+    {
+      "word": "lost",
+      "start": 7.86,
+      "end": 8.28
+    },
+    {
+      "word": "business",
+      "start": 8.28,
+      "end": 8.66
+    },
+    {
+      "word": "deduction",
+      "start": 8.66,
+      "end": 9.16
+    },
+    {
+      "word": "claims.",
+      "start": 9.16,
+      "end": 9.6
+    },
+    {
+      "word": "Basic",
+      "start": 10.4,
+      "end": 10.42
+    },
+    {
+      "word": "phone",
+      "start": 10.42,
+      "end": 10.76
+    },
+    {
+      "word": "photos",
+      "start": 10.76,
+      "end": 11.06
+    },
+    {
+      "word": "create",
+      "start": 11.06,
+      "end": 11.56
+    },
+    {
+      "word": "dark,",
+      "start": 11.56,
+      "end": 11.96
+    },
+    {
+      "word": "crooked",
+      "start": 12.24,
+      "end": 12.24
+    },
+    {
+      "word": "images",
+      "start": 12.24,
+      "end": 12.58
+    },
+    {
+      "word": "that",
+      "start": 12.58,
+      "end": 12.9
+    },
+    {
+      "word": "cannot",
+      "start": 12.9,
+      "end": 13.14
+    },
+    {
+      "word": "be",
+      "start": 13.14,
+      "end": 13.4
+    },
+    {
+      "word": "searched",
+      "start": 13.4,
+      "end": 13.6
+    },
+    {
+      "word": "by",
+      "start": 13.6,
+      "end": 13.96
+    },
+    {
+      "word": "text",
+      "start": 13.96,
+      "end": 14.2
+    },
+    {
+      "word": "or",
+      "start": 14.2,
+      "end": 14.38
+    },
+    {
+      "word": "keyword.",
+      "start": 14.38,
+      "end": 14.8
+    },
+    {
+      "word": "Instead,",
+      "start": 15.44,
+      "end": 15.76
+    },
+    {
+      "word": "open",
+      "start": 16.46,
+      "end": 16.52
+    },
+    {
+      "word": "Google",
+      "start": 16.52,
+      "end": 16.82
+    },
+    {
+      "word": "Drive",
+      "start": 16.82,
+      "end": 17.28
+    },
+    {
+      "word": "or",
+      "start": 17.28,
+      "end": 17.58
+    },
+    {
+      "word": "Apple",
+      "start": 17.58,
+      "end": 17.82
+    },
+    {
+      "word": "Notes,",
+      "start": 17.82,
+      "end": 18.18
+    },
+    {
+      "word": "Tapscan,",
+      "start": 18.48,
+      "end": 19.04
+    },
+    {
+      "word": "and",
+      "start": 19.44,
+      "end": 19.58
+    },
+    {
+      "word": "enable",
+      "start": 19.58,
+      "end": 20.0
+    },
+    {
+      "word": "automatic",
+      "start": 20.0,
+      "end": 20.42
+    },
+    {
+      "word": "text",
+      "start": 20.42,
+      "end": 20.86
+    },
+    {
+      "word": "recognition.",
+      "start": 20.86,
+      "end": 21.38
+    },
+    {
+      "word": "You",
+      "start": 21.38,
+      "end": 22.1
+    },
+    {
+      "word": "turn",
+      "start": 22.1,
+      "end": 22.38
+    },
+    {
+      "word": "physical",
+      "start": 22.38,
+      "end": 22.78
+    },
+    {
+      "word": "paperwork",
+      "start": 22.78,
+      "end": 23.2
+    },
+    {
+      "word": "into",
+      "start": 23.2,
+      "end": 23.58
+    },
+    {
+      "word": "searchable",
+      "start": 23.58,
+      "end": 24.12
+    },
+    {
+      "word": "PDFs",
+      "start": 24.12,
+      "end": 24.74
+    },
+    {
+      "word": "in",
+      "start": 24.74,
+      "end": 24.92
+    },
+    {
+      "word": "seconds.",
+      "start": 24.92,
+      "end": 25.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop keeping messy paper receipts and contracts in physical drawers.",
+      "line2": "SCAN PAPERS TO PDF",
+      "tag": "\ud83d\uded1 How to turn paper documents into search-ready PDFs using your phone",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

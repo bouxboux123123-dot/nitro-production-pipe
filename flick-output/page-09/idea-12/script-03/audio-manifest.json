@@ -1,0 +1,396 @@
+{
+  "page": "page-09",
+  "idea": "Framer vs Webflow: which visual website builder should you build on",
+  "text": "Elite digital designers are migrating from Webflow to Framer for rapid client marketing pages. Juggling manual CSS resets and strict breakpoint overrides in Webflow turns simple builds into slow engineering bottlenecks. Handoff friction between creative Figma components and Webflow's rigid box model delays campaign launches. Framer eliminates development friction with direct Figma pasting, built-in interactive states, and instant publishing. You deliver client websites in record time.",
+  "duration": 30.33,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Elite",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "digital",
+      "start": 0.32,
+      "end": 0.7
+    },
+    {
+      "word": "designers",
+      "start": 0.7,
+      "end": 1.14
+    },
+    {
+      "word": "are",
+      "start": 1.14,
+      "end": 1.52
+    },
+    {
+      "word": "migrating",
+      "start": 1.52,
+      "end": 1.88
+    },
+    {
+      "word": "from",
+      "start": 1.88,
+      "end": 2.3
+    },
+    {
+      "word": "Webflow",
+      "start": 2.3,
+      "end": 2.72
+    },
+    {
+      "word": "to",
+      "start": 2.72,
+      "end": 2.98
+    },
+    {
+      "word": "Framer",
+      "start": 2.98,
+      "end": 3.38
+    },
+    {
+      "word": "for",
+      "start": 3.38,
+      "end": 3.7
+    },
+    {
+      "word": "rapid",
+      "start": 3.7,
+      "end": 4.0
+    },
+    {
+      "word": "client",
+      "start": 4.0,
+      "end": 4.44
+    },
+    {
+      "word": "marketing",
+      "start": 4.44,
+      "end": 4.84
+    },
+    {
+      "word": "pages.",
+      "start": 4.84,
+      "end": 5.52
+    },
+    {
+      "word": "Juggling",
+      "start": 6.16,
+      "end": 6.4
+    },
+    {
+      "word": "manual",
+      "start": 6.4,
+      "end": 6.88
+    },
+    {
+      "word": "CSS",
+      "start": 6.88,
+      "end": 7.38
+    },
+    {
+      "word": "resets",
+      "start": 7.38,
+      "end": 8.0
+    },
+    {
+      "word": "and",
+      "start": 8.0,
+      "end": 8.34
+    },
+    {
+      "word": "strict",
+      "start": 8.34,
+      "end": 8.6
+    },
+    {
+      "word": "breakpoint",
+      "start": 8.6,
+      "end": 9.18
+    },
+    {
+      "word": "overrides",
+      "start": 9.18,
+      "end": 9.98
+    },
+    {
+      "word": "in",
+      "start": 9.98,
+      "end": 10.22
+    },
+    {
+      "word": "Webflow",
+      "start": 10.22,
+      "end": 10.68
+    },
+    {
+      "word": "turns",
+      "start": 10.68,
+      "end": 11.1
+    },
+    {
+      "word": "simple",
+      "start": 11.1,
+      "end": 11.44
+    },
+    {
+      "word": "builds",
+      "start": 11.44,
+      "end": 11.84
+    },
+    {
+      "word": "into",
+      "start": 11.84,
+      "end": 12.16
+    },
+    {
+      "word": "slow",
+      "start": 12.16,
+      "end": 12.54
+    },
+    {
+      "word": "engineering",
+      "start": 12.54,
+      "end": 13.14
+    },
+    {
+      "word": "bottlenecks.",
+      "start": 13.14,
+      "end": 13.94
+    },
+    {
+      "word": "Handoff",
+      "start": 14.32,
+      "end": 14.62
+    },
+    {
+      "word": "friction",
+      "start": 14.62,
+      "end": 14.94
+    },
+    {
+      "word": "between",
+      "start": 14.94,
+      "end": 15.38
+    },
+    {
+      "word": "creative",
+      "start": 15.38,
+      "end": 15.84
+    },
+    {
+      "word": "figma",
+      "start": 15.84,
+      "end": 16.26
+    },
+    {
+      "word": "components",
+      "start": 16.26,
+      "end": 16.56
+    },
+    {
+      "word": "and",
+      "start": 16.56,
+      "end": 16.9
+    },
+    {
+      "word": "Webflow's",
+      "start": 16.9,
+      "end": 17.86
+    },
+    {
+      "word": "rigid",
+      "start": 17.86,
+      "end": 17.86
+    },
+    {
+      "word": "box",
+      "start": 17.86,
+      "end": 18.24
+    },
+    {
+      "word": "model",
+      "start": 18.24,
+      "end": 18.74
+    },
+    {
+      "word": "delays",
+      "start": 18.74,
+      "end": 19.1
+    },
+    {
+      "word": "campaign",
+      "start": 19.1,
+      "end": 19.64
+    },
+    {
+      "word": "launches.",
+      "start": 19.64,
+      "end": 20.2
+    },
+    {
+      "word": "Framer",
+      "start": 21.06,
+      "end": 21.28
+    },
+    {
+      "word": "eliminates",
+      "start": 21.28,
+      "end": 21.72
+    },
+    {
+      "word": "development",
+      "start": 21.72,
+      "end": 22.24
+    },
+    {
+      "word": "friction",
+      "start": 22.24,
+      "end": 22.72
+    },
+    {
+      "word": "with",
+      "start": 22.72,
+      "end": 23.06
+    },
+    {
+      "word": "direct",
+      "start": 23.06,
+      "end": 23.44
+    },
+    {
+      "word": "figma",
+      "start": 23.44,
+      "end": 23.82
+    },
+    {
+      "word": "pasting,",
+      "start": 23.82,
+      "end": 24.48
+    },
+    {
+      "word": "built",
+      "start": 24.84,
+      "end": 24.92
+    },
+    {
+      "word": "in",
+      "start": 24.92,
+      "end": 25.14
+    },
+    {
+      "word": "interactive",
+      "start": 25.14,
+      "end": 25.58
+    },
+    {
+      "word": "states,",
+      "start": 25.58,
+      "end": 26.2
+    },
+    {
+      "word": "and",
+      "start": 26.44,
+      "end": 26.72
+    },
+    {
+      "word": "instant",
+      "start": 26.72,
+      "end": 26.98
+    },
+    {
+      "word": "publishing.",
+      "start": 26.98,
+      "end": 27.44
+    },
+    {
+      "word": "You",
+      "start": 27.44,
+      "end": 28.14
+    },
+    {
+      "word": "deliver",
+      "start": 28.14,
+      "end": 28.48
+    },
+    {
+      "word": "client",
+      "start": 28.48,
+      "end": 28.8
+    },
+    {
+      "word": "websites",
+      "start": 28.8,
+      "end": 29.34
+    },
+    {
+      "word": "in",
+      "start": 29.34,
+      "end": 29.66
+    },
+    {
+      "word": "record",
+      "start": 29.66,
+      "end": 29.84
+    },
+    {
+      "word": "time.",
+      "start": 29.84,
+      "end": 30.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why designers are migrating from Webflow to Framer for rapid marketing pages.",
+      "line2": "FRAMER VS WEBFLOW",
+      "tag": "\ud83d\uded1 Framer vs Webflow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Framer vs Webflow",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Framer vs Webflow",
+        "subtitle": "Framer vs Webflow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Framer vs Webflow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Framer vs Webflow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Framer vs Webflow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

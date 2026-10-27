@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "ClickUp vs Monday.com: which all-in-one project tool is less chaotic",
+  "text": "Stop spending weeks setting up complex project management boards that your employees simply ignore. You build elaborate tracking dashboards, yet team members still ask for basic status updates in direct messages. Board abandonment happens when updating a task requires six clicks across bloated sub-item menus. Switch to Monday's automated status triggers for instant adoption, or deploy ClickUp's simplified personal task views. This keeps client deliverables running strictly on schedule.",
+  "duration": 29.05,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "spending",
+      "start": 0.42,
+      "end": 0.78
+    },
+    {
+      "word": "weeks",
+      "start": 0.78,
+      "end": 1.16
+    },
+    {
+      "word": "setting",
+      "start": 1.16,
+      "end": 1.4
+    },
+    {
+      "word": "up",
+      "start": 1.4,
+      "end": 1.7
+    },
+    {
+      "word": "complex",
+      "start": 1.7,
+      "end": 2.1
+    },
+    {
+      "word": "project",
+      "start": 2.1,
+      "end": 2.66
+    },
+    {
+      "word": "management",
+      "start": 2.66,
+      "end": 3.14
+    },
+    {
+      "word": "boards",
+      "start": 3.14,
+      "end": 3.56
+    },
+    {
+      "word": "that",
+      "start": 3.56,
+      "end": 3.92
+    },
+    {
+      "word": "your",
+      "start": 3.92,
+      "end": 4.22
+    },
+    {
+      "word": "employees",
+      "start": 4.22,
+      "end": 4.56
+    },
+    {
+      "word": "simply",
+      "start": 4.56,
+      "end": 5.02
+    },
+    {
+      "word": "ignore.",
+      "start": 5.02,
+      "end": 5.54
+    },
+    {
+      "word": "You",
+      "start": 6.18,
+      "end": 6.26
+    },
+    {
+      "word": "build",
+      "start": 6.26,
+      "end": 6.52
+    },
+    {
+      "word": "elaborate",
+      "start": 6.52,
+      "end": 7.08
+    },
+    {
+      "word": "tracking",
+      "start": 7.08,
+      "end": 7.5
+    },
+    {
+      "word": "dashboards,",
+      "start": 7.5,
+      "end": 8.16
+    },
+    {
+      "word": "yet",
+      "start": 8.54,
+      "end": 8.8
+    },
+    {
+      "word": "team",
+      "start": 8.8,
+      "end": 9.1
+    },
+    {
+      "word": "members",
+      "start": 9.1,
+      "end": 9.38
+    },
+    {
+      "word": "still",
+      "start": 9.38,
+      "end": 9.78
+    },
+    {
+      "word": "ask",
+      "start": 9.78,
+      "end": 10.04
+    },
+    {
+      "word": "for",
+      "start": 10.04,
+      "end": 10.28
+    },
+    {
+      "word": "basic",
+      "start": 10.28,
+      "end": 10.66
+    },
+    {
+      "word": "status",
+      "start": 10.66,
+      "end": 11.06
+    },
+    {
+      "word": "updates",
+      "start": 11.06,
+      "end": 11.44
+    },
+    {
+      "word": "in",
+      "start": 11.44,
+      "end": 11.72
+    },
+    {
+      "word": "direct",
+      "start": 11.72,
+      "end": 12.0
+    },
+    {
+      "word": "messages.",
+      "start": 12.0,
+      "end": 12.6
+    },
+    {
+      "word": "Board",
+      "start": 13.14,
+      "end": 13.16
+    },
+    {
+      "word": "abandonment",
+      "start": 13.16,
+      "end": 13.54
+    },
+    {
+      "word": "happens",
+      "start": 13.54,
+      "end": 14.04
+    },
+    {
+      "word": "when",
+      "start": 14.04,
+      "end": 14.32
+    },
+    {
+      "word": "updating",
+      "start": 14.32,
+      "end": 14.6
+    },
+    {
+      "word": "a",
+      "start": 14.6,
+      "end": 14.94
+    },
+    {
+      "word": "task",
+      "start": 14.94,
+      "end": 15.24
+    },
+    {
+      "word": "requires",
+      "start": 15.24,
+      "end": 15.74
+    },
+    {
+      "word": "six",
+      "start": 15.74,
+      "end": 16.22
+    },
+    {
+      "word": "clicks",
+      "start": 16.22,
+      "end": 16.46
+    },
+    {
+      "word": "across",
+      "start": 16.46,
+      "end": 16.92
+    },
+    {
+      "word": "bloated",
+      "start": 16.92,
+      "end": 17.28
+    },
+    {
+      "word": "sub",
+      "start": 17.28,
+      "end": 17.54
+    },
+    {
+      "word": "-item",
+      "start": 17.54,
+      "end": 17.8
+    },
+    {
+      "word": "menus.",
+      "start": 17.8,
+      "end": 18.24
+    },
+    {
+      "word": "Switch",
+      "start": 18.84,
+      "end": 19.06
+    },
+    {
+      "word": "to",
+      "start": 19.06,
+      "end": 19.3
+    },
+    {
+      "word": "Mondays",
+      "start": 19.3,
+      "end": 19.68
+    },
+    {
+      "word": "automated",
+      "start": 19.68,
+      "end": 20.26
+    },
+    {
+      "word": "status",
+      "start": 20.26,
+      "end": 20.76
+    },
+    {
+      "word": "triggers",
+      "start": 20.76,
+      "end": 21.06
+    },
+    {
+      "word": "for",
+      "start": 21.06,
+      "end": 21.44
+    },
+    {
+      "word": "instant",
+      "start": 21.44,
+      "end": 21.68
+    },
+    {
+      "word": "adoption,",
+      "start": 21.68,
+      "end": 22.2
+    },
+    {
+      "word": "or",
+      "start": 22.62,
+      "end": 22.9
+    },
+    {
+      "word": "deploy",
+      "start": 22.9,
+      "end": 23.18
+    },
+    {
+      "word": "click",
+      "start": 23.18,
+      "end": 23.54
+    },
+    {
+      "word": "-ups",
+      "start": 23.54,
+      "end": 23.78
+    },
+    {
+      "word": "simplified",
+      "start": 23.78,
+      "end": 24.38
+    },
+    {
+      "word": "personal",
+      "start": 24.38,
+      "end": 24.86
+    },
+    {
+      "word": "task",
+      "start": 24.86,
+      "end": 25.2
+    },
+    {
+      "word": "views.",
+      "start": 25.2,
+      "end": 25.58
+    },
+    {
+      "word": "This",
+      "start": 25.58,
+      "end": 26.34
+    },
+    {
+      "word": "keeps",
+      "start": 26.34,
+      "end": 26.66
+    },
+    {
+      "word": "client",
+      "start": 26.66,
+      "end": 27.0
+    },
+    {
+      "word": "deliverables",
+      "start": 27.0,
+      "end": 27.52
+    },
+    {
+      "word": "running",
+      "start": 27.52,
+      "end": 27.94
+    },
+    {
+      "word": "strictly",
+      "start": 27.94,
+      "end": 28.26
+    },
+    {
+      "word": "on",
+      "start": 28.26,
+      "end": 28.6
+    },
+    {
+      "word": "schedule.",
+      "start": 28.6,
+      "end": 28.96
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Stop spending weeks setting up project boards that your employees ignore.",
+      "line2": "CLICKUP VS MONDAY",
+      "tag": "\ud83d\uded1 ClickUp vs Monday.com",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: ClickUp vs Monday.com",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: ClickUp vs Monday.com",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "ClickUp vs Monday.com",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

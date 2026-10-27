@@ -1,0 +1,411 @@
+{
+  "page": "page-09",
+  "idea": "Canva vs Figma: which design tool is better for marketing teams",
+  "text": "Canva or Figma: which design tool should your marketing team actually use? Marketers waste hours struggling with Figma's auto-layout rules just to resize a simple promo banner. Forcing non-designers into vector software creates asset bottlenecks and floods your UI team with trivial edit requests. Build locked brand kits inside Canva for marketing while keeping Figma exclusive to core product design. This workflow ships creative assets ten times faster.",
+  "duration": 25.984,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Hanva",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "or",
+      "start": 0.42,
+      "end": 0.7
+    },
+    {
+      "word": "Figma,",
+      "start": 0.7,
+      "end": 1.14
+    },
+    {
+      "word": "which",
+      "start": 1.42,
+      "end": 1.54
+    },
+    {
+      "word": "design",
+      "start": 1.54,
+      "end": 1.92
+    },
+    {
+      "word": "tools",
+      "start": 1.92,
+      "end": 2.24
+    },
+    {
+      "word": "should",
+      "start": 2.24,
+      "end": 2.42
+    },
+    {
+      "word": "your",
+      "start": 2.42,
+      "end": 2.92
+    },
+    {
+      "word": "marketing",
+      "start": 2.92,
+      "end": 2.92
+    },
+    {
+      "word": "team",
+      "start": 2.92,
+      "end": 3.24
+    },
+    {
+      "word": "actually",
+      "start": 3.24,
+      "end": 3.64
+    },
+    {
+      "word": "use.",
+      "start": 3.64,
+      "end": 4.12
+    },
+    {
+      "word": "Marketers",
+      "start": 4.62,
+      "end": 4.92
+    },
+    {
+      "word": "waste",
+      "start": 4.92,
+      "end": 5.24
+    },
+    {
+      "word": "hours",
+      "start": 5.24,
+      "end": 5.62
+    },
+    {
+      "word": "struggling",
+      "start": 5.62,
+      "end": 5.96
+    },
+    {
+      "word": "with",
+      "start": 5.96,
+      "end": 6.26
+    },
+    {
+      "word": "Figma's",
+      "start": 6.26,
+      "end": 6.7
+    },
+    {
+      "word": "auto",
+      "start": 6.7,
+      "end": 6.86
+    },
+    {
+      "word": "layout",
+      "start": 6.86,
+      "end": 7.18
+    },
+    {
+      "word": "rules",
+      "start": 7.18,
+      "end": 7.6
+    },
+    {
+      "word": "just",
+      "start": 7.6,
+      "end": 8.02
+    },
+    {
+      "word": "to",
+      "start": 8.02,
+      "end": 8.14
+    },
+    {
+      "word": "resize",
+      "start": 8.14,
+      "end": 8.34
+    },
+    {
+      "word": "a",
+      "start": 8.34,
+      "end": 8.86
+    },
+    {
+      "word": "simple",
+      "start": 8.86,
+      "end": 8.94
+    },
+    {
+      "word": "promo",
+      "start": 8.94,
+      "end": 9.26
+    },
+    {
+      "word": "banner.",
+      "start": 9.26,
+      "end": 9.7
+    },
+    {
+      "word": "Fourcing",
+      "start": 10.12,
+      "end": 10.38
+    },
+    {
+      "word": "non",
+      "start": 10.38,
+      "end": 10.64
+    },
+    {
+      "word": "-designers",
+      "start": 10.64,
+      "end": 11.12
+    },
+    {
+      "word": "into",
+      "start": 11.12,
+      "end": 11.28
+    },
+    {
+      "word": "vector",
+      "start": 11.28,
+      "end": 11.54
+    },
+    {
+      "word": "software",
+      "start": 11.54,
+      "end": 11.98
+    },
+    {
+      "word": "creates",
+      "start": 11.98,
+      "end": 12.46
+    },
+    {
+      "word": "asset",
+      "start": 12.46,
+      "end": 12.78
+    },
+    {
+      "word": "bottlenecks",
+      "start": 12.78,
+      "end": 13.52
+    },
+    {
+      "word": "and",
+      "start": 13.52,
+      "end": 13.78
+    },
+    {
+      "word": "floods",
+      "start": 13.78,
+      "end": 13.96
+    },
+    {
+      "word": "your",
+      "start": 13.96,
+      "end": 14.24
+    },
+    {
+      "word": "UI",
+      "start": 14.24,
+      "end": 14.52
+    },
+    {
+      "word": "team",
+      "start": 14.52,
+      "end": 14.8
+    },
+    {
+      "word": "with",
+      "start": 14.8,
+      "end": 15.02
+    },
+    {
+      "word": "trivial",
+      "start": 15.02,
+      "end": 15.36
+    },
+    {
+      "word": "edit",
+      "start": 15.36,
+      "end": 15.6
+    },
+    {
+      "word": "requests.",
+      "start": 15.6,
+      "end": 16.1
+    },
+    {
+      "word": "Build",
+      "start": 16.8,
+      "end": 16.86
+    },
+    {
+      "word": "locked",
+      "start": 16.86,
+      "end": 17.2
+    },
+    {
+      "word": "brand",
+      "start": 17.2,
+      "end": 17.54
+    },
+    {
+      "word": "kits",
+      "start": 17.54,
+      "end": 17.86
+    },
+    {
+      "word": "inside",
+      "start": 17.86,
+      "end": 18.42
+    },
+    {
+      "word": "Canva",
+      "start": 18.42,
+      "end": 18.72
+    },
+    {
+      "word": "for",
+      "start": 18.72,
+      "end": 18.98
+    },
+    {
+      "word": "marketing",
+      "start": 18.98,
+      "end": 19.38
+    },
+    {
+      "word": "while",
+      "start": 19.38,
+      "end": 19.86
+    },
+    {
+      "word": "keeping",
+      "start": 19.86,
+      "end": 20.2
+    },
+    {
+      "word": "Figma",
+      "start": 20.2,
+      "end": 20.64
+    },
+    {
+      "word": "exclusive",
+      "start": 20.64,
+      "end": 21.04
+    },
+    {
+      "word": "to",
+      "start": 21.04,
+      "end": 21.38
+    },
+    {
+      "word": "core",
+      "start": 21.38,
+      "end": 21.62
+    },
+    {
+      "word": "product",
+      "start": 21.62,
+      "end": 21.92
+    },
+    {
+      "word": "design.",
+      "start": 21.92,
+      "end": 22.36
+    },
+    {
+      "word": "This",
+      "start": 22.36,
+      "end": 23.12
+    },
+    {
+      "word": "workflow",
+      "start": 23.12,
+      "end": 23.44
+    },
+    {
+      "word": "ships",
+      "start": 23.44,
+      "end": 23.84
+    },
+    {
+      "word": "creative",
+      "start": 23.84,
+      "end": 24.32
+    },
+    {
+      "word": "assets",
+      "start": 24.32,
+      "end": 24.72
+    },
+    {
+      "word": "10",
+      "start": 24.72,
+      "end": 25.14
+    },
+    {
+      "word": "times",
+      "start": 25.14,
+      "end": 25.5
+    },
+    {
+      "word": "faster.",
+      "start": 25.5,
+      "end": 25.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Canva or Figma: which design tool should your marketing team actually be using?",
+      "line2": "CANVA VS FIGMA",
+      "tag": "\ud83d\uded1 Canva vs Figma",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Canva vs Figma",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Canva vs Figma",
+        "subtitle": "Canva vs Figma"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Canva vs Figma"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Canva vs Figma"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Canva vs Figma",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

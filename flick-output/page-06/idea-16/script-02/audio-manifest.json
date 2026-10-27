@@ -1,0 +1,421 @@
+{
+  "page": "page-06",
+  "idea": "Automated meeting cost calculator that shows the dollar value of big syncs",
+  "text": "This calendar plugin calculates the exact salary cost of every scheduled call before you hit send. Remote teams suffer from meeting creep because scheduling a calendar invite feels completely free. Packing schedules with ten-person syncs burns forty engineering hours each week on passive listening. Adding a Meeting Cost extension into Google Calendar flags high-dollar calls and suggests async Slack recaps. You reclaim thousands in wasted payroll every month.",
+  "duration": 25.92,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "calendar",
+      "start": 0.28,
+      "end": 0.58
+    },
+    {
+      "word": "plug",
+      "start": 0.58,
+      "end": 0.8
+    },
+    {
+      "word": "-in",
+      "start": 0.8,
+      "end": 1.02
+    },
+    {
+      "word": "calculates",
+      "start": 1.02,
+      "end": 1.36
+    },
+    {
+      "word": "the",
+      "start": 1.36,
+      "end": 1.76
+    },
+    {
+      "word": "exact",
+      "start": 1.76,
+      "end": 2.12
+    },
+    {
+      "word": "salary",
+      "start": 2.12,
+      "end": 2.44
+    },
+    {
+      "word": "cost",
+      "start": 2.44,
+      "end": 2.8
+    },
+    {
+      "word": "of",
+      "start": 2.8,
+      "end": 2.96
+    },
+    {
+      "word": "every",
+      "start": 2.96,
+      "end": 3.26
+    },
+    {
+      "word": "scheduled",
+      "start": 3.26,
+      "end": 3.64
+    },
+    {
+      "word": "call",
+      "start": 3.64,
+      "end": 4.0
+    },
+    {
+      "word": "before",
+      "start": 4.0,
+      "end": 4.24
+    },
+    {
+      "word": "you",
+      "start": 4.24,
+      "end": 4.4
+    },
+    {
+      "word": "hit",
+      "start": 4.4,
+      "end": 4.62
+    },
+    {
+      "word": "send.",
+      "start": 4.62,
+      "end": 4.94
+    },
+    {
+      "word": "Remote",
+      "start": 5.48,
+      "end": 5.64
+    },
+    {
+      "word": "teams",
+      "start": 5.64,
+      "end": 6.1
+    },
+    {
+      "word": "suffer",
+      "start": 6.1,
+      "end": 6.32
+    },
+    {
+      "word": "from",
+      "start": 6.32,
+      "end": 6.58
+    },
+    {
+      "word": "meeting",
+      "start": 6.58,
+      "end": 6.82
+    },
+    {
+      "word": "creep,",
+      "start": 6.82,
+      "end": 7.16
+    },
+    {
+      "word": "because",
+      "start": 7.46,
+      "end": 7.72
+    },
+    {
+      "word": "scheduling",
+      "start": 7.72,
+      "end": 8.06
+    },
+    {
+      "word": "a",
+      "start": 8.06,
+      "end": 8.44
+    },
+    {
+      "word": "calendar",
+      "start": 8.44,
+      "end": 8.62
+    },
+    {
+      "word": "invite",
+      "start": 8.62,
+      "end": 9.04
+    },
+    {
+      "word": "feels",
+      "start": 9.04,
+      "end": 9.36
+    },
+    {
+      "word": "completely",
+      "start": 9.36,
+      "end": 9.9
+    },
+    {
+      "word": "free.",
+      "start": 9.9,
+      "end": 10.42
+    },
+    {
+      "word": "Packing",
+      "start": 10.92,
+      "end": 11.06
+    },
+    {
+      "word": "schedules",
+      "start": 11.06,
+      "end": 11.5
+    },
+    {
+      "word": "with",
+      "start": 11.5,
+      "end": 11.76
+    },
+    {
+      "word": "ten",
+      "start": 11.76,
+      "end": 12.02
+    },
+    {
+      "word": "person",
+      "start": 12.02,
+      "end": 12.52
+    },
+    {
+      "word": "syncs",
+      "start": 12.52,
+      "end": 12.84
+    },
+    {
+      "word": "burns",
+      "start": 12.84,
+      "end": 13.14
+    },
+    {
+      "word": "40",
+      "start": 13.14,
+      "end": 13.54
+    },
+    {
+      "word": "engineering",
+      "start": 13.54,
+      "end": 14.08
+    },
+    {
+      "word": "hours",
+      "start": 14.08,
+      "end": 14.42
+    },
+    {
+      "word": "each",
+      "start": 14.42,
+      "end": 14.78
+    },
+    {
+      "word": "week",
+      "start": 14.78,
+      "end": 14.98
+    },
+    {
+      "word": "on",
+      "start": 14.98,
+      "end": 15.32
+    },
+    {
+      "word": "passive",
+      "start": 15.32,
+      "end": 15.5
+    },
+    {
+      "word": "listening.",
+      "start": 15.5,
+      "end": 15.98
+    },
+    {
+      "word": "Adding",
+      "start": 16.7,
+      "end": 16.76
+    },
+    {
+      "word": "a",
+      "start": 16.76,
+      "end": 16.96
+    },
+    {
+      "word": "meeting",
+      "start": 16.96,
+      "end": 17.18
+    },
+    {
+      "word": "cost",
+      "start": 17.18,
+      "end": 17.5
+    },
+    {
+      "word": "extension",
+      "start": 17.5,
+      "end": 18.0
+    },
+    {
+      "word": "into",
+      "start": 18.0,
+      "end": 18.28
+    },
+    {
+      "word": "Google",
+      "start": 18.28,
+      "end": 18.62
+    },
+    {
+      "word": "Calendar",
+      "start": 18.62,
+      "end": 19.0
+    },
+    {
+      "word": "Flags,",
+      "start": 19.0,
+      "end": 19.44
+    },
+    {
+      "word": "high",
+      "start": 19.84,
+      "end": 19.94
+    },
+    {
+      "word": "dollar",
+      "start": 19.94,
+      "end": 20.26
+    },
+    {
+      "word": "calls,",
+      "start": 20.26,
+      "end": 20.64
+    },
+    {
+      "word": "and",
+      "start": 20.9,
+      "end": 21.12
+    },
+    {
+      "word": "suggests",
+      "start": 21.12,
+      "end": 21.42
+    },
+    {
+      "word": "a",
+      "start": 21.42,
+      "end": 21.72
+    },
+    {
+      "word": "sync",
+      "start": 21.72,
+      "end": 21.92
+    },
+    {
+      "word": "slack",
+      "start": 21.92,
+      "end": 22.22
+    },
+    {
+      "word": "recaps.",
+      "start": 22.22,
+      "end": 22.76
+    },
+    {
+      "word": "You",
+      "start": 22.76,
+      "end": 23.38
+    },
+    {
+      "word": "reclaim",
+      "start": 23.38,
+      "end": 23.6
+    },
+    {
+      "word": "thousands",
+      "start": 23.6,
+      "end": 24.28
+    },
+    {
+      "word": "in",
+      "start": 24.28,
+      "end": 24.7
+    },
+    {
+      "word": "wasted",
+      "start": 24.7,
+      "end": 24.92
+    },
+    {
+      "word": "payroll",
+      "start": 24.92,
+      "end": 25.34
+    },
+    {
+      "word": "every",
+      "start": 25.34,
+      "end": 25.66
+    },
+    {
+      "word": "month.",
+      "start": 25.66,
+      "end": 25.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "This calendar plugin calculates the exact salary cost of every scheduled call.",
+      "line2": "CALCULATE MEETING COSTS",
+      "tag": "\ud83d\uded1 Automated meeting cost calculator that shows the dollar value of big syncs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Automated meeting cost calculator that shows the dollar value of big syncs",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Automated meeting cost calculator that shows the dollar value of big syncs",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

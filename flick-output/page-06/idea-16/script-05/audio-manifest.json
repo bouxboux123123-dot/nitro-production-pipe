@@ -1,0 +1,396 @@
+{
+  "page": "page-06",
+  "idea": "Automated meeting cost calculator that shows the dollar value of big syncs",
+  "text": "You can cut bloated meeting culture overnight with this simple cost transparency tool. Without financial visibility, managers turn two-minute questions into thirty-minute syncs with six engineers present. Unchecked meeting bloat burns hundreds of thousands in salary while stalling critical roadmap delivery. Connecting a cost tracker to Google Calendar surfaces compensation burn right before organizers invite attendees. This visual friction saves fifteen hours per person weekly.",
+  "duration": 29.285,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "you",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "can",
+      "start": 0.16,
+      "end": 0.34
+    },
+    {
+      "word": "cut",
+      "start": 0.34,
+      "end": 0.62
+    },
+    {
+      "word": "bloated",
+      "start": 0.62,
+      "end": 0.94
+    },
+    {
+      "word": "meeting",
+      "start": 0.94,
+      "end": 1.26
+    },
+    {
+      "word": "culture",
+      "start": 1.26,
+      "end": 1.78
+    },
+    {
+      "word": "overnight",
+      "start": 1.78,
+      "end": 2.18
+    },
+    {
+      "word": "with",
+      "start": 2.18,
+      "end": 2.54
+    },
+    {
+      "word": "this",
+      "start": 2.54,
+      "end": 2.76
+    },
+    {
+      "word": "simple",
+      "start": 2.76,
+      "end": 3.06
+    },
+    {
+      "word": "cost",
+      "start": 3.06,
+      "end": 3.46
+    },
+    {
+      "word": "transparency",
+      "start": 3.46,
+      "end": 4.06
+    },
+    {
+      "word": "tool.",
+      "start": 4.06,
+      "end": 4.64
+    },
+    {
+      "word": "Without",
+      "start": 5.18,
+      "end": 5.44
+    },
+    {
+      "word": "financial",
+      "start": 5.44,
+      "end": 6.0
+    },
+    {
+      "word": "visibility,",
+      "start": 6.0,
+      "end": 6.72
+    },
+    {
+      "word": "managers",
+      "start": 7.38,
+      "end": 7.46
+    },
+    {
+      "word": "turn",
+      "start": 7.46,
+      "end": 7.98
+    },
+    {
+      "word": "two",
+      "start": 7.98,
+      "end": 8.3
+    },
+    {
+      "word": "minute",
+      "start": 8.3,
+      "end": 8.56
+    },
+    {
+      "word": "questions",
+      "start": 8.56,
+      "end": 9.04
+    },
+    {
+      "word": "into",
+      "start": 9.04,
+      "end": 9.34
+    },
+    {
+      "word": "30",
+      "start": 9.34,
+      "end": 9.64
+    },
+    {
+      "word": "minute",
+      "start": 9.64,
+      "end": 9.94
+    },
+    {
+      "word": "sinks",
+      "start": 9.94,
+      "end": 10.22
+    },
+    {
+      "word": "with",
+      "start": 10.22,
+      "end": 10.56
+    },
+    {
+      "word": "six",
+      "start": 10.56,
+      "end": 10.86
+    },
+    {
+      "word": "engineers",
+      "start": 10.86,
+      "end": 11.3
+    },
+    {
+      "word": "present.",
+      "start": 11.3,
+      "end": 11.88
+    },
+    {
+      "word": "Unchecked",
+      "start": 12.3,
+      "end": 12.6
+    },
+    {
+      "word": "meeting",
+      "start": 12.6,
+      "end": 12.96
+    },
+    {
+      "word": "bloat",
+      "start": 12.96,
+      "end": 13.32
+    },
+    {
+      "word": "burns",
+      "start": 13.32,
+      "end": 13.66
+    },
+    {
+      "word": "hundreds",
+      "start": 13.66,
+      "end": 14.06
+    },
+    {
+      "word": "of",
+      "start": 14.06,
+      "end": 14.36
+    },
+    {
+      "word": "thousands",
+      "start": 14.36,
+      "end": 14.72
+    },
+    {
+      "word": "in",
+      "start": 14.72,
+      "end": 15.04
+    },
+    {
+      "word": "salary",
+      "start": 15.04,
+      "end": 15.38
+    },
+    {
+      "word": "while",
+      "start": 15.38,
+      "end": 16.0
+    },
+    {
+      "word": "stalling",
+      "start": 16.0,
+      "end": 16.4
+    },
+    {
+      "word": "critical",
+      "start": 16.4,
+      "end": 16.88
+    },
+    {
+      "word": "roadmap",
+      "start": 16.88,
+      "end": 17.26
+    },
+    {
+      "word": "delivery.",
+      "start": 17.26,
+      "end": 17.9
+    },
+    {
+      "word": "Connecting",
+      "start": 18.72,
+      "end": 18.96
+    },
+    {
+      "word": "a",
+      "start": 18.96,
+      "end": 19.12
+    },
+    {
+      "word": "cost",
+      "start": 19.12,
+      "end": 19.4
+    },
+    {
+      "word": "tracker",
+      "start": 19.4,
+      "end": 19.72
+    },
+    {
+      "word": "to",
+      "start": 19.72,
+      "end": 20.04
+    },
+    {
+      "word": "Google",
+      "start": 20.04,
+      "end": 20.38
+    },
+    {
+      "word": "Calendar",
+      "start": 20.38,
+      "end": 20.82
+    },
+    {
+      "word": "Surface's",
+      "start": 20.82,
+      "end": 21.5
+    },
+    {
+      "word": "compensation",
+      "start": 21.5,
+      "end": 21.96
+    },
+    {
+      "word": "burn,",
+      "start": 21.96,
+      "end": 22.58
+    },
+    {
+      "word": "right",
+      "start": 23.06,
+      "end": 23.1
+    },
+    {
+      "word": "before",
+      "start": 23.1,
+      "end": 23.46
+    },
+    {
+      "word": "organizers",
+      "start": 23.46,
+      "end": 24.08
+    },
+    {
+      "word": "invite",
+      "start": 24.08,
+      "end": 24.62
+    },
+    {
+      "word": "attendees.",
+      "start": 24.62,
+      "end": 25.18
+    },
+    {
+      "word": "This",
+      "start": 25.82,
+      "end": 26.1
+    },
+    {
+      "word": "visual",
+      "start": 26.1,
+      "end": 26.5
+    },
+    {
+      "word": "friction",
+      "start": 26.5,
+      "end": 26.9
+    },
+    {
+      "word": "saves",
+      "start": 26.9,
+      "end": 27.28
+    },
+    {
+      "word": "15",
+      "start": 27.28,
+      "end": 27.8
+    },
+    {
+      "word": "hours",
+      "start": 27.8,
+      "end": 28.24
+    },
+    {
+      "word": "per",
+      "start": 28.24,
+      "end": 28.54
+    },
+    {
+      "word": "person",
+      "start": 28.54,
+      "end": 28.84
+    },
+    {
+      "word": "weekly.",
+      "start": 28.84,
+      "end": 29.2
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Cut bloated meeting culture overnight with this simple cost transparency tool.",
+      "line2": "CALCULATE MEETING COSTS",
+      "tag": "\ud83d\uded1 Automated meeting cost calculator that shows the dollar value of big syncs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Automated meeting cost calculator that shows the dollar value of big syncs",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Automated meeting cost calculator that shows the dollar value of big syncs",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "CapCut vs Premiere Pro: is professional editing software still necessary",
+  "text": "Premiere Pro vs CapCut: which video editor actually gives you the fastest turnaround time? Trying to edit thirty vertical videos monthly inside Premiere causes constant cache clearing and dropped preview frames. The legacy NLE architecture was never built for rapid mobile aspect ratios and short-form pacing. CapCut streamlines production with hardware-accelerated scrubbing, instant B-roll insertion, and automated subtitle styling. This saves you twenty production hours weekly.",
+  "duration": 29.711,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Premiere",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "Pro",
+      "start": 0.4,
+      "end": 0.88
+    },
+    {
+      "word": "vs",
+      "start": 0.88,
+      "end": 1.32
+    },
+    {
+      "word": "Cap",
+      "start": 1.32,
+      "end": 1.68
+    },
+    {
+      "word": "Cut,",
+      "start": 1.68,
+      "end": 2.02
+    },
+    {
+      "word": "which",
+      "start": 2.16,
+      "end": 2.6
+    },
+    {
+      "word": "video",
+      "start": 2.6,
+      "end": 2.94
+    },
+    {
+      "word": "editor",
+      "start": 2.94,
+      "end": 3.24
+    },
+    {
+      "word": "actually",
+      "start": 3.24,
+      "end": 3.78
+    },
+    {
+      "word": "gives",
+      "start": 3.78,
+      "end": 4.0
+    },
+    {
+      "word": "you",
+      "start": 4.0,
+      "end": 4.28
+    },
+    {
+      "word": "the",
+      "start": 4.28,
+      "end": 4.34
+    },
+    {
+      "word": "fastest",
+      "start": 4.34,
+      "end": 4.68
+    },
+    {
+      "word": "turnaround",
+      "start": 4.68,
+      "end": 5.12
+    },
+    {
+      "word": "time.",
+      "start": 5.12,
+      "end": 5.86
+    },
+    {
+      "word": "Trying",
+      "start": 6.2,
+      "end": 6.3
+    },
+    {
+      "word": "to",
+      "start": 6.3,
+      "end": 6.46
+    },
+    {
+      "word": "edit",
+      "start": 6.46,
+      "end": 6.66
+    },
+    {
+      "word": "30",
+      "start": 6.66,
+      "end": 7.0
+    },
+    {
+      "word": "vertical",
+      "start": 7.0,
+      "end": 7.3
+    },
+    {
+      "word": "videos",
+      "start": 7.3,
+      "end": 7.8
+    },
+    {
+      "word": "monthly",
+      "start": 7.8,
+      "end": 8.22
+    },
+    {
+      "word": "inside,",
+      "start": 8.22,
+      "end": 8.84
+    },
+    {
+      "word": "Premiere",
+      "start": 9.0,
+      "end": 9.18
+    },
+    {
+      "word": "causes",
+      "start": 9.18,
+      "end": 9.68
+    },
+    {
+      "word": "constant",
+      "start": 9.68,
+      "end": 10.2
+    },
+    {
+      "word": "cash",
+      "start": 10.2,
+      "end": 10.56
+    },
+    {
+      "word": "clearing",
+      "start": 10.56,
+      "end": 10.96
+    },
+    {
+      "word": "and",
+      "start": 10.96,
+      "end": 11.24
+    },
+    {
+      "word": "dropped",
+      "start": 11.24,
+      "end": 11.56
+    },
+    {
+      "word": "preview",
+      "start": 11.56,
+      "end": 11.84
+    },
+    {
+      "word": "frames.",
+      "start": 11.84,
+      "end": 12.36
+    },
+    {
+      "word": "The",
+      "start": 12.78,
+      "end": 12.9
+    },
+    {
+      "word": "Legacy",
+      "start": 12.9,
+      "end": 13.3
+    },
+    {
+      "word": "NLE",
+      "start": 13.3,
+      "end": 13.84
+    },
+    {
+      "word": "architecture",
+      "start": 13.84,
+      "end": 14.38
+    },
+    {
+      "word": "was",
+      "start": 14.38,
+      "end": 14.88
+    },
+    {
+      "word": "never",
+      "start": 14.88,
+      "end": 15.16
+    },
+    {
+      "word": "built",
+      "start": 15.16,
+      "end": 15.42
+    },
+    {
+      "word": "for",
+      "start": 15.42,
+      "end": 15.64
+    },
+    {
+      "word": "rapid",
+      "start": 15.64,
+      "end": 15.94
+    },
+    {
+      "word": "mobile",
+      "start": 15.94,
+      "end": 16.34
+    },
+    {
+      "word": "aspect",
+      "start": 16.34,
+      "end": 16.8
+    },
+    {
+      "word": "ratios",
+      "start": 16.8,
+      "end": 17.3
+    },
+    {
+      "word": "and",
+      "start": 17.3,
+      "end": 17.66
+    },
+    {
+      "word": "short",
+      "start": 17.66,
+      "end": 17.92
+    },
+    {
+      "word": "-form",
+      "start": 17.92,
+      "end": 18.18
+    },
+    {
+      "word": "pacing.",
+      "start": 18.18,
+      "end": 18.6
+    },
+    {
+      "word": "Cap",
+      "start": 19.48,
+      "end": 19.52
+    },
+    {
+      "word": "Cut",
+      "start": 19.52,
+      "end": 19.82
+    },
+    {
+      "word": "streamlines",
+      "start": 19.82,
+      "end": 20.44
+    },
+    {
+      "word": "production",
+      "start": 20.44,
+      "end": 20.9
+    },
+    {
+      "word": "with",
+      "start": 20.9,
+      "end": 21.3
+    },
+    {
+      "word": "hardware",
+      "start": 21.3,
+      "end": 21.62
+    },
+    {
+      "word": "-accelerated",
+      "start": 21.62,
+      "end": 22.3
+    },
+    {
+      "word": "scrubbing,",
+      "start": 22.3,
+      "end": 22.84
+    },
+    {
+      "word": "instant",
+      "start": 23.48,
+      "end": 23.5
+    },
+    {
+      "word": "b",
+      "start": 23.5,
+      "end": 23.72
+    },
+    {
+      "word": "-roll",
+      "start": 23.72,
+      "end": 23.96
+    },
+    {
+      "word": "insertion,",
+      "start": 23.96,
+      "end": 24.48
+    },
+    {
+      "word": "and",
+      "start": 24.82,
+      "end": 25.16
+    },
+    {
+      "word": "automated",
+      "start": 25.16,
+      "end": 25.54
+    },
+    {
+      "word": "subtitle",
+      "start": 25.54,
+      "end": 26.2
+    },
+    {
+      "word": "styling.",
+      "start": 26.2,
+      "end": 26.7
+    },
+    {
+      "word": "This",
+      "start": 26.7,
+      "end": 27.54
+    },
+    {
+      "word": "saves",
+      "start": 27.54,
+      "end": 27.78
+    },
+    {
+      "word": "you",
+      "start": 27.78,
+      "end": 28.14
+    },
+    {
+      "word": "20",
+      "start": 28.14,
+      "end": 28.46
+    },
+    {
+      "word": "production",
+      "start": 28.46,
+      "end": 28.82
+    },
+    {
+      "word": "hours",
+      "start": 28.82,
+      "end": 29.26
+    },
+    {
+      "word": "weekly.",
+      "start": 29.26,
+      "end": 29.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Premiere Pro vs CapCut: which video editor gives you the best turnaround time?",
+      "line2": "CAPCUT VS PREMIERE PRO",
+      "tag": "\ud83d\uded1 CapCut vs Premiere Pro",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: CapCut vs Premiere Pro",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: CapCut vs Premiere Pro",
+        "subtitle": "CapCut vs Premiere Pro"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "CapCut vs Premiere Pro"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "CapCut vs Premiere Pro"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "CapCut vs Premiere Pro",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

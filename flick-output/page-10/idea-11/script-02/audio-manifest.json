@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Perplexity AI computer assistant and browser automation tools",
+  "text": "Watch this new AI navigate complex web apps and fill out online forms for you automatically. Procurement reps dread copying order specifications and vendor credentials across messy legacy supplier portals. Repetitive copy-pasting inevitably causes billing typos and delays inventory shipments by several business days. Autonomous browser assistants use computer vision and DOM navigation to log in, validate fields, and submit records seamlessly. This eliminates clerical human error entirely.",
+  "duration": 31.738,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Watch",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "this",
+      "start": 0.34,
+      "end": 0.64
+    },
+    {
+      "word": "new",
+      "start": 0.64,
+      "end": 0.94
+    },
+    {
+      "word": "AI",
+      "start": 0.94,
+      "end": 1.38
+    },
+    {
+      "word": "navigate",
+      "start": 1.38,
+      "end": 1.8
+    },
+    {
+      "word": "complex",
+      "start": 1.8,
+      "end": 2.48
+    },
+    {
+      "word": "web",
+      "start": 2.48,
+      "end": 2.76
+    },
+    {
+      "word": "apps",
+      "start": 2.76,
+      "end": 3.06
+    },
+    {
+      "word": "and",
+      "start": 3.06,
+      "end": 3.48
+    },
+    {
+      "word": "fill",
+      "start": 3.48,
+      "end": 3.64
+    },
+    {
+      "word": "out",
+      "start": 3.64,
+      "end": 3.88
+    },
+    {
+      "word": "online",
+      "start": 3.88,
+      "end": 4.24
+    },
+    {
+      "word": "forms",
+      "start": 4.24,
+      "end": 4.74
+    },
+    {
+      "word": "for",
+      "start": 4.74,
+      "end": 4.94
+    },
+    {
+      "word": "you",
+      "start": 4.94,
+      "end": 5.14
+    },
+    {
+      "word": "automatically.",
+      "start": 5.14,
+      "end": 5.74
+    },
+    {
+      "word": "Procurement",
+      "start": 6.52,
+      "end": 6.96
+    },
+    {
+      "word": "reps",
+      "start": 6.96,
+      "end": 7.22
+    },
+    {
+      "word": "dread",
+      "start": 7.22,
+      "end": 7.62
+    },
+    {
+      "word": "copying",
+      "start": 7.62,
+      "end": 8.08
+    },
+    {
+      "word": "order",
+      "start": 8.08,
+      "end": 8.4
+    },
+    {
+      "word": "specifications",
+      "start": 8.4,
+      "end": 9.18
+    },
+    {
+      "word": "and",
+      "start": 9.18,
+      "end": 9.84
+    },
+    {
+      "word": "vendor",
+      "start": 9.84,
+      "end": 10.06
+    },
+    {
+      "word": "credentials",
+      "start": 10.06,
+      "end": 10.56
+    },
+    {
+      "word": "across",
+      "start": 10.56,
+      "end": 11.0
+    },
+    {
+      "word": "messy",
+      "start": 11.0,
+      "end": 11.32
+    },
+    {
+      "word": "legacy",
+      "start": 11.32,
+      "end": 11.78
+    },
+    {
+      "word": "supplier",
+      "start": 11.78,
+      "end": 12.26
+    },
+    {
+      "word": "portals.",
+      "start": 12.26,
+      "end": 12.82
+    },
+    {
+      "word": "Repetitive",
+      "start": 13.22,
+      "end": 13.66
+    },
+    {
+      "word": "copipasting",
+      "start": 13.66,
+      "end": 14.56
+    },
+    {
+      "word": "inevitably",
+      "start": 14.56,
+      "end": 15.1
+    },
+    {
+      "word": "causes",
+      "start": 15.1,
+      "end": 15.64
+    },
+    {
+      "word": "billing",
+      "start": 15.64,
+      "end": 16.02
+    },
+    {
+      "word": "typos",
+      "start": 16.02,
+      "end": 16.56
+    },
+    {
+      "word": "and",
+      "start": 16.56,
+      "end": 16.8
+    },
+    {
+      "word": "delays",
+      "start": 16.8,
+      "end": 17.04
+    },
+    {
+      "word": "inventory",
+      "start": 17.04,
+      "end": 17.6
+    },
+    {
+      "word": "shipments",
+      "start": 17.6,
+      "end": 18.04
+    },
+    {
+      "word": "by",
+      "start": 18.04,
+      "end": 18.46
+    },
+    {
+      "word": "several",
+      "start": 18.46,
+      "end": 18.74
+    },
+    {
+      "word": "business",
+      "start": 18.74,
+      "end": 19.08
+    },
+    {
+      "word": "days.",
+      "start": 19.08,
+      "end": 19.62
+    },
+    {
+      "word": "Autonomous",
+      "start": 20.18,
+      "end": 20.62
+    },
+    {
+      "word": "browser",
+      "start": 20.62,
+      "end": 21.06
+    },
+    {
+      "word": "assistance",
+      "start": 21.06,
+      "end": 21.56
+    },
+    {
+      "word": "use",
+      "start": 21.56,
+      "end": 21.96
+    },
+    {
+      "word": "computer",
+      "start": 21.96,
+      "end": 22.3
+    },
+    {
+      "word": "vision",
+      "start": 22.3,
+      "end": 22.76
+    },
+    {
+      "word": "and",
+      "start": 22.76,
+      "end": 23.16
+    },
+    {
+      "word": "DOM",
+      "start": 23.16,
+      "end": 23.56
+    },
+    {
+      "word": "navigation",
+      "start": 23.56,
+      "end": 24.08
+    },
+    {
+      "word": "to",
+      "start": 24.08,
+      "end": 24.52
+    },
+    {
+      "word": "log",
+      "start": 24.52,
+      "end": 24.78
+    },
+    {
+      "word": "in,",
+      "start": 24.78,
+      "end": 25.4
+    },
+    {
+      "word": "validate",
+      "start": 25.66,
+      "end": 25.78
+    },
+    {
+      "word": "fields,",
+      "start": 25.78,
+      "end": 26.4
+    },
+    {
+      "word": "and",
+      "start": 26.74,
+      "end": 27.08
+    },
+    {
+      "word": "submit",
+      "start": 27.08,
+      "end": 27.34
+    },
+    {
+      "word": "records",
+      "start": 27.34,
+      "end": 27.76
+    },
+    {
+      "word": "seamlessly.",
+      "start": 27.76,
+      "end": 28.3
+    },
+    {
+      "word": "This",
+      "start": 28.3,
+      "end": 29.16
+    },
+    {
+      "word": "eliminates",
+      "start": 29.16,
+      "end": 29.72
+    },
+    {
+      "word": "clerical",
+      "start": 29.72,
+      "end": 30.28
+    },
+    {
+      "word": "human",
+      "start": 30.28,
+      "end": 30.72
+    },
+    {
+      "word": "error",
+      "start": 30.72,
+      "end": 31.0
+    },
+    {
+      "word": "entirely.",
+      "start": 31.0,
+      "end": 31.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Watch this AI navigate complex web apps and fill out online forms for you.",
+      "line2": "PERPLEXITY BROWSER AUTOMATION TOOLS",
+      "tag": "\ud83d\uded1 Perplexity AI computer assistant and browser automation tools",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Perplexity AI computer assistant and browser automation tools",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Perplexity AI computer assistant and browser automation tools",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

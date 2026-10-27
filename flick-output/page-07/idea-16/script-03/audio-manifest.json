@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Automated SEO programmatic page generator for startup growth",
+  "text": "Stop writing one blog post a week and build scalable comparison pages instead. Spending forty hours crafting thought-leadership articles rarely produces qualified software signups or measurable revenue. High-intent software buyers search for direct competitor comparisons right before making their final purchasing decision. Populate feature data in Airtable and map it to Webflow CMS to launch comparison pages automatically. You intercept ready-to-buy customers at zero acquisition cost.",
+  "duration": 30.863,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "writing",
+      "start": 0.42,
+      "end": 0.76
+    },
+    {
+      "word": "one",
+      "start": 0.76,
+      "end": 1.12
+    },
+    {
+      "word": "blog",
+      "start": 1.12,
+      "end": 1.44
+    },
+    {
+      "word": "post",
+      "start": 1.44,
+      "end": 1.74
+    },
+    {
+      "word": "a",
+      "start": 1.74,
+      "end": 1.92
+    },
+    {
+      "word": "week",
+      "start": 1.92,
+      "end": 2.38
+    },
+    {
+      "word": "and",
+      "start": 2.38,
+      "end": 2.56
+    },
+    {
+      "word": "build",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "word": "scalable",
+      "start": 2.88,
+      "end": 3.36
+    },
+    {
+      "word": "comparison",
+      "start": 3.36,
+      "end": 3.98
+    },
+    {
+      "word": "pages",
+      "start": 3.98,
+      "end": 4.5
+    },
+    {
+      "word": "instead.",
+      "start": 4.5,
+      "end": 5.3
+    },
+    {
+      "word": "Spending",
+      "start": 5.88,
+      "end": 5.92
+    },
+    {
+      "word": "40",
+      "start": 5.92,
+      "end": 6.42
+    },
+    {
+      "word": "hours",
+      "start": 6.42,
+      "end": 6.8
+    },
+    {
+      "word": "crafting",
+      "start": 6.8,
+      "end": 7.28
+    },
+    {
+      "word": "thought",
+      "start": 7.28,
+      "end": 7.56
+    },
+    {
+      "word": "leadership",
+      "start": 7.56,
+      "end": 7.98
+    },
+    {
+      "word": "articles",
+      "start": 7.98,
+      "end": 8.6
+    },
+    {
+      "word": "rarely",
+      "start": 8.6,
+      "end": 9.14
+    },
+    {
+      "word": "produces",
+      "start": 9.14,
+      "end": 9.64
+    },
+    {
+      "word": "qualified",
+      "start": 9.64,
+      "end": 10.16
+    },
+    {
+      "word": "software",
+      "start": 10.16,
+      "end": 10.82
+    },
+    {
+      "word": "signups",
+      "start": 10.82,
+      "end": 11.36
+    },
+    {
+      "word": "or",
+      "start": 11.36,
+      "end": 11.94
+    },
+    {
+      "word": "measurable",
+      "start": 11.94,
+      "end": 12.4
+    },
+    {
+      "word": "revenue.",
+      "start": 12.4,
+      "end": 12.86
+    },
+    {
+      "word": "High",
+      "start": 13.36,
+      "end": 13.52
+    },
+    {
+      "word": "-intent",
+      "start": 13.52,
+      "end": 13.76
+    },
+    {
+      "word": "software",
+      "start": 13.76,
+      "end": 14.24
+    },
+    {
+      "word": "buyers",
+      "start": 14.24,
+      "end": 14.68
+    },
+    {
+      "word": "search",
+      "start": 14.68,
+      "end": 14.94
+    },
+    {
+      "word": "for",
+      "start": 14.94,
+      "end": 15.2
+    },
+    {
+      "word": "direct",
+      "start": 15.2,
+      "end": 15.56
+    },
+    {
+      "word": "competitor",
+      "start": 15.56,
+      "end": 16.08
+    },
+    {
+      "word": "comparisons",
+      "start": 16.08,
+      "end": 16.72
+    },
+    {
+      "word": "right",
+      "start": 16.72,
+      "end": 17.42
+    },
+    {
+      "word": "before",
+      "start": 17.42,
+      "end": 17.66
+    },
+    {
+      "word": "making",
+      "start": 17.66,
+      "end": 17.94
+    },
+    {
+      "word": "their",
+      "start": 17.94,
+      "end": 18.32
+    },
+    {
+      "word": "final",
+      "start": 18.32,
+      "end": 18.64
+    },
+    {
+      "word": "purchasing",
+      "start": 18.64,
+      "end": 19.04
+    },
+    {
+      "word": "decision.",
+      "start": 19.04,
+      "end": 19.76
+    },
+    {
+      "word": "Populate",
+      "start": 20.22,
+      "end": 20.66
+    },
+    {
+      "word": "feature",
+      "start": 20.66,
+      "end": 21.02
+    },
+    {
+      "word": "data",
+      "start": 21.02,
+      "end": 21.34
+    },
+    {
+      "word": "in",
+      "start": 21.34,
+      "end": 21.6
+    },
+    {
+      "word": "Airtable",
+      "start": 21.6,
+      "end": 22.04
+    },
+    {
+      "word": "and",
+      "start": 22.04,
+      "end": 22.52
+    },
+    {
+      "word": "map",
+      "start": 22.52,
+      "end": 22.74
+    },
+    {
+      "word": "it",
+      "start": 22.74,
+      "end": 22.92
+    },
+    {
+      "word": "to",
+      "start": 22.92,
+      "end": 23.1
+    },
+    {
+      "word": "Webflow",
+      "start": 23.1,
+      "end": 23.54
+    },
+    {
+      "word": "CMS",
+      "start": 23.54,
+      "end": 23.98
+    },
+    {
+      "word": "to",
+      "start": 23.98,
+      "end": 24.54
+    },
+    {
+      "word": "launch",
+      "start": 24.54,
+      "end": 24.84
+    },
+    {
+      "word": "comparison",
+      "start": 24.84,
+      "end": 25.4
+    },
+    {
+      "word": "pages",
+      "start": 25.4,
+      "end": 25.98
+    },
+    {
+      "word": "automatically.",
+      "start": 25.98,
+      "end": 26.54
+    },
+    {
+      "word": "You",
+      "start": 26.54,
+      "end": 27.36
+    },
+    {
+      "word": "intercept",
+      "start": 27.36,
+      "end": 27.74
+    },
+    {
+      "word": "ready",
+      "start": 27.74,
+      "end": 28.1
+    },
+    {
+      "word": "to",
+      "start": 28.1,
+      "end": 28.3
+    },
+    {
+      "word": "buy",
+      "start": 28.3,
+      "end": 28.54
+    },
+    {
+      "word": "customers",
+      "start": 28.54,
+      "end": 28.94
+    },
+    {
+      "word": "at",
+      "start": 28.94,
+      "end": 29.4
+    },
+    {
+      "word": "zero",
+      "start": 29.4,
+      "end": 29.86
+    },
+    {
+      "word": "acquisition",
+      "start": 29.86,
+      "end": 30.32
+    },
+    {
+      "word": "cost.",
+      "start": 30.32,
+      "end": 30.84
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop manually writing one blog post a week: build scalable comparison pages.",
+      "line2": "PROGRAMMATIC SEO PAGES",
+      "tag": "\ud83d\uded1 Automated SEO programmatic page generator for startup growth",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SEO programmatic page generator for startup growth",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "page": "page-10",
+  "idea": "CapCut desktop AI avatar and voice translation upgrades",
+  "text": "Cursor just added multi-file background agents and solo developers are shipping full products in a single weekend. Solo founders spend exhausting hours manually scaffolding schemas, writing REST routes, and debugging boilerplate migrations. That context switching drains deep mental focus away from core product architecture and design. Cursor's background agent navigates entire codebases, edits interrelated files simultaneously, and runs terminal tests independently. You ship full-stack applications at 10x speed.",
+  "duration": 32.57,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Cursor",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "just",
+      "start": 0.3,
+      "end": 0.76
+    },
+    {
+      "word": "added",
+      "start": 0.76,
+      "end": 1.06
+    },
+    {
+      "word": "multi",
+      "start": 1.06,
+      "end": 1.36
+    },
+    {
+      "word": "-file",
+      "start": 1.36,
+      "end": 1.78
+    },
+    {
+      "word": "background",
+      "start": 1.78,
+      "end": 2.24
+    },
+    {
+      "word": "agents,",
+      "start": 2.24,
+      "end": 2.68
+    },
+    {
+      "word": "and",
+      "start": 2.92,
+      "end": 3.22
+    },
+    {
+      "word": "solo",
+      "start": 3.22,
+      "end": 3.4
+    },
+    {
+      "word": "developers",
+      "start": 3.4,
+      "end": 3.8
+    },
+    {
+      "word": "are",
+      "start": 3.8,
+      "end": 4.32
+    },
+    {
+      "word": "shipping",
+      "start": 4.32,
+      "end": 4.54
+    },
+    {
+      "word": "full",
+      "start": 4.54,
+      "end": 4.94
+    },
+    {
+      "word": "products",
+      "start": 4.94,
+      "end": 5.3
+    },
+    {
+      "word": "in",
+      "start": 5.3,
+      "end": 5.48
+    },
+    {
+      "word": "a",
+      "start": 5.48,
+      "end": 5.64
+    },
+    {
+      "word": "single",
+      "start": 5.64,
+      "end": 5.9
+    },
+    {
+      "word": "weekend.",
+      "start": 5.9,
+      "end": 6.48
+    },
+    {
+      "word": "Solo",
+      "start": 7.04,
+      "end": 7.28
+    },
+    {
+      "word": "founders",
+      "start": 7.28,
+      "end": 7.84
+    },
+    {
+      "word": "spend",
+      "start": 7.84,
+      "end": 8.28
+    },
+    {
+      "word": "exhausting",
+      "start": 8.28,
+      "end": 8.9
+    },
+    {
+      "word": "hours",
+      "start": 8.9,
+      "end": 9.36
+    },
+    {
+      "word": "manually",
+      "start": 9.36,
+      "end": 9.84
+    },
+    {
+      "word": "scaffolding",
+      "start": 9.84,
+      "end": 10.38
+    },
+    {
+      "word": "schemas,",
+      "start": 10.38,
+      "end": 10.88
+    },
+    {
+      "word": "riding",
+      "start": 11.4,
+      "end": 11.58
+    },
+    {
+      "word": "rest",
+      "start": 11.58,
+      "end": 11.92
+    },
+    {
+      "word": "routes,",
+      "start": 11.92,
+      "end": 12.28
+    },
+    {
+      "word": "and",
+      "start": 12.68,
+      "end": 12.9
+    },
+    {
+      "word": "debugging",
+      "start": 12.9,
+      "end": 13.2
+    },
+    {
+      "word": "boilerplate",
+      "start": 13.2,
+      "end": 13.9
+    },
+    {
+      "word": "migrations.",
+      "start": 13.9,
+      "end": 14.54
+    },
+    {
+      "word": "The",
+      "start": 14.96,
+      "end": 15.2
+    },
+    {
+      "word": "context",
+      "start": 15.2,
+      "end": 15.44
+    },
+    {
+      "word": "switching",
+      "start": 15.44,
+      "end": 16.04
+    },
+    {
+      "word": "drains",
+      "start": 16.04,
+      "end": 16.38
+    },
+    {
+      "word": "deep",
+      "start": 16.38,
+      "end": 16.74
+    },
+    {
+      "word": "mental",
+      "start": 16.74,
+      "end": 17.06
+    },
+    {
+      "word": "focus",
+      "start": 17.06,
+      "end": 17.48
+    },
+    {
+      "word": "away",
+      "start": 17.48,
+      "end": 17.8
+    },
+    {
+      "word": "from",
+      "start": 17.8,
+      "end": 18.1
+    },
+    {
+      "word": "core",
+      "start": 18.1,
+      "end": 18.46
+    },
+    {
+      "word": "product",
+      "start": 18.46,
+      "end": 18.76
+    },
+    {
+      "word": "architecture",
+      "start": 18.76,
+      "end": 19.3
+    },
+    {
+      "word": "and",
+      "start": 19.3,
+      "end": 19.6
+    },
+    {
+      "word": "design.",
+      "start": 19.6,
+      "end": 20.04
+    },
+    {
+      "word": "Cursor's",
+      "start": 20.74,
+      "end": 21.12
+    },
+    {
+      "word": "background",
+      "start": 21.12,
+      "end": 21.58
+    },
+    {
+      "word": "agent",
+      "start": 21.58,
+      "end": 22.02
+    },
+    {
+      "word": "navigates",
+      "start": 22.02,
+      "end": 22.58
+    },
+    {
+      "word": "entire",
+      "start": 22.58,
+      "end": 23.14
+    },
+    {
+      "word": "code",
+      "start": 23.14,
+      "end": 23.4
+    },
+    {
+      "word": "bases",
+      "start": 23.4,
+      "end": 23.76
+    },
+    {
+      "word": "at",
+      "start": 23.76,
+      "end": 24.32
+    },
+    {
+      "word": "its",
+      "start": 24.32,
+      "end": 24.58
+    },
+    {
+      "word": "interrelated",
+      "start": 24.58,
+      "end": 25.08
+    },
+    {
+      "word": "files",
+      "start": 25.08,
+      "end": 25.6
+    },
+    {
+      "word": "simultaneously",
+      "start": 25.6,
+      "end": 26.32
+    },
+    {
+      "word": "and",
+      "start": 26.7,
+      "end": 27.1
+    },
+    {
+      "word": "runs",
+      "start": 27.1,
+      "end": 27.46
+    },
+    {
+      "word": "terminal",
+      "start": 27.46,
+      "end": 27.82
+    },
+    {
+      "word": "tests",
+      "start": 27.82,
+      "end": 28.3
+    },
+    {
+      "word": "independently.",
+      "start": 28.3,
+      "end": 28.92
+    },
+    {
+      "word": "You",
+      "start": 28.92,
+      "end": 29.76
+    },
+    {
+      "word": "ship",
+      "start": 29.76,
+      "end": 30.04
+    },
+    {
+      "word": "full",
+      "start": 30.04,
+      "end": 30.34
+    },
+    {
+      "word": "stack",
+      "start": 30.34,
+      "end": 30.6
+    },
+    {
+      "word": "applications",
+      "start": 30.6,
+      "end": 31.28
+    },
+    {
+      "word": "at",
+      "start": 31.28,
+      "end": 31.6
+    },
+    {
+      "word": "10x",
+      "start": 31.6,
+      "end": 32.16
+    },
+    {
+      "word": "speed.",
+      "start": 32.16,
+      "end": 32.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "CapCut just released studio-quality AI dubbing that matches your exact lip movements.",
+      "line2": "CAPCUT AI AVATAR TRANSLATION",
+      "tag": "\ud83d\uded1 CapCut desktop AI avatar and voice translation upgrades",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: CapCut desktop AI avatar and voice translation upgrades",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: CapCut desktop AI avatar and voice translation upgrades",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

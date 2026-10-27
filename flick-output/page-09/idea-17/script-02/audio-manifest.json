@@ -1,0 +1,386 @@
+{
+  "page": "page-09",
+  "idea": "Ghost vs Substack: which platform is better for building a media business",
+  "text": "Substack's ten percent revenue cut becomes insanely expensive once your publication scales. Writers celebrate landing members, but platform commissions quietly eat away at recurring profits. At ten thousand dollars monthly revenue, Substack takes twelve thousand dollars every year for basic hosting. Switching to Ghost charges a flat fee, routing all Stripe payments straight to your bank. This saves you thousands in annual revenue while preserving your branding.",
+  "duration": 25.237,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Substex",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "10",
+      "start": 0.5,
+      "end": 0.84
+    },
+    {
+      "word": "%",
+      "start": 0.84,
+      "end": 1.16
+    },
+    {
+      "word": "revenue",
+      "start": 1.16,
+      "end": 1.34
+    },
+    {
+      "word": "cut",
+      "start": 1.34,
+      "end": 1.68
+    },
+    {
+      "word": "becomes",
+      "start": 1.68,
+      "end": 2.04
+    },
+    {
+      "word": "insanely",
+      "start": 2.04,
+      "end": 2.5
+    },
+    {
+      "word": "expensive",
+      "start": 2.5,
+      "end": 3.06
+    },
+    {
+      "word": "once",
+      "start": 3.06,
+      "end": 3.38
+    },
+    {
+      "word": "your",
+      "start": 3.38,
+      "end": 3.72
+    },
+    {
+      "word": "publication",
+      "start": 3.72,
+      "end": 3.98
+    },
+    {
+      "word": "scales.",
+      "start": 3.98,
+      "end": 4.76
+    },
+    {
+      "word": "Writers",
+      "start": 5.42,
+      "end": 5.42
+    },
+    {
+      "word": "celebrate",
+      "start": 5.42,
+      "end": 5.88
+    },
+    {
+      "word": "landing",
+      "start": 5.88,
+      "end": 6.3
+    },
+    {
+      "word": "members,",
+      "start": 6.3,
+      "end": 6.68
+    },
+    {
+      "word": "but",
+      "start": 7.06,
+      "end": 7.22
+    },
+    {
+      "word": "platform",
+      "start": 7.22,
+      "end": 7.52
+    },
+    {
+      "word": "commissions",
+      "start": 7.52,
+      "end": 7.98
+    },
+    {
+      "word": "quietly",
+      "start": 7.98,
+      "end": 8.46
+    },
+    {
+      "word": "eat",
+      "start": 8.46,
+      "end": 8.66
+    },
+    {
+      "word": "away",
+      "start": 8.66,
+      "end": 8.84
+    },
+    {
+      "word": "at",
+      "start": 8.84,
+      "end": 9.1
+    },
+    {
+      "word": "recurring",
+      "start": 9.1,
+      "end": 9.44
+    },
+    {
+      "word": "profits.",
+      "start": 9.44,
+      "end": 9.94
+    },
+    {
+      "word": "At",
+      "start": 10.44,
+      "end": 10.6
+    },
+    {
+      "word": "$10",
+      "start": 10.6,
+      "end": 10.84
+    },
+    {
+      "word": ",000",
+      "start": 10.84,
+      "end": 11.42
+    },
+    {
+      "word": "monthly",
+      "start": 11.42,
+      "end": 11.8
+    },
+    {
+      "word": "revenue,",
+      "start": 11.8,
+      "end": 12.34
+    },
+    {
+      "word": "Substex",
+      "start": 12.78,
+      "end": 13.0
+    },
+    {
+      "word": "takes",
+      "start": 13.0,
+      "end": 13.28
+    },
+    {
+      "word": "$12",
+      "start": 13.28,
+      "end": 13.74
+    },
+    {
+      "word": ",000",
+      "start": 13.74,
+      "end": 14.46
+    },
+    {
+      "word": "every",
+      "start": 14.46,
+      "end": 14.72
+    },
+    {
+      "word": "year",
+      "start": 14.72,
+      "end": 15.02
+    },
+    {
+      "word": "for",
+      "start": 15.02,
+      "end": 15.24
+    },
+    {
+      "word": "basic",
+      "start": 15.24,
+      "end": 15.58
+    },
+    {
+      "word": "hosting.",
+      "start": 15.58,
+      "end": 16.08
+    },
+    {
+      "word": "Switching",
+      "start": 16.58,
+      "end": 16.94
+    },
+    {
+      "word": "to",
+      "start": 16.94,
+      "end": 17.12
+    },
+    {
+      "word": "Ghost",
+      "start": 17.12,
+      "end": 17.42
+    },
+    {
+      "word": "charges",
+      "start": 17.42,
+      "end": 17.8
+    },
+    {
+      "word": "a",
+      "start": 17.8,
+      "end": 18.06
+    },
+    {
+      "word": "flat",
+      "start": 18.06,
+      "end": 18.32
+    },
+    {
+      "word": "fee,",
+      "start": 18.32,
+      "end": 18.74
+    },
+    {
+      "word": "routing",
+      "start": 19.26,
+      "end": 19.26
+    },
+    {
+      "word": "all",
+      "start": 19.26,
+      "end": 19.72
+    },
+    {
+      "word": "stripe",
+      "start": 19.72,
+      "end": 20.02
+    },
+    {
+      "word": "payments",
+      "start": 20.02,
+      "end": 20.42
+    },
+    {
+      "word": "straight",
+      "start": 20.42,
+      "end": 20.7
+    },
+    {
+      "word": "to",
+      "start": 20.7,
+      "end": 20.82
+    },
+    {
+      "word": "your",
+      "start": 20.82,
+      "end": 20.98
+    },
+    {
+      "word": "bank.",
+      "start": 20.98,
+      "end": 21.26
+    },
+    {
+      "word": "This",
+      "start": 21.72,
+      "end": 21.94
+    },
+    {
+      "word": "saves",
+      "start": 21.94,
+      "end": 22.16
+    },
+    {
+      "word": "you",
+      "start": 22.16,
+      "end": 22.42
+    },
+    {
+      "word": "thousands",
+      "start": 22.42,
+      "end": 22.84
+    },
+    {
+      "word": "in",
+      "start": 22.84,
+      "end": 23.12
+    },
+    {
+      "word": "annual",
+      "start": 23.12,
+      "end": 23.44
+    },
+    {
+      "word": "revenue",
+      "start": 23.44,
+      "end": 23.78
+    },
+    {
+      "word": "while",
+      "start": 23.78,
+      "end": 24.2
+    },
+    {
+      "word": "preserving",
+      "start": 24.2,
+      "end": 24.46
+    },
+    {
+      "word": "your",
+      "start": 24.46,
+      "end": 24.8
+    },
+    {
+      "word": "branding.",
+      "start": 24.8,
+      "end": 25.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why Substack's 10 percent revenue cut becomes insanely expensive once you grow.",
+      "line2": "GHOST VS SUBSTACK",
+      "tag": "\ud83d\uded1 Ghost vs Substack",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Ghost vs Substack",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Ghost vs Substack",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Ghost vs Substack",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

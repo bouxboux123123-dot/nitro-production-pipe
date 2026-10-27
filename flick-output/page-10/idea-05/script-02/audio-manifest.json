@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Figma AI design tools launch and layout generation features",
+  "text": "Generate entire mobile UI screens from a single text description in Figma. Designing checkout flows and onboarding states manually takes an entire afternoon of tedious pixel pushing. Designers get bogged down configuring spacing variables, button states, and typography before pitching core ideas. Typing a prompt into Figma AI instantly generates production-ready layouts with responsive variants and realistic copy. You ship client-ready UI concepts in ten minutes.",
+  "duration": 29.157,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Generate",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "word": "entire",
+      "start": 0.62,
+      "end": 1.14
+    },
+    {
+      "word": "mobile",
+      "start": 1.14,
+      "end": 1.56
+    },
+    {
+      "word": "UI",
+      "start": 1.56,
+      "end": 1.98
+    },
+    {
+      "word": "screens",
+      "start": 1.98,
+      "end": 2.4
+    },
+    {
+      "word": "from",
+      "start": 2.4,
+      "end": 2.72
+    },
+    {
+      "word": "a",
+      "start": 2.72,
+      "end": 2.9
+    },
+    {
+      "word": "single",
+      "start": 2.9,
+      "end": 3.16
+    },
+    {
+      "word": "text",
+      "start": 3.16,
+      "end": 3.48
+    },
+    {
+      "word": "description",
+      "start": 3.48,
+      "end": 3.98
+    },
+    {
+      "word": "in",
+      "start": 3.98,
+      "end": 4.28
+    },
+    {
+      "word": "Figma.",
+      "start": 4.28,
+      "end": 5.0
+    },
+    {
+      "word": "Designing",
+      "start": 5.32,
+      "end": 5.76
+    },
+    {
+      "word": "checkout",
+      "start": 5.76,
+      "end": 6.14
+    },
+    {
+      "word": "flows",
+      "start": 6.14,
+      "end": 6.56
+    },
+    {
+      "word": "and",
+      "start": 6.56,
+      "end": 6.8
+    },
+    {
+      "word": "onboarding",
+      "start": 6.8,
+      "end": 7.3
+    },
+    {
+      "word": "states",
+      "start": 7.3,
+      "end": 7.76
+    },
+    {
+      "word": "manually",
+      "start": 7.76,
+      "end": 8.22
+    },
+    {
+      "word": "takes",
+      "start": 8.22,
+      "end": 8.64
+    },
+    {
+      "word": "an",
+      "start": 8.64,
+      "end": 8.86
+    },
+    {
+      "word": "entire",
+      "start": 8.86,
+      "end": 9.2
+    },
+    {
+      "word": "afternoon",
+      "start": 9.2,
+      "end": 9.84
+    },
+    {
+      "word": "of",
+      "start": 9.84,
+      "end": 10.22
+    },
+    {
+      "word": "tedious",
+      "start": 10.22,
+      "end": 10.48
+    },
+    {
+      "word": "pixel",
+      "start": 10.48,
+      "end": 10.9
+    },
+    {
+      "word": "pushing.",
+      "start": 10.9,
+      "end": 11.36
+    },
+    {
+      "word": "Designers",
+      "start": 11.72,
+      "end": 12.14
+    },
+    {
+      "word": "get",
+      "start": 12.14,
+      "end": 12.5
+    },
+    {
+      "word": "bogged",
+      "start": 12.5,
+      "end": 12.88
+    },
+    {
+      "word": "down",
+      "start": 12.88,
+      "end": 13.12
+    },
+    {
+      "word": "configuring",
+      "start": 13.12,
+      "end": 13.72
+    },
+    {
+      "word": "spacing",
+      "start": 13.72,
+      "end": 14.16
+    },
+    {
+      "word": "variables,",
+      "start": 14.16,
+      "end": 14.62
+    },
+    {
+      "word": "button",
+      "start": 15.2,
+      "end": 15.2
+    },
+    {
+      "word": "states,",
+      "start": 15.2,
+      "end": 15.6
+    },
+    {
+      "word": "and",
+      "start": 16.0,
+      "end": 16.24
+    },
+    {
+      "word": "typography",
+      "start": 16.24,
+      "end": 16.76
+    },
+    {
+      "word": "before",
+      "start": 16.76,
+      "end": 17.14
+    },
+    {
+      "word": "pitching",
+      "start": 17.14,
+      "end": 17.42
+    },
+    {
+      "word": "core",
+      "start": 17.42,
+      "end": 17.8
+    },
+    {
+      "word": "ideas.",
+      "start": 17.8,
+      "end": 18.28
+    },
+    {
+      "word": "Typing",
+      "start": 19.04,
+      "end": 19.28
+    },
+    {
+      "word": "a",
+      "start": 19.28,
+      "end": 19.4
+    },
+    {
+      "word": "prompt",
+      "start": 19.4,
+      "end": 19.58
+    },
+    {
+      "word": "into",
+      "start": 19.58,
+      "end": 19.86
+    },
+    {
+      "word": "Figma",
+      "start": 19.86,
+      "end": 20.22
+    },
+    {
+      "word": "AI",
+      "start": 20.22,
+      "end": 20.76
+    },
+    {
+      "word": "instantly",
+      "start": 20.76,
+      "end": 21.2
+    },
+    {
+      "word": "generates",
+      "start": 21.2,
+      "end": 21.88
+    },
+    {
+      "word": "production",
+      "start": 21.88,
+      "end": 22.42
+    },
+    {
+      "word": "-ready",
+      "start": 22.42,
+      "end": 22.66
+    },
+    {
+      "word": "layouts",
+      "start": 22.66,
+      "end": 23.04
+    },
+    {
+      "word": "with",
+      "start": 23.04,
+      "end": 23.44
+    },
+    {
+      "word": "responsive",
+      "start": 23.44,
+      "end": 23.9
+    },
+    {
+      "word": "variants",
+      "start": 23.9,
+      "end": 24.42
+    },
+    {
+      "word": "and",
+      "start": 24.42,
+      "end": 24.76
+    },
+    {
+      "word": "realistic",
+      "start": 24.76,
+      "end": 25.1
+    },
+    {
+      "word": "copy.",
+      "start": 25.1,
+      "end": 25.62
+    },
+    {
+      "word": "You",
+      "start": 25.62,
+      "end": 26.38
+    },
+    {
+      "word": "ship",
+      "start": 26.38,
+      "end": 26.64
+    },
+    {
+      "word": "client",
+      "start": 26.64,
+      "end": 27.0
+    },
+    {
+      "word": "-ready",
+      "start": 27.0,
+      "end": 27.3
+    },
+    {
+      "word": "UI",
+      "start": 27.3,
+      "end": 27.74
+    },
+    {
+      "word": "concepts",
+      "start": 27.74,
+      "end": 28.18
+    },
+    {
+      "word": "in",
+      "start": 28.18,
+      "end": 28.46
+    },
+    {
+      "word": "10",
+      "start": 28.46,
+      "end": 28.76
+    },
+    {
+      "word": "minutes.",
+      "start": 28.76,
+      "end": 29.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Generate entire mobile UI screens from a single text description in Figma.",
+      "line2": "FIGMA AI DESIGN TOOLS",
+      "tag": "\ud83d\uded1 Figma AI design tools launch and layout generation features",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Figma AI design tools launch and layout generation features",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Automated hiring pipeline that screens inbound candidate applications",
+  "text": "You can hire world-class talent without paying for an expensive recruiter. Early-stage startups cannot justify twenty-thousand-dollar headhunter fees just to source and screen inbound engineering applicants. Trying to manually review submissions, score portfolios, and schedule phone screens consumes twenty executive hours weekly. Build an automated screening pipeline using Airtable, OpenAI resume evaluation, and automated Calendly booking triggers. You hire exceptional operators without burning runway.",
+  "duration": 31.546,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "can",
+      "start": 0.14,
+      "end": 0.28
+    },
+    {
+      "word": "hire",
+      "start": 0.28,
+      "end": 0.52
+    },
+    {
+      "word": "world",
+      "start": 0.52,
+      "end": 0.96
+    },
+    {
+      "word": "-class",
+      "start": 0.96,
+      "end": 1.26
+    },
+    {
+      "word": "talent",
+      "start": 1.26,
+      "end": 1.66
+    },
+    {
+      "word": "without",
+      "start": 1.66,
+      "end": 2.0
+    },
+    {
+      "word": "paying",
+      "start": 2.0,
+      "end": 2.4
+    },
+    {
+      "word": "for",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "word": "an",
+      "start": 2.56,
+      "end": 2.8
+    },
+    {
+      "word": "expensive",
+      "start": 2.8,
+      "end": 3.22
+    },
+    {
+      "word": "recruiter.",
+      "start": 3.22,
+      "end": 4.02
+    },
+    {
+      "word": "Earless",
+      "start": 4.48,
+      "end": 4.72
+    },
+    {
+      "word": "stage",
+      "start": 4.72,
+      "end": 5.06
+    },
+    {
+      "word": "startups",
+      "start": 5.06,
+      "end": 5.46
+    },
+    {
+      "word": "cannot",
+      "start": 5.46,
+      "end": 5.98
+    },
+    {
+      "word": "justify",
+      "start": 5.98,
+      "end": 6.54
+    },
+    {
+      "word": "$20",
+      "start": 6.54,
+      "end": 7.04
+    },
+    {
+      "word": ",000",
+      "start": 7.04,
+      "end": 7.74
+    },
+    {
+      "word": "headhunter",
+      "start": 7.74,
+      "end": 8.3
+    },
+    {
+      "word": "fees,",
+      "start": 8.3,
+      "end": 8.76
+    },
+    {
+      "word": "just",
+      "start": 9.06,
+      "end": 9.36
+    },
+    {
+      "word": "to",
+      "start": 9.36,
+      "end": 9.58
+    },
+    {
+      "word": "source,",
+      "start": 9.58,
+      "end": 9.9
+    },
+    {
+      "word": "and",
+      "start": 10.14,
+      "end": 10.38
+    },
+    {
+      "word": "screen",
+      "start": 10.38,
+      "end": 10.78
+    },
+    {
+      "word": "inbound",
+      "start": 10.78,
+      "end": 11.34
+    },
+    {
+      "word": "engineering",
+      "start": 11.34,
+      "end": 11.92
+    },
+    {
+      "word": "applicants.",
+      "start": 11.92,
+      "end": 12.54
+    },
+    {
+      "word": "Trying",
+      "start": 13.16,
+      "end": 13.16
+    },
+    {
+      "word": "to",
+      "start": 13.16,
+      "end": 13.48
+    },
+    {
+      "word": "manually",
+      "start": 13.48,
+      "end": 13.74
+    },
+    {
+      "word": "review",
+      "start": 13.74,
+      "end": 14.14
+    },
+    {
+      "word": "submissions,",
+      "start": 14.14,
+      "end": 14.7
+    },
+    {
+      "word": "score",
+      "start": 15.14,
+      "end": 15.4
+    },
+    {
+      "word": "portfolios,",
+      "start": 15.4,
+      "end": 15.92
+    },
+    {
+      "word": "and",
+      "start": 16.28,
+      "end": 16.5
+    },
+    {
+      "word": "schedule",
+      "start": 16.5,
+      "end": 16.8
+    },
+    {
+      "word": "phone",
+      "start": 16.8,
+      "end": 17.2
+    },
+    {
+      "word": "screens",
+      "start": 17.2,
+      "end": 17.64
+    },
+    {
+      "word": "consumes",
+      "start": 17.64,
+      "end": 18.18
+    },
+    {
+      "word": "20",
+      "start": 18.18,
+      "end": 18.7
+    },
+    {
+      "word": "executive",
+      "start": 18.7,
+      "end": 19.22
+    },
+    {
+      "word": "hours",
+      "start": 19.22,
+      "end": 19.6
+    },
+    {
+      "word": "weekly.",
+      "start": 19.6,
+      "end": 20.26
+    },
+    {
+      "word": "Build",
+      "start": 20.8,
+      "end": 20.84
+    },
+    {
+      "word": "an",
+      "start": 20.84,
+      "end": 21.28
+    },
+    {
+      "word": "automated",
+      "start": 21.28,
+      "end": 21.46
+    },
+    {
+      "word": "screening",
+      "start": 21.46,
+      "end": 21.94
+    },
+    {
+      "word": "pipeline",
+      "start": 21.94,
+      "end": 22.36
+    },
+    {
+      "word": "using",
+      "start": 22.36,
+      "end": 22.88
+    },
+    {
+      "word": "irritable,",
+      "start": 22.88,
+      "end": 23.46
+    },
+    {
+      "word": "open",
+      "start": 24.08,
+      "end": 24.08
+    },
+    {
+      "word": "AI",
+      "start": 24.08,
+      "end": 24.6
+    },
+    {
+      "word": "resume",
+      "start": 24.6,
+      "end": 24.92
+    },
+    {
+      "word": "evaluation,",
+      "start": 24.92,
+      "end": 25.62
+    },
+    {
+      "word": "and",
+      "start": 26.1,
+      "end": 26.38
+    },
+    {
+      "word": "automated",
+      "start": 26.38,
+      "end": 26.74
+    },
+    {
+      "word": "calently",
+      "start": 26.74,
+      "end": 27.3
+    },
+    {
+      "word": "booking",
+      "start": 27.3,
+      "end": 27.64
+    },
+    {
+      "word": "triggers.",
+      "start": 27.64,
+      "end": 28.1
+    },
+    {
+      "word": "You",
+      "start": 28.1,
+      "end": 28.84
+    },
+    {
+      "word": "hire",
+      "start": 28.84,
+      "end": 29.1
+    },
+    {
+      "word": "exceptional",
+      "start": 29.1,
+      "end": 29.68
+    },
+    {
+      "word": "operators",
+      "start": 29.68,
+      "end": 30.24
+    },
+    {
+      "word": "without",
+      "start": 30.24,
+      "end": 30.76
+    },
+    {
+      "word": "burning",
+      "start": 30.76,
+      "end": 31.1
+    },
+    {
+      "word": "runway.",
+      "start": 31.1,
+      "end": 31.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Hire world-class talent without hiring an in-house recruiter yet.",
+      "line2": "AUTO-SCREEN CANDIDATES",
+      "tag": "\ud83d\uded1 Automated hiring pipeline that screens inbound candidate applications",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated hiring pipeline that screens inbound candidate applications",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated hiring pipeline that screens inbound candidate applications",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

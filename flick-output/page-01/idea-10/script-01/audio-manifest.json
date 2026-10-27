@@ -1,0 +1,406 @@
+{
+  "page": "page-01",
+  "idea": "Automated client churn prediction system based on communication frequency",
+  "text": "How to spot an unhappy agency client thirty days before they cancel their retainer. Most agency owners get blindsided when a large monthly client suddenly drops an exit email. Radio silence is the primary churn warning, but account managers rarely track dropping Slack response times. Build a Zapier workflow that monitors client message frequency and triggers alerts when communication stalls for five days. You rescue retainers before cancellations happen.",
+  "duration": 28.431,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.36
+    },
+    {
+      "word": "spot",
+      "start": 0.36,
+      "end": 0.6
+    },
+    {
+      "word": "an",
+      "start": 0.6,
+      "end": 0.88
+    },
+    {
+      "word": "unhappy",
+      "start": 0.88,
+      "end": 1.24
+    },
+    {
+      "word": "agency",
+      "start": 1.24,
+      "end": 1.84
+    },
+    {
+      "word": "client",
+      "start": 1.84,
+      "end": 2.16
+    },
+    {
+      "word": "30",
+      "start": 2.16,
+      "end": 2.5
+    },
+    {
+      "word": "days",
+      "start": 2.5,
+      "end": 2.94
+    },
+    {
+      "word": "before",
+      "start": 2.94,
+      "end": 3.22
+    },
+    {
+      "word": "they",
+      "start": 3.22,
+      "end": 3.52
+    },
+    {
+      "word": "cancel",
+      "start": 3.52,
+      "end": 3.8
+    },
+    {
+      "word": "their",
+      "start": 3.8,
+      "end": 4.16
+    },
+    {
+      "word": "retainer.",
+      "start": 4.16,
+      "end": 4.6
+    },
+    {
+      "word": "Most",
+      "start": 5.16,
+      "end": 5.44
+    },
+    {
+      "word": "agency",
+      "start": 5.44,
+      "end": 5.92
+    },
+    {
+      "word": "owners",
+      "start": 5.92,
+      "end": 6.18
+    },
+    {
+      "word": "get",
+      "start": 6.18,
+      "end": 6.56
+    },
+    {
+      "word": "blindsided",
+      "start": 6.56,
+      "end": 7.28
+    },
+    {
+      "word": "when",
+      "start": 7.28,
+      "end": 7.7
+    },
+    {
+      "word": "a",
+      "start": 7.7,
+      "end": 7.9
+    },
+    {
+      "word": "large",
+      "start": 7.9,
+      "end": 8.22
+    },
+    {
+      "word": "monthly",
+      "start": 8.22,
+      "end": 8.74
+    },
+    {
+      "word": "client",
+      "start": 8.74,
+      "end": 9.28
+    },
+    {
+      "word": "suddenly",
+      "start": 9.28,
+      "end": 9.76
+    },
+    {
+      "word": "drops",
+      "start": 9.76,
+      "end": 10.12
+    },
+    {
+      "word": "an",
+      "start": 10.12,
+      "end": 10.38
+    },
+    {
+      "word": "exit",
+      "start": 10.38,
+      "end": 10.68
+    },
+    {
+      "word": "email.",
+      "start": 10.68,
+      "end": 11.18
+    },
+    {
+      "word": "Radio",
+      "start": 11.8,
+      "end": 11.8
+    },
+    {
+      "word": "silence",
+      "start": 11.8,
+      "end": 12.34
+    },
+    {
+      "word": "is",
+      "start": 12.34,
+      "end": 12.66
+    },
+    {
+      "word": "the",
+      "start": 12.66,
+      "end": 12.96
+    },
+    {
+      "word": "primary",
+      "start": 12.96,
+      "end": 13.24
+    },
+    {
+      "word": "churn",
+      "start": 13.24,
+      "end": 13.68
+    },
+    {
+      "word": "warning",
+      "start": 13.68,
+      "end": 14.04
+    },
+    {
+      "word": "but",
+      "start": 14.04,
+      "end": 14.54
+    },
+    {
+      "word": "account",
+      "start": 14.54,
+      "end": 14.88
+    },
+    {
+      "word": "managers",
+      "start": 14.88,
+      "end": 15.3
+    },
+    {
+      "word": "rarely",
+      "start": 15.3,
+      "end": 15.8
+    },
+    {
+      "word": "track",
+      "start": 15.8,
+      "end": 16.1
+    },
+    {
+      "word": "dropping",
+      "start": 16.1,
+      "end": 16.54
+    },
+    {
+      "word": "slack",
+      "start": 16.54,
+      "end": 16.88
+    },
+    {
+      "word": "response",
+      "start": 16.88,
+      "end": 17.36
+    },
+    {
+      "word": "times.",
+      "start": 17.36,
+      "end": 17.94
+    },
+    {
+      "word": "Build",
+      "start": 18.56,
+      "end": 18.64
+    },
+    {
+      "word": "a",
+      "start": 18.64,
+      "end": 18.86
+    },
+    {
+      "word": "Zapier",
+      "start": 18.86,
+      "end": 19.26
+    },
+    {
+      "word": "workflow",
+      "start": 19.26,
+      "end": 19.66
+    },
+    {
+      "word": "that",
+      "start": 19.66,
+      "end": 20.42
+    },
+    {
+      "word": "monitors",
+      "start": 20.42,
+      "end": 20.42
+    },
+    {
+      "word": "client",
+      "start": 20.42,
+      "end": 20.86
+    },
+    {
+      "word": "message",
+      "start": 20.86,
+      "end": 21.24
+    },
+    {
+      "word": "frequency",
+      "start": 21.24,
+      "end": 21.74
+    },
+    {
+      "word": "and",
+      "start": 21.74,
+      "end": 22.36
+    },
+    {
+      "word": "triggers",
+      "start": 22.36,
+      "end": 22.62
+    },
+    {
+      "word": "alerts",
+      "start": 22.62,
+      "end": 23.0
+    },
+    {
+      "word": "when",
+      "start": 23.0,
+      "end": 23.36
+    },
+    {
+      "word": "communication",
+      "start": 23.36,
+      "end": 23.8
+    },
+    {
+      "word": "stalls",
+      "start": 23.8,
+      "end": 24.3
+    },
+    {
+      "word": "for",
+      "start": 24.3,
+      "end": 24.62
+    },
+    {
+      "word": "five",
+      "start": 24.62,
+      "end": 24.98
+    },
+    {
+      "word": "days.",
+      "start": 24.98,
+      "end": 25.38
+    },
+    {
+      "word": "You",
+      "start": 26.0,
+      "end": 26.06
+    },
+    {
+      "word": "rescue",
+      "start": 26.06,
+      "end": 26.36
+    },
+    {
+      "word": "retainers",
+      "start": 26.36,
+      "end": 26.86
+    },
+    {
+      "word": "before",
+      "start": 26.86,
+      "end": 27.32
+    },
+    {
+      "word": "cancellations",
+      "start": 27.32,
+      "end": 27.98
+    },
+    {
+      "word": "happen.",
+      "start": 27.98,
+      "end": 28.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How to spot an unhappy agency client 30 days before they send you a cancellation notice.",
+      "line2": "PREDICT CLIENT CHURN",
+      "tag": "\ud83d\uded1 Automated client churn prediction system based on communication frequency",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated client churn prediction system based on communication frequency",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

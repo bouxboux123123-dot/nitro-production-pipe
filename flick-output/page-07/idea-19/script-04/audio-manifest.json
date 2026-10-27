@@ -1,0 +1,376 @@
+{
+  "page": "page-07",
+  "idea": "Automated SOC2 compliance evidence collector for enterprise sales",
+  "text": "How early-stage startups earn enterprise security certifications in record time without legal teams. Traditional audits demand thousands in consultant fees and endless manual vendor security questionnaires. Teams without compliance ops stall closing corporate customers while hunting down policy documents. Plug Vanta directly into Google Workspace and AWS to automate ninety percent of evidence collection. You unlock enterprise deals months ahead of schedule.",
+  "duration": 28.815,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "early",
+      "start": 0.32,
+      "end": 0.6
+    },
+    {
+      "word": "stage",
+      "start": 0.6,
+      "end": 1.02
+    },
+    {
+      "word": "startups",
+      "start": 1.02,
+      "end": 1.4
+    },
+    {
+      "word": "earn",
+      "start": 1.4,
+      "end": 1.86
+    },
+    {
+      "word": "enterprise",
+      "start": 1.86,
+      "end": 2.34
+    },
+    {
+      "word": "security",
+      "start": 2.34,
+      "end": 2.98
+    },
+    {
+      "word": "certifications",
+      "start": 2.98,
+      "end": 3.68
+    },
+    {
+      "word": "in",
+      "start": 3.68,
+      "end": 4.04
+    },
+    {
+      "word": "record",
+      "start": 4.04,
+      "end": 4.24
+    },
+    {
+      "word": "time",
+      "start": 4.24,
+      "end": 4.88
+    },
+    {
+      "word": "without",
+      "start": 4.88,
+      "end": 5.42
+    },
+    {
+      "word": "legal",
+      "start": 5.42,
+      "end": 5.66
+    },
+    {
+      "word": "teams.",
+      "start": 5.66,
+      "end": 6.36
+    },
+    {
+      "word": "Traditional",
+      "start": 7.26,
+      "end": 7.26
+    },
+    {
+      "word": "audits",
+      "start": 7.26,
+      "end": 7.68
+    },
+    {
+      "word": "demand",
+      "start": 7.68,
+      "end": 8.08
+    },
+    {
+      "word": "thousands",
+      "start": 8.08,
+      "end": 8.74
+    },
+    {
+      "word": "in",
+      "start": 8.74,
+      "end": 9.14
+    },
+    {
+      "word": "consultant",
+      "start": 9.14,
+      "end": 9.58
+    },
+    {
+      "word": "fees",
+      "start": 9.58,
+      "end": 10.02
+    },
+    {
+      "word": "and",
+      "start": 10.02,
+      "end": 10.6
+    },
+    {
+      "word": "endless",
+      "start": 10.6,
+      "end": 10.92
+    },
+    {
+      "word": "manual",
+      "start": 10.92,
+      "end": 11.4
+    },
+    {
+      "word": "vendor",
+      "start": 11.4,
+      "end": 11.74
+    },
+    {
+      "word": "security",
+      "start": 11.74,
+      "end": 12.32
+    },
+    {
+      "word": "questionnaires.",
+      "start": 12.32,
+      "end": 13.18
+    },
+    {
+      "word": "Teams",
+      "start": 13.74,
+      "end": 13.74
+    },
+    {
+      "word": "without",
+      "start": 13.74,
+      "end": 14.1
+    },
+    {
+      "word": "compliance",
+      "start": 14.1,
+      "end": 14.68
+    },
+    {
+      "word": "ops",
+      "start": 14.68,
+      "end": 15.14
+    },
+    {
+      "word": "stall",
+      "start": 15.14,
+      "end": 15.48
+    },
+    {
+      "word": "closing",
+      "start": 15.48,
+      "end": 15.92
+    },
+    {
+      "word": "corporate",
+      "start": 15.92,
+      "end": 16.28
+    },
+    {
+      "word": "customers",
+      "start": 16.28,
+      "end": 16.76
+    },
+    {
+      "word": "while",
+      "start": 16.76,
+      "end": 17.32
+    },
+    {
+      "word": "hunting",
+      "start": 17.32,
+      "end": 17.62
+    },
+    {
+      "word": "down",
+      "start": 17.62,
+      "end": 17.96
+    },
+    {
+      "word": "policy",
+      "start": 17.96,
+      "end": 18.28
+    },
+    {
+      "word": "documents.",
+      "start": 18.28,
+      "end": 18.9
+    },
+    {
+      "word": "Plug",
+      "start": 19.54,
+      "end": 19.76
+    },
+    {
+      "word": "vented",
+      "start": 19.76,
+      "end": 20.08
+    },
+    {
+      "word": "directly",
+      "start": 20.08,
+      "end": 20.54
+    },
+    {
+      "word": "into",
+      "start": 20.54,
+      "end": 20.86
+    },
+    {
+      "word": "Google",
+      "start": 20.86,
+      "end": 21.16
+    },
+    {
+      "word": "workspace",
+      "start": 21.16,
+      "end": 21.64
+    },
+    {
+      "word": "and",
+      "start": 21.64,
+      "end": 22.1
+    },
+    {
+      "word": "AWS",
+      "start": 22.1,
+      "end": 22.6
+    },
+    {
+      "word": "to",
+      "start": 22.6,
+      "end": 23.34
+    },
+    {
+      "word": "automate",
+      "start": 23.34,
+      "end": 23.68
+    },
+    {
+      "word": "90",
+      "start": 23.68,
+      "end": 24.18
+    },
+    {
+      "word": "%",
+      "start": 24.18,
+      "end": 24.54
+    },
+    {
+      "word": "of",
+      "start": 24.54,
+      "end": 24.74
+    },
+    {
+      "word": "evidence",
+      "start": 24.74,
+      "end": 25.0
+    },
+    {
+      "word": "collection.",
+      "start": 25.0,
+      "end": 25.56
+    },
+    {
+      "word": "You",
+      "start": 25.56,
+      "end": 26.26
+    },
+    {
+      "word": "unlock",
+      "start": 26.26,
+      "end": 26.68
+    },
+    {
+      "word": "enterprise",
+      "start": 26.68,
+      "end": 27.26
+    },
+    {
+      "word": "deals",
+      "start": 27.26,
+      "end": 27.64
+    },
+    {
+      "word": "months",
+      "start": 27.64,
+      "end": 27.94
+    },
+    {
+      "word": "ahead",
+      "start": 27.94,
+      "end": 28.2
+    },
+    {
+      "word": "of",
+      "start": 28.2,
+      "end": 28.38
+    },
+    {
+      "word": "schedule.",
+      "start": 28.38,
+      "end": 28.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How early-stage startups get enterprise security certifications in record time.",
+      "line2": "COLLECT SOC2 EVIDENCE",
+      "tag": "\ud83d\uded1 Automated SOC2 compliance evidence collector for enterprise sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

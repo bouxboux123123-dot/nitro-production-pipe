@@ -1,0 +1,411 @@
+{
+  "page": "page-02",
+  "idea": "Smart client onboarding portal that collects assets automatically",
+  "text": "Stop sending fourteen back-and-forth emails just to kick off a freelance project. Asking for logos, guidelines, and login credentials across separate messages frustrates clients before work even begins. Disorganized asset collection creates bottlenecks that delay deliverables and push back milestone payments. Build a branded Notion portal embedded with Tally forms that guides clients through onboarding step by step. You deliver client work faster with zero communication friction.",
+  "duration": 29.797,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "sending",
+      "start": 0.42,
+      "end": 0.72
+    },
+    {
+      "word": "14",
+      "start": 0.72,
+      "end": 1.26
+    },
+    {
+      "word": "back",
+      "start": 1.26,
+      "end": 1.52
+    },
+    {
+      "word": "and",
+      "start": 1.52,
+      "end": 1.72
+    },
+    {
+      "word": "forth",
+      "start": 1.72,
+      "end": 2.0
+    },
+    {
+      "word": "emails",
+      "start": 2.0,
+      "end": 2.36
+    },
+    {
+      "word": "just",
+      "start": 2.36,
+      "end": 2.74
+    },
+    {
+      "word": "to",
+      "start": 2.74,
+      "end": 2.88
+    },
+    {
+      "word": "kick",
+      "start": 2.88,
+      "end": 3.06
+    },
+    {
+      "word": "off",
+      "start": 3.06,
+      "end": 3.28
+    },
+    {
+      "word": "a",
+      "start": 3.28,
+      "end": 3.5
+    },
+    {
+      "word": "freelance",
+      "start": 3.5,
+      "end": 3.68
+    },
+    {
+      "word": "project.",
+      "start": 3.68,
+      "end": 4.54
+    },
+    {
+      "word": "Asking",
+      "start": 5.14,
+      "end": 5.36
+    },
+    {
+      "word": "for",
+      "start": 5.36,
+      "end": 5.62
+    },
+    {
+      "word": "logos,",
+      "start": 5.62,
+      "end": 6.04
+    },
+    {
+      "word": "guidelines,",
+      "start": 6.46,
+      "end": 6.9
+    },
+    {
+      "word": "and",
+      "start": 7.34,
+      "end": 7.52
+    },
+    {
+      "word": "login",
+      "start": 7.52,
+      "end": 7.88
+    },
+    {
+      "word": "credentials",
+      "start": 7.88,
+      "end": 8.36
+    },
+    {
+      "word": "across",
+      "start": 8.36,
+      "end": 8.86
+    },
+    {
+      "word": "separate",
+      "start": 8.86,
+      "end": 9.16
+    },
+    {
+      "word": "messages",
+      "start": 9.16,
+      "end": 9.8
+    },
+    {
+      "word": "for",
+      "start": 9.8,
+      "end": 10.38
+    },
+    {
+      "word": "straight",
+      "start": 10.38,
+      "end": 10.64
+    },
+    {
+      "word": "clients",
+      "start": 10.64,
+      "end": 11.16
+    },
+    {
+      "word": "before",
+      "start": 11.16,
+      "end": 11.52
+    },
+    {
+      "word": "work",
+      "start": 11.52,
+      "end": 11.88
+    },
+    {
+      "word": "even",
+      "start": 11.88,
+      "end": 12.12
+    },
+    {
+      "word": "begins.",
+      "start": 12.12,
+      "end": 12.66
+    },
+    {
+      "word": "Disorganized",
+      "start": 13.1,
+      "end": 13.64
+    },
+    {
+      "word": "asset",
+      "start": 13.64,
+      "end": 14.12
+    },
+    {
+      "word": "collection",
+      "start": 14.12,
+      "end": 14.62
+    },
+    {
+      "word": "creates",
+      "start": 14.62,
+      "end": 15.16
+    },
+    {
+      "word": "bottlenecks",
+      "start": 15.16,
+      "end": 15.78
+    },
+    {
+      "word": "that",
+      "start": 15.78,
+      "end": 16.04
+    },
+    {
+      "word": "delay",
+      "start": 16.04,
+      "end": 16.28
+    },
+    {
+      "word": "deliverables",
+      "start": 16.28,
+      "end": 16.94
+    },
+    {
+      "word": "and",
+      "start": 16.94,
+      "end": 17.36
+    },
+    {
+      "word": "push",
+      "start": 17.36,
+      "end": 17.6
+    },
+    {
+      "word": "back",
+      "start": 17.6,
+      "end": 17.92
+    },
+    {
+      "word": "milestone",
+      "start": 17.92,
+      "end": 18.34
+    },
+    {
+      "word": "payments.",
+      "start": 18.34,
+      "end": 18.94
+    },
+    {
+      "word": "Build",
+      "start": 19.64,
+      "end": 19.68
+    },
+    {
+      "word": "a",
+      "start": 19.68,
+      "end": 19.9
+    },
+    {
+      "word": "branded",
+      "start": 19.9,
+      "end": 20.24
+    },
+    {
+      "word": "Notion",
+      "start": 20.24,
+      "end": 20.66
+    },
+    {
+      "word": "portal",
+      "start": 20.66,
+      "end": 21.08
+    },
+    {
+      "word": "embedded",
+      "start": 21.08,
+      "end": 21.72
+    },
+    {
+      "word": "with",
+      "start": 21.72,
+      "end": 22.18
+    },
+    {
+      "word": "tally",
+      "start": 22.18,
+      "end": 22.44
+    },
+    {
+      "word": "forms",
+      "start": 22.44,
+      "end": 22.76
+    },
+    {
+      "word": "that",
+      "start": 22.76,
+      "end": 23.02
+    },
+    {
+      "word": "guides",
+      "start": 23.02,
+      "end": 23.46
+    },
+    {
+      "word": "clients",
+      "start": 23.46,
+      "end": 23.9
+    },
+    {
+      "word": "through",
+      "start": 23.9,
+      "end": 24.34
+    },
+    {
+      "word": "onboarding",
+      "start": 24.34,
+      "end": 24.94
+    },
+    {
+      "word": "step",
+      "start": 24.94,
+      "end": 25.22
+    },
+    {
+      "word": "by",
+      "start": 25.22,
+      "end": 25.54
+    },
+    {
+      "word": "step.",
+      "start": 25.54,
+      "end": 25.84
+    },
+    {
+      "word": "You",
+      "start": 25.84,
+      "end": 26.48
+    },
+    {
+      "word": "deliver",
+      "start": 26.48,
+      "end": 26.8
+    },
+    {
+      "word": "client",
+      "start": 26.8,
+      "end": 27.16
+    },
+    {
+      "word": "work",
+      "start": 27.16,
+      "end": 27.48
+    },
+    {
+      "word": "faster",
+      "start": 27.48,
+      "end": 27.86
+    },
+    {
+      "word": "with",
+      "start": 27.86,
+      "end": 28.22
+    },
+    {
+      "word": "zero",
+      "start": 28.22,
+      "end": 28.6
+    },
+    {
+      "word": "communication",
+      "start": 28.6,
+      "end": 29.2
+    },
+    {
+      "word": "friction.",
+      "start": 29.2,
+      "end": 29.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop sending 14 back-and-forth emails just to kick off a freelance project.",
+      "line2": "SMART CLIENT ONBOARDING",
+      "tag": "\ud83d\uded1 Smart client onboarding portal that collects assets automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Smart client onboarding portal that collects assets automatically",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Smart client onboarding portal that collects assets automatically",
+        "subtitle": "Smart client onboarding portal that collects assets automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Smart client onboarding portal that collects assets automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Smart client onboarding portal that collects assets automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Smart client onboarding portal that collects assets automatically",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

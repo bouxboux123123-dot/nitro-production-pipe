@@ -1,0 +1,411 @@
+{
+  "page": "page-09",
+  "idea": "Loom vs Tella: which screen recording tool makes better client demos",
+  "text": "Here is why creators and founders are upgrading their video demos with Tella. Traditional video editing in Premiere or Final Cut takes hours of keyframing just to highlight interface buttons cleanly. Spending entire afternoons cutting footage pulls founders away from core product development and revenue generation. Tella automates post-production with instant pan effects, customizable color palettes, and browser-based rendering. You produce studio-quality product launches in twenty minutes.",
+  "duration": 29.199,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "why",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "creators",
+      "start": 0.66,
+      "end": 1.08
+    },
+    {
+      "word": "and",
+      "start": 1.08,
+      "end": 1.48
+    },
+    {
+      "word": "founders",
+      "start": 1.48,
+      "end": 1.74
+    },
+    {
+      "word": "are",
+      "start": 1.74,
+      "end": 2.14
+    },
+    {
+      "word": "upgrading",
+      "start": 2.14,
+      "end": 2.5
+    },
+    {
+      "word": "their",
+      "start": 2.5,
+      "end": 3.06
+    },
+    {
+      "word": "video",
+      "start": 3.06,
+      "end": 3.12
+    },
+    {
+      "word": "demos",
+      "start": 3.12,
+      "end": 3.4
+    },
+    {
+      "word": "with",
+      "start": 3.4,
+      "end": 3.8
+    },
+    {
+      "word": "Tella.",
+      "start": 3.8,
+      "end": 4.22
+    },
+    {
+      "word": "Traditional",
+      "start": 4.96,
+      "end": 5.06
+    },
+    {
+      "word": "video",
+      "start": 5.06,
+      "end": 5.56
+    },
+    {
+      "word": "editing",
+      "start": 5.56,
+      "end": 5.78
+    },
+    {
+      "word": "in",
+      "start": 5.78,
+      "end": 6.18
+    },
+    {
+      "word": "Premiere",
+      "start": 6.18,
+      "end": 6.44
+    },
+    {
+      "word": "or",
+      "start": 6.44,
+      "end": 6.86
+    },
+    {
+      "word": "Final",
+      "start": 6.86,
+      "end": 7.22
+    },
+    {
+      "word": "Cut",
+      "start": 7.22,
+      "end": 7.7
+    },
+    {
+      "word": "takes",
+      "start": 7.7,
+      "end": 8.18
+    },
+    {
+      "word": "hours",
+      "start": 8.18,
+      "end": 8.54
+    },
+    {
+      "word": "of",
+      "start": 8.54,
+      "end": 8.82
+    },
+    {
+      "word": "keyframing",
+      "start": 8.82,
+      "end": 9.38
+    },
+    {
+      "word": "just",
+      "start": 9.38,
+      "end": 9.68
+    },
+    {
+      "word": "to",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "word": "highlight",
+      "start": 9.92,
+      "end": 10.3
+    },
+    {
+      "word": "interface",
+      "start": 10.3,
+      "end": 10.78
+    },
+    {
+      "word": "buttons",
+      "start": 10.78,
+      "end": 11.2
+    },
+    {
+      "word": "cleanly.",
+      "start": 11.2,
+      "end": 11.96
+    },
+    {
+      "word": "Spending",
+      "start": 12.14,
+      "end": 12.3
+    },
+    {
+      "word": "entire",
+      "start": 12.3,
+      "end": 12.86
+    },
+    {
+      "word": "afternoons,",
+      "start": 12.86,
+      "end": 13.58
+    },
+    {
+      "word": "cutting",
+      "start": 14.06,
+      "end": 14.06
+    },
+    {
+      "word": "footage",
+      "start": 14.06,
+      "end": 14.42
+    },
+    {
+      "word": "pools",
+      "start": 14.42,
+      "end": 14.8
+    },
+    {
+      "word": "founders",
+      "start": 14.8,
+      "end": 15.2
+    },
+    {
+      "word": "away",
+      "start": 15.2,
+      "end": 15.48
+    },
+    {
+      "word": "from",
+      "start": 15.48,
+      "end": 15.76
+    },
+    {
+      "word": "core",
+      "start": 15.76,
+      "end": 16.04
+    },
+    {
+      "word": "product",
+      "start": 16.04,
+      "end": 16.38
+    },
+    {
+      "word": "development",
+      "start": 16.38,
+      "end": 16.84
+    },
+    {
+      "word": "and",
+      "start": 16.84,
+      "end": 17.36
+    },
+    {
+      "word": "revenue",
+      "start": 17.36,
+      "end": 17.6
+    },
+    {
+      "word": "generation.",
+      "start": 17.6,
+      "end": 18.26
+    },
+    {
+      "word": "Tella",
+      "start": 19.12,
+      "end": 19.22
+    },
+    {
+      "word": "automates",
+      "start": 19.22,
+      "end": 19.76
+    },
+    {
+      "word": "post",
+      "start": 19.76,
+      "end": 20.12
+    },
+    {
+      "word": "-production",
+      "start": 20.12,
+      "end": 20.5
+    },
+    {
+      "word": "with",
+      "start": 20.5,
+      "end": 20.92
+    },
+    {
+      "word": "instant",
+      "start": 20.92,
+      "end": 21.22
+    },
+    {
+      "word": "pan",
+      "start": 21.22,
+      "end": 21.5
+    },
+    {
+      "word": "-effects,",
+      "start": 21.5,
+      "end": 21.88
+    },
+    {
+      "word": "customizable",
+      "start": 22.54,
+      "end": 22.88
+    },
+    {
+      "word": "color",
+      "start": 22.88,
+      "end": 23.38
+    },
+    {
+      "word": "palettes,",
+      "start": 23.38,
+      "end": 23.74
+    },
+    {
+      "word": "and",
+      "start": 24.04,
+      "end": 24.26
+    },
+    {
+      "word": "browser",
+      "start": 24.26,
+      "end": 24.62
+    },
+    {
+      "word": "-based",
+      "start": 24.62,
+      "end": 25.02
+    },
+    {
+      "word": "rendering.",
+      "start": 25.02,
+      "end": 25.46
+    },
+    {
+      "word": "You",
+      "start": 26.04,
+      "end": 26.18
+    },
+    {
+      "word": "produce",
+      "start": 26.18,
+      "end": 26.52
+    },
+    {
+      "word": "studio",
+      "start": 26.52,
+      "end": 26.84
+    },
+    {
+      "word": "quality",
+      "start": 26.84,
+      "end": 27.46
+    },
+    {
+      "word": "product",
+      "start": 27.46,
+      "end": 27.84
+    },
+    {
+      "word": "launches",
+      "start": 27.84,
+      "end": 28.2
+    },
+    {
+      "word": "in",
+      "start": 28.2,
+      "end": 28.56
+    },
+    {
+      "word": "20",
+      "start": 28.56,
+      "end": 28.8
+    },
+    {
+      "word": "minutes.",
+      "start": 28.8,
+      "end": 29.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Here is why creators and founders are upgrading their video demos with Tella.",
+      "line2": "LOOM VS TELLA",
+      "tag": "\ud83d\uded1 Loom vs Tella",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Loom vs Tella",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Loom vs Tella",
+        "subtitle": "Loom vs Tella"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Loom vs Tella"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Loom vs Tella"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Loom vs Tella",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

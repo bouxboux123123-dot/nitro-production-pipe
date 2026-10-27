@@ -1,0 +1,406 @@
+{
+  "page": "page-04",
+  "idea": "Calibre: the ultimate free eBook manager and format converter",
+  "text": "Stop dealing with incompatible eBook formats on your phone and tablet. You download an essential PDF guide or manual, only to find your reading app rejects the extension. Closed digital ecosystems intentionally restrict file transfers between Kindle, Kobo, and iPad devices. Calibre instantly converts entire batches of documents into tailored EPUB or MOBI files with calibrated font sizing. You get seamless cross-platform reading without buying duplicate copies.",
+  "duration": 30.309,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "dealing",
+      "start": 0.4,
+      "end": 0.72
+    },
+    {
+      "word": "with",
+      "start": 0.72,
+      "end": 1.08
+    },
+    {
+      "word": "incompatible",
+      "start": 1.08,
+      "end": 1.6
+    },
+    {
+      "word": "e",
+      "start": 1.6,
+      "end": 2.04
+    },
+    {
+      "word": "-book",
+      "start": 2.04,
+      "end": 2.24
+    },
+    {
+      "word": "formats",
+      "start": 2.24,
+      "end": 2.58
+    },
+    {
+      "word": "on",
+      "start": 2.58,
+      "end": 2.8
+    },
+    {
+      "word": "your",
+      "start": 2.8,
+      "end": 3.02
+    },
+    {
+      "word": "phone",
+      "start": 3.02,
+      "end": 3.3
+    },
+    {
+      "word": "and",
+      "start": 3.3,
+      "end": 4.04
+    },
+    {
+      "word": "tablet.",
+      "start": 4.04,
+      "end": 4.04
+    },
+    {
+      "word": "You",
+      "start": 4.4,
+      "end": 4.54
+    },
+    {
+      "word": "download",
+      "start": 4.54,
+      "end": 4.92
+    },
+    {
+      "word": "an",
+      "start": 4.92,
+      "end": 5.2
+    },
+    {
+      "word": "essential",
+      "start": 5.2,
+      "end": 5.68
+    },
+    {
+      "word": "PDF",
+      "start": 5.68,
+      "end": 6.14
+    },
+    {
+      "word": "guide",
+      "start": 6.14,
+      "end": 6.62
+    },
+    {
+      "word": "or",
+      "start": 6.62,
+      "end": 6.84
+    },
+    {
+      "word": "manual",
+      "start": 6.84,
+      "end": 7.44
+    },
+    {
+      "word": "only",
+      "start": 7.44,
+      "end": 7.94
+    },
+    {
+      "word": "to",
+      "start": 7.94,
+      "end": 8.1
+    },
+    {
+      "word": "find",
+      "start": 8.1,
+      "end": 8.34
+    },
+    {
+      "word": "your",
+      "start": 8.34,
+      "end": 8.56
+    },
+    {
+      "word": "reading",
+      "start": 8.56,
+      "end": 8.8
+    },
+    {
+      "word": "app",
+      "start": 8.8,
+      "end": 9.18
+    },
+    {
+      "word": "rejects",
+      "start": 9.18,
+      "end": 9.56
+    },
+    {
+      "word": "the",
+      "start": 9.56,
+      "end": 10.64
+    },
+    {
+      "word": "extension.",
+      "start": 10.64,
+      "end": 10.64
+    },
+    {
+      "word": "Close",
+      "start": 11.08,
+      "end": 11.42
+    },
+    {
+      "word": "digital",
+      "start": 11.42,
+      "end": 11.84
+    },
+    {
+      "word": "ecosystems",
+      "start": 11.84,
+      "end": 12.5
+    },
+    {
+      "word": "intentionally",
+      "start": 12.5,
+      "end": 13.42
+    },
+    {
+      "word": "restrict",
+      "start": 13.42,
+      "end": 13.98
+    },
+    {
+      "word": "file",
+      "start": 13.98,
+      "end": 14.42
+    },
+    {
+      "word": "transfers",
+      "start": 14.42,
+      "end": 14.88
+    },
+    {
+      "word": "between",
+      "start": 14.88,
+      "end": 15.44
+    },
+    {
+      "word": "Kindle,",
+      "start": 15.44,
+      "end": 15.86
+    },
+    {
+      "word": "COBO",
+      "start": 16.3,
+      "end": 16.58
+    },
+    {
+      "word": "and",
+      "start": 16.58,
+      "end": 16.88
+    },
+    {
+      "word": "iPad",
+      "start": 16.88,
+      "end": 17.34
+    },
+    {
+      "word": "devices.",
+      "start": 17.34,
+      "end": 17.94
+    },
+    {
+      "word": "Caliber",
+      "start": 18.52,
+      "end": 18.72
+    },
+    {
+      "word": "instantly",
+      "start": 18.72,
+      "end": 19.26
+    },
+    {
+      "word": "converts",
+      "start": 19.26,
+      "end": 19.78
+    },
+    {
+      "word": "entire",
+      "start": 19.78,
+      "end": 20.34
+    },
+    {
+      "word": "batches",
+      "start": 20.34,
+      "end": 20.62
+    },
+    {
+      "word": "of",
+      "start": 20.62,
+      "end": 20.82
+    },
+    {
+      "word": "documents",
+      "start": 20.82,
+      "end": 21.24
+    },
+    {
+      "word": "into",
+      "start": 21.24,
+      "end": 21.58
+    },
+    {
+      "word": "tailored",
+      "start": 21.58,
+      "end": 21.98
+    },
+    {
+      "word": "EPUB",
+      "start": 21.98,
+      "end": 22.46
+    },
+    {
+      "word": "or",
+      "start": 22.46,
+      "end": 22.8
+    },
+    {
+      "word": "mobile",
+      "start": 22.8,
+      "end": 23.1
+    },
+    {
+      "word": "files",
+      "start": 23.1,
+      "end": 23.72
+    },
+    {
+      "word": "with",
+      "start": 23.72,
+      "end": 24.28
+    },
+    {
+      "word": "calibrated",
+      "start": 24.28,
+      "end": 24.78
+    },
+    {
+      "word": "font",
+      "start": 24.78,
+      "end": 25.22
+    },
+    {
+      "word": "sizing.",
+      "start": 25.22,
+      "end": 25.7
+    },
+    {
+      "word": "You",
+      "start": 26.28,
+      "end": 26.38
+    },
+    {
+      "word": "get",
+      "start": 26.38,
+      "end": 26.7
+    },
+    {
+      "word": "seamless",
+      "start": 26.7,
+      "end": 27.08
+    },
+    {
+      "word": "cross",
+      "start": 27.08,
+      "end": 27.5
+    },
+    {
+      "word": "-platform",
+      "start": 27.5,
+      "end": 27.82
+    },
+    {
+      "word": "reading",
+      "start": 27.82,
+      "end": 28.42
+    },
+    {
+      "word": "without",
+      "start": 28.42,
+      "end": 28.76
+    },
+    {
+      "word": "buying",
+      "start": 28.76,
+      "end": 29.18
+    },
+    {
+      "word": "duplicate",
+      "start": 29.18,
+      "end": 29.62
+    },
+    {
+      "word": "copies.",
+      "start": 29.62,
+      "end": 30.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop dealing with incompatible eBook formats on your phone and tablet.",
+      "line2": "FREE EBOOK CONVERTER",
+      "tag": "\ud83d\uded1 Calibre",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Calibre",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Calibre",
+        "subtitle": "Calibre"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Calibre"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Calibre"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Calibre",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "page": "page-01",
+  "idea": "White-label client portal that houses deliverables and revision requests",
+  "text": "Give your agency clients an enterprise-grade experience that commands higher retainers. Sharing raw Google Drive links makes five-figure retainers feel like cheap amateur work to corporate executives. Clunky asset handoffs degrade perceived agency value, giving clients justification to question your monthly fees. Build a custom white-label Softr portal that organizes deliverables, brand guidelines, and milestone approvals in one place. You command premium retainer pricing while delivering five-star client experiences.",
+  "duration": 31.525,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "your",
+      "start": 0.18,
+      "end": 0.3
+    },
+    {
+      "word": "agency",
+      "start": 0.3,
+      "end": 0.64
+    },
+    {
+      "word": "clients",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "word": "an",
+      "start": 1.04,
+      "end": 1.32
+    },
+    {
+      "word": "enterprise",
+      "start": 1.32,
+      "end": 1.76
+    },
+    {
+      "word": "-grade",
+      "start": 1.76,
+      "end": 2.16
+    },
+    {
+      "word": "experience",
+      "start": 2.16,
+      "end": 2.74
+    },
+    {
+      "word": "that",
+      "start": 2.74,
+      "end": 3.12
+    },
+    {
+      "word": "commands",
+      "start": 3.12,
+      "end": 3.38
+    },
+    {
+      "word": "higher",
+      "start": 3.38,
+      "end": 3.8
+    },
+    {
+      "word": "retainers,",
+      "start": 3.8,
+      "end": 4.7
+    },
+    {
+      "word": "sharing",
+      "start": 5.0,
+      "end": 5.28
+    },
+    {
+      "word": "raw",
+      "start": 5.28,
+      "end": 5.62
+    },
+    {
+      "word": "Google",
+      "start": 5.62,
+      "end": 5.98
+    },
+    {
+      "word": "drive",
+      "start": 5.98,
+      "end": 6.34
+    },
+    {
+      "word": "links",
+      "start": 6.34,
+      "end": 6.58
+    },
+    {
+      "word": "makes",
+      "start": 6.58,
+      "end": 6.94
+    },
+    {
+      "word": "five",
+      "start": 6.94,
+      "end": 7.34
+    },
+    {
+      "word": "-figure",
+      "start": 7.34,
+      "end": 7.6
+    },
+    {
+      "word": "retainers",
+      "start": 7.6,
+      "end": 8.2
+    },
+    {
+      "word": "feel",
+      "start": 8.2,
+      "end": 8.46
+    },
+    {
+      "word": "like",
+      "start": 8.46,
+      "end": 8.8
+    },
+    {
+      "word": "cheap",
+      "start": 8.8,
+      "end": 9.12
+    },
+    {
+      "word": "amateur",
+      "start": 9.12,
+      "end": 9.44
+    },
+    {
+      "word": "work",
+      "start": 9.44,
+      "end": 9.82
+    },
+    {
+      "word": "to",
+      "start": 9.82,
+      "end": 10.02
+    },
+    {
+      "word": "corporate",
+      "start": 10.02,
+      "end": 10.3
+    },
+    {
+      "word": "executives.",
+      "start": 10.3,
+      "end": 11.06
+    },
+    {
+      "word": "Clunky",
+      "start": 11.74,
+      "end": 12.0
+    },
+    {
+      "word": "asset",
+      "start": 12.0,
+      "end": 12.38
+    },
+    {
+      "word": "handoffs",
+      "start": 12.38,
+      "end": 12.9
+    },
+    {
+      "word": "degrade",
+      "start": 12.9,
+      "end": 13.4
+    },
+    {
+      "word": "perceived",
+      "start": 13.4,
+      "end": 13.9
+    },
+    {
+      "word": "agency",
+      "start": 13.9,
+      "end": 14.36
+    },
+    {
+      "word": "value,",
+      "start": 14.36,
+      "end": 14.92
+    },
+    {
+      "word": "giving",
+      "start": 15.36,
+      "end": 15.44
+    },
+    {
+      "word": "clients",
+      "start": 15.44,
+      "end": 15.84
+    },
+    {
+      "word": "justification",
+      "start": 15.84,
+      "end": 16.5
+    },
+    {
+      "word": "to",
+      "start": 16.5,
+      "end": 16.9
+    },
+    {
+      "word": "question",
+      "start": 16.9,
+      "end": 17.24
+    },
+    {
+      "word": "your",
+      "start": 17.24,
+      "end": 17.56
+    },
+    {
+      "word": "monthly",
+      "start": 17.56,
+      "end": 17.9
+    },
+    {
+      "word": "fees,",
+      "start": 17.9,
+      "end": 18.36
+    },
+    {
+      "word": "build",
+      "start": 18.66,
+      "end": 18.84
+    },
+    {
+      "word": "a",
+      "start": 18.84,
+      "end": 19.16
+    },
+    {
+      "word": "custom",
+      "start": 19.16,
+      "end": 19.44
+    },
+    {
+      "word": "white",
+      "start": 19.44,
+      "end": 19.7
+    },
+    {
+      "word": "label",
+      "start": 19.7,
+      "end": 20.04
+    },
+    {
+      "word": "software",
+      "start": 20.04,
+      "end": 20.46
+    },
+    {
+      "word": "portal",
+      "start": 20.46,
+      "end": 20.86
+    },
+    {
+      "word": "that",
+      "start": 20.86,
+      "end": 21.28
+    },
+    {
+      "word": "organizes",
+      "start": 21.28,
+      "end": 21.86
+    },
+    {
+      "word": "deliverables,",
+      "start": 21.86,
+      "end": 22.58
+    },
+    {
+      "word": "brand",
+      "start": 23.2,
+      "end": 23.24
+    },
+    {
+      "word": "guidelines,",
+      "start": 23.24,
+      "end": 23.72
+    },
+    {
+      "word": "and",
+      "start": 24.1,
+      "end": 24.3
+    },
+    {
+      "word": "milestone",
+      "start": 24.3,
+      "end": 24.7
+    },
+    {
+      "word": "approvals",
+      "start": 24.7,
+      "end": 25.18
+    },
+    {
+      "word": "in",
+      "start": 25.18,
+      "end": 25.5
+    },
+    {
+      "word": "one",
+      "start": 25.5,
+      "end": 25.74
+    },
+    {
+      "word": "place.",
+      "start": 25.74,
+      "end": 26.12
+    },
+    {
+      "word": "You",
+      "start": 26.12,
+      "end": 26.82
+    },
+    {
+      "word": "command",
+      "start": 26.82,
+      "end": 27.12
+    },
+    {
+      "word": "premium",
+      "start": 27.12,
+      "end": 27.66
+    },
+    {
+      "word": "retainer",
+      "start": 27.66,
+      "end": 28.16
+    },
+    {
+      "word": "pricing",
+      "start": 28.16,
+      "end": 28.58
+    },
+    {
+      "word": "while",
+      "start": 28.58,
+      "end": 29.1
+    },
+    {
+      "word": "delivering",
+      "start": 29.1,
+      "end": 29.46
+    },
+    {
+      "word": "five",
+      "start": 29.46,
+      "end": 29.92
+    },
+    {
+      "word": "-star",
+      "start": 29.92,
+      "end": 30.2
+    },
+    {
+      "word": "client",
+      "start": 30.2,
+      "end": 30.64
+    },
+    {
+      "word": "experiences.",
+      "start": 30.64,
+      "end": 31.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Give your agency clients an enterprise-grade experience that commands higher retainers.",
+      "line2": "WHITE-LABEL CLIENT PORTAL",
+      "tag": "\ud83d\uded1 White-label client portal that houses deliverables and revision requests",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: White-label client portal that houses deliverables and revision requests",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: White-label client portal that houses deliverables and revision requests",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "White-label client portal that houses deliverables and revision requests",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

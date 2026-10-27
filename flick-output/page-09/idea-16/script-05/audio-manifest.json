@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "Stripe vs Lemon Squeezy: which merchant of record is best for digital creators",
+  "text": "Stripe versus Lemon Squeezy: here is the crucial decision every digital seller must make before launch. Picking the wrong payment structure traps you in either manual tax filings or excessive transaction cuts. Without an in-house accounting team to manage global VAT registrations, Stripe's lower processing fee quickly backfires. Launch on Lemon Squeezy to outsource compliance immediately, migrating to Stripe once you hit enterprise scale. That balance protects your runway early.",
+  "duration": 28.858,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stripe",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "versus",
+      "start": 0.4,
+      "end": 0.82
+    },
+    {
+      "word": "lemon",
+      "start": 0.82,
+      "end": 1.18
+    },
+    {
+      "word": "squeezy.",
+      "start": 1.18,
+      "end": 1.92
+    },
+    {
+      "word": "Here",
+      "start": 2.2,
+      "end": 2.38
+    },
+    {
+      "word": "is",
+      "start": 2.38,
+      "end": 2.52
+    },
+    {
+      "word": "the",
+      "start": 2.52,
+      "end": 2.64
+    },
+    {
+      "word": "crucial",
+      "start": 2.64,
+      "end": 2.98
+    },
+    {
+      "word": "decision",
+      "start": 2.98,
+      "end": 3.44
+    },
+    {
+      "word": "every",
+      "start": 3.44,
+      "end": 3.86
+    },
+    {
+      "word": "digital",
+      "start": 3.86,
+      "end": 4.28
+    },
+    {
+      "word": "seller",
+      "start": 4.28,
+      "end": 4.56
+    },
+    {
+      "word": "must",
+      "start": 4.56,
+      "end": 4.84
+    },
+    {
+      "word": "make",
+      "start": 4.84,
+      "end": 5.06
+    },
+    {
+      "word": "before",
+      "start": 5.06,
+      "end": 5.42
+    },
+    {
+      "word": "launch.",
+      "start": 5.42,
+      "end": 5.86
+    },
+    {
+      "word": "Picking",
+      "start": 6.4,
+      "end": 6.6
+    },
+    {
+      "word": "the",
+      "start": 6.6,
+      "end": 6.82
+    },
+    {
+      "word": "wrong",
+      "start": 6.82,
+      "end": 7.08
+    },
+    {
+      "word": "payment",
+      "start": 7.08,
+      "end": 7.34
+    },
+    {
+      "word": "structure",
+      "start": 7.34,
+      "end": 7.84
+    },
+    {
+      "word": "traps",
+      "start": 7.84,
+      "end": 8.2
+    },
+    {
+      "word": "you",
+      "start": 8.2,
+      "end": 8.44
+    },
+    {
+      "word": "in",
+      "start": 8.44,
+      "end": 8.54
+    },
+    {
+      "word": "either",
+      "start": 8.54,
+      "end": 8.74
+    },
+    {
+      "word": "manual",
+      "start": 8.74,
+      "end": 9.18
+    },
+    {
+      "word": "tax",
+      "start": 9.18,
+      "end": 9.6
+    },
+    {
+      "word": "filings",
+      "start": 9.6,
+      "end": 10.04
+    },
+    {
+      "word": "or",
+      "start": 10.04,
+      "end": 10.7
+    },
+    {
+      "word": "excessive",
+      "start": 10.7,
+      "end": 11.1
+    },
+    {
+      "word": "transaction",
+      "start": 11.1,
+      "end": 11.64
+    },
+    {
+      "word": "cuts.",
+      "start": 11.64,
+      "end": 12.2
+    },
+    {
+      "word": "Without",
+      "start": 12.52,
+      "end": 12.78
+    },
+    {
+      "word": "an",
+      "start": 12.78,
+      "end": 12.96
+    },
+    {
+      "word": "in",
+      "start": 12.96,
+      "end": 13.1
+    },
+    {
+      "word": "-house",
+      "start": 13.1,
+      "end": 13.36
+    },
+    {
+      "word": "accounting",
+      "start": 13.36,
+      "end": 13.84
+    },
+    {
+      "word": "team",
+      "start": 13.84,
+      "end": 14.2
+    },
+    {
+      "word": "to",
+      "start": 14.2,
+      "end": 14.44
+    },
+    {
+      "word": "manage",
+      "start": 14.44,
+      "end": 14.8
+    },
+    {
+      "word": "global",
+      "start": 14.8,
+      "end": 15.24
+    },
+    {
+      "word": "VAT",
+      "start": 15.24,
+      "end": 15.76
+    },
+    {
+      "word": "registrations,",
+      "start": 15.76,
+      "end": 16.6
+    },
+    {
+      "word": "stripes",
+      "start": 17.1,
+      "end": 17.34
+    },
+    {
+      "word": "lower",
+      "start": 17.34,
+      "end": 17.78
+    },
+    {
+      "word": "processing",
+      "start": 17.78,
+      "end": 18.26
+    },
+    {
+      "word": "fee",
+      "start": 18.26,
+      "end": 18.64
+    },
+    {
+      "word": "quickly",
+      "start": 18.64,
+      "end": 18.98
+    },
+    {
+      "word": "backfires.",
+      "start": 18.98,
+      "end": 19.64
+    },
+    {
+      "word": "Launch",
+      "start": 20.24,
+      "end": 20.48
+    },
+    {
+      "word": "on",
+      "start": 20.48,
+      "end": 20.72
+    },
+    {
+      "word": "lemon",
+      "start": 20.72,
+      "end": 20.98
+    },
+    {
+      "word": "squeezy",
+      "start": 20.98,
+      "end": 21.42
+    },
+    {
+      "word": "to",
+      "start": 21.42,
+      "end": 21.7
+    },
+    {
+      "word": "outsource",
+      "start": 21.7,
+      "end": 22.16
+    },
+    {
+      "word": "compliance",
+      "start": 22.16,
+      "end": 22.72
+    },
+    {
+      "word": "immediately,",
+      "start": 22.72,
+      "end": 23.48
+    },
+    {
+      "word": "migrating",
+      "start": 23.98,
+      "end": 24.14
+    },
+    {
+      "word": "to",
+      "start": 24.14,
+      "end": 24.56
+    },
+    {
+      "word": "Stripe",
+      "start": 24.56,
+      "end": 24.84
+    },
+    {
+      "word": "once",
+      "start": 24.84,
+      "end": 25.08
+    },
+    {
+      "word": "you",
+      "start": 25.08,
+      "end": 25.24
+    },
+    {
+      "word": "hit",
+      "start": 25.24,
+      "end": 25.48
+    },
+    {
+      "word": "enterprise",
+      "start": 25.48,
+      "end": 25.86
+    },
+    {
+      "word": "scale.",
+      "start": 25.86,
+      "end": 26.34
+    },
+    {
+      "word": "That",
+      "start": 26.34,
+      "end": 27.06
+    },
+    {
+      "word": "balance",
+      "start": 27.06,
+      "end": 27.42
+    },
+    {
+      "word": "protects",
+      "start": 27.42,
+      "end": 27.82
+    },
+    {
+      "word": "your",
+      "start": 27.82,
+      "end": 28.1
+    },
+    {
+      "word": "runway",
+      "start": 28.1,
+      "end": 28.32
+    },
+    {
+      "word": "early.",
+      "start": 28.32,
+      "end": 28.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Stripe vs Lemon Squeezy: the crucial decision every digital seller must make.",
+      "line2": "STRIPE VS LEMON SQUEEZY",
+      "tag": "\ud83d\uded1 Stripe vs Lemon Squeezy",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Stripe vs Lemon Squeezy",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Stripe vs Lemon Squeezy",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Stripe vs Lemon Squeezy",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

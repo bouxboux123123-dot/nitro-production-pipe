@@ -1,0 +1,396 @@
+{
+  "page": "page-10",
+  "idea": "Microsoft Copilot Studio improvements for custom enterprise bots",
+  "text": "Stop searching through messy company intranets and try this new enterprise AI assistant. Employees waste forty minutes every day digging through dead Confluence pages and buried Wiki links. Knowledge silos trap vital technical context because team documentation fragments across multiple separate cloud drives. Microsoft Copilot Studio unifies your internal docs into a single conversational agent inside Microsoft Teams. Staff find verified answers instantly across every department.",
+  "duration": 31.162,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "searching",
+      "start": 0.36,
+      "end": 0.72
+    },
+    {
+      "word": "through",
+      "start": 0.72,
+      "end": 1.02
+    },
+    {
+      "word": "messy",
+      "start": 1.02,
+      "end": 1.26
+    },
+    {
+      "word": "company",
+      "start": 1.26,
+      "end": 1.7
+    },
+    {
+      "word": "intranets",
+      "start": 1.7,
+      "end": 2.18
+    },
+    {
+      "word": "and",
+      "start": 2.18,
+      "end": 2.54
+    },
+    {
+      "word": "try",
+      "start": 2.54,
+      "end": 2.82
+    },
+    {
+      "word": "this",
+      "start": 2.82,
+      "end": 3.04
+    },
+    {
+      "word": "new",
+      "start": 3.04,
+      "end": 3.3
+    },
+    {
+      "word": "enterprise",
+      "start": 3.3,
+      "end": 3.76
+    },
+    {
+      "word": "AI",
+      "start": 3.76,
+      "end": 4.32
+    },
+    {
+      "word": "assistant.",
+      "start": 4.32,
+      "end": 4.9
+    },
+    {
+      "word": "Employees",
+      "start": 5.84,
+      "end": 5.88
+    },
+    {
+      "word": "waste",
+      "start": 5.88,
+      "end": 6.34
+    },
+    {
+      "word": "40",
+      "start": 6.34,
+      "end": 6.7
+    },
+    {
+      "word": "minutes",
+      "start": 6.7,
+      "end": 7.0
+    },
+    {
+      "word": "every",
+      "start": 7.0,
+      "end": 7.34
+    },
+    {
+      "word": "day",
+      "start": 7.34,
+      "end": 7.62
+    },
+    {
+      "word": "digging",
+      "start": 7.62,
+      "end": 7.92
+    },
+    {
+      "word": "through",
+      "start": 7.92,
+      "end": 8.26
+    },
+    {
+      "word": "dead",
+      "start": 8.26,
+      "end": 8.62
+    },
+    {
+      "word": "confluence",
+      "start": 8.62,
+      "end": 9.06
+    },
+    {
+      "word": "pages",
+      "start": 9.06,
+      "end": 9.64
+    },
+    {
+      "word": "and",
+      "start": 9.64,
+      "end": 10.22
+    },
+    {
+      "word": "buried",
+      "start": 10.22,
+      "end": 10.5
+    },
+    {
+      "word": "wickie",
+      "start": 10.5,
+      "end": 10.88
+    },
+    {
+      "word": "links.",
+      "start": 10.88,
+      "end": 11.2
+    },
+    {
+      "word": "Knowledge",
+      "start": 12.22,
+      "end": 12.22
+    },
+    {
+      "word": "silos",
+      "start": 12.22,
+      "end": 12.78
+    },
+    {
+      "word": "trap",
+      "start": 12.78,
+      "end": 13.16
+    },
+    {
+      "word": "vital",
+      "start": 13.16,
+      "end": 13.54
+    },
+    {
+      "word": "technical",
+      "start": 13.54,
+      "end": 14.04
+    },
+    {
+      "word": "context",
+      "start": 14.04,
+      "end": 14.66
+    },
+    {
+      "word": "because",
+      "start": 14.66,
+      "end": 15.28
+    },
+    {
+      "word": "team",
+      "start": 15.28,
+      "end": 15.62
+    },
+    {
+      "word": "documentation",
+      "start": 15.62,
+      "end": 16.36
+    },
+    {
+      "word": "fragments",
+      "start": 16.36,
+      "end": 16.94
+    },
+    {
+      "word": "across",
+      "start": 16.94,
+      "end": 17.4
+    },
+    {
+      "word": "multiple",
+      "start": 17.4,
+      "end": 17.88
+    },
+    {
+      "word": "separate",
+      "start": 17.88,
+      "end": 18.26
+    },
+    {
+      "word": "cloud",
+      "start": 18.26,
+      "end": 18.62
+    },
+    {
+      "word": "drives.",
+      "start": 18.62,
+      "end": 19.06
+    },
+    {
+      "word": "Microsoft",
+      "start": 20.06,
+      "end": 20.06
+    },
+    {
+      "word": "co",
+      "start": 20.06,
+      "end": 20.42
+    },
+    {
+      "word": "-pilot",
+      "start": 20.42,
+      "end": 20.68
+    },
+    {
+      "word": "studio",
+      "start": 20.68,
+      "end": 21.3
+    },
+    {
+      "word": "unifies",
+      "start": 21.3,
+      "end": 21.78
+    },
+    {
+      "word": "your",
+      "start": 21.78,
+      "end": 22.16
+    },
+    {
+      "word": "internal",
+      "start": 22.16,
+      "end": 22.48
+    },
+    {
+      "word": "docs",
+      "start": 22.48,
+      "end": 22.96
+    },
+    {
+      "word": "into",
+      "start": 22.96,
+      "end": 23.26
+    },
+    {
+      "word": "a",
+      "start": 23.26,
+      "end": 23.52
+    },
+    {
+      "word": "single",
+      "start": 23.52,
+      "end": 23.88
+    },
+    {
+      "word": "conversational",
+      "start": 23.88,
+      "end": 24.68
+    },
+    {
+      "word": "agent",
+      "start": 24.68,
+      "end": 25.16
+    },
+    {
+      "word": "inside",
+      "start": 25.16,
+      "end": 25.88
+    },
+    {
+      "word": "Microsoft",
+      "start": 25.88,
+      "end": 26.38
+    },
+    {
+      "word": "teams.",
+      "start": 26.38,
+      "end": 27.16
+    },
+    {
+      "word": "Staff",
+      "start": 27.8,
+      "end": 27.96
+    },
+    {
+      "word": "find",
+      "start": 27.96,
+      "end": 28.28
+    },
+    {
+      "word": "verified",
+      "start": 28.28,
+      "end": 28.76
+    },
+    {
+      "word": "answers",
+      "start": 28.76,
+      "end": 29.3
+    },
+    {
+      "word": "instantly",
+      "start": 29.3,
+      "end": 29.86
+    },
+    {
+      "word": "across",
+      "start": 29.86,
+      "end": 30.32
+    },
+    {
+      "word": "every",
+      "start": 30.32,
+      "end": 30.62
+    },
+    {
+      "word": "department.",
+      "start": 30.62,
+      "end": 31.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Stop searching through messy company intranets: try this new AI assistant.",
+      "line2": "COPILOT STUDIO ENTERPRISE BOTS",
+      "tag": "\ud83d\uded1 Microsoft Copilot Studio improvements for custom enterprise bots",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Microsoft Copilot Studio improvements for custom enterprise bots",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Microsoft Copilot Studio improvements for custom enterprise bots",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

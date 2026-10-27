@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated review collector that emails customers 3 days after delivery",
+  "text": "Stop forgetting to follow up with happy buyers for social proof. Running an online store alongside a full-time job means customer follow-ups constantly slip through the cracks. Missing that critical post-purchase window costs you valuable photo testimonials that double your conversion rates. Instead, trigger an automated Zapier workflow between Shopify and Judge.me three days after carrier delivery confirmation. You stack five-star ratings without lifting a finger.",
+  "duration": 26.219,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "forgetting",
+      "start": 0.4,
+      "end": 0.68
+    },
+    {
+      "word": "to",
+      "start": 0.68,
+      "end": 0.94
+    },
+    {
+      "word": "follow",
+      "start": 0.94,
+      "end": 1.12
+    },
+    {
+      "word": "up",
+      "start": 1.12,
+      "end": 1.3
+    },
+    {
+      "word": "with",
+      "start": 1.3,
+      "end": 1.56
+    },
+    {
+      "word": "happy",
+      "start": 1.56,
+      "end": 1.7
+    },
+    {
+      "word": "buyers",
+      "start": 1.7,
+      "end": 2.04
+    },
+    {
+      "word": "for",
+      "start": 2.04,
+      "end": 2.38
+    },
+    {
+      "word": "social",
+      "start": 2.38,
+      "end": 2.66
+    },
+    {
+      "word": "proof.",
+      "start": 2.66,
+      "end": 3.12
+    },
+    {
+      "word": "Running",
+      "start": 3.64,
+      "end": 3.64
+    },
+    {
+      "word": "an",
+      "start": 3.64,
+      "end": 3.84
+    },
+    {
+      "word": "online",
+      "start": 3.84,
+      "end": 4.22
+    },
+    {
+      "word": "store",
+      "start": 4.22,
+      "end": 4.5
+    },
+    {
+      "word": "alongside",
+      "start": 4.5,
+      "end": 4.98
+    },
+    {
+      "word": "a",
+      "start": 4.98,
+      "end": 5.18
+    },
+    {
+      "word": "full",
+      "start": 5.18,
+      "end": 5.42
+    },
+    {
+      "word": "-time",
+      "start": 5.42,
+      "end": 5.7
+    },
+    {
+      "word": "job",
+      "start": 5.7,
+      "end": 6.2
+    },
+    {
+      "word": "means",
+      "start": 6.2,
+      "end": 6.64
+    },
+    {
+      "word": "customer",
+      "start": 6.64,
+      "end": 7.04
+    },
+    {
+      "word": "follow",
+      "start": 7.04,
+      "end": 7.44
+    },
+    {
+      "word": "-ups",
+      "start": 7.44,
+      "end": 7.66
+    },
+    {
+      "word": "constantly",
+      "start": 7.66,
+      "end": 8.22
+    },
+    {
+      "word": "slip",
+      "start": 8.22,
+      "end": 8.48
+    },
+    {
+      "word": "through",
+      "start": 8.48,
+      "end": 8.68
+    },
+    {
+      "word": "the",
+      "start": 8.68,
+      "end": 8.84
+    },
+    {
+      "word": "cracks.",
+      "start": 8.84,
+      "end": 9.14
+    },
+    {
+      "word": "Missing",
+      "start": 9.8,
+      "end": 9.9
+    },
+    {
+      "word": "that",
+      "start": 9.9,
+      "end": 10.18
+    },
+    {
+      "word": "critical",
+      "start": 10.18,
+      "end": 10.56
+    },
+    {
+      "word": "post",
+      "start": 10.56,
+      "end": 10.9
+    },
+    {
+      "word": "-purchase,",
+      "start": 10.9,
+      "end": 11.3
+    },
+    {
+      "word": "window",
+      "start": 11.66,
+      "end": 11.76
+    },
+    {
+      "word": "cost",
+      "start": 11.76,
+      "end": 12.12
+    },
+    {
+      "word": "you",
+      "start": 12.12,
+      "end": 12.38
+    },
+    {
+      "word": "valuable",
+      "start": 12.38,
+      "end": 12.78
+    },
+    {
+      "word": "photo",
+      "start": 12.78,
+      "end": 13.14
+    },
+    {
+      "word": "testimonials",
+      "start": 13.14,
+      "end": 13.84
+    },
+    {
+      "word": "that",
+      "start": 13.84,
+      "end": 14.14
+    },
+    {
+      "word": "double",
+      "start": 14.14,
+      "end": 14.3
+    },
+    {
+      "word": "your",
+      "start": 14.3,
+      "end": 14.6
+    },
+    {
+      "word": "conversion",
+      "start": 14.6,
+      "end": 14.88
+    },
+    {
+      "word": "rates.",
+      "start": 14.88,
+      "end": 15.36
+    },
+    {
+      "word": "Instead,",
+      "start": 15.86,
+      "end": 16.22
+    },
+    {
+      "word": "trigger",
+      "start": 16.74,
+      "end": 16.82
+    },
+    {
+      "word": "an",
+      "start": 16.82,
+      "end": 17.54
+    },
+    {
+      "word": "automated",
+      "start": 17.54,
+      "end": 17.54
+    },
+    {
+      "word": "Zapier",
+      "start": 17.54,
+      "end": 18.06
+    },
+    {
+      "word": "workflow",
+      "start": 18.06,
+      "end": 18.4
+    },
+    {
+      "word": "between",
+      "start": 18.4,
+      "end": 18.9
+    },
+    {
+      "word": "Shopify",
+      "start": 18.9,
+      "end": 19.46
+    },
+    {
+      "word": "and",
+      "start": 19.46,
+      "end": 19.78
+    },
+    {
+      "word": "Judge,",
+      "start": 19.78,
+      "end": 20.18
+    },
+    {
+      "word": "me",
+      "start": 20.6,
+      "end": 20.66
+    },
+    {
+      "word": "three",
+      "start": 20.66,
+      "end": 20.92
+    },
+    {
+      "word": "days",
+      "start": 20.92,
+      "end": 21.22
+    },
+    {
+      "word": "after",
+      "start": 21.22,
+      "end": 21.56
+    },
+    {
+      "word": "carrier",
+      "start": 21.56,
+      "end": 21.9
+    },
+    {
+      "word": "delivery",
+      "start": 21.9,
+      "end": 22.32
+    },
+    {
+      "word": "confirmation.",
+      "start": 22.32,
+      "end": 22.9
+    },
+    {
+      "word": "You",
+      "start": 23.52,
+      "end": 23.72
+    },
+    {
+      "word": "stack",
+      "start": 23.72,
+      "end": 23.9
+    },
+    {
+      "word": "five",
+      "start": 23.9,
+      "end": 24.36
+    },
+    {
+      "word": "-star",
+      "start": 24.36,
+      "end": 24.6
+    },
+    {
+      "word": "ratings",
+      "start": 24.6,
+      "end": 25.02
+    },
+    {
+      "word": "without",
+      "start": 25.02,
+      "end": 25.44
+    },
+    {
+      "word": "lifting",
+      "start": 25.44,
+      "end": 25.72
+    },
+    {
+      "word": "a",
+      "start": 25.72,
+      "end": 25.98
+    },
+    {
+      "word": "finger.",
+      "start": 25.98,
+      "end": 26.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop forgetting to follow up with happy buyers for social proof.",
+      "line2": "COLLECT 5-STAR REVIEWS",
+      "tag": "\ud83d\uded1 Automated review collector that emails customers 3 days after delivery",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: Automated review collector that emails customers 3 days after delivery",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: Automated review collector that emails customers 3 days after delivery",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

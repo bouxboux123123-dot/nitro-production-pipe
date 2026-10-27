@@ -1,0 +1,396 @@
+{
+  "page": "page-01",
+  "idea": "Agency rate card calculator that protects 60 percent gross margins",
+  "text": "How profitable agencies price their services for maximum enterprise margin. Charging flat fees without tracking actual labor allocations turns promising client retainers into money-losing traps. Disconnected contractor invoices make it impossible to see which service packages actually generate healthy cash reserves. Implement a dynamic Google Sheets model that syncs Clockify hours to enforce sixty percent gross margins automatically. You scale agency revenues while guaranteeing predictable profitability.",
+  "duration": 32.122,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "profitable",
+      "start": 0.32,
+      "end": 0.84
+    },
+    {
+      "word": "agencies",
+      "start": 0.84,
+      "end": 1.38
+    },
+    {
+      "word": "price",
+      "start": 1.38,
+      "end": 1.8
+    },
+    {
+      "word": "their",
+      "start": 1.8,
+      "end": 2.22
+    },
+    {
+      "word": "services",
+      "start": 2.22,
+      "end": 2.56
+    },
+    {
+      "word": "for",
+      "start": 2.56,
+      "end": 2.86
+    },
+    {
+      "word": "maximum",
+      "start": 2.86,
+      "end": 3.32
+    },
+    {
+      "word": "enterprise",
+      "start": 3.32,
+      "end": 3.9
+    },
+    {
+      "word": "margin.",
+      "start": 3.9,
+      "end": 4.68
+    },
+    {
+      "word": "Charging",
+      "start": 5.38,
+      "end": 5.6
+    },
+    {
+      "word": "flat",
+      "start": 5.6,
+      "end": 5.92
+    },
+    {
+      "word": "fees",
+      "start": 5.92,
+      "end": 6.34
+    },
+    {
+      "word": "without",
+      "start": 6.34,
+      "end": 6.8
+    },
+    {
+      "word": "tracking",
+      "start": 6.8,
+      "end": 7.24
+    },
+    {
+      "word": "actual",
+      "start": 7.24,
+      "end": 7.66
+    },
+    {
+      "word": "labor",
+      "start": 7.66,
+      "end": 8.0
+    },
+    {
+      "word": "allocations",
+      "start": 8.0,
+      "end": 8.72
+    },
+    {
+      "word": "turns",
+      "start": 8.72,
+      "end": 9.48
+    },
+    {
+      "word": "promising",
+      "start": 9.48,
+      "end": 10.0
+    },
+    {
+      "word": "client",
+      "start": 10.0,
+      "end": 10.4
+    },
+    {
+      "word": "retainers",
+      "start": 10.4,
+      "end": 10.98
+    },
+    {
+      "word": "into",
+      "start": 10.98,
+      "end": 11.26
+    },
+    {
+      "word": "money",
+      "start": 11.26,
+      "end": 11.52
+    },
+    {
+      "word": "-losing",
+      "start": 11.52,
+      "end": 11.86
+    },
+    {
+      "word": "traps.",
+      "start": 11.86,
+      "end": 12.46
+    },
+    {
+      "word": "Disconnected",
+      "start": 12.84,
+      "end": 13.3
+    },
+    {
+      "word": "contractor",
+      "start": 13.3,
+      "end": 13.9
+    },
+    {
+      "word": "invoices",
+      "start": 13.9,
+      "end": 14.44
+    },
+    {
+      "word": "make",
+      "start": 14.44,
+      "end": 14.68
+    },
+    {
+      "word": "it",
+      "start": 14.68,
+      "end": 14.86
+    },
+    {
+      "word": "impossible",
+      "start": 14.86,
+      "end": 15.26
+    },
+    {
+      "word": "to",
+      "start": 15.26,
+      "end": 15.58
+    },
+    {
+      "word": "see",
+      "start": 15.58,
+      "end": 15.72
+    },
+    {
+      "word": "which",
+      "start": 15.72,
+      "end": 15.94
+    },
+    {
+      "word": "service",
+      "start": 15.94,
+      "end": 16.26
+    },
+    {
+      "word": "packages",
+      "start": 16.26,
+      "end": 16.78
+    },
+    {
+      "word": "actually",
+      "start": 16.78,
+      "end": 17.6
+    },
+    {
+      "word": "generate",
+      "start": 17.6,
+      "end": 18.06
+    },
+    {
+      "word": "healthy",
+      "start": 18.06,
+      "end": 18.48
+    },
+    {
+      "word": "cash",
+      "start": 18.48,
+      "end": 18.82
+    },
+    {
+      "word": "reserves.",
+      "start": 18.82,
+      "end": 19.38
+    },
+    {
+      "word": "Implement",
+      "start": 20.02,
+      "end": 20.3
+    },
+    {
+      "word": "a",
+      "start": 20.3,
+      "end": 20.92
+    },
+    {
+      "word": "dynamic",
+      "start": 20.92,
+      "end": 21.24
+    },
+    {
+      "word": "Google",
+      "start": 21.24,
+      "end": 21.76
+    },
+    {
+      "word": "Sheets",
+      "start": 21.76,
+      "end": 22.08
+    },
+    {
+      "word": "model",
+      "start": 22.08,
+      "end": 22.42
+    },
+    {
+      "word": "that",
+      "start": 22.42,
+      "end": 22.76
+    },
+    {
+      "word": "sinks",
+      "start": 22.76,
+      "end": 23.12
+    },
+    {
+      "word": "clockify",
+      "start": 23.12,
+      "end": 23.68
+    },
+    {
+      "word": "hours",
+      "start": 23.68,
+      "end": 24.2
+    },
+    {
+      "word": "to",
+      "start": 24.2,
+      "end": 24.64
+    },
+    {
+      "word": "enforce",
+      "start": 24.64,
+      "end": 25.08
+    },
+    {
+      "word": "60",
+      "start": 25.08,
+      "end": 25.62
+    },
+    {
+      "word": "%",
+      "start": 25.62,
+      "end": 26.06
+    },
+    {
+      "word": "gross",
+      "start": 26.06,
+      "end": 26.4
+    },
+    {
+      "word": "margins",
+      "start": 26.4,
+      "end": 26.9
+    },
+    {
+      "word": "automatically.",
+      "start": 26.9,
+      "end": 27.56
+    },
+    {
+      "word": "You",
+      "start": 27.56,
+      "end": 28.38
+    },
+    {
+      "word": "scale",
+      "start": 28.38,
+      "end": 28.68
+    },
+    {
+      "word": "agency",
+      "start": 28.68,
+      "end": 29.22
+    },
+    {
+      "word": "revenues",
+      "start": 29.22,
+      "end": 29.64
+    },
+    {
+      "word": "while",
+      "start": 29.64,
+      "end": 30.04
+    },
+    {
+      "word": "guaranteeing",
+      "start": 30.04,
+      "end": 30.62
+    },
+    {
+      "word": "predictable",
+      "start": 30.62,
+      "end": 31.3
+    },
+    {
+      "word": "profitability.",
+      "start": 31.3,
+      "end": 31.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How profitable agencies price their services for maximum enterprise margin.",
+      "line2": "PROTECT 60% MARGINS",
+      "tag": "\ud83d\uded1 Agency rate card calculator that protects 60 percent gross margins",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Agency rate card calculator that protects 60 percent gross margins",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Agency rate card calculator that protects 60 percent gross margins",
+        "subtitle": "Agency rate card calculator that protects 60 percent gross margins"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Agency rate card calculator that protects 60 percent gross margins"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Agency rate card calculator that protects 60 percent gross margins"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Agency rate card calculator that protects 60 percent gross margins",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

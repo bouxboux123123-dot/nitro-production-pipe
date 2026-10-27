@@ -1,0 +1,381 @@
+{
+  "page": "page-01",
+  "idea": "Automated multi-client monthly reporting dashboard using Looker Studio",
+  "text": "Leave such a clean, professional last impression that past clients frequently return. Sloppy offboarding ruins great retainer work, making clients remember chaotic exits rather than results. Disorganized handoffs prevent satisfied executives from rehiring your team or sending lucrative referrals. Package final deliverables into a branded Notion vault with a personalized Loom walkthrough and referral link. You turn past retainers into lifelong brand advocates.",
+  "duration": 26.56,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "leave",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "such",
+      "start": 0.22,
+      "end": 0.48
+    },
+    {
+      "word": "a",
+      "start": 0.48,
+      "end": 0.6
+    },
+    {
+      "word": "clean,",
+      "start": 0.6,
+      "end": 0.96
+    },
+    {
+      "word": "professional",
+      "start": 1.36,
+      "end": 1.4
+    },
+    {
+      "word": "-last",
+      "start": 1.4,
+      "end": 1.74
+    },
+    {
+      "word": "impression",
+      "start": 1.74,
+      "end": 2.16
+    },
+    {
+      "word": "that",
+      "start": 2.16,
+      "end": 2.46
+    },
+    {
+      "word": "past",
+      "start": 2.46,
+      "end": 2.7
+    },
+    {
+      "word": "clients",
+      "start": 2.7,
+      "end": 3.06
+    },
+    {
+      "word": "frequently",
+      "start": 3.06,
+      "end": 3.54
+    },
+    {
+      "word": "return.",
+      "start": 3.54,
+      "end": 4.16
+    },
+    {
+      "word": "Sloppy",
+      "start": 4.76,
+      "end": 4.94
+    },
+    {
+      "word": "off",
+      "start": 4.94,
+      "end": 5.2
+    },
+    {
+      "word": "-boarding",
+      "start": 5.2,
+      "end": 5.46
+    },
+    {
+      "word": "ruins",
+      "start": 5.46,
+      "end": 5.74
+    },
+    {
+      "word": "great",
+      "start": 5.74,
+      "end": 6.16
+    },
+    {
+      "word": "retainer",
+      "start": 6.16,
+      "end": 6.56
+    },
+    {
+      "word": "work,",
+      "start": 6.56,
+      "end": 6.92
+    },
+    {
+      "word": "making",
+      "start": 7.26,
+      "end": 7.44
+    },
+    {
+      "word": "clients",
+      "start": 7.44,
+      "end": 7.86
+    },
+    {
+      "word": "remember",
+      "start": 7.86,
+      "end": 8.26
+    },
+    {
+      "word": "chaotic",
+      "start": 8.26,
+      "end": 8.64
+    },
+    {
+      "word": "exits",
+      "start": 8.64,
+      "end": 9.14
+    },
+    {
+      "word": "rather",
+      "start": 9.14,
+      "end": 9.46
+    },
+    {
+      "word": "than",
+      "start": 9.46,
+      "end": 9.68
+    },
+    {
+      "word": "results.",
+      "start": 9.68,
+      "end": 10.08
+    },
+    {
+      "word": "Disorganized",
+      "start": 10.66,
+      "end": 11.18
+    },
+    {
+      "word": "handoffs",
+      "start": 11.18,
+      "end": 11.78
+    },
+    {
+      "word": "prevent",
+      "start": 11.78,
+      "end": 12.2
+    },
+    {
+      "word": "satisfied",
+      "start": 12.2,
+      "end": 12.76
+    },
+    {
+      "word": "executives",
+      "start": 12.76,
+      "end": 13.32
+    },
+    {
+      "word": "from",
+      "start": 13.32,
+      "end": 13.68
+    },
+    {
+      "word": "rehiring",
+      "start": 13.68,
+      "end": 14.1
+    },
+    {
+      "word": "your",
+      "start": 14.1,
+      "end": 14.38
+    },
+    {
+      "word": "team",
+      "start": 14.38,
+      "end": 14.72
+    },
+    {
+      "word": "or",
+      "start": 14.72,
+      "end": 15.24
+    },
+    {
+      "word": "sending",
+      "start": 15.24,
+      "end": 15.58
+    },
+    {
+      "word": "lucrative",
+      "start": 15.58,
+      "end": 16.06
+    },
+    {
+      "word": "referrals.",
+      "start": 16.06,
+      "end": 16.72
+    },
+    {
+      "word": "Package",
+      "start": 17.64,
+      "end": 17.64
+    },
+    {
+      "word": "final",
+      "start": 17.64,
+      "end": 18.1
+    },
+    {
+      "word": "deliverables",
+      "start": 18.1,
+      "end": 18.6
+    },
+    {
+      "word": "into",
+      "start": 18.6,
+      "end": 18.84
+    },
+    {
+      "word": "a",
+      "start": 18.84,
+      "end": 19.04
+    },
+    {
+      "word": "branded",
+      "start": 19.04,
+      "end": 19.32
+    },
+    {
+      "word": "notion",
+      "start": 19.32,
+      "end": 19.72
+    },
+    {
+      "word": "vault",
+      "start": 19.72,
+      "end": 20.06
+    },
+    {
+      "word": "with",
+      "start": 20.06,
+      "end": 20.28
+    },
+    {
+      "word": "a",
+      "start": 20.28,
+      "end": 20.64
+    },
+    {
+      "word": "personalized",
+      "start": 20.64,
+      "end": 20.92
+    },
+    {
+      "word": "loom",
+      "start": 20.92,
+      "end": 21.28
+    },
+    {
+      "word": "walkthrough",
+      "start": 21.28,
+      "end": 21.82
+    },
+    {
+      "word": "and",
+      "start": 21.82,
+      "end": 22.36
+    },
+    {
+      "word": "referral",
+      "start": 22.36,
+      "end": 22.64
+    },
+    {
+      "word": "link.",
+      "start": 22.64,
+      "end": 23.08
+    },
+    {
+      "word": "You",
+      "start": 23.56,
+      "end": 23.66
+    },
+    {
+      "word": "turn",
+      "start": 23.66,
+      "end": 23.96
+    },
+    {
+      "word": "past",
+      "start": 23.96,
+      "end": 24.28
+    },
+    {
+      "word": "retainers",
+      "start": 24.28,
+      "end": 24.8
+    },
+    {
+      "word": "into",
+      "start": 24.8,
+      "end": 25.04
+    },
+    {
+      "word": "lifelong",
+      "start": 25.04,
+      "end": 25.48
+    },
+    {
+      "word": "brand",
+      "start": 25.48,
+      "end": 25.96
+    },
+    {
+      "word": "advocates.",
+      "start": 25.96,
+      "end": 26.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How top digital agencies present clean metrics that retain clients for years.",
+      "line2": "AUTOMATE CLIENT REPORTS",
+      "tag": "\ud83d\uded1 Automated multi-client monthly reporting dashboard using Looker Studio",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated multi-client monthly reporting dashboard using Looker Studio",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated multi-client monthly reporting dashboard using Looker Studio",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

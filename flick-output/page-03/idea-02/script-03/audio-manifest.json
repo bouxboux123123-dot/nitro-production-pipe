@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "AI customer service bot that answers buyer DMs and closes sales",
+  "text": "This simple bot handled eighty percent of my store's customer support tickets. Side hustlers get chained to their phones answering tracking requests during family dinners. Manually looking up tracking numbers in your fulfillment dashboard creates costly delays and customer frustration. Connect Tidio to your Shopify store so buyers receive real-time tracking updates simply by entering their order number. This eliminates repetitive support tickets while giving you your weekends back.",
+  "duration": 26.496,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "simple",
+      "start": 0.26,
+      "end": 0.56
+    },
+    {
+      "word": "bot",
+      "start": 0.56,
+      "end": 0.88
+    },
+    {
+      "word": "handled",
+      "start": 0.88,
+      "end": 1.16
+    },
+    {
+      "word": "80",
+      "start": 1.16,
+      "end": 1.56
+    },
+    {
+      "word": "%",
+      "start": 1.56,
+      "end": 1.88
+    },
+    {
+      "word": "of",
+      "start": 1.88,
+      "end": 1.94
+    },
+    {
+      "word": "my",
+      "start": 1.94,
+      "end": 2.2
+    },
+    {
+      "word": "stores",
+      "start": 2.2,
+      "end": 2.54
+    },
+    {
+      "word": "customer",
+      "start": 2.54,
+      "end": 2.98
+    },
+    {
+      "word": "support",
+      "start": 2.98,
+      "end": 3.38
+    },
+    {
+      "word": "tickets.",
+      "start": 3.38,
+      "end": 3.8
+    },
+    {
+      "word": "Side",
+      "start": 4.52,
+      "end": 4.62
+    },
+    {
+      "word": "hustlers",
+      "start": 4.62,
+      "end": 4.98
+    },
+    {
+      "word": "get",
+      "start": 4.98,
+      "end": 5.32
+    },
+    {
+      "word": "chained",
+      "start": 5.32,
+      "end": 5.52
+    },
+    {
+      "word": "to",
+      "start": 5.52,
+      "end": 5.7
+    },
+    {
+      "word": "their",
+      "start": 5.7,
+      "end": 5.92
+    },
+    {
+      "word": "phones",
+      "start": 5.92,
+      "end": 6.38
+    },
+    {
+      "word": "answering",
+      "start": 6.38,
+      "end": 6.8
+    },
+    {
+      "word": "tracking",
+      "start": 6.8,
+      "end": 7.22
+    },
+    {
+      "word": "requests",
+      "start": 7.22,
+      "end": 7.64
+    },
+    {
+      "word": "during",
+      "start": 7.64,
+      "end": 8.06
+    },
+    {
+      "word": "family",
+      "start": 8.06,
+      "end": 8.42
+    },
+    {
+      "word": "dinners.",
+      "start": 8.42,
+      "end": 8.76
+    },
+    {
+      "word": "Manually",
+      "start": 9.4,
+      "end": 9.68
+    },
+    {
+      "word": "looking",
+      "start": 9.68,
+      "end": 9.94
+    },
+    {
+      "word": "up",
+      "start": 9.94,
+      "end": 10.16
+    },
+    {
+      "word": "tracking",
+      "start": 10.16,
+      "end": 10.46
+    },
+    {
+      "word": "numbers",
+      "start": 10.46,
+      "end": 10.72
+    },
+    {
+      "word": "in",
+      "start": 10.72,
+      "end": 10.88
+    },
+    {
+      "word": "your",
+      "start": 10.88,
+      "end": 11.1
+    },
+    {
+      "word": "fulfillment",
+      "start": 11.1,
+      "end": 11.44
+    },
+    {
+      "word": "dashboard",
+      "start": 11.44,
+      "end": 11.96
+    },
+    {
+      "word": "creates",
+      "start": 11.96,
+      "end": 12.68
+    },
+    {
+      "word": "costly",
+      "start": 12.68,
+      "end": 13.12
+    },
+    {
+      "word": "delays",
+      "start": 13.12,
+      "end": 13.6
+    },
+    {
+      "word": "and",
+      "start": 13.6,
+      "end": 14.2
+    },
+    {
+      "word": "customer",
+      "start": 14.2,
+      "end": 14.32
+    },
+    {
+      "word": "frustration.",
+      "start": 14.32,
+      "end": 15.0
+    },
+    {
+      "word": "Connect",
+      "start": 15.88,
+      "end": 15.88
+    },
+    {
+      "word": "titty",
+      "start": 15.88,
+      "end": 16.12
+    },
+    {
+      "word": "-o",
+      "start": 16.12,
+      "end": 16.26
+    },
+    {
+      "word": "to",
+      "start": 16.26,
+      "end": 16.38
+    },
+    {
+      "word": "your",
+      "start": 16.38,
+      "end": 16.62
+    },
+    {
+      "word": "Shopify",
+      "start": 16.62,
+      "end": 17.12
+    },
+    {
+      "word": "store",
+      "start": 17.12,
+      "end": 17.48
+    },
+    {
+      "word": "so",
+      "start": 17.48,
+      "end": 17.94
+    },
+    {
+      "word": "buyers",
+      "start": 17.94,
+      "end": 18.26
+    },
+    {
+      "word": "receive",
+      "start": 18.26,
+      "end": 18.72
+    },
+    {
+      "word": "real",
+      "start": 18.72,
+      "end": 19.06
+    },
+    {
+      "word": "-time",
+      "start": 19.06,
+      "end": 19.4
+    },
+    {
+      "word": "tracking",
+      "start": 19.4,
+      "end": 19.78
+    },
+    {
+      "word": "updates",
+      "start": 19.78,
+      "end": 20.28
+    },
+    {
+      "word": "simply",
+      "start": 20.28,
+      "end": 20.62
+    },
+    {
+      "word": "by",
+      "start": 20.62,
+      "end": 21.0
+    },
+    {
+      "word": "entering",
+      "start": 21.0,
+      "end": 21.24
+    },
+    {
+      "word": "their",
+      "start": 21.24,
+      "end": 21.6
+    },
+    {
+      "word": "order",
+      "start": 21.6,
+      "end": 21.74
+    },
+    {
+      "word": "number.",
+      "start": 21.74,
+      "end": 22.14
+    },
+    {
+      "word": "This",
+      "start": 22.14,
+      "end": 22.86
+    },
+    {
+      "word": "eliminates",
+      "start": 22.86,
+      "end": 23.3
+    },
+    {
+      "word": "repetitive",
+      "start": 23.3,
+      "end": 23.94
+    },
+    {
+      "word": "support",
+      "start": 23.94,
+      "end": 24.4
+    },
+    {
+      "word": "tickets",
+      "start": 24.4,
+      "end": 24.7
+    },
+    {
+      "word": "while",
+      "start": 24.7,
+      "end": 25.06
+    },
+    {
+      "word": "giving",
+      "start": 25.06,
+      "end": 25.3
+    },
+    {
+      "word": "you",
+      "start": 25.3,
+      "end": 25.58
+    },
+    {
+      "word": "your",
+      "start": 25.58,
+      "end": 25.7
+    },
+    {
+      "word": "weekends",
+      "start": 25.7,
+      "end": 26.04
+    },
+    {
+      "word": "back.",
+      "start": 26.04,
+      "end": 26.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "This simple bot handled 80 percent of my store's customer support tickets.",
+      "line2": "CLOSE SALES IN DMS",
+      "tag": "\ud83d\uded1 AI customer service bot that answers buyer DMs and closes sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: AI customer service bot that answers buyer DMs and closes sales",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: AI customer service bot that answers buyer DMs and closes sales",
+        "subtitle": "AI customer service bot that answers buyer DMs and closes sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "AI customer service bot that answers buyer DMs and closes sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "AI customer service bot that answers buyer DMs and closes sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "AI customer service bot that answers buyer DMs and closes sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

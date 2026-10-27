@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Automated password and 2FA credential sharing hub for remote teams",
+  "text": "This automated password workflow keeps company accounts completely safe when remote staff depart. Offboarding turns chaotic when managers scramble to identify which shared tool logins departing contractors still hold. A single overlooked cloud dashboard or social media login creates serious corporate data breach vulnerabilities. Implementing Keeper Security with Google Workspace directory sync revokes every session and rotates credentials automatically. You secure company infrastructure in thirty seconds flat.",
+  "duration": 31.333,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "automated",
+      "start": 0.3,
+      "end": 0.72
+    },
+    {
+      "word": "password",
+      "start": 0.72,
+      "end": 1.22
+    },
+    {
+      "word": "workflow",
+      "start": 1.22,
+      "end": 1.78
+    },
+    {
+      "word": "keeps",
+      "start": 1.78,
+      "end": 2.26
+    },
+    {
+      "word": "company",
+      "start": 2.26,
+      "end": 2.7
+    },
+    {
+      "word": "accounts",
+      "start": 2.7,
+      "end": 3.14
+    },
+    {
+      "word": "completely",
+      "start": 3.14,
+      "end": 3.6
+    },
+    {
+      "word": "safe",
+      "start": 3.6,
+      "end": 4.14
+    },
+    {
+      "word": "when",
+      "start": 4.14,
+      "end": 4.34
+    },
+    {
+      "word": "remote",
+      "start": 4.34,
+      "end": 4.7
+    },
+    {
+      "word": "staff",
+      "start": 4.7,
+      "end": 5.04
+    },
+    {
+      "word": "depart.",
+      "start": 5.04,
+      "end": 5.6
+    },
+    {
+      "word": "Off",
+      "start": 6.22,
+      "end": 6.28
+    },
+    {
+      "word": "-boarding",
+      "start": 6.28,
+      "end": 6.5
+    },
+    {
+      "word": "turns",
+      "start": 6.5,
+      "end": 6.88
+    },
+    {
+      "word": "chaotic",
+      "start": 6.88,
+      "end": 7.32
+    },
+    {
+      "word": "when",
+      "start": 7.32,
+      "end": 7.7
+    },
+    {
+      "word": "managers",
+      "start": 7.7,
+      "end": 8.12
+    },
+    {
+      "word": "scramble",
+      "start": 8.12,
+      "end": 8.56
+    },
+    {
+      "word": "to",
+      "start": 8.56,
+      "end": 8.98
+    },
+    {
+      "word": "identify",
+      "start": 8.98,
+      "end": 9.42
+    },
+    {
+      "word": "which",
+      "start": 9.42,
+      "end": 9.88
+    },
+    {
+      "word": "shared",
+      "start": 9.88,
+      "end": 10.24
+    },
+    {
+      "word": "tool",
+      "start": 10.24,
+      "end": 10.56
+    },
+    {
+      "word": "logins",
+      "start": 10.56,
+      "end": 11.06
+    },
+    {
+      "word": "departing",
+      "start": 11.06,
+      "end": 11.5
+    },
+    {
+      "word": "contractors",
+      "start": 11.5,
+      "end": 12.06
+    },
+    {
+      "word": "still",
+      "start": 12.06,
+      "end": 12.64
+    },
+    {
+      "word": "hold.",
+      "start": 12.64,
+      "end": 13.04
+    },
+    {
+      "word": "A",
+      "start": 13.42,
+      "end": 13.5
+    },
+    {
+      "word": "single",
+      "start": 13.5,
+      "end": 13.8
+    },
+    {
+      "word": "overlooked",
+      "start": 13.8,
+      "end": 14.24
+    },
+    {
+      "word": "cloud",
+      "start": 14.24,
+      "end": 14.7
+    },
+    {
+      "word": "dashboard",
+      "start": 14.7,
+      "end": 15.16
+    },
+    {
+      "word": "or",
+      "start": 15.16,
+      "end": 15.68
+    },
+    {
+      "word": "social",
+      "start": 15.68,
+      "end": 16.06
+    },
+    {
+      "word": "media",
+      "start": 16.06,
+      "end": 16.4
+    },
+    {
+      "word": "login",
+      "start": 16.4,
+      "end": 16.8
+    },
+    {
+      "word": "creates",
+      "start": 16.8,
+      "end": 17.5
+    },
+    {
+      "word": "serious",
+      "start": 17.5,
+      "end": 17.94
+    },
+    {
+      "word": "corporate",
+      "start": 17.94,
+      "end": 18.4
+    },
+    {
+      "word": "data",
+      "start": 18.4,
+      "end": 18.8
+    },
+    {
+      "word": "breach",
+      "start": 18.8,
+      "end": 19.12
+    },
+    {
+      "word": "vulnerabilities.",
+      "start": 19.12,
+      "end": 19.74
+    },
+    {
+      "word": "Implementing",
+      "start": 20.58,
+      "end": 21.12
+    },
+    {
+      "word": "keeper",
+      "start": 21.12,
+      "end": 21.4
+    },
+    {
+      "word": "security",
+      "start": 21.4,
+      "end": 22.0
+    },
+    {
+      "word": "with",
+      "start": 22.0,
+      "end": 22.36
+    },
+    {
+      "word": "Google",
+      "start": 22.36,
+      "end": 22.72
+    },
+    {
+      "word": "workspace",
+      "start": 22.72,
+      "end": 23.18
+    },
+    {
+      "word": "directory",
+      "start": 23.18,
+      "end": 23.62
+    },
+    {
+      "word": "sync",
+      "start": 23.62,
+      "end": 24.34
+    },
+    {
+      "word": "revokes",
+      "start": 24.34,
+      "end": 24.74
+    },
+    {
+      "word": "every",
+      "start": 24.74,
+      "end": 25.16
+    },
+    {
+      "word": "session",
+      "start": 25.16,
+      "end": 25.58
+    },
+    {
+      "word": "and",
+      "start": 25.58,
+      "end": 26.12
+    },
+    {
+      "word": "rotates",
+      "start": 26.12,
+      "end": 26.54
+    },
+    {
+      "word": "credentials",
+      "start": 26.54,
+      "end": 27.1
+    },
+    {
+      "word": "automatically.",
+      "start": 27.1,
+      "end": 27.76
+    },
+    {
+      "word": "Use",
+      "start": 27.76,
+      "end": 28.6
+    },
+    {
+      "word": "a",
+      "start": 28.6,
+      "end": 28.8
+    },
+    {
+      "word": "cure",
+      "start": 28.8,
+      "end": 28.98
+    },
+    {
+      "word": "company",
+      "start": 28.98,
+      "end": 29.36
+    },
+    {
+      "word": "infrastructure",
+      "start": 29.36,
+      "end": 29.94
+    },
+    {
+      "word": "in",
+      "start": 29.94,
+      "end": 30.36
+    },
+    {
+      "word": "30",
+      "start": 30.36,
+      "end": 30.66
+    },
+    {
+      "word": "seconds",
+      "start": 30.66,
+      "end": 31.02
+    },
+    {
+      "word": "flat.",
+      "start": 31.02,
+      "end": 31.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The password manager workflow that keeps company accounts safe when staff depart.",
+      "line2": "SHARE 2FA CREDENTIALS SAFELY",
+      "tag": "\ud83d\uded1 Automated password and 2FA credential sharing hub for remote teams",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated password and 2FA credential sharing hub for remote teams",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated password and 2FA credential sharing hub for remote teams",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

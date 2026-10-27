@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "How to extract text from a screenshot or image without retyping it",
+  "text": "The tiny keyboard shortcut that saves beginners hours of manual typing. Retyping error messages, serial codes, or book quotes onto your computer is exhausting busywork. A mistyped character in an API key ruins your setup and wastes thirty minutes troubleshooting. Open Windows Snipping Tool with Windows key plus Shift plus S, then select Text Actions to copy words. You extract clean, editable text without touching a keyboard key.",
+  "duration": 25.365,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "A",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "tiny",
+      "start": 0.28,
+      "end": 0.48
+    },
+    {
+      "word": "keyboard",
+      "start": 0.48,
+      "end": 0.78
+    },
+    {
+      "word": "shortcut",
+      "start": 0.78,
+      "end": 1.26
+    },
+    {
+      "word": "that",
+      "start": 1.26,
+      "end": 1.64
+    },
+    {
+      "word": "saves",
+      "start": 1.64,
+      "end": 1.94
+    },
+    {
+      "word": "beginners",
+      "start": 1.94,
+      "end": 2.24
+    },
+    {
+      "word": "hours",
+      "start": 2.24,
+      "end": 2.68
+    },
+    {
+      "word": "of",
+      "start": 2.68,
+      "end": 3.16
+    },
+    {
+      "word": "manual",
+      "start": 3.16,
+      "end": 3.2
+    },
+    {
+      "word": "typing.",
+      "start": 3.2,
+      "end": 3.68
+    },
+    {
+      "word": "Retyping",
+      "start": 4.1,
+      "end": 4.6
+    },
+    {
+      "word": "error",
+      "start": 4.6,
+      "end": 4.82
+    },
+    {
+      "word": "messages,",
+      "start": 4.82,
+      "end": 5.28
+    },
+    {
+      "word": "serial",
+      "start": 5.74,
+      "end": 6.02
+    },
+    {
+      "word": "codes,",
+      "start": 6.02,
+      "end": 6.48
+    },
+    {
+      "word": "or",
+      "start": 6.68,
+      "end": 6.84
+    },
+    {
+      "word": "book",
+      "start": 6.84,
+      "end": 7.08
+    },
+    {
+      "word": "quotes",
+      "start": 7.08,
+      "end": 7.36
+    },
+    {
+      "word": "onto",
+      "start": 7.36,
+      "end": 7.56
+    },
+    {
+      "word": "your",
+      "start": 7.56,
+      "end": 7.8
+    },
+    {
+      "word": "computer",
+      "start": 7.8,
+      "end": 8.06
+    },
+    {
+      "word": "is",
+      "start": 8.06,
+      "end": 8.42
+    },
+    {
+      "word": "exhausting",
+      "start": 8.42,
+      "end": 8.86
+    },
+    {
+      "word": "busy",
+      "start": 8.86,
+      "end": 9.14
+    },
+    {
+      "word": "work.",
+      "start": 9.14,
+      "end": 9.58
+    },
+    {
+      "word": "A",
+      "start": 10.0,
+      "end": 10.08
+    },
+    {
+      "word": "mistyped",
+      "start": 10.08,
+      "end": 10.72
+    },
+    {
+      "word": "character",
+      "start": 10.72,
+      "end": 10.8
+    },
+    {
+      "word": "in",
+      "start": 10.8,
+      "end": 10.98
+    },
+    {
+      "word": "an",
+      "start": 10.98,
+      "end": 11.26
+    },
+    {
+      "word": "API",
+      "start": 11.26,
+      "end": 11.46
+    },
+    {
+      "word": "key",
+      "start": 11.46,
+      "end": 12.04
+    },
+    {
+      "word": "ruins",
+      "start": 12.04,
+      "end": 12.3
+    },
+    {
+      "word": "your",
+      "start": 12.3,
+      "end": 12.6
+    },
+    {
+      "word": "setup",
+      "start": 12.6,
+      "end": 12.84
+    },
+    {
+      "word": "and",
+      "start": 12.84,
+      "end": 13.34
+    },
+    {
+      "word": "wastes",
+      "start": 13.34,
+      "end": 13.6
+    },
+    {
+      "word": "30",
+      "start": 13.6,
+      "end": 13.96
+    },
+    {
+      "word": "minutes",
+      "start": 13.96,
+      "end": 14.26
+    },
+    {
+      "word": "troubleshooting.",
+      "start": 14.26,
+      "end": 14.92
+    },
+    {
+      "word": "Open",
+      "start": 15.48,
+      "end": 15.72
+    },
+    {
+      "word": "Windows",
+      "start": 15.72,
+      "end": 16.06
+    },
+    {
+      "word": "Snipping",
+      "start": 16.06,
+      "end": 16.4
+    },
+    {
+      "word": "Tool",
+      "start": 16.4,
+      "end": 16.74
+    },
+    {
+      "word": "with",
+      "start": 16.74,
+      "end": 16.96
+    },
+    {
+      "word": "Windows",
+      "start": 16.96,
+      "end": 17.28
+    },
+    {
+      "word": "Key",
+      "start": 17.28,
+      "end": 17.66
+    },
+    {
+      "word": "Plus",
+      "start": 17.66,
+      "end": 17.94
+    },
+    {
+      "word": "Shift",
+      "start": 17.94,
+      "end": 18.22
+    },
+    {
+      "word": "plus",
+      "start": 18.22,
+      "end": 18.52
+    },
+    {
+      "word": "S,",
+      "start": 18.52,
+      "end": 18.98
+    },
+    {
+      "word": "then",
+      "start": 19.34,
+      "end": 19.46
+    },
+    {
+      "word": "select",
+      "start": 19.46,
+      "end": 19.82
+    },
+    {
+      "word": "text",
+      "start": 19.82,
+      "end": 20.12
+    },
+    {
+      "word": "actions",
+      "start": 20.12,
+      "end": 20.5
+    },
+    {
+      "word": "to",
+      "start": 20.5,
+      "end": 20.76
+    },
+    {
+      "word": "copy",
+      "start": 20.76,
+      "end": 21.08
+    },
+    {
+      "word": "words.",
+      "start": 21.08,
+      "end": 21.44
+    },
+    {
+      "word": "You",
+      "start": 21.44,
+      "end": 22.08
+    },
+    {
+      "word": "extract",
+      "start": 22.08,
+      "end": 22.48
+    },
+    {
+      "word": "clean,",
+      "start": 22.48,
+      "end": 23.08
+    },
+    {
+      "word": "editable",
+      "start": 23.2,
+      "end": 23.54
+    },
+    {
+      "word": "text",
+      "start": 23.54,
+      "end": 23.9
+    },
+    {
+      "word": "without",
+      "start": 23.9,
+      "end": 24.2
+    },
+    {
+      "word": "touching",
+      "start": 24.2,
+      "end": 24.5
+    },
+    {
+      "word": "a",
+      "start": 24.5,
+      "end": 24.78
+    },
+    {
+      "word": "keyboard",
+      "start": 24.78,
+      "end": 24.94
+    },
+    {
+      "word": "key.",
+      "start": 24.94,
+      "end": 25.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The tiny keyboard shortcut that saves beginners hours of manual typing.",
+      "line2": "EXTRACT TEXT FROM IMAGES",
+      "tag": "\ud83d\uded1 How to extract text from a screenshot or image without retyping it",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to extract text from a screenshot or image without retyping it",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to extract text from a screenshot or image without retyping it",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to extract text from a screenshot or image without retyping it",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

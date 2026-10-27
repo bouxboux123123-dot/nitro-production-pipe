@@ -1,0 +1,386 @@
+{
+  "page": "page-08",
+  "idea": "How to turn paper documents into search-ready PDFs using your phone",
+  "text": "This simple paperless workflow keeps your entire desk organized without physical clutter. Stacking incoming bills and medical forms on your desk creates clutter and missed payment deadlines. Saving raw phone photos mixes legal paperwork with family pictures, burying critical files when needed. Instead, scan incoming pages directly into Apple Notes with auto-detection and searchable OCR enabled. You maintain a clean desk and searchable digital filing cabinet.",
+  "duration": 26.112,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Simple",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "word": "paperless",
+      "start": 0.52,
+      "end": 0.98
+    },
+    {
+      "word": "workflow",
+      "start": 0.98,
+      "end": 1.34
+    },
+    {
+      "word": "keeps",
+      "start": 1.34,
+      "end": 1.68
+    },
+    {
+      "word": "your",
+      "start": 1.68,
+      "end": 2.16
+    },
+    {
+      "word": "entire",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "word": "desk",
+      "start": 2.24,
+      "end": 2.54
+    },
+    {
+      "word": "organized",
+      "start": 2.54,
+      "end": 3.02
+    },
+    {
+      "word": "without",
+      "start": 3.02,
+      "end": 3.4
+    },
+    {
+      "word": "physical",
+      "start": 3.4,
+      "end": 3.78
+    },
+    {
+      "word": "clutter.",
+      "start": 3.78,
+      "end": 4.22
+    },
+    {
+      "word": "Stacking",
+      "start": 4.8,
+      "end": 5.0
+    },
+    {
+      "word": "incoming",
+      "start": 5.0,
+      "end": 5.46
+    },
+    {
+      "word": "bills",
+      "start": 5.46,
+      "end": 5.78
+    },
+    {
+      "word": "and",
+      "start": 5.78,
+      "end": 6.08
+    },
+    {
+      "word": "medical",
+      "start": 6.08,
+      "end": 6.22
+    },
+    {
+      "word": "forms",
+      "start": 6.22,
+      "end": 6.64
+    },
+    {
+      "word": "on",
+      "start": 6.64,
+      "end": 6.82
+    },
+    {
+      "word": "your",
+      "start": 6.82,
+      "end": 7.0
+    },
+    {
+      "word": "desk",
+      "start": 7.0,
+      "end": 7.26
+    },
+    {
+      "word": "creates",
+      "start": 7.26,
+      "end": 7.68
+    },
+    {
+      "word": "clutter",
+      "start": 7.68,
+      "end": 7.96
+    },
+    {
+      "word": "and",
+      "start": 7.96,
+      "end": 8.2
+    },
+    {
+      "word": "mispayment",
+      "start": 8.2,
+      "end": 8.66
+    },
+    {
+      "word": "deadlines.",
+      "start": 8.66,
+      "end": 9.18
+    },
+    {
+      "word": "Saving",
+      "start": 10.04,
+      "end": 10.06
+    },
+    {
+      "word": "raw",
+      "start": 10.06,
+      "end": 10.34
+    },
+    {
+      "word": "phone",
+      "start": 10.34,
+      "end": 10.66
+    },
+    {
+      "word": "photos",
+      "start": 10.66,
+      "end": 10.94
+    },
+    {
+      "word": "mixes",
+      "start": 10.94,
+      "end": 11.38
+    },
+    {
+      "word": "legal",
+      "start": 11.38,
+      "end": 11.64
+    },
+    {
+      "word": "paperwork",
+      "start": 11.64,
+      "end": 12.06
+    },
+    {
+      "word": "with",
+      "start": 12.06,
+      "end": 12.34
+    },
+    {
+      "word": "family",
+      "start": 12.34,
+      "end": 12.66
+    },
+    {
+      "word": "pictures,",
+      "start": 12.66,
+      "end": 13.14
+    },
+    {
+      "word": "burying",
+      "start": 13.82,
+      "end": 13.82
+    },
+    {
+      "word": "critical",
+      "start": 13.82,
+      "end": 14.26
+    },
+    {
+      "word": "files",
+      "start": 14.26,
+      "end": 14.74
+    },
+    {
+      "word": "when",
+      "start": 14.74,
+      "end": 14.98
+    },
+    {
+      "word": "needed.",
+      "start": 14.98,
+      "end": 15.3
+    },
+    {
+      "word": "Instead,",
+      "start": 15.94,
+      "end": 16.28
+    },
+    {
+      "word": "scan",
+      "start": 16.74,
+      "end": 17.0
+    },
+    {
+      "word": "incoming",
+      "start": 17.0,
+      "end": 17.42
+    },
+    {
+      "word": "pages",
+      "start": 17.42,
+      "end": 17.9
+    },
+    {
+      "word": "directly",
+      "start": 17.9,
+      "end": 18.4
+    },
+    {
+      "word": "into",
+      "start": 18.4,
+      "end": 18.66
+    },
+    {
+      "word": "Apple",
+      "start": 18.66,
+      "end": 18.92
+    },
+    {
+      "word": "notes",
+      "start": 18.92,
+      "end": 19.2
+    },
+    {
+      "word": "with",
+      "start": 19.2,
+      "end": 19.54
+    },
+    {
+      "word": "auto",
+      "start": 19.54,
+      "end": 19.7
+    },
+    {
+      "word": "detection",
+      "start": 19.7,
+      "end": 20.16
+    },
+    {
+      "word": "and",
+      "start": 20.16,
+      "end": 20.62
+    },
+    {
+      "word": "searchable",
+      "start": 20.62,
+      "end": 21.0
+    },
+    {
+      "word": "OCR",
+      "start": 21.0,
+      "end": 21.64
+    },
+    {
+      "word": "enabled.",
+      "start": 21.64,
+      "end": 22.16
+    },
+    {
+      "word": "You",
+      "start": 22.16,
+      "end": 22.86
+    },
+    {
+      "word": "maintain",
+      "start": 22.86,
+      "end": 23.22
+    },
+    {
+      "word": "a",
+      "start": 23.22,
+      "end": 23.46
+    },
+    {
+      "word": "clean",
+      "start": 23.46,
+      "end": 23.72
+    },
+    {
+      "word": "desk",
+      "start": 23.72,
+      "end": 24.08
+    },
+    {
+      "word": "and",
+      "start": 24.08,
+      "end": 24.5
+    },
+    {
+      "word": "searchable",
+      "start": 24.5,
+      "end": 24.94
+    },
+    {
+      "word": "digital",
+      "start": 24.94,
+      "end": 25.36
+    },
+    {
+      "word": "filing",
+      "start": 25.36,
+      "end": 25.74
+    },
+    {
+      "word": "cabinet.",
+      "start": 25.74,
+      "end": 26.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The beginner paperless workflow that keeps your life completely organized.",
+      "line2": "SCAN PAPERS TO PDF",
+      "tag": "\ud83d\uded1 How to turn paper documents into search-ready PDFs using your phone",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

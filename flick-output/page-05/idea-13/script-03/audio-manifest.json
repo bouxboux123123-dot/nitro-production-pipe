@@ -1,0 +1,411 @@
+{
+  "page": "page-05",
+  "idea": "Tally forms integrated with Discord webhooks for instant community alerts",
+  "text": "Get real-time mobile alerts the exact second someone applies to your coaching program. High-ticket creators lose qualified clients because booking forms sit silently inside Google Drive folders without alerts. A two-hour response delay cuts your closing probability by more than fifty percent. Route Tally form submissions directly to a Discord channel webhook that pings your smartphone lock screen instantly. You review buyer profiles and message leads immediately.",
+  "duration": 26.005,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "It",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "real",
+      "start": 0.22,
+      "end": 0.46
+    },
+    {
+      "word": "-time",
+      "start": 0.46,
+      "end": 0.76
+    },
+    {
+      "word": "mobile",
+      "start": 0.76,
+      "end": 1.2
+    },
+    {
+      "word": "alerts",
+      "start": 1.2,
+      "end": 1.54
+    },
+    {
+      "word": "the",
+      "start": 1.54,
+      "end": 1.84
+    },
+    {
+      "word": "exact",
+      "start": 1.84,
+      "end": 2.12
+    },
+    {
+      "word": "second",
+      "start": 2.12,
+      "end": 2.44
+    },
+    {
+      "word": "someone",
+      "start": 2.44,
+      "end": 2.72
+    },
+    {
+      "word": "applies",
+      "start": 2.72,
+      "end": 2.98
+    },
+    {
+      "word": "to",
+      "start": 2.98,
+      "end": 3.18
+    },
+    {
+      "word": "your",
+      "start": 3.18,
+      "end": 3.42
+    },
+    {
+      "word": "coaching",
+      "start": 3.42,
+      "end": 3.6
+    },
+    {
+      "word": "program.",
+      "start": 3.6,
+      "end": 4.3
+    },
+    {
+      "word": "High",
+      "start": 4.78,
+      "end": 4.84
+    },
+    {
+      "word": "-ticket",
+      "start": 4.84,
+      "end": 5.04
+    },
+    {
+      "word": "creators",
+      "start": 5.04,
+      "end": 5.52
+    },
+    {
+      "word": "lose",
+      "start": 5.52,
+      "end": 5.96
+    },
+    {
+      "word": "qualified",
+      "start": 5.96,
+      "end": 6.34
+    },
+    {
+      "word": "clients",
+      "start": 6.34,
+      "end": 6.78
+    },
+    {
+      "word": "because",
+      "start": 6.78,
+      "end": 7.4
+    },
+    {
+      "word": "booking",
+      "start": 7.4,
+      "end": 7.74
+    },
+    {
+      "word": "forms",
+      "start": 7.74,
+      "end": 8.06
+    },
+    {
+      "word": "sit",
+      "start": 8.06,
+      "end": 8.36
+    },
+    {
+      "word": "silently",
+      "start": 8.36,
+      "end": 8.82
+    },
+    {
+      "word": "inside",
+      "start": 8.82,
+      "end": 9.3
+    },
+    {
+      "word": "Google",
+      "start": 9.3,
+      "end": 9.64
+    },
+    {
+      "word": "Drive",
+      "start": 9.64,
+      "end": 10.02
+    },
+    {
+      "word": "folders",
+      "start": 10.02,
+      "end": 10.36
+    },
+    {
+      "word": "without",
+      "start": 10.36,
+      "end": 10.72
+    },
+    {
+      "word": "alerts.",
+      "start": 10.72,
+      "end": 11.14
+    },
+    {
+      "word": "A",
+      "start": 11.72,
+      "end": 11.86
+    },
+    {
+      "word": "two",
+      "start": 11.86,
+      "end": 12.04
+    },
+    {
+      "word": "-hour",
+      "start": 12.04,
+      "end": 12.28
+    },
+    {
+      "word": "response",
+      "start": 12.28,
+      "end": 12.76
+    },
+    {
+      "word": "delay",
+      "start": 12.76,
+      "end": 13.02
+    },
+    {
+      "word": "cuts",
+      "start": 13.02,
+      "end": 13.3
+    },
+    {
+      "word": "your",
+      "start": 13.3,
+      "end": 13.84
+    },
+    {
+      "word": "closing",
+      "start": 13.84,
+      "end": 13.86
+    },
+    {
+      "word": "probability",
+      "start": 13.86,
+      "end": 14.38
+    },
+    {
+      "word": "by",
+      "start": 14.38,
+      "end": 14.74
+    },
+    {
+      "word": "more",
+      "start": 14.74,
+      "end": 14.92
+    },
+    {
+      "word": "than",
+      "start": 14.92,
+      "end": 15.18
+    },
+    {
+      "word": "50",
+      "start": 15.18,
+      "end": 15.42
+    },
+    {
+      "word": "percent.",
+      "start": 15.42,
+      "end": 16.26
+    },
+    {
+      "word": "Route",
+      "start": 16.4,
+      "end": 16.64
+    },
+    {
+      "word": "tally",
+      "start": 16.64,
+      "end": 16.94
+    },
+    {
+      "word": "form",
+      "start": 16.94,
+      "end": 17.2
+    },
+    {
+      "word": "submissions",
+      "start": 17.2,
+      "end": 17.74
+    },
+    {
+      "word": "directly",
+      "start": 17.74,
+      "end": 18.18
+    },
+    {
+      "word": "to",
+      "start": 18.18,
+      "end": 18.54
+    },
+    {
+      "word": "a",
+      "start": 18.54,
+      "end": 18.76
+    },
+    {
+      "word": "Discord",
+      "start": 18.76,
+      "end": 18.96
+    },
+    {
+      "word": "channel",
+      "start": 18.96,
+      "end": 19.44
+    },
+    {
+      "word": "webhook",
+      "start": 19.44,
+      "end": 19.9
+    },
+    {
+      "word": "that",
+      "start": 19.9,
+      "end": 20.36
+    },
+    {
+      "word": "pings",
+      "start": 20.36,
+      "end": 20.58
+    },
+    {
+      "word": "your",
+      "start": 20.58,
+      "end": 20.86
+    },
+    {
+      "word": "smartphone",
+      "start": 20.86,
+      "end": 21.32
+    },
+    {
+      "word": "lock",
+      "start": 21.32,
+      "end": 21.68
+    },
+    {
+      "word": "screen",
+      "start": 21.68,
+      "end": 22.0
+    },
+    {
+      "word": "instantly.",
+      "start": 22.0,
+      "end": 22.56
+    },
+    {
+      "word": "You",
+      "start": 23.12,
+      "end": 23.28
+    },
+    {
+      "word": "review",
+      "start": 23.28,
+      "end": 23.54
+    },
+    {
+      "word": "buyer",
+      "start": 23.54,
+      "end": 23.92
+    },
+    {
+      "word": "profiles",
+      "start": 23.92,
+      "end": 24.38
+    },
+    {
+      "word": "and",
+      "start": 24.38,
+      "end": 24.76
+    },
+    {
+      "word": "message",
+      "start": 24.76,
+      "end": 25.08
+    },
+    {
+      "word": "leads",
+      "start": 25.08,
+      "end": 25.38
+    },
+    {
+      "word": "immediately.",
+      "start": 25.38,
+      "end": 25.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Get real-time mobile alerts whenever someone applies to your program.",
+      "line2": "INSTANT DISCORD ALERTS",
+      "tag": "\ud83d\uded1 Tally forms integrated with Discord webhooks for instant community alerts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

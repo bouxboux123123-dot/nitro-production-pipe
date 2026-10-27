@@ -1,0 +1,431 @@
+{
+  "page": "page-02",
+  "idea": "AI scope creep detector for client email threads",
+  "text": "If your clients treat you like a full-time employee, you need this email filter. Demanding clients expect instant availability, endless revisions, and uncontracted deliverables without paying retainer rates. Failing to enforce contractual boundaries turns your freelance freedom into an underpaid, high-stress corporate job. Route inbound messages through an AI scope detector that drafts boundary-setting replies and invoices for extra deliverables. You regain complete control over your schedule while scaling your revenue.",
+  "duration": 31.247,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "your",
+      "start": 0.16,
+      "end": 0.4
+    },
+    {
+      "word": "clients",
+      "start": 0.4,
+      "end": 0.7
+    },
+    {
+      "word": "treat",
+      "start": 0.7,
+      "end": 0.98
+    },
+    {
+      "word": "you",
+      "start": 0.98,
+      "end": 1.14
+    },
+    {
+      "word": "like",
+      "start": 1.14,
+      "end": 1.34
+    },
+    {
+      "word": "a",
+      "start": 1.34,
+      "end": 1.46
+    },
+    {
+      "word": "full",
+      "start": 1.46,
+      "end": 1.72
+    },
+    {
+      "word": "-time",
+      "start": 1.72,
+      "end": 1.96
+    },
+    {
+      "word": "employee,",
+      "start": 1.96,
+      "end": 2.54
+    },
+    {
+      "word": "you",
+      "start": 2.88,
+      "end": 3.0
+    },
+    {
+      "word": "need",
+      "start": 3.0,
+      "end": 3.28
+    },
+    {
+      "word": "this",
+      "start": 3.28,
+      "end": 3.56
+    },
+    {
+      "word": "email",
+      "start": 3.56,
+      "end": 3.88
+    },
+    {
+      "word": "filter.",
+      "start": 3.88,
+      "end": 4.48
+    },
+    {
+      "word": "Demanding",
+      "start": 5.12,
+      "end": 5.5
+    },
+    {
+      "word": "clients",
+      "start": 5.5,
+      "end": 5.96
+    },
+    {
+      "word": "expect",
+      "start": 5.96,
+      "end": 6.52
+    },
+    {
+      "word": "instant",
+      "start": 6.52,
+      "end": 6.92
+    },
+    {
+      "word": "availability,",
+      "start": 6.92,
+      "end": 7.58
+    },
+    {
+      "word": "endless",
+      "start": 8.42,
+      "end": 8.42
+    },
+    {
+      "word": "revisions,",
+      "start": 8.42,
+      "end": 8.96
+    },
+    {
+      "word": "and",
+      "start": 9.38,
+      "end": 9.6
+    },
+    {
+      "word": "uncontracted",
+      "start": 9.6,
+      "end": 10.24
+    },
+    {
+      "word": "deliverables",
+      "start": 10.24,
+      "end": 10.82
+    },
+    {
+      "word": "without",
+      "start": 10.82,
+      "end": 11.26
+    },
+    {
+      "word": "paying",
+      "start": 11.26,
+      "end": 11.66
+    },
+    {
+      "word": "retainer",
+      "start": 11.66,
+      "end": 12.14
+    },
+    {
+      "word": "rates.",
+      "start": 12.14,
+      "end": 12.56
+    },
+    {
+      "word": "Failing",
+      "start": 13.04,
+      "end": 13.18
+    },
+    {
+      "word": "to",
+      "start": 13.18,
+      "end": 13.42
+    },
+    {
+      "word": "enforce",
+      "start": 13.42,
+      "end": 13.82
+    },
+    {
+      "word": "contractual",
+      "start": 13.82,
+      "end": 14.44
+    },
+    {
+      "word": "boundaries",
+      "start": 14.44,
+      "end": 14.9
+    },
+    {
+      "word": "turns",
+      "start": 14.9,
+      "end": 15.46
+    },
+    {
+      "word": "your",
+      "start": 15.46,
+      "end": 15.84
+    },
+    {
+      "word": "freelance",
+      "start": 15.84,
+      "end": 16.04
+    },
+    {
+      "word": "freedom",
+      "start": 16.04,
+      "end": 16.48
+    },
+    {
+      "word": "into",
+      "start": 16.48,
+      "end": 16.88
+    },
+    {
+      "word": "an",
+      "start": 16.88,
+      "end": 17.02
+    },
+    {
+      "word": "underpaid,",
+      "start": 17.02,
+      "end": 17.66
+    },
+    {
+      "word": "high",
+      "start": 17.78,
+      "end": 18.04
+    },
+    {
+      "word": "-stress",
+      "start": 18.04,
+      "end": 18.22
+    },
+    {
+      "word": "corporate",
+      "start": 18.22,
+      "end": 18.68
+    },
+    {
+      "word": "job.",
+      "start": 18.68,
+      "end": 19.32
+    },
+    {
+      "word": "Route",
+      "start": 19.76,
+      "end": 20.04
+    },
+    {
+      "word": "inbound",
+      "start": 20.04,
+      "end": 20.52
+    },
+    {
+      "word": "messages",
+      "start": 20.52,
+      "end": 20.98
+    },
+    {
+      "word": "through",
+      "start": 20.98,
+      "end": 21.38
+    },
+    {
+      "word": "an",
+      "start": 21.38,
+      "end": 21.64
+    },
+    {
+      "word": "AI",
+      "start": 21.64,
+      "end": 21.98
+    },
+    {
+      "word": "scope",
+      "start": 21.98,
+      "end": 22.3
+    },
+    {
+      "word": "detector",
+      "start": 22.3,
+      "end": 22.7
+    },
+    {
+      "word": "that",
+      "start": 22.7,
+      "end": 23.3
+    },
+    {
+      "word": "drafts",
+      "start": 23.3,
+      "end": 23.7
+    },
+    {
+      "word": "boundary",
+      "start": 23.7,
+      "end": 24.16
+    },
+    {
+      "word": "setting",
+      "start": 24.16,
+      "end": 24.52
+    },
+    {
+      "word": "replies",
+      "start": 24.52,
+      "end": 25.06
+    },
+    {
+      "word": "and",
+      "start": 25.06,
+      "end": 25.36
+    },
+    {
+      "word": "invoices",
+      "start": 25.36,
+      "end": 25.8
+    },
+    {
+      "word": "for",
+      "start": 25.8,
+      "end": 26.24
+    },
+    {
+      "word": "extra",
+      "start": 26.24,
+      "end": 26.58
+    },
+    {
+      "word": "deliverables.",
+      "start": 26.58,
+      "end": 27.12
+    },
+    {
+      "word": "You",
+      "start": 27.5,
+      "end": 27.84
+    },
+    {
+      "word": "regain",
+      "start": 27.84,
+      "end": 28.2
+    },
+    {
+      "word": "complete",
+      "start": 28.2,
+      "end": 28.62
+    },
+    {
+      "word": "control",
+      "start": 28.62,
+      "end": 29.16
+    },
+    {
+      "word": "over",
+      "start": 29.16,
+      "end": 29.4
+    },
+    {
+      "word": "your",
+      "start": 29.4,
+      "end": 29.6
+    },
+    {
+      "word": "schedule",
+      "start": 29.6,
+      "end": 29.94
+    },
+    {
+      "word": "while",
+      "start": 29.94,
+      "end": 30.28
+    },
+    {
+      "word": "scaling",
+      "start": 30.28,
+      "end": 30.64
+    },
+    {
+      "word": "your",
+      "start": 30.64,
+      "end": 30.9
+    },
+    {
+      "word": "revenue.",
+      "start": 30.9,
+      "end": 31.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "If your clients treat you like a full-time employee, you need this email filter.",
+      "line2": "STOP SCOPE CREEP",
+      "tag": "\ud83d\uded1 AI scope creep detector for client email threads",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI scope creep detector for client email threads",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI scope creep detector for client email threads",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI scope creep detector for client email threads",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

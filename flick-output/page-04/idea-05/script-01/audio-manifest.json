@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "Whisper locally: free unlimited speech-to-text with zero API bills",
+  "text": "How to transcribe hours of audio into text completely free on your own computer. Commercial transcription tools charge expensive subscriptions that drain your budget whenever you process long interviews or client meetings. Cloud platforms also throttle file sizes while storing sensitive audio on remote servers. Instead, install Whisper Desktop to run speech recognition locally on your own machine. You generate accurate transcripts in minutes with zero subscription fees.",
+  "duration": 29.242,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "to",
+      "start": 0.26,
+      "end": 0.36
+    },
+    {
+      "word": "transcribe",
+      "start": 0.36,
+      "end": 0.94
+    },
+    {
+      "word": "hours",
+      "start": 0.94,
+      "end": 1.3
+    },
+    {
+      "word": "of",
+      "start": 1.3,
+      "end": 1.62
+    },
+    {
+      "word": "audio",
+      "start": 1.62,
+      "end": 1.9
+    },
+    {
+      "word": "into",
+      "start": 1.9,
+      "end": 2.18
+    },
+    {
+      "word": "text",
+      "start": 2.18,
+      "end": 2.56
+    },
+    {
+      "word": "completely",
+      "start": 2.56,
+      "end": 3.14
+    },
+    {
+      "word": "free",
+      "start": 3.14,
+      "end": 3.5
+    },
+    {
+      "word": "on",
+      "start": 3.5,
+      "end": 3.66
+    },
+    {
+      "word": "your",
+      "start": 3.66,
+      "end": 3.84
+    },
+    {
+      "word": "own",
+      "start": 3.84,
+      "end": 4.04
+    },
+    {
+      "word": "computer.",
+      "start": 4.04,
+      "end": 4.66
+    },
+    {
+      "word": "Commercial",
+      "start": 5.4,
+      "end": 5.46
+    },
+    {
+      "word": "transcription",
+      "start": 5.46,
+      "end": 6.04
+    },
+    {
+      "word": "tools",
+      "start": 6.04,
+      "end": 6.64
+    },
+    {
+      "word": "charge",
+      "start": 6.64,
+      "end": 7.28
+    },
+    {
+      "word": "expensive",
+      "start": 7.28,
+      "end": 7.86
+    },
+    {
+      "word": "subscriptions",
+      "start": 7.86,
+      "end": 8.58
+    },
+    {
+      "word": "that",
+      "start": 8.58,
+      "end": 8.96
+    },
+    {
+      "word": "drain",
+      "start": 8.96,
+      "end": 9.2
+    },
+    {
+      "word": "your",
+      "start": 9.2,
+      "end": 9.44
+    },
+    {
+      "word": "budget",
+      "start": 9.44,
+      "end": 9.8
+    },
+    {
+      "word": "whenever",
+      "start": 9.8,
+      "end": 10.4
+    },
+    {
+      "word": "you",
+      "start": 10.4,
+      "end": 10.84
+    },
+    {
+      "word": "process",
+      "start": 10.84,
+      "end": 11.06
+    },
+    {
+      "word": "long",
+      "start": 11.06,
+      "end": 11.52
+    },
+    {
+      "word": "interviews",
+      "start": 11.52,
+      "end": 11.92
+    },
+    {
+      "word": "or",
+      "start": 11.92,
+      "end": 12.4
+    },
+    {
+      "word": "client",
+      "start": 12.4,
+      "end": 12.74
+    },
+    {
+      "word": "meetings.",
+      "start": 12.74,
+      "end": 13.16
+    },
+    {
+      "word": "Cloud",
+      "start": 13.86,
+      "end": 13.88
+    },
+    {
+      "word": "platforms",
+      "start": 13.88,
+      "end": 14.34
+    },
+    {
+      "word": "also",
+      "start": 14.34,
+      "end": 14.9
+    },
+    {
+      "word": "throttle",
+      "start": 14.9,
+      "end": 15.22
+    },
+    {
+      "word": "file",
+      "start": 15.22,
+      "end": 15.66
+    },
+    {
+      "word": "sizes",
+      "start": 15.66,
+      "end": 16.06
+    },
+    {
+      "word": "while",
+      "start": 16.06,
+      "end": 16.64
+    },
+    {
+      "word": "storing",
+      "start": 16.64,
+      "end": 17.02
+    },
+    {
+      "word": "sensitive",
+      "start": 17.02,
+      "end": 17.54
+    },
+    {
+      "word": "audio",
+      "start": 17.54,
+      "end": 18.02
+    },
+    {
+      "word": "on",
+      "start": 18.02,
+      "end": 18.3
+    },
+    {
+      "word": "remote",
+      "start": 18.3,
+      "end": 18.5
+    },
+    {
+      "word": "servers.",
+      "start": 18.5,
+      "end": 19.08
+    },
+    {
+      "word": "Instead,",
+      "start": 19.8,
+      "end": 20.16
+    },
+    {
+      "word": "install",
+      "start": 20.98,
+      "end": 21.0
+    },
+    {
+      "word": "whisper",
+      "start": 21.0,
+      "end": 21.36
+    },
+    {
+      "word": "desktop",
+      "start": 21.36,
+      "end": 21.76
+    },
+    {
+      "word": "to",
+      "start": 21.76,
+      "end": 22.08
+    },
+    {
+      "word": "run",
+      "start": 22.08,
+      "end": 22.38
+    },
+    {
+      "word": "speech",
+      "start": 22.38,
+      "end": 22.7
+    },
+    {
+      "word": "recognition",
+      "start": 22.7,
+      "end": 23.3
+    },
+    {
+      "word": "locally",
+      "start": 23.3,
+      "end": 23.72
+    },
+    {
+      "word": "on",
+      "start": 23.72,
+      "end": 23.96
+    },
+    {
+      "word": "your",
+      "start": 23.96,
+      "end": 24.16
+    },
+    {
+      "word": "own",
+      "start": 24.16,
+      "end": 24.32
+    },
+    {
+      "word": "machine.",
+      "start": 24.32,
+      "end": 24.76
+    },
+    {
+      "word": "You",
+      "start": 25.42,
+      "end": 25.5
+    },
+    {
+      "word": "generate",
+      "start": 25.5,
+      "end": 25.9
+    },
+    {
+      "word": "accurate",
+      "start": 25.9,
+      "end": 26.3
+    },
+    {
+      "word": "transcripts",
+      "start": 26.3,
+      "end": 26.86
+    },
+    {
+      "word": "in",
+      "start": 26.86,
+      "end": 27.12
+    },
+    {
+      "word": "minutes",
+      "start": 27.12,
+      "end": 27.3
+    },
+    {
+      "word": "with",
+      "start": 27.3,
+      "end": 27.62
+    },
+    {
+      "word": "zero",
+      "start": 27.62,
+      "end": 28.08
+    },
+    {
+      "word": "subscription",
+      "start": 28.08,
+      "end": 28.6
+    },
+    {
+      "word": "fees.",
+      "start": 28.6,
+      "end": 29.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How to transcribe hours of audio into text completely free on your own computer.",
+      "line2": "FREE LOCAL SPEECH-TO-TEXT",
+      "tag": "\ud83d\uded1 Whisper locally",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Whisper locally",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Whisper locally",
+        "subtitle": "Whisper locally"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Whisper locally"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Whisper locally"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Whisper locally",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

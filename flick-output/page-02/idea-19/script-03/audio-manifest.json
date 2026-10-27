@@ -1,0 +1,411 @@
+{
+  "page": "page-02",
+  "idea": "Automated cold pitch researcher for finding high-paying freelance gigs",
+  "text": "Stop competing with five hundred people for the same low-budget job posting. Crowded freelance marketplaces commoditize your skills and trigger an endless race to the bottom on price. When clients receive hundreds of applications, your customized proposal gets buried under automated spam. Build a Clay workflow that cross-references job openings with tech stacks to pitch founders directly before postings get flooded. You command premium project fees with zero competition.",
+  "duration": 28.965,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "competing",
+      "start": 0.44,
+      "end": 0.84
+    },
+    {
+      "word": "with",
+      "start": 0.84,
+      "end": 1.26
+    },
+    {
+      "word": "500",
+      "start": 1.26,
+      "end": 1.64
+    },
+    {
+      "word": "people",
+      "start": 1.64,
+      "end": 2.06
+    },
+    {
+      "word": "for",
+      "start": 2.06,
+      "end": 2.3
+    },
+    {
+      "word": "the",
+      "start": 2.3,
+      "end": 2.48
+    },
+    {
+      "word": "same",
+      "start": 2.48,
+      "end": 2.76
+    },
+    {
+      "word": "low",
+      "start": 2.76,
+      "end": 3.02
+    },
+    {
+      "word": "-budget",
+      "start": 3.02,
+      "end": 3.28
+    },
+    {
+      "word": "job",
+      "start": 3.28,
+      "end": 3.74
+    },
+    {
+      "word": "posting.",
+      "start": 3.74,
+      "end": 4.3
+    },
+    {
+      "word": "Crowded",
+      "start": 5.0,
+      "end": 5.28
+    },
+    {
+      "word": "freelance",
+      "start": 5.28,
+      "end": 5.66
+    },
+    {
+      "word": "marketplaces",
+      "start": 5.66,
+      "end": 6.56
+    },
+    {
+      "word": "commoditize",
+      "start": 6.56,
+      "end": 7.26
+    },
+    {
+      "word": "your",
+      "start": 7.26,
+      "end": 7.48
+    },
+    {
+      "word": "skills,",
+      "start": 7.48,
+      "end": 7.86
+    },
+    {
+      "word": "and",
+      "start": 8.28,
+      "end": 8.42
+    },
+    {
+      "word": "trigger",
+      "start": 8.42,
+      "end": 8.6
+    },
+    {
+      "word": "an",
+      "start": 8.6,
+      "end": 8.86
+    },
+    {
+      "word": "endless",
+      "start": 8.86,
+      "end": 9.12
+    },
+    {
+      "word": "race",
+      "start": 9.12,
+      "end": 9.54
+    },
+    {
+      "word": "to",
+      "start": 9.54,
+      "end": 9.72
+    },
+    {
+      "word": "the",
+      "start": 9.72,
+      "end": 9.86
+    },
+    {
+      "word": "bottom",
+      "start": 9.86,
+      "end": 10.08
+    },
+    {
+      "word": "on",
+      "start": 10.08,
+      "end": 10.42
+    },
+    {
+      "word": "price.",
+      "start": 10.42,
+      "end": 10.8
+    },
+    {
+      "word": "When",
+      "start": 11.28,
+      "end": 11.54
+    },
+    {
+      "word": "clients",
+      "start": 11.54,
+      "end": 11.82
+    },
+    {
+      "word": "receive",
+      "start": 11.82,
+      "end": 12.22
+    },
+    {
+      "word": "hundreds",
+      "start": 12.22,
+      "end": 12.62
+    },
+    {
+      "word": "of",
+      "start": 12.62,
+      "end": 12.9
+    },
+    {
+      "word": "applications,",
+      "start": 12.9,
+      "end": 13.44
+    },
+    {
+      "word": "your",
+      "start": 13.94,
+      "end": 14.28
+    },
+    {
+      "word": "customized",
+      "start": 14.28,
+      "end": 14.74
+    },
+    {
+      "word": "proposal",
+      "start": 14.74,
+      "end": 15.28
+    },
+    {
+      "word": "gets",
+      "start": 15.28,
+      "end": 15.72
+    },
+    {
+      "word": "buried",
+      "start": 15.72,
+      "end": 16.06
+    },
+    {
+      "word": "under",
+      "start": 16.06,
+      "end": 16.42
+    },
+    {
+      "word": "automated",
+      "start": 16.42,
+      "end": 16.88
+    },
+    {
+      "word": "spam.",
+      "start": 16.88,
+      "end": 17.44
+    },
+    {
+      "word": "Build",
+      "start": 17.86,
+      "end": 17.9
+    },
+    {
+      "word": "a",
+      "start": 17.9,
+      "end": 18.1
+    },
+    {
+      "word": "clay",
+      "start": 18.1,
+      "end": 18.32
+    },
+    {
+      "word": "workflow",
+      "start": 18.32,
+      "end": 18.7
+    },
+    {
+      "word": "that",
+      "start": 18.7,
+      "end": 19.04
+    },
+    {
+      "word": "cross",
+      "start": 19.04,
+      "end": 19.36
+    },
+    {
+      "word": "-references",
+      "start": 19.36,
+      "end": 19.78
+    },
+    {
+      "word": "job",
+      "start": 19.78,
+      "end": 20.26
+    },
+    {
+      "word": "openings",
+      "start": 20.26,
+      "end": 20.62
+    },
+    {
+      "word": "with",
+      "start": 20.62,
+      "end": 21.0
+    },
+    {
+      "word": "tech",
+      "start": 21.0,
+      "end": 21.28
+    },
+    {
+      "word": "stacks",
+      "start": 21.28,
+      "end": 21.58
+    },
+    {
+      "word": "to",
+      "start": 21.58,
+      "end": 22.0
+    },
+    {
+      "word": "pitch",
+      "start": 22.0,
+      "end": 22.28
+    },
+    {
+      "word": "founders",
+      "start": 22.28,
+      "end": 22.7
+    },
+    {
+      "word": "directly",
+      "start": 22.7,
+      "end": 23.28
+    },
+    {
+      "word": "before",
+      "start": 23.28,
+      "end": 23.76
+    },
+    {
+      "word": "postings",
+      "start": 23.76,
+      "end": 24.2
+    },
+    {
+      "word": "get",
+      "start": 24.2,
+      "end": 24.62
+    },
+    {
+      "word": "flooded.",
+      "start": 24.62,
+      "end": 24.92
+    },
+    {
+      "word": "You",
+      "start": 24.92,
+      "end": 25.68
+    },
+    {
+      "word": "command",
+      "start": 25.68,
+      "end": 26.0
+    },
+    {
+      "word": "premium",
+      "start": 26.0,
+      "end": 26.56
+    },
+    {
+      "word": "project",
+      "start": 26.56,
+      "end": 27.16
+    },
+    {
+      "word": "fees",
+      "start": 27.16,
+      "end": 27.54
+    },
+    {
+      "word": "with",
+      "start": 27.54,
+      "end": 27.84
+    },
+    {
+      "word": "zero",
+      "start": 27.84,
+      "end": 28.24
+    },
+    {
+      "word": "competition.",
+      "start": 28.24,
+      "end": 28.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop competing with 500 people for the same low-budget job posting.",
+      "line2": "FIND HIGH-PAYING GIGS",
+      "tag": "\ud83d\uded1 Automated cold pitch researcher for finding high-paying freelance gigs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated cold pitch researcher for finding high-paying freelance gigs",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated cold pitch researcher for finding high-paying freelance gigs",
+        "subtitle": "Automated cold pitch researcher for finding high-paying freelance gigs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated cold pitch researcher for finding high-paying freelance gigs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated cold pitch researcher for finding high-paying freelance gigs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated cold pitch researcher for finding high-paying freelance gigs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

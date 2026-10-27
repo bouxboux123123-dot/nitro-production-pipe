@@ -1,0 +1,421 @@
+{
+  "page": "page-06",
+  "idea": "Automated meeting cost calculator that shows the dollar value of big syncs",
+  "text": "Did you know that eight-person team meeting just cost your company twelve hundred dollars? Managers routinely invite whole engineering teams to hour-long status calls where only two people speak. Treating simple status updates as synchronous meetings drains company capital and shatters deep focus. A calendar cost calculator plugin pulls salary benchmarks to display the exact dollar price tag on invitations. Teams immediately replace costly calls with async Loom updates.",
+  "duration": 28.197,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Did",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "you",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "know",
+      "start": 0.34,
+      "end": 0.58
+    },
+    {
+      "word": "that",
+      "start": 0.58,
+      "end": 0.78
+    },
+    {
+      "word": "eight",
+      "start": 0.78,
+      "end": 1.08
+    },
+    {
+      "word": "-person",
+      "start": 1.08,
+      "end": 1.36
+    },
+    {
+      "word": "team",
+      "start": 1.36,
+      "end": 1.72
+    },
+    {
+      "word": "meeting",
+      "start": 1.72,
+      "end": 2.0
+    },
+    {
+      "word": "just",
+      "start": 2.0,
+      "end": 2.34
+    },
+    {
+      "word": "cost",
+      "start": 2.34,
+      "end": 2.58
+    },
+    {
+      "word": "your",
+      "start": 2.58,
+      "end": 2.8
+    },
+    {
+      "word": "company",
+      "start": 2.8,
+      "end": 3.04
+    },
+    {
+      "word": "$1",
+      "start": 3.04,
+      "end": 3.34
+    },
+    {
+      "word": ",200?",
+      "start": 3.34,
+      "end": 3.74
+    },
+    {
+      "word": "Managers",
+      "start": 4.62,
+      "end": 5.16
+    },
+    {
+      "word": "routinely",
+      "start": 5.16,
+      "end": 5.86
+    },
+    {
+      "word": "invite",
+      "start": 5.86,
+      "end": 6.32
+    },
+    {
+      "word": "whole",
+      "start": 6.32,
+      "end": 6.72
+    },
+    {
+      "word": "engineering",
+      "start": 6.72,
+      "end": 7.18
+    },
+    {
+      "word": "teams",
+      "start": 7.18,
+      "end": 7.62
+    },
+    {
+      "word": "to",
+      "start": 7.62,
+      "end": 7.92
+    },
+    {
+      "word": "hour",
+      "start": 7.92,
+      "end": 8.16
+    },
+    {
+      "word": "-long",
+      "start": 8.16,
+      "end": 8.38
+    },
+    {
+      "word": "status",
+      "start": 8.38,
+      "end": 8.8
+    },
+    {
+      "word": "calls",
+      "start": 8.8,
+      "end": 9.16
+    },
+    {
+      "word": "where",
+      "start": 9.16,
+      "end": 9.6
+    },
+    {
+      "word": "only",
+      "start": 9.6,
+      "end": 9.9
+    },
+    {
+      "word": "two",
+      "start": 9.9,
+      "end": 10.26
+    },
+    {
+      "word": "people",
+      "start": 10.26,
+      "end": 10.54
+    },
+    {
+      "word": "speak.",
+      "start": 10.54,
+      "end": 11.04
+    },
+    {
+      "word": "Treating",
+      "start": 11.5,
+      "end": 11.7
+    },
+    {
+      "word": "simple",
+      "start": 11.7,
+      "end": 12.0
+    },
+    {
+      "word": "status",
+      "start": 12.0,
+      "end": 12.46
+    },
+    {
+      "word": "updates",
+      "start": 12.46,
+      "end": 12.78
+    },
+    {
+      "word": "as",
+      "start": 12.78,
+      "end": 13.18
+    },
+    {
+      "word": "synchronous",
+      "start": 13.18,
+      "end": 13.56
+    },
+    {
+      "word": "meetings",
+      "start": 13.56,
+      "end": 13.9
+    },
+    {
+      "word": "drains",
+      "start": 13.9,
+      "end": 14.32
+    },
+    {
+      "word": "company",
+      "start": 14.32,
+      "end": 14.68
+    },
+    {
+      "word": "capital",
+      "start": 14.68,
+      "end": 15.12
+    },
+    {
+      "word": "and",
+      "start": 15.12,
+      "end": 15.68
+    },
+    {
+      "word": "shatters",
+      "start": 15.68,
+      "end": 16.02
+    },
+    {
+      "word": "deep",
+      "start": 16.02,
+      "end": 16.4
+    },
+    {
+      "word": "focus.",
+      "start": 16.4,
+      "end": 16.84
+    },
+    {
+      "word": "A",
+      "start": 17.44,
+      "end": 17.62
+    },
+    {
+      "word": "calendar",
+      "start": 17.62,
+      "end": 17.84
+    },
+    {
+      "word": "cost",
+      "start": 17.84,
+      "end": 18.26
+    },
+    {
+      "word": "calculator",
+      "start": 18.26,
+      "end": 18.8
+    },
+    {
+      "word": "plug",
+      "start": 18.8,
+      "end": 19.04
+    },
+    {
+      "word": "-in",
+      "start": 19.04,
+      "end": 19.36
+    },
+    {
+      "word": "pulls",
+      "start": 19.36,
+      "end": 19.74
+    },
+    {
+      "word": "salary",
+      "start": 19.74,
+      "end": 20.14
+    },
+    {
+      "word": "benchmarks",
+      "start": 20.14,
+      "end": 20.58
+    },
+    {
+      "word": "to",
+      "start": 20.58,
+      "end": 20.96
+    },
+    {
+      "word": "display",
+      "start": 20.96,
+      "end": 21.26
+    },
+    {
+      "word": "the",
+      "start": 21.26,
+      "end": 21.56
+    },
+    {
+      "word": "exact",
+      "start": 21.56,
+      "end": 21.92
+    },
+    {
+      "word": "dollar",
+      "start": 21.92,
+      "end": 22.28
+    },
+    {
+      "word": "price",
+      "start": 22.28,
+      "end": 22.58
+    },
+    {
+      "word": "tag",
+      "start": 22.58,
+      "end": 22.96
+    },
+    {
+      "word": "on",
+      "start": 22.96,
+      "end": 23.14
+    },
+    {
+      "word": "invitations.",
+      "start": 23.14,
+      "end": 23.78
+    },
+    {
+      "word": "Teams",
+      "start": 23.78,
+      "end": 24.78
+    },
+    {
+      "word": "immediately",
+      "start": 24.78,
+      "end": 25.42
+    },
+    {
+      "word": "replace",
+      "start": 25.42,
+      "end": 25.94
+    },
+    {
+      "word": "costly",
+      "start": 25.94,
+      "end": 26.4
+    },
+    {
+      "word": "calls",
+      "start": 26.4,
+      "end": 26.82
+    },
+    {
+      "word": "with",
+      "start": 26.82,
+      "end": 27.12
+    },
+    {
+      "word": "a",
+      "start": 27.12,
+      "end": 27.28
+    },
+    {
+      "word": "sync",
+      "start": 27.28,
+      "end": 27.42
+    },
+    {
+      "word": "-loom",
+      "start": 27.42,
+      "end": 27.66
+    },
+    {
+      "word": "updates.",
+      "start": 27.66,
+      "end": 28.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Did you know that 8-person team meeting just cost your company 1,200 dollars?",
+      "line2": "CALCULATE MEETING COSTS",
+      "tag": "\ud83d\uded1 Automated meeting cost calculator that shows the dollar value of big syncs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Automated meeting cost calculator that shows the dollar value of big syncs",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Automated meeting cost calculator that shows the dollar value of big syncs",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

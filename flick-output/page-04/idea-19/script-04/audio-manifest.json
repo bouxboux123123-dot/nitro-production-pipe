@@ -1,0 +1,416 @@
+{
+  "page": "page-04",
+  "idea": "Krita: free open-source digital painting and graphics tool",
+  "text": "The best free alternative to Adobe software for creative digital work. Monthly design subscriptions drain your freelance profits while adding little real value to your routine graphic projects. Most free drawing tools lack stylus pressure curves and break layered Photoshop files sent by clients. Krita natively opens PSD files, supports graphic tablet pressure with brush stabilization, and exports print-ready CMYK files. Deliver studio-grade client assets with zero software overhead.",
+  "duration": 30.138,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "best",
+      "start": 0.18,
+      "end": 0.42
+    },
+    {
+      "word": "free",
+      "start": 0.42,
+      "end": 0.7
+    },
+    {
+      "word": "alternative",
+      "start": 0.7,
+      "end": 1.12
+    },
+    {
+      "word": "to",
+      "start": 1.12,
+      "end": 1.46
+    },
+    {
+      "word": "Adobe",
+      "start": 1.46,
+      "end": 1.78
+    },
+    {
+      "word": "software",
+      "start": 1.78,
+      "end": 2.28
+    },
+    {
+      "word": "for",
+      "start": 2.28,
+      "end": 2.6
+    },
+    {
+      "word": "creative",
+      "start": 2.6,
+      "end": 3.02
+    },
+    {
+      "word": "digital",
+      "start": 3.02,
+      "end": 3.42
+    },
+    {
+      "word": "work.",
+      "start": 3.42,
+      "end": 4.06
+    },
+    {
+      "word": "Monthly",
+      "start": 4.68,
+      "end": 4.7
+    },
+    {
+      "word": "design",
+      "start": 4.7,
+      "end": 5.14
+    },
+    {
+      "word": "subscriptions",
+      "start": 5.14,
+      "end": 5.86
+    },
+    {
+      "word": "drain",
+      "start": 5.86,
+      "end": 6.16
+    },
+    {
+      "word": "your",
+      "start": 6.16,
+      "end": 6.74
+    },
+    {
+      "word": "freelance",
+      "start": 6.74,
+      "end": 6.74
+    },
+    {
+      "word": "profits",
+      "start": 6.74,
+      "end": 7.32
+    },
+    {
+      "word": "while",
+      "start": 7.32,
+      "end": 7.86
+    },
+    {
+      "word": "adding",
+      "start": 7.86,
+      "end": 8.16
+    },
+    {
+      "word": "little",
+      "start": 8.16,
+      "end": 8.44
+    },
+    {
+      "word": "real",
+      "start": 8.44,
+      "end": 8.72
+    },
+    {
+      "word": "value",
+      "start": 8.72,
+      "end": 9.06
+    },
+    {
+      "word": "to",
+      "start": 9.06,
+      "end": 9.3
+    },
+    {
+      "word": "your",
+      "start": 9.3,
+      "end": 9.52
+    },
+    {
+      "word": "routine",
+      "start": 9.52,
+      "end": 9.84
+    },
+    {
+      "word": "graphic",
+      "start": 9.84,
+      "end": 10.26
+    },
+    {
+      "word": "projects.",
+      "start": 10.26,
+      "end": 10.86
+    },
+    {
+      "word": "Most",
+      "start": 11.4,
+      "end": 11.7
+    },
+    {
+      "word": "free",
+      "start": 11.7,
+      "end": 11.98
+    },
+    {
+      "word": "drawing",
+      "start": 11.98,
+      "end": 12.28
+    },
+    {
+      "word": "tools",
+      "start": 12.28,
+      "end": 12.66
+    },
+    {
+      "word": "lack",
+      "start": 12.66,
+      "end": 13.0
+    },
+    {
+      "word": "stylus",
+      "start": 13.0,
+      "end": 13.46
+    },
+    {
+      "word": "pressure",
+      "start": 13.46,
+      "end": 13.78
+    },
+    {
+      "word": "curves",
+      "start": 13.78,
+      "end": 14.14
+    },
+    {
+      "word": "and",
+      "start": 14.14,
+      "end": 14.66
+    },
+    {
+      "word": "break",
+      "start": 14.66,
+      "end": 14.88
+    },
+    {
+      "word": "layered",
+      "start": 14.88,
+      "end": 15.24
+    },
+    {
+      "word": "Photoshop",
+      "start": 15.24,
+      "end": 15.7
+    },
+    {
+      "word": "files",
+      "start": 15.7,
+      "end": 16.34
+    },
+    {
+      "word": "sent",
+      "start": 16.34,
+      "end": 16.68
+    },
+    {
+      "word": "by",
+      "start": 16.68,
+      "end": 16.94
+    },
+    {
+      "word": "clients.",
+      "start": 16.94,
+      "end": 17.38
+    },
+    {
+      "word": "Creta",
+      "start": 17.94,
+      "end": 18.12
+    },
+    {
+      "word": "natively",
+      "start": 18.12,
+      "end": 18.62
+    },
+    {
+      "word": "opens",
+      "start": 18.62,
+      "end": 19.04
+    },
+    {
+      "word": "PSD",
+      "start": 19.04,
+      "end": 19.64
+    },
+    {
+      "word": "files,",
+      "start": 19.64,
+      "end": 20.08
+    },
+    {
+      "word": "supports",
+      "start": 20.48,
+      "end": 20.76
+    },
+    {
+      "word": "graphic",
+      "start": 20.76,
+      "end": 21.26
+    },
+    {
+      "word": "tablet",
+      "start": 21.26,
+      "end": 21.62
+    },
+    {
+      "word": "pressure",
+      "start": 21.62,
+      "end": 21.96
+    },
+    {
+      "word": "with",
+      "start": 21.96,
+      "end": 22.28
+    },
+    {
+      "word": "brush",
+      "start": 22.28,
+      "end": 22.58
+    },
+    {
+      "word": "stabilization",
+      "start": 22.58,
+      "end": 23.2
+    },
+    {
+      "word": "and",
+      "start": 23.2,
+      "end": 23.92
+    },
+    {
+      "word": "exports",
+      "start": 23.92,
+      "end": 24.4
+    },
+    {
+      "word": "print",
+      "start": 24.4,
+      "end": 24.74
+    },
+    {
+      "word": "ready",
+      "start": 24.74,
+      "end": 24.98
+    },
+    {
+      "word": "Cmic",
+      "start": 24.98,
+      "end": 25.4
+    },
+    {
+      "word": "files.",
+      "start": 25.4,
+      "end": 25.86
+    },
+    {
+      "word": "Deliver",
+      "start": 25.86,
+      "end": 26.76
+    },
+    {
+      "word": "studio",
+      "start": 26.76,
+      "end": 27.2
+    },
+    {
+      "word": "grade",
+      "start": 27.2,
+      "end": 27.68
+    },
+    {
+      "word": "client",
+      "start": 27.68,
+      "end": 28.04
+    },
+    {
+      "word": "assets",
+      "start": 28.04,
+      "end": 28.4
+    },
+    {
+      "word": "with",
+      "start": 28.4,
+      "end": 28.78
+    },
+    {
+      "word": "zero",
+      "start": 28.78,
+      "end": 29.2
+    },
+    {
+      "word": "software",
+      "start": 29.2,
+      "end": 29.62
+    },
+    {
+      "word": "overhead.",
+      "start": 29.62,
+      "end": 30.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The best free alternative to Adobe software for creative digital work.",
+      "line2": "FREE DIGITAL PAINTING",
+      "tag": "\ud83d\uded1 Krita",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Krita",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Krita",
+        "subtitle": "Krita"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Krita"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Krita"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Krita",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "page": "page-02",
+  "idea": "AI client contract reviewer that highlights red flags",
+  "text": "This free tool scans client contracts and tells you exactly what to negotiate. Freelancers constantly struggle to push back on one-sided agreements because they lack corporate legal terminology. Accepting unlimited liability or vague deliverable scopes leaves you vulnerable to unpaid overtime and devastating lawsuits. Upload the agreement to Legislate to generate a comprehensive risk audit with clear, pre-written negotiation scripts. You negotiate higher rates and tighter boundaries with absolute confidence.",
+  "duration": 30.735,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "free",
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "word": "tool",
+      "start": 0.52,
+      "end": 0.8
+    },
+    {
+      "word": "scans",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "word": "client",
+      "start": 1.2,
+      "end": 1.64
+    },
+    {
+      "word": "contracts",
+      "start": 1.64,
+      "end": 2.18
+    },
+    {
+      "word": "and",
+      "start": 2.18,
+      "end": 2.72
+    },
+    {
+      "word": "tells",
+      "start": 2.72,
+      "end": 2.92
+    },
+    {
+      "word": "you",
+      "start": 2.92,
+      "end": 3.16
+    },
+    {
+      "word": "exactly",
+      "start": 3.16,
+      "end": 3.56
+    },
+    {
+      "word": "what",
+      "start": 3.56,
+      "end": 3.82
+    },
+    {
+      "word": "to",
+      "start": 3.82,
+      "end": 3.96
+    },
+    {
+      "word": "negotiate.",
+      "start": 3.96,
+      "end": 4.58
+    },
+    {
+      "word": "Freelancers",
+      "start": 5.26,
+      "end": 5.78
+    },
+    {
+      "word": "constantly",
+      "start": 5.78,
+      "end": 6.38
+    },
+    {
+      "word": "struggle",
+      "start": 6.38,
+      "end": 6.78
+    },
+    {
+      "word": "to",
+      "start": 6.78,
+      "end": 7.04
+    },
+    {
+      "word": "push",
+      "start": 7.04,
+      "end": 7.26
+    },
+    {
+      "word": "back",
+      "start": 7.26,
+      "end": 7.6
+    },
+    {
+      "word": "on",
+      "start": 7.6,
+      "end": 7.82
+    },
+    {
+      "word": "one",
+      "start": 7.82,
+      "end": 8.18
+    },
+    {
+      "word": "-sided",
+      "start": 8.18,
+      "end": 8.44
+    },
+    {
+      "word": "agreements",
+      "start": 8.44,
+      "end": 8.98
+    },
+    {
+      "word": "because",
+      "start": 8.98,
+      "end": 9.6
+    },
+    {
+      "word": "they",
+      "start": 9.6,
+      "end": 9.84
+    },
+    {
+      "word": "lack",
+      "start": 9.84,
+      "end": 10.2
+    },
+    {
+      "word": "corporate",
+      "start": 10.2,
+      "end": 10.62
+    },
+    {
+      "word": "legal",
+      "start": 10.62,
+      "end": 11.0
+    },
+    {
+      "word": "terminology,",
+      "start": 11.0,
+      "end": 11.7
+    },
+    {
+      "word": "accepting",
+      "start": 12.42,
+      "end": 12.6
+    },
+    {
+      "word": "unlimited",
+      "start": 12.6,
+      "end": 13.14
+    },
+    {
+      "word": "liability",
+      "start": 13.14,
+      "end": 13.76
+    },
+    {
+      "word": "or",
+      "start": 13.76,
+      "end": 14.2
+    },
+    {
+      "word": "vague",
+      "start": 14.2,
+      "end": 14.54
+    },
+    {
+      "word": "deliverable",
+      "start": 14.54,
+      "end": 15.1
+    },
+    {
+      "word": "scopes",
+      "start": 15.1,
+      "end": 15.6
+    },
+    {
+      "word": "leaves",
+      "start": 15.6,
+      "end": 16.06
+    },
+    {
+      "word": "you",
+      "start": 16.06,
+      "end": 16.32
+    },
+    {
+      "word": "vulnerable",
+      "start": 16.32,
+      "end": 16.64
+    },
+    {
+      "word": "to",
+      "start": 16.64,
+      "end": 17.08
+    },
+    {
+      "word": "unpaid",
+      "start": 17.08,
+      "end": 17.38
+    },
+    {
+      "word": "overtime",
+      "start": 17.38,
+      "end": 18.04
+    },
+    {
+      "word": "and",
+      "start": 18.04,
+      "end": 18.54
+    },
+    {
+      "word": "devastating",
+      "start": 18.54,
+      "end": 18.72
+    },
+    {
+      "word": "lawsuits.",
+      "start": 18.72,
+      "end": 19.36
+    },
+    {
+      "word": "Upload",
+      "start": 20.06,
+      "end": 20.26
+    },
+    {
+      "word": "the",
+      "start": 20.26,
+      "end": 20.5
+    },
+    {
+      "word": "agreement",
+      "start": 20.5,
+      "end": 20.82
+    },
+    {
+      "word": "to",
+      "start": 20.82,
+      "end": 21.08
+    },
+    {
+      "word": "legislate",
+      "start": 21.08,
+      "end": 21.54
+    },
+    {
+      "word": "to",
+      "start": 21.54,
+      "end": 21.8
+    },
+    {
+      "word": "generate",
+      "start": 21.8,
+      "end": 22.08
+    },
+    {
+      "word": "a",
+      "start": 22.08,
+      "end": 22.62
+    },
+    {
+      "word": "comprehensive",
+      "start": 22.62,
+      "end": 22.82
+    },
+    {
+      "word": "risk",
+      "start": 22.82,
+      "end": 23.22
+    },
+    {
+      "word": "audit",
+      "start": 23.22,
+      "end": 23.44
+    },
+    {
+      "word": "with",
+      "start": 23.44,
+      "end": 23.78
+    },
+    {
+      "word": "clear",
+      "start": 23.78,
+      "end": 24.42
+    },
+    {
+      "word": "pre",
+      "start": 24.42,
+      "end": 24.66
+    },
+    {
+      "word": "-written",
+      "start": 24.66,
+      "end": 24.88
+    },
+    {
+      "word": "negotiation",
+      "start": 24.88,
+      "end": 25.54
+    },
+    {
+      "word": "scripts.",
+      "start": 25.54,
+      "end": 26.22
+    },
+    {
+      "word": "You",
+      "start": 26.78,
+      "end": 26.86
+    },
+    {
+      "word": "negotiate",
+      "start": 26.86,
+      "end": 27.34
+    },
+    {
+      "word": "higher",
+      "start": 27.34,
+      "end": 27.74
+    },
+    {
+      "word": "rates",
+      "start": 27.74,
+      "end": 28.1
+    },
+    {
+      "word": "and",
+      "start": 28.1,
+      "end": 28.52
+    },
+    {
+      "word": "tighter",
+      "start": 28.52,
+      "end": 28.78
+    },
+    {
+      "word": "boundaries",
+      "start": 28.78,
+      "end": 29.2
+    },
+    {
+      "word": "with",
+      "start": 29.2,
+      "end": 29.6
+    },
+    {
+      "word": "absolute",
+      "start": 29.6,
+      "end": 30.1
+    },
+    {
+      "word": "confidence.",
+      "start": 30.1,
+      "end": 30.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This free tool scans client contracts and tells you exactly what to negotiate.",
+      "line2": "SCAN CONTRACT RED FLAGS",
+      "tag": "\ud83d\uded1 AI client contract reviewer that highlights red flags",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI client contract reviewer that highlights red flags",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI client contract reviewer that highlights red flags",
+        "subtitle": "AI client contract reviewer that highlights red flags"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI client contract reviewer that highlights red flags"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI client contract reviewer that highlights red flags"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI client contract reviewer that highlights red flags",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-02",
+  "idea": "AI design feedback translator that turns vague feedback into clear edits",
+  "text": "Stop arguing with clients over vague revision requests. Endless back-and-forth emails debating what a modern aesthetic looks like destroy your freelance hourly rate. Creative friction happens when feedback focuses on subjective feelings rather than measurable visual requirements. Using Markup.io paired with Notion AI automatically converts pinned canvas comments into clear, prioritized technical tickets. You eliminate costly scope creep while protecting client relationships.",
+  "duration": 29.583,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "arguing",
+      "start": 0.44,
+      "end": 0.76
+    },
+    {
+      "word": "with",
+      "start": 0.76,
+      "end": 1.1
+    },
+    {
+      "word": "clients",
+      "start": 1.1,
+      "end": 1.4
+    },
+    {
+      "word": "over",
+      "start": 1.4,
+      "end": 1.68
+    },
+    {
+      "word": "vague",
+      "start": 1.68,
+      "end": 1.98
+    },
+    {
+      "word": "revision",
+      "start": 1.98,
+      "end": 2.34
+    },
+    {
+      "word": "requests.",
+      "start": 2.34,
+      "end": 3.08
+    },
+    {
+      "word": "Endless",
+      "start": 3.86,
+      "end": 3.86
+    },
+    {
+      "word": "back",
+      "start": 3.86,
+      "end": 4.24
+    },
+    {
+      "word": "-and",
+      "start": 4.24,
+      "end": 4.46
+    },
+    {
+      "word": "-forth",
+      "start": 4.46,
+      "end": 4.8
+    },
+    {
+      "word": "emails",
+      "start": 4.8,
+      "end": 5.28
+    },
+    {
+      "word": "debating",
+      "start": 5.28,
+      "end": 5.66
+    },
+    {
+      "word": "what",
+      "start": 5.66,
+      "end": 6.04
+    },
+    {
+      "word": "a",
+      "start": 6.04,
+      "end": 6.22
+    },
+    {
+      "word": "modern",
+      "start": 6.22,
+      "end": 6.38
+    },
+    {
+      "word": "aesthetic",
+      "start": 6.38,
+      "end": 6.84
+    },
+    {
+      "word": "looks",
+      "start": 6.84,
+      "end": 7.2
+    },
+    {
+      "word": "like",
+      "start": 7.2,
+      "end": 7.48
+    },
+    {
+      "word": "to",
+      "start": 7.48,
+      "end": 7.66
+    },
+    {
+      "word": "straw",
+      "start": 7.66,
+      "end": 7.86
+    },
+    {
+      "word": "your",
+      "start": 7.86,
+      "end": 8.18
+    },
+    {
+      "word": "freelance",
+      "start": 8.18,
+      "end": 8.58
+    },
+    {
+      "word": "hourly",
+      "start": 8.58,
+      "end": 9.14
+    },
+    {
+      "word": "rate.",
+      "start": 9.14,
+      "end": 9.72
+    },
+    {
+      "word": "Creative",
+      "start": 10.52,
+      "end": 10.52
+    },
+    {
+      "word": "friction",
+      "start": 10.52,
+      "end": 10.88
+    },
+    {
+      "word": "happens",
+      "start": 10.88,
+      "end": 11.36
+    },
+    {
+      "word": "when",
+      "start": 11.36,
+      "end": 11.68
+    },
+    {
+      "word": "feedback",
+      "start": 11.68,
+      "end": 12.1
+    },
+    {
+      "word": "focuses",
+      "start": 12.1,
+      "end": 12.64
+    },
+    {
+      "word": "on",
+      "start": 12.64,
+      "end": 13.08
+    },
+    {
+      "word": "subjective",
+      "start": 13.08,
+      "end": 13.44
+    },
+    {
+      "word": "feelings",
+      "start": 13.44,
+      "end": 14.02
+    },
+    {
+      "word": "rather",
+      "start": 14.02,
+      "end": 14.72
+    },
+    {
+      "word": "than",
+      "start": 14.72,
+      "end": 14.92
+    },
+    {
+      "word": "measurable",
+      "start": 14.92,
+      "end": 15.3
+    },
+    {
+      "word": "visual",
+      "start": 15.3,
+      "end": 15.84
+    },
+    {
+      "word": "requirements.",
+      "start": 15.84,
+      "end": 16.42
+    },
+    {
+      "word": "Using",
+      "start": 16.98,
+      "end": 17.18
+    },
+    {
+      "word": "markup,",
+      "start": 17.18,
+      "end": 17.6
+    },
+    {
+      "word": "E",
+      "start": 18.22,
+      "end": 18.34
+    },
+    {
+      "word": ".O.",
+      "start": 18.34,
+      "end": 18.54
+    },
+    {
+      "word": "paired",
+      "start": 18.56,
+      "end": 18.74
+    },
+    {
+      "word": "with",
+      "start": 18.74,
+      "end": 18.98
+    },
+    {
+      "word": "notion",
+      "start": 18.98,
+      "end": 19.36
+    },
+    {
+      "word": "AI",
+      "start": 19.36,
+      "end": 19.96
+    },
+    {
+      "word": "automatically",
+      "start": 19.96,
+      "end": 20.58
+    },
+    {
+      "word": "converts",
+      "start": 20.58,
+      "end": 21.14
+    },
+    {
+      "word": "pinned",
+      "start": 21.14,
+      "end": 21.56
+    },
+    {
+      "word": "Canvas",
+      "start": 21.56,
+      "end": 21.98
+    },
+    {
+      "word": "comments",
+      "start": 21.98,
+      "end": 22.34
+    },
+    {
+      "word": "into",
+      "start": 22.34,
+      "end": 22.68
+    },
+    {
+      "word": "clear,",
+      "start": 22.68,
+      "end": 23.16
+    },
+    {
+      "word": "prioritized",
+      "start": 23.62,
+      "end": 24.1
+    },
+    {
+      "word": "technical",
+      "start": 24.1,
+      "end": 24.54
+    },
+    {
+      "word": "tickets.",
+      "start": 24.54,
+      "end": 25.02
+    },
+    {
+      "word": "You",
+      "start": 25.02,
+      "end": 25.8
+    },
+    {
+      "word": "eliminate",
+      "start": 25.8,
+      "end": 26.28
+    },
+    {
+      "word": "costly",
+      "start": 26.28,
+      "end": 26.8
+    },
+    {
+      "word": "scope",
+      "start": 26.8,
+      "end": 27.24
+    },
+    {
+      "word": "creep",
+      "start": 27.24,
+      "end": 27.5
+    },
+    {
+      "word": "while",
+      "start": 27.5,
+      "end": 27.92
+    },
+    {
+      "word": "protecting",
+      "start": 27.92,
+      "end": 28.32
+    },
+    {
+      "word": "client",
+      "start": 28.32,
+      "end": 28.74
+    },
+    {
+      "word": "relationships.",
+      "start": 28.74,
+      "end": 29.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop arguing with clients over vague revision requests.",
+      "line2": "CLARIFY VAGUE FEEDBACK",
+      "tag": "\ud83d\uded1 AI design feedback translator that turns vague feedback into clear edits",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI design feedback translator that turns vague feedback into clear edits",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI design feedback translator that turns vague feedback into clear edits",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

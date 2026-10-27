@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated client churn prediction system based on communication frequency",
+  "text": "How proactive agency account management keeps retainer retention above ninety percent. Client dissatisfaction rarely begins with an angry outburst; it starts with slow responses and missed weekly standups. Relying on gut feeling leaves account directors oblivious until cancellation notices hit their inbox. Implement an automated HubSpot tracker that measures weekly client touchpoints and alerts managers before relationships sour. You secure long-term retainers and eliminate revenue churn.",
+  "duration": 30.757,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "proactive",
+      "start": 0.3,
+      "end": 0.74
+    },
+    {
+      "word": "agency",
+      "start": 0.74,
+      "end": 1.32
+    },
+    {
+      "word": "account",
+      "start": 1.32,
+      "end": 1.78
+    },
+    {
+      "word": "management",
+      "start": 1.78,
+      "end": 2.24
+    },
+    {
+      "word": "keeps",
+      "start": 2.24,
+      "end": 2.78
+    },
+    {
+      "word": "retainer",
+      "start": 2.78,
+      "end": 3.22
+    },
+    {
+      "word": "retention",
+      "start": 3.22,
+      "end": 3.84
+    },
+    {
+      "word": "above",
+      "start": 3.84,
+      "end": 4.28
+    },
+    {
+      "word": "90",
+      "start": 4.28,
+      "end": 4.7
+    },
+    {
+      "word": "percent.",
+      "start": 4.7,
+      "end": 5.62
+    },
+    {
+      "word": "Client",
+      "start": 5.98,
+      "end": 5.98
+    },
+    {
+      "word": "dissatisfaction",
+      "start": 5.98,
+      "end": 6.62
+    },
+    {
+      "word": "rarely",
+      "start": 6.62,
+      "end": 7.24
+    },
+    {
+      "word": "begins",
+      "start": 7.24,
+      "end": 7.62
+    },
+    {
+      "word": "with",
+      "start": 7.62,
+      "end": 7.88
+    },
+    {
+      "word": "an",
+      "start": 7.88,
+      "end": 8.1
+    },
+    {
+      "word": "angry",
+      "start": 8.1,
+      "end": 8.36
+    },
+    {
+      "word": "outburst.",
+      "start": 8.36,
+      "end": 8.92
+    },
+    {
+      "word": "It",
+      "start": 9.56,
+      "end": 9.58
+    },
+    {
+      "word": "starts",
+      "start": 9.58,
+      "end": 9.82
+    },
+    {
+      "word": "with",
+      "start": 9.82,
+      "end": 10.14
+    },
+    {
+      "word": "slow",
+      "start": 10.14,
+      "end": 10.4
+    },
+    {
+      "word": "responses",
+      "start": 10.4,
+      "end": 10.96
+    },
+    {
+      "word": "and",
+      "start": 10.96,
+      "end": 11.32
+    },
+    {
+      "word": "missed",
+      "start": 11.32,
+      "end": 11.6
+    },
+    {
+      "word": "weekly",
+      "start": 11.6,
+      "end": 11.98
+    },
+    {
+      "word": "stand",
+      "start": 11.98,
+      "end": 12.28
+    },
+    {
+      "word": "-ups,",
+      "start": 12.28,
+      "end": 12.62
+    },
+    {
+      "word": "relying",
+      "start": 12.92,
+      "end": 13.12
+    },
+    {
+      "word": "on",
+      "start": 13.12,
+      "end": 13.52
+    },
+    {
+      "word": "gut",
+      "start": 13.52,
+      "end": 13.78
+    },
+    {
+      "word": "feeling",
+      "start": 13.78,
+      "end": 14.08
+    },
+    {
+      "word": "leaves",
+      "start": 14.08,
+      "end": 14.42
+    },
+    {
+      "word": "account",
+      "start": 14.42,
+      "end": 14.84
+    },
+    {
+      "word": "directors",
+      "start": 14.84,
+      "end": 15.26
+    },
+    {
+      "word": "oblivious",
+      "start": 15.26,
+      "end": 15.76
+    },
+    {
+      "word": "until",
+      "start": 15.76,
+      "end": 16.48
+    },
+    {
+      "word": "cancellation",
+      "start": 16.48,
+      "end": 17.02
+    },
+    {
+      "word": "notices",
+      "start": 17.02,
+      "end": 17.54
+    },
+    {
+      "word": "hit",
+      "start": 17.54,
+      "end": 17.92
+    },
+    {
+      "word": "their",
+      "start": 17.92,
+      "end": 18.16
+    },
+    {
+      "word": "inbox.",
+      "start": 18.16,
+      "end": 18.66
+    },
+    {
+      "word": "Implement",
+      "start": 19.36,
+      "end": 19.62
+    },
+    {
+      "word": "an",
+      "start": 19.62,
+      "end": 20.52
+    },
+    {
+      "word": "automated",
+      "start": 20.52,
+      "end": 20.52
+    },
+    {
+      "word": "hub",
+      "start": 20.52,
+      "end": 20.86
+    },
+    {
+      "word": "spot",
+      "start": 20.86,
+      "end": 21.18
+    },
+    {
+      "word": "tracker",
+      "start": 21.18,
+      "end": 21.48
+    },
+    {
+      "word": "that",
+      "start": 21.48,
+      "end": 22.24
+    },
+    {
+      "word": "measures",
+      "start": 22.24,
+      "end": 22.24
+    },
+    {
+      "word": "weekly",
+      "start": 22.24,
+      "end": 22.72
+    },
+    {
+      "word": "client",
+      "start": 22.72,
+      "end": 23.08
+    },
+    {
+      "word": "touch",
+      "start": 23.08,
+      "end": 23.38
+    },
+    {
+      "word": "points",
+      "start": 23.38,
+      "end": 23.68
+    },
+    {
+      "word": "and",
+      "start": 23.68,
+      "end": 24.18
+    },
+    {
+      "word": "alerts",
+      "start": 24.18,
+      "end": 24.44
+    },
+    {
+      "word": "managers",
+      "start": 24.44,
+      "end": 24.96
+    },
+    {
+      "word": "before",
+      "start": 24.96,
+      "end": 25.42
+    },
+    {
+      "word": "relationships",
+      "start": 25.42,
+      "end": 26.0
+    },
+    {
+      "word": "sour.",
+      "start": 26.0,
+      "end": 26.62
+    },
+    {
+      "word": "You",
+      "start": 26.62,
+      "end": 27.3
+    },
+    {
+      "word": "secure",
+      "start": 27.3,
+      "end": 27.64
+    },
+    {
+      "word": "long",
+      "start": 27.64,
+      "end": 28.08
+    },
+    {
+      "word": "-term",
+      "start": 28.08,
+      "end": 28.38
+    },
+    {
+      "word": "retainers",
+      "start": 28.38,
+      "end": 29.06
+    },
+    {
+      "word": "and",
+      "start": 29.06,
+      "end": 29.36
+    },
+    {
+      "word": "eliminate",
+      "start": 29.36,
+      "end": 29.88
+    },
+    {
+      "word": "revenue",
+      "start": 29.88,
+      "end": 30.26
+    },
+    {
+      "word": "churn.",
+      "start": 30.26,
+      "end": 30.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How proactive agency account management keeps retainer retention above 90 percent.",
+      "line2": "PREDICT CLIENT CHURN",
+      "tag": "\ud83d\uded1 Automated client churn prediction system based on communication frequency",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated client churn prediction system based on communication frequency",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

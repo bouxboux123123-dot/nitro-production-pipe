@@ -1,0 +1,381 @@
+{
+  "page": "page-05",
+  "idea": "Automated weekly executive digest generator sent via email",
+  "text": "Stay on top of business growth without logging into ten different dashboards every morning. Growth leaders waste prime hours jumping between Stripe charts, Google Analytics, and Jira sprint boards. Fragmented visibility means critical conversion drops get overlooked until stakeholders demand answers. Instead, use Make to extract key metrics across platforms and send a unified morning email. You spot vital trends instantly without dashboard fatigue.",
+  "duration": 25.813,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stay",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "on",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "top",
+      "start": 0.42,
+      "end": 0.62
+    },
+    {
+      "word": "of",
+      "start": 0.62,
+      "end": 0.82
+    },
+    {
+      "word": "business",
+      "start": 0.82,
+      "end": 1.04
+    },
+    {
+      "word": "growth",
+      "start": 1.04,
+      "end": 1.38
+    },
+    {
+      "word": "without",
+      "start": 1.38,
+      "end": 1.7
+    },
+    {
+      "word": "logging",
+      "start": 1.7,
+      "end": 2.0
+    },
+    {
+      "word": "into",
+      "start": 2.0,
+      "end": 2.24
+    },
+    {
+      "word": "10",
+      "start": 2.24,
+      "end": 2.52
+    },
+    {
+      "word": "different",
+      "start": 2.52,
+      "end": 2.84
+    },
+    {
+      "word": "dashboards",
+      "start": 2.84,
+      "end": 3.34
+    },
+    {
+      "word": "every",
+      "start": 3.34,
+      "end": 3.68
+    },
+    {
+      "word": "morning.",
+      "start": 3.68,
+      "end": 4.18
+    },
+    {
+      "word": "Growth",
+      "start": 4.86,
+      "end": 4.92
+    },
+    {
+      "word": "leaders",
+      "start": 4.92,
+      "end": 5.16
+    },
+    {
+      "word": "waste",
+      "start": 5.16,
+      "end": 5.58
+    },
+    {
+      "word": "prime",
+      "start": 5.58,
+      "end": 5.96
+    },
+    {
+      "word": "hours",
+      "start": 5.96,
+      "end": 6.32
+    },
+    {
+      "word": "jumping",
+      "start": 6.32,
+      "end": 6.64
+    },
+    {
+      "word": "between",
+      "start": 6.64,
+      "end": 7.04
+    },
+    {
+      "word": "striped",
+      "start": 7.04,
+      "end": 7.34
+    },
+    {
+      "word": "charts,",
+      "start": 7.34,
+      "end": 7.8
+    },
+    {
+      "word": "Google",
+      "start": 8.18,
+      "end": 8.34
+    },
+    {
+      "word": "analytics,",
+      "start": 8.34,
+      "end": 8.72
+    },
+    {
+      "word": "and",
+      "start": 9.08,
+      "end": 9.24
+    },
+    {
+      "word": "Jira",
+      "start": 9.24,
+      "end": 9.46
+    },
+    {
+      "word": "sprint",
+      "start": 9.46,
+      "end": 9.8
+    },
+    {
+      "word": "boards.",
+      "start": 9.8,
+      "end": 10.16
+    },
+    {
+      "word": "Fragmented",
+      "start": 10.86,
+      "end": 11.18
+    },
+    {
+      "word": "visibility",
+      "start": 11.18,
+      "end": 11.66
+    },
+    {
+      "word": "means",
+      "start": 11.66,
+      "end": 12.14
+    },
+    {
+      "word": "critical",
+      "start": 12.14,
+      "end": 12.48
+    },
+    {
+      "word": "conversion",
+      "start": 12.48,
+      "end": 12.9
+    },
+    {
+      "word": "drops",
+      "start": 12.9,
+      "end": 13.3
+    },
+    {
+      "word": "get",
+      "start": 13.3,
+      "end": 13.54
+    },
+    {
+      "word": "overlooked",
+      "start": 13.54,
+      "end": 13.98
+    },
+    {
+      "word": "until",
+      "start": 13.98,
+      "end": 14.54
+    },
+    {
+      "word": "stakeholders",
+      "start": 14.54,
+      "end": 15.02
+    },
+    {
+      "word": "demand",
+      "start": 15.02,
+      "end": 15.52
+    },
+    {
+      "word": "answers.",
+      "start": 15.52,
+      "end": 15.98
+    },
+    {
+      "word": "Instead,",
+      "start": 16.74,
+      "end": 17.04
+    },
+    {
+      "word": "use",
+      "start": 17.62,
+      "end": 17.66
+    },
+    {
+      "word": "make",
+      "start": 17.66,
+      "end": 17.86
+    },
+    {
+      "word": "-to",
+      "start": 17.86,
+      "end": 18.14
+    },
+    {
+      "word": "-extract",
+      "start": 18.14,
+      "end": 18.48
+    },
+    {
+      "word": "key",
+      "start": 18.48,
+      "end": 18.76
+    },
+    {
+      "word": "metrics",
+      "start": 18.76,
+      "end": 19.1
+    },
+    {
+      "word": "across",
+      "start": 19.1,
+      "end": 19.48
+    },
+    {
+      "word": "platforms",
+      "start": 19.48,
+      "end": 20.04
+    },
+    {
+      "word": "and",
+      "start": 20.04,
+      "end": 20.6
+    },
+    {
+      "word": "send",
+      "start": 20.6,
+      "end": 20.76
+    },
+    {
+      "word": "a",
+      "start": 20.76,
+      "end": 21.06
+    },
+    {
+      "word": "unified",
+      "start": 21.06,
+      "end": 21.32
+    },
+    {
+      "word": "morning",
+      "start": 21.32,
+      "end": 21.74
+    },
+    {
+      "word": "email.",
+      "start": 21.74,
+      "end": 22.16
+    },
+    {
+      "word": "You",
+      "start": 22.16,
+      "end": 22.82
+    },
+    {
+      "word": "spot",
+      "start": 22.82,
+      "end": 23.1
+    },
+    {
+      "word": "vital",
+      "start": 23.1,
+      "end": 23.48
+    },
+    {
+      "word": "trends",
+      "start": 23.48,
+      "end": 23.88
+    },
+    {
+      "word": "instantly",
+      "start": 23.88,
+      "end": 24.36
+    },
+    {
+      "word": "without",
+      "start": 24.36,
+      "end": 24.76
+    },
+    {
+      "word": "dashboard",
+      "start": 24.76,
+      "end": 25.16
+    },
+    {
+      "word": "fatigue.",
+      "start": 25.16,
+      "end": 25.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stay on top of business growth without logging into 10 different dashboards.",
+      "line2": "WEEKLY EXECUTIVE DIGEST",
+      "tag": "\ud83d\uded1 Automated weekly executive digest generator sent via email",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated weekly executive digest generator sent via email",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated weekly executive digest generator sent via email",
+        "subtitle": "Automated weekly executive digest generator sent via email"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated weekly executive digest generator sent via email"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated weekly executive digest generator sent via email"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated weekly executive digest generator sent via email",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

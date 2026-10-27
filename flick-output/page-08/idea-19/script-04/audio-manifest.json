@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "How to schedule emails to send at a later date and time automatically",
+  "text": "The simple email automation feature every beginner should use for important client messages. You finish writing updates at odd hours, but hitting send immediately signals chaotic working habits. Misaligned delivery times trigger off-hour pings from anxious clients and lower your reply rates. Click the dropdown next to the Send button in Gmail and schedule delivery for normal working hours. Your messages always arrive at the perfect moment.",
+  "duration": 24.704,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "simple",
+      "start": 0.26,
+      "end": 0.5
+    },
+    {
+      "word": "email",
+      "start": 0.5,
+      "end": 0.86
+    },
+    {
+      "word": "automation",
+      "start": 0.86,
+      "end": 1.38
+    },
+    {
+      "word": "feature",
+      "start": 1.38,
+      "end": 1.94
+    },
+    {
+      "word": "every",
+      "start": 1.94,
+      "end": 2.3
+    },
+    {
+      "word": "beginner",
+      "start": 2.3,
+      "end": 2.54
+    },
+    {
+      "word": "should",
+      "start": 2.54,
+      "end": 2.78
+    },
+    {
+      "word": "use",
+      "start": 2.78,
+      "end": 3.04
+    },
+    {
+      "word": "for",
+      "start": 3.04,
+      "end": 3.36
+    },
+    {
+      "word": "important",
+      "start": 3.36,
+      "end": 3.72
+    },
+    {
+      "word": "client",
+      "start": 3.72,
+      "end": 4.06
+    },
+    {
+      "word": "messages.",
+      "start": 4.06,
+      "end": 4.56
+    },
+    {
+      "word": "You",
+      "start": 5.08,
+      "end": 5.2
+    },
+    {
+      "word": "finish",
+      "start": 5.2,
+      "end": 5.4
+    },
+    {
+      "word": "writing",
+      "start": 5.4,
+      "end": 5.76
+    },
+    {
+      "word": "updates",
+      "start": 5.76,
+      "end": 6.06
+    },
+    {
+      "word": "at",
+      "start": 6.06,
+      "end": 6.3
+    },
+    {
+      "word": "odd",
+      "start": 6.3,
+      "end": 6.52
+    },
+    {
+      "word": "hours,",
+      "start": 6.52,
+      "end": 6.9
+    },
+    {
+      "word": "but",
+      "start": 7.26,
+      "end": 7.44
+    },
+    {
+      "word": "hitting",
+      "start": 7.44,
+      "end": 7.68
+    },
+    {
+      "word": "send",
+      "start": 7.68,
+      "end": 7.96
+    },
+    {
+      "word": "immediately",
+      "start": 7.96,
+      "end": 8.4
+    },
+    {
+      "word": "signals",
+      "start": 8.4,
+      "end": 8.96
+    },
+    {
+      "word": "chaotic",
+      "start": 8.96,
+      "end": 9.46
+    },
+    {
+      "word": "working",
+      "start": 9.46,
+      "end": 9.88
+    },
+    {
+      "word": "habits.",
+      "start": 9.88,
+      "end": 10.26
+    },
+    {
+      "word": "Misaligned",
+      "start": 10.88,
+      "end": 11.34
+    },
+    {
+      "word": "delivery",
+      "start": 11.34,
+      "end": 11.66
+    },
+    {
+      "word": "times",
+      "start": 11.66,
+      "end": 12.12
+    },
+    {
+      "word": "trigger",
+      "start": 12.12,
+      "end": 12.44
+    },
+    {
+      "word": "off",
+      "start": 12.44,
+      "end": 12.74
+    },
+    {
+      "word": "-hour",
+      "start": 12.74,
+      "end": 13.0
+    },
+    {
+      "word": "pings",
+      "start": 13.0,
+      "end": 13.28
+    },
+    {
+      "word": "from",
+      "start": 13.28,
+      "end": 13.56
+    },
+    {
+      "word": "anxious",
+      "start": 13.56,
+      "end": 13.88
+    },
+    {
+      "word": "clients",
+      "start": 13.88,
+      "end": 14.28
+    },
+    {
+      "word": "and",
+      "start": 14.28,
+      "end": 14.84
+    },
+    {
+      "word": "lower",
+      "start": 14.84,
+      "end": 15.0
+    },
+    {
+      "word": "your",
+      "start": 15.0,
+      "end": 15.32
+    },
+    {
+      "word": "reply",
+      "start": 15.32,
+      "end": 15.56
+    },
+    {
+      "word": "rates.",
+      "start": 15.56,
+      "end": 15.96
+    },
+    {
+      "word": "Click",
+      "start": 16.46,
+      "end": 16.68
+    },
+    {
+      "word": "the",
+      "start": 16.68,
+      "end": 16.9
+    },
+    {
+      "word": "drop",
+      "start": 16.9,
+      "end": 17.16
+    },
+    {
+      "word": "-down",
+      "start": 17.16,
+      "end": 17.44
+    },
+    {
+      "word": "next",
+      "start": 17.44,
+      "end": 17.72
+    },
+    {
+      "word": "to",
+      "start": 17.72,
+      "end": 17.94
+    },
+    {
+      "word": "the",
+      "start": 17.94,
+      "end": 18.04
+    },
+    {
+      "word": "send",
+      "start": 18.04,
+      "end": 18.28
+    },
+    {
+      "word": "button",
+      "start": 18.28,
+      "end": 18.56
+    },
+    {
+      "word": "in",
+      "start": 18.56,
+      "end": 18.84
+    },
+    {
+      "word": "Gmail",
+      "start": 18.84,
+      "end": 19.18
+    },
+    {
+      "word": "and",
+      "start": 19.18,
+      "end": 19.6
+    },
+    {
+      "word": "schedule",
+      "start": 19.6,
+      "end": 19.92
+    },
+    {
+      "word": "delivery",
+      "start": 19.92,
+      "end": 20.3
+    },
+    {
+      "word": "for",
+      "start": 20.3,
+      "end": 20.66
+    },
+    {
+      "word": "normal",
+      "start": 20.66,
+      "end": 20.98
+    },
+    {
+      "word": "working",
+      "start": 20.98,
+      "end": 21.34
+    },
+    {
+      "word": "hours.",
+      "start": 21.34,
+      "end": 21.74
+    },
+    {
+      "word": "Your",
+      "start": 21.74,
+      "end": 22.4
+    },
+    {
+      "word": "messages",
+      "start": 22.4,
+      "end": 22.72
+    },
+    {
+      "word": "always",
+      "start": 22.72,
+      "end": 23.26
+    },
+    {
+      "word": "arrive",
+      "start": 23.26,
+      "end": 23.7
+    },
+    {
+      "word": "at",
+      "start": 23.7,
+      "end": 23.92
+    },
+    {
+      "word": "the",
+      "start": 23.92,
+      "end": 24.14
+    },
+    {
+      "word": "perfect",
+      "start": 24.14,
+      "end": 24.32
+    },
+    {
+      "word": "moment.",
+      "start": 24.32,
+      "end": 24.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The simple email feature every beginner should be using for client messages.",
+      "line2": "AUTO-SCHEDULE EMAILS",
+      "tag": "\ud83d\uded1 How to schedule emails to send at a later date and time automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to schedule emails to send at a later date and time automatically",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to schedule emails to send at a later date and time automatically",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to schedule emails to send at a later date and time automatically",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated lead qualification funnel that filters out tire-kickers",
+  "text": "Here is the simple questionnaire that screens out unqualified leads automatically. Unscreened calendar bookings waste hours of account executive time on clients who cannot afford baseline agency minimums. Relying on manual email vetting creates friction and delays outreach to your highest value prospects. Build a Fillout form with branching logic that dispatches pricing guides to small budgets while scheduling enterprise buyers. You protect team bandwidth and close larger deals.",
+  "duration": 29.391,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.46
+    },
+    {
+      "word": "the",
+      "start": 0.46,
+      "end": 0.7
+    },
+    {
+      "word": "simple",
+      "start": 0.7,
+      "end": 0.92
+    },
+    {
+      "word": "questionnaire",
+      "start": 0.92,
+      "end": 1.44
+    },
+    {
+      "word": "that",
+      "start": 1.44,
+      "end": 1.88
+    },
+    {
+      "word": "screens",
+      "start": 1.88,
+      "end": 2.2
+    },
+    {
+      "word": "out",
+      "start": 2.2,
+      "end": 2.52
+    },
+    {
+      "word": "unqualified",
+      "start": 2.52,
+      "end": 3.16
+    },
+    {
+      "word": "leads",
+      "start": 3.16,
+      "end": 3.72
+    },
+    {
+      "word": "automatically.",
+      "start": 3.72,
+      "end": 4.34
+    },
+    {
+      "word": "Unscreened",
+      "start": 5.38,
+      "end": 6.18
+    },
+    {
+      "word": "calendar",
+      "start": 6.18,
+      "end": 6.2
+    },
+    {
+      "word": "bookings",
+      "start": 6.2,
+      "end": 6.68
+    },
+    {
+      "word": "waste",
+      "start": 6.68,
+      "end": 7.04
+    },
+    {
+      "word": "hours",
+      "start": 7.04,
+      "end": 7.34
+    },
+    {
+      "word": "of",
+      "start": 7.34,
+      "end": 7.58
+    },
+    {
+      "word": "account,",
+      "start": 7.58,
+      "end": 8.14
+    },
+    {
+      "word": "executive",
+      "start": 8.48,
+      "end": 8.74
+    },
+    {
+      "word": "time",
+      "start": 8.74,
+      "end": 9.22
+    },
+    {
+      "word": "on",
+      "start": 9.22,
+      "end": 9.5
+    },
+    {
+      "word": "clients",
+      "start": 9.5,
+      "end": 9.84
+    },
+    {
+      "word": "who",
+      "start": 9.84,
+      "end": 10.06
+    },
+    {
+      "word": "cannot",
+      "start": 10.06,
+      "end": 10.3
+    },
+    {
+      "word": "afford",
+      "start": 10.3,
+      "end": 10.82
+    },
+    {
+      "word": "baseline",
+      "start": 10.82,
+      "end": 11.3
+    },
+    {
+      "word": "agency",
+      "start": 11.3,
+      "end": 11.9
+    },
+    {
+      "word": "minimums,",
+      "start": 11.9,
+      "end": 12.72
+    },
+    {
+      "word": "relying",
+      "start": 12.82,
+      "end": 13.02
+    },
+    {
+      "word": "on",
+      "start": 13.02,
+      "end": 13.5
+    },
+    {
+      "word": "manual",
+      "start": 13.5,
+      "end": 13.78
+    },
+    {
+      "word": "email",
+      "start": 13.78,
+      "end": 14.18
+    },
+    {
+      "word": "vetting",
+      "start": 14.18,
+      "end": 14.46
+    },
+    {
+      "word": "creates",
+      "start": 14.46,
+      "end": 15.0
+    },
+    {
+      "word": "friction",
+      "start": 15.0,
+      "end": 15.46
+    },
+    {
+      "word": "and",
+      "start": 15.46,
+      "end": 15.92
+    },
+    {
+      "word": "delays",
+      "start": 15.92,
+      "end": 16.14
+    },
+    {
+      "word": "outreach",
+      "start": 16.14,
+      "end": 16.72
+    },
+    {
+      "word": "to",
+      "start": 16.72,
+      "end": 16.96
+    },
+    {
+      "word": "your",
+      "start": 16.96,
+      "end": 17.5
+    },
+    {
+      "word": "highest",
+      "start": 17.5,
+      "end": 17.52
+    },
+    {
+      "word": "value",
+      "start": 17.52,
+      "end": 17.96
+    },
+    {
+      "word": "prospects.",
+      "start": 17.96,
+      "end": 18.56
+    },
+    {
+      "word": "Build",
+      "start": 19.32,
+      "end": 19.36
+    },
+    {
+      "word": "a",
+      "start": 19.36,
+      "end": 19.56
+    },
+    {
+      "word": "fill",
+      "start": 19.56,
+      "end": 19.7
+    },
+    {
+      "word": "out",
+      "start": 19.7,
+      "end": 19.98
+    },
+    {
+      "word": "form",
+      "start": 19.98,
+      "end": 20.22
+    },
+    {
+      "word": "with",
+      "start": 20.22,
+      "end": 20.5
+    },
+    {
+      "word": "branching",
+      "start": 20.5,
+      "end": 20.86
+    },
+    {
+      "word": "logic",
+      "start": 20.86,
+      "end": 21.36
+    },
+    {
+      "word": "that",
+      "start": 21.36,
+      "end": 21.9
+    },
+    {
+      "word": "dispatches",
+      "start": 21.9,
+      "end": 22.38
+    },
+    {
+      "word": "pricing",
+      "start": 22.38,
+      "end": 22.82
+    },
+    {
+      "word": "guides",
+      "start": 22.82,
+      "end": 23.26
+    },
+    {
+      "word": "to",
+      "start": 23.26,
+      "end": 23.54
+    },
+    {
+      "word": "small",
+      "start": 23.54,
+      "end": 23.84
+    },
+    {
+      "word": "budgets",
+      "start": 23.84,
+      "end": 24.18
+    },
+    {
+      "word": "while",
+      "start": 24.18,
+      "end": 24.58
+    },
+    {
+      "word": "scheduling",
+      "start": 24.58,
+      "end": 24.98
+    },
+    {
+      "word": "enterprise",
+      "start": 24.98,
+      "end": 25.56
+    },
+    {
+      "word": "buyers.",
+      "start": 25.56,
+      "end": 26.1
+    },
+    {
+      "word": "You",
+      "start": 26.1,
+      "end": 26.8
+    },
+    {
+      "word": "protect",
+      "start": 26.8,
+      "end": 27.18
+    },
+    {
+      "word": "team",
+      "start": 27.18,
+      "end": 27.56
+    },
+    {
+      "word": "bandwidth",
+      "start": 27.56,
+      "end": 27.98
+    },
+    {
+      "word": "and",
+      "start": 27.98,
+      "end": 28.3
+    },
+    {
+      "word": "close",
+      "start": 28.3,
+      "end": 28.56
+    },
+    {
+      "word": "larger",
+      "start": 28.56,
+      "end": 28.9
+    },
+    {
+      "word": "deals.",
+      "start": 28.9,
+      "end": 29.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The simple questionnaire that screens out unqualified leads automatically.",
+      "line2": "FILTER OUT TIRE-KICKERS",
+      "tag": "\ud83d\uded1 Automated lead qualification funnel that filters out tire-kickers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated lead qualification funnel that filters out tire-kickers",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated lead qualification funnel that filters out tire-kickers",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

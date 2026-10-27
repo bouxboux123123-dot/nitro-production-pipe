@@ -1,0 +1,426 @@
+{
+  "page": "page-05",
+  "idea": "Relume site builder to Webflow export workflow for rapid landing pages",
+  "text": "Generate complete component-based wireframes and copy them straight into Webflow. Building client sites block by block forces you to reinvent container padding and responsive mobile navigation every project. Inconsistent class names make future updates a nightmare and inflate revision rounds past agreed deadlines. Relume lets you prompt structured wireframes, then exports clean Client-First classes directly onto your Webflow page. You eliminate layout guesswork and ship client revisions instantly.",
+  "duration": 30.693,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "generate",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "complete",
+      "start": 0.5,
+      "end": 0.98
+    },
+    {
+      "word": "component",
+      "start": 0.98,
+      "end": 1.54
+    },
+    {
+      "word": "-based",
+      "start": 1.54,
+      "end": 1.92
+    },
+    {
+      "word": "wire",
+      "start": 1.92,
+      "end": 2.26
+    },
+    {
+      "word": "frames",
+      "start": 2.26,
+      "end": 2.64
+    },
+    {
+      "word": "and",
+      "start": 2.64,
+      "end": 3.1
+    },
+    {
+      "word": "copy",
+      "start": 3.1,
+      "end": 3.3
+    },
+    {
+      "word": "them",
+      "start": 3.3,
+      "end": 3.62
+    },
+    {
+      "word": "straight",
+      "start": 3.62,
+      "end": 3.88
+    },
+    {
+      "word": "into",
+      "start": 3.88,
+      "end": 4.12
+    },
+    {
+      "word": "Webflow.",
+      "start": 4.12,
+      "end": 4.68
+    },
+    {
+      "word": "Building",
+      "start": 5.52,
+      "end": 5.52
+    },
+    {
+      "word": "client",
+      "start": 5.52,
+      "end": 5.94
+    },
+    {
+      "word": "sites",
+      "start": 5.94,
+      "end": 6.32
+    },
+    {
+      "word": "block",
+      "start": 6.32,
+      "end": 6.64
+    },
+    {
+      "word": "by",
+      "start": 6.64,
+      "end": 6.9
+    },
+    {
+      "word": "block",
+      "start": 6.9,
+      "end": 7.28
+    },
+    {
+      "word": "forces",
+      "start": 7.28,
+      "end": 7.64
+    },
+    {
+      "word": "you",
+      "start": 7.64,
+      "end": 8.02
+    },
+    {
+      "word": "to",
+      "start": 8.02,
+      "end": 8.22
+    },
+    {
+      "word": "reinvent",
+      "start": 8.22,
+      "end": 8.58
+    },
+    {
+      "word": "container",
+      "start": 8.58,
+      "end": 9.1
+    },
+    {
+      "word": "padding",
+      "start": 9.1,
+      "end": 9.6
+    },
+    {
+      "word": "and",
+      "start": 9.6,
+      "end": 10.2
+    },
+    {
+      "word": "responsive",
+      "start": 10.2,
+      "end": 10.72
+    },
+    {
+      "word": "mobile",
+      "start": 10.72,
+      "end": 11.08
+    },
+    {
+      "word": "navigation",
+      "start": 11.08,
+      "end": 11.7
+    },
+    {
+      "word": "every",
+      "start": 11.7,
+      "end": 12.14
+    },
+    {
+      "word": "project.",
+      "start": 12.14,
+      "end": 12.76
+    },
+    {
+      "word": "In",
+      "start": 13.32,
+      "end": 13.32
+    },
+    {
+      "word": "consistent",
+      "start": 13.32,
+      "end": 13.66
+    },
+    {
+      "word": "class",
+      "start": 13.66,
+      "end": 14.04
+    },
+    {
+      "word": "names",
+      "start": 14.04,
+      "end": 14.28
+    },
+    {
+      "word": "make",
+      "start": 14.28,
+      "end": 14.64
+    },
+    {
+      "word": "future",
+      "start": 14.64,
+      "end": 15.06
+    },
+    {
+      "word": "updates",
+      "start": 15.06,
+      "end": 15.4
+    },
+    {
+      "word": "a",
+      "start": 15.4,
+      "end": 15.82
+    },
+    {
+      "word": "nightmare",
+      "start": 15.82,
+      "end": 16.0
+    },
+    {
+      "word": "and",
+      "start": 16.0,
+      "end": 16.58
+    },
+    {
+      "word": "inflate",
+      "start": 16.58,
+      "end": 16.88
+    },
+    {
+      "word": "revision",
+      "start": 16.88,
+      "end": 17.22
+    },
+    {
+      "word": "rounds",
+      "start": 17.22,
+      "end": 17.6
+    },
+    {
+      "word": "past",
+      "start": 17.6,
+      "end": 18.0
+    },
+    {
+      "word": "agreed",
+      "start": 18.0,
+      "end": 18.34
+    },
+    {
+      "word": "deadlines.",
+      "start": 18.34,
+      "end": 18.9
+    },
+    {
+      "word": "Reloom",
+      "start": 19.64,
+      "end": 19.88
+    },
+    {
+      "word": "lets",
+      "start": 19.88,
+      "end": 20.12
+    },
+    {
+      "word": "you",
+      "start": 20.12,
+      "end": 20.34
+    },
+    {
+      "word": "prompt",
+      "start": 20.34,
+      "end": 20.66
+    },
+    {
+      "word": "structured",
+      "start": 20.66,
+      "end": 21.1
+    },
+    {
+      "word": "wire",
+      "start": 21.1,
+      "end": 21.44
+    },
+    {
+      "word": "frames",
+      "start": 21.44,
+      "end": 21.86
+    },
+    {
+      "word": "then",
+      "start": 21.86,
+      "end": 22.42
+    },
+    {
+      "word": "exports",
+      "start": 22.42,
+      "end": 22.78
+    },
+    {
+      "word": "clean",
+      "start": 22.78,
+      "end": 23.32
+    },
+    {
+      "word": "client",
+      "start": 23.32,
+      "end": 23.76
+    },
+    {
+      "word": "-first",
+      "start": 23.76,
+      "end": 24.04
+    },
+    {
+      "word": "classes",
+      "start": 24.04,
+      "end": 24.66
+    },
+    {
+      "word": "directly",
+      "start": 24.66,
+      "end": 25.2
+    },
+    {
+      "word": "onto",
+      "start": 25.2,
+      "end": 25.4
+    },
+    {
+      "word": "your",
+      "start": 25.4,
+      "end": 25.64
+    },
+    {
+      "word": "Webflow",
+      "start": 25.64,
+      "end": 26.0
+    },
+    {
+      "word": "page.",
+      "start": 26.0,
+      "end": 26.5
+    },
+    {
+      "word": "You",
+      "start": 27.12,
+      "end": 27.22
+    },
+    {
+      "word": "eliminate",
+      "start": 27.22,
+      "end": 27.6
+    },
+    {
+      "word": "layout",
+      "start": 27.6,
+      "end": 28.04
+    },
+    {
+      "word": "guesswork",
+      "start": 28.04,
+      "end": 28.64
+    },
+    {
+      "word": "and",
+      "start": 28.64,
+      "end": 28.92
+    },
+    {
+      "word": "ship",
+      "start": 28.92,
+      "end": 29.22
+    },
+    {
+      "word": "client",
+      "start": 29.22,
+      "end": 29.56
+    },
+    {
+      "word": "revisions",
+      "start": 29.56,
+      "end": 30.02
+    },
+    {
+      "word": "instantly.",
+      "start": 30.02,
+      "end": 30.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Generate complete component-based wireframes and copy them straight into Webflow.",
+      "line2": "BUILD SITES IN MINUTES",
+      "tag": "\ud83d\uded1 Relume site builder to Webflow export workflow for rapid landing pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Relume site builder to Webflow export workflow for rapid landing pages",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Relume site builder to Webflow export workflow for rapid landing pages",
+        "subtitle": "Relume site builder to Webflow export workflow for rapid landing pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Relume site builder to Webflow export workflow for rapid landing pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Relume site builder to Webflow export workflow for rapid landing pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Relume site builder to Webflow export workflow for rapid landing pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

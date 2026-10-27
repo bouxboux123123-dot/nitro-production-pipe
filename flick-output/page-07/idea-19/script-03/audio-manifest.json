@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Automated SOC2 compliance evidence collector for enterprise sales",
+  "text": "Stop spending weeks taking manual screenshots of employee password settings and laptop encryption. Preparing for annual security reviews turns your senior engineers into full-time administrative screenshot takers. Human error inevitably leaves unprotected laptops unflagged, exposing customer data and failing compliance requirements. Connect Secureframe with MDM software like Kandji to automate device compliance tracking and background checks. This saves your team sixty hours of compliance busywork.",
+  "duration": 31.717,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "spending",
+      "start": 0.42,
+      "end": 0.78
+    },
+    {
+      "word": "weeks",
+      "start": 0.78,
+      "end": 1.1
+    },
+    {
+      "word": "taking",
+      "start": 1.1,
+      "end": 1.48
+    },
+    {
+      "word": "manual",
+      "start": 1.48,
+      "end": 1.92
+    },
+    {
+      "word": "screenshots",
+      "start": 1.92,
+      "end": 2.42
+    },
+    {
+      "word": "of",
+      "start": 2.42,
+      "end": 2.9
+    },
+    {
+      "word": "employee",
+      "start": 2.9,
+      "end": 3.28
+    },
+    {
+      "word": "password",
+      "start": 3.28,
+      "end": 3.76
+    },
+    {
+      "word": "settings",
+      "start": 3.76,
+      "end": 4.22
+    },
+    {
+      "word": "and",
+      "start": 4.22,
+      "end": 4.74
+    },
+    {
+      "word": "laptop",
+      "start": 4.74,
+      "end": 5.12
+    },
+    {
+      "word": "encryption.",
+      "start": 5.12,
+      "end": 5.84
+    },
+    {
+      "word": "Preparing",
+      "start": 6.46,
+      "end": 6.76
+    },
+    {
+      "word": "for",
+      "start": 6.76,
+      "end": 7.08
+    },
+    {
+      "word": "annual",
+      "start": 7.08,
+      "end": 7.42
+    },
+    {
+      "word": "security",
+      "start": 7.42,
+      "end": 7.94
+    },
+    {
+      "word": "reviews",
+      "start": 7.94,
+      "end": 8.46
+    },
+    {
+      "word": "turns",
+      "start": 8.46,
+      "end": 8.92
+    },
+    {
+      "word": "your",
+      "start": 8.92,
+      "end": 9.26
+    },
+    {
+      "word": "senior",
+      "start": 9.26,
+      "end": 9.48
+    },
+    {
+      "word": "engineers",
+      "start": 9.48,
+      "end": 10.0
+    },
+    {
+      "word": "into",
+      "start": 10.0,
+      "end": 10.36
+    },
+    {
+      "word": "full",
+      "start": 10.36,
+      "end": 10.76
+    },
+    {
+      "word": "-time",
+      "start": 10.76,
+      "end": 11.02
+    },
+    {
+      "word": "administrative",
+      "start": 11.02,
+      "end": 11.62
+    },
+    {
+      "word": "screenshot",
+      "start": 11.62,
+      "end": 12.24
+    },
+    {
+      "word": "takers.",
+      "start": 12.24,
+      "end": 12.82
+    },
+    {
+      "word": "Human",
+      "start": 13.58,
+      "end": 13.58
+    },
+    {
+      "word": "error",
+      "start": 13.58,
+      "end": 13.94
+    },
+    {
+      "word": "inevitably",
+      "start": 13.94,
+      "end": 14.36
+    },
+    {
+      "word": "leaves",
+      "start": 14.36,
+      "end": 14.84
+    },
+    {
+      "word": "unprotected",
+      "start": 14.84,
+      "end": 15.4
+    },
+    {
+      "word": "laptops",
+      "start": 15.4,
+      "end": 16.04
+    },
+    {
+      "word": "on",
+      "start": 16.04,
+      "end": 16.36
+    },
+    {
+      "word": "flagged,",
+      "start": 16.36,
+      "end": 16.94
+    },
+    {
+      "word": "exposing",
+      "start": 17.34,
+      "end": 17.64
+    },
+    {
+      "word": "customer",
+      "start": 17.64,
+      "end": 18.16
+    },
+    {
+      "word": "data",
+      "start": 18.16,
+      "end": 18.56
+    },
+    {
+      "word": "and",
+      "start": 18.56,
+      "end": 19.0
+    },
+    {
+      "word": "failing",
+      "start": 19.0,
+      "end": 19.32
+    },
+    {
+      "word": "compliance",
+      "start": 19.32,
+      "end": 19.94
+    },
+    {
+      "word": "requirements.",
+      "start": 19.94,
+      "end": 20.72
+    },
+    {
+      "word": "Connect",
+      "start": 21.44,
+      "end": 21.44
+    },
+    {
+      "word": "secure",
+      "start": 21.44,
+      "end": 21.9
+    },
+    {
+      "word": "a",
+      "start": 21.9,
+      "end": 22.08
+    },
+    {
+      "word": "frame",
+      "start": 22.08,
+      "end": 22.3
+    },
+    {
+      "word": "with",
+      "start": 22.3,
+      "end": 22.68
+    },
+    {
+      "word": "MDM",
+      "start": 22.68,
+      "end": 23.36
+    },
+    {
+      "word": "software",
+      "start": 23.36,
+      "end": 23.74
+    },
+    {
+      "word": "like",
+      "start": 23.74,
+      "end": 24.16
+    },
+    {
+      "word": "Kanji",
+      "start": 24.16,
+      "end": 24.7
+    },
+    {
+      "word": "to",
+      "start": 24.7,
+      "end": 25.1
+    },
+    {
+      "word": "automate",
+      "start": 25.1,
+      "end": 25.46
+    },
+    {
+      "word": "device",
+      "start": 25.46,
+      "end": 25.94
+    },
+    {
+      "word": "compliance",
+      "start": 25.94,
+      "end": 26.54
+    },
+    {
+      "word": "tracking",
+      "start": 26.54,
+      "end": 26.92
+    },
+    {
+      "word": "and",
+      "start": 26.92,
+      "end": 27.28
+    },
+    {
+      "word": "background",
+      "start": 27.28,
+      "end": 27.5
+    },
+    {
+      "word": "checks.",
+      "start": 27.5,
+      "end": 28.1
+    },
+    {
+      "word": "This",
+      "start": 28.1,
+      "end": 28.8
+    },
+    {
+      "word": "saves",
+      "start": 28.8,
+      "end": 29.02
+    },
+    {
+      "word": "your",
+      "start": 29.02,
+      "end": 29.28
+    },
+    {
+      "word": "team",
+      "start": 29.28,
+      "end": 29.62
+    },
+    {
+      "word": "60",
+      "start": 29.62,
+      "end": 30.08
+    },
+    {
+      "word": "hours",
+      "start": 30.08,
+      "end": 30.4
+    },
+    {
+      "word": "of",
+      "start": 30.4,
+      "end": 30.76
+    },
+    {
+      "word": "compliance",
+      "start": 30.76,
+      "end": 31.1
+    },
+    {
+      "word": "busy",
+      "start": 31.1,
+      "end": 31.42
+    },
+    {
+      "word": "work.",
+      "start": 31.42,
+      "end": 31.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop spending weeks taking manual screenshots of employee password settings.",
+      "line2": "COLLECT SOC2 EVIDENCE",
+      "tag": "\ud83d\uded1 Automated SOC2 compliance evidence collector for enterprise sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

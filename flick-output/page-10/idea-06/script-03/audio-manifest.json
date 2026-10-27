@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "Slack AI summary features and channel catch-up automation",
+  "text": "Slack's new update can automatically turn sprawling message threads into structured project notes. Project managers waste valuable hours copying chat debates into Notion docs and assigning follow-up action items manually. Decisions agreed upon in casual Slack discussions slip through the cracks without clear written accountability. Slack AI thread summaries extract decisions, action owners, and open questions into organized canvas docs instantly. This keeps your entire team aligned without extra meetings.",
+  "duration": 31.589,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Slack's",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "new",
+      "start": 0.48,
+      "end": 0.68
+    },
+    {
+      "word": "update",
+      "start": 0.68,
+      "end": 0.98
+    },
+    {
+      "word": "can",
+      "start": 0.98,
+      "end": 1.36
+    },
+    {
+      "word": "automatically",
+      "start": 1.36,
+      "end": 1.8
+    },
+    {
+      "word": "turn",
+      "start": 1.8,
+      "end": 2.38
+    },
+    {
+      "word": "sprawling",
+      "start": 2.38,
+      "end": 2.82
+    },
+    {
+      "word": "message",
+      "start": 2.82,
+      "end": 3.22
+    },
+    {
+      "word": "threads",
+      "start": 3.22,
+      "end": 3.68
+    },
+    {
+      "word": "into",
+      "start": 3.68,
+      "end": 4.04
+    },
+    {
+      "word": "structured",
+      "start": 4.04,
+      "end": 4.48
+    },
+    {
+      "word": "project",
+      "start": 4.48,
+      "end": 4.98
+    },
+    {
+      "word": "notes.",
+      "start": 4.98,
+      "end": 5.48
+    },
+    {
+      "word": "Project",
+      "start": 6.4,
+      "end": 6.4
+    },
+    {
+      "word": "managers",
+      "start": 6.4,
+      "end": 6.9
+    },
+    {
+      "word": "waste",
+      "start": 6.9,
+      "end": 7.52
+    },
+    {
+      "word": "valuable",
+      "start": 7.52,
+      "end": 7.96
+    },
+    {
+      "word": "hours",
+      "start": 7.96,
+      "end": 8.56
+    },
+    {
+      "word": "copying",
+      "start": 8.56,
+      "end": 9.0
+    },
+    {
+      "word": "chat",
+      "start": 9.0,
+      "end": 9.34
+    },
+    {
+      "word": "debates",
+      "start": 9.34,
+      "end": 9.68
+    },
+    {
+      "word": "into",
+      "start": 9.68,
+      "end": 9.94
+    },
+    {
+      "word": "notion",
+      "start": 9.94,
+      "end": 10.32
+    },
+    {
+      "word": "docs",
+      "start": 10.32,
+      "end": 10.76
+    },
+    {
+      "word": "and",
+      "start": 10.76,
+      "end": 11.26
+    },
+    {
+      "word": "assigning",
+      "start": 11.26,
+      "end": 11.76
+    },
+    {
+      "word": "follow",
+      "start": 11.76,
+      "end": 12.16
+    },
+    {
+      "word": "-up",
+      "start": 12.16,
+      "end": 12.4
+    },
+    {
+      "word": "action",
+      "start": 12.4,
+      "end": 12.76
+    },
+    {
+      "word": "items",
+      "start": 12.76,
+      "end": 13.16
+    },
+    {
+      "word": "manually.",
+      "start": 13.16,
+      "end": 13.8
+    },
+    {
+      "word": "Decisions",
+      "start": 14.2,
+      "end": 14.44
+    },
+    {
+      "word": "agreed",
+      "start": 14.44,
+      "end": 14.78
+    },
+    {
+      "word": "upon",
+      "start": 14.78,
+      "end": 15.12
+    },
+    {
+      "word": "in",
+      "start": 15.12,
+      "end": 15.36
+    },
+    {
+      "word": "casual",
+      "start": 15.36,
+      "end": 15.8
+    },
+    {
+      "word": "Slack",
+      "start": 15.8,
+      "end": 16.18
+    },
+    {
+      "word": "discussions",
+      "start": 16.18,
+      "end": 16.74
+    },
+    {
+      "word": "slip",
+      "start": 16.74,
+      "end": 17.22
+    },
+    {
+      "word": "through",
+      "start": 17.22,
+      "end": 17.46
+    },
+    {
+      "word": "the",
+      "start": 17.46,
+      "end": 17.6
+    },
+    {
+      "word": "cracks",
+      "start": 17.6,
+      "end": 17.9
+    },
+    {
+      "word": "without",
+      "start": 17.9,
+      "end": 18.42
+    },
+    {
+      "word": "clear",
+      "start": 18.42,
+      "end": 18.76
+    },
+    {
+      "word": "written",
+      "start": 18.76,
+      "end": 19.0
+    },
+    {
+      "word": "accountability.",
+      "start": 19.0,
+      "end": 19.78
+    },
+    {
+      "word": "Slack",
+      "start": 20.7,
+      "end": 20.72
+    },
+    {
+      "word": "AI",
+      "start": 20.72,
+      "end": 21.28
+    },
+    {
+      "word": "threads",
+      "start": 21.28,
+      "end": 21.64
+    },
+    {
+      "word": "summaries",
+      "start": 21.64,
+      "end": 22.14
+    },
+    {
+      "word": "extract",
+      "start": 22.14,
+      "end": 22.62
+    },
+    {
+      "word": "decisions,",
+      "start": 22.62,
+      "end": 23.16
+    },
+    {
+      "word": "action",
+      "start": 23.78,
+      "end": 23.86
+    },
+    {
+      "word": "owners,",
+      "start": 23.86,
+      "end": 24.2
+    },
+    {
+      "word": "and",
+      "start": 24.56,
+      "end": 24.84
+    },
+    {
+      "word": "open",
+      "start": 24.84,
+      "end": 25.04
+    },
+    {
+      "word": "questions",
+      "start": 25.04,
+      "end": 25.54
+    },
+    {
+      "word": "into",
+      "start": 25.54,
+      "end": 25.9
+    },
+    {
+      "word": "organized",
+      "start": 25.9,
+      "end": 26.5
+    },
+    {
+      "word": "Canvas",
+      "start": 26.5,
+      "end": 26.92
+    },
+    {
+      "word": "docs",
+      "start": 26.92,
+      "end": 27.28
+    },
+    {
+      "word": "instantly.",
+      "start": 27.28,
+      "end": 27.82
+    },
+    {
+      "word": "This",
+      "start": 27.82,
+      "end": 28.58
+    },
+    {
+      "word": "keeps",
+      "start": 28.58,
+      "end": 28.82
+    },
+    {
+      "word": "your",
+      "start": 28.82,
+      "end": 29.1
+    },
+    {
+      "word": "entire",
+      "start": 29.1,
+      "end": 29.44
+    },
+    {
+      "word": "team",
+      "start": 29.44,
+      "end": 29.8
+    },
+    {
+      "word": "aligned",
+      "start": 29.8,
+      "end": 30.28
+    },
+    {
+      "word": "without",
+      "start": 30.28,
+      "end": 30.74
+    },
+    {
+      "word": "extra",
+      "start": 30.74,
+      "end": 31.04
+    },
+    {
+      "word": "meetings.",
+      "start": 31.04,
+      "end": 31.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new Slack update that creates meeting notes from message threads automatically.",
+      "line2": "SLACK AI CHANNEL SUMMARIES",
+      "tag": "\ud83d\uded1 Slack AI summary features and channel catch-up automation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Slack AI summary features and channel catch-up automation",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Slack AI summary features and channel catch-up automation",
+        "subtitle": "Slack AI summary features and channel catch-up automation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Slack AI summary features and channel catch-up automation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Slack AI summary features and channel catch-up automation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Slack AI summary features and channel catch-up automation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

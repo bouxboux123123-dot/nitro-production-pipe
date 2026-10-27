@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Automated SEO programmatic page generator for startup growth",
+  "text": "This programmatic SEO framework drove fifty thousand monthly visits with zero ad spend. Burning scarce venture cash on paid search ads drives customer acquisition costs through the roof. Founders avoid search because manually publishing comparison pages requires months of expensive developer time. Connect Google Sheets to Nextjs via Vercel to publish hundreds of optimized landing pages in minutes. You build a compounding organic customer engine for pennies.",
+  "duration": 27.691,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "programmatic",
+      "start": 0.26,
+      "end": 0.94
+    },
+    {
+      "word": "SEO",
+      "start": 0.94,
+      "end": 1.48
+    },
+    {
+      "word": "framework",
+      "start": 1.48,
+      "end": 1.88
+    },
+    {
+      "word": "drove",
+      "start": 1.88,
+      "end": 2.34
+    },
+    {
+      "word": "50",
+      "start": 2.34,
+      "end": 2.78
+    },
+    {
+      "word": ",000",
+      "start": 2.78,
+      "end": 3.02
+    },
+    {
+      "word": "monthly",
+      "start": 3.02,
+      "end": 3.38
+    },
+    {
+      "word": "visits",
+      "start": 3.38,
+      "end": 3.68
+    },
+    {
+      "word": "with",
+      "start": 3.68,
+      "end": 3.96
+    },
+    {
+      "word": "zero",
+      "start": 3.96,
+      "end": 4.4
+    },
+    {
+      "word": "ad",
+      "start": 4.4,
+      "end": 4.68
+    },
+    {
+      "word": "spend.",
+      "start": 4.68,
+      "end": 5.08
+    },
+    {
+      "word": "Burning",
+      "start": 5.72,
+      "end": 5.78
+    },
+    {
+      "word": "scare",
+      "start": 5.78,
+      "end": 6.08
+    },
+    {
+      "word": "venture",
+      "start": 6.08,
+      "end": 6.46
+    },
+    {
+      "word": "cash",
+      "start": 6.46,
+      "end": 6.78
+    },
+    {
+      "word": "on",
+      "start": 6.78,
+      "end": 6.98
+    },
+    {
+      "word": "paid",
+      "start": 6.98,
+      "end": 7.24
+    },
+    {
+      "word": "search",
+      "start": 7.24,
+      "end": 7.66
+    },
+    {
+      "word": "adds",
+      "start": 7.66,
+      "end": 8.16
+    },
+    {
+      "word": "drives",
+      "start": 8.16,
+      "end": 8.62
+    },
+    {
+      "word": "customer",
+      "start": 8.62,
+      "end": 9.02
+    },
+    {
+      "word": "acquisition",
+      "start": 9.02,
+      "end": 9.5
+    },
+    {
+      "word": "costs",
+      "start": 9.5,
+      "end": 10.0
+    },
+    {
+      "word": "through",
+      "start": 10.0,
+      "end": 10.28
+    },
+    {
+      "word": "the",
+      "start": 10.28,
+      "end": 10.92
+    },
+    {
+      "word": "roof.",
+      "start": 10.92,
+      "end": 10.92
+    },
+    {
+      "word": "Founders",
+      "start": 11.38,
+      "end": 11.52
+    },
+    {
+      "word": "avoid",
+      "start": 11.52,
+      "end": 11.86
+    },
+    {
+      "word": "search",
+      "start": 11.86,
+      "end": 12.42
+    },
+    {
+      "word": "because",
+      "start": 12.42,
+      "end": 12.84
+    },
+    {
+      "word": "manually",
+      "start": 12.84,
+      "end": 13.32
+    },
+    {
+      "word": "publishing",
+      "start": 13.32,
+      "end": 13.82
+    },
+    {
+      "word": "comparison",
+      "start": 13.82,
+      "end": 14.3
+    },
+    {
+      "word": "pages",
+      "start": 14.3,
+      "end": 14.9
+    },
+    {
+      "word": "requires",
+      "start": 14.9,
+      "end": 15.7
+    },
+    {
+      "word": "months",
+      "start": 15.7,
+      "end": 16.1
+    },
+    {
+      "word": "of",
+      "start": 16.1,
+      "end": 16.4
+    },
+    {
+      "word": "expensive",
+      "start": 16.4,
+      "end": 16.76
+    },
+    {
+      "word": "developer",
+      "start": 16.76,
+      "end": 17.18
+    },
+    {
+      "word": "time.",
+      "start": 17.18,
+      "end": 17.86
+    },
+    {
+      "word": "Connect",
+      "start": 18.58,
+      "end": 18.58
+    },
+    {
+      "word": "Google",
+      "start": 18.58,
+      "end": 18.98
+    },
+    {
+      "word": "Sheets",
+      "start": 18.98,
+      "end": 19.28
+    },
+    {
+      "word": "to",
+      "start": 19.28,
+      "end": 19.5
+    },
+    {
+      "word": "Next",
+      "start": 19.5,
+      "end": 19.72
+    },
+    {
+      "word": "is",
+      "start": 19.72,
+      "end": 20.0
+    },
+    {
+      "word": "via",
+      "start": 20.0,
+      "end": 20.18
+    },
+    {
+      "word": "virtual",
+      "start": 20.18,
+      "end": 20.58
+    },
+    {
+      "word": "to",
+      "start": 20.58,
+      "end": 21.04
+    },
+    {
+      "word": "publish",
+      "start": 21.04,
+      "end": 21.36
+    },
+    {
+      "word": "hundreds",
+      "start": 21.36,
+      "end": 21.72
+    },
+    {
+      "word": "of",
+      "start": 21.72,
+      "end": 22.1
+    },
+    {
+      "word": "optimized",
+      "start": 22.1,
+      "end": 22.5
+    },
+    {
+      "word": "landing",
+      "start": 22.5,
+      "end": 23.0
+    },
+    {
+      "word": "pages",
+      "start": 23.0,
+      "end": 23.44
+    },
+    {
+      "word": "in",
+      "start": 23.44,
+      "end": 23.7
+    },
+    {
+      "word": "minutes.",
+      "start": 23.7,
+      "end": 24.0
+    },
+    {
+      "word": "You",
+      "start": 24.56,
+      "end": 24.62
+    },
+    {
+      "word": "build",
+      "start": 24.62,
+      "end": 24.8
+    },
+    {
+      "word": "a",
+      "start": 24.8,
+      "end": 25.1
+    },
+    {
+      "word": "compounding",
+      "start": 25.1,
+      "end": 25.58
+    },
+    {
+      "word": "organic",
+      "start": 25.58,
+      "end": 26.2
+    },
+    {
+      "word": "customer",
+      "start": 26.2,
+      "end": 26.72
+    },
+    {
+      "word": "engine",
+      "start": 26.72,
+      "end": 27.04
+    },
+    {
+      "word": "for",
+      "start": 27.04,
+      "end": 27.34
+    },
+    {
+      "word": "pennies.",
+      "start": 27.34,
+      "end": 27.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The programmatic SEO framework that drove 50,000 monthly visits with zero ad spend.",
+      "line2": "PROGRAMMATIC SEO PAGES",
+      "tag": "\ud83d\uded1 Automated SEO programmatic page generator for startup growth",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SEO programmatic page generator for startup growth",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

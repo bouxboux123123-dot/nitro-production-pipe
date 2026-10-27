@@ -1,0 +1,421 @@
+{
+  "page": "page-01",
+  "idea": "Automated client gift and milestone celebration pipeline",
+  "text": "Stop forgetting to acknowledge major client milestones, product launches, and company achievements. Agency retention drops when clients feel unappreciated after working with your team for six straight months. Relying on busy account managers to remember personal milestones leads to missed celebrations and weakened client relationships. Set up a Make workflow that tracks client tenure in ClickUp and triggers personalized handwritten cards via Alyce. You turn routine retainer relationships into lasting partnerships.",
+  "duration": 30.927,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "forgetting",
+      "start": 0.4,
+      "end": 0.72
+    },
+    {
+      "word": "to",
+      "start": 0.72,
+      "end": 1.06
+    },
+    {
+      "word": "acknowledge",
+      "start": 1.06,
+      "end": 1.56
+    },
+    {
+      "word": "major",
+      "start": 1.56,
+      "end": 1.98
+    },
+    {
+      "word": "client",
+      "start": 1.98,
+      "end": 2.36
+    },
+    {
+      "word": "milestones,",
+      "start": 2.36,
+      "end": 2.9
+    },
+    {
+      "word": "product",
+      "start": 3.6,
+      "end": 3.64
+    },
+    {
+      "word": "launches,",
+      "start": 3.64,
+      "end": 4.06
+    },
+    {
+      "word": "and",
+      "start": 4.44,
+      "end": 4.72
+    },
+    {
+      "word": "company",
+      "start": 4.72,
+      "end": 4.96
+    },
+    {
+      "word": "achievements.",
+      "start": 4.96,
+      "end": 5.58
+    },
+    {
+      "word": "Agency",
+      "start": 6.48,
+      "end": 6.58
+    },
+    {
+      "word": "retention",
+      "start": 6.58,
+      "end": 7.12
+    },
+    {
+      "word": "drops",
+      "start": 7.12,
+      "end": 7.66
+    },
+    {
+      "word": "when",
+      "start": 7.66,
+      "end": 7.94
+    },
+    {
+      "word": "clients",
+      "start": 7.94,
+      "end": 8.26
+    },
+    {
+      "word": "feel",
+      "start": 8.26,
+      "end": 8.64
+    },
+    {
+      "word": "unappreciated",
+      "start": 8.64,
+      "end": 9.36
+    },
+    {
+      "word": "after",
+      "start": 9.36,
+      "end": 9.74
+    },
+    {
+      "word": "working",
+      "start": 9.74,
+      "end": 10.04
+    },
+    {
+      "word": "with",
+      "start": 10.04,
+      "end": 10.22
+    },
+    {
+      "word": "your",
+      "start": 10.22,
+      "end": 10.42
+    },
+    {
+      "word": "team",
+      "start": 10.42,
+      "end": 10.68
+    },
+    {
+      "word": "for",
+      "start": 10.68,
+      "end": 10.9
+    },
+    {
+      "word": "six",
+      "start": 10.9,
+      "end": 11.2
+    },
+    {
+      "word": "straight",
+      "start": 11.2,
+      "end": 11.52
+    },
+    {
+      "word": "months.",
+      "start": 11.52,
+      "end": 12.0
+    },
+    {
+      "word": "Relying",
+      "start": 12.3,
+      "end": 12.6
+    },
+    {
+      "word": "on",
+      "start": 12.6,
+      "end": 12.88
+    },
+    {
+      "word": "busy",
+      "start": 12.88,
+      "end": 13.14
+    },
+    {
+      "word": "account",
+      "start": 13.14,
+      "end": 13.56
+    },
+    {
+      "word": "managers",
+      "start": 13.56,
+      "end": 13.9
+    },
+    {
+      "word": "to",
+      "start": 13.9,
+      "end": 14.26
+    },
+    {
+      "word": "remember",
+      "start": 14.26,
+      "end": 14.56
+    },
+    {
+      "word": "personal",
+      "start": 14.56,
+      "end": 14.98
+    },
+    {
+      "word": "milestones",
+      "start": 14.98,
+      "end": 15.62
+    },
+    {
+      "word": "leads",
+      "start": 15.62,
+      "end": 16.3
+    },
+    {
+      "word": "to",
+      "start": 16.3,
+      "end": 16.52
+    },
+    {
+      "word": "missed",
+      "start": 16.52,
+      "end": 16.8
+    },
+    {
+      "word": "celebrations",
+      "start": 16.8,
+      "end": 17.42
+    },
+    {
+      "word": "and",
+      "start": 17.42,
+      "end": 17.98
+    },
+    {
+      "word": "weakened",
+      "start": 17.98,
+      "end": 18.38
+    },
+    {
+      "word": "client",
+      "start": 18.38,
+      "end": 18.76
+    },
+    {
+      "word": "relationships.",
+      "start": 18.76,
+      "end": 19.48
+    },
+    {
+      "word": "Set",
+      "start": 20.12,
+      "end": 20.28
+    },
+    {
+      "word": "up",
+      "start": 20.28,
+      "end": 20.52
+    },
+    {
+      "word": "a",
+      "start": 20.52,
+      "end": 20.7
+    },
+    {
+      "word": "make",
+      "start": 20.7,
+      "end": 20.88
+    },
+    {
+      "word": "workflow",
+      "start": 20.88,
+      "end": 21.3
+    },
+    {
+      "word": "that",
+      "start": 21.3,
+      "end": 21.6
+    },
+    {
+      "word": "tracks",
+      "start": 21.6,
+      "end": 21.92
+    },
+    {
+      "word": "client",
+      "start": 21.92,
+      "end": 22.32
+    },
+    {
+      "word": "tenure",
+      "start": 22.32,
+      "end": 22.62
+    },
+    {
+      "word": "and",
+      "start": 22.62,
+      "end": 22.88
+    },
+    {
+      "word": "click",
+      "start": 22.88,
+      "end": 23.1
+    },
+    {
+      "word": "up",
+      "start": 23.1,
+      "end": 23.44
+    },
+    {
+      "word": "and",
+      "start": 23.44,
+      "end": 23.8
+    },
+    {
+      "word": "triggers",
+      "start": 23.8,
+      "end": 24.14
+    },
+    {
+      "word": "personalized",
+      "start": 24.14,
+      "end": 24.86
+    },
+    {
+      "word": "handwritten",
+      "start": 24.86,
+      "end": 25.3
+    },
+    {
+      "word": "cards",
+      "start": 25.3,
+      "end": 25.9
+    },
+    {
+      "word": "via",
+      "start": 25.9,
+      "end": 26.36
+    },
+    {
+      "word": "allies.",
+      "start": 26.36,
+      "end": 26.84
+    },
+    {
+      "word": "You",
+      "start": 26.84,
+      "end": 27.52
+    },
+    {
+      "word": "turn",
+      "start": 27.52,
+      "end": 27.8
+    },
+    {
+      "word": "routine",
+      "start": 27.8,
+      "end": 28.24
+    },
+    {
+      "word": "retainer",
+      "start": 28.24,
+      "end": 28.72
+    },
+    {
+      "word": "relationships",
+      "start": 28.72,
+      "end": 29.36
+    },
+    {
+      "word": "into",
+      "start": 29.36,
+      "end": 29.76
+    },
+    {
+      "word": "lasting",
+      "start": 29.76,
+      "end": 30.18
+    },
+    {
+      "word": "partnerships.",
+      "start": 30.18,
+      "end": 30.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop forgetting to acknowledge major client milestones and company achievements.",
+      "line2": "AUTOMATE CLIENT CELEBRATIONS",
+      "tag": "\ud83d\uded1 Automated client gift and milestone celebration pipeline",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated client gift and milestone celebration pipeline",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated client gift and milestone celebration pipeline",
+        "subtitle": "Automated client gift and milestone celebration pipeline"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated client gift and milestone celebration pipeline"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated client gift and milestone celebration pipeline"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated client gift and milestone celebration pipeline",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-04",
+  "idea": "AppFlowy: the open-source Notion replacement that stays local",
+  "text": "You can organize your entire business and projects in a free open-source dashboard. Entrepreneurs often juggle multiple paid apps just to handle task tracking, documentation, and sprint roadmaps. Disconnected subscriptions drain your monthly budget and scatter critical project assets across separate platforms. AppFlowy centralizes your wikis, timelines, and database views into one customizable, local workspace for free. You eliminate subscription bloat and streamline daily focus.",
+  "duration": 29.882,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "can",
+      "start": 0.14,
+      "end": 0.36
+    },
+    {
+      "word": "organize",
+      "start": 0.36,
+      "end": 0.78
+    },
+    {
+      "word": "your",
+      "start": 0.78,
+      "end": 1.12
+    },
+    {
+      "word": "entire",
+      "start": 1.12,
+      "end": 1.54
+    },
+    {
+      "word": "business",
+      "start": 1.54,
+      "end": 1.88
+    },
+    {
+      "word": "and",
+      "start": 1.88,
+      "end": 2.16
+    },
+    {
+      "word": "projects",
+      "start": 2.16,
+      "end": 2.6
+    },
+    {
+      "word": "in",
+      "start": 2.6,
+      "end": 2.78
+    },
+    {
+      "word": "a",
+      "start": 2.78,
+      "end": 2.9
+    },
+    {
+      "word": "free",
+      "start": 2.9,
+      "end": 3.16
+    },
+    {
+      "word": "open",
+      "start": 3.16,
+      "end": 3.54
+    },
+    {
+      "word": "source",
+      "start": 3.54,
+      "end": 3.86
+    },
+    {
+      "word": "dashboard.",
+      "start": 3.86,
+      "end": 4.46
+    },
+    {
+      "word": "Entrepreneurs",
+      "start": 5.34,
+      "end": 5.72
+    },
+    {
+      "word": "often",
+      "start": 5.72,
+      "end": 6.18
+    },
+    {
+      "word": "juggle",
+      "start": 6.18,
+      "end": 6.58
+    },
+    {
+      "word": "multiple",
+      "start": 6.58,
+      "end": 7.06
+    },
+    {
+      "word": "paid",
+      "start": 7.06,
+      "end": 7.36
+    },
+    {
+      "word": "apps",
+      "start": 7.36,
+      "end": 7.68
+    },
+    {
+      "word": "just",
+      "start": 7.68,
+      "end": 8.18
+    },
+    {
+      "word": "to",
+      "start": 8.18,
+      "end": 8.4
+    },
+    {
+      "word": "handle",
+      "start": 8.4,
+      "end": 8.68
+    },
+    {
+      "word": "task",
+      "start": 8.68,
+      "end": 9.06
+    },
+    {
+      "word": "tracking,",
+      "start": 9.06,
+      "end": 9.58
+    },
+    {
+      "word": "documentation,",
+      "start": 10.5,
+      "end": 10.5
+    },
+    {
+      "word": "and",
+      "start": 10.88,
+      "end": 11.04
+    },
+    {
+      "word": "sprint",
+      "start": 11.04,
+      "end": 11.26
+    },
+    {
+      "word": "roadmaps.",
+      "start": 11.26,
+      "end": 11.8
+    },
+    {
+      "word": "Disconnected",
+      "start": 12.22,
+      "end": 12.66
+    },
+    {
+      "word": "subscriptions",
+      "start": 12.66,
+      "end": 13.34
+    },
+    {
+      "word": "drain",
+      "start": 13.34,
+      "end": 13.8
+    },
+    {
+      "word": "your",
+      "start": 13.8,
+      "end": 14.14
+    },
+    {
+      "word": "monthly",
+      "start": 14.14,
+      "end": 14.4
+    },
+    {
+      "word": "budget",
+      "start": 14.4,
+      "end": 14.8
+    },
+    {
+      "word": "and",
+      "start": 14.8,
+      "end": 15.12
+    },
+    {
+      "word": "scatter",
+      "start": 15.12,
+      "end": 15.42
+    },
+    {
+      "word": "critical",
+      "start": 15.42,
+      "end": 15.86
+    },
+    {
+      "word": "project",
+      "start": 15.86,
+      "end": 16.34
+    },
+    {
+      "word": "assets",
+      "start": 16.34,
+      "end": 16.74
+    },
+    {
+      "word": "across",
+      "start": 16.74,
+      "end": 17.32
+    },
+    {
+      "word": "separate",
+      "start": 17.32,
+      "end": 17.6
+    },
+    {
+      "word": "platforms.",
+      "start": 17.6,
+      "end": 18.18
+    },
+    {
+      "word": "App",
+      "start": 19.12,
+      "end": 19.16
+    },
+    {
+      "word": "flowy",
+      "start": 19.16,
+      "end": 19.56
+    },
+    {
+      "word": "centralizes",
+      "start": 19.56,
+      "end": 20.1
+    },
+    {
+      "word": "your",
+      "start": 20.1,
+      "end": 20.34
+    },
+    {
+      "word": "wikis,",
+      "start": 20.34,
+      "end": 20.76
+    },
+    {
+      "word": "timelines,",
+      "start": 21.32,
+      "end": 21.44
+    },
+    {
+      "word": "and",
+      "start": 21.8,
+      "end": 22.2
+    },
+    {
+      "word": "database",
+      "start": 22.2,
+      "end": 22.36
+    },
+    {
+      "word": "views",
+      "start": 22.36,
+      "end": 22.88
+    },
+    {
+      "word": "into",
+      "start": 22.88,
+      "end": 23.18
+    },
+    {
+      "word": "one",
+      "start": 23.18,
+      "end": 23.52
+    },
+    {
+      "word": "customizable",
+      "start": 23.52,
+      "end": 24.18
+    },
+    {
+      "word": "local",
+      "start": 24.18,
+      "end": 24.78
+    },
+    {
+      "word": "workspace",
+      "start": 24.78,
+      "end": 25.22
+    },
+    {
+      "word": "for",
+      "start": 25.22,
+      "end": 25.62
+    },
+    {
+      "word": "free.",
+      "start": 25.62,
+      "end": 26.02
+    },
+    {
+      "word": "You",
+      "start": 26.52,
+      "end": 26.7
+    },
+    {
+      "word": "eliminate",
+      "start": 26.7,
+      "end": 27.1
+    },
+    {
+      "word": "subscription",
+      "start": 27.1,
+      "end": 27.74
+    },
+    {
+      "word": "bloat",
+      "start": 27.74,
+      "end": 28.22
+    },
+    {
+      "word": "and",
+      "start": 28.22,
+      "end": 28.5
+    },
+    {
+      "word": "streamline",
+      "start": 28.5,
+      "end": 29.04
+    },
+    {
+      "word": "daily",
+      "start": 29.04,
+      "end": 29.38
+    },
+    {
+      "word": "focus.",
+      "start": 29.38,
+      "end": 29.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How to organize your entire life and projects in a free, open-source dashboard.",
+      "line2": "LOCAL NOTION ALTERNATIVE",
+      "tag": "\ud83d\uded1 AppFlowy",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: AppFlowy",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: AppFlowy",
+        "subtitle": "AppFlowy"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "AppFlowy"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "AppFlowy"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "AppFlowy",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

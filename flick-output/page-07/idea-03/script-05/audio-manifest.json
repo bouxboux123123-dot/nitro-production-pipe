@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "AI customer interview transcription and feature request clustering",
+  "text": "Extract high-conviction product insights from your user calls in seconds. You finish an hour-long customer interview with five pages of messy notes and no clear action items. Manually synthesizing interviews across multiple team members leads to mismatched priorities and delayed engineering cycles. Feed call transcripts directly into an automated Make pipeline that clusters sentiment and tags features inside Notion. This accelerates feature validation and cuts product discovery overhead.",
+  "duration": 30.159,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "extract",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "high",
+      "start": 0.46,
+      "end": 0.78
+    },
+    {
+      "word": "-conviction",
+      "start": 0.78,
+      "end": 1.12
+    },
+    {
+      "word": "product",
+      "start": 1.12,
+      "end": 1.68
+    },
+    {
+      "word": "insights",
+      "start": 1.68,
+      "end": 2.08
+    },
+    {
+      "word": "from",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "word": "your",
+      "start": 2.32,
+      "end": 2.52
+    },
+    {
+      "word": "user",
+      "start": 2.52,
+      "end": 2.78
+    },
+    {
+      "word": "calls",
+      "start": 2.78,
+      "end": 3.08
+    },
+    {
+      "word": "in",
+      "start": 3.08,
+      "end": 3.36
+    },
+    {
+      "word": "seconds.",
+      "start": 3.36,
+      "end": 3.9
+    },
+    {
+      "word": "You",
+      "start": 4.34,
+      "end": 4.38
+    },
+    {
+      "word": "finish",
+      "start": 4.38,
+      "end": 4.6
+    },
+    {
+      "word": "an",
+      "start": 4.6,
+      "end": 4.9
+    },
+    {
+      "word": "hour",
+      "start": 4.9,
+      "end": 5.1
+    },
+    {
+      "word": "-long",
+      "start": 5.1,
+      "end": 5.44
+    },
+    {
+      "word": "customer",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "word": "interview",
+      "start": 5.84,
+      "end": 6.3
+    },
+    {
+      "word": "with",
+      "start": 6.3,
+      "end": 6.56
+    },
+    {
+      "word": "five",
+      "start": 6.56,
+      "end": 6.98
+    },
+    {
+      "word": "pages",
+      "start": 6.98,
+      "end": 7.3
+    },
+    {
+      "word": "of",
+      "start": 7.3,
+      "end": 7.64
+    },
+    {
+      "word": "messy",
+      "start": 7.64,
+      "end": 7.8
+    },
+    {
+      "word": "notes",
+      "start": 7.8,
+      "end": 8.2
+    },
+    {
+      "word": "and",
+      "start": 8.2,
+      "end": 8.64
+    },
+    {
+      "word": "no",
+      "start": 8.64,
+      "end": 8.92
+    },
+    {
+      "word": "clear",
+      "start": 8.92,
+      "end": 9.18
+    },
+    {
+      "word": "action",
+      "start": 9.18,
+      "end": 9.52
+    },
+    {
+      "word": "items.",
+      "start": 9.52,
+      "end": 10.02
+    },
+    {
+      "word": "Manually",
+      "start": 10.8,
+      "end": 11.1
+    },
+    {
+      "word": "synthesizing",
+      "start": 11.1,
+      "end": 11.78
+    },
+    {
+      "word": "interviews",
+      "start": 11.78,
+      "end": 12.22
+    },
+    {
+      "word": "across",
+      "start": 12.22,
+      "end": 12.68
+    },
+    {
+      "word": "multiple",
+      "start": 12.68,
+      "end": 13.12
+    },
+    {
+      "word": "team",
+      "start": 13.12,
+      "end": 13.46
+    },
+    {
+      "word": "members",
+      "start": 13.46,
+      "end": 13.88
+    },
+    {
+      "word": "leads",
+      "start": 13.88,
+      "end": 14.42
+    },
+    {
+      "word": "to",
+      "start": 14.42,
+      "end": 14.7
+    },
+    {
+      "word": "mismatched",
+      "start": 14.7,
+      "end": 15.08
+    },
+    {
+      "word": "priorities",
+      "start": 15.08,
+      "end": 15.8
+    },
+    {
+      "word": "and",
+      "start": 15.8,
+      "end": 16.42
+    },
+    {
+      "word": "delayed",
+      "start": 16.42,
+      "end": 16.7
+    },
+    {
+      "word": "engineering",
+      "start": 16.7,
+      "end": 17.26
+    },
+    {
+      "word": "cycles.",
+      "start": 17.26,
+      "end": 17.82
+    },
+    {
+      "word": "Feed",
+      "start": 18.38,
+      "end": 18.44
+    },
+    {
+      "word": "call",
+      "start": 18.44,
+      "end": 18.72
+    },
+    {
+      "word": "transcripts",
+      "start": 18.72,
+      "end": 19.28
+    },
+    {
+      "word": "directly",
+      "start": 19.28,
+      "end": 19.8
+    },
+    {
+      "word": "into",
+      "start": 19.8,
+      "end": 20.06
+    },
+    {
+      "word": "an",
+      "start": 20.06,
+      "end": 20.58
+    },
+    {
+      "word": "automated",
+      "start": 20.58,
+      "end": 20.6
+    },
+    {
+      "word": "make",
+      "start": 20.6,
+      "end": 21.0
+    },
+    {
+      "word": "pipeline",
+      "start": 21.0,
+      "end": 21.48
+    },
+    {
+      "word": "that",
+      "start": 21.48,
+      "end": 22.26
+    },
+    {
+      "word": "clusters",
+      "start": 22.26,
+      "end": 22.26
+    },
+    {
+      "word": "sentiment",
+      "start": 22.26,
+      "end": 22.74
+    },
+    {
+      "word": "and",
+      "start": 22.74,
+      "end": 23.12
+    },
+    {
+      "word": "tags",
+      "start": 23.12,
+      "end": 23.54
+    },
+    {
+      "word": "features",
+      "start": 23.54,
+      "end": 24.16
+    },
+    {
+      "word": "inside",
+      "start": 24.16,
+      "end": 24.88
+    },
+    {
+      "word": "Notion.",
+      "start": 24.88,
+      "end": 25.5
+    },
+    {
+      "word": "This",
+      "start": 25.5,
+      "end": 26.16
+    },
+    {
+      "word": "accelerates",
+      "start": 26.16,
+      "end": 26.78
+    },
+    {
+      "word": "feature",
+      "start": 26.78,
+      "end": 27.14
+    },
+    {
+      "word": "validation",
+      "start": 27.14,
+      "end": 27.72
+    },
+    {
+      "word": "and",
+      "start": 27.72,
+      "end": 28.36
+    },
+    {
+      "word": "cuts",
+      "start": 28.36,
+      "end": 28.62
+    },
+    {
+      "word": "product",
+      "start": 28.62,
+      "end": 29.02
+    },
+    {
+      "word": "discovery",
+      "start": 29.02,
+      "end": 29.54
+    },
+    {
+      "word": "overhead.",
+      "start": 29.54,
+      "end": 30.04
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Extract high-conviction product insights from user calls in seconds.",
+      "line2": "CLUSTER FEATURE REQUESTS",
+      "tag": "\ud83d\uded1 AI customer interview transcription and feature request clustering",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: AI customer interview transcription and feature request clustering",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: AI customer interview transcription and feature request clustering",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "AI customer interview transcription and feature request clustering",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

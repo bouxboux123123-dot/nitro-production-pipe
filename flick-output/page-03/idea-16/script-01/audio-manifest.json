@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "AI podcast clip generator that repurposes audio into viral short clips",
+  "text": "Turn a thirty-minute side hustle podcast into ten viral video clips in five minutes. Solo podcasters waste whole weekends scrubbing waveforms, adjusting aspect ratios, and manually typing subtitles. Tedious editing bottlenecks weekly output, leaving valuable podcast insights trapped on Spotify without algorithmic reach. Drop your recording into Opus Clip to automatically detect viral soundbites, center speakers, and generate animated captions. You flood social feeds with daily vertical videos effortlessly.",
+  "duration": 32.613,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Turn",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "a",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "30",
+      "start": 0.5,
+      "end": 0.76
+    },
+    {
+      "word": "-minute",
+      "start": 0.76,
+      "end": 1.04
+    },
+    {
+      "word": "side",
+      "start": 1.04,
+      "end": 1.4
+    },
+    {
+      "word": "hustle",
+      "start": 1.4,
+      "end": 1.7
+    },
+    {
+      "word": "podcast",
+      "start": 1.7,
+      "end": 2.08
+    },
+    {
+      "word": "into",
+      "start": 2.08,
+      "end": 2.48
+    },
+    {
+      "word": "10",
+      "start": 2.48,
+      "end": 2.88
+    },
+    {
+      "word": "viral",
+      "start": 2.88,
+      "end": 3.3
+    },
+    {
+      "word": "video",
+      "start": 3.3,
+      "end": 3.7
+    },
+    {
+      "word": "clips",
+      "start": 3.7,
+      "end": 3.92
+    },
+    {
+      "word": "in",
+      "start": 3.92,
+      "end": 4.16
+    },
+    {
+      "word": "five",
+      "start": 4.16,
+      "end": 4.54
+    },
+    {
+      "word": "minutes.",
+      "start": 4.54,
+      "end": 5.06
+    },
+    {
+      "word": "Solo",
+      "start": 5.88,
+      "end": 5.88
+    },
+    {
+      "word": "podcasters",
+      "start": 5.88,
+      "end": 6.56
+    },
+    {
+      "word": "waste",
+      "start": 6.56,
+      "end": 6.96
+    },
+    {
+      "word": "whole",
+      "start": 6.96,
+      "end": 7.32
+    },
+    {
+      "word": "weekends",
+      "start": 7.32,
+      "end": 7.78
+    },
+    {
+      "word": "scrubbing",
+      "start": 7.78,
+      "end": 8.22
+    },
+    {
+      "word": "waveforms,",
+      "start": 8.22,
+      "end": 8.8
+    },
+    {
+      "word": "adjusting",
+      "start": 9.3,
+      "end": 9.7
+    },
+    {
+      "word": "aspect",
+      "start": 9.7,
+      "end": 10.2
+    },
+    {
+      "word": "ratios,",
+      "start": 10.2,
+      "end": 10.72
+    },
+    {
+      "word": "and",
+      "start": 11.14,
+      "end": 11.42
+    },
+    {
+      "word": "manually",
+      "start": 11.42,
+      "end": 11.76
+    },
+    {
+      "word": "typing",
+      "start": 11.76,
+      "end": 12.22
+    },
+    {
+      "word": "subtitles,",
+      "start": 12.22,
+      "end": 12.86
+    },
+    {
+      "word": "tedious",
+      "start": 13.68,
+      "end": 13.7
+    },
+    {
+      "word": "editing",
+      "start": 13.7,
+      "end": 14.16
+    },
+    {
+      "word": "bottlenecks",
+      "start": 14.16,
+      "end": 14.8
+    },
+    {
+      "word": "weekly",
+      "start": 14.8,
+      "end": 15.2
+    },
+    {
+      "word": "output,",
+      "start": 15.2,
+      "end": 15.62
+    },
+    {
+      "word": "leaving",
+      "start": 16.02,
+      "end": 16.26
+    },
+    {
+      "word": "valuable",
+      "start": 16.26,
+      "end": 16.7
+    },
+    {
+      "word": "podcast",
+      "start": 16.7,
+      "end": 17.36
+    },
+    {
+      "word": "insights",
+      "start": 17.36,
+      "end": 17.98
+    },
+    {
+      "word": "trapped",
+      "start": 17.98,
+      "end": 18.32
+    },
+    {
+      "word": "on",
+      "start": 18.32,
+      "end": 18.64
+    },
+    {
+      "word": "Spotify",
+      "start": 18.64,
+      "end": 19.14
+    },
+    {
+      "word": "without",
+      "start": 19.14,
+      "end": 19.58
+    },
+    {
+      "word": "algorithmic",
+      "start": 19.58,
+      "end": 20.18
+    },
+    {
+      "word": "reach.",
+      "start": 20.18,
+      "end": 20.56
+    },
+    {
+      "word": "Drop",
+      "start": 21.06,
+      "end": 21.3
+    },
+    {
+      "word": "your",
+      "start": 21.3,
+      "end": 21.54
+    },
+    {
+      "word": "recording",
+      "start": 21.54,
+      "end": 21.86
+    },
+    {
+      "word": "into",
+      "start": 21.86,
+      "end": 22.2
+    },
+    {
+      "word": "Opus",
+      "start": 22.2,
+      "end": 22.58
+    },
+    {
+      "word": "clip",
+      "start": 22.58,
+      "end": 22.78
+    },
+    {
+      "word": "to",
+      "start": 22.78,
+      "end": 23.26
+    },
+    {
+      "word": "automatically",
+      "start": 23.26,
+      "end": 23.66
+    },
+    {
+      "word": "detect",
+      "start": 23.66,
+      "end": 24.22
+    },
+    {
+      "word": "viral",
+      "start": 24.22,
+      "end": 24.7
+    },
+    {
+      "word": "sound",
+      "start": 24.7,
+      "end": 25.04
+    },
+    {
+      "word": "bites,",
+      "start": 25.04,
+      "end": 25.3
+    },
+    {
+      "word": "center",
+      "start": 25.96,
+      "end": 25.96
+    },
+    {
+      "word": "speakers,",
+      "start": 25.96,
+      "end": 26.46
+    },
+    {
+      "word": "and",
+      "start": 26.8,
+      "end": 27.06
+    },
+    {
+      "word": "generate",
+      "start": 27.06,
+      "end": 27.56
+    },
+    {
+      "word": "animated",
+      "start": 27.56,
+      "end": 27.98
+    },
+    {
+      "word": "captions.",
+      "start": 27.98,
+      "end": 28.62
+    },
+    {
+      "word": "You",
+      "start": 28.62,
+      "end": 29.38
+    },
+    {
+      "word": "flood",
+      "start": 29.38,
+      "end": 29.58
+    },
+    {
+      "word": "social",
+      "start": 29.58,
+      "end": 29.98
+    },
+    {
+      "word": "feeds",
+      "start": 29.98,
+      "end": 30.44
+    },
+    {
+      "word": "with",
+      "start": 30.44,
+      "end": 30.84
+    },
+    {
+      "word": "daily",
+      "start": 30.84,
+      "end": 31.04
+    },
+    {
+      "word": "vertical",
+      "start": 31.04,
+      "end": 31.42
+    },
+    {
+      "word": "videos",
+      "start": 31.42,
+      "end": 31.96
+    },
+    {
+      "word": "effortlessly.",
+      "start": 31.96,
+      "end": 32.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Turn a 30-minute side hustle podcast into 10 viral video clips in 5 minutes.",
+      "line2": "CREATE VIRAL CLIPS",
+      "tag": "\ud83d\uded1 AI podcast clip generator that repurposes audio into viral short clips",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: AI podcast clip generator that repurposes audio into viral short clips",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: AI podcast clip generator that repurposes audio into viral short clips",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

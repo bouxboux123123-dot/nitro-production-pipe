@@ -1,0 +1,386 @@
+{
+  "page": "page-03",
+  "idea": "AI video script generator for Faceless YouTube channels",
+  "text": "How side hustlers are building faceless media channels in their spare time. Producing daily video content sounds impossible when working forty hours a week at a job. Scripting, voiceovers, and video editing eat up hours of manual effort across fragmented desktop apps. Instead, use Make to feed ChatGPT scripts directly into ElevenLabs audio and CapCut template renders. You build audience assets on autopilot.",
+  "duration": 24.789,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "outside",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "word": "hustlers",
+      "start": 0.52,
+      "end": 0.9
+    },
+    {
+      "word": "are",
+      "start": 0.9,
+      "end": 1.18
+    },
+    {
+      "word": "building",
+      "start": 1.18,
+      "end": 1.48
+    },
+    {
+      "word": "faceless",
+      "start": 1.48,
+      "end": 1.92
+    },
+    {
+      "word": "media",
+      "start": 1.92,
+      "end": 2.2
+    },
+    {
+      "word": "channels",
+      "start": 2.2,
+      "end": 2.58
+    },
+    {
+      "word": "in",
+      "start": 2.58,
+      "end": 2.74
+    },
+    {
+      "word": "their",
+      "start": 2.74,
+      "end": 2.92
+    },
+    {
+      "word": "spare",
+      "start": 2.92,
+      "end": 3.16
+    },
+    {
+      "word": "time.",
+      "start": 3.16,
+      "end": 3.76
+    },
+    {
+      "word": "Producing",
+      "start": 4.1,
+      "end": 4.38
+    },
+    {
+      "word": "daily",
+      "start": 4.38,
+      "end": 4.68
+    },
+    {
+      "word": "video",
+      "start": 4.68,
+      "end": 5.08
+    },
+    {
+      "word": "content",
+      "start": 5.08,
+      "end": 5.48
+    },
+    {
+      "word": "sounds",
+      "start": 5.48,
+      "end": 5.96
+    },
+    {
+      "word": "impossible",
+      "start": 5.96,
+      "end": 6.54
+    },
+    {
+      "word": "when",
+      "start": 6.54,
+      "end": 6.8
+    },
+    {
+      "word": "working",
+      "start": 6.8,
+      "end": 7.14
+    },
+    {
+      "word": "40",
+      "start": 7.14,
+      "end": 7.44
+    },
+    {
+      "word": "hours",
+      "start": 7.44,
+      "end": 7.74
+    },
+    {
+      "word": "a",
+      "start": 7.74,
+      "end": 7.88
+    },
+    {
+      "word": "week",
+      "start": 7.88,
+      "end": 8.02
+    },
+    {
+      "word": "at",
+      "start": 8.02,
+      "end": 8.14
+    },
+    {
+      "word": "a",
+      "start": 8.14,
+      "end": 8.32
+    },
+    {
+      "word": "job.",
+      "start": 8.32,
+      "end": 8.76
+    },
+    {
+      "word": "Scripting,",
+      "start": 9.24,
+      "end": 9.82
+    },
+    {
+      "word": "voiceovers,",
+      "start": 10.12,
+      "end": 10.62
+    },
+    {
+      "word": "and",
+      "start": 10.86,
+      "end": 10.9
+    },
+    {
+      "word": "video",
+      "start": 10.9,
+      "end": 11.12
+    },
+    {
+      "word": "editing",
+      "start": 11.12,
+      "end": 11.44
+    },
+    {
+      "word": "eat",
+      "start": 11.44,
+      "end": 11.68
+    },
+    {
+      "word": "up",
+      "start": 11.68,
+      "end": 11.94
+    },
+    {
+      "word": "hours",
+      "start": 11.94,
+      "end": 12.2
+    },
+    {
+      "word": "of",
+      "start": 12.2,
+      "end": 12.48
+    },
+    {
+      "word": "manual",
+      "start": 12.48,
+      "end": 12.7
+    },
+    {
+      "word": "effort",
+      "start": 12.7,
+      "end": 13.02
+    },
+    {
+      "word": "across",
+      "start": 13.02,
+      "end": 13.44
+    },
+    {
+      "word": "fragmented",
+      "start": 13.44,
+      "end": 13.94
+    },
+    {
+      "word": "desktop",
+      "start": 13.94,
+      "end": 14.38
+    },
+    {
+      "word": "apps.",
+      "start": 14.38,
+      "end": 14.98
+    },
+    {
+      "word": "Instead,",
+      "start": 15.48,
+      "end": 15.82
+    },
+    {
+      "word": "use",
+      "start": 16.34,
+      "end": 16.42
+    },
+    {
+      "word": "make",
+      "start": 16.42,
+      "end": 16.58
+    },
+    {
+      "word": "-to",
+      "start": 16.58,
+      "end": 16.72
+    },
+    {
+      "word": "-feed",
+      "start": 16.72,
+      "end": 16.98
+    },
+    {
+      "word": "chat",
+      "start": 16.98,
+      "end": 17.34
+    },
+    {
+      "word": "GPT",
+      "start": 17.34,
+      "end": 17.94
+    },
+    {
+      "word": "scripts",
+      "start": 17.94,
+      "end": 18.28
+    },
+    {
+      "word": "directly",
+      "start": 18.28,
+      "end": 18.78
+    },
+    {
+      "word": "into",
+      "start": 18.78,
+      "end": 19.08
+    },
+    {
+      "word": "11",
+      "start": 19.08,
+      "end": 19.46
+    },
+    {
+      "word": "labs",
+      "start": 19.46,
+      "end": 19.82
+    },
+    {
+      "word": "audio",
+      "start": 19.82,
+      "end": 20.38
+    },
+    {
+      "word": "and",
+      "start": 20.38,
+      "end": 20.76
+    },
+    {
+      "word": "cap",
+      "start": 20.76,
+      "end": 21.0
+    },
+    {
+      "word": "-cut",
+      "start": 21.0,
+      "end": 21.22
+    },
+    {
+      "word": "template",
+      "start": 21.22,
+      "end": 21.54
+    },
+    {
+      "word": "renders.",
+      "start": 21.54,
+      "end": 21.98
+    },
+    {
+      "word": "You",
+      "start": 21.98,
+      "end": 22.66
+    },
+    {
+      "word": "build",
+      "start": 22.66,
+      "end": 23.02
+    },
+    {
+      "word": "audience",
+      "start": 23.02,
+      "end": 23.4
+    },
+    {
+      "word": "assets",
+      "start": 23.4,
+      "end": 23.88
+    },
+    {
+      "word": "on",
+      "start": 23.88,
+      "end": 24.2
+    },
+    {
+      "word": "autopilot.",
+      "start": 24.2,
+      "end": 24.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How side hustlers are building faceless media channels in their spare time.",
+      "line2": "SCRIPT FACELESS VIDEOS",
+      "tag": "\ud83d\uded1 AI video script generator for Faceless YouTube channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: AI video script generator for Faceless YouTube channels",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: AI video script generator for Faceless YouTube channels",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "AI video script generator for Faceless YouTube channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

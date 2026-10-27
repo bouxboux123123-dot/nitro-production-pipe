@@ -1,0 +1,396 @@
+{
+  "page": "page-06",
+  "idea": "Automated timezone meeting scheduler that finds fair overlapping hours",
+  "text": "You can find the perfect meeting window for distributed teams in under ten seconds. Managers waste twenty minutes flipping between time conversion tabs before every single cross-regional sprint planning. Without a centralized availability engine, someone inevitably gets booked during family dinner or local holidays. Connect SavvyCal to your team's Google Calendars to instantly reveal mutually agreeable overlapping working hours. Booking global calls becomes completely painless.",
+  "duration": 28.645,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "can",
+      "start": 0.16,
+      "end": 0.38
+    },
+    {
+      "word": "find",
+      "start": 0.38,
+      "end": 0.56
+    },
+    {
+      "word": "the",
+      "start": 0.56,
+      "end": 0.84
+    },
+    {
+      "word": "perfect",
+      "start": 0.84,
+      "end": 1.14
+    },
+    {
+      "word": "meeting",
+      "start": 1.14,
+      "end": 1.5
+    },
+    {
+      "word": "window",
+      "start": 1.5,
+      "end": 1.9
+    },
+    {
+      "word": "for",
+      "start": 1.9,
+      "end": 2.24
+    },
+    {
+      "word": "distributed",
+      "start": 2.24,
+      "end": 2.56
+    },
+    {
+      "word": "teams",
+      "start": 2.56,
+      "end": 3.16
+    },
+    {
+      "word": "in",
+      "start": 3.16,
+      "end": 3.34
+    },
+    {
+      "word": "under",
+      "start": 3.34,
+      "end": 3.56
+    },
+    {
+      "word": "10",
+      "start": 3.56,
+      "end": 3.92
+    },
+    {
+      "word": "seconds.",
+      "start": 3.92,
+      "end": 4.52
+    },
+    {
+      "word": "Managers",
+      "start": 5.04,
+      "end": 5.4
+    },
+    {
+      "word": "waste",
+      "start": 5.4,
+      "end": 5.78
+    },
+    {
+      "word": "20",
+      "start": 5.78,
+      "end": 6.16
+    },
+    {
+      "word": "minutes",
+      "start": 6.16,
+      "end": 6.48
+    },
+    {
+      "word": "flipping",
+      "start": 6.48,
+      "end": 6.8
+    },
+    {
+      "word": "between",
+      "start": 6.8,
+      "end": 7.22
+    },
+    {
+      "word": "time",
+      "start": 7.22,
+      "end": 7.58
+    },
+    {
+      "word": "conversion",
+      "start": 7.58,
+      "end": 8.06
+    },
+    {
+      "word": "tabs",
+      "start": 8.06,
+      "end": 8.56
+    },
+    {
+      "word": "before",
+      "start": 8.56,
+      "end": 9.1
+    },
+    {
+      "word": "every",
+      "start": 9.1,
+      "end": 9.5
+    },
+    {
+      "word": "single",
+      "start": 9.5,
+      "end": 9.9
+    },
+    {
+      "word": "cross",
+      "start": 9.9,
+      "end": 10.28
+    },
+    {
+      "word": "-regional",
+      "start": 10.28,
+      "end": 10.7
+    },
+    {
+      "word": "sprint",
+      "start": 10.7,
+      "end": 11.04
+    },
+    {
+      "word": "planning.",
+      "start": 11.04,
+      "end": 11.42
+    },
+    {
+      "word": "Without",
+      "start": 11.86,
+      "end": 11.96
+    },
+    {
+      "word": "a",
+      "start": 11.96,
+      "end": 12.32
+    },
+    {
+      "word": "centralized",
+      "start": 12.32,
+      "end": 12.72
+    },
+    {
+      "word": "availability",
+      "start": 12.72,
+      "end": 13.28
+    },
+    {
+      "word": "engine,",
+      "start": 13.28,
+      "end": 13.88
+    },
+    {
+      "word": "someone",
+      "start": 14.32,
+      "end": 14.5
+    },
+    {
+      "word": "inevitably",
+      "start": 14.5,
+      "end": 14.98
+    },
+    {
+      "word": "gets",
+      "start": 14.98,
+      "end": 15.42
+    },
+    {
+      "word": "booked",
+      "start": 15.42,
+      "end": 15.66
+    },
+    {
+      "word": "during",
+      "start": 15.66,
+      "end": 16.02
+    },
+    {
+      "word": "family",
+      "start": 16.02,
+      "end": 16.44
+    },
+    {
+      "word": "dinner",
+      "start": 16.44,
+      "end": 16.72
+    },
+    {
+      "word": "or",
+      "start": 16.72,
+      "end": 17.1
+    },
+    {
+      "word": "local",
+      "start": 17.1,
+      "end": 17.44
+    },
+    {
+      "word": "holidays.",
+      "start": 17.44,
+      "end": 17.98
+    },
+    {
+      "word": "Connect",
+      "start": 18.68,
+      "end": 19.02
+    },
+    {
+      "word": "savvy",
+      "start": 19.02,
+      "end": 19.38
+    },
+    {
+      "word": "Cal",
+      "start": 19.38,
+      "end": 19.66
+    },
+    {
+      "word": "to",
+      "start": 19.66,
+      "end": 19.8
+    },
+    {
+      "word": "your",
+      "start": 19.8,
+      "end": 19.98
+    },
+    {
+      "word": "team's",
+      "start": 19.98,
+      "end": 20.42
+    },
+    {
+      "word": "Google",
+      "start": 20.42,
+      "end": 20.76
+    },
+    {
+      "word": "calendars",
+      "start": 20.76,
+      "end": 21.18
+    },
+    {
+      "word": "to",
+      "start": 21.18,
+      "end": 21.82
+    },
+    {
+      "word": "instantly",
+      "start": 21.82,
+      "end": 22.16
+    },
+    {
+      "word": "reveal",
+      "start": 22.16,
+      "end": 22.66
+    },
+    {
+      "word": "mutually",
+      "start": 22.66,
+      "end": 23.18
+    },
+    {
+      "word": "agreeable",
+      "start": 23.18,
+      "end": 23.74
+    },
+    {
+      "word": "overlapping",
+      "start": 23.74,
+      "end": 24.24
+    },
+    {
+      "word": "working",
+      "start": 24.24,
+      "end": 24.84
+    },
+    {
+      "word": "hours.",
+      "start": 24.84,
+      "end": 25.26
+    },
+    {
+      "word": "Booking",
+      "start": 25.82,
+      "end": 26.2
+    },
+    {
+      "word": "global",
+      "start": 26.2,
+      "end": 26.56
+    },
+    {
+      "word": "calls",
+      "start": 26.56,
+      "end": 27.02
+    },
+    {
+      "word": "becomes",
+      "start": 27.02,
+      "end": 27.44
+    },
+    {
+      "word": "completely",
+      "start": 27.44,
+      "end": 28.1
+    },
+    {
+      "word": "painless.",
+      "start": 28.1,
+      "end": 28.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Find the perfect meeting window for distributed teams in under 10 seconds.",
+      "line2": "FAIR TIMEZONE SCHEDULING",
+      "tag": "\ud83d\uded1 Automated timezone meeting scheduler that finds fair overlapping hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Automated timezone meeting scheduler that finds fair overlapping hours",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Automated timezone meeting scheduler that finds fair overlapping hours",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

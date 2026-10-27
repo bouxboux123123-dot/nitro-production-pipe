@@ -1,0 +1,396 @@
+{
+  "page": "page-03",
+  "idea": "Automated dropshipping inventory sync to prevent selling out-of-stock items",
+  "text": "Protect your merchant account and store rating with this simple inventory rule. High cancellation rates from sold-out items will get your Stripe or PayPal account flagged. The breakdown occurs when orders flood in while you are away from your supplier dashboards. Instead, configure an automated threshold in AutoDS that marks Shopify items sold-out when supplier stock hits five. You safeguard your processing accounts.",
+  "duration": 23.701,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Protect",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "your",
+      "start": 0.28,
+      "end": 0.52
+    },
+    {
+      "word": "merchant",
+      "start": 0.52,
+      "end": 0.7
+    },
+    {
+      "word": "account",
+      "start": 0.7,
+      "end": 1.1
+    },
+    {
+      "word": "and",
+      "start": 1.1,
+      "end": 1.36
+    },
+    {
+      "word": "store",
+      "start": 1.36,
+      "end": 1.62
+    },
+    {
+      "word": "rating",
+      "start": 1.62,
+      "end": 1.94
+    },
+    {
+      "word": "with",
+      "start": 1.94,
+      "end": 2.16
+    },
+    {
+      "word": "this",
+      "start": 2.16,
+      "end": 2.42
+    },
+    {
+      "word": "simple",
+      "start": 2.42,
+      "end": 2.68
+    },
+    {
+      "word": "inventory",
+      "start": 2.68,
+      "end": 3.1
+    },
+    {
+      "word": "rule.",
+      "start": 3.1,
+      "end": 3.66
+    },
+    {
+      "word": "High",
+      "start": 4.3,
+      "end": 4.32
+    },
+    {
+      "word": "cancellation",
+      "start": 4.32,
+      "end": 4.74
+    },
+    {
+      "word": "rates",
+      "start": 4.74,
+      "end": 5.08
+    },
+    {
+      "word": "from",
+      "start": 5.08,
+      "end": 5.36
+    },
+    {
+      "word": "sold",
+      "start": 5.36,
+      "end": 5.64
+    },
+    {
+      "word": "out",
+      "start": 5.64,
+      "end": 5.9
+    },
+    {
+      "word": "items",
+      "start": 5.9,
+      "end": 6.16
+    },
+    {
+      "word": "will",
+      "start": 6.16,
+      "end": 6.34
+    },
+    {
+      "word": "get",
+      "start": 6.34,
+      "end": 6.46
+    },
+    {
+      "word": "your",
+      "start": 6.46,
+      "end": 6.68
+    },
+    {
+      "word": "stripe",
+      "start": 6.68,
+      "end": 6.92
+    },
+    {
+      "word": "or",
+      "start": 6.92,
+      "end": 7.3
+    },
+    {
+      "word": "pay",
+      "start": 7.3,
+      "end": 7.52
+    },
+    {
+      "word": "pal",
+      "start": 7.52,
+      "end": 7.74
+    },
+    {
+      "word": "account",
+      "start": 7.74,
+      "end": 8.2
+    },
+    {
+      "word": "flagged.",
+      "start": 8.2,
+      "end": 8.58
+    },
+    {
+      "word": "The",
+      "start": 9.1,
+      "end": 9.2
+    },
+    {
+      "word": "breakdown",
+      "start": 9.2,
+      "end": 9.48
+    },
+    {
+      "word": "occurs",
+      "start": 9.48,
+      "end": 9.92
+    },
+    {
+      "word": "when",
+      "start": 9.92,
+      "end": 10.2
+    },
+    {
+      "word": "orders",
+      "start": 10.2,
+      "end": 10.52
+    },
+    {
+      "word": "flood",
+      "start": 10.52,
+      "end": 10.76
+    },
+    {
+      "word": "in",
+      "start": 10.76,
+      "end": 10.96
+    },
+    {
+      "word": "while",
+      "start": 10.96,
+      "end": 11.14
+    },
+    {
+      "word": "you",
+      "start": 11.14,
+      "end": 11.3
+    },
+    {
+      "word": "are",
+      "start": 11.3,
+      "end": 11.46
+    },
+    {
+      "word": "away",
+      "start": 11.46,
+      "end": 11.68
+    },
+    {
+      "word": "from",
+      "start": 11.68,
+      "end": 11.88
+    },
+    {
+      "word": "your",
+      "start": 11.88,
+      "end": 12.12
+    },
+    {
+      "word": "supplier",
+      "start": 12.12,
+      "end": 12.44
+    },
+    {
+      "word": "dashboards.",
+      "start": 12.44,
+      "end": 13.12
+    },
+    {
+      "word": "Instead,",
+      "start": 13.72,
+      "end": 14.08
+    },
+    {
+      "word": "configure",
+      "start": 14.68,
+      "end": 14.8
+    },
+    {
+      "word": "an",
+      "start": 14.8,
+      "end": 15.16
+    },
+    {
+      "word": "automated",
+      "start": 15.16,
+      "end": 15.44
+    },
+    {
+      "word": "threshold",
+      "start": 15.44,
+      "end": 16.04
+    },
+    {
+      "word": "in",
+      "start": 16.04,
+      "end": 16.38
+    },
+    {
+      "word": "Auto",
+      "start": 16.38,
+      "end": 16.66
+    },
+    {
+      "word": "DS",
+      "start": 16.66,
+      "end": 17.06
+    },
+    {
+      "word": "that",
+      "start": 17.06,
+      "end": 17.58
+    },
+    {
+      "word": "marks",
+      "start": 17.58,
+      "end": 17.88
+    },
+    {
+      "word": "Shopify",
+      "start": 17.88,
+      "end": 18.48
+    },
+    {
+      "word": "items",
+      "start": 18.48,
+      "end": 18.9
+    },
+    {
+      "word": "sold",
+      "start": 18.9,
+      "end": 19.18
+    },
+    {
+      "word": "out",
+      "start": 19.18,
+      "end": 19.52
+    },
+    {
+      "word": "when",
+      "start": 19.52,
+      "end": 19.76
+    },
+    {
+      "word": "supplier",
+      "start": 19.76,
+      "end": 20.06
+    },
+    {
+      "word": "stock",
+      "start": 20.06,
+      "end": 20.54
+    },
+    {
+      "word": "hits",
+      "start": 20.54,
+      "end": 20.86
+    },
+    {
+      "word": "five.",
+      "start": 20.86,
+      "end": 21.32
+    },
+    {
+      "word": "You",
+      "start": 21.32,
+      "end": 22.04
+    },
+    {
+      "word": "safeguard",
+      "start": 22.04,
+      "end": 22.36
+    },
+    {
+      "word": "your",
+      "start": 22.36,
+      "end": 22.82
+    },
+    {
+      "word": "processing",
+      "start": 22.82,
+      "end": 23.1
+    },
+    {
+      "word": "accounts.",
+      "start": 23.1,
+      "end": 23.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Protect your merchant account and store rating with this simple inventory rule.",
+      "line2": "SYNC DROPSHIP INVENTORY",
+      "tag": "\ud83d\uded1 Automated dropshipping inventory sync to prevent selling out-of-stock items",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated dropshipping inventory sync to prevent selling out-of-stock items",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated dropshipping inventory sync to prevent selling out-of-stock items",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "page": "page-04",
+  "idea": "Penpot: the free open-source Figma alternative for design teams",
+  "text": "How teams are migrating from expensive design tools to this open-source workspace. Growing design teams quickly run into enterprise tiers charging hundreds of dollars per user every month. Agencies end up restricting collaboration just to avoid triggering expensive pricing tiers. Instead, deploy Penpot using Docker or their free cloud workspace to manage projects without user limits. You scale client deliverables with zero subscription creep.",
+  "duration": 25.899,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "teams",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "are",
+      "start": 0.5,
+      "end": 0.86
+    },
+    {
+      "word": "migrating",
+      "start": 0.86,
+      "end": 1.08
+    },
+    {
+      "word": "from",
+      "start": 1.08,
+      "end": 1.5
+    },
+    {
+      "word": "expensive",
+      "start": 1.5,
+      "end": 1.88
+    },
+    {
+      "word": "design",
+      "start": 1.88,
+      "end": 2.3
+    },
+    {
+      "word": "tools",
+      "start": 2.3,
+      "end": 2.6
+    },
+    {
+      "word": "to",
+      "start": 2.6,
+      "end": 2.8
+    },
+    {
+      "word": "this",
+      "start": 2.8,
+      "end": 3.08
+    },
+    {
+      "word": "open",
+      "start": 3.08,
+      "end": 3.28
+    },
+    {
+      "word": "source",
+      "start": 3.28,
+      "end": 3.6
+    },
+    {
+      "word": "workspace.",
+      "start": 3.6,
+      "end": 4.14
+    },
+    {
+      "word": "Growing",
+      "start": 4.72,
+      "end": 5.0
+    },
+    {
+      "word": "design",
+      "start": 5.0,
+      "end": 5.38
+    },
+    {
+      "word": "teams",
+      "start": 5.38,
+      "end": 5.76
+    },
+    {
+      "word": "quickly",
+      "start": 5.76,
+      "end": 6.06
+    },
+    {
+      "word": "run",
+      "start": 6.06,
+      "end": 6.28
+    },
+    {
+      "word": "into",
+      "start": 6.28,
+      "end": 6.54
+    },
+    {
+      "word": "enterprise",
+      "start": 6.54,
+      "end": 6.9
+    },
+    {
+      "word": "tiers,",
+      "start": 6.9,
+      "end": 7.48
+    },
+    {
+      "word": "charging",
+      "start": 8.02,
+      "end": 8.04
+    },
+    {
+      "word": "hundreds",
+      "start": 8.04,
+      "end": 8.36
+    },
+    {
+      "word": "of",
+      "start": 8.36,
+      "end": 8.62
+    },
+    {
+      "word": "dollars",
+      "start": 8.62,
+      "end": 8.84
+    },
+    {
+      "word": "per",
+      "start": 8.84,
+      "end": 9.1
+    },
+    {
+      "word": "user",
+      "start": 9.1,
+      "end": 9.36
+    },
+    {
+      "word": "every",
+      "start": 9.36,
+      "end": 9.66
+    },
+    {
+      "word": "month.",
+      "start": 9.66,
+      "end": 10.22
+    },
+    {
+      "word": "Agencies",
+      "start": 10.68,
+      "end": 11.02
+    },
+    {
+      "word": "end",
+      "start": 11.02,
+      "end": 11.3
+    },
+    {
+      "word": "up",
+      "start": 11.3,
+      "end": 11.52
+    },
+    {
+      "word": "restricting",
+      "start": 11.52,
+      "end": 11.94
+    },
+    {
+      "word": "collaboration",
+      "start": 11.94,
+      "end": 12.56
+    },
+    {
+      "word": "just",
+      "start": 12.56,
+      "end": 13.28
+    },
+    {
+      "word": "to",
+      "start": 13.28,
+      "end": 13.44
+    },
+    {
+      "word": "avoid",
+      "start": 13.44,
+      "end": 13.76
+    },
+    {
+      "word": "triggering",
+      "start": 13.76,
+      "end": 14.18
+    },
+    {
+      "word": "expensive",
+      "start": 14.18,
+      "end": 14.8
+    },
+    {
+      "word": "pricing",
+      "start": 14.8,
+      "end": 15.1
+    },
+    {
+      "word": "tiers.",
+      "start": 15.1,
+      "end": 15.62
+    },
+    {
+      "word": "Instead,",
+      "start": 16.3,
+      "end": 16.66
+    },
+    {
+      "word": "deploy",
+      "start": 17.28,
+      "end": 17.34
+    },
+    {
+      "word": "penpot",
+      "start": 17.34,
+      "end": 17.8
+    },
+    {
+      "word": "using",
+      "start": 17.8,
+      "end": 18.16
+    },
+    {
+      "word": "Docker",
+      "start": 18.16,
+      "end": 18.52
+    },
+    {
+      "word": "or",
+      "start": 18.52,
+      "end": 19.02
+    },
+    {
+      "word": "their",
+      "start": 19.02,
+      "end": 19.26
+    },
+    {
+      "word": "free",
+      "start": 19.26,
+      "end": 19.48
+    },
+    {
+      "word": "cloud",
+      "start": 19.48,
+      "end": 19.78
+    },
+    {
+      "word": "workspace",
+      "start": 19.78,
+      "end": 20.16
+    },
+    {
+      "word": "to",
+      "start": 20.16,
+      "end": 20.64
+    },
+    {
+      "word": "manage",
+      "start": 20.64,
+      "end": 20.9
+    },
+    {
+      "word": "projects",
+      "start": 20.9,
+      "end": 21.44
+    },
+    {
+      "word": "without",
+      "start": 21.44,
+      "end": 21.88
+    },
+    {
+      "word": "user",
+      "start": 21.88,
+      "end": 22.12
+    },
+    {
+      "word": "limits.",
+      "start": 22.12,
+      "end": 22.52
+    },
+    {
+      "word": "You",
+      "start": 23.08,
+      "end": 23.22
+    },
+    {
+      "word": "scale",
+      "start": 23.22,
+      "end": 23.54
+    },
+    {
+      "word": "client",
+      "start": 23.54,
+      "end": 23.86
+    },
+    {
+      "word": "deliverables",
+      "start": 23.86,
+      "end": 24.36
+    },
+    {
+      "word": "with",
+      "start": 24.36,
+      "end": 24.62
+    },
+    {
+      "word": "zero",
+      "start": 24.62,
+      "end": 25.02
+    },
+    {
+      "word": "subscription",
+      "start": 25.02,
+      "end": 25.52
+    },
+    {
+      "word": "creep.",
+      "start": 25.52,
+      "end": 25.86
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How teams are migrating from Figma to this open-source workspace.",
+      "line2": "FREE FIGMA ALTERNATIVE",
+      "tag": "\ud83d\uded1 Penpot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Penpot",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Penpot",
+        "subtitle": "Penpot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Penpot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Penpot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Penpot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+  "text": "Stop doing twenty-dollar-an-hour admin work when you should be closing enterprise deals. Spending hours manually updating CRM stages, rescheduling meetings, and chasing contracts drains your executive momentum. When founders handle routine logistics manually, customer acquisition velocity grinds to a complete halt. Deploy Zapier with Calendly and PandaDoc to trigger automatic meeting prep, contract generation, and pipeline updates. This saves ten hours every week for founder-led sales.",
+  "duration": 30.714,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "doing",
+      "start": 0.34,
+      "end": 0.64
+    },
+    {
+      "word": "$20",
+      "start": 0.64,
+      "end": 1.14
+    },
+    {
+      "word": "an",
+      "start": 1.14,
+      "end": 1.5
+    },
+    {
+      "word": "hour",
+      "start": 1.5,
+      "end": 1.74
+    },
+    {
+      "word": "admin",
+      "start": 1.74,
+      "end": 2.04
+    },
+    {
+      "word": "work",
+      "start": 2.04,
+      "end": 2.46
+    },
+    {
+      "word": "when",
+      "start": 2.46,
+      "end": 2.68
+    },
+    {
+      "word": "you",
+      "start": 2.68,
+      "end": 2.8
+    },
+    {
+      "word": "should",
+      "start": 2.8,
+      "end": 2.96
+    },
+    {
+      "word": "be",
+      "start": 2.96,
+      "end": 3.14
+    },
+    {
+      "word": "closing",
+      "start": 3.14,
+      "end": 3.5
+    },
+    {
+      "word": "enterprise",
+      "start": 3.5,
+      "end": 3.96
+    },
+    {
+      "word": "deals.",
+      "start": 3.96,
+      "end": 4.68
+    },
+    {
+      "word": "Spending",
+      "start": 5.4,
+      "end": 5.4
+    },
+    {
+      "word": "hours",
+      "start": 5.4,
+      "end": 5.98
+    },
+    {
+      "word": "manually",
+      "start": 5.98,
+      "end": 6.48
+    },
+    {
+      "word": "updating",
+      "start": 6.48,
+      "end": 7.0
+    },
+    {
+      "word": "CRM",
+      "start": 7.0,
+      "end": 7.74
+    },
+    {
+      "word": "stages,",
+      "start": 7.74,
+      "end": 8.2
+    },
+    {
+      "word": "rescheduling",
+      "start": 8.72,
+      "end": 9.22
+    },
+    {
+      "word": "meetings,",
+      "start": 9.22,
+      "end": 9.64
+    },
+    {
+      "word": "and",
+      "start": 10.0,
+      "end": 10.2
+    },
+    {
+      "word": "chasing",
+      "start": 10.2,
+      "end": 10.52
+    },
+    {
+      "word": "contracts",
+      "start": 10.52,
+      "end": 11.14
+    },
+    {
+      "word": "drains",
+      "start": 11.14,
+      "end": 11.74
+    },
+    {
+      "word": "your",
+      "start": 11.74,
+      "end": 12.06
+    },
+    {
+      "word": "executive",
+      "start": 12.06,
+      "end": 12.54
+    },
+    {
+      "word": "momentum.",
+      "start": 12.54,
+      "end": 13.08
+    },
+    {
+      "word": "When",
+      "start": 13.44,
+      "end": 13.66
+    },
+    {
+      "word": "founders",
+      "start": 13.66,
+      "end": 14.08
+    },
+    {
+      "word": "handle",
+      "start": 14.08,
+      "end": 14.5
+    },
+    {
+      "word": "routine",
+      "start": 14.5,
+      "end": 14.96
+    },
+    {
+      "word": "logistics",
+      "start": 14.96,
+      "end": 15.42
+    },
+    {
+      "word": "manually,",
+      "start": 15.42,
+      "end": 16.16
+    },
+    {
+      "word": "customer",
+      "start": 16.66,
+      "end": 16.8
+    },
+    {
+      "word": "acquisition",
+      "start": 16.8,
+      "end": 17.3
+    },
+    {
+      "word": "velocity",
+      "start": 17.3,
+      "end": 17.96
+    },
+    {
+      "word": "grinds",
+      "start": 17.96,
+      "end": 18.46
+    },
+    {
+      "word": "to",
+      "start": 18.46,
+      "end": 18.62
+    },
+    {
+      "word": "a",
+      "start": 18.62,
+      "end": 18.82
+    },
+    {
+      "word": "complete",
+      "start": 18.82,
+      "end": 19.06
+    },
+    {
+      "word": "halt.",
+      "start": 19.06,
+      "end": 19.62
+    },
+    {
+      "word": "Deploy",
+      "start": 20.06,
+      "end": 20.24
+    },
+    {
+      "word": "Zapier",
+      "start": 20.24,
+      "end": 20.8
+    },
+    {
+      "word": "with",
+      "start": 20.8,
+      "end": 21.06
+    },
+    {
+      "word": "Calendly",
+      "start": 21.06,
+      "end": 21.62
+    },
+    {
+      "word": "and",
+      "start": 21.62,
+      "end": 22.06
+    },
+    {
+      "word": "Panda",
+      "start": 22.06,
+      "end": 22.12
+    },
+    {
+      "word": "doc",
+      "start": 22.12,
+      "end": 22.42
+    },
+    {
+      "word": "to",
+      "start": 22.42,
+      "end": 22.68
+    },
+    {
+      "word": "trigger",
+      "start": 22.68,
+      "end": 23.0
+    },
+    {
+      "word": "automatic",
+      "start": 23.0,
+      "end": 23.46
+    },
+    {
+      "word": "meeting",
+      "start": 23.46,
+      "end": 23.88
+    },
+    {
+      "word": "prep,",
+      "start": 23.88,
+      "end": 24.2
+    },
+    {
+      "word": "contract",
+      "start": 24.92,
+      "end": 24.92
+    },
+    {
+      "word": "generation,",
+      "start": 24.92,
+      "end": 25.48
+    },
+    {
+      "word": "and",
+      "start": 25.78,
+      "end": 25.98
+    },
+    {
+      "word": "pipeline",
+      "start": 25.98,
+      "end": 26.42
+    },
+    {
+      "word": "updates.",
+      "start": 26.42,
+      "end": 26.94
+    },
+    {
+      "word": "This",
+      "start": 26.94,
+      "end": 27.78
+    },
+    {
+      "word": "saves",
+      "start": 27.78,
+      "end": 28.04
+    },
+    {
+      "word": "10",
+      "start": 28.04,
+      "end": 28.48
+    },
+    {
+      "word": "hours",
+      "start": 28.48,
+      "end": 28.8
+    },
+    {
+      "word": "every",
+      "start": 28.8,
+      "end": 29.16
+    },
+    {
+      "word": "week",
+      "start": 29.16,
+      "end": 29.42
+    },
+    {
+      "word": "for",
+      "start": 29.42,
+      "end": 29.84
+    },
+    {
+      "word": "founder",
+      "start": 29.84,
+      "end": 29.94
+    },
+    {
+      "word": "-led",
+      "start": 29.94,
+      "end": 30.24
+    },
+    {
+      "word": "sales.",
+      "start": 30.24,
+      "end": 30.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop doing 20-dollar-an-hour admin work when you should be closing enterprise deals.",
+      "line2": "SAVE 10 FOUNDER HOURS",
+      "tag": "\ud83d\uded1 Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

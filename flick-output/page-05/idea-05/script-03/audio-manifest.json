@@ -1,0 +1,416 @@
+{
+  "page": "page-05",
+  "idea": "Softr client portal connected directly to Airtable permissions",
+  "text": "Build a white-label client portal in thirty minutes using Softr and Airtable. Custom development agencies quote ten thousand dollars and three months just to build basic client login portals. Meanwhile, off-the-shelf SaaS platforms charge expensive monthly per-seat fees that eat into your agency margins. Instead, map your custom domain in Softr and connect Airtable records with conditional user permissions. You launch a branded portal by tomorrow afternoon.",
+  "duration": 26.603,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Build",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "a",
+      "start": 0.24,
+      "end": 0.4
+    },
+    {
+      "word": "white",
+      "start": 0.4,
+      "end": 0.6
+    },
+    {
+      "word": "label",
+      "start": 0.6,
+      "end": 0.9
+    },
+    {
+      "word": "client",
+      "start": 0.9,
+      "end": 1.28
+    },
+    {
+      "word": "portal",
+      "start": 1.28,
+      "end": 1.58
+    },
+    {
+      "word": "in",
+      "start": 1.58,
+      "end": 1.82
+    },
+    {
+      "word": "30",
+      "start": 1.82,
+      "end": 2.08
+    },
+    {
+      "word": "minutes",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "word": "using",
+      "start": 2.32,
+      "end": 2.7
+    },
+    {
+      "word": "softer",
+      "start": 2.7,
+      "end": 3.02
+    },
+    {
+      "word": "and",
+      "start": 3.02,
+      "end": 3.28
+    },
+    {
+      "word": "irritable.",
+      "start": 3.28,
+      "end": 3.9
+    },
+    {
+      "word": "Custom",
+      "start": 4.32,
+      "end": 4.4
+    },
+    {
+      "word": "development",
+      "start": 4.4,
+      "end": 4.8
+    },
+    {
+      "word": "agencies",
+      "start": 4.8,
+      "end": 5.34
+    },
+    {
+      "word": "quote",
+      "start": 5.34,
+      "end": 5.7
+    },
+    {
+      "word": "$10",
+      "start": 5.7,
+      "end": 6.1
+    },
+    {
+      "word": ",000",
+      "start": 6.1,
+      "end": 6.46
+    },
+    {
+      "word": "in",
+      "start": 6.46,
+      "end": 6.92
+    },
+    {
+      "word": "three",
+      "start": 6.92,
+      "end": 7.14
+    },
+    {
+      "word": "months",
+      "start": 7.14,
+      "end": 7.54
+    },
+    {
+      "word": "just",
+      "start": 7.54,
+      "end": 7.94
+    },
+    {
+      "word": "to",
+      "start": 7.94,
+      "end": 8.06
+    },
+    {
+      "word": "build",
+      "start": 8.06,
+      "end": 8.28
+    },
+    {
+      "word": "basic",
+      "start": 8.28,
+      "end": 8.62
+    },
+    {
+      "word": "client",
+      "start": 8.62,
+      "end": 9.02
+    },
+    {
+      "word": "login",
+      "start": 9.02,
+      "end": 9.38
+    },
+    {
+      "word": "portals.",
+      "start": 9.38,
+      "end": 9.84
+    },
+    {
+      "word": "Meanwhile,",
+      "start": 10.6,
+      "end": 10.84
+    },
+    {
+      "word": "off",
+      "start": 11.3,
+      "end": 11.54
+    },
+    {
+      "word": "the",
+      "start": 11.54,
+      "end": 11.74
+    },
+    {
+      "word": "shelf",
+      "start": 11.74,
+      "end": 11.98
+    },
+    {
+      "word": "saw",
+      "start": 11.98,
+      "end": 12.2
+    },
+    {
+      "word": "S",
+      "start": 12.2,
+      "end": 12.42
+    },
+    {
+      "word": "platforms",
+      "start": 12.42,
+      "end": 12.9
+    },
+    {
+      "word": "charge",
+      "start": 12.9,
+      "end": 13.62
+    },
+    {
+      "word": "expensive",
+      "start": 13.62,
+      "end": 14.22
+    },
+    {
+      "word": "monthly",
+      "start": 14.22,
+      "end": 14.7
+    },
+    {
+      "word": "per",
+      "start": 14.7,
+      "end": 14.92
+    },
+    {
+      "word": "seat",
+      "start": 14.92,
+      "end": 15.18
+    },
+    {
+      "word": "fees",
+      "start": 15.18,
+      "end": 15.48
+    },
+    {
+      "word": "that",
+      "start": 15.48,
+      "end": 15.74
+    },
+    {
+      "word": "eat",
+      "start": 15.74,
+      "end": 15.88
+    },
+    {
+      "word": "into",
+      "start": 15.88,
+      "end": 16.04
+    },
+    {
+      "word": "your",
+      "start": 16.04,
+      "end": 16.22
+    },
+    {
+      "word": "agency",
+      "start": 16.22,
+      "end": 16.54
+    },
+    {
+      "word": "margins.",
+      "start": 16.54,
+      "end": 17.04
+    },
+    {
+      "word": "Instead,",
+      "start": 17.74,
+      "end": 18.14
+    },
+    {
+      "word": "map",
+      "start": 18.44,
+      "end": 18.64
+    },
+    {
+      "word": "your",
+      "start": 18.64,
+      "end": 19.0
+    },
+    {
+      "word": "custom",
+      "start": 19.0,
+      "end": 19.18
+    },
+    {
+      "word": "domain",
+      "start": 19.18,
+      "end": 19.5
+    },
+    {
+      "word": "in",
+      "start": 19.5,
+      "end": 19.82
+    },
+    {
+      "word": "softer",
+      "start": 19.82,
+      "end": 20.14
+    },
+    {
+      "word": "and",
+      "start": 20.14,
+      "end": 20.68
+    },
+    {
+      "word": "connect",
+      "start": 20.68,
+      "end": 21.0
+    },
+    {
+      "word": "irritable",
+      "start": 21.0,
+      "end": 21.44
+    },
+    {
+      "word": "records",
+      "start": 21.44,
+      "end": 21.78
+    },
+    {
+      "word": "with",
+      "start": 21.78,
+      "end": 22.16
+    },
+    {
+      "word": "conditional",
+      "start": 22.16,
+      "end": 22.52
+    },
+    {
+      "word": "user",
+      "start": 22.52,
+      "end": 22.92
+    },
+    {
+      "word": "permissions.",
+      "start": 22.92,
+      "end": 23.46
+    },
+    {
+      "word": "You",
+      "start": 23.46,
+      "end": 24.12
+    },
+    {
+      "word": "launch",
+      "start": 24.12,
+      "end": 24.32
+    },
+    {
+      "word": "a",
+      "start": 24.32,
+      "end": 24.78
+    },
+    {
+      "word": "branded",
+      "start": 24.78,
+      "end": 24.8
+    },
+    {
+      "word": "portal",
+      "start": 24.8,
+      "end": 25.14
+    },
+    {
+      "word": "by",
+      "start": 25.14,
+      "end": 25.44
+    },
+    {
+      "word": "tomorrow",
+      "start": 25.44,
+      "end": 25.8
+    },
+    {
+      "word": "afternoon.",
+      "start": 25.8,
+      "end": 26.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Build a white-label client portal in 30 minutes using Softr and Airtable.",
+      "line2": "AIRTABLE CLIENT PORTAL",
+      "tag": "\ud83d\uded1 Softr client portal connected directly to Airtable permissions",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Softr client portal connected directly to Airtable permissions",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Softr client portal connected directly to Airtable permissions",
+        "subtitle": "Softr client portal connected directly to Airtable permissions"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Softr client portal connected directly to Airtable permissions"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Softr client portal connected directly to Airtable permissions"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Softr client portal connected directly to Airtable permissions",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-10",
+  "idea": "Webflow localization update for multi-region landing pages",
+  "text": "This new Webflow update makes international search engine optimization accessible to everyone. Ranking organic content across multiple countries usually demands complex sitemap routing and manual hreflang tag injections. Misconfigured regional metadata confuses search crawlers and tanks your rankings across target foreign markets. Webflow Localization automates subdirectories, hreflang tags, and localized metadata dynamically across every CMS collection item. You scale organic global search traffic effortlessly.",
+  "duration": 33.103,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "new",
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "word": "Webflow",
+      "start": 0.52,
+      "end": 0.88
+    },
+    {
+      "word": "update",
+      "start": 0.88,
+      "end": 1.24
+    },
+    {
+      "word": "makes",
+      "start": 1.24,
+      "end": 1.66
+    },
+    {
+      "word": "international",
+      "start": 1.66,
+      "end": 2.2
+    },
+    {
+      "word": "search",
+      "start": 2.2,
+      "end": 2.72
+    },
+    {
+      "word": "engine",
+      "start": 2.72,
+      "end": 3.08
+    },
+    {
+      "word": "optimization",
+      "start": 3.08,
+      "end": 3.76
+    },
+    {
+      "word": "accessible",
+      "start": 3.76,
+      "end": 4.48
+    },
+    {
+      "word": "to",
+      "start": 4.48,
+      "end": 4.84
+    },
+    {
+      "word": "everyone.",
+      "start": 4.84,
+      "end": 5.34
+    },
+    {
+      "word": "Ranking",
+      "start": 6.16,
+      "end": 6.16
+    },
+    {
+      "word": "organic",
+      "start": 6.16,
+      "end": 6.76
+    },
+    {
+      "word": "content",
+      "start": 6.76,
+      "end": 7.28
+    },
+    {
+      "word": "across",
+      "start": 7.28,
+      "end": 7.66
+    },
+    {
+      "word": "multiple",
+      "start": 7.66,
+      "end": 8.08
+    },
+    {
+      "word": "countries",
+      "start": 8.08,
+      "end": 8.72
+    },
+    {
+      "word": "usually",
+      "start": 8.72,
+      "end": 9.48
+    },
+    {
+      "word": "demands",
+      "start": 9.48,
+      "end": 9.9
+    },
+    {
+      "word": "complex",
+      "start": 9.9,
+      "end": 10.58
+    },
+    {
+      "word": "site",
+      "start": 10.58,
+      "end": 10.84
+    },
+    {
+      "word": "map",
+      "start": 10.84,
+      "end": 11.06
+    },
+    {
+      "word": "routing",
+      "start": 11.06,
+      "end": 11.38
+    },
+    {
+      "word": "and",
+      "start": 11.38,
+      "end": 11.98
+    },
+    {
+      "word": "manual",
+      "start": 11.98,
+      "end": 12.3
+    },
+    {
+      "word": "reflang",
+      "start": 12.3,
+      "end": 12.78
+    },
+    {
+      "word": "tag",
+      "start": 12.78,
+      "end": 13.14
+    },
+    {
+      "word": "injections.",
+      "start": 13.14,
+      "end": 13.72
+    },
+    {
+      "word": "Miss",
+      "start": 14.24,
+      "end": 14.32
+    },
+    {
+      "word": "configured",
+      "start": 14.32,
+      "end": 14.76
+    },
+    {
+      "word": "regional",
+      "start": 14.76,
+      "end": 15.32
+    },
+    {
+      "word": "metadata",
+      "start": 15.32,
+      "end": 15.8
+    },
+    {
+      "word": "confuses",
+      "start": 15.8,
+      "end": 16.52
+    },
+    {
+      "word": "search",
+      "start": 16.52,
+      "end": 17.0
+    },
+    {
+      "word": "crawlers",
+      "start": 17.0,
+      "end": 17.48
+    },
+    {
+      "word": "and",
+      "start": 17.48,
+      "end": 17.96
+    },
+    {
+      "word": "tanks",
+      "start": 17.96,
+      "end": 18.14
+    },
+    {
+      "word": "your",
+      "start": 18.14,
+      "end": 18.36
+    },
+    {
+      "word": "rankings",
+      "start": 18.36,
+      "end": 18.66
+    },
+    {
+      "word": "across",
+      "start": 18.66,
+      "end": 19.14
+    },
+    {
+      "word": "target",
+      "start": 19.14,
+      "end": 19.54
+    },
+    {
+      "word": "foreign",
+      "start": 19.54,
+      "end": 19.8
+    },
+    {
+      "word": "markets.",
+      "start": 19.8,
+      "end": 20.32
+    },
+    {
+      "word": "Webflow",
+      "start": 21.06,
+      "end": 21.34
+    },
+    {
+      "word": "localization",
+      "start": 21.34,
+      "end": 22.06
+    },
+    {
+      "word": "automates",
+      "start": 22.06,
+      "end": 22.74
+    },
+    {
+      "word": "sub",
+      "start": 22.74,
+      "end": 23.0
+    },
+    {
+      "word": "-directories,",
+      "start": 23.0,
+      "end": 23.62
+    },
+    {
+      "word": "Reflang",
+      "start": 23.62,
+      "end": 24.44
+    },
+    {
+      "word": "tags",
+      "start": 24.44,
+      "end": 24.88
+    },
+    {
+      "word": "and",
+      "start": 24.88,
+      "end": 25.52
+    },
+    {
+      "word": "localized",
+      "start": 25.52,
+      "end": 25.92
+    },
+    {
+      "word": "metadata",
+      "start": 25.92,
+      "end": 26.5
+    },
+    {
+      "word": "dynamically",
+      "start": 26.5,
+      "end": 27.18
+    },
+    {
+      "word": "across",
+      "start": 27.18,
+      "end": 27.74
+    },
+    {
+      "word": "every",
+      "start": 27.74,
+      "end": 28.2
+    },
+    {
+      "word": "CMS",
+      "start": 28.2,
+      "end": 28.66
+    },
+    {
+      "word": "collection",
+      "start": 28.66,
+      "end": 29.18
+    },
+    {
+      "word": "item.",
+      "start": 29.18,
+      "end": 29.88
+    },
+    {
+      "word": "You",
+      "start": 30.22,
+      "end": 30.28
+    },
+    {
+      "word": "scale",
+      "start": 30.28,
+      "end": 30.62
+    },
+    {
+      "word": "organic",
+      "start": 30.62,
+      "end": 31.2
+    },
+    {
+      "word": "global",
+      "start": 31.2,
+      "end": 31.66
+    },
+    {
+      "word": "search",
+      "start": 31.66,
+      "end": 32.02
+    },
+    {
+      "word": "traffic",
+      "start": 32.02,
+      "end": 32.48
+    },
+    {
+      "word": "effortlessly.",
+      "start": 32.48,
+      "end": 32.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new Webflow update that makes international SEO accessible to everyone.",
+      "line2": "WEBFLOW MULTI-REGION LOCALIZATION UPDATE",
+      "tag": "\ud83d\uded1 Webflow localization update for multi-region landing pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Webflow localization update for multi-region landing pages",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Webflow localization update for multi-region landing pages",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Webflow localization update for multi-region landing pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

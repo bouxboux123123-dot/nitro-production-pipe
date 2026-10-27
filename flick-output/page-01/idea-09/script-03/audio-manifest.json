@@ -1,0 +1,396 @@
+{
+  "page": "page-01",
+  "idea": "Automated QA checklist that audits deliverables before client review",
+  "text": "Stop catching silly mistakes after the client has already pointed them out to you. Spotting broken URLs, misaligned logos, and bad copy in production damages your agency credibility. Informal Slack reviews fail because team members assume someone else verified the links and guidelines. Create a Make workflow that scans staging assets for broken links and requires design lead approval. You deliver bulletproof creative assets every single time.",
+  "duration": 25.387,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "catching",
+      "start": 0.34,
+      "end": 0.76
+    },
+    {
+      "word": "silly",
+      "start": 0.76,
+      "end": 1.02
+    },
+    {
+      "word": "mistakes",
+      "start": 1.02,
+      "end": 1.46
+    },
+    {
+      "word": "after",
+      "start": 1.46,
+      "end": 1.8
+    },
+    {
+      "word": "the",
+      "start": 1.8,
+      "end": 1.94
+    },
+    {
+      "word": "client",
+      "start": 1.94,
+      "end": 2.14
+    },
+    {
+      "word": "has",
+      "start": 2.14,
+      "end": 2.64
+    },
+    {
+      "word": "already",
+      "start": 2.64,
+      "end": 2.68
+    },
+    {
+      "word": "pointed",
+      "start": 2.68,
+      "end": 2.94
+    },
+    {
+      "word": "them",
+      "start": 2.94,
+      "end": 3.14
+    },
+    {
+      "word": "out",
+      "start": 3.14,
+      "end": 3.3
+    },
+    {
+      "word": "to",
+      "start": 3.3,
+      "end": 3.44
+    },
+    {
+      "word": "you.",
+      "start": 3.44,
+      "end": 3.96
+    },
+    {
+      "word": "Spotting",
+      "start": 4.1,
+      "end": 4.5
+    },
+    {
+      "word": "broken",
+      "start": 4.5,
+      "end": 4.84
+    },
+    {
+      "word": "URLs,",
+      "start": 4.84,
+      "end": 5.46
+    },
+    {
+      "word": "misaligned",
+      "start": 5.94,
+      "end": 6.38
+    },
+    {
+      "word": "logos,",
+      "start": 6.38,
+      "end": 6.78
+    },
+    {
+      "word": "and",
+      "start": 7.1,
+      "end": 7.22
+    },
+    {
+      "word": "bad",
+      "start": 7.22,
+      "end": 7.52
+    },
+    {
+      "word": "copy",
+      "start": 7.52,
+      "end": 7.8
+    },
+    {
+      "word": "and",
+      "start": 7.8,
+      "end": 8.02
+    },
+    {
+      "word": "production",
+      "start": 8.02,
+      "end": 8.44
+    },
+    {
+      "word": "damages",
+      "start": 8.44,
+      "end": 8.92
+    },
+    {
+      "word": "your",
+      "start": 8.92,
+      "end": 9.28
+    },
+    {
+      "word": "agency",
+      "start": 9.28,
+      "end": 9.64
+    },
+    {
+      "word": "credibility.",
+      "start": 9.64,
+      "end": 10.28
+    },
+    {
+      "word": "Informal",
+      "start": 10.96,
+      "end": 11.44
+    },
+    {
+      "word": "Slack",
+      "start": 11.44,
+      "end": 11.7
+    },
+    {
+      "word": "reviews",
+      "start": 11.7,
+      "end": 12.04
+    },
+    {
+      "word": "fail",
+      "start": 12.04,
+      "end": 12.38
+    },
+    {
+      "word": "because",
+      "start": 12.38,
+      "end": 12.72
+    },
+    {
+      "word": "team",
+      "start": 12.72,
+      "end": 13.0
+    },
+    {
+      "word": "members",
+      "start": 13.0,
+      "end": 13.28
+    },
+    {
+      "word": "assume",
+      "start": 13.28,
+      "end": 13.62
+    },
+    {
+      "word": "someone",
+      "start": 13.62,
+      "end": 13.86
+    },
+    {
+      "word": "else",
+      "start": 13.86,
+      "end": 14.24
+    },
+    {
+      "word": "verified",
+      "start": 14.24,
+      "end": 14.5
+    },
+    {
+      "word": "the",
+      "start": 14.5,
+      "end": 14.74
+    },
+    {
+      "word": "links",
+      "start": 14.74,
+      "end": 14.9
+    },
+    {
+      "word": "and",
+      "start": 14.9,
+      "end": 15.12
+    },
+    {
+      "word": "guidelines.",
+      "start": 15.12,
+      "end": 15.6
+    },
+    {
+      "word": "Create",
+      "start": 16.28,
+      "end": 16.4
+    },
+    {
+      "word": "a",
+      "start": 16.4,
+      "end": 16.56
+    },
+    {
+      "word": "make",
+      "start": 16.56,
+      "end": 16.74
+    },
+    {
+      "word": "workflow",
+      "start": 16.74,
+      "end": 17.1
+    },
+    {
+      "word": "that",
+      "start": 17.1,
+      "end": 17.52
+    },
+    {
+      "word": "scan",
+      "start": 17.52,
+      "end": 17.82
+    },
+    {
+      "word": "staging",
+      "start": 17.82,
+      "end": 18.3
+    },
+    {
+      "word": "assets",
+      "start": 18.3,
+      "end": 18.66
+    },
+    {
+      "word": "for",
+      "start": 18.66,
+      "end": 18.98
+    },
+    {
+      "word": "broken",
+      "start": 18.98,
+      "end": 19.24
+    },
+    {
+      "word": "links",
+      "start": 19.24,
+      "end": 19.64
+    },
+    {
+      "word": "and",
+      "start": 19.64,
+      "end": 20.18
+    },
+    {
+      "word": "requires",
+      "start": 20.18,
+      "end": 20.5
+    },
+    {
+      "word": "design",
+      "start": 20.5,
+      "end": 21.08
+    },
+    {
+      "word": "lead",
+      "start": 21.08,
+      "end": 21.28
+    },
+    {
+      "word": "approval.",
+      "start": 21.28,
+      "end": 21.7
+    },
+    {
+      "word": "You",
+      "start": 21.7,
+      "end": 22.4
+    },
+    {
+      "word": "deliver",
+      "start": 22.4,
+      "end": 22.74
+    },
+    {
+      "word": "bulletproof",
+      "start": 22.74,
+      "end": 23.3
+    },
+    {
+      "word": "creative",
+      "start": 23.3,
+      "end": 23.78
+    },
+    {
+      "word": "assets",
+      "start": 23.78,
+      "end": 24.24
+    },
+    {
+      "word": "every",
+      "start": 24.24,
+      "end": 24.68
+    },
+    {
+      "word": "single",
+      "start": 24.68,
+      "end": 25.0
+    },
+    {
+      "word": "time.",
+      "start": 25.0,
+      "end": 25.36
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop catching silly mistakes after the client has already pointed them out to you.",
+      "line2": "AUDIT DELIVERABLES INSTANTLY",
+      "tag": "\ud83d\uded1 Automated QA checklist that audits deliverables before client review",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Automated QA checklist that audits deliverables before client review",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Automated QA checklist that audits deliverables before client review",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Automated QA checklist that audits deliverables before client review",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

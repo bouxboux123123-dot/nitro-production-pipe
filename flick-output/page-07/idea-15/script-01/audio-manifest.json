@@ -1,0 +1,406 @@
+{
+  "page": "page-07",
+  "idea": "AI sales demo recorder that extracts custom follow-up action items",
+  "text": "Send custom follow-up proposals ten minutes after finishing any sales demo. Prospect excitement peaks during demos, but manually writing detailed proposal scopes takes hours of tedious work. These slow follow-ups destroy deal momentum, allowing competitors to step in while buyer urgency cools. Connect Fathom recordings to Claude via Zapier to extract buyer objections and draft tailored proposals instantly. You close deals twice as fast by striking immediately.",
+  "duration": 29.199,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Send",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "custom",
+      "start": 0.42,
+      "end": 0.86
+    },
+    {
+      "word": "follow",
+      "start": 0.86,
+      "end": 1.18
+    },
+    {
+      "word": "-up",
+      "start": 1.18,
+      "end": 1.38
+    },
+    {
+      "word": "proposals",
+      "start": 1.38,
+      "end": 1.82
+    },
+    {
+      "word": "10",
+      "start": 1.82,
+      "end": 2.28
+    },
+    {
+      "word": "minutes",
+      "start": 2.28,
+      "end": 2.54
+    },
+    {
+      "word": "after",
+      "start": 2.54,
+      "end": 2.88
+    },
+    {
+      "word": "finishing",
+      "start": 2.88,
+      "end": 3.2
+    },
+    {
+      "word": "any",
+      "start": 3.2,
+      "end": 3.48
+    },
+    {
+      "word": "sales",
+      "start": 3.48,
+      "end": 3.84
+    },
+    {
+      "word": "demo.",
+      "start": 3.84,
+      "end": 4.42
+    },
+    {
+      "word": "Prospect",
+      "start": 5.08,
+      "end": 5.2
+    },
+    {
+      "word": "excitement",
+      "start": 5.2,
+      "end": 5.92
+    },
+    {
+      "word": "peaks",
+      "start": 5.92,
+      "end": 6.24
+    },
+    {
+      "word": "during",
+      "start": 6.24,
+      "end": 6.58
+    },
+    {
+      "word": "demos,",
+      "start": 6.58,
+      "end": 6.96
+    },
+    {
+      "word": "but",
+      "start": 7.44,
+      "end": 7.5
+    },
+    {
+      "word": "manually",
+      "start": 7.5,
+      "end": 7.94
+    },
+    {
+      "word": "writing",
+      "start": 7.94,
+      "end": 8.42
+    },
+    {
+      "word": "detailed",
+      "start": 8.42,
+      "end": 8.94
+    },
+    {
+      "word": "proposal",
+      "start": 8.94,
+      "end": 9.48
+    },
+    {
+      "word": "scopes",
+      "start": 9.48,
+      "end": 9.88
+    },
+    {
+      "word": "takes",
+      "start": 9.88,
+      "end": 10.34
+    },
+    {
+      "word": "hours",
+      "start": 10.34,
+      "end": 10.68
+    },
+    {
+      "word": "of",
+      "start": 10.68,
+      "end": 11.0
+    },
+    {
+      "word": "tedious",
+      "start": 11.0,
+      "end": 11.22
+    },
+    {
+      "word": "work.",
+      "start": 11.22,
+      "end": 11.78
+    },
+    {
+      "word": "These",
+      "start": 12.02,
+      "end": 12.28
+    },
+    {
+      "word": "slow",
+      "start": 12.28,
+      "end": 12.6
+    },
+    {
+      "word": "follow",
+      "start": 12.6,
+      "end": 12.94
+    },
+    {
+      "word": "-ups",
+      "start": 12.94,
+      "end": 13.16
+    },
+    {
+      "word": "destroy",
+      "start": 13.16,
+      "end": 13.66
+    },
+    {
+      "word": "deal",
+      "start": 13.66,
+      "end": 13.98
+    },
+    {
+      "word": "momentum,",
+      "start": 13.98,
+      "end": 14.42
+    },
+    {
+      "word": "allowing",
+      "start": 14.92,
+      "end": 15.22
+    },
+    {
+      "word": "competitors",
+      "start": 15.22,
+      "end": 15.7
+    },
+    {
+      "word": "to",
+      "start": 15.7,
+      "end": 16.12
+    },
+    {
+      "word": "step",
+      "start": 16.12,
+      "end": 16.3
+    },
+    {
+      "word": "in",
+      "start": 16.3,
+      "end": 16.66
+    },
+    {
+      "word": "while",
+      "start": 16.66,
+      "end": 16.86
+    },
+    {
+      "word": "buyer",
+      "start": 16.86,
+      "end": 17.26
+    },
+    {
+      "word": "urgency",
+      "start": 17.26,
+      "end": 17.66
+    },
+    {
+      "word": "cools.",
+      "start": 17.66,
+      "end": 18.68
+    },
+    {
+      "word": "Connect",
+      "start": 19.18,
+      "end": 19.22
+    },
+    {
+      "word": "fathom",
+      "start": 19.22,
+      "end": 19.58
+    },
+    {
+      "word": "recordings",
+      "start": 19.58,
+      "end": 20.02
+    },
+    {
+      "word": "to",
+      "start": 20.02,
+      "end": 20.34
+    },
+    {
+      "word": "clawed",
+      "start": 20.34,
+      "end": 20.74
+    },
+    {
+      "word": "via",
+      "start": 20.74,
+      "end": 20.92
+    },
+    {
+      "word": "Zapier",
+      "start": 20.92,
+      "end": 21.4
+    },
+    {
+      "word": "to",
+      "start": 21.4,
+      "end": 21.88
+    },
+    {
+      "word": "extract",
+      "start": 21.88,
+      "end": 22.36
+    },
+    {
+      "word": "buyer",
+      "start": 22.36,
+      "end": 22.72
+    },
+    {
+      "word": "objections",
+      "start": 22.72,
+      "end": 23.3
+    },
+    {
+      "word": "and",
+      "start": 23.3,
+      "end": 23.8
+    },
+    {
+      "word": "draft",
+      "start": 23.8,
+      "end": 24.18
+    },
+    {
+      "word": "tailored",
+      "start": 24.18,
+      "end": 24.54
+    },
+    {
+      "word": "proposals",
+      "start": 24.54,
+      "end": 25.04
+    },
+    {
+      "word": "instantly.",
+      "start": 25.04,
+      "end": 25.66
+    },
+    {
+      "word": "You",
+      "start": 25.66,
+      "end": 26.4
+    },
+    {
+      "word": "close",
+      "start": 26.4,
+      "end": 26.7
+    },
+    {
+      "word": "deals",
+      "start": 26.7,
+      "end": 26.92
+    },
+    {
+      "word": "twice",
+      "start": 26.92,
+      "end": 27.28
+    },
+    {
+      "word": "as",
+      "start": 27.28,
+      "end": 27.5
+    },
+    {
+      "word": "fast",
+      "start": 27.5,
+      "end": 27.84
+    },
+    {
+      "word": "by",
+      "start": 27.84,
+      "end": 28.14
+    },
+    {
+      "word": "striking",
+      "start": 28.14,
+      "end": 28.5
+    },
+    {
+      "word": "immediately.",
+      "start": 28.5,
+      "end": 29.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How to send custom follow-up proposals within 10 minutes of finishing a sales demo.",
+      "line2": "EXTRACT DEMO ACTION ITEMS",
+      "tag": "\ud83d\uded1 AI sales demo recorder that extracts custom follow-up action items",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: AI sales demo recorder that extracts custom follow-up action items",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: AI sales demo recorder that extracts custom follow-up action items",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

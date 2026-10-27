@@ -1,0 +1,386 @@
+{
+  "page": "page-02",
+  "idea": "Automated tax and expense sorter for solo freelancers",
+  "text": "This AI tool automatically categorizes your freelance expenses from bank alerts. Freelancers frequently lose track of digital receipts scattered across email inboxes, Stripe accounts, and credit cards. Sifting through hundreds of transactions every quarter causes severe administrative burnout and misclassified expenses. Dext extracts receipt data from mobile photos and syncs directly into QuickBooks with ninety-nine percent accuracy. You will file clean tax returns in minutes.",
+  "duration": 29.711,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "AI",
+      "start": 0.28,
+      "end": 0.7
+    },
+    {
+      "word": "tool",
+      "start": 0.7,
+      "end": 1.02
+    },
+    {
+      "word": "automatically",
+      "start": 1.02,
+      "end": 1.62
+    },
+    {
+      "word": "categorizes",
+      "start": 1.62,
+      "end": 2.46
+    },
+    {
+      "word": "your",
+      "start": 2.46,
+      "end": 2.84
+    },
+    {
+      "word": "freelance",
+      "start": 2.84,
+      "end": 3.08
+    },
+    {
+      "word": "expenses",
+      "start": 3.08,
+      "end": 3.66
+    },
+    {
+      "word": "from",
+      "start": 3.66,
+      "end": 4.04
+    },
+    {
+      "word": "bank",
+      "start": 4.04,
+      "end": 4.26
+    },
+    {
+      "word": "alerts.",
+      "start": 4.26,
+      "end": 4.68
+    },
+    {
+      "word": "Freelancers",
+      "start": 5.32,
+      "end": 5.84
+    },
+    {
+      "word": "frequently",
+      "start": 5.84,
+      "end": 6.42
+    },
+    {
+      "word": "lose",
+      "start": 6.42,
+      "end": 6.88
+    },
+    {
+      "word": "track",
+      "start": 6.88,
+      "end": 7.16
+    },
+    {
+      "word": "of",
+      "start": 7.16,
+      "end": 7.32
+    },
+    {
+      "word": "digital",
+      "start": 7.32,
+      "end": 7.66
+    },
+    {
+      "word": "receipts",
+      "start": 7.66,
+      "end": 8.14
+    },
+    {
+      "word": "scattered",
+      "start": 8.14,
+      "end": 8.64
+    },
+    {
+      "word": "across",
+      "start": 8.64,
+      "end": 9.06
+    },
+    {
+      "word": "email",
+      "start": 9.06,
+      "end": 9.44
+    },
+    {
+      "word": "inboxes,",
+      "start": 9.44,
+      "end": 10.28
+    },
+    {
+      "word": "stripe",
+      "start": 10.56,
+      "end": 10.8
+    },
+    {
+      "word": "accounts,",
+      "start": 10.8,
+      "end": 11.26
+    },
+    {
+      "word": "and",
+      "start": 11.4,
+      "end": 11.72
+    },
+    {
+      "word": "credit",
+      "start": 11.72,
+      "end": 11.74
+    },
+    {
+      "word": "cards,",
+      "start": 11.74,
+      "end": 12.32
+    },
+    {
+      "word": "sifting",
+      "start": 12.68,
+      "end": 12.86
+    },
+    {
+      "word": "through",
+      "start": 12.86,
+      "end": 13.2
+    },
+    {
+      "word": "hundreds",
+      "start": 13.2,
+      "end": 13.46
+    },
+    {
+      "word": "of",
+      "start": 13.46,
+      "end": 13.86
+    },
+    {
+      "word": "transactions",
+      "start": 13.86,
+      "end": 14.34
+    },
+    {
+      "word": "every",
+      "start": 14.34,
+      "end": 14.88
+    },
+    {
+      "word": "quarter",
+      "start": 14.88,
+      "end": 15.12
+    },
+    {
+      "word": "causes",
+      "start": 15.12,
+      "end": 15.64
+    },
+    {
+      "word": "severe",
+      "start": 15.64,
+      "end": 16.1
+    },
+    {
+      "word": "administrative",
+      "start": 16.1,
+      "end": 16.78
+    },
+    {
+      "word": "burnout",
+      "start": 16.78,
+      "end": 17.42
+    },
+    {
+      "word": "and",
+      "start": 17.42,
+      "end": 17.78
+    },
+    {
+      "word": "misclassified",
+      "start": 17.78,
+      "end": 18.46
+    },
+    {
+      "word": "expenses.",
+      "start": 18.46,
+      "end": 19.2
+    },
+    {
+      "word": "Decks",
+      "start": 19.86,
+      "end": 20.26
+    },
+    {
+      "word": "extracts",
+      "start": 20.26,
+      "end": 20.64
+    },
+    {
+      "word": "receipt",
+      "start": 20.64,
+      "end": 21.06
+    },
+    {
+      "word": "data",
+      "start": 21.06,
+      "end": 21.4
+    },
+    {
+      "word": "from",
+      "start": 21.4,
+      "end": 21.64
+    },
+    {
+      "word": "mobile",
+      "start": 21.64,
+      "end": 21.98
+    },
+    {
+      "word": "photos",
+      "start": 21.98,
+      "end": 22.5
+    },
+    {
+      "word": "and",
+      "start": 22.5,
+      "end": 23.04
+    },
+    {
+      "word": "syncs",
+      "start": 23.04,
+      "end": 23.28
+    },
+    {
+      "word": "directly",
+      "start": 23.28,
+      "end": 23.78
+    },
+    {
+      "word": "into",
+      "start": 23.78,
+      "end": 24.1
+    },
+    {
+      "word": "QuickBooks",
+      "start": 24.1,
+      "end": 24.56
+    },
+    {
+      "word": "with",
+      "start": 24.56,
+      "end": 24.86
+    },
+    {
+      "word": "99",
+      "start": 24.86,
+      "end": 25.58
+    },
+    {
+      "word": "%",
+      "start": 25.58,
+      "end": 26.02
+    },
+    {
+      "word": "accuracy.",
+      "start": 26.02,
+      "end": 26.5
+    },
+    {
+      "word": "You",
+      "start": 26.5,
+      "end": 27.26
+    },
+    {
+      "word": "will",
+      "start": 27.26,
+      "end": 27.48
+    },
+    {
+      "word": "file",
+      "start": 27.48,
+      "end": 27.88
+    },
+    {
+      "word": "clean",
+      "start": 27.88,
+      "end": 28.24
+    },
+    {
+      "word": "tax",
+      "start": 28.24,
+      "end": 28.6
+    },
+    {
+      "word": "returns",
+      "start": 28.6,
+      "end": 29.08
+    },
+    {
+      "word": "in",
+      "start": 29.08,
+      "end": 29.36
+    },
+    {
+      "word": "minutes.",
+      "start": 29.36,
+      "end": 29.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This AI tool automatically categorizes your freelance expenses from bank alerts.",
+      "line2": "AUTO-SORT FREELANCE TAXES",
+      "tag": "\ud83d\uded1 Automated tax and expense sorter for solo freelancers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated tax and expense sorter for solo freelancers",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated tax and expense sorter for solo freelancers",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated tax and expense sorter for solo freelancers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

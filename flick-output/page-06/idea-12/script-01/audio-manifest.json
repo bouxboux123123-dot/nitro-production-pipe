@@ -1,0 +1,421 @@
+{
+  "page": "page-06",
+  "idea": "Async peer recognition bot that rewards teammates in public Slack channels",
+  "text": "How top remote teams celebrate wins and give shoutouts across different departments. In distributed companies, exceptional employee contributions often remain completely invisible to executives and other remote teams. When hard work goes unnoticed, top performers disengage, leading to quiet quitting and expensive engineering turnover. Integrating HeyTaco directly into public Slack channels lets coworkers award redeemable tacos for helpful cross-functional support. You boost company morale and retain top talent.",
+  "duration": 32.485,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "top",
+      "start": 0.28,
+      "end": 0.62
+    },
+    {
+      "word": "remote",
+      "start": 0.62,
+      "end": 0.98
+    },
+    {
+      "word": "teams",
+      "start": 0.98,
+      "end": 1.52
+    },
+    {
+      "word": "celebrate",
+      "start": 1.52,
+      "end": 1.9
+    },
+    {
+      "word": "wins",
+      "start": 1.9,
+      "end": 2.52
+    },
+    {
+      "word": "and",
+      "start": 2.52,
+      "end": 2.88
+    },
+    {
+      "word": "give",
+      "start": 2.88,
+      "end": 3.14
+    },
+    {
+      "word": "shout",
+      "start": 3.14,
+      "end": 3.42
+    },
+    {
+      "word": "outs",
+      "start": 3.42,
+      "end": 3.64
+    },
+    {
+      "word": "across",
+      "start": 3.64,
+      "end": 4.1
+    },
+    {
+      "word": "different",
+      "start": 4.1,
+      "end": 4.34
+    },
+    {
+      "word": "departments.",
+      "start": 4.34,
+      "end": 5.04
+    },
+    {
+      "word": "In",
+      "start": 5.62,
+      "end": 5.7
+    },
+    {
+      "word": "distributed",
+      "start": 5.7,
+      "end": 6.16
+    },
+    {
+      "word": "companies,",
+      "start": 6.16,
+      "end": 6.94
+    },
+    {
+      "word": "exceptional",
+      "start": 7.4,
+      "end": 7.78
+    },
+    {
+      "word": "employee",
+      "start": 7.78,
+      "end": 8.48
+    },
+    {
+      "word": "contributions",
+      "start": 8.48,
+      "end": 9.14
+    },
+    {
+      "word": "often",
+      "start": 9.14,
+      "end": 9.6
+    },
+    {
+      "word": "remain",
+      "start": 9.6,
+      "end": 10.02
+    },
+    {
+      "word": "completely",
+      "start": 10.02,
+      "end": 10.56
+    },
+    {
+      "word": "invisible",
+      "start": 10.56,
+      "end": 10.98
+    },
+    {
+      "word": "to",
+      "start": 10.98,
+      "end": 11.4
+    },
+    {
+      "word": "executives",
+      "start": 11.4,
+      "end": 11.96
+    },
+    {
+      "word": "and",
+      "start": 11.96,
+      "end": 12.38
+    },
+    {
+      "word": "other",
+      "start": 12.38,
+      "end": 12.62
+    },
+    {
+      "word": "remote",
+      "start": 12.62,
+      "end": 12.9
+    },
+    {
+      "word": "teams.",
+      "start": 12.9,
+      "end": 13.5
+    },
+    {
+      "word": "When",
+      "start": 13.84,
+      "end": 14.04
+    },
+    {
+      "word": "hard",
+      "start": 14.04,
+      "end": 14.3
+    },
+    {
+      "word": "work",
+      "start": 14.3,
+      "end": 14.56
+    },
+    {
+      "word": "goes",
+      "start": 14.56,
+      "end": 14.86
+    },
+    {
+      "word": "unnoticed,",
+      "start": 14.86,
+      "end": 15.48
+    },
+    {
+      "word": "top",
+      "start": 16.04,
+      "end": 16.1
+    },
+    {
+      "word": "performers",
+      "start": 16.1,
+      "end": 16.62
+    },
+    {
+      "word": "disengage,",
+      "start": 16.62,
+      "end": 17.56
+    },
+    {
+      "word": "leading",
+      "start": 17.88,
+      "end": 17.96
+    },
+    {
+      "word": "to",
+      "start": 17.96,
+      "end": 18.24
+    },
+    {
+      "word": "quiet",
+      "start": 18.24,
+      "end": 18.56
+    },
+    {
+      "word": "quitting",
+      "start": 18.56,
+      "end": 18.92
+    },
+    {
+      "word": "and",
+      "start": 18.92,
+      "end": 19.2
+    },
+    {
+      "word": "expensive",
+      "start": 19.2,
+      "end": 19.68
+    },
+    {
+      "word": "engineering",
+      "start": 19.68,
+      "end": 20.28
+    },
+    {
+      "word": "turnover.",
+      "start": 20.28,
+      "end": 20.74
+    },
+    {
+      "word": "Integrating",
+      "start": 21.46,
+      "end": 21.86
+    },
+    {
+      "word": "Hay",
+      "start": 21.86,
+      "end": 22.16
+    },
+    {
+      "word": "Taco",
+      "start": 22.16,
+      "end": 22.64
+    },
+    {
+      "word": "directly",
+      "start": 22.64,
+      "end": 23.1
+    },
+    {
+      "word": "into",
+      "start": 23.1,
+      "end": 23.42
+    },
+    {
+      "word": "public",
+      "start": 23.42,
+      "end": 23.8
+    },
+    {
+      "word": "Slack",
+      "start": 23.8,
+      "end": 24.12
+    },
+    {
+      "word": "channels,",
+      "start": 24.12,
+      "end": 24.58
+    },
+    {
+      "word": "let's",
+      "start": 25.06,
+      "end": 25.22
+    },
+    {
+      "word": "co",
+      "start": 25.22,
+      "end": 25.44
+    },
+    {
+      "word": "-workers",
+      "start": 25.44,
+      "end": 25.7
+    },
+    {
+      "word": "award",
+      "start": 25.7,
+      "end": 26.16
+    },
+    {
+      "word": "redeemable",
+      "start": 26.16,
+      "end": 26.76
+    },
+    {
+      "word": "tacos",
+      "start": 26.76,
+      "end": 27.22
+    },
+    {
+      "word": "for",
+      "start": 27.22,
+      "end": 27.58
+    },
+    {
+      "word": "helpful",
+      "start": 27.58,
+      "end": 28.0
+    },
+    {
+      "word": "cross",
+      "start": 28.0,
+      "end": 28.34
+    },
+    {
+      "word": "-functional",
+      "start": 28.34,
+      "end": 28.68
+    },
+    {
+      "word": "support.",
+      "start": 28.68,
+      "end": 29.28
+    },
+    {
+      "word": "You",
+      "start": 29.28,
+      "end": 30.04
+    },
+    {
+      "word": "boost",
+      "start": 30.04,
+      "end": 30.3
+    },
+    {
+      "word": "company",
+      "start": 30.3,
+      "end": 30.64
+    },
+    {
+      "word": "morale",
+      "start": 30.64,
+      "end": 31.02
+    },
+    {
+      "word": "and",
+      "start": 31.02,
+      "end": 31.4
+    },
+    {
+      "word": "retain",
+      "start": 31.4,
+      "end": 31.68
+    },
+    {
+      "word": "top",
+      "start": 31.68,
+      "end": 32.04
+    },
+    {
+      "word": "talent.",
+      "start": 32.04,
+      "end": 32.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How remote teams celebrate wins and give shoutouts across different departments.",
+      "line2": "REWARD REMOTE TEAMMATES",
+      "tag": "\ud83d\uded1 Async peer recognition bot that rewards teammates in public Slack channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async peer recognition bot that rewards teammates in public Slack channels",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async peer recognition bot that rewards teammates in public Slack channels",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

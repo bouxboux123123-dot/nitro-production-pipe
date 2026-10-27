@@ -1,0 +1,401 @@
+{
+  "page": "page-02",
+  "idea": "Automated freelance proposal writer tailored to client job posts",
+  "text": "Here is the secret to winning three times more freelance proposals this week. Most proposals get ignored because freelancers open with their background instead of solving the client's immediate problem. Failing to address core issues immediately sends your bid straight to the reject pile. Run your draft through Claude to rewrite the opener using the client's exact keywords and diagnostic questions. You turn cold pitches into booked calls.",
+  "duration": 23.893,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.4
+    },
+    {
+      "word": "the",
+      "start": 0.4,
+      "end": 0.62
+    },
+    {
+      "word": "secret",
+      "start": 0.62,
+      "end": 0.76
+    },
+    {
+      "word": "to",
+      "start": 0.76,
+      "end": 1.06
+    },
+    {
+      "word": "winning",
+      "start": 1.06,
+      "end": 1.24
+    },
+    {
+      "word": "three",
+      "start": 1.24,
+      "end": 1.58
+    },
+    {
+      "word": "times",
+      "start": 1.58,
+      "end": 1.86
+    },
+    {
+      "word": "more",
+      "start": 1.86,
+      "end": 2.16
+    },
+    {
+      "word": "freelance",
+      "start": 2.16,
+      "end": 2.5
+    },
+    {
+      "word": "proposals",
+      "start": 2.5,
+      "end": 3.06
+    },
+    {
+      "word": "this",
+      "start": 3.06,
+      "end": 3.4
+    },
+    {
+      "word": "week.",
+      "start": 3.4,
+      "end": 3.86
+    },
+    {
+      "word": "Most",
+      "start": 4.08,
+      "end": 4.3
+    },
+    {
+      "word": "proposals",
+      "start": 4.3,
+      "end": 4.78
+    },
+    {
+      "word": "get",
+      "start": 4.78,
+      "end": 5.08
+    },
+    {
+      "word": "ignored",
+      "start": 5.08,
+      "end": 5.44
+    },
+    {
+      "word": "because",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "word": "freelancers",
+      "start": 5.84,
+      "end": 6.38
+    },
+    {
+      "word": "open",
+      "start": 6.38,
+      "end": 6.74
+    },
+    {
+      "word": "with",
+      "start": 6.74,
+      "end": 6.94
+    },
+    {
+      "word": "their",
+      "start": 6.94,
+      "end": 7.1
+    },
+    {
+      "word": "background",
+      "start": 7.1,
+      "end": 7.6
+    },
+    {
+      "word": "instead",
+      "start": 7.6,
+      "end": 8.2
+    },
+    {
+      "word": "of",
+      "start": 8.2,
+      "end": 8.42
+    },
+    {
+      "word": "solving",
+      "start": 8.42,
+      "end": 8.7
+    },
+    {
+      "word": "the",
+      "start": 8.7,
+      "end": 8.92
+    },
+    {
+      "word": "client's",
+      "start": 8.92,
+      "end": 9.62
+    },
+    {
+      "word": "immediate",
+      "start": 9.62,
+      "end": 9.68
+    },
+    {
+      "word": "problem.",
+      "start": 9.68,
+      "end": 10.24
+    },
+    {
+      "word": "Failing",
+      "start": 10.66,
+      "end": 10.92
+    },
+    {
+      "word": "to",
+      "start": 10.92,
+      "end": 11.14
+    },
+    {
+      "word": "address",
+      "start": 11.14,
+      "end": 11.42
+    },
+    {
+      "word": "core",
+      "start": 11.42,
+      "end": 11.74
+    },
+    {
+      "word": "issues",
+      "start": 11.74,
+      "end": 12.24
+    },
+    {
+      "word": "immediately",
+      "start": 12.24,
+      "end": 12.84
+    },
+    {
+      "word": "sends",
+      "start": 12.84,
+      "end": 13.14
+    },
+    {
+      "word": "your",
+      "start": 13.14,
+      "end": 13.34
+    },
+    {
+      "word": "bid",
+      "start": 13.34,
+      "end": 13.52
+    },
+    {
+      "word": "straight",
+      "start": 13.52,
+      "end": 13.82
+    },
+    {
+      "word": "to",
+      "start": 13.82,
+      "end": 14.06
+    },
+    {
+      "word": "the",
+      "start": 14.06,
+      "end": 14.18
+    },
+    {
+      "word": "reject",
+      "start": 14.18,
+      "end": 14.42
+    },
+    {
+      "word": "pile.",
+      "start": 14.42,
+      "end": 14.86
+    },
+    {
+      "word": "Run",
+      "start": 15.52,
+      "end": 15.56
+    },
+    {
+      "word": "your",
+      "start": 15.56,
+      "end": 15.76
+    },
+    {
+      "word": "draft",
+      "start": 15.76,
+      "end": 16.04
+    },
+    {
+      "word": "through",
+      "start": 16.04,
+      "end": 16.36
+    },
+    {
+      "word": "Claude",
+      "start": 16.36,
+      "end": 16.64
+    },
+    {
+      "word": "to",
+      "start": 16.64,
+      "end": 16.92
+    },
+    {
+      "word": "rewrite",
+      "start": 16.92,
+      "end": 17.14
+    },
+    {
+      "word": "the",
+      "start": 17.14,
+      "end": 17.84
+    },
+    {
+      "word": "opener",
+      "start": 17.84,
+      "end": 17.84
+    },
+    {
+      "word": "using",
+      "start": 17.84,
+      "end": 18.18
+    },
+    {
+      "word": "the",
+      "start": 18.18,
+      "end": 18.4
+    },
+    {
+      "word": "client's",
+      "start": 18.4,
+      "end": 18.86
+    },
+    {
+      "word": "exact",
+      "start": 18.86,
+      "end": 19.22
+    },
+    {
+      "word": "keywords",
+      "start": 19.22,
+      "end": 19.64
+    },
+    {
+      "word": "and",
+      "start": 19.64,
+      "end": 20.0
+    },
+    {
+      "word": "diagnostic",
+      "start": 20.0,
+      "end": 20.48
+    },
+    {
+      "word": "questions.",
+      "start": 20.48,
+      "end": 21.18
+    },
+    {
+      "word": "You",
+      "start": 21.18,
+      "end": 21.84
+    },
+    {
+      "word": "turn",
+      "start": 21.84,
+      "end": 22.16
+    },
+    {
+      "word": "cold",
+      "start": 22.16,
+      "end": 22.56
+    },
+    {
+      "word": "pitches",
+      "start": 22.56,
+      "end": 22.82
+    },
+    {
+      "word": "into",
+      "start": 22.82,
+      "end": 23.14
+    },
+    {
+      "word": "booked",
+      "start": 23.14,
+      "end": 23.44
+    },
+    {
+      "word": "calls.",
+      "start": 23.44,
+      "end": 23.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "The secret to winning 3x more freelance proposals this week.",
+      "line2": "WRITE WINNING PROPOSALS",
+      "tag": "\ud83d\uded1 Automated freelance proposal writer tailored to client job posts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated freelance proposal writer tailored to client job posts",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated freelance proposal writer tailored to client job posts",
+        "subtitle": "Automated freelance proposal writer tailored to client job posts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated freelance proposal writer tailored to client job posts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated freelance proposal writer tailored to client job posts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated freelance proposal writer tailored to client job posts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

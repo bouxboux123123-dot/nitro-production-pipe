@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Glide customer portal for equipment maintenance logging",
+  "text": "Replace paper clipboards and inspection sheets with a ten-minute no-code app your team will love. Field workers hate crumpled sheets, while dispatchers spend hours re-typing scribbled notes into desktop databases. Manual transcription creates severe reporting lag, letting mechanical faults slip by until equipment fails. Instead, deploy Glide on Google Sheets so staff scan QR codes and submit checklists on mobile. You slash administrative overhead instantly.",
+  "duration": 25.899,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Replace",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "paper",
+      "start": 0.38,
+      "end": 0.7
+    },
+    {
+      "word": "clipboards",
+      "start": 0.7,
+      "end": 1.16
+    },
+    {
+      "word": "and",
+      "start": 1.16,
+      "end": 1.66
+    },
+    {
+      "word": "inspection",
+      "start": 1.66,
+      "end": 1.7
+    },
+    {
+      "word": "sheets",
+      "start": 1.7,
+      "end": 2.1
+    },
+    {
+      "word": "with",
+      "start": 2.1,
+      "end": 2.3
+    },
+    {
+      "word": "a",
+      "start": 2.3,
+      "end": 2.44
+    },
+    {
+      "word": "10",
+      "start": 2.44,
+      "end": 2.62
+    },
+    {
+      "word": "-minute",
+      "start": 2.62,
+      "end": 2.84
+    },
+    {
+      "word": "no",
+      "start": 2.84,
+      "end": 3.12
+    },
+    {
+      "word": "-code",
+      "start": 3.12,
+      "end": 3.32
+    },
+    {
+      "word": "app",
+      "start": 3.32,
+      "end": 3.5
+    },
+    {
+      "word": "your",
+      "start": 3.5,
+      "end": 3.66
+    },
+    {
+      "word": "team",
+      "start": 3.66,
+      "end": 3.88
+    },
+    {
+      "word": "will",
+      "start": 3.88,
+      "end": 4.12
+    },
+    {
+      "word": "love.",
+      "start": 4.12,
+      "end": 4.46
+    },
+    {
+      "word": "Field",
+      "start": 4.98,
+      "end": 5.22
+    },
+    {
+      "word": "workers",
+      "start": 5.22,
+      "end": 5.52
+    },
+    {
+      "word": "hate",
+      "start": 5.52,
+      "end": 5.86
+    },
+    {
+      "word": "crumpled",
+      "start": 5.86,
+      "end": 6.18
+    },
+    {
+      "word": "sheets,",
+      "start": 6.18,
+      "end": 6.56
+    },
+    {
+      "word": "while",
+      "start": 6.96,
+      "end": 7.12
+    },
+    {
+      "word": "dispatchers",
+      "start": 7.12,
+      "end": 7.68
+    },
+    {
+      "word": "spend",
+      "start": 7.68,
+      "end": 7.92
+    },
+    {
+      "word": "hours",
+      "start": 7.92,
+      "end": 8.28
+    },
+    {
+      "word": "re",
+      "start": 8.28,
+      "end": 8.48
+    },
+    {
+      "word": "-typing",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "word": "scribbled",
+      "start": 8.8,
+      "end": 9.26
+    },
+    {
+      "word": "notes",
+      "start": 9.26,
+      "end": 9.52
+    },
+    {
+      "word": "into",
+      "start": 9.52,
+      "end": 9.78
+    },
+    {
+      "word": "desktop",
+      "start": 9.78,
+      "end": 10.18
+    },
+    {
+      "word": "databases.",
+      "start": 10.18,
+      "end": 10.78
+    },
+    {
+      "word": "Manual",
+      "start": 11.74,
+      "end": 11.78
+    },
+    {
+      "word": "transcription",
+      "start": 11.78,
+      "end": 12.3
+    },
+    {
+      "word": "creates",
+      "start": 12.3,
+      "end": 12.82
+    },
+    {
+      "word": "severe",
+      "start": 12.82,
+      "end": 13.14
+    },
+    {
+      "word": "reporting",
+      "start": 13.14,
+      "end": 13.58
+    },
+    {
+      "word": "lag,",
+      "start": 13.58,
+      "end": 14.02
+    },
+    {
+      "word": "letting",
+      "start": 14.32,
+      "end": 14.42
+    },
+    {
+      "word": "mechanical",
+      "start": 14.42,
+      "end": 14.88
+    },
+    {
+      "word": "faults",
+      "start": 14.88,
+      "end": 15.36
+    },
+    {
+      "word": "slip",
+      "start": 15.36,
+      "end": 15.6
+    },
+    {
+      "word": "by",
+      "start": 15.6,
+      "end": 15.86
+    },
+    {
+      "word": "until",
+      "start": 15.86,
+      "end": 16.04
+    },
+    {
+      "word": "equipment",
+      "start": 16.04,
+      "end": 16.4
+    },
+    {
+      "word": "fails.",
+      "start": 16.4,
+      "end": 16.88
+    },
+    {
+      "word": "Instead,",
+      "start": 17.52,
+      "end": 17.9
+    },
+    {
+      "word": "deploy",
+      "start": 18.36,
+      "end": 18.54
+    },
+    {
+      "word": "glide",
+      "start": 18.54,
+      "end": 18.9
+    },
+    {
+      "word": "on",
+      "start": 18.9,
+      "end": 19.14
+    },
+    {
+      "word": "Google",
+      "start": 19.14,
+      "end": 19.34
+    },
+    {
+      "word": "sheets,",
+      "start": 19.34,
+      "end": 19.76
+    },
+    {
+      "word": "so",
+      "start": 19.96,
+      "end": 20.04
+    },
+    {
+      "word": "staff",
+      "start": 20.04,
+      "end": 20.34
+    },
+    {
+      "word": "scan",
+      "start": 20.34,
+      "end": 20.68
+    },
+    {
+      "word": "QR",
+      "start": 20.68,
+      "end": 21.1
+    },
+    {
+      "word": "codes",
+      "start": 21.1,
+      "end": 21.56
+    },
+    {
+      "word": "and",
+      "start": 21.56,
+      "end": 21.92
+    },
+    {
+      "word": "submit",
+      "start": 21.92,
+      "end": 22.18
+    },
+    {
+      "word": "checklists",
+      "start": 22.18,
+      "end": 22.66
+    },
+    {
+      "word": "on",
+      "start": 22.66,
+      "end": 22.9
+    },
+    {
+      "word": "mobile.",
+      "start": 22.9,
+      "end": 23.22
+    },
+    {
+      "word": "You",
+      "start": 23.72,
+      "end": 23.88
+    },
+    {
+      "word": "slash",
+      "start": 23.88,
+      "end": 24.2
+    },
+    {
+      "word": "administrative",
+      "start": 24.2,
+      "end": 24.8
+    },
+    {
+      "word": "overhead",
+      "start": 24.8,
+      "end": 25.28
+    },
+    {
+      "word": "instantly.",
+      "start": 25.28,
+      "end": 25.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Replace paper clipboards and inspection sheets with a 10-minute no-code app.",
+      "line2": "LOG EQUIPMENT MAINTENANCE",
+      "tag": "\ud83d\uded1 Glide customer portal for equipment maintenance logging",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Glide customer portal for equipment maintenance logging",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Glide customer portal for equipment maintenance logging",
+        "subtitle": "Glide customer portal for equipment maintenance logging"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Glide customer portal for equipment maintenance logging"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Glide customer portal for equipment maintenance logging"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Glide customer portal for equipment maintenance logging",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

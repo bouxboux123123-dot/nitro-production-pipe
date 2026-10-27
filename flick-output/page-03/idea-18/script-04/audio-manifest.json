@@ -1,0 +1,411 @@
+{
+  "page": "page-03",
+  "idea": "Automated digital invoice reminder sequence for consulting side hustles",
+  "text": "This automated billing sequence keeps your consulting cash flow healthy and predictable every single month. Inconsistent payment cycles leave your bank account vulnerable to stressful dry spells between client deliverables. Revenue dries up when sending invoices depends entirely on your exhausted free hours after work. Connect Airtable to Stripe webhooks to generate milestone invoices and payment links automatically upon project sign-off. You will get invoices paid within twenty-four hours.",
+  "duration": 29.967,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "automated",
+      "start": 0.32,
+      "end": 0.78
+    },
+    {
+      "word": "billing",
+      "start": 0.78,
+      "end": 1.14
+    },
+    {
+      "word": "sequence",
+      "start": 1.14,
+      "end": 1.68
+    },
+    {
+      "word": "keeps",
+      "start": 1.68,
+      "end": 2.06
+    },
+    {
+      "word": "your",
+      "start": 2.06,
+      "end": 2.38
+    },
+    {
+      "word": "consulting",
+      "start": 2.38,
+      "end": 2.8
+    },
+    {
+      "word": "cash",
+      "start": 2.8,
+      "end": 3.22
+    },
+    {
+      "word": "flow",
+      "start": 3.22,
+      "end": 3.54
+    },
+    {
+      "word": "healthy",
+      "start": 3.54,
+      "end": 4.12
+    },
+    {
+      "word": "and",
+      "start": 4.12,
+      "end": 4.52
+    },
+    {
+      "word": "predictable",
+      "start": 4.52,
+      "end": 4.92
+    },
+    {
+      "word": "every",
+      "start": 4.92,
+      "end": 5.54
+    },
+    {
+      "word": "single",
+      "start": 5.54,
+      "end": 5.9
+    },
+    {
+      "word": "month.",
+      "start": 5.9,
+      "end": 6.54
+    },
+    {
+      "word": "In",
+      "start": 6.86,
+      "end": 6.96
+    },
+    {
+      "word": "consistent",
+      "start": 6.96,
+      "end": 7.4
+    },
+    {
+      "word": "payment",
+      "start": 7.4,
+      "end": 7.82
+    },
+    {
+      "word": "cycles,",
+      "start": 7.82,
+      "end": 8.26
+    },
+    {
+      "word": "leave",
+      "start": 8.54,
+      "end": 8.74
+    },
+    {
+      "word": "your",
+      "start": 8.74,
+      "end": 8.9
+    },
+    {
+      "word": "bank",
+      "start": 8.9,
+      "end": 9.14
+    },
+    {
+      "word": "account",
+      "start": 9.14,
+      "end": 9.54
+    },
+    {
+      "word": "vulnerable",
+      "start": 9.54,
+      "end": 9.94
+    },
+    {
+      "word": "to",
+      "start": 9.94,
+      "end": 10.3
+    },
+    {
+      "word": "stressful",
+      "start": 10.3,
+      "end": 10.72
+    },
+    {
+      "word": "dry",
+      "start": 10.72,
+      "end": 11.12
+    },
+    {
+      "word": "spells",
+      "start": 11.12,
+      "end": 11.5
+    },
+    {
+      "word": "between",
+      "start": 11.5,
+      "end": 11.98
+    },
+    {
+      "word": "client",
+      "start": 11.98,
+      "end": 12.3
+    },
+    {
+      "word": "deliverables.",
+      "start": 12.3,
+      "end": 13.06
+    },
+    {
+      "word": "Revenue",
+      "start": 13.54,
+      "end": 13.56
+    },
+    {
+      "word": "dries",
+      "start": 13.56,
+      "end": 14.04
+    },
+    {
+      "word": "up",
+      "start": 14.04,
+      "end": 14.38
+    },
+    {
+      "word": "when",
+      "start": 14.38,
+      "end": 14.62
+    },
+    {
+      "word": "sending",
+      "start": 14.62,
+      "end": 14.94
+    },
+    {
+      "word": "invoices",
+      "start": 14.94,
+      "end": 15.6
+    },
+    {
+      "word": "depends",
+      "start": 15.6,
+      "end": 16.18
+    },
+    {
+      "word": "entirely",
+      "start": 16.18,
+      "end": 16.8
+    },
+    {
+      "word": "on",
+      "start": 16.8,
+      "end": 17.06
+    },
+    {
+      "word": "your",
+      "start": 17.06,
+      "end": 17.3
+    },
+    {
+      "word": "exhausted",
+      "start": 17.3,
+      "end": 17.68
+    },
+    {
+      "word": "free",
+      "start": 17.68,
+      "end": 18.16
+    },
+    {
+      "word": "hours",
+      "start": 18.16,
+      "end": 18.46
+    },
+    {
+      "word": "after",
+      "start": 18.46,
+      "end": 18.84
+    },
+    {
+      "word": "work.",
+      "start": 18.84,
+      "end": 19.34
+    },
+    {
+      "word": "Connect",
+      "start": 19.72,
+      "end": 20.02
+    },
+    {
+      "word": "Airtable",
+      "start": 20.02,
+      "end": 20.5
+    },
+    {
+      "word": "to",
+      "start": 20.5,
+      "end": 20.74
+    },
+    {
+      "word": "Stripe",
+      "start": 20.74,
+      "end": 21.04
+    },
+    {
+      "word": "Webhooks",
+      "start": 21.04,
+      "end": 21.54
+    },
+    {
+      "word": "to",
+      "start": 21.54,
+      "end": 21.7
+    },
+    {
+      "word": "generate",
+      "start": 21.7,
+      "end": 22.1
+    },
+    {
+      "word": "milestone",
+      "start": 22.1,
+      "end": 22.68
+    },
+    {
+      "word": "invoices",
+      "start": 22.68,
+      "end": 23.34
+    },
+    {
+      "word": "and",
+      "start": 23.34,
+      "end": 23.78
+    },
+    {
+      "word": "payment",
+      "start": 23.78,
+      "end": 24.14
+    },
+    {
+      "word": "links",
+      "start": 24.14,
+      "end": 24.52
+    },
+    {
+      "word": "automatically",
+      "start": 24.52,
+      "end": 25.14
+    },
+    {
+      "word": "upon",
+      "start": 25.14,
+      "end": 25.6
+    },
+    {
+      "word": "Project",
+      "start": 25.6,
+      "end": 26.08
+    },
+    {
+      "word": "Signoff.",
+      "start": 26.08,
+      "end": 26.66
+    },
+    {
+      "word": "You",
+      "start": 26.66,
+      "end": 27.2
+    },
+    {
+      "word": "will",
+      "start": 27.2,
+      "end": 27.36
+    },
+    {
+      "word": "get",
+      "start": 27.36,
+      "end": 27.54
+    },
+    {
+      "word": "invoices",
+      "start": 27.54,
+      "end": 28.12
+    },
+    {
+      "word": "paid",
+      "start": 28.12,
+      "end": 28.52
+    },
+    {
+      "word": "within",
+      "start": 28.52,
+      "end": 28.82
+    },
+    {
+      "word": "24",
+      "start": 28.82,
+      "end": 29.36
+    },
+    {
+      "word": "hours.",
+      "start": 29.36,
+      "end": 29.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The automated billing sequence that keeps your cash flow healthy.",
+      "line2": "AUTO-CHASE OVERDUE BILLS",
+      "tag": "\ud83d\uded1 Automated digital invoice reminder sequence for consulting side hustles",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated digital invoice reminder sequence for consulting side hustles",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated digital invoice reminder sequence for consulting side hustles",
+        "subtitle": "Automated digital invoice reminder sequence for consulting side hustles"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated digital invoice reminder sequence for consulting side hustles"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated digital invoice reminder sequence for consulting side hustles"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated digital invoice reminder sequence for consulting side hustles",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

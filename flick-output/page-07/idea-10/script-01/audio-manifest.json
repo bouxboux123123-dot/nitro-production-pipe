@@ -1,0 +1,421 @@
+{
+  "page": "page-07",
+  "idea": "Rapid MVP validation landing page stack launched in under 2 hours",
+  "text": "Test if customers will actually pay for your startup idea before writing a line of code. Founders routinely waste months engineering backend features only to discover zero market interest. Polite feedback from friends creates false confidence that drains your savings without generating sales. Launch a high-converting Framer landing page wired directly to Stripe pre-orders and Airtable lead logging. Verified credit card deposits prove true demand before development starts.",
+  "duration": 29.221,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "test",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "if",
+      "start": 0.34,
+      "end": 0.56
+    },
+    {
+      "word": "customers",
+      "start": 0.56,
+      "end": 0.9
+    },
+    {
+      "word": "will",
+      "start": 0.9,
+      "end": 1.32
+    },
+    {
+      "word": "actually",
+      "start": 1.32,
+      "end": 1.74
+    },
+    {
+      "word": "pay",
+      "start": 1.74,
+      "end": 2.04
+    },
+    {
+      "word": "for",
+      "start": 2.04,
+      "end": 2.18
+    },
+    {
+      "word": "your",
+      "start": 2.18,
+      "end": 2.4
+    },
+    {
+      "word": "startup",
+      "start": 2.4,
+      "end": 2.7
+    },
+    {
+      "word": "idea",
+      "start": 2.7,
+      "end": 3.26
+    },
+    {
+      "word": "before",
+      "start": 3.26,
+      "end": 3.76
+    },
+    {
+      "word": "writing",
+      "start": 3.76,
+      "end": 4.08
+    },
+    {
+      "word": "a",
+      "start": 4.08,
+      "end": 4.28
+    },
+    {
+      "word": "line",
+      "start": 4.28,
+      "end": 4.42
+    },
+    {
+      "word": "of",
+      "start": 4.42,
+      "end": 4.62
+    },
+    {
+      "word": "code.",
+      "start": 4.62,
+      "end": 5.22
+    },
+    {
+      "word": "Founders",
+      "start": 6.06,
+      "end": 6.06
+    },
+    {
+      "word": "routinely",
+      "start": 6.06,
+      "end": 6.6
+    },
+    {
+      "word": "waste",
+      "start": 6.6,
+      "end": 7.04
+    },
+    {
+      "word": "months",
+      "start": 7.04,
+      "end": 7.5
+    },
+    {
+      "word": "engineering",
+      "start": 7.5,
+      "end": 8.06
+    },
+    {
+      "word": "back",
+      "start": 8.06,
+      "end": 8.44
+    },
+    {
+      "word": "-end",
+      "start": 8.44,
+      "end": 8.86
+    },
+    {
+      "word": "features",
+      "start": 8.86,
+      "end": 9.46
+    },
+    {
+      "word": "only",
+      "start": 9.46,
+      "end": 9.86
+    },
+    {
+      "word": "to",
+      "start": 9.86,
+      "end": 10.12
+    },
+    {
+      "word": "discover",
+      "start": 10.12,
+      "end": 10.4
+    },
+    {
+      "word": "zero",
+      "start": 10.4,
+      "end": 10.94
+    },
+    {
+      "word": "market",
+      "start": 10.94,
+      "end": 11.26
+    },
+    {
+      "word": "interest.",
+      "start": 11.26,
+      "end": 11.76
+    },
+    {
+      "word": "Polite",
+      "start": 12.18,
+      "end": 12.4
+    },
+    {
+      "word": "feedback",
+      "start": 12.4,
+      "end": 12.76
+    },
+    {
+      "word": "from",
+      "start": 12.76,
+      "end": 13.1
+    },
+    {
+      "word": "friends",
+      "start": 13.1,
+      "end": 13.52
+    },
+    {
+      "word": "creates",
+      "start": 13.52,
+      "end": 14.06
+    },
+    {
+      "word": "false",
+      "start": 14.06,
+      "end": 14.44
+    },
+    {
+      "word": "confidence",
+      "start": 14.44,
+      "end": 14.88
+    },
+    {
+      "word": "that",
+      "start": 14.88,
+      "end": 15.3
+    },
+    {
+      "word": "drains",
+      "start": 15.3,
+      "end": 15.54
+    },
+    {
+      "word": "your",
+      "start": 15.54,
+      "end": 15.96
+    },
+    {
+      "word": "savings",
+      "start": 15.96,
+      "end": 16.2
+    },
+    {
+      "word": "without",
+      "start": 16.2,
+      "end": 16.66
+    },
+    {
+      "word": "generating",
+      "start": 16.66,
+      "end": 17.14
+    },
+    {
+      "word": "sales.",
+      "start": 17.14,
+      "end": 17.82
+    },
+    {
+      "word": "Launch",
+      "start": 18.34,
+      "end": 18.56
+    },
+    {
+      "word": "a",
+      "start": 18.56,
+      "end": 18.78
+    },
+    {
+      "word": "high",
+      "start": 18.78,
+      "end": 18.98
+    },
+    {
+      "word": "-converting",
+      "start": 18.98,
+      "end": 19.44
+    },
+    {
+      "word": "frame",
+      "start": 19.44,
+      "end": 19.74
+    },
+    {
+      "word": "or",
+      "start": 19.74,
+      "end": 20.18
+    },
+    {
+      "word": "landing",
+      "start": 20.18,
+      "end": 20.22
+    },
+    {
+      "word": "page,",
+      "start": 20.22,
+      "end": 20.74
+    },
+    {
+      "word": "wired",
+      "start": 21.26,
+      "end": 21.28
+    },
+    {
+      "word": "directly",
+      "start": 21.28,
+      "end": 21.68
+    },
+    {
+      "word": "to",
+      "start": 21.68,
+      "end": 22.0
+    },
+    {
+      "word": "stripe",
+      "start": 22.0,
+      "end": 22.32
+    },
+    {
+      "word": "pre",
+      "start": 22.32,
+      "end": 22.56
+    },
+    {
+      "word": "-orders",
+      "start": 22.56,
+      "end": 22.78
+    },
+    {
+      "word": "and",
+      "start": 22.78,
+      "end": 23.36
+    },
+    {
+      "word": "irritable",
+      "start": 23.36,
+      "end": 23.76
+    },
+    {
+      "word": "lead",
+      "start": 23.76,
+      "end": 24.06
+    },
+    {
+      "word": "logging.",
+      "start": 24.06,
+      "end": 24.52
+    },
+    {
+      "word": "Verified",
+      "start": 24.52,
+      "end": 25.66
+    },
+    {
+      "word": "credit",
+      "start": 25.66,
+      "end": 25.9
+    },
+    {
+      "word": "card",
+      "start": 25.9,
+      "end": 26.28
+    },
+    {
+      "word": "deposits",
+      "start": 26.28,
+      "end": 26.76
+    },
+    {
+      "word": "prove",
+      "start": 26.76,
+      "end": 27.18
+    },
+    {
+      "word": "true",
+      "start": 27.18,
+      "end": 27.46
+    },
+    {
+      "word": "demand",
+      "start": 27.46,
+      "end": 27.84
+    },
+    {
+      "word": "before",
+      "start": 27.84,
+      "end": 28.2
+    },
+    {
+      "word": "development",
+      "start": 28.2,
+      "end": 28.56
+    },
+    {
+      "word": "starts.",
+      "start": 28.56,
+      "end": 29.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How to test if anyone will actually pay for your startup idea before writing code.",
+      "line2": "LAUNCH MVP IN 2-HOURS",
+      "tag": "\ud83d\uded1 Rapid MVP validation landing page stack launched in under 2 hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Rapid MVP validation landing page stack launched in under 2 hours",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Rapid MVP validation landing page stack launched in under 2 hours",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

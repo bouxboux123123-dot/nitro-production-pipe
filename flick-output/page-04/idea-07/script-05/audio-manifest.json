@@ -1,0 +1,416 @@
+{
+  "page": "page-04",
+  "idea": "CapCut desktop free shortcuts for fast automated editing",
+  "text": "Stop struggling with complicated editing timelines and try this free workflow instead. Juggling separate apps for recording, captioning, and audio cleanup turns content creation into an operational nightmare. Transferring clips between three different apps causes rendering errors, audio desyncs, and lost project files. Instead, centralize your post-production inside CapCut Desktop using its voice enhancer and auto-cut shortcuts. You publish professional short videos four times faster, giving you your weekends back.",
+  "duration": 31.461,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "struggling",
+      "start": 0.4,
+      "end": 0.82
+    },
+    {
+      "word": "with",
+      "start": 0.82,
+      "end": 1.26
+    },
+    {
+      "word": "complicated",
+      "start": 1.26,
+      "end": 1.66
+    },
+    {
+      "word": "editing",
+      "start": 1.66,
+      "end": 2.14
+    },
+    {
+      "word": "timelines,",
+      "start": 2.14,
+      "end": 2.72
+    },
+    {
+      "word": "and",
+      "start": 3.0,
+      "end": 3.3
+    },
+    {
+      "word": "try",
+      "start": 3.3,
+      "end": 3.54
+    },
+    {
+      "word": "this",
+      "start": 3.54,
+      "end": 3.82
+    },
+    {
+      "word": "free",
+      "start": 3.82,
+      "end": 4.1
+    },
+    {
+      "word": "workflow",
+      "start": 4.1,
+      "end": 4.56
+    },
+    {
+      "word": "instead.",
+      "start": 4.56,
+      "end": 5.24
+    },
+    {
+      "word": "Juggling",
+      "start": 5.8,
+      "end": 6.24
+    },
+    {
+      "word": "separate",
+      "start": 6.24,
+      "end": 6.6
+    },
+    {
+      "word": "apps",
+      "start": 6.6,
+      "end": 6.84
+    },
+    {
+      "word": "for",
+      "start": 6.84,
+      "end": 7.12
+    },
+    {
+      "word": "recording,",
+      "start": 7.12,
+      "end": 7.56
+    },
+    {
+      "word": "captioning,",
+      "start": 7.86,
+      "end": 8.42
+    },
+    {
+      "word": "and",
+      "start": 8.44,
+      "end": 8.66
+    },
+    {
+      "word": "audio",
+      "start": 8.66,
+      "end": 8.96
+    },
+    {
+      "word": "cleanup",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "word": "turns",
+      "start": 9.36,
+      "end": 10.02
+    },
+    {
+      "word": "content",
+      "start": 10.02,
+      "end": 10.5
+    },
+    {
+      "word": "creation",
+      "start": 10.5,
+      "end": 11.02
+    },
+    {
+      "word": "into",
+      "start": 11.02,
+      "end": 11.28
+    },
+    {
+      "word": "an",
+      "start": 11.28,
+      "end": 11.48
+    },
+    {
+      "word": "operational",
+      "start": 11.48,
+      "end": 12.02
+    },
+    {
+      "word": "nightmare.",
+      "start": 12.02,
+      "end": 12.52
+    },
+    {
+      "word": "Transferring",
+      "start": 13.14,
+      "end": 13.54
+    },
+    {
+      "word": "clips",
+      "start": 13.54,
+      "end": 13.78
+    },
+    {
+      "word": "between",
+      "start": 13.78,
+      "end": 14.16
+    },
+    {
+      "word": "three",
+      "start": 14.16,
+      "end": 14.46
+    },
+    {
+      "word": "different",
+      "start": 14.46,
+      "end": 14.8
+    },
+    {
+      "word": "apps",
+      "start": 14.8,
+      "end": 15.06
+    },
+    {
+      "word": "causes",
+      "start": 15.06,
+      "end": 15.48
+    },
+    {
+      "word": "rendering",
+      "start": 15.48,
+      "end": 15.92
+    },
+    {
+      "word": "errors,",
+      "start": 15.92,
+      "end": 16.38
+    },
+    {
+      "word": "audio",
+      "start": 17.04,
+      "end": 17.04
+    },
+    {
+      "word": "dissinks,",
+      "start": 17.04,
+      "end": 17.58
+    },
+    {
+      "word": "and",
+      "start": 17.82,
+      "end": 18.02
+    },
+    {
+      "word": "lost",
+      "start": 18.02,
+      "end": 18.32
+    },
+    {
+      "word": "project",
+      "start": 18.32,
+      "end": 18.78
+    },
+    {
+      "word": "files.",
+      "start": 18.78,
+      "end": 19.22
+    },
+    {
+      "word": "Instead,",
+      "start": 19.88,
+      "end": 20.34
+    },
+    {
+      "word": "centralize",
+      "start": 20.9,
+      "end": 21.16
+    },
+    {
+      "word": "your",
+      "start": 21.16,
+      "end": 21.36
+    },
+    {
+      "word": "post",
+      "start": 21.36,
+      "end": 21.64
+    },
+    {
+      "word": "-production",
+      "start": 21.64,
+      "end": 22.08
+    },
+    {
+      "word": "inside",
+      "start": 22.08,
+      "end": 22.66
+    },
+    {
+      "word": "CapCut",
+      "start": 22.66,
+      "end": 23.14
+    },
+    {
+      "word": "Desktop",
+      "start": 23.14,
+      "end": 23.54
+    },
+    {
+      "word": "using",
+      "start": 23.54,
+      "end": 23.96
+    },
+    {
+      "word": "its",
+      "start": 23.96,
+      "end": 24.18
+    },
+    {
+      "word": "voice",
+      "start": 24.18,
+      "end": 24.46
+    },
+    {
+      "word": "enhancer",
+      "start": 24.46,
+      "end": 25.02
+    },
+    {
+      "word": "and",
+      "start": 25.02,
+      "end": 25.38
+    },
+    {
+      "word": "autocut",
+      "start": 25.38,
+      "end": 25.74
+    },
+    {
+      "word": "shortcuts.",
+      "start": 25.74,
+      "end": 26.24
+    },
+    {
+      "word": "You",
+      "start": 26.64,
+      "end": 27.02
+    },
+    {
+      "word": "publish",
+      "start": 27.02,
+      "end": 27.4
+    },
+    {
+      "word": "professional",
+      "start": 27.4,
+      "end": 27.84
+    },
+    {
+      "word": "short",
+      "start": 27.84,
+      "end": 28.26
+    },
+    {
+      "word": "videos",
+      "start": 28.26,
+      "end": 28.64
+    },
+    {
+      "word": "four",
+      "start": 28.64,
+      "end": 29.02
+    },
+    {
+      "word": "times",
+      "start": 29.02,
+      "end": 29.36
+    },
+    {
+      "word": "faster,",
+      "start": 29.36,
+      "end": 29.92
+    },
+    {
+      "word": "giving",
+      "start": 30.24,
+      "end": 30.34
+    },
+    {
+      "word": "you",
+      "start": 30.34,
+      "end": 30.58
+    },
+    {
+      "word": "your",
+      "start": 30.58,
+      "end": 31.0
+    },
+    {
+      "word": "weekends",
+      "start": 31.0,
+      "end": 31.0
+    },
+    {
+      "word": "back.",
+      "start": 31.0,
+      "end": 31.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop struggling with complicated editing timelines: try this free workflow.",
+      "line2": "FAST VIDEO SHORTCUTS",
+      "tag": "\ud83d\uded1 CapCut desktop free shortcuts for fast automated editing",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: CapCut desktop free shortcuts for fast automated editing",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: CapCut desktop free shortcuts for fast automated editing",
+        "subtitle": "CapCut desktop free shortcuts for fast automated editing"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "CapCut desktop free shortcuts for fast automated editing"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "CapCut desktop free shortcuts for fast automated editing"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "CapCut desktop free shortcuts for fast automated editing",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "page": "page-04",
+  "idea": "Obsidian: build an interconnected personal knowledge base for free",
+  "text": "This free note-taking tool links your thoughts together like a second brain. Saving research, meeting notes, and ideas across scattered apps makes finding critical information weeks later impossible. Traditional folder hierarchies isolate ideas inside silos, hiding natural connections between your projects. Instead, use Obsidian to store your notes in plain markdown files interconnected with simple bidirectional links. You build an interactive knowledge graph that scales your output effortlessly.",
+  "duration": 29.647,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "free",
+      "start": 0.28,
+      "end": 0.46
+    },
+    {
+      "word": "note",
+      "start": 0.46,
+      "end": 0.7
+    },
+    {
+      "word": "-taking",
+      "start": 0.7,
+      "end": 1.02
+    },
+    {
+      "word": "tool",
+      "start": 1.02,
+      "end": 1.34
+    },
+    {
+      "word": "links",
+      "start": 1.34,
+      "end": 1.56
+    },
+    {
+      "word": "your",
+      "start": 1.56,
+      "end": 1.8
+    },
+    {
+      "word": "thoughts",
+      "start": 1.8,
+      "end": 2.08
+    },
+    {
+      "word": "together",
+      "start": 2.08,
+      "end": 2.44
+    },
+    {
+      "word": "like",
+      "start": 2.44,
+      "end": 2.66
+    },
+    {
+      "word": "a",
+      "start": 2.66,
+      "end": 2.92
+    },
+    {
+      "word": "second",
+      "start": 2.92,
+      "end": 3.12
+    },
+    {
+      "word": "brain.",
+      "start": 3.12,
+      "end": 3.74
+    },
+    {
+      "word": "Saving",
+      "start": 4.5,
+      "end": 4.5
+    },
+    {
+      "word": "research,",
+      "start": 4.5,
+      "end": 5.08
+    },
+    {
+      "word": "meeting",
+      "start": 5.4,
+      "end": 5.64
+    },
+    {
+      "word": "notes,",
+      "start": 5.64,
+      "end": 6.0
+    },
+    {
+      "word": "and",
+      "start": 6.3,
+      "end": 6.5
+    },
+    {
+      "word": "ideas",
+      "start": 6.5,
+      "end": 6.8
+    },
+    {
+      "word": "across",
+      "start": 6.8,
+      "end": 7.22
+    },
+    {
+      "word": "scattered",
+      "start": 7.22,
+      "end": 7.56
+    },
+    {
+      "word": "apps",
+      "start": 7.56,
+      "end": 7.94
+    },
+    {
+      "word": "makes",
+      "start": 7.94,
+      "end": 8.28
+    },
+    {
+      "word": "finding",
+      "start": 8.28,
+      "end": 8.7
+    },
+    {
+      "word": "critical",
+      "start": 8.7,
+      "end": 9.08
+    },
+    {
+      "word": "information",
+      "start": 9.08,
+      "end": 9.64
+    },
+    {
+      "word": "weeks",
+      "start": 9.64,
+      "end": 10.1
+    },
+    {
+      "word": "later",
+      "start": 10.1,
+      "end": 10.42
+    },
+    {
+      "word": "impossible.",
+      "start": 10.42,
+      "end": 11.16
+    },
+    {
+      "word": "Traditional",
+      "start": 11.98,
+      "end": 11.98
+    },
+    {
+      "word": "folder",
+      "start": 11.98,
+      "end": 12.44
+    },
+    {
+      "word": "hierarchies",
+      "start": 12.44,
+      "end": 13.18
+    },
+    {
+      "word": "isolate",
+      "start": 13.18,
+      "end": 13.6
+    },
+    {
+      "word": "ideas",
+      "start": 13.6,
+      "end": 14.16
+    },
+    {
+      "word": "inside",
+      "start": 14.16,
+      "end": 14.78
+    },
+    {
+      "word": "silos,",
+      "start": 14.78,
+      "end": 15.36
+    },
+    {
+      "word": "hiding",
+      "start": 15.86,
+      "end": 16.02
+    },
+    {
+      "word": "natural",
+      "start": 16.02,
+      "end": 16.5
+    },
+    {
+      "word": "connections",
+      "start": 16.5,
+      "end": 16.96
+    },
+    {
+      "word": "between",
+      "start": 16.96,
+      "end": 17.32
+    },
+    {
+      "word": "your",
+      "start": 17.32,
+      "end": 17.58
+    },
+    {
+      "word": "projects.",
+      "start": 17.58,
+      "end": 18.06
+    },
+    {
+      "word": "Instead,",
+      "start": 18.82,
+      "end": 19.16
+    },
+    {
+      "word": "you",
+      "start": 19.64,
+      "end": 19.74
+    },
+    {
+      "word": "sub",
+      "start": 19.74,
+      "end": 19.94
+    },
+    {
+      "word": "-city",
+      "start": 19.94,
+      "end": 20.14
+    },
+    {
+      "word": "in",
+      "start": 20.14,
+      "end": 20.3
+    },
+    {
+      "word": "to",
+      "start": 20.3,
+      "end": 20.5
+    },
+    {
+      "word": "store",
+      "start": 20.5,
+      "end": 20.74
+    },
+    {
+      "word": "your",
+      "start": 20.74,
+      "end": 20.98
+    },
+    {
+      "word": "notes",
+      "start": 20.98,
+      "end": 21.22
+    },
+    {
+      "word": "in",
+      "start": 21.22,
+      "end": 21.5
+    },
+    {
+      "word": "plain",
+      "start": 21.5,
+      "end": 21.8
+    },
+    {
+      "word": "markdown",
+      "start": 21.8,
+      "end": 22.34
+    },
+    {
+      "word": "files",
+      "start": 22.34,
+      "end": 22.84
+    },
+    {
+      "word": "interconnected",
+      "start": 22.84,
+      "end": 23.52
+    },
+    {
+      "word": "with",
+      "start": 23.52,
+      "end": 23.98
+    },
+    {
+      "word": "simple",
+      "start": 23.98,
+      "end": 24.3
+    },
+    {
+      "word": "bi",
+      "start": 24.3,
+      "end": 24.54
+    },
+    {
+      "word": "-directional",
+      "start": 24.54,
+      "end": 25.04
+    },
+    {
+      "word": "links.",
+      "start": 25.04,
+      "end": 25.34
+    },
+    {
+      "word": "You",
+      "start": 25.88,
+      "end": 26.04
+    },
+    {
+      "word": "build",
+      "start": 26.04,
+      "end": 26.24
+    },
+    {
+      "word": "an",
+      "start": 26.24,
+      "end": 26.48
+    },
+    {
+      "word": "interactive",
+      "start": 26.48,
+      "end": 26.88
+    },
+    {
+      "word": "knowledge",
+      "start": 26.88,
+      "end": 27.36
+    },
+    {
+      "word": "graph",
+      "start": 27.36,
+      "end": 27.74
+    },
+    {
+      "word": "that",
+      "start": 27.74,
+      "end": 28.02
+    },
+    {
+      "word": "scales",
+      "start": 28.02,
+      "end": 28.34
+    },
+    {
+      "word": "your",
+      "start": 28.34,
+      "end": 28.68
+    },
+    {
+      "word": "output",
+      "start": 28.68,
+      "end": 29.0
+    },
+    {
+      "word": "effortlessly.",
+      "start": 29.0,
+      "end": 29.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "This free note-taking tool links your thoughts together like a second brain.",
+      "line2": "FREE PERSONAL KNOWLEDGE BASE",
+      "tag": "\ud83d\uded1 Obsidian",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Obsidian",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Obsidian",
+        "subtitle": "Obsidian"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Obsidian"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Obsidian"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Obsidian",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

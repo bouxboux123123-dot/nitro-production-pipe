@@ -1,0 +1,406 @@
+{
+  "page": "page-05",
+  "idea": "Relume site builder to Webflow export workflow for rapid landing pages",
+  "text": "This is the secret weapon freelance designers use to launch client sites in 24 hours. Solo agencies get trapped manually styling hero sections, button states, and navigation menus for weeks. That chaotic design phase stalls client momentum and crushes your effective hourly billing rate. Build the layout in Relume first, then paste pre-built components directly into Webflow with perfect responsive styling. You ship client prototypes overnight without burnout.",
+  "duration": 29.114,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.46
+    },
+    {
+      "word": "the",
+      "start": 0.46,
+      "end": 0.68
+    },
+    {
+      "word": "secret",
+      "start": 0.68,
+      "end": 0.9
+    },
+    {
+      "word": "weapon",
+      "start": 0.9,
+      "end": 1.4
+    },
+    {
+      "word": "freelance",
+      "start": 1.4,
+      "end": 1.8
+    },
+    {
+      "word": "designers",
+      "start": 1.8,
+      "end": 2.34
+    },
+    {
+      "word": "used",
+      "start": 2.34,
+      "end": 2.84
+    },
+    {
+      "word": "to",
+      "start": 2.84,
+      "end": 3.02
+    },
+    {
+      "word": "launch",
+      "start": 3.02,
+      "end": 3.32
+    },
+    {
+      "word": "client",
+      "start": 3.32,
+      "end": 3.62
+    },
+    {
+      "word": "sites",
+      "start": 3.62,
+      "end": 3.98
+    },
+    {
+      "word": "in",
+      "start": 3.98,
+      "end": 4.26
+    },
+    {
+      "word": "24",
+      "start": 4.26,
+      "end": 4.68
+    },
+    {
+      "word": "hours.",
+      "start": 4.68,
+      "end": 5.5
+    },
+    {
+      "word": "Solo",
+      "start": 6.06,
+      "end": 6.16
+    },
+    {
+      "word": "agencies",
+      "start": 6.16,
+      "end": 6.74
+    },
+    {
+      "word": "get",
+      "start": 6.74,
+      "end": 7.2
+    },
+    {
+      "word": "trapped",
+      "start": 7.2,
+      "end": 7.48
+    },
+    {
+      "word": "manually",
+      "start": 7.48,
+      "end": 7.96
+    },
+    {
+      "word": "styling",
+      "start": 7.96,
+      "end": 8.44
+    },
+    {
+      "word": "hero",
+      "start": 8.44,
+      "end": 8.8
+    },
+    {
+      "word": "sections,",
+      "start": 8.8,
+      "end": 9.32
+    },
+    {
+      "word": "button",
+      "start": 9.92,
+      "end": 9.92
+    },
+    {
+      "word": "states,",
+      "start": 9.92,
+      "end": 10.3
+    },
+    {
+      "word": "and",
+      "start": 10.66,
+      "end": 10.84
+    },
+    {
+      "word": "navigation",
+      "start": 10.84,
+      "end": 11.26
+    },
+    {
+      "word": "menus",
+      "start": 11.26,
+      "end": 11.72
+    },
+    {
+      "word": "for",
+      "start": 11.72,
+      "end": 12.08
+    },
+    {
+      "word": "weeks.",
+      "start": 12.08,
+      "end": 12.5
+    },
+    {
+      "word": "The",
+      "start": 12.84,
+      "end": 13.06
+    },
+    {
+      "word": "chaotic",
+      "start": 13.06,
+      "end": 13.36
+    },
+    {
+      "word": "design",
+      "start": 13.36,
+      "end": 13.98
+    },
+    {
+      "word": "phase",
+      "start": 13.98,
+      "end": 14.4
+    },
+    {
+      "word": "stalls",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "word": "client",
+      "start": 14.72,
+      "end": 15.18
+    },
+    {
+      "word": "momentum",
+      "start": 15.18,
+      "end": 15.68
+    },
+    {
+      "word": "and",
+      "start": 15.68,
+      "end": 16.22
+    },
+    {
+      "word": "crushes",
+      "start": 16.22,
+      "end": 16.54
+    },
+    {
+      "word": "your",
+      "start": 16.54,
+      "end": 17.0
+    },
+    {
+      "word": "effective",
+      "start": 17.0,
+      "end": 17.26
+    },
+    {
+      "word": "hourly",
+      "start": 17.26,
+      "end": 17.66
+    },
+    {
+      "word": "billing",
+      "start": 17.66,
+      "end": 18.02
+    },
+    {
+      "word": "rate.",
+      "start": 18.02,
+      "end": 18.54
+    },
+    {
+      "word": "Build",
+      "start": 18.88,
+      "end": 19.08
+    },
+    {
+      "word": "the",
+      "start": 19.08,
+      "end": 19.28
+    },
+    {
+      "word": "layout",
+      "start": 19.28,
+      "end": 19.54
+    },
+    {
+      "word": "in",
+      "start": 19.54,
+      "end": 19.84
+    },
+    {
+      "word": "Raloom",
+      "start": 19.84,
+      "end": 20.14
+    },
+    {
+      "word": "First,",
+      "start": 20.14,
+      "end": 20.56
+    },
+    {
+      "word": "then",
+      "start": 21.08,
+      "end": 21.18
+    },
+    {
+      "word": "paste",
+      "start": 21.18,
+      "end": 21.48
+    },
+    {
+      "word": "pre",
+      "start": 21.48,
+      "end": 21.76
+    },
+    {
+      "word": "-built",
+      "start": 21.76,
+      "end": 22.0
+    },
+    {
+      "word": "components",
+      "start": 22.0,
+      "end": 22.52
+    },
+    {
+      "word": "directly",
+      "start": 22.52,
+      "end": 23.02
+    },
+    {
+      "word": "into",
+      "start": 23.02,
+      "end": 23.34
+    },
+    {
+      "word": "Webflow",
+      "start": 23.34,
+      "end": 23.78
+    },
+    {
+      "word": "with",
+      "start": 23.78,
+      "end": 24.12
+    },
+    {
+      "word": "perfect",
+      "start": 24.12,
+      "end": 24.54
+    },
+    {
+      "word": "responsive",
+      "start": 24.54,
+      "end": 25.2
+    },
+    {
+      "word": "styling.",
+      "start": 25.2,
+      "end": 25.66
+    },
+    {
+      "word": "You",
+      "start": 25.66,
+      "end": 26.32
+    },
+    {
+      "word": "ship",
+      "start": 26.32,
+      "end": 26.58
+    },
+    {
+      "word": "client",
+      "start": 26.58,
+      "end": 26.94
+    },
+    {
+      "word": "prototypes",
+      "start": 26.94,
+      "end": 27.52
+    },
+    {
+      "word": "overnight",
+      "start": 27.52,
+      "end": 28.1
+    },
+    {
+      "word": "without",
+      "start": 28.1,
+      "end": 28.62
+    },
+    {
+      "word": "burnout.",
+      "start": 28.62,
+      "end": 29.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The secret weapon freelance web designers use to launch sites in 24 hours.",
+      "line2": "BUILD SITES IN MINUTES",
+      "tag": "\ud83d\uded1 Relume site builder to Webflow export workflow for rapid landing pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Relume site builder to Webflow export workflow for rapid landing pages",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Relume site builder to Webflow export workflow for rapid landing pages",
+        "subtitle": "Relume site builder to Webflow export workflow for rapid landing pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Relume site builder to Webflow export workflow for rapid landing pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Relume site builder to Webflow export workflow for rapid landing pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Relume site builder to Webflow export workflow for rapid landing pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

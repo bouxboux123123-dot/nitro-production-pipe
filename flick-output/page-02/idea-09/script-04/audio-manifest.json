@@ -1,0 +1,401 @@
+{
+  "page": "page-02",
+  "idea": "AI email assistant for following up on overdue freelance payments",
+  "text": "The exact follow-up sequence that collected one hundred percent of my unpaid invoices. Pinging delinquent clients across Slack feels intrusive and wastes hours you should spend executing billable strategy. Late payouts compound because independent contractors lack multi-channel escalation rules across their active accounts. Building an Airtable base synced to Gmail delivers tiered payment reminders featuring dynamic late-fee calculations automatically. You get invoices paid in twenty-four hours.",
+  "duration": 30.074,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "exact",
+      "start": 0.22,
+      "end": 0.64
+    },
+    {
+      "word": "follow",
+      "start": 0.64,
+      "end": 1.02
+    },
+    {
+      "word": "-up",
+      "start": 1.02,
+      "end": 1.26
+    },
+    {
+      "word": "sequence",
+      "start": 1.26,
+      "end": 1.66
+    },
+    {
+      "word": "that",
+      "start": 1.66,
+      "end": 2.0
+    },
+    {
+      "word": "collected",
+      "start": 2.0,
+      "end": 2.36
+    },
+    {
+      "word": "100",
+      "start": 2.36,
+      "end": 3.04
+    },
+    {
+      "word": "%",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "word": "of",
+      "start": 3.44,
+      "end": 3.54
+    },
+    {
+      "word": "my",
+      "start": 3.54,
+      "end": 3.9
+    },
+    {
+      "word": "unpaid",
+      "start": 3.9,
+      "end": 4.2
+    },
+    {
+      "word": "invoices.",
+      "start": 4.2,
+      "end": 4.9
+    },
+    {
+      "word": "Pinging",
+      "start": 5.6,
+      "end": 5.76
+    },
+    {
+      "word": "delinquent",
+      "start": 5.76,
+      "end": 6.14
+    },
+    {
+      "word": "clients",
+      "start": 6.14,
+      "end": 6.6
+    },
+    {
+      "word": "across",
+      "start": 6.6,
+      "end": 7.04
+    },
+    {
+      "word": "Slack",
+      "start": 7.04,
+      "end": 7.34
+    },
+    {
+      "word": "feels",
+      "start": 7.34,
+      "end": 7.7
+    },
+    {
+      "word": "intrusive",
+      "start": 7.7,
+      "end": 8.3
+    },
+    {
+      "word": "and",
+      "start": 8.3,
+      "end": 8.7
+    },
+    {
+      "word": "wastes",
+      "start": 8.7,
+      "end": 9.02
+    },
+    {
+      "word": "hours",
+      "start": 9.02,
+      "end": 9.42
+    },
+    {
+      "word": "you",
+      "start": 9.42,
+      "end": 9.66
+    },
+    {
+      "word": "should",
+      "start": 9.66,
+      "end": 9.9
+    },
+    {
+      "word": "spend",
+      "start": 9.9,
+      "end": 10.22
+    },
+    {
+      "word": "executing",
+      "start": 10.22,
+      "end": 10.76
+    },
+    {
+      "word": "billable",
+      "start": 10.76,
+      "end": 11.24
+    },
+    {
+      "word": "strategy.",
+      "start": 11.24,
+      "end": 11.8
+    },
+    {
+      "word": "Late",
+      "start": 12.4,
+      "end": 12.4
+    },
+    {
+      "word": "payouts",
+      "start": 12.4,
+      "end": 12.88
+    },
+    {
+      "word": "compound",
+      "start": 12.88,
+      "end": 13.46
+    },
+    {
+      "word": "because",
+      "start": 13.46,
+      "end": 13.98
+    },
+    {
+      "word": "independent",
+      "start": 13.98,
+      "end": 14.4
+    },
+    {
+      "word": "contractors",
+      "start": 14.4,
+      "end": 15.02
+    },
+    {
+      "word": "lack",
+      "start": 15.02,
+      "end": 15.56
+    },
+    {
+      "word": "multi",
+      "start": 15.56,
+      "end": 16.02
+    },
+    {
+      "word": "-channel",
+      "start": 16.02,
+      "end": 16.34
+    },
+    {
+      "word": "escalation",
+      "start": 16.34,
+      "end": 16.86
+    },
+    {
+      "word": "rules",
+      "start": 16.86,
+      "end": 17.3
+    },
+    {
+      "word": "across",
+      "start": 17.3,
+      "end": 17.68
+    },
+    {
+      "word": "their",
+      "start": 17.68,
+      "end": 17.94
+    },
+    {
+      "word": "active",
+      "start": 17.94,
+      "end": 18.2
+    },
+    {
+      "word": "accounts.",
+      "start": 18.2,
+      "end": 18.72
+    },
+    {
+      "word": "Building",
+      "start": 19.48,
+      "end": 19.56
+    },
+    {
+      "word": "an",
+      "start": 19.56,
+      "end": 19.84
+    },
+    {
+      "word": "irritable",
+      "start": 19.84,
+      "end": 20.22
+    },
+    {
+      "word": "base",
+      "start": 20.22,
+      "end": 20.7
+    },
+    {
+      "word": "synced",
+      "start": 20.7,
+      "end": 21.02
+    },
+    {
+      "word": "to",
+      "start": 21.02,
+      "end": 21.26
+    },
+    {
+      "word": "Gmail",
+      "start": 21.26,
+      "end": 21.62
+    },
+    {
+      "word": "delivers",
+      "start": 21.62,
+      "end": 22.16
+    },
+    {
+      "word": "tiered",
+      "start": 22.16,
+      "end": 22.6
+    },
+    {
+      "word": "payment",
+      "start": 22.6,
+      "end": 22.98
+    },
+    {
+      "word": "reminders",
+      "start": 22.98,
+      "end": 23.54
+    },
+    {
+      "word": "featuring",
+      "start": 23.54,
+      "end": 24.3
+    },
+    {
+      "word": "dynamic",
+      "start": 24.3,
+      "end": 24.9
+    },
+    {
+      "word": "late",
+      "start": 24.9,
+      "end": 25.2
+    },
+    {
+      "word": "fee",
+      "start": 25.2,
+      "end": 25.42
+    },
+    {
+      "word": "calculations",
+      "start": 25.42,
+      "end": 26.16
+    },
+    {
+      "word": "automatically.",
+      "start": 26.16,
+      "end": 26.92
+    },
+    {
+      "word": "You",
+      "start": 26.92,
+      "end": 27.6
+    },
+    {
+      "word": "get",
+      "start": 27.6,
+      "end": 27.88
+    },
+    {
+      "word": "invoices",
+      "start": 27.88,
+      "end": 28.46
+    },
+    {
+      "word": "paid",
+      "start": 28.46,
+      "end": 28.78
+    },
+    {
+      "word": "in",
+      "start": 28.78,
+      "end": 29.16
+    },
+    {
+      "word": "24",
+      "start": 29.16,
+      "end": 29.48
+    },
+    {
+      "word": "hours.",
+      "start": 29.48,
+      "end": 29.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "The exact follow-up sequence that collected 100 percent of my unpaid invoices.",
+      "line2": "COLLECT OVERDUE INVOICES",
+      "tag": "\ud83d\uded1 AI email assistant for following up on overdue freelance payments",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "Voice-to-Invoice Stream: AI email assistant for following up on overdue freelance payments",
+      "primitive": "VoiceWaveToReceipt",
+      "props": {
+        "title": "Voice-to-Invoice Stream: AI email assistant for following up on overdue freelance payments",
+        "subtitle": "AI email assistant for following up on overdue freelance payments"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Overdue Payment Chaser",
+      "primitive": "OverdueChaserTimeline",
+      "props": {
+        "title": "Overdue Payment Chaser",
+        "subtitle": "AI email assistant for following up on overdue freelance payments"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Retainer Value Conversion",
+      "primitive": "HourlyToRetainerConverter",
+      "props": {
+        "title": "Retainer Value Conversion",
+        "subtitle": "AI email assistant for following up on overdue freelance payments"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant 24H Auto-Deposit",
+      "primitive": "StripePayoutCountdown",
+      "props": {
+        "title": "Instant 24H Auto-Deposit",
+        "subtitle": "AI email assistant for following up on overdue freelance payments",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

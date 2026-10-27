@@ -1,0 +1,411 @@
+{
+  "page": "page-05",
+  "idea": "Glide app built on a Google Sheet in under 15 minutes",
+  "text": "Build a custom inventory tracker or client directory with zero code today. Warehouse staff and remote teams waste hours asking for stock updates because spreadsheet links get lost. Outdated stock records lead to overselling items and embarrassing fulfillment delays that damage customer trust. Connect your inventory Google Sheet to Glide to create a searchable mobile catalog with real-time barcode scanning. Your team updates stock counts instantly from their phones.",
+  "duration": 26.88,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Build",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "a",
+      "start": 0.2,
+      "end": 0.42
+    },
+    {
+      "word": "custom",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "inventory",
+      "start": 0.66,
+      "end": 1.08
+    },
+    {
+      "word": "tracker",
+      "start": 1.08,
+      "end": 1.52
+    },
+    {
+      "word": "or",
+      "start": 1.52,
+      "end": 1.92
+    },
+    {
+      "word": "client",
+      "start": 1.92,
+      "end": 2.2
+    },
+    {
+      "word": "directory",
+      "start": 2.2,
+      "end": 2.66
+    },
+    {
+      "word": "with",
+      "start": 2.66,
+      "end": 3.02
+    },
+    {
+      "word": "zero",
+      "start": 3.02,
+      "end": 3.42
+    },
+    {
+      "word": "code",
+      "start": 3.42,
+      "end": 3.7
+    },
+    {
+      "word": "today.",
+      "start": 3.7,
+      "end": 4.3
+    },
+    {
+      "word": "Warehouse",
+      "start": 5.0,
+      "end": 5.0
+    },
+    {
+      "word": "staff",
+      "start": 5.0,
+      "end": 5.42
+    },
+    {
+      "word": "and",
+      "start": 5.42,
+      "end": 5.72
+    },
+    {
+      "word": "remote",
+      "start": 5.72,
+      "end": 5.92
+    },
+    {
+      "word": "teams",
+      "start": 5.92,
+      "end": 6.36
+    },
+    {
+      "word": "waste",
+      "start": 6.36,
+      "end": 6.72
+    },
+    {
+      "word": "hours",
+      "start": 6.72,
+      "end": 7.02
+    },
+    {
+      "word": "asking",
+      "start": 7.02,
+      "end": 7.4
+    },
+    {
+      "word": "for",
+      "start": 7.4,
+      "end": 7.7
+    },
+    {
+      "word": "stock",
+      "start": 7.7,
+      "end": 7.98
+    },
+    {
+      "word": "updates",
+      "start": 7.98,
+      "end": 8.3
+    },
+    {
+      "word": "because",
+      "start": 8.3,
+      "end": 8.98
+    },
+    {
+      "word": "spreadsheet",
+      "start": 8.98,
+      "end": 9.28
+    },
+    {
+      "word": "links",
+      "start": 9.28,
+      "end": 9.6
+    },
+    {
+      "word": "get",
+      "start": 9.6,
+      "end": 9.88
+    },
+    {
+      "word": "lost.",
+      "start": 9.88,
+      "end": 10.26
+    },
+    {
+      "word": "Outdated",
+      "start": 10.88,
+      "end": 11.16
+    },
+    {
+      "word": "stock",
+      "start": 11.16,
+      "end": 11.58
+    },
+    {
+      "word": "records",
+      "start": 11.58,
+      "end": 11.94
+    },
+    {
+      "word": "lead",
+      "start": 11.94,
+      "end": 12.14
+    },
+    {
+      "word": "to",
+      "start": 12.14,
+      "end": 12.42
+    },
+    {
+      "word": "overselling",
+      "start": 12.42,
+      "end": 12.8
+    },
+    {
+      "word": "items",
+      "start": 12.8,
+      "end": 13.16
+    },
+    {
+      "word": "and",
+      "start": 13.16,
+      "end": 13.56
+    },
+    {
+      "word": "embarrassing",
+      "start": 13.56,
+      "end": 13.94
+    },
+    {
+      "word": "fulfillment",
+      "start": 13.94,
+      "end": 14.62
+    },
+    {
+      "word": "delays",
+      "start": 14.62,
+      "end": 15.14
+    },
+    {
+      "word": "that",
+      "start": 15.14,
+      "end": 15.52
+    },
+    {
+      "word": "damage",
+      "start": 15.52,
+      "end": 15.88
+    },
+    {
+      "word": "customer",
+      "start": 15.88,
+      "end": 16.36
+    },
+    {
+      "word": "trust.",
+      "start": 16.36,
+      "end": 16.8
+    },
+    {
+      "word": "Connect",
+      "start": 17.5,
+      "end": 17.5
+    },
+    {
+      "word": "your",
+      "start": 17.5,
+      "end": 17.8
+    },
+    {
+      "word": "inventory",
+      "start": 17.8,
+      "end": 18.26
+    },
+    {
+      "word": "Google",
+      "start": 18.26,
+      "end": 18.68
+    },
+    {
+      "word": "sheet",
+      "start": 18.68,
+      "end": 18.98
+    },
+    {
+      "word": "to",
+      "start": 18.98,
+      "end": 19.22
+    },
+    {
+      "word": "glide",
+      "start": 19.22,
+      "end": 19.54
+    },
+    {
+      "word": "to",
+      "start": 19.54,
+      "end": 19.74
+    },
+    {
+      "word": "create",
+      "start": 19.74,
+      "end": 19.98
+    },
+    {
+      "word": "a",
+      "start": 19.98,
+      "end": 20.26
+    },
+    {
+      "word": "searchable",
+      "start": 20.26,
+      "end": 20.66
+    },
+    {
+      "word": "mobile",
+      "start": 20.66,
+      "end": 21.04
+    },
+    {
+      "word": "catalog",
+      "start": 21.04,
+      "end": 21.42
+    },
+    {
+      "word": "with",
+      "start": 21.42,
+      "end": 21.96
+    },
+    {
+      "word": "real",
+      "start": 21.96,
+      "end": 22.22
+    },
+    {
+      "word": "-time",
+      "start": 22.22,
+      "end": 22.52
+    },
+    {
+      "word": "barcode",
+      "start": 22.52,
+      "end": 23.02
+    },
+    {
+      "word": "scanning.",
+      "start": 23.02,
+      "end": 23.36
+    },
+    {
+      "word": "Your",
+      "start": 23.94,
+      "end": 24.14
+    },
+    {
+      "word": "team",
+      "start": 24.14,
+      "end": 24.44
+    },
+    {
+      "word": "updates",
+      "start": 24.44,
+      "end": 24.84
+    },
+    {
+      "word": "stock",
+      "start": 24.84,
+      "end": 25.2
+    },
+    {
+      "word": "counts",
+      "start": 25.2,
+      "end": 25.56
+    },
+    {
+      "word": "instantly",
+      "start": 25.56,
+      "end": 25.9
+    },
+    {
+      "word": "from",
+      "start": 25.9,
+      "end": 26.18
+    },
+    {
+      "word": "their",
+      "start": 26.18,
+      "end": 26.4
+    },
+    {
+      "word": "phones.",
+      "start": 26.4,
+      "end": 26.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "How to build a custom inventory tracker or client directory with zero code.",
+      "line2": "BUILD APPS IN 15-MINUTES",
+      "tag": "\ud83d\uded1 Glide app built on a Google Sheet in under 15 minutes",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Glide app built on a Google Sheet in under 15 minutes",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Glide app built on a Google Sheet in under 15 minutes",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

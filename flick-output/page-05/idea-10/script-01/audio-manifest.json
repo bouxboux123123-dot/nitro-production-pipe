@@ -1,0 +1,406 @@
+{
+  "page": "page-05",
+  "idea": "Notion automated database buttons for recurring task creation",
+  "text": "This hidden Notion feature creates recurring checklists in one click. Operations managers waste Monday mornings duplicating task templates and resetting checkboxes for every project sprint. Missing a manual template duplication means forgotten deliverables and chaotic handoffs between team members. Set up Notion native recurring database templates to auto-populate daily auditing tasks at eight in the morning. Your standard procedures run entirely on autopilot, giving you your weekends back.",
+  "duration": 29.754,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "hidden",
+      "start": 0.28,
+      "end": 0.52
+    },
+    {
+      "word": "Notion",
+      "start": 0.52,
+      "end": 0.88
+    },
+    {
+      "word": "feature",
+      "start": 0.88,
+      "end": 1.28
+    },
+    {
+      "word": "creates",
+      "start": 1.28,
+      "end": 1.88
+    },
+    {
+      "word": "recurring",
+      "start": 1.88,
+      "end": 2.4
+    },
+    {
+      "word": "checklists",
+      "start": 2.4,
+      "end": 2.88
+    },
+    {
+      "word": "in",
+      "start": 2.88,
+      "end": 3.14
+    },
+    {
+      "word": "one",
+      "start": 3.14,
+      "end": 3.38
+    },
+    {
+      "word": "click.",
+      "start": 3.38,
+      "end": 3.76
+    },
+    {
+      "word": "Operations",
+      "start": 4.56,
+      "end": 4.76
+    },
+    {
+      "word": "managers",
+      "start": 4.76,
+      "end": 5.36
+    },
+    {
+      "word": "waste",
+      "start": 5.36,
+      "end": 5.76
+    },
+    {
+      "word": "Monday",
+      "start": 5.76,
+      "end": 6.06
+    },
+    {
+      "word": "mornings,",
+      "start": 6.06,
+      "end": 6.66
+    },
+    {
+      "word": "duplicating",
+      "start": 6.96,
+      "end": 7.44
+    },
+    {
+      "word": "task",
+      "start": 7.44,
+      "end": 7.84
+    },
+    {
+      "word": "templates,",
+      "start": 7.84,
+      "end": 8.3
+    },
+    {
+      "word": "and",
+      "start": 8.78,
+      "end": 8.82
+    },
+    {
+      "word": "resetting",
+      "start": 8.82,
+      "end": 9.28
+    },
+    {
+      "word": "checkboxes",
+      "start": 9.28,
+      "end": 9.82
+    },
+    {
+      "word": "for",
+      "start": 9.82,
+      "end": 10.16
+    },
+    {
+      "word": "every",
+      "start": 10.16,
+      "end": 10.46
+    },
+    {
+      "word": "project",
+      "start": 10.46,
+      "end": 10.88
+    },
+    {
+      "word": "sprint.",
+      "start": 10.88,
+      "end": 11.3
+    },
+    {
+      "word": "Missing",
+      "start": 12.02,
+      "end": 12.16
+    },
+    {
+      "word": "a",
+      "start": 12.16,
+      "end": 12.48
+    },
+    {
+      "word": "manual",
+      "start": 12.48,
+      "end": 12.74
+    },
+    {
+      "word": "template",
+      "start": 12.74,
+      "end": 13.16
+    },
+    {
+      "word": "duplication",
+      "start": 13.16,
+      "end": 13.74
+    },
+    {
+      "word": "means",
+      "start": 13.74,
+      "end": 14.4
+    },
+    {
+      "word": "forgotten",
+      "start": 14.4,
+      "end": 14.9
+    },
+    {
+      "word": "deliverables",
+      "start": 14.9,
+      "end": 15.58
+    },
+    {
+      "word": "and",
+      "start": 15.58,
+      "end": 15.92
+    },
+    {
+      "word": "chaotic",
+      "start": 15.92,
+      "end": 16.3
+    },
+    {
+      "word": "handoffs",
+      "start": 16.3,
+      "end": 16.82
+    },
+    {
+      "word": "between",
+      "start": 16.82,
+      "end": 17.2
+    },
+    {
+      "word": "team",
+      "start": 17.2,
+      "end": 17.54
+    },
+    {
+      "word": "members.",
+      "start": 17.54,
+      "end": 17.98
+    },
+    {
+      "word": "Set",
+      "start": 18.4,
+      "end": 18.54
+    },
+    {
+      "word": "up",
+      "start": 18.54,
+      "end": 18.72
+    },
+    {
+      "word": "Notion",
+      "start": 18.72,
+      "end": 19.14
+    },
+    {
+      "word": "native",
+      "start": 19.14,
+      "end": 19.54
+    },
+    {
+      "word": "recurring",
+      "start": 19.54,
+      "end": 20.08
+    },
+    {
+      "word": "database",
+      "start": 20.08,
+      "end": 20.58
+    },
+    {
+      "word": "templates",
+      "start": 20.58,
+      "end": 20.96
+    },
+    {
+      "word": "to",
+      "start": 20.96,
+      "end": 21.34
+    },
+    {
+      "word": "auto",
+      "start": 21.34,
+      "end": 21.56
+    },
+    {
+      "word": "populate",
+      "start": 21.56,
+      "end": 22.04
+    },
+    {
+      "word": "daily",
+      "start": 22.04,
+      "end": 22.5
+    },
+    {
+      "word": "auditing",
+      "start": 22.5,
+      "end": 22.86
+    },
+    {
+      "word": "tasks",
+      "start": 22.86,
+      "end": 23.22
+    },
+    {
+      "word": "at",
+      "start": 23.22,
+      "end": 23.5
+    },
+    {
+      "word": "eight",
+      "start": 23.5,
+      "end": 23.72
+    },
+    {
+      "word": "in",
+      "start": 23.72,
+      "end": 23.88
+    },
+    {
+      "word": "the",
+      "start": 23.88,
+      "end": 24.06
+    },
+    {
+      "word": "morning.",
+      "start": 24.06,
+      "end": 24.3
+    },
+    {
+      "word": "Your",
+      "start": 24.9,
+      "end": 25.08
+    },
+    {
+      "word": "standard",
+      "start": 25.08,
+      "end": 25.4
+    },
+    {
+      "word": "procedures",
+      "start": 25.4,
+      "end": 25.9
+    },
+    {
+      "word": "run",
+      "start": 25.9,
+      "end": 26.44
+    },
+    {
+      "word": "entirely",
+      "start": 26.44,
+      "end": 26.92
+    },
+    {
+      "word": "on",
+      "start": 26.92,
+      "end": 27.34
+    },
+    {
+      "word": "autopilot,",
+      "start": 27.34,
+      "end": 27.98
+    },
+    {
+      "word": "giving",
+      "start": 28.5,
+      "end": 28.52
+    },
+    {
+      "word": "you",
+      "start": 28.52,
+      "end": 28.76
+    },
+    {
+      "word": "your",
+      "start": 28.76,
+      "end": 28.98
+    },
+    {
+      "word": "weekends",
+      "start": 28.98,
+      "end": 29.26
+    },
+    {
+      "word": "back.",
+      "start": 29.26,
+      "end": 29.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The hidden Notion feature that creates recurring checklists in one click.",
+      "line2": "1-CLICK RECURRING TASKS",
+      "tag": "\ud83d\uded1 Notion automated database buttons for recurring task creation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Notion automated database buttons for recurring task creation",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Notion automated database buttons for recurring task creation",
+        "subtitle": "Notion automated database buttons for recurring task creation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Notion automated database buttons for recurring task creation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Notion automated database buttons for recurring task creation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Notion automated database buttons for recurring task creation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

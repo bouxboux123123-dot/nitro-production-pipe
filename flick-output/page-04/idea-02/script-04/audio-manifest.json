@@ -1,0 +1,386 @@
+{
+  "page": "page-04",
+  "idea": "N8N self-hosted: unlimited workflow automations for zero dollars",
+  "text": "Stop paying per task on Zapier or Make with this unlimited free alternative. As your agency scales, routine operations like client onboarding quickly consume monthly task limits. When task limits hit, workflows pause entirely and leave critical customer requests hanging unanswered. Self-hosting n8n on a cheap server eliminates task counting and runs automations continuously without interruption. You eliminate operational halts and save thousands annually.",
+  "duration": 28.965,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "paying",
+      "start": 0.38,
+      "end": 0.72
+    },
+    {
+      "word": "per",
+      "start": 0.72,
+      "end": 0.92
+    },
+    {
+      "word": "task",
+      "start": 0.92,
+      "end": 1.2
+    },
+    {
+      "word": "on",
+      "start": 1.2,
+      "end": 1.48
+    },
+    {
+      "word": "Zapier",
+      "start": 1.48,
+      "end": 1.9
+    },
+    {
+      "word": "or",
+      "start": 1.9,
+      "end": 2.22
+    },
+    {
+      "word": "make",
+      "start": 2.22,
+      "end": 2.48
+    },
+    {
+      "word": "with",
+      "start": 2.48,
+      "end": 2.68
+    },
+    {
+      "word": "this",
+      "start": 2.68,
+      "end": 2.98
+    },
+    {
+      "word": "unlimited",
+      "start": 2.98,
+      "end": 3.42
+    },
+    {
+      "word": "free",
+      "start": 3.42,
+      "end": 3.74
+    },
+    {
+      "word": "alternative.",
+      "start": 3.74,
+      "end": 4.32
+    },
+    {
+      "word": "As",
+      "start": 4.94,
+      "end": 5.08
+    },
+    {
+      "word": "your",
+      "start": 5.08,
+      "end": 5.28
+    },
+    {
+      "word": "agency",
+      "start": 5.28,
+      "end": 5.64
+    },
+    {
+      "word": "scales,",
+      "start": 5.64,
+      "end": 6.18
+    },
+    {
+      "word": "routine",
+      "start": 6.52,
+      "end": 6.88
+    },
+    {
+      "word": "operations",
+      "start": 6.88,
+      "end": 7.48
+    },
+    {
+      "word": "like",
+      "start": 7.48,
+      "end": 7.84
+    },
+    {
+      "word": "client",
+      "start": 7.84,
+      "end": 8.18
+    },
+    {
+      "word": "onboarding",
+      "start": 8.18,
+      "end": 8.8
+    },
+    {
+      "word": "quickly",
+      "start": 8.8,
+      "end": 9.12
+    },
+    {
+      "word": "consume",
+      "start": 9.12,
+      "end": 9.54
+    },
+    {
+      "word": "monthly",
+      "start": 9.54,
+      "end": 10.02
+    },
+    {
+      "word": "task",
+      "start": 10.02,
+      "end": 10.42
+    },
+    {
+      "word": "limits.",
+      "start": 10.42,
+      "end": 10.74
+    },
+    {
+      "word": "When",
+      "start": 11.32,
+      "end": 11.58
+    },
+    {
+      "word": "task",
+      "start": 11.58,
+      "end": 11.88
+    },
+    {
+      "word": "limits",
+      "start": 11.88,
+      "end": 12.16
+    },
+    {
+      "word": "hit,",
+      "start": 12.16,
+      "end": 12.6
+    },
+    {
+      "word": "workflows",
+      "start": 13.02,
+      "end": 13.34
+    },
+    {
+      "word": "pause",
+      "start": 13.34,
+      "end": 13.82
+    },
+    {
+      "word": "entirely",
+      "start": 13.82,
+      "end": 14.36
+    },
+    {
+      "word": "and",
+      "start": 14.36,
+      "end": 14.62
+    },
+    {
+      "word": "leave",
+      "start": 14.62,
+      "end": 14.96
+    },
+    {
+      "word": "critical",
+      "start": 14.96,
+      "end": 15.4
+    },
+    {
+      "word": "customer",
+      "start": 15.4,
+      "end": 15.84
+    },
+    {
+      "word": "requests",
+      "start": 15.84,
+      "end": 16.3
+    },
+    {
+      "word": "hanging",
+      "start": 16.3,
+      "end": 16.78
+    },
+    {
+      "word": "unanswered.",
+      "start": 16.78,
+      "end": 17.32
+    },
+    {
+      "word": "Self",
+      "start": 17.98,
+      "end": 18.04
+    },
+    {
+      "word": "-hosting",
+      "start": 18.04,
+      "end": 18.46
+    },
+    {
+      "word": "N8N",
+      "start": 18.46,
+      "end": 19.28
+    },
+    {
+      "word": "on",
+      "start": 19.28,
+      "end": 19.5
+    },
+    {
+      "word": "a",
+      "start": 19.5,
+      "end": 19.66
+    },
+    {
+      "word": "cheap",
+      "start": 19.66,
+      "end": 19.84
+    },
+    {
+      "word": "server",
+      "start": 19.84,
+      "end": 20.32
+    },
+    {
+      "word": "eliminates",
+      "start": 20.32,
+      "end": 20.8
+    },
+    {
+      "word": "task",
+      "start": 20.8,
+      "end": 21.34
+    },
+    {
+      "word": "counting",
+      "start": 21.34,
+      "end": 21.8
+    },
+    {
+      "word": "and",
+      "start": 21.8,
+      "end": 22.24
+    },
+    {
+      "word": "runs",
+      "start": 22.24,
+      "end": 22.6
+    },
+    {
+      "word": "automations",
+      "start": 22.6,
+      "end": 23.3
+    },
+    {
+      "word": "continuously",
+      "start": 23.3,
+      "end": 24.02
+    },
+    {
+      "word": "without",
+      "start": 24.02,
+      "end": 24.5
+    },
+    {
+      "word": "interruption.",
+      "start": 24.5,
+      "end": 24.98
+    },
+    {
+      "word": "You",
+      "start": 24.98,
+      "end": 25.78
+    },
+    {
+      "word": "eliminate",
+      "start": 25.78,
+      "end": 26.22
+    },
+    {
+      "word": "operational",
+      "start": 26.22,
+      "end": 26.9
+    },
+    {
+      "word": "halts",
+      "start": 26.9,
+      "end": 27.42
+    },
+    {
+      "word": "and",
+      "start": 27.42,
+      "end": 27.66
+    },
+    {
+      "word": "save",
+      "start": 27.66,
+      "end": 27.92
+    },
+    {
+      "word": "thousands",
+      "start": 27.92,
+      "end": 28.46
+    },
+    {
+      "word": "annually.",
+      "start": 28.46,
+      "end": 28.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop paying per task on Zapier or Make: here is the unlimited free fix.",
+      "line2": "UNLIMITED FREE AUTOMATIONS",
+      "tag": "\ud83d\uded1 N8N self-hosted",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: N8N self-hosted",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: N8N self-hosted",
+        "subtitle": "N8N self-hosted"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "N8N self-hosted"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "N8N self-hosted"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "N8N self-hosted",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

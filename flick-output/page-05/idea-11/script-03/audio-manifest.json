@@ -1,0 +1,411 @@
+{
+  "page": "page-05",
+  "idea": "Webflow logic forms that route leads to different sales reps",
+  "text": "This simple logic branch speeds up your sales response time to under two minutes. Sending website inquiries to a single generic inbox results in missed enterprise revenue. High-ticket prospects expect immediate answers, but manual triage delays meeting booking links for hours. Set up branch conditions inside Make.com to instantly dispatch Calendly links to enterprise leads via SMS. You double booked discovery calls while eliminating costly client churn.",
+  "duration": 27.919,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "simple",
+      "start": 0.34,
+      "end": 0.6
+    },
+    {
+      "word": "logic",
+      "start": 0.6,
+      "end": 0.98
+    },
+    {
+      "word": "branch",
+      "start": 0.98,
+      "end": 1.44
+    },
+    {
+      "word": "speeds",
+      "start": 1.44,
+      "end": 1.74
+    },
+    {
+      "word": "up",
+      "start": 1.74,
+      "end": 1.94
+    },
+    {
+      "word": "your",
+      "start": 1.94,
+      "end": 2.18
+    },
+    {
+      "word": "sales",
+      "start": 2.18,
+      "end": 2.4
+    },
+    {
+      "word": "response",
+      "start": 2.4,
+      "end": 2.92
+    },
+    {
+      "word": "time",
+      "start": 2.92,
+      "end": 3.32
+    },
+    {
+      "word": "to",
+      "start": 3.32,
+      "end": 3.48
+    },
+    {
+      "word": "under",
+      "start": 3.48,
+      "end": 3.64
+    },
+    {
+      "word": "two",
+      "start": 3.64,
+      "end": 3.96
+    },
+    {
+      "word": "minutes,",
+      "start": 3.96,
+      "end": 4.4
+    },
+    {
+      "word": "sending",
+      "start": 5.02,
+      "end": 5.02
+    },
+    {
+      "word": "website",
+      "start": 5.02,
+      "end": 5.52
+    },
+    {
+      "word": "inquiries",
+      "start": 5.52,
+      "end": 5.94
+    },
+    {
+      "word": "to",
+      "start": 5.94,
+      "end": 6.3
+    },
+    {
+      "word": "a",
+      "start": 6.3,
+      "end": 6.5
+    },
+    {
+      "word": "single",
+      "start": 6.5,
+      "end": 6.82
+    },
+    {
+      "word": "generic",
+      "start": 6.82,
+      "end": 7.28
+    },
+    {
+      "word": "inbox",
+      "start": 7.28,
+      "end": 7.76
+    },
+    {
+      "word": "results",
+      "start": 7.76,
+      "end": 8.26
+    },
+    {
+      "word": "in",
+      "start": 8.26,
+      "end": 8.54
+    },
+    {
+      "word": "missed",
+      "start": 8.54,
+      "end": 8.84
+    },
+    {
+      "word": "enterprise",
+      "start": 8.84,
+      "end": 9.34
+    },
+    {
+      "word": "revenue.",
+      "start": 9.34,
+      "end": 9.84
+    },
+    {
+      "word": "High",
+      "start": 10.64,
+      "end": 10.66
+    },
+    {
+      "word": "-ticket",
+      "start": 10.66,
+      "end": 10.88
+    },
+    {
+      "word": "prospects",
+      "start": 10.88,
+      "end": 11.42
+    },
+    {
+      "word": "expect",
+      "start": 11.42,
+      "end": 11.98
+    },
+    {
+      "word": "immediate",
+      "start": 11.98,
+      "end": 12.36
+    },
+    {
+      "word": "answers,",
+      "start": 12.36,
+      "end": 12.88
+    },
+    {
+      "word": "but",
+      "start": 13.34,
+      "end": 13.5
+    },
+    {
+      "word": "manual",
+      "start": 13.5,
+      "end": 13.9
+    },
+    {
+      "word": "triage",
+      "start": 13.9,
+      "end": 14.44
+    },
+    {
+      "word": "delays",
+      "start": 14.44,
+      "end": 14.76
+    },
+    {
+      "word": "meeting",
+      "start": 14.76,
+      "end": 15.16
+    },
+    {
+      "word": "booking",
+      "start": 15.16,
+      "end": 15.48
+    },
+    {
+      "word": "links",
+      "start": 15.48,
+      "end": 15.78
+    },
+    {
+      "word": "for",
+      "start": 15.78,
+      "end": 16.08
+    },
+    {
+      "word": "hours,",
+      "start": 16.08,
+      "end": 16.62
+    },
+    {
+      "word": "set",
+      "start": 16.9,
+      "end": 17.0
+    },
+    {
+      "word": "up",
+      "start": 17.0,
+      "end": 17.2
+    },
+    {
+      "word": "branch",
+      "start": 17.2,
+      "end": 17.44
+    },
+    {
+      "word": "conditions",
+      "start": 17.44,
+      "end": 17.94
+    },
+    {
+      "word": "in",
+      "start": 17.94,
+      "end": 18.28
+    },
+    {
+      "word": "side",
+      "start": 18.28,
+      "end": 18.52
+    },
+    {
+      "word": "-make,",
+      "start": 18.52,
+      "end": 18.88
+    },
+    {
+      "word": "calm",
+      "start": 19.46,
+      "end": 19.48
+    },
+    {
+      "word": "to",
+      "start": 19.48,
+      "end": 19.92
+    },
+    {
+      "word": "instantly",
+      "start": 19.92,
+      "end": 20.06
+    },
+    {
+      "word": "dispatch",
+      "start": 20.06,
+      "end": 20.62
+    },
+    {
+      "word": "callingly",
+      "start": 20.62,
+      "end": 21.1
+    },
+    {
+      "word": "links",
+      "start": 21.1,
+      "end": 21.44
+    },
+    {
+      "word": "to",
+      "start": 21.44,
+      "end": 21.82
+    },
+    {
+      "word": "enterprise",
+      "start": 21.82,
+      "end": 22.1
+    },
+    {
+      "word": "leads",
+      "start": 22.1,
+      "end": 22.56
+    },
+    {
+      "word": "via",
+      "start": 22.56,
+      "end": 22.9
+    },
+    {
+      "word": "SMS.",
+      "start": 22.9,
+      "end": 23.38
+    },
+    {
+      "word": "You",
+      "start": 23.38,
+      "end": 24.3
+    },
+    {
+      "word": "double",
+      "start": 24.3,
+      "end": 24.62
+    },
+    {
+      "word": "book",
+      "start": 24.62,
+      "end": 24.96
+    },
+    {
+      "word": "discovery",
+      "start": 24.96,
+      "end": 25.36
+    },
+    {
+      "word": "calls",
+      "start": 25.36,
+      "end": 25.82
+    },
+    {
+      "word": "while",
+      "start": 25.82,
+      "end": 26.1
+    },
+    {
+      "word": "eliminating",
+      "start": 26.1,
+      "end": 26.56
+    },
+    {
+      "word": "costly",
+      "start": 26.56,
+      "end": 27.12
+    },
+    {
+      "word": "client",
+      "start": 27.12,
+      "end": 27.5
+    },
+    {
+      "word": "churn.",
+      "start": 27.5,
+      "end": 27.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The simple logic branch that speeds up your sales response time to under 2 minutes.",
+      "line2": "ROUTE LEADS INSTANTLY",
+      "tag": "\ud83d\uded1 Webflow logic forms that route leads to different sales reps",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Webflow logic forms that route leads to different sales reps",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Webflow logic forms that route leads to different sales reps",
+        "subtitle": "Webflow logic forms that route leads to different sales reps"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Webflow logic forms that route leads to different sales reps"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Webflow logic forms that route leads to different sales reps"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Webflow logic forms that route leads to different sales reps",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "page": "page-06",
+  "idea": "Async video updates that replace 30-minute daily standup meetings",
+  "text": "This simple async routine gives your remote team back five hours of deep work every week. Constant mid-day check-ins pull developers out of flow state, requiring twenty minutes just to refocus. Status fragmentation occurs when project progress is scattered across disjointed Slack threads without a central log. Implement an automated morning standup bot that collects Loom links and writes summaries into ClickUp. Your team regains uninterrupted afternoons for complex building.",
+  "duration": 28.815,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "simple",
+      "start": 0.36,
+      "end": 0.58
+    },
+    {
+      "word": "as",
+      "start": 0.58,
+      "end": 0.8
+    },
+    {
+      "word": "sink",
+      "start": 0.8,
+      "end": 0.98
+    },
+    {
+      "word": "routine",
+      "start": 0.98,
+      "end": 1.5
+    },
+    {
+      "word": "gives",
+      "start": 1.5,
+      "end": 1.96
+    },
+    {
+      "word": "your",
+      "start": 1.96,
+      "end": 2.2
+    },
+    {
+      "word": "remote",
+      "start": 2.2,
+      "end": 2.44
+    },
+    {
+      "word": "team",
+      "start": 2.44,
+      "end": 2.8
+    },
+    {
+      "word": "back",
+      "start": 2.8,
+      "end": 3.12
+    },
+    {
+      "word": "five",
+      "start": 3.12,
+      "end": 3.52
+    },
+    {
+      "word": "hours",
+      "start": 3.52,
+      "end": 3.84
+    },
+    {
+      "word": "of",
+      "start": 3.84,
+      "end": 4.08
+    },
+    {
+      "word": "deep",
+      "start": 4.08,
+      "end": 4.32
+    },
+    {
+      "word": "work",
+      "start": 4.32,
+      "end": 4.6
+    },
+    {
+      "word": "every",
+      "start": 4.6,
+      "end": 4.86
+    },
+    {
+      "word": "week.",
+      "start": 4.86,
+      "end": 5.5
+    },
+    {
+      "word": "Constant",
+      "start": 6.12,
+      "end": 6.12
+    },
+    {
+      "word": "midday",
+      "start": 6.12,
+      "end": 6.48
+    },
+    {
+      "word": "check",
+      "start": 6.48,
+      "end": 6.86
+    },
+    {
+      "word": "-ins",
+      "start": 6.86,
+      "end": 7.08
+    },
+    {
+      "word": "pull",
+      "start": 7.08,
+      "end": 7.4
+    },
+    {
+      "word": "developers",
+      "start": 7.4,
+      "end": 7.82
+    },
+    {
+      "word": "out",
+      "start": 7.82,
+      "end": 8.16
+    },
+    {
+      "word": "of",
+      "start": 8.16,
+      "end": 8.24
+    },
+    {
+      "word": "flow",
+      "start": 8.24,
+      "end": 8.44
+    },
+    {
+      "word": "state,",
+      "start": 8.44,
+      "end": 8.9
+    },
+    {
+      "word": "requiring",
+      "start": 9.58,
+      "end": 9.58
+    },
+    {
+      "word": "20",
+      "start": 9.58,
+      "end": 10.1
+    },
+    {
+      "word": "minutes",
+      "start": 10.1,
+      "end": 10.4
+    },
+    {
+      "word": "just",
+      "start": 10.4,
+      "end": 10.7
+    },
+    {
+      "word": "to",
+      "start": 10.7,
+      "end": 10.86
+    },
+    {
+      "word": "refocus.",
+      "start": 10.86,
+      "end": 11.36
+    },
+    {
+      "word": "Status",
+      "start": 12.14,
+      "end": 12.18
+    },
+    {
+      "word": "fragmentation",
+      "start": 12.18,
+      "end": 12.82
+    },
+    {
+      "word": "occurs",
+      "start": 12.82,
+      "end": 13.28
+    },
+    {
+      "word": "when",
+      "start": 13.28,
+      "end": 13.62
+    },
+    {
+      "word": "project",
+      "start": 13.62,
+      "end": 14.0
+    },
+    {
+      "word": "progress",
+      "start": 14.0,
+      "end": 14.44
+    },
+    {
+      "word": "is",
+      "start": 14.44,
+      "end": 14.78
+    },
+    {
+      "word": "scattered",
+      "start": 14.78,
+      "end": 15.04
+    },
+    {
+      "word": "across",
+      "start": 15.04,
+      "end": 15.46
+    },
+    {
+      "word": "disjointed",
+      "start": 15.46,
+      "end": 16.08
+    },
+    {
+      "word": "slack",
+      "start": 16.08,
+      "end": 16.4
+    },
+    {
+      "word": "threads",
+      "start": 16.4,
+      "end": 16.8
+    },
+    {
+      "word": "without",
+      "start": 16.8,
+      "end": 17.38
+    },
+    {
+      "word": "a",
+      "start": 17.38,
+      "end": 17.66
+    },
+    {
+      "word": "central",
+      "start": 17.66,
+      "end": 17.94
+    },
+    {
+      "word": "log.",
+      "start": 17.94,
+      "end": 18.4
+    },
+    {
+      "word": "Implement",
+      "start": 19.02,
+      "end": 19.28
+    },
+    {
+      "word": "an",
+      "start": 19.28,
+      "end": 19.92
+    },
+    {
+      "word": "automated",
+      "start": 19.92,
+      "end": 20.28
+    },
+    {
+      "word": "morning",
+      "start": 20.28,
+      "end": 20.74
+    },
+    {
+      "word": "stand",
+      "start": 20.74,
+      "end": 21.04
+    },
+    {
+      "word": "-up",
+      "start": 21.04,
+      "end": 21.26
+    },
+    {
+      "word": "bot",
+      "start": 21.26,
+      "end": 21.48
+    },
+    {
+      "word": "that",
+      "start": 21.48,
+      "end": 21.78
+    },
+    {
+      "word": "collects",
+      "start": 21.78,
+      "end": 22.1
+    },
+    {
+      "word": "loom",
+      "start": 22.1,
+      "end": 22.4
+    },
+    {
+      "word": "links",
+      "start": 22.4,
+      "end": 22.74
+    },
+    {
+      "word": "and",
+      "start": 22.74,
+      "end": 23.18
+    },
+    {
+      "word": "writes",
+      "start": 23.18,
+      "end": 23.5
+    },
+    {
+      "word": "summaries",
+      "start": 23.5,
+      "end": 23.92
+    },
+    {
+      "word": "into",
+      "start": 23.92,
+      "end": 24.24
+    },
+    {
+      "word": "click",
+      "start": 24.24,
+      "end": 24.48
+    },
+    {
+      "word": "-up.",
+      "start": 24.48,
+      "end": 24.84
+    },
+    {
+      "word": "Your",
+      "start": 24.84,
+      "end": 25.46
+    },
+    {
+      "word": "team",
+      "start": 25.46,
+      "end": 25.82
+    },
+    {
+      "word": "regains",
+      "start": 25.82,
+      "end": 26.3
+    },
+    {
+      "word": "uninterrupted",
+      "start": 26.3,
+      "end": 26.88
+    },
+    {
+      "word": "afternoons",
+      "start": 26.88,
+      "end": 27.68
+    },
+    {
+      "word": "for",
+      "start": 27.68,
+      "end": 27.94
+    },
+    {
+      "word": "complex",
+      "start": 27.94,
+      "end": 28.34
+    },
+    {
+      "word": "building.",
+      "start": 28.34,
+      "end": 28.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The simple async routine that gives your team back 5 hours of deep work a week.",
+      "line2": "KILL 30-MIN STANDUPS",
+      "tag": "\ud83d\uded1 Async video updates that replace 30-minute daily standup meetings",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Async video updates that replace 30-minute daily standup meetings",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Async video updates that replace 30-minute daily standup meetings",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

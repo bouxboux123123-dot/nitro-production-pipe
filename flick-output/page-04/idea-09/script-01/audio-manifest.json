@@ -1,0 +1,396 @@
+{
+  "page": "page-04",
+  "idea": "Ollama: run powerful AI models completely free on your laptop",
+  "text": "How to run ChatGPT-level AI models on your laptop with zero subscription fees. Monthly AI fees stack up while exposing private client files to cloud servers. Setting up local models traditionally meant wrestling with broken Python dependencies and complicated terminal drivers. Instead, download Ollama to run models like Llama three with a single command. You get private, blazing-fast reasoning running offline on your hardware.",
+  "duration": 25.963,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "to",
+      "start": 0.24,
+      "end": 0.32
+    },
+    {
+      "word": "run",
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "word": "chat",
+      "start": 0.56,
+      "end": 0.88
+    },
+    {
+      "word": "GPT",
+      "start": 0.88,
+      "end": 1.34
+    },
+    {
+      "word": "-level",
+      "start": 1.34,
+      "end": 1.64
+    },
+    {
+      "word": "AI",
+      "start": 1.64,
+      "end": 2.04
+    },
+    {
+      "word": "models",
+      "start": 2.04,
+      "end": 2.32
+    },
+    {
+      "word": "on",
+      "start": 2.32,
+      "end": 2.52
+    },
+    {
+      "word": "your",
+      "start": 2.52,
+      "end": 2.68
+    },
+    {
+      "word": "laptop",
+      "start": 2.68,
+      "end": 3.0
+    },
+    {
+      "word": "with",
+      "start": 3.0,
+      "end": 3.48
+    },
+    {
+      "word": "zero",
+      "start": 3.48,
+      "end": 3.86
+    },
+    {
+      "word": "subscription",
+      "start": 3.86,
+      "end": 4.44
+    },
+    {
+      "word": "fees.",
+      "start": 4.44,
+      "end": 5.16
+    },
+    {
+      "word": "Monthly",
+      "start": 5.82,
+      "end": 5.84
+    },
+    {
+      "word": "AI",
+      "start": 5.84,
+      "end": 6.4
+    },
+    {
+      "word": "fees",
+      "start": 6.4,
+      "end": 6.72
+    },
+    {
+      "word": "stack",
+      "start": 6.72,
+      "end": 6.98
+    },
+    {
+      "word": "up",
+      "start": 6.98,
+      "end": 7.14
+    },
+    {
+      "word": "while",
+      "start": 7.14,
+      "end": 7.36
+    },
+    {
+      "word": "exposing",
+      "start": 7.36,
+      "end": 7.84
+    },
+    {
+      "word": "private",
+      "start": 7.84,
+      "end": 8.24
+    },
+    {
+      "word": "client",
+      "start": 8.24,
+      "end": 8.6
+    },
+    {
+      "word": "files",
+      "start": 8.6,
+      "end": 8.92
+    },
+    {
+      "word": "to",
+      "start": 8.92,
+      "end": 9.16
+    },
+    {
+      "word": "cloud",
+      "start": 9.16,
+      "end": 9.48
+    },
+    {
+      "word": "servers.",
+      "start": 9.48,
+      "end": 9.9
+    },
+    {
+      "word": "Setting",
+      "start": 10.62,
+      "end": 10.7
+    },
+    {
+      "word": "up",
+      "start": 10.7,
+      "end": 10.98
+    },
+    {
+      "word": "local",
+      "start": 10.98,
+      "end": 11.18
+    },
+    {
+      "word": "models",
+      "start": 11.18,
+      "end": 11.64
+    },
+    {
+      "word": "traditionally",
+      "start": 11.64,
+      "end": 12.04
+    },
+    {
+      "word": "meant",
+      "start": 12.04,
+      "end": 12.38
+    },
+    {
+      "word": "wrestling",
+      "start": 12.38,
+      "end": 12.7
+    },
+    {
+      "word": "with",
+      "start": 12.7,
+      "end": 13.0
+    },
+    {
+      "word": "broken",
+      "start": 13.0,
+      "end": 13.32
+    },
+    {
+      "word": "Python",
+      "start": 13.32,
+      "end": 13.66
+    },
+    {
+      "word": "dependencies",
+      "start": 13.66,
+      "end": 14.24
+    },
+    {
+      "word": "and",
+      "start": 14.24,
+      "end": 14.98
+    },
+    {
+      "word": "complicated",
+      "start": 14.98,
+      "end": 15.34
+    },
+    {
+      "word": "terminal",
+      "start": 15.34,
+      "end": 15.88
+    },
+    {
+      "word": "drivers.",
+      "start": 15.88,
+      "end": 16.34
+    },
+    {
+      "word": "Instead,",
+      "start": 17.08,
+      "end": 17.44
+    },
+    {
+      "word": "download",
+      "start": 18.24,
+      "end": 18.24
+    },
+    {
+      "word": "Alama",
+      "start": 18.24,
+      "end": 18.7
+    },
+    {
+      "word": "to",
+      "start": 18.7,
+      "end": 18.9
+    },
+    {
+      "word": "run",
+      "start": 18.9,
+      "end": 19.14
+    },
+    {
+      "word": "models",
+      "start": 19.14,
+      "end": 19.46
+    },
+    {
+      "word": "like",
+      "start": 19.46,
+      "end": 19.8
+    },
+    {
+      "word": "Lama",
+      "start": 19.8,
+      "end": 20.08
+    },
+    {
+      "word": "3",
+      "start": 20.08,
+      "end": 20.48
+    },
+    {
+      "word": "with",
+      "start": 20.48,
+      "end": 20.7
+    },
+    {
+      "word": "a",
+      "start": 20.7,
+      "end": 20.84
+    },
+    {
+      "word": "single",
+      "start": 20.84,
+      "end": 21.04
+    },
+    {
+      "word": "command.",
+      "start": 21.04,
+      "end": 21.5
+    },
+    {
+      "word": "You",
+      "start": 22.08,
+      "end": 22.16
+    },
+    {
+      "word": "get",
+      "start": 22.16,
+      "end": 22.42
+    },
+    {
+      "word": "private,",
+      "start": 22.42,
+      "end": 22.96
+    },
+    {
+      "word": "blazing",
+      "start": 23.4,
+      "end": 23.52
+    },
+    {
+      "word": "fast",
+      "start": 23.52,
+      "end": 24.0
+    },
+    {
+      "word": "reasoning",
+      "start": 24.0,
+      "end": 24.36
+    },
+    {
+      "word": "running",
+      "start": 24.36,
+      "end": 24.72
+    },
+    {
+      "word": "offline",
+      "start": 24.72,
+      "end": 25.14
+    },
+    {
+      "word": "on",
+      "start": 25.14,
+      "end": 25.36
+    },
+    {
+      "word": "your",
+      "start": 25.36,
+      "end": 25.54
+    },
+    {
+      "word": "hardware.",
+      "start": 25.54,
+      "end": 25.84
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How to run ChatGPT-level AI models on your own laptop with zero subscription fees.",
+      "line2": "RUN AI LOCALLY",
+      "tag": "\ud83d\uded1 Ollama",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Ollama",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Ollama",
+        "subtitle": "Ollama"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Ollama"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Ollama"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Ollama",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

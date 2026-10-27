@@ -1,0 +1,391 @@
+{
+  "page": "page-05",
+  "idea": "Airtable interface designer for managing team project capacity",
+  "text": "How to manage complex client deadlines with zero spreadsheet clutter or confusion. Color-coded Google Sheets quickly become chaotic when multiple team members edit project statuses and due dates simultaneously. Accidental formula overwrites and broken cell references create missed client milestones and painful communication breakdowns. Instead, structure project deliverables inside an Airtable Interface with interactive timeline views and automated alerts. Every client project finishes on time.",
+  "duration": 31.311,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.38
+    },
+    {
+      "word": "manage",
+      "start": 0.38,
+      "end": 0.72
+    },
+    {
+      "word": "complex",
+      "start": 0.72,
+      "end": 1.2
+    },
+    {
+      "word": "client",
+      "start": 1.2,
+      "end": 1.68
+    },
+    {
+      "word": "deadlines",
+      "start": 1.68,
+      "end": 2.12
+    },
+    {
+      "word": "with",
+      "start": 2.12,
+      "end": 2.58
+    },
+    {
+      "word": "zero",
+      "start": 2.58,
+      "end": 3.04
+    },
+    {
+      "word": "spreadsheet",
+      "start": 3.04,
+      "end": 3.5
+    },
+    {
+      "word": "clutter",
+      "start": 3.5,
+      "end": 4.02
+    },
+    {
+      "word": "or",
+      "start": 4.02,
+      "end": 4.4
+    },
+    {
+      "word": "confusion.",
+      "start": 4.4,
+      "end": 5.16
+    },
+    {
+      "word": "Color",
+      "start": 5.76,
+      "end": 5.76
+    },
+    {
+      "word": "-coded",
+      "start": 5.76,
+      "end": 6.1
+    },
+    {
+      "word": "Google",
+      "start": 6.1,
+      "end": 6.52
+    },
+    {
+      "word": "Sheets",
+      "start": 6.52,
+      "end": 6.82
+    },
+    {
+      "word": "quickly",
+      "start": 6.82,
+      "end": 7.22
+    },
+    {
+      "word": "become",
+      "start": 7.22,
+      "end": 7.58
+    },
+    {
+      "word": "chaotic",
+      "start": 7.58,
+      "end": 8.1
+    },
+    {
+      "word": "when",
+      "start": 8.1,
+      "end": 8.4
+    },
+    {
+      "word": "multiple",
+      "start": 8.4,
+      "end": 8.8
+    },
+    {
+      "word": "team",
+      "start": 8.8,
+      "end": 9.18
+    },
+    {
+      "word": "members",
+      "start": 9.18,
+      "end": 9.54
+    },
+    {
+      "word": "edit",
+      "start": 9.54,
+      "end": 9.88
+    },
+    {
+      "word": "project",
+      "start": 9.88,
+      "end": 10.32
+    },
+    {
+      "word": "statuses",
+      "start": 10.32,
+      "end": 10.9
+    },
+    {
+      "word": "and",
+      "start": 10.9,
+      "end": 11.5
+    },
+    {
+      "word": "do",
+      "start": 11.5,
+      "end": 11.72
+    },
+    {
+      "word": "dates",
+      "start": 11.72,
+      "end": 12.04
+    },
+    {
+      "word": "simultaneously.",
+      "start": 12.04,
+      "end": 12.8
+    },
+    {
+      "word": "Accidental",
+      "start": 13.64,
+      "end": 13.98
+    },
+    {
+      "word": "formula",
+      "start": 13.98,
+      "end": 14.52
+    },
+    {
+      "word": "overwrites",
+      "start": 14.52,
+      "end": 15.04
+    },
+    {
+      "word": "and",
+      "start": 15.04,
+      "end": 15.32
+    },
+    {
+      "word": "broken",
+      "start": 15.32,
+      "end": 15.68
+    },
+    {
+      "word": "cell",
+      "start": 15.68,
+      "end": 15.94
+    },
+    {
+      "word": "references",
+      "start": 15.94,
+      "end": 16.42
+    },
+    {
+      "word": "create",
+      "start": 16.42,
+      "end": 17.04
+    },
+    {
+      "word": "missed",
+      "start": 17.04,
+      "end": 17.38
+    },
+    {
+      "word": "client",
+      "start": 17.38,
+      "end": 17.7
+    },
+    {
+      "word": "milestones",
+      "start": 17.7,
+      "end": 18.3
+    },
+    {
+      "word": "and",
+      "start": 18.3,
+      "end": 19.0
+    },
+    {
+      "word": "painful",
+      "start": 19.0,
+      "end": 19.32
+    },
+    {
+      "word": "communication",
+      "start": 19.32,
+      "end": 20.08
+    },
+    {
+      "word": "breakdowns.",
+      "start": 20.08,
+      "end": 21.34
+    },
+    {
+      "word": "Instead,",
+      "start": 21.48,
+      "end": 21.82
+    },
+    {
+      "word": "structure",
+      "start": 22.5,
+      "end": 22.64
+    },
+    {
+      "word": "project",
+      "start": 22.64,
+      "end": 23.22
+    },
+    {
+      "word": "deliverables",
+      "start": 23.22,
+      "end": 23.72
+    },
+    {
+      "word": "inside",
+      "start": 23.72,
+      "end": 24.22
+    },
+    {
+      "word": "an",
+      "start": 24.22,
+      "end": 24.46
+    },
+    {
+      "word": "irritable",
+      "start": 24.46,
+      "end": 24.88
+    },
+    {
+      "word": "interface",
+      "start": 24.88,
+      "end": 25.36
+    },
+    {
+      "word": "with",
+      "start": 25.36,
+      "end": 25.78
+    },
+    {
+      "word": "interactive",
+      "start": 25.78,
+      "end": 26.26
+    },
+    {
+      "word": "timeline",
+      "start": 26.26,
+      "end": 26.7
+    },
+    {
+      "word": "views",
+      "start": 26.7,
+      "end": 27.3
+    },
+    {
+      "word": "and",
+      "start": 27.3,
+      "end": 27.7
+    },
+    {
+      "word": "automated",
+      "start": 27.7,
+      "end": 27.92
+    },
+    {
+      "word": "alerts.",
+      "start": 27.92,
+      "end": 28.46
+    },
+    {
+      "word": "Every",
+      "start": 28.46,
+      "end": 29.42
+    },
+    {
+      "word": "client",
+      "start": 29.42,
+      "end": 29.7
+    },
+    {
+      "word": "project",
+      "start": 29.7,
+      "end": 30.3
+    },
+    {
+      "word": "finishes",
+      "start": 30.3,
+      "end": 30.62
+    },
+    {
+      "word": "on",
+      "start": 30.62,
+      "end": 30.96
+    },
+    {
+      "word": "time.",
+      "start": 30.96,
+      "end": 31.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Manage complex client deadlines with zero spreadsheet clutter.",
+      "line2": "MANAGE TEAM CAPACITY",
+      "tag": "\ud83d\uded1 Airtable interface designer for managing team project capacity",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Airtable interface designer for managing team project capacity",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Airtable interface designer for managing team project capacity",
+        "subtitle": "Airtable interface designer for managing team project capacity"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Airtable interface designer for managing team project capacity"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Airtable interface designer for managing team project capacity"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Airtable interface designer for managing team project capacity",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

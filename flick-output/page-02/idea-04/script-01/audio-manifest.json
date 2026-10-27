@@ -1,0 +1,406 @@
+{
+  "page": "page-02",
+  "idea": "Automated portfolio generator from completed project files",
+  "text": "Updating your freelance portfolio takes hours unless you use this AI shortcut. After grinding through client deadlines, nobody wants to spend evenings writing detailed project case studies. Pitching prospective clients with outdated work loses you high-ticket retainers to faster competitors. Record a five-minute Loom walkthrough and let Claude turn the transcript into a structured Framer case study. You launch polished portfolio pieces in minutes without writing copy.",
+  "duration": 27.983,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "updating",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "your",
+      "start": 0.42,
+      "end": 0.9
+    },
+    {
+      "word": "freelance",
+      "start": 0.9,
+      "end": 1.16
+    },
+    {
+      "word": "portfolio",
+      "start": 1.16,
+      "end": 1.72
+    },
+    {
+      "word": "takes",
+      "start": 1.72,
+      "end": 2.28
+    },
+    {
+      "word": "hours",
+      "start": 2.28,
+      "end": 2.76
+    },
+    {
+      "word": "unless",
+      "start": 2.76,
+      "end": 3.28
+    },
+    {
+      "word": "you",
+      "start": 3.28,
+      "end": 3.52
+    },
+    {
+      "word": "use",
+      "start": 3.52,
+      "end": 3.8
+    },
+    {
+      "word": "this",
+      "start": 3.8,
+      "end": 4.16
+    },
+    {
+      "word": "AI",
+      "start": 4.16,
+      "end": 4.58
+    },
+    {
+      "word": "shortcut.",
+      "start": 4.58,
+      "end": 5.06
+    },
+    {
+      "word": "After",
+      "start": 5.94,
+      "end": 6.02
+    },
+    {
+      "word": "grinding",
+      "start": 6.02,
+      "end": 6.36
+    },
+    {
+      "word": "through",
+      "start": 6.36,
+      "end": 6.8
+    },
+    {
+      "word": "client",
+      "start": 6.8,
+      "end": 7.12
+    },
+    {
+      "word": "deadlines,",
+      "start": 7.12,
+      "end": 7.64
+    },
+    {
+      "word": "nobody",
+      "start": 8.14,
+      "end": 8.38
+    },
+    {
+      "word": "wants",
+      "start": 8.38,
+      "end": 8.8
+    },
+    {
+      "word": "to",
+      "start": 8.8,
+      "end": 8.92
+    },
+    {
+      "word": "spend",
+      "start": 8.92,
+      "end": 9.18
+    },
+    {
+      "word": "evenings",
+      "start": 9.18,
+      "end": 9.66
+    },
+    {
+      "word": "writing",
+      "start": 9.66,
+      "end": 10.14
+    },
+    {
+      "word": "detailed",
+      "start": 10.14,
+      "end": 10.7
+    },
+    {
+      "word": "project",
+      "start": 10.7,
+      "end": 11.18
+    },
+    {
+      "word": "case",
+      "start": 11.18,
+      "end": 11.48
+    },
+    {
+      "word": "studies.",
+      "start": 11.48,
+      "end": 11.86
+    },
+    {
+      "word": "Pitching",
+      "start": 12.5,
+      "end": 12.5
+    },
+    {
+      "word": "prospective",
+      "start": 12.5,
+      "end": 13.06
+    },
+    {
+      "word": "clients",
+      "start": 13.06,
+      "end": 13.58
+    },
+    {
+      "word": "without",
+      "start": 13.58,
+      "end": 13.98
+    },
+    {
+      "word": "dated",
+      "start": 13.98,
+      "end": 14.32
+    },
+    {
+      "word": "work",
+      "start": 14.32,
+      "end": 14.68
+    },
+    {
+      "word": "loses",
+      "start": 14.68,
+      "end": 14.96
+    },
+    {
+      "word": "you",
+      "start": 14.96,
+      "end": 15.28
+    },
+    {
+      "word": "high",
+      "start": 15.28,
+      "end": 15.5
+    },
+    {
+      "word": "ticket",
+      "start": 15.5,
+      "end": 15.76
+    },
+    {
+      "word": "retainers",
+      "start": 15.76,
+      "end": 16.32
+    },
+    {
+      "word": "to",
+      "start": 16.32,
+      "end": 16.58
+    },
+    {
+      "word": "faster",
+      "start": 16.58,
+      "end": 16.86
+    },
+    {
+      "word": "competitors.",
+      "start": 16.86,
+      "end": 17.48
+    },
+    {
+      "word": "Record",
+      "start": 18.18,
+      "end": 18.3
+    },
+    {
+      "word": "a",
+      "start": 18.3,
+      "end": 18.58
+    },
+    {
+      "word": "five",
+      "start": 18.58,
+      "end": 18.88
+    },
+    {
+      "word": "minute",
+      "start": 18.88,
+      "end": 19.12
+    },
+    {
+      "word": "loom",
+      "start": 19.12,
+      "end": 19.42
+    },
+    {
+      "word": "walkthrough",
+      "start": 19.42,
+      "end": 19.98
+    },
+    {
+      "word": "and",
+      "start": 19.98,
+      "end": 20.38
+    },
+    {
+      "word": "let",
+      "start": 20.38,
+      "end": 20.66
+    },
+    {
+      "word": "Claude",
+      "start": 20.66,
+      "end": 20.94
+    },
+    {
+      "word": "turn",
+      "start": 20.94,
+      "end": 21.12
+    },
+    {
+      "word": "the",
+      "start": 21.12,
+      "end": 21.34
+    },
+    {
+      "word": "transcript",
+      "start": 21.34,
+      "end": 21.7
+    },
+    {
+      "word": "into",
+      "start": 21.7,
+      "end": 22.02
+    },
+    {
+      "word": "a",
+      "start": 22.02,
+      "end": 22.24
+    },
+    {
+      "word": "structured",
+      "start": 22.24,
+      "end": 22.64
+    },
+    {
+      "word": "framework",
+      "start": 22.64,
+      "end": 23.02
+    },
+    {
+      "word": "case",
+      "start": 23.02,
+      "end": 23.34
+    },
+    {
+      "word": "study.",
+      "start": 23.34,
+      "end": 23.78
+    },
+    {
+      "word": "You",
+      "start": 24.32,
+      "end": 24.4
+    },
+    {
+      "word": "launch",
+      "start": 24.4,
+      "end": 24.7
+    },
+    {
+      "word": "polished",
+      "start": 24.7,
+      "end": 25.12
+    },
+    {
+      "word": "portfolio",
+      "start": 25.12,
+      "end": 25.66
+    },
+    {
+      "word": "pieces",
+      "start": 25.66,
+      "end": 26.26
+    },
+    {
+      "word": "in",
+      "start": 26.26,
+      "end": 26.5
+    },
+    {
+      "word": "minutes",
+      "start": 26.5,
+      "end": 26.7
+    },
+    {
+      "word": "without",
+      "start": 26.7,
+      "end": 27.14
+    },
+    {
+      "word": "writing",
+      "start": 27.14,
+      "end": 27.54
+    },
+    {
+      "word": "copy.",
+      "start": 27.54,
+      "end": 27.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Updating your freelance portfolio takes hours unless you use this AI shortcut.",
+      "line2": "INSTANT FREELANCE PORTFOLIOS",
+      "tag": "\ud83d\uded1 Automated portfolio generator from completed project files",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated portfolio generator from completed project files",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated portfolio generator from completed project files",
+        "subtitle": "Automated portfolio generator from completed project files"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated portfolio generator from completed project files"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated portfolio generator from completed project files"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated portfolio generator from completed project files",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

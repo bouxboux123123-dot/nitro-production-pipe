@@ -1,0 +1,416 @@
+{
+  "page": "page-01",
+  "idea": "Cross-account benchmark tracker that spots industry advertising trends",
+  "text": "How performance marketing agencies spot macro ad trends across twenty ad accounts simultaneously. Media buyers log into separate Meta accounts every morning, manually copying costs into messy spreadsheets. Fragmented reporting hides whether a sudden drop is account-specific or an industry-wide CPM surge. Connect Supermetrics to BigQuery using automated pipelines that feed cross-client averages into Looker Studio dashboards. You diagnose performance anomalies across every account in minutes.",
+  "duration": 31.119,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "performance",
+      "start": 0.24,
+      "end": 0.68
+    },
+    {
+      "word": "marketing",
+      "start": 0.68,
+      "end": 1.2
+    },
+    {
+      "word": "agencies",
+      "start": 1.2,
+      "end": 1.82
+    },
+    {
+      "word": "spot",
+      "start": 1.82,
+      "end": 2.28
+    },
+    {
+      "word": "macro",
+      "start": 2.28,
+      "end": 2.7
+    },
+    {
+      "word": "add",
+      "start": 2.7,
+      "end": 3.14
+    },
+    {
+      "word": "trends",
+      "start": 3.14,
+      "end": 3.42
+    },
+    {
+      "word": "across",
+      "start": 3.42,
+      "end": 3.82
+    },
+    {
+      "word": "20",
+      "start": 3.82,
+      "end": 4.22
+    },
+    {
+      "word": "add",
+      "start": 4.22,
+      "end": 4.46
+    },
+    {
+      "word": "accounts",
+      "start": 4.46,
+      "end": 4.86
+    },
+    {
+      "word": "simultaneously.",
+      "start": 4.86,
+      "end": 5.7
+    },
+    {
+      "word": "Media",
+      "start": 6.76,
+      "end": 6.76
+    },
+    {
+      "word": "buyers",
+      "start": 6.76,
+      "end": 7.12
+    },
+    {
+      "word": "log",
+      "start": 7.12,
+      "end": 7.5
+    },
+    {
+      "word": "into",
+      "start": 7.5,
+      "end": 7.78
+    },
+    {
+      "word": "separate",
+      "start": 7.78,
+      "end": 8.12
+    },
+    {
+      "word": "meta",
+      "start": 8.12,
+      "end": 8.38
+    },
+    {
+      "word": "accounts",
+      "start": 8.38,
+      "end": 8.78
+    },
+    {
+      "word": "every",
+      "start": 8.78,
+      "end": 9.1
+    },
+    {
+      "word": "morning,",
+      "start": 9.1,
+      "end": 9.6
+    },
+    {
+      "word": "manually",
+      "start": 10.36,
+      "end": 10.36
+    },
+    {
+      "word": "copying",
+      "start": 10.36,
+      "end": 10.84
+    },
+    {
+      "word": "costs",
+      "start": 10.84,
+      "end": 11.26
+    },
+    {
+      "word": "into",
+      "start": 11.26,
+      "end": 11.54
+    },
+    {
+      "word": "messy",
+      "start": 11.54,
+      "end": 11.76
+    },
+    {
+      "word": "spreadsheets.",
+      "start": 11.76,
+      "end": 12.56
+    },
+    {
+      "word": "Fragmented",
+      "start": 13.04,
+      "end": 13.36
+    },
+    {
+      "word": "reporting",
+      "start": 13.36,
+      "end": 13.84
+    },
+    {
+      "word": "hides",
+      "start": 13.84,
+      "end": 14.28
+    },
+    {
+      "word": "whether",
+      "start": 14.28,
+      "end": 14.5
+    },
+    {
+      "word": "a",
+      "start": 14.5,
+      "end": 14.72
+    },
+    {
+      "word": "sudden",
+      "start": 14.72,
+      "end": 14.94
+    },
+    {
+      "word": "drop",
+      "start": 14.94,
+      "end": 15.28
+    },
+    {
+      "word": "is",
+      "start": 15.28,
+      "end": 15.54
+    },
+    {
+      "word": "account",
+      "start": 15.54,
+      "end": 15.84
+    },
+    {
+      "word": "specific",
+      "start": 15.84,
+      "end": 16.32
+    },
+    {
+      "word": "or",
+      "start": 16.32,
+      "end": 16.94
+    },
+    {
+      "word": "an",
+      "start": 16.94,
+      "end": 17.22
+    },
+    {
+      "word": "industry",
+      "start": 17.22,
+      "end": 17.58
+    },
+    {
+      "word": "-wide",
+      "start": 17.58,
+      "end": 18.02
+    },
+    {
+      "word": "CPM",
+      "start": 18.02,
+      "end": 18.64
+    },
+    {
+      "word": "surge.",
+      "start": 18.64,
+      "end": 19.14
+    },
+    {
+      "word": "Connect",
+      "start": 19.74,
+      "end": 20.02
+    },
+    {
+      "word": "supermetrics",
+      "start": 20.02,
+      "end": 20.72
+    },
+    {
+      "word": "to",
+      "start": 20.72,
+      "end": 20.96
+    },
+    {
+      "word": "big",
+      "start": 20.96,
+      "end": 21.22
+    },
+    {
+      "word": "query",
+      "start": 21.22,
+      "end": 21.58
+    },
+    {
+      "word": "using",
+      "start": 21.58,
+      "end": 22.26
+    },
+    {
+      "word": "automated",
+      "start": 22.26,
+      "end": 22.88
+    },
+    {
+      "word": "pipelines",
+      "start": 22.88,
+      "end": 23.38
+    },
+    {
+      "word": "that",
+      "start": 23.38,
+      "end": 23.82
+    },
+    {
+      "word": "feed",
+      "start": 23.82,
+      "end": 24.14
+    },
+    {
+      "word": "cross",
+      "start": 24.14,
+      "end": 24.52
+    },
+    {
+      "word": "-client",
+      "start": 24.52,
+      "end": 24.86
+    },
+    {
+      "word": "averages",
+      "start": 24.86,
+      "end": 25.32
+    },
+    {
+      "word": "into",
+      "start": 25.32,
+      "end": 25.7
+    },
+    {
+      "word": "look",
+      "start": 25.7,
+      "end": 25.84
+    },
+    {
+      "word": "or",
+      "start": 25.84,
+      "end": 26.08
+    },
+    {
+      "word": "studio",
+      "start": 26.08,
+      "end": 26.36
+    },
+    {
+      "word": "dashboards.",
+      "start": 26.36,
+      "end": 27.04
+    },
+    {
+      "word": "You",
+      "start": 27.04,
+      "end": 27.74
+    },
+    {
+      "word": "diagnose",
+      "start": 27.74,
+      "end": 28.18
+    },
+    {
+      "word": "performance",
+      "start": 28.18,
+      "end": 28.86
+    },
+    {
+      "word": "anomalies",
+      "start": 28.86,
+      "end": 29.4
+    },
+    {
+      "word": "across",
+      "start": 29.4,
+      "end": 29.96
+    },
+    {
+      "word": "every",
+      "start": 29.96,
+      "end": 30.28
+    },
+    {
+      "word": "account",
+      "start": 30.28,
+      "end": 30.58
+    },
+    {
+      "word": "in",
+      "start": 30.58,
+      "end": 30.76
+    },
+    {
+      "word": "minutes.",
+      "start": 30.76,
+      "end": 31.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How performance marketing agencies spot macro ad trends across 20 ad accounts simultaneously.",
+      "line2": "SPOT ADVERTISING TRENDS",
+      "tag": "\ud83d\uded1 Cross-account benchmark tracker that spots industry advertising trends",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Cross-account benchmark tracker that spots industry advertising trends",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Cross-account benchmark tracker that spots industry advertising trends",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

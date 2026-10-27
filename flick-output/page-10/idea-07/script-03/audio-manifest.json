@@ -1,0 +1,411 @@
+{
+  "page": "page-10",
+  "idea": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+  "text": "Enterprise engineering teams are migrating their core automation backends over to DeepSeek V4. Running massive data extraction pipelines across millions of unstructured customer contracts breaks corporate software budgets on standard models. High API token expenses make automated document auditing and continuous classification impossible to scale profitably. DeepSeek V4 provides OpenAI-level reasoning architecture with lightning-fast inference at a fraction of competitive pricing. This slashes enterprise API overhead dramatically.",
+  "duration": 35.578,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Enterprise",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "word": "engineering",
+      "start": 0.56,
+      "end": 1.06
+    },
+    {
+      "word": "teams",
+      "start": 1.06,
+      "end": 1.62
+    },
+    {
+      "word": "are",
+      "start": 1.62,
+      "end": 1.9
+    },
+    {
+      "word": "migrating",
+      "start": 1.9,
+      "end": 2.24
+    },
+    {
+      "word": "their",
+      "start": 2.24,
+      "end": 2.66
+    },
+    {
+      "word": "core",
+      "start": 2.66,
+      "end": 2.94
+    },
+    {
+      "word": "automation",
+      "start": 2.94,
+      "end": 3.7
+    },
+    {
+      "word": "backends",
+      "start": 3.7,
+      "end": 4.34
+    },
+    {
+      "word": "over",
+      "start": 4.34,
+      "end": 4.58
+    },
+    {
+      "word": "to",
+      "start": 4.58,
+      "end": 4.84
+    },
+    {
+      "word": "DeepSeek",
+      "start": 4.84,
+      "end": 5.28
+    },
+    {
+      "word": "V4.",
+      "start": 5.28,
+      "end": 6.26
+    },
+    {
+      "word": "Running",
+      "start": 6.76,
+      "end": 6.86
+    },
+    {
+      "word": "massive",
+      "start": 6.86,
+      "end": 7.32
+    },
+    {
+      "word": "data",
+      "start": 7.32,
+      "end": 7.7
+    },
+    {
+      "word": "extraction",
+      "start": 7.7,
+      "end": 8.28
+    },
+    {
+      "word": "pipelines",
+      "start": 8.28,
+      "end": 8.8
+    },
+    {
+      "word": "across",
+      "start": 8.8,
+      "end": 9.38
+    },
+    {
+      "word": "millions",
+      "start": 9.38,
+      "end": 9.74
+    },
+    {
+      "word": "of",
+      "start": 9.74,
+      "end": 10.12
+    },
+    {
+      "word": "unstructured",
+      "start": 10.12,
+      "end": 10.7
+    },
+    {
+      "word": "customer",
+      "start": 10.7,
+      "end": 11.16
+    },
+    {
+      "word": "contracts",
+      "start": 11.16,
+      "end": 11.92
+    },
+    {
+      "word": "breaks",
+      "start": 11.92,
+      "end": 12.5
+    },
+    {
+      "word": "corporate",
+      "start": 12.5,
+      "end": 12.98
+    },
+    {
+      "word": "software",
+      "start": 12.98,
+      "end": 13.46
+    },
+    {
+      "word": "budgets",
+      "start": 13.46,
+      "end": 13.8
+    },
+    {
+      "word": "on",
+      "start": 13.8,
+      "end": 14.12
+    },
+    {
+      "word": "standard",
+      "start": 14.12,
+      "end": 14.42
+    },
+    {
+      "word": "models.",
+      "start": 14.42,
+      "end": 15.0
+    },
+    {
+      "word": "High",
+      "start": 15.6,
+      "end": 15.72
+    },
+    {
+      "word": "API",
+      "start": 15.72,
+      "end": 16.16
+    },
+    {
+      "word": "token",
+      "start": 16.16,
+      "end": 16.66
+    },
+    {
+      "word": "expenses",
+      "start": 16.66,
+      "end": 17.24
+    },
+    {
+      "word": "make",
+      "start": 17.24,
+      "end": 17.7
+    },
+    {
+      "word": "automated",
+      "start": 17.7,
+      "end": 18.1
+    },
+    {
+      "word": "document",
+      "start": 18.1,
+      "end": 18.68
+    },
+    {
+      "word": "auditing",
+      "start": 18.68,
+      "end": 19.14
+    },
+    {
+      "word": "and",
+      "start": 19.14,
+      "end": 19.68
+    },
+    {
+      "word": "continuous",
+      "start": 19.68,
+      "end": 20.02
+    },
+    {
+      "word": "classification",
+      "start": 20.02,
+      "end": 20.86
+    },
+    {
+      "word": "impossible",
+      "start": 20.86,
+      "end": 21.82
+    },
+    {
+      "word": "to",
+      "start": 21.82,
+      "end": 22.18
+    },
+    {
+      "word": "scale",
+      "start": 22.18,
+      "end": 22.5
+    },
+    {
+      "word": "profitably.",
+      "start": 22.5,
+      "end": 23.46
+    },
+    {
+      "word": "DeepSeek",
+      "start": 24.08,
+      "end": 24.34
+    },
+    {
+      "word": "V4",
+      "start": 24.34,
+      "end": 25.02
+    },
+    {
+      "word": "provides",
+      "start": 25.02,
+      "end": 25.48
+    },
+    {
+      "word": "open",
+      "start": 25.48,
+      "end": 26.04
+    },
+    {
+      "word": "AI",
+      "start": 26.04,
+      "end": 26.44
+    },
+    {
+      "word": "level",
+      "start": 26.44,
+      "end": 26.74
+    },
+    {
+      "word": "reasoning",
+      "start": 26.74,
+      "end": 27.12
+    },
+    {
+      "word": "architecture",
+      "start": 27.12,
+      "end": 27.78
+    },
+    {
+      "word": "with",
+      "start": 27.78,
+      "end": 28.3
+    },
+    {
+      "word": "lightning",
+      "start": 28.3,
+      "end": 28.6
+    },
+    {
+      "word": "fast",
+      "start": 28.6,
+      "end": 29.08
+    },
+    {
+      "word": "inference",
+      "start": 29.08,
+      "end": 29.58
+    },
+    {
+      "word": "at",
+      "start": 29.58,
+      "end": 30.04
+    },
+    {
+      "word": "a",
+      "start": 30.04,
+      "end": 30.24
+    },
+    {
+      "word": "fraction",
+      "start": 30.24,
+      "end": 30.46
+    },
+    {
+      "word": "of",
+      "start": 30.46,
+      "end": 31.26
+    },
+    {
+      "word": "competitive",
+      "start": 31.26,
+      "end": 31.26
+    },
+    {
+      "word": "pricing.",
+      "start": 31.26,
+      "end": 31.72
+    },
+    {
+      "word": "This",
+      "start": 32.42,
+      "end": 32.64
+    },
+    {
+      "word": "slashes",
+      "start": 32.64,
+      "end": 33.08
+    },
+    {
+      "word": "enterprise",
+      "start": 33.08,
+      "end": 33.7
+    },
+    {
+      "word": "API",
+      "start": 33.7,
+      "end": 34.26
+    },
+    {
+      "word": "overhead",
+      "start": 34.26,
+      "end": 34.92
+    },
+    {
+      "word": "dramatically.",
+      "start": 34.92,
+      "end": 35.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Why enterprise companies are migrating their workflow backends to DeepSeek.",
+      "line2": "DEEPSEEK CUTS COSTS 90%",
+      "tag": "\ud83d\uded1 DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "LLM Generation Velocity: DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+      "primitive": "TokensPerSecondTachometer",
+      "props": {
+        "title": "LLM Generation Velocity: DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+        "subtitle": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hallucination & Grounding Check",
+      "primitive": "HallucinationConfidenceGauge",
+      "props": {
+        "title": "Hallucination & Grounding Check",
+        "subtitle": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "1M Token Needle In Haystack",
+      "primitive": "NeedleInHaystackMatrix",
+      "props": {
+        "title": "1M Token Needle In Haystack",
+        "subtitle": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Cost-Per-Million Token Deflation",
+      "primitive": "CostPerMillionTokensBar",
+      "props": {
+        "title": "Cost-Per-Million Token Deflation",
+        "subtitle": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

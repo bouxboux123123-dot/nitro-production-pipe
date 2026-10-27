@@ -1,0 +1,411 @@
+{
+  "page": "page-06",
+  "idea": "Automated team pulse check-in bot for tracking burnout and morale",
+  "text": "This empathetic management automation keeps distributed engineering teams healthy, motivated, and fully engaged. Without casual desk check-ins, managers mistake frantic late-night messages for high productivity rather than distress. Silent overwork rapidly turns into cynicism, devastating team cohesion and spiking costly turnover across engineering squads. Scheduling automated Culture Amp pulse bots directly inside Slack prompts teammates to flag blockers safely. You build high-trust culture while boosting talent retention.",
+  "duration": 33.231,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "empathetic",
+      "start": 0.3,
+      "end": 0.8
+    },
+    {
+      "word": "management",
+      "start": 0.8,
+      "end": 1.38
+    },
+    {
+      "word": "automation",
+      "start": 1.38,
+      "end": 1.92
+    },
+    {
+      "word": "keeps",
+      "start": 1.92,
+      "end": 2.54
+    },
+    {
+      "word": "distributed",
+      "start": 2.54,
+      "end": 3.14
+    },
+    {
+      "word": "engineering",
+      "start": 3.14,
+      "end": 3.66
+    },
+    {
+      "word": "teams",
+      "start": 3.66,
+      "end": 4.2
+    },
+    {
+      "word": "healthy,",
+      "start": 4.2,
+      "end": 4.96
+    },
+    {
+      "word": "motivated,",
+      "start": 5.52,
+      "end": 5.52
+    },
+    {
+      "word": "and",
+      "start": 5.76,
+      "end": 5.98
+    },
+    {
+      "word": "fully",
+      "start": 5.98,
+      "end": 6.2
+    },
+    {
+      "word": "engaged.",
+      "start": 6.2,
+      "end": 6.76
+    },
+    {
+      "word": "Without",
+      "start": 7.42,
+      "end": 7.74
+    },
+    {
+      "word": "casual",
+      "start": 7.74,
+      "end": 8.2
+    },
+    {
+      "word": "desk",
+      "start": 8.2,
+      "end": 8.52
+    },
+    {
+      "word": "check",
+      "start": 8.52,
+      "end": 8.78
+    },
+    {
+      "word": "-ins,",
+      "start": 8.78,
+      "end": 9.12
+    },
+    {
+      "word": "managers",
+      "start": 9.46,
+      "end": 9.86
+    },
+    {
+      "word": "mistake",
+      "start": 9.86,
+      "end": 10.48
+    },
+    {
+      "word": "frantic",
+      "start": 10.48,
+      "end": 10.94
+    },
+    {
+      "word": "late",
+      "start": 10.94,
+      "end": 11.24
+    },
+    {
+      "word": "-night",
+      "start": 11.24,
+      "end": 11.5
+    },
+    {
+      "word": "messages",
+      "start": 11.5,
+      "end": 11.94
+    },
+    {
+      "word": "for",
+      "start": 11.94,
+      "end": 12.34
+    },
+    {
+      "word": "high",
+      "start": 12.34,
+      "end": 12.72
+    },
+    {
+      "word": "productivity",
+      "start": 12.72,
+      "end": 13.2
+    },
+    {
+      "word": "rather",
+      "start": 13.2,
+      "end": 13.74
+    },
+    {
+      "word": "than",
+      "start": 13.74,
+      "end": 14.0
+    },
+    {
+      "word": "distress.",
+      "start": 14.0,
+      "end": 14.42
+    },
+    {
+      "word": "Silent",
+      "start": 15.14,
+      "end": 15.14
+    },
+    {
+      "word": "overwork",
+      "start": 15.14,
+      "end": 15.72
+    },
+    {
+      "word": "rapidly",
+      "start": 15.72,
+      "end": 16.14
+    },
+    {
+      "word": "turns",
+      "start": 16.14,
+      "end": 16.54
+    },
+    {
+      "word": "into",
+      "start": 16.54,
+      "end": 16.82
+    },
+    {
+      "word": "cynicism,",
+      "start": 16.82,
+      "end": 17.32
+    },
+    {
+      "word": "devastating",
+      "start": 18.1,
+      "end": 18.14
+    },
+    {
+      "word": "team",
+      "start": 18.14,
+      "end": 18.72
+    },
+    {
+      "word": "cohesion",
+      "start": 18.72,
+      "end": 19.16
+    },
+    {
+      "word": "and",
+      "start": 19.16,
+      "end": 19.58
+    },
+    {
+      "word": "spiking",
+      "start": 19.58,
+      "end": 19.98
+    },
+    {
+      "word": "costly",
+      "start": 19.98,
+      "end": 20.46
+    },
+    {
+      "word": "turnover",
+      "start": 20.46,
+      "end": 20.92
+    },
+    {
+      "word": "across",
+      "start": 20.92,
+      "end": 21.4
+    },
+    {
+      "word": "engineering",
+      "start": 21.4,
+      "end": 21.9
+    },
+    {
+      "word": "squads.",
+      "start": 21.9,
+      "end": 22.48
+    },
+    {
+      "word": "Scheduling",
+      "start": 23.16,
+      "end": 23.62
+    },
+    {
+      "word": "automated",
+      "start": 23.62,
+      "end": 24.1
+    },
+    {
+      "word": "culture,",
+      "start": 24.1,
+      "end": 24.74
+    },
+    {
+      "word": "AMP",
+      "start": 25.02,
+      "end": 25.06
+    },
+    {
+      "word": "pulse",
+      "start": 25.06,
+      "end": 25.4
+    },
+    {
+      "word": "bots",
+      "start": 25.4,
+      "end": 25.74
+    },
+    {
+      "word": "directly",
+      "start": 25.74,
+      "end": 26.26
+    },
+    {
+      "word": "inside",
+      "start": 26.26,
+      "end": 26.84
+    },
+    {
+      "word": "Slack",
+      "start": 26.84,
+      "end": 27.22
+    },
+    {
+      "word": "prompts",
+      "start": 27.22,
+      "end": 27.58
+    },
+    {
+      "word": "teammates",
+      "start": 27.58,
+      "end": 27.88
+    },
+    {
+      "word": "to",
+      "start": 27.88,
+      "end": 28.26
+    },
+    {
+      "word": "flag",
+      "start": 28.26,
+      "end": 28.6
+    },
+    {
+      "word": "lockers",
+      "start": 28.6,
+      "end": 29.06
+    },
+    {
+      "word": "safely.",
+      "start": 29.06,
+      "end": 29.48
+    },
+    {
+      "word": "You",
+      "start": 30.04,
+      "end": 30.22
+    },
+    {
+      "word": "build",
+      "start": 30.22,
+      "end": 30.44
+    },
+    {
+      "word": "high",
+      "start": 30.44,
+      "end": 30.74
+    },
+    {
+      "word": "trust",
+      "start": 30.74,
+      "end": 30.98
+    },
+    {
+      "word": "culture",
+      "start": 30.98,
+      "end": 31.44
+    },
+    {
+      "word": "while",
+      "start": 31.44,
+      "end": 31.86
+    },
+    {
+      "word": "boosting",
+      "start": 31.86,
+      "end": 32.28
+    },
+    {
+      "word": "talent",
+      "start": 32.28,
+      "end": 32.64
+    },
+    {
+      "word": "retention.",
+      "start": 32.64,
+      "end": 33.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The empathetic management tool that keeps remote teams healthy and engaged.",
+      "line2": "TRACK TEAM MORALE",
+      "tag": "\ud83d\uded1 Automated team pulse check-in bot for tracking burnout and morale",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated team pulse check-in bot for tracking burnout and morale",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated team pulse check-in bot for tracking burnout and morale",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

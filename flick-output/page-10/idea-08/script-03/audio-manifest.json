@@ -1,0 +1,396 @@
+{
+  "page": "page-10",
+  "idea": "Canva Magic Studio upgrades for bulk image and video production",
+  "text": "Canva's new Magic Studio update auto-translates and resizes entire marketing campaigns instantly. Reformatting social banners across Instagram, LinkedIn, and YouTube thumbnails requires hours of tedious manual repositioning. Adjusting text box boundaries across dozens of aspect ratios inevitably introduces broken layouts and typos. Magic Switch automatically transforms single graphics into multilingual assets sized for every platform in one click. This scales your global marketing reach effortlessly.",
+  "duration": 32.079,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Canva's",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "new",
+      "start": 0.5,
+      "end": 0.68
+    },
+    {
+      "word": "magic",
+      "start": 0.68,
+      "end": 0.92
+    },
+    {
+      "word": "studio",
+      "start": 0.92,
+      "end": 1.42
+    },
+    {
+      "word": "update",
+      "start": 1.42,
+      "end": 1.86
+    },
+    {
+      "word": "auto",
+      "start": 1.86,
+      "end": 2.22
+    },
+    {
+      "word": "-translates",
+      "start": 2.22,
+      "end": 2.76
+    },
+    {
+      "word": "and",
+      "start": 2.76,
+      "end": 3.04
+    },
+    {
+      "word": "resizes",
+      "start": 3.04,
+      "end": 3.56
+    },
+    {
+      "word": "entire",
+      "start": 3.56,
+      "end": 4.14
+    },
+    {
+      "word": "marketing",
+      "start": 4.14,
+      "end": 4.58
+    },
+    {
+      "word": "campaigns",
+      "start": 4.58,
+      "end": 5.12
+    },
+    {
+      "word": "instantly.",
+      "start": 5.12,
+      "end": 6.02
+    },
+    {
+      "word": "Reform",
+      "start": 6.5,
+      "end": 6.74
+    },
+    {
+      "word": "adding",
+      "start": 6.74,
+      "end": 7.0
+    },
+    {
+      "word": "social",
+      "start": 7.0,
+      "end": 7.42
+    },
+    {
+      "word": "banners",
+      "start": 7.42,
+      "end": 7.78
+    },
+    {
+      "word": "across",
+      "start": 7.78,
+      "end": 8.24
+    },
+    {
+      "word": "Instagram,",
+      "start": 8.24,
+      "end": 9.0
+    },
+    {
+      "word": "LinkedIn,",
+      "start": 9.42,
+      "end": 9.6
+    },
+    {
+      "word": "and",
+      "start": 10.22,
+      "end": 10.36
+    },
+    {
+      "word": "YouTube",
+      "start": 10.36,
+      "end": 10.78
+    },
+    {
+      "word": "thumbnails",
+      "start": 10.78,
+      "end": 11.28
+    },
+    {
+      "word": "requires",
+      "start": 11.28,
+      "end": 11.94
+    },
+    {
+      "word": "hours",
+      "start": 11.94,
+      "end": 12.4
+    },
+    {
+      "word": "of",
+      "start": 12.4,
+      "end": 12.7
+    },
+    {
+      "word": "tedious",
+      "start": 12.7,
+      "end": 13.04
+    },
+    {
+      "word": "manual",
+      "start": 13.04,
+      "end": 13.54
+    },
+    {
+      "word": "repositioning,",
+      "start": 13.54,
+      "end": 14.4
+    },
+    {
+      "word": "adjusting",
+      "start": 14.9,
+      "end": 14.98
+    },
+    {
+      "word": "text",
+      "start": 14.98,
+      "end": 15.4
+    },
+    {
+      "word": "box",
+      "start": 15.4,
+      "end": 15.78
+    },
+    {
+      "word": "boundaries",
+      "start": 15.78,
+      "end": 16.2
+    },
+    {
+      "word": "across",
+      "start": 16.2,
+      "end": 16.7
+    },
+    {
+      "word": "dozens",
+      "start": 16.7,
+      "end": 16.94
+    },
+    {
+      "word": "of",
+      "start": 16.94,
+      "end": 17.2
+    },
+    {
+      "word": "aspect",
+      "start": 17.2,
+      "end": 17.54
+    },
+    {
+      "word": "ratios,",
+      "start": 17.54,
+      "end": 18.24
+    },
+    {
+      "word": "inevitably",
+      "start": 18.8,
+      "end": 18.94
+    },
+    {
+      "word": "introduces",
+      "start": 18.94,
+      "end": 19.58
+    },
+    {
+      "word": "broken",
+      "start": 19.58,
+      "end": 20.06
+    },
+    {
+      "word": "layouts",
+      "start": 20.06,
+      "end": 20.48
+    },
+    {
+      "word": "and",
+      "start": 20.48,
+      "end": 20.78
+    },
+    {
+      "word": "typos.",
+      "start": 20.78,
+      "end": 21.28
+    },
+    {
+      "word": "Magic",
+      "start": 21.94,
+      "end": 22.2
+    },
+    {
+      "word": "Switch",
+      "start": 22.2,
+      "end": 22.66
+    },
+    {
+      "word": "automatically",
+      "start": 22.66,
+      "end": 23.24
+    },
+    {
+      "word": "transforms",
+      "start": 23.24,
+      "end": 24.08
+    },
+    {
+      "word": "single",
+      "start": 24.08,
+      "end": 24.52
+    },
+    {
+      "word": "graphics",
+      "start": 24.52,
+      "end": 24.98
+    },
+    {
+      "word": "into",
+      "start": 24.98,
+      "end": 25.28
+    },
+    {
+      "word": "multilingual",
+      "start": 25.28,
+      "end": 25.9
+    },
+    {
+      "word": "assets",
+      "start": 25.9,
+      "end": 26.48
+    },
+    {
+      "word": "sized",
+      "start": 26.48,
+      "end": 27.12
+    },
+    {
+      "word": "for",
+      "start": 27.12,
+      "end": 27.34
+    },
+    {
+      "word": "every",
+      "start": 27.34,
+      "end": 27.64
+    },
+    {
+      "word": "platform",
+      "start": 27.64,
+      "end": 28.06
+    },
+    {
+      "word": "in",
+      "start": 28.06,
+      "end": 28.38
+    },
+    {
+      "word": "one",
+      "start": 28.38,
+      "end": 28.66
+    },
+    {
+      "word": "click.",
+      "start": 28.66,
+      "end": 28.94
+    },
+    {
+      "word": "This",
+      "start": 28.94,
+      "end": 29.76
+    },
+    {
+      "word": "scales",
+      "start": 29.76,
+      "end": 30.02
+    },
+    {
+      "word": "your",
+      "start": 30.02,
+      "end": 30.38
+    },
+    {
+      "word": "global",
+      "start": 30.38,
+      "end": 30.62
+    },
+    {
+      "word": "marketing",
+      "start": 30.62,
+      "end": 30.98
+    },
+    {
+      "word": "reach",
+      "start": 30.98,
+      "end": 31.46
+    },
+    {
+      "word": "effortlessly.",
+      "start": 31.46,
+      "end": 31.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new Canva feature that auto-translates and resizes marketing assets instantly.",
+      "line2": "CANVA BULK PRODUCTION UPGRADE",
+      "tag": "\ud83d\uded1 Canva Magic Studio upgrades for bulk image and video production",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Canva Magic Studio upgrades for bulk image and video production",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Canva Magic Studio upgrades for bulk image and video production",
+        "subtitle": "Canva Magic Studio upgrades for bulk image and video production"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Canva Magic Studio upgrades for bulk image and video production"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Canva Magic Studio upgrades for bulk image and video production"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Canva Magic Studio upgrades for bulk image and video production",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "page": "page-05",
+  "idea": "No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+  "text": "The clean no-code stack for selling digital products with affiliate partners is remarkably simple. Most creators avoid referral programs because enterprise affiliate software charges hefty subscriptions and requires complex code. Meanwhile, manually auditing coupon codes causes billing discrepancies whenever customer refunds occur. Instead, route Lemon Squeezy order webhooks into Airtable through Make to log net commissions instantly. This delivers transparent partner payouts on autopilot.",
+  "duration": 31.077,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "clean",
+      "start": 0.22,
+      "end": 0.48
+    },
+    {
+      "word": "no",
+      "start": 0.48,
+      "end": 0.78
+    },
+    {
+      "word": "-code",
+      "start": 0.78,
+      "end": 1.1
+    },
+    {
+      "word": "stack",
+      "start": 1.1,
+      "end": 1.42
+    },
+    {
+      "word": "for",
+      "start": 1.42,
+      "end": 1.64
+    },
+    {
+      "word": "selling",
+      "start": 1.64,
+      "end": 1.98
+    },
+    {
+      "word": "digital",
+      "start": 1.98,
+      "end": 2.34
+    },
+    {
+      "word": "products",
+      "start": 2.34,
+      "end": 2.78
+    },
+    {
+      "word": "with",
+      "start": 2.78,
+      "end": 3.04
+    },
+    {
+      "word": "affiliate",
+      "start": 3.04,
+      "end": 3.38
+    },
+    {
+      "word": "partners",
+      "start": 3.38,
+      "end": 3.88
+    },
+    {
+      "word": "is",
+      "start": 3.88,
+      "end": 4.48
+    },
+    {
+      "word": "remarkably",
+      "start": 4.48,
+      "end": 4.9
+    },
+    {
+      "word": "simple.",
+      "start": 4.9,
+      "end": 5.66
+    },
+    {
+      "word": "Most",
+      "start": 6.08,
+      "end": 6.4
+    },
+    {
+      "word": "creators",
+      "start": 6.4,
+      "end": 6.84
+    },
+    {
+      "word": "avoid",
+      "start": 6.84,
+      "end": 7.36
+    },
+    {
+      "word": "referral",
+      "start": 7.36,
+      "end": 7.8
+    },
+    {
+      "word": "programs",
+      "start": 7.8,
+      "end": 8.38
+    },
+    {
+      "word": "because",
+      "start": 8.38,
+      "end": 9.08
+    },
+    {
+      "word": "enterprise",
+      "start": 9.08,
+      "end": 9.64
+    },
+    {
+      "word": "affiliate",
+      "start": 9.64,
+      "end": 10.2
+    },
+    {
+      "word": "software",
+      "start": 10.2,
+      "end": 10.78
+    },
+    {
+      "word": "charges",
+      "start": 10.78,
+      "end": 11.5
+    },
+    {
+      "word": "hefty",
+      "start": 11.5,
+      "end": 11.86
+    },
+    {
+      "word": "subscriptions",
+      "start": 11.86,
+      "end": 12.6
+    },
+    {
+      "word": "and",
+      "start": 12.6,
+      "end": 13.2
+    },
+    {
+      "word": "requires",
+      "start": 13.2,
+      "end": 13.6
+    },
+    {
+      "word": "complex",
+      "start": 13.6,
+      "end": 14.12
+    },
+    {
+      "word": "code.",
+      "start": 14.12,
+      "end": 14.72
+    },
+    {
+      "word": "Meanwhile,",
+      "start": 14.98,
+      "end": 15.38
+    },
+    {
+      "word": "manually",
+      "start": 16.04,
+      "end": 16.12
+    },
+    {
+      "word": "auditing",
+      "start": 16.12,
+      "end": 16.54
+    },
+    {
+      "word": "coupon",
+      "start": 16.54,
+      "end": 16.86
+    },
+    {
+      "word": "codes",
+      "start": 16.86,
+      "end": 17.44
+    },
+    {
+      "word": "causes",
+      "start": 17.44,
+      "end": 17.92
+    },
+    {
+      "word": "billing",
+      "start": 17.92,
+      "end": 18.26
+    },
+    {
+      "word": "discrepancies",
+      "start": 18.26,
+      "end": 18.9
+    },
+    {
+      "word": "whenever",
+      "start": 18.9,
+      "end": 19.6
+    },
+    {
+      "word": "customer",
+      "start": 19.6,
+      "end": 20.06
+    },
+    {
+      "word": "refunds",
+      "start": 20.06,
+      "end": 20.54
+    },
+    {
+      "word": "occur.",
+      "start": 20.54,
+      "end": 21.12
+    },
+    {
+      "word": "Instead,",
+      "start": 22.16,
+      "end": 22.16
+    },
+    {
+      "word": "route",
+      "start": 22.72,
+      "end": 22.8
+    },
+    {
+      "word": "lemons",
+      "start": 22.8,
+      "end": 23.18
+    },
+    {
+      "word": "squeezy",
+      "start": 23.18,
+      "end": 23.66
+    },
+    {
+      "word": "order",
+      "start": 23.66,
+      "end": 23.92
+    },
+    {
+      "word": "web",
+      "start": 23.92,
+      "end": 24.14
+    },
+    {
+      "word": "hooks",
+      "start": 24.14,
+      "end": 24.34
+    },
+    {
+      "word": "into",
+      "start": 24.34,
+      "end": 24.64
+    },
+    {
+      "word": "irritable",
+      "start": 24.64,
+      "end": 25.08
+    },
+    {
+      "word": "through",
+      "start": 25.08,
+      "end": 25.38
+    },
+    {
+      "word": "make",
+      "start": 25.38,
+      "end": 25.58
+    },
+    {
+      "word": "-to",
+      "start": 25.58,
+      "end": 25.78
+    },
+    {
+      "word": "-log",
+      "start": 25.78,
+      "end": 26.04
+    },
+    {
+      "word": "net",
+      "start": 26.04,
+      "end": 26.32
+    },
+    {
+      "word": "commissions",
+      "start": 26.32,
+      "end": 26.7
+    },
+    {
+      "word": "instantly.",
+      "start": 26.7,
+      "end": 27.44
+    },
+    {
+      "word": "This",
+      "start": 27.44,
+      "end": 28.22
+    },
+    {
+      "word": "delivers",
+      "start": 28.22,
+      "end": 28.54
+    },
+    {
+      "word": "transparent",
+      "start": 28.54,
+      "end": 29.28
+    },
+    {
+      "word": "partner",
+      "start": 29.28,
+      "end": 29.7
+    },
+    {
+      "word": "payouts",
+      "start": 29.7,
+      "end": 30.1
+    },
+    {
+      "word": "on",
+      "start": 30.1,
+      "end": 30.4
+    },
+    {
+      "word": "autopilot.",
+      "start": 30.4,
+      "end": 31.04
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The clean no-code stack for selling digital products with affiliate partners.",
+      "line2": "TRACK AFFILIATES AUTOMATICALLY",
+      "tag": "\ud83d\uded1 No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

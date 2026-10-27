@@ -1,0 +1,416 @@
+{
+  "page": "page-02",
+  "idea": "AI video caption generator with custom subtitle animations for editors",
+  "text": "How freelance video editors cut their turnaround time in half. Spending four hours polishing captions and hunting for matching sound effects kills your profitability on fixed-price short-form packages. Manual text alignment in After Effects causes rendering delays and leaves no room for client revisions. Use Descript to edit video tracks directly through the text transcript and apply automated animated captions in one click. You double your project profit margins.",
+  "duration": 28.069,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "freelance",
+      "start": 0.34,
+      "end": 0.66
+    },
+    {
+      "word": "video",
+      "start": 0.66,
+      "end": 1.08
+    },
+    {
+      "word": "editors",
+      "start": 1.08,
+      "end": 1.38
+    },
+    {
+      "word": "cut",
+      "start": 1.38,
+      "end": 1.68
+    },
+    {
+      "word": "their",
+      "start": 1.68,
+      "end": 2.04
+    },
+    {
+      "word": "turnaround",
+      "start": 2.04,
+      "end": 2.32
+    },
+    {
+      "word": "time",
+      "start": 2.32,
+      "end": 2.76
+    },
+    {
+      "word": "in",
+      "start": 2.76,
+      "end": 2.94
+    },
+    {
+      "word": "half.",
+      "start": 2.94,
+      "end": 3.56
+    },
+    {
+      "word": "Spending",
+      "start": 3.96,
+      "end": 3.96
+    },
+    {
+      "word": "four",
+      "start": 3.96,
+      "end": 4.48
+    },
+    {
+      "word": "hours",
+      "start": 4.48,
+      "end": 4.84
+    },
+    {
+      "word": "polishing",
+      "start": 4.84,
+      "end": 5.34
+    },
+    {
+      "word": "captions",
+      "start": 5.34,
+      "end": 5.88
+    },
+    {
+      "word": "and",
+      "start": 5.88,
+      "end": 6.16
+    },
+    {
+      "word": "hunting",
+      "start": 6.16,
+      "end": 6.46
+    },
+    {
+      "word": "for",
+      "start": 6.46,
+      "end": 6.7
+    },
+    {
+      "word": "matching",
+      "start": 6.7,
+      "end": 7.04
+    },
+    {
+      "word": "sound",
+      "start": 7.04,
+      "end": 7.4
+    },
+    {
+      "word": "effects",
+      "start": 7.4,
+      "end": 7.88
+    },
+    {
+      "word": "kills",
+      "start": 7.88,
+      "end": 8.36
+    },
+    {
+      "word": "your",
+      "start": 8.36,
+      "end": 8.7
+    },
+    {
+      "word": "profitability",
+      "start": 8.7,
+      "end": 9.1
+    },
+    {
+      "word": "on",
+      "start": 9.1,
+      "end": 9.6
+    },
+    {
+      "word": "fixed",
+      "start": 9.6,
+      "end": 9.9
+    },
+    {
+      "word": "price",
+      "start": 9.9,
+      "end": 10.24
+    },
+    {
+      "word": "short",
+      "start": 10.24,
+      "end": 10.56
+    },
+    {
+      "word": "form",
+      "start": 10.56,
+      "end": 10.82
+    },
+    {
+      "word": "packages.",
+      "start": 10.82,
+      "end": 11.38
+    },
+    {
+      "word": "Manual",
+      "start": 12.08,
+      "end": 12.14
+    },
+    {
+      "word": "text",
+      "start": 12.14,
+      "end": 12.48
+    },
+    {
+      "word": "alignment",
+      "start": 12.48,
+      "end": 12.9
+    },
+    {
+      "word": "and",
+      "start": 12.9,
+      "end": 13.24
+    },
+    {
+      "word": "after",
+      "start": 13.24,
+      "end": 13.52
+    },
+    {
+      "word": "effects",
+      "start": 13.52,
+      "end": 13.98
+    },
+    {
+      "word": "causes",
+      "start": 13.98,
+      "end": 14.5
+    },
+    {
+      "word": "rendering",
+      "start": 14.5,
+      "end": 14.9
+    },
+    {
+      "word": "delays",
+      "start": 14.9,
+      "end": 15.44
+    },
+    {
+      "word": "and",
+      "start": 15.44,
+      "end": 15.94
+    },
+    {
+      "word": "leaves",
+      "start": 15.94,
+      "end": 16.16
+    },
+    {
+      "word": "no",
+      "start": 16.16,
+      "end": 16.52
+    },
+    {
+      "word": "room",
+      "start": 16.52,
+      "end": 16.8
+    },
+    {
+      "word": "for",
+      "start": 16.8,
+      "end": 17.08
+    },
+    {
+      "word": "client",
+      "start": 17.08,
+      "end": 17.36
+    },
+    {
+      "word": "revisions.",
+      "start": 17.36,
+      "end": 17.92
+    },
+    {
+      "word": "Use",
+      "start": 18.6,
+      "end": 18.76
+    },
+    {
+      "word": "Descript",
+      "start": 18.76,
+      "end": 19.18
+    },
+    {
+      "word": "to",
+      "start": 19.18,
+      "end": 19.38
+    },
+    {
+      "word": "edit",
+      "start": 19.38,
+      "end": 19.6
+    },
+    {
+      "word": "video",
+      "start": 19.6,
+      "end": 20.0
+    },
+    {
+      "word": "tracks",
+      "start": 20.0,
+      "end": 20.34
+    },
+    {
+      "word": "directly",
+      "start": 20.34,
+      "end": 20.76
+    },
+    {
+      "word": "through",
+      "start": 20.76,
+      "end": 21.12
+    },
+    {
+      "word": "the",
+      "start": 21.12,
+      "end": 21.3
+    },
+    {
+      "word": "text",
+      "start": 21.3,
+      "end": 21.52
+    },
+    {
+      "word": "transcript",
+      "start": 21.52,
+      "end": 22.08
+    },
+    {
+      "word": "and",
+      "start": 22.08,
+      "end": 22.62
+    },
+    {
+      "word": "apply",
+      "start": 22.62,
+      "end": 23.06
+    },
+    {
+      "word": "automated",
+      "start": 23.06,
+      "end": 23.6
+    },
+    {
+      "word": "animated",
+      "start": 23.6,
+      "end": 24.18
+    },
+    {
+      "word": "captions",
+      "start": 24.18,
+      "end": 24.72
+    },
+    {
+      "word": "in",
+      "start": 24.72,
+      "end": 24.96
+    },
+    {
+      "word": "one",
+      "start": 24.96,
+      "end": 25.22
+    },
+    {
+      "word": "click.",
+      "start": 25.22,
+      "end": 25.52
+    },
+    {
+      "word": "You",
+      "start": 25.52,
+      "end": 26.24
+    },
+    {
+      "word": "double",
+      "start": 26.24,
+      "end": 26.44
+    },
+    {
+      "word": "your",
+      "start": 26.44,
+      "end": 26.72
+    },
+    {
+      "word": "project",
+      "start": 26.72,
+      "end": 27.06
+    },
+    {
+      "word": "profit",
+      "start": 27.06,
+      "end": 27.44
+    },
+    {
+      "word": "margins.",
+      "start": 27.44,
+      "end": 27.82
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "How freelance video editors cut their turnaround time in half.",
+      "line2": "ANIMATE VIDEO CAPTIONS",
+      "tag": "\ud83d\uded1 AI video caption generator with custom subtitle animations for editors",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI video caption generator with custom subtitle animations for editors",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI video caption generator with custom subtitle animations for editors",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

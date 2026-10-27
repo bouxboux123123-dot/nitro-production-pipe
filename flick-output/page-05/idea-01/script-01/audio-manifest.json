@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Automated lead capture from social DMs directly into Airtable CRM",
+  "text": "Stop manually copying leads from your Instagram DMs into a spreadsheet. High-intent prospects ask for pricing, but their messages get buried under casual memes and notifications. Delayed manual data entry causes lead response times to plummet, slashing conversion rates significantly. Connect ManyChat keyword triggers to Airtable webhooks to log verified names, phone numbers, and budget sizes automatically. You capture qualified prospects instantly without touching your phone.",
+  "duration": 29.498,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "manually",
+      "start": 0.42,
+      "end": 0.88
+    },
+    {
+      "word": "copying",
+      "start": 0.88,
+      "end": 1.36
+    },
+    {
+      "word": "leads",
+      "start": 1.36,
+      "end": 1.7
+    },
+    {
+      "word": "from",
+      "start": 1.7,
+      "end": 1.9
+    },
+    {
+      "word": "your",
+      "start": 1.9,
+      "end": 2.22
+    },
+    {
+      "word": "Instagram",
+      "start": 2.22,
+      "end": 2.54
+    },
+    {
+      "word": "DM's",
+      "start": 2.54,
+      "end": 3.28
+    },
+    {
+      "word": "into",
+      "start": 3.28,
+      "end": 3.48
+    },
+    {
+      "word": "a",
+      "start": 3.48,
+      "end": 3.8
+    },
+    {
+      "word": "spreadsheet.",
+      "start": 3.8,
+      "end": 4.1
+    },
+    {
+      "word": "High",
+      "start": 4.86,
+      "end": 5.0
+    },
+    {
+      "word": "intent",
+      "start": 5.0,
+      "end": 5.28
+    },
+    {
+      "word": "prospects",
+      "start": 5.28,
+      "end": 5.72
+    },
+    {
+      "word": "ask",
+      "start": 5.72,
+      "end": 6.14
+    },
+    {
+      "word": "for",
+      "start": 6.14,
+      "end": 6.36
+    },
+    {
+      "word": "pricing,",
+      "start": 6.36,
+      "end": 6.76
+    },
+    {
+      "word": "but",
+      "start": 7.14,
+      "end": 7.34
+    },
+    {
+      "word": "their",
+      "start": 7.34,
+      "end": 7.58
+    },
+    {
+      "word": "messages",
+      "start": 7.58,
+      "end": 7.88
+    },
+    {
+      "word": "get",
+      "start": 7.88,
+      "end": 8.34
+    },
+    {
+      "word": "buried",
+      "start": 8.34,
+      "end": 8.62
+    },
+    {
+      "word": "under",
+      "start": 8.62,
+      "end": 8.92
+    },
+    {
+      "word": "casual",
+      "start": 8.92,
+      "end": 9.34
+    },
+    {
+      "word": "memes",
+      "start": 9.34,
+      "end": 9.74
+    },
+    {
+      "word": "and",
+      "start": 9.74,
+      "end": 10.06
+    },
+    {
+      "word": "notifications.",
+      "start": 10.06,
+      "end": 10.7
+    },
+    {
+      "word": "Delayed",
+      "start": 11.44,
+      "end": 11.76
+    },
+    {
+      "word": "manual",
+      "start": 11.76,
+      "end": 12.16
+    },
+    {
+      "word": "data",
+      "start": 12.16,
+      "end": 12.52
+    },
+    {
+      "word": "entry",
+      "start": 12.52,
+      "end": 12.9
+    },
+    {
+      "word": "causes",
+      "start": 12.9,
+      "end": 13.4
+    },
+    {
+      "word": "lead",
+      "start": 13.4,
+      "end": 13.7
+    },
+    {
+      "word": "response",
+      "start": 13.7,
+      "end": 14.16
+    },
+    {
+      "word": "times",
+      "start": 14.16,
+      "end": 14.62
+    },
+    {
+      "word": "to",
+      "start": 14.62,
+      "end": 14.86
+    },
+    {
+      "word": "plummet,",
+      "start": 14.86,
+      "end": 15.16
+    },
+    {
+      "word": "slashing",
+      "start": 15.78,
+      "end": 16.02
+    },
+    {
+      "word": "conversion",
+      "start": 16.02,
+      "end": 16.44
+    },
+    {
+      "word": "rates",
+      "start": 16.44,
+      "end": 16.88
+    },
+    {
+      "word": "significantly.",
+      "start": 16.88,
+      "end": 17.54
+    },
+    {
+      "word": "Connect",
+      "start": 18.32,
+      "end": 18.32
+    },
+    {
+      "word": "many",
+      "start": 18.32,
+      "end": 18.62
+    },
+    {
+      "word": "chat",
+      "start": 18.62,
+      "end": 18.96
+    },
+    {
+      "word": "keyword",
+      "start": 18.96,
+      "end": 19.22
+    },
+    {
+      "word": "triggers",
+      "start": 19.22,
+      "end": 19.6
+    },
+    {
+      "word": "to",
+      "start": 19.6,
+      "end": 19.94
+    },
+    {
+      "word": "irritable",
+      "start": 19.94,
+      "end": 20.32
+    },
+    {
+      "word": "webhooks",
+      "start": 20.32,
+      "end": 20.78
+    },
+    {
+      "word": "to",
+      "start": 20.78,
+      "end": 20.98
+    },
+    {
+      "word": "log",
+      "start": 20.98,
+      "end": 21.28
+    },
+    {
+      "word": "verified",
+      "start": 21.28,
+      "end": 21.68
+    },
+    {
+      "word": "names,",
+      "start": 21.68,
+      "end": 22.16
+    },
+    {
+      "word": "phone",
+      "start": 22.86,
+      "end": 22.9
+    },
+    {
+      "word": "numbers,",
+      "start": 22.9,
+      "end": 23.28
+    },
+    {
+      "word": "and",
+      "start": 23.52,
+      "end": 23.98
+    },
+    {
+      "word": "budget",
+      "start": 23.98,
+      "end": 24.12
+    },
+    {
+      "word": "sizes",
+      "start": 24.12,
+      "end": 24.72
+    },
+    {
+      "word": "automatically.",
+      "start": 24.72,
+      "end": 25.3
+    },
+    {
+      "word": "You",
+      "start": 25.3,
+      "end": 26.12
+    },
+    {
+      "word": "capture",
+      "start": 26.12,
+      "end": 26.48
+    },
+    {
+      "word": "qualified",
+      "start": 26.48,
+      "end": 27.04
+    },
+    {
+      "word": "prospects",
+      "start": 27.04,
+      "end": 27.62
+    },
+    {
+      "word": "instantly",
+      "start": 27.62,
+      "end": 28.12
+    },
+    {
+      "word": "without",
+      "start": 28.12,
+      "end": 28.58
+    },
+    {
+      "word": "touching",
+      "start": 28.58,
+      "end": 28.9
+    },
+    {
+      "word": "your",
+      "start": 28.9,
+      "end": 29.14
+    },
+    {
+      "word": "phone.",
+      "start": 29.14,
+      "end": 29.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stop manually copying leads from your Instagram DMs into a spreadsheet.",
+      "line2": "SYNC DMS TO AIRTABLE",
+      "tag": "\ud83d\uded1 Automated lead capture from social DMs directly into Airtable CRM",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Automated lead capture from social DMs directly into Airtable CRM",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Automated lead capture from social DMs directly into Airtable CRM",
+        "subtitle": "Automated lead capture from social DMs directly into Airtable CRM"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Automated lead capture from social DMs directly into Airtable CRM"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Automated lead capture from social DMs directly into Airtable CRM"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Automated lead capture from social DMs directly into Airtable CRM",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

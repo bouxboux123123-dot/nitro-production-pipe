@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "Figma AI design tools launch and layout generation features",
+  "text": "Will AI replace UI designers once they test Figma's latest automated design update? Creative teams drown in low-leverage tasks like renaming layers, translating mockups, and building component variants. These administrative design chores consume half the workweek instead of focusing on user psychology and conversion architecture. Figma AI now automates layer taxonomy, instant text translation, and asset population directly on your canvas. This eliminates repetitive design friction immediately.",
+  "duration": 31.781,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Will",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "AI",
+      "start": 0.26,
+      "end": 0.64
+    },
+    {
+      "word": "replace",
+      "start": 0.64,
+      "end": 1.16
+    },
+    {
+      "word": "UI",
+      "start": 1.16,
+      "end": 1.64
+    },
+    {
+      "word": "designers",
+      "start": 1.64,
+      "end": 2.12
+    },
+    {
+      "word": "once",
+      "start": 2.12,
+      "end": 2.62
+    },
+    {
+      "word": "they",
+      "start": 2.62,
+      "end": 2.86
+    },
+    {
+      "word": "test",
+      "start": 2.86,
+      "end": 3.18
+    },
+    {
+      "word": "Figma's",
+      "start": 3.18,
+      "end": 4.02
+    },
+    {
+      "word": "latest",
+      "start": 4.02,
+      "end": 4.12
+    },
+    {
+      "word": "automated",
+      "start": 4.12,
+      "end": 4.54
+    },
+    {
+      "word": "design",
+      "start": 4.54,
+      "end": 4.94
+    },
+    {
+      "word": "update?",
+      "start": 4.94,
+      "end": 5.5
+    },
+    {
+      "word": "Creative",
+      "start": 6.28,
+      "end": 6.28
+    },
+    {
+      "word": "teams",
+      "start": 6.28,
+      "end": 6.84
+    },
+    {
+      "word": "drown",
+      "start": 6.84,
+      "end": 7.24
+    },
+    {
+      "word": "in",
+      "start": 7.24,
+      "end": 7.48
+    },
+    {
+      "word": "low",
+      "start": 7.48,
+      "end": 7.76
+    },
+    {
+      "word": "-leverage",
+      "start": 7.76,
+      "end": 8.04
+    },
+    {
+      "word": "tasks",
+      "start": 8.04,
+      "end": 8.54
+    },
+    {
+      "word": "like",
+      "start": 8.54,
+      "end": 8.9
+    },
+    {
+      "word": "renaming",
+      "start": 8.9,
+      "end": 9.28
+    },
+    {
+      "word": "layers,",
+      "start": 9.28,
+      "end": 9.76
+    },
+    {
+      "word": "translating",
+      "start": 10.7,
+      "end": 10.7
+    },
+    {
+      "word": "mock",
+      "start": 10.7,
+      "end": 11.08
+    },
+    {
+      "word": "-ups,",
+      "start": 11.08,
+      "end": 11.32
+    },
+    {
+      "word": "and",
+      "start": 11.58,
+      "end": 11.74
+    },
+    {
+      "word": "building",
+      "start": 11.74,
+      "end": 12.06
+    },
+    {
+      "word": "component",
+      "start": 12.06,
+      "end": 12.58
+    },
+    {
+      "word": "variants.",
+      "start": 12.58,
+      "end": 13.04
+    },
+    {
+      "word": "These",
+      "start": 13.46,
+      "end": 13.7
+    },
+    {
+      "word": "administrative",
+      "start": 13.7,
+      "end": 14.3
+    },
+    {
+      "word": "design",
+      "start": 14.3,
+      "end": 14.82
+    },
+    {
+      "word": "chores",
+      "start": 14.82,
+      "end": 15.22
+    },
+    {
+      "word": "consume",
+      "start": 15.22,
+      "end": 15.6
+    },
+    {
+      "word": "half",
+      "start": 15.6,
+      "end": 15.94
+    },
+    {
+      "word": "the",
+      "start": 15.94,
+      "end": 16.1
+    },
+    {
+      "word": "workweek",
+      "start": 16.1,
+      "end": 16.66
+    },
+    {
+      "word": "instead",
+      "start": 16.66,
+      "end": 16.98
+    },
+    {
+      "word": "of",
+      "start": 16.98,
+      "end": 17.5
+    },
+    {
+      "word": "focusing",
+      "start": 17.5,
+      "end": 17.52
+    },
+    {
+      "word": "on",
+      "start": 17.52,
+      "end": 17.8
+    },
+    {
+      "word": "user",
+      "start": 17.8,
+      "end": 18.1
+    },
+    {
+      "word": "psychology",
+      "start": 18.1,
+      "end": 18.72
+    },
+    {
+      "word": "and",
+      "start": 18.72,
+      "end": 19.16
+    },
+    {
+      "word": "conversion",
+      "start": 19.16,
+      "end": 19.56
+    },
+    {
+      "word": "architecture.",
+      "start": 19.56,
+      "end": 20.2
+    },
+    {
+      "word": "Figma",
+      "start": 21.0,
+      "end": 21.18
+    },
+    {
+      "word": "AI",
+      "start": 21.18,
+      "end": 21.68
+    },
+    {
+      "word": "now",
+      "start": 21.68,
+      "end": 22.14
+    },
+    {
+      "word": "automates",
+      "start": 22.14,
+      "end": 22.64
+    },
+    {
+      "word": "layer",
+      "start": 22.64,
+      "end": 22.98
+    },
+    {
+      "word": "taxonomy,",
+      "start": 22.98,
+      "end": 23.58
+    },
+    {
+      "word": "instant",
+      "start": 24.22,
+      "end": 24.42
+    },
+    {
+      "word": "text",
+      "start": 24.42,
+      "end": 24.78
+    },
+    {
+      "word": "translation,",
+      "start": 24.78,
+      "end": 25.38
+    },
+    {
+      "word": "and",
+      "start": 25.7,
+      "end": 26.02
+    },
+    {
+      "word": "asset",
+      "start": 26.02,
+      "end": 26.32
+    },
+    {
+      "word": "population",
+      "start": 26.32,
+      "end": 27.0
+    },
+    {
+      "word": "directly",
+      "start": 27.0,
+      "end": 27.48
+    },
+    {
+      "word": "on",
+      "start": 27.48,
+      "end": 27.66
+    },
+    {
+      "word": "your",
+      "start": 27.66,
+      "end": 28.0
+    },
+    {
+      "word": "canvas.",
+      "start": 28.0,
+      "end": 28.22
+    },
+    {
+      "word": "This",
+      "start": 28.22,
+      "end": 29.02
+    },
+    {
+      "word": "eliminates",
+      "start": 29.02,
+      "end": 29.54
+    },
+    {
+      "word": "repetitive",
+      "start": 29.54,
+      "end": 30.24
+    },
+    {
+      "word": "design",
+      "start": 30.24,
+      "end": 30.74
+    },
+    {
+      "word": "friction",
+      "start": 30.74,
+      "end": 31.12
+    },
+    {
+      "word": "immediately.",
+      "start": 31.12,
+      "end": 31.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Will AI replace UI designers? Here is what Figma's new tools can actually do.",
+      "line2": "FIGMA AI DESIGN TOOLS",
+      "tag": "\ud83d\uded1 Figma AI design tools launch and layout generation features",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Figma AI design tools launch and layout generation features",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

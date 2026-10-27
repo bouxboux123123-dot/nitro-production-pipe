@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Zapier transfer tool for bulk migrating legacy spreadsheet data",
+  "text": "Upgrade your business systems without losing a single piece of historical client data. Companies get locked into clunky legacy spreadsheets because migrating active accounts into modern tools feels risky. Rushed CSV imports often drop notes, break custom phone formatting, and corrupt client relationship records. Use Zapier Transfer to visually validate fields and migrate historical spreadsheet data cleanly into Airtable bases. You modernize business operations with zero data loss.",
+  "duration": 30.181,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "upgrade",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "your",
+      "start": 0.38,
+      "end": 0.84
+    },
+    {
+      "word": "business",
+      "start": 0.84,
+      "end": 0.9
+    },
+    {
+      "word": "systems",
+      "start": 0.9,
+      "end": 1.42
+    },
+    {
+      "word": "without",
+      "start": 1.42,
+      "end": 1.92
+    },
+    {
+      "word": "losing",
+      "start": 1.92,
+      "end": 2.26
+    },
+    {
+      "word": "a",
+      "start": 2.26,
+      "end": 2.5
+    },
+    {
+      "word": "single",
+      "start": 2.5,
+      "end": 2.74
+    },
+    {
+      "word": "piece",
+      "start": 2.74,
+      "end": 3.1
+    },
+    {
+      "word": "of",
+      "start": 3.1,
+      "end": 3.36
+    },
+    {
+      "word": "historical",
+      "start": 3.36,
+      "end": 3.82
+    },
+    {
+      "word": "client",
+      "start": 3.82,
+      "end": 4.24
+    },
+    {
+      "word": "data.",
+      "start": 4.24,
+      "end": 4.74
+    },
+    {
+      "word": "Companies",
+      "start": 5.46,
+      "end": 5.52
+    },
+    {
+      "word": "get",
+      "start": 5.52,
+      "end": 6.0
+    },
+    {
+      "word": "locked",
+      "start": 6.0,
+      "end": 6.24
+    },
+    {
+      "word": "into",
+      "start": 6.24,
+      "end": 6.54
+    },
+    {
+      "word": "clunky",
+      "start": 6.54,
+      "end": 6.84
+    },
+    {
+      "word": "legacy",
+      "start": 6.84,
+      "end": 7.3
+    },
+    {
+      "word": "spreadsheets",
+      "start": 7.3,
+      "end": 7.86
+    },
+    {
+      "word": "because",
+      "start": 7.86,
+      "end": 8.54
+    },
+    {
+      "word": "migrating",
+      "start": 8.54,
+      "end": 9.0
+    },
+    {
+      "word": "active",
+      "start": 9.0,
+      "end": 9.52
+    },
+    {
+      "word": "accounts",
+      "start": 9.52,
+      "end": 9.96
+    },
+    {
+      "word": "into",
+      "start": 9.96,
+      "end": 10.24
+    },
+    {
+      "word": "modern",
+      "start": 10.24,
+      "end": 10.6
+    },
+    {
+      "word": "tools",
+      "start": 10.6,
+      "end": 11.04
+    },
+    {
+      "word": "feels",
+      "start": 11.04,
+      "end": 11.54
+    },
+    {
+      "word": "risky.",
+      "start": 11.54,
+      "end": 12.12
+    },
+    {
+      "word": "Rush",
+      "start": 12.34,
+      "end": 12.58
+    },
+    {
+      "word": "CSV",
+      "start": 12.58,
+      "end": 13.14
+    },
+    {
+      "word": "imports",
+      "start": 13.14,
+      "end": 13.76
+    },
+    {
+      "word": "often",
+      "start": 13.76,
+      "end": 14.2
+    },
+    {
+      "word": "drop",
+      "start": 14.2,
+      "end": 14.52
+    },
+    {
+      "word": "notes,",
+      "start": 14.52,
+      "end": 14.92
+    },
+    {
+      "word": "break",
+      "start": 15.42,
+      "end": 15.52
+    },
+    {
+      "word": "custom",
+      "start": 15.52,
+      "end": 15.86
+    },
+    {
+      "word": "phone",
+      "start": 15.86,
+      "end": 16.22
+    },
+    {
+      "word": "formatting,",
+      "start": 16.22,
+      "end": 16.56
+    },
+    {
+      "word": "and",
+      "start": 17.04,
+      "end": 17.18
+    },
+    {
+      "word": "corrupt",
+      "start": 17.18,
+      "end": 17.44
+    },
+    {
+      "word": "client",
+      "start": 17.44,
+      "end": 17.94
+    },
+    {
+      "word": "relationship",
+      "start": 17.94,
+      "end": 18.54
+    },
+    {
+      "word": "records.",
+      "start": 18.54,
+      "end": 19.08
+    },
+    {
+      "word": "Use",
+      "start": 19.68,
+      "end": 19.92
+    },
+    {
+      "word": "Zapier",
+      "start": 19.92,
+      "end": 20.4
+    },
+    {
+      "word": "Transfer",
+      "start": 20.4,
+      "end": 20.78
+    },
+    {
+      "word": "to",
+      "start": 20.78,
+      "end": 21.18
+    },
+    {
+      "word": "visually",
+      "start": 21.18,
+      "end": 21.48
+    },
+    {
+      "word": "validate",
+      "start": 21.48,
+      "end": 21.92
+    },
+    {
+      "word": "fields",
+      "start": 21.92,
+      "end": 22.48
+    },
+    {
+      "word": "and",
+      "start": 22.48,
+      "end": 22.8
+    },
+    {
+      "word": "migrate",
+      "start": 22.8,
+      "end": 23.14
+    },
+    {
+      "word": "historical",
+      "start": 23.14,
+      "end": 23.82
+    },
+    {
+      "word": "spreadsheet",
+      "start": 23.82,
+      "end": 24.38
+    },
+    {
+      "word": "data",
+      "start": 24.38,
+      "end": 24.84
+    },
+    {
+      "word": "cleanly",
+      "start": 24.84,
+      "end": 25.36
+    },
+    {
+      "word": "into",
+      "start": 25.36,
+      "end": 25.6
+    },
+    {
+      "word": "irritable",
+      "start": 25.6,
+      "end": 26.0
+    },
+    {
+      "word": "bases.",
+      "start": 26.0,
+      "end": 26.52
+    },
+    {
+      "word": "You",
+      "start": 26.52,
+      "end": 27.22
+    },
+    {
+      "word": "modernize",
+      "start": 27.22,
+      "end": 27.72
+    },
+    {
+      "word": "business",
+      "start": 27.72,
+      "end": 28.1
+    },
+    {
+      "word": "operations",
+      "start": 28.1,
+      "end": 28.68
+    },
+    {
+      "word": "with",
+      "start": 28.68,
+      "end": 29.06
+    },
+    {
+      "word": "zero",
+      "start": 29.06,
+      "end": 29.46
+    },
+    {
+      "word": "data",
+      "start": 29.46,
+      "end": 29.76
+    },
+    {
+      "word": "loss.",
+      "start": 29.76,
+      "end": 30.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Upgrade your business systems without losing a single piece of client history.",
+      "line2": "BULK MIGRATE SPREADSHEETS",
+      "tag": "\ud83d\uded1 Zapier transfer tool for bulk migrating legacy spreadsheet data",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Zapier transfer tool for bulk migrating legacy spreadsheet data",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Zapier transfer tool for bulk migrating legacy spreadsheet data",
+        "subtitle": "Zapier transfer tool for bulk migrating legacy spreadsheet data"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Zapier transfer tool for bulk migrating legacy spreadsheet data"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Zapier transfer tool for bulk migrating legacy spreadsheet data"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Zapier transfer tool for bulk migrating legacy spreadsheet data",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

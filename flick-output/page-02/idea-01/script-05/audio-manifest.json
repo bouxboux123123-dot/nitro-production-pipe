@@ -1,0 +1,436 @@
+{
+  "page": "page-02",
+  "idea": "AI client contract reviewer that highlights red flags",
+  "text": "The biggest mistake freelancers make is ignoring indemnification clauses\u2014fix it with this. Signing client agreements without reviewing indemnity language means you personally absorb third-party lawsuits and catastrophic legal fees. Standard corporate contracts routinely force outside contractors to cover client damages without any reasonable monetary cap. Run the agreement through Contract-GPT to flag uncapped indemnity and replace it with mutual liability protection. You safeguard your business from devastating litigation with zero legal fees.",
+  "duration": 34.085,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "biggest",
+      "start": 0.2,
+      "end": 0.58
+    },
+    {
+      "word": "mistake",
+      "start": 0.58,
+      "end": 1.06
+    },
+    {
+      "word": "freelancers",
+      "start": 1.06,
+      "end": 1.58
+    },
+    {
+      "word": "make",
+      "start": 1.58,
+      "end": 1.96
+    },
+    {
+      "word": "is",
+      "start": 1.96,
+      "end": 2.38
+    },
+    {
+      "word": "ignoring",
+      "start": 2.38,
+      "end": 2.9
+    },
+    {
+      "word": "indemnification",
+      "start": 2.9,
+      "end": 3.74
+    },
+    {
+      "word": "clauses.",
+      "start": 3.74,
+      "end": 4.26
+    },
+    {
+      "word": "Fix",
+      "start": 4.78,
+      "end": 4.92
+    },
+    {
+      "word": "it",
+      "start": 4.92,
+      "end": 5.1
+    },
+    {
+      "word": "with",
+      "start": 5.1,
+      "end": 5.32
+    },
+    {
+      "word": "this.",
+      "start": 5.32,
+      "end": 6.16
+    },
+    {
+      "word": "Signing",
+      "start": 6.46,
+      "end": 6.7
+    },
+    {
+      "word": "client",
+      "start": 6.7,
+      "end": 7.0
+    },
+    {
+      "word": "agreements",
+      "start": 7.0,
+      "end": 7.46
+    },
+    {
+      "word": "without",
+      "start": 7.46,
+      "end": 7.86
+    },
+    {
+      "word": "reviewing",
+      "start": 7.86,
+      "end": 8.34
+    },
+    {
+      "word": "indemnity",
+      "start": 8.34,
+      "end": 8.9
+    },
+    {
+      "word": "language",
+      "start": 8.9,
+      "end": 9.42
+    },
+    {
+      "word": "means",
+      "start": 9.42,
+      "end": 9.98
+    },
+    {
+      "word": "you",
+      "start": 9.98,
+      "end": 10.4
+    },
+    {
+      "word": "personally",
+      "start": 10.4,
+      "end": 10.66
+    },
+    {
+      "word": "absorb",
+      "start": 10.66,
+      "end": 11.12
+    },
+    {
+      "word": "third",
+      "start": 11.12,
+      "end": 11.5
+    },
+    {
+      "word": "-party",
+      "start": 11.5,
+      "end": 11.78
+    },
+    {
+      "word": "lawsuits",
+      "start": 11.78,
+      "end": 12.22
+    },
+    {
+      "word": "and",
+      "start": 12.22,
+      "end": 12.76
+    },
+    {
+      "word": "catastrophic",
+      "start": 12.76,
+      "end": 13.08
+    },
+    {
+      "word": "legal",
+      "start": 13.08,
+      "end": 13.6
+    },
+    {
+      "word": "fees.",
+      "start": 13.6,
+      "end": 14.04
+    },
+    {
+      "word": "Standard",
+      "start": 14.78,
+      "end": 14.78
+    },
+    {
+      "word": "corporate",
+      "start": 14.78,
+      "end": 15.2
+    },
+    {
+      "word": "contracts",
+      "start": 15.2,
+      "end": 15.84
+    },
+    {
+      "word": "routinely",
+      "start": 15.84,
+      "end": 16.4
+    },
+    {
+      "word": "force",
+      "start": 16.4,
+      "end": 16.74
+    },
+    {
+      "word": "outside",
+      "start": 16.74,
+      "end": 17.26
+    },
+    {
+      "word": "contractors",
+      "start": 17.26,
+      "end": 17.76
+    },
+    {
+      "word": "to",
+      "start": 17.76,
+      "end": 18.12
+    },
+    {
+      "word": "cover",
+      "start": 18.12,
+      "end": 18.34
+    },
+    {
+      "word": "client",
+      "start": 18.34,
+      "end": 18.72
+    },
+    {
+      "word": "damages",
+      "start": 18.72,
+      "end": 19.22
+    },
+    {
+      "word": "without",
+      "start": 19.22,
+      "end": 19.88
+    },
+    {
+      "word": "any",
+      "start": 19.88,
+      "end": 20.2
+    },
+    {
+      "word": "reasonable",
+      "start": 20.2,
+      "end": 20.66
+    },
+    {
+      "word": "monetary",
+      "start": 20.66,
+      "end": 21.14
+    },
+    {
+      "word": "cap.",
+      "start": 21.14,
+      "end": 21.76
+    },
+    {
+      "word": "Run",
+      "start": 22.2,
+      "end": 22.38
+    },
+    {
+      "word": "the",
+      "start": 22.38,
+      "end": 22.6
+    },
+    {
+      "word": "agreement",
+      "start": 22.6,
+      "end": 22.94
+    },
+    {
+      "word": "through",
+      "start": 22.94,
+      "end": 23.34
+    },
+    {
+      "word": "contract",
+      "start": 23.34,
+      "end": 23.72
+    },
+    {
+      "word": "GPT",
+      "start": 23.72,
+      "end": 24.32
+    },
+    {
+      "word": "to",
+      "start": 24.32,
+      "end": 24.84
+    },
+    {
+      "word": "flag",
+      "start": 24.84,
+      "end": 25.2
+    },
+    {
+      "word": "uncapped",
+      "start": 25.2,
+      "end": 25.7
+    },
+    {
+      "word": "indemnity",
+      "start": 25.7,
+      "end": 26.3
+    },
+    {
+      "word": "and",
+      "start": 26.3,
+      "end": 26.8
+    },
+    {
+      "word": "replace",
+      "start": 26.8,
+      "end": 27.0
+    },
+    {
+      "word": "it",
+      "start": 27.0,
+      "end": 27.3
+    },
+    {
+      "word": "with",
+      "start": 27.3,
+      "end": 27.56
+    },
+    {
+      "word": "mutual",
+      "start": 27.56,
+      "end": 27.92
+    },
+    {
+      "word": "liability",
+      "start": 27.92,
+      "end": 28.48
+    },
+    {
+      "word": "protection.",
+      "start": 28.48,
+      "end": 29.08
+    },
+    {
+      "word": "You",
+      "start": 29.08,
+      "end": 29.88
+    },
+    {
+      "word": "safeguard",
+      "start": 29.88,
+      "end": 30.22
+    },
+    {
+      "word": "your",
+      "start": 30.22,
+      "end": 30.58
+    },
+    {
+      "word": "business",
+      "start": 30.58,
+      "end": 30.82
+    },
+    {
+      "word": "from",
+      "start": 30.82,
+      "end": 31.22
+    },
+    {
+      "word": "devastating",
+      "start": 31.22,
+      "end": 31.66
+    },
+    {
+      "word": "litigation",
+      "start": 31.66,
+      "end": 32.24
+    },
+    {
+      "word": "with",
+      "start": 32.24,
+      "end": 32.82
+    },
+    {
+      "word": "zero",
+      "start": 32.82,
+      "end": 33.24
+    },
+    {
+      "word": "legal",
+      "start": 33.24,
+      "end": 33.6
+    },
+    {
+      "word": "fees.",
+      "start": 33.6,
+      "end": 34.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "The biggest mistake freelancers make is ignoring indemnification clauses\u00e2\u20ac\u201dfix it with this.",
+      "line2": "SCAN CONTRACT RED FLAGS",
+      "tag": "\ud83d\uded1 AI client contract reviewer that highlights red flags",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI client contract reviewer that highlights red flags",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI client contract reviewer that highlights red flags",
+        "subtitle": "AI client contract reviewer that highlights red flags"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI client contract reviewer that highlights red flags"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI client contract reviewer that highlights red flags"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI client contract reviewer that highlights red flags",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

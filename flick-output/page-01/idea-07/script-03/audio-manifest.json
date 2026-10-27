@@ -1,0 +1,396 @@
+{
+  "page": "page-01",
+  "idea": "Automated contractor payroll calculation based on completed tasks",
+  "text": "Stop manually auditing timesheets and deliverable checklists at the end of the month. Scouring project boards to verify contractor billing wastes valuable operational focus every month. Relying on self-reported hourly estimates inflates project costs and secretly erodes agency gross margins. Deploy an automated Airtable verification pipeline that approves contractor compensation only after deliverables pass quality checks. You protect profit margins while eliminating tedious manual auditing.",
+  "duration": 30.949,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "manually",
+      "start": 0.38,
+      "end": 0.86
+    },
+    {
+      "word": "auditing",
+      "start": 0.86,
+      "end": 1.22
+    },
+    {
+      "word": "time",
+      "start": 1.22,
+      "end": 1.56
+    },
+    {
+      "word": "sheets",
+      "start": 1.56,
+      "end": 1.84
+    },
+    {
+      "word": "and",
+      "start": 1.84,
+      "end": 2.12
+    },
+    {
+      "word": "deliverable",
+      "start": 2.12,
+      "end": 2.58
+    },
+    {
+      "word": "checklists",
+      "start": 2.58,
+      "end": 3.04
+    },
+    {
+      "word": "at",
+      "start": 3.04,
+      "end": 3.26
+    },
+    {
+      "word": "the",
+      "start": 3.26,
+      "end": 3.38
+    },
+    {
+      "word": "end",
+      "start": 3.38,
+      "end": 3.48
+    },
+    {
+      "word": "of",
+      "start": 3.48,
+      "end": 3.62
+    },
+    {
+      "word": "the",
+      "start": 3.62,
+      "end": 4.42
+    },
+    {
+      "word": "month.",
+      "start": 4.42,
+      "end": 4.42
+    },
+    {
+      "word": "Scouring",
+      "start": 4.8,
+      "end": 5.0
+    },
+    {
+      "word": "project",
+      "start": 5.0,
+      "end": 5.56
+    },
+    {
+      "word": "boards",
+      "start": 5.56,
+      "end": 5.88
+    },
+    {
+      "word": "to",
+      "start": 5.88,
+      "end": 6.14
+    },
+    {
+      "word": "verify",
+      "start": 6.14,
+      "end": 6.54
+    },
+    {
+      "word": "contractor",
+      "start": 6.54,
+      "end": 7.1
+    },
+    {
+      "word": "billing",
+      "start": 7.1,
+      "end": 7.56
+    },
+    {
+      "word": "wastes",
+      "start": 7.56,
+      "end": 8.02
+    },
+    {
+      "word": "valuable",
+      "start": 8.02,
+      "end": 8.46
+    },
+    {
+      "word": "operational",
+      "start": 8.46,
+      "end": 9.18
+    },
+    {
+      "word": "focus",
+      "start": 9.18,
+      "end": 9.72
+    },
+    {
+      "word": "every",
+      "start": 9.72,
+      "end": 10.08
+    },
+    {
+      "word": "month.",
+      "start": 10.08,
+      "end": 10.76
+    },
+    {
+      "word": "Relying",
+      "start": 11.12,
+      "end": 11.46
+    },
+    {
+      "word": "on",
+      "start": 11.46,
+      "end": 11.78
+    },
+    {
+      "word": "self",
+      "start": 11.78,
+      "end": 12.02
+    },
+    {
+      "word": "-reported",
+      "start": 12.02,
+      "end": 12.54
+    },
+    {
+      "word": "hourly",
+      "start": 12.54,
+      "end": 12.96
+    },
+    {
+      "word": "estimates",
+      "start": 12.96,
+      "end": 13.5
+    },
+    {
+      "word": "inflates",
+      "start": 13.5,
+      "end": 14.0
+    },
+    {
+      "word": "project",
+      "start": 14.0,
+      "end": 14.56
+    },
+    {
+      "word": "costs",
+      "start": 14.56,
+      "end": 14.98
+    },
+    {
+      "word": "and",
+      "start": 14.98,
+      "end": 15.52
+    },
+    {
+      "word": "secretly",
+      "start": 15.52,
+      "end": 15.88
+    },
+    {
+      "word": "erodes",
+      "start": 15.88,
+      "end": 16.4
+    },
+    {
+      "word": "agency",
+      "start": 16.4,
+      "end": 16.92
+    },
+    {
+      "word": "gross",
+      "start": 16.92,
+      "end": 17.32
+    },
+    {
+      "word": "margins.",
+      "start": 17.32,
+      "end": 17.86
+    },
+    {
+      "word": "Deploy",
+      "start": 18.36,
+      "end": 18.58
+    },
+    {
+      "word": "an",
+      "start": 18.58,
+      "end": 18.92
+    },
+    {
+      "word": "automated,",
+      "start": 18.92,
+      "end": 19.4
+    },
+    {
+      "word": "irritable",
+      "start": 19.52,
+      "end": 19.92
+    },
+    {
+      "word": "verification",
+      "start": 19.92,
+      "end": 20.58
+    },
+    {
+      "word": "pipeline",
+      "start": 20.58,
+      "end": 21.24
+    },
+    {
+      "word": "that",
+      "start": 21.24,
+      "end": 21.72
+    },
+    {
+      "word": "approves",
+      "start": 21.72,
+      "end": 22.06
+    },
+    {
+      "word": "contractor",
+      "start": 22.06,
+      "end": 22.68
+    },
+    {
+      "word": "compensation",
+      "start": 22.68,
+      "end": 23.38
+    },
+    {
+      "word": "only",
+      "start": 23.38,
+      "end": 24.2
+    },
+    {
+      "word": "after",
+      "start": 24.2,
+      "end": 24.58
+    },
+    {
+      "word": "deliverables",
+      "start": 24.58,
+      "end": 25.08
+    },
+    {
+      "word": "pass",
+      "start": 25.08,
+      "end": 25.46
+    },
+    {
+      "word": "quality",
+      "start": 25.46,
+      "end": 25.8
+    },
+    {
+      "word": "checks.",
+      "start": 25.8,
+      "end": 26.26
+    },
+    {
+      "word": "You",
+      "start": 26.26,
+      "end": 27.0
+    },
+    {
+      "word": "protect",
+      "start": 27.0,
+      "end": 27.38
+    },
+    {
+      "word": "profit",
+      "start": 27.38,
+      "end": 27.78
+    },
+    {
+      "word": "margins",
+      "start": 27.78,
+      "end": 28.3
+    },
+    {
+      "word": "while",
+      "start": 28.3,
+      "end": 28.84
+    },
+    {
+      "word": "eliminating",
+      "start": 28.84,
+      "end": 29.34
+    },
+    {
+      "word": "tedious",
+      "start": 29.34,
+      "end": 30.02
+    },
+    {
+      "word": "manual",
+      "start": 30.02,
+      "end": 30.54
+    },
+    {
+      "word": "auditing.",
+      "start": 30.54,
+      "end": 30.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop manually auditing timesheets and deliverable checklists at the end of the month.",
+      "line2": "AUTOMATE CONTRACTOR PAYROLL",
+      "tag": "\ud83d\uded1 Automated contractor payroll calculation based on completed tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Automated contractor payroll calculation based on completed tasks",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Automated contractor payroll calculation based on completed tasks",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-01",
+  "idea": "Automated lead qualification funnel that filters out tire-kickers",
+  "text": "Protect your agency sales team calendar for qualified enterprise buyers. Spending hours speaking with early stage startups that lack budget stalls your agency revenue growth. Without strict intake gating, sales pipelines become clogged with unqualified leads who ghost your team after proposal delivery. Connect Tally to HubSpot to automatically score inbound leads and filter booking links by company size and ad spend. You speak exclusively with serious buyers.",
+  "duration": 26.112,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Protect",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "your",
+      "start": 0.34,
+      "end": 0.58
+    },
+    {
+      "word": "agency",
+      "start": 0.58,
+      "end": 0.9
+    },
+    {
+      "word": "sales",
+      "start": 0.9,
+      "end": 1.22
+    },
+    {
+      "word": "team",
+      "start": 1.22,
+      "end": 1.62
+    },
+    {
+      "word": "calendar",
+      "start": 1.62,
+      "end": 1.92
+    },
+    {
+      "word": "for",
+      "start": 1.92,
+      "end": 2.24
+    },
+    {
+      "word": "qualified",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "word": "enterprise",
+      "start": 2.64,
+      "end": 3.1
+    },
+    {
+      "word": "buyers.",
+      "start": 3.1,
+      "end": 3.66
+    },
+    {
+      "word": "Spending",
+      "start": 4.3,
+      "end": 4.3
+    },
+    {
+      "word": "hours",
+      "start": 4.3,
+      "end": 4.8
+    },
+    {
+      "word": "speaking",
+      "start": 4.8,
+      "end": 5.16
+    },
+    {
+      "word": "with",
+      "start": 5.16,
+      "end": 5.5
+    },
+    {
+      "word": "early",
+      "start": 5.5,
+      "end": 5.72
+    },
+    {
+      "word": "stage",
+      "start": 5.72,
+      "end": 6.06
+    },
+    {
+      "word": "startups",
+      "start": 6.06,
+      "end": 6.44
+    },
+    {
+      "word": "that",
+      "start": 6.44,
+      "end": 6.82
+    },
+    {
+      "word": "lack",
+      "start": 6.82,
+      "end": 7.06
+    },
+    {
+      "word": "budget",
+      "start": 7.06,
+      "end": 7.38
+    },
+    {
+      "word": "stalls",
+      "start": 7.38,
+      "end": 7.72
+    },
+    {
+      "word": "your",
+      "start": 7.72,
+      "end": 8.0
+    },
+    {
+      "word": "agency",
+      "start": 8.0,
+      "end": 8.32
+    },
+    {
+      "word": "revenue",
+      "start": 8.32,
+      "end": 8.6
+    },
+    {
+      "word": "growth.",
+      "start": 8.6,
+      "end": 9.02
+    },
+    {
+      "word": "Without",
+      "start": 9.58,
+      "end": 9.88
+    },
+    {
+      "word": "strict",
+      "start": 9.88,
+      "end": 10.16
+    },
+    {
+      "word": "intake",
+      "start": 10.16,
+      "end": 10.56
+    },
+    {
+      "word": "gating,",
+      "start": 10.56,
+      "end": 10.96
+    },
+    {
+      "word": "sales",
+      "start": 11.38,
+      "end": 11.62
+    },
+    {
+      "word": "pipelines",
+      "start": 11.62,
+      "end": 12.1
+    },
+    {
+      "word": "become",
+      "start": 12.1,
+      "end": 12.5
+    },
+    {
+      "word": "clogged",
+      "start": 12.5,
+      "end": 12.8
+    },
+    {
+      "word": "with",
+      "start": 12.8,
+      "end": 13.12
+    },
+    {
+      "word": "unqualified",
+      "start": 13.12,
+      "end": 13.64
+    },
+    {
+      "word": "leads",
+      "start": 13.64,
+      "end": 14.1
+    },
+    {
+      "word": "who",
+      "start": 14.1,
+      "end": 14.32
+    },
+    {
+      "word": "ghost",
+      "start": 14.32,
+      "end": 14.54
+    },
+    {
+      "word": "your",
+      "start": 14.54,
+      "end": 14.7
+    },
+    {
+      "word": "team",
+      "start": 14.7,
+      "end": 14.96
+    },
+    {
+      "word": "after",
+      "start": 14.96,
+      "end": 15.24
+    },
+    {
+      "word": "proposal",
+      "start": 15.24,
+      "end": 15.62
+    },
+    {
+      "word": "delivery.",
+      "start": 15.62,
+      "end": 16.1
+    },
+    {
+      "word": "Connect",
+      "start": 17.0,
+      "end": 17.0
+    },
+    {
+      "word": "Tally",
+      "start": 17.0,
+      "end": 17.24
+    },
+    {
+      "word": "to",
+      "start": 17.24,
+      "end": 17.48
+    },
+    {
+      "word": "HubSpot",
+      "start": 17.48,
+      "end": 17.96
+    },
+    {
+      "word": "to",
+      "start": 17.96,
+      "end": 18.72
+    },
+    {
+      "word": "automatically",
+      "start": 18.72,
+      "end": 18.72
+    },
+    {
+      "word": "score",
+      "start": 18.72,
+      "end": 19.24
+    },
+    {
+      "word": "inbound",
+      "start": 19.24,
+      "end": 19.7
+    },
+    {
+      "word": "leads",
+      "start": 19.7,
+      "end": 20.04
+    },
+    {
+      "word": "and",
+      "start": 20.04,
+      "end": 20.66
+    },
+    {
+      "word": "filter",
+      "start": 20.66,
+      "end": 20.74
+    },
+    {
+      "word": "booking",
+      "start": 20.74,
+      "end": 21.06
+    },
+    {
+      "word": "links",
+      "start": 21.06,
+      "end": 21.34
+    },
+    {
+      "word": "by",
+      "start": 21.34,
+      "end": 21.62
+    },
+    {
+      "word": "company",
+      "start": 21.62,
+      "end": 21.9
+    },
+    {
+      "word": "size",
+      "start": 21.9,
+      "end": 22.32
+    },
+    {
+      "word": "and",
+      "start": 22.32,
+      "end": 22.76
+    },
+    {
+      "word": "ad",
+      "start": 22.76,
+      "end": 23.02
+    },
+    {
+      "word": "spend.",
+      "start": 23.02,
+      "end": 23.4
+    },
+    {
+      "word": "You",
+      "start": 23.84,
+      "end": 24.02
+    },
+    {
+      "word": "speak",
+      "start": 24.02,
+      "end": 24.24
+    },
+    {
+      "word": "exclusively",
+      "start": 24.24,
+      "end": 24.78
+    },
+    {
+      "word": "with",
+      "start": 24.78,
+      "end": 25.2
+    },
+    {
+      "word": "serious",
+      "start": 25.2,
+      "end": 25.54
+    },
+    {
+      "word": "buyers.",
+      "start": 25.54,
+      "end": 25.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Protect your agency sales team's calendar for high-ticket, qualified enterprise buyers.",
+      "line2": "FILTER OUT TIRE-KICKERS",
+      "tag": "\ud83d\uded1 Automated lead qualification funnel that filters out tire-kickers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated lead qualification funnel that filters out tire-kickers",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated lead qualification funnel that filters out tire-kickers",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated lead qualification funnel that filters out tire-kickers",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

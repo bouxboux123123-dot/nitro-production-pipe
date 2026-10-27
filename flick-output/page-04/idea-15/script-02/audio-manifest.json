@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Draw.io: free professional flowcharts and workflow diagrams",
+  "text": "The free diagramming tool that integrates directly with Google Drive and GitHub. Engineering teams waste hours exporting flowcharts to PDFs and emailing revisions back and forth. Version drift happens when visual diagrams are stored separately from codebases and project documentation. Draw.io integrates natively with GitHub and Google Drive, letting you version-control diagrams alongside project repositories. You maintain single-source-of-truth system maps with zero friction.",
+  "duration": 30.053,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "free",
+      "start": 0.22,
+      "end": 0.42
+    },
+    {
+      "word": "diagramming",
+      "start": 0.42,
+      "end": 1.04
+    },
+    {
+      "word": "tool",
+      "start": 1.04,
+      "end": 1.32
+    },
+    {
+      "word": "that",
+      "start": 1.32,
+      "end": 1.7
+    },
+    {
+      "word": "integrates",
+      "start": 1.7,
+      "end": 1.92
+    },
+    {
+      "word": "directly",
+      "start": 1.92,
+      "end": 2.48
+    },
+    {
+      "word": "with",
+      "start": 2.48,
+      "end": 2.8
+    },
+    {
+      "word": "Google",
+      "start": 2.8,
+      "end": 3.14
+    },
+    {
+      "word": "Drive",
+      "start": 3.14,
+      "end": 3.58
+    },
+    {
+      "word": "and",
+      "start": 3.58,
+      "end": 3.86
+    },
+    {
+      "word": "GitHub.",
+      "start": 3.86,
+      "end": 4.26
+    },
+    {
+      "word": "Engineering",
+      "start": 4.98,
+      "end": 5.28
+    },
+    {
+      "word": "teams",
+      "start": 5.28,
+      "end": 5.88
+    },
+    {
+      "word": "waste",
+      "start": 5.88,
+      "end": 6.26
+    },
+    {
+      "word": "hours",
+      "start": 6.26,
+      "end": 6.64
+    },
+    {
+      "word": "exporting",
+      "start": 6.64,
+      "end": 7.18
+    },
+    {
+      "word": "flow",
+      "start": 7.18,
+      "end": 7.5
+    },
+    {
+      "word": "charts",
+      "start": 7.5,
+      "end": 7.78
+    },
+    {
+      "word": "to",
+      "start": 7.78,
+      "end": 8.1
+    },
+    {
+      "word": "PDFs",
+      "start": 8.1,
+      "end": 8.96
+    },
+    {
+      "word": "and",
+      "start": 8.96,
+      "end": 9.18
+    },
+    {
+      "word": "emailing",
+      "start": 9.18,
+      "end": 9.68
+    },
+    {
+      "word": "revisions",
+      "start": 9.68,
+      "end": 10.04
+    },
+    {
+      "word": "back",
+      "start": 10.04,
+      "end": 10.5
+    },
+    {
+      "word": "and",
+      "start": 10.5,
+      "end": 10.74
+    },
+    {
+      "word": "forth.",
+      "start": 10.74,
+      "end": 11.22
+    },
+    {
+      "word": "Version",
+      "start": 11.92,
+      "end": 11.92
+    },
+    {
+      "word": "drift",
+      "start": 11.92,
+      "end": 12.26
+    },
+    {
+      "word": "happens",
+      "start": 12.26,
+      "end": 12.68
+    },
+    {
+      "word": "when",
+      "start": 12.68,
+      "end": 13.04
+    },
+    {
+      "word": "visual",
+      "start": 13.04,
+      "end": 13.42
+    },
+    {
+      "word": "diagrams",
+      "start": 13.42,
+      "end": 13.88
+    },
+    {
+      "word": "are",
+      "start": 13.88,
+      "end": 14.26
+    },
+    {
+      "word": "stored",
+      "start": 14.26,
+      "end": 14.56
+    },
+    {
+      "word": "separately",
+      "start": 14.56,
+      "end": 14.94
+    },
+    {
+      "word": "from",
+      "start": 14.94,
+      "end": 15.28
+    },
+    {
+      "word": "code",
+      "start": 15.28,
+      "end": 15.54
+    },
+    {
+      "word": "bases",
+      "start": 15.54,
+      "end": 15.88
+    },
+    {
+      "word": "and",
+      "start": 15.88,
+      "end": 16.32
+    },
+    {
+      "word": "project",
+      "start": 16.32,
+      "end": 16.74
+    },
+    {
+      "word": "documentation.",
+      "start": 16.74,
+      "end": 17.52
+    },
+    {
+      "word": "Draw",
+      "start": 17.96,
+      "end": 18.4
+    },
+    {
+      "word": "EO",
+      "start": 18.4,
+      "end": 18.82
+    },
+    {
+      "word": "integrates",
+      "start": 18.82,
+      "end": 19.32
+    },
+    {
+      "word": "natively",
+      "start": 19.32,
+      "end": 19.92
+    },
+    {
+      "word": "with",
+      "start": 19.92,
+      "end": 20.16
+    },
+    {
+      "word": "GitHub",
+      "start": 20.16,
+      "end": 20.46
+    },
+    {
+      "word": "and",
+      "start": 20.46,
+      "end": 20.82
+    },
+    {
+      "word": "Google",
+      "start": 20.82,
+      "end": 21.16
+    },
+    {
+      "word": "Drive,",
+      "start": 21.16,
+      "end": 21.66
+    },
+    {
+      "word": "letting",
+      "start": 22.18,
+      "end": 22.2
+    },
+    {
+      "word": "you",
+      "start": 22.2,
+      "end": 22.44
+    },
+    {
+      "word": "version",
+      "start": 22.44,
+      "end": 22.76
+    },
+    {
+      "word": "control",
+      "start": 22.76,
+      "end": 23.3
+    },
+    {
+      "word": "diagrams",
+      "start": 23.3,
+      "end": 23.84
+    },
+    {
+      "word": "alongside",
+      "start": 23.84,
+      "end": 24.52
+    },
+    {
+      "word": "project",
+      "start": 24.52,
+      "end": 25.0
+    },
+    {
+      "word": "repositories.",
+      "start": 25.0,
+      "end": 25.66
+    },
+    {
+      "word": "You",
+      "start": 26.4,
+      "end": 26.56
+    },
+    {
+      "word": "maintain",
+      "start": 26.56,
+      "end": 27.0
+    },
+    {
+      "word": "single",
+      "start": 27.0,
+      "end": 27.42
+    },
+    {
+      "word": "source",
+      "start": 27.42,
+      "end": 27.76
+    },
+    {
+      "word": "of",
+      "start": 27.76,
+      "end": 27.98
+    },
+    {
+      "word": "truth",
+      "start": 27.98,
+      "end": 28.22
+    },
+    {
+      "word": "system",
+      "start": 28.22,
+      "end": 28.6
+    },
+    {
+      "word": "maps",
+      "start": 28.6,
+      "end": 28.92
+    },
+    {
+      "word": "with",
+      "start": 28.92,
+      "end": 29.2
+    },
+    {
+      "word": "zero",
+      "start": 29.2,
+      "end": 29.64
+    },
+    {
+      "word": "friction.",
+      "start": 29.64,
+      "end": 29.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The free diagramming tool that integrates directly with Google Drive and GitHub.",
+      "line2": "BUILD FREE FLOWCHARTS",
+      "tag": "\ud83d\uded1 Draw.io",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Draw.io",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Draw.io",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Draw.io",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

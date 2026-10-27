@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "AI customer interview transcription and feature request clustering",
+  "text": "This AI workflow transcribes customer calls and clusters repeated feature complaints automatically. Product managers spend entire Fridays re-listening to Zoom recordings and copy-pasting customer quotes into spreadsheets manually. Subjective note-taking creates confirmation bias, prioritizing loud individual clients over widespread product adoption blockers. Connect Fathom to Make to transcribe calls and group semantic complaints into prioritized Productboard themes. This eliminates product roadmap guesswork while saving twenty hours.",
+  "duration": 33.722,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "AI",
+      "start": 0.3,
+      "end": 0.78
+    },
+    {
+      "word": "workflow",
+      "start": 0.78,
+      "end": 1.26
+    },
+    {
+      "word": "transcribes",
+      "start": 1.26,
+      "end": 2.02
+    },
+    {
+      "word": "customer",
+      "start": 2.02,
+      "end": 2.56
+    },
+    {
+      "word": "calls",
+      "start": 2.56,
+      "end": 3.0
+    },
+    {
+      "word": "and",
+      "start": 3.0,
+      "end": 3.26
+    },
+    {
+      "word": "clusters",
+      "start": 3.26,
+      "end": 3.62
+    },
+    {
+      "word": "repeated",
+      "start": 3.62,
+      "end": 4.06
+    },
+    {
+      "word": "feature,",
+      "start": 4.06,
+      "end": 4.78
+    },
+    {
+      "word": "complaints",
+      "start": 5.42,
+      "end": 5.42
+    },
+    {
+      "word": "automatically.",
+      "start": 5.42,
+      "end": 6.16
+    },
+    {
+      "word": "Product",
+      "start": 7.22,
+      "end": 7.26
+    },
+    {
+      "word": "managers",
+      "start": 7.26,
+      "end": 7.72
+    },
+    {
+      "word": "spend",
+      "start": 7.72,
+      "end": 8.44
+    },
+    {
+      "word": "entire",
+      "start": 8.44,
+      "end": 9.02
+    },
+    {
+      "word": "Fridays",
+      "start": 9.02,
+      "end": 9.46
+    },
+    {
+      "word": "re",
+      "start": 9.46,
+      "end": 9.68
+    },
+    {
+      "word": "-listening",
+      "start": 9.68,
+      "end": 10.04
+    },
+    {
+      "word": "to",
+      "start": 10.04,
+      "end": 10.26
+    },
+    {
+      "word": "Zoom",
+      "start": 10.26,
+      "end": 10.5
+    },
+    {
+      "word": "recordings",
+      "start": 10.5,
+      "end": 11.04
+    },
+    {
+      "word": "and",
+      "start": 11.04,
+      "end": 11.66
+    },
+    {
+      "word": "copy",
+      "start": 11.66,
+      "end": 11.94
+    },
+    {
+      "word": "-pasting",
+      "start": 11.94,
+      "end": 12.28
+    },
+    {
+      "word": "customer",
+      "start": 12.28,
+      "end": 12.82
+    },
+    {
+      "word": "quotes",
+      "start": 12.82,
+      "end": 13.16
+    },
+    {
+      "word": "into",
+      "start": 13.16,
+      "end": 13.48
+    },
+    {
+      "word": "spreadsheets",
+      "start": 13.48,
+      "end": 14.0
+    },
+    {
+      "word": "manually.",
+      "start": 14.0,
+      "end": 14.6
+    },
+    {
+      "word": "Subjective",
+      "start": 15.34,
+      "end": 15.58
+    },
+    {
+      "word": "note",
+      "start": 15.58,
+      "end": 15.88
+    },
+    {
+      "word": "-taking",
+      "start": 15.88,
+      "end": 16.16
+    },
+    {
+      "word": "creates",
+      "start": 16.16,
+      "end": 16.7
+    },
+    {
+      "word": "confirmation",
+      "start": 16.7,
+      "end": 17.2
+    },
+    {
+      "word": "bias,",
+      "start": 17.2,
+      "end": 17.84
+    },
+    {
+      "word": "prioritizing",
+      "start": 18.3,
+      "end": 19.02
+    },
+    {
+      "word": "loud",
+      "start": 19.02,
+      "end": 19.52
+    },
+    {
+      "word": "individual",
+      "start": 19.52,
+      "end": 20.0
+    },
+    {
+      "word": "clients",
+      "start": 20.0,
+      "end": 20.44
+    },
+    {
+      "word": "over",
+      "start": 20.44,
+      "end": 20.76
+    },
+    {
+      "word": "widespread",
+      "start": 20.76,
+      "end": 21.2
+    },
+    {
+      "word": "product",
+      "start": 21.2,
+      "end": 21.74
+    },
+    {
+      "word": "adoption",
+      "start": 21.74,
+      "end": 22.2
+    },
+    {
+      "word": "blockers.",
+      "start": 22.2,
+      "end": 22.72
+    },
+    {
+      "word": "Connect",
+      "start": 23.36,
+      "end": 23.72
+    },
+    {
+      "word": "Fathom",
+      "start": 23.72,
+      "end": 24.02
+    },
+    {
+      "word": "to",
+      "start": 24.02,
+      "end": 24.24
+    },
+    {
+      "word": "make",
+      "start": 24.24,
+      "end": 24.4
+    },
+    {
+      "word": "to",
+      "start": 24.4,
+      "end": 24.72
+    },
+    {
+      "word": "transcribe",
+      "start": 24.72,
+      "end": 25.16
+    },
+    {
+      "word": "calls",
+      "start": 25.16,
+      "end": 25.62
+    },
+    {
+      "word": "and",
+      "start": 25.62,
+      "end": 25.9
+    },
+    {
+      "word": "group",
+      "start": 25.9,
+      "end": 26.2
+    },
+    {
+      "word": "semantic",
+      "start": 26.2,
+      "end": 26.68
+    },
+    {
+      "word": "complaints",
+      "start": 26.68,
+      "end": 27.16
+    },
+    {
+      "word": "into",
+      "start": 27.16,
+      "end": 27.58
+    },
+    {
+      "word": "prioritized",
+      "start": 27.58,
+      "end": 28.44
+    },
+    {
+      "word": "product",
+      "start": 28.44,
+      "end": 28.78
+    },
+    {
+      "word": "board",
+      "start": 28.78,
+      "end": 29.1
+    },
+    {
+      "word": "themes.",
+      "start": 29.1,
+      "end": 29.58
+    },
+    {
+      "word": "This",
+      "start": 30.24,
+      "end": 30.4
+    },
+    {
+      "word": "eliminates",
+      "start": 30.4,
+      "end": 30.74
+    },
+    {
+      "word": "product",
+      "start": 30.74,
+      "end": 31.32
+    },
+    {
+      "word": "roadmap",
+      "start": 31.32,
+      "end": 31.62
+    },
+    {
+      "word": "guesswork",
+      "start": 31.62,
+      "end": 32.26
+    },
+    {
+      "word": "while",
+      "start": 32.26,
+      "end": 32.52
+    },
+    {
+      "word": "saving",
+      "start": 32.52,
+      "end": 32.84
+    },
+    {
+      "word": "20",
+      "start": 32.84,
+      "end": 33.24
+    },
+    {
+      "word": "hours.",
+      "start": 33.24,
+      "end": 33.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "This AI workflow transcribes calls and clusters repeated feature complaints automatically.",
+      "line2": "CLUSTER FEATURE REQUESTS",
+      "tag": "\ud83d\uded1 AI customer interview transcription and feature request clustering",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: AI customer interview transcription and feature request clustering",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: AI customer interview transcription and feature request clustering",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "AI customer interview transcription and feature request clustering",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

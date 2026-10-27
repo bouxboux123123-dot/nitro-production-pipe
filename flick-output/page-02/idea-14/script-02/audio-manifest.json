@@ -1,0 +1,406 @@
+{
+  "page": "page-02",
+  "idea": "AI audio cleaner for freelance podcasters and video editors",
+  "text": "Stop recording voiceovers multiple times just because of annoying background hum. Ambient air conditioner noise, computer fans, and distant traffic ruin otherwise perfect takes for freelance voice actors. Relying on clumsy noise reduction filters leaves your audio sounding robotic, hollow, and unprofessional to premium clients. Descript Studio Sound isolates your vocal track and synthesizes studio acoustics with an intelligent neural filter. You nail every client voiceover on take one.",
+  "duration": 30.735,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "recording",
+      "start": 0.42,
+      "end": 0.92
+    },
+    {
+      "word": "voiceovers",
+      "start": 0.92,
+      "end": 1.52
+    },
+    {
+      "word": "multiple",
+      "start": 1.52,
+      "end": 1.94
+    },
+    {
+      "word": "times",
+      "start": 1.94,
+      "end": 2.46
+    },
+    {
+      "word": "just",
+      "start": 2.46,
+      "end": 2.82
+    },
+    {
+      "word": "because",
+      "start": 2.82,
+      "end": 3.12
+    },
+    {
+      "word": "of",
+      "start": 3.12,
+      "end": 3.28
+    },
+    {
+      "word": "annoying",
+      "start": 3.28,
+      "end": 3.6
+    },
+    {
+      "word": "background",
+      "start": 3.6,
+      "end": 4.1
+    },
+    {
+      "word": "hum.",
+      "start": 4.1,
+      "end": 4.86
+    },
+    {
+      "word": "Ambient",
+      "start": 5.46,
+      "end": 5.76
+    },
+    {
+      "word": "air",
+      "start": 5.76,
+      "end": 6.1
+    },
+    {
+      "word": "conditioner",
+      "start": 6.1,
+      "end": 6.6
+    },
+    {
+      "word": "noise,",
+      "start": 6.6,
+      "end": 6.96
+    },
+    {
+      "word": "computer",
+      "start": 7.4,
+      "end": 7.64
+    },
+    {
+      "word": "fans,",
+      "start": 7.64,
+      "end": 8.16
+    },
+    {
+      "word": "and",
+      "start": 8.52,
+      "end": 8.72
+    },
+    {
+      "word": "distant",
+      "start": 8.72,
+      "end": 9.0
+    },
+    {
+      "word": "traffic",
+      "start": 9.0,
+      "end": 9.34
+    },
+    {
+      "word": "ruin",
+      "start": 9.34,
+      "end": 9.76
+    },
+    {
+      "word": "otherwise",
+      "start": 9.76,
+      "end": 10.32
+    },
+    {
+      "word": "perfect",
+      "start": 10.32,
+      "end": 10.78
+    },
+    {
+      "word": "takes",
+      "start": 10.78,
+      "end": 11.18
+    },
+    {
+      "word": "for",
+      "start": 11.18,
+      "end": 11.42
+    },
+    {
+      "word": "freelance",
+      "start": 11.42,
+      "end": 11.74
+    },
+    {
+      "word": "voice",
+      "start": 11.74,
+      "end": 12.18
+    },
+    {
+      "word": "actors.",
+      "start": 12.18,
+      "end": 12.62
+    },
+    {
+      "word": "Relying",
+      "start": 13.08,
+      "end": 13.32
+    },
+    {
+      "word": "on",
+      "start": 13.32,
+      "end": 13.64
+    },
+    {
+      "word": "clumsy",
+      "start": 13.64,
+      "end": 13.9
+    },
+    {
+      "word": "noise",
+      "start": 13.9,
+      "end": 14.34
+    },
+    {
+      "word": "reduction",
+      "start": 14.34,
+      "end": 14.86
+    },
+    {
+      "word": "filters",
+      "start": 14.86,
+      "end": 15.26
+    },
+    {
+      "word": "leaves",
+      "start": 15.26,
+      "end": 15.72
+    },
+    {
+      "word": "your",
+      "start": 15.72,
+      "end": 16.06
+    },
+    {
+      "word": "audio",
+      "start": 16.06,
+      "end": 16.36
+    },
+    {
+      "word": "sounding",
+      "start": 16.36,
+      "end": 16.8
+    },
+    {
+      "word": "robotic,",
+      "start": 16.8,
+      "end": 17.4
+    },
+    {
+      "word": "hollow,",
+      "start": 17.84,
+      "end": 18.18
+    },
+    {
+      "word": "and",
+      "start": 18.54,
+      "end": 18.82
+    },
+    {
+      "word": "unprofessional",
+      "start": 18.82,
+      "end": 19.34
+    },
+    {
+      "word": "to",
+      "start": 19.34,
+      "end": 19.68
+    },
+    {
+      "word": "premium",
+      "start": 19.68,
+      "end": 19.96
+    },
+    {
+      "word": "clients.",
+      "start": 19.96,
+      "end": 20.54
+    },
+    {
+      "word": "Descript",
+      "start": 21.22,
+      "end": 21.5
+    },
+    {
+      "word": "studio",
+      "start": 21.5,
+      "end": 21.88
+    },
+    {
+      "word": "sound",
+      "start": 21.88,
+      "end": 22.46
+    },
+    {
+      "word": "isolates",
+      "start": 22.46,
+      "end": 22.92
+    },
+    {
+      "word": "your",
+      "start": 22.92,
+      "end": 23.2
+    },
+    {
+      "word": "vocal",
+      "start": 23.2,
+      "end": 23.42
+    },
+    {
+      "word": "track",
+      "start": 23.42,
+      "end": 23.84
+    },
+    {
+      "word": "and",
+      "start": 23.84,
+      "end": 24.4
+    },
+    {
+      "word": "synthesizes",
+      "start": 24.4,
+      "end": 24.96
+    },
+    {
+      "word": "studio",
+      "start": 24.96,
+      "end": 25.36
+    },
+    {
+      "word": "acoustics",
+      "start": 25.36,
+      "end": 26.0
+    },
+    {
+      "word": "with",
+      "start": 26.0,
+      "end": 26.2
+    },
+    {
+      "word": "an",
+      "start": 26.2,
+      "end": 26.66
+    },
+    {
+      "word": "intelligent",
+      "start": 26.66,
+      "end": 26.84
+    },
+    {
+      "word": "neural",
+      "start": 26.84,
+      "end": 27.38
+    },
+    {
+      "word": "filter.",
+      "start": 27.38,
+      "end": 27.86
+    },
+    {
+      "word": "You",
+      "start": 27.86,
+      "end": 28.48
+    },
+    {
+      "word": "nail",
+      "start": 28.48,
+      "end": 28.72
+    },
+    {
+      "word": "every",
+      "start": 28.72,
+      "end": 29.14
+    },
+    {
+      "word": "client",
+      "start": 29.14,
+      "end": 29.44
+    },
+    {
+      "word": "voiceover",
+      "start": 29.44,
+      "end": 30.04
+    },
+    {
+      "word": "on",
+      "start": 30.04,
+      "end": 30.3
+    },
+    {
+      "word": "take",
+      "start": 30.3,
+      "end": 30.46
+    },
+    {
+      "word": "one.",
+      "start": 30.46,
+      "end": 30.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop recording voiceovers multiple times because of background hum.",
+      "line2": "CLEAN AUDIO INSTANTLY",
+      "tag": "\ud83d\uded1 AI audio cleaner for freelance podcasters and video editors",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "Voice-to-Invoice Stream: AI audio cleaner for freelance podcasters and video editors",
+      "primitive": "VoiceWaveToReceipt",
+      "props": {
+        "title": "Voice-to-Invoice Stream: AI audio cleaner for freelance podcasters and video editors",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Overdue Payment Chaser",
+      "primitive": "OverdueChaserTimeline",
+      "props": {
+        "title": "Overdue Payment Chaser",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Retainer Value Conversion",
+      "primitive": "HourlyToRetainerConverter",
+      "props": {
+        "title": "Retainer Value Conversion",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant 24H Auto-Deposit",
+      "primitive": "StripePayoutCountdown",
+      "props": {
+        "title": "Instant 24H Auto-Deposit",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

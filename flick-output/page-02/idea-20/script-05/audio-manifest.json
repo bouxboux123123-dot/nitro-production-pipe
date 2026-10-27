@@ -1,0 +1,416 @@
+{
+  "page": "page-02",
+  "idea": "AI video caption generator with custom subtitle animations for editors",
+  "text": "The exact caption style that boosts short-form video watch time by forty percent. Boring, static subtitles cause mobile viewers to scroll away within the first three seconds of a client reel. Low retention rates hurt video reach and ultimately cost you valuable monthly retainer renewals. Apply Submagic to automatically style energetic karaoke captions that highlight active syllables with vibrant brand colors. You deliver viral retention metrics that keep clients paying.",
+  "duration": 29.477,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "exact",
+      "start": 0.26,
+      "end": 0.58
+    },
+    {
+      "word": "caption",
+      "start": 0.58,
+      "end": 0.96
+    },
+    {
+      "word": "style",
+      "start": 0.96,
+      "end": 1.38
+    },
+    {
+      "word": "that",
+      "start": 1.38,
+      "end": 1.74
+    },
+    {
+      "word": "boosts",
+      "start": 1.74,
+      "end": 1.88
+    },
+    {
+      "word": "short",
+      "start": 1.88,
+      "end": 2.28
+    },
+    {
+      "word": "-form",
+      "start": 2.28,
+      "end": 2.5
+    },
+    {
+      "word": "video",
+      "start": 2.5,
+      "end": 2.86
+    },
+    {
+      "word": "watch",
+      "start": 2.86,
+      "end": 3.26
+    },
+    {
+      "word": "time",
+      "start": 3.26,
+      "end": 3.72
+    },
+    {
+      "word": "by",
+      "start": 3.72,
+      "end": 4.06
+    },
+    {
+      "word": "40%.",
+      "start": 4.06,
+      "end": 5.44
+    },
+    {
+      "word": "Boring,",
+      "start": 5.44,
+      "end": 5.9
+    },
+    {
+      "word": "static",
+      "start": 6.66,
+      "end": 6.66
+    },
+    {
+      "word": "subtitles",
+      "start": 6.66,
+      "end": 7.2
+    },
+    {
+      "word": "cause",
+      "start": 7.2,
+      "end": 7.74
+    },
+    {
+      "word": "mobile",
+      "start": 7.74,
+      "end": 8.0
+    },
+    {
+      "word": "viewers",
+      "start": 8.0,
+      "end": 8.46
+    },
+    {
+      "word": "to",
+      "start": 8.46,
+      "end": 8.78
+    },
+    {
+      "word": "scroll",
+      "start": 8.78,
+      "end": 9.04
+    },
+    {
+      "word": "away",
+      "start": 9.04,
+      "end": 9.44
+    },
+    {
+      "word": "within",
+      "start": 9.44,
+      "end": 9.7
+    },
+    {
+      "word": "the",
+      "start": 9.7,
+      "end": 9.88
+    },
+    {
+      "word": "first",
+      "start": 9.88,
+      "end": 10.16
+    },
+    {
+      "word": "three",
+      "start": 10.16,
+      "end": 10.46
+    },
+    {
+      "word": "seconds",
+      "start": 10.46,
+      "end": 10.72
+    },
+    {
+      "word": "of",
+      "start": 10.72,
+      "end": 10.98
+    },
+    {
+      "word": "a",
+      "start": 10.98,
+      "end": 11.08
+    },
+    {
+      "word": "client",
+      "start": 11.08,
+      "end": 11.36
+    },
+    {
+      "word": "reel.",
+      "start": 11.36,
+      "end": 11.64
+    },
+    {
+      "word": "Low",
+      "start": 12.22,
+      "end": 12.22
+    },
+    {
+      "word": "retention",
+      "start": 12.22,
+      "end": 12.62
+    },
+    {
+      "word": "rates",
+      "start": 12.62,
+      "end": 13.1
+    },
+    {
+      "word": "hurt",
+      "start": 13.1,
+      "end": 13.42
+    },
+    {
+      "word": "video",
+      "start": 13.42,
+      "end": 13.76
+    },
+    {
+      "word": "reach",
+      "start": 13.76,
+      "end": 14.16
+    },
+    {
+      "word": "and",
+      "start": 14.16,
+      "end": 14.66
+    },
+    {
+      "word": "ultimately",
+      "start": 14.66,
+      "end": 15.08
+    },
+    {
+      "word": "cost",
+      "start": 15.08,
+      "end": 15.46
+    },
+    {
+      "word": "you",
+      "start": 15.46,
+      "end": 15.78
+    },
+    {
+      "word": "valuable",
+      "start": 15.78,
+      "end": 16.18
+    },
+    {
+      "word": "monthly",
+      "start": 16.18,
+      "end": 16.64
+    },
+    {
+      "word": "retainer",
+      "start": 16.64,
+      "end": 17.12
+    },
+    {
+      "word": "renewals.",
+      "start": 17.12,
+      "end": 17.88
+    },
+    {
+      "word": "Apply",
+      "start": 18.34,
+      "end": 18.62
+    },
+    {
+      "word": "sub",
+      "start": 18.62,
+      "end": 18.9
+    },
+    {
+      "word": "-magic",
+      "start": 18.9,
+      "end": 19.12
+    },
+    {
+      "word": "to",
+      "start": 19.12,
+      "end": 19.56
+    },
+    {
+      "word": "automatically",
+      "start": 19.56,
+      "end": 19.98
+    },
+    {
+      "word": "style",
+      "start": 19.98,
+      "end": 20.62
+    },
+    {
+      "word": "energetic",
+      "start": 20.62,
+      "end": 21.1
+    },
+    {
+      "word": "karaoke",
+      "start": 21.1,
+      "end": 21.6
+    },
+    {
+      "word": "captions",
+      "start": 21.6,
+      "end": 22.28
+    },
+    {
+      "word": "that",
+      "start": 22.28,
+      "end": 22.76
+    },
+    {
+      "word": "highlight",
+      "start": 22.76,
+      "end": 23.12
+    },
+    {
+      "word": "active",
+      "start": 23.12,
+      "end": 23.62
+    },
+    {
+      "word": "syllables",
+      "start": 23.62,
+      "end": 24.02
+    },
+    {
+      "word": "with",
+      "start": 24.02,
+      "end": 24.44
+    },
+    {
+      "word": "vibrant",
+      "start": 24.44,
+      "end": 24.86
+    },
+    {
+      "word": "brand",
+      "start": 24.86,
+      "end": 25.26
+    },
+    {
+      "word": "colors.",
+      "start": 25.26,
+      "end": 25.66
+    },
+    {
+      "word": "You",
+      "start": 25.66,
+      "end": 26.38
+    },
+    {
+      "word": "deliver",
+      "start": 26.38,
+      "end": 26.68
+    },
+    {
+      "word": "viral",
+      "start": 26.68,
+      "end": 27.22
+    },
+    {
+      "word": "retention",
+      "start": 27.22,
+      "end": 27.7
+    },
+    {
+      "word": "metrics",
+      "start": 27.7,
+      "end": 28.12
+    },
+    {
+      "word": "that",
+      "start": 28.12,
+      "end": 28.4
+    },
+    {
+      "word": "keep",
+      "start": 28.4,
+      "end": 28.7
+    },
+    {
+      "word": "clients",
+      "start": 28.7,
+      "end": 28.98
+    },
+    {
+      "word": "paying.",
+      "start": 28.98,
+      "end": 29.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "The exact caption style that boosts short-form video watch time by 40 percent.",
+      "line2": "ANIMATE VIDEO CAPTIONS",
+      "tag": "\ud83d\uded1 AI video caption generator with custom subtitle animations for editors",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI video caption generator with custom subtitle animations for editors",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI video caption generator with custom subtitle animations for editors",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI video caption generator with custom subtitle animations for editors",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

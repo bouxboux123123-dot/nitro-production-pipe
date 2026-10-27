@@ -1,0 +1,386 @@
+{
+  "page": "page-08",
+  "idea": "How to automate your phone to mute during meetings and bedtime",
+  "text": "Protect your deep focus and nightly sleep without remembering to flip a physical switch. Group chat vibrations on your nightstand wake you up repeatedly throughout the night. Turning your phone off completely blocks emergency breakthrough calls from close family members. Configure Do Not Disturb automation with starred contacts permitted to ring through on repeated dials. You enjoy peaceful uninterrupted sleep with complete peace of mind.",
+  "duration": 23.488,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Protect",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "your",
+      "start": 0.34,
+      "end": 0.56
+    },
+    {
+      "word": "deep",
+      "start": 0.56,
+      "end": 0.86
+    },
+    {
+      "word": "focus",
+      "start": 0.86,
+      "end": 1.26
+    },
+    {
+      "word": "and",
+      "start": 1.26,
+      "end": 1.56
+    },
+    {
+      "word": "nightly",
+      "start": 1.56,
+      "end": 1.88
+    },
+    {
+      "word": "sleep",
+      "start": 1.88,
+      "end": 2.24
+    },
+    {
+      "word": "without",
+      "start": 2.24,
+      "end": 2.58
+    },
+    {
+      "word": "remembering",
+      "start": 2.58,
+      "end": 2.88
+    },
+    {
+      "word": "to",
+      "start": 2.88,
+      "end": 3.24
+    },
+    {
+      "word": "flip",
+      "start": 3.24,
+      "end": 3.32
+    },
+    {
+      "word": "a",
+      "start": 3.32,
+      "end": 3.88
+    },
+    {
+      "word": "physical",
+      "start": 3.88,
+      "end": 3.88
+    },
+    {
+      "word": "switch.",
+      "start": 3.88,
+      "end": 4.34
+    },
+    {
+      "word": "Group",
+      "start": 4.86,
+      "end": 5.1
+    },
+    {
+      "word": "chat",
+      "start": 5.1,
+      "end": 5.38
+    },
+    {
+      "word": "vibrations",
+      "start": 5.38,
+      "end": 5.9
+    },
+    {
+      "word": "on",
+      "start": 5.9,
+      "end": 6.18
+    },
+    {
+      "word": "your",
+      "start": 6.18,
+      "end": 6.48
+    },
+    {
+      "word": "nightstand",
+      "start": 6.48,
+      "end": 6.8
+    },
+    {
+      "word": "wake",
+      "start": 6.8,
+      "end": 7.02
+    },
+    {
+      "word": "you",
+      "start": 7.02,
+      "end": 7.16
+    },
+    {
+      "word": "up",
+      "start": 7.16,
+      "end": 7.4
+    },
+    {
+      "word": "repeatedly",
+      "start": 7.4,
+      "end": 7.76
+    },
+    {
+      "word": "throughout",
+      "start": 7.76,
+      "end": 8.18
+    },
+    {
+      "word": "the",
+      "start": 8.18,
+      "end": 8.38
+    },
+    {
+      "word": "night.",
+      "start": 8.38,
+      "end": 8.72
+    },
+    {
+      "word": "Turning",
+      "start": 9.2,
+      "end": 9.2
+    },
+    {
+      "word": "your",
+      "start": 9.2,
+      "end": 9.48
+    },
+    {
+      "word": "phone",
+      "start": 9.48,
+      "end": 9.66
+    },
+    {
+      "word": "off",
+      "start": 9.66,
+      "end": 9.92
+    },
+    {
+      "word": "completely",
+      "start": 9.92,
+      "end": 10.42
+    },
+    {
+      "word": "blocks",
+      "start": 10.42,
+      "end": 10.78
+    },
+    {
+      "word": "emergency",
+      "start": 10.78,
+      "end": 11.38
+    },
+    {
+      "word": "breakthrough",
+      "start": 11.38,
+      "end": 11.78
+    },
+    {
+      "word": "calls",
+      "start": 11.78,
+      "end": 12.18
+    },
+    {
+      "word": "from",
+      "start": 12.18,
+      "end": 12.44
+    },
+    {
+      "word": "close",
+      "start": 12.44,
+      "end": 12.76
+    },
+    {
+      "word": "family",
+      "start": 12.76,
+      "end": 13.08
+    },
+    {
+      "word": "members.",
+      "start": 13.08,
+      "end": 13.6
+    },
+    {
+      "word": "Configure",
+      "start": 14.24,
+      "end": 14.62
+    },
+    {
+      "word": "do",
+      "start": 14.62,
+      "end": 14.74
+    },
+    {
+      "word": "not",
+      "start": 14.74,
+      "end": 14.98
+    },
+    {
+      "word": "disturb",
+      "start": 14.98,
+      "end": 15.32
+    },
+    {
+      "word": "automation",
+      "start": 15.32,
+      "end": 15.84
+    },
+    {
+      "word": "with",
+      "start": 15.84,
+      "end": 16.28
+    },
+    {
+      "word": "starred",
+      "start": 16.28,
+      "end": 16.6
+    },
+    {
+      "word": "contacts",
+      "start": 16.6,
+      "end": 17.18
+    },
+    {
+      "word": "permitted",
+      "start": 17.18,
+      "end": 17.58
+    },
+    {
+      "word": "to",
+      "start": 17.58,
+      "end": 17.84
+    },
+    {
+      "word": "ring",
+      "start": 17.84,
+      "end": 18.0
+    },
+    {
+      "word": "through",
+      "start": 18.0,
+      "end": 18.32
+    },
+    {
+      "word": "on",
+      "start": 18.32,
+      "end": 18.48
+    },
+    {
+      "word": "repeated",
+      "start": 18.48,
+      "end": 18.9
+    },
+    {
+      "word": "dials.",
+      "start": 18.9,
+      "end": 19.84
+    },
+    {
+      "word": "You",
+      "start": 20.02,
+      "end": 20.18
+    },
+    {
+      "word": "enjoy",
+      "start": 20.18,
+      "end": 20.44
+    },
+    {
+      "word": "peaceful",
+      "start": 20.44,
+      "end": 20.96
+    },
+    {
+      "word": "uninterrupted",
+      "start": 20.96,
+      "end": 21.5
+    },
+    {
+      "word": "sleep",
+      "start": 21.5,
+      "end": 22.04
+    },
+    {
+      "word": "with",
+      "start": 22.04,
+      "end": 22.4
+    },
+    {
+      "word": "complete",
+      "start": 22.4,
+      "end": 22.66
+    },
+    {
+      "word": "peace",
+      "start": 22.66,
+      "end": 22.96
+    },
+    {
+      "word": "of",
+      "start": 22.96,
+      "end": 23.16
+    },
+    {
+      "word": "mind.",
+      "start": 23.16,
+      "end": 23.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How to protect your sleep and focus without remembering to toggle silent mode.",
+      "line2": "AUTO-MUTE YOUR PHONE",
+      "tag": "\ud83d\uded1 How to automate your phone to mute during meetings and bedtime",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Distraction Shield Active: How to automate your phone to mute during meetings and bedtime",
+      "primitive": "DistractionShieldBlocker",
+      "props": {
+        "title": "Distraction Shield Active: How to automate your phone to mute during meetings and bedtime",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Context-Switching Energy Drain",
+      "primitive": "ContextSwitchingPenaltyMeter",
+      "props": {
+        "title": "Context-Switching Energy Drain",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "The Rule-of-Three Priorities",
+      "primitive": "DailyPriorityPillars",
+      "props": {
+        "title": "The Rule-of-Three Priorities",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "25-Minute Flow State Lock",
+      "primitive": "PomodoroRadialTimer",
+      "props": {
+        "title": "25-Minute Flow State Lock",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

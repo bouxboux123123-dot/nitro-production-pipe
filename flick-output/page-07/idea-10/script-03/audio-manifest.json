@@ -1,0 +1,406 @@
+{
+  "page": "page-07",
+  "idea": "Rapid MVP validation landing page stack launched in under 2 hours",
+  "text": "Stop spending six months building software products that nobody actually wants to buy. Technical founders often build complex features while ignoring whether real customers will open their wallets. Launching in isolation after months of development usually results in painful silence and zero paying users. Publish a Webflow page with interactive mockups and embed Lemon Squeezy to collect pre-order deposits upfront. Secure verified customer revenue before writing software.",
+  "duration": 29.541,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "spending",
+      "start": 0.42,
+      "end": 0.68
+    },
+    {
+      "word": "six",
+      "start": 0.68,
+      "end": 1.08
+    },
+    {
+      "word": "months",
+      "start": 1.08,
+      "end": 1.38
+    },
+    {
+      "word": "building",
+      "start": 1.38,
+      "end": 1.8
+    },
+    {
+      "word": "software",
+      "start": 1.8,
+      "end": 2.24
+    },
+    {
+      "word": "products",
+      "start": 2.24,
+      "end": 2.68
+    },
+    {
+      "word": "that",
+      "start": 2.68,
+      "end": 3.06
+    },
+    {
+      "word": "nobody",
+      "start": 3.06,
+      "end": 3.5
+    },
+    {
+      "word": "actually",
+      "start": 3.5,
+      "end": 4.02
+    },
+    {
+      "word": "wants",
+      "start": 4.02,
+      "end": 4.24
+    },
+    {
+      "word": "to",
+      "start": 4.24,
+      "end": 4.38
+    },
+    {
+      "word": "buy.",
+      "start": 4.38,
+      "end": 5.0
+    },
+    {
+      "word": "Technical",
+      "start": 5.68,
+      "end": 5.68
+    },
+    {
+      "word": "founders",
+      "start": 5.68,
+      "end": 6.32
+    },
+    {
+      "word": "often",
+      "start": 6.32,
+      "end": 6.86
+    },
+    {
+      "word": "build",
+      "start": 6.86,
+      "end": 7.22
+    },
+    {
+      "word": "complex",
+      "start": 7.22,
+      "end": 7.66
+    },
+    {
+      "word": "features",
+      "start": 7.66,
+      "end": 8.26
+    },
+    {
+      "word": "while",
+      "start": 8.26,
+      "end": 8.8
+    },
+    {
+      "word": "ignoring",
+      "start": 8.8,
+      "end": 9.18
+    },
+    {
+      "word": "whether",
+      "start": 9.18,
+      "end": 9.58
+    },
+    {
+      "word": "real",
+      "start": 9.58,
+      "end": 9.88
+    },
+    {
+      "word": "customers",
+      "start": 9.88,
+      "end": 10.32
+    },
+    {
+      "word": "will",
+      "start": 10.32,
+      "end": 10.74
+    },
+    {
+      "word": "open",
+      "start": 10.74,
+      "end": 10.96
+    },
+    {
+      "word": "their",
+      "start": 10.96,
+      "end": 11.3
+    },
+    {
+      "word": "wallets,",
+      "start": 11.3,
+      "end": 11.68
+    },
+    {
+      "word": "launching",
+      "start": 12.08,
+      "end": 12.42
+    },
+    {
+      "word": "an",
+      "start": 12.42,
+      "end": 12.7
+    },
+    {
+      "word": "isolation",
+      "start": 12.7,
+      "end": 13.2
+    },
+    {
+      "word": "after",
+      "start": 13.2,
+      "end": 13.64
+    },
+    {
+      "word": "months",
+      "start": 13.64,
+      "end": 13.88
+    },
+    {
+      "word": "of",
+      "start": 13.88,
+      "end": 14.12
+    },
+    {
+      "word": "development",
+      "start": 14.12,
+      "end": 14.52
+    },
+    {
+      "word": "usually",
+      "start": 14.52,
+      "end": 15.14
+    },
+    {
+      "word": "results",
+      "start": 15.14,
+      "end": 15.56
+    },
+    {
+      "word": "in",
+      "start": 15.56,
+      "end": 15.94
+    },
+    {
+      "word": "painful",
+      "start": 15.94,
+      "end": 16.22
+    },
+    {
+      "word": "silence",
+      "start": 16.22,
+      "end": 16.84
+    },
+    {
+      "word": "and",
+      "start": 16.84,
+      "end": 17.24
+    },
+    {
+      "word": "zero",
+      "start": 17.24,
+      "end": 17.62
+    },
+    {
+      "word": "-paying",
+      "start": 17.62,
+      "end": 17.92
+    },
+    {
+      "word": "users.",
+      "start": 17.92,
+      "end": 18.4
+    },
+    {
+      "word": "Publish",
+      "start": 18.98,
+      "end": 19.26
+    },
+    {
+      "word": "a",
+      "start": 19.26,
+      "end": 19.58
+    },
+    {
+      "word": "webflow",
+      "start": 19.58,
+      "end": 19.9
+    },
+    {
+      "word": "page",
+      "start": 19.9,
+      "end": 20.24
+    },
+    {
+      "word": "with",
+      "start": 20.24,
+      "end": 20.6
+    },
+    {
+      "word": "interactive",
+      "start": 20.6,
+      "end": 21.04
+    },
+    {
+      "word": "mock",
+      "start": 21.04,
+      "end": 21.34
+    },
+    {
+      "word": "-ups",
+      "start": 21.34,
+      "end": 21.58
+    },
+    {
+      "word": "and",
+      "start": 21.58,
+      "end": 22.1
+    },
+    {
+      "word": "embed",
+      "start": 22.1,
+      "end": 22.46
+    },
+    {
+      "word": "lemon",
+      "start": 22.46,
+      "end": 22.74
+    },
+    {
+      "word": "squeezy",
+      "start": 22.74,
+      "end": 23.32
+    },
+    {
+      "word": "to",
+      "start": 23.32,
+      "end": 23.72
+    },
+    {
+      "word": "collect",
+      "start": 23.72,
+      "end": 24.1
+    },
+    {
+      "word": "pre",
+      "start": 24.1,
+      "end": 24.36
+    },
+    {
+      "word": "-order",
+      "start": 24.36,
+      "end": 24.54
+    },
+    {
+      "word": "deposits",
+      "start": 24.54,
+      "end": 25.04
+    },
+    {
+      "word": "upfront.",
+      "start": 25.04,
+      "end": 25.76
+    },
+    {
+      "word": "Secure",
+      "start": 25.76,
+      "end": 26.66
+    },
+    {
+      "word": "verified",
+      "start": 26.66,
+      "end": 27.18
+    },
+    {
+      "word": "customer",
+      "start": 27.18,
+      "end": 27.76
+    },
+    {
+      "word": "revenue",
+      "start": 27.76,
+      "end": 28.14
+    },
+    {
+      "word": "before",
+      "start": 28.14,
+      "end": 28.56
+    },
+    {
+      "word": "writing",
+      "start": 28.56,
+      "end": 28.92
+    },
+    {
+      "word": "software.",
+      "start": 28.92,
+      "end": 29.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop spending 6 months building products that nobody wants to buy.",
+      "line2": "LAUNCH MVP IN 2-HOURS",
+      "tag": "\ud83d\uded1 Rapid MVP validation landing page stack launched in under 2 hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Rapid MVP validation landing page stack launched in under 2 hours",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Rapid MVP validation landing page stack launched in under 2 hours",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Rapid MVP validation landing page stack launched in under 2 hours",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "Automated competitor product release monitoring using webhooks",
+  "text": "Here is the competitive intelligence workflow used by top Silicon Valley startups. Founders lose valuable market momentum when rival tools silently clone their core features. Tracking fifty competing URLs manually causes information fatigue, letting critical strategic shifts slip through undetected. Route automated GitHub release feeds and Sitemap monitoring webhooks through Make into dedicated Slack channels. You outmaneuver rival roadmaps while keeping your engineering squad totally focused.",
+  "duration": 30.778,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.44
+    },
+    {
+      "word": "the",
+      "start": 0.44,
+      "end": 0.62
+    },
+    {
+      "word": "competitive",
+      "start": 0.62,
+      "end": 1.04
+    },
+    {
+      "word": "intelligence",
+      "start": 1.04,
+      "end": 1.7
+    },
+    {
+      "word": "workflow",
+      "start": 1.7,
+      "end": 2.1
+    },
+    {
+      "word": "used",
+      "start": 2.1,
+      "end": 2.5
+    },
+    {
+      "word": "by",
+      "start": 2.5,
+      "end": 2.76
+    },
+    {
+      "word": "top",
+      "start": 2.76,
+      "end": 3.12
+    },
+    {
+      "word": "Silicon",
+      "start": 3.12,
+      "end": 3.5
+    },
+    {
+      "word": "Valley",
+      "start": 3.5,
+      "end": 3.94
+    },
+    {
+      "word": "startups.",
+      "start": 3.94,
+      "end": 4.42
+    },
+    {
+      "word": "Founders",
+      "start": 5.28,
+      "end": 5.38
+    },
+    {
+      "word": "lose",
+      "start": 5.38,
+      "end": 5.82
+    },
+    {
+      "word": "valuable",
+      "start": 5.82,
+      "end": 6.28
+    },
+    {
+      "word": "market",
+      "start": 6.28,
+      "end": 6.7
+    },
+    {
+      "word": "momentum",
+      "start": 6.7,
+      "end": 7.18
+    },
+    {
+      "word": "when",
+      "start": 7.18,
+      "end": 7.68
+    },
+    {
+      "word": "rival",
+      "start": 7.68,
+      "end": 7.98
+    },
+    {
+      "word": "tools",
+      "start": 7.98,
+      "end": 8.56
+    },
+    {
+      "word": "silently",
+      "start": 8.56,
+      "end": 9.14
+    },
+    {
+      "word": "clone",
+      "start": 9.14,
+      "end": 9.4
+    },
+    {
+      "word": "their",
+      "start": 9.4,
+      "end": 9.7
+    },
+    {
+      "word": "core",
+      "start": 9.7,
+      "end": 9.94
+    },
+    {
+      "word": "features.",
+      "start": 9.94,
+      "end": 10.42
+    },
+    {
+      "word": "Tracking",
+      "start": 11.22,
+      "end": 11.32
+    },
+    {
+      "word": "50",
+      "start": 11.32,
+      "end": 11.76
+    },
+    {
+      "word": "competing",
+      "start": 11.76,
+      "end": 12.32
+    },
+    {
+      "word": "URLs",
+      "start": 12.32,
+      "end": 12.92
+    },
+    {
+      "word": "manually",
+      "start": 12.92,
+      "end": 13.42
+    },
+    {
+      "word": "causes",
+      "start": 13.42,
+      "end": 14.0
+    },
+    {
+      "word": "information",
+      "start": 14.0,
+      "end": 14.52
+    },
+    {
+      "word": "fatigue,",
+      "start": 14.52,
+      "end": 15.2
+    },
+    {
+      "word": "letting",
+      "start": 15.74,
+      "end": 15.8
+    },
+    {
+      "word": "critical",
+      "start": 15.8,
+      "end": 16.2
+    },
+    {
+      "word": "strategic",
+      "start": 16.2,
+      "end": 16.76
+    },
+    {
+      "word": "shifts",
+      "start": 16.76,
+      "end": 17.3
+    },
+    {
+      "word": "slip",
+      "start": 17.3,
+      "end": 17.76
+    },
+    {
+      "word": "through",
+      "start": 17.76,
+      "end": 18.14
+    },
+    {
+      "word": "undetected.",
+      "start": 18.14,
+      "end": 18.68
+    },
+    {
+      "word": "Route",
+      "start": 19.08,
+      "end": 19.38
+    },
+    {
+      "word": "automated",
+      "start": 19.38,
+      "end": 19.86
+    },
+    {
+      "word": "GitHub",
+      "start": 19.86,
+      "end": 20.36
+    },
+    {
+      "word": "release",
+      "start": 20.36,
+      "end": 20.72
+    },
+    {
+      "word": "feeds",
+      "start": 20.72,
+      "end": 21.14
+    },
+    {
+      "word": "and",
+      "start": 21.14,
+      "end": 21.56
+    },
+    {
+      "word": "site",
+      "start": 21.56,
+      "end": 21.82
+    },
+    {
+      "word": "map",
+      "start": 21.82,
+      "end": 22.12
+    },
+    {
+      "word": "monitoring",
+      "start": 22.12,
+      "end": 22.52
+    },
+    {
+      "word": "webhooks",
+      "start": 22.52,
+      "end": 23.36
+    },
+    {
+      "word": "through",
+      "start": 23.36,
+      "end": 23.6
+    },
+    {
+      "word": "make",
+      "start": 23.6,
+      "end": 23.82
+    },
+    {
+      "word": "into",
+      "start": 23.82,
+      "end": 24.08
+    },
+    {
+      "word": "dedicated",
+      "start": 24.08,
+      "end": 24.56
+    },
+    {
+      "word": "Slack",
+      "start": 24.56,
+      "end": 25.02
+    },
+    {
+      "word": "channels.",
+      "start": 25.02,
+      "end": 25.48
+    },
+    {
+      "word": "You",
+      "start": 26.14,
+      "end": 26.28
+    },
+    {
+      "word": "outmaneuver",
+      "start": 26.28,
+      "end": 26.86
+    },
+    {
+      "word": "rival",
+      "start": 26.86,
+      "end": 27.26
+    },
+    {
+      "word": "roadmaps,",
+      "start": 27.26,
+      "end": 27.78
+    },
+    {
+      "word": "while",
+      "start": 28.18,
+      "end": 28.26
+    },
+    {
+      "word": "keeping",
+      "start": 28.26,
+      "end": 28.56
+    },
+    {
+      "word": "your",
+      "start": 28.56,
+      "end": 28.86
+    },
+    {
+      "word": "engineering",
+      "start": 28.86,
+      "end": 29.28
+    },
+    {
+      "word": "squad",
+      "start": 29.28,
+      "end": 29.82
+    },
+    {
+      "word": "totally",
+      "start": 29.82,
+      "end": 30.22
+    },
+    {
+      "word": "focused.",
+      "start": 30.22,
+      "end": 30.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The competitive intelligence workflow used by Silicon Valley startups.",
+      "line2": "MONITOR COMPETITOR RELEASES",
+      "tag": "\ud83d\uded1 Automated competitor product release monitoring using webhooks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated competitor product release monitoring using webhooks",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated competitor product release monitoring using webhooks",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated competitor product release monitoring using webhooks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

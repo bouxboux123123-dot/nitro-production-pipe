@@ -1,0 +1,391 @@
+{
+  "page": "page-07",
+  "idea": "Automated bug triage system that routes user reports directly to Linear",
+  "text": "Fix critical customer issues twice as fast with this simple triage automation. Support leads burn hours manually tagging bugs and pinging engineers during system outages. Slow escalation cycles cause churn when enterprise clients experience blocking errors during peak business hours. Use automated webhook filters that scan Intercom tickets for error keywords and generate instant Linear incidents. Your developers patch breaking bugs before revenue takes a hit.",
+  "duration": 26.176,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Fix",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "critical",
+      "start": 0.3,
+      "end": 0.66
+    },
+    {
+      "word": "customer",
+      "start": 0.66,
+      "end": 1.08
+    },
+    {
+      "word": "issues",
+      "start": 1.08,
+      "end": 1.5
+    },
+    {
+      "word": "twice",
+      "start": 1.5,
+      "end": 1.84
+    },
+    {
+      "word": "as",
+      "start": 1.84,
+      "end": 2.04
+    },
+    {
+      "word": "fast",
+      "start": 2.04,
+      "end": 2.34
+    },
+    {
+      "word": "with",
+      "start": 2.34,
+      "end": 2.5
+    },
+    {
+      "word": "this",
+      "start": 2.5,
+      "end": 2.68
+    },
+    {
+      "word": "simple",
+      "start": 2.68,
+      "end": 2.98
+    },
+    {
+      "word": "triage",
+      "start": 2.98,
+      "end": 3.34
+    },
+    {
+      "word": "automation.",
+      "start": 3.34,
+      "end": 4.06
+    },
+    {
+      "word": "Support",
+      "start": 4.62,
+      "end": 4.84
+    },
+    {
+      "word": "leads",
+      "start": 4.84,
+      "end": 5.26
+    },
+    {
+      "word": "burn",
+      "start": 5.26,
+      "end": 5.62
+    },
+    {
+      "word": "hours",
+      "start": 5.62,
+      "end": 6.02
+    },
+    {
+      "word": "manually",
+      "start": 6.02,
+      "end": 6.44
+    },
+    {
+      "word": "tagging",
+      "start": 6.44,
+      "end": 6.82
+    },
+    {
+      "word": "bugs",
+      "start": 6.82,
+      "end": 7.16
+    },
+    {
+      "word": "and",
+      "start": 7.16,
+      "end": 7.54
+    },
+    {
+      "word": "pinging",
+      "start": 7.54,
+      "end": 7.76
+    },
+    {
+      "word": "engineers",
+      "start": 7.76,
+      "end": 8.24
+    },
+    {
+      "word": "during",
+      "start": 8.24,
+      "end": 8.68
+    },
+    {
+      "word": "system",
+      "start": 8.68,
+      "end": 9.02
+    },
+    {
+      "word": "outages.",
+      "start": 9.02,
+      "end": 9.54
+    },
+    {
+      "word": "Slow",
+      "start": 10.18,
+      "end": 10.3
+    },
+    {
+      "word": "escalation",
+      "start": 10.3,
+      "end": 10.8
+    },
+    {
+      "word": "cycles",
+      "start": 10.8,
+      "end": 11.2
+    },
+    {
+      "word": "cause",
+      "start": 11.2,
+      "end": 11.66
+    },
+    {
+      "word": "churn",
+      "start": 11.66,
+      "end": 12.02
+    },
+    {
+      "word": "when",
+      "start": 12.02,
+      "end": 12.26
+    },
+    {
+      "word": "enterprise",
+      "start": 12.26,
+      "end": 12.64
+    },
+    {
+      "word": "clients",
+      "start": 12.64,
+      "end": 13.14
+    },
+    {
+      "word": "experience",
+      "start": 13.14,
+      "end": 13.8
+    },
+    {
+      "word": "blocking",
+      "start": 13.8,
+      "end": 14.24
+    },
+    {
+      "word": "errors",
+      "start": 14.24,
+      "end": 14.5
+    },
+    {
+      "word": "during",
+      "start": 14.5,
+      "end": 14.9
+    },
+    {
+      "word": "peak",
+      "start": 14.9,
+      "end": 15.16
+    },
+    {
+      "word": "business",
+      "start": 15.16,
+      "end": 15.56
+    },
+    {
+      "word": "hours.",
+      "start": 15.56,
+      "end": 16.08
+    },
+    {
+      "word": "Use",
+      "start": 16.54,
+      "end": 16.76
+    },
+    {
+      "word": "automated",
+      "start": 16.76,
+      "end": 17.22
+    },
+    {
+      "word": "webhook",
+      "start": 17.22,
+      "end": 17.64
+    },
+    {
+      "word": "filters",
+      "start": 17.64,
+      "end": 17.96
+    },
+    {
+      "word": "that",
+      "start": 17.96,
+      "end": 18.34
+    },
+    {
+      "word": "scan",
+      "start": 18.34,
+      "end": 18.6
+    },
+    {
+      "word": "intercom",
+      "start": 18.6,
+      "end": 19.16
+    },
+    {
+      "word": "tickets",
+      "start": 19.16,
+      "end": 19.42
+    },
+    {
+      "word": "for",
+      "start": 19.42,
+      "end": 19.72
+    },
+    {
+      "word": "error",
+      "start": 19.72,
+      "end": 19.94
+    },
+    {
+      "word": "keywords",
+      "start": 19.94,
+      "end": 20.36
+    },
+    {
+      "word": "and",
+      "start": 20.36,
+      "end": 20.94
+    },
+    {
+      "word": "generate",
+      "start": 20.94,
+      "end": 21.28
+    },
+    {
+      "word": "instant",
+      "start": 21.28,
+      "end": 21.82
+    },
+    {
+      "word": "linear",
+      "start": 21.82,
+      "end": 22.14
+    },
+    {
+      "word": "incidents.",
+      "start": 22.14,
+      "end": 22.58
+    },
+    {
+      "word": "Your",
+      "start": 23.16,
+      "end": 23.34
+    },
+    {
+      "word": "developers",
+      "start": 23.34,
+      "end": 23.64
+    },
+    {
+      "word": "patch",
+      "start": 23.64,
+      "end": 24.12
+    },
+    {
+      "word": "breaking",
+      "start": 24.12,
+      "end": 24.42
+    },
+    {
+      "word": "bugs",
+      "start": 24.42,
+      "end": 24.78
+    },
+    {
+      "word": "before",
+      "start": 24.78,
+      "end": 25.18
+    },
+    {
+      "word": "revenue",
+      "start": 25.18,
+      "end": 25.46
+    },
+    {
+      "word": "takes",
+      "start": 25.46,
+      "end": 25.9
+    },
+    {
+      "word": "a",
+      "start": 25.9,
+      "end": 26.04
+    },
+    {
+      "word": "hit.",
+      "start": 26.04,
+      "end": 26.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Fix critical customer issues twice as fast with this simple automation.",
+      "line2": "ROUTE BUGS TO LINEAR",
+      "tag": "\ud83d\uded1 Automated bug triage system that routes user reports directly to Linear",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated bug triage system that routes user reports directly to Linear",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated bug triage system that routes user reports directly to Linear",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

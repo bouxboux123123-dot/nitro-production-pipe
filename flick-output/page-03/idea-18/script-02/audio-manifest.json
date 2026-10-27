@@ -1,0 +1,411 @@
+{
+  "page": "page-03",
+  "idea": "Automated digital invoice reminder sequence for consulting side hustles",
+  "text": "How to send automated polite payment reminders at three days, seven days, and fourteen days. Remembering which client owes what balance turns into a frustrating administrative headache after work hours. Irregular follow-ups make your consulting business look disorganized, giving clients an excuse to stall payments. Use QuickBooks Online automated workflows or Zapier to dispatch scheduled reminders with embedded payment links. Your consulting fees arrive on time without awkward conversations.",
+  "duration": 29.434,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.36
+    },
+    {
+      "word": "send",
+      "start": 0.36,
+      "end": 0.62
+    },
+    {
+      "word": "automated",
+      "start": 0.62,
+      "end": 1.08
+    },
+    {
+      "word": "polite",
+      "start": 1.08,
+      "end": 1.56
+    },
+    {
+      "word": "payment",
+      "start": 1.56,
+      "end": 1.88
+    },
+    {
+      "word": "reminders",
+      "start": 1.88,
+      "end": 2.3
+    },
+    {
+      "word": "at",
+      "start": 2.3,
+      "end": 2.66
+    },
+    {
+      "word": "three",
+      "start": 2.66,
+      "end": 2.88
+    },
+    {
+      "word": "days,",
+      "start": 2.88,
+      "end": 3.34
+    },
+    {
+      "word": "seven",
+      "start": 3.74,
+      "end": 3.98
+    },
+    {
+      "word": "days,",
+      "start": 3.98,
+      "end": 4.36
+    },
+    {
+      "word": "and",
+      "start": 4.48,
+      "end": 4.76
+    },
+    {
+      "word": "14",
+      "start": 4.76,
+      "end": 5.1
+    },
+    {
+      "word": "days.",
+      "start": 5.1,
+      "end": 5.62
+    },
+    {
+      "word": "Remembering",
+      "start": 6.24,
+      "end": 6.7
+    },
+    {
+      "word": "which",
+      "start": 6.7,
+      "end": 6.94
+    },
+    {
+      "word": "client",
+      "start": 6.94,
+      "end": 7.3
+    },
+    {
+      "word": "owes",
+      "start": 7.3,
+      "end": 7.6
+    },
+    {
+      "word": "what",
+      "start": 7.6,
+      "end": 7.92
+    },
+    {
+      "word": "balance",
+      "start": 7.92,
+      "end": 8.26
+    },
+    {
+      "word": "turns",
+      "start": 8.26,
+      "end": 8.64
+    },
+    {
+      "word": "into",
+      "start": 8.64,
+      "end": 8.92
+    },
+    {
+      "word": "a",
+      "start": 8.92,
+      "end": 9.2
+    },
+    {
+      "word": "frustrating",
+      "start": 9.2,
+      "end": 9.56
+    },
+    {
+      "word": "administrative",
+      "start": 9.56,
+      "end": 10.32
+    },
+    {
+      "word": "headache",
+      "start": 10.32,
+      "end": 10.68
+    },
+    {
+      "word": "after",
+      "start": 10.68,
+      "end": 11.06
+    },
+    {
+      "word": "work",
+      "start": 11.06,
+      "end": 11.3
+    },
+    {
+      "word": "hours.",
+      "start": 11.3,
+      "end": 11.72
+    },
+    {
+      "word": "Irregular",
+      "start": 12.14,
+      "end": 12.58
+    },
+    {
+      "word": "follow",
+      "start": 12.58,
+      "end": 12.96
+    },
+    {
+      "word": "-ups",
+      "start": 12.96,
+      "end": 13.16
+    },
+    {
+      "word": "make",
+      "start": 13.16,
+      "end": 13.4
+    },
+    {
+      "word": "your",
+      "start": 13.4,
+      "end": 13.7
+    },
+    {
+      "word": "consulting",
+      "start": 13.7,
+      "end": 13.98
+    },
+    {
+      "word": "business",
+      "start": 13.98,
+      "end": 14.44
+    },
+    {
+      "word": "look",
+      "start": 14.44,
+      "end": 14.76
+    },
+    {
+      "word": "disorganized,",
+      "start": 14.76,
+      "end": 15.44
+    },
+    {
+      "word": "giving",
+      "start": 15.88,
+      "end": 16.14
+    },
+    {
+      "word": "clients",
+      "start": 16.14,
+      "end": 16.44
+    },
+    {
+      "word": "an",
+      "start": 16.44,
+      "end": 16.7
+    },
+    {
+      "word": "excuse",
+      "start": 16.7,
+      "end": 17.02
+    },
+    {
+      "word": "to",
+      "start": 17.02,
+      "end": 17.32
+    },
+    {
+      "word": "stall",
+      "start": 17.32,
+      "end": 17.6
+    },
+    {
+      "word": "payments.",
+      "start": 17.6,
+      "end": 18.02
+    },
+    {
+      "word": "Use",
+      "start": 18.64,
+      "end": 18.86
+    },
+    {
+      "word": "QuickBooks",
+      "start": 18.86,
+      "end": 19.42
+    },
+    {
+      "word": "Online",
+      "start": 19.42,
+      "end": 19.92
+    },
+    {
+      "word": "Automated",
+      "start": 19.92,
+      "end": 20.48
+    },
+    {
+      "word": "Workflows",
+      "start": 20.48,
+      "end": 21.0
+    },
+    {
+      "word": "or",
+      "start": 21.0,
+      "end": 21.34
+    },
+    {
+      "word": "Zapier",
+      "start": 21.34,
+      "end": 21.86
+    },
+    {
+      "word": "to",
+      "start": 21.86,
+      "end": 22.3
+    },
+    {
+      "word": "dispatch",
+      "start": 22.3,
+      "end": 22.62
+    },
+    {
+      "word": "scheduled",
+      "start": 22.62,
+      "end": 23.2
+    },
+    {
+      "word": "reminders",
+      "start": 23.2,
+      "end": 23.66
+    },
+    {
+      "word": "with",
+      "start": 23.66,
+      "end": 24.18
+    },
+    {
+      "word": "embedded",
+      "start": 24.18,
+      "end": 24.5
+    },
+    {
+      "word": "payment",
+      "start": 24.5,
+      "end": 24.86
+    },
+    {
+      "word": "links.",
+      "start": 24.86,
+      "end": 25.22
+    },
+    {
+      "word": "Your",
+      "start": 25.22,
+      "end": 25.92
+    },
+    {
+      "word": "consulting",
+      "start": 25.92,
+      "end": 26.3
+    },
+    {
+      "word": "fees",
+      "start": 26.3,
+      "end": 26.82
+    },
+    {
+      "word": "arrive",
+      "start": 26.82,
+      "end": 27.2
+    },
+    {
+      "word": "on",
+      "start": 27.2,
+      "end": 27.5
+    },
+    {
+      "word": "time",
+      "start": 27.5,
+      "end": 27.82
+    },
+    {
+      "word": "without",
+      "start": 27.82,
+      "end": 28.18
+    },
+    {
+      "word": "awkward",
+      "start": 28.18,
+      "end": 28.6
+    },
+    {
+      "word": "conversations.",
+      "start": 28.6,
+      "end": 29.26
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How to send automated polite payment reminders at 3 days, 7 days, and 14 days.",
+      "line2": "AUTO-CHASE OVERDUE BILLS",
+      "tag": "\ud83d\uded1 Automated digital invoice reminder sequence for consulting side hustles",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated digital invoice reminder sequence for consulting side hustles",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated digital invoice reminder sequence for consulting side hustles",
+        "subtitle": "Automated digital invoice reminder sequence for consulting side hustles"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated digital invoice reminder sequence for consulting side hustles"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated digital invoice reminder sequence for consulting side hustles"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated digital invoice reminder sequence for consulting side hustles",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

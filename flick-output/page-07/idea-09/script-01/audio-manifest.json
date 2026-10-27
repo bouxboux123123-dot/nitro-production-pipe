@@ -1,0 +1,421 @@
+{
+  "page": "page-07",
+  "idea": "Automated employee onboarding hub that issues accounts and permissions",
+  "text": "Onboard every new startup hire in under ten minutes without twenty back-and-forth emails. Founders routinely waste hours provisioning Google Workspace accounts, creating Slack channels, and emailing temporary passwords. Missed permissions leave eager new teammates completely stranded during their critical first week. Wire an onboarding Typeform through Make to automatically generate Google profiles, assign Slack channels, and share 1Password vaults. Your talent starts shipping immediately without administrative friction.",
+  "duration": 29.989,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "onboard",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "every",
+      "start": 0.36,
+      "end": 0.74
+    },
+    {
+      "word": "new",
+      "start": 0.74,
+      "end": 1.04
+    },
+    {
+      "word": "startup",
+      "start": 1.04,
+      "end": 1.32
+    },
+    {
+      "word": "higher",
+      "start": 1.32,
+      "end": 1.7
+    },
+    {
+      "word": "in",
+      "start": 1.7,
+      "end": 1.82
+    },
+    {
+      "word": "under",
+      "start": 1.82,
+      "end": 2.04
+    },
+    {
+      "word": "10",
+      "start": 2.04,
+      "end": 2.3
+    },
+    {
+      "word": "minutes",
+      "start": 2.3,
+      "end": 2.58
+    },
+    {
+      "word": "without",
+      "start": 2.58,
+      "end": 2.92
+    },
+    {
+      "word": "20",
+      "start": 2.92,
+      "end": 3.26
+    },
+    {
+      "word": "back",
+      "start": 3.26,
+      "end": 3.52
+    },
+    {
+      "word": "and",
+      "start": 3.52,
+      "end": 3.74
+    },
+    {
+      "word": "forth",
+      "start": 3.74,
+      "end": 4.02
+    },
+    {
+      "word": "emails.",
+      "start": 4.02,
+      "end": 4.54
+    },
+    {
+      "word": "Founders",
+      "start": 5.42,
+      "end": 5.56
+    },
+    {
+      "word": "routinely",
+      "start": 5.56,
+      "end": 6.18
+    },
+    {
+      "word": "waste",
+      "start": 6.18,
+      "end": 6.58
+    },
+    {
+      "word": "hours",
+      "start": 6.58,
+      "end": 7.0
+    },
+    {
+      "word": "provisioning",
+      "start": 7.0,
+      "end": 7.58
+    },
+    {
+      "word": "Google",
+      "start": 7.58,
+      "end": 7.92
+    },
+    {
+      "word": "workspace",
+      "start": 7.92,
+      "end": 8.32
+    },
+    {
+      "word": "accounts,",
+      "start": 8.32,
+      "end": 9.0
+    },
+    {
+      "word": "creating",
+      "start": 9.52,
+      "end": 9.66
+    },
+    {
+      "word": "Slack",
+      "start": 9.66,
+      "end": 10.04
+    },
+    {
+      "word": "channels,",
+      "start": 10.04,
+      "end": 10.46
+    },
+    {
+      "word": "and",
+      "start": 10.84,
+      "end": 11.04
+    },
+    {
+      "word": "emailing",
+      "start": 11.04,
+      "end": 11.52
+    },
+    {
+      "word": "temporary",
+      "start": 11.52,
+      "end": 11.94
+    },
+    {
+      "word": "passwords.",
+      "start": 11.94,
+      "end": 12.58
+    },
+    {
+      "word": "Mist",
+      "start": 13.1,
+      "end": 13.26
+    },
+    {
+      "word": "permissions",
+      "start": 13.26,
+      "end": 13.7
+    },
+    {
+      "word": "leave",
+      "start": 13.7,
+      "end": 14.12
+    },
+    {
+      "word": "eager",
+      "start": 14.12,
+      "end": 14.34
+    },
+    {
+      "word": "new",
+      "start": 14.34,
+      "end": 14.64
+    },
+    {
+      "word": "teammates",
+      "start": 14.64,
+      "end": 14.96
+    },
+    {
+      "word": "completely",
+      "start": 14.96,
+      "end": 15.66
+    },
+    {
+      "word": "stranded",
+      "start": 15.66,
+      "end": 16.02
+    },
+    {
+      "word": "during",
+      "start": 16.02,
+      "end": 16.34
+    },
+    {
+      "word": "their",
+      "start": 16.34,
+      "end": 16.6
+    },
+    {
+      "word": "critical",
+      "start": 16.6,
+      "end": 16.84
+    },
+    {
+      "word": "first",
+      "start": 16.84,
+      "end": 17.26
+    },
+    {
+      "word": "week.",
+      "start": 17.26,
+      "end": 17.74
+    },
+    {
+      "word": "Why",
+      "start": 18.12,
+      "end": 18.32
+    },
+    {
+      "word": "are",
+      "start": 18.32,
+      "end": 18.46
+    },
+    {
+      "word": "an",
+      "start": 18.46,
+      "end": 18.66
+    },
+    {
+      "word": "onboarding",
+      "start": 18.66,
+      "end": 19.14
+    },
+    {
+      "word": "type",
+      "start": 19.14,
+      "end": 19.4
+    },
+    {
+      "word": "form",
+      "start": 19.4,
+      "end": 19.66
+    },
+    {
+      "word": "through",
+      "start": 19.66,
+      "end": 19.9
+    },
+    {
+      "word": "make",
+      "start": 19.9,
+      "end": 20.1
+    },
+    {
+      "word": "to",
+      "start": 20.1,
+      "end": 20.72
+    },
+    {
+      "word": "automatically",
+      "start": 20.72,
+      "end": 20.8
+    },
+    {
+      "word": "generate",
+      "start": 20.8,
+      "end": 21.46
+    },
+    {
+      "word": "Google",
+      "start": 21.46,
+      "end": 21.88
+    },
+    {
+      "word": "profiles,",
+      "start": 21.88,
+      "end": 22.4
+    },
+    {
+      "word": "assign",
+      "start": 22.94,
+      "end": 23.24
+    },
+    {
+      "word": "Slack",
+      "start": 23.24,
+      "end": 23.62
+    },
+    {
+      "word": "channels,",
+      "start": 23.62,
+      "end": 24.14
+    },
+    {
+      "word": "and",
+      "start": 24.38,
+      "end": 24.64
+    },
+    {
+      "word": "share",
+      "start": 24.64,
+      "end": 24.86
+    },
+    {
+      "word": "one",
+      "start": 24.86,
+      "end": 25.14
+    },
+    {
+      "word": "password",
+      "start": 25.14,
+      "end": 25.56
+    },
+    {
+      "word": "vaults.",
+      "start": 25.56,
+      "end": 26.1
+    },
+    {
+      "word": "Your",
+      "start": 26.64,
+      "end": 26.84
+    },
+    {
+      "word": "talent",
+      "start": 26.84,
+      "end": 27.1
+    },
+    {
+      "word": "starts",
+      "start": 27.1,
+      "end": 27.54
+    },
+    {
+      "word": "shipping",
+      "start": 27.54,
+      "end": 27.86
+    },
+    {
+      "word": "immediately",
+      "start": 27.86,
+      "end": 28.38
+    },
+    {
+      "word": "without",
+      "start": 28.38,
+      "end": 28.82
+    },
+    {
+      "word": "administrative",
+      "start": 28.82,
+      "end": 29.4
+    },
+    {
+      "word": "friction.",
+      "start": 29.4,
+      "end": 29.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How to onboard new startup hires in 10 minutes without 20 back-and-forth emails.",
+      "line2": "PROVISION EMPLOYEE ACCOUNTS",
+      "tag": "\ud83d\uded1 Automated employee onboarding hub that issues accounts and permissions",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated employee onboarding hub that issues accounts and permissions",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated employee onboarding hub that issues accounts and permissions",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-03",
+  "idea": "Automated digital course access and student onboarding sequence",
+  "text": "Stop manually adding buyers to private communities or Notion hubs. Copying customer emails into permission panels every time a notification dings turns passive income into administrative drudgery. Manual delays lock buyers out of curriculum materials, flooding your personal inbox with urgent support requests. Build a Zapier workflow capturing Gumroad purchases, instantly duplicating student Notion dashboards and granting access. You scale digital products smoothly without answering access tickets.",
+  "duration": 30.458,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "manually",
+      "start": 0.4,
+      "end": 0.8
+    },
+    {
+      "word": "adding",
+      "start": 0.8,
+      "end": 1.24
+    },
+    {
+      "word": "buyers",
+      "start": 1.24,
+      "end": 1.54
+    },
+    {
+      "word": "to",
+      "start": 1.54,
+      "end": 1.82
+    },
+    {
+      "word": "private",
+      "start": 1.82,
+      "end": 2.14
+    },
+    {
+      "word": "communities",
+      "start": 2.14,
+      "end": 2.66
+    },
+    {
+      "word": "or",
+      "start": 2.66,
+      "end": 2.98
+    },
+    {
+      "word": "notion",
+      "start": 2.98,
+      "end": 3.38
+    },
+    {
+      "word": "hubs.",
+      "start": 3.38,
+      "end": 3.88
+    },
+    {
+      "word": "Copying",
+      "start": 4.46,
+      "end": 4.72
+    },
+    {
+      "word": "customer",
+      "start": 4.72,
+      "end": 5.22
+    },
+    {
+      "word": "emails",
+      "start": 5.22,
+      "end": 5.68
+    },
+    {
+      "word": "into",
+      "start": 5.68,
+      "end": 5.94
+    },
+    {
+      "word": "permission",
+      "start": 5.94,
+      "end": 6.3
+    },
+    {
+      "word": "panels,",
+      "start": 6.3,
+      "end": 6.76
+    },
+    {
+      "word": "every",
+      "start": 7.04,
+      "end": 7.28
+    },
+    {
+      "word": "time",
+      "start": 7.28,
+      "end": 7.68
+    },
+    {
+      "word": "a",
+      "start": 7.68,
+      "end": 7.96
+    },
+    {
+      "word": "notification",
+      "start": 7.96,
+      "end": 8.36
+    },
+    {
+      "word": "dings",
+      "start": 8.36,
+      "end": 8.98
+    },
+    {
+      "word": "turns",
+      "start": 8.98,
+      "end": 9.5
+    },
+    {
+      "word": "passive",
+      "start": 9.5,
+      "end": 10.0
+    },
+    {
+      "word": "income",
+      "start": 10.0,
+      "end": 10.44
+    },
+    {
+      "word": "into",
+      "start": 10.44,
+      "end": 10.78
+    },
+    {
+      "word": "administrative",
+      "start": 10.78,
+      "end": 11.38
+    },
+    {
+      "word": "drudgery.",
+      "start": 11.38,
+      "end": 12.04
+    },
+    {
+      "word": "Manual",
+      "start": 12.6,
+      "end": 12.6
+    },
+    {
+      "word": "delays",
+      "start": 12.6,
+      "end": 12.92
+    },
+    {
+      "word": "lock",
+      "start": 12.92,
+      "end": 13.36
+    },
+    {
+      "word": "buyers",
+      "start": 13.36,
+      "end": 13.68
+    },
+    {
+      "word": "out",
+      "start": 13.68,
+      "end": 13.94
+    },
+    {
+      "word": "of",
+      "start": 13.94,
+      "end": 14.22
+    },
+    {
+      "word": "curriculum",
+      "start": 14.22,
+      "end": 14.4
+    },
+    {
+      "word": "materials,",
+      "start": 14.4,
+      "end": 14.96
+    },
+    {
+      "word": "flooding",
+      "start": 15.56,
+      "end": 15.66
+    },
+    {
+      "word": "your",
+      "start": 15.66,
+      "end": 16.04
+    },
+    {
+      "word": "personal",
+      "start": 16.04,
+      "end": 16.34
+    },
+    {
+      "word": "inbox",
+      "start": 16.34,
+      "end": 16.72
+    },
+    {
+      "word": "with",
+      "start": 16.72,
+      "end": 17.1
+    },
+    {
+      "word": "urgent",
+      "start": 17.1,
+      "end": 17.42
+    },
+    {
+      "word": "support",
+      "start": 17.42,
+      "end": 17.86
+    },
+    {
+      "word": "requests.",
+      "start": 17.86,
+      "end": 18.42
+    },
+    {
+      "word": "Build",
+      "start": 19.16,
+      "end": 19.24
+    },
+    {
+      "word": "a",
+      "start": 19.24,
+      "end": 19.46
+    },
+    {
+      "word": "Zapier",
+      "start": 19.46,
+      "end": 19.86
+    },
+    {
+      "word": "workflow",
+      "start": 19.86,
+      "end": 20.3
+    },
+    {
+      "word": "capturing",
+      "start": 20.3,
+      "end": 20.98
+    },
+    {
+      "word": "gumroad",
+      "start": 20.98,
+      "end": 21.44
+    },
+    {
+      "word": "purchases,",
+      "start": 21.44,
+      "end": 22.02
+    },
+    {
+      "word": "instantly",
+      "start": 22.86,
+      "end": 22.86
+    },
+    {
+      "word": "duplicating",
+      "start": 22.86,
+      "end": 23.44
+    },
+    {
+      "word": "student",
+      "start": 23.44,
+      "end": 23.84
+    },
+    {
+      "word": "notion",
+      "start": 23.84,
+      "end": 24.3
+    },
+    {
+      "word": "dashboards",
+      "start": 24.3,
+      "end": 24.88
+    },
+    {
+      "word": "and",
+      "start": 24.88,
+      "end": 25.34
+    },
+    {
+      "word": "granting",
+      "start": 25.34,
+      "end": 25.66
+    },
+    {
+      "word": "access.",
+      "start": 25.66,
+      "end": 26.24
+    },
+    {
+      "word": "You",
+      "start": 26.8,
+      "end": 26.96
+    },
+    {
+      "word": "scale",
+      "start": 26.96,
+      "end": 27.24
+    },
+    {
+      "word": "digital",
+      "start": 27.24,
+      "end": 27.64
+    },
+    {
+      "word": "products",
+      "start": 27.64,
+      "end": 28.1
+    },
+    {
+      "word": "smoothly",
+      "start": 28.1,
+      "end": 28.54
+    },
+    {
+      "word": "without",
+      "start": 28.54,
+      "end": 29.02
+    },
+    {
+      "word": "answering",
+      "start": 29.02,
+      "end": 29.56
+    },
+    {
+      "word": "access",
+      "start": 29.56,
+      "end": 29.96
+    },
+    {
+      "word": "tickets.",
+      "start": 29.96,
+      "end": 30.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop manually adding buyers to private communities or Notion hubs.",
+      "line2": "ONBOARD COURSE STUDENTS",
+      "tag": "\ud83d\uded1 Automated digital course access and student onboarding sequence",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated digital course access and student onboarding sequence",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated digital course access and student onboarding sequence",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated digital course access and student onboarding sequence",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

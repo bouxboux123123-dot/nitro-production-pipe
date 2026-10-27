@@ -1,0 +1,426 @@
+{
+  "page": "page-04",
+  "idea": "Whisper locally: free unlimited speech-to-text with zero API bills",
+  "text": "Here is the offline transcription tool that never charges you a penny. Relying on cloud transcription tools exposes confidential customer calls and proprietary strategy meetings to third-party databases. Company security policies often block these online tools entirely, forcing teams back into manual note-taking. Instead, launch faster-whisper on your machine to execute offline voice-to-text processing using your hardware. You turn sixty-minute audio recordings into clean text in seconds.",
+  "duration": 30.607,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "word": "the",
+      "start": 0.52,
+      "end": 0.68
+    },
+    {
+      "word": "offline",
+      "start": 0.68,
+      "end": 1.06
+    },
+    {
+      "word": "transcription",
+      "start": 1.06,
+      "end": 1.62
+    },
+    {
+      "word": "tool",
+      "start": 1.62,
+      "end": 2.12
+    },
+    {
+      "word": "that",
+      "start": 2.12,
+      "end": 2.32
+    },
+    {
+      "word": "never",
+      "start": 2.32,
+      "end": 2.64
+    },
+    {
+      "word": "charges",
+      "start": 2.64,
+      "end": 3.02
+    },
+    {
+      "word": "you",
+      "start": 3.02,
+      "end": 3.32
+    },
+    {
+      "word": "a",
+      "start": 3.32,
+      "end": 3.84
+    },
+    {
+      "word": "penny.",
+      "start": 3.84,
+      "end": 3.84
+    },
+    {
+      "word": "Relying",
+      "start": 4.38,
+      "end": 4.72
+    },
+    {
+      "word": "on",
+      "start": 4.72,
+      "end": 5.04
+    },
+    {
+      "word": "cloud",
+      "start": 5.04,
+      "end": 5.42
+    },
+    {
+      "word": "transcription",
+      "start": 5.42,
+      "end": 5.94
+    },
+    {
+      "word": "tools",
+      "start": 5.94,
+      "end": 6.62
+    },
+    {
+      "word": "exposes",
+      "start": 6.62,
+      "end": 7.26
+    },
+    {
+      "word": "confidential",
+      "start": 7.26,
+      "end": 8.0
+    },
+    {
+      "word": "customer",
+      "start": 8.0,
+      "end": 8.58
+    },
+    {
+      "word": "calls",
+      "start": 8.58,
+      "end": 9.02
+    },
+    {
+      "word": "and",
+      "start": 9.02,
+      "end": 9.58
+    },
+    {
+      "word": "proprietary",
+      "start": 9.58,
+      "end": 10.04
+    },
+    {
+      "word": "strategy",
+      "start": 10.04,
+      "end": 10.72
+    },
+    {
+      "word": "meetings",
+      "start": 10.72,
+      "end": 11.1
+    },
+    {
+      "word": "to",
+      "start": 11.1,
+      "end": 11.4
+    },
+    {
+      "word": "third",
+      "start": 11.4,
+      "end": 11.7
+    },
+    {
+      "word": "-party",
+      "start": 11.7,
+      "end": 12.0
+    },
+    {
+      "word": "databases.",
+      "start": 12.0,
+      "end": 12.6
+    },
+    {
+      "word": "Company",
+      "start": 13.32,
+      "end": 13.4
+    },
+    {
+      "word": "security",
+      "start": 13.4,
+      "end": 13.94
+    },
+    {
+      "word": "policies",
+      "start": 13.94,
+      "end": 14.56
+    },
+    {
+      "word": "often",
+      "start": 14.56,
+      "end": 14.96
+    },
+    {
+      "word": "block",
+      "start": 14.96,
+      "end": 15.26
+    },
+    {
+      "word": "these",
+      "start": 15.26,
+      "end": 15.64
+    },
+    {
+      "word": "online",
+      "start": 15.64,
+      "end": 16.02
+    },
+    {
+      "word": "tools",
+      "start": 16.02,
+      "end": 16.46
+    },
+    {
+      "word": "entirely,",
+      "start": 16.46,
+      "end": 17.3
+    },
+    {
+      "word": "forcing",
+      "start": 17.76,
+      "end": 17.82
+    },
+    {
+      "word": "teams",
+      "start": 17.82,
+      "end": 18.34
+    },
+    {
+      "word": "back",
+      "start": 18.34,
+      "end": 18.64
+    },
+    {
+      "word": "into",
+      "start": 18.64,
+      "end": 18.8
+    },
+    {
+      "word": "manual",
+      "start": 18.8,
+      "end": 19.16
+    },
+    {
+      "word": "note",
+      "start": 19.16,
+      "end": 19.56
+    },
+    {
+      "word": "-taking.",
+      "start": 19.56,
+      "end": 19.84
+    },
+    {
+      "word": "Instead,",
+      "start": 20.58,
+      "end": 20.94
+    },
+    {
+      "word": "launch",
+      "start": 21.64,
+      "end": 21.66
+    },
+    {
+      "word": "faster",
+      "start": 21.66,
+      "end": 22.08
+    },
+    {
+      "word": "whisper",
+      "start": 22.08,
+      "end": 22.38
+    },
+    {
+      "word": "on",
+      "start": 22.38,
+      "end": 22.56
+    },
+    {
+      "word": "your",
+      "start": 22.56,
+      "end": 22.74
+    },
+    {
+      "word": "machine",
+      "start": 22.74,
+      "end": 22.96
+    },
+    {
+      "word": "to",
+      "start": 22.96,
+      "end": 23.36
+    },
+    {
+      "word": "execute",
+      "start": 23.36,
+      "end": 23.72
+    },
+    {
+      "word": "offline",
+      "start": 23.72,
+      "end": 24.28
+    },
+    {
+      "word": "voice",
+      "start": 24.28,
+      "end": 24.6
+    },
+    {
+      "word": "-to",
+      "start": 24.6,
+      "end": 24.74
+    },
+    {
+      "word": "-text",
+      "start": 24.74,
+      "end": 24.96
+    },
+    {
+      "word": "processing",
+      "start": 24.96,
+      "end": 25.44
+    },
+    {
+      "word": "using",
+      "start": 25.44,
+      "end": 25.84
+    },
+    {
+      "word": "your",
+      "start": 25.84,
+      "end": 26.1
+    },
+    {
+      "word": "hardware.",
+      "start": 26.1,
+      "end": 26.44
+    },
+    {
+      "word": "You",
+      "start": 27.08,
+      "end": 27.22
+    },
+    {
+      "word": "turn",
+      "start": 27.22,
+      "end": 27.42
+    },
+    {
+      "word": "60",
+      "start": 27.42,
+      "end": 27.86
+    },
+    {
+      "word": "-minute",
+      "start": 27.86,
+      "end": 28.14
+    },
+    {
+      "word": "audio",
+      "start": 28.14,
+      "end": 28.48
+    },
+    {
+      "word": "recordings",
+      "start": 28.48,
+      "end": 28.94
+    },
+    {
+      "word": "into",
+      "start": 28.94,
+      "end": 29.28
+    },
+    {
+      "word": "clean",
+      "start": 29.28,
+      "end": 29.6
+    },
+    {
+      "word": "text",
+      "start": 29.6,
+      "end": 29.92
+    },
+    {
+      "word": "in",
+      "start": 29.92,
+      "end": 30.16
+    },
+    {
+      "word": "seconds.",
+      "start": 30.16,
+      "end": 30.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The offline transcription tool that never charges you a penny.",
+      "line2": "FREE LOCAL SPEECH-TO-TEXT",
+      "tag": "\ud83d\uded1 Whisper locally",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Whisper locally",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Whisper locally",
+        "subtitle": "Whisper locally"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Whisper locally"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Whisper locally"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Whisper locally",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

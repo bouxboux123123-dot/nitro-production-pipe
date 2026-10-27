@@ -1,0 +1,396 @@
+{
+  "page": "page-05",
+  "idea": "Automated content repurposing workflow using Make and Notion",
+  "text": "How to turn one long newsletter into ten high-performing social posts automatically. Solopreneurs spend hours manually chopping long-form articles into LinkedIn carousels, X threads, and short captions. Formatting text across different platforms eats away your deep work time and causes creator burnout. Instead, connect Make to Notion and OpenAI to extract hooks, bullet points, and summaries. You populate an entire week of social content.",
+  "duration": 25.195,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "to",
+      "start": 0.24,
+      "end": 0.34
+    },
+    {
+      "word": "turn",
+      "start": 0.34,
+      "end": 0.54
+    },
+    {
+      "word": "one",
+      "start": 0.54,
+      "end": 0.8
+    },
+    {
+      "word": "long",
+      "start": 0.8,
+      "end": 1.08
+    },
+    {
+      "word": "newsletter",
+      "start": 1.08,
+      "end": 1.42
+    },
+    {
+      "word": "into",
+      "start": 1.42,
+      "end": 1.76
+    },
+    {
+      "word": "10",
+      "start": 1.76,
+      "end": 2.06
+    },
+    {
+      "word": "high",
+      "start": 2.06,
+      "end": 2.28
+    },
+    {
+      "word": "performing",
+      "start": 2.28,
+      "end": 2.7
+    },
+    {
+      "word": "social",
+      "start": 2.7,
+      "end": 3.08
+    },
+    {
+      "word": "posts",
+      "start": 3.08,
+      "end": 3.44
+    },
+    {
+      "word": "automatically.",
+      "start": 3.44,
+      "end": 4.3
+    },
+    {
+      "word": "Solopreneurs",
+      "start": 4.88,
+      "end": 5.42
+    },
+    {
+      "word": "spend",
+      "start": 5.42,
+      "end": 5.72
+    },
+    {
+      "word": "hours",
+      "start": 5.72,
+      "end": 6.08
+    },
+    {
+      "word": "manually",
+      "start": 6.08,
+      "end": 6.56
+    },
+    {
+      "word": "chopping",
+      "start": 6.56,
+      "end": 6.94
+    },
+    {
+      "word": "long",
+      "start": 6.94,
+      "end": 7.3
+    },
+    {
+      "word": "-form",
+      "start": 7.3,
+      "end": 7.58
+    },
+    {
+      "word": "articles",
+      "start": 7.58,
+      "end": 7.92
+    },
+    {
+      "word": "into",
+      "start": 7.92,
+      "end": 8.24
+    },
+    {
+      "word": "LinkedIn",
+      "start": 8.24,
+      "end": 8.56
+    },
+    {
+      "word": "carousels,",
+      "start": 8.56,
+      "end": 9.22
+    },
+    {
+      "word": "ex",
+      "start": 9.74,
+      "end": 9.78
+    },
+    {
+      "word": "-threads,",
+      "start": 9.78,
+      "end": 10.24
+    },
+    {
+      "word": "and",
+      "start": 10.24,
+      "end": 10.34
+    },
+    {
+      "word": "short",
+      "start": 10.34,
+      "end": 10.54
+    },
+    {
+      "word": "captions.",
+      "start": 10.54,
+      "end": 11.28
+    },
+    {
+      "word": "Formatting",
+      "start": 11.74,
+      "end": 12.06
+    },
+    {
+      "word": "text",
+      "start": 12.06,
+      "end": 12.34
+    },
+    {
+      "word": "across",
+      "start": 12.34,
+      "end": 12.72
+    },
+    {
+      "word": "different",
+      "start": 12.72,
+      "end": 13.04
+    },
+    {
+      "word": "platforms",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "word": "eats",
+      "start": 13.44,
+      "end": 13.84
+    },
+    {
+      "word": "away",
+      "start": 13.84,
+      "end": 14.06
+    },
+    {
+      "word": "your",
+      "start": 14.06,
+      "end": 14.3
+    },
+    {
+      "word": "deep",
+      "start": 14.3,
+      "end": 14.56
+    },
+    {
+      "word": "work",
+      "start": 14.56,
+      "end": 14.8
+    },
+    {
+      "word": "time",
+      "start": 14.8,
+      "end": 15.08
+    },
+    {
+      "word": "and",
+      "start": 15.08,
+      "end": 15.28
+    },
+    {
+      "word": "causes",
+      "start": 15.28,
+      "end": 15.6
+    },
+    {
+      "word": "creator",
+      "start": 15.6,
+      "end": 15.98
+    },
+    {
+      "word": "burnout.",
+      "start": 15.98,
+      "end": 16.6
+    },
+    {
+      "word": "Instead,",
+      "start": 17.1,
+      "end": 17.46
+    },
+    {
+      "word": "connect",
+      "start": 18.12,
+      "end": 18.14
+    },
+    {
+      "word": "Make",
+      "start": 18.14,
+      "end": 18.36
+    },
+    {
+      "word": "to",
+      "start": 18.36,
+      "end": 18.48
+    },
+    {
+      "word": "Notion",
+      "start": 18.48,
+      "end": 18.82
+    },
+    {
+      "word": "and",
+      "start": 18.82,
+      "end": 19.02
+    },
+    {
+      "word": "open",
+      "start": 19.02,
+      "end": 19.32
+    },
+    {
+      "word": "AI",
+      "start": 19.32,
+      "end": 19.66
+    },
+    {
+      "word": "to",
+      "start": 19.66,
+      "end": 20.08
+    },
+    {
+      "word": "extract",
+      "start": 20.08,
+      "end": 20.4
+    },
+    {
+      "word": "hooks,",
+      "start": 20.4,
+      "end": 20.9
+    },
+    {
+      "word": "bullet",
+      "start": 21.34,
+      "end": 21.34
+    },
+    {
+      "word": "points,",
+      "start": 21.34,
+      "end": 21.72
+    },
+    {
+      "word": "and",
+      "start": 21.72,
+      "end": 22.02
+    },
+    {
+      "word": "summaries.",
+      "start": 22.02,
+      "end": 22.4
+    },
+    {
+      "word": "You",
+      "start": 22.4,
+      "end": 23.06
+    },
+    {
+      "word": "populate",
+      "start": 23.06,
+      "end": 23.38
+    },
+    {
+      "word": "an",
+      "start": 23.38,
+      "end": 23.7
+    },
+    {
+      "word": "entire",
+      "start": 23.7,
+      "end": 24.04
+    },
+    {
+      "word": "week",
+      "start": 24.04,
+      "end": 24.26
+    },
+    {
+      "word": "of",
+      "start": 24.26,
+      "end": 24.5
+    },
+    {
+      "word": "social",
+      "start": 24.5,
+      "end": 24.74
+    },
+    {
+      "word": "content.",
+      "start": 24.74,
+      "end": 25.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "How to turn one long blog post or newsletter into 10 social posts automatically.",
+      "line2": "REPURPOSE CONTENT AUTOMATICALLY",
+      "tag": "\ud83d\uded1 Automated content repurposing workflow using Make and Notion",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Automated content repurposing workflow using Make and Notion",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Automated content repurposing workflow using Make and Notion",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Automated content repurposing workflow using Make and Notion",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

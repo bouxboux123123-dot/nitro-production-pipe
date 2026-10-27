@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "AI customer interview transcription and feature request clustering",
+  "text": "Here is how to turn ten customer interview recordings into an actionable product roadmap. You complete discovery calls, but raw recordings and unstructured notes sit forgotten across Google Drive. Without automated thematic tagging, critical user pain points vanish and engineers ship the wrong features. Feed Whisper transcripts into Claude to automatically cluster recurring feature requests directly into Linear tickets. This converts messy feedback into validated sprint priorities.",
+  "duration": 29.007,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "how",
+      "start": 0.42,
+      "end": 0.58
+    },
+    {
+      "word": "to",
+      "start": 0.58,
+      "end": 0.76
+    },
+    {
+      "word": "turn",
+      "start": 0.76,
+      "end": 0.98
+    },
+    {
+      "word": "10",
+      "start": 0.98,
+      "end": 1.42
+    },
+    {
+      "word": "customer",
+      "start": 1.42,
+      "end": 1.84
+    },
+    {
+      "word": "interview",
+      "start": 1.84,
+      "end": 2.3
+    },
+    {
+      "word": "recordings",
+      "start": 2.3,
+      "end": 2.82
+    },
+    {
+      "word": "into",
+      "start": 2.82,
+      "end": 3.16
+    },
+    {
+      "word": "an",
+      "start": 3.16,
+      "end": 3.44
+    },
+    {
+      "word": "actionable",
+      "start": 3.44,
+      "end": 3.92
+    },
+    {
+      "word": "product",
+      "start": 3.92,
+      "end": 4.32
+    },
+    {
+      "word": "roadmap.",
+      "start": 4.32,
+      "end": 4.76
+    },
+    {
+      "word": "You",
+      "start": 5.32,
+      "end": 5.52
+    },
+    {
+      "word": "complete",
+      "start": 5.52,
+      "end": 5.92
+    },
+    {
+      "word": "discovery",
+      "start": 5.92,
+      "end": 6.38
+    },
+    {
+      "word": "calls,",
+      "start": 6.38,
+      "end": 6.86
+    },
+    {
+      "word": "but",
+      "start": 7.16,
+      "end": 7.42
+    },
+    {
+      "word": "raw",
+      "start": 7.42,
+      "end": 7.66
+    },
+    {
+      "word": "recordings",
+      "start": 7.66,
+      "end": 8.18
+    },
+    {
+      "word": "and",
+      "start": 8.18,
+      "end": 8.46
+    },
+    {
+      "word": "unstructured",
+      "start": 8.46,
+      "end": 9.1
+    },
+    {
+      "word": "notes",
+      "start": 9.1,
+      "end": 9.46
+    },
+    {
+      "word": "sit",
+      "start": 9.46,
+      "end": 9.9
+    },
+    {
+      "word": "forgotten",
+      "start": 9.9,
+      "end": 10.3
+    },
+    {
+      "word": "across",
+      "start": 10.3,
+      "end": 10.78
+    },
+    {
+      "word": "Google",
+      "start": 10.78,
+      "end": 11.12
+    },
+    {
+      "word": "Drive.",
+      "start": 11.12,
+      "end": 11.6
+    },
+    {
+      "word": "Without",
+      "start": 11.94,
+      "end": 12.36
+    },
+    {
+      "word": "automated",
+      "start": 12.36,
+      "end": 12.84
+    },
+    {
+      "word": "thematic",
+      "start": 12.84,
+      "end": 13.4
+    },
+    {
+      "word": "tagging,",
+      "start": 13.4,
+      "end": 13.82
+    },
+    {
+      "word": "critical",
+      "start": 14.54,
+      "end": 14.54
+    },
+    {
+      "word": "user",
+      "start": 14.54,
+      "end": 14.88
+    },
+    {
+      "word": "pain",
+      "start": 14.88,
+      "end": 15.32
+    },
+    {
+      "word": "points",
+      "start": 15.32,
+      "end": 15.66
+    },
+    {
+      "word": "vanish",
+      "start": 15.66,
+      "end": 16.08
+    },
+    {
+      "word": "and",
+      "start": 16.08,
+      "end": 16.36
+    },
+    {
+      "word": "engineers",
+      "start": 16.36,
+      "end": 16.74
+    },
+    {
+      "word": "ship",
+      "start": 16.74,
+      "end": 17.12
+    },
+    {
+      "word": "the",
+      "start": 17.12,
+      "end": 17.32
+    },
+    {
+      "word": "wrong",
+      "start": 17.32,
+      "end": 17.58
+    },
+    {
+      "word": "features.",
+      "start": 17.58,
+      "end": 18.06
+    },
+    {
+      "word": "Feed",
+      "start": 18.88,
+      "end": 18.94
+    },
+    {
+      "word": "whisper",
+      "start": 18.94,
+      "end": 19.26
+    },
+    {
+      "word": "transcripts",
+      "start": 19.26,
+      "end": 19.8
+    },
+    {
+      "word": "into",
+      "start": 19.8,
+      "end": 20.16
+    },
+    {
+      "word": "clawed",
+      "start": 20.16,
+      "end": 20.6
+    },
+    {
+      "word": "to",
+      "start": 20.6,
+      "end": 20.9
+    },
+    {
+      "word": "automatically",
+      "start": 20.9,
+      "end": 21.26
+    },
+    {
+      "word": "cluster",
+      "start": 21.26,
+      "end": 21.78
+    },
+    {
+      "word": "recurring",
+      "start": 21.78,
+      "end": 22.26
+    },
+    {
+      "word": "feature",
+      "start": 22.26,
+      "end": 22.86
+    },
+    {
+      "word": "requests",
+      "start": 22.86,
+      "end": 23.46
+    },
+    {
+      "word": "directly",
+      "start": 23.46,
+      "end": 24.02
+    },
+    {
+      "word": "into",
+      "start": 24.02,
+      "end": 24.3
+    },
+    {
+      "word": "linear",
+      "start": 24.3,
+      "end": 24.48
+    },
+    {
+      "word": "tickets.",
+      "start": 24.48,
+      "end": 24.92
+    },
+    {
+      "word": "This",
+      "start": 25.56,
+      "end": 25.8
+    },
+    {
+      "word": "converts",
+      "start": 25.8,
+      "end": 26.18
+    },
+    {
+      "word": "messy",
+      "start": 26.18,
+      "end": 26.46
+    },
+    {
+      "word": "feedback",
+      "start": 26.46,
+      "end": 26.96
+    },
+    {
+      "word": "into",
+      "start": 26.96,
+      "end": 27.3
+    },
+    {
+      "word": "validated",
+      "start": 27.3,
+      "end": 27.78
+    },
+    {
+      "word": "sprint",
+      "start": 27.78,
+      "end": 28.28
+    },
+    {
+      "word": "priorities.",
+      "start": 28.28,
+      "end": 28.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How to turn 10 customer interview recordings into an actionable product roadmap.",
+      "line2": "CLUSTER FEATURE REQUESTS",
+      "tag": "\ud83d\uded1 AI customer interview transcription and feature request clustering",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: AI customer interview transcription and feature request clustering",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: AI customer interview transcription and feature request clustering",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "AI customer interview transcription and feature request clustering",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

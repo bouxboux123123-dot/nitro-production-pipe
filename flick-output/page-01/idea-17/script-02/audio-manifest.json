@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated post-launch case study interview generator",
+  "text": "This automated sequence triggers when a campaign hits target ROAS, capturing client quotes instantly. Teams celebrate record returns in Slack but forget to capture feedback while client excitement is high. Waiting weeks to ask for quotes leads to ignored emails and lost marketing data. Connect Triple Whale to Zapier to automatically text clients a one-click Senja testimonial link upon goal achievement. You stockpile glowing client proof without awkward chasing.",
+  "duration": 28.602,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "automated",
+      "start": 0.32,
+      "end": 0.68
+    },
+    {
+      "word": "sequence",
+      "start": 0.68,
+      "end": 1.32
+    },
+    {
+      "word": "triggers",
+      "start": 1.32,
+      "end": 1.66
+    },
+    {
+      "word": "when",
+      "start": 1.66,
+      "end": 1.88
+    },
+    {
+      "word": "a",
+      "start": 1.88,
+      "end": 2.12
+    },
+    {
+      "word": "campaign",
+      "start": 2.12,
+      "end": 2.4
+    },
+    {
+      "word": "hits",
+      "start": 2.4,
+      "end": 2.78
+    },
+    {
+      "word": "Target",
+      "start": 2.78,
+      "end": 3.18
+    },
+    {
+      "word": "Roas,",
+      "start": 3.18,
+      "end": 3.78
+    },
+    {
+      "word": "capturing",
+      "start": 4.38,
+      "end": 4.38
+    },
+    {
+      "word": "client",
+      "start": 4.38,
+      "end": 4.86
+    },
+    {
+      "word": "quotes",
+      "start": 4.86,
+      "end": 5.24
+    },
+    {
+      "word": "instantly.",
+      "start": 5.24,
+      "end": 5.92
+    },
+    {
+      "word": "Teams",
+      "start": 6.84,
+      "end": 6.84
+    },
+    {
+      "word": "celebrate",
+      "start": 6.84,
+      "end": 7.24
+    },
+    {
+      "word": "record",
+      "start": 7.24,
+      "end": 7.74
+    },
+    {
+      "word": "returns",
+      "start": 7.74,
+      "end": 8.22
+    },
+    {
+      "word": "in",
+      "start": 8.22,
+      "end": 8.56
+    },
+    {
+      "word": "Slack,",
+      "start": 8.56,
+      "end": 8.88
+    },
+    {
+      "word": "but",
+      "start": 9.2,
+      "end": 9.32
+    },
+    {
+      "word": "forget",
+      "start": 9.32,
+      "end": 9.56
+    },
+    {
+      "word": "to",
+      "start": 9.56,
+      "end": 9.76
+    },
+    {
+      "word": "capture",
+      "start": 9.76,
+      "end": 10.12
+    },
+    {
+      "word": "feedback",
+      "start": 10.12,
+      "end": 10.54
+    },
+    {
+      "word": "while",
+      "start": 10.54,
+      "end": 10.94
+    },
+    {
+      "word": "client",
+      "start": 10.94,
+      "end": 11.24
+    },
+    {
+      "word": "excitement",
+      "start": 11.24,
+      "end": 11.68
+    },
+    {
+      "word": "is",
+      "start": 11.68,
+      "end": 12.02
+    },
+    {
+      "word": "high,",
+      "start": 12.02,
+      "end": 12.48
+    },
+    {
+      "word": "waiting",
+      "start": 12.86,
+      "end": 12.86
+    },
+    {
+      "word": "weeks",
+      "start": 12.86,
+      "end": 13.24
+    },
+    {
+      "word": "to",
+      "start": 13.24,
+      "end": 13.4
+    },
+    {
+      "word": "ask",
+      "start": 13.4,
+      "end": 13.62
+    },
+    {
+      "word": "for",
+      "start": 13.62,
+      "end": 13.86
+    },
+    {
+      "word": "quotes",
+      "start": 13.86,
+      "end": 14.14
+    },
+    {
+      "word": "leads",
+      "start": 14.14,
+      "end": 14.44
+    },
+    {
+      "word": "to",
+      "start": 14.44,
+      "end": 14.72
+    },
+    {
+      "word": "ignored",
+      "start": 14.72,
+      "end": 15.1
+    },
+    {
+      "word": "emails",
+      "start": 15.1,
+      "end": 15.54
+    },
+    {
+      "word": "and",
+      "start": 15.54,
+      "end": 16.02
+    },
+    {
+      "word": "lost",
+      "start": 16.02,
+      "end": 16.32
+    },
+    {
+      "word": "marketing",
+      "start": 16.32,
+      "end": 16.72
+    },
+    {
+      "word": "data.",
+      "start": 16.72,
+      "end": 17.26
+    },
+    {
+      "word": "Connect",
+      "start": 18.08,
+      "end": 18.08
+    },
+    {
+      "word": "Triple",
+      "start": 18.08,
+      "end": 18.46
+    },
+    {
+      "word": "Whale",
+      "start": 18.46,
+      "end": 18.74
+    },
+    {
+      "word": "to",
+      "start": 18.74,
+      "end": 18.98
+    },
+    {
+      "word": "Zapier",
+      "start": 18.98,
+      "end": 19.36
+    },
+    {
+      "word": "to",
+      "start": 19.36,
+      "end": 19.8
+    },
+    {
+      "word": "automatically",
+      "start": 19.8,
+      "end": 20.16
+    },
+    {
+      "word": "text",
+      "start": 20.16,
+      "end": 20.68
+    },
+    {
+      "word": "clients",
+      "start": 20.68,
+      "end": 21.1
+    },
+    {
+      "word": "a",
+      "start": 21.1,
+      "end": 21.64
+    },
+    {
+      "word": "one",
+      "start": 21.64,
+      "end": 21.9
+    },
+    {
+      "word": "-click",
+      "start": 21.9,
+      "end": 22.14
+    },
+    {
+      "word": "Senya",
+      "start": 22.14,
+      "end": 22.5
+    },
+    {
+      "word": "testimonial",
+      "start": 22.5,
+      "end": 23.16
+    },
+    {
+      "word": "link",
+      "start": 23.16,
+      "end": 23.52
+    },
+    {
+      "word": "upon",
+      "start": 23.52,
+      "end": 23.92
+    },
+    {
+      "word": "goal",
+      "start": 23.92,
+      "end": 24.2
+    },
+    {
+      "word": "achievement.",
+      "start": 24.2,
+      "end": 24.68
+    },
+    {
+      "word": "You",
+      "start": 24.68,
+      "end": 25.48
+    },
+    {
+      "word": "stockpile",
+      "start": 25.48,
+      "end": 25.92
+    },
+    {
+      "word": "glowing",
+      "start": 25.92,
+      "end": 26.56
+    },
+    {
+      "word": "client",
+      "start": 26.56,
+      "end": 26.94
+    },
+    {
+      "word": "proof",
+      "start": 26.94,
+      "end": 27.24
+    },
+    {
+      "word": "without",
+      "start": 27.24,
+      "end": 27.72
+    },
+    {
+      "word": "awkward",
+      "start": 27.72,
+      "end": 28.1
+    },
+    {
+      "word": "chasing.",
+      "start": 28.1,
+      "end": 28.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "This automated sequence triggers when a campaign hits target ROAS, asking for a quick quote.",
+      "line2": "AUTOMATE CASE STUDIES",
+      "tag": "\ud83d\uded1 Automated post-launch case study interview generator",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated post-launch case study interview generator",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated post-launch case study interview generator",
+        "subtitle": "Automated post-launch case study interview generator"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated post-launch case study interview generator"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated post-launch case study interview generator"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated post-launch case study interview generator",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

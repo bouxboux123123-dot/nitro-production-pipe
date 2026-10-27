@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "Excalidraw: virtual whiteboard for brainstorming and architecture diagrams",
+  "text": "Stop paying for Miro or Lucidchart when this free tool does ninety percent of the job. Teams waste hundreds yearly on bloated software just to sketch basic user flows and system architectures. Those platforms restrict free board counts and lock your diagrams behind proprietary file formats. Excalidraw offers an open-source whiteboard featuring real-time encrypted collaboration and instant vector exports. You eliminate software costs while speeding up planning.",
+  "duration": 28.794,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "paying",
+      "start": 0.38,
+      "end": 0.7
+    },
+    {
+      "word": "for",
+      "start": 0.7,
+      "end": 1.02
+    },
+    {
+      "word": "Myro",
+      "start": 1.02,
+      "end": 1.4
+    },
+    {
+      "word": "or",
+      "start": 1.4,
+      "end": 1.72
+    },
+    {
+      "word": "Lucidchart",
+      "start": 1.72,
+      "end": 2.38
+    },
+    {
+      "word": "when",
+      "start": 2.38,
+      "end": 2.7
+    },
+    {
+      "word": "this",
+      "start": 2.7,
+      "end": 2.96
+    },
+    {
+      "word": "free",
+      "start": 2.96,
+      "end": 3.24
+    },
+    {
+      "word": "tool",
+      "start": 3.24,
+      "end": 3.58
+    },
+    {
+      "word": "does",
+      "start": 3.58,
+      "end": 3.86
+    },
+    {
+      "word": "90",
+      "start": 3.86,
+      "end": 4.22
+    },
+    {
+      "word": "%",
+      "start": 4.22,
+      "end": 4.52
+    },
+    {
+      "word": "of",
+      "start": 4.52,
+      "end": 4.64
+    },
+    {
+      "word": "the",
+      "start": 4.64,
+      "end": 4.8
+    },
+    {
+      "word": "job.",
+      "start": 4.8,
+      "end": 5.3
+    },
+    {
+      "word": "Teams",
+      "start": 6.12,
+      "end": 6.12
+    },
+    {
+      "word": "waste",
+      "start": 6.12,
+      "end": 6.44
+    },
+    {
+      "word": "hundreds",
+      "start": 6.44,
+      "end": 6.84
+    },
+    {
+      "word": "yearly",
+      "start": 6.84,
+      "end": 7.3
+    },
+    {
+      "word": "on",
+      "start": 7.3,
+      "end": 7.58
+    },
+    {
+      "word": "bloated",
+      "start": 7.58,
+      "end": 7.84
+    },
+    {
+      "word": "software",
+      "start": 7.84,
+      "end": 8.44
+    },
+    {
+      "word": "just",
+      "start": 8.44,
+      "end": 9.1
+    },
+    {
+      "word": "to",
+      "start": 9.1,
+      "end": 9.28
+    },
+    {
+      "word": "sketch",
+      "start": 9.28,
+      "end": 9.6
+    },
+    {
+      "word": "basic",
+      "start": 9.6,
+      "end": 10.02
+    },
+    {
+      "word": "user",
+      "start": 10.02,
+      "end": 10.38
+    },
+    {
+      "word": "flows",
+      "start": 10.38,
+      "end": 10.72
+    },
+    {
+      "word": "and",
+      "start": 10.72,
+      "end": 11.04
+    },
+    {
+      "word": "system",
+      "start": 11.04,
+      "end": 11.28
+    },
+    {
+      "word": "architectures.",
+      "start": 11.28,
+      "end": 11.84
+    },
+    {
+      "word": "Those",
+      "start": 12.36,
+      "end": 12.62
+    },
+    {
+      "word": "platforms",
+      "start": 12.62,
+      "end": 13.08
+    },
+    {
+      "word": "restrict",
+      "start": 13.08,
+      "end": 13.68
+    },
+    {
+      "word": "freeboard",
+      "start": 13.68,
+      "end": 14.28
+    },
+    {
+      "word": "counts",
+      "start": 14.28,
+      "end": 14.68
+    },
+    {
+      "word": "and",
+      "start": 14.68,
+      "end": 15.06
+    },
+    {
+      "word": "lock",
+      "start": 15.06,
+      "end": 15.26
+    },
+    {
+      "word": "your",
+      "start": 15.26,
+      "end": 15.58
+    },
+    {
+      "word": "diagrams",
+      "start": 15.58,
+      "end": 15.94
+    },
+    {
+      "word": "behind",
+      "start": 15.94,
+      "end": 16.42
+    },
+    {
+      "word": "proprietary",
+      "start": 16.42,
+      "end": 17.0
+    },
+    {
+      "word": "file",
+      "start": 17.0,
+      "end": 17.48
+    },
+    {
+      "word": "formats.",
+      "start": 17.48,
+      "end": 17.92
+    },
+    {
+      "word": "Excaladraw",
+      "start": 18.66,
+      "end": 19.22
+    },
+    {
+      "word": "offers",
+      "start": 19.22,
+      "end": 19.6
+    },
+    {
+      "word": "an",
+      "start": 19.6,
+      "end": 19.9
+    },
+    {
+      "word": "open",
+      "start": 19.9,
+      "end": 20.18
+    },
+    {
+      "word": "source",
+      "start": 20.18,
+      "end": 20.58
+    },
+    {
+      "word": "whiteboard",
+      "start": 20.58,
+      "end": 21.18
+    },
+    {
+      "word": "featuring",
+      "start": 21.18,
+      "end": 21.6
+    },
+    {
+      "word": "real",
+      "start": 21.6,
+      "end": 22.04
+    },
+    {
+      "word": "-time",
+      "start": 22.04,
+      "end": 22.38
+    },
+    {
+      "word": "encrypted",
+      "start": 22.38,
+      "end": 22.88
+    },
+    {
+      "word": "collaboration",
+      "start": 22.88,
+      "end": 23.58
+    },
+    {
+      "word": "and",
+      "start": 23.58,
+      "end": 24.28
+    },
+    {
+      "word": "instant",
+      "start": 24.28,
+      "end": 24.56
+    },
+    {
+      "word": "vector",
+      "start": 24.56,
+      "end": 24.94
+    },
+    {
+      "word": "exports.",
+      "start": 24.94,
+      "end": 25.48
+    },
+    {
+      "word": "You",
+      "start": 25.48,
+      "end": 26.24
+    },
+    {
+      "word": "eliminate",
+      "start": 26.24,
+      "end": 26.52
+    },
+    {
+      "word": "software",
+      "start": 26.52,
+      "end": 27.02
+    },
+    {
+      "word": "costs",
+      "start": 27.02,
+      "end": 27.54
+    },
+    {
+      "word": "while",
+      "start": 27.54,
+      "end": 27.86
+    },
+    {
+      "word": "speeding",
+      "start": 27.86,
+      "end": 28.12
+    },
+    {
+      "word": "up",
+      "start": 28.12,
+      "end": 28.4
+    },
+    {
+      "word": "planning.",
+      "start": 28.4,
+      "end": 28.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop paying for Miro or Lucidchart when this free tool does 90 percent of the job.",
+      "line2": "FREE VIRTUAL WHITEBOARD",
+      "tag": "\ud83d\uded1 Excalidraw",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Excalidraw",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Excalidraw",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Excalidraw",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

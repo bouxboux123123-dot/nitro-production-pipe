@@ -1,0 +1,396 @@
+{
+  "page": "page-08",
+  "idea": "How to turn any website into a standalone desktop app on your computer",
+  "text": "Keep your favorite daily web apps organized right on your computer taskbar for instant access. Leaving Slack, Notion, and Gmail buried behind browser tabs forces you to hunt across windows. Trapping daily tools inside browser tabs causes missed client messages and accidental window closures. Click your browser settings, select Install Site as App, and pin the new desktop shortcut. You separate daily work from browser clutter effortlessly.",
+  "duration": 24.875,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Keep",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "your",
+      "start": 0.18,
+      "end": 0.64
+    },
+    {
+      "word": "favorite",
+      "start": 0.64,
+      "end": 0.66
+    },
+    {
+      "word": "daily",
+      "start": 0.66,
+      "end": 0.94
+    },
+    {
+      "word": "web",
+      "start": 0.94,
+      "end": 1.22
+    },
+    {
+      "word": "apps",
+      "start": 1.22,
+      "end": 1.42
+    },
+    {
+      "word": "organized",
+      "start": 1.42,
+      "end": 1.98
+    },
+    {
+      "word": "right",
+      "start": 1.98,
+      "end": 2.32
+    },
+    {
+      "word": "on",
+      "start": 2.32,
+      "end": 2.44
+    },
+    {
+      "word": "your",
+      "start": 2.44,
+      "end": 2.94
+    },
+    {
+      "word": "computer",
+      "start": 2.94,
+      "end": 2.94
+    },
+    {
+      "word": "taskbar",
+      "start": 2.94,
+      "end": 3.54
+    },
+    {
+      "word": "for",
+      "start": 3.54,
+      "end": 3.78
+    },
+    {
+      "word": "instant",
+      "start": 3.78,
+      "end": 4.04
+    },
+    {
+      "word": "access.",
+      "start": 4.04,
+      "end": 4.62
+    },
+    {
+      "word": "Leaving",
+      "start": 5.1,
+      "end": 5.36
+    },
+    {
+      "word": "Slack,",
+      "start": 5.36,
+      "end": 5.82
+    },
+    {
+      "word": "Notion,",
+      "start": 6.04,
+      "end": 6.32
+    },
+    {
+      "word": "and",
+      "start": 6.42,
+      "end": 6.54
+    },
+    {
+      "word": "Gmail",
+      "start": 6.54,
+      "end": 6.88
+    },
+    {
+      "word": "buried",
+      "start": 6.88,
+      "end": 7.34
+    },
+    {
+      "word": "behind",
+      "start": 7.34,
+      "end": 7.68
+    },
+    {
+      "word": "browser",
+      "start": 7.68,
+      "end": 8.02
+    },
+    {
+      "word": "tabs",
+      "start": 8.02,
+      "end": 8.42
+    },
+    {
+      "word": "forces",
+      "start": 8.42,
+      "end": 8.8
+    },
+    {
+      "word": "you",
+      "start": 8.8,
+      "end": 9.08
+    },
+    {
+      "word": "to",
+      "start": 9.08,
+      "end": 9.22
+    },
+    {
+      "word": "hunt",
+      "start": 9.22,
+      "end": 9.32
+    },
+    {
+      "word": "across",
+      "start": 9.32,
+      "end": 9.66
+    },
+    {
+      "word": "windows.",
+      "start": 9.66,
+      "end": 10.14
+    },
+    {
+      "word": "Trapping",
+      "start": 10.82,
+      "end": 11.0
+    },
+    {
+      "word": "daily",
+      "start": 11.0,
+      "end": 11.26
+    },
+    {
+      "word": "tools",
+      "start": 11.26,
+      "end": 11.6
+    },
+    {
+      "word": "inside",
+      "start": 11.6,
+      "end": 12.08
+    },
+    {
+      "word": "browser",
+      "start": 12.08,
+      "end": 12.36
+    },
+    {
+      "word": "tabs",
+      "start": 12.36,
+      "end": 12.84
+    },
+    {
+      "word": "causes",
+      "start": 12.84,
+      "end": 13.22
+    },
+    {
+      "word": "missed",
+      "start": 13.22,
+      "end": 13.58
+    },
+    {
+      "word": "client",
+      "start": 13.58,
+      "end": 13.9
+    },
+    {
+      "word": "messages",
+      "start": 13.9,
+      "end": 14.32
+    },
+    {
+      "word": "and",
+      "start": 14.32,
+      "end": 14.72
+    },
+    {
+      "word": "accidental",
+      "start": 14.72,
+      "end": 15.1
+    },
+    {
+      "word": "window",
+      "start": 15.1,
+      "end": 15.54
+    },
+    {
+      "word": "closures.",
+      "start": 15.54,
+      "end": 15.96
+    },
+    {
+      "word": "Click",
+      "start": 16.56,
+      "end": 16.72
+    },
+    {
+      "word": "your",
+      "start": 16.72,
+      "end": 17.24
+    },
+    {
+      "word": "browser",
+      "start": 17.24,
+      "end": 17.24
+    },
+    {
+      "word": "settings,",
+      "start": 17.24,
+      "end": 17.7
+    },
+    {
+      "word": "select",
+      "start": 18.4,
+      "end": 18.44
+    },
+    {
+      "word": "install",
+      "start": 18.44,
+      "end": 18.9
+    },
+    {
+      "word": "site",
+      "start": 18.9,
+      "end": 19.26
+    },
+    {
+      "word": "as",
+      "start": 19.26,
+      "end": 19.52
+    },
+    {
+      "word": "app,",
+      "start": 19.52,
+      "end": 19.88
+    },
+    {
+      "word": "and",
+      "start": 20.1,
+      "end": 20.24
+    },
+    {
+      "word": "pin",
+      "start": 20.24,
+      "end": 20.38
+    },
+    {
+      "word": "the",
+      "start": 20.38,
+      "end": 20.64
+    },
+    {
+      "word": "new",
+      "start": 20.64,
+      "end": 20.76
+    },
+    {
+      "word": "desktop",
+      "start": 20.76,
+      "end": 21.06
+    },
+    {
+      "word": "shortcut.",
+      "start": 21.06,
+      "end": 21.56
+    },
+    {
+      "word": "You",
+      "start": 22.18,
+      "end": 22.34
+    },
+    {
+      "word": "separate",
+      "start": 22.34,
+      "end": 22.66
+    },
+    {
+      "word": "daily",
+      "start": 22.66,
+      "end": 23.0
+    },
+    {
+      "word": "work",
+      "start": 23.0,
+      "end": 23.26
+    },
+    {
+      "word": "from",
+      "start": 23.26,
+      "end": 23.5
+    },
+    {
+      "word": "browser",
+      "start": 23.5,
+      "end": 23.88
+    },
+    {
+      "word": "clutter",
+      "start": 23.88,
+      "end": 24.26
+    },
+    {
+      "word": "effortlessly.",
+      "start": 24.26,
+      "end": 24.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Keep your favorite daily web apps organized right on your computer taskbar.",
+      "line2": "TURN WEBSITES INTO APPS",
+      "tag": "\ud83d\uded1 How to turn any website into a standalone desktop app on your computer",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to turn any website into a standalone desktop app on your computer",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to turn any website into a standalone desktop app on your computer",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

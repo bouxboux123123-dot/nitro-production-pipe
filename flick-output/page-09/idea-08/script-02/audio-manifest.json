@@ -1,0 +1,386 @@
+{
+  "page": "page-09",
+  "idea": "Airtable vs Google Sheets: when do you actually need a relational database",
+  "text": "The exact moment your Google Sheet becomes too messy and needs Airtable relationships. Operators constantly paste customer details across multiple tabs, resulting in outdated records and mismatched data. Spreadsheets lack relational linking, meaning a single typo silently destroys pipeline accuracy across the entire company. Convert those rows into Airtable linked records to sync customer profiles across every project view automatically. You eliminate manual reconciliation forever.",
+  "duration": 30.586,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "exact",
+      "start": 0.22,
+      "end": 0.62
+    },
+    {
+      "word": "moment",
+      "start": 0.62,
+      "end": 0.94
+    },
+    {
+      "word": "your",
+      "start": 0.94,
+      "end": 1.18
+    },
+    {
+      "word": "Google",
+      "start": 1.18,
+      "end": 1.5
+    },
+    {
+      "word": "Sheet",
+      "start": 1.5,
+      "end": 1.8
+    },
+    {
+      "word": "becomes",
+      "start": 1.8,
+      "end": 2.18
+    },
+    {
+      "word": "too",
+      "start": 2.18,
+      "end": 2.5
+    },
+    {
+      "word": "messy",
+      "start": 2.5,
+      "end": 2.84
+    },
+    {
+      "word": "and",
+      "start": 2.84,
+      "end": 3.32
+    },
+    {
+      "word": "needs",
+      "start": 3.32,
+      "end": 3.66
+    },
+    {
+      "word": "irritable",
+      "start": 3.66,
+      "end": 4.06
+    },
+    {
+      "word": "relationships.",
+      "start": 4.06,
+      "end": 4.86
+    },
+    {
+      "word": "Operators",
+      "start": 5.56,
+      "end": 6.02
+    },
+    {
+      "word": "constantly",
+      "start": 6.02,
+      "end": 6.62
+    },
+    {
+      "word": "paste",
+      "start": 6.62,
+      "end": 7.02
+    },
+    {
+      "word": "customer",
+      "start": 7.02,
+      "end": 7.46
+    },
+    {
+      "word": "details",
+      "start": 7.46,
+      "end": 7.98
+    },
+    {
+      "word": "across",
+      "start": 7.98,
+      "end": 8.44
+    },
+    {
+      "word": "multiple",
+      "start": 8.44,
+      "end": 8.84
+    },
+    {
+      "word": "tabs,",
+      "start": 8.84,
+      "end": 9.4
+    },
+    {
+      "word": "resulting",
+      "start": 9.88,
+      "end": 10.14
+    },
+    {
+      "word": "in",
+      "start": 10.14,
+      "end": 10.46
+    },
+    {
+      "word": "outdated",
+      "start": 10.46,
+      "end": 10.88
+    },
+    {
+      "word": "records",
+      "start": 10.88,
+      "end": 11.4
+    },
+    {
+      "word": "and",
+      "start": 11.4,
+      "end": 11.72
+    },
+    {
+      "word": "mismatch",
+      "start": 11.72,
+      "end": 12.06
+    },
+    {
+      "word": "data.",
+      "start": 12.06,
+      "end": 12.56
+    },
+    {
+      "word": "Spreadsheets",
+      "start": 12.92,
+      "end": 13.4
+    },
+    {
+      "word": "lack",
+      "start": 13.4,
+      "end": 13.72
+    },
+    {
+      "word": "relational",
+      "start": 13.72,
+      "end": 14.26
+    },
+    {
+      "word": "linking,",
+      "start": 14.26,
+      "end": 14.78
+    },
+    {
+      "word": "meaning",
+      "start": 15.06,
+      "end": 15.3
+    },
+    {
+      "word": "a",
+      "start": 15.3,
+      "end": 15.56
+    },
+    {
+      "word": "single",
+      "start": 15.56,
+      "end": 15.84
+    },
+    {
+      "word": "typo",
+      "start": 15.84,
+      "end": 16.26
+    },
+    {
+      "word": "silently",
+      "start": 16.26,
+      "end": 16.86
+    },
+    {
+      "word": "destroys",
+      "start": 16.86,
+      "end": 17.42
+    },
+    {
+      "word": "pipeline",
+      "start": 17.42,
+      "end": 18.0
+    },
+    {
+      "word": "accuracy",
+      "start": 18.0,
+      "end": 18.58
+    },
+    {
+      "word": "across",
+      "start": 18.58,
+      "end": 19.08
+    },
+    {
+      "word": "the",
+      "start": 19.08,
+      "end": 19.38
+    },
+    {
+      "word": "entire",
+      "start": 19.38,
+      "end": 19.74
+    },
+    {
+      "word": "company.",
+      "start": 19.74,
+      "end": 20.36
+    },
+    {
+      "word": "Convert",
+      "start": 20.92,
+      "end": 21.02
+    },
+    {
+      "word": "those",
+      "start": 21.02,
+      "end": 21.52
+    },
+    {
+      "word": "rows",
+      "start": 21.52,
+      "end": 21.9
+    },
+    {
+      "word": "into",
+      "start": 21.9,
+      "end": 22.22
+    },
+    {
+      "word": "irritable",
+      "start": 22.22,
+      "end": 22.68
+    },
+    {
+      "word": "linked",
+      "start": 22.68,
+      "end": 22.96
+    },
+    {
+      "word": "records",
+      "start": 22.96,
+      "end": 23.32
+    },
+    {
+      "word": "to",
+      "start": 23.32,
+      "end": 23.82
+    },
+    {
+      "word": "sync",
+      "start": 23.82,
+      "end": 24.14
+    },
+    {
+      "word": "customer",
+      "start": 24.14,
+      "end": 24.6
+    },
+    {
+      "word": "profiles",
+      "start": 24.6,
+      "end": 25.08
+    },
+    {
+      "word": "across",
+      "start": 25.08,
+      "end": 25.6
+    },
+    {
+      "word": "every",
+      "start": 25.6,
+      "end": 25.92
+    },
+    {
+      "word": "project",
+      "start": 25.92,
+      "end": 26.36
+    },
+    {
+      "word": "view",
+      "start": 26.36,
+      "end": 26.74
+    },
+    {
+      "word": "automatically.",
+      "start": 26.74,
+      "end": 27.28
+    },
+    {
+      "word": "You",
+      "start": 27.28,
+      "end": 28.1
+    },
+    {
+      "word": "eliminate",
+      "start": 28.1,
+      "end": 28.6
+    },
+    {
+      "word": "manual",
+      "start": 28.6,
+      "end": 29.2
+    },
+    {
+      "word": "reconciliation",
+      "start": 29.2,
+      "end": 29.94
+    },
+    {
+      "word": "forever.",
+      "start": 29.94,
+      "end": 30.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The exact moment your Google Sheet becomes too messy and needs Airtable relationships.",
+      "line2": "AIRTABLE VS GOOGLE SHEETS",
+      "tag": "\ud83d\uded1 Airtable vs Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Airtable vs Google Sheets",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Airtable vs Google Sheets",
+        "subtitle": "Airtable vs Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Airtable vs Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Airtable vs Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Airtable vs Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

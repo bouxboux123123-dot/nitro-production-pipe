@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "How to compress massive PDF files so they can be emailed easily",
+  "text": "Here is the ten-second fix for PDF files that exceed email attachment limits. Watching your email client reject a file transfer when you are racing against a deadline hurts. Most email services strictly cap outgoing attachments at twenty or twenty-five megabytes per message. Drag your oversized PDF into iLovePDF to compress the document into a lightweight, shareable format. Your email sends on the first try every time.",
+  "duration": 24.896,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "is",
+      "start": 0.18,
+      "end": 0.34
+    },
+    {
+      "word": "the",
+      "start": 0.34,
+      "end": 0.5
+    },
+    {
+      "word": "10",
+      "start": 0.5,
+      "end": 0.68
+    },
+    {
+      "word": "second",
+      "start": 0.68,
+      "end": 0.94
+    },
+    {
+      "word": "fix",
+      "start": 0.94,
+      "end": 1.2
+    },
+    {
+      "word": "for",
+      "start": 1.2,
+      "end": 1.48
+    },
+    {
+      "word": "PDF",
+      "start": 1.48,
+      "end": 1.8
+    },
+    {
+      "word": "files",
+      "start": 1.8,
+      "end": 2.3
+    },
+    {
+      "word": "that",
+      "start": 2.3,
+      "end": 2.58
+    },
+    {
+      "word": "exceed",
+      "start": 2.58,
+      "end": 2.86
+    },
+    {
+      "word": "email",
+      "start": 2.86,
+      "end": 3.3
+    },
+    {
+      "word": "attachment",
+      "start": 3.3,
+      "end": 3.84
+    },
+    {
+      "word": "limits.",
+      "start": 3.84,
+      "end": 4.26
+    },
+    {
+      "word": "Watching",
+      "start": 4.76,
+      "end": 5.0
+    },
+    {
+      "word": "your",
+      "start": 5.0,
+      "end": 5.3
+    },
+    {
+      "word": "email",
+      "start": 5.3,
+      "end": 5.62
+    },
+    {
+      "word": "client",
+      "start": 5.62,
+      "end": 5.96
+    },
+    {
+      "word": "reject",
+      "start": 5.96,
+      "end": 6.28
+    },
+    {
+      "word": "a",
+      "start": 6.28,
+      "end": 6.52
+    },
+    {
+      "word": "file",
+      "start": 6.52,
+      "end": 6.74
+    },
+    {
+      "word": "transfer",
+      "start": 6.74,
+      "end": 7.18
+    },
+    {
+      "word": "when",
+      "start": 7.18,
+      "end": 7.6
+    },
+    {
+      "word": "you",
+      "start": 7.6,
+      "end": 7.74
+    },
+    {
+      "word": "are",
+      "start": 7.74,
+      "end": 7.86
+    },
+    {
+      "word": "racing",
+      "start": 7.86,
+      "end": 8.1
+    },
+    {
+      "word": "against",
+      "start": 8.1,
+      "end": 8.46
+    },
+    {
+      "word": "a",
+      "start": 8.46,
+      "end": 8.62
+    },
+    {
+      "word": "deadline",
+      "start": 8.62,
+      "end": 8.86
+    },
+    {
+      "word": "hurts.",
+      "start": 8.86,
+      "end": 9.44
+    },
+    {
+      "word": "Most",
+      "start": 9.9,
+      "end": 10.16
+    },
+    {
+      "word": "email",
+      "start": 10.16,
+      "end": 10.46
+    },
+    {
+      "word": "services",
+      "start": 10.46,
+      "end": 10.9
+    },
+    {
+      "word": "strictly",
+      "start": 10.9,
+      "end": 11.34
+    },
+    {
+      "word": "cap",
+      "start": 11.34,
+      "end": 11.62
+    },
+    {
+      "word": "out",
+      "start": 11.62,
+      "end": 11.86
+    },
+    {
+      "word": "going",
+      "start": 11.86,
+      "end": 12.12
+    },
+    {
+      "word": "attachments",
+      "start": 12.12,
+      "end": 12.58
+    },
+    {
+      "word": "at",
+      "start": 12.58,
+      "end": 13.0
+    },
+    {
+      "word": "20",
+      "start": 13.0,
+      "end": 13.12
+    },
+    {
+      "word": "or",
+      "start": 13.12,
+      "end": 13.4
+    },
+    {
+      "word": "25",
+      "start": 13.4,
+      "end": 13.88
+    },
+    {
+      "word": "megabytes",
+      "start": 13.88,
+      "end": 14.36
+    },
+    {
+      "word": "per",
+      "start": 14.36,
+      "end": 14.64
+    },
+    {
+      "word": "message.",
+      "start": 14.64,
+      "end": 14.98
+    },
+    {
+      "word": "Drag",
+      "start": 15.52,
+      "end": 15.76
+    },
+    {
+      "word": "your",
+      "start": 15.76,
+      "end": 16.12
+    },
+    {
+      "word": "oversized",
+      "start": 16.12,
+      "end": 16.52
+    },
+    {
+      "word": "PDF",
+      "start": 16.52,
+      "end": 17.08
+    },
+    {
+      "word": "into",
+      "start": 17.08,
+      "end": 17.5
+    },
+    {
+      "word": "I",
+      "start": 17.5,
+      "end": 17.76
+    },
+    {
+      "word": "Love",
+      "start": 17.76,
+      "end": 18.04
+    },
+    {
+      "word": "PDF",
+      "start": 18.04,
+      "end": 18.5
+    },
+    {
+      "word": "to",
+      "start": 18.5,
+      "end": 19.04
+    },
+    {
+      "word": "compress",
+      "start": 19.04,
+      "end": 19.34
+    },
+    {
+      "word": "the",
+      "start": 19.34,
+      "end": 19.7
+    },
+    {
+      "word": "document",
+      "start": 19.7,
+      "end": 19.96
+    },
+    {
+      "word": "into",
+      "start": 19.96,
+      "end": 20.3
+    },
+    {
+      "word": "a",
+      "start": 20.3,
+      "end": 20.48
+    },
+    {
+      "word": "lightweight,",
+      "start": 20.48,
+      "end": 20.86
+    },
+    {
+      "word": "shareable",
+      "start": 21.08,
+      "end": 21.54
+    },
+    {
+      "word": "format.",
+      "start": 21.54,
+      "end": 21.86
+    },
+    {
+      "word": "Your",
+      "start": 22.46,
+      "end": 22.68
+    },
+    {
+      "word": "email",
+      "start": 22.68,
+      "end": 22.96
+    },
+    {
+      "word": "sends",
+      "start": 22.96,
+      "end": 23.32
+    },
+    {
+      "word": "on",
+      "start": 23.32,
+      "end": 23.54
+    },
+    {
+      "word": "the",
+      "start": 23.54,
+      "end": 23.68
+    },
+    {
+      "word": "first",
+      "start": 23.68,
+      "end": 23.92
+    },
+    {
+      "word": "try",
+      "start": 23.92,
+      "end": 24.24
+    },
+    {
+      "word": "every",
+      "start": 24.24,
+      "end": 24.5
+    },
+    {
+      "word": "time.",
+      "start": 24.5,
+      "end": 24.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The 10-second fix for PDF files that exceed email attachment limits.",
+      "line2": "COMPRESS LARGE PDF FILES",
+      "tag": "\ud83d\uded1 How to compress massive PDF files so they can be emailed easily",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to compress massive PDF files so they can be emailed easily",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to compress massive PDF files so they can be emailed easily",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

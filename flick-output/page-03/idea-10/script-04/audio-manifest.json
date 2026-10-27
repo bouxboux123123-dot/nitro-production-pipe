@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated review collector that emails customers 3 days after delivery",
+  "text": "How automated customer follow-ups doubled my store's positive review count. Relying on shoppers to spontaneously return and review your products leaves your product pages looking abandoned. Generic blasting emails sent immediately at checkout annoy customers who have not even unpacked their shipment yet. Instead, sync your order status in Klaviyo to send a gentle photo incentive exactly three days post-delivery. You turn casual buyers into loyal brand advocates.",
+  "duration": 28.367,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "automated",
+      "start": 0.34,
+      "end": 0.74
+    },
+    {
+      "word": "customer",
+      "start": 0.74,
+      "end": 1.4
+    },
+    {
+      "word": "follow",
+      "start": 1.4,
+      "end": 1.78
+    },
+    {
+      "word": "-ups",
+      "start": 1.78,
+      "end": 2.06
+    },
+    {
+      "word": "doubled",
+      "start": 2.06,
+      "end": 2.44
+    },
+    {
+      "word": "my",
+      "start": 2.44,
+      "end": 2.74
+    },
+    {
+      "word": "store's",
+      "start": 2.74,
+      "end": 3.4
+    },
+    {
+      "word": "positive",
+      "start": 3.4,
+      "end": 3.68
+    },
+    {
+      "word": "review",
+      "start": 3.68,
+      "end": 4.04
+    },
+    {
+      "word": "count.",
+      "start": 4.04,
+      "end": 4.62
+    },
+    {
+      "word": "Relying",
+      "start": 5.0,
+      "end": 5.3
+    },
+    {
+      "word": "on",
+      "start": 5.3,
+      "end": 5.6
+    },
+    {
+      "word": "shoppers",
+      "start": 5.6,
+      "end": 5.92
+    },
+    {
+      "word": "to",
+      "start": 5.92,
+      "end": 6.36
+    },
+    {
+      "word": "spontaneously",
+      "start": 6.36,
+      "end": 6.84
+    },
+    {
+      "word": "return",
+      "start": 6.84,
+      "end": 7.54
+    },
+    {
+      "word": "and",
+      "start": 7.54,
+      "end": 8.04
+    },
+    {
+      "word": "review",
+      "start": 8.04,
+      "end": 8.24
+    },
+    {
+      "word": "your",
+      "start": 8.24,
+      "end": 8.84
+    },
+    {
+      "word": "products",
+      "start": 8.84,
+      "end": 8.84
+    },
+    {
+      "word": "leaves",
+      "start": 8.84,
+      "end": 9.2
+    },
+    {
+      "word": "your",
+      "start": 9.2,
+      "end": 9.5
+    },
+    {
+      "word": "product",
+      "start": 9.5,
+      "end": 9.78
+    },
+    {
+      "word": "pages",
+      "start": 9.78,
+      "end": 10.16
+    },
+    {
+      "word": "looking",
+      "start": 10.16,
+      "end": 10.52
+    },
+    {
+      "word": "abandoned.",
+      "start": 10.52,
+      "end": 11.12
+    },
+    {
+      "word": "Generic",
+      "start": 11.9,
+      "end": 11.9
+    },
+    {
+      "word": "blasting",
+      "start": 11.9,
+      "end": 12.38
+    },
+    {
+      "word": "emails",
+      "start": 12.38,
+      "end": 12.84
+    },
+    {
+      "word": "sent",
+      "start": 12.84,
+      "end": 13.18
+    },
+    {
+      "word": "immediately",
+      "start": 13.18,
+      "end": 13.64
+    },
+    {
+      "word": "at",
+      "start": 13.64,
+      "end": 13.94
+    },
+    {
+      "word": "checkout",
+      "start": 13.94,
+      "end": 14.3
+    },
+    {
+      "word": "annoy",
+      "start": 14.3,
+      "end": 14.66
+    },
+    {
+      "word": "customers",
+      "start": 14.66,
+      "end": 15.24
+    },
+    {
+      "word": "who",
+      "start": 15.24,
+      "end": 15.62
+    },
+    {
+      "word": "have",
+      "start": 15.62,
+      "end": 15.74
+    },
+    {
+      "word": "not",
+      "start": 15.74,
+      "end": 15.92
+    },
+    {
+      "word": "even",
+      "start": 15.92,
+      "end": 16.2
+    },
+    {
+      "word": "unpacked",
+      "start": 16.2,
+      "end": 16.64
+    },
+    {
+      "word": "their",
+      "start": 16.64,
+      "end": 16.9
+    },
+    {
+      "word": "shipment",
+      "start": 16.9,
+      "end": 17.18
+    },
+    {
+      "word": "yet.",
+      "start": 17.18,
+      "end": 17.86
+    },
+    {
+      "word": "Instead,",
+      "start": 18.24,
+      "end": 18.56
+    },
+    {
+      "word": "sink",
+      "start": 19.12,
+      "end": 19.16
+    },
+    {
+      "word": "your",
+      "start": 19.16,
+      "end": 19.4
+    },
+    {
+      "word": "order",
+      "start": 19.4,
+      "end": 19.62
+    },
+    {
+      "word": "status",
+      "start": 19.62,
+      "end": 19.98
+    },
+    {
+      "word": "in",
+      "start": 19.98,
+      "end": 20.22
+    },
+    {
+      "word": "Clavio",
+      "start": 20.22,
+      "end": 20.64
+    },
+    {
+      "word": "to",
+      "start": 20.64,
+      "end": 20.94
+    },
+    {
+      "word": "send",
+      "start": 20.94,
+      "end": 21.12
+    },
+    {
+      "word": "a",
+      "start": 21.12,
+      "end": 21.32
+    },
+    {
+      "word": "gentle",
+      "start": 21.32,
+      "end": 21.66
+    },
+    {
+      "word": "photo",
+      "start": 21.66,
+      "end": 22.08
+    },
+    {
+      "word": "in",
+      "start": 22.08,
+      "end": 22.32
+    },
+    {
+      "word": "sentive",
+      "start": 22.32,
+      "end": 22.76
+    },
+    {
+      "word": "exactly",
+      "start": 22.76,
+      "end": 23.16
+    },
+    {
+      "word": "three",
+      "start": 23.16,
+      "end": 23.58
+    },
+    {
+      "word": "days",
+      "start": 23.58,
+      "end": 23.9
+    },
+    {
+      "word": "post",
+      "start": 23.9,
+      "end": 24.26
+    },
+    {
+      "word": "delivery.",
+      "start": 24.26,
+      "end": 24.62
+    },
+    {
+      "word": "You",
+      "start": 24.62,
+      "end": 25.4
+    },
+    {
+      "word": "turn",
+      "start": 25.4,
+      "end": 25.72
+    },
+    {
+      "word": "casual",
+      "start": 25.72,
+      "end": 26.18
+    },
+    {
+      "word": "buyers",
+      "start": 26.18,
+      "end": 26.62
+    },
+    {
+      "word": "into",
+      "start": 26.62,
+      "end": 26.96
+    },
+    {
+      "word": "loyal",
+      "start": 26.96,
+      "end": 27.36
+    },
+    {
+      "word": "brand",
+      "start": 27.36,
+      "end": 27.72
+    },
+    {
+      "word": "advocates.",
+      "start": 27.72,
+      "end": 28.22
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How automated customer follow-ups doubled my store's positive review count.",
+      "line2": "COLLECT 5-STAR REVIEWS",
+      "tag": "\ud83d\uded1 Automated review collector that emails customers 3 days after delivery",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated review collector that emails customers 3 days after delivery",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated review collector that emails customers 3 days after delivery",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated review collector that emails customers 3 days after delivery",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

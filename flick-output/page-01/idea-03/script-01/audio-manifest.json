@@ -1,0 +1,396 @@
+{
+  "page": "page-01",
+  "idea": "Automated multi-client monthly reporting dashboard using Looker Studio",
+  "text": "How high-ticket agencies turn departing retainer clients into predictable referral engines. When a retainer concludes, most agencies send a quick email and never speak again. Abrupt offboarding leaves relationships cold, missing out on renewals and warm introductions. Instead, trigger an automated HubSpot flow that revokes credentials, delivers final ROI reports, and requests referrals. You turn completed projects into thirty percent more qualified pipeline.",
+  "duration": 28.794,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "high",
+      "start": 0.34,
+      "end": 0.58
+    },
+    {
+      "word": "-ticket",
+      "start": 0.58,
+      "end": 0.84
+    },
+    {
+      "word": "agencies",
+      "start": 0.84,
+      "end": 1.4
+    },
+    {
+      "word": "turn",
+      "start": 1.4,
+      "end": 1.86
+    },
+    {
+      "word": "departing",
+      "start": 1.86,
+      "end": 2.32
+    },
+    {
+      "word": "retainer",
+      "start": 2.32,
+      "end": 2.76
+    },
+    {
+      "word": "clients",
+      "start": 2.76,
+      "end": 3.12
+    },
+    {
+      "word": "into",
+      "start": 3.12,
+      "end": 3.38
+    },
+    {
+      "word": "predictable",
+      "start": 3.38,
+      "end": 3.9
+    },
+    {
+      "word": "referral",
+      "start": 3.9,
+      "end": 4.42
+    },
+    {
+      "word": "engines.",
+      "start": 4.42,
+      "end": 4.96
+    },
+    {
+      "word": "When",
+      "start": 5.54,
+      "end": 5.64
+    },
+    {
+      "word": "a",
+      "start": 5.64,
+      "end": 5.78
+    },
+    {
+      "word": "retainer",
+      "start": 5.78,
+      "end": 6.14
+    },
+    {
+      "word": "concludes,",
+      "start": 6.14,
+      "end": 6.68
+    },
+    {
+      "word": "most",
+      "start": 7.12,
+      "end": 7.4
+    },
+    {
+      "word": "agencies",
+      "start": 7.4,
+      "end": 7.92
+    },
+    {
+      "word": "send",
+      "start": 7.92,
+      "end": 8.24
+    },
+    {
+      "word": "a",
+      "start": 8.24,
+      "end": 8.4
+    },
+    {
+      "word": "quick",
+      "start": 8.4,
+      "end": 8.66
+    },
+    {
+      "word": "email",
+      "start": 8.66,
+      "end": 9.0
+    },
+    {
+      "word": "and",
+      "start": 9.0,
+      "end": 9.3
+    },
+    {
+      "word": "never",
+      "start": 9.3,
+      "end": 9.56
+    },
+    {
+      "word": "speak",
+      "start": 9.56,
+      "end": 9.76
+    },
+    {
+      "word": "again.",
+      "start": 9.76,
+      "end": 10.3
+    },
+    {
+      "word": "A",
+      "start": 10.78,
+      "end": 10.86
+    },
+    {
+      "word": "abrupt",
+      "start": 10.86,
+      "end": 11.08
+    },
+    {
+      "word": "off",
+      "start": 11.08,
+      "end": 11.42
+    },
+    {
+      "word": "-boarding",
+      "start": 11.42,
+      "end": 11.64
+    },
+    {
+      "word": "leaves",
+      "start": 11.64,
+      "end": 12.0
+    },
+    {
+      "word": "relationships",
+      "start": 12.0,
+      "end": 12.72
+    },
+    {
+      "word": "cold,",
+      "start": 12.72,
+      "end": 13.38
+    },
+    {
+      "word": "missing",
+      "start": 13.76,
+      "end": 13.9
+    },
+    {
+      "word": "out",
+      "start": 13.9,
+      "end": 14.18
+    },
+    {
+      "word": "on",
+      "start": 14.18,
+      "end": 14.36
+    },
+    {
+      "word": "renewals",
+      "start": 14.36,
+      "end": 14.86
+    },
+    {
+      "word": "and",
+      "start": 14.86,
+      "end": 15.1
+    },
+    {
+      "word": "warm",
+      "start": 15.1,
+      "end": 15.38
+    },
+    {
+      "word": "introductions.",
+      "start": 15.38,
+      "end": 16.12
+    },
+    {
+      "word": "Instead,",
+      "start": 16.64,
+      "end": 16.9
+    },
+    {
+      "word": "trigger",
+      "start": 17.18,
+      "end": 17.32
+    },
+    {
+      "word": "an",
+      "start": 17.32,
+      "end": 17.58
+    },
+    {
+      "word": "automated",
+      "start": 17.58,
+      "end": 17.94
+    },
+    {
+      "word": "hub",
+      "start": 17.94,
+      "end": 18.3
+    },
+    {
+      "word": "spot",
+      "start": 18.3,
+      "end": 18.66
+    },
+    {
+      "word": "flow",
+      "start": 18.66,
+      "end": 18.88
+    },
+    {
+      "word": "that",
+      "start": 18.88,
+      "end": 19.18
+    },
+    {
+      "word": "revokes",
+      "start": 19.18,
+      "end": 19.52
+    },
+    {
+      "word": "credentials,",
+      "start": 19.52,
+      "end": 20.12
+    },
+    {
+      "word": "delivers",
+      "start": 20.94,
+      "end": 20.94
+    },
+    {
+      "word": "final",
+      "start": 20.94,
+      "end": 21.52
+    },
+    {
+      "word": "ROI",
+      "start": 21.52,
+      "end": 22.26
+    },
+    {
+      "word": "reports,",
+      "start": 22.26,
+      "end": 22.64
+    },
+    {
+      "word": "and",
+      "start": 23.02,
+      "end": 23.28
+    },
+    {
+      "word": "requests",
+      "start": 23.28,
+      "end": 23.56
+    },
+    {
+      "word": "referrals.",
+      "start": 23.56,
+      "end": 24.28
+    },
+    {
+      "word": "You",
+      "start": 24.28,
+      "end": 25.0
+    },
+    {
+      "word": "turn",
+      "start": 25.0,
+      "end": 25.28
+    },
+    {
+      "word": "completed",
+      "start": 25.28,
+      "end": 25.72
+    },
+    {
+      "word": "projects",
+      "start": 25.72,
+      "end": 26.28
+    },
+    {
+      "word": "into",
+      "start": 26.28,
+      "end": 26.6
+    },
+    {
+      "word": "30",
+      "start": 26.6,
+      "end": 27.02
+    },
+    {
+      "word": "%",
+      "start": 27.02,
+      "end": 27.36
+    },
+    {
+      "word": "more",
+      "start": 27.36,
+      "end": 27.64
+    },
+    {
+      "word": "qualified",
+      "start": 27.64,
+      "end": 28.14
+    },
+    {
+      "word": "pipeline.",
+      "start": 28.14,
+      "end": 28.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop having your media buyers waste 2 full days at month-end building client slide decks.",
+      "line2": "AUTOMATE CLIENT REPORTS",
+      "tag": "\ud83d\uded1 Automated multi-client monthly reporting dashboard using Looker Studio",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated multi-client monthly reporting dashboard using Looker Studio",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated multi-client monthly reporting dashboard using Looker Studio",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated multi-client monthly reporting dashboard using Looker Studio",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

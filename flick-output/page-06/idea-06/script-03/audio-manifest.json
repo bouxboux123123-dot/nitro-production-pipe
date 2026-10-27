@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Async decision documentation framework using Github or Notion RFCs",
+  "text": "Stop letting loud voices dominate meetings by switching your organization to written async proposals. Live brainstorming sessions reward confident speakers while silencing introverted engineers with superior technical insights. Key product decisions end up driven by charisma rather than rigorous data or deep edge case analysis. Routing all major proposals through structured GitHub Markdown RFCs levels the playing field for everyone. Your team builds better software with complete transparency.",
+  "duration": 31.077,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "letting",
+      "start": 0.38,
+      "end": 0.7
+    },
+    {
+      "word": "loud",
+      "start": 0.7,
+      "end": 1.08
+    },
+    {
+      "word": "voices",
+      "start": 1.08,
+      "end": 1.54
+    },
+    {
+      "word": "dominate",
+      "start": 1.54,
+      "end": 2.0
+    },
+    {
+      "word": "meetings",
+      "start": 2.0,
+      "end": 2.56
+    },
+    {
+      "word": "by",
+      "start": 2.56,
+      "end": 2.92
+    },
+    {
+      "word": "switching",
+      "start": 2.92,
+      "end": 3.22
+    },
+    {
+      "word": "your",
+      "start": 3.22,
+      "end": 3.54
+    },
+    {
+      "word": "organization",
+      "start": 3.54,
+      "end": 4.08
+    },
+    {
+      "word": "to",
+      "start": 4.08,
+      "end": 4.52
+    },
+    {
+      "word": "written",
+      "start": 4.52,
+      "end": 4.72
+    },
+    {
+      "word": "a",
+      "start": 4.72,
+      "end": 4.92
+    },
+    {
+      "word": "sync",
+      "start": 4.92,
+      "end": 5.1
+    },
+    {
+      "word": "proposals.",
+      "start": 5.1,
+      "end": 5.8
+    },
+    {
+      "word": "Live",
+      "start": 6.82,
+      "end": 6.84
+    },
+    {
+      "word": "brainstorming",
+      "start": 6.84,
+      "end": 7.52
+    },
+    {
+      "word": "sessions",
+      "start": 7.52,
+      "end": 8.06
+    },
+    {
+      "word": "reward",
+      "start": 8.06,
+      "end": 8.6
+    },
+    {
+      "word": "confident",
+      "start": 8.6,
+      "end": 9.06
+    },
+    {
+      "word": "speakers",
+      "start": 9.06,
+      "end": 9.58
+    },
+    {
+      "word": "while",
+      "start": 9.58,
+      "end": 10.2
+    },
+    {
+      "word": "silencing",
+      "start": 10.2,
+      "end": 10.74
+    },
+    {
+      "word": "introverted",
+      "start": 10.74,
+      "end": 11.34
+    },
+    {
+      "word": "engineers",
+      "start": 11.34,
+      "end": 11.76
+    },
+    {
+      "word": "with",
+      "start": 11.76,
+      "end": 12.24
+    },
+    {
+      "word": "superior",
+      "start": 12.24,
+      "end": 12.66
+    },
+    {
+      "word": "technical",
+      "start": 12.66,
+      "end": 13.32
+    },
+    {
+      "word": "insights.",
+      "start": 13.32,
+      "end": 13.84
+    },
+    {
+      "word": "Key",
+      "start": 14.46,
+      "end": 14.48
+    },
+    {
+      "word": "product",
+      "start": 14.48,
+      "end": 14.8
+    },
+    {
+      "word": "decisions",
+      "start": 14.8,
+      "end": 15.32
+    },
+    {
+      "word": "end",
+      "start": 15.32,
+      "end": 15.62
+    },
+    {
+      "word": "up",
+      "start": 15.62,
+      "end": 15.84
+    },
+    {
+      "word": "driven",
+      "start": 15.84,
+      "end": 16.12
+    },
+    {
+      "word": "by",
+      "start": 16.12,
+      "end": 16.42
+    },
+    {
+      "word": "charisma",
+      "start": 16.42,
+      "end": 16.78
+    },
+    {
+      "word": "rather",
+      "start": 16.78,
+      "end": 17.36
+    },
+    {
+      "word": "than",
+      "start": 17.36,
+      "end": 17.56
+    },
+    {
+      "word": "rigorous",
+      "start": 17.56,
+      "end": 17.92
+    },
+    {
+      "word": "data",
+      "start": 17.92,
+      "end": 18.28
+    },
+    {
+      "word": "or",
+      "start": 18.28,
+      "end": 18.82
+    },
+    {
+      "word": "deep",
+      "start": 18.82,
+      "end": 19.16
+    },
+    {
+      "word": "edge",
+      "start": 19.16,
+      "end": 19.44
+    },
+    {
+      "word": "case",
+      "start": 19.44,
+      "end": 19.74
+    },
+    {
+      "word": "analysis.",
+      "start": 19.74,
+      "end": 20.36
+    },
+    {
+      "word": "Routing",
+      "start": 21.04,
+      "end": 21.16
+    },
+    {
+      "word": "all",
+      "start": 21.16,
+      "end": 21.58
+    },
+    {
+      "word": "major",
+      "start": 21.58,
+      "end": 21.86
+    },
+    {
+      "word": "proposals",
+      "start": 21.86,
+      "end": 22.34
+    },
+    {
+      "word": "through",
+      "start": 22.34,
+      "end": 22.84
+    },
+    {
+      "word": "structured",
+      "start": 22.84,
+      "end": 23.28
+    },
+    {
+      "word": "GitHub",
+      "start": 23.28,
+      "end": 23.68
+    },
+    {
+      "word": "Markdown,",
+      "start": 23.68,
+      "end": 24.56
+    },
+    {
+      "word": "RFCs",
+      "start": 24.74,
+      "end": 25.64
+    },
+    {
+      "word": "levels",
+      "start": 25.64,
+      "end": 25.64
+    },
+    {
+      "word": "the",
+      "start": 25.64,
+      "end": 25.94
+    },
+    {
+      "word": "playing",
+      "start": 25.94,
+      "end": 26.26
+    },
+    {
+      "word": "field",
+      "start": 26.26,
+      "end": 26.6
+    },
+    {
+      "word": "for",
+      "start": 26.6,
+      "end": 26.84
+    },
+    {
+      "word": "everyone.",
+      "start": 26.84,
+      "end": 27.3
+    },
+    {
+      "word": "Your",
+      "start": 27.3,
+      "end": 28.06
+    },
+    {
+      "word": "team",
+      "start": 28.06,
+      "end": 28.38
+    },
+    {
+      "word": "builds",
+      "start": 28.38,
+      "end": 28.68
+    },
+    {
+      "word": "better",
+      "start": 28.68,
+      "end": 29.04
+    },
+    {
+      "word": "software",
+      "start": 29.04,
+      "end": 29.46
+    },
+    {
+      "word": "with",
+      "start": 29.46,
+      "end": 29.92
+    },
+    {
+      "word": "complete",
+      "start": 29.92,
+      "end": 30.24
+    },
+    {
+      "word": "transparency.",
+      "start": 30.24,
+      "end": 30.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop letting loud voices dominate meetings: switch to written async proposals.",
+      "line2": "ASYNC DECISION FRAMEWORK",
+      "tag": "\ud83d\uded1 Async decision documentation framework using Github or Notion RFCs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

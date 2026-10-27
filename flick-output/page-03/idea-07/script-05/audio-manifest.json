@@ -1,0 +1,406 @@
+{
+  "page": "page-03",
+  "idea": "Automated bookkeeper that tracks side hustle income vs expenses",
+  "text": "The automated accounting setup every side hustler needs on day one. Waiting until your store hits five figures to organize finances guarantees weeks of painful spreadsheet triage later. Mixing personal and business capital pierces liability shields and turns tax audits into an absolute nightmare. Route bank transactions into Wave accounting via automated webhooks, setting aside twenty-five percent for taxes automatically. You protect your business profits from costly compliance fines.",
+  "duration": 29.541,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "automated",
+      "start": 0.22,
+      "end": 0.56
+    },
+    {
+      "word": "accounting",
+      "start": 0.56,
+      "end": 1.08
+    },
+    {
+      "word": "setup,",
+      "start": 1.08,
+      "end": 1.44
+    },
+    {
+      "word": "every",
+      "start": 1.64,
+      "end": 1.94
+    },
+    {
+      "word": "side",
+      "start": 1.94,
+      "end": 2.26
+    },
+    {
+      "word": "hustler",
+      "start": 2.26,
+      "end": 2.58
+    },
+    {
+      "word": "needs",
+      "start": 2.58,
+      "end": 2.86
+    },
+    {
+      "word": "on",
+      "start": 2.86,
+      "end": 3.1
+    },
+    {
+      "word": "day",
+      "start": 3.1,
+      "end": 3.3
+    },
+    {
+      "word": "one.",
+      "start": 3.3,
+      "end": 3.9
+    },
+    {
+      "word": "Waiting",
+      "start": 4.42,
+      "end": 4.42
+    },
+    {
+      "word": "until",
+      "start": 4.42,
+      "end": 4.72
+    },
+    {
+      "word": "your",
+      "start": 4.72,
+      "end": 4.9
+    },
+    {
+      "word": "store",
+      "start": 4.9,
+      "end": 5.18
+    },
+    {
+      "word": "hits",
+      "start": 5.18,
+      "end": 5.46
+    },
+    {
+      "word": "five",
+      "start": 5.46,
+      "end": 5.86
+    },
+    {
+      "word": "figures",
+      "start": 5.86,
+      "end": 6.1
+    },
+    {
+      "word": "to",
+      "start": 6.1,
+      "end": 6.52
+    },
+    {
+      "word": "organize",
+      "start": 6.52,
+      "end": 6.84
+    },
+    {
+      "word": "finances,",
+      "start": 6.84,
+      "end": 7.56
+    },
+    {
+      "word": "guarantees",
+      "start": 8.16,
+      "end": 8.32
+    },
+    {
+      "word": "weeks",
+      "start": 8.32,
+      "end": 8.82
+    },
+    {
+      "word": "of",
+      "start": 8.82,
+      "end": 9.16
+    },
+    {
+      "word": "painful",
+      "start": 9.16,
+      "end": 9.42
+    },
+    {
+      "word": "spreadsheet",
+      "start": 9.42,
+      "end": 9.92
+    },
+    {
+      "word": "triage",
+      "start": 9.92,
+      "end": 10.52
+    },
+    {
+      "word": "later.",
+      "start": 10.52,
+      "end": 10.92
+    },
+    {
+      "word": "Mixing",
+      "start": 11.58,
+      "end": 11.86
+    },
+    {
+      "word": "personal",
+      "start": 11.86,
+      "end": 12.28
+    },
+    {
+      "word": "and",
+      "start": 12.28,
+      "end": 12.52
+    },
+    {
+      "word": "business",
+      "start": 12.52,
+      "end": 12.86
+    },
+    {
+      "word": "capital",
+      "start": 12.86,
+      "end": 13.28
+    },
+    {
+      "word": "pierces",
+      "start": 13.28,
+      "end": 13.72
+    },
+    {
+      "word": "liability",
+      "start": 13.72,
+      "end": 14.32
+    },
+    {
+      "word": "shields",
+      "start": 14.32,
+      "end": 14.86
+    },
+    {
+      "word": "and",
+      "start": 14.86,
+      "end": 15.16
+    },
+    {
+      "word": "turns,",
+      "start": 15.16,
+      "end": 15.54
+    },
+    {
+      "word": "tax",
+      "start": 15.76,
+      "end": 16.1
+    },
+    {
+      "word": "audits",
+      "start": 16.1,
+      "end": 16.42
+    },
+    {
+      "word": "into",
+      "start": 16.42,
+      "end": 16.7
+    },
+    {
+      "word": "an",
+      "start": 16.7,
+      "end": 16.94
+    },
+    {
+      "word": "absolute",
+      "start": 16.94,
+      "end": 17.3
+    },
+    {
+      "word": "nightmare.",
+      "start": 17.3,
+      "end": 17.84
+    },
+    {
+      "word": "Route",
+      "start": 18.46,
+      "end": 18.5
+    },
+    {
+      "word": "bank",
+      "start": 18.5,
+      "end": 18.8
+    },
+    {
+      "word": "transactions",
+      "start": 18.8,
+      "end": 19.36
+    },
+    {
+      "word": "into",
+      "start": 19.36,
+      "end": 19.76
+    },
+    {
+      "word": "wave",
+      "start": 19.76,
+      "end": 19.98
+    },
+    {
+      "word": "accounting",
+      "start": 19.98,
+      "end": 20.52
+    },
+    {
+      "word": "via",
+      "start": 20.52,
+      "end": 21.04
+    },
+    {
+      "word": "automated",
+      "start": 21.04,
+      "end": 21.52
+    },
+    {
+      "word": "webhooks,",
+      "start": 21.52,
+      "end": 22.48
+    },
+    {
+      "word": "setting",
+      "start": 22.66,
+      "end": 22.68
+    },
+    {
+      "word": "aside",
+      "start": 22.68,
+      "end": 23.16
+    },
+    {
+      "word": "25",
+      "start": 23.16,
+      "end": 23.78
+    },
+    {
+      "word": "%",
+      "start": 23.78,
+      "end": 24.28
+    },
+    {
+      "word": "for",
+      "start": 24.28,
+      "end": 24.5
+    },
+    {
+      "word": "taxes",
+      "start": 24.5,
+      "end": 24.92
+    },
+    {
+      "word": "automatically.",
+      "start": 24.92,
+      "end": 25.52
+    },
+    {
+      "word": "You",
+      "start": 25.52,
+      "end": 26.28
+    },
+    {
+      "word": "protect",
+      "start": 26.28,
+      "end": 26.64
+    },
+    {
+      "word": "your",
+      "start": 26.64,
+      "end": 27.1
+    },
+    {
+      "word": "business",
+      "start": 27.1,
+      "end": 27.22
+    },
+    {
+      "word": "profits",
+      "start": 27.22,
+      "end": 27.56
+    },
+    {
+      "word": "from",
+      "start": 27.56,
+      "end": 27.98
+    },
+    {
+      "word": "costly",
+      "start": 27.98,
+      "end": 28.38
+    },
+    {
+      "word": "compliance",
+      "start": 28.38,
+      "end": 28.98
+    },
+    {
+      "word": "fines.",
+      "start": 28.98,
+      "end": 29.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The automated accounting setup every side hustler needs on day one.",
+      "line2": "TRACK HUSTLE EXPENSES",
+      "tag": "\ud83d\uded1 Automated bookkeeper that tracks side hustle income vs expenses",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated bookkeeper that tracks side hustle income vs expenses",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated bookkeeper that tracks side hustle income vs expenses",
+        "subtitle": "Automated bookkeeper that tracks side hustle income vs expenses"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated bookkeeper that tracks side hustle income vs expenses"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated bookkeeper that tracks side hustle income vs expenses"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated bookkeeper that tracks side hustle income vs expenses",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

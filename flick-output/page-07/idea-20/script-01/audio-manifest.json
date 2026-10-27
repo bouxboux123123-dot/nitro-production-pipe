@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Automated customer testimonial widget that embeds live on sales pages",
+  "text": "Turn genuine customer praise from Slack and Twitter into dynamic website social proof. Happy users leave glowing reviews across social media, but marketing teams rarely capture them systematically. Letting testimonials get buried means your landing page fails to convert skeptical visitors who need reassurance. Use Senja to pull customer shoutouts from Twitter and Slack into an embeddable wall of love. This lifts website conversion rates by thirty percent.",
+  "duration": 25.771,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "turn",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "genuine",
+      "start": 0.38,
+      "end": 0.78
+    },
+    {
+      "word": "customer",
+      "start": 0.78,
+      "end": 1.26
+    },
+    {
+      "word": "praise",
+      "start": 1.26,
+      "end": 1.54
+    },
+    {
+      "word": "from",
+      "start": 1.54,
+      "end": 1.88
+    },
+    {
+      "word": "Slack",
+      "start": 1.88,
+      "end": 2.16
+    },
+    {
+      "word": "and",
+      "start": 2.16,
+      "end": 2.4
+    },
+    {
+      "word": "Twitter",
+      "start": 2.4,
+      "end": 2.62
+    },
+    {
+      "word": "into",
+      "start": 2.62,
+      "end": 2.82
+    },
+    {
+      "word": "dynamic",
+      "start": 2.82,
+      "end": 3.26
+    },
+    {
+      "word": "website",
+      "start": 3.26,
+      "end": 3.72
+    },
+    {
+      "word": "social",
+      "start": 3.72,
+      "end": 4.18
+    },
+    {
+      "word": "proof.",
+      "start": 4.18,
+      "end": 4.68
+    },
+    {
+      "word": "Happy",
+      "start": 5.18,
+      "end": 5.18
+    },
+    {
+      "word": "users",
+      "start": 5.18,
+      "end": 5.52
+    },
+    {
+      "word": "leave",
+      "start": 5.52,
+      "end": 5.82
+    },
+    {
+      "word": "glowing",
+      "start": 5.82,
+      "end": 6.16
+    },
+    {
+      "word": "reviews",
+      "start": 6.16,
+      "end": 6.52
+    },
+    {
+      "word": "across",
+      "start": 6.52,
+      "end": 6.82
+    },
+    {
+      "word": "social",
+      "start": 6.82,
+      "end": 7.18
+    },
+    {
+      "word": "media,",
+      "start": 7.18,
+      "end": 7.52
+    },
+    {
+      "word": "but",
+      "start": 7.9,
+      "end": 8.2
+    },
+    {
+      "word": "marketing",
+      "start": 8.2,
+      "end": 8.36
+    },
+    {
+      "word": "teams",
+      "start": 8.36,
+      "end": 8.88
+    },
+    {
+      "word": "rarely",
+      "start": 8.88,
+      "end": 9.22
+    },
+    {
+      "word": "capture",
+      "start": 9.22,
+      "end": 9.58
+    },
+    {
+      "word": "them",
+      "start": 9.58,
+      "end": 9.92
+    },
+    {
+      "word": "systematically.",
+      "start": 9.92,
+      "end": 10.48
+    },
+    {
+      "word": "Letting",
+      "start": 11.12,
+      "end": 11.6
+    },
+    {
+      "word": "testimonials",
+      "start": 11.6,
+      "end": 11.98
+    },
+    {
+      "word": "get",
+      "start": 11.98,
+      "end": 12.28
+    },
+    {
+      "word": "buried",
+      "start": 12.28,
+      "end": 12.58
+    },
+    {
+      "word": "means",
+      "start": 12.58,
+      "end": 13.04
+    },
+    {
+      "word": "your",
+      "start": 13.04,
+      "end": 13.36
+    },
+    {
+      "word": "landing",
+      "start": 13.36,
+      "end": 13.56
+    },
+    {
+      "word": "page",
+      "start": 13.56,
+      "end": 14.06
+    },
+    {
+      "word": "fails",
+      "start": 14.06,
+      "end": 14.48
+    },
+    {
+      "word": "to",
+      "start": 14.48,
+      "end": 14.74
+    },
+    {
+      "word": "convert",
+      "start": 14.74,
+      "end": 14.96
+    },
+    {
+      "word": "skeptical",
+      "start": 14.96,
+      "end": 15.44
+    },
+    {
+      "word": "visitors",
+      "start": 15.44,
+      "end": 15.92
+    },
+    {
+      "word": "who",
+      "start": 15.92,
+      "end": 16.14
+    },
+    {
+      "word": "need",
+      "start": 16.14,
+      "end": 16.42
+    },
+    {
+      "word": "reassurance.",
+      "start": 16.42,
+      "end": 17.04
+    },
+    {
+      "word": "You",
+      "start": 17.72,
+      "end": 17.82
+    },
+    {
+      "word": "send",
+      "start": 17.82,
+      "end": 18.0
+    },
+    {
+      "word": "you",
+      "start": 18.0,
+      "end": 18.16
+    },
+    {
+      "word": "to",
+      "start": 18.16,
+      "end": 18.28
+    },
+    {
+      "word": "pull",
+      "start": 18.28,
+      "end": 18.52
+    },
+    {
+      "word": "customer",
+      "start": 18.52,
+      "end": 18.94
+    },
+    {
+      "word": "shoutouts",
+      "start": 18.94,
+      "end": 19.44
+    },
+    {
+      "word": "from",
+      "start": 19.44,
+      "end": 19.74
+    },
+    {
+      "word": "Twitter",
+      "start": 19.74,
+      "end": 20.16
+    },
+    {
+      "word": "and",
+      "start": 20.16,
+      "end": 20.58
+    },
+    {
+      "word": "Slack",
+      "start": 20.58,
+      "end": 20.86
+    },
+    {
+      "word": "into",
+      "start": 20.86,
+      "end": 21.08
+    },
+    {
+      "word": "an",
+      "start": 21.08,
+      "end": 21.32
+    },
+    {
+      "word": "embeddable",
+      "start": 21.32,
+      "end": 21.74
+    },
+    {
+      "word": "wall",
+      "start": 21.74,
+      "end": 21.98
+    },
+    {
+      "word": "of",
+      "start": 21.98,
+      "end": 22.18
+    },
+    {
+      "word": "love.",
+      "start": 22.18,
+      "end": 22.52
+    },
+    {
+      "word": "This",
+      "start": 22.52,
+      "end": 23.2
+    },
+    {
+      "word": "lifts",
+      "start": 23.2,
+      "end": 23.44
+    },
+    {
+      "word": "website",
+      "start": 23.44,
+      "end": 23.96
+    },
+    {
+      "word": "conversion",
+      "start": 23.96,
+      "end": 24.36
+    },
+    {
+      "word": "rates",
+      "start": 24.36,
+      "end": 24.76
+    },
+    {
+      "word": "by",
+      "start": 24.76,
+      "end": 25.06
+    },
+    {
+      "word": "30%.",
+      "start": 25.06,
+      "end": 25.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Turn genuine customer praise from Slack and Twitter into dynamic website social proof.",
+      "line2": "EMBED LIVE TESTIMONIALS",
+      "tag": "\ud83d\uded1 Automated customer testimonial widget that embeds live on sales pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated customer testimonial widget that embeds live on sales pages",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated customer testimonial widget that embeds live on sales pages",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

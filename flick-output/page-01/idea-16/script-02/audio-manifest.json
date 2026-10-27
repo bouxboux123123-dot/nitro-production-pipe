@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Agency hiring scorecard system for evaluating creative talent",
+  "text": "This structured test project and objective scoring matrix eliminates bad agency hires forever. You spend weeks interviewing designers, but their first project arrives late, off-brand, and completely disorganized. Subjective impressions fail because production requires strict adherence to project timelines and technical file standards. Build a standardized Notion vetting matrix synced with ClickUp that scores applicants on speed and execution. You filter out unreliable freelancers before client deliverables suffer.",
+  "duration": 31.183,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "structured",
+      "start": 0.3,
+      "end": 0.62
+    },
+    {
+      "word": "test",
+      "start": 0.62,
+      "end": 1.02
+    },
+    {
+      "word": "project",
+      "start": 1.02,
+      "end": 1.5
+    },
+    {
+      "word": "and",
+      "start": 1.5,
+      "end": 1.7
+    },
+    {
+      "word": "objective",
+      "start": 1.7,
+      "end": 2.26
+    },
+    {
+      "word": "scoring",
+      "start": 2.26,
+      "end": 2.64
+    },
+    {
+      "word": "matrix",
+      "start": 2.64,
+      "end": 3.22
+    },
+    {
+      "word": "eliminates",
+      "start": 3.22,
+      "end": 3.74
+    },
+    {
+      "word": "bad",
+      "start": 3.74,
+      "end": 4.24
+    },
+    {
+      "word": "agency",
+      "start": 4.24,
+      "end": 4.68
+    },
+    {
+      "word": "hires",
+      "start": 4.68,
+      "end": 5.1
+    },
+    {
+      "word": "forever.",
+      "start": 5.1,
+      "end": 5.66
+    },
+    {
+      "word": "You",
+      "start": 6.26,
+      "end": 6.3
+    },
+    {
+      "word": "spend",
+      "start": 6.3,
+      "end": 6.5
+    },
+    {
+      "word": "weeks",
+      "start": 6.5,
+      "end": 6.9
+    },
+    {
+      "word": "interviewing",
+      "start": 6.9,
+      "end": 7.38
+    },
+    {
+      "word": "designers,",
+      "start": 7.38,
+      "end": 7.96
+    },
+    {
+      "word": "but",
+      "start": 8.34,
+      "end": 8.54
+    },
+    {
+      "word": "their",
+      "start": 8.54,
+      "end": 8.76
+    },
+    {
+      "word": "first",
+      "start": 8.76,
+      "end": 9.08
+    },
+    {
+      "word": "project",
+      "start": 9.08,
+      "end": 9.56
+    },
+    {
+      "word": "arrives",
+      "start": 9.56,
+      "end": 10.0
+    },
+    {
+      "word": "late,",
+      "start": 10.0,
+      "end": 10.66
+    },
+    {
+      "word": "off",
+      "start": 10.84,
+      "end": 10.96
+    },
+    {
+      "word": "-brand",
+      "start": 10.96,
+      "end": 11.28
+    },
+    {
+      "word": "and",
+      "start": 11.28,
+      "end": 11.6
+    },
+    {
+      "word": "completely",
+      "start": 11.6,
+      "end": 12.08
+    },
+    {
+      "word": "disorganized.",
+      "start": 12.08,
+      "end": 12.86
+    },
+    {
+      "word": "Subjective",
+      "start": 13.42,
+      "end": 13.9
+    },
+    {
+      "word": "impressions",
+      "start": 13.9,
+      "end": 14.36
+    },
+    {
+      "word": "fail",
+      "start": 14.36,
+      "end": 14.66
+    },
+    {
+      "word": "because",
+      "start": 14.66,
+      "end": 15.04
+    },
+    {
+      "word": "production",
+      "start": 15.04,
+      "end": 15.54
+    },
+    {
+      "word": "requires",
+      "start": 15.54,
+      "end": 16.12
+    },
+    {
+      "word": "strict",
+      "start": 16.12,
+      "end": 16.4
+    },
+    {
+      "word": "adherence",
+      "start": 16.4,
+      "end": 16.78
+    },
+    {
+      "word": "to",
+      "start": 16.78,
+      "end": 17.08
+    },
+    {
+      "word": "project",
+      "start": 17.08,
+      "end": 17.4
+    },
+    {
+      "word": "timelines",
+      "start": 17.4,
+      "end": 17.9
+    },
+    {
+      "word": "and",
+      "start": 17.9,
+      "end": 18.56
+    },
+    {
+      "word": "technical",
+      "start": 18.56,
+      "end": 18.84
+    },
+    {
+      "word": "file",
+      "start": 18.84,
+      "end": 19.28
+    },
+    {
+      "word": "standards.",
+      "start": 19.28,
+      "end": 19.76
+    },
+    {
+      "word": "Build",
+      "start": 20.36,
+      "end": 20.56
+    },
+    {
+      "word": "a",
+      "start": 20.56,
+      "end": 21.28
+    },
+    {
+      "word": "standardized",
+      "start": 21.28,
+      "end": 21.28
+    },
+    {
+      "word": "notion",
+      "start": 21.28,
+      "end": 22.0
+    },
+    {
+      "word": "vetting",
+      "start": 22.0,
+      "end": 22.36
+    },
+    {
+      "word": "matrix",
+      "start": 22.36,
+      "end": 22.82
+    },
+    {
+      "word": "synced",
+      "start": 22.82,
+      "end": 23.1
+    },
+    {
+      "word": "with",
+      "start": 23.1,
+      "end": 23.36
+    },
+    {
+      "word": "click",
+      "start": 23.36,
+      "end": 23.6
+    },
+    {
+      "word": "-up",
+      "start": 23.6,
+      "end": 23.86
+    },
+    {
+      "word": "that",
+      "start": 23.86,
+      "end": 24.36
+    },
+    {
+      "word": "scores",
+      "start": 24.36,
+      "end": 24.76
+    },
+    {
+      "word": "applicants",
+      "start": 24.76,
+      "end": 25.22
+    },
+    {
+      "word": "on",
+      "start": 25.22,
+      "end": 25.56
+    },
+    {
+      "word": "speed",
+      "start": 25.56,
+      "end": 25.88
+    },
+    {
+      "word": "and",
+      "start": 25.88,
+      "end": 26.12
+    },
+    {
+      "word": "execution.",
+      "start": 26.12,
+      "end": 26.62
+    },
+    {
+      "word": "You",
+      "start": 26.62,
+      "end": 27.44
+    },
+    {
+      "word": "filter",
+      "start": 27.44,
+      "end": 27.68
+    },
+    {
+      "word": "out",
+      "start": 27.68,
+      "end": 28.16
+    },
+    {
+      "word": "unreliable",
+      "start": 28.16,
+      "end": 28.68
+    },
+    {
+      "word": "freelancers",
+      "start": 28.68,
+      "end": 29.44
+    },
+    {
+      "word": "before",
+      "start": 29.44,
+      "end": 29.9
+    },
+    {
+      "word": "client",
+      "start": 29.9,
+      "end": 30.22
+    },
+    {
+      "word": "deliverables",
+      "start": 30.22,
+      "end": 30.8
+    },
+    {
+      "word": "suffer.",
+      "start": 30.8,
+      "end": 31.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The structured test project and objective scoring matrix that eliminates bad hires.",
+      "line2": "CREATIVE HIRING SCORECARDS",
+      "tag": "\ud83d\uded1 Agency hiring scorecard system for evaluating creative talent",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Agency hiring scorecard system for evaluating creative talent",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Agency hiring scorecard system for evaluating creative talent",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

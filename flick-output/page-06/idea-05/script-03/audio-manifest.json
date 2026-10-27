@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Virtual coworking room tool for spontaneous watercooler banter",
+  "text": "Stop feeling isolated when working from home all week without sitting through another pointless status meeting. Staring at silent Slack channels all day makes teammates feel disconnected from company momentum. Text messages strip out human nuance, while formal video calls constantly interrupt focused sprint work. Setting up a Kumospace digital office creates interactive rooms where colleagues naturally gather around shared tasks. You eliminate remote isolation while boosting team morale.",
+  "duration": 28.73,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "feeling",
+      "start": 0.44,
+      "end": 0.8
+    },
+    {
+      "word": "isolated",
+      "start": 0.8,
+      "end": 1.3
+    },
+    {
+      "word": "when",
+      "start": 1.3,
+      "end": 1.54
+    },
+    {
+      "word": "working",
+      "start": 1.54,
+      "end": 1.84
+    },
+    {
+      "word": "from",
+      "start": 1.84,
+      "end": 2.08
+    },
+    {
+      "word": "home",
+      "start": 2.08,
+      "end": 2.36
+    },
+    {
+      "word": "all",
+      "start": 2.36,
+      "end": 2.6
+    },
+    {
+      "word": "week,",
+      "start": 2.6,
+      "end": 3.0
+    },
+    {
+      "word": "without",
+      "start": 3.38,
+      "end": 3.54
+    },
+    {
+      "word": "sitting",
+      "start": 3.54,
+      "end": 3.82
+    },
+    {
+      "word": "through",
+      "start": 3.82,
+      "end": 4.12
+    },
+    {
+      "word": "another",
+      "start": 4.12,
+      "end": 4.52
+    },
+    {
+      "word": "pointless",
+      "start": 4.52,
+      "end": 4.9
+    },
+    {
+      "word": "status",
+      "start": 4.9,
+      "end": 5.44
+    },
+    {
+      "word": "meeting.",
+      "start": 5.44,
+      "end": 6.02
+    },
+    {
+      "word": "Staring",
+      "start": 6.5,
+      "end": 6.76
+    },
+    {
+      "word": "at",
+      "start": 6.76,
+      "end": 7.06
+    },
+    {
+      "word": "silent",
+      "start": 7.06,
+      "end": 7.52
+    },
+    {
+      "word": "Slack",
+      "start": 7.52,
+      "end": 7.84
+    },
+    {
+      "word": "channels",
+      "start": 7.84,
+      "end": 8.26
+    },
+    {
+      "word": "all",
+      "start": 8.26,
+      "end": 8.62
+    },
+    {
+      "word": "day",
+      "start": 8.62,
+      "end": 8.9
+    },
+    {
+      "word": "makes",
+      "start": 8.9,
+      "end": 9.24
+    },
+    {
+      "word": "teammates",
+      "start": 9.24,
+      "end": 9.54
+    },
+    {
+      "word": "feel",
+      "start": 9.54,
+      "end": 10.02
+    },
+    {
+      "word": "disconnected",
+      "start": 10.02,
+      "end": 10.48
+    },
+    {
+      "word": "from",
+      "start": 10.48,
+      "end": 10.96
+    },
+    {
+      "word": "company",
+      "start": 10.96,
+      "end": 11.2
+    },
+    {
+      "word": "momentum.",
+      "start": 11.2,
+      "end": 11.7
+    },
+    {
+      "word": "Text",
+      "start": 12.38,
+      "end": 12.4
+    },
+    {
+      "word": "messages",
+      "start": 12.4,
+      "end": 12.84
+    },
+    {
+      "word": "strip",
+      "start": 12.84,
+      "end": 13.22
+    },
+    {
+      "word": "out",
+      "start": 13.22,
+      "end": 13.52
+    },
+    {
+      "word": "human",
+      "start": 13.52,
+      "end": 13.78
+    },
+    {
+      "word": "nuance,",
+      "start": 13.78,
+      "end": 14.18
+    },
+    {
+      "word": "while",
+      "start": 14.7,
+      "end": 14.8
+    },
+    {
+      "word": "formal",
+      "start": 14.8,
+      "end": 15.1
+    },
+    {
+      "word": "video",
+      "start": 15.1,
+      "end": 15.52
+    },
+    {
+      "word": "calls",
+      "start": 15.52,
+      "end": 15.86
+    },
+    {
+      "word": "constantly",
+      "start": 15.86,
+      "end": 16.42
+    },
+    {
+      "word": "interrupt",
+      "start": 16.42,
+      "end": 16.88
+    },
+    {
+      "word": "focused",
+      "start": 16.88,
+      "end": 17.32
+    },
+    {
+      "word": "sprint",
+      "start": 17.32,
+      "end": 17.68
+    },
+    {
+      "word": "work.",
+      "start": 17.68,
+      "end": 18.22
+    },
+    {
+      "word": "Setting",
+      "start": 18.6,
+      "end": 18.78
+    },
+    {
+      "word": "up",
+      "start": 18.78,
+      "end": 19.04
+    },
+    {
+      "word": "a",
+      "start": 19.04,
+      "end": 19.2
+    },
+    {
+      "word": "QmaSpace",
+      "start": 19.2,
+      "end": 19.68
+    },
+    {
+      "word": "digital",
+      "start": 19.68,
+      "end": 20.08
+    },
+    {
+      "word": "office",
+      "start": 20.08,
+      "end": 20.44
+    },
+    {
+      "word": "creates",
+      "start": 20.44,
+      "end": 20.9
+    },
+    {
+      "word": "interactive",
+      "start": 20.9,
+      "end": 21.34
+    },
+    {
+      "word": "rooms",
+      "start": 21.34,
+      "end": 21.82
+    },
+    {
+      "word": "where",
+      "start": 21.82,
+      "end": 22.12
+    },
+    {
+      "word": "colleagues",
+      "start": 22.12,
+      "end": 22.54
+    },
+    {
+      "word": "naturally",
+      "start": 22.54,
+      "end": 23.08
+    },
+    {
+      "word": "gather",
+      "start": 23.08,
+      "end": 23.44
+    },
+    {
+      "word": "around",
+      "start": 23.44,
+      "end": 23.92
+    },
+    {
+      "word": "shared",
+      "start": 23.92,
+      "end": 24.26
+    },
+    {
+      "word": "tasks.",
+      "start": 24.26,
+      "end": 24.78
+    },
+    {
+      "word": "You",
+      "start": 25.46,
+      "end": 25.52
+    },
+    {
+      "word": "eliminate",
+      "start": 25.52,
+      "end": 25.94
+    },
+    {
+      "word": "remote",
+      "start": 25.94,
+      "end": 26.5
+    },
+    {
+      "word": "isolation",
+      "start": 26.5,
+      "end": 27.06
+    },
+    {
+      "word": "while",
+      "start": 27.06,
+      "end": 27.5
+    },
+    {
+      "word": "boosting",
+      "start": 27.5,
+      "end": 27.82
+    },
+    {
+      "word": "team",
+      "start": 27.82,
+      "end": 28.26
+    },
+    {
+      "word": "morale.",
+      "start": 28.26,
+      "end": 28.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop feeling isolated when working from home all week.",
+      "line2": "SPONTANEOUS VIRTUAL COWORKING",
+      "tag": "\ud83d\uded1 Virtual coworking room tool for spontaneous watercooler banter",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Virtual coworking room tool for spontaneous watercooler banter",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Virtual coworking room tool for spontaneous watercooler banter",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

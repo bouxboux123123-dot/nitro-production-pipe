@@ -1,0 +1,426 @@
+{
+  "page": "page-04",
+  "idea": "Espanso: free cross-platform text expander that saves thousands of keystrokes",
+  "text": "The open-source text expander that works everywhere on Windows, Mac, and Linux. Most paid snippet tools charge pricey subscriptions and fail to work inside terminal windows or design apps. Proprietary text tools lock your snippets behind cloud logins and send your sensitive keystrokes to third-party servers. Espanso is completely open-source and privacy-focused, expanding templates locally using simple YAML configuration files. You retain total data privacy while accelerating your workflow.",
+  "duration": 31.162,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "open",
+      "start": 0.22,
+      "end": 0.5
+    },
+    {
+      "word": "source",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "text",
+      "start": 0.8,
+      "end": 1.14
+    },
+    {
+      "word": "expander",
+      "start": 1.14,
+      "end": 1.66
+    },
+    {
+      "word": "that",
+      "start": 1.66,
+      "end": 1.92
+    },
+    {
+      "word": "works",
+      "start": 1.92,
+      "end": 2.12
+    },
+    {
+      "word": "everywhere",
+      "start": 2.12,
+      "end": 2.56
+    },
+    {
+      "word": "on",
+      "start": 2.56,
+      "end": 2.92
+    },
+    {
+      "word": "Windows,",
+      "start": 2.92,
+      "end": 3.3
+    },
+    {
+      "word": "Mac,",
+      "start": 3.58,
+      "end": 3.98
+    },
+    {
+      "word": "and",
+      "start": 4.14,
+      "end": 4.32
+    },
+    {
+      "word": "Linux.",
+      "start": 4.32,
+      "end": 4.58
+    },
+    {
+      "word": "Most",
+      "start": 5.14,
+      "end": 5.42
+    },
+    {
+      "word": "paid",
+      "start": 5.42,
+      "end": 5.74
+    },
+    {
+      "word": "snippet",
+      "start": 5.74,
+      "end": 6.04
+    },
+    {
+      "word": "tools",
+      "start": 6.04,
+      "end": 6.42
+    },
+    {
+      "word": "charge",
+      "start": 6.42,
+      "end": 6.96
+    },
+    {
+      "word": "pricey",
+      "start": 6.96,
+      "end": 7.36
+    },
+    {
+      "word": "subscriptions",
+      "start": 7.36,
+      "end": 8.08
+    },
+    {
+      "word": "and",
+      "start": 8.08,
+      "end": 8.54
+    },
+    {
+      "word": "fail",
+      "start": 8.54,
+      "end": 8.76
+    },
+    {
+      "word": "to",
+      "start": 8.76,
+      "end": 9.02
+    },
+    {
+      "word": "work",
+      "start": 9.02,
+      "end": 9.2
+    },
+    {
+      "word": "inside",
+      "start": 9.2,
+      "end": 9.56
+    },
+    {
+      "word": "terminal",
+      "start": 9.56,
+      "end": 9.96
+    },
+    {
+      "word": "windows",
+      "start": 9.96,
+      "end": 10.48
+    },
+    {
+      "word": "or",
+      "start": 10.48,
+      "end": 10.96
+    },
+    {
+      "word": "design",
+      "start": 10.96,
+      "end": 11.4
+    },
+    {
+      "word": "apps.",
+      "start": 11.4,
+      "end": 11.9
+    },
+    {
+      "word": "Proprietary",
+      "start": 12.44,
+      "end": 13.0
+    },
+    {
+      "word": "text",
+      "start": 13.0,
+      "end": 13.32
+    },
+    {
+      "word": "tools",
+      "start": 13.32,
+      "end": 13.66
+    },
+    {
+      "word": "lock",
+      "start": 13.66,
+      "end": 13.92
+    },
+    {
+      "word": "your",
+      "start": 13.92,
+      "end": 14.18
+    },
+    {
+      "word": "snippets",
+      "start": 14.18,
+      "end": 14.48
+    },
+    {
+      "word": "behind",
+      "start": 14.48,
+      "end": 14.9
+    },
+    {
+      "word": "cloud",
+      "start": 14.9,
+      "end": 15.28
+    },
+    {
+      "word": "logins",
+      "start": 15.28,
+      "end": 15.8
+    },
+    {
+      "word": "and",
+      "start": 15.8,
+      "end": 16.26
+    },
+    {
+      "word": "send",
+      "start": 16.26,
+      "end": 16.46
+    },
+    {
+      "word": "your",
+      "start": 16.46,
+      "end": 17.1
+    },
+    {
+      "word": "sensitive",
+      "start": 17.1,
+      "end": 17.14
+    },
+    {
+      "word": "keystrokes",
+      "start": 17.14,
+      "end": 17.64
+    },
+    {
+      "word": "to",
+      "start": 17.64,
+      "end": 17.9
+    },
+    {
+      "word": "third",
+      "start": 17.9,
+      "end": 18.2
+    },
+    {
+      "word": "-party",
+      "start": 18.2,
+      "end": 18.46
+    },
+    {
+      "word": "servers.",
+      "start": 18.46,
+      "end": 18.9
+    },
+    {
+      "word": "Espanso",
+      "start": 19.4,
+      "end": 19.88
+    },
+    {
+      "word": "is",
+      "start": 19.88,
+      "end": 20.16
+    },
+    {
+      "word": "completely",
+      "start": 20.16,
+      "end": 20.68
+    },
+    {
+      "word": "open",
+      "start": 20.68,
+      "end": 21.14
+    },
+    {
+      "word": "source",
+      "start": 21.14,
+      "end": 21.48
+    },
+    {
+      "word": "and",
+      "start": 21.48,
+      "end": 21.82
+    },
+    {
+      "word": "privacy",
+      "start": 21.82,
+      "end": 22.18
+    },
+    {
+      "word": "focused,",
+      "start": 22.18,
+      "end": 22.72
+    },
+    {
+      "word": "expanding",
+      "start": 23.64,
+      "end": 23.64
+    },
+    {
+      "word": "templates",
+      "start": 23.64,
+      "end": 24.14
+    },
+    {
+      "word": "locally",
+      "start": 24.14,
+      "end": 24.62
+    },
+    {
+      "word": "using",
+      "start": 24.62,
+      "end": 25.06
+    },
+    {
+      "word": "simple",
+      "start": 25.06,
+      "end": 25.46
+    },
+    {
+      "word": "YAML",
+      "start": 25.46,
+      "end": 25.78
+    },
+    {
+      "word": "configuration",
+      "start": 25.78,
+      "end": 26.42
+    },
+    {
+      "word": "files.",
+      "start": 26.42,
+      "end": 27.1
+    },
+    {
+      "word": "You",
+      "start": 27.1,
+      "end": 27.78
+    },
+    {
+      "word": "retain",
+      "start": 27.78,
+      "end": 28.14
+    },
+    {
+      "word": "total",
+      "start": 28.14,
+      "end": 28.56
+    },
+    {
+      "word": "data",
+      "start": 28.56,
+      "end": 28.94
+    },
+    {
+      "word": "privacy",
+      "start": 28.94,
+      "end": 29.4
+    },
+    {
+      "word": "while",
+      "start": 29.4,
+      "end": 29.86
+    },
+    {
+      "word": "accelerating",
+      "start": 29.86,
+      "end": 30.3
+    },
+    {
+      "word": "your",
+      "start": 30.3,
+      "end": 30.8
+    },
+    {
+      "word": "workflow.",
+      "start": 30.8,
+      "end": 31.04
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The open-source text expander that works everywhere on Windows and Mac.",
+      "line2": "FREE TEXT EXPANDER",
+      "tag": "\ud83d\uded1 Espanso",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Espanso",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Espanso",
+        "subtitle": "Espanso"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Espanso"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Espanso"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Espanso",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

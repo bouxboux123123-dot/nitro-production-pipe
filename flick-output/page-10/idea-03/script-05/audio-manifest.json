@@ -1,0 +1,421 @@
+{
+  "page": "page-10",
+  "idea": "Notion 3.0 workspace automation updates and native database triggers",
+  "text": "Everything you need to know about the new Notion workspace features. Growing businesses struggle to keep documentation, client portals, and task tracking organized across expanding teams. Disorganized workspaces turn into digital dumping grounds where critical standard operating procedures get lost in nested subpages. Notion\u2019s latest release introduces native conditional automations, cross-database property sync, and dynamic forms that structure team input automatically. Your operations stay clean and searchable as you scale.",
+  "duration": 32.527,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "everything",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "you",
+      "start": 0.32,
+      "end": 0.58
+    },
+    {
+      "word": "need",
+      "start": 0.58,
+      "end": 0.82
+    },
+    {
+      "word": "to",
+      "start": 0.82,
+      "end": 0.94
+    },
+    {
+      "word": "know",
+      "start": 0.94,
+      "end": 1.16
+    },
+    {
+      "word": "about",
+      "start": 1.16,
+      "end": 1.4
+    },
+    {
+      "word": "the",
+      "start": 1.4,
+      "end": 1.52
+    },
+    {
+      "word": "new",
+      "start": 1.52,
+      "end": 1.7
+    },
+    {
+      "word": "notion",
+      "start": 1.7,
+      "end": 2.06
+    },
+    {
+      "word": "workspace",
+      "start": 2.06,
+      "end": 2.5
+    },
+    {
+      "word": "features.",
+      "start": 2.5,
+      "end": 3.18
+    },
+    {
+      "word": "Growing",
+      "start": 3.96,
+      "end": 3.96
+    },
+    {
+      "word": "businesses",
+      "start": 3.96,
+      "end": 4.44
+    },
+    {
+      "word": "struggle",
+      "start": 4.44,
+      "end": 4.9
+    },
+    {
+      "word": "to",
+      "start": 4.9,
+      "end": 5.06
+    },
+    {
+      "word": "keep",
+      "start": 5.06,
+      "end": 5.34
+    },
+    {
+      "word": "documentation,",
+      "start": 5.34,
+      "end": 6.12
+    },
+    {
+      "word": "client",
+      "start": 6.88,
+      "end": 6.92
+    },
+    {
+      "word": "portals,",
+      "start": 6.92,
+      "end": 7.32
+    },
+    {
+      "word": "and",
+      "start": 7.72,
+      "end": 8.0
+    },
+    {
+      "word": "task",
+      "start": 8.0,
+      "end": 8.18
+    },
+    {
+      "word": "tracking",
+      "start": 8.18,
+      "end": 8.62
+    },
+    {
+      "word": "organized",
+      "start": 8.62,
+      "end": 9.24
+    },
+    {
+      "word": "across",
+      "start": 9.24,
+      "end": 9.74
+    },
+    {
+      "word": "expanding",
+      "start": 9.74,
+      "end": 10.16
+    },
+    {
+      "word": "teams.",
+      "start": 10.16,
+      "end": 10.78
+    },
+    {
+      "word": "Disorganized",
+      "start": 11.48,
+      "end": 12.02
+    },
+    {
+      "word": "workspaces",
+      "start": 12.02,
+      "end": 12.8
+    },
+    {
+      "word": "turn",
+      "start": 12.8,
+      "end": 13.14
+    },
+    {
+      "word": "into",
+      "start": 13.14,
+      "end": 13.36
+    },
+    {
+      "word": "digital",
+      "start": 13.36,
+      "end": 13.7
+    },
+    {
+      "word": "dumping",
+      "start": 13.7,
+      "end": 14.04
+    },
+    {
+      "word": "grounds",
+      "start": 14.04,
+      "end": 14.56
+    },
+    {
+      "word": "where",
+      "start": 14.56,
+      "end": 15.08
+    },
+    {
+      "word": "critical",
+      "start": 15.08,
+      "end": 15.52
+    },
+    {
+      "word": "standard",
+      "start": 15.52,
+      "end": 15.98
+    },
+    {
+      "word": "operating",
+      "start": 15.98,
+      "end": 16.48
+    },
+    {
+      "word": "procedures",
+      "start": 16.48,
+      "end": 17.02
+    },
+    {
+      "word": "get",
+      "start": 17.02,
+      "end": 17.66
+    },
+    {
+      "word": "lost",
+      "start": 17.66,
+      "end": 18.0
+    },
+    {
+      "word": "in",
+      "start": 18.0,
+      "end": 18.26
+    },
+    {
+      "word": "nested",
+      "start": 18.26,
+      "end": 18.46
+    },
+    {
+      "word": "sub",
+      "start": 18.46,
+      "end": 18.88
+    },
+    {
+      "word": "pages.",
+      "start": 18.88,
+      "end": 19.28
+    },
+    {
+      "word": "Notions",
+      "start": 19.68,
+      "end": 20.16
+    },
+    {
+      "word": "latest",
+      "start": 20.16,
+      "end": 20.6
+    },
+    {
+      "word": "release",
+      "start": 20.6,
+      "end": 20.98
+    },
+    {
+      "word": "introduces",
+      "start": 20.98,
+      "end": 21.5
+    },
+    {
+      "word": "native",
+      "start": 21.5,
+      "end": 21.98
+    },
+    {
+      "word": "conditional",
+      "start": 21.98,
+      "end": 22.54
+    },
+    {
+      "word": "automations,",
+      "start": 22.54,
+      "end": 23.2
+    },
+    {
+      "word": "cross",
+      "start": 23.72,
+      "end": 23.98
+    },
+    {
+      "word": "database",
+      "start": 23.98,
+      "end": 24.44
+    },
+    {
+      "word": "property",
+      "start": 24.44,
+      "end": 25.0
+    },
+    {
+      "word": "sync,",
+      "start": 25.0,
+      "end": 25.32
+    },
+    {
+      "word": "and",
+      "start": 25.56,
+      "end": 25.82
+    },
+    {
+      "word": "dynamic",
+      "start": 25.82,
+      "end": 26.2
+    },
+    {
+      "word": "forms",
+      "start": 26.2,
+      "end": 26.7
+    },
+    {
+      "word": "that",
+      "start": 26.7,
+      "end": 26.98
+    },
+    {
+      "word": "structure",
+      "start": 26.98,
+      "end": 27.38
+    },
+    {
+      "word": "team",
+      "start": 27.38,
+      "end": 27.82
+    },
+    {
+      "word": "input",
+      "start": 27.82,
+      "end": 28.22
+    },
+    {
+      "word": "automatically.",
+      "start": 28.22,
+      "end": 28.8
+    },
+    {
+      "word": "Your",
+      "start": 28.8,
+      "end": 29.68
+    },
+    {
+      "word": "operations",
+      "start": 29.68,
+      "end": 30.2
+    },
+    {
+      "word": "stay",
+      "start": 30.2,
+      "end": 30.68
+    },
+    {
+      "word": "clean",
+      "start": 30.68,
+      "end": 31.06
+    },
+    {
+      "word": "and",
+      "start": 31.06,
+      "end": 31.34
+    },
+    {
+      "word": "searchable",
+      "start": 31.34,
+      "end": 31.76
+    },
+    {
+      "word": "as",
+      "start": 31.76,
+      "end": 31.96
+    },
+    {
+      "word": "you",
+      "start": 31.96,
+      "end": 32.16
+    },
+    {
+      "word": "scale.",
+      "start": 32.16,
+      "end": 32.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Everything you need to know about the new Notion workspace features.",
+      "line2": "NOTION 3.0 DATABASE TRIGGERS",
+      "tag": "\ud83d\uded1 Notion 3.0 workspace automation updates and native database triggers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Notion 3.0 workspace automation updates and native database triggers",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Notion 3.0 workspace automation updates and native database triggers",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

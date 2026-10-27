@@ -1,0 +1,421 @@
+{
+  "page": "page-09",
+  "idea": "Claude vs ChatGPT: which AI assistant writes better business copy",
+  "text": "Claude or ChatGPT: which artificial intelligence writes more natural, human-sounding content? ChatGPT often leans on predictable buzzwords like delve, testament, and tapestry, instantly triggering AI detection flags. Editing out robotic sentence structures drains hours from your editorial schedule and compromises your brand voice. Claude Sonnet captures authentic human cadence, nuance, and natural transitions with minimal prompt engineering. Switching to Claude elevates your written copy while protecting your organic reach.",
+  "duration": 33.381,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Claude",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "or",
+      "start": 0.44,
+      "end": 0.78
+    },
+    {
+      "word": "chat",
+      "start": 0.78,
+      "end": 1.12
+    },
+    {
+      "word": "GPT,",
+      "start": 1.12,
+      "end": 1.8
+    },
+    {
+      "word": "which",
+      "start": 2.32,
+      "end": 2.46
+    },
+    {
+      "word": "artificial",
+      "start": 2.46,
+      "end": 2.92
+    },
+    {
+      "word": "intelligence",
+      "start": 2.92,
+      "end": 3.48
+    },
+    {
+      "word": "writes",
+      "start": 3.48,
+      "end": 3.84
+    },
+    {
+      "word": "more",
+      "start": 3.84,
+      "end": 4.14
+    },
+    {
+      "word": "natural",
+      "start": 4.14,
+      "end": 4.68
+    },
+    {
+      "word": "human",
+      "start": 4.68,
+      "end": 5.08
+    },
+    {
+      "word": "-sounding",
+      "start": 5.08,
+      "end": 5.48
+    },
+    {
+      "word": "content.",
+      "start": 5.48,
+      "end": 6.24
+    },
+    {
+      "word": "Chat",
+      "start": 6.72,
+      "end": 6.9
+    },
+    {
+      "word": "GPT",
+      "start": 6.9,
+      "end": 7.68
+    },
+    {
+      "word": "often",
+      "start": 7.68,
+      "end": 8.04
+    },
+    {
+      "word": "leans",
+      "start": 8.04,
+      "end": 8.36
+    },
+    {
+      "word": "on",
+      "start": 8.36,
+      "end": 8.58
+    },
+    {
+      "word": "predictable",
+      "start": 8.58,
+      "end": 8.98
+    },
+    {
+      "word": "buzzwords",
+      "start": 8.98,
+      "end": 9.6
+    },
+    {
+      "word": "like",
+      "start": 9.6,
+      "end": 9.94
+    },
+    {
+      "word": "delve,",
+      "start": 9.94,
+      "end": 10.36
+    },
+    {
+      "word": "testament,",
+      "start": 10.9,
+      "end": 11.04
+    },
+    {
+      "word": "and",
+      "start": 11.32,
+      "end": 11.56
+    },
+    {
+      "word": "tapestry,",
+      "start": 11.56,
+      "end": 12.26
+    },
+    {
+      "word": "instantly",
+      "start": 12.52,
+      "end": 12.7
+    },
+    {
+      "word": "triggering",
+      "start": 12.7,
+      "end": 13.26
+    },
+    {
+      "word": "AI",
+      "start": 13.26,
+      "end": 13.72
+    },
+    {
+      "word": "detection",
+      "start": 13.72,
+      "end": 14.22
+    },
+    {
+      "word": "flags,",
+      "start": 14.22,
+      "end": 14.78
+    },
+    {
+      "word": "editing",
+      "start": 15.32,
+      "end": 15.36
+    },
+    {
+      "word": "out",
+      "start": 15.36,
+      "end": 15.8
+    },
+    {
+      "word": "robotic",
+      "start": 15.8,
+      "end": 16.24
+    },
+    {
+      "word": "sentence",
+      "start": 16.24,
+      "end": 16.64
+    },
+    {
+      "word": "structures",
+      "start": 16.64,
+      "end": 17.12
+    },
+    {
+      "word": "drains",
+      "start": 17.12,
+      "end": 17.68
+    },
+    {
+      "word": "hours",
+      "start": 17.68,
+      "end": 18.02
+    },
+    {
+      "word": "from",
+      "start": 18.02,
+      "end": 18.26
+    },
+    {
+      "word": "your",
+      "start": 18.26,
+      "end": 18.48
+    },
+    {
+      "word": "editorial",
+      "start": 18.48,
+      "end": 18.9
+    },
+    {
+      "word": "schedule",
+      "start": 18.9,
+      "end": 19.46
+    },
+    {
+      "word": "and",
+      "start": 19.46,
+      "end": 20.16
+    },
+    {
+      "word": "compromises",
+      "start": 20.16,
+      "end": 20.52
+    },
+    {
+      "word": "your",
+      "start": 20.52,
+      "end": 20.86
+    },
+    {
+      "word": "brand",
+      "start": 20.86,
+      "end": 21.18
+    },
+    {
+      "word": "voice.",
+      "start": 21.18,
+      "end": 21.54
+    },
+    {
+      "word": "Claude's",
+      "start": 22.16,
+      "end": 22.58
+    },
+    {
+      "word": "sonnet",
+      "start": 22.58,
+      "end": 22.84
+    },
+    {
+      "word": "captures",
+      "start": 22.84,
+      "end": 23.28
+    },
+    {
+      "word": "authentic",
+      "start": 23.28,
+      "end": 23.88
+    },
+    {
+      "word": "human",
+      "start": 23.88,
+      "end": 24.28
+    },
+    {
+      "word": "cadence,",
+      "start": 24.28,
+      "end": 24.78
+    },
+    {
+      "word": "nuance,",
+      "start": 25.52,
+      "end": 25.52
+    },
+    {
+      "word": "and",
+      "start": 25.62,
+      "end": 26.1
+    },
+    {
+      "word": "natural",
+      "start": 26.1,
+      "end": 26.4
+    },
+    {
+      "word": "transitions",
+      "start": 26.4,
+      "end": 26.96
+    },
+    {
+      "word": "with",
+      "start": 26.96,
+      "end": 27.42
+    },
+    {
+      "word": "minimal",
+      "start": 27.42,
+      "end": 27.74
+    },
+    {
+      "word": "prompt",
+      "start": 27.74,
+      "end": 28.1
+    },
+    {
+      "word": "engineering.",
+      "start": 28.1,
+      "end": 28.66
+    },
+    {
+      "word": "Switching",
+      "start": 28.66,
+      "end": 29.66
+    },
+    {
+      "word": "to",
+      "start": 29.66,
+      "end": 29.88
+    },
+    {
+      "word": "Claude",
+      "start": 29.88,
+      "end": 30.16
+    },
+    {
+      "word": "elevates",
+      "start": 30.16,
+      "end": 30.7
+    },
+    {
+      "word": "your",
+      "start": 30.7,
+      "end": 30.9
+    },
+    {
+      "word": "written",
+      "start": 30.9,
+      "end": 31.16
+    },
+    {
+      "word": "copy",
+      "start": 31.16,
+      "end": 31.48
+    },
+    {
+      "word": "while",
+      "start": 31.48,
+      "end": 31.86
+    },
+    {
+      "word": "protecting",
+      "start": 31.86,
+      "end": 32.14
+    },
+    {
+      "word": "your",
+      "start": 32.14,
+      "end": 32.62
+    },
+    {
+      "word": "organic",
+      "start": 32.62,
+      "end": 32.94
+    },
+    {
+      "word": "reach.",
+      "start": 32.94,
+      "end": 33.36
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Claude or ChatGPT: which AI writes more natural, human-sounding content?",
+      "line2": "CLAUDE VS CHATGPT",
+      "tag": "\ud83d\uded1 Claude vs ChatGPT",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Claude vs ChatGPT",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Claude vs ChatGPT",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Claude vs ChatGPT",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

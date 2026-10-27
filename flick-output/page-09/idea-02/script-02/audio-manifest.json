@@ -1,0 +1,411 @@
+{
+  "page": "page-09",
+  "idea": "Zapier vs Make.com: price comparison and complex scenario limits",
+  "text": "Why Zapier's task-based pricing will drain your budget once you scale past ten thousand runs. Every filter check, formatter step, and webhook trigger burns an individual paid task credit. A single customer onboarding flow can eat eight tasks, quickly costing hundreds of dollars monthly. Make solves this by processing bulk arrays and iterative data within single operations for pennies. You protect profit margins while scaling transaction volume seamlessly.",
+  "duration": 26.347,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Why",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "Zapier's",
+      "start": 0.28,
+      "end": 1.08
+    },
+    {
+      "word": "task",
+      "start": 1.08,
+      "end": 1.12
+    },
+    {
+      "word": "-based",
+      "start": 1.12,
+      "end": 1.44
+    },
+    {
+      "word": "pricing",
+      "start": 1.44,
+      "end": 1.8
+    },
+    {
+      "word": "will",
+      "start": 1.8,
+      "end": 2.06
+    },
+    {
+      "word": "drain",
+      "start": 2.06,
+      "end": 2.26
+    },
+    {
+      "word": "your",
+      "start": 2.26,
+      "end": 2.48
+    },
+    {
+      "word": "budget",
+      "start": 2.48,
+      "end": 2.72
+    },
+    {
+      "word": "once",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "word": "you",
+      "start": 2.96,
+      "end": 3.14
+    },
+    {
+      "word": "scale",
+      "start": 3.14,
+      "end": 3.38
+    },
+    {
+      "word": "past",
+      "start": 3.38,
+      "end": 3.66
+    },
+    {
+      "word": "10",
+      "start": 3.66,
+      "end": 4.04
+    },
+    {
+      "word": ",000",
+      "start": 4.04,
+      "end": 4.32
+    },
+    {
+      "word": "runs?",
+      "start": 4.32,
+      "end": 4.86
+    },
+    {
+      "word": "Every",
+      "start": 5.26,
+      "end": 5.52
+    },
+    {
+      "word": "filter",
+      "start": 5.52,
+      "end": 5.74
+    },
+    {
+      "word": "check,",
+      "start": 5.74,
+      "end": 6.22
+    },
+    {
+      "word": "format",
+      "start": 6.62,
+      "end": 6.72
+    },
+    {
+      "word": "or",
+      "start": 6.72,
+      "end": 6.98
+    },
+    {
+      "word": "step,",
+      "start": 6.98,
+      "end": 7.2
+    },
+    {
+      "word": "and",
+      "start": 7.56,
+      "end": 7.66
+    },
+    {
+      "word": "Webhook",
+      "start": 7.66,
+      "end": 8.02
+    },
+    {
+      "word": "trigger",
+      "start": 8.02,
+      "end": 8.34
+    },
+    {
+      "word": "burns",
+      "start": 8.34,
+      "end": 8.64
+    },
+    {
+      "word": "an",
+      "start": 8.64,
+      "end": 8.9
+    },
+    {
+      "word": "individual",
+      "start": 8.9,
+      "end": 9.26
+    },
+    {
+      "word": "paid",
+      "start": 9.26,
+      "end": 9.6
+    },
+    {
+      "word": "task",
+      "start": 9.6,
+      "end": 9.94
+    },
+    {
+      "word": "credit.",
+      "start": 9.94,
+      "end": 10.2
+    },
+    {
+      "word": "A",
+      "start": 10.84,
+      "end": 10.96
+    },
+    {
+      "word": "single",
+      "start": 10.96,
+      "end": 11.26
+    },
+    {
+      "word": "customer",
+      "start": 11.26,
+      "end": 11.68
+    },
+    {
+      "word": "onboarding",
+      "start": 11.68,
+      "end": 12.24
+    },
+    {
+      "word": "flow",
+      "start": 12.24,
+      "end": 12.44
+    },
+    {
+      "word": "can",
+      "start": 12.44,
+      "end": 12.58
+    },
+    {
+      "word": "eat",
+      "start": 12.58,
+      "end": 12.74
+    },
+    {
+      "word": "eight",
+      "start": 12.74,
+      "end": 13.1
+    },
+    {
+      "word": "tasks,",
+      "start": 13.1,
+      "end": 13.48
+    },
+    {
+      "word": "quickly",
+      "start": 14.18,
+      "end": 14.18
+    },
+    {
+      "word": "costing",
+      "start": 14.18,
+      "end": 14.54
+    },
+    {
+      "word": "hundreds",
+      "start": 14.54,
+      "end": 14.88
+    },
+    {
+      "word": "of",
+      "start": 14.88,
+      "end": 15.14
+    },
+    {
+      "word": "dollars",
+      "start": 15.14,
+      "end": 15.36
+    },
+    {
+      "word": "monthly.",
+      "start": 15.36,
+      "end": 15.92
+    },
+    {
+      "word": "Make",
+      "start": 16.62,
+      "end": 16.7
+    },
+    {
+      "word": "solves",
+      "start": 16.7,
+      "end": 17.02
+    },
+    {
+      "word": "this",
+      "start": 17.02,
+      "end": 17.34
+    },
+    {
+      "word": "by",
+      "start": 17.34,
+      "end": 17.62
+    },
+    {
+      "word": "processing",
+      "start": 17.62,
+      "end": 18.06
+    },
+    {
+      "word": "bulk",
+      "start": 18.06,
+      "end": 18.36
+    },
+    {
+      "word": "arrays",
+      "start": 18.36,
+      "end": 18.74
+    },
+    {
+      "word": "and",
+      "start": 18.74,
+      "end": 19.24
+    },
+    {
+      "word": "iterative",
+      "start": 19.24,
+      "end": 19.6
+    },
+    {
+      "word": "data",
+      "start": 19.6,
+      "end": 19.94
+    },
+    {
+      "word": "within",
+      "start": 19.94,
+      "end": 20.3
+    },
+    {
+      "word": "single",
+      "start": 20.3,
+      "end": 20.66
+    },
+    {
+      "word": "operations",
+      "start": 20.66,
+      "end": 21.28
+    },
+    {
+      "word": "for",
+      "start": 21.28,
+      "end": 21.62
+    },
+    {
+      "word": "pennies.",
+      "start": 21.62,
+      "end": 22.06
+    },
+    {
+      "word": "You",
+      "start": 22.06,
+      "end": 22.58
+    },
+    {
+      "word": "protect",
+      "start": 22.58,
+      "end": 22.96
+    },
+    {
+      "word": "profit",
+      "start": 22.96,
+      "end": 23.34
+    },
+    {
+      "word": "margins",
+      "start": 23.34,
+      "end": 23.74
+    },
+    {
+      "word": "while",
+      "start": 23.74,
+      "end": 24.12
+    },
+    {
+      "word": "scaling",
+      "start": 24.12,
+      "end": 24.48
+    },
+    {
+      "word": "transaction",
+      "start": 24.48,
+      "end": 25.14
+    },
+    {
+      "word": "volume",
+      "start": 25.14,
+      "end": 25.7
+    },
+    {
+      "word": "seamlessly.",
+      "start": 25.7,
+      "end": 26.2
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why Zapier's task-based pricing will bankrupt you once you scale past 10,000 runs.",
+      "line2": "ZAPIER VS MAKE",
+      "tag": "\ud83d\uded1 Zapier vs Make.com",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Zapier vs Make.com",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Zapier vs Make.com",
+        "subtitle": "Zapier vs Make.com"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Zapier vs Make.com"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Zapier vs Make.com"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Zapier vs Make.com",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

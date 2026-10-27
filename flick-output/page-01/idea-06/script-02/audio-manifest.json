@@ -1,0 +1,391 @@
+{
+  "page": "page-01",
+  "idea": "White-label client portal that houses deliverables and revision requests",
+  "text": "The centralized white-label client portal where clients review, approve, and request edits. Agencies waste dozens of hours every month emailing draft attachments back and forth with clients. Chaotic email threads cause version control disasters when clients approve outdated creative assets by mistake. Deploy an automated Airtable client portal that locks past drafts and clearly marks active review stages. You protect project scope and eliminate revision confusion.",
+  "duration": 29.349,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "centralized",
+      "start": 0.0,
+      "end": 0.7
+    },
+    {
+      "word": "white",
+      "start": 0.7,
+      "end": 1.18
+    },
+    {
+      "word": "-label",
+      "start": 1.18,
+      "end": 1.44
+    },
+    {
+      "word": "client",
+      "start": 1.44,
+      "end": 1.92
+    },
+    {
+      "word": "portal",
+      "start": 1.92,
+      "end": 2.24
+    },
+    {
+      "word": "where",
+      "start": 2.24,
+      "end": 2.7
+    },
+    {
+      "word": "clients",
+      "start": 2.7,
+      "end": 3.04
+    },
+    {
+      "word": "review,",
+      "start": 3.04,
+      "end": 3.62
+    },
+    {
+      "word": "approve,",
+      "start": 3.82,
+      "end": 4.3
+    },
+    {
+      "word": "and",
+      "start": 4.62,
+      "end": 4.84
+    },
+    {
+      "word": "request",
+      "start": 4.84,
+      "end": 5.12
+    },
+    {
+      "word": "edits.",
+      "start": 5.12,
+      "end": 5.64
+    },
+    {
+      "word": "Agencies",
+      "start": 6.3,
+      "end": 6.6
+    },
+    {
+      "word": "waste",
+      "start": 6.6,
+      "end": 7.02
+    },
+    {
+      "word": "dozens",
+      "start": 7.02,
+      "end": 7.34
+    },
+    {
+      "word": "of",
+      "start": 7.34,
+      "end": 7.6
+    },
+    {
+      "word": "hours",
+      "start": 7.6,
+      "end": 7.9
+    },
+    {
+      "word": "every",
+      "start": 7.9,
+      "end": 8.26
+    },
+    {
+      "word": "month",
+      "start": 8.26,
+      "end": 8.62
+    },
+    {
+      "word": "emailing",
+      "start": 8.62,
+      "end": 9.14
+    },
+    {
+      "word": "draft",
+      "start": 9.14,
+      "end": 9.44
+    },
+    {
+      "word": "attachments",
+      "start": 9.44,
+      "end": 9.94
+    },
+    {
+      "word": "back",
+      "start": 9.94,
+      "end": 10.34
+    },
+    {
+      "word": "and",
+      "start": 10.34,
+      "end": 10.58
+    },
+    {
+      "word": "forth",
+      "start": 10.58,
+      "end": 10.82
+    },
+    {
+      "word": "with",
+      "start": 10.82,
+      "end": 11.1
+    },
+    {
+      "word": "clients.",
+      "start": 11.1,
+      "end": 11.56
+    },
+    {
+      "word": "Chaotic",
+      "start": 12.02,
+      "end": 12.4
+    },
+    {
+      "word": "email",
+      "start": 12.4,
+      "end": 12.82
+    },
+    {
+      "word": "threads",
+      "start": 12.82,
+      "end": 13.2
+    },
+    {
+      "word": "cause",
+      "start": 13.2,
+      "end": 13.62
+    },
+    {
+      "word": "version",
+      "start": 13.62,
+      "end": 13.98
+    },
+    {
+      "word": "control",
+      "start": 13.98,
+      "end": 14.48
+    },
+    {
+      "word": "disasters",
+      "start": 14.48,
+      "end": 15.0
+    },
+    {
+      "word": "when",
+      "start": 15.0,
+      "end": 15.58
+    },
+    {
+      "word": "clients",
+      "start": 15.58,
+      "end": 15.88
+    },
+    {
+      "word": "approve",
+      "start": 15.88,
+      "end": 16.34
+    },
+    {
+      "word": "outdated",
+      "start": 16.34,
+      "end": 16.82
+    },
+    {
+      "word": "creative",
+      "start": 16.82,
+      "end": 17.32
+    },
+    {
+      "word": "assets",
+      "start": 17.32,
+      "end": 17.72
+    },
+    {
+      "word": "by",
+      "start": 17.72,
+      "end": 18.14
+    },
+    {
+      "word": "mistake.",
+      "start": 18.14,
+      "end": 18.68
+    },
+    {
+      "word": "Deploy",
+      "start": 19.3,
+      "end": 19.48
+    },
+    {
+      "word": "an",
+      "start": 19.48,
+      "end": 19.78
+    },
+    {
+      "word": "automated,",
+      "start": 19.78,
+      "end": 20.26
+    },
+    {
+      "word": "irritable",
+      "start": 20.44,
+      "end": 20.72
+    },
+    {
+      "word": "client",
+      "start": 20.72,
+      "end": 21.12
+    },
+    {
+      "word": "portal",
+      "start": 21.12,
+      "end": 21.44
+    },
+    {
+      "word": "that",
+      "start": 21.44,
+      "end": 21.76
+    },
+    {
+      "word": "locks",
+      "start": 21.76,
+      "end": 22.06
+    },
+    {
+      "word": "past",
+      "start": 22.06,
+      "end": 22.48
+    },
+    {
+      "word": "drafts",
+      "start": 22.48,
+      "end": 23.0
+    },
+    {
+      "word": "and",
+      "start": 23.0,
+      "end": 23.4
+    },
+    {
+      "word": "clearly",
+      "start": 23.4,
+      "end": 23.72
+    },
+    {
+      "word": "marks",
+      "start": 23.72,
+      "end": 24.04
+    },
+    {
+      "word": "active",
+      "start": 24.04,
+      "end": 24.46
+    },
+    {
+      "word": "review",
+      "start": 24.46,
+      "end": 24.8
+    },
+    {
+      "word": "stages.",
+      "start": 24.8,
+      "end": 25.3
+    },
+    {
+      "word": "You",
+      "start": 25.94,
+      "end": 26.08
+    },
+    {
+      "word": "protect",
+      "start": 26.08,
+      "end": 26.32
+    },
+    {
+      "word": "project",
+      "start": 26.32,
+      "end": 26.84
+    },
+    {
+      "word": "scope",
+      "start": 26.84,
+      "end": 27.3
+    },
+    {
+      "word": "and",
+      "start": 27.3,
+      "end": 27.74
+    },
+    {
+      "word": "eliminate",
+      "start": 27.74,
+      "end": 28.2
+    },
+    {
+      "word": "revision",
+      "start": 28.2,
+      "end": 28.7
+    },
+    {
+      "word": "confusion.",
+      "start": 28.7,
+      "end": 29.2
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The centralized white-label client portal where clients review, approve, and request edits.",
+      "line2": "WHITE-LABEL CLIENT PORTAL",
+      "tag": "\ud83d\uded1 White-label client portal that houses deliverables and revision requests",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: White-label client portal that houses deliverables and revision requests",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: White-label client portal that houses deliverables and revision requests",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "White-label client portal that houses deliverables and revision requests",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

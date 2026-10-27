@@ -1,0 +1,401 @@
+{
+  "page": "page-01",
+  "idea": "Automated QA checklist that audits deliverables before client review",
+  "text": "Nothing damages client trust faster than delivering work with basic typos or broken links. When creative teams rush to hit deadlines, formatting errors slip past exhausted account managers. Relying on messy Slack handoffs for quality checks turns high-paying clients into unpaid proofreaders. Build an automated ClickUp review gate that blocks client delivery until mandatory QA audit checklists pass. You protect agency reputation and eliminate embarrassing revisions.",
+  "duration": 29.498,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Nothing",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "damages",
+      "start": 0.4,
+      "end": 0.88
+    },
+    {
+      "word": "client",
+      "start": 0.88,
+      "end": 1.34
+    },
+    {
+      "word": "trust",
+      "start": 1.34,
+      "end": 1.68
+    },
+    {
+      "word": "faster",
+      "start": 1.68,
+      "end": 2.1
+    },
+    {
+      "word": "than",
+      "start": 2.1,
+      "end": 2.36
+    },
+    {
+      "word": "delivering",
+      "start": 2.36,
+      "end": 2.64
+    },
+    {
+      "word": "work",
+      "start": 2.64,
+      "end": 3.02
+    },
+    {
+      "word": "with",
+      "start": 3.02,
+      "end": 3.32
+    },
+    {
+      "word": "basic",
+      "start": 3.32,
+      "end": 3.58
+    },
+    {
+      "word": "typos",
+      "start": 3.58,
+      "end": 4.12
+    },
+    {
+      "word": "or",
+      "start": 4.12,
+      "end": 4.44
+    },
+    {
+      "word": "broken",
+      "start": 4.44,
+      "end": 4.76
+    },
+    {
+      "word": "links.",
+      "start": 4.76,
+      "end": 5.18
+    },
+    {
+      "word": "When",
+      "start": 5.72,
+      "end": 5.92
+    },
+    {
+      "word": "creative",
+      "start": 5.92,
+      "end": 6.2
+    },
+    {
+      "word": "teams",
+      "start": 6.2,
+      "end": 6.78
+    },
+    {
+      "word": "rush",
+      "start": 6.78,
+      "end": 7.06
+    },
+    {
+      "word": "to",
+      "start": 7.06,
+      "end": 7.26
+    },
+    {
+      "word": "hit",
+      "start": 7.26,
+      "end": 7.46
+    },
+    {
+      "word": "deadlines,",
+      "start": 7.46,
+      "end": 8.0
+    },
+    {
+      "word": "formatting",
+      "start": 8.76,
+      "end": 8.76
+    },
+    {
+      "word": "errors",
+      "start": 8.76,
+      "end": 9.34
+    },
+    {
+      "word": "slip",
+      "start": 9.34,
+      "end": 9.76
+    },
+    {
+      "word": "past",
+      "start": 9.76,
+      "end": 10.16
+    },
+    {
+      "word": "exhausted",
+      "start": 10.16,
+      "end": 10.66
+    },
+    {
+      "word": "account",
+      "start": 10.66,
+      "end": 11.1
+    },
+    {
+      "word": "managers.",
+      "start": 11.1,
+      "end": 11.6
+    },
+    {
+      "word": "Relying",
+      "start": 12.04,
+      "end": 12.34
+    },
+    {
+      "word": "on",
+      "start": 12.34,
+      "end": 12.6
+    },
+    {
+      "word": "messy",
+      "start": 12.6,
+      "end": 12.84
+    },
+    {
+      "word": "slack",
+      "start": 12.84,
+      "end": 13.2
+    },
+    {
+      "word": "handoffs",
+      "start": 13.2,
+      "end": 13.66
+    },
+    {
+      "word": "for",
+      "start": 13.66,
+      "end": 13.94
+    },
+    {
+      "word": "quality",
+      "start": 13.94,
+      "end": 14.3
+    },
+    {
+      "word": "checks",
+      "start": 14.3,
+      "end": 14.62
+    },
+    {
+      "word": "turns",
+      "start": 14.62,
+      "end": 15.06
+    },
+    {
+      "word": "high",
+      "start": 15.06,
+      "end": 15.38
+    },
+    {
+      "word": "paying",
+      "start": 15.38,
+      "end": 15.64
+    },
+    {
+      "word": "clients",
+      "start": 15.64,
+      "end": 16.04
+    },
+    {
+      "word": "into",
+      "start": 16.04,
+      "end": 16.4
+    },
+    {
+      "word": "unpaid",
+      "start": 16.4,
+      "end": 16.8
+    },
+    {
+      "word": "proofreaders.",
+      "start": 16.8,
+      "end": 17.86
+    },
+    {
+      "word": "Build",
+      "start": 18.18,
+      "end": 18.36
+    },
+    {
+      "word": "an",
+      "start": 18.36,
+      "end": 18.82
+    },
+    {
+      "word": "automated",
+      "start": 18.82,
+      "end": 18.94
+    },
+    {
+      "word": "click",
+      "start": 18.94,
+      "end": 19.3
+    },
+    {
+      "word": "-up",
+      "start": 19.3,
+      "end": 19.56
+    },
+    {
+      "word": "review",
+      "start": 19.56,
+      "end": 19.82
+    },
+    {
+      "word": "gate",
+      "start": 19.82,
+      "end": 20.1
+    },
+    {
+      "word": "that",
+      "start": 20.1,
+      "end": 20.38
+    },
+    {
+      "word": "blocks",
+      "start": 20.38,
+      "end": 20.66
+    },
+    {
+      "word": "client",
+      "start": 20.66,
+      "end": 21.1
+    },
+    {
+      "word": "delivery",
+      "start": 21.1,
+      "end": 21.54
+    },
+    {
+      "word": "until",
+      "start": 21.54,
+      "end": 22.24
+    },
+    {
+      "word": "mandatory",
+      "start": 22.24,
+      "end": 22.84
+    },
+    {
+      "word": "QA",
+      "start": 22.84,
+      "end": 23.5
+    },
+    {
+      "word": "audit",
+      "start": 23.5,
+      "end": 23.82
+    },
+    {
+      "word": "checklists",
+      "start": 23.82,
+      "end": 24.3
+    },
+    {
+      "word": "pass.",
+      "start": 24.3,
+      "end": 24.84
+    },
+    {
+      "word": "You",
+      "start": 24.84,
+      "end": 25.48
+    },
+    {
+      "word": "protect",
+      "start": 25.48,
+      "end": 25.86
+    },
+    {
+      "word": "agency",
+      "start": 25.86,
+      "end": 26.4
+    },
+    {
+      "word": "reputation",
+      "start": 26.4,
+      "end": 27.12
+    },
+    {
+      "word": "and",
+      "start": 27.12,
+      "end": 27.64
+    },
+    {
+      "word": "eliminate",
+      "start": 27.64,
+      "end": 28.12
+    },
+    {
+      "word": "embarrassing",
+      "start": 28.12,
+      "end": 28.8
+    },
+    {
+      "word": "revisions.",
+      "start": 28.8,
+      "end": 29.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Nothing damages client trust faster than delivering work with basic typos or broken links.",
+      "line2": "AUDIT DELIVERABLES INSTANTLY",
+      "tag": "\ud83d\uded1 Automated QA checklist that audits deliverables before client review",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Automated QA checklist that audits deliverables before client review",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Automated QA checklist that audits deliverables before client review",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Automated QA checklist that audits deliverables before client review"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Automated QA checklist that audits deliverables before client review",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

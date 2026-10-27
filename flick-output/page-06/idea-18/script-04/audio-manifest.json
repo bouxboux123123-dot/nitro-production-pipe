@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Automated sprint retro board with anonymous feedback collection",
+  "text": "The continuous improvement framework that makes remote engineering teams ten percent faster every sprint. Most distributed teams treat retros like venting sessions, producing zero documented fixes for chronic bottlenecks. Without automated issue tracking, team complaints vanish the second developers disconnect from the call. Metro Retro collects anonymous insights, groups common friction, and converts voted solutions into Linear tickets. This compounds team delivery speed with zero added chaos.",
+  "duration": 30.351,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "continuous",
+      "start": 0.26,
+      "end": 0.66
+    },
+    {
+      "word": "improvement",
+      "start": 0.66,
+      "end": 1.28
+    },
+    {
+      "word": "framework",
+      "start": 1.28,
+      "end": 1.7
+    },
+    {
+      "word": "that",
+      "start": 1.7,
+      "end": 2.04
+    },
+    {
+      "word": "makes",
+      "start": 2.04,
+      "end": 2.32
+    },
+    {
+      "word": "remote",
+      "start": 2.32,
+      "end": 2.72
+    },
+    {
+      "word": "engineering",
+      "start": 2.72,
+      "end": 3.28
+    },
+    {
+      "word": "teams",
+      "start": 3.28,
+      "end": 3.84
+    },
+    {
+      "word": "10",
+      "start": 3.84,
+      "end": 4.32
+    },
+    {
+      "word": "%",
+      "start": 4.32,
+      "end": 4.66
+    },
+    {
+      "word": "faster",
+      "start": 4.66,
+      "end": 5.06
+    },
+    {
+      "word": "every",
+      "start": 5.06,
+      "end": 5.46
+    },
+    {
+      "word": "sprint.",
+      "start": 5.46,
+      "end": 5.98
+    },
+    {
+      "word": "Most",
+      "start": 6.38,
+      "end": 6.7
+    },
+    {
+      "word": "distributed",
+      "start": 6.7,
+      "end": 7.2
+    },
+    {
+      "word": "teams",
+      "start": 7.2,
+      "end": 7.8
+    },
+    {
+      "word": "treat",
+      "start": 7.8,
+      "end": 8.12
+    },
+    {
+      "word": "retro",
+      "start": 8.12,
+      "end": 8.5
+    },
+    {
+      "word": "-S",
+      "start": 8.5,
+      "end": 8.74
+    },
+    {
+      "word": "like",
+      "start": 8.74,
+      "end": 8.98
+    },
+    {
+      "word": "venting",
+      "start": 8.98,
+      "end": 9.34
+    },
+    {
+      "word": "sessions,",
+      "start": 9.34,
+      "end": 9.84
+    },
+    {
+      "word": "producing",
+      "start": 10.26,
+      "end": 10.56
+    },
+    {
+      "word": "zero",
+      "start": 10.56,
+      "end": 11.12
+    },
+    {
+      "word": "documented",
+      "start": 11.12,
+      "end": 11.62
+    },
+    {
+      "word": "fixes",
+      "start": 11.62,
+      "end": 12.18
+    },
+    {
+      "word": "for",
+      "start": 12.18,
+      "end": 12.46
+    },
+    {
+      "word": "chronic",
+      "start": 12.46,
+      "end": 12.8
+    },
+    {
+      "word": "bottlenecks.",
+      "start": 12.8,
+      "end": 13.52
+    },
+    {
+      "word": "Without",
+      "start": 13.82,
+      "end": 14.18
+    },
+    {
+      "word": "automated",
+      "start": 14.18,
+      "end": 14.58
+    },
+    {
+      "word": "issue",
+      "start": 14.58,
+      "end": 14.92
+    },
+    {
+      "word": "tracking,",
+      "start": 14.92,
+      "end": 15.32
+    },
+    {
+      "word": "team",
+      "start": 15.68,
+      "end": 15.92
+    },
+    {
+      "word": "complaints",
+      "start": 15.92,
+      "end": 16.38
+    },
+    {
+      "word": "vanish",
+      "start": 16.38,
+      "end": 16.76
+    },
+    {
+      "word": "the",
+      "start": 16.76,
+      "end": 17.04
+    },
+    {
+      "word": "second",
+      "start": 17.04,
+      "end": 17.3
+    },
+    {
+      "word": "developers",
+      "start": 17.3,
+      "end": 17.74
+    },
+    {
+      "word": "disconnect",
+      "start": 17.74,
+      "end": 18.28
+    },
+    {
+      "word": "from",
+      "start": 18.28,
+      "end": 18.56
+    },
+    {
+      "word": "the",
+      "start": 18.56,
+      "end": 18.76
+    },
+    {
+      "word": "call.",
+      "start": 18.76,
+      "end": 19.04
+    },
+    {
+      "word": "Metro",
+      "start": 19.86,
+      "end": 19.86
+    },
+    {
+      "word": "Retro",
+      "start": 19.86,
+      "end": 20.3
+    },
+    {
+      "word": "collects",
+      "start": 20.3,
+      "end": 20.64
+    },
+    {
+      "word": "anonymous",
+      "start": 20.64,
+      "end": 21.14
+    },
+    {
+      "word": "insights,",
+      "start": 21.14,
+      "end": 21.68
+    },
+    {
+      "word": "groups",
+      "start": 22.08,
+      "end": 22.4
+    },
+    {
+      "word": "common",
+      "start": 22.4,
+      "end": 22.76
+    },
+    {
+      "word": "friction,",
+      "start": 22.76,
+      "end": 23.26
+    },
+    {
+      "word": "and",
+      "start": 23.56,
+      "end": 23.84
+    },
+    {
+      "word": "converts",
+      "start": 23.84,
+      "end": 24.12
+    },
+    {
+      "word": "voted",
+      "start": 24.12,
+      "end": 24.56
+    },
+    {
+      "word": "solutions",
+      "start": 24.56,
+      "end": 25.1
+    },
+    {
+      "word": "into",
+      "start": 25.1,
+      "end": 25.4
+    },
+    {
+      "word": "linear",
+      "start": 25.4,
+      "end": 25.62
+    },
+    {
+      "word": "tickets.",
+      "start": 25.62,
+      "end": 26.06
+    },
+    {
+      "word": "This",
+      "start": 26.06,
+      "end": 26.88
+    },
+    {
+      "word": "compounds",
+      "start": 26.88,
+      "end": 27.4
+    },
+    {
+      "word": "team",
+      "start": 27.4,
+      "end": 27.86
+    },
+    {
+      "word": "delivery",
+      "start": 27.86,
+      "end": 28.3
+    },
+    {
+      "word": "speed",
+      "start": 28.3,
+      "end": 28.66
+    },
+    {
+      "word": "with",
+      "start": 28.66,
+      "end": 28.94
+    },
+    {
+      "word": "zero",
+      "start": 28.94,
+      "end": 29.46
+    },
+    {
+      "word": "added",
+      "start": 29.46,
+      "end": 29.76
+    },
+    {
+      "word": "chaos.",
+      "start": 29.76,
+      "end": 30.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The continuous improvement framework that makes remote teams 10 percent better every sprint.",
+      "line2": "ANONYMOUS SPRINT RETROS",
+      "tag": "\ud83d\uded1 Automated sprint retro board with anonymous feedback collection",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated sprint retro board with anonymous feedback collection",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated sprint retro board with anonymous feedback collection",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

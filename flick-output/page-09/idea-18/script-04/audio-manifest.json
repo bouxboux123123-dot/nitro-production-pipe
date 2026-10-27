@@ -1,0 +1,391 @@
+{
+  "page": "page-09",
+  "idea": "Raycast vs Alfred: which Mac productivity launcher takes the crown",
+  "text": "A keyboard launcher can easily save you one hundred mouse clicks every single hour. Reaching for your trackpad to switch apps, resize windows, and copy links destroys deep focus. These micro-delays waste thirty minutes of fragmented attention across an average creative or coding workday. Raycast combines clipboard history, window tiling, quick calculations, and app launching under one universal hotkey. You navigate your computer at pure thought speed.",
+  "duration": 25.237,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Keyboard",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "launcher",
+      "start": 0.46,
+      "end": 0.74
+    },
+    {
+      "word": "can",
+      "start": 0.74,
+      "end": 1.1
+    },
+    {
+      "word": "easily",
+      "start": 1.1,
+      "end": 1.3
+    },
+    {
+      "word": "save",
+      "start": 1.3,
+      "end": 1.68
+    },
+    {
+      "word": "you",
+      "start": 1.68,
+      "end": 1.96
+    },
+    {
+      "word": "100",
+      "start": 1.96,
+      "end": 2.28
+    },
+    {
+      "word": "mouse",
+      "start": 2.28,
+      "end": 2.6
+    },
+    {
+      "word": "clicks",
+      "start": 2.6,
+      "end": 2.86
+    },
+    {
+      "word": "every",
+      "start": 2.86,
+      "end": 3.22
+    },
+    {
+      "word": "single",
+      "start": 3.22,
+      "end": 3.58
+    },
+    {
+      "word": "hour.",
+      "start": 3.58,
+      "end": 4.12
+    },
+    {
+      "word": "Reaching",
+      "start": 4.52,
+      "end": 4.66
+    },
+    {
+      "word": "for",
+      "start": 4.66,
+      "end": 4.84
+    },
+    {
+      "word": "your",
+      "start": 4.84,
+      "end": 5.16
+    },
+    {
+      "word": "trackpad",
+      "start": 5.16,
+      "end": 5.4
+    },
+    {
+      "word": "to",
+      "start": 5.4,
+      "end": 5.6
+    },
+    {
+      "word": "switch",
+      "start": 5.6,
+      "end": 5.82
+    },
+    {
+      "word": "apps,",
+      "start": 5.82,
+      "end": 6.22
+    },
+    {
+      "word": "resize",
+      "start": 6.54,
+      "end": 6.82
+    },
+    {
+      "word": "windows",
+      "start": 6.82,
+      "end": 7.26
+    },
+    {
+      "word": "and",
+      "start": 7.26,
+      "end": 7.62
+    },
+    {
+      "word": "copy",
+      "start": 7.62,
+      "end": 7.88
+    },
+    {
+      "word": "links",
+      "start": 7.88,
+      "end": 8.16
+    },
+    {
+      "word": "destroys",
+      "start": 8.16,
+      "end": 8.58
+    },
+    {
+      "word": "deep",
+      "start": 8.58,
+      "end": 8.96
+    },
+    {
+      "word": "focus.",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "word": "These",
+      "start": 9.92,
+      "end": 10.16
+    },
+    {
+      "word": "micro",
+      "start": 10.16,
+      "end": 10.38
+    },
+    {
+      "word": "delays",
+      "start": 10.38,
+      "end": 10.74
+    },
+    {
+      "word": "waste",
+      "start": 10.74,
+      "end": 11.06
+    },
+    {
+      "word": "30",
+      "start": 11.06,
+      "end": 11.42
+    },
+    {
+      "word": "minutes",
+      "start": 11.42,
+      "end": 11.64
+    },
+    {
+      "word": "of",
+      "start": 11.64,
+      "end": 11.86
+    },
+    {
+      "word": "fragmented",
+      "start": 11.86,
+      "end": 12.2
+    },
+    {
+      "word": "attention",
+      "start": 12.2,
+      "end": 12.68
+    },
+    {
+      "word": "across",
+      "start": 12.68,
+      "end": 13.0
+    },
+    {
+      "word": "an",
+      "start": 13.0,
+      "end": 13.26
+    },
+    {
+      "word": "average",
+      "start": 13.26,
+      "end": 13.5
+    },
+    {
+      "word": "creative",
+      "start": 13.5,
+      "end": 14.0
+    },
+    {
+      "word": "or",
+      "start": 14.0,
+      "end": 14.3
+    },
+    {
+      "word": "coding",
+      "start": 14.3,
+      "end": 14.52
+    },
+    {
+      "word": "workday.",
+      "start": 14.52,
+      "end": 15.34
+    },
+    {
+      "word": "Raycast",
+      "start": 15.7,
+      "end": 16.0
+    },
+    {
+      "word": "combines",
+      "start": 16.0,
+      "end": 16.46
+    },
+    {
+      "word": "clipboard",
+      "start": 16.46,
+      "end": 16.88
+    },
+    {
+      "word": "history,",
+      "start": 16.88,
+      "end": 17.4
+    },
+    {
+      "word": "window",
+      "start": 18.02,
+      "end": 18.02
+    },
+    {
+      "word": "tiling,",
+      "start": 18.02,
+      "end": 18.42
+    },
+    {
+      "word": "quick",
+      "start": 18.86,
+      "end": 19.08
+    },
+    {
+      "word": "calculations,",
+      "start": 19.08,
+      "end": 19.66
+    },
+    {
+      "word": "and",
+      "start": 20.22,
+      "end": 20.38
+    },
+    {
+      "word": "app",
+      "start": 20.38,
+      "end": 20.58
+    },
+    {
+      "word": "launching",
+      "start": 20.58,
+      "end": 20.94
+    },
+    {
+      "word": "under",
+      "start": 20.94,
+      "end": 21.2
+    },
+    {
+      "word": "one",
+      "start": 21.2,
+      "end": 21.48
+    },
+    {
+      "word": "universal",
+      "start": 21.48,
+      "end": 21.9
+    },
+    {
+      "word": "hotkey.",
+      "start": 21.9,
+      "end": 22.58
+    },
+    {
+      "word": "You",
+      "start": 22.58,
+      "end": 23.04
+    },
+    {
+      "word": "navigate",
+      "start": 23.04,
+      "end": 23.34
+    },
+    {
+      "word": "your",
+      "start": 23.34,
+      "end": 23.68
+    },
+    {
+      "word": "computer",
+      "start": 23.68,
+      "end": 23.96
+    },
+    {
+      "word": "at",
+      "start": 23.96,
+      "end": 24.22
+    },
+    {
+      "word": "pure",
+      "start": 24.22,
+      "end": 24.48
+    },
+    {
+      "word": "thought",
+      "start": 24.48,
+      "end": 24.8
+    },
+    {
+      "word": "speed.",
+      "start": 24.8,
+      "end": 25.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "How a keyboard launcher can save you 100 mouse clicks every single hour.",
+      "line2": "RAYCAST VS ALFRED",
+      "tag": "\ud83d\uded1 Raycast vs Alfred",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Raycast vs Alfred",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Raycast vs Alfred",
+        "subtitle": "Raycast vs Alfred"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Raycast vs Alfred"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Raycast vs Alfred"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Raycast vs Alfred",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

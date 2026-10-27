@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Airtable Cobuilder: build complex databases from plain English prompts",
+  "text": "Here is what the new Airtable Cobuilder can and cannot do for your team. Teams waste weeks trying to force generative tools into building fully automated operational backends. While AI generates relational structures flawlessly, complex script extensions and external webhooks still require manual configuration. Cobuilder handles table architecture, interface layouts, and core formulas so your operators can focus on business logic. You launch powerful databases ten times faster.",
+  "duration": 29.925,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "is",
+      "start": 0.3,
+      "end": 0.46
+    },
+    {
+      "word": "what",
+      "start": 0.46,
+      "end": 0.66
+    },
+    {
+      "word": "the",
+      "start": 0.66,
+      "end": 0.78
+    },
+    {
+      "word": "new",
+      "start": 0.78,
+      "end": 1.02
+    },
+    {
+      "word": "Airtable",
+      "start": 1.02,
+      "end": 1.46
+    },
+    {
+      "word": "Cobbleder",
+      "start": 1.46,
+      "end": 2.04
+    },
+    {
+      "word": "can",
+      "start": 2.04,
+      "end": 2.26
+    },
+    {
+      "word": "and",
+      "start": 2.26,
+      "end": 2.6
+    },
+    {
+      "word": "cannot",
+      "start": 2.6,
+      "end": 2.88
+    },
+    {
+      "word": "do",
+      "start": 2.88,
+      "end": 3.18
+    },
+    {
+      "word": "for",
+      "start": 3.18,
+      "end": 3.32
+    },
+    {
+      "word": "your",
+      "start": 3.32,
+      "end": 3.52
+    },
+    {
+      "word": "team.",
+      "start": 3.52,
+      "end": 4.02
+    },
+    {
+      "word": "Teams",
+      "start": 4.66,
+      "end": 4.66
+    },
+    {
+      "word": "waste",
+      "start": 4.66,
+      "end": 4.94
+    },
+    {
+      "word": "weeks",
+      "start": 4.94,
+      "end": 5.32
+    },
+    {
+      "word": "trying",
+      "start": 5.32,
+      "end": 5.58
+    },
+    {
+      "word": "to",
+      "start": 5.58,
+      "end": 5.78
+    },
+    {
+      "word": "force",
+      "start": 5.78,
+      "end": 6.08
+    },
+    {
+      "word": "generative",
+      "start": 6.08,
+      "end": 6.54
+    },
+    {
+      "word": "tools",
+      "start": 6.54,
+      "end": 6.96
+    },
+    {
+      "word": "into",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "word": "building",
+      "start": 7.2,
+      "end": 7.62
+    },
+    {
+      "word": "fully",
+      "start": 7.62,
+      "end": 8.0
+    },
+    {
+      "word": "automated",
+      "start": 8.0,
+      "end": 8.42
+    },
+    {
+      "word": "operational",
+      "start": 8.42,
+      "end": 9.08
+    },
+    {
+      "word": "backends.",
+      "start": 9.08,
+      "end": 9.7
+    },
+    {
+      "word": "While",
+      "start": 10.38,
+      "end": 10.64
+    },
+    {
+      "word": "AI",
+      "start": 10.64,
+      "end": 11.08
+    },
+    {
+      "word": "generates",
+      "start": 11.08,
+      "end": 11.64
+    },
+    {
+      "word": "relational",
+      "start": 11.64,
+      "end": 12.2
+    },
+    {
+      "word": "structures",
+      "start": 12.2,
+      "end": 12.8
+    },
+    {
+      "word": "flawlessly,",
+      "start": 12.8,
+      "end": 13.5
+    },
+    {
+      "word": "complex",
+      "start": 14.0,
+      "end": 14.24
+    },
+    {
+      "word": "script",
+      "start": 14.24,
+      "end": 14.6
+    },
+    {
+      "word": "extensions",
+      "start": 14.6,
+      "end": 15.22
+    },
+    {
+      "word": "and",
+      "start": 15.22,
+      "end": 15.66
+    },
+    {
+      "word": "external",
+      "start": 15.66,
+      "end": 16.0
+    },
+    {
+      "word": "webhooks",
+      "start": 16.0,
+      "end": 16.56
+    },
+    {
+      "word": "still",
+      "start": 16.56,
+      "end": 16.82
+    },
+    {
+      "word": "require",
+      "start": 16.82,
+      "end": 17.34
+    },
+    {
+      "word": "manual",
+      "start": 17.34,
+      "end": 17.82
+    },
+    {
+      "word": "configuration.",
+      "start": 17.82,
+      "end": 18.58
+    },
+    {
+      "word": "Cobbleder",
+      "start": 19.02,
+      "end": 19.54
+    },
+    {
+      "word": "handles",
+      "start": 19.54,
+      "end": 19.88
+    },
+    {
+      "word": "table",
+      "start": 19.88,
+      "end": 20.34
+    },
+    {
+      "word": "architecture,",
+      "start": 20.34,
+      "end": 20.92
+    },
+    {
+      "word": "interface",
+      "start": 21.52,
+      "end": 21.68
+    },
+    {
+      "word": "layouts,",
+      "start": 21.68,
+      "end": 22.18
+    },
+    {
+      "word": "and",
+      "start": 22.5,
+      "end": 22.72
+    },
+    {
+      "word": "core",
+      "start": 22.72,
+      "end": 23.0
+    },
+    {
+      "word": "formulas",
+      "start": 23.0,
+      "end": 23.4
+    },
+    {
+      "word": "so",
+      "start": 23.4,
+      "end": 23.94
+    },
+    {
+      "word": "your",
+      "start": 23.94,
+      "end": 24.22
+    },
+    {
+      "word": "operators",
+      "start": 24.22,
+      "end": 24.62
+    },
+    {
+      "word": "can",
+      "start": 24.62,
+      "end": 25.0
+    },
+    {
+      "word": "focus",
+      "start": 25.0,
+      "end": 25.28
+    },
+    {
+      "word": "on",
+      "start": 25.28,
+      "end": 25.64
+    },
+    {
+      "word": "business",
+      "start": 25.64,
+      "end": 25.92
+    },
+    {
+      "word": "logic.",
+      "start": 25.92,
+      "end": 26.44
+    },
+    {
+      "word": "You",
+      "start": 26.44,
+      "end": 27.18
+    },
+    {
+      "word": "launch",
+      "start": 27.18,
+      "end": 27.46
+    },
+    {
+      "word": "powerful",
+      "start": 27.46,
+      "end": 27.94
+    },
+    {
+      "word": "databases",
+      "start": 27.94,
+      "end": 28.52
+    },
+    {
+      "word": "10",
+      "start": 28.52,
+      "end": 29.02
+    },
+    {
+      "word": "times",
+      "start": 29.02,
+      "end": 29.4
+    },
+    {
+      "word": "faster.",
+      "start": 29.4,
+      "end": 29.82
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "What the new Airtable Cobuilder can and cannot do for your team.",
+      "line2": "AIRTABLE AI COBUILDER LAUNCH",
+      "tag": "\ud83d\uded1 Airtable Cobuilder",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Airtable Cobuilder",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

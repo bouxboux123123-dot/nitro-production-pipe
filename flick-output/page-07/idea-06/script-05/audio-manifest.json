@@ -1,0 +1,386 @@
+{
+  "page": "page-07",
+  "idea": "Rapid customer onboarding checklist app for B2B SaaS pilots",
+  "text": "Guide your new software users to their first breakthrough moment instantly. Most B2B SaaS applications lose sixty percent of new registrations during the first session. Friction occurs when complex setup menus distract users from completing their primary workflow. Implement a step-by-step checklist inside your dashboard that triggers celebration confetti and in-app tips automatically. You maximize activation rates and eliminate early pilot churn.",
+  "duration": 25.237,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Guide",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "your",
+      "start": 0.28,
+      "end": 0.46
+    },
+    {
+      "word": "new",
+      "start": 0.46,
+      "end": 0.68
+    },
+    {
+      "word": "software",
+      "start": 0.68,
+      "end": 0.94
+    },
+    {
+      "word": "users",
+      "start": 0.94,
+      "end": 1.28
+    },
+    {
+      "word": "to",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "word": "their",
+      "start": 1.52,
+      "end": 1.74
+    },
+    {
+      "word": "first",
+      "start": 1.74,
+      "end": 2.02
+    },
+    {
+      "word": "breakthrough",
+      "start": 2.02,
+      "end": 2.38
+    },
+    {
+      "word": "moment",
+      "start": 2.38,
+      "end": 2.74
+    },
+    {
+      "word": "instantly.",
+      "start": 2.74,
+      "end": 3.44
+    },
+    {
+      "word": "Most",
+      "start": 3.96,
+      "end": 3.98
+    },
+    {
+      "word": "B2B",
+      "start": 3.98,
+      "end": 4.7
+    },
+    {
+      "word": "saw",
+      "start": 4.7,
+      "end": 4.9
+    },
+    {
+      "word": "S",
+      "start": 4.9,
+      "end": 5.16
+    },
+    {
+      "word": "applications",
+      "start": 5.16,
+      "end": 5.7
+    },
+    {
+      "word": "lose",
+      "start": 5.7,
+      "end": 6.08
+    },
+    {
+      "word": "60",
+      "start": 6.08,
+      "end": 6.5
+    },
+    {
+      "word": "%",
+      "start": 6.5,
+      "end": 6.84
+    },
+    {
+      "word": "of",
+      "start": 6.84,
+      "end": 6.9
+    },
+    {
+      "word": "new",
+      "start": 6.9,
+      "end": 7.1
+    },
+    {
+      "word": "registrations",
+      "start": 7.1,
+      "end": 7.64
+    },
+    {
+      "word": "during",
+      "start": 7.64,
+      "end": 8.1
+    },
+    {
+      "word": "the",
+      "start": 8.1,
+      "end": 8.26
+    },
+    {
+      "word": "first",
+      "start": 8.26,
+      "end": 8.46
+    },
+    {
+      "word": "session.",
+      "start": 8.46,
+      "end": 8.92
+    },
+    {
+      "word": "Friction",
+      "start": 9.38,
+      "end": 9.6
+    },
+    {
+      "word": "occurs",
+      "start": 9.6,
+      "end": 9.98
+    },
+    {
+      "word": "when",
+      "start": 9.98,
+      "end": 10.38
+    },
+    {
+      "word": "complex",
+      "start": 10.38,
+      "end": 10.66
+    },
+    {
+      "word": "setup",
+      "start": 10.66,
+      "end": 10.96
+    },
+    {
+      "word": "menus",
+      "start": 10.96,
+      "end": 11.32
+    },
+    {
+      "word": "distract",
+      "start": 11.32,
+      "end": 11.88
+    },
+    {
+      "word": "users",
+      "start": 11.88,
+      "end": 12.32
+    },
+    {
+      "word": "from",
+      "start": 12.32,
+      "end": 12.62
+    },
+    {
+      "word": "completing",
+      "start": 12.62,
+      "end": 12.86
+    },
+    {
+      "word": "their",
+      "start": 12.86,
+      "end": 13.24
+    },
+    {
+      "word": "primary",
+      "start": 13.24,
+      "end": 13.54
+    },
+    {
+      "word": "workflow.",
+      "start": 13.54,
+      "end": 14.0
+    },
+    {
+      "word": "Implement",
+      "start": 14.62,
+      "end": 14.86
+    },
+    {
+      "word": "a",
+      "start": 14.86,
+      "end": 15.42
+    },
+    {
+      "word": "step",
+      "start": 15.42,
+      "end": 15.6
+    },
+    {
+      "word": "-by",
+      "start": 15.6,
+      "end": 15.84
+    },
+    {
+      "word": "-step",
+      "start": 15.84,
+      "end": 16.08
+    },
+    {
+      "word": "checklist",
+      "start": 16.08,
+      "end": 16.48
+    },
+    {
+      "word": "inside",
+      "start": 16.48,
+      "end": 16.96
+    },
+    {
+      "word": "your",
+      "start": 16.96,
+      "end": 17.16
+    },
+    {
+      "word": "dashboard",
+      "start": 17.16,
+      "end": 17.56
+    },
+    {
+      "word": "that",
+      "start": 17.56,
+      "end": 18.24
+    },
+    {
+      "word": "triggers",
+      "start": 18.24,
+      "end": 18.26
+    },
+    {
+      "word": "celebration",
+      "start": 18.26,
+      "end": 18.86
+    },
+    {
+      "word": "confetti",
+      "start": 18.86,
+      "end": 19.4
+    },
+    {
+      "word": "and",
+      "start": 19.4,
+      "end": 19.92
+    },
+    {
+      "word": "enapt",
+      "start": 19.92,
+      "end": 20.22
+    },
+    {
+      "word": "tips",
+      "start": 20.22,
+      "end": 20.48
+    },
+    {
+      "word": "automatically.",
+      "start": 20.48,
+      "end": 21.06
+    },
+    {
+      "word": "You",
+      "start": 21.78,
+      "end": 21.84
+    },
+    {
+      "word": "maximize",
+      "start": 21.84,
+      "end": 22.32
+    },
+    {
+      "word": "activation",
+      "start": 22.32,
+      "end": 22.9
+    },
+    {
+      "word": "rates",
+      "start": 22.9,
+      "end": 23.38
+    },
+    {
+      "word": "and",
+      "start": 23.38,
+      "end": 23.64
+    },
+    {
+      "word": "eliminate",
+      "start": 23.64,
+      "end": 24.04
+    },
+    {
+      "word": "early",
+      "start": 24.04,
+      "end": 24.5
+    },
+    {
+      "word": "pilot",
+      "start": 24.5,
+      "end": 24.86
+    },
+    {
+      "word": "churn.",
+      "start": 24.86,
+      "end": 25.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Guide your new software users to their first breakthrough moment instantly.",
+      "line2": "RAPID SAAS ONBOARDING",
+      "tag": "\ud83d\uded1 Rapid customer onboarding checklist app for B2B SaaS pilots",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Rapid customer onboarding checklist app for B2B SaaS pilots",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Rapid customer onboarding checklist app for B2B SaaS pilots",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "page": "page-02",
+  "idea": "AI rate calculator based on market data and project complexity",
+  "text": "This AI calculator reveals the exact market rate for your freelance skills in seconds. Solo operators often settle for thirty dollars an hour simply because they lack transparent market data. Charging low rates attracts demanding clients who drain your energy for minimal return. Run Bonsai's rate tool to calculate pricing based on experience, timeline, and commercial impact. You charge what you are worth with zero imposter syndrome.",
+  "duration": 24.704,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "AI",
+      "start": 0.26,
+      "end": 0.62
+    },
+    {
+      "word": "calculator",
+      "start": 0.62,
+      "end": 1.08
+    },
+    {
+      "word": "reveals",
+      "start": 1.08,
+      "end": 1.46
+    },
+    {
+      "word": "the",
+      "start": 1.46,
+      "end": 1.8
+    },
+    {
+      "word": "exact",
+      "start": 1.8,
+      "end": 2.1
+    },
+    {
+      "word": "market",
+      "start": 2.1,
+      "end": 2.4
+    },
+    {
+      "word": "rate",
+      "start": 2.4,
+      "end": 2.7
+    },
+    {
+      "word": "for",
+      "start": 2.7,
+      "end": 2.84
+    },
+    {
+      "word": "your",
+      "start": 2.84,
+      "end": 3.16
+    },
+    {
+      "word": "freelance",
+      "start": 3.16,
+      "end": 3.3
+    },
+    {
+      "word": "skills",
+      "start": 3.3,
+      "end": 3.72
+    },
+    {
+      "word": "in",
+      "start": 3.72,
+      "end": 3.98
+    },
+    {
+      "word": "seconds.",
+      "start": 3.98,
+      "end": 4.54
+    },
+    {
+      "word": "Solo",
+      "start": 5.16,
+      "end": 5.16
+    },
+    {
+      "word": "operators",
+      "start": 5.16,
+      "end": 5.64
+    },
+    {
+      "word": "often",
+      "start": 5.64,
+      "end": 6.22
+    },
+    {
+      "word": "settle",
+      "start": 6.22,
+      "end": 6.38
+    },
+    {
+      "word": "for",
+      "start": 6.38,
+      "end": 6.64
+    },
+    {
+      "word": "$30",
+      "start": 6.64,
+      "end": 7.1
+    },
+    {
+      "word": "an",
+      "start": 7.1,
+      "end": 7.42
+    },
+    {
+      "word": "hour",
+      "start": 7.42,
+      "end": 7.68
+    },
+    {
+      "word": "simply",
+      "start": 7.68,
+      "end": 7.98
+    },
+    {
+      "word": "because",
+      "start": 7.98,
+      "end": 8.48
+    },
+    {
+      "word": "they",
+      "start": 8.48,
+      "end": 8.66
+    },
+    {
+      "word": "lack",
+      "start": 8.66,
+      "end": 8.9
+    },
+    {
+      "word": "transparent",
+      "start": 8.9,
+      "end": 9.4
+    },
+    {
+      "word": "market",
+      "start": 9.4,
+      "end": 9.84
+    },
+    {
+      "word": "data.",
+      "start": 9.84,
+      "end": 10.34
+    },
+    {
+      "word": "Charging",
+      "start": 10.74,
+      "end": 11.18
+    },
+    {
+      "word": "low",
+      "start": 11.18,
+      "end": 11.46
+    },
+    {
+      "word": "rates",
+      "start": 11.46,
+      "end": 11.72
+    },
+    {
+      "word": "attracts",
+      "start": 11.72,
+      "end": 12.16
+    },
+    {
+      "word": "demanding",
+      "start": 12.16,
+      "end": 12.56
+    },
+    {
+      "word": "clients",
+      "start": 12.56,
+      "end": 13.02
+    },
+    {
+      "word": "who",
+      "start": 13.02,
+      "end": 13.24
+    },
+    {
+      "word": "drain",
+      "start": 13.24,
+      "end": 13.44
+    },
+    {
+      "word": "your",
+      "start": 13.44,
+      "end": 13.7
+    },
+    {
+      "word": "energy",
+      "start": 13.7,
+      "end": 13.88
+    },
+    {
+      "word": "for",
+      "start": 13.88,
+      "end": 14.16
+    },
+    {
+      "word": "minimal",
+      "start": 14.16,
+      "end": 14.42
+    },
+    {
+      "word": "return.",
+      "start": 14.42,
+      "end": 14.96
+    },
+    {
+      "word": "Run",
+      "start": 15.56,
+      "end": 15.8
+    },
+    {
+      "word": "Bonsai's",
+      "start": 15.8,
+      "end": 16.38
+    },
+    {
+      "word": "rate",
+      "start": 16.38,
+      "end": 16.64
+    },
+    {
+      "word": "tool",
+      "start": 16.64,
+      "end": 16.88
+    },
+    {
+      "word": "to",
+      "start": 16.88,
+      "end": 17.1
+    },
+    {
+      "word": "calculate",
+      "start": 17.1,
+      "end": 17.54
+    },
+    {
+      "word": "pricing",
+      "start": 17.54,
+      "end": 17.96
+    },
+    {
+      "word": "based",
+      "start": 17.96,
+      "end": 18.3
+    },
+    {
+      "word": "on",
+      "start": 18.3,
+      "end": 18.54
+    },
+    {
+      "word": "experience,",
+      "start": 18.54,
+      "end": 19.16
+    },
+    {
+      "word": "timeline,",
+      "start": 19.94,
+      "end": 19.94
+    },
+    {
+      "word": "and",
+      "start": 20.3,
+      "end": 20.44
+    },
+    {
+      "word": "commercial",
+      "start": 20.44,
+      "end": 20.78
+    },
+    {
+      "word": "impact.",
+      "start": 20.78,
+      "end": 21.26
+    },
+    {
+      "word": "You",
+      "start": 21.76,
+      "end": 21.92
+    },
+    {
+      "word": "charge",
+      "start": 21.92,
+      "end": 22.22
+    },
+    {
+      "word": "what",
+      "start": 22.22,
+      "end": 22.46
+    },
+    {
+      "word": "you",
+      "start": 22.46,
+      "end": 22.56
+    },
+    {
+      "word": "are",
+      "start": 22.56,
+      "end": 22.78
+    },
+    {
+      "word": "worth",
+      "start": 22.78,
+      "end": 22.94
+    },
+    {
+      "word": "with",
+      "start": 22.94,
+      "end": 23.22
+    },
+    {
+      "word": "zero",
+      "start": 23.22,
+      "end": 23.64
+    },
+    {
+      "word": "imposter",
+      "start": 23.64,
+      "end": 24.22
+    },
+    {
+      "word": "syndrome.",
+      "start": 24.22,
+      "end": 24.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This calculator tells you the exact market rate for your freelance skills.",
+      "line2": "CALCULATE FREELANCE RATES",
+      "tag": "\ud83d\uded1 AI rate calculator based on market data and project complexity",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI rate calculator based on market data and project complexity",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI rate calculator based on market data and project complexity",
+        "subtitle": "AI rate calculator based on market data and project complexity"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI rate calculator based on market data and project complexity"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI rate calculator based on market data and project complexity"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI rate calculator based on market data and project complexity",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

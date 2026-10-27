@@ -1,0 +1,396 @@
+{
+  "page": "page-04",
+  "idea": "Ollama: run powerful AI models completely free on your laptop",
+  "text": "The free tool that installs and runs open-source models in just one command. Testing new models usually requires downloading huge checkpoints and debugging broken Python libraries for hours. A single mismatched GPU driver can crash your machine before generating even one response. Ollama solves this by packaging model weights and execution into a single lightweight background service. You spin up local intelligence in under sixty seconds.",
+  "duration": 25.621,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "A",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "free",
+      "start": 0.18,
+      "end": 0.38
+    },
+    {
+      "word": "tool",
+      "start": 0.38,
+      "end": 0.64
+    },
+    {
+      "word": "that",
+      "start": 0.64,
+      "end": 0.82
+    },
+    {
+      "word": "installs",
+      "start": 0.82,
+      "end": 1.32
+    },
+    {
+      "word": "and",
+      "start": 1.32,
+      "end": 1.62
+    },
+    {
+      "word": "runs",
+      "start": 1.62,
+      "end": 1.94
+    },
+    {
+      "word": "open",
+      "start": 1.94,
+      "end": 2.34
+    },
+    {
+      "word": "source",
+      "start": 2.34,
+      "end": 2.62
+    },
+    {
+      "word": "models",
+      "start": 2.62,
+      "end": 2.92
+    },
+    {
+      "word": "in",
+      "start": 2.92,
+      "end": 3.16
+    },
+    {
+      "word": "just",
+      "start": 3.16,
+      "end": 3.38
+    },
+    {
+      "word": "one",
+      "start": 3.38,
+      "end": 3.6
+    },
+    {
+      "word": "command.",
+      "start": 3.6,
+      "end": 4.06
+    },
+    {
+      "word": "Testing",
+      "start": 4.78,
+      "end": 4.8
+    },
+    {
+      "word": "new",
+      "start": 4.8,
+      "end": 5.06
+    },
+    {
+      "word": "models",
+      "start": 5.06,
+      "end": 5.36
+    },
+    {
+      "word": "usually",
+      "start": 5.36,
+      "end": 5.82
+    },
+    {
+      "word": "requires",
+      "start": 5.82,
+      "end": 6.32
+    },
+    {
+      "word": "downloading",
+      "start": 6.32,
+      "end": 6.86
+    },
+    {
+      "word": "huge",
+      "start": 6.86,
+      "end": 7.38
+    },
+    {
+      "word": "checkpoints",
+      "start": 7.38,
+      "end": 7.8
+    },
+    {
+      "word": "and",
+      "start": 7.8,
+      "end": 8.44
+    },
+    {
+      "word": "debugging",
+      "start": 8.44,
+      "end": 8.66
+    },
+    {
+      "word": "broken",
+      "start": 8.66,
+      "end": 9.2
+    },
+    {
+      "word": "Python",
+      "start": 9.2,
+      "end": 9.56
+    },
+    {
+      "word": "libraries",
+      "start": 9.56,
+      "end": 9.96
+    },
+    {
+      "word": "for",
+      "start": 9.96,
+      "end": 10.34
+    },
+    {
+      "word": "hours.",
+      "start": 10.34,
+      "end": 10.72
+    },
+    {
+      "word": "A",
+      "start": 11.3,
+      "end": 11.4
+    },
+    {
+      "word": "single",
+      "start": 11.4,
+      "end": 11.72
+    },
+    {
+      "word": "mismatch",
+      "start": 11.72,
+      "end": 12.2
+    },
+    {
+      "word": "GPU",
+      "start": 12.2,
+      "end": 12.68
+    },
+    {
+      "word": "driver",
+      "start": 12.68,
+      "end": 13.08
+    },
+    {
+      "word": "can",
+      "start": 13.08,
+      "end": 13.38
+    },
+    {
+      "word": "crash",
+      "start": 13.38,
+      "end": 13.62
+    },
+    {
+      "word": "your",
+      "start": 13.62,
+      "end": 13.84
+    },
+    {
+      "word": "machine",
+      "start": 13.84,
+      "end": 14.24
+    },
+    {
+      "word": "before",
+      "start": 14.24,
+      "end": 14.76
+    },
+    {
+      "word": "generating",
+      "start": 14.76,
+      "end": 15.16
+    },
+    {
+      "word": "even",
+      "start": 15.16,
+      "end": 15.58
+    },
+    {
+      "word": "one",
+      "start": 15.58,
+      "end": 15.88
+    },
+    {
+      "word": "response.",
+      "start": 15.88,
+      "end": 16.46
+    },
+    {
+      "word": "Alama",
+      "start": 17.14,
+      "end": 17.42
+    },
+    {
+      "word": "solves",
+      "start": 17.42,
+      "end": 17.74
+    },
+    {
+      "word": "this",
+      "start": 17.74,
+      "end": 18.1
+    },
+    {
+      "word": "by",
+      "start": 18.1,
+      "end": 18.34
+    },
+    {
+      "word": "packaging",
+      "start": 18.34,
+      "end": 18.7
+    },
+    {
+      "word": "model",
+      "start": 18.7,
+      "end": 19.06
+    },
+    {
+      "word": "weights",
+      "start": 19.06,
+      "end": 19.38
+    },
+    {
+      "word": "and",
+      "start": 19.38,
+      "end": 19.64
+    },
+    {
+      "word": "execution",
+      "start": 19.64,
+      "end": 20.08
+    },
+    {
+      "word": "into",
+      "start": 20.08,
+      "end": 20.58
+    },
+    {
+      "word": "a",
+      "start": 20.58,
+      "end": 20.82
+    },
+    {
+      "word": "single",
+      "start": 20.82,
+      "end": 21.14
+    },
+    {
+      "word": "lightweight",
+      "start": 21.14,
+      "end": 21.54
+    },
+    {
+      "word": "background",
+      "start": 21.54,
+      "end": 22.1
+    },
+    {
+      "word": "service.",
+      "start": 22.1,
+      "end": 22.58
+    },
+    {
+      "word": "You",
+      "start": 23.04,
+      "end": 23.2
+    },
+    {
+      "word": "spin",
+      "start": 23.2,
+      "end": 23.34
+    },
+    {
+      "word": "up",
+      "start": 23.34,
+      "end": 23.54
+    },
+    {
+      "word": "local",
+      "start": 23.54,
+      "end": 23.82
+    },
+    {
+      "word": "intelligence",
+      "start": 23.82,
+      "end": 24.38
+    },
+    {
+      "word": "in",
+      "start": 24.38,
+      "end": 24.56
+    },
+    {
+      "word": "under",
+      "start": 24.56,
+      "end": 24.8
+    },
+    {
+      "word": "60",
+      "start": 24.8,
+      "end": 25.18
+    },
+    {
+      "word": "seconds.",
+      "start": 25.18,
+      "end": 25.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The free tool that installs and runs open-source LLMs in just one command.",
+      "line2": "RUN AI LOCALLY",
+      "tag": "\ud83d\uded1 Ollama",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Ollama",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Ollama",
+        "subtitle": "Ollama"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Ollama"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Ollama"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Ollama",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

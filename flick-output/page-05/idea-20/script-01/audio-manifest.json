@@ -1,0 +1,386 @@
+{
+  "page": "page-05",
+  "idea": "Airtable automations that notify Slack when deals enter negotiation",
+  "text": "Keep your entire sales team updated in real time as high-value deals progress. Account executives often negotiate contracts in private threads without alerting legal or solutions engineers. Late internal alignment leads to rushed security reviews and stalled momentum at the finish line. Instead, trigger an Airtable automation that posts Slack notifications whenever deal stages enter negotiation. Your closing team aligns instantly to win revenue.",
+  "duration": 26.283,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Keep",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "your",
+      "start": 0.22,
+      "end": 0.7
+    },
+    {
+      "word": "entire",
+      "start": 0.7,
+      "end": 0.72
+    },
+    {
+      "word": "sales",
+      "start": 0.72,
+      "end": 1.1
+    },
+    {
+      "word": "team",
+      "start": 1.1,
+      "end": 1.44
+    },
+    {
+      "word": "updated",
+      "start": 1.44,
+      "end": 1.86
+    },
+    {
+      "word": "in",
+      "start": 1.86,
+      "end": 2.12
+    },
+    {
+      "word": "real",
+      "start": 2.12,
+      "end": 2.34
+    },
+    {
+      "word": "time",
+      "start": 2.34,
+      "end": 2.72
+    },
+    {
+      "word": "as",
+      "start": 2.72,
+      "end": 2.94
+    },
+    {
+      "word": "high",
+      "start": 2.94,
+      "end": 3.18
+    },
+    {
+      "word": "-value",
+      "start": 3.18,
+      "end": 3.44
+    },
+    {
+      "word": "deals",
+      "start": 3.44,
+      "end": 3.7
+    },
+    {
+      "word": "progress.",
+      "start": 3.7,
+      "end": 4.32
+    },
+    {
+      "word": "Account",
+      "start": 4.82,
+      "end": 5.04
+    },
+    {
+      "word": "executives",
+      "start": 5.04,
+      "end": 5.62
+    },
+    {
+      "word": "often",
+      "start": 5.62,
+      "end": 6.0
+    },
+    {
+      "word": "negotiate",
+      "start": 6.0,
+      "end": 6.5
+    },
+    {
+      "word": "contracts",
+      "start": 6.5,
+      "end": 7.0
+    },
+    {
+      "word": "in",
+      "start": 7.0,
+      "end": 7.28
+    },
+    {
+      "word": "private",
+      "start": 7.28,
+      "end": 7.5
+    },
+    {
+      "word": "threads",
+      "start": 7.5,
+      "end": 7.98
+    },
+    {
+      "word": "without",
+      "start": 7.98,
+      "end": 8.48
+    },
+    {
+      "word": "alerting",
+      "start": 8.48,
+      "end": 8.88
+    },
+    {
+      "word": "legal",
+      "start": 8.88,
+      "end": 9.14
+    },
+    {
+      "word": "or",
+      "start": 9.14,
+      "end": 9.46
+    },
+    {
+      "word": "solutions",
+      "start": 9.46,
+      "end": 9.8
+    },
+    {
+      "word": "engineers.",
+      "start": 9.8,
+      "end": 10.34
+    },
+    {
+      "word": "Late",
+      "start": 11.06,
+      "end": 11.18
+    },
+    {
+      "word": "internal",
+      "start": 11.18,
+      "end": 11.6
+    },
+    {
+      "word": "alignment",
+      "start": 11.6,
+      "end": 12.02
+    },
+    {
+      "word": "leads",
+      "start": 12.02,
+      "end": 12.42
+    },
+    {
+      "word": "to",
+      "start": 12.42,
+      "end": 12.62
+    },
+    {
+      "word": "rushed",
+      "start": 12.62,
+      "end": 12.82
+    },
+    {
+      "word": "security",
+      "start": 12.82,
+      "end": 13.3
+    },
+    {
+      "word": "reviews",
+      "start": 13.3,
+      "end": 13.72
+    },
+    {
+      "word": "and",
+      "start": 13.72,
+      "end": 14.3
+    },
+    {
+      "word": "stalled",
+      "start": 14.3,
+      "end": 14.56
+    },
+    {
+      "word": "momentum",
+      "start": 14.56,
+      "end": 14.96
+    },
+    {
+      "word": "at",
+      "start": 14.96,
+      "end": 15.22
+    },
+    {
+      "word": "the",
+      "start": 15.22,
+      "end": 15.4
+    },
+    {
+      "word": "finish",
+      "start": 15.4,
+      "end": 15.52
+    },
+    {
+      "word": "line.",
+      "start": 15.52,
+      "end": 15.92
+    },
+    {
+      "word": "Instead,",
+      "start": 16.48,
+      "end": 16.76
+    },
+    {
+      "word": "trigger",
+      "start": 17.36,
+      "end": 17.42
+    },
+    {
+      "word": "an",
+      "start": 17.42,
+      "end": 17.66
+    },
+    {
+      "word": "irritable",
+      "start": 17.66,
+      "end": 18.06
+    },
+    {
+      "word": "automation",
+      "start": 18.06,
+      "end": 18.56
+    },
+    {
+      "word": "that",
+      "start": 18.56,
+      "end": 18.96
+    },
+    {
+      "word": "posts",
+      "start": 18.96,
+      "end": 19.26
+    },
+    {
+      "word": "slack",
+      "start": 19.26,
+      "end": 19.54
+    },
+    {
+      "word": "notifications",
+      "start": 19.54,
+      "end": 20.28
+    },
+    {
+      "word": "whenever",
+      "start": 20.28,
+      "end": 20.92
+    },
+    {
+      "word": "deals",
+      "start": 20.92,
+      "end": 21.3
+    },
+    {
+      "word": "stages",
+      "start": 21.3,
+      "end": 21.72
+    },
+    {
+      "word": "enter",
+      "start": 21.72,
+      "end": 22.04
+    },
+    {
+      "word": "negotiation.",
+      "start": 22.04,
+      "end": 22.76
+    },
+    {
+      "word": "Your",
+      "start": 23.44,
+      "end": 23.62
+    },
+    {
+      "word": "closing",
+      "start": 23.62,
+      "end": 23.9
+    },
+    {
+      "word": "team",
+      "start": 23.9,
+      "end": 24.44
+    },
+    {
+      "word": "aligns",
+      "start": 24.44,
+      "end": 25.08
+    },
+    {
+      "word": "instantly",
+      "start": 25.08,
+      "end": 25.3
+    },
+    {
+      "word": "to",
+      "start": 25.3,
+      "end": 25.6
+    },
+    {
+      "word": "win",
+      "start": 25.6,
+      "end": 25.84
+    },
+    {
+      "word": "revenue.",
+      "start": 25.84,
+      "end": 26.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Keep your entire sales team updated in real time as deals progress.",
+      "line2": "SLACK DEAL ALERTS",
+      "tag": "\ud83d\uded1 Airtable automations that notify Slack when deals enter negotiation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Airtable automations that notify Slack when deals enter negotiation",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Airtable automations that notify Slack when deals enter negotiation",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

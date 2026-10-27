@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Softr client portal connected directly to Airtable permissions",
+  "text": "How to give clients a secure dashboard where they only see their own files. Agency teams constantly dump sensitive deliverables into messy Google Drive folders with fragile sharing permissions. One accidental public link exposes confidential invoices and strategy decks to the wrong client. Instead, connect Softr directly to Airtable and restrict records dynamically using the logged-in user email. Clients access deliverables securely without frantic email check-ins.",
+  "duration": 29.029,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.26
+    },
+    {
+      "word": "give",
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "word": "clients",
+      "start": 0.52,
+      "end": 0.78
+    },
+    {
+      "word": "a",
+      "start": 0.78,
+      "end": 1.06
+    },
+    {
+      "word": "secure",
+      "start": 1.06,
+      "end": 1.32
+    },
+    {
+      "word": "dashboard",
+      "start": 1.32,
+      "end": 1.8
+    },
+    {
+      "word": "where",
+      "start": 1.8,
+      "end": 2.2
+    },
+    {
+      "word": "they",
+      "start": 2.2,
+      "end": 2.38
+    },
+    {
+      "word": "only",
+      "start": 2.38,
+      "end": 2.7
+    },
+    {
+      "word": "see",
+      "start": 2.7,
+      "end": 2.88
+    },
+    {
+      "word": "their",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "word": "own",
+      "start": 3.12,
+      "end": 3.36
+    },
+    {
+      "word": "files.",
+      "start": 3.36,
+      "end": 3.88
+    },
+    {
+      "word": "Agency",
+      "start": 4.7,
+      "end": 4.82
+    },
+    {
+      "word": "teams",
+      "start": 4.82,
+      "end": 5.38
+    },
+    {
+      "word": "constantly",
+      "start": 5.38,
+      "end": 6.06
+    },
+    {
+      "word": "dump",
+      "start": 6.06,
+      "end": 6.42
+    },
+    {
+      "word": "sensitive",
+      "start": 6.42,
+      "end": 6.94
+    },
+    {
+      "word": "deliverables",
+      "start": 6.94,
+      "end": 7.58
+    },
+    {
+      "word": "into",
+      "start": 7.58,
+      "end": 7.86
+    },
+    {
+      "word": "messy",
+      "start": 7.86,
+      "end": 8.16
+    },
+    {
+      "word": "Google",
+      "start": 8.16,
+      "end": 8.58
+    },
+    {
+      "word": "drive",
+      "start": 8.58,
+      "end": 9.02
+    },
+    {
+      "word": "folders",
+      "start": 9.02,
+      "end": 9.42
+    },
+    {
+      "word": "with",
+      "start": 9.42,
+      "end": 10.02
+    },
+    {
+      "word": "fragile",
+      "start": 10.02,
+      "end": 10.34
+    },
+    {
+      "word": "sharing",
+      "start": 10.34,
+      "end": 10.8
+    },
+    {
+      "word": "permissions.",
+      "start": 10.8,
+      "end": 11.3
+    },
+    {
+      "word": "One",
+      "start": 11.72,
+      "end": 12.02
+    },
+    {
+      "word": "accidental",
+      "start": 12.02,
+      "end": 12.54
+    },
+    {
+      "word": "public",
+      "start": 12.54,
+      "end": 13.0
+    },
+    {
+      "word": "link",
+      "start": 13.0,
+      "end": 13.34
+    },
+    {
+      "word": "exposes",
+      "start": 13.34,
+      "end": 13.86
+    },
+    {
+      "word": "confidential",
+      "start": 13.86,
+      "end": 14.58
+    },
+    {
+      "word": "invoices",
+      "start": 14.58,
+      "end": 15.26
+    },
+    {
+      "word": "and",
+      "start": 15.26,
+      "end": 15.66
+    },
+    {
+      "word": "strategy",
+      "start": 15.66,
+      "end": 16.02
+    },
+    {
+      "word": "decks",
+      "start": 16.02,
+      "end": 16.36
+    },
+    {
+      "word": "to",
+      "start": 16.36,
+      "end": 16.54
+    },
+    {
+      "word": "the",
+      "start": 16.54,
+      "end": 16.72
+    },
+    {
+      "word": "wrong",
+      "start": 16.72,
+      "end": 16.98
+    },
+    {
+      "word": "client.",
+      "start": 16.98,
+      "end": 17.38
+    },
+    {
+      "word": "Instead,",
+      "start": 18.04,
+      "end": 18.48
+    },
+    {
+      "word": "connect",
+      "start": 19.12,
+      "end": 19.12
+    },
+    {
+      "word": "software",
+      "start": 19.12,
+      "end": 19.56
+    },
+    {
+      "word": "directly",
+      "start": 19.56,
+      "end": 19.98
+    },
+    {
+      "word": "to",
+      "start": 19.98,
+      "end": 20.3
+    },
+    {
+      "word": "irritable",
+      "start": 20.3,
+      "end": 20.7
+    },
+    {
+      "word": "and",
+      "start": 20.7,
+      "end": 20.98
+    },
+    {
+      "word": "restrict",
+      "start": 20.98,
+      "end": 21.26
+    },
+    {
+      "word": "records",
+      "start": 21.26,
+      "end": 21.76
+    },
+    {
+      "word": "dynamically",
+      "start": 21.76,
+      "end": 22.32
+    },
+    {
+      "word": "using",
+      "start": 22.32,
+      "end": 22.94
+    },
+    {
+      "word": "the",
+      "start": 22.94,
+      "end": 23.22
+    },
+    {
+      "word": "logged",
+      "start": 23.22,
+      "end": 23.46
+    },
+    {
+      "word": "-in",
+      "start": 23.46,
+      "end": 23.68
+    },
+    {
+      "word": "user",
+      "start": 23.68,
+      "end": 23.98
+    },
+    {
+      "word": "email.",
+      "start": 23.98,
+      "end": 24.46
+    },
+    {
+      "word": "Clients",
+      "start": 25.02,
+      "end": 25.4
+    },
+    {
+      "word": "access",
+      "start": 25.4,
+      "end": 25.88
+    },
+    {
+      "word": "deliverables",
+      "start": 25.88,
+      "end": 26.54
+    },
+    {
+      "word": "securely",
+      "start": 26.54,
+      "end": 27.04
+    },
+    {
+      "word": "without",
+      "start": 27.04,
+      "end": 27.54
+    },
+    {
+      "word": "frantic",
+      "start": 27.54,
+      "end": 27.96
+    },
+    {
+      "word": "email",
+      "start": 27.96,
+      "end": 28.38
+    },
+    {
+      "word": "check",
+      "start": 28.38,
+      "end": 28.68
+    },
+    {
+      "word": "-ins.",
+      "start": 28.68,
+      "end": 28.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "How to give clients a secure dashboard where they only see their own files.",
+      "line2": "AIRTABLE CLIENT PORTAL",
+      "tag": "\ud83d\uded1 Softr client portal connected directly to Airtable permissions",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Softr client portal connected directly to Airtable permissions",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Softr client portal connected directly to Airtable permissions",
+        "subtitle": "Softr client portal connected directly to Airtable permissions"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Softr client portal connected directly to Airtable permissions"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Softr client portal connected directly to Airtable permissions"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Softr client portal connected directly to Airtable permissions",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

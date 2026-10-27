@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Offboarding SOP that transitions departing clients with grace and security",
+  "text": "Never leave company credentials active inside a past client's ad accounts. Months after retainers terminate, past contractors still hold admin permissions to client billing profiles and ad dashboards. Lingering account access exposes your agency to legal liability if unauthorized ad spend occurs later. Use an automated 1Password offboarding workflow in ClickUp to revoke all client permissions within sixty minutes. You eliminate compliance liabilities and safeguard your reputation.",
+  "duration": 30.031,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Never",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "leave",
+      "start": 0.3,
+      "end": 0.6
+    },
+    {
+      "word": "company",
+      "start": 0.6,
+      "end": 0.94
+    },
+    {
+      "word": "credentials",
+      "start": 0.94,
+      "end": 1.38
+    },
+    {
+      "word": "active",
+      "start": 1.38,
+      "end": 1.88
+    },
+    {
+      "word": "inside",
+      "start": 1.88,
+      "end": 2.24
+    },
+    {
+      "word": "a",
+      "start": 2.24,
+      "end": 2.56
+    },
+    {
+      "word": "past",
+      "start": 2.56,
+      "end": 2.76
+    },
+    {
+      "word": "clients",
+      "start": 2.76,
+      "end": 3.04
+    },
+    {
+      "word": "add",
+      "start": 3.04,
+      "end": 3.38
+    },
+    {
+      "word": "accounts.",
+      "start": 3.38,
+      "end": 3.94
+    },
+    {
+      "word": "Months",
+      "start": 4.74,
+      "end": 4.74
+    },
+    {
+      "word": "after",
+      "start": 4.74,
+      "end": 5.14
+    },
+    {
+      "word": "retainers",
+      "start": 5.14,
+      "end": 5.66
+    },
+    {
+      "word": "terminate,",
+      "start": 5.66,
+      "end": 6.16
+    },
+    {
+      "word": "past",
+      "start": 6.74,
+      "end": 6.8
+    },
+    {
+      "word": "contractors",
+      "start": 6.8,
+      "end": 7.28
+    },
+    {
+      "word": "still",
+      "start": 7.28,
+      "end": 7.74
+    },
+    {
+      "word": "hold",
+      "start": 7.74,
+      "end": 8.08
+    },
+    {
+      "word": "admin",
+      "start": 8.08,
+      "end": 8.36
+    },
+    {
+      "word": "permissions",
+      "start": 8.36,
+      "end": 8.84
+    },
+    {
+      "word": "to",
+      "start": 8.84,
+      "end": 9.2
+    },
+    {
+      "word": "client",
+      "start": 9.2,
+      "end": 9.52
+    },
+    {
+      "word": "billing",
+      "start": 9.52,
+      "end": 9.88
+    },
+    {
+      "word": "profiles",
+      "start": 9.88,
+      "end": 10.36
+    },
+    {
+      "word": "and",
+      "start": 10.36,
+      "end": 10.86
+    },
+    {
+      "word": "add",
+      "start": 10.86,
+      "end": 11.18
+    },
+    {
+      "word": "dashboards.",
+      "start": 11.18,
+      "end": 11.8
+    },
+    {
+      "word": "Lingering",
+      "start": 12.28,
+      "end": 12.62
+    },
+    {
+      "word": "account",
+      "start": 12.62,
+      "end": 12.96
+    },
+    {
+      "word": "access",
+      "start": 12.96,
+      "end": 13.46
+    },
+    {
+      "word": "exposes",
+      "start": 13.46,
+      "end": 14.0
+    },
+    {
+      "word": "your",
+      "start": 14.0,
+      "end": 14.38
+    },
+    {
+      "word": "agency",
+      "start": 14.38,
+      "end": 14.7
+    },
+    {
+      "word": "to",
+      "start": 14.7,
+      "end": 15.0
+    },
+    {
+      "word": "legal",
+      "start": 15.0,
+      "end": 15.26
+    },
+    {
+      "word": "liability",
+      "start": 15.26,
+      "end": 15.86
+    },
+    {
+      "word": "if",
+      "start": 15.86,
+      "end": 16.5
+    },
+    {
+      "word": "unauthorized",
+      "start": 16.5,
+      "end": 16.98
+    },
+    {
+      "word": "ads",
+      "start": 16.98,
+      "end": 17.66
+    },
+    {
+      "word": "spend",
+      "start": 17.66,
+      "end": 17.92
+    },
+    {
+      "word": "a",
+      "start": 17.92,
+      "end": 18.04
+    },
+    {
+      "word": "curse",
+      "start": 18.04,
+      "end": 18.26
+    },
+    {
+      "word": "later.",
+      "start": 18.26,
+      "end": 18.66
+    },
+    {
+      "word": "Use",
+      "start": 19.22,
+      "end": 19.36
+    },
+    {
+      "word": "an",
+      "start": 19.36,
+      "end": 19.72
+    },
+    {
+      "word": "automated",
+      "start": 19.72,
+      "end": 19.96
+    },
+    {
+      "word": "one",
+      "start": 19.96,
+      "end": 20.38
+    },
+    {
+      "word": "password",
+      "start": 20.38,
+      "end": 20.8
+    },
+    {
+      "word": "offboarding",
+      "start": 20.8,
+      "end": 21.4
+    },
+    {
+      "word": "workflow",
+      "start": 21.4,
+      "end": 21.82
+    },
+    {
+      "word": "and",
+      "start": 21.82,
+      "end": 22.18
+    },
+    {
+      "word": "click",
+      "start": 22.18,
+      "end": 22.38
+    },
+    {
+      "word": "up",
+      "start": 22.38,
+      "end": 22.68
+    },
+    {
+      "word": "to",
+      "start": 22.68,
+      "end": 22.92
+    },
+    {
+      "word": "revoke",
+      "start": 22.92,
+      "end": 23.16
+    },
+    {
+      "word": "all",
+      "start": 23.16,
+      "end": 23.66
+    },
+    {
+      "word": "client",
+      "start": 23.66,
+      "end": 24.0
+    },
+    {
+      "word": "permissions",
+      "start": 24.0,
+      "end": 24.5
+    },
+    {
+      "word": "within",
+      "start": 24.5,
+      "end": 24.86
+    },
+    {
+      "word": "60",
+      "start": 24.86,
+      "end": 25.22
+    },
+    {
+      "word": "minutes.",
+      "start": 25.22,
+      "end": 25.6
+    },
+    {
+      "word": "You",
+      "start": 25.6,
+      "end": 26.36
+    },
+    {
+      "word": "eliminate",
+      "start": 26.36,
+      "end": 26.72
+    },
+    {
+      "word": "compliance",
+      "start": 26.72,
+      "end": 27.38
+    },
+    {
+      "word": "liabilities",
+      "start": 27.38,
+      "end": 27.96
+    },
+    {
+      "word": "and",
+      "start": 27.96,
+      "end": 28.68
+    },
+    {
+      "word": "safeguard",
+      "start": 28.68,
+      "end": 29.04
+    },
+    {
+      "word": "your",
+      "start": 29.04,
+      "end": 29.58
+    },
+    {
+      "word": "reputation.",
+      "start": 29.58,
+      "end": 29.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Never leave company credentials active inside a past client's ad accounts.",
+      "line2": "SEAMLESS CLIENT OFFBOARDING",
+      "tag": "\ud83d\uded1 Offboarding SOP that transitions departing clients with grace and security",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Offboarding SOP that transitions departing clients with grace and security",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Offboarding SOP that transitions departing clients with grace and security",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

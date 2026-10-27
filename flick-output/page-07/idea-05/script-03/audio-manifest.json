@@ -1,0 +1,376 @@
+{
+  "page": "page-07",
+  "idea": "Automated competitor product release monitoring using webhooks",
+  "text": "Stop being blindsided by competitor marketing campaigns or aggressive price drops. Product managers discover market changes weeks late through lost deals and frustrated account executives. Sporadic bookmark checks fail because growth teams iterate landing pages and positioning continuously. Set up Hexomatic automated crawlers paired with Zapier webhooks to dump visual change alerts into Notion. Your startup responds before rivals capture your churned users.",
+  "duration": 29.093,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "being",
+      "start": 0.42,
+      "end": 0.68
+    },
+    {
+      "word": "blindsided",
+      "start": 0.68,
+      "end": 1.32
+    },
+    {
+      "word": "by",
+      "start": 1.32,
+      "end": 1.72
+    },
+    {
+      "word": "competitor",
+      "start": 1.72,
+      "end": 2.1
+    },
+    {
+      "word": "marketing",
+      "start": 2.1,
+      "end": 2.56
+    },
+    {
+      "word": "campaigns",
+      "start": 2.56,
+      "end": 3.14
+    },
+    {
+      "word": "or",
+      "start": 3.14,
+      "end": 3.9
+    },
+    {
+      "word": "aggressive",
+      "start": 3.9,
+      "end": 4.34
+    },
+    {
+      "word": "price",
+      "start": 4.34,
+      "end": 4.74
+    },
+    {
+      "word": "drops.",
+      "start": 4.74,
+      "end": 5.26
+    },
+    {
+      "word": "Product",
+      "start": 6.1,
+      "end": 6.12
+    },
+    {
+      "word": "managers",
+      "start": 6.12,
+      "end": 6.56
+    },
+    {
+      "word": "discover",
+      "start": 6.56,
+      "end": 7.08
+    },
+    {
+      "word": "market",
+      "start": 7.08,
+      "end": 7.5
+    },
+    {
+      "word": "changes",
+      "start": 7.5,
+      "end": 8.0
+    },
+    {
+      "word": "weeks",
+      "start": 8.0,
+      "end": 8.52
+    },
+    {
+      "word": "late",
+      "start": 8.52,
+      "end": 8.84
+    },
+    {
+      "word": "through",
+      "start": 8.84,
+      "end": 9.14
+    },
+    {
+      "word": "lost",
+      "start": 9.14,
+      "end": 9.5
+    },
+    {
+      "word": "deals",
+      "start": 9.5,
+      "end": 9.9
+    },
+    {
+      "word": "and",
+      "start": 9.9,
+      "end": 10.22
+    },
+    {
+      "word": "frustrated",
+      "start": 10.22,
+      "end": 10.62
+    },
+    {
+      "word": "account",
+      "start": 10.62,
+      "end": 11.12
+    },
+    {
+      "word": "executives.",
+      "start": 11.12,
+      "end": 11.82
+    },
+    {
+      "word": "Sporadic",
+      "start": 12.22,
+      "end": 12.7
+    },
+    {
+      "word": "bookmark",
+      "start": 12.7,
+      "end": 13.16
+    },
+    {
+      "word": "checks",
+      "start": 13.16,
+      "end": 13.6
+    },
+    {
+      "word": "fail",
+      "start": 13.6,
+      "end": 13.86
+    },
+    {
+      "word": "because",
+      "start": 13.86,
+      "end": 14.26
+    },
+    {
+      "word": "growth",
+      "start": 14.26,
+      "end": 14.62
+    },
+    {
+      "word": "teams",
+      "start": 14.62,
+      "end": 15.02
+    },
+    {
+      "word": "iterate",
+      "start": 15.02,
+      "end": 15.4
+    },
+    {
+      "word": "landing",
+      "start": 15.4,
+      "end": 15.8
+    },
+    {
+      "word": "pages",
+      "start": 15.8,
+      "end": 16.32
+    },
+    {
+      "word": "and",
+      "start": 16.32,
+      "end": 16.9
+    },
+    {
+      "word": "positioning",
+      "start": 16.9,
+      "end": 17.32
+    },
+    {
+      "word": "continuously.",
+      "start": 17.32,
+      "end": 18.26
+    },
+    {
+      "word": "Set",
+      "start": 18.8,
+      "end": 18.96
+    },
+    {
+      "word": "up",
+      "start": 18.96,
+      "end": 19.18
+    },
+    {
+      "word": "heximatic",
+      "start": 19.18,
+      "end": 19.84
+    },
+    {
+      "word": "automated",
+      "start": 19.84,
+      "end": 20.38
+    },
+    {
+      "word": "crawlers",
+      "start": 20.38,
+      "end": 20.92
+    },
+    {
+      "word": "paired",
+      "start": 20.92,
+      "end": 21.32
+    },
+    {
+      "word": "with",
+      "start": 21.32,
+      "end": 21.62
+    },
+    {
+      "word": "Zapier",
+      "start": 21.62,
+      "end": 22.06
+    },
+    {
+      "word": "Webhooks",
+      "start": 22.06,
+      "end": 22.68
+    },
+    {
+      "word": "to",
+      "start": 22.68,
+      "end": 22.88
+    },
+    {
+      "word": "dump",
+      "start": 22.88,
+      "end": 23.16
+    },
+    {
+      "word": "visual",
+      "start": 23.16,
+      "end": 23.48
+    },
+    {
+      "word": "change",
+      "start": 23.48,
+      "end": 23.96
+    },
+    {
+      "word": "alerts",
+      "start": 23.96,
+      "end": 24.34
+    },
+    {
+      "word": "into",
+      "start": 24.34,
+      "end": 24.62
+    },
+    {
+      "word": "Notion.",
+      "start": 24.62,
+      "end": 25.1
+    },
+    {
+      "word": "Your",
+      "start": 25.58,
+      "end": 25.82
+    },
+    {
+      "word": "startup",
+      "start": 25.82,
+      "end": 26.18
+    },
+    {
+      "word": "responds",
+      "start": 26.18,
+      "end": 26.8
+    },
+    {
+      "word": "before",
+      "start": 26.8,
+      "end": 27.2
+    },
+    {
+      "word": "rivals",
+      "start": 27.2,
+      "end": 27.62
+    },
+    {
+      "word": "capture",
+      "start": 27.62,
+      "end": 28.14
+    },
+    {
+      "word": "your",
+      "start": 28.14,
+      "end": 28.44
+    },
+    {
+      "word": "churned",
+      "start": 28.44,
+      "end": 28.74
+    },
+    {
+      "word": "users.",
+      "start": 28.74,
+      "end": 29.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop being blindsided by competitor marketing campaigns or price drops.",
+      "line2": "MONITOR COMPETITOR RELEASES",
+      "tag": "\ud83d\uded1 Automated competitor product release monitoring using webhooks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated competitor product release monitoring using webhooks",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated competitor product release monitoring using webhooks",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated competitor product release monitoring using webhooks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

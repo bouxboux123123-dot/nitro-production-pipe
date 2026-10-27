@@ -1,0 +1,386 @@
+{
+  "page": "page-06",
+  "idea": "Async project health check widget that flags stalled deliverables",
+  "text": "Here is how to spot project blockers early and keep company deliverables moving smoothly. Technical dependencies often stall unnoticed on remote teams until key release deadlines are blown. Discovering a blocked API integration at the last minute delays the entire customer launch. Linear's automated project widget monitors idle issues, flags stale branches, and notifies leads on Slack. You resolve technical bottlenecks before they delay production.",
+  "duration": 26.261,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "is",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "how",
+      "start": 0.3,
+      "end": 0.44
+    },
+    {
+      "word": "to",
+      "start": 0.44,
+      "end": 0.62
+    },
+    {
+      "word": "spot",
+      "start": 0.62,
+      "end": 0.92
+    },
+    {
+      "word": "project",
+      "start": 0.92,
+      "end": 1.36
+    },
+    {
+      "word": "blockers",
+      "start": 1.36,
+      "end": 1.66
+    },
+    {
+      "word": "early",
+      "start": 1.66,
+      "end": 2.16
+    },
+    {
+      "word": "and",
+      "start": 2.16,
+      "end": 2.52
+    },
+    {
+      "word": "keep",
+      "start": 2.52,
+      "end": 2.74
+    },
+    {
+      "word": "company",
+      "start": 2.74,
+      "end": 3.02
+    },
+    {
+      "word": "deliverables",
+      "start": 3.02,
+      "end": 3.52
+    },
+    {
+      "word": "moving",
+      "start": 3.52,
+      "end": 3.94
+    },
+    {
+      "word": "smoothly.",
+      "start": 3.94,
+      "end": 4.62
+    },
+    {
+      "word": "Technical",
+      "start": 5.3,
+      "end": 5.3
+    },
+    {
+      "word": "dependencies",
+      "start": 5.3,
+      "end": 5.86
+    },
+    {
+      "word": "often",
+      "start": 5.86,
+      "end": 6.36
+    },
+    {
+      "word": "stall",
+      "start": 6.36,
+      "end": 6.7
+    },
+    {
+      "word": "unnoticed",
+      "start": 6.7,
+      "end": 7.14
+    },
+    {
+      "word": "on",
+      "start": 7.14,
+      "end": 7.48
+    },
+    {
+      "word": "remote",
+      "start": 7.48,
+      "end": 7.7
+    },
+    {
+      "word": "teams",
+      "start": 7.7,
+      "end": 8.26
+    },
+    {
+      "word": "until",
+      "start": 8.26,
+      "end": 8.72
+    },
+    {
+      "word": "key",
+      "start": 8.72,
+      "end": 9.04
+    },
+    {
+      "word": "release",
+      "start": 9.04,
+      "end": 9.36
+    },
+    {
+      "word": "deadlines",
+      "start": 9.36,
+      "end": 9.72
+    },
+    {
+      "word": "are",
+      "start": 9.72,
+      "end": 10.02
+    },
+    {
+      "word": "blown.",
+      "start": 10.02,
+      "end": 10.44
+    },
+    {
+      "word": "Discovering",
+      "start": 10.94,
+      "end": 11.32
+    },
+    {
+      "word": "a",
+      "start": 11.32,
+      "end": 11.44
+    },
+    {
+      "word": "blocked",
+      "start": 11.44,
+      "end": 11.76
+    },
+    {
+      "word": "API",
+      "start": 11.76,
+      "end": 12.24
+    },
+    {
+      "word": "integration",
+      "start": 12.24,
+      "end": 12.8
+    },
+    {
+      "word": "at",
+      "start": 12.8,
+      "end": 12.96
+    },
+    {
+      "word": "the",
+      "start": 12.96,
+      "end": 13.1
+    },
+    {
+      "word": "last",
+      "start": 13.1,
+      "end": 13.36
+    },
+    {
+      "word": "minute",
+      "start": 13.36,
+      "end": 13.62
+    },
+    {
+      "word": "delays",
+      "start": 13.62,
+      "end": 13.88
+    },
+    {
+      "word": "the",
+      "start": 13.88,
+      "end": 14.34
+    },
+    {
+      "word": "entire",
+      "start": 14.34,
+      "end": 14.56
+    },
+    {
+      "word": "customer",
+      "start": 14.56,
+      "end": 14.94
+    },
+    {
+      "word": "launch.",
+      "start": 14.94,
+      "end": 15.54
+    },
+    {
+      "word": "Linear's",
+      "start": 16.06,
+      "end": 16.44
+    },
+    {
+      "word": "automated",
+      "start": 16.44,
+      "end": 16.72
+    },
+    {
+      "word": "project",
+      "start": 16.72,
+      "end": 17.34
+    },
+    {
+      "word": "widget",
+      "start": 17.34,
+      "end": 17.68
+    },
+    {
+      "word": "monitors",
+      "start": 17.68,
+      "end": 18.16
+    },
+    {
+      "word": "idle",
+      "start": 18.16,
+      "end": 18.48
+    },
+    {
+      "word": "issues,",
+      "start": 18.48,
+      "end": 18.92
+    },
+    {
+      "word": "flags",
+      "start": 19.74,
+      "end": 19.76
+    },
+    {
+      "word": "stale",
+      "start": 19.76,
+      "end": 20.08
+    },
+    {
+      "word": "branches,",
+      "start": 20.08,
+      "end": 20.5
+    },
+    {
+      "word": "and",
+      "start": 21.0,
+      "end": 21.24
+    },
+    {
+      "word": "notifies",
+      "start": 21.24,
+      "end": 21.6
+    },
+    {
+      "word": "leads",
+      "start": 21.6,
+      "end": 21.96
+    },
+    {
+      "word": "on",
+      "start": 21.96,
+      "end": 22.3
+    },
+    {
+      "word": "Slack.",
+      "start": 22.3,
+      "end": 22.66
+    },
+    {
+      "word": "You",
+      "start": 22.66,
+      "end": 23.26
+    },
+    {
+      "word": "resolve",
+      "start": 23.26,
+      "end": 23.66
+    },
+    {
+      "word": "technical",
+      "start": 23.66,
+      "end": 24.26
+    },
+    {
+      "word": "bottlenecks",
+      "start": 24.26,
+      "end": 24.94
+    },
+    {
+      "word": "before",
+      "start": 24.94,
+      "end": 25.2
+    },
+    {
+      "word": "they",
+      "start": 25.2,
+      "end": 25.46
+    },
+    {
+      "word": "delay",
+      "start": 25.46,
+      "end": 25.68
+    },
+    {
+      "word": "production.",
+      "start": 25.68,
+      "end": 26.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Spot blockers early and keep company goals moving forward smoothly.",
+      "line2": "FLAG STALLED DELIVERABLES",
+      "tag": "\ud83d\uded1 Async project health check widget that flags stalled deliverables",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async project health check widget that flags stalled deliverables",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async project health check widget that flags stalled deliverables",
+        "subtitle": "Async project health check widget that flags stalled deliverables"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async project health check widget that flags stalled deliverables"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async project health check widget that flags stalled deliverables"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async project health check widget that flags stalled deliverables",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

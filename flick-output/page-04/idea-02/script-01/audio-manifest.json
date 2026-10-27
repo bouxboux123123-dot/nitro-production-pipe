@@ -1,0 +1,421 @@
+{
+  "page": "page-04",
+  "idea": "N8N self-hosted: unlimited workflow automations for zero dollars",
+  "text": "Zapier gets ridiculously expensive when you scale, but this free alternative solves that. Growing startups get hit with massive bills when lead syncs trigger thousands of tasks. Proprietary platforms charge high penalties the moment your campaigns succeed and automation volume spikes. Self-hosted n8n lets you run unlimited multi-step visual workflows on your own server without per-task fees. You scale operations while cutting thousands in recurring software expenses.",
+  "duration": 29.903,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Zapier",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "gets",
+      "start": 0.46,
+      "end": 0.78
+    },
+    {
+      "word": "ridiculously",
+      "start": 0.78,
+      "end": 1.38
+    },
+    {
+      "word": "expensive",
+      "start": 1.38,
+      "end": 2.02
+    },
+    {
+      "word": "when",
+      "start": 2.02,
+      "end": 2.2
+    },
+    {
+      "word": "you",
+      "start": 2.2,
+      "end": 2.38
+    },
+    {
+      "word": "scale,",
+      "start": 2.38,
+      "end": 2.74
+    },
+    {
+      "word": "but",
+      "start": 2.9,
+      "end": 3.14
+    },
+    {
+      "word": "this",
+      "start": 3.14,
+      "end": 3.46
+    },
+    {
+      "word": "free",
+      "start": 3.46,
+      "end": 3.76
+    },
+    {
+      "word": "alternative",
+      "start": 3.76,
+      "end": 4.32
+    },
+    {
+      "word": "solves",
+      "start": 4.32,
+      "end": 4.76
+    },
+    {
+      "word": "that.",
+      "start": 4.76,
+      "end": 5.44
+    },
+    {
+      "word": "Growing",
+      "start": 5.68,
+      "end": 6.04
+    },
+    {
+      "word": "startups",
+      "start": 6.04,
+      "end": 6.4
+    },
+    {
+      "word": "get",
+      "start": 6.4,
+      "end": 6.78
+    },
+    {
+      "word": "hit",
+      "start": 6.78,
+      "end": 6.96
+    },
+    {
+      "word": "with",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "word": "massive",
+      "start": 7.2,
+      "end": 7.54
+    },
+    {
+      "word": "bills",
+      "start": 7.54,
+      "end": 8.04
+    },
+    {
+      "word": "when",
+      "start": 8.04,
+      "end": 8.28
+    },
+    {
+      "word": "lead",
+      "start": 8.28,
+      "end": 8.6
+    },
+    {
+      "word": "sinks",
+      "start": 8.6,
+      "end": 8.88
+    },
+    {
+      "word": "trigger",
+      "start": 8.88,
+      "end": 9.24
+    },
+    {
+      "word": "thousands",
+      "start": 9.24,
+      "end": 9.74
+    },
+    {
+      "word": "of",
+      "start": 9.74,
+      "end": 10.02
+    },
+    {
+      "word": "tasks.",
+      "start": 10.02,
+      "end": 10.42
+    },
+    {
+      "word": "Proprietary",
+      "start": 11.1,
+      "end": 11.7
+    },
+    {
+      "word": "platforms",
+      "start": 11.7,
+      "end": 12.18
+    },
+    {
+      "word": "charge",
+      "start": 12.18,
+      "end": 12.78
+    },
+    {
+      "word": "high",
+      "start": 12.78,
+      "end": 13.18
+    },
+    {
+      "word": "penalties",
+      "start": 13.18,
+      "end": 13.54
+    },
+    {
+      "word": "the",
+      "start": 13.54,
+      "end": 13.88
+    },
+    {
+      "word": "moment",
+      "start": 13.88,
+      "end": 14.06
+    },
+    {
+      "word": "your",
+      "start": 14.06,
+      "end": 14.4
+    },
+    {
+      "word": "campaigns",
+      "start": 14.4,
+      "end": 14.8
+    },
+    {
+      "word": "succeed",
+      "start": 14.8,
+      "end": 15.36
+    },
+    {
+      "word": "and",
+      "start": 15.36,
+      "end": 15.86
+    },
+    {
+      "word": "automation",
+      "start": 15.86,
+      "end": 16.22
+    },
+    {
+      "word": "volume",
+      "start": 16.22,
+      "end": 16.8
+    },
+    {
+      "word": "spikes.",
+      "start": 16.8,
+      "end": 17.22
+    },
+    {
+      "word": "Self",
+      "start": 17.86,
+      "end": 17.94
+    },
+    {
+      "word": "-hosted",
+      "start": 17.94,
+      "end": 18.36
+    },
+    {
+      "word": "and",
+      "start": 18.36,
+      "end": 18.56
+    },
+    {
+      "word": "eight",
+      "start": 18.56,
+      "end": 18.8
+    },
+    {
+      "word": "-end",
+      "start": 18.8,
+      "end": 19.14
+    },
+    {
+      "word": "lets",
+      "start": 19.14,
+      "end": 19.52
+    },
+    {
+      "word": "you",
+      "start": 19.52,
+      "end": 19.72
+    },
+    {
+      "word": "run",
+      "start": 19.72,
+      "end": 20.1
+    },
+    {
+      "word": "unlimited",
+      "start": 20.1,
+      "end": 20.6
+    },
+    {
+      "word": "multi",
+      "start": 20.6,
+      "end": 21.0
+    },
+    {
+      "word": "-step",
+      "start": 21.0,
+      "end": 21.38
+    },
+    {
+      "word": "visual",
+      "start": 21.38,
+      "end": 21.76
+    },
+    {
+      "word": "workflows",
+      "start": 21.76,
+      "end": 22.32
+    },
+    {
+      "word": "on",
+      "start": 22.32,
+      "end": 22.5
+    },
+    {
+      "word": "your",
+      "start": 22.5,
+      "end": 22.68
+    },
+    {
+      "word": "own",
+      "start": 22.68,
+      "end": 22.92
+    },
+    {
+      "word": "server",
+      "start": 22.92,
+      "end": 23.28
+    },
+    {
+      "word": "without",
+      "start": 23.28,
+      "end": 23.88
+    },
+    {
+      "word": "per",
+      "start": 23.88,
+      "end": 24.12
+    },
+    {
+      "word": "task",
+      "start": 24.12,
+      "end": 24.44
+    },
+    {
+      "word": "fees.",
+      "start": 24.44,
+      "end": 24.92
+    },
+    {
+      "word": "You",
+      "start": 25.5,
+      "end": 25.66
+    },
+    {
+      "word": "scale",
+      "start": 25.66,
+      "end": 25.92
+    },
+    {
+      "word": "operations",
+      "start": 25.92,
+      "end": 26.54
+    },
+    {
+      "word": "while",
+      "start": 26.54,
+      "end": 27.04
+    },
+    {
+      "word": "cutting",
+      "start": 27.04,
+      "end": 27.38
+    },
+    {
+      "word": "thousands",
+      "start": 27.38,
+      "end": 27.96
+    },
+    {
+      "word": "in",
+      "start": 27.96,
+      "end": 28.22
+    },
+    {
+      "word": "recurring",
+      "start": 28.22,
+      "end": 28.72
+    },
+    {
+      "word": "software",
+      "start": 28.72,
+      "end": 29.2
+    },
+    {
+      "word": "expenses.",
+      "start": 29.2,
+      "end": 29.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Zapier gets ridiculously expensive when you scale\u00e2\u20ac\u201duse this free alternative instead.",
+      "line2": "UNLIMITED FREE AUTOMATIONS",
+      "tag": "\ud83d\uded1 N8N self-hosted",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: N8N self-hosted",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: N8N self-hosted",
+        "subtitle": "N8N self-hosted"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "N8N self-hosted"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "N8N self-hosted"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "N8N self-hosted",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

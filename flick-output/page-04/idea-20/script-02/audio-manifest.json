@@ -1,0 +1,421 @@
+{
+  "page": "page-04",
+  "idea": "Greenshot: lightweight screenshot utility with instant annotation tools",
+  "text": "Highlight key buttons, blur sensitive client data, and add numbered callouts instantly. Sharing raw screenshots across team channels accidentally exposes client passwords, API tokens, and billing information. Default screenshot utilities lack built-in obfuscation tools, forcing risky manual exports or slow third-party photo editing. Greenshot instantly redacts private credentials with a pixelate drag and stamps auto-incrementing numbered markers over workflow steps. You protect client security while delivering flawless team documentation.",
+  "duration": 33.466,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "highlight",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "key",
+      "start": 0.32,
+      "end": 0.7
+    },
+    {
+      "word": "buttons,",
+      "start": 0.7,
+      "end": 1.08
+    },
+    {
+      "word": "blur",
+      "start": 1.46,
+      "end": 1.64
+    },
+    {
+      "word": "sensitive",
+      "start": 1.64,
+      "end": 2.1
+    },
+    {
+      "word": "client",
+      "start": 2.1,
+      "end": 2.48
+    },
+    {
+      "word": "data,",
+      "start": 2.48,
+      "end": 2.78
+    },
+    {
+      "word": "and",
+      "start": 3.08,
+      "end": 3.28
+    },
+    {
+      "word": "add",
+      "start": 3.28,
+      "end": 3.48
+    },
+    {
+      "word": "numbered",
+      "start": 3.48,
+      "end": 3.78
+    },
+    {
+      "word": "callouts",
+      "start": 3.78,
+      "end": 4.24
+    },
+    {
+      "word": "instantly.",
+      "start": 4.24,
+      "end": 5.04
+    },
+    {
+      "word": "Sharing",
+      "start": 5.68,
+      "end": 5.68
+    },
+    {
+      "word": "raw",
+      "start": 5.68,
+      "end": 6.0
+    },
+    {
+      "word": "screenshots",
+      "start": 6.0,
+      "end": 6.5
+    },
+    {
+      "word": "across",
+      "start": 6.5,
+      "end": 6.9
+    },
+    {
+      "word": "team",
+      "start": 6.9,
+      "end": 7.22
+    },
+    {
+      "word": "channels",
+      "start": 7.22,
+      "end": 7.68
+    },
+    {
+      "word": "accidentally",
+      "start": 7.68,
+      "end": 8.28
+    },
+    {
+      "word": "exposes",
+      "start": 8.28,
+      "end": 8.82
+    },
+    {
+      "word": "client",
+      "start": 8.82,
+      "end": 9.32
+    },
+    {
+      "word": "passwords,",
+      "start": 9.32,
+      "end": 9.82
+    },
+    {
+      "word": "API",
+      "start": 10.58,
+      "end": 10.74
+    },
+    {
+      "word": "tokens,",
+      "start": 10.74,
+      "end": 11.3
+    },
+    {
+      "word": "and",
+      "start": 11.54,
+      "end": 11.7
+    },
+    {
+      "word": "billing",
+      "start": 11.7,
+      "end": 11.92
+    },
+    {
+      "word": "information.",
+      "start": 11.92,
+      "end": 12.64
+    },
+    {
+      "word": "Default",
+      "start": 13.3,
+      "end": 13.52
+    },
+    {
+      "word": "screenshot",
+      "start": 13.52,
+      "end": 14.1
+    },
+    {
+      "word": "utilities",
+      "start": 14.1,
+      "end": 14.62
+    },
+    {
+      "word": "lack",
+      "start": 14.62,
+      "end": 15.04
+    },
+    {
+      "word": "built",
+      "start": 15.04,
+      "end": 15.3
+    },
+    {
+      "word": "-in",
+      "start": 15.3,
+      "end": 15.46
+    },
+    {
+      "word": "obfuscation",
+      "start": 15.46,
+      "end": 16.14
+    },
+    {
+      "word": "tools,",
+      "start": 16.14,
+      "end": 16.6
+    },
+    {
+      "word": "forcing",
+      "start": 17.14,
+      "end": 17.28
+    },
+    {
+      "word": "risky",
+      "start": 17.28,
+      "end": 17.7
+    },
+    {
+      "word": "manual",
+      "start": 17.7,
+      "end": 18.1
+    },
+    {
+      "word": "exports",
+      "start": 18.1,
+      "end": 18.52
+    },
+    {
+      "word": "or",
+      "start": 18.52,
+      "end": 19.02
+    },
+    {
+      "word": "slow",
+      "start": 19.02,
+      "end": 19.4
+    },
+    {
+      "word": "third",
+      "start": 19.4,
+      "end": 19.72
+    },
+    {
+      "word": "-party",
+      "start": 19.72,
+      "end": 20.02
+    },
+    {
+      "word": "photo",
+      "start": 20.02,
+      "end": 20.44
+    },
+    {
+      "word": "editing.",
+      "start": 20.44,
+      "end": 20.76
+    },
+    {
+      "word": "Greenshot",
+      "start": 21.16,
+      "end": 21.7
+    },
+    {
+      "word": "instantly",
+      "start": 21.7,
+      "end": 22.28
+    },
+    {
+      "word": "redacts",
+      "start": 22.28,
+      "end": 22.76
+    },
+    {
+      "word": "private",
+      "start": 22.76,
+      "end": 23.18
+    },
+    {
+      "word": "credentials",
+      "start": 23.18,
+      "end": 23.64
+    },
+    {
+      "word": "with",
+      "start": 23.64,
+      "end": 23.96
+    },
+    {
+      "word": "a",
+      "start": 23.96,
+      "end": 24.14
+    },
+    {
+      "word": "pixelate",
+      "start": 24.14,
+      "end": 24.62
+    },
+    {
+      "word": "drag",
+      "start": 24.62,
+      "end": 24.98
+    },
+    {
+      "word": "and",
+      "start": 24.98,
+      "end": 25.6
+    },
+    {
+      "word": "stamps",
+      "start": 25.6,
+      "end": 25.94
+    },
+    {
+      "word": "auto",
+      "start": 25.94,
+      "end": 26.32
+    },
+    {
+      "word": "-incrementing",
+      "start": 26.32,
+      "end": 26.9
+    },
+    {
+      "word": "numbered",
+      "start": 26.9,
+      "end": 27.18
+    },
+    {
+      "word": "markers",
+      "start": 27.18,
+      "end": 27.56
+    },
+    {
+      "word": "over",
+      "start": 27.56,
+      "end": 27.92
+    },
+    {
+      "word": "workflow",
+      "start": 27.92,
+      "end": 28.22
+    },
+    {
+      "word": "steps.",
+      "start": 28.22,
+      "end": 28.78
+    },
+    {
+      "word": "You",
+      "start": 28.78,
+      "end": 29.48
+    },
+    {
+      "word": "protect",
+      "start": 29.48,
+      "end": 29.82
+    },
+    {
+      "word": "client",
+      "start": 29.82,
+      "end": 30.22
+    },
+    {
+      "word": "security",
+      "start": 30.22,
+      "end": 30.78
+    },
+    {
+      "word": "while",
+      "start": 30.78,
+      "end": 31.22
+    },
+    {
+      "word": "delivering",
+      "start": 31.22,
+      "end": 31.72
+    },
+    {
+      "word": "flawless",
+      "start": 31.72,
+      "end": 32.22
+    },
+    {
+      "word": "team",
+      "start": 32.22,
+      "end": 32.56
+    },
+    {
+      "word": "documentation.",
+      "start": 32.56,
+      "end": 33.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Highlight key buttons, blur sensitive client data, and add numbered callouts instantly.",
+      "line2": "FAST SCREENSHOT ANNOTATIONS",
+      "tag": "\ud83d\uded1 Greenshot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Free DOM Extraction: Greenshot",
+      "primitive": "DOMElementSniffer",
+      "props": {
+        "title": "Free DOM Extraction: Greenshot",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Proxy Rotation & Rate Limits",
+      "primitive": "ProxyRotationGauge",
+      "props": {
+        "title": "Proxy Rotation & Rate Limits",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Deduplicated CSV Merge",
+      "primitive": "CSVMergeVisualizer",
+      "props": {
+        "title": "Deduplicated CSV Merge",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Headless CLI Execution",
+      "primitive": "HeadlessBrowserTerminal",
+      "props": {
+        "title": "Headless CLI Execution",
+        "subtitle": "Greenshot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

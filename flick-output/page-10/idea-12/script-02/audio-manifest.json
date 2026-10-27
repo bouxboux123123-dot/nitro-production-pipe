@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "Airtable Cobuilder: build complex databases from plain English prompts",
+  "text": "You can now describe your business and watch Airtable construct complete software systems in thirty seconds. Agency founders waste weeks wrestling with spreadsheet formulas and misconfigured columns just to manage project deliverables. Messy spreadsheets break down as soon as multiple team members overwrite client records and corrupt billing formulas. Airtable Cobuilder automatically provisions linked tables, rollups, and tailored user interfaces from a single prompt. This eliminates spreadsheet chaos completely.",
+  "duration": 30.501,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "can",
+      "start": 0.14,
+      "end": 0.32
+    },
+    {
+      "word": "now",
+      "start": 0.32,
+      "end": 0.52
+    },
+    {
+      "word": "describe",
+      "start": 0.52,
+      "end": 0.96
+    },
+    {
+      "word": "your",
+      "start": 0.96,
+      "end": 1.22
+    },
+    {
+      "word": "business",
+      "start": 1.22,
+      "end": 1.66
+    },
+    {
+      "word": "and",
+      "start": 1.66,
+      "end": 1.88
+    },
+    {
+      "word": "watch",
+      "start": 1.88,
+      "end": 2.26
+    },
+    {
+      "word": "Airtable",
+      "start": 2.26,
+      "end": 2.7
+    },
+    {
+      "word": "Construct",
+      "start": 2.7,
+      "end": 3.18
+    },
+    {
+      "word": "complete",
+      "start": 3.18,
+      "end": 3.7
+    },
+    {
+      "word": "software",
+      "start": 3.7,
+      "end": 4.14
+    },
+    {
+      "word": "systems",
+      "start": 4.14,
+      "end": 4.66
+    },
+    {
+      "word": "in",
+      "start": 4.66,
+      "end": 5.0
+    },
+    {
+      "word": "30",
+      "start": 5.0,
+      "end": 5.34
+    },
+    {
+      "word": "seconds.",
+      "start": 5.34,
+      "end": 5.92
+    },
+    {
+      "word": "Agency",
+      "start": 6.52,
+      "end": 6.76
+    },
+    {
+      "word": "founders",
+      "start": 6.76,
+      "end": 7.3
+    },
+    {
+      "word": "waste",
+      "start": 7.3,
+      "end": 7.64
+    },
+    {
+      "word": "weeks",
+      "start": 7.64,
+      "end": 8.02
+    },
+    {
+      "word": "wrestling",
+      "start": 8.02,
+      "end": 8.38
+    },
+    {
+      "word": "with",
+      "start": 8.38,
+      "end": 8.76
+    },
+    {
+      "word": "spreadsheet",
+      "start": 8.76,
+      "end": 9.14
+    },
+    {
+      "word": "formulas",
+      "start": 9.14,
+      "end": 9.76
+    },
+    {
+      "word": "and",
+      "start": 9.76,
+      "end": 10.3
+    },
+    {
+      "word": "misconfigured",
+      "start": 10.3,
+      "end": 10.98
+    },
+    {
+      "word": "columns",
+      "start": 10.98,
+      "end": 11.46
+    },
+    {
+      "word": "just",
+      "start": 11.46,
+      "end": 12.18
+    },
+    {
+      "word": "to",
+      "start": 12.18,
+      "end": 12.42
+    },
+    {
+      "word": "manage",
+      "start": 12.42,
+      "end": 12.7
+    },
+    {
+      "word": "project",
+      "start": 12.7,
+      "end": 13.24
+    },
+    {
+      "word": "deliverables.",
+      "start": 13.24,
+      "end": 13.94
+    },
+    {
+      "word": "Messi",
+      "start": 14.38,
+      "end": 14.38
+    },
+    {
+      "word": "spreadsheets",
+      "start": 14.38,
+      "end": 15.0
+    },
+    {
+      "word": "break",
+      "start": 15.0,
+      "end": 15.3
+    },
+    {
+      "word": "down",
+      "start": 15.3,
+      "end": 15.64
+    },
+    {
+      "word": "as",
+      "start": 15.64,
+      "end": 15.86
+    },
+    {
+      "word": "soon",
+      "start": 15.86,
+      "end": 16.1
+    },
+    {
+      "word": "as",
+      "start": 16.1,
+      "end": 16.64
+    },
+    {
+      "word": "multiple",
+      "start": 16.64,
+      "end": 16.64
+    },
+    {
+      "word": "team",
+      "start": 16.64,
+      "end": 17.02
+    },
+    {
+      "word": "members",
+      "start": 17.02,
+      "end": 17.46
+    },
+    {
+      "word": "overwrite",
+      "start": 17.46,
+      "end": 17.92
+    },
+    {
+      "word": "client",
+      "start": 17.92,
+      "end": 18.36
+    },
+    {
+      "word": "records",
+      "start": 18.36,
+      "end": 18.76
+    },
+    {
+      "word": "and",
+      "start": 18.76,
+      "end": 19.06
+    },
+    {
+      "word": "corrupt",
+      "start": 19.06,
+      "end": 19.34
+    },
+    {
+      "word": "billing",
+      "start": 19.34,
+      "end": 19.72
+    },
+    {
+      "word": "formulas.",
+      "start": 19.72,
+      "end": 20.2
+    },
+    {
+      "word": "Airtable",
+      "start": 21.0,
+      "end": 21.24
+    },
+    {
+      "word": "Cobbleder",
+      "start": 21.24,
+      "end": 21.88
+    },
+    {
+      "word": "automatically",
+      "start": 21.88,
+      "end": 22.34
+    },
+    {
+      "word": "provisions",
+      "start": 22.34,
+      "end": 22.94
+    },
+    {
+      "word": "linked",
+      "start": 22.94,
+      "end": 23.44
+    },
+    {
+      "word": "tables,",
+      "start": 23.44,
+      "end": 23.9
+    },
+    {
+      "word": "rollups,",
+      "start": 24.32,
+      "end": 24.8
+    },
+    {
+      "word": "and",
+      "start": 25.12,
+      "end": 25.32
+    },
+    {
+      "word": "tailored",
+      "start": 25.32,
+      "end": 25.58
+    },
+    {
+      "word": "user",
+      "start": 25.58,
+      "end": 26.04
+    },
+    {
+      "word": "interfaces",
+      "start": 26.04,
+      "end": 26.54
+    },
+    {
+      "word": "from",
+      "start": 26.54,
+      "end": 26.9
+    },
+    {
+      "word": "a",
+      "start": 26.9,
+      "end": 27.0
+    },
+    {
+      "word": "single",
+      "start": 27.0,
+      "end": 27.24
+    },
+    {
+      "word": "prompt.",
+      "start": 27.24,
+      "end": 27.64
+    },
+    {
+      "word": "This",
+      "start": 27.64,
+      "end": 28.4
+    },
+    {
+      "word": "eliminates",
+      "start": 28.4,
+      "end": 28.78
+    },
+    {
+      "word": "spreadsheet",
+      "start": 28.78,
+      "end": 29.36
+    },
+    {
+      "word": "chaos",
+      "start": 29.36,
+      "end": 29.82
+    },
+    {
+      "word": "completely.",
+      "start": 29.82,
+      "end": 30.36
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Describe your business and watch Airtable construct tables, formulas, and views in 30 seconds.",
+      "line2": "AIRTABLE AI COBUILDER LAUNCH",
+      "tag": "\ud83d\uded1 Airtable Cobuilder",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Airtable Cobuilder",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Airtable Cobuilder"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Airtable Cobuilder",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

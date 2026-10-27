@@ -1,0 +1,406 @@
+{
+  "page": "page-05",
+  "idea": "Tally forms integrated with Discord webhooks for instant community alerts",
+  "text": "Here is the cleanest free form builder that pings your team channel on new submissions. Most community managers lose high-ticket leads because applications sit unread inside clunky spreadsheet exports. When applicants wait hours for a reply, sign-up abandonment jumps past fifty percent. Instead, paste your Discord channel webhook directly into Tally's native integrations tab in sixty seconds. New submissions trigger formatted Discord cards instantly with zero middleware.",
+  "duration": 28.581,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "is",
+      "start": 0.3,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.66
+    },
+    {
+      "word": "cleanest",
+      "start": 0.66,
+      "end": 1.04
+    },
+    {
+      "word": "free",
+      "start": 1.04,
+      "end": 1.32
+    },
+    {
+      "word": "form",
+      "start": 1.32,
+      "end": 1.6
+    },
+    {
+      "word": "builder",
+      "start": 1.6,
+      "end": 1.86
+    },
+    {
+      "word": "that",
+      "start": 1.86,
+      "end": 2.22
+    },
+    {
+      "word": "pings",
+      "start": 2.22,
+      "end": 2.46
+    },
+    {
+      "word": "your",
+      "start": 2.46,
+      "end": 2.7
+    },
+    {
+      "word": "team",
+      "start": 2.7,
+      "end": 2.96
+    },
+    {
+      "word": "channel",
+      "start": 2.96,
+      "end": 3.3
+    },
+    {
+      "word": "on",
+      "start": 3.3,
+      "end": 3.56
+    },
+    {
+      "word": "new",
+      "start": 3.56,
+      "end": 3.78
+    },
+    {
+      "word": "submissions.",
+      "start": 3.78,
+      "end": 4.32
+    },
+    {
+      "word": "Most",
+      "start": 4.94,
+      "end": 5.2
+    },
+    {
+      "word": "community",
+      "start": 5.2,
+      "end": 5.62
+    },
+    {
+      "word": "managers",
+      "start": 5.62,
+      "end": 6.02
+    },
+    {
+      "word": "lose",
+      "start": 6.02,
+      "end": 6.46
+    },
+    {
+      "word": "high",
+      "start": 6.46,
+      "end": 6.76
+    },
+    {
+      "word": "-ticket",
+      "start": 6.76,
+      "end": 7.0
+    },
+    {
+      "word": "leads",
+      "start": 7.0,
+      "end": 7.42
+    },
+    {
+      "word": "because",
+      "start": 7.42,
+      "end": 8.04
+    },
+    {
+      "word": "applications",
+      "start": 8.04,
+      "end": 8.6
+    },
+    {
+      "word": "sit",
+      "start": 8.6,
+      "end": 9.04
+    },
+    {
+      "word": "on",
+      "start": 9.04,
+      "end": 9.22
+    },
+    {
+      "word": "red",
+      "start": 9.22,
+      "end": 9.46
+    },
+    {
+      "word": "inside",
+      "start": 9.46,
+      "end": 10.1
+    },
+    {
+      "word": "clunky",
+      "start": 10.1,
+      "end": 10.52
+    },
+    {
+      "word": "spreadsheet",
+      "start": 10.52,
+      "end": 11.04
+    },
+    {
+      "word": "exports.",
+      "start": 11.04,
+      "end": 11.62
+    },
+    {
+      "word": "When",
+      "start": 12.04,
+      "end": 12.24
+    },
+    {
+      "word": "applicants",
+      "start": 12.24,
+      "end": 12.6
+    },
+    {
+      "word": "wait",
+      "start": 12.6,
+      "end": 12.96
+    },
+    {
+      "word": "hours",
+      "start": 12.96,
+      "end": 13.34
+    },
+    {
+      "word": "for",
+      "start": 13.34,
+      "end": 13.58
+    },
+    {
+      "word": "a",
+      "start": 13.58,
+      "end": 13.7
+    },
+    {
+      "word": "reply,",
+      "start": 13.7,
+      "end": 14.18
+    },
+    {
+      "word": "sign",
+      "start": 14.74,
+      "end": 14.8
+    },
+    {
+      "word": "up",
+      "start": 14.8,
+      "end": 15.04
+    },
+    {
+      "word": "abandonment",
+      "start": 15.04,
+      "end": 15.42
+    },
+    {
+      "word": "jumps",
+      "start": 15.42,
+      "end": 15.82
+    },
+    {
+      "word": "past",
+      "start": 15.82,
+      "end": 16.2
+    },
+    {
+      "word": "50%.",
+      "start": 16.2,
+      "end": 17.5
+    },
+    {
+      "word": "Instead,",
+      "start": 17.5,
+      "end": 18.04
+    },
+    {
+      "word": "paste",
+      "start": 18.58,
+      "end": 18.64
+    },
+    {
+      "word": "your",
+      "start": 18.64,
+      "end": 18.86
+    },
+    {
+      "word": "Discord",
+      "start": 18.86,
+      "end": 19.24
+    },
+    {
+      "word": "channel",
+      "start": 19.24,
+      "end": 19.64
+    },
+    {
+      "word": "webhook",
+      "start": 19.64,
+      "end": 20.02
+    },
+    {
+      "word": "directly",
+      "start": 20.02,
+      "end": 20.52
+    },
+    {
+      "word": "into",
+      "start": 20.52,
+      "end": 20.82
+    },
+    {
+      "word": "Tallah's",
+      "start": 20.82,
+      "end": 21.28
+    },
+    {
+      "word": "native",
+      "start": 21.28,
+      "end": 21.62
+    },
+    {
+      "word": "integrations",
+      "start": 21.62,
+      "end": 22.3
+    },
+    {
+      "word": "tab",
+      "start": 22.3,
+      "end": 22.7
+    },
+    {
+      "word": "in",
+      "start": 22.7,
+      "end": 22.94
+    },
+    {
+      "word": "60",
+      "start": 22.94,
+      "end": 23.32
+    },
+    {
+      "word": "seconds.",
+      "start": 23.32,
+      "end": 23.76
+    },
+    {
+      "word": "New",
+      "start": 24.32,
+      "end": 24.52
+    },
+    {
+      "word": "submissions",
+      "start": 24.52,
+      "end": 25.0
+    },
+    {
+      "word": "trigger",
+      "start": 25.0,
+      "end": 25.42
+    },
+    {
+      "word": "formatted",
+      "start": 25.42,
+      "end": 25.82
+    },
+    {
+      "word": "Discord",
+      "start": 25.82,
+      "end": 26.4
+    },
+    {
+      "word": "cards",
+      "start": 26.4,
+      "end": 26.8
+    },
+    {
+      "word": "instantly",
+      "start": 26.8,
+      "end": 27.3
+    },
+    {
+      "word": "with",
+      "start": 27.3,
+      "end": 27.66
+    },
+    {
+      "word": "zero",
+      "start": 27.66,
+      "end": 28.06
+    },
+    {
+      "word": "middleware.",
+      "start": 28.06,
+      "end": 28.56
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The cleanest free form builder that pings your team channel on new submissions.",
+      "line2": "INSTANT DISCORD ALERTS",
+      "tag": "\ud83d\uded1 Tally forms integrated with Discord webhooks for instant community alerts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

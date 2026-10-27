@@ -1,0 +1,421 @@
+{
+  "page": "page-04",
+  "idea": "Stirling-PDF: 100 percent free open-source PDF power tool",
+  "text": "This secret tool makes paid PDF software subscriptions completely obsolete. Agencies waste hundreds of dollars each month buying Acrobat seats just for basic page extraction and file compression. Commercial vendors trap your agency in annual contracts while providing slow bloatware that hogs system memory. Stirling-PDF bundles optical character recognition, metadata removal, and multi-page restructuring into a fast local browser interface. You strip out unnecessary software overhead and boost document speed.",
+  "duration": 32.485,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "secret",
+      "start": 0.22,
+      "end": 0.48
+    },
+    {
+      "word": "tool",
+      "start": 0.48,
+      "end": 0.84
+    },
+    {
+      "word": "makes",
+      "start": 0.84,
+      "end": 1.16
+    },
+    {
+      "word": "paid",
+      "start": 1.16,
+      "end": 1.58
+    },
+    {
+      "word": "PDF",
+      "start": 1.58,
+      "end": 1.9
+    },
+    {
+      "word": "software",
+      "start": 1.9,
+      "end": 2.48
+    },
+    {
+      "word": "subscriptions",
+      "start": 2.48,
+      "end": 3.18
+    },
+    {
+      "word": "completely",
+      "start": 3.18,
+      "end": 3.86
+    },
+    {
+      "word": "obsolete.",
+      "start": 3.86,
+      "end": 4.62
+    },
+    {
+      "word": "Agencies",
+      "start": 5.12,
+      "end": 5.52
+    },
+    {
+      "word": "waste",
+      "start": 5.52,
+      "end": 5.92
+    },
+    {
+      "word": "hundreds",
+      "start": 5.92,
+      "end": 6.28
+    },
+    {
+      "word": "of",
+      "start": 6.28,
+      "end": 6.54
+    },
+    {
+      "word": "dollars",
+      "start": 6.54,
+      "end": 6.82
+    },
+    {
+      "word": "each",
+      "start": 6.82,
+      "end": 7.2
+    },
+    {
+      "word": "month",
+      "start": 7.2,
+      "end": 7.54
+    },
+    {
+      "word": "buying",
+      "start": 7.54,
+      "end": 7.9
+    },
+    {
+      "word": "acrobat",
+      "start": 7.9,
+      "end": 8.3
+    },
+    {
+      "word": "seats",
+      "start": 8.3,
+      "end": 8.88
+    },
+    {
+      "word": "just",
+      "start": 8.88,
+      "end": 9.3
+    },
+    {
+      "word": "for",
+      "start": 9.3,
+      "end": 9.5
+    },
+    {
+      "word": "basic",
+      "start": 9.5,
+      "end": 9.88
+    },
+    {
+      "word": "page",
+      "start": 9.88,
+      "end": 10.22
+    },
+    {
+      "word": "extraction",
+      "start": 10.22,
+      "end": 10.78
+    },
+    {
+      "word": "and",
+      "start": 10.78,
+      "end": 11.14
+    },
+    {
+      "word": "file",
+      "start": 11.14,
+      "end": 11.44
+    },
+    {
+      "word": "compression.",
+      "start": 11.44,
+      "end": 12.02
+    },
+    {
+      "word": "Commercial",
+      "start": 12.96,
+      "end": 12.98
+    },
+    {
+      "word": "vendors",
+      "start": 12.98,
+      "end": 13.4
+    },
+    {
+      "word": "trap",
+      "start": 13.4,
+      "end": 13.8
+    },
+    {
+      "word": "your",
+      "start": 13.8,
+      "end": 14.06
+    },
+    {
+      "word": "agency",
+      "start": 14.06,
+      "end": 14.4
+    },
+    {
+      "word": "in",
+      "start": 14.4,
+      "end": 14.68
+    },
+    {
+      "word": "annual",
+      "start": 14.68,
+      "end": 14.96
+    },
+    {
+      "word": "contracts",
+      "start": 14.96,
+      "end": 15.48
+    },
+    {
+      "word": "while",
+      "start": 15.48,
+      "end": 16.04
+    },
+    {
+      "word": "providing",
+      "start": 16.04,
+      "end": 16.44
+    },
+    {
+      "word": "slow",
+      "start": 16.44,
+      "end": 16.88
+    },
+    {
+      "word": "bloatware",
+      "start": 16.88,
+      "end": 17.38
+    },
+    {
+      "word": "that",
+      "start": 17.38,
+      "end": 17.64
+    },
+    {
+      "word": "hogs",
+      "start": 17.64,
+      "end": 18.0
+    },
+    {
+      "word": "system",
+      "start": 18.0,
+      "end": 18.38
+    },
+    {
+      "word": "memory.",
+      "start": 18.38,
+      "end": 18.84
+    },
+    {
+      "word": "Sterling",
+      "start": 19.44,
+      "end": 19.46
+    },
+    {
+      "word": "PDF",
+      "start": 19.46,
+      "end": 19.96
+    },
+    {
+      "word": "bundles",
+      "start": 19.96,
+      "end": 20.44
+    },
+    {
+      "word": "optical",
+      "start": 20.44,
+      "end": 21.02
+    },
+    {
+      "word": "character",
+      "start": 21.02,
+      "end": 21.44
+    },
+    {
+      "word": "recognition,",
+      "start": 21.44,
+      "end": 22.1
+    },
+    {
+      "word": "metadata",
+      "start": 22.84,
+      "end": 22.84
+    },
+    {
+      "word": "removal,",
+      "start": 22.84,
+      "end": 23.36
+    },
+    {
+      "word": "and",
+      "start": 23.82,
+      "end": 23.96
+    },
+    {
+      "word": "multi",
+      "start": 23.96,
+      "end": 24.36
+    },
+    {
+      "word": "-page",
+      "start": 24.36,
+      "end": 24.72
+    },
+    {
+      "word": "restructuring",
+      "start": 24.72,
+      "end": 25.4
+    },
+    {
+      "word": "into",
+      "start": 25.4,
+      "end": 25.74
+    },
+    {
+      "word": "a",
+      "start": 25.74,
+      "end": 26.0
+    },
+    {
+      "word": "fast",
+      "start": 26.0,
+      "end": 26.32
+    },
+    {
+      "word": "local",
+      "start": 26.32,
+      "end": 26.68
+    },
+    {
+      "word": "browser",
+      "start": 26.68,
+      "end": 27.1
+    },
+    {
+      "word": "interface.",
+      "start": 27.1,
+      "end": 27.72
+    },
+    {
+      "word": "You",
+      "start": 27.72,
+      "end": 28.48
+    },
+    {
+      "word": "strip",
+      "start": 28.48,
+      "end": 28.64
+    },
+    {
+      "word": "out",
+      "start": 28.64,
+      "end": 29.02
+    },
+    {
+      "word": "unnecessary",
+      "start": 29.02,
+      "end": 29.58
+    },
+    {
+      "word": "software",
+      "start": 29.58,
+      "end": 30.24
+    },
+    {
+      "word": "overhead",
+      "start": 30.24,
+      "end": 30.78
+    },
+    {
+      "word": "and",
+      "start": 30.78,
+      "end": 31.18
+    },
+    {
+      "word": "boost",
+      "start": 31.18,
+      "end": 31.52
+    },
+    {
+      "word": "document",
+      "start": 31.52,
+      "end": 31.94
+    },
+    {
+      "word": "speed.",
+      "start": 31.94,
+      "end": 32.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The secret tool that makes paid PDF software completely obsolete.",
+      "line2": "100% FREE OPEN SOURCE",
+      "tag": "\ud83d\uded1 Stirling-PDF",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Stirling-PDF",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Stirling-PDF",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Stirling-PDF",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

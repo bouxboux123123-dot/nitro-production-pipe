@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Automated sprint retro board with anonymous feedback collection",
+  "text": "Stop holding boring retros where nobody wants to speak up about what went wrong. Staring at video grids creates awkward silence because engineers feel exposed discussing deployment failures. Skipping tough technical discussions guarantees that flaky test suites disrupt the next sprint cycle. Parabol lets distributed teams post masked feedback asynchronously, vote on themes, and sync Jira tasks. Retros turn into actionable engineering improvements within thirty minutes.",
+  "duration": 28.538,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "holding",
+      "start": 0.38,
+      "end": 0.78
+    },
+    {
+      "word": "boring",
+      "start": 0.78,
+      "end": 1.18
+    },
+    {
+      "word": "Retro",
+      "start": 1.18,
+      "end": 1.58
+    },
+    {
+      "word": "-S,",
+      "start": 1.58,
+      "end": 1.92
+    },
+    {
+      "word": "where",
+      "start": 1.98,
+      "end": 2.24
+    },
+    {
+      "word": "nobody",
+      "start": 2.24,
+      "end": 2.56
+    },
+    {
+      "word": "wants",
+      "start": 2.56,
+      "end": 2.92
+    },
+    {
+      "word": "to",
+      "start": 2.92,
+      "end": 3.06
+    },
+    {
+      "word": "speak",
+      "start": 3.06,
+      "end": 3.24
+    },
+    {
+      "word": "up",
+      "start": 3.24,
+      "end": 3.52
+    },
+    {
+      "word": "about",
+      "start": 3.52,
+      "end": 3.7
+    },
+    {
+      "word": "what",
+      "start": 3.7,
+      "end": 3.86
+    },
+    {
+      "word": "went",
+      "start": 3.86,
+      "end": 4.06
+    },
+    {
+      "word": "wrong.",
+      "start": 4.06,
+      "end": 4.62
+    },
+    {
+      "word": "Staring",
+      "start": 5.1,
+      "end": 5.36
+    },
+    {
+      "word": "at",
+      "start": 5.36,
+      "end": 5.6
+    },
+    {
+      "word": "video",
+      "start": 5.6,
+      "end": 5.88
+    },
+    {
+      "word": "grids",
+      "start": 5.88,
+      "end": 6.12
+    },
+    {
+      "word": "creates",
+      "start": 6.12,
+      "end": 6.64
+    },
+    {
+      "word": "awkward",
+      "start": 6.64,
+      "end": 6.96
+    },
+    {
+      "word": "silence",
+      "start": 6.96,
+      "end": 7.46
+    },
+    {
+      "word": "because",
+      "start": 7.46,
+      "end": 8.08
+    },
+    {
+      "word": "engineers",
+      "start": 8.08,
+      "end": 8.52
+    },
+    {
+      "word": "feel",
+      "start": 8.52,
+      "end": 8.94
+    },
+    {
+      "word": "exposed",
+      "start": 8.94,
+      "end": 9.56
+    },
+    {
+      "word": "discussing",
+      "start": 9.56,
+      "end": 10.14
+    },
+    {
+      "word": "deployment",
+      "start": 10.14,
+      "end": 10.64
+    },
+    {
+      "word": "failures.",
+      "start": 10.64,
+      "end": 11.08
+    },
+    {
+      "word": "Skipping",
+      "start": 11.6,
+      "end": 11.88
+    },
+    {
+      "word": "tough",
+      "start": 11.88,
+      "end": 12.2
+    },
+    {
+      "word": "technical",
+      "start": 12.2,
+      "end": 12.62
+    },
+    {
+      "word": "discussions",
+      "start": 12.62,
+      "end": 13.3
+    },
+    {
+      "word": "guarantees",
+      "start": 13.3,
+      "end": 13.86
+    },
+    {
+      "word": "that",
+      "start": 13.86,
+      "end": 14.36
+    },
+    {
+      "word": "flaky",
+      "start": 14.36,
+      "end": 14.64
+    },
+    {
+      "word": "test",
+      "start": 14.64,
+      "end": 14.94
+    },
+    {
+      "word": "suites",
+      "start": 14.94,
+      "end": 15.28
+    },
+    {
+      "word": "disrupt",
+      "start": 15.28,
+      "end": 15.68
+    },
+    {
+      "word": "the",
+      "start": 15.68,
+      "end": 16.1
+    },
+    {
+      "word": "next",
+      "start": 16.1,
+      "end": 16.16
+    },
+    {
+      "word": "sprint",
+      "start": 16.16,
+      "end": 16.44
+    },
+    {
+      "word": "cycle.",
+      "start": 16.44,
+      "end": 16.82
+    },
+    {
+      "word": "Paraball",
+      "start": 17.56,
+      "end": 17.82
+    },
+    {
+      "word": "lets",
+      "start": 17.82,
+      "end": 18.2
+    },
+    {
+      "word": "distributed",
+      "start": 18.2,
+      "end": 18.62
+    },
+    {
+      "word": "teams",
+      "start": 18.62,
+      "end": 19.12
+    },
+    {
+      "word": "post",
+      "start": 19.12,
+      "end": 19.54
+    },
+    {
+      "word": "masked",
+      "start": 19.54,
+      "end": 19.9
+    },
+    {
+      "word": "feedback",
+      "start": 19.9,
+      "end": 20.32
+    },
+    {
+      "word": "asynchronously,",
+      "start": 20.32,
+      "end": 21.12
+    },
+    {
+      "word": "vote",
+      "start": 21.54,
+      "end": 21.74
+    },
+    {
+      "word": "on",
+      "start": 21.74,
+      "end": 22.02
+    },
+    {
+      "word": "themes,",
+      "start": 22.02,
+      "end": 22.44
+    },
+    {
+      "word": "and",
+      "start": 22.82,
+      "end": 23.02
+    },
+    {
+      "word": "sync",
+      "start": 23.02,
+      "end": 23.34
+    },
+    {
+      "word": "JIRA",
+      "start": 23.34,
+      "end": 23.66
+    },
+    {
+      "word": "tasks.",
+      "start": 23.66,
+      "end": 24.14
+    },
+    {
+      "word": "Retro",
+      "start": 24.14,
+      "end": 25.06
+    },
+    {
+      "word": "-S",
+      "start": 25.06,
+      "end": 25.38
+    },
+    {
+      "word": "turn",
+      "start": 25.38,
+      "end": 25.66
+    },
+    {
+      "word": "into",
+      "start": 25.66,
+      "end": 25.94
+    },
+    {
+      "word": "actionable",
+      "start": 25.94,
+      "end": 26.5
+    },
+    {
+      "word": "engineering",
+      "start": 26.5,
+      "end": 26.92
+    },
+    {
+      "word": "improvements",
+      "start": 26.92,
+      "end": 27.46
+    },
+    {
+      "word": "within",
+      "start": 27.46,
+      "end": 27.8
+    },
+    {
+      "word": "30",
+      "start": 27.8,
+      "end": 28.14
+    },
+    {
+      "word": "minutes.",
+      "start": 28.14,
+      "end": 28.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop holding boring retros where nobody wants to speak up about what went wrong.",
+      "line2": "ANONYMOUS SPRINT RETROS",
+      "tag": "\ud83d\uded1 Automated sprint retro board with anonymous feedback collection",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated sprint retro board with anonymous feedback collection",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated sprint retro board with anonymous feedback collection",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated sprint retro board with anonymous feedback collection",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

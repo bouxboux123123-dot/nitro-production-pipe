@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "AI sales demo recorder that extracts custom follow-up action items",
+  "text": "This AI analyzes sales calls, records client objections, and drafts customized follow-up emails. Account executives take rushed notes during demos, missing nuanced technical concerns raised by enterprise decision-makers. Sending generic recap templates fails to address real hesitations, causing promising pipeline to ghost you completely. Connect Fireflies to Claude through Make, mapping objections to solutions and generating tailored Gmail drafts. You eliminate hours of CRM admin while speeding closes.",
+  "duration": 32.719,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "AI",
+      "start": 0.26,
+      "end": 0.8
+    },
+    {
+      "word": "analyzes",
+      "start": 0.8,
+      "end": 1.4
+    },
+    {
+      "word": "sales",
+      "start": 1.4,
+      "end": 1.8
+    },
+    {
+      "word": "calls,",
+      "start": 1.8,
+      "end": 2.3
+    },
+    {
+      "word": "records",
+      "start": 2.84,
+      "end": 2.9
+    },
+    {
+      "word": "client",
+      "start": 2.9,
+      "end": 3.26
+    },
+    {
+      "word": "objections,",
+      "start": 3.26,
+      "end": 3.88
+    },
+    {
+      "word": "and",
+      "start": 4.26,
+      "end": 4.46
+    },
+    {
+      "word": "drafts",
+      "start": 4.46,
+      "end": 4.8
+    },
+    {
+      "word": "customized",
+      "start": 4.8,
+      "end": 5.46
+    },
+    {
+      "word": "follow",
+      "start": 5.46,
+      "end": 5.94
+    },
+    {
+      "word": "-up",
+      "start": 5.94,
+      "end": 6.18
+    },
+    {
+      "word": "emails.",
+      "start": 6.18,
+      "end": 6.62
+    },
+    {
+      "word": "Account",
+      "start": 7.32,
+      "end": 7.58
+    },
+    {
+      "word": "executives",
+      "start": 7.58,
+      "end": 8.12
+    },
+    {
+      "word": "take",
+      "start": 8.12,
+      "end": 8.52
+    },
+    {
+      "word": "rushed",
+      "start": 8.52,
+      "end": 8.86
+    },
+    {
+      "word": "notes",
+      "start": 8.86,
+      "end": 9.12
+    },
+    {
+      "word": "during",
+      "start": 9.12,
+      "end": 9.48
+    },
+    {
+      "word": "demos,",
+      "start": 9.48,
+      "end": 9.9
+    },
+    {
+      "word": "missing",
+      "start": 10.6,
+      "end": 10.62
+    },
+    {
+      "word": "nuanced",
+      "start": 10.62,
+      "end": 11.08
+    },
+    {
+      "word": "technical",
+      "start": 11.08,
+      "end": 11.64
+    },
+    {
+      "word": "concerns",
+      "start": 11.64,
+      "end": 12.14
+    },
+    {
+      "word": "raised",
+      "start": 12.14,
+      "end": 12.6
+    },
+    {
+      "word": "by",
+      "start": 12.6,
+      "end": 13.08
+    },
+    {
+      "word": "enterprise",
+      "start": 13.08,
+      "end": 13.42
+    },
+    {
+      "word": "decision",
+      "start": 13.42,
+      "end": 13.86
+    },
+    {
+      "word": "makers.",
+      "start": 13.86,
+      "end": 14.28
+    },
+    {
+      "word": "Sending",
+      "start": 14.94,
+      "end": 14.94
+    },
+    {
+      "word": "generic",
+      "start": 14.94,
+      "end": 15.48
+    },
+    {
+      "word": "recap",
+      "start": 15.48,
+      "end": 15.88
+    },
+    {
+      "word": "templates",
+      "start": 15.88,
+      "end": 16.26
+    },
+    {
+      "word": "fails",
+      "start": 16.26,
+      "end": 16.68
+    },
+    {
+      "word": "to",
+      "start": 16.68,
+      "end": 16.92
+    },
+    {
+      "word": "address",
+      "start": 16.92,
+      "end": 17.24
+    },
+    {
+      "word": "real",
+      "start": 17.24,
+      "end": 17.58
+    },
+    {
+      "word": "hesitations,",
+      "start": 17.58,
+      "end": 18.26
+    },
+    {
+      "word": "causing",
+      "start": 19.08,
+      "end": 19.1
+    },
+    {
+      "word": "promising",
+      "start": 19.1,
+      "end": 19.6
+    },
+    {
+      "word": "pipeline",
+      "start": 19.6,
+      "end": 20.08
+    },
+    {
+      "word": "to",
+      "start": 20.08,
+      "end": 20.44
+    },
+    {
+      "word": "ghost",
+      "start": 20.44,
+      "end": 20.66
+    },
+    {
+      "word": "you",
+      "start": 20.66,
+      "end": 20.9
+    },
+    {
+      "word": "completely.",
+      "start": 20.9,
+      "end": 21.34
+    },
+    {
+      "word": "Connect",
+      "start": 22.32,
+      "end": 22.32
+    },
+    {
+      "word": "fireflies",
+      "start": 22.32,
+      "end": 22.96
+    },
+    {
+      "word": "to",
+      "start": 22.96,
+      "end": 23.22
+    },
+    {
+      "word": "clawed",
+      "start": 23.22,
+      "end": 23.6
+    },
+    {
+      "word": "through",
+      "start": 23.6,
+      "end": 23.8
+    },
+    {
+      "word": "make,",
+      "start": 23.8,
+      "end": 24.14
+    },
+    {
+      "word": "mapping",
+      "start": 24.74,
+      "end": 24.76
+    },
+    {
+      "word": "objections",
+      "start": 24.76,
+      "end": 25.3
+    },
+    {
+      "word": "to",
+      "start": 25.3,
+      "end": 25.64
+    },
+    {
+      "word": "solutions",
+      "start": 25.64,
+      "end": 26.1
+    },
+    {
+      "word": "and",
+      "start": 26.1,
+      "end": 26.56
+    },
+    {
+      "word": "generating",
+      "start": 26.56,
+      "end": 27.06
+    },
+    {
+      "word": "tailored",
+      "start": 27.06,
+      "end": 27.58
+    },
+    {
+      "word": "Gmail",
+      "start": 27.58,
+      "end": 27.98
+    },
+    {
+      "word": "drafts.",
+      "start": 27.98,
+      "end": 28.52
+    },
+    {
+      "word": "You",
+      "start": 28.52,
+      "end": 29.26
+    },
+    {
+      "word": "eliminate",
+      "start": 29.26,
+      "end": 29.58
+    },
+    {
+      "word": "hours",
+      "start": 29.58,
+      "end": 30.1
+    },
+    {
+      "word": "of",
+      "start": 30.1,
+      "end": 30.48
+    },
+    {
+      "word": "CRM",
+      "start": 30.48,
+      "end": 31.08
+    },
+    {
+      "word": "admin",
+      "start": 31.08,
+      "end": 31.4
+    },
+    {
+      "word": "while",
+      "start": 31.4,
+      "end": 31.82
+    },
+    {
+      "word": "speeding",
+      "start": 31.82,
+      "end": 32.14
+    },
+    {
+      "word": "closes.",
+      "start": 32.14,
+      "end": 32.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "This AI listens to the sales call, notes specific client objections, and drafts the email.",
+      "line2": "EXTRACT DEMO ACTION ITEMS",
+      "tag": "\ud83d\uded1 AI sales demo recorder that extracts custom follow-up action items",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: AI sales demo recorder that extracts custom follow-up action items",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: AI sales demo recorder that extracts custom follow-up action items",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "page": "page-02",
+  "idea": "Smart calendar scheduler that protects freelance deep work hours",
+  "text": "This AI scheduler groups all client calls into one afternoon block automatically. Freelancers constantly lose entire days because booking links allow clients to drop random meetings into peak creative hours. Constant calendar fragmentation causes severe context switching, stalling your main design or development deliverables. Motion uses adaptive machine learning to reschedule low-priority check-ins and batch client calls into tight afternoon slots. You reclaim three hours of uninterrupted daily flow state.",
+  "duration": 31.439,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "AI",
+      "start": 0.26,
+      "end": 0.76
+    },
+    {
+      "word": "scheduler",
+      "start": 0.76,
+      "end": 1.26
+    },
+    {
+      "word": "groups",
+      "start": 1.26,
+      "end": 1.64
+    },
+    {
+      "word": "all",
+      "start": 1.64,
+      "end": 2.04
+    },
+    {
+      "word": "client",
+      "start": 2.04,
+      "end": 2.34
+    },
+    {
+      "word": "calls",
+      "start": 2.34,
+      "end": 2.72
+    },
+    {
+      "word": "into",
+      "start": 2.72,
+      "end": 3.0
+    },
+    {
+      "word": "one",
+      "start": 3.0,
+      "end": 3.28
+    },
+    {
+      "word": "afternoon",
+      "start": 3.28,
+      "end": 3.7
+    },
+    {
+      "word": "block",
+      "start": 3.7,
+      "end": 4.22
+    },
+    {
+      "word": "automatically.",
+      "start": 4.22,
+      "end": 5.04
+    },
+    {
+      "word": "Freelancers",
+      "start": 5.58,
+      "end": 6.12
+    },
+    {
+      "word": "constantly",
+      "start": 6.12,
+      "end": 6.7
+    },
+    {
+      "word": "lose",
+      "start": 6.7,
+      "end": 7.08
+    },
+    {
+      "word": "entire",
+      "start": 7.08,
+      "end": 7.52
+    },
+    {
+      "word": "days,",
+      "start": 7.52,
+      "end": 8.02
+    },
+    {
+      "word": "because",
+      "start": 8.36,
+      "end": 8.62
+    },
+    {
+      "word": "booking",
+      "start": 8.62,
+      "end": 8.9
+    },
+    {
+      "word": "links",
+      "start": 8.9,
+      "end": 9.2
+    },
+    {
+      "word": "allow",
+      "start": 9.2,
+      "end": 9.6
+    },
+    {
+      "word": "clients",
+      "start": 9.6,
+      "end": 9.96
+    },
+    {
+      "word": "to",
+      "start": 9.96,
+      "end": 10.16
+    },
+    {
+      "word": "drop",
+      "start": 10.16,
+      "end": 10.56
+    },
+    {
+      "word": "random",
+      "start": 10.56,
+      "end": 10.84
+    },
+    {
+      "word": "meetings",
+      "start": 10.84,
+      "end": 11.28
+    },
+    {
+      "word": "into",
+      "start": 11.28,
+      "end": 11.6
+    },
+    {
+      "word": "peak",
+      "start": 11.6,
+      "end": 11.9
+    },
+    {
+      "word": "creative",
+      "start": 11.9,
+      "end": 12.3
+    },
+    {
+      "word": "hours.",
+      "start": 12.3,
+      "end": 12.82
+    },
+    {
+      "word": "Constant",
+      "start": 13.6,
+      "end": 13.6
+    },
+    {
+      "word": "calendar",
+      "start": 13.6,
+      "end": 14.04
+    },
+    {
+      "word": "fragmentation",
+      "start": 14.04,
+      "end": 14.68
+    },
+    {
+      "word": "causes",
+      "start": 14.68,
+      "end": 15.28
+    },
+    {
+      "word": "severe",
+      "start": 15.28,
+      "end": 15.72
+    },
+    {
+      "word": "context",
+      "start": 15.72,
+      "end": 16.28
+    },
+    {
+      "word": "switching,",
+      "start": 16.28,
+      "end": 16.86
+    },
+    {
+      "word": "stalling",
+      "start": 17.26,
+      "end": 17.62
+    },
+    {
+      "word": "your",
+      "start": 17.62,
+      "end": 17.88
+    },
+    {
+      "word": "main",
+      "start": 17.88,
+      "end": 18.14
+    },
+    {
+      "word": "design",
+      "start": 18.14,
+      "end": 18.58
+    },
+    {
+      "word": "or",
+      "start": 18.58,
+      "end": 18.94
+    },
+    {
+      "word": "development",
+      "start": 18.94,
+      "end": 19.38
+    },
+    {
+      "word": "deliverables.",
+      "start": 19.38,
+      "end": 20.04
+    },
+    {
+      "word": "Motion",
+      "start": 20.58,
+      "end": 20.86
+    },
+    {
+      "word": "uses",
+      "start": 20.86,
+      "end": 21.26
+    },
+    {
+      "word": "adaptive",
+      "start": 21.26,
+      "end": 21.74
+    },
+    {
+      "word": "machine",
+      "start": 21.74,
+      "end": 22.14
+    },
+    {
+      "word": "learning",
+      "start": 22.14,
+      "end": 22.54
+    },
+    {
+      "word": "to",
+      "start": 22.54,
+      "end": 22.84
+    },
+    {
+      "word": "reschedule",
+      "start": 22.84,
+      "end": 23.36
+    },
+    {
+      "word": "low",
+      "start": 23.36,
+      "end": 23.7
+    },
+    {
+      "word": "priority",
+      "start": 23.7,
+      "end": 24.14
+    },
+    {
+      "word": "check",
+      "start": 24.14,
+      "end": 24.44
+    },
+    {
+      "word": "-ins",
+      "start": 24.44,
+      "end": 24.72
+    },
+    {
+      "word": "and",
+      "start": 24.72,
+      "end": 25.16
+    },
+    {
+      "word": "batch",
+      "start": 25.16,
+      "end": 25.44
+    },
+    {
+      "word": "client",
+      "start": 25.44,
+      "end": 25.84
+    },
+    {
+      "word": "calls",
+      "start": 25.84,
+      "end": 26.18
+    },
+    {
+      "word": "into",
+      "start": 26.18,
+      "end": 26.42
+    },
+    {
+      "word": "tight",
+      "start": 26.42,
+      "end": 26.74
+    },
+    {
+      "word": "afternoon",
+      "start": 26.74,
+      "end": 27.16
+    },
+    {
+      "word": "slots.",
+      "start": 27.16,
+      "end": 27.78
+    },
+    {
+      "word": "You",
+      "start": 27.78,
+      "end": 28.5
+    },
+    {
+      "word": "reclaim",
+      "start": 28.5,
+      "end": 28.72
+    },
+    {
+      "word": "three",
+      "start": 28.72,
+      "end": 29.24
+    },
+    {
+      "word": "hours",
+      "start": 29.24,
+      "end": 29.58
+    },
+    {
+      "word": "of",
+      "start": 29.58,
+      "end": 30.0
+    },
+    {
+      "word": "uninterrupted",
+      "start": 30.0,
+      "end": 30.4
+    },
+    {
+      "word": "daily",
+      "start": 30.4,
+      "end": 30.88
+    },
+    {
+      "word": "flow",
+      "start": 30.88,
+      "end": 31.2
+    },
+    {
+      "word": "state.",
+      "start": 31.2,
+      "end": 31.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This AI scheduler groups all client calls into one afternoon block automatically.",
+      "line2": "PROTECT DEEP WORK",
+      "tag": "\ud83d\uded1 Smart calendar scheduler that protects freelance deep work hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Smart calendar scheduler that protects freelance deep work hours",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Smart calendar scheduler that protects freelance deep work hours",
+        "subtitle": "Smart calendar scheduler that protects freelance deep work hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Smart calendar scheduler that protects freelance deep work hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Smart calendar scheduler that protects freelance deep work hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Smart calendar scheduler that protects freelance deep work hours",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

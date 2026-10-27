@@ -1,0 +1,391 @@
+{
+  "page": "page-04",
+  "idea": "Ollama: run powerful AI models completely free on your laptop",
+  "text": "Private, uncensored, and one hundred percent free AI right on your computer. Commercial chatbots store your prompt history, making them risky for proprietary client projects and sensitive files. Cloud providers also push sudden policy changes and subscription increases that disrupt your regular workflows. Set up Ollama to run models like Llama three directly on your local hardware. You gain complete data sovereignty with zero monthly fees.",
+  "duration": 25.045,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "private",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "uncensored",
+      "start": 0.44,
+      "end": 1.18
+    },
+    {
+      "word": "and",
+      "start": 1.18,
+      "end": 1.56
+    },
+    {
+      "word": "100",
+      "start": 1.56,
+      "end": 1.94
+    },
+    {
+      "word": "%",
+      "start": 1.94,
+      "end": 2.32
+    },
+    {
+      "word": "free",
+      "start": 2.32,
+      "end": 2.58
+    },
+    {
+      "word": "AI",
+      "start": 2.58,
+      "end": 2.98
+    },
+    {
+      "word": "right",
+      "start": 2.98,
+      "end": 3.24
+    },
+    {
+      "word": "on",
+      "start": 3.24,
+      "end": 3.38
+    },
+    {
+      "word": "your",
+      "start": 3.38,
+      "end": 4.22
+    },
+    {
+      "word": "computer.",
+      "start": 4.22,
+      "end": 4.22
+    },
+    {
+      "word": "Commercial",
+      "start": 4.76,
+      "end": 4.8
+    },
+    {
+      "word": "chatbots",
+      "start": 4.8,
+      "end": 5.42
+    },
+    {
+      "word": "store",
+      "start": 5.42,
+      "end": 5.66
+    },
+    {
+      "word": "your",
+      "start": 5.66,
+      "end": 5.88
+    },
+    {
+      "word": "prompt",
+      "start": 5.88,
+      "end": 6.1
+    },
+    {
+      "word": "history,",
+      "start": 6.1,
+      "end": 6.54
+    },
+    {
+      "word": "making",
+      "start": 6.94,
+      "end": 7.0
+    },
+    {
+      "word": "them",
+      "start": 7.0,
+      "end": 7.28
+    },
+    {
+      "word": "risky",
+      "start": 7.28,
+      "end": 7.48
+    },
+    {
+      "word": "for",
+      "start": 7.48,
+      "end": 7.82
+    },
+    {
+      "word": "proprietary",
+      "start": 7.82,
+      "end": 8.26
+    },
+    {
+      "word": "client",
+      "start": 8.26,
+      "end": 8.82
+    },
+    {
+      "word": "projects",
+      "start": 8.82,
+      "end": 9.28
+    },
+    {
+      "word": "and",
+      "start": 9.28,
+      "end": 9.64
+    },
+    {
+      "word": "sensitive",
+      "start": 9.64,
+      "end": 9.88
+    },
+    {
+      "word": "files.",
+      "start": 9.88,
+      "end": 10.34
+    },
+    {
+      "word": "Cloud",
+      "start": 10.92,
+      "end": 11.18
+    },
+    {
+      "word": "providers",
+      "start": 11.18,
+      "end": 11.56
+    },
+    {
+      "word": "also",
+      "start": 11.56,
+      "end": 12.04
+    },
+    {
+      "word": "push",
+      "start": 12.04,
+      "end": 12.3
+    },
+    {
+      "word": "sudden",
+      "start": 12.3,
+      "end": 12.62
+    },
+    {
+      "word": "policy",
+      "start": 12.62,
+      "end": 12.96
+    },
+    {
+      "word": "changes",
+      "start": 12.96,
+      "end": 13.44
+    },
+    {
+      "word": "and",
+      "start": 13.44,
+      "end": 13.94
+    },
+    {
+      "word": "subscription",
+      "start": 13.94,
+      "end": 14.36
+    },
+    {
+      "word": "increases",
+      "start": 14.36,
+      "end": 14.86
+    },
+    {
+      "word": "that",
+      "start": 14.86,
+      "end": 15.46
+    },
+    {
+      "word": "disrupt",
+      "start": 15.46,
+      "end": 15.68
+    },
+    {
+      "word": "your",
+      "start": 15.68,
+      "end": 15.94
+    },
+    {
+      "word": "regular",
+      "start": 15.94,
+      "end": 16.26
+    },
+    {
+      "word": "workflows.",
+      "start": 16.26,
+      "end": 16.86
+    },
+    {
+      "word": "Set",
+      "start": 17.4,
+      "end": 17.54
+    },
+    {
+      "word": "up",
+      "start": 17.54,
+      "end": 17.78
+    },
+    {
+      "word": "a",
+      "start": 17.78,
+      "end": 17.9
+    },
+    {
+      "word": "llama",
+      "start": 17.9,
+      "end": 18.12
+    },
+    {
+      "word": "to",
+      "start": 18.12,
+      "end": 18.32
+    },
+    {
+      "word": "run",
+      "start": 18.32,
+      "end": 18.56
+    },
+    {
+      "word": "models",
+      "start": 18.56,
+      "end": 18.84
+    },
+    {
+      "word": "like",
+      "start": 18.84,
+      "end": 19.18
+    },
+    {
+      "word": "llama",
+      "start": 19.18,
+      "end": 19.54
+    },
+    {
+      "word": "three",
+      "start": 19.54,
+      "end": 19.88
+    },
+    {
+      "word": "directly",
+      "start": 19.88,
+      "end": 20.32
+    },
+    {
+      "word": "on",
+      "start": 20.32,
+      "end": 20.48
+    },
+    {
+      "word": "your",
+      "start": 20.48,
+      "end": 20.72
+    },
+    {
+      "word": "local",
+      "start": 20.72,
+      "end": 20.94
+    },
+    {
+      "word": "hardware.",
+      "start": 20.94,
+      "end": 21.34
+    },
+    {
+      "word": "You",
+      "start": 21.9,
+      "end": 22.0
+    },
+    {
+      "word": "gain",
+      "start": 22.0,
+      "end": 22.26
+    },
+    {
+      "word": "complete",
+      "start": 22.26,
+      "end": 22.64
+    },
+    {
+      "word": "data",
+      "start": 22.64,
+      "end": 23.04
+    },
+    {
+      "word": "sovereignty",
+      "start": 23.04,
+      "end": 23.46
+    },
+    {
+      "word": "with",
+      "start": 23.46,
+      "end": 23.8
+    },
+    {
+      "word": "zero",
+      "start": 23.8,
+      "end": 24.2
+    },
+    {
+      "word": "monthly",
+      "start": 24.2,
+      "end": 24.6
+    },
+    {
+      "word": "fees.",
+      "start": 24.6,
+      "end": 25.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Private, uncensored, and 100 percent free AI on your own computer.",
+      "line2": "RUN AI LOCALLY",
+      "tag": "\ud83d\uded1 Ollama",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Ollama",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Ollama",
+        "subtitle": "Ollama"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Ollama"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Ollama"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Ollama",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

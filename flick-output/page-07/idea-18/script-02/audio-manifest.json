@@ -1,0 +1,421 @@
+{
+  "page": "page-07",
+  "idea": "Founder async weekly standup system that eliminates hour-long syncs",
+  "text": "This five-minute async update format keeps distributed remote teams completely aligned without scheduled calls. Time zone gaps turn simple progress checks into grueling twenty-four-hour calendar games for founders. Projects derail because team members wait on real-time conversations instead of documenting blockers clearly. Set up DailyBot in Slack to log yesterday's wins, today's goals, and active PR reviews into Notion. You maintain perfect transparency across twelve time zones.",
+  "duration": 30.693,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "five",
+      "start": 0.28,
+      "end": 0.64
+    },
+    {
+      "word": "-minute",
+      "start": 0.64,
+      "end": 0.82
+    },
+    {
+      "word": "a",
+      "start": 0.82,
+      "end": 1.04
+    },
+    {
+      "word": "sync",
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "word": "update",
+      "start": 1.28,
+      "end": 1.68
+    },
+    {
+      "word": "format",
+      "start": 1.68,
+      "end": 2.04
+    },
+    {
+      "word": "keeps",
+      "start": 2.04,
+      "end": 2.66
+    },
+    {
+      "word": "distributed",
+      "start": 2.66,
+      "end": 3.32
+    },
+    {
+      "word": "remote",
+      "start": 3.32,
+      "end": 3.7
+    },
+    {
+      "word": "teams",
+      "start": 3.7,
+      "end": 4.16
+    },
+    {
+      "word": "completely",
+      "start": 4.16,
+      "end": 4.7
+    },
+    {
+      "word": "aligned",
+      "start": 4.7,
+      "end": 5.24
+    },
+    {
+      "word": "without",
+      "start": 5.24,
+      "end": 5.78
+    },
+    {
+      "word": "scheduled",
+      "start": 5.78,
+      "end": 6.24
+    },
+    {
+      "word": "calls.",
+      "start": 6.24,
+      "end": 6.8
+    },
+    {
+      "word": "Time",
+      "start": 7.56,
+      "end": 7.68
+    },
+    {
+      "word": "Zone",
+      "start": 7.68,
+      "end": 8.08
+    },
+    {
+      "word": "gaps",
+      "start": 8.08,
+      "end": 8.5
+    },
+    {
+      "word": "turn",
+      "start": 8.5,
+      "end": 8.82
+    },
+    {
+      "word": "simple",
+      "start": 8.82,
+      "end": 9.18
+    },
+    {
+      "word": "progress",
+      "start": 9.18,
+      "end": 9.64
+    },
+    {
+      "word": "checks",
+      "start": 9.64,
+      "end": 9.96
+    },
+    {
+      "word": "into",
+      "start": 9.96,
+      "end": 10.22
+    },
+    {
+      "word": "grueling",
+      "start": 10.22,
+      "end": 10.64
+    },
+    {
+      "word": "24",
+      "start": 10.64,
+      "end": 11.2
+    },
+    {
+      "word": "-hour",
+      "start": 11.2,
+      "end": 11.54
+    },
+    {
+      "word": "calendar",
+      "start": 11.54,
+      "end": 11.84
+    },
+    {
+      "word": "games",
+      "start": 11.84,
+      "end": 12.28
+    },
+    {
+      "word": "for",
+      "start": 12.28,
+      "end": 12.56
+    },
+    {
+      "word": "founders.",
+      "start": 12.56,
+      "end": 12.96
+    },
+    {
+      "word": "Projects",
+      "start": 13.8,
+      "end": 13.8
+    },
+    {
+      "word": "derail",
+      "start": 13.8,
+      "end": 14.22
+    },
+    {
+      "word": "because",
+      "start": 14.22,
+      "end": 14.64
+    },
+    {
+      "word": "team",
+      "start": 14.64,
+      "end": 14.98
+    },
+    {
+      "word": "members",
+      "start": 14.98,
+      "end": 15.34
+    },
+    {
+      "word": "wait",
+      "start": 15.34,
+      "end": 15.62
+    },
+    {
+      "word": "on",
+      "start": 15.62,
+      "end": 15.88
+    },
+    {
+      "word": "real",
+      "start": 15.88,
+      "end": 16.14
+    },
+    {
+      "word": "-time",
+      "start": 16.14,
+      "end": 16.48
+    },
+    {
+      "word": "conversations",
+      "start": 16.48,
+      "end": 17.12
+    },
+    {
+      "word": "instead",
+      "start": 17.12,
+      "end": 17.68
+    },
+    {
+      "word": "of",
+      "start": 17.68,
+      "end": 18.2
+    },
+    {
+      "word": "documenting",
+      "start": 18.2,
+      "end": 18.36
+    },
+    {
+      "word": "blockers",
+      "start": 18.36,
+      "end": 18.72
+    },
+    {
+      "word": "clearly.",
+      "start": 18.72,
+      "end": 19.5
+    },
+    {
+      "word": "Set",
+      "start": 19.96,
+      "end": 20.12
+    },
+    {
+      "word": "up",
+      "start": 20.12,
+      "end": 20.32
+    },
+    {
+      "word": "daily",
+      "start": 20.32,
+      "end": 20.62
+    },
+    {
+      "word": "bot",
+      "start": 20.62,
+      "end": 20.92
+    },
+    {
+      "word": "and",
+      "start": 20.92,
+      "end": 21.18
+    },
+    {
+      "word": "slack",
+      "start": 21.18,
+      "end": 21.4
+    },
+    {
+      "word": "to",
+      "start": 21.4,
+      "end": 21.7
+    },
+    {
+      "word": "log",
+      "start": 21.7,
+      "end": 21.94
+    },
+    {
+      "word": "yesterday's",
+      "start": 21.94,
+      "end": 22.6
+    },
+    {
+      "word": "wins,",
+      "start": 22.6,
+      "end": 22.94
+    },
+    {
+      "word": "today's",
+      "start": 23.36,
+      "end": 23.8
+    },
+    {
+      "word": "goals,",
+      "start": 23.8,
+      "end": 24.2
+    },
+    {
+      "word": "and",
+      "start": 24.56,
+      "end": 24.78
+    },
+    {
+      "word": "active",
+      "start": 24.78,
+      "end": 25.12
+    },
+    {
+      "word": "PR",
+      "start": 25.12,
+      "end": 25.56
+    },
+    {
+      "word": "reviews",
+      "start": 25.56,
+      "end": 25.98
+    },
+    {
+      "word": "into",
+      "start": 25.98,
+      "end": 26.24
+    },
+    {
+      "word": "notion.",
+      "start": 26.24,
+      "end": 26.66
+    },
+    {
+      "word": "You",
+      "start": 26.66,
+      "end": 27.36
+    },
+    {
+      "word": "maintain",
+      "start": 27.36,
+      "end": 27.78
+    },
+    {
+      "word": "perfect",
+      "start": 27.78,
+      "end": 28.32
+    },
+    {
+      "word": "transparency",
+      "start": 28.32,
+      "end": 28.98
+    },
+    {
+      "word": "across",
+      "start": 28.98,
+      "end": 29.44
+    },
+    {
+      "word": "12",
+      "start": 29.44,
+      "end": 29.8
+    },
+    {
+      "word": "-time",
+      "start": 29.8,
+      "end": 30.16
+    },
+    {
+      "word": "zones.",
+      "start": 30.16,
+      "end": 30.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The 5-minute async update format that keeps distributed teams completely aligned.",
+      "line2": "ELIMINATE 1-HOUR SYNCS",
+      "tag": "\ud83d\uded1 Founder async weekly standup system that eliminates hour-long syncs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder async weekly standup system that eliminates hour-long syncs",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder async weekly standup system that eliminates hour-long syncs",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

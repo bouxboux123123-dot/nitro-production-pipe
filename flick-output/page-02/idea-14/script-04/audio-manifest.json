@@ -1,0 +1,401 @@
+{
+  "page": "page-02",
+  "idea": "AI audio cleaner for freelance podcasters and video editors",
+  "text": "Freelance creators are getting million-dollar podcast audio on a twenty-dollar microphone. Beginners mistakenly think they need a thousand-dollar Shure SM7B setup to land serious audio clients. Untreated bedroom reflections and cheap USB mic hiss ruin recordings when using standard digital audio workstations. Adobe Podcast AI models clean acoustic environments and enriches low vocal warmth within twenty seconds. You produce elite commercial voice tracks on a budget.",
+  "duration": 30.415,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Freelance",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "creators",
+      "start": 0.5,
+      "end": 0.96
+    },
+    {
+      "word": "are",
+      "start": 0.96,
+      "end": 1.3
+    },
+    {
+      "word": "getting",
+      "start": 1.3,
+      "end": 1.6
+    },
+    {
+      "word": "million",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "word": "dollar",
+      "start": 2.0,
+      "end": 2.4
+    },
+    {
+      "word": "podcast",
+      "start": 2.4,
+      "end": 2.88
+    },
+    {
+      "word": "audio",
+      "start": 2.88,
+      "end": 3.38
+    },
+    {
+      "word": "on",
+      "start": 3.38,
+      "end": 3.56
+    },
+    {
+      "word": "a",
+      "start": 3.56,
+      "end": 3.94
+    },
+    {
+      "word": "$20",
+      "start": 3.94,
+      "end": 4.24
+    },
+    {
+      "word": "microphone.",
+      "start": 4.24,
+      "end": 5.24
+    },
+    {
+      "word": "Beginners",
+      "start": 5.7,
+      "end": 6.12
+    },
+    {
+      "word": "mistakenly",
+      "start": 6.12,
+      "end": 6.64
+    },
+    {
+      "word": "think",
+      "start": 6.64,
+      "end": 7.04
+    },
+    {
+      "word": "they",
+      "start": 7.04,
+      "end": 7.2
+    },
+    {
+      "word": "need",
+      "start": 7.2,
+      "end": 7.4
+    },
+    {
+      "word": "a",
+      "start": 7.4,
+      "end": 7.62
+    },
+    {
+      "word": "thousand",
+      "start": 7.62,
+      "end": 8.1
+    },
+    {
+      "word": "dollars",
+      "start": 8.1,
+      "end": 8.52
+    },
+    {
+      "word": "your",
+      "start": 8.52,
+      "end": 8.98
+    },
+    {
+      "word": "SM7B",
+      "start": 8.98,
+      "end": 10.02
+    },
+    {
+      "word": "setup",
+      "start": 10.02,
+      "end": 10.36
+    },
+    {
+      "word": "to",
+      "start": 10.36,
+      "end": 10.86
+    },
+    {
+      "word": "land",
+      "start": 10.86,
+      "end": 11.22
+    },
+    {
+      "word": "serious",
+      "start": 11.22,
+      "end": 11.7
+    },
+    {
+      "word": "audio",
+      "start": 11.7,
+      "end": 12.14
+    },
+    {
+      "word": "clients.",
+      "start": 12.14,
+      "end": 12.66
+    },
+    {
+      "word": "Untreated",
+      "start": 13.14,
+      "end": 13.5
+    },
+    {
+      "word": "bedroom",
+      "start": 13.5,
+      "end": 13.88
+    },
+    {
+      "word": "reflections",
+      "start": 13.88,
+      "end": 14.46
+    },
+    {
+      "word": "and",
+      "start": 14.46,
+      "end": 14.86
+    },
+    {
+      "word": "cheap",
+      "start": 14.86,
+      "end": 15.14
+    },
+    {
+      "word": "USB",
+      "start": 15.14,
+      "end": 15.6
+    },
+    {
+      "word": "mic",
+      "start": 15.6,
+      "end": 16.18
+    },
+    {
+      "word": "hiss",
+      "start": 16.18,
+      "end": 16.44
+    },
+    {
+      "word": "ruin",
+      "start": 16.44,
+      "end": 16.7
+    },
+    {
+      "word": "recordings",
+      "start": 16.7,
+      "end": 17.24
+    },
+    {
+      "word": "when",
+      "start": 17.24,
+      "end": 17.82
+    },
+    {
+      "word": "using",
+      "start": 17.82,
+      "end": 18.18
+    },
+    {
+      "word": "standard",
+      "start": 18.18,
+      "end": 18.6
+    },
+    {
+      "word": "digital",
+      "start": 18.6,
+      "end": 19.1
+    },
+    {
+      "word": "audio",
+      "start": 19.1,
+      "end": 19.46
+    },
+    {
+      "word": "workstations.",
+      "start": 19.46,
+      "end": 20.6
+    },
+    {
+      "word": "Adobe",
+      "start": 20.96,
+      "end": 21.24
+    },
+    {
+      "word": "podcast",
+      "start": 21.24,
+      "end": 21.8
+    },
+    {
+      "word": "AI",
+      "start": 21.8,
+      "end": 22.4
+    },
+    {
+      "word": "models",
+      "start": 22.4,
+      "end": 22.7
+    },
+    {
+      "word": "clean",
+      "start": 22.7,
+      "end": 23.12
+    },
+    {
+      "word": "acoustic",
+      "start": 23.12,
+      "end": 23.54
+    },
+    {
+      "word": "environments",
+      "start": 23.54,
+      "end": 24.24
+    },
+    {
+      "word": "and",
+      "start": 24.24,
+      "end": 24.78
+    },
+    {
+      "word": "enriches",
+      "start": 24.78,
+      "end": 25.28
+    },
+    {
+      "word": "low",
+      "start": 25.28,
+      "end": 25.6
+    },
+    {
+      "word": "vocal",
+      "start": 25.6,
+      "end": 26.0
+    },
+    {
+      "word": "warmth",
+      "start": 26.0,
+      "end": 26.36
+    },
+    {
+      "word": "within",
+      "start": 26.36,
+      "end": 26.62
+    },
+    {
+      "word": "20",
+      "start": 26.62,
+      "end": 27.02
+    },
+    {
+      "word": "seconds.",
+      "start": 27.02,
+      "end": 27.46
+    },
+    {
+      "word": "You",
+      "start": 27.46,
+      "end": 28.1
+    },
+    {
+      "word": "produce",
+      "start": 28.1,
+      "end": 28.42
+    },
+    {
+      "word": "elite",
+      "start": 28.42,
+      "end": 28.78
+    },
+    {
+      "word": "commercial",
+      "start": 28.78,
+      "end": 29.18
+    },
+    {
+      "word": "voice",
+      "start": 29.18,
+      "end": 29.6
+    },
+    {
+      "word": "tracks",
+      "start": 29.6,
+      "end": 29.84
+    },
+    {
+      "word": "on",
+      "start": 29.84,
+      "end": 30.06
+    },
+    {
+      "word": "a",
+      "start": 30.06,
+      "end": 30.18
+    },
+    {
+      "word": "budget.",
+      "start": 30.18,
+      "end": 30.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "How freelance creators get million-dollar podcast audio on a 20-dollar mic.",
+      "line2": "CLEAN AUDIO INSTANTLY",
+      "tag": "\ud83d\uded1 AI audio cleaner for freelance podcasters and video editors",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI audio cleaner for freelance podcasters and video editors",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI audio cleaner for freelance podcasters and video editors",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to bookmark managers that save tabs across all devices",
+  "text": "Speed up your computer and organize your research using this simple browser extension. Beginners frequently open fifty separate tabs for project research, causing browser crashes and painful system slowdowns. Leaving heavy web applications running in background tabs silently consumes gigabytes of your system memory. Install Toby for Chrome to convert cluttered open windows into clean workspace dashboards organized by project. Your laptop runs noticeably faster every day.",
+  "duration": 29.263,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Speed",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "up",
+      "start": 0.34,
+      "end": 0.52
+    },
+    {
+      "word": "your",
+      "start": 0.52,
+      "end": 0.74
+    },
+    {
+      "word": "computer",
+      "start": 0.74,
+      "end": 1.06
+    },
+    {
+      "word": "and",
+      "start": 1.06,
+      "end": 1.48
+    },
+    {
+      "word": "organize",
+      "start": 1.48,
+      "end": 1.9
+    },
+    {
+      "word": "your",
+      "start": 1.9,
+      "end": 2.2
+    },
+    {
+      "word": "research",
+      "start": 2.2,
+      "end": 2.54
+    },
+    {
+      "word": "using",
+      "start": 2.54,
+      "end": 2.94
+    },
+    {
+      "word": "this",
+      "start": 2.94,
+      "end": 3.24
+    },
+    {
+      "word": "simple",
+      "start": 3.24,
+      "end": 3.58
+    },
+    {
+      "word": "browser",
+      "start": 3.58,
+      "end": 3.96
+    },
+    {
+      "word": "extension.",
+      "start": 3.96,
+      "end": 4.72
+    },
+    {
+      "word": "Beginners",
+      "start": 5.3,
+      "end": 5.74
+    },
+    {
+      "word": "frequently",
+      "start": 5.74,
+      "end": 6.3
+    },
+    {
+      "word": "open",
+      "start": 6.3,
+      "end": 6.64
+    },
+    {
+      "word": "50",
+      "start": 6.64,
+      "end": 7.08
+    },
+    {
+      "word": "separate",
+      "start": 7.08,
+      "end": 7.4
+    },
+    {
+      "word": "tabs",
+      "start": 7.4,
+      "end": 7.74
+    },
+    {
+      "word": "for",
+      "start": 7.74,
+      "end": 8.02
+    },
+    {
+      "word": "project",
+      "start": 8.02,
+      "end": 8.42
+    },
+    {
+      "word": "research,",
+      "start": 8.42,
+      "end": 9.04
+    },
+    {
+      "word": "causing",
+      "start": 9.74,
+      "end": 9.78
+    },
+    {
+      "word": "browser",
+      "start": 9.78,
+      "end": 10.2
+    },
+    {
+      "word": "crashes",
+      "start": 10.2,
+      "end": 10.66
+    },
+    {
+      "word": "and",
+      "start": 10.66,
+      "end": 11.14
+    },
+    {
+      "word": "painful",
+      "start": 11.14,
+      "end": 11.36
+    },
+    {
+      "word": "system",
+      "start": 11.36,
+      "end": 11.84
+    },
+    {
+      "word": "slowdowns,",
+      "start": 11.84,
+      "end": 12.42
+    },
+    {
+      "word": "leaving",
+      "start": 12.84,
+      "end": 13.08
+    },
+    {
+      "word": "heavy",
+      "start": 13.08,
+      "end": 13.38
+    },
+    {
+      "word": "web",
+      "start": 13.38,
+      "end": 13.62
+    },
+    {
+      "word": "applications",
+      "start": 13.62,
+      "end": 14.12
+    },
+    {
+      "word": "running",
+      "start": 14.12,
+      "end": 14.6
+    },
+    {
+      "word": "in",
+      "start": 14.6,
+      "end": 14.96
+    },
+    {
+      "word": "background",
+      "start": 14.96,
+      "end": 15.12
+    },
+    {
+      "word": "tabs",
+      "start": 15.12,
+      "end": 15.78
+    },
+    {
+      "word": "silently",
+      "start": 15.78,
+      "end": 16.52
+    },
+    {
+      "word": "consumes",
+      "start": 16.52,
+      "end": 17.08
+    },
+    {
+      "word": "gigabytes",
+      "start": 17.08,
+      "end": 17.56
+    },
+    {
+      "word": "of",
+      "start": 17.56,
+      "end": 17.74
+    },
+    {
+      "word": "your",
+      "start": 17.74,
+      "end": 18.02
+    },
+    {
+      "word": "system",
+      "start": 18.02,
+      "end": 18.24
+    },
+    {
+      "word": "memory.",
+      "start": 18.24,
+      "end": 18.68
+    },
+    {
+      "word": "Install",
+      "start": 19.4,
+      "end": 19.7
+    },
+    {
+      "word": "Toby",
+      "start": 19.7,
+      "end": 20.08
+    },
+    {
+      "word": "for",
+      "start": 20.08,
+      "end": 20.42
+    },
+    {
+      "word": "Chrome",
+      "start": 20.42,
+      "end": 20.72
+    },
+    {
+      "word": "to",
+      "start": 20.72,
+      "end": 20.98
+    },
+    {
+      "word": "convert",
+      "start": 20.98,
+      "end": 21.32
+    },
+    {
+      "word": "cluttered",
+      "start": 21.32,
+      "end": 21.68
+    },
+    {
+      "word": "open",
+      "start": 21.68,
+      "end": 22.04
+    },
+    {
+      "word": "windows",
+      "start": 22.04,
+      "end": 22.5
+    },
+    {
+      "word": "into",
+      "start": 22.5,
+      "end": 22.9
+    },
+    {
+      "word": "clean",
+      "start": 22.9,
+      "end": 23.26
+    },
+    {
+      "word": "workspace",
+      "start": 23.26,
+      "end": 23.58
+    },
+    {
+      "word": "dashboards",
+      "start": 23.58,
+      "end": 24.42
+    },
+    {
+      "word": "organized",
+      "start": 24.42,
+      "end": 25.04
+    },
+    {
+      "word": "by",
+      "start": 25.04,
+      "end": 25.4
+    },
+    {
+      "word": "project.",
+      "start": 25.4,
+      "end": 25.94
+    },
+    {
+      "word": "Your",
+      "start": 25.94,
+      "end": 26.66
+    },
+    {
+      "word": "laptop",
+      "start": 26.66,
+      "end": 27.0
+    },
+    {
+      "word": "runs",
+      "start": 27.0,
+      "end": 27.58
+    },
+    {
+      "word": "noticeably",
+      "start": 27.58,
+      "end": 28.0
+    },
+    {
+      "word": "faster",
+      "start": 28.0,
+      "end": 28.58
+    },
+    {
+      "word": "every",
+      "start": 28.58,
+      "end": 28.9
+    },
+    {
+      "word": "day.",
+      "start": 28.9,
+      "end": 29.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Speed up your computer and organize your research with this simple extension.",
+      "line2": "SAVE TABS ACROSS DEVICES",
+      "tag": "\ud83d\uded1 Beginner guide to bookmark managers that save tabs across all devices",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to bookmark managers that save tabs across all devices",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to bookmark managers that save tabs across all devices",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-03",
+  "idea": "Automated Etsy digital product delivery with zero manual work",
+  "text": "How to sell digital planners on Etsy and fulfill orders while you sleep. New sellers wake up at midnight just to email download links to impatient buyers. Etsy caps files at twenty megabytes, meaning hyperlinked GoodNotes planners fail to attach. Connect your storefront to Make to generate secured Google Drive access PDFs instantly upon purchase. This delivers files in seconds while giving you your weekends back.",
+  "duration": 23.573,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.34
+    },
+    {
+      "word": "sell",
+      "start": 0.34,
+      "end": 0.52
+    },
+    {
+      "word": "digital",
+      "start": 0.52,
+      "end": 0.8
+    },
+    {
+      "word": "planners",
+      "start": 0.8,
+      "end": 1.14
+    },
+    {
+      "word": "on",
+      "start": 1.14,
+      "end": 1.46
+    },
+    {
+      "word": "Etsy",
+      "start": 1.46,
+      "end": 1.84
+    },
+    {
+      "word": "and",
+      "start": 1.84,
+      "end": 2.14
+    },
+    {
+      "word": "fulfill",
+      "start": 2.14,
+      "end": 2.44
+    },
+    {
+      "word": "orders",
+      "start": 2.44,
+      "end": 2.82
+    },
+    {
+      "word": "while",
+      "start": 2.82,
+      "end": 3.1
+    },
+    {
+      "word": "you",
+      "start": 3.1,
+      "end": 3.32
+    },
+    {
+      "word": "sleep.",
+      "start": 3.32,
+      "end": 3.62
+    },
+    {
+      "word": "New",
+      "start": 4.22,
+      "end": 4.28
+    },
+    {
+      "word": "sellers",
+      "start": 4.28,
+      "end": 4.56
+    },
+    {
+      "word": "wake",
+      "start": 4.56,
+      "end": 4.82
+    },
+    {
+      "word": "up",
+      "start": 4.82,
+      "end": 5.0
+    },
+    {
+      "word": "at",
+      "start": 5.0,
+      "end": 5.18
+    },
+    {
+      "word": "midnight",
+      "start": 5.18,
+      "end": 5.42
+    },
+    {
+      "word": "just",
+      "start": 5.42,
+      "end": 5.74
+    },
+    {
+      "word": "to",
+      "start": 5.74,
+      "end": 5.94
+    },
+    {
+      "word": "email",
+      "start": 5.94,
+      "end": 6.18
+    },
+    {
+      "word": "download",
+      "start": 6.18,
+      "end": 6.7
+    },
+    {
+      "word": "links",
+      "start": 6.7,
+      "end": 7.06
+    },
+    {
+      "word": "to",
+      "start": 7.06,
+      "end": 7.3
+    },
+    {
+      "word": "impatient",
+      "start": 7.3,
+      "end": 7.72
+    },
+    {
+      "word": "buyers.",
+      "start": 7.72,
+      "end": 8.18
+    },
+    {
+      "word": "Etsy",
+      "start": 9.02,
+      "end": 9.06
+    },
+    {
+      "word": "caps",
+      "start": 9.06,
+      "end": 9.4
+    },
+    {
+      "word": "files",
+      "start": 9.4,
+      "end": 9.76
+    },
+    {
+      "word": "at",
+      "start": 9.76,
+      "end": 10.0
+    },
+    {
+      "word": "20",
+      "start": 10.0,
+      "end": 10.24
+    },
+    {
+      "word": "megabytes,",
+      "start": 10.24,
+      "end": 10.7
+    },
+    {
+      "word": "meaning",
+      "start": 11.3,
+      "end": 11.38
+    },
+    {
+      "word": "hyperlink",
+      "start": 11.38,
+      "end": 11.92
+    },
+    {
+      "word": "good",
+      "start": 11.92,
+      "end": 12.16
+    },
+    {
+      "word": "notes",
+      "start": 12.16,
+      "end": 12.46
+    },
+    {
+      "word": "planners",
+      "start": 12.46,
+      "end": 12.8
+    },
+    {
+      "word": "fail",
+      "start": 12.8,
+      "end": 13.16
+    },
+    {
+      "word": "to",
+      "start": 13.16,
+      "end": 13.38
+    },
+    {
+      "word": "attach.",
+      "start": 13.38,
+      "end": 13.82
+    },
+    {
+      "word": "Connect",
+      "start": 14.32,
+      "end": 14.56
+    },
+    {
+      "word": "your",
+      "start": 14.56,
+      "end": 14.86
+    },
+    {
+      "word": "storefront",
+      "start": 14.86,
+      "end": 15.08
+    },
+    {
+      "word": "to",
+      "start": 15.08,
+      "end": 15.44
+    },
+    {
+      "word": "make",
+      "start": 15.44,
+      "end": 15.44
+    },
+    {
+      "word": "to",
+      "start": 15.44,
+      "end": 15.68
+    },
+    {
+      "word": "generate",
+      "start": 15.68,
+      "end": 15.98
+    },
+    {
+      "word": "secured",
+      "start": 15.98,
+      "end": 16.5
+    },
+    {
+      "word": "Google",
+      "start": 16.5,
+      "end": 16.88
+    },
+    {
+      "word": "Drive",
+      "start": 16.88,
+      "end": 17.22
+    },
+    {
+      "word": "access",
+      "start": 17.22,
+      "end": 17.66
+    },
+    {
+      "word": "PDFs",
+      "start": 17.66,
+      "end": 18.48
+    },
+    {
+      "word": "instantly",
+      "start": 18.48,
+      "end": 18.82
+    },
+    {
+      "word": "upon",
+      "start": 18.82,
+      "end": 19.2
+    },
+    {
+      "word": "purchase.",
+      "start": 19.2,
+      "end": 19.66
+    },
+    {
+      "word": "This",
+      "start": 19.66,
+      "end": 20.44
+    },
+    {
+      "word": "delivers",
+      "start": 20.44,
+      "end": 20.78
+    },
+    {
+      "word": "files",
+      "start": 20.78,
+      "end": 21.32
+    },
+    {
+      "word": "in",
+      "start": 21.32,
+      "end": 21.6
+    },
+    {
+      "word": "seconds",
+      "start": 21.6,
+      "end": 21.92
+    },
+    {
+      "word": "while",
+      "start": 21.92,
+      "end": 22.18
+    },
+    {
+      "word": "giving",
+      "start": 22.18,
+      "end": 22.4
+    },
+    {
+      "word": "you",
+      "start": 22.4,
+      "end": 22.68
+    },
+    {
+      "word": "your",
+      "start": 22.68,
+      "end": 22.86
+    },
+    {
+      "word": "weekends",
+      "start": 22.86,
+      "end": 23.12
+    },
+    {
+      "word": "back.",
+      "start": 23.12,
+      "end": 23.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How to sell digital planners on Etsy and fulfill orders while you sleep.",
+      "line2": "ZERO MANUAL FULFILLMENT",
+      "tag": "\ud83d\uded1 Automated Etsy digital product delivery with zero manual work",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated Etsy digital product delivery with zero manual work",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated Etsy digital product delivery with zero manual work",
+        "subtitle": "Automated Etsy digital product delivery with zero manual work"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated Etsy digital product delivery with zero manual work"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated Etsy digital product delivery with zero manual work"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated Etsy digital product delivery with zero manual work",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

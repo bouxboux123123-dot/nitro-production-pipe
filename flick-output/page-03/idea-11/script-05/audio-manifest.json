@@ -1,0 +1,381 @@
+{
+  "page": "page-03",
+  "idea": "Automated dropshipping inventory sync to prevent selling out-of-stock items",
+  "text": "The automated guardrail every dropshipper needs to install today. Nothing kills momentum faster than spending hours fulfilling orders only to cancel half of them. Manual supplier checking is a ticking time bomb as your daily order volume begins to climb. Instead, integrate your supplier FTP feed into Airtable and Shopify via Make for continuous background stock reconciliation. You scale your store without extra stress.",
+  "duration": 25.131,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "automated",
+      "start": 0.34,
+      "end": 0.6
+    },
+    {
+      "word": "guardrail,",
+      "start": 0.6,
+      "end": 1.1
+    },
+    {
+      "word": "every",
+      "start": 1.28,
+      "end": 1.5
+    },
+    {
+      "word": "dropshipper",
+      "start": 1.5,
+      "end": 2.02
+    },
+    {
+      "word": "needs",
+      "start": 2.02,
+      "end": 2.32
+    },
+    {
+      "word": "to",
+      "start": 2.32,
+      "end": 2.6
+    },
+    {
+      "word": "install",
+      "start": 2.6,
+      "end": 2.86
+    },
+    {
+      "word": "today.",
+      "start": 2.86,
+      "end": 3.5
+    },
+    {
+      "word": "Nothing",
+      "start": 4.08,
+      "end": 4.08
+    },
+    {
+      "word": "kills",
+      "start": 4.08,
+      "end": 4.52
+    },
+    {
+      "word": "momentum",
+      "start": 4.52,
+      "end": 4.92
+    },
+    {
+      "word": "faster",
+      "start": 4.92,
+      "end": 5.42
+    },
+    {
+      "word": "than",
+      "start": 5.42,
+      "end": 5.64
+    },
+    {
+      "word": "spending",
+      "start": 5.64,
+      "end": 5.98
+    },
+    {
+      "word": "hours",
+      "start": 5.98,
+      "end": 6.4
+    },
+    {
+      "word": "fulfilling",
+      "start": 6.4,
+      "end": 6.86
+    },
+    {
+      "word": "orders",
+      "start": 6.86,
+      "end": 7.3
+    },
+    {
+      "word": "only",
+      "start": 7.3,
+      "end": 7.6
+    },
+    {
+      "word": "to",
+      "start": 7.6,
+      "end": 7.86
+    },
+    {
+      "word": "cancel",
+      "start": 7.86,
+      "end": 8.06
+    },
+    {
+      "word": "half",
+      "start": 8.06,
+      "end": 8.4
+    },
+    {
+      "word": "of",
+      "start": 8.4,
+      "end": 8.54
+    },
+    {
+      "word": "them.",
+      "start": 8.54,
+      "end": 9.08
+    },
+    {
+      "word": "Manual",
+      "start": 9.66,
+      "end": 9.66
+    },
+    {
+      "word": "supplier",
+      "start": 9.66,
+      "end": 10.1
+    },
+    {
+      "word": "checking",
+      "start": 10.1,
+      "end": 10.5
+    },
+    {
+      "word": "is",
+      "start": 10.5,
+      "end": 10.78
+    },
+    {
+      "word": "a",
+      "start": 10.78,
+      "end": 10.92
+    },
+    {
+      "word": "ticking",
+      "start": 10.92,
+      "end": 11.06
+    },
+    {
+      "word": "time",
+      "start": 11.06,
+      "end": 11.56
+    },
+    {
+      "word": "bomb",
+      "start": 11.56,
+      "end": 11.88
+    },
+    {
+      "word": "as",
+      "start": 11.88,
+      "end": 12.34
+    },
+    {
+      "word": "your",
+      "start": 12.34,
+      "end": 12.52
+    },
+    {
+      "word": "daily",
+      "start": 12.52,
+      "end": 12.82
+    },
+    {
+      "word": "order",
+      "start": 12.82,
+      "end": 13.08
+    },
+    {
+      "word": "volume",
+      "start": 13.08,
+      "end": 13.52
+    },
+    {
+      "word": "begins",
+      "start": 13.52,
+      "end": 13.86
+    },
+    {
+      "word": "to",
+      "start": 13.86,
+      "end": 14.12
+    },
+    {
+      "word": "climb.",
+      "start": 14.12,
+      "end": 14.52
+    },
+    {
+      "word": "Instead,",
+      "start": 15.18,
+      "end": 15.54
+    },
+    {
+      "word": "integrate",
+      "start": 16.04,
+      "end": 16.16
+    },
+    {
+      "word": "your",
+      "start": 16.16,
+      "end": 16.5
+    },
+    {
+      "word": "supplier",
+      "start": 16.5,
+      "end": 16.88
+    },
+    {
+      "word": "FTP",
+      "start": 16.88,
+      "end": 17.44
+    },
+    {
+      "word": "feed",
+      "start": 17.44,
+      "end": 17.86
+    },
+    {
+      "word": "into",
+      "start": 17.86,
+      "end": 18.14
+    },
+    {
+      "word": "irritable",
+      "start": 18.14,
+      "end": 18.56
+    },
+    {
+      "word": "and",
+      "start": 18.56,
+      "end": 18.78
+    },
+    {
+      "word": "Shopify",
+      "start": 18.78,
+      "end": 19.32
+    },
+    {
+      "word": "via",
+      "start": 19.32,
+      "end": 19.64
+    },
+    {
+      "word": "make",
+      "start": 19.64,
+      "end": 19.92
+    },
+    {
+      "word": "for",
+      "start": 19.92,
+      "end": 20.24
+    },
+    {
+      "word": "continuous",
+      "start": 20.24,
+      "end": 20.62
+    },
+    {
+      "word": "background",
+      "start": 20.62,
+      "end": 21.18
+    },
+    {
+      "word": "stock",
+      "start": 21.18,
+      "end": 21.54
+    },
+    {
+      "word": "reconciliation.",
+      "start": 21.54,
+      "end": 22.24
+    },
+    {
+      "word": "You",
+      "start": 23.04,
+      "end": 23.2
+    },
+    {
+      "word": "scale",
+      "start": 23.2,
+      "end": 23.36
+    },
+    {
+      "word": "your",
+      "start": 23.36,
+      "end": 23.64
+    },
+    {
+      "word": "store",
+      "start": 23.64,
+      "end": 23.88
+    },
+    {
+      "word": "without",
+      "start": 23.88,
+      "end": 24.3
+    },
+    {
+      "word": "extra",
+      "start": 24.3,
+      "end": 24.68
+    },
+    {
+      "word": "stress.",
+      "start": 24.68,
+      "end": 24.96
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The automated guardrail every dropshipper needs to install today.",
+      "line2": "SYNC DROPSHIP INVENTORY",
+      "tag": "\ud83d\uded1 Automated dropshipping inventory sync to prevent selling out-of-stock items",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated dropshipping inventory sync to prevent selling out-of-stock items",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated dropshipping inventory sync to prevent selling out-of-stock items",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

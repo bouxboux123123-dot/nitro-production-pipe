@@ -1,0 +1,421 @@
+{
+  "page": "page-09",
+  "idea": "Slack vs Discord: which platform is best for internal team communication",
+  "text": "The real differences between Slack's enterprise integrations and Discord's voice channels will surprise you. Remote teams waste hours scheduling formal video calls just to answer quick debugging questions. Slack excels at threaded compliance and Jira webhooks, but text-only channels create asynchronous delays that stall releases. Route critical GitHub alerts into Slack while keeping developers inside Discord's low-latency audio channels for collaboration. This setup accelerates deployment velocity without meeting fatigue.",
+  "duration": 32.037,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "real",
+      "start": 0.2,
+      "end": 0.44
+    },
+    {
+      "word": "differences",
+      "start": 0.44,
+      "end": 0.84
+    },
+    {
+      "word": "between",
+      "start": 0.84,
+      "end": 1.36
+    },
+    {
+      "word": "Slack's",
+      "start": 1.36,
+      "end": 2.28
+    },
+    {
+      "word": "enterprise",
+      "start": 2.28,
+      "end": 2.28
+    },
+    {
+      "word": "integrations",
+      "start": 2.28,
+      "end": 2.92
+    },
+    {
+      "word": "and",
+      "start": 2.92,
+      "end": 3.38
+    },
+    {
+      "word": "Discord's",
+      "start": 3.38,
+      "end": 3.94
+    },
+    {
+      "word": "voice",
+      "start": 3.94,
+      "end": 4.22
+    },
+    {
+      "word": "channels",
+      "start": 4.22,
+      "end": 4.56
+    },
+    {
+      "word": "will",
+      "start": 4.56,
+      "end": 4.96
+    },
+    {
+      "word": "surprise",
+      "start": 4.96,
+      "end": 5.3
+    },
+    {
+      "word": "you.",
+      "start": 5.3,
+      "end": 6.02
+    },
+    {
+      "word": "Remote",
+      "start": 6.3,
+      "end": 6.46
+    },
+    {
+      "word": "teams",
+      "start": 6.46,
+      "end": 6.96
+    },
+    {
+      "word": "waste",
+      "start": 6.96,
+      "end": 7.32
+    },
+    {
+      "word": "hours",
+      "start": 7.32,
+      "end": 7.92
+    },
+    {
+      "word": "scheduling",
+      "start": 7.92,
+      "end": 8.52
+    },
+    {
+      "word": "formal",
+      "start": 8.52,
+      "end": 8.96
+    },
+    {
+      "word": "video",
+      "start": 8.96,
+      "end": 9.34
+    },
+    {
+      "word": "calls",
+      "start": 9.34,
+      "end": 9.74
+    },
+    {
+      "word": "just",
+      "start": 9.74,
+      "end": 10.12
+    },
+    {
+      "word": "to",
+      "start": 10.12,
+      "end": 10.26
+    },
+    {
+      "word": "answer",
+      "start": 10.26,
+      "end": 10.56
+    },
+    {
+      "word": "quick",
+      "start": 10.56,
+      "end": 10.92
+    },
+    {
+      "word": "debugging",
+      "start": 10.92,
+      "end": 11.22
+    },
+    {
+      "word": "questions.",
+      "start": 11.22,
+      "end": 11.94
+    },
+    {
+      "word": "Slack",
+      "start": 12.58,
+      "end": 12.58
+    },
+    {
+      "word": "excels",
+      "start": 12.58,
+      "end": 13.18
+    },
+    {
+      "word": "at",
+      "start": 13.18,
+      "end": 13.36
+    },
+    {
+      "word": "threaded",
+      "start": 13.36,
+      "end": 13.68
+    },
+    {
+      "word": "compliance",
+      "start": 13.68,
+      "end": 14.22
+    },
+    {
+      "word": "and",
+      "start": 14.22,
+      "end": 14.56
+    },
+    {
+      "word": "zero",
+      "start": 14.56,
+      "end": 14.74
+    },
+    {
+      "word": "webhooks,",
+      "start": 14.74,
+      "end": 15.54
+    },
+    {
+      "word": "but",
+      "start": 15.62,
+      "end": 15.78
+    },
+    {
+      "word": "text",
+      "start": 15.78,
+      "end": 16.06
+    },
+    {
+      "word": "-only",
+      "start": 16.06,
+      "end": 16.36
+    },
+    {
+      "word": "channels",
+      "start": 16.36,
+      "end": 16.76
+    },
+    {
+      "word": "create",
+      "start": 16.76,
+      "end": 17.18
+    },
+    {
+      "word": "a",
+      "start": 17.18,
+      "end": 17.36
+    },
+    {
+      "word": "synchronous",
+      "start": 17.36,
+      "end": 17.78
+    },
+    {
+      "word": "delays",
+      "start": 17.78,
+      "end": 18.12
+    },
+    {
+      "word": "that",
+      "start": 18.12,
+      "end": 18.56
+    },
+    {
+      "word": "stall",
+      "start": 18.56,
+      "end": 18.86
+    },
+    {
+      "word": "releases.",
+      "start": 18.86,
+      "end": 19.42
+    },
+    {
+      "word": "Route",
+      "start": 20.02,
+      "end": 20.36
+    },
+    {
+      "word": "critical",
+      "start": 20.36,
+      "end": 20.7
+    },
+    {
+      "word": "GitHub",
+      "start": 20.7,
+      "end": 21.08
+    },
+    {
+      "word": "alerts",
+      "start": 21.08,
+      "end": 21.64
+    },
+    {
+      "word": "into",
+      "start": 21.64,
+      "end": 22.0
+    },
+    {
+      "word": "Slack",
+      "start": 22.0,
+      "end": 22.34
+    },
+    {
+      "word": "while",
+      "start": 22.34,
+      "end": 22.72
+    },
+    {
+      "word": "keeping",
+      "start": 22.72,
+      "end": 23.06
+    },
+    {
+      "word": "developers",
+      "start": 23.06,
+      "end": 23.56
+    },
+    {
+      "word": "inside",
+      "start": 23.56,
+      "end": 24.26
+    },
+    {
+      "word": "Discord's",
+      "start": 24.26,
+      "end": 25.04
+    },
+    {
+      "word": "low",
+      "start": 25.04,
+      "end": 25.14
+    },
+    {
+      "word": "-latency",
+      "start": 25.14,
+      "end": 25.56
+    },
+    {
+      "word": "audio",
+      "start": 25.56,
+      "end": 26.06
+    },
+    {
+      "word": "channels",
+      "start": 26.06,
+      "end": 26.48
+    },
+    {
+      "word": "for",
+      "start": 26.48,
+      "end": 26.8
+    },
+    {
+      "word": "collaboration.",
+      "start": 26.8,
+      "end": 27.38
+    },
+    {
+      "word": "This",
+      "start": 27.38,
+      "end": 28.32
+    },
+    {
+      "word": "setup",
+      "start": 28.32,
+      "end": 28.74
+    },
+    {
+      "word": "accelerates",
+      "start": 28.74,
+      "end": 29.58
+    },
+    {
+      "word": "deployment",
+      "start": 29.58,
+      "end": 30.1
+    },
+    {
+      "word": "velocity",
+      "start": 30.1,
+      "end": 30.68
+    },
+    {
+      "word": "without",
+      "start": 30.68,
+      "end": 31.18
+    },
+    {
+      "word": "meeting",
+      "start": 31.18,
+      "end": 31.5
+    },
+    {
+      "word": "fatigue.",
+      "start": 31.5,
+      "end": 32.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The real differences between Slack's enterprise integrations and Discord's voice channels.",
+      "line2": "SLACK VS DISCORD",
+      "tag": "\ud83d\uded1 Slack vs Discord",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Slack vs Discord",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Slack vs Discord",
+        "subtitle": "Slack vs Discord"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Slack vs Discord"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Slack vs Discord"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Slack vs Discord",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

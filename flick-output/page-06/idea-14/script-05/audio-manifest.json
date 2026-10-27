@@ -1,0 +1,431 @@
+{
+  "page": "page-06",
+  "idea": "Async team trivia and social gaming bot for building remote camaraderie",
+  "text": "You can spark organic casual conversations across remote departments effortlessly without booking extra calls. Remote silos rapidly emerge when marketing, sales, and engineering never cross paths outside formal status updates. Cross-functional collaboration breaks down when employees view other departments merely as faceless Slack avatars. An automated trivia engine pairs cross-departmental peers into friendly three-person trivia squads inside Slack threads each Tuesday. This dissolves company silos and builds genuine cross-team camaraderie.",
+  "duration": 34.17,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "can",
+      "start": 0.16,
+      "end": 0.42
+    },
+    {
+      "word": "spark",
+      "start": 0.42,
+      "end": 0.7
+    },
+    {
+      "word": "organic",
+      "start": 0.7,
+      "end": 1.24
+    },
+    {
+      "word": "casual",
+      "start": 1.24,
+      "end": 1.72
+    },
+    {
+      "word": "conversations",
+      "start": 1.72,
+      "end": 2.38
+    },
+    {
+      "word": "across",
+      "start": 2.38,
+      "end": 2.88
+    },
+    {
+      "word": "remote",
+      "start": 2.88,
+      "end": 3.22
+    },
+    {
+      "word": "departments",
+      "start": 3.22,
+      "end": 3.84
+    },
+    {
+      "word": "effortlessly",
+      "start": 3.84,
+      "end": 4.34
+    },
+    {
+      "word": "without",
+      "start": 4.34,
+      "end": 5.06
+    },
+    {
+      "word": "booking",
+      "start": 5.06,
+      "end": 5.42
+    },
+    {
+      "word": "extra",
+      "start": 5.42,
+      "end": 5.8
+    },
+    {
+      "word": "calls.",
+      "start": 5.8,
+      "end": 6.34
+    },
+    {
+      "word": "Remote",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "word": "silos",
+      "start": 7.2,
+      "end": 7.76
+    },
+    {
+      "word": "rapidly",
+      "start": 7.76,
+      "end": 8.26
+    },
+    {
+      "word": "emerge",
+      "start": 8.26,
+      "end": 8.7
+    },
+    {
+      "word": "when",
+      "start": 8.7,
+      "end": 8.96
+    },
+    {
+      "word": "marketing,",
+      "start": 8.96,
+      "end": 9.5
+    },
+    {
+      "word": "sales,",
+      "start": 9.78,
+      "end": 10.14
+    },
+    {
+      "word": "and",
+      "start": 10.44,
+      "end": 10.64
+    },
+    {
+      "word": "engineering",
+      "start": 10.64,
+      "end": 11.12
+    },
+    {
+      "word": "never",
+      "start": 11.12,
+      "end": 11.68
+    },
+    {
+      "word": "cross",
+      "start": 11.68,
+      "end": 12.06
+    },
+    {
+      "word": "paths",
+      "start": 12.06,
+      "end": 12.38
+    },
+    {
+      "word": "outside",
+      "start": 12.38,
+      "end": 12.98
+    },
+    {
+      "word": "formal",
+      "start": 12.98,
+      "end": 13.36
+    },
+    {
+      "word": "status",
+      "start": 13.36,
+      "end": 13.8
+    },
+    {
+      "word": "updates.",
+      "start": 13.8,
+      "end": 14.24
+    },
+    {
+      "word": "Cross",
+      "start": 14.86,
+      "end": 14.92
+    },
+    {
+      "word": "-functional",
+      "start": 14.92,
+      "end": 15.28
+    },
+    {
+      "word": "collaboration",
+      "start": 15.28,
+      "end": 15.9
+    },
+    {
+      "word": "breaks",
+      "start": 15.9,
+      "end": 16.38
+    },
+    {
+      "word": "down",
+      "start": 16.38,
+      "end": 16.76
+    },
+    {
+      "word": "when",
+      "start": 16.76,
+      "end": 16.96
+    },
+    {
+      "word": "employees",
+      "start": 16.96,
+      "end": 17.42
+    },
+    {
+      "word": "view",
+      "start": 17.42,
+      "end": 17.74
+    },
+    {
+      "word": "other",
+      "start": 17.74,
+      "end": 17.98
+    },
+    {
+      "word": "departments",
+      "start": 17.98,
+      "end": 18.52
+    },
+    {
+      "word": "merely",
+      "start": 18.52,
+      "end": 18.94
+    },
+    {
+      "word": "as",
+      "start": 18.94,
+      "end": 19.22
+    },
+    {
+      "word": "faceless",
+      "start": 19.22,
+      "end": 19.66
+    },
+    {
+      "word": "slack",
+      "start": 19.66,
+      "end": 20.02
+    },
+    {
+      "word": "avatars.",
+      "start": 20.02,
+      "end": 20.54
+    },
+    {
+      "word": "An",
+      "start": 21.18,
+      "end": 21.44
+    },
+    {
+      "word": "automated",
+      "start": 21.44,
+      "end": 21.72
+    },
+    {
+      "word": "trivia",
+      "start": 21.72,
+      "end": 22.18
+    },
+    {
+      "word": "engine",
+      "start": 22.18,
+      "end": 22.68
+    },
+    {
+      "word": "pairs",
+      "start": 22.68,
+      "end": 23.0
+    },
+    {
+      "word": "cross",
+      "start": 23.0,
+      "end": 23.42
+    },
+    {
+      "word": "-departmental",
+      "start": 23.42,
+      "end": 24.1
+    },
+    {
+      "word": "peers",
+      "start": 24.1,
+      "end": 24.44
+    },
+    {
+      "word": "into",
+      "start": 24.44,
+      "end": 24.82
+    },
+    {
+      "word": "friendly",
+      "start": 24.82,
+      "end": 25.18
+    },
+    {
+      "word": "three",
+      "start": 25.18,
+      "end": 25.6
+    },
+    {
+      "word": "-person",
+      "start": 25.6,
+      "end": 25.9
+    },
+    {
+      "word": "trivia",
+      "start": 25.9,
+      "end": 26.26
+    },
+    {
+      "word": "squads",
+      "start": 26.26,
+      "end": 26.8
+    },
+    {
+      "word": "inside",
+      "start": 26.8,
+      "end": 27.62
+    },
+    {
+      "word": "slack",
+      "start": 27.62,
+      "end": 27.94
+    },
+    {
+      "word": "threads",
+      "start": 27.94,
+      "end": 28.32
+    },
+    {
+      "word": "each",
+      "start": 28.32,
+      "end": 28.68
+    },
+    {
+      "word": "Tuesday.",
+      "start": 28.68,
+      "end": 29.1
+    },
+    {
+      "word": "This",
+      "start": 29.52,
+      "end": 29.98
+    },
+    {
+      "word": "dissolves",
+      "start": 29.98,
+      "end": 30.48
+    },
+    {
+      "word": "company",
+      "start": 30.48,
+      "end": 30.9
+    },
+    {
+      "word": "silos",
+      "start": 30.9,
+      "end": 31.5
+    },
+    {
+      "word": "and",
+      "start": 31.5,
+      "end": 31.9
+    },
+    {
+      "word": "builds",
+      "start": 31.9,
+      "end": 32.2
+    },
+    {
+      "word": "genuine",
+      "start": 32.2,
+      "end": 32.76
+    },
+    {
+      "word": "cross",
+      "start": 32.76,
+      "end": 33.16
+    },
+    {
+      "word": "-team",
+      "start": 33.16,
+      "end": 33.42
+    },
+    {
+      "word": "camaraderie.",
+      "start": 33.42,
+      "end": 34.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Spark organic casual conversations across remote departments effortlessly.",
+      "line2": "BOOST REMOTE CAMARADERIE",
+      "tag": "\ud83d\uded1 Async team trivia and social gaming bot for building remote camaraderie",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async team trivia and social gaming bot for building remote camaraderie",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async team trivia and social gaming bot for building remote camaraderie",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

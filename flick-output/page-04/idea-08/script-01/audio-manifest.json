@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "Penpot: the free open-source Figma alternative for design teams",
+  "text": "Figma pricing is getting out of hand, so try this free open-source alternative. Adding developers and clients to design files triggers expensive seat fees that drain agency margins. Restricting team access forces developers to build interfaces from outdated static screenshots. Instead, switch to Penpot, an open-source design platform built on web standards with zero seat fees. You collaborate seamlessly with unlimited teammates while eliminating software overhead.",
+  "duration": 29.37,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Figma",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "pricing",
+      "start": 0.44,
+      "end": 0.72
+    },
+    {
+      "word": "is",
+      "start": 0.72,
+      "end": 1.02
+    },
+    {
+      "word": "getting",
+      "start": 1.02,
+      "end": 1.26
+    },
+    {
+      "word": "out",
+      "start": 1.26,
+      "end": 1.44
+    },
+    {
+      "word": "of",
+      "start": 1.44,
+      "end": 1.54
+    },
+    {
+      "word": "hand,",
+      "start": 1.54,
+      "end": 1.94
+    },
+    {
+      "word": "so",
+      "start": 2.26,
+      "end": 2.36
+    },
+    {
+      "word": "try",
+      "start": 2.36,
+      "end": 2.62
+    },
+    {
+      "word": "this",
+      "start": 2.62,
+      "end": 2.92
+    },
+    {
+      "word": "free",
+      "start": 2.92,
+      "end": 3.22
+    },
+    {
+      "word": "open",
+      "start": 3.22,
+      "end": 3.58
+    },
+    {
+      "word": "source",
+      "start": 3.58,
+      "end": 3.94
+    },
+    {
+      "word": "alternative.",
+      "start": 3.94,
+      "end": 4.64
+    },
+    {
+      "word": "Adding",
+      "start": 5.44,
+      "end": 5.44
+    },
+    {
+      "word": "developers",
+      "start": 5.44,
+      "end": 5.92
+    },
+    {
+      "word": "and",
+      "start": 5.92,
+      "end": 6.28
+    },
+    {
+      "word": "clients",
+      "start": 6.28,
+      "end": 6.56
+    },
+    {
+      "word": "to",
+      "start": 6.56,
+      "end": 6.82
+    },
+    {
+      "word": "design",
+      "start": 6.82,
+      "end": 7.08
+    },
+    {
+      "word": "files",
+      "start": 7.08,
+      "end": 7.66
+    },
+    {
+      "word": "triggers",
+      "start": 7.66,
+      "end": 8.14
+    },
+    {
+      "word": "expensive",
+      "start": 8.14,
+      "end": 8.82
+    },
+    {
+      "word": "seat",
+      "start": 8.82,
+      "end": 9.16
+    },
+    {
+      "word": "fees",
+      "start": 9.16,
+      "end": 9.42
+    },
+    {
+      "word": "that",
+      "start": 9.42,
+      "end": 9.86
+    },
+    {
+      "word": "drain",
+      "start": 9.86,
+      "end": 10.18
+    },
+    {
+      "word": "agency",
+      "start": 10.18,
+      "end": 10.68
+    },
+    {
+      "word": "margins.",
+      "start": 10.68,
+      "end": 11.26
+    },
+    {
+      "word": "Restricting",
+      "start": 12.02,
+      "end": 12.4
+    },
+    {
+      "word": "Team",
+      "start": 12.4,
+      "end": 12.76
+    },
+    {
+      "word": "Access",
+      "start": 12.76,
+      "end": 13.16
+    },
+    {
+      "word": "forces",
+      "start": 13.16,
+      "end": 13.68
+    },
+    {
+      "word": "developers",
+      "start": 13.68,
+      "end": 14.12
+    },
+    {
+      "word": "to",
+      "start": 14.12,
+      "end": 14.46
+    },
+    {
+      "word": "build",
+      "start": 14.46,
+      "end": 14.72
+    },
+    {
+      "word": "interfaces",
+      "start": 14.72,
+      "end": 15.22
+    },
+    {
+      "word": "from",
+      "start": 15.22,
+      "end": 15.7
+    },
+    {
+      "word": "outdated",
+      "start": 15.7,
+      "end": 16.14
+    },
+    {
+      "word": "static",
+      "start": 16.14,
+      "end": 16.72
+    },
+    {
+      "word": "screenshots.",
+      "start": 16.72,
+      "end": 17.28
+    },
+    {
+      "word": "Instead,",
+      "start": 17.82,
+      "end": 18.3
+    },
+    {
+      "word": "switch",
+      "start": 18.56,
+      "end": 18.56
+    },
+    {
+      "word": "to",
+      "start": 18.56,
+      "end": 18.8
+    },
+    {
+      "word": "PenPod,",
+      "start": 18.8,
+      "end": 19.22
+    },
+    {
+      "word": "an",
+      "start": 19.6,
+      "end": 19.86
+    },
+    {
+      "word": "open",
+      "start": 19.86,
+      "end": 20.16
+    },
+    {
+      "word": "source",
+      "start": 20.16,
+      "end": 20.48
+    },
+    {
+      "word": "design",
+      "start": 20.48,
+      "end": 20.9
+    },
+    {
+      "word": "platform",
+      "start": 20.9,
+      "end": 21.34
+    },
+    {
+      "word": "built",
+      "start": 21.34,
+      "end": 21.64
+    },
+    {
+      "word": "on",
+      "start": 21.64,
+      "end": 21.86
+    },
+    {
+      "word": "web",
+      "start": 21.86,
+      "end": 22.12
+    },
+    {
+      "word": "standards",
+      "start": 22.12,
+      "end": 22.5
+    },
+    {
+      "word": "with",
+      "start": 22.5,
+      "end": 22.86
+    },
+    {
+      "word": "zero",
+      "start": 22.86,
+      "end": 23.3
+    },
+    {
+      "word": "seat",
+      "start": 23.3,
+      "end": 23.58
+    },
+    {
+      "word": "fees.",
+      "start": 23.58,
+      "end": 23.96
+    },
+    {
+      "word": "You",
+      "start": 24.54,
+      "end": 24.74
+    },
+    {
+      "word": "collaborate",
+      "start": 24.74,
+      "end": 25.18
+    },
+    {
+      "word": "seamlessly",
+      "start": 25.18,
+      "end": 25.76
+    },
+    {
+      "word": "with",
+      "start": 25.76,
+      "end": 26.24
+    },
+    {
+      "word": "unlimited",
+      "start": 26.24,
+      "end": 26.6
+    },
+    {
+      "word": "teammates",
+      "start": 26.6,
+      "end": 27.1
+    },
+    {
+      "word": "while",
+      "start": 27.1,
+      "end": 27.66
+    },
+    {
+      "word": "eliminating",
+      "start": 27.66,
+      "end": 28.16
+    },
+    {
+      "word": "software",
+      "start": 28.16,
+      "end": 28.76
+    },
+    {
+      "word": "overhead.",
+      "start": 28.76,
+      "end": 29.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Figma pricing is getting out of hand\u00e2\u20ac\u201dhere is the free open-source alternative.",
+      "line2": "FREE FIGMA ALTERNATIVE",
+      "tag": "\ud83d\uded1 Penpot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Penpot",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Penpot",
+        "subtitle": "Penpot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Penpot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Penpot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Penpot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

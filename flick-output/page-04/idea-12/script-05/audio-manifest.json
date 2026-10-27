@@ -1,0 +1,406 @@
+{
+  "page": "page-04",
+  "idea": "Cyberchef: the swiss army knife for data conversion and formatting",
+  "text": "Stop writing custom scripts for simple text transformations and use this free tool. Writing Python scripts just to calculate MD5 hashes or convert Base64 strings wastes valuable development time. Maintaining throwaway code files creates clutter and distracts you from higher priority engineering tasks. CyberChef lets you drag modular recipes together to parse, decrypt, and reformat text instantly in your browser. You handle complex conversions in seconds.",
+  "duration": 29.903,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "writing",
+      "start": 0.36,
+      "end": 0.7
+    },
+    {
+      "word": "custom",
+      "start": 0.7,
+      "end": 1.04
+    },
+    {
+      "word": "scripts",
+      "start": 1.04,
+      "end": 1.4
+    },
+    {
+      "word": "for",
+      "start": 1.4,
+      "end": 1.66
+    },
+    {
+      "word": "simple",
+      "start": 1.66,
+      "end": 1.98
+    },
+    {
+      "word": "text",
+      "start": 1.98,
+      "end": 2.36
+    },
+    {
+      "word": "transformations,",
+      "start": 2.36,
+      "end": 2.98
+    },
+    {
+      "word": "and",
+      "start": 3.4,
+      "end": 3.66
+    },
+    {
+      "word": "use",
+      "start": 3.66,
+      "end": 3.84
+    },
+    {
+      "word": "this",
+      "start": 3.84,
+      "end": 4.14
+    },
+    {
+      "word": "free",
+      "start": 4.14,
+      "end": 4.4
+    },
+    {
+      "word": "tool.",
+      "start": 4.4,
+      "end": 4.9
+    },
+    {
+      "word": "Writing",
+      "start": 5.74,
+      "end": 5.76
+    },
+    {
+      "word": "Python",
+      "start": 5.76,
+      "end": 6.16
+    },
+    {
+      "word": "scripts",
+      "start": 6.16,
+      "end": 6.54
+    },
+    {
+      "word": "just",
+      "start": 6.54,
+      "end": 6.88
+    },
+    {
+      "word": "to",
+      "start": 6.88,
+      "end": 7.14
+    },
+    {
+      "word": "calculate",
+      "start": 7.14,
+      "end": 7.52
+    },
+    {
+      "word": "MD5",
+      "start": 7.52,
+      "end": 8.5
+    },
+    {
+      "word": "hashes",
+      "start": 8.5,
+      "end": 8.88
+    },
+    {
+      "word": "or",
+      "start": 8.88,
+      "end": 9.42
+    },
+    {
+      "word": "convert",
+      "start": 9.42,
+      "end": 9.84
+    },
+    {
+      "word": "-based",
+      "start": 9.84,
+      "end": 10.16
+    },
+    {
+      "word": "64",
+      "start": 10.16,
+      "end": 10.74
+    },
+    {
+      "word": "strings",
+      "start": 10.74,
+      "end": 11.24
+    },
+    {
+      "word": "waste",
+      "start": 11.24,
+      "end": 11.72
+    },
+    {
+      "word": "valuable",
+      "start": 11.72,
+      "end": 12.3
+    },
+    {
+      "word": "development",
+      "start": 12.3,
+      "end": 12.76
+    },
+    {
+      "word": "time.",
+      "start": 12.76,
+      "end": 13.36
+    },
+    {
+      "word": "Maintaining",
+      "start": 13.72,
+      "end": 14.16
+    },
+    {
+      "word": "throwaway",
+      "start": 14.16,
+      "end": 14.7
+    },
+    {
+      "word": "code",
+      "start": 14.7,
+      "end": 15.0
+    },
+    {
+      "word": "files",
+      "start": 15.0,
+      "end": 15.36
+    },
+    {
+      "word": "creates",
+      "start": 15.36,
+      "end": 15.94
+    },
+    {
+      "word": "clutter",
+      "start": 15.94,
+      "end": 16.36
+    },
+    {
+      "word": "and",
+      "start": 16.36,
+      "end": 16.74
+    },
+    {
+      "word": "distracts",
+      "start": 16.74,
+      "end": 17.26
+    },
+    {
+      "word": "you",
+      "start": 17.26,
+      "end": 17.36
+    },
+    {
+      "word": "from",
+      "start": 17.36,
+      "end": 17.6
+    },
+    {
+      "word": "higher",
+      "start": 17.6,
+      "end": 17.96
+    },
+    {
+      "word": "priority",
+      "start": 17.96,
+      "end": 18.46
+    },
+    {
+      "word": "engineering",
+      "start": 18.46,
+      "end": 19.0
+    },
+    {
+      "word": "tasks.",
+      "start": 19.0,
+      "end": 19.58
+    },
+    {
+      "word": "Cyber",
+      "start": 20.36,
+      "end": 20.46
+    },
+    {
+      "word": "Chef",
+      "start": 20.46,
+      "end": 20.8
+    },
+    {
+      "word": "lets",
+      "start": 20.8,
+      "end": 21.04
+    },
+    {
+      "word": "you",
+      "start": 21.04,
+      "end": 21.2
+    },
+    {
+      "word": "drag",
+      "start": 21.2,
+      "end": 21.5
+    },
+    {
+      "word": "modular",
+      "start": 21.5,
+      "end": 21.96
+    },
+    {
+      "word": "recipes",
+      "start": 21.96,
+      "end": 22.46
+    },
+    {
+      "word": "together",
+      "start": 22.46,
+      "end": 22.94
+    },
+    {
+      "word": "to",
+      "start": 22.94,
+      "end": 23.22
+    },
+    {
+      "word": "parse,",
+      "start": 23.22,
+      "end": 23.6
+    },
+    {
+      "word": "decrypt,",
+      "start": 23.86,
+      "end": 24.32
+    },
+    {
+      "word": "and",
+      "start": 24.62,
+      "end": 24.8
+    },
+    {
+      "word": "reform",
+      "start": 24.8,
+      "end": 25.14
+    },
+    {
+      "word": "at",
+      "start": 25.14,
+      "end": 25.4
+    },
+    {
+      "word": "text",
+      "start": 25.4,
+      "end": 25.74
+    },
+    {
+      "word": "instantly",
+      "start": 25.74,
+      "end": 26.24
+    },
+    {
+      "word": "in",
+      "start": 26.24,
+      "end": 26.42
+    },
+    {
+      "word": "your",
+      "start": 26.42,
+      "end": 26.6
+    },
+    {
+      "word": "browser.",
+      "start": 26.6,
+      "end": 27.0
+    },
+    {
+      "word": "You",
+      "start": 27.0,
+      "end": 27.72
+    },
+    {
+      "word": "handle",
+      "start": 27.72,
+      "end": 27.98
+    },
+    {
+      "word": "complex",
+      "start": 27.98,
+      "end": 28.5
+    },
+    {
+      "word": "conversions",
+      "start": 28.5,
+      "end": 29.1
+    },
+    {
+      "word": "in",
+      "start": 29.1,
+      "end": 29.46
+    },
+    {
+      "word": "seconds.",
+      "start": 29.46,
+      "end": 29.82
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop writing custom scripts for simple text transformations\u00e2\u20ac\u201duse this free tool.",
+      "line2": "CONVERT DATA INSTANTLY",
+      "tag": "\ud83d\uded1 Cyberchef",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Free DOM Extraction: Cyberchef",
+      "primitive": "DOMElementSniffer",
+      "props": {
+        "title": "Free DOM Extraction: Cyberchef",
+        "subtitle": "Cyberchef"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Proxy Rotation & Rate Limits",
+      "primitive": "ProxyRotationGauge",
+      "props": {
+        "title": "Proxy Rotation & Rate Limits",
+        "subtitle": "Cyberchef"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Deduplicated CSV Merge",
+      "primitive": "CSVMergeVisualizer",
+      "props": {
+        "title": "Deduplicated CSV Merge",
+        "subtitle": "Cyberchef"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Headless CLI Execution",
+      "primitive": "HeadlessBrowserTerminal",
+      "props": {
+        "title": "Headless CLI Execution",
+        "subtitle": "Cyberchef",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

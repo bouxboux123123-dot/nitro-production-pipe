@@ -1,0 +1,401 @@
+{
+  "page": "page-09",
+  "idea": "Notion vs Obsidian: which second brain tool is right for you",
+  "text": "Stop switching note-taking apps every three months and pick the right one today. You spend hours building intricate dashboard templates in Notion, only to abandon them when pages turn sluggish. Trapping your knowledge inside proprietary silos makes migrating thousands of documents nearly impossible. Obsidian secures your data through raw Markdown files that open instantly across any desktop platform. This gives you complete digital autonomy and frictionless writing.",
+  "duration": 26.347,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "switching",
+      "start": 0.3,
+      "end": 0.66
+    },
+    {
+      "word": "note",
+      "start": 0.66,
+      "end": 0.94
+    },
+    {
+      "word": "-taking",
+      "start": 0.94,
+      "end": 1.28
+    },
+    {
+      "word": "apps",
+      "start": 1.28,
+      "end": 1.56
+    },
+    {
+      "word": "every",
+      "start": 1.56,
+      "end": 1.78
+    },
+    {
+      "word": "three",
+      "start": 1.78,
+      "end": 2.06
+    },
+    {
+      "word": "months",
+      "start": 2.06,
+      "end": 2.42
+    },
+    {
+      "word": "and",
+      "start": 2.42,
+      "end": 2.62
+    },
+    {
+      "word": "pick",
+      "start": 2.62,
+      "end": 2.78
+    },
+    {
+      "word": "the",
+      "start": 2.78,
+      "end": 2.92
+    },
+    {
+      "word": "right",
+      "start": 2.92,
+      "end": 3.08
+    },
+    {
+      "word": "one",
+      "start": 3.08,
+      "end": 3.26
+    },
+    {
+      "word": "today.",
+      "start": 3.26,
+      "end": 3.72
+    },
+    {
+      "word": "You",
+      "start": 4.22,
+      "end": 4.26
+    },
+    {
+      "word": "spend",
+      "start": 4.26,
+      "end": 4.46
+    },
+    {
+      "word": "hours",
+      "start": 4.46,
+      "end": 4.88
+    },
+    {
+      "word": "building",
+      "start": 4.88,
+      "end": 5.3
+    },
+    {
+      "word": "intricate",
+      "start": 5.3,
+      "end": 5.68
+    },
+    {
+      "word": "dashboard",
+      "start": 5.68,
+      "end": 6.12
+    },
+    {
+      "word": "templates",
+      "start": 6.12,
+      "end": 6.54
+    },
+    {
+      "word": "in",
+      "start": 6.54,
+      "end": 6.72
+    },
+    {
+      "word": "Notion,",
+      "start": 6.72,
+      "end": 7.16
+    },
+    {
+      "word": "only",
+      "start": 7.58,
+      "end": 7.72
+    },
+    {
+      "word": "to",
+      "start": 7.72,
+      "end": 7.96
+    },
+    {
+      "word": "abandon",
+      "start": 7.96,
+      "end": 8.24
+    },
+    {
+      "word": "them",
+      "start": 8.24,
+      "end": 8.54
+    },
+    {
+      "word": "when",
+      "start": 8.54,
+      "end": 8.74
+    },
+    {
+      "word": "pages",
+      "start": 8.74,
+      "end": 9.08
+    },
+    {
+      "word": "turn",
+      "start": 9.08,
+      "end": 9.52
+    },
+    {
+      "word": "sluggish.",
+      "start": 9.52,
+      "end": 9.92
+    },
+    {
+      "word": "Trapping",
+      "start": 10.48,
+      "end": 10.74
+    },
+    {
+      "word": "your",
+      "start": 10.74,
+      "end": 10.96
+    },
+    {
+      "word": "knowledge",
+      "start": 10.96,
+      "end": 11.24
+    },
+    {
+      "word": "inside",
+      "start": 11.24,
+      "end": 11.74
+    },
+    {
+      "word": "proprietary",
+      "start": 11.74,
+      "end": 12.32
+    },
+    {
+      "word": "silos",
+      "start": 12.32,
+      "end": 12.92
+    },
+    {
+      "word": "makes",
+      "start": 12.92,
+      "end": 13.36
+    },
+    {
+      "word": "migrating",
+      "start": 13.36,
+      "end": 13.76
+    },
+    {
+      "word": "thousands",
+      "start": 13.76,
+      "end": 14.32
+    },
+    {
+      "word": "of",
+      "start": 14.32,
+      "end": 14.58
+    },
+    {
+      "word": "documents",
+      "start": 14.58,
+      "end": 14.98
+    },
+    {
+      "word": "nearly",
+      "start": 14.98,
+      "end": 15.44
+    },
+    {
+      "word": "impossible.",
+      "start": 15.44,
+      "end": 16.08
+    },
+    {
+      "word": "Obsidian",
+      "start": 16.84,
+      "end": 17.08
+    },
+    {
+      "word": "secures",
+      "start": 17.08,
+      "end": 17.54
+    },
+    {
+      "word": "your",
+      "start": 17.54,
+      "end": 17.8
+    },
+    {
+      "word": "data",
+      "start": 17.8,
+      "end": 18.04
+    },
+    {
+      "word": "through",
+      "start": 18.04,
+      "end": 18.42
+    },
+    {
+      "word": "raw",
+      "start": 18.42,
+      "end": 18.64
+    },
+    {
+      "word": "markdown",
+      "start": 18.64,
+      "end": 19.16
+    },
+    {
+      "word": "files",
+      "start": 19.16,
+      "end": 19.6
+    },
+    {
+      "word": "that",
+      "start": 19.6,
+      "end": 20.12
+    },
+    {
+      "word": "open",
+      "start": 20.12,
+      "end": 20.32
+    },
+    {
+      "word": "instantly",
+      "start": 20.32,
+      "end": 20.9
+    },
+    {
+      "word": "across",
+      "start": 20.9,
+      "end": 21.26
+    },
+    {
+      "word": "any",
+      "start": 21.26,
+      "end": 21.52
+    },
+    {
+      "word": "desktop",
+      "start": 21.52,
+      "end": 21.88
+    },
+    {
+      "word": "platform.",
+      "start": 21.88,
+      "end": 22.58
+    },
+    {
+      "word": "This",
+      "start": 23.16,
+      "end": 23.32
+    },
+    {
+      "word": "gives",
+      "start": 23.32,
+      "end": 23.5
+    },
+    {
+      "word": "you",
+      "start": 23.5,
+      "end": 23.78
+    },
+    {
+      "word": "complete",
+      "start": 23.78,
+      "end": 24.12
+    },
+    {
+      "word": "digital",
+      "start": 24.12,
+      "end": 24.54
+    },
+    {
+      "word": "autonomy",
+      "start": 24.54,
+      "end": 25.1
+    },
+    {
+      "word": "and",
+      "start": 25.1,
+      "end": 25.46
+    },
+    {
+      "word": "frictionless",
+      "start": 25.46,
+      "end": 25.96
+    },
+    {
+      "word": "writing.",
+      "start": 25.96,
+      "end": 26.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Stop switching note-taking apps every 3 months\u00e2\u20ac\u201dpick the right one today.",
+      "line2": "NOTION VS OBSIDIAN",
+      "tag": "\ud83d\uded1 Notion vs Obsidian",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "Local NVMe vs Cloud Latency: Notion vs Obsidian",
+      "primitive": "OfflineVsCloudLatency",
+      "props": {
+        "title": "Local NVMe vs Cloud Latency: Notion vs Obsidian",
+        "subtitle": "Notion vs Obsidian"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Proprietary Data Lock-In Trap",
+      "primitive": "DataLockInWarningCard",
+      "props": {
+        "title": "Proprietary Data Lock-In Trap",
+        "subtitle": "Notion vs Obsidian"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Polymorphic Block Architecture",
+      "primitive": "BlockEditorFlexibility",
+      "props": {
+        "title": "Polymorphic Block Architecture",
+        "subtitle": "Notion vs Obsidian"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Interactive Knowledge Graph",
+      "primitive": "GraphNodeNetwork",
+      "props": {
+        "title": "Interactive Knowledge Graph",
+        "subtitle": "Notion vs Obsidian",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

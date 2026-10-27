@@ -1,0 +1,411 @@
+{
+  "page": "page-06",
+  "idea": "Automated employee equipment ordering and home office stipend flow",
+  "text": "Remote startups can now ship laptops and monitors to new global hires with one click. Manually buying MacBooks, navigating international customs, and tracking DHL shipments drains dozens of operational hours. One delayed import form leaves new international engineers completely locked out during their first week. Instead, connect Hofy with your HRIS to automate equipment procurement, pre-configured MDM setups, and worldwide delivery. New hires receive workstations before day one.",
+  "duration": 30.287,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Remote",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "startups",
+      "start": 0.38,
+      "end": 0.82
+    },
+    {
+      "word": "can",
+      "start": 0.82,
+      "end": 1.16
+    },
+    {
+      "word": "now",
+      "start": 1.16,
+      "end": 1.44
+    },
+    {
+      "word": "ship",
+      "start": 1.44,
+      "end": 1.66
+    },
+    {
+      "word": "laptops",
+      "start": 1.66,
+      "end": 2.06
+    },
+    {
+      "word": "and",
+      "start": 2.06,
+      "end": 2.5
+    },
+    {
+      "word": "monitors",
+      "start": 2.5,
+      "end": 2.74
+    },
+    {
+      "word": "to",
+      "start": 2.74,
+      "end": 3.04
+    },
+    {
+      "word": "new",
+      "start": 3.04,
+      "end": 3.22
+    },
+    {
+      "word": "global",
+      "start": 3.22,
+      "end": 3.56
+    },
+    {
+      "word": "hires",
+      "start": 3.56,
+      "end": 3.9
+    },
+    {
+      "word": "with",
+      "start": 3.9,
+      "end": 4.2
+    },
+    {
+      "word": "one",
+      "start": 4.2,
+      "end": 4.48
+    },
+    {
+      "word": "click.",
+      "start": 4.48,
+      "end": 5.16
+    },
+    {
+      "word": "Manually",
+      "start": 5.62,
+      "end": 5.88
+    },
+    {
+      "word": "buying",
+      "start": 5.88,
+      "end": 6.32
+    },
+    {
+      "word": "Mac",
+      "start": 6.32,
+      "end": 6.64
+    },
+    {
+      "word": "books,",
+      "start": 6.64,
+      "end": 7.1
+    },
+    {
+      "word": "navigating",
+      "start": 7.6,
+      "end": 7.88
+    },
+    {
+      "word": "international",
+      "start": 7.88,
+      "end": 8.54
+    },
+    {
+      "word": "customs,",
+      "start": 8.54,
+      "end": 9.12
+    },
+    {
+      "word": "and",
+      "start": 9.56,
+      "end": 9.68
+    },
+    {
+      "word": "tracking",
+      "start": 9.68,
+      "end": 10.06
+    },
+    {
+      "word": "DHL",
+      "start": 10.06,
+      "end": 10.66
+    },
+    {
+      "word": "shipments'",
+      "start": 10.66,
+      "end": 11.18
+    },
+    {
+      "word": "drains",
+      "start": 11.4,
+      "end": 11.6
+    },
+    {
+      "word": "dozens",
+      "start": 11.6,
+      "end": 12.06
+    },
+    {
+      "word": "of",
+      "start": 12.06,
+      "end": 12.36
+    },
+    {
+      "word": "operational",
+      "start": 12.36,
+      "end": 12.76
+    },
+    {
+      "word": "hours.",
+      "start": 12.76,
+      "end": 13.3
+    },
+    {
+      "word": "One",
+      "start": 13.72,
+      "end": 13.96
+    },
+    {
+      "word": "delayed",
+      "start": 13.96,
+      "end": 14.26
+    },
+    {
+      "word": "import",
+      "start": 14.26,
+      "end": 14.74
+    },
+    {
+      "word": "form",
+      "start": 14.74,
+      "end": 15.08
+    },
+    {
+      "word": "leaves",
+      "start": 15.08,
+      "end": 15.4
+    },
+    {
+      "word": "new",
+      "start": 15.4,
+      "end": 15.76
+    },
+    {
+      "word": "international",
+      "start": 15.76,
+      "end": 16.24
+    },
+    {
+      "word": "engineers",
+      "start": 16.24,
+      "end": 16.76
+    },
+    {
+      "word": "completely",
+      "start": 16.76,
+      "end": 17.34
+    },
+    {
+      "word": "locked",
+      "start": 17.34,
+      "end": 17.66
+    },
+    {
+      "word": "out",
+      "start": 17.66,
+      "end": 17.94
+    },
+    {
+      "word": "during",
+      "start": 17.94,
+      "end": 18.16
+    },
+    {
+      "word": "their",
+      "start": 18.16,
+      "end": 18.36
+    },
+    {
+      "word": "first",
+      "start": 18.36,
+      "end": 18.66
+    },
+    {
+      "word": "week.",
+      "start": 18.66,
+      "end": 19.04
+    },
+    {
+      "word": "Instead,",
+      "start": 19.58,
+      "end": 20.02
+    },
+    {
+      "word": "connect",
+      "start": 20.6,
+      "end": 20.7
+    },
+    {
+      "word": "Hofai",
+      "start": 20.7,
+      "end": 21.1
+    },
+    {
+      "word": "with",
+      "start": 21.1,
+      "end": 21.24
+    },
+    {
+      "word": "your",
+      "start": 21.24,
+      "end": 21.48
+    },
+    {
+      "word": "atris",
+      "start": 21.48,
+      "end": 21.78
+    },
+    {
+      "word": "to",
+      "start": 21.78,
+      "end": 22.08
+    },
+    {
+      "word": "automate",
+      "start": 22.08,
+      "end": 22.34
+    },
+    {
+      "word": "equipment",
+      "start": 22.34,
+      "end": 22.8
+    },
+    {
+      "word": "procurement,",
+      "start": 22.8,
+      "end": 23.4
+    },
+    {
+      "word": "pre",
+      "start": 23.8,
+      "end": 23.88
+    },
+    {
+      "word": "-configured",
+      "start": 23.88,
+      "end": 24.44
+    },
+    {
+      "word": "MDM",
+      "start": 24.44,
+      "end": 25.14
+    },
+    {
+      "word": "setups",
+      "start": 25.14,
+      "end": 25.44
+    },
+    {
+      "word": "and",
+      "start": 25.44,
+      "end": 25.9
+    },
+    {
+      "word": "worldwide",
+      "start": 25.9,
+      "end": 26.44
+    },
+    {
+      "word": "delivery.",
+      "start": 26.44,
+      "end": 26.88
+    },
+    {
+      "word": "New",
+      "start": 26.88,
+      "end": 27.8
+    },
+    {
+      "word": "hires",
+      "start": 27.8,
+      "end": 28.14
+    },
+    {
+      "word": "receive",
+      "start": 28.14,
+      "end": 28.64
+    },
+    {
+      "word": "workstations",
+      "start": 28.64,
+      "end": 29.38
+    },
+    {
+      "word": "before",
+      "start": 29.38,
+      "end": 29.7
+    },
+    {
+      "word": "day",
+      "start": 29.7,
+      "end": 29.94
+    },
+    {
+      "word": "one.",
+      "start": 29.94,
+      "end": 30.26
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How remote startups ship laptops and monitors to new global hires with one click.",
+      "line2": "AUTOMATE EQUIPMENT STIPENDS",
+      "tag": "\ud83d\uded1 Automated employee equipment ordering and home office stipend flow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

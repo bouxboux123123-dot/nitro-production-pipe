@@ -1,0 +1,396 @@
+{
+  "page": "page-08",
+  "idea": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+  "text": "Stop asking ChatGPT vague questions and getting useless, bloated essays in return. Spending twenty minutes editing robotic AI text completely destroys the productivity benefits of using automation. Raw prompts fail because large language models generate the statistically most common words without personalized guidance. Add negative constraints like no jargon, under two hundred words, and formatted as a numbered checklist. You cut prompt revision time down to zero.",
+  "duration": 29.626,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "asking",
+      "start": 0.42,
+      "end": 0.84
+    },
+    {
+      "word": "chat",
+      "start": 0.84,
+      "end": 1.26
+    },
+    {
+      "word": "GPT",
+      "start": 1.26,
+      "end": 1.74
+    },
+    {
+      "word": "vague",
+      "start": 1.74,
+      "end": 2.18
+    },
+    {
+      "word": "questions",
+      "start": 2.18,
+      "end": 2.66
+    },
+    {
+      "word": "and",
+      "start": 2.66,
+      "end": 3.2
+    },
+    {
+      "word": "getting",
+      "start": 3.2,
+      "end": 3.5
+    },
+    {
+      "word": "useless,",
+      "start": 3.5,
+      "end": 4.04
+    },
+    {
+      "word": "bloated",
+      "start": 4.66,
+      "end": 4.66
+    },
+    {
+      "word": "essays",
+      "start": 4.66,
+      "end": 5.18
+    },
+    {
+      "word": "in",
+      "start": 5.18,
+      "end": 5.46
+    },
+    {
+      "word": "return.",
+      "start": 5.46,
+      "end": 6.04
+    },
+    {
+      "word": "Spending",
+      "start": 6.58,
+      "end": 6.78
+    },
+    {
+      "word": "20",
+      "start": 6.78,
+      "end": 7.16
+    },
+    {
+      "word": "minutes",
+      "start": 7.16,
+      "end": 7.46
+    },
+    {
+      "word": "editing",
+      "start": 7.46,
+      "end": 7.86
+    },
+    {
+      "word": "robotic",
+      "start": 7.86,
+      "end": 8.4
+    },
+    {
+      "word": "AI",
+      "start": 8.4,
+      "end": 8.92
+    },
+    {
+      "word": "text",
+      "start": 8.92,
+      "end": 9.26
+    },
+    {
+      "word": "completely",
+      "start": 9.26,
+      "end": 9.86
+    },
+    {
+      "word": "destroys",
+      "start": 9.86,
+      "end": 10.34
+    },
+    {
+      "word": "the",
+      "start": 10.34,
+      "end": 10.74
+    },
+    {
+      "word": "productivity",
+      "start": 10.74,
+      "end": 11.2
+    },
+    {
+      "word": "benefits",
+      "start": 11.2,
+      "end": 11.68
+    },
+    {
+      "word": "of",
+      "start": 11.68,
+      "end": 11.96
+    },
+    {
+      "word": "using",
+      "start": 11.96,
+      "end": 12.34
+    },
+    {
+      "word": "automation.",
+      "start": 12.34,
+      "end": 13.02
+    },
+    {
+      "word": "Raw",
+      "start": 13.58,
+      "end": 13.62
+    },
+    {
+      "word": "prompts",
+      "start": 13.62,
+      "end": 13.94
+    },
+    {
+      "word": "fail",
+      "start": 13.94,
+      "end": 14.3
+    },
+    {
+      "word": "because",
+      "start": 14.3,
+      "end": 14.72
+    },
+    {
+      "word": "large",
+      "start": 14.72,
+      "end": 15.14
+    },
+    {
+      "word": "language",
+      "start": 15.14,
+      "end": 15.58
+    },
+    {
+      "word": "models",
+      "start": 15.58,
+      "end": 16.08
+    },
+    {
+      "word": "generate",
+      "start": 16.08,
+      "end": 16.58
+    },
+    {
+      "word": "the",
+      "start": 16.58,
+      "end": 16.9
+    },
+    {
+      "word": "statistically",
+      "start": 16.9,
+      "end": 17.34
+    },
+    {
+      "word": "most",
+      "start": 17.34,
+      "end": 17.7
+    },
+    {
+      "word": "common",
+      "start": 17.7,
+      "end": 18.04
+    },
+    {
+      "word": "words",
+      "start": 18.04,
+      "end": 18.4
+    },
+    {
+      "word": "without",
+      "start": 18.4,
+      "end": 18.88
+    },
+    {
+      "word": "personalized",
+      "start": 18.88,
+      "end": 19.52
+    },
+    {
+      "word": "guidance.",
+      "start": 19.52,
+      "end": 20.12
+    },
+    {
+      "word": "Add",
+      "start": 20.96,
+      "end": 21.04
+    },
+    {
+      "word": "negative",
+      "start": 21.04,
+      "end": 21.44
+    },
+    {
+      "word": "constraints",
+      "start": 21.44,
+      "end": 21.92
+    },
+    {
+      "word": "like",
+      "start": 21.92,
+      "end": 22.36
+    },
+    {
+      "word": "no",
+      "start": 22.36,
+      "end": 22.64
+    },
+    {
+      "word": "jargon",
+      "start": 22.64,
+      "end": 23.04
+    },
+    {
+      "word": "under",
+      "start": 23.04,
+      "end": 23.64
+    },
+    {
+      "word": "200",
+      "start": 23.64,
+      "end": 24.1
+    },
+    {
+      "word": "words",
+      "start": 24.1,
+      "end": 24.72
+    },
+    {
+      "word": "and",
+      "start": 24.72,
+      "end": 25.12
+    },
+    {
+      "word": "formatted",
+      "start": 25.12,
+      "end": 25.42
+    },
+    {
+      "word": "as",
+      "start": 25.42,
+      "end": 25.66
+    },
+    {
+      "word": "a",
+      "start": 25.66,
+      "end": 25.94
+    },
+    {
+      "word": "numbered",
+      "start": 25.94,
+      "end": 26.18
+    },
+    {
+      "word": "checklist.",
+      "start": 26.18,
+      "end": 26.64
+    },
+    {
+      "word": "You",
+      "start": 27.22,
+      "end": 27.34
+    },
+    {
+      "word": "cut",
+      "start": 27.34,
+      "end": 27.58
+    },
+    {
+      "word": "prompt",
+      "start": 27.58,
+      "end": 27.92
+    },
+    {
+      "word": "revision",
+      "start": 27.92,
+      "end": 28.28
+    },
+    {
+      "word": "time",
+      "start": 28.28,
+      "end": 28.72
+    },
+    {
+      "word": "down",
+      "start": 28.72,
+      "end": 29.0
+    },
+    {
+      "word": "to",
+      "start": 29.0,
+      "end": 29.24
+    },
+    {
+      "word": "0.",
+      "start": 29.24,
+      "end": 29.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop asking AI vague questions and getting useless essays in return.",
+      "line2": "BETTER CHATGPT PROMPTS",
+      "tag": "\ud83d\uded1 Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-05",
+  "idea": "Automated content repurposing workflow using Make and Notion",
+  "text": "Stop staring at a blank screen trying to figure out what to post today. Writers waste their best creative energy rewriting identical talking points for LinkedIn, Twitter, and email newsletters. Without an automated repurposing pipeline, your best ideas get published once and immediately disappear forever. Instead, drop your core essay into Notion and trigger Make to extract bite-sized daily snippets. You maintain daily consistency without creative exhaustion.",
+  "duration": 25.408,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "staring",
+      "start": 0.36,
+      "end": 0.62
+    },
+    {
+      "word": "at",
+      "start": 0.62,
+      "end": 0.82
+    },
+    {
+      "word": "a",
+      "start": 0.82,
+      "end": 0.88
+    },
+    {
+      "word": "blank",
+      "start": 0.88,
+      "end": 1.06
+    },
+    {
+      "word": "screen",
+      "start": 1.06,
+      "end": 1.44
+    },
+    {
+      "word": "trying",
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "word": "to",
+      "start": 1.68,
+      "end": 1.86
+    },
+    {
+      "word": "figure",
+      "start": 1.86,
+      "end": 2.02
+    },
+    {
+      "word": "out",
+      "start": 2.02,
+      "end": 2.22
+    },
+    {
+      "word": "what",
+      "start": 2.22,
+      "end": 2.34
+    },
+    {
+      "word": "to",
+      "start": 2.34,
+      "end": 2.5
+    },
+    {
+      "word": "post",
+      "start": 2.5,
+      "end": 2.72
+    },
+    {
+      "word": "today.",
+      "start": 2.72,
+      "end": 3.38
+    },
+    {
+      "word": "Writer's",
+      "start": 3.92,
+      "end": 4.12
+    },
+    {
+      "word": "waste",
+      "start": 4.12,
+      "end": 4.34
+    },
+    {
+      "word": "their",
+      "start": 4.34,
+      "end": 4.52
+    },
+    {
+      "word": "best",
+      "start": 4.52,
+      "end": 4.82
+    },
+    {
+      "word": "creative",
+      "start": 4.82,
+      "end": 5.18
+    },
+    {
+      "word": "energy",
+      "start": 5.18,
+      "end": 5.5
+    },
+    {
+      "word": "were",
+      "start": 5.5,
+      "end": 5.7
+    },
+    {
+      "word": "writing",
+      "start": 5.7,
+      "end": 5.98
+    },
+    {
+      "word": "identical",
+      "start": 5.98,
+      "end": 6.5
+    },
+    {
+      "word": "talking",
+      "start": 6.5,
+      "end": 6.78
+    },
+    {
+      "word": "points",
+      "start": 6.78,
+      "end": 7.14
+    },
+    {
+      "word": "for",
+      "start": 7.14,
+      "end": 7.34
+    },
+    {
+      "word": "linked",
+      "start": 7.34,
+      "end": 7.58
+    },
+    {
+      "word": "in,",
+      "start": 7.58,
+      "end": 8.14
+    },
+    {
+      "word": "Twitter,",
+      "start": 8.22,
+      "end": 8.46
+    },
+    {
+      "word": "and",
+      "start": 8.58,
+      "end": 8.72
+    },
+    {
+      "word": "email",
+      "start": 8.72,
+      "end": 8.94
+    },
+    {
+      "word": "newsletters.",
+      "start": 8.94,
+      "end": 9.46
+    },
+    {
+      "word": "Without",
+      "start": 10.06,
+      "end": 10.26
+    },
+    {
+      "word": "an",
+      "start": 10.26,
+      "end": 10.74
+    },
+    {
+      "word": "automated",
+      "start": 10.74,
+      "end": 10.88
+    },
+    {
+      "word": "repurposing",
+      "start": 10.88,
+      "end": 11.42
+    },
+    {
+      "word": "pipeline,",
+      "start": 11.42,
+      "end": 11.86
+    },
+    {
+      "word": "your",
+      "start": 12.32,
+      "end": 12.42
+    },
+    {
+      "word": "best",
+      "start": 12.42,
+      "end": 12.72
+    },
+    {
+      "word": "ideas",
+      "start": 12.72,
+      "end": 13.04
+    },
+    {
+      "word": "get",
+      "start": 13.04,
+      "end": 13.38
+    },
+    {
+      "word": "published",
+      "start": 13.38,
+      "end": 13.7
+    },
+    {
+      "word": "once",
+      "start": 13.7,
+      "end": 14.22
+    },
+    {
+      "word": "and",
+      "start": 14.22,
+      "end": 14.44
+    },
+    {
+      "word": "immediately",
+      "start": 14.44,
+      "end": 14.88
+    },
+    {
+      "word": "disappear",
+      "start": 14.88,
+      "end": 15.32
+    },
+    {
+      "word": "forever.",
+      "start": 15.32,
+      "end": 15.82
+    },
+    {
+      "word": "Instead,",
+      "start": 16.46,
+      "end": 16.82
+    },
+    {
+      "word": "drop",
+      "start": 17.22,
+      "end": 17.42
+    },
+    {
+      "word": "your",
+      "start": 17.42,
+      "end": 17.68
+    },
+    {
+      "word": "core",
+      "start": 17.68,
+      "end": 17.88
+    },
+    {
+      "word": "essay",
+      "start": 17.88,
+      "end": 18.18
+    },
+    {
+      "word": "into",
+      "start": 18.18,
+      "end": 18.44
+    },
+    {
+      "word": "notion",
+      "start": 18.44,
+      "end": 18.76
+    },
+    {
+      "word": "and",
+      "start": 18.76,
+      "end": 19.08
+    },
+    {
+      "word": "trigger",
+      "start": 19.08,
+      "end": 19.28
+    },
+    {
+      "word": "make",
+      "start": 19.28,
+      "end": 19.58
+    },
+    {
+      "word": "to",
+      "start": 19.58,
+      "end": 19.9
+    },
+    {
+      "word": "extract",
+      "start": 19.9,
+      "end": 20.28
+    },
+    {
+      "word": "bite",
+      "start": 20.28,
+      "end": 20.64
+    },
+    {
+      "word": "-sized",
+      "start": 20.64,
+      "end": 21.0
+    },
+    {
+      "word": "daily",
+      "start": 21.0,
+      "end": 21.32
+    },
+    {
+      "word": "snippets.",
+      "start": 21.32,
+      "end": 21.72
+    },
+    {
+      "word": "You",
+      "start": 21.72,
+      "end": 22.38
+    },
+    {
+      "word": "maintain",
+      "start": 22.38,
+      "end": 22.86
+    },
+    {
+      "word": "daily",
+      "start": 22.86,
+      "end": 23.24
+    },
+    {
+      "word": "consistency",
+      "start": 23.24,
+      "end": 23.82
+    },
+    {
+      "word": "without",
+      "start": 23.82,
+      "end": 24.32
+    },
+    {
+      "word": "creative",
+      "start": 24.32,
+      "end": 24.74
+    },
+    {
+      "word": "exhaustion.",
+      "start": 24.74,
+      "end": 25.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stop staring at a blank screen trying to figure out what to post today.",
+      "line2": "REPURPOSE CONTENT AUTOMATICALLY",
+      "tag": "\ud83d\uded1 Automated content repurposing workflow using Make and Notion",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Automated content repurposing workflow using Make and Notion",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Automated content repurposing workflow using Make and Notion",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Automated content repurposing workflow using Make and Notion"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Automated content repurposing workflow using Make and Notion",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

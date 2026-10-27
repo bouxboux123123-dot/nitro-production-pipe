@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "Make.com native AI assistants for scenario building and debugging",
+  "text": "Notion quietly killed the form builder market with this single update. Operations leads spend hundreds of dollars each month maintaining standalone tools like Tally, Typeform, and Jotform. Exporting CSVs and configuring custom JSON parsers between apps introduces constant data duplication and sync errors. Notion's native forms feed responses straight into linked project boards, triggering automated assignments and status updates. You replace complex integrations with one unified workspace.",
+  "duration": 31.162,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Notion",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "quietly",
+      "start": 0.4,
+      "end": 0.8
+    },
+    {
+      "word": "killed",
+      "start": 0.8,
+      "end": 1.24
+    },
+    {
+      "word": "the",
+      "start": 1.24,
+      "end": 1.46
+    },
+    {
+      "word": "form",
+      "start": 1.46,
+      "end": 1.66
+    },
+    {
+      "word": "builder",
+      "start": 1.66,
+      "end": 1.92
+    },
+    {
+      "word": "market",
+      "start": 1.92,
+      "end": 2.3
+    },
+    {
+      "word": "with",
+      "start": 2.3,
+      "end": 2.52
+    },
+    {
+      "word": "this",
+      "start": 2.52,
+      "end": 2.74
+    },
+    {
+      "word": "single",
+      "start": 2.74,
+      "end": 2.96
+    },
+    {
+      "word": "update.",
+      "start": 2.96,
+      "end": 3.5
+    },
+    {
+      "word": "Operations",
+      "start": 4.3,
+      "end": 4.38
+    },
+    {
+      "word": "leads",
+      "start": 4.38,
+      "end": 4.9
+    },
+    {
+      "word": "spend",
+      "start": 4.9,
+      "end": 5.26
+    },
+    {
+      "word": "hundreds",
+      "start": 5.26,
+      "end": 5.56
+    },
+    {
+      "word": "of",
+      "start": 5.56,
+      "end": 5.8
+    },
+    {
+      "word": "dollars",
+      "start": 5.8,
+      "end": 6.08
+    },
+    {
+      "word": "each",
+      "start": 6.08,
+      "end": 6.42
+    },
+    {
+      "word": "month",
+      "start": 6.42,
+      "end": 6.72
+    },
+    {
+      "word": "maintaining",
+      "start": 6.72,
+      "end": 7.3
+    },
+    {
+      "word": "standalone",
+      "start": 7.3,
+      "end": 7.8
+    },
+    {
+      "word": "tools",
+      "start": 7.8,
+      "end": 8.36
+    },
+    {
+      "word": "like",
+      "start": 8.36,
+      "end": 8.7
+    },
+    {
+      "word": "tally,",
+      "start": 8.7,
+      "end": 9.26
+    },
+    {
+      "word": "type",
+      "start": 9.72,
+      "end": 9.8
+    },
+    {
+      "word": "form,",
+      "start": 9.8,
+      "end": 10.24
+    },
+    {
+      "word": "and",
+      "start": 10.26,
+      "end": 10.48
+    },
+    {
+      "word": "jot",
+      "start": 10.48,
+      "end": 10.76
+    },
+    {
+      "word": "form.",
+      "start": 10.76,
+      "end": 11.28
+    },
+    {
+      "word": "Exporting",
+      "start": 11.82,
+      "end": 12.2
+    },
+    {
+      "word": "CSV's",
+      "start": 12.2,
+      "end": 13.22
+    },
+    {
+      "word": "and",
+      "start": 13.22,
+      "end": 13.38
+    },
+    {
+      "word": "configuring",
+      "start": 13.38,
+      "end": 13.98
+    },
+    {
+      "word": "custom",
+      "start": 13.98,
+      "end": 14.38
+    },
+    {
+      "word": "JSON",
+      "start": 14.38,
+      "end": 14.88
+    },
+    {
+      "word": "parsers",
+      "start": 14.88,
+      "end": 15.38
+    },
+    {
+      "word": "between",
+      "start": 15.38,
+      "end": 15.78
+    },
+    {
+      "word": "apps",
+      "start": 15.78,
+      "end": 16.14
+    },
+    {
+      "word": "introduces",
+      "start": 16.14,
+      "end": 16.74
+    },
+    {
+      "word": "constant",
+      "start": 16.74,
+      "end": 17.32
+    },
+    {
+      "word": "data",
+      "start": 17.32,
+      "end": 17.62
+    },
+    {
+      "word": "duplication",
+      "start": 17.62,
+      "end": 18.22
+    },
+    {
+      "word": "and",
+      "start": 18.22,
+      "end": 18.88
+    },
+    {
+      "word": "sync",
+      "start": 18.88,
+      "end": 19.22
+    },
+    {
+      "word": "errors.",
+      "start": 19.22,
+      "end": 19.6
+    },
+    {
+      "word": "Notions",
+      "start": 20.04,
+      "end": 20.4
+    },
+    {
+      "word": "native",
+      "start": 20.4,
+      "end": 20.84
+    },
+    {
+      "word": "forms",
+      "start": 20.84,
+      "end": 21.22
+    },
+    {
+      "word": "feed",
+      "start": 21.22,
+      "end": 21.56
+    },
+    {
+      "word": "responses",
+      "start": 21.56,
+      "end": 22.2
+    },
+    {
+      "word": "straight",
+      "start": 22.2,
+      "end": 22.66
+    },
+    {
+      "word": "into",
+      "start": 22.66,
+      "end": 22.88
+    },
+    {
+      "word": "linked",
+      "start": 22.88,
+      "end": 23.16
+    },
+    {
+      "word": "project",
+      "start": 23.16,
+      "end": 23.64
+    },
+    {
+      "word": "boards,",
+      "start": 23.64,
+      "end": 24.14
+    },
+    {
+      "word": "triggering",
+      "start": 24.82,
+      "end": 24.88
+    },
+    {
+      "word": "automated",
+      "start": 24.88,
+      "end": 25.36
+    },
+    {
+      "word": "assignments",
+      "start": 25.36,
+      "end": 25.9
+    },
+    {
+      "word": "and",
+      "start": 25.9,
+      "end": 26.28
+    },
+    {
+      "word": "status",
+      "start": 26.28,
+      "end": 26.62
+    },
+    {
+      "word": "updates.",
+      "start": 26.62,
+      "end": 27.08
+    },
+    {
+      "word": "You",
+      "start": 27.08,
+      "end": 27.82
+    },
+    {
+      "word": "replace",
+      "start": 27.82,
+      "end": 28.2
+    },
+    {
+      "word": "complex",
+      "start": 28.2,
+      "end": 28.72
+    },
+    {
+      "word": "integrations",
+      "start": 28.72,
+      "end": 29.4
+    },
+    {
+      "word": "with",
+      "start": 29.4,
+      "end": 29.74
+    },
+    {
+      "word": "one",
+      "start": 29.74,
+      "end": 30.04
+    },
+    {
+      "word": "unified",
+      "start": 30.04,
+      "end": 30.42
+    },
+    {
+      "word": "workspace.",
+      "start": 30.42,
+      "end": 30.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new visual automation helper you need to try on Make today.",
+      "line2": "MAKE AI SCENARIO DEBUGGER",
+      "tag": "\ud83d\uded1 Make.com native AI assistants for scenario building and debugging",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Make.com native AI assistants for scenario building and debugging",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Make.com native AI assistants for scenario building and debugging",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

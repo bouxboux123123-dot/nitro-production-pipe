@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Ollama: run powerful AI models completely free on your laptop",
+  "text": "Stop paying twenty dollars a month for AI subscriptions if you only need local reasoning. Everyday summarizing and drafting tasks rarely justify sending sensitive documents to third-party cloud platforms. Centralized services also bring recurring subscription fees and surprise rate limits during high-stakes work deadlines. Instead, run Ollama to deploy open-source models like Mistral directly on your laptop. You eliminate monthly software bills while keeping data completely private.",
+  "duration": 30.223,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "paying",
+      "start": 0.4,
+      "end": 0.7
+    },
+    {
+      "word": "$20",
+      "start": 0.7,
+      "end": 1.18
+    },
+    {
+      "word": "a",
+      "start": 1.18,
+      "end": 1.5
+    },
+    {
+      "word": "month",
+      "start": 1.5,
+      "end": 1.72
+    },
+    {
+      "word": "for",
+      "start": 1.72,
+      "end": 1.98
+    },
+    {
+      "word": "AI",
+      "start": 1.98,
+      "end": 2.4
+    },
+    {
+      "word": "subscriptions",
+      "start": 2.4,
+      "end": 3.06
+    },
+    {
+      "word": "if",
+      "start": 3.06,
+      "end": 3.62
+    },
+    {
+      "word": "you",
+      "start": 3.62,
+      "end": 3.84
+    },
+    {
+      "word": "only",
+      "start": 3.84,
+      "end": 4.08
+    },
+    {
+      "word": "need",
+      "start": 4.08,
+      "end": 4.4
+    },
+    {
+      "word": "local",
+      "start": 4.4,
+      "end": 4.74
+    },
+    {
+      "word": "reasoning.",
+      "start": 4.74,
+      "end": 5.24
+    },
+    {
+      "word": "Every",
+      "start": 5.9,
+      "end": 6.06
+    },
+    {
+      "word": "day",
+      "start": 6.06,
+      "end": 6.38
+    },
+    {
+      "word": "summarizing",
+      "start": 6.38,
+      "end": 6.98
+    },
+    {
+      "word": "and",
+      "start": 6.98,
+      "end": 7.22
+    },
+    {
+      "word": "drafting",
+      "start": 7.22,
+      "end": 7.66
+    },
+    {
+      "word": "tasks",
+      "start": 7.66,
+      "end": 8.24
+    },
+    {
+      "word": "rarely",
+      "start": 8.24,
+      "end": 8.82
+    },
+    {
+      "word": "justify",
+      "start": 8.82,
+      "end": 9.34
+    },
+    {
+      "word": "sending",
+      "start": 9.34,
+      "end": 9.94
+    },
+    {
+      "word": "sensitive",
+      "start": 9.94,
+      "end": 10.42
+    },
+    {
+      "word": "documents",
+      "start": 10.42,
+      "end": 10.94
+    },
+    {
+      "word": "to",
+      "start": 10.94,
+      "end": 11.26
+    },
+    {
+      "word": "third",
+      "start": 11.26,
+      "end": 11.58
+    },
+    {
+      "word": "-party",
+      "start": 11.58,
+      "end": 11.86
+    },
+    {
+      "word": "cloud",
+      "start": 11.86,
+      "end": 12.22
+    },
+    {
+      "word": "platforms.",
+      "start": 12.22,
+      "end": 12.8
+    },
+    {
+      "word": "Centralized",
+      "start": 13.48,
+      "end": 13.84
+    },
+    {
+      "word": "services",
+      "start": 13.84,
+      "end": 14.28
+    },
+    {
+      "word": "also",
+      "start": 14.28,
+      "end": 14.8
+    },
+    {
+      "word": "bring",
+      "start": 14.8,
+      "end": 15.06
+    },
+    {
+      "word": "recurring",
+      "start": 15.06,
+      "end": 15.52
+    },
+    {
+      "word": "subscription",
+      "start": 15.52,
+      "end": 16.18
+    },
+    {
+      "word": "fees",
+      "start": 16.18,
+      "end": 16.6
+    },
+    {
+      "word": "and",
+      "start": 16.6,
+      "end": 17.1
+    },
+    {
+      "word": "surprise",
+      "start": 17.1,
+      "end": 17.52
+    },
+    {
+      "word": "rate",
+      "start": 17.52,
+      "end": 17.84
+    },
+    {
+      "word": "limits",
+      "start": 17.84,
+      "end": 18.1
+    },
+    {
+      "word": "during",
+      "start": 18.1,
+      "end": 18.48
+    },
+    {
+      "word": "high",
+      "start": 18.48,
+      "end": 18.8
+    },
+    {
+      "word": "stakes",
+      "start": 18.8,
+      "end": 19.08
+    },
+    {
+      "word": "work",
+      "start": 19.08,
+      "end": 19.38
+    },
+    {
+      "word": "deadlines.",
+      "start": 19.38,
+      "end": 19.9
+    },
+    {
+      "word": "Instead,",
+      "start": 20.64,
+      "end": 20.98
+    },
+    {
+      "word": "run",
+      "start": 21.4,
+      "end": 21.7
+    },
+    {
+      "word": "Alama",
+      "start": 21.7,
+      "end": 22.04
+    },
+    {
+      "word": "to",
+      "start": 22.04,
+      "end": 22.28
+    },
+    {
+      "word": "deploy",
+      "start": 22.28,
+      "end": 22.62
+    },
+    {
+      "word": "open",
+      "start": 22.62,
+      "end": 23.02
+    },
+    {
+      "word": "source",
+      "start": 23.02,
+      "end": 23.34
+    },
+    {
+      "word": "models",
+      "start": 23.34,
+      "end": 23.68
+    },
+    {
+      "word": "like",
+      "start": 23.68,
+      "end": 24.12
+    },
+    {
+      "word": "Mistral",
+      "start": 24.12,
+      "end": 24.5
+    },
+    {
+      "word": "directly",
+      "start": 24.5,
+      "end": 24.96
+    },
+    {
+      "word": "on",
+      "start": 24.96,
+      "end": 25.14
+    },
+    {
+      "word": "your",
+      "start": 25.14,
+      "end": 25.3
+    },
+    {
+      "word": "laptop.",
+      "start": 25.3,
+      "end": 25.68
+    },
+    {
+      "word": "You",
+      "start": 26.38,
+      "end": 26.56
+    },
+    {
+      "word": "eliminate",
+      "start": 26.56,
+      "end": 26.9
+    },
+    {
+      "word": "monthly",
+      "start": 26.9,
+      "end": 27.46
+    },
+    {
+      "word": "software",
+      "start": 27.46,
+      "end": 27.92
+    },
+    {
+      "word": "bills",
+      "start": 27.92,
+      "end": 28.26
+    },
+    {
+      "word": "while",
+      "start": 28.26,
+      "end": 28.58
+    },
+    {
+      "word": "keeping",
+      "start": 28.58,
+      "end": 28.92
+    },
+    {
+      "word": "data",
+      "start": 28.92,
+      "end": 29.26
+    },
+    {
+      "word": "completely",
+      "start": 29.26,
+      "end": 29.82
+    },
+    {
+      "word": "private.",
+      "start": 29.82,
+      "end": 30.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop paying 20 dollars a month for AI subscriptions if you only need local reasoning.",
+      "line2": "RUN AI LOCALLY",
+      "tag": "\ud83d\uded1 Ollama",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Ollama",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Ollama",
+        "subtitle": "Ollama"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Ollama"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Ollama"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Ollama",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

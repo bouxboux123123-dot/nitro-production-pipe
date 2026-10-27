@@ -1,0 +1,396 @@
+{
+  "page": "page-01",
+  "idea": "Cross-account benchmark tracker that spots industry advertising trends",
+  "text": "The exact data advantage that positions your agency as the definitive industry authority. Most marketing agencies publish generic advice while struggling to prove real expertise to prospective clients. Without aggregated client data, your firm cannot publish authoritative benchmarks that attract high-value leads. Aggregate anonymized conversion rates across thirty ad accounts into Airtable using Make to generate proprietary reports. You win enterprise retainers with unmatched market authority.",
+  "duration": 30.501,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "exact",
+      "start": 0.2,
+      "end": 0.64
+    },
+    {
+      "word": "data",
+      "start": 0.64,
+      "end": 1.12
+    },
+    {
+      "word": "advantage",
+      "start": 1.12,
+      "end": 1.72
+    },
+    {
+      "word": "that",
+      "start": 1.72,
+      "end": 2.02
+    },
+    {
+      "word": "positions",
+      "start": 2.02,
+      "end": 2.36
+    },
+    {
+      "word": "your",
+      "start": 2.36,
+      "end": 2.76
+    },
+    {
+      "word": "agency",
+      "start": 2.76,
+      "end": 3.16
+    },
+    {
+      "word": "as",
+      "start": 3.16,
+      "end": 3.54
+    },
+    {
+      "word": "the",
+      "start": 3.54,
+      "end": 3.74
+    },
+    {
+      "word": "definitive",
+      "start": 3.74,
+      "end": 4.08
+    },
+    {
+      "word": "industry",
+      "start": 4.08,
+      "end": 4.62
+    },
+    {
+      "word": "authority.",
+      "start": 4.62,
+      "end": 5.3
+    },
+    {
+      "word": "Most",
+      "start": 5.82,
+      "end": 6.08
+    },
+    {
+      "word": "marketing",
+      "start": 6.08,
+      "end": 6.5
+    },
+    {
+      "word": "agencies",
+      "start": 6.5,
+      "end": 7.12
+    },
+    {
+      "word": "published",
+      "start": 7.12,
+      "end": 7.58
+    },
+    {
+      "word": "generic",
+      "start": 7.58,
+      "end": 7.98
+    },
+    {
+      "word": "advice",
+      "start": 7.98,
+      "end": 8.56
+    },
+    {
+      "word": "while",
+      "start": 8.56,
+      "end": 9.1
+    },
+    {
+      "word": "struggling",
+      "start": 9.1,
+      "end": 9.4
+    },
+    {
+      "word": "to",
+      "start": 9.4,
+      "end": 9.72
+    },
+    {
+      "word": "prove",
+      "start": 9.72,
+      "end": 10.04
+    },
+    {
+      "word": "real",
+      "start": 10.04,
+      "end": 10.38
+    },
+    {
+      "word": "expertise",
+      "start": 10.38,
+      "end": 10.98
+    },
+    {
+      "word": "to",
+      "start": 10.98,
+      "end": 11.4
+    },
+    {
+      "word": "prospective",
+      "start": 11.4,
+      "end": 11.78
+    },
+    {
+      "word": "clients.",
+      "start": 11.78,
+      "end": 12.36
+    },
+    {
+      "word": "Without",
+      "start": 12.72,
+      "end": 13.06
+    },
+    {
+      "word": "aggregated",
+      "start": 13.06,
+      "end": 13.66
+    },
+    {
+      "word": "client",
+      "start": 13.66,
+      "end": 14.1
+    },
+    {
+      "word": "data,",
+      "start": 14.1,
+      "end": 14.42
+    },
+    {
+      "word": "your",
+      "start": 14.78,
+      "end": 14.98
+    },
+    {
+      "word": "firm",
+      "start": 14.98,
+      "end": 15.22
+    },
+    {
+      "word": "cannot",
+      "start": 15.22,
+      "end": 15.62
+    },
+    {
+      "word": "publish",
+      "start": 15.62,
+      "end": 15.98
+    },
+    {
+      "word": "authoritative",
+      "start": 15.98,
+      "end": 16.66
+    },
+    {
+      "word": "benchmarks",
+      "start": 16.66,
+      "end": 17.14
+    },
+    {
+      "word": "that",
+      "start": 17.14,
+      "end": 17.52
+    },
+    {
+      "word": "attract",
+      "start": 17.52,
+      "end": 17.86
+    },
+    {
+      "word": "high",
+      "start": 17.86,
+      "end": 18.28
+    },
+    {
+      "word": "value",
+      "start": 18.28,
+      "end": 18.58
+    },
+    {
+      "word": "leads.",
+      "start": 18.58,
+      "end": 19.02
+    },
+    {
+      "word": "Aggregate",
+      "start": 19.8,
+      "end": 20.16
+    },
+    {
+      "word": "anonymized",
+      "start": 20.16,
+      "end": 20.88
+    },
+    {
+      "word": "conversion",
+      "start": 20.88,
+      "end": 21.48
+    },
+    {
+      "word": "rates",
+      "start": 21.48,
+      "end": 21.88
+    },
+    {
+      "word": "across",
+      "start": 21.88,
+      "end": 22.3
+    },
+    {
+      "word": "30",
+      "start": 22.3,
+      "end": 22.68
+    },
+    {
+      "word": "ad",
+      "start": 22.68,
+      "end": 22.88
+    },
+    {
+      "word": "accounts",
+      "start": 22.88,
+      "end": 23.34
+    },
+    {
+      "word": "into",
+      "start": 23.34,
+      "end": 23.7
+    },
+    {
+      "word": "irritable",
+      "start": 23.7,
+      "end": 24.1
+    },
+    {
+      "word": "using",
+      "start": 24.1,
+      "end": 24.5
+    },
+    {
+      "word": "make",
+      "start": 24.5,
+      "end": 24.76
+    },
+    {
+      "word": "to",
+      "start": 24.76,
+      "end": 24.96
+    },
+    {
+      "word": "generate",
+      "start": 24.96,
+      "end": 25.38
+    },
+    {
+      "word": "proprietary",
+      "start": 25.38,
+      "end": 25.98
+    },
+    {
+      "word": "reports.",
+      "start": 25.98,
+      "end": 26.7
+    },
+    {
+      "word": "You",
+      "start": 26.7,
+      "end": 27.38
+    },
+    {
+      "word": "win",
+      "start": 27.38,
+      "end": 27.64
+    },
+    {
+      "word": "enterprise",
+      "start": 27.64,
+      "end": 28.12
+    },
+    {
+      "word": "retainers",
+      "start": 28.12,
+      "end": 28.8
+    },
+    {
+      "word": "with",
+      "start": 28.8,
+      "end": 29.1
+    },
+    {
+      "word": "unmatched",
+      "start": 29.1,
+      "end": 29.5
+    },
+    {
+      "word": "market",
+      "start": 29.5,
+      "end": 29.92
+    },
+    {
+      "word": "authority.",
+      "start": 29.92,
+      "end": 30.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The data advantage that positions your agency as the definitive industry authority.",
+      "line2": "SPOT ADVERTISING TRENDS",
+      "tag": "\ud83d\uded1 Cross-account benchmark tracker that spots industry advertising trends",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Cross-account benchmark tracker that spots industry advertising trends",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Cross-account benchmark tracker that spots industry advertising trends",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

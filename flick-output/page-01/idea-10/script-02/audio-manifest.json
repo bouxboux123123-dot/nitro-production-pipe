@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated client churn prediction system based on communication frequency",
+  "text": "This workflow tracks client response times and Slack engagement to flag churn risks. When clients start pulling back, message volume drops and feedback turnaround stretches from hours to days. Account leads miss these subtle disengagement signals because daily deliverables distract them from high-level client sentiment. Connect Slack and Gmail to an Airtable health tracker that flags cooling client accounts automatically. You protect recurring revenue and retain top clients.",
+  "duration": 28.453,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "workflow",
+      "start": 0.28,
+      "end": 0.64
+    },
+    {
+      "word": "tracks",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "word": "client",
+      "start": 1.04,
+      "end": 1.38
+    },
+    {
+      "word": "response",
+      "start": 1.38,
+      "end": 1.86
+    },
+    {
+      "word": "times",
+      "start": 1.86,
+      "end": 2.28
+    },
+    {
+      "word": "and",
+      "start": 2.28,
+      "end": 2.66
+    },
+    {
+      "word": "slack",
+      "start": 2.66,
+      "end": 2.9
+    },
+    {
+      "word": "engagement",
+      "start": 2.9,
+      "end": 3.42
+    },
+    {
+      "word": "to",
+      "start": 3.42,
+      "end": 3.76
+    },
+    {
+      "word": "flag",
+      "start": 3.76,
+      "end": 4.06
+    },
+    {
+      "word": "churn",
+      "start": 4.06,
+      "end": 4.4
+    },
+    {
+      "word": "risks.",
+      "start": 4.4,
+      "end": 4.74
+    },
+    {
+      "word": "When",
+      "start": 5.26,
+      "end": 5.48
+    },
+    {
+      "word": "clients",
+      "start": 5.48,
+      "end": 5.74
+    },
+    {
+      "word": "start",
+      "start": 5.74,
+      "end": 6.08
+    },
+    {
+      "word": "pulling",
+      "start": 6.08,
+      "end": 6.34
+    },
+    {
+      "word": "back,",
+      "start": 6.34,
+      "end": 6.9
+    },
+    {
+      "word": "message",
+      "start": 7.46,
+      "end": 7.46
+    },
+    {
+      "word": "volume",
+      "start": 7.46,
+      "end": 7.98
+    },
+    {
+      "word": "drops",
+      "start": 7.98,
+      "end": 8.38
+    },
+    {
+      "word": "and",
+      "start": 8.38,
+      "end": 8.62
+    },
+    {
+      "word": "feedback",
+      "start": 8.62,
+      "end": 8.92
+    },
+    {
+      "word": "turn",
+      "start": 8.92,
+      "end": 9.32
+    },
+    {
+      "word": "around",
+      "start": 9.32,
+      "end": 9.64
+    },
+    {
+      "word": "stretches",
+      "start": 9.64,
+      "end": 9.98
+    },
+    {
+      "word": "from",
+      "start": 9.98,
+      "end": 10.38
+    },
+    {
+      "word": "hours",
+      "start": 10.38,
+      "end": 10.7
+    },
+    {
+      "word": "to",
+      "start": 10.7,
+      "end": 10.98
+    },
+    {
+      "word": "days.",
+      "start": 10.98,
+      "end": 11.28
+    },
+    {
+      "word": "Account",
+      "start": 12.0,
+      "end": 12.0
+    },
+    {
+      "word": "leads",
+      "start": 12.0,
+      "end": 12.3
+    },
+    {
+      "word": "missed",
+      "start": 12.3,
+      "end": 12.64
+    },
+    {
+      "word": "these",
+      "start": 12.64,
+      "end": 12.98
+    },
+    {
+      "word": "subtle",
+      "start": 12.98,
+      "end": 13.2
+    },
+    {
+      "word": "disengagement",
+      "start": 13.2,
+      "end": 13.92
+    },
+    {
+      "word": "signals",
+      "start": 13.92,
+      "end": 14.34
+    },
+    {
+      "word": "because",
+      "start": 14.34,
+      "end": 15.02
+    },
+    {
+      "word": "daily",
+      "start": 15.02,
+      "end": 15.32
+    },
+    {
+      "word": "deliverables",
+      "start": 15.32,
+      "end": 15.86
+    },
+    {
+      "word": "distract",
+      "start": 15.86,
+      "end": 16.32
+    },
+    {
+      "word": "them",
+      "start": 16.32,
+      "end": 16.62
+    },
+    {
+      "word": "from",
+      "start": 16.62,
+      "end": 16.86
+    },
+    {
+      "word": "high",
+      "start": 16.86,
+      "end": 17.16
+    },
+    {
+      "word": "-level",
+      "start": 17.16,
+      "end": 17.44
+    },
+    {
+      "word": "client",
+      "start": 17.44,
+      "end": 17.8
+    },
+    {
+      "word": "sentiment.",
+      "start": 17.8,
+      "end": 18.26
+    },
+    {
+      "word": "Connect",
+      "start": 18.92,
+      "end": 19.18
+    },
+    {
+      "word": "Slack",
+      "start": 19.18,
+      "end": 19.68
+    },
+    {
+      "word": "and",
+      "start": 19.68,
+      "end": 19.94
+    },
+    {
+      "word": "Gmail",
+      "start": 19.94,
+      "end": 20.3
+    },
+    {
+      "word": "to",
+      "start": 20.3,
+      "end": 20.8
+    },
+    {
+      "word": "an",
+      "start": 20.8,
+      "end": 21.0
+    },
+    {
+      "word": "irritable",
+      "start": 21.0,
+      "end": 21.36
+    },
+    {
+      "word": "health",
+      "start": 21.36,
+      "end": 21.72
+    },
+    {
+      "word": "tracker",
+      "start": 21.72,
+      "end": 22.0
+    },
+    {
+      "word": "that",
+      "start": 22.0,
+      "end": 22.5
+    },
+    {
+      "word": "flags",
+      "start": 22.5,
+      "end": 22.82
+    },
+    {
+      "word": "cooling",
+      "start": 22.82,
+      "end": 23.28
+    },
+    {
+      "word": "client",
+      "start": 23.28,
+      "end": 23.68
+    },
+    {
+      "word": "accounts",
+      "start": 23.68,
+      "end": 24.18
+    },
+    {
+      "word": "automatically.",
+      "start": 24.18,
+      "end": 24.74
+    },
+    {
+      "word": "You",
+      "start": 25.36,
+      "end": 25.62
+    },
+    {
+      "word": "protect",
+      "start": 25.62,
+      "end": 25.9
+    },
+    {
+      "word": "recurring",
+      "start": 25.9,
+      "end": 26.42
+    },
+    {
+      "word": "revenue",
+      "start": 26.42,
+      "end": 26.82
+    },
+    {
+      "word": "and",
+      "start": 26.82,
+      "end": 27.24
+    },
+    {
+      "word": "retain",
+      "start": 27.24,
+      "end": 27.52
+    },
+    {
+      "word": "top",
+      "start": 27.52,
+      "end": 27.88
+    },
+    {
+      "word": "clients.",
+      "start": 27.88,
+      "end": 28.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "This workflow tracks client response times and Slack engagement to flag churn risks.",
+      "line2": "PREDICT CLIENT CHURN",
+      "tag": "\ud83d\uded1 Automated client churn prediction system based on communication frequency",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated client churn prediction system based on communication frequency",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

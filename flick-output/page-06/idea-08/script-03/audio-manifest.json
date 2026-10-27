@@ -1,0 +1,391 @@
+{
+  "page": "page-06",
+  "idea": "Loom video comment threading workflow for async design reviews",
+  "text": "Stop typing long emails trying to explain complex visual design and layout adjustments. Written creative briefs frequently get misinterpreted, forcing your design team to rebuild components from scratch. Scheduling live video calls just to review button placement wrecks focus time across product squads. Recording a quick Loom video walkthrough with threaded comments allows teams to discuss revisions asynchronously. You cut creative approval cycles down to hours.",
+  "duration": 27.727,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "typing",
+      "start": 0.4,
+      "end": 0.8
+    },
+    {
+      "word": "long",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "word": "emails",
+      "start": 1.2,
+      "end": 1.56
+    },
+    {
+      "word": "trying",
+      "start": 1.56,
+      "end": 1.94
+    },
+    {
+      "word": "to",
+      "start": 1.94,
+      "end": 2.12
+    },
+    {
+      "word": "explain",
+      "start": 2.12,
+      "end": 2.56
+    },
+    {
+      "word": "complex",
+      "start": 2.56,
+      "end": 3.02
+    },
+    {
+      "word": "visual",
+      "start": 3.02,
+      "end": 3.48
+    },
+    {
+      "word": "design",
+      "start": 3.48,
+      "end": 3.96
+    },
+    {
+      "word": "and",
+      "start": 3.96,
+      "end": 4.42
+    },
+    {
+      "word": "layout",
+      "start": 4.42,
+      "end": 4.74
+    },
+    {
+      "word": "adjustments.",
+      "start": 4.74,
+      "end": 5.4
+    },
+    {
+      "word": "Written",
+      "start": 6.24,
+      "end": 6.24
+    },
+    {
+      "word": "creative",
+      "start": 6.24,
+      "end": 6.78
+    },
+    {
+      "word": "briefs",
+      "start": 6.78,
+      "end": 7.1
+    },
+    {
+      "word": "frequently",
+      "start": 7.1,
+      "end": 7.5
+    },
+    {
+      "word": "get",
+      "start": 7.5,
+      "end": 7.92
+    },
+    {
+      "word": "misinterpreted,",
+      "start": 7.92,
+      "end": 8.86
+    },
+    {
+      "word": "forcing",
+      "start": 9.2,
+      "end": 9.28
+    },
+    {
+      "word": "your",
+      "start": 9.28,
+      "end": 9.62
+    },
+    {
+      "word": "design",
+      "start": 9.62,
+      "end": 9.9
+    },
+    {
+      "word": "team",
+      "start": 9.9,
+      "end": 10.26
+    },
+    {
+      "word": "to",
+      "start": 10.26,
+      "end": 10.52
+    },
+    {
+      "word": "rebuild",
+      "start": 10.52,
+      "end": 10.78
+    },
+    {
+      "word": "components",
+      "start": 10.78,
+      "end": 11.26
+    },
+    {
+      "word": "from",
+      "start": 11.26,
+      "end": 11.7
+    },
+    {
+      "word": "scratch.",
+      "start": 11.7,
+      "end": 12.16
+    },
+    {
+      "word": "Scheduling",
+      "start": 12.7,
+      "end": 12.98
+    },
+    {
+      "word": "live",
+      "start": 12.98,
+      "end": 13.28
+    },
+    {
+      "word": "video",
+      "start": 13.28,
+      "end": 13.58
+    },
+    {
+      "word": "calls",
+      "start": 13.58,
+      "end": 13.96
+    },
+    {
+      "word": "just",
+      "start": 13.96,
+      "end": 14.3
+    },
+    {
+      "word": "to",
+      "start": 14.3,
+      "end": 14.52
+    },
+    {
+      "word": "review",
+      "start": 14.52,
+      "end": 14.8
+    },
+    {
+      "word": "button",
+      "start": 14.8,
+      "end": 15.12
+    },
+    {
+      "word": "placement",
+      "start": 15.12,
+      "end": 15.48
+    },
+    {
+      "word": "wrecks",
+      "start": 15.48,
+      "end": 15.8
+    },
+    {
+      "word": "focused",
+      "start": 15.8,
+      "end": 16.16
+    },
+    {
+      "word": "time",
+      "start": 16.16,
+      "end": 16.52
+    },
+    {
+      "word": "across",
+      "start": 16.52,
+      "end": 16.9
+    },
+    {
+      "word": "product",
+      "start": 16.9,
+      "end": 17.24
+    },
+    {
+      "word": "squads.",
+      "start": 17.24,
+      "end": 17.78
+    },
+    {
+      "word": "Recording",
+      "start": 18.46,
+      "end": 18.68
+    },
+    {
+      "word": "a",
+      "start": 18.68,
+      "end": 19.0
+    },
+    {
+      "word": "quick",
+      "start": 19.0,
+      "end": 19.2
+    },
+    {
+      "word": "loom",
+      "start": 19.2,
+      "end": 19.46
+    },
+    {
+      "word": "video",
+      "start": 19.46,
+      "end": 19.8
+    },
+    {
+      "word": "walkthrough",
+      "start": 19.8,
+      "end": 20.28
+    },
+    {
+      "word": "with",
+      "start": 20.28,
+      "end": 20.54
+    },
+    {
+      "word": "threaded",
+      "start": 20.54,
+      "end": 20.82
+    },
+    {
+      "word": "comments",
+      "start": 20.82,
+      "end": 21.4
+    },
+    {
+      "word": "allows",
+      "start": 21.4,
+      "end": 22.14
+    },
+    {
+      "word": "teams",
+      "start": 22.14,
+      "end": 22.58
+    },
+    {
+      "word": "to",
+      "start": 22.58,
+      "end": 22.8
+    },
+    {
+      "word": "discuss",
+      "start": 22.8,
+      "end": 23.14
+    },
+    {
+      "word": "revisions",
+      "start": 23.14,
+      "end": 23.66
+    },
+    {
+      "word": "asynchronously.",
+      "start": 23.66,
+      "end": 24.48
+    },
+    {
+      "word": "You",
+      "start": 25.02,
+      "end": 25.14
+    },
+    {
+      "word": "cut",
+      "start": 25.14,
+      "end": 25.36
+    },
+    {
+      "word": "creative",
+      "start": 25.36,
+      "end": 25.8
+    },
+    {
+      "word": "approval",
+      "start": 25.8,
+      "end": 26.28
+    },
+    {
+      "word": "cycles",
+      "start": 26.28,
+      "end": 26.7
+    },
+    {
+      "word": "down",
+      "start": 26.7,
+      "end": 27.1
+    },
+    {
+      "word": "to",
+      "start": 27.1,
+      "end": 27.36
+    },
+    {
+      "word": "hours.",
+      "start": 27.36,
+      "end": 27.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop typing multi-paragraph emails trying to explain visual design changes.",
+      "line2": "ASYNC DESIGN REVIEWS",
+      "tag": "\ud83d\uded1 Loom video comment threading workflow for async design reviews",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Loom video comment threading workflow for async design reviews",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Loom video comment threading workflow for async design reviews",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Loom video comment threading workflow for async design reviews",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

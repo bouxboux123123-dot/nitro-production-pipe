@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Automated hiring pipeline that screens inbound candidate applications",
+  "text": "Here is how to filter three hundred job applicants down to ten in fifteen minutes. Opening a remote role floods your inbox, burying elite engineers under hundreds of unqualified submissions. Reviewing PDFs manually creates massive screening delays until top candidates accept competing offers elsewhere. Instead, route submissions through Airtable where OpenAI scores qualifications and auto-sends Calendly interview invitations. You secure top-tier talent weeks ahead of competitors.",
+  "duration": 30.223,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.44
+    },
+    {
+      "word": "how",
+      "start": 0.44,
+      "end": 0.6
+    },
+    {
+      "word": "to",
+      "start": 0.6,
+      "end": 0.76
+    },
+    {
+      "word": "filter",
+      "start": 0.76,
+      "end": 1.06
+    },
+    {
+      "word": "300",
+      "start": 1.06,
+      "end": 1.64
+    },
+    {
+      "word": "job",
+      "start": 1.64,
+      "end": 2.2
+    },
+    {
+      "word": "applicants",
+      "start": 2.2,
+      "end": 2.64
+    },
+    {
+      "word": "down",
+      "start": 2.64,
+      "end": 3.0
+    },
+    {
+      "word": "to",
+      "start": 3.0,
+      "end": 3.22
+    },
+    {
+      "word": "10",
+      "start": 3.22,
+      "end": 3.44
+    },
+    {
+      "word": "in",
+      "start": 3.44,
+      "end": 3.66
+    },
+    {
+      "word": "15",
+      "start": 3.66,
+      "end": 4.0
+    },
+    {
+      "word": "minutes.",
+      "start": 4.0,
+      "end": 4.42
+    },
+    {
+      "word": "Opening",
+      "start": 5.2,
+      "end": 5.2
+    },
+    {
+      "word": "a",
+      "start": 5.2,
+      "end": 5.52
+    },
+    {
+      "word": "remote",
+      "start": 5.52,
+      "end": 5.8
+    },
+    {
+      "word": "role",
+      "start": 5.8,
+      "end": 6.24
+    },
+    {
+      "word": "floods",
+      "start": 6.24,
+      "end": 6.54
+    },
+    {
+      "word": "your",
+      "start": 6.54,
+      "end": 6.8
+    },
+    {
+      "word": "inbox,",
+      "start": 6.8,
+      "end": 7.14
+    },
+    {
+      "word": "burying",
+      "start": 7.58,
+      "end": 7.96
+    },
+    {
+      "word": "elite",
+      "start": 7.96,
+      "end": 8.4
+    },
+    {
+      "word": "engineers",
+      "start": 8.4,
+      "end": 8.86
+    },
+    {
+      "word": "under",
+      "start": 8.86,
+      "end": 9.18
+    },
+    {
+      "word": "hundreds",
+      "start": 9.18,
+      "end": 9.56
+    },
+    {
+      "word": "of",
+      "start": 9.56,
+      "end": 9.88
+    },
+    {
+      "word": "unqualified",
+      "start": 9.88,
+      "end": 10.6
+    },
+    {
+      "word": "submissions,",
+      "start": 10.6,
+      "end": 11.3
+    },
+    {
+      "word": "reviewing",
+      "start": 12.1,
+      "end": 12.1
+    },
+    {
+      "word": "PDFs",
+      "start": 12.1,
+      "end": 12.88
+    },
+    {
+      "word": "manually",
+      "start": 12.88,
+      "end": 13.18
+    },
+    {
+      "word": "creates",
+      "start": 13.18,
+      "end": 13.8
+    },
+    {
+      "word": "massive",
+      "start": 13.8,
+      "end": 14.2
+    },
+    {
+      "word": "screening",
+      "start": 14.2,
+      "end": 14.64
+    },
+    {
+      "word": "delays",
+      "start": 14.64,
+      "end": 15.06
+    },
+    {
+      "word": "until",
+      "start": 15.06,
+      "end": 15.74
+    },
+    {
+      "word": "top",
+      "start": 15.74,
+      "end": 16.12
+    },
+    {
+      "word": "candidates",
+      "start": 16.12,
+      "end": 16.54
+    },
+    {
+      "word": "accept",
+      "start": 16.54,
+      "end": 17.04
+    },
+    {
+      "word": "competing",
+      "start": 17.04,
+      "end": 17.54
+    },
+    {
+      "word": "offers",
+      "start": 17.54,
+      "end": 17.9
+    },
+    {
+      "word": "elsewhere.",
+      "start": 17.9,
+      "end": 18.44
+    },
+    {
+      "word": "Instead,",
+      "start": 19.16,
+      "end": 19.5
+    },
+    {
+      "word": "route",
+      "start": 20.18,
+      "end": 20.18
+    },
+    {
+      "word": "submissions",
+      "start": 20.18,
+      "end": 20.64
+    },
+    {
+      "word": "through",
+      "start": 20.64,
+      "end": 21.14
+    },
+    {
+      "word": "Airtable",
+      "start": 21.14,
+      "end": 21.54
+    },
+    {
+      "word": "where",
+      "start": 21.54,
+      "end": 21.86
+    },
+    {
+      "word": "open",
+      "start": 21.86,
+      "end": 22.26
+    },
+    {
+      "word": "AI",
+      "start": 22.26,
+      "end": 22.72
+    },
+    {
+      "word": "scores",
+      "start": 22.72,
+      "end": 23.1
+    },
+    {
+      "word": "qualifications",
+      "start": 23.1,
+      "end": 23.84
+    },
+    {
+      "word": "and",
+      "start": 23.84,
+      "end": 24.36
+    },
+    {
+      "word": "auto",
+      "start": 24.36,
+      "end": 24.66
+    },
+    {
+      "word": "-sends,",
+      "start": 24.66,
+      "end": 25.04
+    },
+    {
+      "word": "calently",
+      "start": 25.22,
+      "end": 25.64
+    },
+    {
+      "word": "interview",
+      "start": 25.64,
+      "end": 26.08
+    },
+    {
+      "word": "invitations.",
+      "start": 26.08,
+      "end": 26.76
+    },
+    {
+      "word": "You",
+      "start": 26.76,
+      "end": 27.52
+    },
+    {
+      "word": "secure",
+      "start": 27.52,
+      "end": 27.92
+    },
+    {
+      "word": "top",
+      "start": 27.92,
+      "end": 28.28
+    },
+    {
+      "word": "tier",
+      "start": 28.28,
+      "end": 28.54
+    },
+    {
+      "word": "talent",
+      "start": 28.54,
+      "end": 28.88
+    },
+    {
+      "word": "weeks",
+      "start": 28.88,
+      "end": 29.18
+    },
+    {
+      "word": "ahead",
+      "start": 29.18,
+      "end": 29.42
+    },
+    {
+      "word": "of",
+      "start": 29.42,
+      "end": 29.68
+    },
+    {
+      "word": "competitors.",
+      "start": 29.68,
+      "end": 30.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How to filter 300 job applicants down to the top 10 candidates in 15 minutes.",
+      "line2": "AUTO-SCREEN CANDIDATES",
+      "tag": "\ud83d\uded1 Automated hiring pipeline that screens inbound candidate applications",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated hiring pipeline that screens inbound candidate applications",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated hiring pipeline that screens inbound candidate applications",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

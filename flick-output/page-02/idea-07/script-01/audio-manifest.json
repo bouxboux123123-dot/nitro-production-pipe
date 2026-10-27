@@ -1,0 +1,386 @@
+{
+  "page": "page-02",
+  "idea": "AI rate calculator based on market data and project complexity",
+  "text": "Here is how to find out if you are severely undercharging freelance clients. Quoting arbitrary hourly rates based on guesswork leaves thousands of dollars on the table every month. Underpricing complex deliverables drains your working hours without covering unexpected revisions or overhead. Input your scope into GigCalc to benchmark verified market rates across your specific niche. You quote confident fixed prices that protect your margins.",
+  "duration": 25.067,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "is",
+      "start": 0.18,
+      "end": 0.3
+    },
+    {
+      "word": "how",
+      "start": 0.3,
+      "end": 0.46
+    },
+    {
+      "word": "to",
+      "start": 0.46,
+      "end": 0.58
+    },
+    {
+      "word": "find",
+      "start": 0.58,
+      "end": 0.82
+    },
+    {
+      "word": "out",
+      "start": 0.82,
+      "end": 0.96
+    },
+    {
+      "word": "if",
+      "start": 0.96,
+      "end": 1.1
+    },
+    {
+      "word": "you",
+      "start": 1.1,
+      "end": 1.22
+    },
+    {
+      "word": "are",
+      "start": 1.22,
+      "end": 1.44
+    },
+    {
+      "word": "severely",
+      "start": 1.44,
+      "end": 1.82
+    },
+    {
+      "word": "undercharging",
+      "start": 1.82,
+      "end": 2.68
+    },
+    {
+      "word": "freelance",
+      "start": 2.68,
+      "end": 3.08
+    },
+    {
+      "word": "clients.",
+      "start": 3.08,
+      "end": 3.78
+    },
+    {
+      "word": "Quoting",
+      "start": 4.16,
+      "end": 4.42
+    },
+    {
+      "word": "arbitrary",
+      "start": 4.42,
+      "end": 4.94
+    },
+    {
+      "word": "hourly",
+      "start": 4.94,
+      "end": 5.5
+    },
+    {
+      "word": "rates",
+      "start": 5.5,
+      "end": 5.82
+    },
+    {
+      "word": "based",
+      "start": 5.82,
+      "end": 6.14
+    },
+    {
+      "word": "on",
+      "start": 6.14,
+      "end": 6.32
+    },
+    {
+      "word": "guesswork",
+      "start": 6.32,
+      "end": 6.86
+    },
+    {
+      "word": "leaves",
+      "start": 6.86,
+      "end": 7.18
+    },
+    {
+      "word": "thousands",
+      "start": 7.18,
+      "end": 7.64
+    },
+    {
+      "word": "of",
+      "start": 7.64,
+      "end": 7.9
+    },
+    {
+      "word": "dollars",
+      "start": 7.9,
+      "end": 8.14
+    },
+    {
+      "word": "on",
+      "start": 8.14,
+      "end": 8.42
+    },
+    {
+      "word": "the",
+      "start": 8.42,
+      "end": 8.56
+    },
+    {
+      "word": "table",
+      "start": 8.56,
+      "end": 8.78
+    },
+    {
+      "word": "every",
+      "start": 8.78,
+      "end": 9.1
+    },
+    {
+      "word": "month.",
+      "start": 9.1,
+      "end": 9.72
+    },
+    {
+      "word": "Underpricing",
+      "start": 10.22,
+      "end": 10.62
+    },
+    {
+      "word": "complex",
+      "start": 10.62,
+      "end": 11.16
+    },
+    {
+      "word": "deliverables",
+      "start": 11.16,
+      "end": 11.76
+    },
+    {
+      "word": "drains",
+      "start": 11.76,
+      "end": 12.08
+    },
+    {
+      "word": "your",
+      "start": 12.08,
+      "end": 12.32
+    },
+    {
+      "word": "working",
+      "start": 12.32,
+      "end": 12.58
+    },
+    {
+      "word": "hours",
+      "start": 12.58,
+      "end": 12.94
+    },
+    {
+      "word": "without",
+      "start": 12.94,
+      "end": 13.48
+    },
+    {
+      "word": "covering",
+      "start": 13.48,
+      "end": 13.82
+    },
+    {
+      "word": "unexpected",
+      "start": 13.82,
+      "end": 14.44
+    },
+    {
+      "word": "revisions",
+      "start": 14.44,
+      "end": 14.96
+    },
+    {
+      "word": "or",
+      "start": 14.96,
+      "end": 15.24
+    },
+    {
+      "word": "overhead.",
+      "start": 15.24,
+      "end": 15.76
+    },
+    {
+      "word": "Input",
+      "start": 16.42,
+      "end": 16.5
+    },
+    {
+      "word": "your",
+      "start": 16.5,
+      "end": 16.84
+    },
+    {
+      "word": "scope",
+      "start": 16.84,
+      "end": 17.08
+    },
+    {
+      "word": "into",
+      "start": 17.08,
+      "end": 17.36
+    },
+    {
+      "word": "gigcalc",
+      "start": 17.36,
+      "end": 18.12
+    },
+    {
+      "word": "to",
+      "start": 18.12,
+      "end": 18.36
+    },
+    {
+      "word": "benchmark",
+      "start": 18.36,
+      "end": 18.78
+    },
+    {
+      "word": "verified",
+      "start": 18.78,
+      "end": 19.38
+    },
+    {
+      "word": "market",
+      "start": 19.38,
+      "end": 19.78
+    },
+    {
+      "word": "rates",
+      "start": 19.78,
+      "end": 20.08
+    },
+    {
+      "word": "across",
+      "start": 20.08,
+      "end": 20.4
+    },
+    {
+      "word": "your",
+      "start": 20.4,
+      "end": 20.92
+    },
+    {
+      "word": "specific",
+      "start": 20.92,
+      "end": 21.06
+    },
+    {
+      "word": "niche.",
+      "start": 21.06,
+      "end": 21.48
+    },
+    {
+      "word": "You",
+      "start": 21.48,
+      "end": 22.06
+    },
+    {
+      "word": "quote",
+      "start": 22.06,
+      "end": 22.4
+    },
+    {
+      "word": "confident",
+      "start": 22.4,
+      "end": 22.84
+    },
+    {
+      "word": "fixed",
+      "start": 22.84,
+      "end": 23.3
+    },
+    {
+      "word": "prices",
+      "start": 23.3,
+      "end": 23.7
+    },
+    {
+      "word": "that",
+      "start": 23.7,
+      "end": 24.08
+    },
+    {
+      "word": "protect",
+      "start": 24.08,
+      "end": 24.3
+    },
+    {
+      "word": "your",
+      "start": 24.3,
+      "end": 24.64
+    },
+    {
+      "word": "margins.",
+      "start": 24.64,
+      "end": 24.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Are you severely undercharging your freelance clients? Find out right now.",
+      "line2": "CALCULATE FREELANCE RATES",
+      "tag": "\ud83d\uded1 AI rate calculator based on market data and project complexity",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI rate calculator based on market data and project complexity",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI rate calculator based on market data and project complexity",
+        "subtitle": "AI rate calculator based on market data and project complexity"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI rate calculator based on market data and project complexity"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI rate calculator based on market data and project complexity"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI rate calculator based on market data and project complexity",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-10",
+  "idea": "CapCut desktop AI avatar and voice translation upgrades",
+  "text": "You are still writing boilerplate CRUD endpoints by hand while other engineers use background agents. Manually drafting database models, validation schemas, and API handlers turns simple features into grueling multi-day slogs. Copy-pasting boilerplate across routes introduces subtle syntax mistakes that break production builds. Cursor background composer takes your specification prompt, writes endpoints across multiple files, and validates tests autonomously. You reclaim hours of engineering focus daily.",
+  "duration": 32.058,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "are",
+      "start": 0.16,
+      "end": 0.34
+    },
+    {
+      "word": "still",
+      "start": 0.34,
+      "end": 0.56
+    },
+    {
+      "word": "writing",
+      "start": 0.56,
+      "end": 0.94
+    },
+    {
+      "word": "boilerplate",
+      "start": 0.94,
+      "end": 1.6
+    },
+    {
+      "word": "crud",
+      "start": 1.6,
+      "end": 1.84
+    },
+    {
+      "word": "in",
+      "start": 1.84,
+      "end": 2.08
+    },
+    {
+      "word": "points",
+      "start": 2.08,
+      "end": 2.34
+    },
+    {
+      "word": "by",
+      "start": 2.34,
+      "end": 2.72
+    },
+    {
+      "word": "hand,",
+      "start": 2.72,
+      "end": 3.12
+    },
+    {
+      "word": "while",
+      "start": 3.36,
+      "end": 3.56
+    },
+    {
+      "word": "other",
+      "start": 3.56,
+      "end": 3.84
+    },
+    {
+      "word": "engineers",
+      "start": 3.84,
+      "end": 4.16
+    },
+    {
+      "word": "use",
+      "start": 4.16,
+      "end": 4.6
+    },
+    {
+      "word": "background",
+      "start": 4.6,
+      "end": 5.04
+    },
+    {
+      "word": "agents.",
+      "start": 5.04,
+      "end": 5.82
+    },
+    {
+      "word": "Manually",
+      "start": 6.36,
+      "end": 6.68
+    },
+    {
+      "word": "drafting",
+      "start": 6.68,
+      "end": 7.12
+    },
+    {
+      "word": "database",
+      "start": 7.12,
+      "end": 7.58
+    },
+    {
+      "word": "models,",
+      "start": 7.58,
+      "end": 8.06
+    },
+    {
+      "word": "validation",
+      "start": 8.94,
+      "end": 8.98
+    },
+    {
+      "word": "schemas,",
+      "start": 8.98,
+      "end": 9.52
+    },
+    {
+      "word": "and",
+      "start": 9.94,
+      "end": 10.34
+    },
+    {
+      "word": "API",
+      "start": 10.34,
+      "end": 10.52
+    },
+    {
+      "word": "handlers",
+      "start": 10.52,
+      "end": 11.04
+    },
+    {
+      "word": "turn",
+      "start": 11.04,
+      "end": 11.74
+    },
+    {
+      "word": "simple",
+      "start": 11.74,
+      "end": 12.04
+    },
+    {
+      "word": "features",
+      "start": 12.04,
+      "end": 12.54
+    },
+    {
+      "word": "into",
+      "start": 12.54,
+      "end": 12.88
+    },
+    {
+      "word": "grueling",
+      "start": 12.88,
+      "end": 13.34
+    },
+    {
+      "word": "multi",
+      "start": 13.34,
+      "end": 13.7
+    },
+    {
+      "word": "-day",
+      "start": 13.7,
+      "end": 14.02
+    },
+    {
+      "word": "slogs.",
+      "start": 14.02,
+      "end": 14.54
+    },
+    {
+      "word": "Copper",
+      "start": 15.12,
+      "end": 15.12
+    },
+    {
+      "word": "-pasting",
+      "start": 15.12,
+      "end": 15.44
+    },
+    {
+      "word": "boilerplate",
+      "start": 15.44,
+      "end": 16.08
+    },
+    {
+      "word": "across",
+      "start": 16.08,
+      "end": 16.52
+    },
+    {
+      "word": "routes",
+      "start": 16.52,
+      "end": 16.92
+    },
+    {
+      "word": "introduces",
+      "start": 16.92,
+      "end": 17.56
+    },
+    {
+      "word": "subtle",
+      "start": 17.56,
+      "end": 18.0
+    },
+    {
+      "word": "syntax",
+      "start": 18.0,
+      "end": 18.46
+    },
+    {
+      "word": "mistakes",
+      "start": 18.46,
+      "end": 18.92
+    },
+    {
+      "word": "that",
+      "start": 18.92,
+      "end": 19.2
+    },
+    {
+      "word": "break",
+      "start": 19.2,
+      "end": 19.44
+    },
+    {
+      "word": "production",
+      "start": 19.44,
+      "end": 19.86
+    },
+    {
+      "word": "builds.",
+      "start": 19.86,
+      "end": 20.38
+    },
+    {
+      "word": "Cursor",
+      "start": 21.06,
+      "end": 21.16
+    },
+    {
+      "word": "background",
+      "start": 21.16,
+      "end": 21.74
+    },
+    {
+      "word": "composer",
+      "start": 21.74,
+      "end": 22.22
+    },
+    {
+      "word": "takes",
+      "start": 22.22,
+      "end": 22.56
+    },
+    {
+      "word": "your",
+      "start": 22.56,
+      "end": 22.86
+    },
+    {
+      "word": "specification",
+      "start": 22.86,
+      "end": 23.4
+    },
+    {
+      "word": "prompt,",
+      "start": 23.4,
+      "end": 24.06
+    },
+    {
+      "word": "writes",
+      "start": 24.56,
+      "end": 24.62
+    },
+    {
+      "word": "and",
+      "start": 24.62,
+      "end": 24.88
+    },
+    {
+      "word": "points",
+      "start": 24.88,
+      "end": 25.16
+    },
+    {
+      "word": "across",
+      "start": 25.16,
+      "end": 25.58
+    },
+    {
+      "word": "multiple",
+      "start": 25.58,
+      "end": 25.96
+    },
+    {
+      "word": "files",
+      "start": 25.96,
+      "end": 26.52
+    },
+    {
+      "word": "and",
+      "start": 26.52,
+      "end": 27.02
+    },
+    {
+      "word": "validates",
+      "start": 27.02,
+      "end": 27.56
+    },
+    {
+      "word": "tests",
+      "start": 27.56,
+      "end": 28.08
+    },
+    {
+      "word": "autonomously.",
+      "start": 28.08,
+      "end": 28.86
+    },
+    {
+      "word": "You",
+      "start": 28.86,
+      "end": 29.58
+    },
+    {
+      "word": "reclaim",
+      "start": 29.58,
+      "end": 29.82
+    },
+    {
+      "word": "hours",
+      "start": 29.82,
+      "end": 30.42
+    },
+    {
+      "word": "of",
+      "start": 30.42,
+      "end": 30.84
+    },
+    {
+      "word": "engineering",
+      "start": 30.84,
+      "end": 31.2
+    },
+    {
+      "word": "focus",
+      "start": 31.2,
+      "end": 31.66
+    },
+    {
+      "word": "daily.",
+      "start": 31.66,
+      "end": 31.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The newest video marketing features that take global reach to another level.",
+      "line2": "CAPCUT AI AVATAR TRANSLATION",
+      "tag": "\ud83d\uded1 CapCut desktop AI avatar and voice translation upgrades",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: CapCut desktop AI avatar and voice translation upgrades",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: CapCut desktop AI avatar and voice translation upgrades",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

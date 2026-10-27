@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "Cal.com vs Calendly: which booking scheduler is better for your business",
+  "text": "Why are tech founders leaving Calendly to host bookings on open-source Cal.com? Calendly works for basic scheduling, but growing startups hit rigid per-seat paywalls and branding restrictions. Juggling multiple organizations and custom webhook triggers becomes expensive and fragile on closed proprietary tiers. Cal.com offers self-hosting, routing forms, and open API webhooks that sync bookings with your CRM. You gain enterprise scheduling control with zero per-seat fees.",
+  "duration": 30.223,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Why",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "are",
+      "start": 0.2,
+      "end": 0.4
+    },
+    {
+      "word": "tech",
+      "start": 0.4,
+      "end": 0.58
+    },
+    {
+      "word": "founders",
+      "start": 0.58,
+      "end": 0.96
+    },
+    {
+      "word": "leaving",
+      "start": 0.96,
+      "end": 1.4
+    },
+    {
+      "word": "Callanly",
+      "start": 1.4,
+      "end": 1.86
+    },
+    {
+      "word": "to",
+      "start": 1.86,
+      "end": 2.06
+    },
+    {
+      "word": "host",
+      "start": 2.06,
+      "end": 2.34
+    },
+    {
+      "word": "bookings",
+      "start": 2.34,
+      "end": 2.74
+    },
+    {
+      "word": "on",
+      "start": 2.74,
+      "end": 2.94
+    },
+    {
+      "word": "Open",
+      "start": 2.94,
+      "end": 3.28
+    },
+    {
+      "word": "Source",
+      "start": 3.28,
+      "end": 3.6
+    },
+    {
+      "word": "Cal?",
+      "start": 3.6,
+      "end": 3.96
+    },
+    {
+      "word": "Callanly",
+      "start": 5.28,
+      "end": 5.72
+    },
+    {
+      "word": "works",
+      "start": 5.72,
+      "end": 6.02
+    },
+    {
+      "word": "for",
+      "start": 6.02,
+      "end": 6.26
+    },
+    {
+      "word": "basic",
+      "start": 6.26,
+      "end": 6.62
+    },
+    {
+      "word": "scheduling,",
+      "start": 6.62,
+      "end": 7.12
+    },
+    {
+      "word": "but",
+      "start": 7.52,
+      "end": 7.72
+    },
+    {
+      "word": "growing",
+      "start": 7.72,
+      "end": 8.12
+    },
+    {
+      "word": "startups",
+      "start": 8.12,
+      "end": 8.48
+    },
+    {
+      "word": "hit",
+      "start": 8.48,
+      "end": 8.94
+    },
+    {
+      "word": "rigid",
+      "start": 8.94,
+      "end": 9.28
+    },
+    {
+      "word": "per",
+      "start": 9.28,
+      "end": 9.52
+    },
+    {
+      "word": "seat",
+      "start": 9.52,
+      "end": 9.76
+    },
+    {
+      "word": "paywalls",
+      "start": 9.76,
+      "end": 10.26
+    },
+    {
+      "word": "and",
+      "start": 10.26,
+      "end": 10.5
+    },
+    {
+      "word": "branding",
+      "start": 10.5,
+      "end": 10.82
+    },
+    {
+      "word": "restrictions.",
+      "start": 10.82,
+      "end": 11.52
+    },
+    {
+      "word": "Juggling",
+      "start": 11.94,
+      "end": 12.3
+    },
+    {
+      "word": "multiple",
+      "start": 12.3,
+      "end": 12.74
+    },
+    {
+      "word": "organizations",
+      "start": 12.74,
+      "end": 13.4
+    },
+    {
+      "word": "and",
+      "start": 13.4,
+      "end": 13.96
+    },
+    {
+      "word": "custom",
+      "start": 13.96,
+      "end": 14.18
+    },
+    {
+      "word": "webhook",
+      "start": 14.18,
+      "end": 14.56
+    },
+    {
+      "word": "triggers",
+      "start": 14.56,
+      "end": 14.94
+    },
+    {
+      "word": "becomes",
+      "start": 14.94,
+      "end": 15.3
+    },
+    {
+      "word": "expensive",
+      "start": 15.3,
+      "end": 15.96
+    },
+    {
+      "word": "and",
+      "start": 15.96,
+      "end": 16.28
+    },
+    {
+      "word": "fragile",
+      "start": 16.28,
+      "end": 16.64
+    },
+    {
+      "word": "on",
+      "start": 16.64,
+      "end": 16.98
+    },
+    {
+      "word": "closed",
+      "start": 16.98,
+      "end": 17.3
+    },
+    {
+      "word": "proprietary",
+      "start": 17.3,
+      "end": 17.8
+    },
+    {
+      "word": "tiers.",
+      "start": 17.8,
+      "end": 18.42
+    },
+    {
+      "word": "Cal.",
+      "start": 19.0,
+      "end": 19.44
+    },
+    {
+      "word": "Calm",
+      "start": 20.04,
+      "end": 20.1
+    },
+    {
+      "word": "offers",
+      "start": 20.1,
+      "end": 20.44
+    },
+    {
+      "word": "self",
+      "start": 20.44,
+      "end": 20.8
+    },
+    {
+      "word": "-hosting,",
+      "start": 20.8,
+      "end": 21.52
+    },
+    {
+      "word": "routing",
+      "start": 21.86,
+      "end": 21.86
+    },
+    {
+      "word": "forms,",
+      "start": 21.86,
+      "end": 22.36
+    },
+    {
+      "word": "and",
+      "start": 22.62,
+      "end": 22.86
+    },
+    {
+      "word": "open",
+      "start": 22.86,
+      "end": 23.2
+    },
+    {
+      "word": "API",
+      "start": 23.2,
+      "end": 23.62
+    },
+    {
+      "word": "webhooks",
+      "start": 23.62,
+      "end": 24.28
+    },
+    {
+      "word": "that",
+      "start": 24.28,
+      "end": 24.48
+    },
+    {
+      "word": "sync",
+      "start": 24.48,
+      "end": 24.72
+    },
+    {
+      "word": "bookings",
+      "start": 24.72,
+      "end": 25.16
+    },
+    {
+      "word": "with",
+      "start": 25.16,
+      "end": 25.34
+    },
+    {
+      "word": "your",
+      "start": 25.34,
+      "end": 25.62
+    },
+    {
+      "word": "CRM.",
+      "start": 25.62,
+      "end": 26.3
+    },
+    {
+      "word": "You",
+      "start": 26.3,
+      "end": 26.82
+    },
+    {
+      "word": "gain",
+      "start": 26.82,
+      "end": 27.08
+    },
+    {
+      "word": "enterprise",
+      "start": 27.08,
+      "end": 27.62
+    },
+    {
+      "word": "scheduling",
+      "start": 27.62,
+      "end": 28.08
+    },
+    {
+      "word": "control",
+      "start": 28.08,
+      "end": 28.58
+    },
+    {
+      "word": "with",
+      "start": 28.58,
+      "end": 28.9
+    },
+    {
+      "word": "zero",
+      "start": 28.9,
+      "end": 29.3
+    },
+    {
+      "word": "per",
+      "start": 29.3,
+      "end": 29.54
+    },
+    {
+      "word": "seat",
+      "start": 29.54,
+      "end": 29.8
+    },
+    {
+      "word": "fees.",
+      "start": 29.8,
+      "end": 30.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Calendly vs Cal.com: why are tech founders leaving Calendly for the open-source alternative?",
+      "line2": "CAL.COM VS CALENDLY",
+      "tag": "\ud83d\uded1 Cal.com vs Calendly",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Cal.com vs Calendly",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Cal.com vs Calendly",
+        "subtitle": "Cal.com vs Calendly"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Cal.com vs Calendly"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Cal.com vs Calendly"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Cal.com vs Calendly",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "page": "page-04",
+  "idea": "Penpot: the free open-source Figma alternative for design teams",
+  "text": "The open-source design tool built on web standards that anyone can use completely free. Proprietary design software locks components inside private file formats that cannot be opened outside their ecosystem. When designs cannot translate into web code, front-end engineers waste hours rebuilding layouts from scratch. Instead, build interfaces in Penpot, which generates native SVG elements and clean CSS markup directly. You accelerate development handoff while maintaining complete control over your assets.",
+  "duration": 32.399,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "open",
+      "start": 0.2,
+      "end": 0.54
+    },
+    {
+      "word": "source",
+      "start": 0.54,
+      "end": 0.86
+    },
+    {
+      "word": "design",
+      "start": 0.86,
+      "end": 1.28
+    },
+    {
+      "word": "tool",
+      "start": 1.28,
+      "end": 1.64
+    },
+    {
+      "word": "built",
+      "start": 1.64,
+      "end": 1.98
+    },
+    {
+      "word": "on",
+      "start": 1.98,
+      "end": 2.18
+    },
+    {
+      "word": "web",
+      "start": 2.18,
+      "end": 2.44
+    },
+    {
+      "word": "standards",
+      "start": 2.44,
+      "end": 2.84
+    },
+    {
+      "word": "that",
+      "start": 2.84,
+      "end": 3.24
+    },
+    {
+      "word": "anyone",
+      "start": 3.24,
+      "end": 3.56
+    },
+    {
+      "word": "can",
+      "start": 3.56,
+      "end": 3.8
+    },
+    {
+      "word": "use",
+      "start": 3.8,
+      "end": 4.12
+    },
+    {
+      "word": "completely",
+      "start": 4.12,
+      "end": 4.64
+    },
+    {
+      "word": "free.",
+      "start": 4.64,
+      "end": 5.26
+    },
+    {
+      "word": "Proprietary",
+      "start": 5.72,
+      "end": 6.26
+    },
+    {
+      "word": "design",
+      "start": 6.26,
+      "end": 6.72
+    },
+    {
+      "word": "software",
+      "start": 6.72,
+      "end": 7.2
+    },
+    {
+      "word": "locks",
+      "start": 7.2,
+      "end": 7.66
+    },
+    {
+      "word": "components",
+      "start": 7.66,
+      "end": 8.18
+    },
+    {
+      "word": "inside",
+      "start": 8.18,
+      "end": 8.86
+    },
+    {
+      "word": "private",
+      "start": 8.86,
+      "end": 9.32
+    },
+    {
+      "word": "file",
+      "start": 9.32,
+      "end": 9.7
+    },
+    {
+      "word": "formats",
+      "start": 9.7,
+      "end": 10.1
+    },
+    {
+      "word": "that",
+      "start": 10.1,
+      "end": 10.6
+    },
+    {
+      "word": "cannot",
+      "start": 10.6,
+      "end": 10.86
+    },
+    {
+      "word": "be",
+      "start": 10.86,
+      "end": 11.06
+    },
+    {
+      "word": "opened",
+      "start": 11.06,
+      "end": 11.36
+    },
+    {
+      "word": "outside",
+      "start": 11.36,
+      "end": 11.84
+    },
+    {
+      "word": "their",
+      "start": 11.84,
+      "end": 12.24
+    },
+    {
+      "word": "ecosystem.",
+      "start": 12.24,
+      "end": 12.76
+    },
+    {
+      "word": "When",
+      "start": 13.22,
+      "end": 13.34
+    },
+    {
+      "word": "designs",
+      "start": 13.34,
+      "end": 13.72
+    },
+    {
+      "word": "cannot",
+      "start": 13.72,
+      "end": 14.16
+    },
+    {
+      "word": "translate",
+      "start": 14.16,
+      "end": 14.62
+    },
+    {
+      "word": "into",
+      "start": 14.62,
+      "end": 14.88
+    },
+    {
+      "word": "web",
+      "start": 14.88,
+      "end": 15.1
+    },
+    {
+      "word": "code,",
+      "start": 15.1,
+      "end": 15.5
+    },
+    {
+      "word": "front",
+      "start": 15.98,
+      "end": 16.08
+    },
+    {
+      "word": "-end",
+      "start": 16.08,
+      "end": 16.32
+    },
+    {
+      "word": "engineers",
+      "start": 16.32,
+      "end": 16.72
+    },
+    {
+      "word": "waste",
+      "start": 16.72,
+      "end": 17.2
+    },
+    {
+      "word": "hours",
+      "start": 17.2,
+      "end": 17.62
+    },
+    {
+      "word": "rebuilding",
+      "start": 17.62,
+      "end": 18.02
+    },
+    {
+      "word": "layouts",
+      "start": 18.02,
+      "end": 18.48
+    },
+    {
+      "word": "from",
+      "start": 18.48,
+      "end": 18.86
+    },
+    {
+      "word": "scratch.",
+      "start": 18.86,
+      "end": 19.36
+    },
+    {
+      "word": "Instead,",
+      "start": 20.02,
+      "end": 20.34
+    },
+    {
+      "word": "build",
+      "start": 20.88,
+      "end": 21.04
+    },
+    {
+      "word": "interfaces",
+      "start": 21.04,
+      "end": 21.58
+    },
+    {
+      "word": "in",
+      "start": 21.58,
+      "end": 21.98
+    },
+    {
+      "word": "penpot,",
+      "start": 21.98,
+      "end": 22.48
+    },
+    {
+      "word": "which",
+      "start": 22.84,
+      "end": 22.96
+    },
+    {
+      "word": "generates",
+      "start": 22.96,
+      "end": 23.38
+    },
+    {
+      "word": "native",
+      "start": 23.38,
+      "end": 23.86
+    },
+    {
+      "word": "SVG",
+      "start": 23.86,
+      "end": 24.42
+    },
+    {
+      "word": "elements",
+      "start": 24.42,
+      "end": 24.98
+    },
+    {
+      "word": "and",
+      "start": 24.98,
+      "end": 25.28
+    },
+    {
+      "word": "clean",
+      "start": 25.28,
+      "end": 25.7
+    },
+    {
+      "word": "CSS",
+      "start": 25.7,
+      "end": 26.12
+    },
+    {
+      "word": "markup",
+      "start": 26.12,
+      "end": 26.68
+    },
+    {
+      "word": "directly.",
+      "start": 26.68,
+      "end": 27.24
+    },
+    {
+      "word": "You",
+      "start": 27.84,
+      "end": 28.0
+    },
+    {
+      "word": "accelerate",
+      "start": 28.0,
+      "end": 28.44
+    },
+    {
+      "word": "development",
+      "start": 28.44,
+      "end": 28.86
+    },
+    {
+      "word": "handoff",
+      "start": 28.86,
+      "end": 29.52
+    },
+    {
+      "word": "while",
+      "start": 29.52,
+      "end": 30.0
+    },
+    {
+      "word": "maintaining",
+      "start": 30.0,
+      "end": 30.48
+    },
+    {
+      "word": "complete",
+      "start": 30.48,
+      "end": 30.94
+    },
+    {
+      "word": "control",
+      "start": 30.94,
+      "end": 31.48
+    },
+    {
+      "word": "over",
+      "start": 31.48,
+      "end": 31.72
+    },
+    {
+      "word": "your",
+      "start": 31.72,
+      "end": 32.02
+    },
+    {
+      "word": "assets.",
+      "start": 32.02,
+      "end": 32.2
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The open-source design tool built on web standards that anyone can use free.",
+      "line2": "FREE FIGMA ALTERNATIVE",
+      "tag": "\ud83d\uded1 Penpot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Penpot",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Penpot",
+        "subtitle": "Penpot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Penpot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Penpot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Penpot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

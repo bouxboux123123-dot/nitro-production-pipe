@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated social media scheduling for print-on-demand products",
+  "text": "The exact repurposing workflow that syndicates one article across five platforms instantly. Publishing a detailed article to zero readership because you lacked time to distribute snippets is heartbreaking. Cross-posting raw article links gets penalized by social algorithms that favor native copy. Use Make and ChatGPT to transform published URLs into tailored LinkedIn carousels and X threads simultaneously. This maximizes reach on autopilot while saving ten hours every week.",
+  "duration": 31.055,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "exact",
+      "start": 0.22,
+      "end": 0.64
+    },
+    {
+      "word": "repurposing",
+      "start": 0.64,
+      "end": 1.18
+    },
+    {
+      "word": "workflow",
+      "start": 1.18,
+      "end": 1.72
+    },
+    {
+      "word": "that",
+      "start": 1.72,
+      "end": 2.04
+    },
+    {
+      "word": "syndicates",
+      "start": 2.04,
+      "end": 2.52
+    },
+    {
+      "word": "one",
+      "start": 2.52,
+      "end": 2.94
+    },
+    {
+      "word": "article",
+      "start": 2.94,
+      "end": 3.22
+    },
+    {
+      "word": "across",
+      "start": 3.22,
+      "end": 3.64
+    },
+    {
+      "word": "five",
+      "start": 3.64,
+      "end": 4.04
+    },
+    {
+      "word": "platforms",
+      "start": 4.04,
+      "end": 4.5
+    },
+    {
+      "word": "instantly.",
+      "start": 4.5,
+      "end": 5.26
+    },
+    {
+      "word": "Publishing",
+      "start": 6.04,
+      "end": 6.06
+    },
+    {
+      "word": "a",
+      "start": 6.06,
+      "end": 6.4
+    },
+    {
+      "word": "detailed",
+      "start": 6.4,
+      "end": 6.84
+    },
+    {
+      "word": "article",
+      "start": 6.84,
+      "end": 7.26
+    },
+    {
+      "word": "to",
+      "start": 7.26,
+      "end": 7.52
+    },
+    {
+      "word": "zero",
+      "start": 7.52,
+      "end": 7.92
+    },
+    {
+      "word": "readership",
+      "start": 7.92,
+      "end": 8.5
+    },
+    {
+      "word": "because",
+      "start": 8.5,
+      "end": 8.94
+    },
+    {
+      "word": "you",
+      "start": 8.94,
+      "end": 9.14
+    },
+    {
+      "word": "lack",
+      "start": 9.14,
+      "end": 9.36
+    },
+    {
+      "word": "time",
+      "start": 9.36,
+      "end": 9.7
+    },
+    {
+      "word": "to",
+      "start": 9.7,
+      "end": 10.0
+    },
+    {
+      "word": "distribute",
+      "start": 10.0,
+      "end": 10.38
+    },
+    {
+      "word": "snippets",
+      "start": 10.38,
+      "end": 10.86
+    },
+    {
+      "word": "is",
+      "start": 10.86,
+      "end": 11.44
+    },
+    {
+      "word": "heartbreaking.",
+      "start": 11.44,
+      "end": 11.92
+    },
+    {
+      "word": "Cross",
+      "start": 12.88,
+      "end": 12.96
+    },
+    {
+      "word": "-posting",
+      "start": 12.96,
+      "end": 13.4
+    },
+    {
+      "word": "raw",
+      "start": 13.4,
+      "end": 13.7
+    },
+    {
+      "word": "article",
+      "start": 13.7,
+      "end": 14.06
+    },
+    {
+      "word": "links",
+      "start": 14.06,
+      "end": 14.4
+    },
+    {
+      "word": "gets",
+      "start": 14.4,
+      "end": 14.8
+    },
+    {
+      "word": "penalized",
+      "start": 14.8,
+      "end": 15.34
+    },
+    {
+      "word": "by",
+      "start": 15.34,
+      "end": 15.68
+    },
+    {
+      "word": "social",
+      "start": 15.68,
+      "end": 16.1
+    },
+    {
+      "word": "algorithms",
+      "start": 16.1,
+      "end": 16.54
+    },
+    {
+      "word": "that",
+      "start": 16.54,
+      "end": 17.0
+    },
+    {
+      "word": "favor",
+      "start": 17.0,
+      "end": 17.26
+    },
+    {
+      "word": "native",
+      "start": 17.26,
+      "end": 17.62
+    },
+    {
+      "word": "copy.",
+      "start": 17.62,
+      "end": 18.08
+    },
+    {
+      "word": "Use",
+      "start": 18.6,
+      "end": 18.66
+    },
+    {
+      "word": "Make",
+      "start": 18.66,
+      "end": 18.92
+    },
+    {
+      "word": "and",
+      "start": 18.92,
+      "end": 19.16
+    },
+    {
+      "word": "Chat",
+      "start": 19.16,
+      "end": 19.48
+    },
+    {
+      "word": "GPT",
+      "start": 19.48,
+      "end": 20.04
+    },
+    {
+      "word": "to",
+      "start": 20.04,
+      "end": 20.38
+    },
+    {
+      "word": "transform",
+      "start": 20.38,
+      "end": 21.02
+    },
+    {
+      "word": "published",
+      "start": 21.02,
+      "end": 21.5
+    },
+    {
+      "word": "URLs",
+      "start": 21.5,
+      "end": 22.06
+    },
+    {
+      "word": "into",
+      "start": 22.06,
+      "end": 22.46
+    },
+    {
+      "word": "tailored",
+      "start": 22.46,
+      "end": 22.82
+    },
+    {
+      "word": "linked",
+      "start": 22.82,
+      "end": 23.2
+    },
+    {
+      "word": "in",
+      "start": 23.2,
+      "end": 23.48
+    },
+    {
+      "word": "carousels",
+      "start": 23.48,
+      "end": 24.0
+    },
+    {
+      "word": "and",
+      "start": 24.0,
+      "end": 24.48
+    },
+    {
+      "word": "X",
+      "start": 24.48,
+      "end": 24.7
+    },
+    {
+      "word": "-threads",
+      "start": 24.7,
+      "end": 25.56
+    },
+    {
+      "word": "simultaneously.",
+      "start": 25.56,
+      "end": 25.92
+    },
+    {
+      "word": "This",
+      "start": 25.92,
+      "end": 27.02
+    },
+    {
+      "word": "maximizes",
+      "start": 27.02,
+      "end": 27.84
+    },
+    {
+      "word": "reach",
+      "start": 27.84,
+      "end": 28.2
+    },
+    {
+      "word": "on",
+      "start": 28.2,
+      "end": 28.44
+    },
+    {
+      "word": "autopilot",
+      "start": 28.44,
+      "end": 29.04
+    },
+    {
+      "word": "while",
+      "start": 29.04,
+      "end": 29.42
+    },
+    {
+      "word": "saving",
+      "start": 29.42,
+      "end": 29.72
+    },
+    {
+      "word": "10",
+      "start": 29.72,
+      "end": 30.08
+    },
+    {
+      "word": "hours",
+      "start": 30.08,
+      "end": 30.4
+    },
+    {
+      "word": "every",
+      "start": 30.4,
+      "end": 30.72
+    },
+    {
+      "word": "week.",
+      "start": 30.72,
+      "end": 31.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The automated content workflow that keeps your store visible 24/7.",
+      "line2": "AUTO-SCHEDULE SOCIAL POSTS",
+      "tag": "\ud83d\uded1 Automated social media scheduling for print-on-demand products",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: Automated social media scheduling for print-on-demand products",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: Automated social media scheduling for print-on-demand products",
+        "subtitle": "Automated social media scheduling for print-on-demand products"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "Automated social media scheduling for print-on-demand products"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "Automated social media scheduling for print-on-demand products"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "Automated social media scheduling for print-on-demand products",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

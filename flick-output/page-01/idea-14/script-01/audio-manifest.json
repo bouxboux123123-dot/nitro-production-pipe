@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated creative asset tagging and DAM library for agency designers",
+  "text": "Here is how design agencies organize 50,000 raw video clips, logos, and fonts across thirty clients. Editors waste hours digging through messy Drive folders, guessing versions, and begging teammates for vector assets. Unstructured cloud storage lacks metadata tagging, creating painful bottlenecks and duplicated creative work. Connect Google Drive to Brandfolder using Make to automatically tag and index every incoming asset. Your team locates any file in five seconds.",
+  "duration": 30.031,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "how",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "design",
+      "start": 0.66,
+      "end": 1.0
+    },
+    {
+      "word": "agencies",
+      "start": 1.0,
+      "end": 1.54
+    },
+    {
+      "word": "organize",
+      "start": 1.54,
+      "end": 2.1
+    },
+    {
+      "word": "50",
+      "start": 2.1,
+      "end": 2.62
+    },
+    {
+      "word": ",000",
+      "start": 2.62,
+      "end": 2.88
+    },
+    {
+      "word": "raw",
+      "start": 2.88,
+      "end": 3.14
+    },
+    {
+      "word": "video",
+      "start": 3.14,
+      "end": 3.48
+    },
+    {
+      "word": "clips,",
+      "start": 3.48,
+      "end": 3.88
+    },
+    {
+      "word": "logos,",
+      "start": 4.28,
+      "end": 4.56
+    },
+    {
+      "word": "and",
+      "start": 4.9,
+      "end": 5.12
+    },
+    {
+      "word": "fonts",
+      "start": 5.12,
+      "end": 5.36
+    },
+    {
+      "word": "across",
+      "start": 5.36,
+      "end": 5.76
+    },
+    {
+      "word": "30",
+      "start": 5.76,
+      "end": 6.12
+    },
+    {
+      "word": "clients.",
+      "start": 6.12,
+      "end": 6.7
+    },
+    {
+      "word": "Editors",
+      "start": 7.48,
+      "end": 7.56
+    },
+    {
+      "word": "waste",
+      "start": 7.56,
+      "end": 8.06
+    },
+    {
+      "word": "hours",
+      "start": 8.06,
+      "end": 8.52
+    },
+    {
+      "word": "digging",
+      "start": 8.52,
+      "end": 8.84
+    },
+    {
+      "word": "through",
+      "start": 8.84,
+      "end": 9.16
+    },
+    {
+      "word": "messy",
+      "start": 9.16,
+      "end": 9.38
+    },
+    {
+      "word": "drive",
+      "start": 9.38,
+      "end": 9.82
+    },
+    {
+      "word": "folders,",
+      "start": 9.82,
+      "end": 10.24
+    },
+    {
+      "word": "guessing",
+      "start": 10.78,
+      "end": 10.98
+    },
+    {
+      "word": "versions,",
+      "start": 10.98,
+      "end": 11.5
+    },
+    {
+      "word": "and",
+      "start": 11.72,
+      "end": 11.92
+    },
+    {
+      "word": "begging",
+      "start": 11.92,
+      "end": 12.18
+    },
+    {
+      "word": "teammates",
+      "start": 12.18,
+      "end": 12.58
+    },
+    {
+      "word": "for",
+      "start": 12.58,
+      "end": 12.9
+    },
+    {
+      "word": "vector",
+      "start": 12.9,
+      "end": 13.2
+    },
+    {
+      "word": "assets.",
+      "start": 13.2,
+      "end": 13.66
+    },
+    {
+      "word": "Unstructured",
+      "start": 14.18,
+      "end": 14.66
+    },
+    {
+      "word": "cloud",
+      "start": 14.66,
+      "end": 15.1
+    },
+    {
+      "word": "storage",
+      "start": 15.1,
+      "end": 15.56
+    },
+    {
+      "word": "lacks",
+      "start": 15.56,
+      "end": 15.98
+    },
+    {
+      "word": "metadata",
+      "start": 15.98,
+      "end": 16.34
+    },
+    {
+      "word": "tagging,",
+      "start": 16.34,
+      "end": 16.84
+    },
+    {
+      "word": "creating",
+      "start": 17.66,
+      "end": 17.68
+    },
+    {
+      "word": "painful",
+      "start": 17.68,
+      "end": 18.18
+    },
+    {
+      "word": "bottlenecks",
+      "start": 18.18,
+      "end": 18.82
+    },
+    {
+      "word": "and",
+      "start": 18.82,
+      "end": 19.14
+    },
+    {
+      "word": "duplicated",
+      "start": 19.14,
+      "end": 19.74
+    },
+    {
+      "word": "creative",
+      "start": 19.74,
+      "end": 20.22
+    },
+    {
+      "word": "work.",
+      "start": 20.22,
+      "end": 20.76
+    },
+    {
+      "word": "Connect",
+      "start": 21.2,
+      "end": 21.5
+    },
+    {
+      "word": "Google",
+      "start": 21.5,
+      "end": 21.9
+    },
+    {
+      "word": "Drive",
+      "start": 21.9,
+      "end": 22.28
+    },
+    {
+      "word": "to",
+      "start": 22.28,
+      "end": 22.52
+    },
+    {
+      "word": "brand",
+      "start": 22.52,
+      "end": 22.8
+    },
+    {
+      "word": "folder",
+      "start": 22.8,
+      "end": 23.06
+    },
+    {
+      "word": "using",
+      "start": 23.06,
+      "end": 23.52
+    },
+    {
+      "word": "make",
+      "start": 23.52,
+      "end": 23.76
+    },
+    {
+      "word": "to",
+      "start": 23.76,
+      "end": 24.1
+    },
+    {
+      "word": "automatically",
+      "start": 24.1,
+      "end": 24.48
+    },
+    {
+      "word": "tag",
+      "start": 24.48,
+      "end": 25.08
+    },
+    {
+      "word": "and",
+      "start": 25.08,
+      "end": 25.36
+    },
+    {
+      "word": "index",
+      "start": 25.36,
+      "end": 25.6
+    },
+    {
+      "word": "every",
+      "start": 25.6,
+      "end": 26.06
+    },
+    {
+      "word": "incoming",
+      "start": 26.06,
+      "end": 26.46
+    },
+    {
+      "word": "asset.",
+      "start": 26.46,
+      "end": 27.02
+    },
+    {
+      "word": "Your",
+      "start": 27.02,
+      "end": 27.68
+    },
+    {
+      "word": "team",
+      "start": 27.68,
+      "end": 28.0
+    },
+    {
+      "word": "locates",
+      "start": 28.0,
+      "end": 28.44
+    },
+    {
+      "word": "any",
+      "start": 28.44,
+      "end": 28.7
+    },
+    {
+      "word": "file",
+      "start": 28.7,
+      "end": 29.02
+    },
+    {
+      "word": "in",
+      "start": 29.02,
+      "end": 29.26
+    },
+    {
+      "word": "five",
+      "start": 29.26,
+      "end": 29.58
+    },
+    {
+      "word": "seconds.",
+      "start": 29.58,
+      "end": 29.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How design agencies manage 50,000 raw video clips, logos, and fonts across 30 clients.",
+      "line2": "AUTO-TAG CREATIVE ASSETS",
+      "tag": "\ud83d\uded1 Automated creative asset tagging and DAM library for agency designers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated creative asset tagging and DAM library for agency designers",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated creative asset tagging and DAM library for agency designers",
+        "subtitle": "Automated creative asset tagging and DAM library for agency designers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated creative asset tagging and DAM library for agency designers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated creative asset tagging and DAM library for agency designers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated creative asset tagging and DAM library for agency designers",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

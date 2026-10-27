@@ -1,0 +1,421 @@
+{
+  "page": "page-01",
+  "idea": "Agency hiring scorecard system for evaluating creative talent",
+  "text": "The hiring vetting system that builds a dependable, high-output creative bench for growing agencies. Creative bottlenecks occur when founders spend all week reviewing mediocre design submissions instead of closing retainers. Without automated screening filters, leadership wastes twenty hours monthly reviewing unqualified applicants and messy test files. Route applicant test submissions through Make to an Airtable scoring board that calculates composite grades automatically. You protect executive time and onboard top talent effortlessly.",
+  "duration": 32.677,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "hiring",
+      "start": 0.24,
+      "end": 0.56
+    },
+    {
+      "word": "vetting",
+      "start": 0.56,
+      "end": 0.9
+    },
+    {
+      "word": "system",
+      "start": 0.9,
+      "end": 1.34
+    },
+    {
+      "word": "that",
+      "start": 1.34,
+      "end": 1.66
+    },
+    {
+      "word": "builds",
+      "start": 1.66,
+      "end": 1.88
+    },
+    {
+      "word": "a",
+      "start": 1.88,
+      "end": 2.14
+    },
+    {
+      "word": "dependable,",
+      "start": 2.14,
+      "end": 2.84
+    },
+    {
+      "word": "high",
+      "start": 2.94,
+      "end": 3.16
+    },
+    {
+      "word": "output",
+      "start": 3.16,
+      "end": 3.5
+    },
+    {
+      "word": "creative",
+      "start": 3.5,
+      "end": 4.04
+    },
+    {
+      "word": "bench",
+      "start": 4.04,
+      "end": 4.36
+    },
+    {
+      "word": "for",
+      "start": 4.36,
+      "end": 4.66
+    },
+    {
+      "word": "growing",
+      "start": 4.66,
+      "end": 5.04
+    },
+    {
+      "word": "agencies.",
+      "start": 5.04,
+      "end": 5.76
+    },
+    {
+      "word": "Creative",
+      "start": 6.76,
+      "end": 6.76
+    },
+    {
+      "word": "bottlenecks",
+      "start": 6.76,
+      "end": 7.46
+    },
+    {
+      "word": "occur",
+      "start": 7.46,
+      "end": 7.76
+    },
+    {
+      "word": "when",
+      "start": 7.76,
+      "end": 8.04
+    },
+    {
+      "word": "founders",
+      "start": 8.04,
+      "end": 8.52
+    },
+    {
+      "word": "spend",
+      "start": 8.52,
+      "end": 8.92
+    },
+    {
+      "word": "all",
+      "start": 8.92,
+      "end": 9.26
+    },
+    {
+      "word": "-week",
+      "start": 9.26,
+      "end": 9.56
+    },
+    {
+      "word": "reviewing",
+      "start": 9.56,
+      "end": 10.0
+    },
+    {
+      "word": "mediocre",
+      "start": 10.0,
+      "end": 10.48
+    },
+    {
+      "word": "design",
+      "start": 10.48,
+      "end": 11.0
+    },
+    {
+      "word": "submissions",
+      "start": 11.0,
+      "end": 11.64
+    },
+    {
+      "word": "instead",
+      "start": 11.64,
+      "end": 12.22
+    },
+    {
+      "word": "of",
+      "start": 12.22,
+      "end": 12.48
+    },
+    {
+      "word": "closing",
+      "start": 12.48,
+      "end": 12.86
+    },
+    {
+      "word": "retainers.",
+      "start": 12.86,
+      "end": 13.56
+    },
+    {
+      "word": "Without",
+      "start": 13.88,
+      "end": 14.2
+    },
+    {
+      "word": "automated",
+      "start": 14.2,
+      "end": 14.6
+    },
+    {
+      "word": "screening",
+      "start": 14.6,
+      "end": 15.08
+    },
+    {
+      "word": "filters,",
+      "start": 15.08,
+      "end": 15.58
+    },
+    {
+      "word": "leadership",
+      "start": 16.16,
+      "end": 16.26
+    },
+    {
+      "word": "wastes",
+      "start": 16.26,
+      "end": 16.74
+    },
+    {
+      "word": "20",
+      "start": 16.74,
+      "end": 17.16
+    },
+    {
+      "word": "hours",
+      "start": 17.16,
+      "end": 17.52
+    },
+    {
+      "word": "monthly",
+      "start": 17.52,
+      "end": 17.96
+    },
+    {
+      "word": "reviewing",
+      "start": 17.96,
+      "end": 18.42
+    },
+    {
+      "word": "unqualified",
+      "start": 18.42,
+      "end": 19.22
+    },
+    {
+      "word": "applicants",
+      "start": 19.22,
+      "end": 19.8
+    },
+    {
+      "word": "and",
+      "start": 19.8,
+      "end": 20.28
+    },
+    {
+      "word": "messy",
+      "start": 20.28,
+      "end": 20.28
+    },
+    {
+      "word": "test",
+      "start": 20.28,
+      "end": 20.66
+    },
+    {
+      "word": "files.",
+      "start": 20.66,
+      "end": 21.1
+    },
+    {
+      "word": "Route",
+      "start": 21.72,
+      "end": 22.02
+    },
+    {
+      "word": "applicant",
+      "start": 22.02,
+      "end": 22.48
+    },
+    {
+      "word": "test",
+      "start": 22.48,
+      "end": 22.76
+    },
+    {
+      "word": "submissions",
+      "start": 22.76,
+      "end": 23.3
+    },
+    {
+      "word": "through",
+      "start": 23.3,
+      "end": 23.74
+    },
+    {
+      "word": "make",
+      "start": 23.74,
+      "end": 23.92
+    },
+    {
+      "word": "to",
+      "start": 23.92,
+      "end": 24.1
+    },
+    {
+      "word": "an",
+      "start": 24.1,
+      "end": 24.3
+    },
+    {
+      "word": "irritable",
+      "start": 24.3,
+      "end": 24.76
+    },
+    {
+      "word": "scoring",
+      "start": 24.76,
+      "end": 25.18
+    },
+    {
+      "word": "board",
+      "start": 25.18,
+      "end": 25.58
+    },
+    {
+      "word": "that",
+      "start": 25.58,
+      "end": 26.0
+    },
+    {
+      "word": "calculates",
+      "start": 26.0,
+      "end": 26.52
+    },
+    {
+      "word": "composite",
+      "start": 26.52,
+      "end": 27.14
+    },
+    {
+      "word": "grades",
+      "start": 27.14,
+      "end": 27.6
+    },
+    {
+      "word": "automatically.",
+      "start": 27.6,
+      "end": 28.2
+    },
+    {
+      "word": "You",
+      "start": 28.53,
+      "end": 28.96
+    },
+    {
+      "word": "protect",
+      "start": 28.96,
+      "end": 29.34
+    },
+    {
+      "word": "executive",
+      "start": 29.34,
+      "end": 29.88
+    },
+    {
+      "word": "time",
+      "start": 29.88,
+      "end": 30.44
+    },
+    {
+      "word": "and",
+      "start": 30.44,
+      "end": 30.82
+    },
+    {
+      "word": "onboard",
+      "start": 30.82,
+      "end": 31.22
+    },
+    {
+      "word": "top",
+      "start": 31.22,
+      "end": 31.68
+    },
+    {
+      "word": "talent",
+      "start": 31.68,
+      "end": 32.06
+    },
+    {
+      "word": "effortlessly.",
+      "start": 32.06,
+      "end": 32.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The hiring vetting system that builds a dependable, high-output creative bench.",
+      "line2": "CREATIVE HIRING SCORECARDS",
+      "tag": "\ud83d\uded1 Agency hiring scorecard system for evaluating creative talent",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Agency hiring scorecard system for evaluating creative talent",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Agency hiring scorecard system for evaluating creative talent",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

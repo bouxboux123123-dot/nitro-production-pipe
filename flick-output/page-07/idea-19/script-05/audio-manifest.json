@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Automated SOC2 compliance evidence collector for enterprise sales",
+  "text": "Win six-figure corporate contracts without getting trapped in the annual security audit nightmare. Large enterprise buyers reject promising software vendors immediately if SOC2 Type Two reports are missing. Scrambling to patch access controls at the finish line stalls revenue and frustrates enterprise procurement leads. Integrate Drata with GitHub branch protections and cloud infrastructure to enforce automated continuous compliance. You close massive enterprise deals with complete confidence.",
+  "duration": 30.287,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "win",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "six",
+      "start": 0.3,
+      "end": 0.66
+    },
+    {
+      "word": "-figure",
+      "start": 0.66,
+      "end": 0.94
+    },
+    {
+      "word": "corporate",
+      "start": 0.94,
+      "end": 1.36
+    },
+    {
+      "word": "contracts",
+      "start": 1.36,
+      "end": 1.88
+    },
+    {
+      "word": "without",
+      "start": 1.88,
+      "end": 2.22
+    },
+    {
+      "word": "getting",
+      "start": 2.22,
+      "end": 2.58
+    },
+    {
+      "word": "trapped",
+      "start": 2.58,
+      "end": 2.88
+    },
+    {
+      "word": "in",
+      "start": 2.88,
+      "end": 3.1
+    },
+    {
+      "word": "the",
+      "start": 3.1,
+      "end": 3.3
+    },
+    {
+      "word": "annual",
+      "start": 3.3,
+      "end": 3.56
+    },
+    {
+      "word": "security",
+      "start": 3.56,
+      "end": 4.1
+    },
+    {
+      "word": "audit",
+      "start": 4.1,
+      "end": 4.4
+    },
+    {
+      "word": "nightmare.",
+      "start": 4.4,
+      "end": 5.04
+    },
+    {
+      "word": "Large",
+      "start": 5.94,
+      "end": 5.96
+    },
+    {
+      "word": "enterprise",
+      "start": 5.96,
+      "end": 6.46
+    },
+    {
+      "word": "buyers",
+      "start": 6.46,
+      "end": 7.06
+    },
+    {
+      "word": "reject",
+      "start": 7.06,
+      "end": 7.68
+    },
+    {
+      "word": "promising",
+      "start": 7.68,
+      "end": 8.2
+    },
+    {
+      "word": "software",
+      "start": 8.2,
+      "end": 8.68
+    },
+    {
+      "word": "vendors",
+      "start": 8.68,
+      "end": 9.16
+    },
+    {
+      "word": "immediately",
+      "start": 9.16,
+      "end": 9.76
+    },
+    {
+      "word": "if",
+      "start": 9.76,
+      "end": 10.28
+    },
+    {
+      "word": "SOC",
+      "start": 10.28,
+      "end": 10.56
+    },
+    {
+      "word": "-2",
+      "start": 10.56,
+      "end": 11.1
+    },
+    {
+      "word": "type",
+      "start": 11.1,
+      "end": 11.36
+    },
+    {
+      "word": "-2",
+      "start": 11.36,
+      "end": 11.64
+    },
+    {
+      "word": "reports",
+      "start": 11.64,
+      "end": 12.02
+    },
+    {
+      "word": "are",
+      "start": 12.02,
+      "end": 12.72
+    },
+    {
+      "word": "missing.",
+      "start": 12.72,
+      "end": 12.72
+    },
+    {
+      "word": "Scrambling",
+      "start": 12.96,
+      "end": 13.42
+    },
+    {
+      "word": "to",
+      "start": 13.42,
+      "end": 13.64
+    },
+    {
+      "word": "patch",
+      "start": 13.64,
+      "end": 13.92
+    },
+    {
+      "word": "access",
+      "start": 13.92,
+      "end": 14.28
+    },
+    {
+      "word": "controls",
+      "start": 14.28,
+      "end": 14.74
+    },
+    {
+      "word": "at",
+      "start": 14.74,
+      "end": 14.94
+    },
+    {
+      "word": "the",
+      "start": 14.94,
+      "end": 15.1
+    },
+    {
+      "word": "finish",
+      "start": 15.1,
+      "end": 15.28
+    },
+    {
+      "word": "line",
+      "start": 15.28,
+      "end": 15.66
+    },
+    {
+      "word": "stalls",
+      "start": 15.66,
+      "end": 16.24
+    },
+    {
+      "word": "revenue",
+      "start": 16.24,
+      "end": 16.64
+    },
+    {
+      "word": "and",
+      "start": 16.64,
+      "end": 17.06
+    },
+    {
+      "word": "frustrates",
+      "start": 17.06,
+      "end": 17.62
+    },
+    {
+      "word": "enterprise",
+      "start": 17.62,
+      "end": 18.18
+    },
+    {
+      "word": "procurement",
+      "start": 18.18,
+      "end": 18.64
+    },
+    {
+      "word": "leads.",
+      "start": 18.64,
+      "end": 19.28
+    },
+    {
+      "word": "Integrate",
+      "start": 19.84,
+      "end": 20.08
+    },
+    {
+      "word": "data",
+      "start": 20.08,
+      "end": 20.4
+    },
+    {
+      "word": "with",
+      "start": 20.4,
+      "end": 20.74
+    },
+    {
+      "word": "GitHub",
+      "start": 20.74,
+      "end": 21.18
+    },
+    {
+      "word": "branch",
+      "start": 21.18,
+      "end": 21.48
+    },
+    {
+      "word": "protections",
+      "start": 21.48,
+      "end": 22.04
+    },
+    {
+      "word": "and",
+      "start": 22.04,
+      "end": 22.6
+    },
+    {
+      "word": "cloud",
+      "start": 22.6,
+      "end": 22.96
+    },
+    {
+      "word": "infrastructure",
+      "start": 22.96,
+      "end": 23.62
+    },
+    {
+      "word": "to",
+      "start": 23.62,
+      "end": 24.28
+    },
+    {
+      "word": "enforce",
+      "start": 24.28,
+      "end": 24.76
+    },
+    {
+      "word": "automated",
+      "start": 24.76,
+      "end": 25.22
+    },
+    {
+      "word": "continuous",
+      "start": 25.22,
+      "end": 25.84
+    },
+    {
+      "word": "compliance.",
+      "start": 25.84,
+      "end": 26.44
+    },
+    {
+      "word": "You",
+      "start": 26.44,
+      "end": 27.22
+    },
+    {
+      "word": "close",
+      "start": 27.22,
+      "end": 27.52
+    },
+    {
+      "word": "massive",
+      "start": 27.52,
+      "end": 27.98
+    },
+    {
+      "word": "enterprise",
+      "start": 27.98,
+      "end": 28.48
+    },
+    {
+      "word": "deals",
+      "start": 28.48,
+      "end": 28.92
+    },
+    {
+      "word": "with",
+      "start": 28.92,
+      "end": 29.34
+    },
+    {
+      "word": "complete",
+      "start": 29.34,
+      "end": 29.64
+    },
+    {
+      "word": "confidence.",
+      "start": 29.64,
+      "end": 30.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Win six-figure corporate contracts without the audit nightmare.",
+      "line2": "COLLECT SOC2 EVIDENCE",
+      "tag": "\ud83d\uded1 Automated SOC2 compliance evidence collector for enterprise sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

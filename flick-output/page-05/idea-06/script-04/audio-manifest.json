@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Fillout smart forms that pre-fill existing user data dynamically",
+  "text": "The best no-code form builder that connects seamlessly to your Airtable database. Standard form tools create isolated data silos, requiring brittle Zapier steps just to sync custom fields. When zaps fail silently in the background, lead data drops and client onboarding completely halts. Instead, switch to Fillout for native two-way sync that updates Airtable records without intermediary connectors. Your intake pipeline runs flawlessly on autopilot.",
+  "duration": 25.92,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "best",
+      "start": 0.18,
+      "end": 0.38
+    },
+    {
+      "word": "no",
+      "start": 0.38,
+      "end": 0.64
+    },
+    {
+      "word": "-code",
+      "start": 0.64,
+      "end": 0.88
+    },
+    {
+      "word": "form",
+      "start": 0.88,
+      "end": 1.14
+    },
+    {
+      "word": "builder",
+      "start": 1.14,
+      "end": 1.36
+    },
+    {
+      "word": "that",
+      "start": 1.36,
+      "end": 1.68
+    },
+    {
+      "word": "connects",
+      "start": 1.68,
+      "end": 2.0
+    },
+    {
+      "word": "seamlessly",
+      "start": 2.0,
+      "end": 2.44
+    },
+    {
+      "word": "to",
+      "start": 2.44,
+      "end": 2.68
+    },
+    {
+      "word": "your",
+      "start": 2.68,
+      "end": 2.88
+    },
+    {
+      "word": "Airtable",
+      "start": 2.88,
+      "end": 3.26
+    },
+    {
+      "word": "database.",
+      "start": 3.26,
+      "end": 3.76
+    },
+    {
+      "word": "Standard",
+      "start": 4.64,
+      "end": 4.68
+    },
+    {
+      "word": "form",
+      "start": 4.68,
+      "end": 4.98
+    },
+    {
+      "word": "tools",
+      "start": 4.98,
+      "end": 5.32
+    },
+    {
+      "word": "create",
+      "start": 5.32,
+      "end": 5.68
+    },
+    {
+      "word": "isolated",
+      "start": 5.68,
+      "end": 6.1
+    },
+    {
+      "word": "data",
+      "start": 6.1,
+      "end": 6.46
+    },
+    {
+      "word": "silos,",
+      "start": 6.46,
+      "end": 7.04
+    },
+    {
+      "word": "requiring",
+      "start": 7.36,
+      "end": 7.72
+    },
+    {
+      "word": "brittle",
+      "start": 7.72,
+      "end": 8.06
+    },
+    {
+      "word": "Zapier",
+      "start": 8.06,
+      "end": 8.56
+    },
+    {
+      "word": "steps",
+      "start": 8.56,
+      "end": 8.74
+    },
+    {
+      "word": "just",
+      "start": 8.74,
+      "end": 9.12
+    },
+    {
+      "word": "to",
+      "start": 9.12,
+      "end": 9.22
+    },
+    {
+      "word": "sync",
+      "start": 9.22,
+      "end": 9.42
+    },
+    {
+      "word": "custom",
+      "start": 9.42,
+      "end": 9.74
+    },
+    {
+      "word": "fields.",
+      "start": 9.74,
+      "end": 10.16
+    },
+    {
+      "word": "When",
+      "start": 10.68,
+      "end": 10.88
+    },
+    {
+      "word": "zaps",
+      "start": 10.88,
+      "end": 11.14
+    },
+    {
+      "word": "fail",
+      "start": 11.14,
+      "end": 11.42
+    },
+    {
+      "word": "silently",
+      "start": 11.42,
+      "end": 11.88
+    },
+    {
+      "word": "in",
+      "start": 11.88,
+      "end": 12.08
+    },
+    {
+      "word": "the",
+      "start": 12.08,
+      "end": 12.2
+    },
+    {
+      "word": "background,",
+      "start": 12.2,
+      "end": 12.7
+    },
+    {
+      "word": "lead",
+      "start": 13.16,
+      "end": 13.22
+    },
+    {
+      "word": "data",
+      "start": 13.22,
+      "end": 13.48
+    },
+    {
+      "word": "drops",
+      "start": 13.48,
+      "end": 13.82
+    },
+    {
+      "word": "and",
+      "start": 13.82,
+      "end": 14.08
+    },
+    {
+      "word": "client",
+      "start": 14.08,
+      "end": 14.38
+    },
+    {
+      "word": "onboarding",
+      "start": 14.38,
+      "end": 14.92
+    },
+    {
+      "word": "completely",
+      "start": 14.92,
+      "end": 15.32
+    },
+    {
+      "word": "halts.",
+      "start": 15.32,
+      "end": 15.86
+    },
+    {
+      "word": "Instead,",
+      "start": 16.34,
+      "end": 16.66
+    },
+    {
+      "word": "switch",
+      "start": 17.08,
+      "end": 17.28
+    },
+    {
+      "word": "to",
+      "start": 17.28,
+      "end": 17.54
+    },
+    {
+      "word": "fill",
+      "start": 17.54,
+      "end": 17.7
+    },
+    {
+      "word": "out",
+      "start": 17.7,
+      "end": 17.92
+    },
+    {
+      "word": "for",
+      "start": 17.92,
+      "end": 18.08
+    },
+    {
+      "word": "native",
+      "start": 18.08,
+      "end": 18.42
+    },
+    {
+      "word": "two",
+      "start": 18.42,
+      "end": 18.7
+    },
+    {
+      "word": "-way",
+      "start": 18.7,
+      "end": 18.9
+    },
+    {
+      "word": "sync",
+      "start": 18.9,
+      "end": 19.18
+    },
+    {
+      "word": "that",
+      "start": 19.18,
+      "end": 19.48
+    },
+    {
+      "word": "updates",
+      "start": 19.48,
+      "end": 19.76
+    },
+    {
+      "word": "Airtable",
+      "start": 19.76,
+      "end": 20.28
+    },
+    {
+      "word": "records",
+      "start": 20.28,
+      "end": 20.68
+    },
+    {
+      "word": "without",
+      "start": 20.68,
+      "end": 21.16
+    },
+    {
+      "word": "intermediary",
+      "start": 21.16,
+      "end": 21.7
+    },
+    {
+      "word": "connectors.",
+      "start": 21.7,
+      "end": 22.28
+    },
+    {
+      "word": "Your",
+      "start": 23.02,
+      "end": 23.2
+    },
+    {
+      "word": "intake",
+      "start": 23.2,
+      "end": 23.5
+    },
+    {
+      "word": "pipeline",
+      "start": 23.5,
+      "end": 24.0
+    },
+    {
+      "word": "runs",
+      "start": 24.0,
+      "end": 24.48
+    },
+    {
+      "word": "flawlessly",
+      "start": 24.48,
+      "end": 25.04
+    },
+    {
+      "word": "on",
+      "start": 25.04,
+      "end": 25.32
+    },
+    {
+      "word": "autopilot.",
+      "start": 25.32,
+      "end": 25.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The best no-code form builder that connects seamlessly to your database.",
+      "line2": "SMART AUTO-FILL FORMS",
+      "tag": "\ud83d\uded1 Fillout smart forms that pre-fill existing user data dynamically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Fillout smart forms that pre-fill existing user data dynamically",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Fillout smart forms that pre-fill existing user data dynamically",
+        "subtitle": "Fillout smart forms that pre-fill existing user data dynamically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Fillout smart forms that pre-fill existing user data dynamically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Fillout smart forms that pre-fill existing user data dynamically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Fillout smart forms that pre-fill existing user data dynamically",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

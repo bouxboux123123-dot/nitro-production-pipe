@@ -1,0 +1,401 @@
+{
+  "page": "page-08",
+  "idea": "How to extract text from a screenshot or image without retyping it",
+  "text": "Copy any text on your screen directly to your clipboard instantly. Whenever website security disables right-click copy or embeds quotes inside graphics, your progress stalls. Typing out complex terms or lengthy links by hand guarantees frustrating formatting mistakes. Take a screenshot using native Windows Text Actions or Mac Live Text to grab unselectable words. It copies flawless paragraphs straight to your clipboard in under two seconds.",
+  "duration": 24.981,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Copy",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "any",
+      "start": 0.32,
+      "end": 0.52
+    },
+    {
+      "word": "text",
+      "start": 0.52,
+      "end": 0.76
+    },
+    {
+      "word": "on",
+      "start": 0.76,
+      "end": 0.9
+    },
+    {
+      "word": "your",
+      "start": 0.9,
+      "end": 1.08
+    },
+    {
+      "word": "screen",
+      "start": 1.08,
+      "end": 1.32
+    },
+    {
+      "word": "directly",
+      "start": 1.32,
+      "end": 1.66
+    },
+    {
+      "word": "to",
+      "start": 1.66,
+      "end": 1.86
+    },
+    {
+      "word": "your",
+      "start": 1.86,
+      "end": 2.14
+    },
+    {
+      "word": "clipboard",
+      "start": 2.14,
+      "end": 2.36
+    },
+    {
+      "word": "instantly.",
+      "start": 2.36,
+      "end": 3.14
+    },
+    {
+      "word": "Whenever",
+      "start": 3.58,
+      "end": 3.62
+    },
+    {
+      "word": "website",
+      "start": 3.62,
+      "end": 4.04
+    },
+    {
+      "word": "security",
+      "start": 4.04,
+      "end": 4.64
+    },
+    {
+      "word": "disables",
+      "start": 4.64,
+      "end": 5.14
+    },
+    {
+      "word": "right",
+      "start": 5.14,
+      "end": 5.5
+    },
+    {
+      "word": "-click",
+      "start": 5.5,
+      "end": 5.74
+    },
+    {
+      "word": "copy",
+      "start": 5.74,
+      "end": 6.08
+    },
+    {
+      "word": "or",
+      "start": 6.08,
+      "end": 6.54
+    },
+    {
+      "word": "embeds",
+      "start": 6.54,
+      "end": 6.92
+    },
+    {
+      "word": "quotes",
+      "start": 6.92,
+      "end": 7.2
+    },
+    {
+      "word": "inside",
+      "start": 7.2,
+      "end": 7.62
+    },
+    {
+      "word": "graphics,",
+      "start": 7.62,
+      "end": 8.06
+    },
+    {
+      "word": "your",
+      "start": 8.48,
+      "end": 8.62
+    },
+    {
+      "word": "progress",
+      "start": 8.62,
+      "end": 9.0
+    },
+    {
+      "word": "stalls.",
+      "start": 9.0,
+      "end": 9.46
+    },
+    {
+      "word": "Typing",
+      "start": 9.96,
+      "end": 10.24
+    },
+    {
+      "word": "out",
+      "start": 10.24,
+      "end": 10.64
+    },
+    {
+      "word": "complex",
+      "start": 10.64,
+      "end": 10.82
+    },
+    {
+      "word": "terms",
+      "start": 10.82,
+      "end": 11.26
+    },
+    {
+      "word": "or",
+      "start": 11.26,
+      "end": 11.54
+    },
+    {
+      "word": "lengthy",
+      "start": 11.54,
+      "end": 11.78
+    },
+    {
+      "word": "links",
+      "start": 11.78,
+      "end": 12.06
+    },
+    {
+      "word": "by",
+      "start": 12.06,
+      "end": 12.3
+    },
+    {
+      "word": "hand",
+      "start": 12.3,
+      "end": 12.5
+    },
+    {
+      "word": "guarantees",
+      "start": 12.5,
+      "end": 13.0
+    },
+    {
+      "word": "frustrating",
+      "start": 13.0,
+      "end": 13.76
+    },
+    {
+      "word": "formatting",
+      "start": 13.76,
+      "end": 14.1
+    },
+    {
+      "word": "mistakes.",
+      "start": 14.1,
+      "end": 14.7
+    },
+    {
+      "word": "Take",
+      "start": 15.34,
+      "end": 15.36
+    },
+    {
+      "word": "a",
+      "start": 15.36,
+      "end": 15.56
+    },
+    {
+      "word": "screenshot",
+      "start": 15.56,
+      "end": 15.92
+    },
+    {
+      "word": "using",
+      "start": 15.92,
+      "end": 16.36
+    },
+    {
+      "word": "native",
+      "start": 16.36,
+      "end": 16.68
+    },
+    {
+      "word": "Windows",
+      "start": 16.68,
+      "end": 17.04
+    },
+    {
+      "word": "text",
+      "start": 17.04,
+      "end": 17.32
+    },
+    {
+      "word": "actions",
+      "start": 17.32,
+      "end": 17.74
+    },
+    {
+      "word": "or",
+      "start": 17.74,
+      "end": 18.3
+    },
+    {
+      "word": "Mac",
+      "start": 18.3,
+      "end": 18.5
+    },
+    {
+      "word": "Live",
+      "start": 18.5,
+      "end": 18.82
+    },
+    {
+      "word": "text",
+      "start": 18.82,
+      "end": 19.12
+    },
+    {
+      "word": "to",
+      "start": 19.12,
+      "end": 19.32
+    },
+    {
+      "word": "grab",
+      "start": 19.32,
+      "end": 19.68
+    },
+    {
+      "word": "unselectable",
+      "start": 19.68,
+      "end": 20.42
+    },
+    {
+      "word": "words.",
+      "start": 20.42,
+      "end": 20.88
+    },
+    {
+      "word": "A",
+      "start": 20.88,
+      "end": 21.5
+    },
+    {
+      "word": "cop",
+      "start": 21.5,
+      "end": 21.64
+    },
+    {
+      "word": "is",
+      "start": 21.64,
+      "end": 21.88
+    },
+    {
+      "word": "flawless",
+      "start": 21.88,
+      "end": 22.24
+    },
+    {
+      "word": "paragraph",
+      "start": 22.24,
+      "end": 22.66
+    },
+    {
+      "word": "straight",
+      "start": 22.66,
+      "end": 23.26
+    },
+    {
+      "word": "to",
+      "start": 23.26,
+      "end": 23.34
+    },
+    {
+      "word": "your",
+      "start": 23.34,
+      "end": 23.62
+    },
+    {
+      "word": "clipboard",
+      "start": 23.62,
+      "end": 23.86
+    },
+    {
+      "word": "in",
+      "start": 23.86,
+      "end": 24.06
+    },
+    {
+      "word": "under",
+      "start": 24.06,
+      "end": 24.28
+    },
+    {
+      "word": "two",
+      "start": 24.28,
+      "end": 24.58
+    },
+    {
+      "word": "seconds.",
+      "start": 24.58,
+      "end": 24.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Copy any text on your screen directly to your clipboard instantly.",
+      "line2": "EXTRACT TEXT FROM IMAGES",
+      "tag": "\ud83d\uded1 How to extract text from a screenshot or image without retyping it",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to extract text from a screenshot or image without retyping it",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to extract text from a screenshot or image without retyping it",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to extract text from a screenshot or image without retyping it",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

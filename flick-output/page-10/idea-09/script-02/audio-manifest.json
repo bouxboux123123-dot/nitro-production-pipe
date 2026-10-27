@@ -1,0 +1,391 @@
+{
+  "page": "page-10",
+  "idea": "Microsoft Copilot Studio improvements for custom enterprise bots",
+  "text": "Modern teams are connecting SharePoint files to private conversational AI agents without writing code. New hires lose momentum waiting days for managers to locate onboarding SOPs and vendor contracts. Traditional search fails across thousands of nested folders because permissions and version histories get tangled. Copilot Studio now crawls designated document libraries and grounds responses strictly in your validated internal files. This eliminates internal ticket bottlenecks completely.",
+  "duration": 30.629,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Modern",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "teams",
+      "start": 0.3,
+      "end": 0.7
+    },
+    {
+      "word": "are",
+      "start": 0.7,
+      "end": 0.98
+    },
+    {
+      "word": "connecting",
+      "start": 0.98,
+      "end": 1.36
+    },
+    {
+      "word": "SharePoint",
+      "start": 1.36,
+      "end": 2.02
+    },
+    {
+      "word": "files",
+      "start": 2.02,
+      "end": 2.34
+    },
+    {
+      "word": "to",
+      "start": 2.34,
+      "end": 2.58
+    },
+    {
+      "word": "private",
+      "start": 2.58,
+      "end": 3.02
+    },
+    {
+      "word": "conversational",
+      "start": 3.02,
+      "end": 3.82
+    },
+    {
+      "word": "AI",
+      "start": 3.82,
+      "end": 4.34
+    },
+    {
+      "word": "agents",
+      "start": 4.34,
+      "end": 4.72
+    },
+    {
+      "word": "without",
+      "start": 4.72,
+      "end": 5.22
+    },
+    {
+      "word": "writing",
+      "start": 5.22,
+      "end": 5.6
+    },
+    {
+      "word": "code.",
+      "start": 5.6,
+      "end": 6.26
+    },
+    {
+      "word": "New",
+      "start": 6.7,
+      "end": 6.8
+    },
+    {
+      "word": "hires",
+      "start": 6.8,
+      "end": 7.06
+    },
+    {
+      "word": "lose",
+      "start": 7.06,
+      "end": 7.5
+    },
+    {
+      "word": "momentum",
+      "start": 7.5,
+      "end": 8.02
+    },
+    {
+      "word": "waiting",
+      "start": 8.02,
+      "end": 8.3
+    },
+    {
+      "word": "days",
+      "start": 8.3,
+      "end": 8.74
+    },
+    {
+      "word": "for",
+      "start": 8.74,
+      "end": 9.1
+    },
+    {
+      "word": "managers",
+      "start": 9.1,
+      "end": 9.46
+    },
+    {
+      "word": "to",
+      "start": 9.46,
+      "end": 9.8
+    },
+    {
+      "word": "locate",
+      "start": 9.8,
+      "end": 10.22
+    },
+    {
+      "word": "onboarding",
+      "start": 10.22,
+      "end": 10.92
+    },
+    {
+      "word": "SOPs",
+      "start": 10.92,
+      "end": 11.54
+    },
+    {
+      "word": "and",
+      "start": 11.54,
+      "end": 11.7
+    },
+    {
+      "word": "vendor",
+      "start": 11.7,
+      "end": 11.94
+    },
+    {
+      "word": "contracts.",
+      "start": 11.94,
+      "end": 12.56
+    },
+    {
+      "word": "Traditional",
+      "start": 13.32,
+      "end": 13.34
+    },
+    {
+      "word": "search",
+      "start": 13.34,
+      "end": 13.86
+    },
+    {
+      "word": "fails",
+      "start": 13.86,
+      "end": 14.14
+    },
+    {
+      "word": "across",
+      "start": 14.14,
+      "end": 14.58
+    },
+    {
+      "word": "thousands",
+      "start": 14.58,
+      "end": 15.08
+    },
+    {
+      "word": "of",
+      "start": 15.08,
+      "end": 15.46
+    },
+    {
+      "word": "nested",
+      "start": 15.46,
+      "end": 15.6
+    },
+    {
+      "word": "folders",
+      "start": 15.6,
+      "end": 16.08
+    },
+    {
+      "word": "because",
+      "start": 16.08,
+      "end": 16.76
+    },
+    {
+      "word": "permissions",
+      "start": 16.76,
+      "end": 17.22
+    },
+    {
+      "word": "and",
+      "start": 17.22,
+      "end": 17.58
+    },
+    {
+      "word": "version",
+      "start": 17.58,
+      "end": 17.84
+    },
+    {
+      "word": "histories",
+      "start": 17.84,
+      "end": 18.26
+    },
+    {
+      "word": "get",
+      "start": 18.26,
+      "end": 18.56
+    },
+    {
+      "word": "tangled.",
+      "start": 18.56,
+      "end": 18.98
+    },
+    {
+      "word": "Copilot",
+      "start": 19.8,
+      "end": 20.18
+    },
+    {
+      "word": "Studio",
+      "start": 20.18,
+      "end": 20.56
+    },
+    {
+      "word": "now",
+      "start": 20.56,
+      "end": 21.08
+    },
+    {
+      "word": "crawls",
+      "start": 21.08,
+      "end": 21.52
+    },
+    {
+      "word": "designated",
+      "start": 21.52,
+      "end": 22.02
+    },
+    {
+      "word": "document",
+      "start": 22.02,
+      "end": 22.64
+    },
+    {
+      "word": "libraries",
+      "start": 22.64,
+      "end": 23.14
+    },
+    {
+      "word": "and",
+      "start": 23.14,
+      "end": 23.76
+    },
+    {
+      "word": "grounds",
+      "start": 23.76,
+      "end": 24.16
+    },
+    {
+      "word": "responses",
+      "start": 24.16,
+      "end": 24.86
+    },
+    {
+      "word": "strictly",
+      "start": 24.86,
+      "end": 25.3
+    },
+    {
+      "word": "in",
+      "start": 25.3,
+      "end": 25.48
+    },
+    {
+      "word": "your",
+      "start": 25.48,
+      "end": 25.66
+    },
+    {
+      "word": "validated",
+      "start": 25.66,
+      "end": 26.12
+    },
+    {
+      "word": "internal",
+      "start": 26.12,
+      "end": 26.7
+    },
+    {
+      "word": "files.",
+      "start": 26.7,
+      "end": 27.2
+    },
+    {
+      "word": "This",
+      "start": 27.2,
+      "end": 28.0
+    },
+    {
+      "word": "eliminates",
+      "start": 28.0,
+      "end": 28.52
+    },
+    {
+      "word": "internal",
+      "start": 28.52,
+      "end": 29.08
+    },
+    {
+      "word": "ticket",
+      "start": 29.08,
+      "end": 29.46
+    },
+    {
+      "word": "bottlenecks",
+      "start": 29.46,
+      "end": 30.1
+    },
+    {
+      "word": "completely.",
+      "start": 30.1,
+      "end": 30.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "How teams are connecting SharePoint files to private conversational AI agents.",
+      "line2": "COPILOT STUDIO ENTERPRISE BOTS",
+      "tag": "\ud83d\uded1 Microsoft Copilot Studio improvements for custom enterprise bots",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Microsoft Copilot Studio improvements for custom enterprise bots",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Microsoft Copilot Studio improvements for custom enterprise bots",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Microsoft Copilot Studio improvements for custom enterprise bots",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

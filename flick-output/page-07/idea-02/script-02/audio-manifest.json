@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+  "text": "This workflow pulls monthly recurring revenue, churn, and burn rate into a clean email draft. Founders postpone updates because reconciling billing data with bank statements feels overwhelming and tedious. Inconsistent reporting damages investor trust and makes raising your next funding round significantly harder. Pipe ChartMogul analytics and Brex balances into an OpenAI script that drafts your monthly update instantly. You maintain stellar investor relations without burning weekends.",
+  "duration": 30.415,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "workflow",
+      "start": 0.26,
+      "end": 0.56
+    },
+    {
+      "word": "pulls",
+      "start": 0.56,
+      "end": 1.04
+    },
+    {
+      "word": "monthly",
+      "start": 1.04,
+      "end": 1.44
+    },
+    {
+      "word": "recurring",
+      "start": 1.44,
+      "end": 1.96
+    },
+    {
+      "word": "revenue,",
+      "start": 1.96,
+      "end": 2.44
+    },
+    {
+      "word": "churn,",
+      "start": 2.8,
+      "end": 3.2
+    },
+    {
+      "word": "and",
+      "start": 3.38,
+      "end": 3.56
+    },
+    {
+      "word": "burn",
+      "start": 3.56,
+      "end": 3.88
+    },
+    {
+      "word": "rate",
+      "start": 3.88,
+      "end": 4.22
+    },
+    {
+      "word": "into",
+      "start": 4.22,
+      "end": 4.44
+    },
+    {
+      "word": "a",
+      "start": 4.44,
+      "end": 4.68
+    },
+    {
+      "word": "clean",
+      "start": 4.68,
+      "end": 5.0
+    },
+    {
+      "word": "email",
+      "start": 5.0,
+      "end": 5.44
+    },
+    {
+      "word": "draft.",
+      "start": 5.44,
+      "end": 6.02
+    },
+    {
+      "word": "Founders",
+      "start": 6.82,
+      "end": 6.82
+    },
+    {
+      "word": "postpone",
+      "start": 6.82,
+      "end": 7.44
+    },
+    {
+      "word": "updates",
+      "start": 7.44,
+      "end": 7.96
+    },
+    {
+      "word": "because",
+      "start": 7.96,
+      "end": 8.5
+    },
+    {
+      "word": "reconciling",
+      "start": 8.5,
+      "end": 9.24
+    },
+    {
+      "word": "billing",
+      "start": 9.24,
+      "end": 9.56
+    },
+    {
+      "word": "data",
+      "start": 9.56,
+      "end": 9.84
+    },
+    {
+      "word": "with",
+      "start": 9.84,
+      "end": 10.08
+    },
+    {
+      "word": "bank",
+      "start": 10.08,
+      "end": 10.36
+    },
+    {
+      "word": "statements",
+      "start": 10.36,
+      "end": 10.78
+    },
+    {
+      "word": "feels",
+      "start": 10.78,
+      "end": 11.24
+    },
+    {
+      "word": "overwhelming",
+      "start": 11.24,
+      "end": 11.82
+    },
+    {
+      "word": "and",
+      "start": 11.82,
+      "end": 12.3
+    },
+    {
+      "word": "tedious.",
+      "start": 12.3,
+      "end": 12.64
+    },
+    {
+      "word": "In",
+      "start": 13.12,
+      "end": 13.3
+    },
+    {
+      "word": "consistent",
+      "start": 13.3,
+      "end": 13.64
+    },
+    {
+      "word": "reporting",
+      "start": 13.64,
+      "end": 14.2
+    },
+    {
+      "word": "damages",
+      "start": 14.2,
+      "end": 14.68
+    },
+    {
+      "word": "investor",
+      "start": 14.68,
+      "end": 15.2
+    },
+    {
+      "word": "trust",
+      "start": 15.2,
+      "end": 15.62
+    },
+    {
+      "word": "and",
+      "start": 15.62,
+      "end": 15.98
+    },
+    {
+      "word": "makes",
+      "start": 15.98,
+      "end": 16.26
+    },
+    {
+      "word": "raising",
+      "start": 16.26,
+      "end": 16.6
+    },
+    {
+      "word": "your",
+      "start": 16.6,
+      "end": 16.84
+    },
+    {
+      "word": "next",
+      "start": 16.84,
+      "end": 17.14
+    },
+    {
+      "word": "funding",
+      "start": 17.14,
+      "end": 17.46
+    },
+    {
+      "word": "round",
+      "start": 17.46,
+      "end": 17.8
+    },
+    {
+      "word": "significantly",
+      "start": 17.8,
+      "end": 18.48
+    },
+    {
+      "word": "harder.",
+      "start": 18.48,
+      "end": 19.0
+    },
+    {
+      "word": "Pipe",
+      "start": 19.46,
+      "end": 19.76
+    },
+    {
+      "word": "chart",
+      "start": 19.76,
+      "end": 20.1
+    },
+    {
+      "word": "mogul",
+      "start": 20.1,
+      "end": 20.5
+    },
+    {
+      "word": "analytics",
+      "start": 20.5,
+      "end": 20.9
+    },
+    {
+      "word": "and",
+      "start": 20.9,
+      "end": 21.16
+    },
+    {
+      "word": "brex",
+      "start": 21.16,
+      "end": 21.42
+    },
+    {
+      "word": "balances",
+      "start": 21.42,
+      "end": 21.92
+    },
+    {
+      "word": "into",
+      "start": 21.92,
+      "end": 22.44
+    },
+    {
+      "word": "an",
+      "start": 22.44,
+      "end": 22.66
+    },
+    {
+      "word": "open",
+      "start": 22.66,
+      "end": 23.04
+    },
+    {
+      "word": "AI",
+      "start": 23.04,
+      "end": 23.54
+    },
+    {
+      "word": "script",
+      "start": 23.54,
+      "end": 23.94
+    },
+    {
+      "word": "that",
+      "start": 23.94,
+      "end": 24.38
+    },
+    {
+      "word": "drafts",
+      "start": 24.38,
+      "end": 24.66
+    },
+    {
+      "word": "your",
+      "start": 24.66,
+      "end": 24.98
+    },
+    {
+      "word": "monthly",
+      "start": 24.98,
+      "end": 25.22
+    },
+    {
+      "word": "update",
+      "start": 25.22,
+      "end": 25.64
+    },
+    {
+      "word": "instantly.",
+      "start": 25.64,
+      "end": 26.2
+    },
+    {
+      "word": "You",
+      "start": 26.78,
+      "end": 26.92
+    },
+    {
+      "word": "maintain",
+      "start": 26.92,
+      "end": 27.44
+    },
+    {
+      "word": "stellar",
+      "start": 27.44,
+      "end": 27.84
+    },
+    {
+      "word": "investor",
+      "start": 27.84,
+      "end": 28.32
+    },
+    {
+      "word": "relations",
+      "start": 28.32,
+      "end": 28.9
+    },
+    {
+      "word": "without",
+      "start": 28.9,
+      "end": 29.38
+    },
+    {
+      "word": "burning",
+      "start": 29.38,
+      "end": 29.78
+    },
+    {
+      "word": "weekends.",
+      "start": 29.78,
+      "end": 30.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "This workflow pulls monthly recurring revenue, churn, and burn rate into a clean email draft.",
+      "line2": "INVESTOR UPDATES IN 60-SECONDS",
+      "tag": "\ud83d\uded1 Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

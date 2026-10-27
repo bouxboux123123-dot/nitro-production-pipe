@@ -1,0 +1,416 @@
+{
+  "page": "page-06",
+  "idea": "Async team trivia and social gaming bot for building remote camaraderie",
+  "text": "Here is the zero-pressure social tool remote workers actually look forward to every single week. Most company icebreakers feel corporate and forced, causing remote staff to mute their cameras and hide. Trust never forms when social interaction requires performative enthusiasm on high-stakes group video calls. Integrating the Ricotta bot into Slack automates weekly photo competitions, word scrambles, and co-worker trivia threads. Your distributed culture thrives without social anxiety.",
+  "duration": 30.245,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "the",
+      "start": 0.5,
+      "end": 0.64
+    },
+    {
+      "word": "zero",
+      "start": 0.64,
+      "end": 1.02
+    },
+    {
+      "word": "-pressure",
+      "start": 1.02,
+      "end": 1.3
+    },
+    {
+      "word": "social",
+      "start": 1.3,
+      "end": 1.78
+    },
+    {
+      "word": "tool,",
+      "start": 1.78,
+      "end": 2.36
+    },
+    {
+      "word": "remote",
+      "start": 2.5,
+      "end": 2.7
+    },
+    {
+      "word": "workers",
+      "start": 2.7,
+      "end": 3.22
+    },
+    {
+      "word": "actually",
+      "start": 3.22,
+      "end": 3.94
+    },
+    {
+      "word": "look",
+      "start": 3.94,
+      "end": 4.24
+    },
+    {
+      "word": "forward",
+      "start": 4.24,
+      "end": 4.52
+    },
+    {
+      "word": "to",
+      "start": 4.52,
+      "end": 4.82
+    },
+    {
+      "word": "every",
+      "start": 4.82,
+      "end": 5.08
+    },
+    {
+      "word": "single",
+      "start": 5.08,
+      "end": 5.42
+    },
+    {
+      "word": "week.",
+      "start": 5.42,
+      "end": 5.94
+    },
+    {
+      "word": "Most",
+      "start": 6.26,
+      "end": 6.5
+    },
+    {
+      "word": "company",
+      "start": 6.5,
+      "end": 6.9
+    },
+    {
+      "word": "icebreakers",
+      "start": 6.9,
+      "end": 7.48
+    },
+    {
+      "word": "feel",
+      "start": 7.48,
+      "end": 7.84
+    },
+    {
+      "word": "corporate",
+      "start": 7.84,
+      "end": 8.26
+    },
+    {
+      "word": "and",
+      "start": 8.26,
+      "end": 8.58
+    },
+    {
+      "word": "forced,",
+      "start": 8.58,
+      "end": 8.96
+    },
+    {
+      "word": "causing",
+      "start": 9.64,
+      "end": 9.64
+    },
+    {
+      "word": "remote",
+      "start": 9.64,
+      "end": 10.08
+    },
+    {
+      "word": "staff",
+      "start": 10.08,
+      "end": 10.46
+    },
+    {
+      "word": "to",
+      "start": 10.46,
+      "end": 10.6
+    },
+    {
+      "word": "mute",
+      "start": 10.6,
+      "end": 10.78
+    },
+    {
+      "word": "their",
+      "start": 10.78,
+      "end": 11.1
+    },
+    {
+      "word": "cameras",
+      "start": 11.1,
+      "end": 11.4
+    },
+    {
+      "word": "and",
+      "start": 11.4,
+      "end": 11.68
+    },
+    {
+      "word": "hide.",
+      "start": 11.68,
+      "end": 12.06
+    },
+    {
+      "word": "Trust",
+      "start": 12.38,
+      "end": 12.68
+    },
+    {
+      "word": "never",
+      "start": 12.68,
+      "end": 13.0
+    },
+    {
+      "word": "forms",
+      "start": 13.0,
+      "end": 13.3
+    },
+    {
+      "word": "when",
+      "start": 13.3,
+      "end": 13.62
+    },
+    {
+      "word": "social",
+      "start": 13.62,
+      "end": 13.9
+    },
+    {
+      "word": "interaction",
+      "start": 13.9,
+      "end": 14.48
+    },
+    {
+      "word": "requires",
+      "start": 14.48,
+      "end": 15.2
+    },
+    {
+      "word": "performative",
+      "start": 15.2,
+      "end": 15.94
+    },
+    {
+      "word": "enthusiasm",
+      "start": 15.94,
+      "end": 16.46
+    },
+    {
+      "word": "on",
+      "start": 16.46,
+      "end": 16.92
+    },
+    {
+      "word": "high",
+      "start": 16.92,
+      "end": 17.22
+    },
+    {
+      "word": "-stakes",
+      "start": 17.22,
+      "end": 17.46
+    },
+    {
+      "word": "group",
+      "start": 17.46,
+      "end": 17.84
+    },
+    {
+      "word": "video",
+      "start": 17.84,
+      "end": 18.14
+    },
+    {
+      "word": "calls.",
+      "start": 18.14,
+      "end": 18.54
+    },
+    {
+      "word": "Integrating",
+      "start": 19.2,
+      "end": 19.5
+    },
+    {
+      "word": "the",
+      "start": 19.5,
+      "end": 19.76
+    },
+    {
+      "word": "ricotta",
+      "start": 19.76,
+      "end": 20.08
+    },
+    {
+      "word": "bought",
+      "start": 20.08,
+      "end": 20.4
+    },
+    {
+      "word": "into",
+      "start": 20.4,
+      "end": 20.66
+    },
+    {
+      "word": "Slack,",
+      "start": 20.66,
+      "end": 21.08
+    },
+    {
+      "word": "automates",
+      "start": 21.38,
+      "end": 21.7
+    },
+    {
+      "word": "weekly",
+      "start": 21.7,
+      "end": 22.16
+    },
+    {
+      "word": "photo",
+      "start": 22.16,
+      "end": 22.54
+    },
+    {
+      "word": "competitions,",
+      "start": 22.54,
+      "end": 23.12
+    },
+    {
+      "word": "word",
+      "start": 23.9,
+      "end": 24.04
+    },
+    {
+      "word": "scrambles,",
+      "start": 24.04,
+      "end": 24.52
+    },
+    {
+      "word": "and",
+      "start": 24.88,
+      "end": 25.1
+    },
+    {
+      "word": "co",
+      "start": 25.1,
+      "end": 25.3
+    },
+    {
+      "word": "-worker",
+      "start": 25.3,
+      "end": 25.6
+    },
+    {
+      "word": "trivia",
+      "start": 25.6,
+      "end": 25.9
+    },
+    {
+      "word": "threads.",
+      "start": 25.9,
+      "end": 26.4
+    },
+    {
+      "word": "Your",
+      "start": 26.4,
+      "end": 27.12
+    },
+    {
+      "word": "distributed",
+      "start": 27.12,
+      "end": 27.6
+    },
+    {
+      "word": "culture",
+      "start": 27.6,
+      "end": 28.24
+    },
+    {
+      "word": "thrives",
+      "start": 28.24,
+      "end": 28.78
+    },
+    {
+      "word": "without",
+      "start": 28.78,
+      "end": 29.16
+    },
+    {
+      "word": "social",
+      "start": 29.16,
+      "end": 29.56
+    },
+    {
+      "word": "anxiety.",
+      "start": 29.56,
+      "end": 30.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The zero-pressure social tool remote workers actually look forward to every week.",
+      "line2": "BOOST REMOTE CAMARADERIE",
+      "tag": "\ud83d\uded1 Async team trivia and social gaming bot for building remote camaraderie",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async team trivia and social gaming bot for building remote camaraderie",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async team trivia and social gaming bot for building remote camaraderie",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

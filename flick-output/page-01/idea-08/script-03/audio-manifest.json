@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Sales proposal to kickoff automation that spins up client folders in seconds",
+  "text": "Stop spending 45 minutes manually setting up tools every time you close a deal. Jumping between Drive, Slack, and project boards after closing sales stalls your delivery momentum. Manual setup mistakes lead to broken invite links and embarrassing access errors with new clients. Build an automated onboarding workflow that spins up permissioned project spaces and client Slack channels in seconds. You reclaim hours of account management time while launching faster.",
+  "duration": 28.517,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "spending",
+      "start": 0.44,
+      "end": 0.76
+    },
+    {
+      "word": "45",
+      "start": 0.76,
+      "end": 1.34
+    },
+    {
+      "word": "minutes",
+      "start": 1.34,
+      "end": 1.7
+    },
+    {
+      "word": "manually",
+      "start": 1.7,
+      "end": 2.12
+    },
+    {
+      "word": "setting",
+      "start": 2.12,
+      "end": 2.44
+    },
+    {
+      "word": "up",
+      "start": 2.44,
+      "end": 2.68
+    },
+    {
+      "word": "tools",
+      "start": 2.68,
+      "end": 3.02
+    },
+    {
+      "word": "every",
+      "start": 3.02,
+      "end": 3.4
+    },
+    {
+      "word": "time",
+      "start": 3.4,
+      "end": 3.74
+    },
+    {
+      "word": "you",
+      "start": 3.74,
+      "end": 3.94
+    },
+    {
+      "word": "close",
+      "start": 3.94,
+      "end": 4.16
+    },
+    {
+      "word": "a",
+      "start": 4.16,
+      "end": 4.38
+    },
+    {
+      "word": "deal.",
+      "start": 4.38,
+      "end": 4.68
+    },
+    {
+      "word": "Jumping",
+      "start": 5.12,
+      "end": 5.5
+    },
+    {
+      "word": "between",
+      "start": 5.5,
+      "end": 5.88
+    },
+    {
+      "word": "drive,",
+      "start": 5.88,
+      "end": 6.4
+    },
+    {
+      "word": "slack,",
+      "start": 6.7,
+      "end": 7.06
+    },
+    {
+      "word": "and",
+      "start": 7.36,
+      "end": 7.7
+    },
+    {
+      "word": "project",
+      "start": 7.7,
+      "end": 7.96
+    },
+    {
+      "word": "boards",
+      "start": 7.96,
+      "end": 8.26
+    },
+    {
+      "word": "after",
+      "start": 8.26,
+      "end": 8.6
+    },
+    {
+      "word": "closing",
+      "start": 8.6,
+      "end": 8.94
+    },
+    {
+      "word": "sales",
+      "start": 8.94,
+      "end": 9.56
+    },
+    {
+      "word": "stalls",
+      "start": 9.56,
+      "end": 10.22
+    },
+    {
+      "word": "your",
+      "start": 10.22,
+      "end": 10.54
+    },
+    {
+      "word": "delivery",
+      "start": 10.54,
+      "end": 10.82
+    },
+    {
+      "word": "momentum.",
+      "start": 10.82,
+      "end": 11.44
+    },
+    {
+      "word": "Manual",
+      "start": 12.2,
+      "end": 12.2
+    },
+    {
+      "word": "setup",
+      "start": 12.2,
+      "end": 12.54
+    },
+    {
+      "word": "mistakes",
+      "start": 12.54,
+      "end": 12.98
+    },
+    {
+      "word": "lead",
+      "start": 12.98,
+      "end": 13.28
+    },
+    {
+      "word": "to",
+      "start": 13.28,
+      "end": 13.5
+    },
+    {
+      "word": "broken",
+      "start": 13.5,
+      "end": 13.82
+    },
+    {
+      "word": "invite",
+      "start": 13.82,
+      "end": 14.26
+    },
+    {
+      "word": "links",
+      "start": 14.26,
+      "end": 14.62
+    },
+    {
+      "word": "and",
+      "start": 14.62,
+      "end": 15.14
+    },
+    {
+      "word": "embarrassing",
+      "start": 15.14,
+      "end": 15.56
+    },
+    {
+      "word": "access",
+      "start": 15.56,
+      "end": 16.06
+    },
+    {
+      "word": "errors",
+      "start": 16.06,
+      "end": 16.38
+    },
+    {
+      "word": "with",
+      "start": 16.38,
+      "end": 16.62
+    },
+    {
+      "word": "new",
+      "start": 16.62,
+      "end": 16.86
+    },
+    {
+      "word": "clients.",
+      "start": 16.86,
+      "end": 17.28
+    },
+    {
+      "word": "Build",
+      "start": 18.04,
+      "end": 18.08
+    },
+    {
+      "word": "an",
+      "start": 18.08,
+      "end": 18.56
+    },
+    {
+      "word": "automated",
+      "start": 18.56,
+      "end": 18.72
+    },
+    {
+      "word": "onboarding",
+      "start": 18.72,
+      "end": 19.36
+    },
+    {
+      "word": "workflow",
+      "start": 19.36,
+      "end": 19.78
+    },
+    {
+      "word": "that",
+      "start": 19.78,
+      "end": 20.2
+    },
+    {
+      "word": "spins",
+      "start": 20.2,
+      "end": 20.4
+    },
+    {
+      "word": "up",
+      "start": 20.4,
+      "end": 20.7
+    },
+    {
+      "word": "permission",
+      "start": 20.7,
+      "end": 20.98
+    },
+    {
+      "word": "project",
+      "start": 20.98,
+      "end": 21.54
+    },
+    {
+      "word": "spaces",
+      "start": 21.54,
+      "end": 22.08
+    },
+    {
+      "word": "and",
+      "start": 22.08,
+      "end": 22.62
+    },
+    {
+      "word": "clients",
+      "start": 22.62,
+      "end": 22.98
+    },
+    {
+      "word": "slack",
+      "start": 22.98,
+      "end": 23.26
+    },
+    {
+      "word": "channels",
+      "start": 23.26,
+      "end": 23.64
+    },
+    {
+      "word": "in",
+      "start": 23.64,
+      "end": 23.94
+    },
+    {
+      "word": "seconds.",
+      "start": 23.94,
+      "end": 24.34
+    },
+    {
+      "word": "You",
+      "start": 24.34,
+      "end": 25.0
+    },
+    {
+      "word": "reclaim",
+      "start": 25.0,
+      "end": 25.3
+    },
+    {
+      "word": "hours",
+      "start": 25.3,
+      "end": 25.86
+    },
+    {
+      "word": "of",
+      "start": 25.86,
+      "end": 26.1
+    },
+    {
+      "word": "account",
+      "start": 26.1,
+      "end": 26.42
+    },
+    {
+      "word": "management",
+      "start": 26.42,
+      "end": 26.84
+    },
+    {
+      "word": "time",
+      "start": 26.84,
+      "end": 27.34
+    },
+    {
+      "word": "while",
+      "start": 27.34,
+      "end": 27.6
+    },
+    {
+      "word": "launching",
+      "start": 27.6,
+      "end": 27.96
+    },
+    {
+      "word": "faster.",
+      "start": 27.96,
+      "end": 28.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop spending 45 minutes manually setting up tools every time you close a deal.",
+      "line2": "INSTANT CLIENT KICKOFF",
+      "tag": "\ud83d\uded1 Sales proposal to kickoff automation that spins up client folders in seconds",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Sales proposal to kickoff automation that spins up client folders in seconds",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Sales proposal to kickoff automation that spins up client folders in seconds",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

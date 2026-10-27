@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Async team trivia and social gaming bot for building remote camaraderie",
+  "text": "This async trivia game runs directly in Slack threads without interrupting engineering deep work. Spreading teams across five continents makes live social calls leave international members awake at midnight. Synchronous social events alienate global staff and turn team bonding into an exhausting attendance chore. Adding the Water Cooler bot lets coworkers answer pop-culture puzzles and vote on polls asynchronously. You build authentic company connection without calendar fatigue.",
+  "duration": 28.474,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "a",
+      "start": 0.26,
+      "end": 0.42
+    },
+    {
+      "word": "sync",
+      "start": 0.42,
+      "end": 0.64
+    },
+    {
+      "word": "trivia",
+      "start": 0.64,
+      "end": 0.92
+    },
+    {
+      "word": "game",
+      "start": 0.92,
+      "end": 1.28
+    },
+    {
+      "word": "runs",
+      "start": 1.28,
+      "end": 1.6
+    },
+    {
+      "word": "directly",
+      "start": 1.6,
+      "end": 2.06
+    },
+    {
+      "word": "in",
+      "start": 2.06,
+      "end": 2.38
+    },
+    {
+      "word": "Slack",
+      "start": 2.38,
+      "end": 2.64
+    },
+    {
+      "word": "threads",
+      "start": 2.64,
+      "end": 3.08
+    },
+    {
+      "word": "without",
+      "start": 3.08,
+      "end": 3.7
+    },
+    {
+      "word": "interrupting",
+      "start": 3.7,
+      "end": 4.34
+    },
+    {
+      "word": "engineering",
+      "start": 4.34,
+      "end": 4.86
+    },
+    {
+      "word": "deep",
+      "start": 4.86,
+      "end": 5.2
+    },
+    {
+      "word": "work.",
+      "start": 5.2,
+      "end": 5.72
+    },
+    {
+      "word": "Spreading",
+      "start": 6.2,
+      "end": 6.46
+    },
+    {
+      "word": "teams",
+      "start": 6.46,
+      "end": 6.9
+    },
+    {
+      "word": "across",
+      "start": 6.9,
+      "end": 7.24
+    },
+    {
+      "word": "five",
+      "start": 7.24,
+      "end": 7.68
+    },
+    {
+      "word": "continents",
+      "start": 7.68,
+      "end": 8.12
+    },
+    {
+      "word": "makes",
+      "start": 8.12,
+      "end": 8.62
+    },
+    {
+      "word": "live",
+      "start": 8.62,
+      "end": 9.02
+    },
+    {
+      "word": "social",
+      "start": 9.02,
+      "end": 9.42
+    },
+    {
+      "word": "calls",
+      "start": 9.42,
+      "end": 9.82
+    },
+    {
+      "word": "leave",
+      "start": 9.82,
+      "end": 10.22
+    },
+    {
+      "word": "international",
+      "start": 10.22,
+      "end": 10.76
+    },
+    {
+      "word": "members",
+      "start": 10.76,
+      "end": 11.24
+    },
+    {
+      "word": "awake",
+      "start": 11.24,
+      "end": 11.6
+    },
+    {
+      "word": "at",
+      "start": 11.6,
+      "end": 11.82
+    },
+    {
+      "word": "midnight.",
+      "start": 11.82,
+      "end": 12.34
+    },
+    {
+      "word": "Synchronous",
+      "start": 12.68,
+      "end": 12.98
+    },
+    {
+      "word": "social",
+      "start": 12.98,
+      "end": 13.36
+    },
+    {
+      "word": "events",
+      "start": 13.36,
+      "end": 13.78
+    },
+    {
+      "word": "alienate",
+      "start": 13.78,
+      "end": 14.44
+    },
+    {
+      "word": "global",
+      "start": 14.44,
+      "end": 14.88
+    },
+    {
+      "word": "staff",
+      "start": 14.88,
+      "end": 15.28
+    },
+    {
+      "word": "and",
+      "start": 15.28,
+      "end": 15.5
+    },
+    {
+      "word": "turn",
+      "start": 15.5,
+      "end": 15.8
+    },
+    {
+      "word": "team",
+      "start": 15.8,
+      "end": 16.16
+    },
+    {
+      "word": "bonding",
+      "start": 16.16,
+      "end": 16.54
+    },
+    {
+      "word": "into",
+      "start": 16.54,
+      "end": 16.86
+    },
+    {
+      "word": "an",
+      "start": 16.86,
+      "end": 17.06
+    },
+    {
+      "word": "exhausting",
+      "start": 17.06,
+      "end": 17.48
+    },
+    {
+      "word": "attendance",
+      "start": 17.48,
+      "end": 18.04
+    },
+    {
+      "word": "chore.",
+      "start": 18.04,
+      "end": 18.62
+    },
+    {
+      "word": "Adding",
+      "start": 19.24,
+      "end": 19.24
+    },
+    {
+      "word": "the",
+      "start": 19.24,
+      "end": 19.48
+    },
+    {
+      "word": "water",
+      "start": 19.48,
+      "end": 19.66
+    },
+    {
+      "word": "cooler",
+      "start": 19.66,
+      "end": 20.0
+    },
+    {
+      "word": "bot",
+      "start": 20.0,
+      "end": 20.36
+    },
+    {
+      "word": "lets",
+      "start": 20.36,
+      "end": 20.72
+    },
+    {
+      "word": "coworkers",
+      "start": 20.72,
+      "end": 21.08
+    },
+    {
+      "word": "answer",
+      "start": 21.08,
+      "end": 21.62
+    },
+    {
+      "word": "pop",
+      "start": 21.62,
+      "end": 21.98
+    },
+    {
+      "word": "culture",
+      "start": 21.98,
+      "end": 22.34
+    },
+    {
+      "word": "puzzles",
+      "start": 22.34,
+      "end": 22.7
+    },
+    {
+      "word": "and",
+      "start": 22.7,
+      "end": 23.04
+    },
+    {
+      "word": "vote",
+      "start": 23.04,
+      "end": 23.3
+    },
+    {
+      "word": "on",
+      "start": 23.3,
+      "end": 23.56
+    },
+    {
+      "word": "polls",
+      "start": 23.56,
+      "end": 23.94
+    },
+    {
+      "word": "asynchronously.",
+      "start": 23.94,
+      "end": 24.86
+    },
+    {
+      "word": "You",
+      "start": 25.22,
+      "end": 25.38
+    },
+    {
+      "word": "build",
+      "start": 25.38,
+      "end": 25.64
+    },
+    {
+      "word": "authentic",
+      "start": 25.64,
+      "end": 26.12
+    },
+    {
+      "word": "company",
+      "start": 26.12,
+      "end": 26.52
+    },
+    {
+      "word": "connection",
+      "start": 26.52,
+      "end": 26.98
+    },
+    {
+      "word": "without",
+      "start": 26.98,
+      "end": 27.54
+    },
+    {
+      "word": "calendar",
+      "start": 27.54,
+      "end": 27.92
+    },
+    {
+      "word": "fatigue.",
+      "start": 27.92,
+      "end": 28.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "This async trivia game runs directly in Slack threads throughout the workday.",
+      "line2": "BOOST REMOTE CAMARADERIE",
+      "tag": "\ud83d\uded1 Async team trivia and social gaming bot for building remote camaraderie",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async team trivia and social gaming bot for building remote camaraderie",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async team trivia and social gaming bot for building remote camaraderie",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

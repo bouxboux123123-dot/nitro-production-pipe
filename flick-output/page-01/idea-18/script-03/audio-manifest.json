@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Cross-account benchmark tracker that spots industry advertising trends",
+  "text": "Stop panicking when one ad account drops performance: compare it against your benchmark. When revenue dips, media buyers waste hours rebuilding campaigns that were actually outperforming the broader market. Evaluating client accounts in isolation creates false alarms, causing erratic strategy shifts that ruin algorithmic learning. Deploy an automated Google Sheets tracker linked to Meta Ads via Make to monitor blended portfolio metrics. You maintain strategic control and eliminate client panic.",
+  "duration": 30.458,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "panicking",
+      "start": 0.4,
+      "end": 0.84
+    },
+    {
+      "word": "when",
+      "start": 0.84,
+      "end": 1.1
+    },
+    {
+      "word": "one",
+      "start": 1.1,
+      "end": 1.4
+    },
+    {
+      "word": "add",
+      "start": 1.4,
+      "end": 1.6
+    },
+    {
+      "word": "account",
+      "start": 1.6,
+      "end": 2.02
+    },
+    {
+      "word": "drops",
+      "start": 2.02,
+      "end": 2.32
+    },
+    {
+      "word": "performance.",
+      "start": 2.32,
+      "end": 3.12
+    },
+    {
+      "word": "Compare",
+      "start": 3.48,
+      "end": 3.7
+    },
+    {
+      "word": "it",
+      "start": 3.7,
+      "end": 3.9
+    },
+    {
+      "word": "against",
+      "start": 3.9,
+      "end": 4.12
+    },
+    {
+      "word": "your",
+      "start": 4.12,
+      "end": 4.34
+    },
+    {
+      "word": "benchmark.",
+      "start": 4.34,
+      "end": 4.78
+    },
+    {
+      "word": "When",
+      "start": 5.34,
+      "end": 5.5
+    },
+    {
+      "word": "revenue",
+      "start": 5.5,
+      "end": 5.8
+    },
+    {
+      "word": "dips,",
+      "start": 5.8,
+      "end": 6.26
+    },
+    {
+      "word": "media",
+      "start": 6.76,
+      "end": 6.82
+    },
+    {
+      "word": "buyers",
+      "start": 6.82,
+      "end": 7.18
+    },
+    {
+      "word": "waste",
+      "start": 7.18,
+      "end": 7.62
+    },
+    {
+      "word": "hours",
+      "start": 7.62,
+      "end": 8.08
+    },
+    {
+      "word": "rebuilding",
+      "start": 8.08,
+      "end": 8.5
+    },
+    {
+      "word": "campaigns",
+      "start": 8.5,
+      "end": 9.24
+    },
+    {
+      "word": "that",
+      "start": 9.24,
+      "end": 9.46
+    },
+    {
+      "word": "were",
+      "start": 9.46,
+      "end": 9.7
+    },
+    {
+      "word": "actually",
+      "start": 9.7,
+      "end": 10.12
+    },
+    {
+      "word": "outperforming",
+      "start": 10.12,
+      "end": 10.72
+    },
+    {
+      "word": "the",
+      "start": 10.72,
+      "end": 11.06
+    },
+    {
+      "word": "broader",
+      "start": 11.06,
+      "end": 11.2
+    },
+    {
+      "word": "market.",
+      "start": 11.2,
+      "end": 11.68
+    },
+    {
+      "word": "Evaluating",
+      "start": 12.12,
+      "end": 12.42
+    },
+    {
+      "word": "client",
+      "start": 12.42,
+      "end": 12.84
+    },
+    {
+      "word": "accounts",
+      "start": 12.84,
+      "end": 13.22
+    },
+    {
+      "word": "in",
+      "start": 13.22,
+      "end": 13.36
+    },
+    {
+      "word": "isolation",
+      "start": 13.36,
+      "end": 13.9
+    },
+    {
+      "word": "creates",
+      "start": 13.9,
+      "end": 14.56
+    },
+    {
+      "word": "false",
+      "start": 14.56,
+      "end": 14.86
+    },
+    {
+      "word": "alarms,",
+      "start": 14.86,
+      "end": 15.4
+    },
+    {
+      "word": "causing",
+      "start": 16.02,
+      "end": 16.18
+    },
+    {
+      "word": "erratic",
+      "start": 16.18,
+      "end": 16.68
+    },
+    {
+      "word": "strategy",
+      "start": 16.68,
+      "end": 17.18
+    },
+    {
+      "word": "shifts",
+      "start": 17.18,
+      "end": 17.58
+    },
+    {
+      "word": "that",
+      "start": 17.58,
+      "end": 17.98
+    },
+    {
+      "word": "ruin",
+      "start": 17.98,
+      "end": 18.3
+    },
+    {
+      "word": "algorithmic",
+      "start": 18.3,
+      "end": 19.0
+    },
+    {
+      "word": "learning.",
+      "start": 19.0,
+      "end": 19.5
+    },
+    {
+      "word": "Deploy",
+      "start": 20.16,
+      "end": 20.36
+    },
+    {
+      "word": "an",
+      "start": 20.36,
+      "end": 20.7
+    },
+    {
+      "word": "automated",
+      "start": 20.7,
+      "end": 21.1
+    },
+    {
+      "word": "Google",
+      "start": 21.1,
+      "end": 21.54
+    },
+    {
+      "word": "Sheets",
+      "start": 21.54,
+      "end": 21.82
+    },
+    {
+      "word": "tracker",
+      "start": 21.82,
+      "end": 22.2
+    },
+    {
+      "word": "linked",
+      "start": 22.2,
+      "end": 22.62
+    },
+    {
+      "word": "to",
+      "start": 22.62,
+      "end": 22.86
+    },
+    {
+      "word": "meta",
+      "start": 22.86,
+      "end": 23.16
+    },
+    {
+      "word": "ads",
+      "start": 23.16,
+      "end": 23.5
+    },
+    {
+      "word": "via",
+      "start": 23.5,
+      "end": 23.86
+    },
+    {
+      "word": "make",
+      "start": 23.86,
+      "end": 24.16
+    },
+    {
+      "word": "to",
+      "start": 24.16,
+      "end": 24.54
+    },
+    {
+      "word": "monitor",
+      "start": 24.54,
+      "end": 24.84
+    },
+    {
+      "word": "blended",
+      "start": 24.84,
+      "end": 25.28
+    },
+    {
+      "word": "portfolio",
+      "start": 25.28,
+      "end": 25.88
+    },
+    {
+      "word": "metrics.",
+      "start": 25.88,
+      "end": 26.46
+    },
+    {
+      "word": "You",
+      "start": 26.46,
+      "end": 27.16
+    },
+    {
+      "word": "maintain",
+      "start": 27.16,
+      "end": 27.6
+    },
+    {
+      "word": "strategic",
+      "start": 27.6,
+      "end": 28.18
+    },
+    {
+      "word": "control",
+      "start": 28.18,
+      "end": 28.8
+    },
+    {
+      "word": "and",
+      "start": 28.8,
+      "end": 29.2
+    },
+    {
+      "word": "eliminate",
+      "start": 29.2,
+      "end": 29.7
+    },
+    {
+      "word": "client",
+      "start": 29.7,
+      "end": 30.06
+    },
+    {
+      "word": "panic.",
+      "start": 30.06,
+      "end": 30.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop panicking when one ad account drops performance: compare it against your benchmark.",
+      "line2": "SPOT ADVERTISING TRENDS",
+      "tag": "\ud83d\uded1 Cross-account benchmark tracker that spots industry advertising trends",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Cross-account benchmark tracker that spots industry advertising trends",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Cross-account benchmark tracker that spots industry advertising trends",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Cross-account benchmark tracker that spots industry advertising trends",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

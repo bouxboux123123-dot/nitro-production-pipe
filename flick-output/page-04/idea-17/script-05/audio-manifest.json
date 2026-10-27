@@ -1,0 +1,416 @@
+{
+  "page": "page-04",
+  "idea": "Calibre: the ultimate free eBook manager and format converter",
+  "text": "The gold standard document converter that has remained free for over fifteen years. Commercial software charges monthly fees just to convert simple file types or adjust eBook layouts. Cloud uploaders paywall essential batch exports and expose sensitive documents to third-party web servers. Calibre gives you total offline control, letting you batch convert files, edit stylesheets, and clean metadata locally. Own your digital library without recurring software subscriptions.",
+  "duration": 29.157,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "gold",
+      "start": 0.22,
+      "end": 0.52
+    },
+    {
+      "word": "standard",
+      "start": 0.52,
+      "end": 0.9
+    },
+    {
+      "word": "document",
+      "start": 0.9,
+      "end": 1.4
+    },
+    {
+      "word": "converter",
+      "start": 1.4,
+      "end": 1.86
+    },
+    {
+      "word": "that",
+      "start": 1.86,
+      "end": 2.18
+    },
+    {
+      "word": "has",
+      "start": 2.18,
+      "end": 2.4
+    },
+    {
+      "word": "remained",
+      "start": 2.4,
+      "end": 2.72
+    },
+    {
+      "word": "free",
+      "start": 2.72,
+      "end": 3.12
+    },
+    {
+      "word": "for",
+      "start": 3.12,
+      "end": 3.28
+    },
+    {
+      "word": "over",
+      "start": 3.28,
+      "end": 3.48
+    },
+    {
+      "word": "15",
+      "start": 3.48,
+      "end": 3.84
+    },
+    {
+      "word": "years.",
+      "start": 3.84,
+      "end": 4.46
+    },
+    {
+      "word": "Commercial",
+      "start": 4.94,
+      "end": 5.2
+    },
+    {
+      "word": "software",
+      "start": 5.2,
+      "end": 5.8
+    },
+    {
+      "word": "charges",
+      "start": 5.8,
+      "end": 6.42
+    },
+    {
+      "word": "monthly",
+      "start": 6.42,
+      "end": 6.92
+    },
+    {
+      "word": "fees",
+      "start": 6.92,
+      "end": 7.3
+    },
+    {
+      "word": "just",
+      "start": 7.3,
+      "end": 7.66
+    },
+    {
+      "word": "to",
+      "start": 7.66,
+      "end": 7.88
+    },
+    {
+      "word": "convert",
+      "start": 7.88,
+      "end": 8.08
+    },
+    {
+      "word": "simple",
+      "start": 8.08,
+      "end": 8.54
+    },
+    {
+      "word": "file",
+      "start": 8.54,
+      "end": 8.9
+    },
+    {
+      "word": "types",
+      "start": 8.9,
+      "end": 9.22
+    },
+    {
+      "word": "or",
+      "start": 9.22,
+      "end": 9.78
+    },
+    {
+      "word": "adjust",
+      "start": 9.78,
+      "end": 10.24
+    },
+    {
+      "word": "e",
+      "start": 10.24,
+      "end": 10.46
+    },
+    {
+      "word": "-book",
+      "start": 10.46,
+      "end": 10.66
+    },
+    {
+      "word": "layouts.",
+      "start": 10.66,
+      "end": 11.08
+    },
+    {
+      "word": "Cloud",
+      "start": 11.52,
+      "end": 11.84
+    },
+    {
+      "word": "uploaders",
+      "start": 11.84,
+      "end": 12.4
+    },
+    {
+      "word": "paywall",
+      "start": 12.4,
+      "end": 12.88
+    },
+    {
+      "word": "essential",
+      "start": 12.88,
+      "end": 13.34
+    },
+    {
+      "word": "batch",
+      "start": 13.34,
+      "end": 13.68
+    },
+    {
+      "word": "exports",
+      "start": 13.68,
+      "end": 14.16
+    },
+    {
+      "word": "and",
+      "start": 14.16,
+      "end": 14.56
+    },
+    {
+      "word": "expose",
+      "start": 14.56,
+      "end": 14.9
+    },
+    {
+      "word": "sensitive",
+      "start": 14.9,
+      "end": 15.34
+    },
+    {
+      "word": "documents",
+      "start": 15.34,
+      "end": 15.86
+    },
+    {
+      "word": "to",
+      "start": 15.86,
+      "end": 16.16
+    },
+    {
+      "word": "third",
+      "start": 16.16,
+      "end": 16.44
+    },
+    {
+      "word": "-party",
+      "start": 16.44,
+      "end": 16.7
+    },
+    {
+      "word": "web",
+      "start": 16.7,
+      "end": 16.96
+    },
+    {
+      "word": "servers.",
+      "start": 16.96,
+      "end": 17.38
+    },
+    {
+      "word": "Caliber",
+      "start": 18.1,
+      "end": 18.36
+    },
+    {
+      "word": "gives",
+      "start": 18.36,
+      "end": 18.7
+    },
+    {
+      "word": "you",
+      "start": 18.7,
+      "end": 18.94
+    },
+    {
+      "word": "total",
+      "start": 18.94,
+      "end": 19.28
+    },
+    {
+      "word": "offline",
+      "start": 19.28,
+      "end": 19.72
+    },
+    {
+      "word": "control,",
+      "start": 19.72,
+      "end": 20.4
+    },
+    {
+      "word": "letting",
+      "start": 20.72,
+      "end": 20.82
+    },
+    {
+      "word": "you",
+      "start": 20.82,
+      "end": 21.04
+    },
+    {
+      "word": "batch",
+      "start": 21.04,
+      "end": 21.28
+    },
+    {
+      "word": "convert",
+      "start": 21.28,
+      "end": 21.7
+    },
+    {
+      "word": "files,",
+      "start": 21.7,
+      "end": 22.28
+    },
+    {
+      "word": "edit",
+      "start": 22.84,
+      "end": 22.86
+    },
+    {
+      "word": "style",
+      "start": 22.86,
+      "end": 23.12
+    },
+    {
+      "word": "of",
+      "start": 23.12,
+      "end": 23.28
+    },
+    {
+      "word": "sheets,",
+      "start": 23.28,
+      "end": 23.5
+    },
+    {
+      "word": "and",
+      "start": 23.84,
+      "end": 24.0
+    },
+    {
+      "word": "clean",
+      "start": 24.0,
+      "end": 24.26
+    },
+    {
+      "word": "metadata",
+      "start": 24.26,
+      "end": 24.64
+    },
+    {
+      "word": "locally.",
+      "start": 24.64,
+      "end": 25.24
+    },
+    {
+      "word": "Own",
+      "start": 25.24,
+      "end": 26.0
+    },
+    {
+      "word": "your",
+      "start": 26.0,
+      "end": 26.16
+    },
+    {
+      "word": "digital",
+      "start": 26.16,
+      "end": 26.46
+    },
+    {
+      "word": "library",
+      "start": 26.46,
+      "end": 26.98
+    },
+    {
+      "word": "without",
+      "start": 26.98,
+      "end": 27.42
+    },
+    {
+      "word": "recurring",
+      "start": 27.42,
+      "end": 27.9
+    },
+    {
+      "word": "software",
+      "start": 27.9,
+      "end": 28.34
+    },
+    {
+      "word": "subscriptions.",
+      "start": 28.34,
+      "end": 29.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The gold standard document converter that has remained free for over 15 years.",
+      "line2": "FREE EBOOK CONVERTER",
+      "tag": "\ud83d\uded1 Calibre",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Calibre",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Calibre",
+        "subtitle": "Calibre"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Calibre"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Calibre"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Calibre",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-06",
+  "idea": "Automated employee equipment ordering and home office stipend flow",
+  "text": "Here is the modern IT equipment management solution built for fast-scaling remote companies. Tracking serial numbers, warranty repairs, and operating system updates across dozens of countries creates security vulnerabilities. When offboarding occurs, unrecovered company hardware exposes proprietary codebase repositories and customer databases to breaches. Platforms like GroWrk or Firstbase link Kandji MDM with automated global retrieval boxes and certified data wipes. This secures your distributed fleet effortlessly.",
+  "duration": 34.362,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "the",
+      "start": 0.5,
+      "end": 0.7
+    },
+    {
+      "word": "modern",
+      "start": 0.7,
+      "end": 1.02
+    },
+    {
+      "word": "IT",
+      "start": 1.02,
+      "end": 1.5
+    },
+    {
+      "word": "equipment",
+      "start": 1.5,
+      "end": 1.92
+    },
+    {
+      "word": "management",
+      "start": 1.92,
+      "end": 2.44
+    },
+    {
+      "word": "solution",
+      "start": 2.44,
+      "end": 2.96
+    },
+    {
+      "word": "built",
+      "start": 2.96,
+      "end": 3.26
+    },
+    {
+      "word": "for",
+      "start": 3.26,
+      "end": 3.5
+    },
+    {
+      "word": "fast",
+      "start": 3.5,
+      "end": 3.82
+    },
+    {
+      "word": "scaling",
+      "start": 3.82,
+      "end": 4.22
+    },
+    {
+      "word": "remote",
+      "start": 4.22,
+      "end": 4.56
+    },
+    {
+      "word": "companies.",
+      "start": 4.56,
+      "end": 5.22
+    },
+    {
+      "word": "Tracking",
+      "start": 5.98,
+      "end": 6.08
+    },
+    {
+      "word": "serial",
+      "start": 6.08,
+      "end": 6.56
+    },
+    {
+      "word": "numbers,",
+      "start": 6.56,
+      "end": 7.08
+    },
+    {
+      "word": "warranty",
+      "start": 7.72,
+      "end": 7.78
+    },
+    {
+      "word": "repairs,",
+      "start": 7.78,
+      "end": 8.26
+    },
+    {
+      "word": "and",
+      "start": 8.58,
+      "end": 8.82
+    },
+    {
+      "word": "operating",
+      "start": 8.82,
+      "end": 9.12
+    },
+    {
+      "word": "system",
+      "start": 9.12,
+      "end": 9.86
+    },
+    {
+      "word": "updates",
+      "start": 9.86,
+      "end": 10.24
+    },
+    {
+      "word": "across",
+      "start": 10.24,
+      "end": 10.7
+    },
+    {
+      "word": "dozens",
+      "start": 10.7,
+      "end": 10.98
+    },
+    {
+      "word": "of",
+      "start": 10.98,
+      "end": 11.2
+    },
+    {
+      "word": "countries,",
+      "start": 11.2,
+      "end": 11.64
+    },
+    {
+      "word": "creates",
+      "start": 12.4,
+      "end": 12.42
+    },
+    {
+      "word": "security",
+      "start": 12.42,
+      "end": 12.9
+    },
+    {
+      "word": "vulnerabilities.",
+      "start": 12.9,
+      "end": 13.52
+    },
+    {
+      "word": "When",
+      "start": 14.1,
+      "end": 14.28
+    },
+    {
+      "word": "offboarding",
+      "start": 14.28,
+      "end": 14.66
+    },
+    {
+      "word": "occurs,",
+      "start": 14.66,
+      "end": 15.22
+    },
+    {
+      "word": "unrecovered",
+      "start": 15.68,
+      "end": 16.06
+    },
+    {
+      "word": "company",
+      "start": 16.06,
+      "end": 16.46
+    },
+    {
+      "word": "hardware",
+      "start": 16.46,
+      "end": 16.94
+    },
+    {
+      "word": "exposes",
+      "start": 16.94,
+      "end": 17.52
+    },
+    {
+      "word": "proprietary",
+      "start": 17.52,
+      "end": 18.24
+    },
+    {
+      "word": "code",
+      "start": 18.24,
+      "end": 18.62
+    },
+    {
+      "word": "base",
+      "start": 18.62,
+      "end": 18.84
+    },
+    {
+      "word": "repositories",
+      "start": 18.84,
+      "end": 19.44
+    },
+    {
+      "word": "and",
+      "start": 19.44,
+      "end": 20.28
+    },
+    {
+      "word": "customer",
+      "start": 20.28,
+      "end": 20.5
+    },
+    {
+      "word": "databases",
+      "start": 20.5,
+      "end": 20.98
+    },
+    {
+      "word": "to",
+      "start": 20.98,
+      "end": 21.4
+    },
+    {
+      "word": "breaches.",
+      "start": 21.4,
+      "end": 21.84
+    },
+    {
+      "word": "Platforms",
+      "start": 22.5,
+      "end": 23.04
+    },
+    {
+      "word": "like",
+      "start": 23.04,
+      "end": 23.26
+    },
+    {
+      "word": "GrowWRK",
+      "start": 23.26,
+      "end": 24.54
+    },
+    {
+      "word": "or",
+      "start": 24.54,
+      "end": 24.8
+    },
+    {
+      "word": "First",
+      "start": 24.8,
+      "end": 25.12
+    },
+    {
+      "word": "Base",
+      "start": 25.12,
+      "end": 25.34
+    },
+    {
+      "word": "Link,",
+      "start": 25.34,
+      "end": 25.68
+    },
+    {
+      "word": "Kanji",
+      "start": 25.68,
+      "end": 26.44
+    },
+    {
+      "word": "MDM",
+      "start": 26.44,
+      "end": 27.52
+    },
+    {
+      "word": "with",
+      "start": 27.52,
+      "end": 27.98
+    },
+    {
+      "word": "automated",
+      "start": 27.98,
+      "end": 28.24
+    },
+    {
+      "word": "global",
+      "start": 28.24,
+      "end": 28.68
+    },
+    {
+      "word": "retrieval",
+      "start": 28.68,
+      "end": 29.14
+    },
+    {
+      "word": "boxes",
+      "start": 29.14,
+      "end": 29.66
+    },
+    {
+      "word": "and",
+      "start": 29.66,
+      "end": 30.32
+    },
+    {
+      "word": "certified",
+      "start": 30.32,
+      "end": 30.6
+    },
+    {
+      "word": "data",
+      "start": 30.6,
+      "end": 30.98
+    },
+    {
+      "word": "wipes.",
+      "start": 30.98,
+      "end": 31.36
+    },
+    {
+      "word": "This",
+      "start": 32.04,
+      "end": 32.16
+    },
+    {
+      "word": "secures",
+      "start": 32.16,
+      "end": 32.52
+    },
+    {
+      "word": "your",
+      "start": 32.52,
+      "end": 32.88
+    },
+    {
+      "word": "distributed",
+      "start": 32.88,
+      "end": 33.22
+    },
+    {
+      "word": "fleet",
+      "start": 33.22,
+      "end": 33.76
+    },
+    {
+      "word": "effortlessly.",
+      "start": 33.76,
+      "end": 34.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The modern IT equipment management solution for global remote companies.",
+      "line2": "AUTOMATE EQUIPMENT STIPENDS",
+      "tag": "\ud83d\uded1 Automated employee equipment ordering and home office stipend flow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

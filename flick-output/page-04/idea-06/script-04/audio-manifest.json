@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Obsidian: build an interconnected personal knowledge base for free",
+  "text": "The best free offline tool for deep thinkers, writers, and students. Web-based writing platforms constantly interrupt your flow with loading wheels, sync errors, and invasive paywalls. Working inside closed ecosystems also locks your research away from other desktop tools and automation scripts. Instead, draft your essays, books, and lecture notes inside Obsidian without needing an active internet connection. You eliminate digital distractions and organize complex research at lightning speed.",
+  "duration": 29.754,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "best",
+      "start": 0.2,
+      "end": 0.42
+    },
+    {
+      "word": "free",
+      "start": 0.42,
+      "end": 0.7
+    },
+    {
+      "word": "offline",
+      "start": 0.7,
+      "end": 1.1
+    },
+    {
+      "word": "tool",
+      "start": 1.1,
+      "end": 1.52
+    },
+    {
+      "word": "for",
+      "start": 1.52,
+      "end": 1.68
+    },
+    {
+      "word": "deep",
+      "start": 1.68,
+      "end": 1.98
+    },
+    {
+      "word": "thinkers,",
+      "start": 1.98,
+      "end": 2.4
+    },
+    {
+      "word": "writers,",
+      "start": 2.84,
+      "end": 3.0
+    },
+    {
+      "word": "and",
+      "start": 3.2,
+      "end": 3.34
+    },
+    {
+      "word": "students.",
+      "start": 3.34,
+      "end": 3.9
+    },
+    {
+      "word": "Web",
+      "start": 4.46,
+      "end": 4.52
+    },
+    {
+      "word": "-based",
+      "start": 4.52,
+      "end": 4.82
+    },
+    {
+      "word": "writing",
+      "start": 4.82,
+      "end": 5.16
+    },
+    {
+      "word": "platforms",
+      "start": 5.16,
+      "end": 5.62
+    },
+    {
+      "word": "constantly",
+      "start": 5.62,
+      "end": 6.32
+    },
+    {
+      "word": "interrupt",
+      "start": 6.32,
+      "end": 6.6
+    },
+    {
+      "word": "your",
+      "start": 6.6,
+      "end": 6.86
+    },
+    {
+      "word": "flow",
+      "start": 6.86,
+      "end": 7.1
+    },
+    {
+      "word": "with",
+      "start": 7.1,
+      "end": 7.32
+    },
+    {
+      "word": "loading",
+      "start": 7.32,
+      "end": 7.64
+    },
+    {
+      "word": "wheels,",
+      "start": 7.64,
+      "end": 8.14
+    },
+    {
+      "word": "sink",
+      "start": 8.52,
+      "end": 8.82
+    },
+    {
+      "word": "errors,",
+      "start": 8.82,
+      "end": 9.2
+    },
+    {
+      "word": "and",
+      "start": 9.5,
+      "end": 9.72
+    },
+    {
+      "word": "invasive",
+      "start": 9.72,
+      "end": 10.14
+    },
+    {
+      "word": "paywalls.",
+      "start": 10.14,
+      "end": 10.78
+    },
+    {
+      "word": "Working",
+      "start": 11.4,
+      "end": 11.6
+    },
+    {
+      "word": "inside",
+      "start": 11.6,
+      "end": 12.22
+    },
+    {
+      "word": "closed",
+      "start": 12.22,
+      "end": 12.64
+    },
+    {
+      "word": "ecosystems",
+      "start": 12.64,
+      "end": 13.2
+    },
+    {
+      "word": "also",
+      "start": 13.2,
+      "end": 14.02
+    },
+    {
+      "word": "locks",
+      "start": 14.02,
+      "end": 14.28
+    },
+    {
+      "word": "your",
+      "start": 14.28,
+      "end": 14.48
+    },
+    {
+      "word": "research",
+      "start": 14.48,
+      "end": 14.82
+    },
+    {
+      "word": "away",
+      "start": 14.82,
+      "end": 15.14
+    },
+    {
+      "word": "from",
+      "start": 15.14,
+      "end": 15.4
+    },
+    {
+      "word": "other",
+      "start": 15.4,
+      "end": 15.64
+    },
+    {
+      "word": "desktop",
+      "start": 15.64,
+      "end": 16.0
+    },
+    {
+      "word": "tools",
+      "start": 16.0,
+      "end": 16.52
+    },
+    {
+      "word": "and",
+      "start": 16.52,
+      "end": 16.84
+    },
+    {
+      "word": "automation",
+      "start": 16.84,
+      "end": 17.1
+    },
+    {
+      "word": "scripts.",
+      "start": 17.1,
+      "end": 17.68
+    },
+    {
+      "word": "Instead,",
+      "start": 18.14,
+      "end": 18.56
+    },
+    {
+      "word": "draft",
+      "start": 18.56,
+      "end": 18.84
+    },
+    {
+      "word": "your",
+      "start": 18.84,
+      "end": 19.2
+    },
+    {
+      "word": "essays,",
+      "start": 19.2,
+      "end": 19.5
+    },
+    {
+      "word": "books,",
+      "start": 19.72,
+      "end": 20.02
+    },
+    {
+      "word": "and",
+      "start": 20.04,
+      "end": 20.5
+    },
+    {
+      "word": "lecture",
+      "start": 20.5,
+      "end": 20.5
+    },
+    {
+      "word": "notes",
+      "start": 20.5,
+      "end": 20.84
+    },
+    {
+      "word": "inside",
+      "start": 20.84,
+      "end": 21.3
+    },
+    {
+      "word": "Obsidian,",
+      "start": 21.3,
+      "end": 21.82
+    },
+    {
+      "word": "without",
+      "start": 22.3,
+      "end": 22.48
+    },
+    {
+      "word": "needing",
+      "start": 22.48,
+      "end": 22.74
+    },
+    {
+      "word": "an",
+      "start": 22.74,
+      "end": 22.98
+    },
+    {
+      "word": "active",
+      "start": 22.98,
+      "end": 23.24
+    },
+    {
+      "word": "internet",
+      "start": 23.24,
+      "end": 23.64
+    },
+    {
+      "word": "connection.",
+      "start": 23.64,
+      "end": 24.18
+    },
+    {
+      "word": "You",
+      "start": 24.18,
+      "end": 24.96
+    },
+    {
+      "word": "eliminate",
+      "start": 24.96,
+      "end": 25.4
+    },
+    {
+      "word": "digital",
+      "start": 25.4,
+      "end": 25.86
+    },
+    {
+      "word": "distractions",
+      "start": 25.86,
+      "end": 26.54
+    },
+    {
+      "word": "and",
+      "start": 26.54,
+      "end": 27.2
+    },
+    {
+      "word": "organize",
+      "start": 27.2,
+      "end": 27.58
+    },
+    {
+      "word": "complex",
+      "start": 27.58,
+      "end": 28.18
+    },
+    {
+      "word": "research",
+      "start": 28.18,
+      "end": 28.62
+    },
+    {
+      "word": "at",
+      "start": 28.62,
+      "end": 29.04
+    },
+    {
+      "word": "lightning",
+      "start": 29.04,
+      "end": 29.14
+    },
+    {
+      "word": "speed.",
+      "start": 29.14,
+      "end": 29.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The best free offline tool for deep thinkers, writers, and students.",
+      "line2": "FREE PERSONAL KNOWLEDGE BASE",
+      "tag": "\ud83d\uded1 Obsidian",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Obsidian",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Obsidian",
+        "subtitle": "Obsidian"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Obsidian"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Obsidian"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Obsidian",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

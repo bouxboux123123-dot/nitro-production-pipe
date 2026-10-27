@@ -1,0 +1,421 @@
+{
+  "page": "page-09",
+  "idea": "Notion vs Obsidian: which second brain tool is right for you",
+  "text": "Why productivity geeks are abandoning Notion for Obsidian in 2026. Notion was built for collaborative team documentation, but managing daily tasks solo feels like running heavy enterprise software. Constant server pings and feature bloat drain laptop battery and create unnecessary typing latency. Obsidian strips away cloud bloat, indexing your personal vault locally with blazing community plugins like Dataview and Omnisearch. Switching cuts your retrieval time in half while preserving your privacy.",
+  "duration": 31.653,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Why",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "productivity",
+      "start": 0.36,
+      "end": 0.88
+    },
+    {
+      "word": "geeks",
+      "start": 0.88,
+      "end": 1.24
+    },
+    {
+      "word": "are",
+      "start": 1.24,
+      "end": 1.52
+    },
+    {
+      "word": "abandoning",
+      "start": 1.52,
+      "end": 1.92
+    },
+    {
+      "word": "Notion",
+      "start": 1.92,
+      "end": 2.38
+    },
+    {
+      "word": "for",
+      "start": 2.38,
+      "end": 2.62
+    },
+    {
+      "word": "Obsidian",
+      "start": 2.62,
+      "end": 3.1
+    },
+    {
+      "word": "in",
+      "start": 3.1,
+      "end": 3.68
+    },
+    {
+      "word": "2026.",
+      "start": 3.68,
+      "end": 4.86
+    },
+    {
+      "word": "Notion",
+      "start": 5.44,
+      "end": 5.8
+    },
+    {
+      "word": "was",
+      "start": 5.8,
+      "end": 6.04
+    },
+    {
+      "word": "built",
+      "start": 6.04,
+      "end": 6.3
+    },
+    {
+      "word": "for",
+      "start": 6.3,
+      "end": 6.52
+    },
+    {
+      "word": "collaborative",
+      "start": 6.52,
+      "end": 6.96
+    },
+    {
+      "word": "team",
+      "start": 6.96,
+      "end": 7.42
+    },
+    {
+      "word": "documentation,",
+      "start": 7.42,
+      "end": 8.22
+    },
+    {
+      "word": "but",
+      "start": 8.8,
+      "end": 8.94
+    },
+    {
+      "word": "managing",
+      "start": 8.94,
+      "end": 9.32
+    },
+    {
+      "word": "daily",
+      "start": 9.32,
+      "end": 9.72
+    },
+    {
+      "word": "tasks",
+      "start": 9.72,
+      "end": 10.2
+    },
+    {
+      "word": "solo",
+      "start": 10.2,
+      "end": 10.56
+    },
+    {
+      "word": "feels",
+      "start": 10.56,
+      "end": 11.1
+    },
+    {
+      "word": "like",
+      "start": 11.1,
+      "end": 11.42
+    },
+    {
+      "word": "running",
+      "start": 11.42,
+      "end": 11.8
+    },
+    {
+      "word": "heavy",
+      "start": 11.8,
+      "end": 12.14
+    },
+    {
+      "word": "enterprise",
+      "start": 12.14,
+      "end": 12.64
+    },
+    {
+      "word": "software.",
+      "start": 12.64,
+      "end": 13.24
+    },
+    {
+      "word": "Constant",
+      "start": 14.0,
+      "end": 14.0
+    },
+    {
+      "word": "server",
+      "start": 14.0,
+      "end": 14.34
+    },
+    {
+      "word": "pings",
+      "start": 14.34,
+      "end": 14.68
+    },
+    {
+      "word": "and",
+      "start": 14.68,
+      "end": 14.92
+    },
+    {
+      "word": "feature",
+      "start": 14.92,
+      "end": 15.24
+    },
+    {
+      "word": "bloat",
+      "start": 15.24,
+      "end": 15.58
+    },
+    {
+      "word": "drain",
+      "start": 15.58,
+      "end": 15.92
+    },
+    {
+      "word": "laptop",
+      "start": 15.92,
+      "end": 16.28
+    },
+    {
+      "word": "battery",
+      "start": 16.28,
+      "end": 16.78
+    },
+    {
+      "word": "and",
+      "start": 16.78,
+      "end": 17.28
+    },
+    {
+      "word": "create",
+      "start": 17.28,
+      "end": 17.68
+    },
+    {
+      "word": "unnecessary",
+      "start": 17.68,
+      "end": 18.32
+    },
+    {
+      "word": "typing",
+      "start": 18.32,
+      "end": 18.86
+    },
+    {
+      "word": "latency.",
+      "start": 18.86,
+      "end": 19.42
+    },
+    {
+      "word": "Obsidian",
+      "start": 20.2,
+      "end": 20.44
+    },
+    {
+      "word": "strips",
+      "start": 20.44,
+      "end": 20.76
+    },
+    {
+      "word": "away",
+      "start": 20.76,
+      "end": 21.12
+    },
+    {
+      "word": "cloud",
+      "start": 21.12,
+      "end": 21.56
+    },
+    {
+      "word": "bloat,",
+      "start": 21.56,
+      "end": 22.02
+    },
+    {
+      "word": "indexing",
+      "start": 22.52,
+      "end": 22.74
+    },
+    {
+      "word": "your",
+      "start": 22.74,
+      "end": 22.98
+    },
+    {
+      "word": "personal",
+      "start": 22.98,
+      "end": 23.28
+    },
+    {
+      "word": "vault",
+      "start": 23.28,
+      "end": 23.66
+    },
+    {
+      "word": "locally",
+      "start": 23.66,
+      "end": 24.04
+    },
+    {
+      "word": "with",
+      "start": 24.04,
+      "end": 24.42
+    },
+    {
+      "word": "blazing",
+      "start": 24.42,
+      "end": 24.74
+    },
+    {
+      "word": "community",
+      "start": 24.74,
+      "end": 25.3
+    },
+    {
+      "word": "plugins",
+      "start": 25.3,
+      "end": 25.6
+    },
+    {
+      "word": "like",
+      "start": 25.6,
+      "end": 26.08
+    },
+    {
+      "word": "data",
+      "start": 26.08,
+      "end": 26.3
+    },
+    {
+      "word": "view",
+      "start": 26.3,
+      "end": 26.62
+    },
+    {
+      "word": "and",
+      "start": 26.62,
+      "end": 26.84
+    },
+    {
+      "word": "omnisearch.",
+      "start": 26.84,
+      "end": 27.44
+    },
+    {
+      "word": "Switching",
+      "start": 27.44,
+      "end": 28.48
+    },
+    {
+      "word": "cuts",
+      "start": 28.48,
+      "end": 28.66
+    },
+    {
+      "word": "your",
+      "start": 28.66,
+      "end": 28.9
+    },
+    {
+      "word": "retrieval",
+      "start": 28.9,
+      "end": 29.2
+    },
+    {
+      "word": "time",
+      "start": 29.2,
+      "end": 29.64
+    },
+    {
+      "word": "in",
+      "start": 29.64,
+      "end": 29.8
+    },
+    {
+      "word": "half",
+      "start": 29.8,
+      "end": 30.2
+    },
+    {
+      "word": "while",
+      "start": 30.2,
+      "end": 30.5
+    },
+    {
+      "word": "preserving",
+      "start": 30.5,
+      "end": 30.78
+    },
+    {
+      "word": "your",
+      "start": 30.78,
+      "end": 31.62
+    },
+    {
+      "word": "privacy.",
+      "start": 31.62,
+      "end": 31.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why productivity geeks are abandoning Notion for Obsidian in 2026.",
+      "line2": "NOTION VS OBSIDIAN",
+      "tag": "\ud83d\uded1 Notion vs Obsidian",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "Local NVMe vs Cloud Latency: Notion vs Obsidian",
+      "primitive": "OfflineVsCloudLatency",
+      "props": {
+        "title": "Local NVMe vs Cloud Latency: Notion vs Obsidian",
+        "subtitle": "Notion vs Obsidian"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Proprietary Data Lock-In Trap",
+      "primitive": "DataLockInWarningCard",
+      "props": {
+        "title": "Proprietary Data Lock-In Trap",
+        "subtitle": "Notion vs Obsidian"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Polymorphic Block Architecture",
+      "primitive": "BlockEditorFlexibility",
+      "props": {
+        "title": "Polymorphic Block Architecture",
+        "subtitle": "Notion vs Obsidian"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Interactive Knowledge Graph",
+      "primitive": "GraphNodeNetwork",
+      "props": {
+        "title": "Interactive Knowledge Graph",
+        "subtitle": "Notion vs Obsidian",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

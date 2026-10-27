@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "Cal.com vs Calendly: which booking scheduler is better for your business",
+  "text": "Calendly versus Cal.com: which scheduling tool gives your prospective clients a smoother experience? Sluggish scheduling links and confusing timezone conversions frustrate high-value prospects ready to buy. Calendly pages feel generic and force prospects through multi-step screens loaded with third-party tracking scripts. Cal.com loads instantly, integrates clean custom branding, and routes prospects dynamically based on intake answers. You close more inbound deals with zero booking friction.",
+  "duration": 30.693,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Callanly",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "vs.",
+      "start": 0.54,
+      "end": 0.9
+    },
+    {
+      "word": "Cal,",
+      "start": 1.48,
+      "end": 1.48
+    },
+    {
+      "word": "calm,",
+      "start": 1.76,
+      "end": 2.12
+    },
+    {
+      "word": "which",
+      "start": 2.46,
+      "end": 2.66
+    },
+    {
+      "word": "scheduling",
+      "start": 2.66,
+      "end": 3.06
+    },
+    {
+      "word": "tool",
+      "start": 3.06,
+      "end": 3.48
+    },
+    {
+      "word": "gives",
+      "start": 3.48,
+      "end": 3.7
+    },
+    {
+      "word": "your",
+      "start": 3.7,
+      "end": 4.0
+    },
+    {
+      "word": "perspective",
+      "start": 4.0,
+      "end": 4.36
+    },
+    {
+      "word": "clients",
+      "start": 4.36,
+      "end": 4.72
+    },
+    {
+      "word": "a",
+      "start": 4.72,
+      "end": 5.0
+    },
+    {
+      "word": "smoother",
+      "start": 5.0,
+      "end": 5.26
+    },
+    {
+      "word": "experience.",
+      "start": 5.26,
+      "end": 6.14
+    },
+    {
+      "word": "Sluggish",
+      "start": 6.72,
+      "end": 7.06
+    },
+    {
+      "word": "scheduling",
+      "start": 7.06,
+      "end": 7.52
+    },
+    {
+      "word": "links",
+      "start": 7.52,
+      "end": 7.92
+    },
+    {
+      "word": "and",
+      "start": 7.92,
+      "end": 8.24
+    },
+    {
+      "word": "confusing",
+      "start": 8.24,
+      "end": 8.68
+    },
+    {
+      "word": "time",
+      "start": 8.68,
+      "end": 9.04
+    },
+    {
+      "word": "zone",
+      "start": 9.04,
+      "end": 9.3
+    },
+    {
+      "word": "conversions",
+      "start": 9.3,
+      "end": 10.02
+    },
+    {
+      "word": "frustrate",
+      "start": 10.02,
+      "end": 10.74
+    },
+    {
+      "word": "high",
+      "start": 10.74,
+      "end": 11.14
+    },
+    {
+      "word": "value",
+      "start": 11.14,
+      "end": 11.46
+    },
+    {
+      "word": "prospects",
+      "start": 11.46,
+      "end": 12.0
+    },
+    {
+      "word": "ready",
+      "start": 12.0,
+      "end": 12.26
+    },
+    {
+      "word": "to",
+      "start": 12.26,
+      "end": 12.5
+    },
+    {
+      "word": "buy.",
+      "start": 12.5,
+      "end": 12.84
+    },
+    {
+      "word": "Callanly",
+      "start": 13.32,
+      "end": 13.54
+    },
+    {
+      "word": "pages",
+      "start": 13.54,
+      "end": 13.98
+    },
+    {
+      "word": "feel",
+      "start": 13.98,
+      "end": 14.32
+    },
+    {
+      "word": "generic",
+      "start": 14.32,
+      "end": 14.78
+    },
+    {
+      "word": "and",
+      "start": 14.78,
+      "end": 15.06
+    },
+    {
+      "word": "force",
+      "start": 15.06,
+      "end": 15.28
+    },
+    {
+      "word": "prospects",
+      "start": 15.28,
+      "end": 15.76
+    },
+    {
+      "word": "through",
+      "start": 15.76,
+      "end": 16.18
+    },
+    {
+      "word": "multi",
+      "start": 16.18,
+      "end": 16.58
+    },
+    {
+      "word": "-step",
+      "start": 16.58,
+      "end": 16.8
+    },
+    {
+      "word": "screens",
+      "start": 16.8,
+      "end": 17.32
+    },
+    {
+      "word": "loaded",
+      "start": 17.32,
+      "end": 17.64
+    },
+    {
+      "word": "with",
+      "start": 17.64,
+      "end": 17.92
+    },
+    {
+      "word": "third",
+      "start": 17.92,
+      "end": 18.2
+    },
+    {
+      "word": "-party",
+      "start": 18.2,
+      "end": 18.46
+    },
+    {
+      "word": "tracking",
+      "start": 18.46,
+      "end": 18.8
+    },
+    {
+      "word": "scripts.",
+      "start": 18.8,
+      "end": 19.3
+    },
+    {
+      "word": "Cal,",
+      "start": 20.4,
+      "end": 20.4
+    },
+    {
+      "word": "calm",
+      "start": 20.62,
+      "end": 20.92
+    },
+    {
+      "word": "loads",
+      "start": 20.92,
+      "end": 21.24
+    },
+    {
+      "word": "instantly,",
+      "start": 21.24,
+      "end": 21.88
+    },
+    {
+      "word": "integrates",
+      "start": 22.56,
+      "end": 22.56
+    },
+    {
+      "word": "clean",
+      "start": 22.56,
+      "end": 23.1
+    },
+    {
+      "word": "custom",
+      "start": 23.1,
+      "end": 23.46
+    },
+    {
+      "word": "branding,",
+      "start": 23.46,
+      "end": 23.9
+    },
+    {
+      "word": "and",
+      "start": 24.22,
+      "end": 24.38
+    },
+    {
+      "word": "routes",
+      "start": 24.38,
+      "end": 24.68
+    },
+    {
+      "word": "prospects",
+      "start": 24.68,
+      "end": 25.24
+    },
+    {
+      "word": "dynamically",
+      "start": 25.24,
+      "end": 25.78
+    },
+    {
+      "word": "based",
+      "start": 25.78,
+      "end": 26.18
+    },
+    {
+      "word": "on",
+      "start": 26.18,
+      "end": 26.4
+    },
+    {
+      "word": "intake",
+      "start": 26.4,
+      "end": 26.7
+    },
+    {
+      "word": "answers.",
+      "start": 26.7,
+      "end": 27.2
+    },
+    {
+      "word": "You",
+      "start": 27.74,
+      "end": 27.92
+    },
+    {
+      "word": "close",
+      "start": 27.92,
+      "end": 28.16
+    },
+    {
+      "word": "more",
+      "start": 28.16,
+      "end": 28.48
+    },
+    {
+      "word": "inbound",
+      "start": 28.48,
+      "end": 28.9
+    },
+    {
+      "word": "deals",
+      "start": 28.9,
+      "end": 29.2
+    },
+    {
+      "word": "with",
+      "start": 29.2,
+      "end": 29.5
+    },
+    {
+      "word": "zero",
+      "start": 29.5,
+      "end": 29.9
+    },
+    {
+      "word": "booking",
+      "start": 29.9,
+      "end": 30.26
+    },
+    {
+      "word": "friction.",
+      "start": 30.26,
+      "end": 30.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Calendly vs Cal.com: which scheduler gives your clients a smoother experience?",
+      "line2": "CAL.COM VS CALENDLY",
+      "tag": "\ud83d\uded1 Cal.com vs Calendly",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Cal.com vs Calendly",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Cal.com vs Calendly",
+        "subtitle": "Cal.com vs Calendly"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Cal.com vs Calendly"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Cal.com vs Calendly"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Cal.com vs Calendly",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

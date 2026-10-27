@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "Loom AI speech enhancement and automated title generation",
+  "text": "Stop re-recording five-minute Loom videos just because you stumbled over two sentences. Creators and account managers burn thirty minutes on endless retakes trying to sound perfectly polished for clients. That friction leads to delayed proposals, frustrated teammates, and lost productivity across your entire workday. Loom now detects spoken stumbles, trims silence, and rewires your transcript with instantaneous text-based video editing. You ship client walkthroughs on the first attempt.",
+  "duration": 29.178,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "re",
+      "start": 0.48,
+      "end": 0.62
+    },
+    {
+      "word": "-recording",
+      "start": 0.62,
+      "end": 1.02
+    },
+    {
+      "word": "five",
+      "start": 1.02,
+      "end": 1.5
+    },
+    {
+      "word": "-minute",
+      "start": 1.5,
+      "end": 1.76
+    },
+    {
+      "word": "loom",
+      "start": 1.76,
+      "end": 2.0
+    },
+    {
+      "word": "videos",
+      "start": 2.0,
+      "end": 2.36
+    },
+    {
+      "word": "just",
+      "start": 2.36,
+      "end": 2.88
+    },
+    {
+      "word": "because",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "word": "you",
+      "start": 3.12,
+      "end": 3.38
+    },
+    {
+      "word": "stumbled",
+      "start": 3.38,
+      "end": 3.7
+    },
+    {
+      "word": "over",
+      "start": 3.7,
+      "end": 4.0
+    },
+    {
+      "word": "two",
+      "start": 4.0,
+      "end": 4.34
+    },
+    {
+      "word": "sentences.",
+      "start": 4.34,
+      "end": 4.84
+    },
+    {
+      "word": "Creators",
+      "start": 5.58,
+      "end": 6.04
+    },
+    {
+      "word": "and",
+      "start": 6.04,
+      "end": 6.26
+    },
+    {
+      "word": "account",
+      "start": 6.26,
+      "end": 6.6
+    },
+    {
+      "word": "managers",
+      "start": 6.6,
+      "end": 7.04
+    },
+    {
+      "word": "burn",
+      "start": 7.04,
+      "end": 7.7
+    },
+    {
+      "word": "30",
+      "start": 7.7,
+      "end": 8.02
+    },
+    {
+      "word": "minutes",
+      "start": 8.02,
+      "end": 8.3
+    },
+    {
+      "word": "on",
+      "start": 8.3,
+      "end": 8.62
+    },
+    {
+      "word": "endless",
+      "start": 8.62,
+      "end": 8.88
+    },
+    {
+      "word": "retakes",
+      "start": 8.88,
+      "end": 9.38
+    },
+    {
+      "word": "trying",
+      "start": 9.38,
+      "end": 9.66
+    },
+    {
+      "word": "to",
+      "start": 9.66,
+      "end": 9.88
+    },
+    {
+      "word": "sound",
+      "start": 9.88,
+      "end": 10.22
+    },
+    {
+      "word": "perfectly",
+      "start": 10.22,
+      "end": 10.74
+    },
+    {
+      "word": "polished",
+      "start": 10.74,
+      "end": 11.1
+    },
+    {
+      "word": "for",
+      "start": 11.1,
+      "end": 11.42
+    },
+    {
+      "word": "clients.",
+      "start": 11.42,
+      "end": 11.84
+    },
+    {
+      "word": "That",
+      "start": 12.28,
+      "end": 12.48
+    },
+    {
+      "word": "friction",
+      "start": 12.48,
+      "end": 12.74
+    },
+    {
+      "word": "leads",
+      "start": 12.74,
+      "end": 13.12
+    },
+    {
+      "word": "to",
+      "start": 13.12,
+      "end": 13.34
+    },
+    {
+      "word": "delayed",
+      "start": 13.34,
+      "end": 13.58
+    },
+    {
+      "word": "proposals,",
+      "start": 13.58,
+      "end": 14.2
+    },
+    {
+      "word": "frustrated",
+      "start": 15.04,
+      "end": 15.04
+    },
+    {
+      "word": "teammates,",
+      "start": 15.04,
+      "end": 15.6
+    },
+    {
+      "word": "and",
+      "start": 16.02,
+      "end": 16.18
+    },
+    {
+      "word": "lost",
+      "start": 16.18,
+      "end": 16.46
+    },
+    {
+      "word": "productivity",
+      "start": 16.46,
+      "end": 17.1
+    },
+    {
+      "word": "across",
+      "start": 17.1,
+      "end": 17.46
+    },
+    {
+      "word": "your",
+      "start": 17.46,
+      "end": 17.68
+    },
+    {
+      "word": "entire",
+      "start": 17.68,
+      "end": 18.06
+    },
+    {
+      "word": "workday.",
+      "start": 18.06,
+      "end": 18.78
+    },
+    {
+      "word": "Loom",
+      "start": 19.26,
+      "end": 19.38
+    },
+    {
+      "word": "now",
+      "start": 19.38,
+      "end": 19.72
+    },
+    {
+      "word": "detects",
+      "start": 19.72,
+      "end": 20.06
+    },
+    {
+      "word": "spoken",
+      "start": 20.06,
+      "end": 20.48
+    },
+    {
+      "word": "stumbles,",
+      "start": 20.48,
+      "end": 20.92
+    },
+    {
+      "word": "trims",
+      "start": 21.32,
+      "end": 21.6
+    },
+    {
+      "word": "silence,",
+      "start": 21.6,
+      "end": 22.08
+    },
+    {
+      "word": "and",
+      "start": 22.48,
+      "end": 22.72
+    },
+    {
+      "word": "requires",
+      "start": 22.72,
+      "end": 23.0
+    },
+    {
+      "word": "your",
+      "start": 23.0,
+      "end": 23.34
+    },
+    {
+      "word": "transcript",
+      "start": 23.34,
+      "end": 23.74
+    },
+    {
+      "word": "with",
+      "start": 23.74,
+      "end": 24.14
+    },
+    {
+      "word": "instantaneous",
+      "start": 24.14,
+      "end": 24.72
+    },
+    {
+      "word": "text",
+      "start": 24.72,
+      "end": 25.26
+    },
+    {
+      "word": "-based",
+      "start": 25.26,
+      "end": 25.56
+    },
+    {
+      "word": "video",
+      "start": 25.56,
+      "end": 25.94
+    },
+    {
+      "word": "editing.",
+      "start": 25.94,
+      "end": 26.28
+    },
+    {
+      "word": "You",
+      "start": 26.28,
+      "end": 27.02
+    },
+    {
+      "word": "ship",
+      "start": 27.02,
+      "end": 27.3
+    },
+    {
+      "word": "client",
+      "start": 27.3,
+      "end": 27.64
+    },
+    {
+      "word": "walkthroughs",
+      "start": 27.64,
+      "end": 28.2
+    },
+    {
+      "word": "on",
+      "start": 28.2,
+      "end": 28.32
+    },
+    {
+      "word": "the",
+      "start": 28.32,
+      "end": 28.52
+    },
+    {
+      "word": "first",
+      "start": 28.52,
+      "end": 28.74
+    },
+    {
+      "word": "attempt.",
+      "start": 28.74,
+      "end": 29.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new feature that cuts filler words and structures your Loom video into chapters.",
+      "line2": "LOOM AI SPEECH ENHANCEMENT",
+      "tag": "\ud83d\uded1 Loom AI speech enhancement and automated title generation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Loom AI speech enhancement and automated title generation",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Loom AI speech enhancement and automated title generation",
+        "subtitle": "Loom AI speech enhancement and automated title generation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Loom AI speech enhancement and automated title generation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Loom AI speech enhancement and automated title generation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Loom AI speech enhancement and automated title generation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

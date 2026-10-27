@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Automated runway and cash burn dashboard on Google Sheets",
+  "text": "Keep your startup alive and solvent with this automated runway monitor. Founders usually discover their true zero-cash date only after an enterprise churn wipes out revenue forecasts. Without dynamic burn calculations, variable ad spend and contractor fees silently slash your runway by months. Connect Brex transactions and Stripe billing into Google Sheets, triggering Slack alerts whenever runway drops below six months. This eliminates financial surprises before board meetings.",
+  "duration": 29.861,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Keep",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "your",
+      "start": 0.2,
+      "end": 0.42
+    },
+    {
+      "word": "start",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "up",
+      "start": 0.66,
+      "end": 0.92
+    },
+    {
+      "word": "alive",
+      "start": 0.92,
+      "end": 1.32
+    },
+    {
+      "word": "and",
+      "start": 1.32,
+      "end": 1.68
+    },
+    {
+      "word": "solvent",
+      "start": 1.68,
+      "end": 1.92
+    },
+    {
+      "word": "with",
+      "start": 1.92,
+      "end": 2.28
+    },
+    {
+      "word": "this",
+      "start": 2.28,
+      "end": 2.7
+    },
+    {
+      "word": "automated",
+      "start": 2.7,
+      "end": 3.0
+    },
+    {
+      "word": "runway",
+      "start": 3.0,
+      "end": 3.38
+    },
+    {
+      "word": "monitor.",
+      "start": 3.38,
+      "end": 3.98
+    },
+    {
+      "word": "Founders",
+      "start": 4.88,
+      "end": 4.88
+    },
+    {
+      "word": "usually",
+      "start": 4.88,
+      "end": 5.4
+    },
+    {
+      "word": "discover",
+      "start": 5.4,
+      "end": 5.78
+    },
+    {
+      "word": "their",
+      "start": 5.78,
+      "end": 6.14
+    },
+    {
+      "word": "true",
+      "start": 6.14,
+      "end": 6.44
+    },
+    {
+      "word": "zero",
+      "start": 6.44,
+      "end": 6.82
+    },
+    {
+      "word": "cash",
+      "start": 6.82,
+      "end": 7.14
+    },
+    {
+      "word": "date",
+      "start": 7.14,
+      "end": 7.68
+    },
+    {
+      "word": "only",
+      "start": 7.68,
+      "end": 8.04
+    },
+    {
+      "word": "after",
+      "start": 8.04,
+      "end": 8.28
+    },
+    {
+      "word": "an",
+      "start": 8.28,
+      "end": 8.62
+    },
+    {
+      "word": "enterprise",
+      "start": 8.62,
+      "end": 8.88
+    },
+    {
+      "word": "churn",
+      "start": 8.88,
+      "end": 9.36
+    },
+    {
+      "word": "wipes",
+      "start": 9.36,
+      "end": 9.64
+    },
+    {
+      "word": "out",
+      "start": 9.64,
+      "end": 10.0
+    },
+    {
+      "word": "revenue",
+      "start": 10.0,
+      "end": 10.3
+    },
+    {
+      "word": "forecasts.",
+      "start": 10.3,
+      "end": 10.9
+    },
+    {
+      "word": "Without",
+      "start": 11.34,
+      "end": 11.66
+    },
+    {
+      "word": "dynamic",
+      "start": 11.66,
+      "end": 12.14
+    },
+    {
+      "word": "burn",
+      "start": 12.14,
+      "end": 12.5
+    },
+    {
+      "word": "calculations,",
+      "start": 12.5,
+      "end": 13.32
+    },
+    {
+      "word": "variable",
+      "start": 13.9,
+      "end": 14.0
+    },
+    {
+      "word": "ad",
+      "start": 14.0,
+      "end": 14.46
+    },
+    {
+      "word": "spend",
+      "start": 14.46,
+      "end": 14.78
+    },
+    {
+      "word": "and",
+      "start": 14.78,
+      "end": 15.12
+    },
+    {
+      "word": "contractor",
+      "start": 15.12,
+      "end": 15.52
+    },
+    {
+      "word": "fees",
+      "start": 15.52,
+      "end": 15.98
+    },
+    {
+      "word": "silently",
+      "start": 15.98,
+      "end": 16.58
+    },
+    {
+      "word": "slash",
+      "start": 16.58,
+      "end": 16.94
+    },
+    {
+      "word": "your",
+      "start": 16.94,
+      "end": 17.16
+    },
+    {
+      "word": "runway",
+      "start": 17.16,
+      "end": 17.38
+    },
+    {
+      "word": "by",
+      "start": 17.38,
+      "end": 17.72
+    },
+    {
+      "word": "months.",
+      "start": 17.72,
+      "end": 18.2
+    },
+    {
+      "word": "Connect",
+      "start": 18.74,
+      "end": 19.02
+    },
+    {
+      "word": "Brex",
+      "start": 19.02,
+      "end": 19.34
+    },
+    {
+      "word": "transactions",
+      "start": 19.34,
+      "end": 20.02
+    },
+    {
+      "word": "and",
+      "start": 20.02,
+      "end": 20.44
+    },
+    {
+      "word": "stripe",
+      "start": 20.44,
+      "end": 20.78
+    },
+    {
+      "word": "billing",
+      "start": 20.78,
+      "end": 21.06
+    },
+    {
+      "word": "into",
+      "start": 21.06,
+      "end": 21.34
+    },
+    {
+      "word": "Google",
+      "start": 21.34,
+      "end": 21.7
+    },
+    {
+      "word": "Sheets,",
+      "start": 21.7,
+      "end": 22.12
+    },
+    {
+      "word": "triggering",
+      "start": 22.6,
+      "end": 22.76
+    },
+    {
+      "word": "Slack",
+      "start": 22.76,
+      "end": 23.24
+    },
+    {
+      "word": "alerts",
+      "start": 23.24,
+      "end": 23.6
+    },
+    {
+      "word": "whenever",
+      "start": 23.6,
+      "end": 24.18
+    },
+    {
+      "word": "runway",
+      "start": 24.18,
+      "end": 24.58
+    },
+    {
+      "word": "drops",
+      "start": 24.58,
+      "end": 25.08
+    },
+    {
+      "word": "below",
+      "start": 25.08,
+      "end": 25.4
+    },
+    {
+      "word": "six",
+      "start": 25.4,
+      "end": 25.7
+    },
+    {
+      "word": "months.",
+      "start": 25.7,
+      "end": 26.12
+    },
+    {
+      "word": "This",
+      "start": 26.6,
+      "end": 26.86
+    },
+    {
+      "word": "eliminates",
+      "start": 26.86,
+      "end": 27.26
+    },
+    {
+      "word": "financial",
+      "start": 27.26,
+      "end": 27.86
+    },
+    {
+      "word": "surprises",
+      "start": 27.86,
+      "end": 28.58
+    },
+    {
+      "word": "before",
+      "start": 28.58,
+      "end": 29.04
+    },
+    {
+      "word": "board",
+      "start": 29.04,
+      "end": 29.36
+    },
+    {
+      "word": "meetings.",
+      "start": 29.36,
+      "end": 29.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Keep your startup alive and solvent with this automated runway monitor.",
+      "line2": "TRACK STARTUP RUNWAY",
+      "tag": "\ud83d\uded1 Automated runway and cash burn dashboard on Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

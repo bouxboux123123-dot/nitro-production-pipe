@@ -1,0 +1,416 @@
+{
+  "page": "page-01",
+  "idea": "Automated client churn prediction system based on communication frequency",
+  "text": "Identify and fix struggling client relationships before it is too late. When key stakeholders stop attending strategy calls or answering deliverable threads, cancellation is usually right around the corner. Manual auditing fails because busy project managers prioritize immediate tasks over tracking communication patterns. Build a Zapier workflow linking Slack and ClickUp to automatically flag inactive clients every single Monday morning. You resolve client issues early and lock in retainers.",
+  "duration": 30.223,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "identify",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "and",
+      "start": 0.54,
+      "end": 0.94
+    },
+    {
+      "word": "fix",
+      "start": 0.94,
+      "end": 1.28
+    },
+    {
+      "word": "struggling",
+      "start": 1.28,
+      "end": 1.74
+    },
+    {
+      "word": "client",
+      "start": 1.74,
+      "end": 2.1
+    },
+    {
+      "word": "relationships",
+      "start": 2.1,
+      "end": 2.72
+    },
+    {
+      "word": "before",
+      "start": 2.72,
+      "end": 3.12
+    },
+    {
+      "word": "it",
+      "start": 3.12,
+      "end": 3.28
+    },
+    {
+      "word": "is",
+      "start": 3.28,
+      "end": 3.44
+    },
+    {
+      "word": "too",
+      "start": 3.44,
+      "end": 3.7
+    },
+    {
+      "word": "late.",
+      "start": 3.7,
+      "end": 4.04
+    },
+    {
+      "word": "When",
+      "start": 4.5,
+      "end": 4.66
+    },
+    {
+      "word": "key",
+      "start": 4.66,
+      "end": 4.94
+    },
+    {
+      "word": "stakeholders",
+      "start": 4.94,
+      "end": 5.4
+    },
+    {
+      "word": "stop",
+      "start": 5.4,
+      "end": 5.92
+    },
+    {
+      "word": "attending",
+      "start": 5.92,
+      "end": 6.34
+    },
+    {
+      "word": "strategy",
+      "start": 6.34,
+      "end": 6.84
+    },
+    {
+      "word": "calls",
+      "start": 6.84,
+      "end": 7.28
+    },
+    {
+      "word": "or",
+      "start": 7.28,
+      "end": 7.8
+    },
+    {
+      "word": "answering",
+      "start": 7.8,
+      "end": 8.26
+    },
+    {
+      "word": "deliverable",
+      "start": 8.26,
+      "end": 8.82
+    },
+    {
+      "word": "threads,",
+      "start": 8.82,
+      "end": 9.36
+    },
+    {
+      "word": "cancellation",
+      "start": 9.98,
+      "end": 10.14
+    },
+    {
+      "word": "is",
+      "start": 10.14,
+      "end": 10.7
+    },
+    {
+      "word": "usually",
+      "start": 10.7,
+      "end": 11.08
+    },
+    {
+      "word": "right",
+      "start": 11.08,
+      "end": 11.38
+    },
+    {
+      "word": "around",
+      "start": 11.38,
+      "end": 11.64
+    },
+    {
+      "word": "the",
+      "start": 11.64,
+      "end": 12.32
+    },
+    {
+      "word": "corner.",
+      "start": 12.32,
+      "end": 12.32
+    },
+    {
+      "word": "Manual",
+      "start": 12.9,
+      "end": 12.9
+    },
+    {
+      "word": "auditing",
+      "start": 12.9,
+      "end": 13.32
+    },
+    {
+      "word": "fails",
+      "start": 13.32,
+      "end": 13.7
+    },
+    {
+      "word": "because",
+      "start": 13.7,
+      "end": 14.16
+    },
+    {
+      "word": "busy",
+      "start": 14.16,
+      "end": 14.48
+    },
+    {
+      "word": "project",
+      "start": 14.48,
+      "end": 14.94
+    },
+    {
+      "word": "managers",
+      "start": 14.94,
+      "end": 15.5
+    },
+    {
+      "word": "prioritize",
+      "start": 15.5,
+      "end": 16.36
+    },
+    {
+      "word": "immediate",
+      "start": 16.36,
+      "end": 16.92
+    },
+    {
+      "word": "tasks",
+      "start": 16.92,
+      "end": 17.42
+    },
+    {
+      "word": "over",
+      "start": 17.42,
+      "end": 17.7
+    },
+    {
+      "word": "tracking",
+      "start": 17.7,
+      "end": 18.08
+    },
+    {
+      "word": "communication",
+      "start": 18.08,
+      "end": 18.76
+    },
+    {
+      "word": "patterns.",
+      "start": 18.76,
+      "end": 19.34
+    },
+    {
+      "word": "Build",
+      "start": 20.06,
+      "end": 20.1
+    },
+    {
+      "word": "a",
+      "start": 20.1,
+      "end": 20.32
+    },
+    {
+      "word": "Zapier",
+      "start": 20.32,
+      "end": 20.74
+    },
+    {
+      "word": "workflow",
+      "start": 20.74,
+      "end": 21.1
+    },
+    {
+      "word": "linking",
+      "start": 21.1,
+      "end": 21.6
+    },
+    {
+      "word": "Slack",
+      "start": 21.6,
+      "end": 21.98
+    },
+    {
+      "word": "and",
+      "start": 21.98,
+      "end": 22.44
+    },
+    {
+      "word": "click",
+      "start": 22.44,
+      "end": 22.64
+    },
+    {
+      "word": "up",
+      "start": 22.64,
+      "end": 22.84
+    },
+    {
+      "word": "to",
+      "start": 22.84,
+      "end": 23.18
+    },
+    {
+      "word": "automatically",
+      "start": 23.18,
+      "end": 23.54
+    },
+    {
+      "word": "flag",
+      "start": 23.54,
+      "end": 24.08
+    },
+    {
+      "word": "and",
+      "start": 24.08,
+      "end": 24.24
+    },
+    {
+      "word": "active",
+      "start": 24.24,
+      "end": 24.6
+    },
+    {
+      "word": "clients",
+      "start": 24.6,
+      "end": 25.04
+    },
+    {
+      "word": "every",
+      "start": 25.04,
+      "end": 25.56
+    },
+    {
+      "word": "single",
+      "start": 25.56,
+      "end": 25.92
+    },
+    {
+      "word": "Monday",
+      "start": 25.92,
+      "end": 26.22
+    },
+    {
+      "word": "morning.",
+      "start": 26.22,
+      "end": 26.7
+    },
+    {
+      "word": "You",
+      "start": 26.7,
+      "end": 27.42
+    },
+    {
+      "word": "resolve",
+      "start": 27.42,
+      "end": 27.84
+    },
+    {
+      "word": "client",
+      "start": 27.84,
+      "end": 28.28
+    },
+    {
+      "word": "issues",
+      "start": 28.28,
+      "end": 28.62
+    },
+    {
+      "word": "early",
+      "start": 28.62,
+      "end": 29.04
+    },
+    {
+      "word": "in",
+      "start": 29.04,
+      "end": 29.24
+    },
+    {
+      "word": "lock",
+      "start": 29.24,
+      "end": 29.46
+    },
+    {
+      "word": "in",
+      "start": 29.46,
+      "end": 29.68
+    },
+    {
+      "word": "retainers.",
+      "start": 29.68,
+      "end": 30.2
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Identify and fix at-risk client relationships before it's too late.",
+      "line2": "PREDICT CLIENT CHURN",
+      "tag": "\ud83d\uded1 Automated client churn prediction system based on communication frequency",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated client churn prediction system based on communication frequency",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated client churn prediction system based on communication frequency"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated client churn prediction system based on communication frequency",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

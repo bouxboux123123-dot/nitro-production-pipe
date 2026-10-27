@@ -1,0 +1,431 @@
+{
+  "page": "page-06",
+  "idea": "Automated timezone meeting scheduler that finds fair overlapping hours",
+  "text": "Scheduling a critical sync across London, New York, and Tokyo is an absolute operational nightmare. Someone always ends up logging on during their dinner or sacrificing their sleep at midnight. Manual timezone math leads to costly scheduling errors that stall cross-functional releases for entire sprint cycles. Use Clockwise or SavvyCal to automatically calculate rotating overlap windows that balance the timezone burden fairly. You protect global team happiness without sacrificing collaboration.",
+  "duration": 31.61,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Scheduling",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "a",
+      "start": 0.54,
+      "end": 0.78
+    },
+    {
+      "word": "critical",
+      "start": 0.78,
+      "end": 1.14
+    },
+    {
+      "word": "sink",
+      "start": 1.14,
+      "end": 1.44
+    },
+    {
+      "word": "across",
+      "start": 1.44,
+      "end": 1.86
+    },
+    {
+      "word": "London,",
+      "start": 1.86,
+      "end": 2.28
+    },
+    {
+      "word": "New",
+      "start": 2.6,
+      "end": 2.7
+    },
+    {
+      "word": "York,",
+      "start": 2.7,
+      "end": 2.96
+    },
+    {
+      "word": "and",
+      "start": 3.06,
+      "end": 3.24
+    },
+    {
+      "word": "Tokyo",
+      "start": 3.24,
+      "end": 3.68
+    },
+    {
+      "word": "is",
+      "start": 3.68,
+      "end": 4.18
+    },
+    {
+      "word": "an",
+      "start": 4.18,
+      "end": 4.44
+    },
+    {
+      "word": "absolute",
+      "start": 4.44,
+      "end": 4.86
+    },
+    {
+      "word": "operational",
+      "start": 4.86,
+      "end": 5.64
+    },
+    {
+      "word": "nightmare.",
+      "start": 5.64,
+      "end": 6.14
+    },
+    {
+      "word": "Someone",
+      "start": 6.92,
+      "end": 7.06
+    },
+    {
+      "word": "always",
+      "start": 7.06,
+      "end": 7.58
+    },
+    {
+      "word": "ends",
+      "start": 7.58,
+      "end": 7.8
+    },
+    {
+      "word": "up",
+      "start": 7.8,
+      "end": 8.06
+    },
+    {
+      "word": "logging",
+      "start": 8.06,
+      "end": 8.34
+    },
+    {
+      "word": "on",
+      "start": 8.34,
+      "end": 8.7
+    },
+    {
+      "word": "during",
+      "start": 8.7,
+      "end": 8.96
+    },
+    {
+      "word": "their",
+      "start": 8.96,
+      "end": 9.2
+    },
+    {
+      "word": "dinner",
+      "start": 9.2,
+      "end": 9.4
+    },
+    {
+      "word": "or",
+      "start": 9.4,
+      "end": 10.0
+    },
+    {
+      "word": "sacrificing",
+      "start": 10.0,
+      "end": 10.44
+    },
+    {
+      "word": "their",
+      "start": 10.44,
+      "end": 10.94
+    },
+    {
+      "word": "sleep",
+      "start": 10.94,
+      "end": 11.18
+    },
+    {
+      "word": "at",
+      "start": 11.18,
+      "end": 11.42
+    },
+    {
+      "word": "midnight.",
+      "start": 11.42,
+      "end": 11.94
+    },
+    {
+      "word": "Manual",
+      "start": 12.5,
+      "end": 12.5
+    },
+    {
+      "word": "time",
+      "start": 12.5,
+      "end": 12.84
+    },
+    {
+      "word": "zone",
+      "start": 12.84,
+      "end": 13.14
+    },
+    {
+      "word": "math",
+      "start": 13.14,
+      "end": 13.48
+    },
+    {
+      "word": "leads",
+      "start": 13.48,
+      "end": 13.84
+    },
+    {
+      "word": "to",
+      "start": 13.84,
+      "end": 14.1
+    },
+    {
+      "word": "costly",
+      "start": 14.1,
+      "end": 14.4
+    },
+    {
+      "word": "scheduling",
+      "start": 14.4,
+      "end": 15.02
+    },
+    {
+      "word": "errors",
+      "start": 15.02,
+      "end": 15.4
+    },
+    {
+      "word": "that",
+      "start": 15.4,
+      "end": 15.92
+    },
+    {
+      "word": "stall",
+      "start": 15.92,
+      "end": 16.2
+    },
+    {
+      "word": "cross",
+      "start": 16.2,
+      "end": 16.54
+    },
+    {
+      "word": "-functional",
+      "start": 16.54,
+      "end": 16.88
+    },
+    {
+      "word": "releases",
+      "start": 16.88,
+      "end": 17.36
+    },
+    {
+      "word": "for",
+      "start": 17.36,
+      "end": 17.84
+    },
+    {
+      "word": "entire",
+      "start": 17.84,
+      "end": 18.22
+    },
+    {
+      "word": "sprint",
+      "start": 18.22,
+      "end": 18.54
+    },
+    {
+      "word": "cycles.",
+      "start": 18.54,
+      "end": 18.96
+    },
+    {
+      "word": "Use",
+      "start": 19.6,
+      "end": 19.82
+    },
+    {
+      "word": "clockwise",
+      "start": 19.82,
+      "end": 20.46
+    },
+    {
+      "word": "or",
+      "start": 20.46,
+      "end": 21.02
+    },
+    {
+      "word": "savvy",
+      "start": 21.02,
+      "end": 21.44
+    },
+    {
+      "word": "cow",
+      "start": 21.44,
+      "end": 21.76
+    },
+    {
+      "word": "to",
+      "start": 21.76,
+      "end": 22.12
+    },
+    {
+      "word": "automatically",
+      "start": 22.12,
+      "end": 22.48
+    },
+    {
+      "word": "calculate",
+      "start": 22.48,
+      "end": 23.24
+    },
+    {
+      "word": "rotating",
+      "start": 23.24,
+      "end": 23.78
+    },
+    {
+      "word": "overlap",
+      "start": 23.78,
+      "end": 24.26
+    },
+    {
+      "word": "windows",
+      "start": 24.26,
+      "end": 24.8
+    },
+    {
+      "word": "that",
+      "start": 24.8,
+      "end": 25.28
+    },
+    {
+      "word": "balance",
+      "start": 25.28,
+      "end": 25.62
+    },
+    {
+      "word": "the",
+      "start": 25.62,
+      "end": 26.1
+    },
+    {
+      "word": "time",
+      "start": 26.1,
+      "end": 26.16
+    },
+    {
+      "word": "zone",
+      "start": 26.16,
+      "end": 26.44
+    },
+    {
+      "word": "burden",
+      "start": 26.44,
+      "end": 26.82
+    },
+    {
+      "word": "fairly.",
+      "start": 26.82,
+      "end": 27.2
+    },
+    {
+      "word": "You",
+      "start": 27.2,
+      "end": 27.94
+    },
+    {
+      "word": "protect",
+      "start": 27.94,
+      "end": 28.32
+    },
+    {
+      "word": "global",
+      "start": 28.32,
+      "end": 28.78
+    },
+    {
+      "word": "team",
+      "start": 28.78,
+      "end": 29.18
+    },
+    {
+      "word": "happiness",
+      "start": 29.18,
+      "end": 29.56
+    },
+    {
+      "word": "without",
+      "start": 29.56,
+      "end": 30.04
+    },
+    {
+      "word": "sacrificing",
+      "start": 30.04,
+      "end": 30.68
+    },
+    {
+      "word": "collaboration.",
+      "start": 30.68,
+      "end": 31.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The nightmare of scheduling a team meeting across London, New York, and Tokyo.",
+      "line2": "FAIR TIMEZONE SCHEDULING",
+      "tag": "\ud83d\uded1 Automated timezone meeting scheduler that finds fair overlapping hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Automated timezone meeting scheduler that finds fair overlapping hours",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Automated timezone meeting scheduler that finds fair overlapping hours",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

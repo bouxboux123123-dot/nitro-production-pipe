@@ -1,0 +1,396 @@
+{
+  "page": "page-09",
+  "idea": "Notion vs Obsidian: which second brain tool is right for you",
+  "text": "Notion or Obsidian: which one should you actually use to organize your life? Notion offers sleek relational databases, but lagging web load times disrupt your daily journaling habit. Relying on proprietary cloud sync leaves your critical notes vulnerable to sudden outages. Obsidian fixes this by storing plain Markdown files locally with instant offline search and graph visualization. Pick Obsidian for private speed or Notion for collaborative workspaces.",
+  "duration": 26.283,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Notion",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "or",
+      "start": 0.44,
+      "end": 0.74
+    },
+    {
+      "word": "Obsidian,",
+      "start": 0.74,
+      "end": 1.2
+    },
+    {
+      "word": "which",
+      "start": 1.64,
+      "end": 1.74
+    },
+    {
+      "word": "one",
+      "start": 1.74,
+      "end": 1.88
+    },
+    {
+      "word": "should",
+      "start": 1.88,
+      "end": 2.02
+    },
+    {
+      "word": "you",
+      "start": 2.02,
+      "end": 2.28
+    },
+    {
+      "word": "actually",
+      "start": 2.28,
+      "end": 2.6
+    },
+    {
+      "word": "use",
+      "start": 2.6,
+      "end": 2.8
+    },
+    {
+      "word": "to",
+      "start": 2.8,
+      "end": 3.06
+    },
+    {
+      "word": "organize",
+      "start": 3.06,
+      "end": 3.36
+    },
+    {
+      "word": "your",
+      "start": 3.36,
+      "end": 3.62
+    },
+    {
+      "word": "life.",
+      "start": 3.62,
+      "end": 4.1
+    },
+    {
+      "word": "Notion",
+      "start": 4.5,
+      "end": 4.8
+    },
+    {
+      "word": "offers",
+      "start": 4.8,
+      "end": 5.1
+    },
+    {
+      "word": "sleek",
+      "start": 5.1,
+      "end": 5.46
+    },
+    {
+      "word": "relational",
+      "start": 5.46,
+      "end": 5.98
+    },
+    {
+      "word": "databases,",
+      "start": 5.98,
+      "end": 6.48
+    },
+    {
+      "word": "but",
+      "start": 7.02,
+      "end": 7.12
+    },
+    {
+      "word": "lagging",
+      "start": 7.12,
+      "end": 7.44
+    },
+    {
+      "word": "web",
+      "start": 7.44,
+      "end": 7.7
+    },
+    {
+      "word": "load",
+      "start": 7.7,
+      "end": 7.96
+    },
+    {
+      "word": "times",
+      "start": 7.96,
+      "end": 8.34
+    },
+    {
+      "word": "disrupt",
+      "start": 8.34,
+      "end": 8.72
+    },
+    {
+      "word": "your",
+      "start": 8.72,
+      "end": 9.2
+    },
+    {
+      "word": "daily",
+      "start": 9.2,
+      "end": 9.24
+    },
+    {
+      "word": "journaling",
+      "start": 9.24,
+      "end": 9.68
+    },
+    {
+      "word": "habit.",
+      "start": 9.68,
+      "end": 10.02
+    },
+    {
+      "word": "Relying",
+      "start": 10.46,
+      "end": 10.78
+    },
+    {
+      "word": "on",
+      "start": 10.78,
+      "end": 10.98
+    },
+    {
+      "word": "proprietary",
+      "start": 10.98,
+      "end": 11.48
+    },
+    {
+      "word": "cloud",
+      "start": 11.48,
+      "end": 12.02
+    },
+    {
+      "word": "sync",
+      "start": 12.02,
+      "end": 12.32
+    },
+    {
+      "word": "leaves",
+      "start": 12.32,
+      "end": 12.62
+    },
+    {
+      "word": "your",
+      "start": 12.62,
+      "end": 12.86
+    },
+    {
+      "word": "critical",
+      "start": 12.86,
+      "end": 13.14
+    },
+    {
+      "word": "notes",
+      "start": 13.14,
+      "end": 13.5
+    },
+    {
+      "word": "vulnerable",
+      "start": 13.5,
+      "end": 13.9
+    },
+    {
+      "word": "to",
+      "start": 13.9,
+      "end": 14.28
+    },
+    {
+      "word": "sudden",
+      "start": 14.28,
+      "end": 14.5
+    },
+    {
+      "word": "outages.",
+      "start": 14.5,
+      "end": 15.02
+    },
+    {
+      "word": "Obsidian",
+      "start": 15.72,
+      "end": 16.0
+    },
+    {
+      "word": "fixes",
+      "start": 16.0,
+      "end": 16.34
+    },
+    {
+      "word": "this",
+      "start": 16.34,
+      "end": 16.72
+    },
+    {
+      "word": "by",
+      "start": 16.72,
+      "end": 16.96
+    },
+    {
+      "word": "storing",
+      "start": 16.96,
+      "end": 17.32
+    },
+    {
+      "word": "plain",
+      "start": 17.32,
+      "end": 17.64
+    },
+    {
+      "word": "markdown",
+      "start": 17.64,
+      "end": 18.26
+    },
+    {
+      "word": "files",
+      "start": 18.26,
+      "end": 18.68
+    },
+    {
+      "word": "locally",
+      "start": 18.68,
+      "end": 19.02
+    },
+    {
+      "word": "with",
+      "start": 19.02,
+      "end": 19.44
+    },
+    {
+      "word": "instant",
+      "start": 19.44,
+      "end": 19.72
+    },
+    {
+      "word": "offline",
+      "start": 19.72,
+      "end": 20.12
+    },
+    {
+      "word": "search",
+      "start": 20.12,
+      "end": 20.64
+    },
+    {
+      "word": "and",
+      "start": 20.64,
+      "end": 20.84
+    },
+    {
+      "word": "graph",
+      "start": 20.84,
+      "end": 21.12
+    },
+    {
+      "word": "visualization.",
+      "start": 21.12,
+      "end": 21.82
+    },
+    {
+      "word": "Pick",
+      "start": 22.52,
+      "end": 22.54
+    },
+    {
+      "word": "Obsidian",
+      "start": 22.54,
+      "end": 22.98
+    },
+    {
+      "word": "for",
+      "start": 22.98,
+      "end": 23.28
+    },
+    {
+      "word": "private",
+      "start": 23.28,
+      "end": 23.56
+    },
+    {
+      "word": "speed",
+      "start": 23.56,
+      "end": 24.04
+    },
+    {
+      "word": "or",
+      "start": 24.04,
+      "end": 24.34
+    },
+    {
+      "word": "Notion",
+      "start": 24.34,
+      "end": 24.74
+    },
+    {
+      "word": "for",
+      "start": 24.74,
+      "end": 24.96
+    },
+    {
+      "word": "collaborative",
+      "start": 24.96,
+      "end": 25.38
+    },
+    {
+      "word": "workspaces.",
+      "start": 25.38,
+      "end": 26.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Notion or Obsidian: which one should you actually use to organize your life?",
+      "line2": "NOTION VS OBSIDIAN",
+      "tag": "\ud83d\uded1 Notion vs Obsidian",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "Local NVMe vs Cloud Latency: Notion vs Obsidian",
+      "primitive": "OfflineVsCloudLatency",
+      "props": {
+        "title": "Local NVMe vs Cloud Latency: Notion vs Obsidian",
+        "subtitle": "Notion vs Obsidian"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Proprietary Data Lock-In Trap",
+      "primitive": "DataLockInWarningCard",
+      "props": {
+        "title": "Proprietary Data Lock-In Trap",
+        "subtitle": "Notion vs Obsidian"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Polymorphic Block Architecture",
+      "primitive": "BlockEditorFlexibility",
+      "props": {
+        "title": "Polymorphic Block Architecture",
+        "subtitle": "Notion vs Obsidian"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Interactive Knowledge Graph",
+      "primitive": "GraphNodeNetwork",
+      "props": {
+        "title": "Interactive Knowledge Graph",
+        "subtitle": "Notion vs Obsidian",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

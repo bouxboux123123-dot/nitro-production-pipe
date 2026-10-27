@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Figma AI design tools launch and layout generation features",
+  "text": "Figma just unlocked their newest AI design features to all users. Product teams lose valuable sprint hours building rough wireframes and responsive mobile mocks from scratch. Recreating standard navigation bars, forms, and nested auto-layout containers manually drags out early concept validation. The new Figma AI engine instantly generates editable multi-screen UI flows with linked design system tokens. This slashes early prototyping time by fifty percent.",
+  "duration": 30.522,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Figma",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "just",
+      "start": 0.42,
+      "end": 0.74
+    },
+    {
+      "word": "unlocked",
+      "start": 0.74,
+      "end": 1.14
+    },
+    {
+      "word": "their",
+      "start": 1.14,
+      "end": 1.44
+    },
+    {
+      "word": "newest",
+      "start": 1.44,
+      "end": 1.84
+    },
+    {
+      "word": "AI",
+      "start": 1.84,
+      "end": 2.28
+    },
+    {
+      "word": "design",
+      "start": 2.28,
+      "end": 2.74
+    },
+    {
+      "word": "features",
+      "start": 2.74,
+      "end": 3.16
+    },
+    {
+      "word": "to",
+      "start": 3.16,
+      "end": 3.46
+    },
+    {
+      "word": "all",
+      "start": 3.46,
+      "end": 3.72
+    },
+    {
+      "word": "users.",
+      "start": 3.72,
+      "end": 4.12
+    },
+    {
+      "word": "Product",
+      "start": 4.84,
+      "end": 4.96
+    },
+    {
+      "word": "teams",
+      "start": 4.96,
+      "end": 5.4
+    },
+    {
+      "word": "lose",
+      "start": 5.4,
+      "end": 5.74
+    },
+    {
+      "word": "valuable",
+      "start": 5.74,
+      "end": 6.22
+    },
+    {
+      "word": "sprint",
+      "start": 6.22,
+      "end": 6.62
+    },
+    {
+      "word": "hours,",
+      "start": 6.62,
+      "end": 6.94
+    },
+    {
+      "word": "building",
+      "start": 7.22,
+      "end": 7.38
+    },
+    {
+      "word": "rough",
+      "start": 7.38,
+      "end": 7.72
+    },
+    {
+      "word": "wire",
+      "start": 7.72,
+      "end": 8.04
+    },
+    {
+      "word": "frames",
+      "start": 8.04,
+      "end": 8.44
+    },
+    {
+      "word": "and",
+      "start": 8.44,
+      "end": 8.82
+    },
+    {
+      "word": "responsive",
+      "start": 8.82,
+      "end": 9.3
+    },
+    {
+      "word": "mobile",
+      "start": 9.3,
+      "end": 9.7
+    },
+    {
+      "word": "mocks",
+      "start": 9.7,
+      "end": 9.98
+    },
+    {
+      "word": "from",
+      "start": 9.98,
+      "end": 10.3
+    },
+    {
+      "word": "scratch,",
+      "start": 10.3,
+      "end": 10.76
+    },
+    {
+      "word": "recreating",
+      "start": 11.18,
+      "end": 11.62
+    },
+    {
+      "word": "standard",
+      "start": 11.62,
+      "end": 12.04
+    },
+    {
+      "word": "navigation",
+      "start": 12.04,
+      "end": 12.66
+    },
+    {
+      "word": "bars,",
+      "start": 12.66,
+      "end": 13.08
+    },
+    {
+      "word": "forms,",
+      "start": 13.96,
+      "end": 13.96
+    },
+    {
+      "word": "and",
+      "start": 14.26,
+      "end": 14.26
+    },
+    {
+      "word": "nested",
+      "start": 14.26,
+      "end": 14.6
+    },
+    {
+      "word": "auto",
+      "start": 14.6,
+      "end": 14.9
+    },
+    {
+      "word": "layout",
+      "start": 14.9,
+      "end": 15.26
+    },
+    {
+      "word": "containers,",
+      "start": 15.26,
+      "end": 15.88
+    },
+    {
+      "word": "manually",
+      "start": 16.64,
+      "end": 16.64
+    },
+    {
+      "word": "drags",
+      "start": 16.64,
+      "end": 17.02
+    },
+    {
+      "word": "out",
+      "start": 17.02,
+      "end": 17.38
+    },
+    {
+      "word": "early",
+      "start": 17.38,
+      "end": 17.66
+    },
+    {
+      "word": "concept",
+      "start": 17.66,
+      "end": 18.1
+    },
+    {
+      "word": "validation.",
+      "start": 18.1,
+      "end": 18.68
+    },
+    {
+      "word": "The",
+      "start": 19.4,
+      "end": 19.52
+    },
+    {
+      "word": "new",
+      "start": 19.52,
+      "end": 19.76
+    },
+    {
+      "word": "Figma",
+      "start": 19.76,
+      "end": 20.1
+    },
+    {
+      "word": "AI",
+      "start": 20.1,
+      "end": 20.66
+    },
+    {
+      "word": "engine",
+      "start": 20.66,
+      "end": 20.98
+    },
+    {
+      "word": "instantly",
+      "start": 20.98,
+      "end": 21.66
+    },
+    {
+      "word": "generates",
+      "start": 21.66,
+      "end": 22.3
+    },
+    {
+      "word": "editable",
+      "start": 22.3,
+      "end": 22.82
+    },
+    {
+      "word": "multi",
+      "start": 22.82,
+      "end": 23.2
+    },
+    {
+      "word": "-screen",
+      "start": 23.2,
+      "end": 23.62
+    },
+    {
+      "word": "UI",
+      "start": 23.62,
+      "end": 24.14
+    },
+    {
+      "word": "flows",
+      "start": 24.14,
+      "end": 24.56
+    },
+    {
+      "word": "with",
+      "start": 24.56,
+      "end": 25.04
+    },
+    {
+      "word": "linked",
+      "start": 25.04,
+      "end": 25.32
+    },
+    {
+      "word": "design",
+      "start": 25.32,
+      "end": 25.72
+    },
+    {
+      "word": "system",
+      "start": 25.72,
+      "end": 26.12
+    },
+    {
+      "word": "tokens.",
+      "start": 26.12,
+      "end": 26.6
+    },
+    {
+      "word": "This",
+      "start": 26.6,
+      "end": 27.44
+    },
+    {
+      "word": "slash",
+      "start": 27.44,
+      "end": 27.7
+    },
+    {
+      "word": "is",
+      "start": 27.7,
+      "end": 28.02
+    },
+    {
+      "word": "early",
+      "start": 28.02,
+      "end": 28.3
+    },
+    {
+      "word": "prototyping",
+      "start": 28.3,
+      "end": 29.04
+    },
+    {
+      "word": "time",
+      "start": 29.04,
+      "end": 29.42
+    },
+    {
+      "word": "by",
+      "start": 29.42,
+      "end": 29.72
+    },
+    {
+      "word": "50%.",
+      "start": 29.72,
+      "end": 30.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Figma just unlocked their newest AI design features to all users.",
+      "line2": "FIGMA AI DESIGN TOOLS",
+      "tag": "\ud83d\uded1 Figma AI design tools launch and layout generation features",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Figma AI design tools launch and layout generation features",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

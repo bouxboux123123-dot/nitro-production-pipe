@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "CapCut desktop AI avatar and voice translation upgrades",
+  "text": "Cursor's latest update lets you assign entire feature tickets to an AI agent while you focus on architecture. Senior engineers waste high-value problem-solving hours implementing routine UI components and boilerplate state logic. Getting bogged down in mundane implementation details delays architectural refactors and stalls sprint milestones. Cursor's background agent handles ticket requirements across your repository, writing code and running tests autonomously. You multiply your shipping capacity tenfold.",
+  "duration": 32.271,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Cursor's",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "word": "latest",
+      "start": 0.52,
+      "end": 0.82
+    },
+    {
+      "word": "update",
+      "start": 0.82,
+      "end": 1.24
+    },
+    {
+      "word": "lets",
+      "start": 1.24,
+      "end": 1.5
+    },
+    {
+      "word": "you",
+      "start": 1.5,
+      "end": 1.68
+    },
+    {
+      "word": "assign",
+      "start": 1.68,
+      "end": 2.0
+    },
+    {
+      "word": "entire",
+      "start": 2.0,
+      "end": 2.54
+    },
+    {
+      "word": "feature",
+      "start": 2.54,
+      "end": 2.84
+    },
+    {
+      "word": "tickets",
+      "start": 2.84,
+      "end": 3.2
+    },
+    {
+      "word": "to",
+      "start": 3.2,
+      "end": 3.46
+    },
+    {
+      "word": "an",
+      "start": 3.46,
+      "end": 3.72
+    },
+    {
+      "word": "AI",
+      "start": 3.72,
+      "end": 4.08
+    },
+    {
+      "word": "agent",
+      "start": 4.08,
+      "end": 4.48
+    },
+    {
+      "word": "while",
+      "start": 4.48,
+      "end": 4.94
+    },
+    {
+      "word": "you",
+      "start": 4.94,
+      "end": 5.16
+    },
+    {
+      "word": "focus",
+      "start": 5.16,
+      "end": 5.4
+    },
+    {
+      "word": "on",
+      "start": 5.4,
+      "end": 5.78
+    },
+    {
+      "word": "architecture.",
+      "start": 5.78,
+      "end": 6.3
+    },
+    {
+      "word": "Senior",
+      "start": 7.06,
+      "end": 7.28
+    },
+    {
+      "word": "engineers",
+      "start": 7.28,
+      "end": 7.86
+    },
+    {
+      "word": "waste",
+      "start": 7.86,
+      "end": 8.28
+    },
+    {
+      "word": "high",
+      "start": 8.28,
+      "end": 8.72
+    },
+    {
+      "word": "-value",
+      "start": 8.72,
+      "end": 9.04
+    },
+    {
+      "word": "problem",
+      "start": 9.04,
+      "end": 9.52
+    },
+    {
+      "word": "-solving",
+      "start": 9.52,
+      "end": 9.9
+    },
+    {
+      "word": "hours",
+      "start": 9.9,
+      "end": 10.64
+    },
+    {
+      "word": "implementing",
+      "start": 10.64,
+      "end": 11.18
+    },
+    {
+      "word": "routine",
+      "start": 11.18,
+      "end": 11.78
+    },
+    {
+      "word": "UI",
+      "start": 11.78,
+      "end": 12.22
+    },
+    {
+      "word": "components",
+      "start": 12.22,
+      "end": 12.74
+    },
+    {
+      "word": "and",
+      "start": 12.74,
+      "end": 13.12
+    },
+    {
+      "word": "boilerplate",
+      "start": 13.12,
+      "end": 13.66
+    },
+    {
+      "word": "state",
+      "start": 13.66,
+      "end": 14.04
+    },
+    {
+      "word": "logic.",
+      "start": 14.04,
+      "end": 14.52
+    },
+    {
+      "word": "Getting",
+      "start": 15.1,
+      "end": 15.1
+    },
+    {
+      "word": "bogged",
+      "start": 15.1,
+      "end": 15.56
+    },
+    {
+      "word": "down",
+      "start": 15.56,
+      "end": 15.82
+    },
+    {
+      "word": "in",
+      "start": 15.82,
+      "end": 16.04
+    },
+    {
+      "word": "mundane",
+      "start": 16.04,
+      "end": 16.44
+    },
+    {
+      "word": "implementation",
+      "start": 16.44,
+      "end": 17.16
+    },
+    {
+      "word": "details",
+      "start": 17.16,
+      "end": 17.78
+    },
+    {
+      "word": "delays",
+      "start": 17.78,
+      "end": 18.2
+    },
+    {
+      "word": "architectural",
+      "start": 18.2,
+      "end": 18.8
+    },
+    {
+      "word": "refactors",
+      "start": 18.8,
+      "end": 19.64
+    },
+    {
+      "word": "and",
+      "start": 19.64,
+      "end": 20.08
+    },
+    {
+      "word": "stalls",
+      "start": 20.08,
+      "end": 20.42
+    },
+    {
+      "word": "sprint",
+      "start": 20.42,
+      "end": 20.76
+    },
+    {
+      "word": "milestones.",
+      "start": 20.76,
+      "end": 21.36
+    },
+    {
+      "word": "Cursor's",
+      "start": 22.1,
+      "end": 22.56
+    },
+    {
+      "word": "background",
+      "start": 22.56,
+      "end": 22.88
+    },
+    {
+      "word": "agent",
+      "start": 22.88,
+      "end": 23.52
+    },
+    {
+      "word": "handles",
+      "start": 23.52,
+      "end": 23.94
+    },
+    {
+      "word": "ticket",
+      "start": 23.94,
+      "end": 24.26
+    },
+    {
+      "word": "requirements",
+      "start": 24.26,
+      "end": 24.82
+    },
+    {
+      "word": "across",
+      "start": 24.82,
+      "end": 25.16
+    },
+    {
+      "word": "your",
+      "start": 25.16,
+      "end": 25.44
+    },
+    {
+      "word": "repository,",
+      "start": 25.44,
+      "end": 26.16
+    },
+    {
+      "word": "writing",
+      "start": 26.16,
+      "end": 26.9
+    },
+    {
+      "word": "code",
+      "start": 26.9,
+      "end": 27.42
+    },
+    {
+      "word": "and",
+      "start": 27.42,
+      "end": 27.66
+    },
+    {
+      "word": "running",
+      "start": 27.66,
+      "end": 27.96
+    },
+    {
+      "word": "tests",
+      "start": 27.96,
+      "end": 28.48
+    },
+    {
+      "word": "autonomously.",
+      "start": 28.48,
+      "end": 29.46
+    },
+    {
+      "word": "You",
+      "start": 29.92,
+      "end": 30.0
+    },
+    {
+      "word": "multiply",
+      "start": 30.0,
+      "end": 30.36
+    },
+    {
+      "word": "your",
+      "start": 30.36,
+      "end": 30.76
+    },
+    {
+      "word": "shipping",
+      "start": 30.76,
+      "end": 31.04
+    },
+    {
+      "word": "capacity",
+      "start": 31.04,
+      "end": 31.54
+    },
+    {
+      "word": "tenfold.",
+      "start": 31.54,
+      "end": 32.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "How content creators are expanding internationally using CapCut's latest tool.",
+      "line2": "CAPCUT AI AVATAR TRANSLATION",
+      "tag": "\ud83d\uded1 CapCut desktop AI avatar and voice translation upgrades",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: CapCut desktop AI avatar and voice translation upgrades",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: CapCut desktop AI avatar and voice translation upgrades",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

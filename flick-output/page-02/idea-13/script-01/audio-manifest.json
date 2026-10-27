@@ -1,0 +1,391 @@
+{
+  "page": "page-02",
+  "idea": "Automated tax and expense sorter for solo freelancers",
+  "text": "Freelance tax season doesn't have to be a nightmare of lost receipts. Solo contractors spend stressful weekends combing through chaotic bank statements, terrified of missing deductions. Categorizing client dinners, software subscriptions, and mileage by hand leads to missed write-offs and penalties. Connecting Keeper directly to your accounts uses machine learning to categorize every eligible expense instantly. You keep thousands more in your pocket every quarter.",
+  "duration": 26.453,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Freelance",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "tax",
+      "start": 0.5,
+      "end": 0.84
+    },
+    {
+      "word": "season",
+      "start": 0.84,
+      "end": 1.12
+    },
+    {
+      "word": "doesn't",
+      "start": 1.12,
+      "end": 1.44
+    },
+    {
+      "word": "have",
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "word": "to",
+      "start": 1.68,
+      "end": 1.78
+    },
+    {
+      "word": "be",
+      "start": 1.78,
+      "end": 1.98
+    },
+    {
+      "word": "a",
+      "start": 1.98,
+      "end": 2.06
+    },
+    {
+      "word": "nightmare",
+      "start": 2.06,
+      "end": 2.3
+    },
+    {
+      "word": "of",
+      "start": 2.3,
+      "end": 2.58
+    },
+    {
+      "word": "lost",
+      "start": 2.58,
+      "end": 2.9
+    },
+    {
+      "word": "receipts.",
+      "start": 2.9,
+      "end": 3.5
+    },
+    {
+      "word": "Solo",
+      "start": 4.22,
+      "end": 4.22
+    },
+    {
+      "word": "contractor",
+      "start": 4.22,
+      "end": 4.68
+    },
+    {
+      "word": "spends",
+      "start": 4.68,
+      "end": 5.16
+    },
+    {
+      "word": "stressful",
+      "start": 5.16,
+      "end": 5.6
+    },
+    {
+      "word": "weekends",
+      "start": 5.6,
+      "end": 6.08
+    },
+    {
+      "word": "combing",
+      "start": 6.08,
+      "end": 6.48
+    },
+    {
+      "word": "through",
+      "start": 6.48,
+      "end": 6.72
+    },
+    {
+      "word": "chaotic",
+      "start": 6.72,
+      "end": 7.1
+    },
+    {
+      "word": "bank",
+      "start": 7.1,
+      "end": 7.42
+    },
+    {
+      "word": "statements,",
+      "start": 7.42,
+      "end": 7.9
+    },
+    {
+      "word": "terrified",
+      "start": 8.5,
+      "end": 8.6
+    },
+    {
+      "word": "of",
+      "start": 8.6,
+      "end": 8.94
+    },
+    {
+      "word": "missing",
+      "start": 8.94,
+      "end": 9.12
+    },
+    {
+      "word": "deductions.",
+      "start": 9.12,
+      "end": 9.72
+    },
+    {
+      "word": "Categorizing",
+      "start": 10.3,
+      "end": 10.9
+    },
+    {
+      "word": "client",
+      "start": 10.9,
+      "end": 11.34
+    },
+    {
+      "word": "dinners,",
+      "start": 11.34,
+      "end": 11.6
+    },
+    {
+      "word": "software",
+      "start": 12.4,
+      "end": 12.4
+    },
+    {
+      "word": "subscriptions,",
+      "start": 12.4,
+      "end": 13.08
+    },
+    {
+      "word": "and",
+      "start": 13.34,
+      "end": 13.46
+    },
+    {
+      "word": "mileage",
+      "start": 13.46,
+      "end": 13.72
+    },
+    {
+      "word": "by",
+      "start": 13.72,
+      "end": 14.1
+    },
+    {
+      "word": "hand",
+      "start": 14.1,
+      "end": 14.48
+    },
+    {
+      "word": "leads",
+      "start": 14.48,
+      "end": 14.94
+    },
+    {
+      "word": "to",
+      "start": 14.94,
+      "end": 15.16
+    },
+    {
+      "word": "missed",
+      "start": 15.16,
+      "end": 15.36
+    },
+    {
+      "word": "write",
+      "start": 15.36,
+      "end": 15.68
+    },
+    {
+      "word": "-offs",
+      "start": 15.68,
+      "end": 15.92
+    },
+    {
+      "word": "and",
+      "start": 15.92,
+      "end": 16.26
+    },
+    {
+      "word": "penalties.",
+      "start": 16.26,
+      "end": 16.58
+    },
+    {
+      "word": "Connecting",
+      "start": 17.22,
+      "end": 17.74
+    },
+    {
+      "word": "keeper",
+      "start": 17.74,
+      "end": 18.02
+    },
+    {
+      "word": "directly",
+      "start": 18.02,
+      "end": 18.44
+    },
+    {
+      "word": "to",
+      "start": 18.44,
+      "end": 18.66
+    },
+    {
+      "word": "your",
+      "start": 18.66,
+      "end": 18.82
+    },
+    {
+      "word": "accounts",
+      "start": 18.82,
+      "end": 19.22
+    },
+    {
+      "word": "uses",
+      "start": 19.22,
+      "end": 19.74
+    },
+    {
+      "word": "machine",
+      "start": 19.74,
+      "end": 20.1
+    },
+    {
+      "word": "learning",
+      "start": 20.1,
+      "end": 20.54
+    },
+    {
+      "word": "to",
+      "start": 20.54,
+      "end": 20.98
+    },
+    {
+      "word": "categorize",
+      "start": 20.98,
+      "end": 21.44
+    },
+    {
+      "word": "every",
+      "start": 21.44,
+      "end": 21.86
+    },
+    {
+      "word": "eligible",
+      "start": 21.86,
+      "end": 22.28
+    },
+    {
+      "word": "expense",
+      "start": 22.28,
+      "end": 22.82
+    },
+    {
+      "word": "instantly.",
+      "start": 22.82,
+      "end": 23.42
+    },
+    {
+      "word": "You",
+      "start": 23.88,
+      "end": 24.04
+    },
+    {
+      "word": "keep",
+      "start": 24.04,
+      "end": 24.32
+    },
+    {
+      "word": "thousands",
+      "start": 24.32,
+      "end": 24.78
+    },
+    {
+      "word": "more",
+      "start": 24.78,
+      "end": 25.12
+    },
+    {
+      "word": "in",
+      "start": 25.12,
+      "end": 25.22
+    },
+    {
+      "word": "your",
+      "start": 25.22,
+      "end": 25.4
+    },
+    {
+      "word": "pocket",
+      "start": 25.4,
+      "end": 25.68
+    },
+    {
+      "word": "every",
+      "start": 25.68,
+      "end": 26.08
+    },
+    {
+      "word": "quarter.",
+      "start": 26.08,
+      "end": 26.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Freelance tax season doesn't have to be a nightmare of lost receipts.",
+      "line2": "AUTO-SORT FREELANCE TAXES",
+      "tag": "\ud83d\uded1 Automated tax and expense sorter for solo freelancers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated tax and expense sorter for solo freelancers",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated tax and expense sorter for solo freelancers",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated tax and expense sorter for solo freelancers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

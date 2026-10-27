@@ -1,0 +1,396 @@
+{
+  "page": "page-03",
+  "idea": "Automated weekly backup system for store assets and customer records",
+  "text": "What would happen to your side hustle if your main platform account was banned today? Relying solely on a third-party marketplace leaves your income vulnerable to sudden policy changes. When a platform freezes your account, your customer records and digital files vanish instantly. Deploy a Make webhook that exports every new order into an independent Google Drive sheet. You will protect your livelihood against catastrophic shutdowns.",
+  "duration": 23.957,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "What",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "would",
+      "start": 0.2,
+      "end": 0.4
+    },
+    {
+      "word": "happen",
+      "start": 0.4,
+      "end": 0.56
+    },
+    {
+      "word": "to",
+      "start": 0.56,
+      "end": 0.7
+    },
+    {
+      "word": "your",
+      "start": 0.7,
+      "end": 0.86
+    },
+    {
+      "word": "side",
+      "start": 0.86,
+      "end": 1.16
+    },
+    {
+      "word": "hustle",
+      "start": 1.16,
+      "end": 1.44
+    },
+    {
+      "word": "if",
+      "start": 1.44,
+      "end": 1.62
+    },
+    {
+      "word": "your",
+      "start": 1.62,
+      "end": 1.8
+    },
+    {
+      "word": "main",
+      "start": 1.8,
+      "end": 2.02
+    },
+    {
+      "word": "platform",
+      "start": 2.02,
+      "end": 2.42
+    },
+    {
+      "word": "account",
+      "start": 2.42,
+      "end": 2.8
+    },
+    {
+      "word": "was",
+      "start": 2.8,
+      "end": 3.0
+    },
+    {
+      "word": "banned",
+      "start": 3.0,
+      "end": 3.24
+    },
+    {
+      "word": "today?",
+      "start": 3.24,
+      "end": 3.88
+    },
+    {
+      "word": "Relying",
+      "start": 4.26,
+      "end": 4.6
+    },
+    {
+      "word": "solely",
+      "start": 4.6,
+      "end": 5.02
+    },
+    {
+      "word": "on",
+      "start": 5.02,
+      "end": 5.2
+    },
+    {
+      "word": "a",
+      "start": 5.2,
+      "end": 5.34
+    },
+    {
+      "word": "third",
+      "start": 5.34,
+      "end": 5.56
+    },
+    {
+      "word": "party",
+      "start": 5.56,
+      "end": 5.88
+    },
+    {
+      "word": "marketplace",
+      "start": 5.88,
+      "end": 6.5
+    },
+    {
+      "word": "leaves",
+      "start": 6.5,
+      "end": 6.94
+    },
+    {
+      "word": "your",
+      "start": 6.94,
+      "end": 7.2
+    },
+    {
+      "word": "income",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "word": "vulnerable",
+      "start": 7.52,
+      "end": 7.92
+    },
+    {
+      "word": "to",
+      "start": 7.92,
+      "end": 8.3
+    },
+    {
+      "word": "sudden",
+      "start": 8.3,
+      "end": 8.54
+    },
+    {
+      "word": "policy",
+      "start": 8.54,
+      "end": 8.92
+    },
+    {
+      "word": "changes.",
+      "start": 8.92,
+      "end": 9.52
+    },
+    {
+      "word": "When",
+      "start": 10.08,
+      "end": 10.2
+    },
+    {
+      "word": "a",
+      "start": 10.2,
+      "end": 10.32
+    },
+    {
+      "word": "platform",
+      "start": 10.32,
+      "end": 10.7
+    },
+    {
+      "word": "freezes",
+      "start": 10.7,
+      "end": 11.1
+    },
+    {
+      "word": "your",
+      "start": 11.1,
+      "end": 11.36
+    },
+    {
+      "word": "account,",
+      "start": 11.36,
+      "end": 11.72
+    },
+    {
+      "word": "your",
+      "start": 12.1,
+      "end": 12.42
+    },
+    {
+      "word": "customer",
+      "start": 12.42,
+      "end": 12.6
+    },
+    {
+      "word": "records",
+      "start": 12.6,
+      "end": 13.0
+    },
+    {
+      "word": "and",
+      "start": 13.0,
+      "end": 13.26
+    },
+    {
+      "word": "digital",
+      "start": 13.26,
+      "end": 13.58
+    },
+    {
+      "word": "files",
+      "start": 13.58,
+      "end": 14.12
+    },
+    {
+      "word": "vanish",
+      "start": 14.12,
+      "end": 14.52
+    },
+    {
+      "word": "instantly.",
+      "start": 14.52,
+      "end": 15.18
+    },
+    {
+      "word": "Deploy",
+      "start": 15.82,
+      "end": 16.04
+    },
+    {
+      "word": "a",
+      "start": 16.04,
+      "end": 16.3
+    },
+    {
+      "word": "make",
+      "start": 16.3,
+      "end": 16.5
+    },
+    {
+      "word": "webhook",
+      "start": 16.5,
+      "end": 16.9
+    },
+    {
+      "word": "that",
+      "start": 16.9,
+      "end": 17.14
+    },
+    {
+      "word": "exports",
+      "start": 17.14,
+      "end": 17.5
+    },
+    {
+      "word": "every",
+      "start": 17.5,
+      "end": 17.92
+    },
+    {
+      "word": "new",
+      "start": 17.92,
+      "end": 18.2
+    },
+    {
+      "word": "order",
+      "start": 18.2,
+      "end": 18.4
+    },
+    {
+      "word": "into",
+      "start": 18.4,
+      "end": 18.7
+    },
+    {
+      "word": "an",
+      "start": 18.7,
+      "end": 18.9
+    },
+    {
+      "word": "independent",
+      "start": 18.9,
+      "end": 19.34
+    },
+    {
+      "word": "Google",
+      "start": 19.34,
+      "end": 19.86
+    },
+    {
+      "word": "Drive",
+      "start": 19.86,
+      "end": 20.26
+    },
+    {
+      "word": "sheet.",
+      "start": 20.26,
+      "end": 20.58
+    },
+    {
+      "word": "You",
+      "start": 20.98,
+      "end": 21.08
+    },
+    {
+      "word": "will",
+      "start": 21.08,
+      "end": 21.3
+    },
+    {
+      "word": "protect",
+      "start": 21.3,
+      "end": 21.52
+    },
+    {
+      "word": "your",
+      "start": 21.52,
+      "end": 22.0
+    },
+    {
+      "word": "livelihood",
+      "start": 22.0,
+      "end": 22.12
+    },
+    {
+      "word": "against",
+      "start": 22.12,
+      "end": 22.66
+    },
+    {
+      "word": "catastrophic",
+      "start": 22.66,
+      "end": 23.16
+    },
+    {
+      "word": "shutdowns.",
+      "start": 23.16,
+      "end": 23.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "What would happen to your side hustle if your main platform account was banned today?",
+      "line2": "AUTO-BACKUP STORE DATA",
+      "tag": "\ud83d\uded1 Automated weekly backup system for store assets and customer records",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated weekly backup system for store assets and customer records",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated weekly backup system for store assets and customer records",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated weekly backup system for store assets and customer records",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

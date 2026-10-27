@@ -1,0 +1,401 @@
+{
+  "page": "page-08",
+  "idea": "Automated email filter that unsubscribes from spam newsletters",
+  "text": "This simple search trick in Gmail rounds up every promotional newsletter for one-click removal. Waking up to hundreds of promotional blasts creates morning anxiety and hides urgent priority communications. Manually clicking tiny unsubscribe links at the bottom of every message wastes hours every single week. Instead, search unsubscribe in Gmail, select matching conversations, and create an automated rule to archive them. You maintain a spotless inbox effortlessly.",
+  "duration": 29.093,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "simple",
+      "start": 0.28,
+      "end": 0.64
+    },
+    {
+      "word": "search",
+      "start": 0.64,
+      "end": 0.96
+    },
+    {
+      "word": "trick",
+      "start": 0.96,
+      "end": 1.22
+    },
+    {
+      "word": "in",
+      "start": 1.22,
+      "end": 1.44
+    },
+    {
+      "word": "Gmail",
+      "start": 1.44,
+      "end": 1.82
+    },
+    {
+      "word": "rounds",
+      "start": 1.82,
+      "end": 2.28
+    },
+    {
+      "word": "up",
+      "start": 2.28,
+      "end": 2.58
+    },
+    {
+      "word": "every",
+      "start": 2.58,
+      "end": 2.9
+    },
+    {
+      "word": "promotional",
+      "start": 2.9,
+      "end": 3.38
+    },
+    {
+      "word": "newsletter",
+      "start": 3.38,
+      "end": 3.9
+    },
+    {
+      "word": "for",
+      "start": 3.9,
+      "end": 4.28
+    },
+    {
+      "word": "one",
+      "start": 4.28,
+      "end": 4.56
+    },
+    {
+      "word": "-click",
+      "start": 4.56,
+      "end": 4.78
+    },
+    {
+      "word": "removal.",
+      "start": 4.78,
+      "end": 5.42
+    },
+    {
+      "word": "Waking",
+      "start": 5.88,
+      "end": 6.14
+    },
+    {
+      "word": "up",
+      "start": 6.14,
+      "end": 6.4
+    },
+    {
+      "word": "to",
+      "start": 6.4,
+      "end": 6.68
+    },
+    {
+      "word": "hundreds",
+      "start": 6.68,
+      "end": 6.86
+    },
+    {
+      "word": "of",
+      "start": 6.86,
+      "end": 7.16
+    },
+    {
+      "word": "promotional",
+      "start": 7.16,
+      "end": 7.62
+    },
+    {
+      "word": "blasts",
+      "start": 7.62,
+      "end": 8.12
+    },
+    {
+      "word": "creates",
+      "start": 8.12,
+      "end": 8.56
+    },
+    {
+      "word": "morning",
+      "start": 8.56,
+      "end": 8.86
+    },
+    {
+      "word": "anxiety",
+      "start": 8.86,
+      "end": 9.48
+    },
+    {
+      "word": "and",
+      "start": 9.48,
+      "end": 10.08
+    },
+    {
+      "word": "hides",
+      "start": 10.08,
+      "end": 10.44
+    },
+    {
+      "word": "urgent",
+      "start": 10.44,
+      "end": 10.84
+    },
+    {
+      "word": "priority",
+      "start": 10.84,
+      "end": 11.38
+    },
+    {
+      "word": "communications.",
+      "start": 11.38,
+      "end": 12.2
+    },
+    {
+      "word": "Manually",
+      "start": 12.74,
+      "end": 13.06
+    },
+    {
+      "word": "clicking",
+      "start": 13.06,
+      "end": 13.46
+    },
+    {
+      "word": "tiny",
+      "start": 13.46,
+      "end": 13.9
+    },
+    {
+      "word": "unsubscribe",
+      "start": 13.9,
+      "end": 14.74
+    },
+    {
+      "word": "links",
+      "start": 14.74,
+      "end": 15.0
+    },
+    {
+      "word": "at",
+      "start": 15.0,
+      "end": 15.22
+    },
+    {
+      "word": "the",
+      "start": 15.22,
+      "end": 15.3
+    },
+    {
+      "word": "bottom",
+      "start": 15.3,
+      "end": 15.46
+    },
+    {
+      "word": "of",
+      "start": 15.46,
+      "end": 15.74
+    },
+    {
+      "word": "every",
+      "start": 15.74,
+      "end": 15.96
+    },
+    {
+      "word": "message",
+      "start": 15.96,
+      "end": 16.28
+    },
+    {
+      "word": "wastes",
+      "start": 16.28,
+      "end": 16.74
+    },
+    {
+      "word": "hours",
+      "start": 16.74,
+      "end": 17.1
+    },
+    {
+      "word": "every",
+      "start": 17.1,
+      "end": 17.5
+    },
+    {
+      "word": "single",
+      "start": 17.5,
+      "end": 17.86
+    },
+    {
+      "word": "week.",
+      "start": 17.86,
+      "end": 18.34
+    },
+    {
+      "word": "Instead,",
+      "start": 18.84,
+      "end": 19.18
+    },
+    {
+      "word": "search",
+      "start": 19.84,
+      "end": 19.92
+    },
+    {
+      "word": "unsubscribe",
+      "start": 19.92,
+      "end": 20.74
+    },
+    {
+      "word": "in",
+      "start": 20.74,
+      "end": 21.04
+    },
+    {
+      "word": "Gmail,",
+      "start": 21.04,
+      "end": 21.52
+    },
+    {
+      "word": "select",
+      "start": 21.98,
+      "end": 22.3
+    },
+    {
+      "word": "matching",
+      "start": 22.3,
+      "end": 22.72
+    },
+    {
+      "word": "conversations",
+      "start": 22.72,
+      "end": 23.36
+    },
+    {
+      "word": "and",
+      "start": 23.36,
+      "end": 23.96
+    },
+    {
+      "word": "create",
+      "start": 23.96,
+      "end": 24.28
+    },
+    {
+      "word": "an",
+      "start": 24.28,
+      "end": 24.9
+    },
+    {
+      "word": "automated",
+      "start": 24.9,
+      "end": 24.9
+    },
+    {
+      "word": "rule",
+      "start": 24.9,
+      "end": 25.24
+    },
+    {
+      "word": "to",
+      "start": 25.24,
+      "end": 25.64
+    },
+    {
+      "word": "archive",
+      "start": 25.64,
+      "end": 25.82
+    },
+    {
+      "word": "them.",
+      "start": 25.82,
+      "end": 26.4
+    },
+    {
+      "word": "You",
+      "start": 26.78,
+      "end": 26.86
+    },
+    {
+      "word": "maintain",
+      "start": 26.86,
+      "end": 27.2
+    },
+    {
+      "word": "a",
+      "start": 27.2,
+      "end": 27.46
+    },
+    {
+      "word": "spotless",
+      "start": 27.46,
+      "end": 27.92
+    },
+    {
+      "word": "inbox",
+      "start": 27.92,
+      "end": 28.38
+    },
+    {
+      "word": "effortlessly.",
+      "start": 28.38,
+      "end": 28.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The simple search trick in Gmail that rounds up every newsletter for one-click removal.",
+      "line2": "AUTO-UNSUBSCRIBE FROM SPAM",
+      "tag": "\ud83d\uded1 Automated email filter that unsubscribes from spam newsletters",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Automated email filter that unsubscribes from spam newsletters",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Automated email filter that unsubscribes from spam newsletters",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

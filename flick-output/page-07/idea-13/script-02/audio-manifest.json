@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "Automated runway and cash burn dashboard on Google Sheets",
+  "text": "This simple runway calculator accurately tracks your startup burn rate and hiring capacity. Founders often approve senior hires during revenue spikes, only to face layoffs when customer churn increases. Static models break because manual formulas cannot adjust when enterprise vendor invoices spike unexpectedly. Link QuickBooks and Brex into Google Sheets to recalculate runway automatically on every transaction. You protect your cash reserves while scaling headcounts safely.",
+  "duration": 29.285,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "simple",
+      "start": 0.26,
+      "end": 0.6
+    },
+    {
+      "word": "runway",
+      "start": 0.6,
+      "end": 0.96
+    },
+    {
+      "word": "calculator",
+      "start": 0.96,
+      "end": 1.52
+    },
+    {
+      "word": "accurately",
+      "start": 1.52,
+      "end": 2.12
+    },
+    {
+      "word": "tracks",
+      "start": 2.12,
+      "end": 2.4
+    },
+    {
+      "word": "your",
+      "start": 2.4,
+      "end": 3.04
+    },
+    {
+      "word": "startup",
+      "start": 3.04,
+      "end": 3.06
+    },
+    {
+      "word": "burn",
+      "start": 3.06,
+      "end": 3.4
+    },
+    {
+      "word": "rate",
+      "start": 3.4,
+      "end": 3.72
+    },
+    {
+      "word": "and",
+      "start": 3.72,
+      "end": 4.14
+    },
+    {
+      "word": "hiring",
+      "start": 4.14,
+      "end": 4.44
+    },
+    {
+      "word": "capacity.",
+      "start": 4.44,
+      "end": 5.16
+    },
+    {
+      "word": "Founders",
+      "start": 6.16,
+      "end": 6.16
+    },
+    {
+      "word": "often",
+      "start": 6.16,
+      "end": 6.62
+    },
+    {
+      "word": "approve",
+      "start": 6.62,
+      "end": 7.04
+    },
+    {
+      "word": "senior",
+      "start": 7.04,
+      "end": 7.38
+    },
+    {
+      "word": "hires",
+      "start": 7.38,
+      "end": 7.78
+    },
+    {
+      "word": "during",
+      "start": 7.78,
+      "end": 8.22
+    },
+    {
+      "word": "revenue",
+      "start": 8.22,
+      "end": 8.48
+    },
+    {
+      "word": "spikes,",
+      "start": 8.48,
+      "end": 9.08
+    },
+    {
+      "word": "only",
+      "start": 9.56,
+      "end": 9.64
+    },
+    {
+      "word": "to",
+      "start": 9.64,
+      "end": 9.9
+    },
+    {
+      "word": "face",
+      "start": 9.9,
+      "end": 10.16
+    },
+    {
+      "word": "layoffs",
+      "start": 10.16,
+      "end": 10.56
+    },
+    {
+      "word": "when",
+      "start": 10.56,
+      "end": 10.9
+    },
+    {
+      "word": "customer",
+      "start": 10.9,
+      "end": 11.24
+    },
+    {
+      "word": "churn",
+      "start": 11.24,
+      "end": 11.72
+    },
+    {
+      "word": "increases.",
+      "start": 11.72,
+      "end": 12.26
+    },
+    {
+      "word": "Static",
+      "start": 13.12,
+      "end": 13.12
+    },
+    {
+      "word": "models",
+      "start": 13.12,
+      "end": 13.46
+    },
+    {
+      "word": "break",
+      "start": 13.46,
+      "end": 13.82
+    },
+    {
+      "word": "because",
+      "start": 13.82,
+      "end": 14.18
+    },
+    {
+      "word": "manual",
+      "start": 14.18,
+      "end": 14.6
+    },
+    {
+      "word": "formulas",
+      "start": 14.6,
+      "end": 15.12
+    },
+    {
+      "word": "cannot",
+      "start": 15.12,
+      "end": 15.58
+    },
+    {
+      "word": "adjust",
+      "start": 15.58,
+      "end": 15.98
+    },
+    {
+      "word": "when",
+      "start": 15.98,
+      "end": 16.3
+    },
+    {
+      "word": "enterprise",
+      "start": 16.3,
+      "end": 16.76
+    },
+    {
+      "word": "vendor",
+      "start": 16.76,
+      "end": 17.14
+    },
+    {
+      "word": "invoices",
+      "start": 17.14,
+      "end": 17.76
+    },
+    {
+      "word": "spike",
+      "start": 17.76,
+      "end": 18.22
+    },
+    {
+      "word": "unexpectedly.",
+      "start": 18.22,
+      "end": 18.9
+    },
+    {
+      "word": "Link",
+      "start": 19.64,
+      "end": 19.96
+    },
+    {
+      "word": "quick",
+      "start": 19.96,
+      "end": 20.24
+    },
+    {
+      "word": "books",
+      "start": 20.24,
+      "end": 20.58
+    },
+    {
+      "word": "and",
+      "start": 20.58,
+      "end": 20.82
+    },
+    {
+      "word": "breaks",
+      "start": 20.82,
+      "end": 21.04
+    },
+    {
+      "word": "into",
+      "start": 21.04,
+      "end": 21.32
+    },
+    {
+      "word": "Google",
+      "start": 21.32,
+      "end": 21.68
+    },
+    {
+      "word": "Sheets",
+      "start": 21.68,
+      "end": 22.04
+    },
+    {
+      "word": "to",
+      "start": 22.04,
+      "end": 22.48
+    },
+    {
+      "word": "recalculate",
+      "start": 22.48,
+      "end": 23.14
+    },
+    {
+      "word": "runway",
+      "start": 23.14,
+      "end": 23.58
+    },
+    {
+      "word": "automatically",
+      "start": 23.58,
+      "end": 24.12
+    },
+    {
+      "word": "on",
+      "start": 24.12,
+      "end": 24.58
+    },
+    {
+      "word": "every",
+      "start": 24.58,
+      "end": 24.86
+    },
+    {
+      "word": "transaction.",
+      "start": 24.86,
+      "end": 25.44
+    },
+    {
+      "word": "You",
+      "start": 26.06,
+      "end": 26.24
+    },
+    {
+      "word": "protect",
+      "start": 26.24,
+      "end": 26.5
+    },
+    {
+      "word": "your",
+      "start": 26.5,
+      "end": 26.74
+    },
+    {
+      "word": "cash",
+      "start": 26.74,
+      "end": 27.02
+    },
+    {
+      "word": "reserves",
+      "start": 27.02,
+      "end": 27.44
+    },
+    {
+      "word": "while",
+      "start": 27.44,
+      "end": 27.8
+    },
+    {
+      "word": "scaling",
+      "start": 27.8,
+      "end": 28.18
+    },
+    {
+      "word": "headcount",
+      "start": 28.18,
+      "end": 28.76
+    },
+    {
+      "word": "safely.",
+      "start": 28.76,
+      "end": 29.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The simple cash runway calculator that tracks burn rate and hiring capacity.",
+      "line2": "TRACK STARTUP RUNWAY",
+      "tag": "\ud83d\uded1 Automated runway and cash burn dashboard on Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

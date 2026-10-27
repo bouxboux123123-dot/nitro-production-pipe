@@ -1,0 +1,391 @@
+{
+  "page": "page-07",
+  "idea": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+  "text": "Reclaim ten hours of founder sanity every single week with this one rule. You waste hours typing repetitive Slack updates, onboarding contractors, and chasing invoices across scattered browser tabs. Relying on manual memory for recurring operations creates mental exhaustion and guarantees dropped balls. Build a Loom and Notion SOP system that triggers task checklists via Zapier whenever projects launch. This delegates routine execution without extra payroll.",
+  "duration": 29.477,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Reclaim",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "10",
+      "start": 0.38,
+      "end": 0.78
+    },
+    {
+      "word": "hours",
+      "start": 0.78,
+      "end": 1.02
+    },
+    {
+      "word": "of",
+      "start": 1.02,
+      "end": 1.48
+    },
+    {
+      "word": "founder",
+      "start": 1.48,
+      "end": 1.52
+    },
+    {
+      "word": "sanity",
+      "start": 1.52,
+      "end": 1.88
+    },
+    {
+      "word": "every",
+      "start": 1.88,
+      "end": 2.38
+    },
+    {
+      "word": "single",
+      "start": 2.38,
+      "end": 2.72
+    },
+    {
+      "word": "week",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "word": "with",
+      "start": 2.96,
+      "end": 3.22
+    },
+    {
+      "word": "this",
+      "start": 3.22,
+      "end": 3.44
+    },
+    {
+      "word": "one",
+      "start": 3.44,
+      "end": 3.68
+    },
+    {
+      "word": "rule.",
+      "start": 3.68,
+      "end": 4.08
+    },
+    {
+      "word": "You",
+      "start": 4.58,
+      "end": 4.66
+    },
+    {
+      "word": "waste",
+      "start": 4.66,
+      "end": 4.88
+    },
+    {
+      "word": "hours",
+      "start": 4.88,
+      "end": 5.36
+    },
+    {
+      "word": "typing",
+      "start": 5.36,
+      "end": 5.84
+    },
+    {
+      "word": "repetitive",
+      "start": 5.84,
+      "end": 6.44
+    },
+    {
+      "word": "slack",
+      "start": 6.44,
+      "end": 6.8
+    },
+    {
+      "word": "updates,",
+      "start": 6.8,
+      "end": 7.26
+    },
+    {
+      "word": "onboarding",
+      "start": 7.82,
+      "end": 8.2
+    },
+    {
+      "word": "contractors,",
+      "start": 8.2,
+      "end": 8.62
+    },
+    {
+      "word": "and",
+      "start": 9.18,
+      "end": 9.32
+    },
+    {
+      "word": "chasing",
+      "start": 9.32,
+      "end": 9.62
+    },
+    {
+      "word": "invoices",
+      "start": 9.62,
+      "end": 10.2
+    },
+    {
+      "word": "across",
+      "start": 10.2,
+      "end": 10.64
+    },
+    {
+      "word": "scattered",
+      "start": 10.64,
+      "end": 11.04
+    },
+    {
+      "word": "browser",
+      "start": 11.04,
+      "end": 11.44
+    },
+    {
+      "word": "tabs.",
+      "start": 11.44,
+      "end": 12.0
+    },
+    {
+      "word": "Relying",
+      "start": 12.42,
+      "end": 12.72
+    },
+    {
+      "word": "on",
+      "start": 12.72,
+      "end": 13.08
+    },
+    {
+      "word": "manual",
+      "start": 13.08,
+      "end": 13.32
+    },
+    {
+      "word": "memory",
+      "start": 13.32,
+      "end": 13.74
+    },
+    {
+      "word": "for",
+      "start": 13.74,
+      "end": 14.06
+    },
+    {
+      "word": "recurring",
+      "start": 14.06,
+      "end": 14.38
+    },
+    {
+      "word": "operations",
+      "start": 14.38,
+      "end": 15.14
+    },
+    {
+      "word": "creates",
+      "start": 15.14,
+      "end": 15.82
+    },
+    {
+      "word": "mental",
+      "start": 15.82,
+      "end": 16.18
+    },
+    {
+      "word": "exhaustion",
+      "start": 16.18,
+      "end": 16.74
+    },
+    {
+      "word": "and",
+      "start": 16.74,
+      "end": 17.38
+    },
+    {
+      "word": "guarantees",
+      "start": 17.38,
+      "end": 17.58
+    },
+    {
+      "word": "dropped",
+      "start": 17.58,
+      "end": 18.14
+    },
+    {
+      "word": "balls.",
+      "start": 18.14,
+      "end": 18.62
+    },
+    {
+      "word": "Build",
+      "start": 19.32,
+      "end": 19.38
+    },
+    {
+      "word": "a",
+      "start": 19.38,
+      "end": 19.62
+    },
+    {
+      "word": "loom",
+      "start": 19.62,
+      "end": 19.88
+    },
+    {
+      "word": "and",
+      "start": 19.88,
+      "end": 20.06
+    },
+    {
+      "word": "notion",
+      "start": 20.06,
+      "end": 20.48
+    },
+    {
+      "word": "SOP",
+      "start": 20.48,
+      "end": 21.04
+    },
+    {
+      "word": "system",
+      "start": 21.04,
+      "end": 21.44
+    },
+    {
+      "word": "that",
+      "start": 21.44,
+      "end": 21.94
+    },
+    {
+      "word": "triggers",
+      "start": 21.94,
+      "end": 22.24
+    },
+    {
+      "word": "task",
+      "start": 22.24,
+      "end": 22.66
+    },
+    {
+      "word": "checklists",
+      "start": 22.66,
+      "end": 23.18
+    },
+    {
+      "word": "via",
+      "start": 23.18,
+      "end": 23.54
+    },
+    {
+      "word": "Zapier",
+      "start": 23.54,
+      "end": 24.16
+    },
+    {
+      "word": "whenever",
+      "start": 24.16,
+      "end": 24.7
+    },
+    {
+      "word": "projects",
+      "start": 24.7,
+      "end": 25.2
+    },
+    {
+      "word": "launch.",
+      "start": 25.2,
+      "end": 25.72
+    },
+    {
+      "word": "This",
+      "start": 25.72,
+      "end": 26.54
+    },
+    {
+      "word": "delegates",
+      "start": 26.54,
+      "end": 26.94
+    },
+    {
+      "word": "routine",
+      "start": 26.94,
+      "end": 27.52
+    },
+    {
+      "word": "execution",
+      "start": 27.52,
+      "end": 28.12
+    },
+    {
+      "word": "without",
+      "start": 28.12,
+      "end": 28.62
+    },
+    {
+      "word": "extra",
+      "start": 28.62,
+      "end": 29.0
+    },
+    {
+      "word": "payroll.",
+      "start": 29.0,
+      "end": 29.36
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Reclaim 10 hours of founder sanity every single week with this one rule.",
+      "line2": "SAVE 10 FOUNDER HOURS",
+      "tag": "\ud83d\uded1 Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder time audit shortcut to eliminate 10 hours of low-leverage tasks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "Webflow localization update for multi-region landing pages",
+  "text": "Webflow just made building multi-language websites a seamless one-click process. Agencies historically spent weeks duplicating entire site architectures and CMS databases just to launch in a second language. Maintaining duplicate page trees breaks design consistency and creates nightmare merge conflicts whenever layout changes occur. Webflow Localization enables native automated translation, localized asset management, and locale-specific styles directly inside the visual canvas. This delivers global websites in record time.",
+  "duration": 34.469,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Webflow",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "just",
+      "start": 0.46,
+      "end": 0.78
+    },
+    {
+      "word": "made",
+      "start": 0.78,
+      "end": 1.08
+    },
+    {
+      "word": "building",
+      "start": 1.08,
+      "end": 1.44
+    },
+    {
+      "word": "multi",
+      "start": 1.44,
+      "end": 1.86
+    },
+    {
+      "word": "-language",
+      "start": 1.86,
+      "end": 2.32
+    },
+    {
+      "word": "websites",
+      "start": 2.32,
+      "end": 2.84
+    },
+    {
+      "word": "a",
+      "start": 2.84,
+      "end": 3.32
+    },
+    {
+      "word": "seamless",
+      "start": 3.32,
+      "end": 3.5
+    },
+    {
+      "word": "one",
+      "start": 3.5,
+      "end": 3.94
+    },
+    {
+      "word": "-click",
+      "start": 3.94,
+      "end": 4.14
+    },
+    {
+      "word": "process.",
+      "start": 4.14,
+      "end": 4.88
+    },
+    {
+      "word": "Agencies",
+      "start": 5.52,
+      "end": 5.92
+    },
+    {
+      "word": "historically",
+      "start": 5.92,
+      "end": 6.54
+    },
+    {
+      "word": "spent",
+      "start": 6.54,
+      "end": 6.98
+    },
+    {
+      "word": "weeks",
+      "start": 6.98,
+      "end": 7.32
+    },
+    {
+      "word": "duplicating",
+      "start": 7.32,
+      "end": 7.94
+    },
+    {
+      "word": "entire",
+      "start": 7.94,
+      "end": 8.52
+    },
+    {
+      "word": "site",
+      "start": 8.52,
+      "end": 8.88
+    },
+    {
+      "word": "architectures",
+      "start": 8.88,
+      "end": 9.42
+    },
+    {
+      "word": "and",
+      "start": 9.42,
+      "end": 10.22
+    },
+    {
+      "word": "CMS",
+      "start": 10.22,
+      "end": 10.64
+    },
+    {
+      "word": "databases",
+      "start": 10.64,
+      "end": 11.32
+    },
+    {
+      "word": "just",
+      "start": 11.32,
+      "end": 12.12
+    },
+    {
+      "word": "to",
+      "start": 12.12,
+      "end": 12.34
+    },
+    {
+      "word": "launch",
+      "start": 12.34,
+      "end": 12.6
+    },
+    {
+      "word": "in",
+      "start": 12.6,
+      "end": 12.78
+    },
+    {
+      "word": "a",
+      "start": 12.78,
+      "end": 12.92
+    },
+    {
+      "word": "second",
+      "start": 12.92,
+      "end": 13.12
+    },
+    {
+      "word": "language.",
+      "start": 13.12,
+      "end": 13.7
+    },
+    {
+      "word": "Maintaining",
+      "start": 14.16,
+      "end": 14.58
+    },
+    {
+      "word": "duplicate",
+      "start": 14.58,
+      "end": 15.06
+    },
+    {
+      "word": "page",
+      "start": 15.06,
+      "end": 15.58
+    },
+    {
+      "word": "trees",
+      "start": 15.58,
+      "end": 15.96
+    },
+    {
+      "word": "breaks",
+      "start": 15.96,
+      "end": 16.3
+    },
+    {
+      "word": "design",
+      "start": 16.3,
+      "end": 16.7
+    },
+    {
+      "word": "consistency",
+      "start": 16.7,
+      "end": 17.32
+    },
+    {
+      "word": "and",
+      "start": 17.32,
+      "end": 17.94
+    },
+    {
+      "word": "creates",
+      "start": 17.94,
+      "end": 18.36
+    },
+    {
+      "word": "nightmare",
+      "start": 18.36,
+      "end": 18.66
+    },
+    {
+      "word": "merge",
+      "start": 18.66,
+      "end": 19.16
+    },
+    {
+      "word": "conflicts",
+      "start": 19.16,
+      "end": 19.66
+    },
+    {
+      "word": "whenever",
+      "start": 19.66,
+      "end": 20.02
+    },
+    {
+      "word": "layout",
+      "start": 20.02,
+      "end": 20.38
+    },
+    {
+      "word": "changes",
+      "start": 20.38,
+      "end": 20.78
+    },
+    {
+      "word": "occur.",
+      "start": 20.78,
+      "end": 21.32
+    },
+    {
+      "word": "Webflow",
+      "start": 22.04,
+      "end": 22.28
+    },
+    {
+      "word": "localization",
+      "start": 22.28,
+      "end": 22.98
+    },
+    {
+      "word": "enables",
+      "start": 22.98,
+      "end": 23.62
+    },
+    {
+      "word": "native",
+      "start": 23.62,
+      "end": 24.12
+    },
+    {
+      "word": "automated",
+      "start": 24.12,
+      "end": 24.6
+    },
+    {
+      "word": "translation,",
+      "start": 24.6,
+      "end": 25.38
+    },
+    {
+      "word": "localized",
+      "start": 26.28,
+      "end": 26.28
+    },
+    {
+      "word": "asset",
+      "start": 26.28,
+      "end": 26.66
+    },
+    {
+      "word": "management,",
+      "start": 26.66,
+      "end": 27.18
+    },
+    {
+      "word": "and",
+      "start": 27.18,
+      "end": 27.72
+    },
+    {
+      "word": "local",
+      "start": 27.72,
+      "end": 28.06
+    },
+    {
+      "word": "specific",
+      "start": 28.06,
+      "end": 28.6
+    },
+    {
+      "word": "styles",
+      "start": 28.6,
+      "end": 29.22
+    },
+    {
+      "word": "directly",
+      "start": 29.22,
+      "end": 29.92
+    },
+    {
+      "word": "inside",
+      "start": 29.92,
+      "end": 30.36
+    },
+    {
+      "word": "the",
+      "start": 30.36,
+      "end": 30.62
+    },
+    {
+      "word": "visual",
+      "start": 30.62,
+      "end": 30.9
+    },
+    {
+      "word": "canvas.",
+      "start": 30.9,
+      "end": 31.36
+    },
+    {
+      "word": "This",
+      "start": 32.02,
+      "end": 32.18
+    },
+    {
+      "word": "delivers",
+      "start": 32.18,
+      "end": 32.54
+    },
+    {
+      "word": "global",
+      "start": 32.54,
+      "end": 33.02
+    },
+    {
+      "word": "websites",
+      "start": 33.02,
+      "end": 33.5
+    },
+    {
+      "word": "in",
+      "start": 33.5,
+      "end": 33.78
+    },
+    {
+      "word": "record",
+      "start": 33.78,
+      "end": 34.02
+    },
+    {
+      "word": "time.",
+      "start": 34.02,
+      "end": 34.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Webflow just made multi-language websites a one-click process.",
+      "line2": "WEBFLOW MULTI-REGION LOCALIZATION UPDATE",
+      "tag": "\ud83d\uded1 Webflow localization update for multi-region landing pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Webflow localization update for multi-region landing pages",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Webflow localization update for multi-region landing pages",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Webflow localization update for multi-region landing pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

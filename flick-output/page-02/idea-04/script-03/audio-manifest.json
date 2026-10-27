@@ -1,0 +1,426 @@
+{
+  "page": "page-02",
+  "idea": "Automated portfolio generator from completed project files",
+  "text": "Stop losing clients because your portfolio hasn't been updated in six months. Potential inbound leads review your website, see stale two-year-old projects, and quietly hire someone else. Manual case study writing is so tedious that most freelancers avoid updating their sites altogether. Feed your client Loom recordings into an AI generator to extract project goals, core challenges, and measurable ROI. You close higher-ticket deals with an up-to-date showcase.",
+  "duration": 28.346,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "losing",
+      "start": 0.38,
+      "end": 0.68
+    },
+    {
+      "word": "clients",
+      "start": 0.68,
+      "end": 1.1
+    },
+    {
+      "word": "because",
+      "start": 1.1,
+      "end": 1.46
+    },
+    {
+      "word": "your",
+      "start": 1.46,
+      "end": 1.68
+    },
+    {
+      "word": "portfolio",
+      "start": 1.68,
+      "end": 2.14
+    },
+    {
+      "word": "hasn't",
+      "start": 2.14,
+      "end": 2.58
+    },
+    {
+      "word": "been",
+      "start": 2.58,
+      "end": 2.88
+    },
+    {
+      "word": "updated",
+      "start": 2.88,
+      "end": 3.16
+    },
+    {
+      "word": "in",
+      "start": 3.16,
+      "end": 3.48
+    },
+    {
+      "word": "six",
+      "start": 3.48,
+      "end": 3.72
+    },
+    {
+      "word": "months.",
+      "start": 3.72,
+      "end": 4.3
+    },
+    {
+      "word": "Potential",
+      "start": 5.06,
+      "end": 5.06
+    },
+    {
+      "word": "inbound",
+      "start": 5.06,
+      "end": 5.6
+    },
+    {
+      "word": "leads",
+      "start": 5.6,
+      "end": 5.96
+    },
+    {
+      "word": "review",
+      "start": 5.96,
+      "end": 6.26
+    },
+    {
+      "word": "your",
+      "start": 6.26,
+      "end": 6.58
+    },
+    {
+      "word": "website,",
+      "start": 6.58,
+      "end": 6.86
+    },
+    {
+      "word": "see",
+      "start": 7.34,
+      "end": 7.62
+    },
+    {
+      "word": "stale",
+      "start": 7.62,
+      "end": 7.92
+    },
+    {
+      "word": "two",
+      "start": 7.92,
+      "end": 8.22
+    },
+    {
+      "word": "-year",
+      "start": 8.22,
+      "end": 8.42
+    },
+    {
+      "word": "-old",
+      "start": 8.42,
+      "end": 8.66
+    },
+    {
+      "word": "projects,",
+      "start": 8.66,
+      "end": 9.16
+    },
+    {
+      "word": "and",
+      "start": 9.62,
+      "end": 9.72
+    },
+    {
+      "word": "quietly",
+      "start": 9.72,
+      "end": 10.12
+    },
+    {
+      "word": "hire",
+      "start": 10.12,
+      "end": 10.48
+    },
+    {
+      "word": "someone",
+      "start": 10.48,
+      "end": 10.78
+    },
+    {
+      "word": "else.",
+      "start": 10.78,
+      "end": 11.22
+    },
+    {
+      "word": "Manual",
+      "start": 11.68,
+      "end": 11.82
+    },
+    {
+      "word": "case",
+      "start": 11.82,
+      "end": 12.16
+    },
+    {
+      "word": "study",
+      "start": 12.16,
+      "end": 12.44
+    },
+    {
+      "word": "writing",
+      "start": 12.44,
+      "end": 12.76
+    },
+    {
+      "word": "is",
+      "start": 12.76,
+      "end": 13.06
+    },
+    {
+      "word": "so",
+      "start": 13.06,
+      "end": 13.32
+    },
+    {
+      "word": "tedious",
+      "start": 13.32,
+      "end": 13.64
+    },
+    {
+      "word": "that",
+      "start": 13.64,
+      "end": 14.0
+    },
+    {
+      "word": "most",
+      "start": 14.0,
+      "end": 14.32
+    },
+    {
+      "word": "freelancers",
+      "start": 14.32,
+      "end": 14.84
+    },
+    {
+      "word": "avoid",
+      "start": 14.84,
+      "end": 15.34
+    },
+    {
+      "word": "updating",
+      "start": 15.34,
+      "end": 15.72
+    },
+    {
+      "word": "their",
+      "start": 15.72,
+      "end": 16.04
+    },
+    {
+      "word": "sites",
+      "start": 16.04,
+      "end": 16.3
+    },
+    {
+      "word": "altogether.",
+      "start": 16.3,
+      "end": 16.78
+    },
+    {
+      "word": "Feed",
+      "start": 17.54,
+      "end": 17.74
+    },
+    {
+      "word": "your",
+      "start": 17.74,
+      "end": 17.96
+    },
+    {
+      "word": "client",
+      "start": 17.96,
+      "end": 18.26
+    },
+    {
+      "word": "loom",
+      "start": 18.26,
+      "end": 18.52
+    },
+    {
+      "word": "recordings",
+      "start": 18.52,
+      "end": 18.94
+    },
+    {
+      "word": "into",
+      "start": 18.94,
+      "end": 19.3
+    },
+    {
+      "word": "an",
+      "start": 19.3,
+      "end": 19.56
+    },
+    {
+      "word": "AI",
+      "start": 19.56,
+      "end": 19.88
+    },
+    {
+      "word": "generator",
+      "start": 19.88,
+      "end": 20.36
+    },
+    {
+      "word": "to",
+      "start": 20.36,
+      "end": 20.82
+    },
+    {
+      "word": "extract",
+      "start": 20.82,
+      "end": 21.14
+    },
+    {
+      "word": "project",
+      "start": 21.14,
+      "end": 21.68
+    },
+    {
+      "word": "goals,",
+      "start": 21.68,
+      "end": 22.04
+    },
+    {
+      "word": "core",
+      "start": 22.38,
+      "end": 22.68
+    },
+    {
+      "word": "challenges,",
+      "start": 22.68,
+      "end": 23.18
+    },
+    {
+      "word": "and",
+      "start": 23.58,
+      "end": 23.84
+    },
+    {
+      "word": "measurable",
+      "start": 23.84,
+      "end": 24.14
+    },
+    {
+      "word": "ROI.",
+      "start": 24.14,
+      "end": 25.2
+    },
+    {
+      "word": "You",
+      "start": 25.2,
+      "end": 25.64
+    },
+    {
+      "word": "close",
+      "start": 25.64,
+      "end": 25.9
+    },
+    {
+      "word": "higher",
+      "start": 25.9,
+      "end": 26.22
+    },
+    {
+      "word": "ticket",
+      "start": 26.22,
+      "end": 26.54
+    },
+    {
+      "word": "deals",
+      "start": 26.54,
+      "end": 26.88
+    },
+    {
+      "word": "with",
+      "start": 26.88,
+      "end": 27.16
+    },
+    {
+      "word": "an",
+      "start": 27.16,
+      "end": 27.28
+    },
+    {
+      "word": "up",
+      "start": 27.28,
+      "end": 27.38
+    },
+    {
+      "word": "-to",
+      "start": 27.38,
+      "end": 27.5
+    },
+    {
+      "word": "-date",
+      "start": 27.5,
+      "end": 27.72
+    },
+    {
+      "word": "showcase.",
+      "start": 27.72,
+      "end": 28.04
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop losing clients because your portfolio hasn't been updated in 6 months.",
+      "line2": "INSTANT FREELANCE PORTFOLIOS",
+      "tag": "\ud83d\uded1 Automated portfolio generator from completed project files",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated portfolio generator from completed project files",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated portfolio generator from completed project files",
+        "subtitle": "Automated portfolio generator from completed project files"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated portfolio generator from completed project files"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated portfolio generator from completed project files"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated portfolio generator from completed project files",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

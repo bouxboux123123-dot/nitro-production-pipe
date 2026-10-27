@@ -1,0 +1,386 @@
+{
+  "page": "page-07",
+  "idea": "Automated competitor product release monitoring using webhooks",
+  "text": "This automated monitor tracks competitor changelogs and pricing pages around the clock. Most early teams scramble after prospects point out cheaper plans during software demos. Human audits always miss midnight price experiments and hidden documentation changes. Run Browse AI scrapers that trigger webhook payloads to OpenAI for instant competitive diff summaries. You protect market share and close enterprise deals with zero blindspots.",
+  "duration": 25.429,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "automated",
+      "start": 0.34,
+      "end": 0.62
+    },
+    {
+      "word": "monitor",
+      "start": 0.62,
+      "end": 1.04
+    },
+    {
+      "word": "tracks",
+      "start": 1.04,
+      "end": 1.4
+    },
+    {
+      "word": "competitor",
+      "start": 1.4,
+      "end": 1.84
+    },
+    {
+      "word": "change",
+      "start": 1.84,
+      "end": 2.28
+    },
+    {
+      "word": "logs",
+      "start": 2.28,
+      "end": 2.52
+    },
+    {
+      "word": "and",
+      "start": 2.52,
+      "end": 2.76
+    },
+    {
+      "word": "pricing",
+      "start": 2.76,
+      "end": 3.08
+    },
+    {
+      "word": "pages",
+      "start": 3.08,
+      "end": 3.48
+    },
+    {
+      "word": "around",
+      "start": 3.48,
+      "end": 3.8
+    },
+    {
+      "word": "the",
+      "start": 3.8,
+      "end": 4.02
+    },
+    {
+      "word": "clock.",
+      "start": 4.02,
+      "end": 4.32
+    },
+    {
+      "word": "Most",
+      "start": 4.7,
+      "end": 4.94
+    },
+    {
+      "word": "early",
+      "start": 4.94,
+      "end": 5.24
+    },
+    {
+      "word": "teams",
+      "start": 5.24,
+      "end": 5.62
+    },
+    {
+      "word": "scramble",
+      "start": 5.62,
+      "end": 5.94
+    },
+    {
+      "word": "after",
+      "start": 5.94,
+      "end": 6.28
+    },
+    {
+      "word": "prospects",
+      "start": 6.28,
+      "end": 6.68
+    },
+    {
+      "word": "point",
+      "start": 6.68,
+      "end": 7.0
+    },
+    {
+      "word": "out",
+      "start": 7.0,
+      "end": 7.36
+    },
+    {
+      "word": "cheaper",
+      "start": 7.36,
+      "end": 7.46
+    },
+    {
+      "word": "plans",
+      "start": 7.46,
+      "end": 7.88
+    },
+    {
+      "word": "during",
+      "start": 7.88,
+      "end": 8.26
+    },
+    {
+      "word": "software",
+      "start": 8.26,
+      "end": 8.68
+    },
+    {
+      "word": "demos.",
+      "start": 8.68,
+      "end": 9.12
+    },
+    {
+      "word": "Human",
+      "start": 9.8,
+      "end": 9.94
+    },
+    {
+      "word": "audits",
+      "start": 9.94,
+      "end": 10.24
+    },
+    {
+      "word": "always",
+      "start": 10.24,
+      "end": 10.64
+    },
+    {
+      "word": "miss",
+      "start": 10.64,
+      "end": 10.9
+    },
+    {
+      "word": "midnight",
+      "start": 10.9,
+      "end": 11.26
+    },
+    {
+      "word": "price",
+      "start": 11.26,
+      "end": 11.62
+    },
+    {
+      "word": "experiments",
+      "start": 11.62,
+      "end": 12.14
+    },
+    {
+      "word": "and",
+      "start": 12.14,
+      "end": 12.64
+    },
+    {
+      "word": "hidden",
+      "start": 12.64,
+      "end": 12.84
+    },
+    {
+      "word": "documentation",
+      "start": 12.84,
+      "end": 13.42
+    },
+    {
+      "word": "changes.",
+      "start": 13.42,
+      "end": 14.16
+    },
+    {
+      "word": "Run",
+      "start": 14.88,
+      "end": 15.02
+    },
+    {
+      "word": "browse",
+      "start": 15.02,
+      "end": 15.36
+    },
+    {
+      "word": "AI",
+      "start": 15.36,
+      "end": 15.94
+    },
+    {
+      "word": "scrapers",
+      "start": 15.94,
+      "end": 16.34
+    },
+    {
+      "word": "that",
+      "start": 16.34,
+      "end": 16.6
+    },
+    {
+      "word": "trigger",
+      "start": 16.6,
+      "end": 16.86
+    },
+    {
+      "word": "webhook",
+      "start": 16.86,
+      "end": 17.26
+    },
+    {
+      "word": "payloads",
+      "start": 17.26,
+      "end": 17.8
+    },
+    {
+      "word": "to",
+      "start": 17.8,
+      "end": 17.98
+    },
+    {
+      "word": "open",
+      "start": 17.98,
+      "end": 18.28
+    },
+    {
+      "word": "AI",
+      "start": 18.28,
+      "end": 18.74
+    },
+    {
+      "word": "for",
+      "start": 18.74,
+      "end": 19.12
+    },
+    {
+      "word": "instant",
+      "start": 19.12,
+      "end": 19.44
+    },
+    {
+      "word": "competitive",
+      "start": 19.44,
+      "end": 20.0
+    },
+    {
+      "word": "diff",
+      "start": 20.0,
+      "end": 20.28
+    },
+    {
+      "word": "summaries.",
+      "start": 20.28,
+      "end": 20.72
+    },
+    {
+      "word": "You",
+      "start": 21.28,
+      "end": 21.42
+    },
+    {
+      "word": "protect",
+      "start": 21.42,
+      "end": 21.74
+    },
+    {
+      "word": "market",
+      "start": 21.74,
+      "end": 22.12
+    },
+    {
+      "word": "share",
+      "start": 22.12,
+      "end": 22.48
+    },
+    {
+      "word": "and",
+      "start": 22.48,
+      "end": 22.9
+    },
+    {
+      "word": "close",
+      "start": 22.9,
+      "end": 23.18
+    },
+    {
+      "word": "enterprise",
+      "start": 23.18,
+      "end": 23.58
+    },
+    {
+      "word": "deals",
+      "start": 23.58,
+      "end": 23.98
+    },
+    {
+      "word": "with",
+      "start": 23.98,
+      "end": 24.28
+    },
+    {
+      "word": "zero",
+      "start": 24.28,
+      "end": 24.7
+    },
+    {
+      "word": "blind",
+      "start": 24.7,
+      "end": 24.98
+    },
+    {
+      "word": "spots.",
+      "start": 24.98,
+      "end": 25.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "This automated monitor tracks competitor changelogs and pricing pages 24/7.",
+      "line2": "MONITOR COMPETITOR RELEASES",
+      "tag": "\ud83d\uded1 Automated competitor product release monitoring using webhooks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated competitor product release monitoring using webhooks",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated competitor product release monitoring using webhooks",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated competitor product release monitoring using webhooks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated competitor product release monitoring using webhooks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

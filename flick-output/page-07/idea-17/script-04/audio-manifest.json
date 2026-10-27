@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Automated user feedback widget that feeds straight into product planning",
+  "text": "This is the seamless user feedback loop that top product managers swear by. Sifting through thousands of fragmented customer comments across Discord, Zendesk, and Intercom paralyzes feature planning. High-value enterprise requests get buried beneath noisy edge cases, causing founders to build the wrong things. Route all incoming user requests into PostHog surveys that automatically calculate customer revenue weights. You ship high-impact features with total confidence.",
+  "duration": 27.115,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.42
+    },
+    {
+      "word": "the",
+      "start": 0.42,
+      "end": 0.72
+    },
+    {
+      "word": "seamless",
+      "start": 0.72,
+      "end": 0.84
+    },
+    {
+      "word": "user",
+      "start": 0.84,
+      "end": 1.26
+    },
+    {
+      "word": "feedback",
+      "start": 1.26,
+      "end": 1.62
+    },
+    {
+      "word": "loop",
+      "start": 1.62,
+      "end": 1.88
+    },
+    {
+      "word": "that",
+      "start": 1.88,
+      "end": 2.14
+    },
+    {
+      "word": "top",
+      "start": 2.14,
+      "end": 2.42
+    },
+    {
+      "word": "product",
+      "start": 2.42,
+      "end": 2.8
+    },
+    {
+      "word": "managers",
+      "start": 2.8,
+      "end": 3.2
+    },
+    {
+      "word": "swear",
+      "start": 3.2,
+      "end": 3.6
+    },
+    {
+      "word": "by.",
+      "start": 3.6,
+      "end": 4.16
+    },
+    {
+      "word": "Sifting",
+      "start": 4.48,
+      "end": 4.64
+    },
+    {
+      "word": "through",
+      "start": 4.64,
+      "end": 4.96
+    },
+    {
+      "word": "thousands",
+      "start": 4.96,
+      "end": 5.38
+    },
+    {
+      "word": "of",
+      "start": 5.38,
+      "end": 5.64
+    },
+    {
+      "word": "fragmented",
+      "start": 5.64,
+      "end": 6.0
+    },
+    {
+      "word": "customer",
+      "start": 6.0,
+      "end": 6.54
+    },
+    {
+      "word": "comments",
+      "start": 6.54,
+      "end": 6.94
+    },
+    {
+      "word": "across",
+      "start": 6.94,
+      "end": 7.36
+    },
+    {
+      "word": "Discord,",
+      "start": 7.36,
+      "end": 7.92
+    },
+    {
+      "word": "Zendisk,",
+      "start": 8.32,
+      "end": 8.68
+    },
+    {
+      "word": "and",
+      "start": 8.98,
+      "end": 9.18
+    },
+    {
+      "word": "Intercom",
+      "start": 9.18,
+      "end": 9.7
+    },
+    {
+      "word": "paralyzes",
+      "start": 9.7,
+      "end": 10.38
+    },
+    {
+      "word": "feature",
+      "start": 10.38,
+      "end": 10.7
+    },
+    {
+      "word": "planning.",
+      "start": 10.7,
+      "end": 11.12
+    },
+    {
+      "word": "High",
+      "start": 11.68,
+      "end": 11.96
+    },
+    {
+      "word": "value",
+      "start": 11.96,
+      "end": 12.22
+    },
+    {
+      "word": "enterprise",
+      "start": 12.22,
+      "end": 12.64
+    },
+    {
+      "word": "requests",
+      "start": 12.64,
+      "end": 13.12
+    },
+    {
+      "word": "get",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "word": "buried",
+      "start": 13.44,
+      "end": 13.72
+    },
+    {
+      "word": "beneath",
+      "start": 13.72,
+      "end": 14.08
+    },
+    {
+      "word": "noisy",
+      "start": 14.08,
+      "end": 14.52
+    },
+    {
+      "word": "edge",
+      "start": 14.52,
+      "end": 14.8
+    },
+    {
+      "word": "cases,",
+      "start": 14.8,
+      "end": 15.22
+    },
+    {
+      "word": "causing",
+      "start": 15.76,
+      "end": 15.9
+    },
+    {
+      "word": "founders",
+      "start": 15.9,
+      "end": 16.22
+    },
+    {
+      "word": "to",
+      "start": 16.22,
+      "end": 16.48
+    },
+    {
+      "word": "build",
+      "start": 16.48,
+      "end": 16.66
+    },
+    {
+      "word": "the",
+      "start": 16.66,
+      "end": 16.86
+    },
+    {
+      "word": "wrong",
+      "start": 16.86,
+      "end": 17.06
+    },
+    {
+      "word": "things.",
+      "start": 17.06,
+      "end": 17.52
+    },
+    {
+      "word": "Route",
+      "start": 18.08,
+      "end": 18.26
+    },
+    {
+      "word": "all",
+      "start": 18.26,
+      "end": 18.54
+    },
+    {
+      "word": "incoming",
+      "start": 18.54,
+      "end": 18.86
+    },
+    {
+      "word": "user",
+      "start": 18.86,
+      "end": 19.26
+    },
+    {
+      "word": "requests",
+      "start": 19.26,
+      "end": 19.72
+    },
+    {
+      "word": "into",
+      "start": 19.72,
+      "end": 19.98
+    },
+    {
+      "word": "post",
+      "start": 19.98,
+      "end": 20.3
+    },
+    {
+      "word": "-hogs",
+      "start": 20.3,
+      "end": 20.56
+    },
+    {
+      "word": "surveys",
+      "start": 20.56,
+      "end": 20.92
+    },
+    {
+      "word": "that",
+      "start": 20.92,
+      "end": 21.46
+    },
+    {
+      "word": "automatically",
+      "start": 21.46,
+      "end": 22.06
+    },
+    {
+      "word": "calculate",
+      "start": 22.06,
+      "end": 22.72
+    },
+    {
+      "word": "customer",
+      "start": 22.72,
+      "end": 23.16
+    },
+    {
+      "word": "revenue",
+      "start": 23.16,
+      "end": 23.5
+    },
+    {
+      "word": "weights.",
+      "start": 23.5,
+      "end": 23.9
+    },
+    {
+      "word": "You",
+      "start": 24.42,
+      "end": 24.52
+    },
+    {
+      "word": "ship",
+      "start": 24.52,
+      "end": 24.72
+    },
+    {
+      "word": "high",
+      "start": 24.72,
+      "end": 25.06
+    },
+    {
+      "word": "impact",
+      "start": 25.06,
+      "end": 25.38
+    },
+    {
+      "word": "features",
+      "start": 25.38,
+      "end": 25.84
+    },
+    {
+      "word": "with",
+      "start": 25.84,
+      "end": 26.26
+    },
+    {
+      "word": "total",
+      "start": 26.26,
+      "end": 26.52
+    },
+    {
+      "word": "confidence.",
+      "start": 26.52,
+      "end": 26.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The seamless feedback loop that product managers swear by.",
+      "line2": "AUTOMATE USER FEEDBACK",
+      "tag": "\ud83d\uded1 Automated user feedback widget that feeds straight into product planning",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated user feedback widget that feeds straight into product planning",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated user feedback widget that feeds straight into product planning",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

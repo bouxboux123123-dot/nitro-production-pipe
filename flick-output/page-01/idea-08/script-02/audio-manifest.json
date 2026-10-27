@@ -1,0 +1,406 @@
+{
+  "page": "page-01",
+  "idea": "Sales proposal to kickoff automation that spins up client folders in seconds",
+  "text": "It creates Google Drive folders, invites them to Slack, and generates their kickoff agenda. Spending forty-five minutes on repetitive setup tasks whenever you close deals burns out account managers. Inconsistent folder structures cause misplaced deliverables and security risks from incorrect file permissions. Connect PandaDoc to Zapier to generate standardized Drive folders, private Slack channels, and kickoff agendas automatically. You eliminate manual setup while impressing new clients immediately.",
+  "duration": 31.226,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "It",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "creates",
+      "start": 0.22,
+      "end": 0.58
+    },
+    {
+      "word": "Google",
+      "start": 0.58,
+      "end": 1.0
+    },
+    {
+      "word": "Drive",
+      "start": 1.0,
+      "end": 1.38
+    },
+    {
+      "word": "folders,",
+      "start": 1.38,
+      "end": 1.78
+    },
+    {
+      "word": "invites",
+      "start": 2.52,
+      "end": 2.52
+    },
+    {
+      "word": "them",
+      "start": 2.52,
+      "end": 2.78
+    },
+    {
+      "word": "to",
+      "start": 2.78,
+      "end": 3.02
+    },
+    {
+      "word": "Slack,",
+      "start": 3.02,
+      "end": 3.4
+    },
+    {
+      "word": "and",
+      "start": 3.7,
+      "end": 3.82
+    },
+    {
+      "word": "generates",
+      "start": 3.82,
+      "end": 4.2
+    },
+    {
+      "word": "their",
+      "start": 4.2,
+      "end": 4.64
+    },
+    {
+      "word": "kickoff",
+      "start": 4.64,
+      "end": 4.94
+    },
+    {
+      "word": "agenda.",
+      "start": 4.94,
+      "end": 5.52
+    },
+    {
+      "word": "Spending",
+      "start": 6.4,
+      "end": 6.4
+    },
+    {
+      "word": "45",
+      "start": 6.4,
+      "end": 7.14
+    },
+    {
+      "word": "minutes",
+      "start": 7.14,
+      "end": 7.46
+    },
+    {
+      "word": "on",
+      "start": 7.46,
+      "end": 7.74
+    },
+    {
+      "word": "repetitive",
+      "start": 7.74,
+      "end": 8.22
+    },
+    {
+      "word": "setup",
+      "start": 8.22,
+      "end": 8.66
+    },
+    {
+      "word": "tasks,",
+      "start": 8.66,
+      "end": 9.14
+    },
+    {
+      "word": "whenever",
+      "start": 9.54,
+      "end": 9.68
+    },
+    {
+      "word": "you",
+      "start": 9.68,
+      "end": 9.98
+    },
+    {
+      "word": "close",
+      "start": 9.98,
+      "end": 10.3
+    },
+    {
+      "word": "deals,",
+      "start": 10.3,
+      "end": 10.68
+    },
+    {
+      "word": "burns",
+      "start": 10.84,
+      "end": 11.06
+    },
+    {
+      "word": "out",
+      "start": 11.06,
+      "end": 11.34
+    },
+    {
+      "word": "account",
+      "start": 11.34,
+      "end": 11.7
+    },
+    {
+      "word": "managers.",
+      "start": 11.7,
+      "end": 12.14
+    },
+    {
+      "word": "In",
+      "start": 12.64,
+      "end": 12.74
+    },
+    {
+      "word": "consistent",
+      "start": 12.74,
+      "end": 13.12
+    },
+    {
+      "word": "folder",
+      "start": 13.12,
+      "end": 13.54
+    },
+    {
+      "word": "structures,",
+      "start": 13.54,
+      "end": 14.08
+    },
+    {
+      "word": "cause",
+      "start": 14.52,
+      "end": 14.6
+    },
+    {
+      "word": "misplaced",
+      "start": 14.6,
+      "end": 15.12
+    },
+    {
+      "word": "deliverables",
+      "start": 15.12,
+      "end": 15.74
+    },
+    {
+      "word": "and",
+      "start": 15.74,
+      "end": 16.06
+    },
+    {
+      "word": "security",
+      "start": 16.06,
+      "end": 16.38
+    },
+    {
+      "word": "risks",
+      "start": 16.38,
+      "end": 16.72
+    },
+    {
+      "word": "from",
+      "start": 16.72,
+      "end": 17.06
+    },
+    {
+      "word": "incorrect",
+      "start": 17.06,
+      "end": 17.44
+    },
+    {
+      "word": "file",
+      "start": 17.44,
+      "end": 17.86
+    },
+    {
+      "word": "permissions.",
+      "start": 17.86,
+      "end": 18.38
+    },
+    {
+      "word": "Connect",
+      "start": 19.08,
+      "end": 19.38
+    },
+    {
+      "word": "Panda",
+      "start": 19.38,
+      "end": 19.78
+    },
+    {
+      "word": "doc",
+      "start": 19.78,
+      "end": 20.1
+    },
+    {
+      "word": "to",
+      "start": 20.1,
+      "end": 20.3
+    },
+    {
+      "word": "Zapier",
+      "start": 20.3,
+      "end": 20.76
+    },
+    {
+      "word": "to",
+      "start": 20.76,
+      "end": 21.16
+    },
+    {
+      "word": "generate",
+      "start": 21.16,
+      "end": 21.66
+    },
+    {
+      "word": "standardized",
+      "start": 21.66,
+      "end": 22.1
+    },
+    {
+      "word": "drive",
+      "start": 22.1,
+      "end": 22.7
+    },
+    {
+      "word": "folders,",
+      "start": 22.7,
+      "end": 23.06
+    },
+    {
+      "word": "private",
+      "start": 23.46,
+      "end": 23.72
+    },
+    {
+      "word": "Slack",
+      "start": 23.72,
+      "end": 24.16
+    },
+    {
+      "word": "channels,",
+      "start": 24.16,
+      "end": 24.6
+    },
+    {
+      "word": "and",
+      "start": 24.88,
+      "end": 25.04
+    },
+    {
+      "word": "kickoff",
+      "start": 25.04,
+      "end": 25.44
+    },
+    {
+      "word": "agendas",
+      "start": 25.44,
+      "end": 26.32
+    },
+    {
+      "word": "automatically.",
+      "start": 26.32,
+      "end": 26.98
+    },
+    {
+      "word": "You",
+      "start": 27.72,
+      "end": 27.92
+    },
+    {
+      "word": "eliminate",
+      "start": 27.92,
+      "end": 28.28
+    },
+    {
+      "word": "manual",
+      "start": 28.28,
+      "end": 28.88
+    },
+    {
+      "word": "setup",
+      "start": 28.88,
+      "end": 29.18
+    },
+    {
+      "word": "while",
+      "start": 29.18,
+      "end": 29.52
+    },
+    {
+      "word": "impressing",
+      "start": 29.52,
+      "end": 29.92
+    },
+    {
+      "word": "new",
+      "start": 29.92,
+      "end": 30.22
+    },
+    {
+      "word": "clients",
+      "start": 30.22,
+      "end": 30.56
+    },
+    {
+      "word": "immediately.",
+      "start": 30.56,
+      "end": 30.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "It creates Google Drive folders, invites them to Slack, and generates their kickoff agenda.",
+      "line2": "INSTANT CLIENT KICKOFF",
+      "tag": "\ud83d\uded1 Sales proposal to kickoff automation that spins up client folders in seconds",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Sales proposal to kickoff automation that spins up client folders in seconds",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Sales proposal to kickoff automation that spins up client folders in seconds",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Sales proposal to kickoff automation that spins up client folders in seconds",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

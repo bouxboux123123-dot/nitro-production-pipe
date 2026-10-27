@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "Zapier Central launch: conversational AI bots that run your workflows",
+  "text": "Zapier is finally moving beyond simple if-this-then-that triggers into full autonomous AI agents. Traditional automations constantly shatter when incoming form fields are missing or formatted slightly wrong. Hardcoded rules cannot make subjective decisions, forcing founders to manually audit and repair failing pipelines. Zapier Central agents autonomously inspect live data, adapt to edge cases, and execute actions across integrated apps. This eliminates brittle zap failures permanently.",
+  "duration": 30.906,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Zapier",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "is",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "finally",
+      "start": 0.8,
+      "end": 1.16
+    },
+    {
+      "word": "moving",
+      "start": 1.16,
+      "end": 1.54
+    },
+    {
+      "word": "beyond",
+      "start": 1.54,
+      "end": 2.0
+    },
+    {
+      "word": "simple",
+      "start": 2.0,
+      "end": 2.28
+    },
+    {
+      "word": "if",
+      "start": 2.28,
+      "end": 2.5
+    },
+    {
+      "word": "this",
+      "start": 2.5,
+      "end": 2.7
+    },
+    {
+      "word": "then",
+      "start": 2.7,
+      "end": 2.88
+    },
+    {
+      "word": "-that",
+      "start": 2.88,
+      "end": 3.14
+    },
+    {
+      "word": "-triggers",
+      "start": 3.14,
+      "end": 3.54
+    },
+    {
+      "word": "into",
+      "start": 3.54,
+      "end": 3.9
+    },
+    {
+      "word": "full",
+      "start": 3.9,
+      "end": 4.26
+    },
+    {
+      "word": "autonomous",
+      "start": 4.26,
+      "end": 4.86
+    },
+    {
+      "word": "AI",
+      "start": 4.86,
+      "end": 5.44
+    },
+    {
+      "word": "agents.",
+      "start": 5.44,
+      "end": 5.92
+    },
+    {
+      "word": "Traditional",
+      "start": 6.92,
+      "end": 6.92
+    },
+    {
+      "word": "automations",
+      "start": 6.92,
+      "end": 7.7
+    },
+    {
+      "word": "constantly",
+      "start": 7.7,
+      "end": 8.38
+    },
+    {
+      "word": "shatter",
+      "start": 8.38,
+      "end": 8.76
+    },
+    {
+      "word": "when",
+      "start": 8.76,
+      "end": 9.22
+    },
+    {
+      "word": "incoming",
+      "start": 9.22,
+      "end": 9.62
+    },
+    {
+      "word": "form",
+      "start": 9.62,
+      "end": 10.08
+    },
+    {
+      "word": "fields",
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "word": "are",
+      "start": 10.4,
+      "end": 10.74
+    },
+    {
+      "word": "missing",
+      "start": 10.74,
+      "end": 11.04
+    },
+    {
+      "word": "or",
+      "start": 11.04,
+      "end": 11.5
+    },
+    {
+      "word": "formatted",
+      "start": 11.5,
+      "end": 11.86
+    },
+    {
+      "word": "slightly",
+      "start": 11.86,
+      "end": 12.42
+    },
+    {
+      "word": "wrong.",
+      "start": 12.42,
+      "end": 12.86
+    },
+    {
+      "word": "Hard",
+      "start": 13.28,
+      "end": 13.34
+    },
+    {
+      "word": "-coded",
+      "start": 13.34,
+      "end": 13.56
+    },
+    {
+      "word": "rules",
+      "start": 13.56,
+      "end": 13.98
+    },
+    {
+      "word": "cannot",
+      "start": 13.98,
+      "end": 14.3
+    },
+    {
+      "word": "make",
+      "start": 14.3,
+      "end": 14.64
+    },
+    {
+      "word": "subjective",
+      "start": 14.64,
+      "end": 15.08
+    },
+    {
+      "word": "decisions,",
+      "start": 15.08,
+      "end": 15.76
+    },
+    {
+      "word": "forcing",
+      "start": 16.18,
+      "end": 16.38
+    },
+    {
+      "word": "founders",
+      "start": 16.38,
+      "end": 16.86
+    },
+    {
+      "word": "to",
+      "start": 16.86,
+      "end": 17.22
+    },
+    {
+      "word": "manually",
+      "start": 17.22,
+      "end": 17.52
+    },
+    {
+      "word": "audit",
+      "start": 17.52,
+      "end": 17.96
+    },
+    {
+      "word": "and",
+      "start": 17.96,
+      "end": 18.24
+    },
+    {
+      "word": "repair",
+      "start": 18.24,
+      "end": 18.58
+    },
+    {
+      "word": "failing",
+      "start": 18.58,
+      "end": 18.96
+    },
+    {
+      "word": "pipelines.",
+      "start": 18.96,
+      "end": 19.52
+    },
+    {
+      "word": "Zapier",
+      "start": 20.24,
+      "end": 20.72
+    },
+    {
+      "word": "Central",
+      "start": 20.72,
+      "end": 21.14
+    },
+    {
+      "word": "agents",
+      "start": 21.14,
+      "end": 21.56
+    },
+    {
+      "word": "autonomously",
+      "start": 21.56,
+      "end": 22.3
+    },
+    {
+      "word": "inspect",
+      "start": 22.3,
+      "end": 22.78
+    },
+    {
+      "word": "live",
+      "start": 22.78,
+      "end": 23.16
+    },
+    {
+      "word": "data,",
+      "start": 23.16,
+      "end": 23.52
+    },
+    {
+      "word": "adapt",
+      "start": 23.88,
+      "end": 24.12
+    },
+    {
+      "word": "to",
+      "start": 24.12,
+      "end": 24.4
+    },
+    {
+      "word": "edge",
+      "start": 24.4,
+      "end": 24.62
+    },
+    {
+      "word": "cases,",
+      "start": 24.62,
+      "end": 25.06
+    },
+    {
+      "word": "and",
+      "start": 25.44,
+      "end": 25.72
+    },
+    {
+      "word": "execute",
+      "start": 25.72,
+      "end": 25.98
+    },
+    {
+      "word": "actions",
+      "start": 25.98,
+      "end": 26.5
+    },
+    {
+      "word": "across",
+      "start": 26.5,
+      "end": 26.94
+    },
+    {
+      "word": "integrated",
+      "start": 26.94,
+      "end": 27.36
+    },
+    {
+      "word": "apps.",
+      "start": 27.36,
+      "end": 27.84
+    },
+    {
+      "word": "This",
+      "start": 27.84,
+      "end": 28.66
+    },
+    {
+      "word": "eliminates",
+      "start": 28.66,
+      "end": 29.1
+    },
+    {
+      "word": "brittle",
+      "start": 29.1,
+      "end": 29.48
+    },
+    {
+      "word": "Zap",
+      "start": 29.48,
+      "end": 29.82
+    },
+    {
+      "word": "failures",
+      "start": 29.82,
+      "end": 30.2
+    },
+    {
+      "word": "permanently.",
+      "start": 30.2,
+      "end": 30.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "How Zapier is moving beyond simple if-this-then-that triggers into full AI agents.",
+      "line2": "ZAPIER CONVERSATIONAL AI BOTS",
+      "tag": "\ud83d\uded1 Zapier Central launch",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Zapier Central launch",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Zapier Central launch",
+        "subtitle": "Zapier Central launch"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Zapier Central launch"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Zapier Central launch"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Zapier Central launch",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

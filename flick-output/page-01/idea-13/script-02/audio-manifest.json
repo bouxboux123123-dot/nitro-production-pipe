@@ -1,0 +1,421 @@
+{
+  "page": "page-01",
+  "idea": "Client revision tracker that enforces scope boundaries automatically",
+  "text": "This automated system logs feedback rounds and alerts clients when extra edits become billable. Agencies constantly watch margins evaporate because clients request endless minor tweaks after final delivery. When feedback is unmetered, account directors avoid uncomfortable conversations while creatives burn out on unpaid revisions. Build a Make workflow linking Frame.io to ClickUp that counts milestones and sends Stripe overage invoices automatically. You protect billable hours without burning client relationships.",
+  "duration": 32.335,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "automated",
+      "start": 0.3,
+      "end": 0.68
+    },
+    {
+      "word": "system",
+      "start": 0.68,
+      "end": 1.26
+    },
+    {
+      "word": "logs",
+      "start": 1.26,
+      "end": 1.74
+    },
+    {
+      "word": "feedback",
+      "start": 1.74,
+      "end": 2.2
+    },
+    {
+      "word": "rounds",
+      "start": 2.2,
+      "end": 2.72
+    },
+    {
+      "word": "and",
+      "start": 2.72,
+      "end": 3.1
+    },
+    {
+      "word": "alerts",
+      "start": 3.1,
+      "end": 3.34
+    },
+    {
+      "word": "clients",
+      "start": 3.34,
+      "end": 3.84
+    },
+    {
+      "word": "when",
+      "start": 3.84,
+      "end": 4.16
+    },
+    {
+      "word": "extra",
+      "start": 4.16,
+      "end": 4.48
+    },
+    {
+      "word": "edits",
+      "start": 4.48,
+      "end": 4.78
+    },
+    {
+      "word": "become",
+      "start": 4.78,
+      "end": 5.2
+    },
+    {
+      "word": "billable.",
+      "start": 5.2,
+      "end": 5.94
+    },
+    {
+      "word": "Agencies",
+      "start": 6.38,
+      "end": 6.84
+    },
+    {
+      "word": "constantly",
+      "start": 6.84,
+      "end": 7.42
+    },
+    {
+      "word": "watch",
+      "start": 7.42,
+      "end": 7.9
+    },
+    {
+      "word": "margins",
+      "start": 7.9,
+      "end": 8.38
+    },
+    {
+      "word": "evaporate",
+      "start": 8.38,
+      "end": 9.1
+    },
+    {
+      "word": "because",
+      "start": 9.1,
+      "end": 9.46
+    },
+    {
+      "word": "clients",
+      "start": 9.46,
+      "end": 9.84
+    },
+    {
+      "word": "request",
+      "start": 9.84,
+      "end": 10.4
+    },
+    {
+      "word": "endless",
+      "start": 10.4,
+      "end": 10.78
+    },
+    {
+      "word": "minor",
+      "start": 10.78,
+      "end": 11.2
+    },
+    {
+      "word": "tweaks",
+      "start": 11.2,
+      "end": 11.58
+    },
+    {
+      "word": "after",
+      "start": 11.58,
+      "end": 11.98
+    },
+    {
+      "word": "final",
+      "start": 11.98,
+      "end": 12.36
+    },
+    {
+      "word": "delivery.",
+      "start": 12.36,
+      "end": 12.78
+    },
+    {
+      "word": "When",
+      "start": 13.18,
+      "end": 13.36
+    },
+    {
+      "word": "feedback",
+      "start": 13.36,
+      "end": 13.66
+    },
+    {
+      "word": "is",
+      "start": 13.66,
+      "end": 14.12
+    },
+    {
+      "word": "unmetered,",
+      "start": 14.12,
+      "end": 14.66
+    },
+    {
+      "word": "account",
+      "start": 14.96,
+      "end": 15.24
+    },
+    {
+      "word": "directors",
+      "start": 15.24,
+      "end": 15.66
+    },
+    {
+      "word": "avoid",
+      "start": 15.66,
+      "end": 16.14
+    },
+    {
+      "word": "uncomfortable",
+      "start": 16.14,
+      "end": 16.76
+    },
+    {
+      "word": "conversations",
+      "start": 16.76,
+      "end": 17.5
+    },
+    {
+      "word": "while",
+      "start": 17.5,
+      "end": 18.02
+    },
+    {
+      "word": "creatives",
+      "start": 18.02,
+      "end": 18.56
+    },
+    {
+      "word": "burn",
+      "start": 18.56,
+      "end": 18.76
+    },
+    {
+      "word": "out",
+      "start": 18.76,
+      "end": 19.04
+    },
+    {
+      "word": "on",
+      "start": 19.04,
+      "end": 19.36
+    },
+    {
+      "word": "unpaid",
+      "start": 19.36,
+      "end": 19.64
+    },
+    {
+      "word": "revisions.",
+      "start": 19.64,
+      "end": 20.24
+    },
+    {
+      "word": "Build",
+      "start": 21.02,
+      "end": 21.04
+    },
+    {
+      "word": "a",
+      "start": 21.04,
+      "end": 21.18
+    },
+    {
+      "word": "make",
+      "start": 21.18,
+      "end": 21.36
+    },
+    {
+      "word": "workflow",
+      "start": 21.36,
+      "end": 21.72
+    },
+    {
+      "word": "linking",
+      "start": 21.72,
+      "end": 22.18
+    },
+    {
+      "word": "frame.",
+      "start": 22.18,
+      "end": 22.7
+    },
+    {
+      "word": "EO",
+      "start": 23.1,
+      "end": 23.36
+    },
+    {
+      "word": "to",
+      "start": 23.36,
+      "end": 23.54
+    },
+    {
+      "word": "click",
+      "start": 23.54,
+      "end": 23.72
+    },
+    {
+      "word": "up",
+      "start": 23.72,
+      "end": 23.92
+    },
+    {
+      "word": "that",
+      "start": 23.92,
+      "end": 24.14
+    },
+    {
+      "word": "counts",
+      "start": 24.14,
+      "end": 24.5
+    },
+    {
+      "word": "milestones",
+      "start": 24.5,
+      "end": 25.12
+    },
+    {
+      "word": "and",
+      "start": 25.12,
+      "end": 25.64
+    },
+    {
+      "word": "sends",
+      "start": 25.64,
+      "end": 25.92
+    },
+    {
+      "word": "stripe",
+      "start": 25.92,
+      "end": 26.32
+    },
+    {
+      "word": "over",
+      "start": 26.32,
+      "end": 26.6
+    },
+    {
+      "word": "age",
+      "start": 26.6,
+      "end": 26.86
+    },
+    {
+      "word": "invoices",
+      "start": 26.86,
+      "end": 27.44
+    },
+    {
+      "word": "automatically.",
+      "start": 27.44,
+      "end": 28.14
+    },
+    {
+      "word": "You",
+      "start": 28.14,
+      "end": 28.88
+    },
+    {
+      "word": "protect",
+      "start": 28.88,
+      "end": 29.36
+    },
+    {
+      "word": "billable",
+      "start": 29.36,
+      "end": 29.8
+    },
+    {
+      "word": "hours",
+      "start": 29.8,
+      "end": 30.22
+    },
+    {
+      "word": "without",
+      "start": 30.22,
+      "end": 30.68
+    },
+    {
+      "word": "burning",
+      "start": 30.68,
+      "end": 31.12
+    },
+    {
+      "word": "client",
+      "start": 31.12,
+      "end": 31.52
+    },
+    {
+      "word": "relationships.",
+      "start": 31.52,
+      "end": 32.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "This tool logs feedback rounds and alerts the client when additional edits become billable.",
+      "line2": "ENFORCE SCOPE BOUNDARIES",
+      "tag": "\ud83d\uded1 Client revision tracker that enforces scope boundaries automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Client revision tracker that enforces scope boundaries automatically",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Client revision tracker that enforces scope boundaries automatically",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

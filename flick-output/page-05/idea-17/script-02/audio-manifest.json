@@ -1,0 +1,411 @@
+{
+  "page": "page-05",
+  "idea": "No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+  "text": "Track partner commissions, referral links, and payouts on complete autopilot. Launching a digital product creates huge revenue potential, yet manually cross-referencing discount codes burns hours of your time. When attribution data lives across isolated payment dashboards, payout calculations inevitably suffer from double counting and missed refunds. Connect Lemon Squeezy to Airtable using Make webhooks to dynamically log conversions and credit each partner automatically. You eliminate accounting errors completely.",
+  "duration": 31.375,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Track",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "partner",
+      "start": 0.34,
+      "end": 0.68
+    },
+    {
+      "word": "commissions,",
+      "start": 0.68,
+      "end": 1.24
+    },
+    {
+      "word": "referral",
+      "start": 1.82,
+      "end": 1.96
+    },
+    {
+      "word": "links,",
+      "start": 1.96,
+      "end": 2.42
+    },
+    {
+      "word": "and",
+      "start": 2.52,
+      "end": 2.68
+    },
+    {
+      "word": "payouts",
+      "start": 2.68,
+      "end": 3.1
+    },
+    {
+      "word": "on",
+      "start": 3.1,
+      "end": 3.38
+    },
+    {
+      "word": "complete",
+      "start": 3.38,
+      "end": 3.74
+    },
+    {
+      "word": "autopilot.",
+      "start": 3.74,
+      "end": 4.48
+    },
+    {
+      "word": "Launching",
+      "start": 5.06,
+      "end": 5.42
+    },
+    {
+      "word": "a",
+      "start": 5.42,
+      "end": 5.58
+    },
+    {
+      "word": "digital",
+      "start": 5.58,
+      "end": 5.9
+    },
+    {
+      "word": "product",
+      "start": 5.9,
+      "end": 6.34
+    },
+    {
+      "word": "creates",
+      "start": 6.34,
+      "end": 6.72
+    },
+    {
+      "word": "huge",
+      "start": 6.72,
+      "end": 7.3
+    },
+    {
+      "word": "revenue",
+      "start": 7.3,
+      "end": 7.62
+    },
+    {
+      "word": "potential,",
+      "start": 7.62,
+      "end": 8.26
+    },
+    {
+      "word": "yet",
+      "start": 8.7,
+      "end": 8.82
+    },
+    {
+      "word": "manually",
+      "start": 8.82,
+      "end": 9.24
+    },
+    {
+      "word": "cross",
+      "start": 9.24,
+      "end": 9.68
+    },
+    {
+      "word": "-referencing",
+      "start": 9.68,
+      "end": 10.14
+    },
+    {
+      "word": "discount",
+      "start": 10.14,
+      "end": 10.58
+    },
+    {
+      "word": "codes",
+      "start": 10.58,
+      "end": 11.04
+    },
+    {
+      "word": "burns",
+      "start": 11.04,
+      "end": 11.54
+    },
+    {
+      "word": "hours",
+      "start": 11.54,
+      "end": 11.96
+    },
+    {
+      "word": "of",
+      "start": 11.96,
+      "end": 12.12
+    },
+    {
+      "word": "your",
+      "start": 12.12,
+      "end": 12.26
+    },
+    {
+      "word": "time.",
+      "start": 12.26,
+      "end": 12.64
+    },
+    {
+      "word": "When",
+      "start": 12.92,
+      "end": 13.08
+    },
+    {
+      "word": "a",
+      "start": 13.08,
+      "end": 13.18
+    },
+    {
+      "word": "tribution",
+      "start": 13.18,
+      "end": 13.56
+    },
+    {
+      "word": "data",
+      "start": 13.56,
+      "end": 13.84
+    },
+    {
+      "word": "lives",
+      "start": 13.84,
+      "end": 14.3
+    },
+    {
+      "word": "across",
+      "start": 14.3,
+      "end": 14.76
+    },
+    {
+      "word": "isolated",
+      "start": 14.76,
+      "end": 15.26
+    },
+    {
+      "word": "payment",
+      "start": 15.26,
+      "end": 15.72
+    },
+    {
+      "word": "dashboards,",
+      "start": 15.72,
+      "end": 16.36
+    },
+    {
+      "word": "payout",
+      "start": 16.9,
+      "end": 17.08
+    },
+    {
+      "word": "calculations",
+      "start": 17.08,
+      "end": 17.92
+    },
+    {
+      "word": "inevitably",
+      "start": 17.92,
+      "end": 18.56
+    },
+    {
+      "word": "suffer",
+      "start": 18.56,
+      "end": 18.86
+    },
+    {
+      "word": "from",
+      "start": 18.86,
+      "end": 19.16
+    },
+    {
+      "word": "double",
+      "start": 19.16,
+      "end": 19.48
+    },
+    {
+      "word": "counting",
+      "start": 19.48,
+      "end": 19.92
+    },
+    {
+      "word": "and",
+      "start": 19.92,
+      "end": 20.4
+    },
+    {
+      "word": "missed",
+      "start": 20.4,
+      "end": 20.6
+    },
+    {
+      "word": "refunds.",
+      "start": 20.6,
+      "end": 21.14
+    },
+    {
+      "word": "Connect",
+      "start": 21.8,
+      "end": 22.14
+    },
+    {
+      "word": "Lemon",
+      "start": 22.14,
+      "end": 22.42
+    },
+    {
+      "word": "squeezy",
+      "start": 22.42,
+      "end": 22.98
+    },
+    {
+      "word": "to",
+      "start": 22.98,
+      "end": 23.4
+    },
+    {
+      "word": "arable",
+      "start": 23.4,
+      "end": 23.74
+    },
+    {
+      "word": "using",
+      "start": 23.74,
+      "end": 24.2
+    },
+    {
+      "word": "make",
+      "start": 24.2,
+      "end": 24.46
+    },
+    {
+      "word": "webhooks",
+      "start": 24.46,
+      "end": 24.94
+    },
+    {
+      "word": "to",
+      "start": 24.94,
+      "end": 25.12
+    },
+    {
+      "word": "dynamically",
+      "start": 25.12,
+      "end": 25.5
+    },
+    {
+      "word": "log",
+      "start": 25.5,
+      "end": 26.02
+    },
+    {
+      "word": "conversions",
+      "start": 26.02,
+      "end": 26.68
+    },
+    {
+      "word": "and",
+      "start": 26.68,
+      "end": 27.12
+    },
+    {
+      "word": "credit",
+      "start": 27.12,
+      "end": 27.32
+    },
+    {
+      "word": "each",
+      "start": 27.32,
+      "end": 27.72
+    },
+    {
+      "word": "partner",
+      "start": 27.72,
+      "end": 28.08
+    },
+    {
+      "word": "automatically.",
+      "start": 28.08,
+      "end": 28.7
+    },
+    {
+      "word": "You",
+      "start": 28.7,
+      "end": 29.52
+    },
+    {
+      "word": "eliminate",
+      "start": 29.52,
+      "end": 29.84
+    },
+    {
+      "word": "accounting",
+      "start": 29.84,
+      "end": 30.44
+    },
+    {
+      "word": "errors",
+      "start": 30.44,
+      "end": 30.76
+    },
+    {
+      "word": "completely.",
+      "start": 30.76,
+      "end": 31.26
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Track partner commissions, referral links, and payouts on complete autopilot.",
+      "line2": "TRACK AFFILIATES AUTOMATICALLY",
+      "tag": "\ud83d\uded1 No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "No-code automated affiliate tracking with Lemon Squeezy and Airtable",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

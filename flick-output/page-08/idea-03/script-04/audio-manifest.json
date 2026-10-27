@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to setting up your first free Notion workspace in 5 minutes",
+  "text": "How beginners should actually set up Notion without getting overwhelmed. Watching advanced YouTube tutorials makes you believe you need automated formulas just to track a daily to-do list. Frustration peaks when broken database relations prevent you from finding yesterday\u2019s important meeting notes. Keep it simple by creating a single Notion document with bullet lists for goals and checkboxes for actions. You maintain full control over your schedule without technical headaches.",
+  "duration": 28.09,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "beginners",
+      "start": 0.26,
+      "end": 0.6
+    },
+    {
+      "word": "should",
+      "start": 0.6,
+      "end": 1.1
+    },
+    {
+      "word": "actually",
+      "start": 1.1,
+      "end": 1.46
+    },
+    {
+      "word": "set",
+      "start": 1.46,
+      "end": 1.62
+    },
+    {
+      "word": "up",
+      "start": 1.62,
+      "end": 1.8
+    },
+    {
+      "word": "notion",
+      "start": 1.8,
+      "end": 2.24
+    },
+    {
+      "word": "without",
+      "start": 2.24,
+      "end": 2.72
+    },
+    {
+      "word": "getting",
+      "start": 2.72,
+      "end": 3.04
+    },
+    {
+      "word": "overwhelmed.",
+      "start": 3.04,
+      "end": 3.66
+    },
+    {
+      "word": "Watching",
+      "start": 4.28,
+      "end": 4.74
+    },
+    {
+      "word": "advanced",
+      "start": 4.74,
+      "end": 5.26
+    },
+    {
+      "word": "YouTube",
+      "start": 5.26,
+      "end": 5.74
+    },
+    {
+      "word": "tutorials",
+      "start": 5.74,
+      "end": 6.26
+    },
+    {
+      "word": "makes",
+      "start": 6.26,
+      "end": 6.68
+    },
+    {
+      "word": "you",
+      "start": 6.68,
+      "end": 6.9
+    },
+    {
+      "word": "believe",
+      "start": 6.9,
+      "end": 7.24
+    },
+    {
+      "word": "you",
+      "start": 7.24,
+      "end": 7.42
+    },
+    {
+      "word": "need",
+      "start": 7.42,
+      "end": 7.76
+    },
+    {
+      "word": "automated",
+      "start": 7.76,
+      "end": 8.22
+    },
+    {
+      "word": "formulas",
+      "start": 8.22,
+      "end": 8.8
+    },
+    {
+      "word": "just",
+      "start": 8.8,
+      "end": 9.32
+    },
+    {
+      "word": "to",
+      "start": 9.32,
+      "end": 9.5
+    },
+    {
+      "word": "track",
+      "start": 9.5,
+      "end": 9.72
+    },
+    {
+      "word": "a",
+      "start": 9.72,
+      "end": 10.02
+    },
+    {
+      "word": "daily",
+      "start": 10.02,
+      "end": 10.22
+    },
+    {
+      "word": "to",
+      "start": 10.22,
+      "end": 10.44
+    },
+    {
+      "word": "-do",
+      "start": 10.44,
+      "end": 10.6
+    },
+    {
+      "word": "list.",
+      "start": 10.6,
+      "end": 10.96
+    },
+    {
+      "word": "Frustration",
+      "start": 11.48,
+      "end": 11.86
+    },
+    {
+      "word": "peaks",
+      "start": 11.86,
+      "end": 12.24
+    },
+    {
+      "word": "when",
+      "start": 12.24,
+      "end": 12.54
+    },
+    {
+      "word": "broken",
+      "start": 12.54,
+      "end": 12.96
+    },
+    {
+      "word": "database",
+      "start": 12.96,
+      "end": 13.42
+    },
+    {
+      "word": "relations",
+      "start": 13.42,
+      "end": 14.22
+    },
+    {
+      "word": "prevent",
+      "start": 14.22,
+      "end": 14.48
+    },
+    {
+      "word": "you",
+      "start": 14.48,
+      "end": 14.74
+    },
+    {
+      "word": "from",
+      "start": 14.74,
+      "end": 15.0
+    },
+    {
+      "word": "finding",
+      "start": 15.0,
+      "end": 15.36
+    },
+    {
+      "word": "yesterday's",
+      "start": 15.36,
+      "end": 16.12
+    },
+    {
+      "word": "important",
+      "start": 16.12,
+      "end": 16.44
+    },
+    {
+      "word": "meeting",
+      "start": 16.44,
+      "end": 16.78
+    },
+    {
+      "word": "notes.",
+      "start": 16.78,
+      "end": 17.22
+    },
+    {
+      "word": "Keep",
+      "start": 17.96,
+      "end": 17.96
+    },
+    {
+      "word": "it",
+      "start": 17.96,
+      "end": 18.18
+    },
+    {
+      "word": "simple",
+      "start": 18.18,
+      "end": 18.46
+    },
+    {
+      "word": "by",
+      "start": 18.46,
+      "end": 18.76
+    },
+    {
+      "word": "creating",
+      "start": 18.76,
+      "end": 19.12
+    },
+    {
+      "word": "a",
+      "start": 19.12,
+      "end": 19.38
+    },
+    {
+      "word": "single",
+      "start": 19.38,
+      "end": 19.66
+    },
+    {
+      "word": "notion",
+      "start": 19.66,
+      "end": 20.06
+    },
+    {
+      "word": "document",
+      "start": 20.06,
+      "end": 20.54
+    },
+    {
+      "word": "with",
+      "start": 20.54,
+      "end": 20.96
+    },
+    {
+      "word": "bullet",
+      "start": 20.96,
+      "end": 21.12
+    },
+    {
+      "word": "lists",
+      "start": 21.12,
+      "end": 21.48
+    },
+    {
+      "word": "for",
+      "start": 21.48,
+      "end": 21.88
+    },
+    {
+      "word": "goals",
+      "start": 21.88,
+      "end": 22.28
+    },
+    {
+      "word": "and",
+      "start": 22.28,
+      "end": 22.66
+    },
+    {
+      "word": "checkboxes",
+      "start": 22.66,
+      "end": 23.06
+    },
+    {
+      "word": "for",
+      "start": 23.06,
+      "end": 23.4
+    },
+    {
+      "word": "actions.",
+      "start": 23.4,
+      "end": 23.82
+    },
+    {
+      "word": "You",
+      "start": 23.82,
+      "end": 24.5
+    },
+    {
+      "word": "maintain",
+      "start": 24.5,
+      "end": 24.98
+    },
+    {
+      "word": "full",
+      "start": 24.98,
+      "end": 25.3
+    },
+    {
+      "word": "control",
+      "start": 25.3,
+      "end": 25.82
+    },
+    {
+      "word": "over",
+      "start": 25.82,
+      "end": 26.04
+    },
+    {
+      "word": "your",
+      "start": 26.04,
+      "end": 26.24
+    },
+    {
+      "word": "schedule",
+      "start": 26.24,
+      "end": 26.64
+    },
+    {
+      "word": "without",
+      "start": 26.64,
+      "end": 27.06
+    },
+    {
+      "word": "technical",
+      "start": 27.06,
+      "end": 27.54
+    },
+    {
+      "word": "headaches.",
+      "start": 27.54,
+      "end": 27.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How beginners should actually set up Notion without getting overwhelmed.",
+      "line2": "NOTION IN 5 MINUTES",
+      "tag": "\ud83d\uded1 Beginner guide to setting up your first free Notion workspace in 5 minutes",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to setting up your first free Notion workspace in 5 minutes",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to setting up your first free Notion workspace in 5 minutes",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

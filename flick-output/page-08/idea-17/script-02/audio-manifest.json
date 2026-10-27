@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "How to automatically format messy dates and names in Google Sheets",
+  "text": "Here is the beginner-friendly feature that fixes inconsistent capitalization and dates in Google Sheets instantly. Pasted customer rosters always arrive with random uppercase letters, rogue trailing spaces, and mismatched calendar styles. Fixing cells by hand invites spelling mistakes and breaks essential VLOOKUP formulas across your entire document. Combine the PROPER and TRIM functions, then run Data Cleanup to standardize date columns automatically. You polish thousands of rows in seconds.",
+  "duration": 30.757,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.46
+    },
+    {
+      "word": "the",
+      "start": 0.46,
+      "end": 0.62
+    },
+    {
+      "word": "beginner",
+      "start": 0.62,
+      "end": 0.96
+    },
+    {
+      "word": "-friendly",
+      "start": 0.96,
+      "end": 1.3
+    },
+    {
+      "word": "feature",
+      "start": 1.3,
+      "end": 1.64
+    },
+    {
+      "word": "that",
+      "start": 1.64,
+      "end": 1.96
+    },
+    {
+      "word": "fixes",
+      "start": 1.96,
+      "end": 2.26
+    },
+    {
+      "word": "inconsistent",
+      "start": 2.26,
+      "end": 3.06
+    },
+    {
+      "word": "capitalization",
+      "start": 3.06,
+      "end": 4.04
+    },
+    {
+      "word": "and",
+      "start": 4.04,
+      "end": 4.3
+    },
+    {
+      "word": "dates",
+      "start": 4.3,
+      "end": 4.58
+    },
+    {
+      "word": "in",
+      "start": 4.58,
+      "end": 4.84
+    },
+    {
+      "word": "Google",
+      "start": 4.84,
+      "end": 5.06
+    },
+    {
+      "word": "Sheets",
+      "start": 5.06,
+      "end": 5.62
+    },
+    {
+      "word": "instantly.",
+      "start": 5.62,
+      "end": 6.54
+    },
+    {
+      "word": "Pasted",
+      "start": 7.14,
+      "end": 7.3
+    },
+    {
+      "word": "customer",
+      "start": 7.3,
+      "end": 7.82
+    },
+    {
+      "word": "rosters",
+      "start": 7.82,
+      "end": 8.28
+    },
+    {
+      "word": "always",
+      "start": 8.28,
+      "end": 8.82
+    },
+    {
+      "word": "arrive",
+      "start": 8.82,
+      "end": 9.24
+    },
+    {
+      "word": "with",
+      "start": 9.24,
+      "end": 9.56
+    },
+    {
+      "word": "random",
+      "start": 9.56,
+      "end": 9.92
+    },
+    {
+      "word": "uppercase",
+      "start": 9.92,
+      "end": 10.42
+    },
+    {
+      "word": "letters,",
+      "start": 10.42,
+      "end": 10.78
+    },
+    {
+      "word": "rogue",
+      "start": 11.26,
+      "end": 11.6
+    },
+    {
+      "word": "trailing",
+      "start": 11.6,
+      "end": 11.96
+    },
+    {
+      "word": "spaces,",
+      "start": 11.96,
+      "end": 12.5
+    },
+    {
+      "word": "and",
+      "start": 12.94,
+      "end": 13.12
+    },
+    {
+      "word": "mismatched",
+      "start": 13.12,
+      "end": 13.56
+    },
+    {
+      "word": "calendar",
+      "start": 13.56,
+      "end": 14.02
+    },
+    {
+      "word": "styles,",
+      "start": 14.02,
+      "end": 14.56
+    },
+    {
+      "word": "fixing",
+      "start": 15.08,
+      "end": 15.26
+    },
+    {
+      "word": "cells",
+      "start": 15.26,
+      "end": 15.66
+    },
+    {
+      "word": "by",
+      "start": 15.66,
+      "end": 15.96
+    },
+    {
+      "word": "hand",
+      "start": 15.96,
+      "end": 16.2
+    },
+    {
+      "word": "invite",
+      "start": 16.2,
+      "end": 16.7
+    },
+    {
+      "word": "spelling",
+      "start": 16.7,
+      "end": 17.04
+    },
+    {
+      "word": "mistakes,",
+      "start": 17.04,
+      "end": 17.56
+    },
+    {
+      "word": "and",
+      "start": 17.96,
+      "end": 18.08
+    },
+    {
+      "word": "breaks",
+      "start": 18.08,
+      "end": 18.36
+    },
+    {
+      "word": "essential",
+      "start": 18.36,
+      "end": 18.88
+    },
+    {
+      "word": "VLOOKUP",
+      "start": 18.88,
+      "end": 19.42
+    },
+    {
+      "word": "formulas",
+      "start": 19.42,
+      "end": 19.82
+    },
+    {
+      "word": "across",
+      "start": 19.82,
+      "end": 20.3
+    },
+    {
+      "word": "your",
+      "start": 20.3,
+      "end": 20.58
+    },
+    {
+      "word": "entire",
+      "start": 20.58,
+      "end": 20.94
+    },
+    {
+      "word": "document.",
+      "start": 20.94,
+      "end": 21.5
+    },
+    {
+      "word": "Combine",
+      "start": 22.12,
+      "end": 22.3
+    },
+    {
+      "word": "the",
+      "start": 22.3,
+      "end": 22.78
+    },
+    {
+      "word": "proper",
+      "start": 22.78,
+      "end": 22.9
+    },
+    {
+      "word": "and",
+      "start": 22.9,
+      "end": 23.1
+    },
+    {
+      "word": "trim",
+      "start": 23.1,
+      "end": 23.3
+    },
+    {
+      "word": "functions,",
+      "start": 23.3,
+      "end": 23.76
+    },
+    {
+      "word": "then",
+      "start": 24.2,
+      "end": 24.4
+    },
+    {
+      "word": "run",
+      "start": 24.4,
+      "end": 24.64
+    },
+    {
+      "word": "data",
+      "start": 24.64,
+      "end": 24.98
+    },
+    {
+      "word": "cleanup",
+      "start": 24.98,
+      "end": 25.2
+    },
+    {
+      "word": "to",
+      "start": 25.2,
+      "end": 25.74
+    },
+    {
+      "word": "standardize",
+      "start": 25.74,
+      "end": 26.16
+    },
+    {
+      "word": "date",
+      "start": 26.16,
+      "end": 26.52
+    },
+    {
+      "word": "columns",
+      "start": 26.52,
+      "end": 26.92
+    },
+    {
+      "word": "automatically.",
+      "start": 26.92,
+      "end": 27.64
+    },
+    {
+      "word": "You",
+      "start": 27.64,
+      "end": 28.48
+    },
+    {
+      "word": "polish",
+      "start": 28.48,
+      "end": 28.84
+    },
+    {
+      "word": "thousands",
+      "start": 28.84,
+      "end": 29.44
+    },
+    {
+      "word": "of",
+      "start": 29.44,
+      "end": 29.72
+    },
+    {
+      "word": "rows",
+      "start": 29.72,
+      "end": 30.0
+    },
+    {
+      "word": "in",
+      "start": 30.0,
+      "end": 30.3
+    },
+    {
+      "word": "seconds.",
+      "start": 30.3,
+      "end": 30.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The beginner-friendly feature that fixes inconsistent capitalization and dates instantly.",
+      "line2": "FORMAT DATES AND NAMES",
+      "tag": "\ud83d\uded1 How to automatically format messy dates and names in Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to automatically format messy dates and names in Google Sheets",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to automatically format messy dates and names in Google Sheets",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

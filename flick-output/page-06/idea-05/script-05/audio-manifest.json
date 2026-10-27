@@ -1,0 +1,386 @@
+{
+  "page": "page-06",
+  "idea": "Virtual coworking room tool for spontaneous watercooler banter",
+  "text": "You can create a vibrant remote team atmosphere without installing intrusive employee surveillance software. Tracking keystrokes and webcam activity destroys psychological safety and triggers immediate senior engineer turnover. Teammates disengage when micromanagement replaces trust, causing critical communication channels to go completely dark. Setting up open Discord voice lounges lets distributed engineers drop into casual coworking tables voluntarily. This drives spontaneous collaboration with zero surveillance.",
+  "duration": 32.634,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "can",
+      "start": 0.14,
+      "end": 0.34
+    },
+    {
+      "word": "create",
+      "start": 0.34,
+      "end": 0.62
+    },
+    {
+      "word": "a",
+      "start": 0.62,
+      "end": 0.82
+    },
+    {
+      "word": "vibrant",
+      "start": 0.82,
+      "end": 1.28
+    },
+    {
+      "word": "remote",
+      "start": 1.28,
+      "end": 1.7
+    },
+    {
+      "word": "team",
+      "start": 1.7,
+      "end": 2.12
+    },
+    {
+      "word": "atmosphere",
+      "start": 2.12,
+      "end": 2.58
+    },
+    {
+      "word": "without",
+      "start": 2.58,
+      "end": 3.1
+    },
+    {
+      "word": "installing",
+      "start": 3.1,
+      "end": 3.74
+    },
+    {
+      "word": "intrusive",
+      "start": 3.74,
+      "end": 4.28
+    },
+    {
+      "word": "employee",
+      "start": 4.28,
+      "end": 4.88
+    },
+    {
+      "word": "surveillance",
+      "start": 4.88,
+      "end": 5.38
+    },
+    {
+      "word": "software.",
+      "start": 5.38,
+      "end": 6.16
+    },
+    {
+      "word": "Tracking",
+      "start": 6.92,
+      "end": 6.92
+    },
+    {
+      "word": "keystrokes",
+      "start": 6.92,
+      "end": 7.56
+    },
+    {
+      "word": "and",
+      "start": 7.56,
+      "end": 7.8
+    },
+    {
+      "word": "webcam",
+      "start": 7.8,
+      "end": 8.16
+    },
+    {
+      "word": "activity",
+      "start": 8.16,
+      "end": 8.82
+    },
+    {
+      "word": "destroys",
+      "start": 8.82,
+      "end": 9.5
+    },
+    {
+      "word": "psychological",
+      "start": 9.5,
+      "end": 10.2
+    },
+    {
+      "word": "safety",
+      "start": 10.2,
+      "end": 10.86
+    },
+    {
+      "word": "and",
+      "start": 10.86,
+      "end": 11.32
+    },
+    {
+      "word": "triggers",
+      "start": 11.32,
+      "end": 11.64
+    },
+    {
+      "word": "immediate",
+      "start": 11.64,
+      "end": 12.28
+    },
+    {
+      "word": "senior",
+      "start": 12.28,
+      "end": 12.68
+    },
+    {
+      "word": "engineer",
+      "start": 12.68,
+      "end": 13.16
+    },
+    {
+      "word": "turnover.",
+      "start": 13.16,
+      "end": 13.66
+    },
+    {
+      "word": "Teammates",
+      "start": 14.0,
+      "end": 14.44
+    },
+    {
+      "word": "disengage",
+      "start": 14.44,
+      "end": 15.16
+    },
+    {
+      "word": "when",
+      "start": 15.16,
+      "end": 15.4
+    },
+    {
+      "word": "micromanagement",
+      "start": 15.4,
+      "end": 16.2
+    },
+    {
+      "word": "replaces",
+      "start": 16.2,
+      "end": 16.56
+    },
+    {
+      "word": "trust,",
+      "start": 16.56,
+      "end": 17.2
+    },
+    {
+      "word": "causing",
+      "start": 17.84,
+      "end": 17.84
+    },
+    {
+      "word": "critical",
+      "start": 17.84,
+      "end": 18.28
+    },
+    {
+      "word": "communication",
+      "start": 18.28,
+      "end": 18.88
+    },
+    {
+      "word": "channels",
+      "start": 18.88,
+      "end": 19.44
+    },
+    {
+      "word": "to",
+      "start": 19.44,
+      "end": 19.68
+    },
+    {
+      "word": "go",
+      "start": 19.68,
+      "end": 20.0
+    },
+    {
+      "word": "completely",
+      "start": 20.0,
+      "end": 20.5
+    },
+    {
+      "word": "dark.",
+      "start": 20.5,
+      "end": 20.98
+    },
+    {
+      "word": "Setting",
+      "start": 21.52,
+      "end": 21.74
+    },
+    {
+      "word": "up",
+      "start": 21.74,
+      "end": 22.02
+    },
+    {
+      "word": "open",
+      "start": 22.02,
+      "end": 22.38
+    },
+    {
+      "word": "Discord",
+      "start": 22.38,
+      "end": 22.84
+    },
+    {
+      "word": "voice",
+      "start": 22.84,
+      "end": 23.18
+    },
+    {
+      "word": "lounges,",
+      "start": 23.18,
+      "end": 23.78
+    },
+    {
+      "word": "let's",
+      "start": 24.06,
+      "end": 24.44
+    },
+    {
+      "word": "distributed",
+      "start": 24.44,
+      "end": 24.82
+    },
+    {
+      "word": "engineers",
+      "start": 24.82,
+      "end": 25.42
+    },
+    {
+      "word": "drop",
+      "start": 25.42,
+      "end": 25.88
+    },
+    {
+      "word": "into",
+      "start": 25.88,
+      "end": 26.1
+    },
+    {
+      "word": "casual",
+      "start": 26.1,
+      "end": 26.62
+    },
+    {
+      "word": "power",
+      "start": 26.62,
+      "end": 26.9
+    },
+    {
+      "word": "-working",
+      "start": 26.9,
+      "end": 27.18
+    },
+    {
+      "word": "tables",
+      "start": 27.18,
+      "end": 27.54
+    },
+    {
+      "word": "voluntarily.",
+      "start": 27.54,
+      "end": 28.32
+    },
+    {
+      "word": "This",
+      "start": 29.04,
+      "end": 29.3
+    },
+    {
+      "word": "drives",
+      "start": 29.3,
+      "end": 29.7
+    },
+    {
+      "word": "spontaneous",
+      "start": 29.7,
+      "end": 30.4
+    },
+    {
+      "word": "collaboration",
+      "start": 30.4,
+      "end": 31.1
+    },
+    {
+      "word": "with",
+      "start": 31.1,
+      "end": 31.58
+    },
+    {
+      "word": "zero",
+      "start": 31.58,
+      "end": 31.98
+    },
+    {
+      "word": "surveillance.",
+      "start": 31.98,
+      "end": 32.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Create a vibrant remote team atmosphere without intrusive surveillance software.",
+      "line2": "SPONTANEOUS VIRTUAL COWORKING",
+      "tag": "\ud83d\uded1 Virtual coworking room tool for spontaneous watercooler banter",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Virtual coworking room tool for spontaneous watercooler banter",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Virtual coworking room tool for spontaneous watercooler banter",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

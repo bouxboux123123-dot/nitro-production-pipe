@@ -1,0 +1,396 @@
+{
+  "page": "page-05",
+  "idea": "Airtable automations that notify Slack when deals enter negotiation",
+  "text": "Here is the simple notification rule that keeps your entire company aligned on revenue. Support and delivery teams rarely know which enterprise deals are closing until contracts are already signed. When implementation engineers get excluded from negotiation, client onboarding begins with friction and costly delays. Instead, configure an Airtable automation that broadcasts deal scope and launch dates into Slack. You eliminate handoff chaos while accelerating retention.",
+  "duration": 28.751,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "is",
+      "start": 0.3,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.78
+    },
+    {
+      "word": "simple",
+      "start": 0.78,
+      "end": 0.98
+    },
+    {
+      "word": "notification",
+      "start": 0.98,
+      "end": 1.54
+    },
+    {
+      "word": "rule",
+      "start": 1.54,
+      "end": 2.04
+    },
+    {
+      "word": "that",
+      "start": 2.04,
+      "end": 2.36
+    },
+    {
+      "word": "keeps",
+      "start": 2.36,
+      "end": 2.58
+    },
+    {
+      "word": "your",
+      "start": 2.58,
+      "end": 2.86
+    },
+    {
+      "word": "entire",
+      "start": 2.86,
+      "end": 3.28
+    },
+    {
+      "word": "company",
+      "start": 3.28,
+      "end": 3.72
+    },
+    {
+      "word": "aligned",
+      "start": 3.72,
+      "end": 4.2
+    },
+    {
+      "word": "on",
+      "start": 4.2,
+      "end": 4.54
+    },
+    {
+      "word": "revenue.",
+      "start": 4.54,
+      "end": 4.9
+    },
+    {
+      "word": "Support",
+      "start": 5.64,
+      "end": 5.96
+    },
+    {
+      "word": "and",
+      "start": 5.96,
+      "end": 6.46
+    },
+    {
+      "word": "delivery",
+      "start": 6.46,
+      "end": 6.7
+    },
+    {
+      "word": "teams",
+      "start": 6.7,
+      "end": 7.22
+    },
+    {
+      "word": "rarely",
+      "start": 7.22,
+      "end": 7.48
+    },
+    {
+      "word": "know",
+      "start": 7.48,
+      "end": 7.86
+    },
+    {
+      "word": "which",
+      "start": 7.86,
+      "end": 8.14
+    },
+    {
+      "word": "enterprise",
+      "start": 8.14,
+      "end": 8.56
+    },
+    {
+      "word": "deals",
+      "start": 8.56,
+      "end": 8.92
+    },
+    {
+      "word": "are",
+      "start": 8.92,
+      "end": 9.16
+    },
+    {
+      "word": "closing",
+      "start": 9.16,
+      "end": 9.64
+    },
+    {
+      "word": "until",
+      "start": 9.64,
+      "end": 10.2
+    },
+    {
+      "word": "contracts",
+      "start": 10.2,
+      "end": 10.68
+    },
+    {
+      "word": "are",
+      "start": 10.68,
+      "end": 10.96
+    },
+    {
+      "word": "already",
+      "start": 10.96,
+      "end": 11.28
+    },
+    {
+      "word": "signed.",
+      "start": 11.28,
+      "end": 11.74
+    },
+    {
+      "word": "When",
+      "start": 12.1,
+      "end": 12.24
+    },
+    {
+      "word": "implementation",
+      "start": 12.24,
+      "end": 12.84
+    },
+    {
+      "word": "engineers",
+      "start": 12.84,
+      "end": 13.36
+    },
+    {
+      "word": "get",
+      "start": 13.36,
+      "end": 13.68
+    },
+    {
+      "word": "excluded",
+      "start": 13.68,
+      "end": 14.08
+    },
+    {
+      "word": "from",
+      "start": 14.08,
+      "end": 14.42
+    },
+    {
+      "word": "negotiation,",
+      "start": 14.42,
+      "end": 15.14
+    },
+    {
+      "word": "client",
+      "start": 15.66,
+      "end": 15.92
+    },
+    {
+      "word": "onboarding",
+      "start": 15.92,
+      "end": 16.5
+    },
+    {
+      "word": "begins",
+      "start": 16.5,
+      "end": 16.76
+    },
+    {
+      "word": "with",
+      "start": 16.76,
+      "end": 17.14
+    },
+    {
+      "word": "friction",
+      "start": 17.14,
+      "end": 17.48
+    },
+    {
+      "word": "and",
+      "start": 17.48,
+      "end": 17.96
+    },
+    {
+      "word": "costly",
+      "start": 17.96,
+      "end": 18.18
+    },
+    {
+      "word": "delays.",
+      "start": 18.18,
+      "end": 18.7
+    },
+    {
+      "word": "Instead,",
+      "start": 19.46,
+      "end": 19.8
+    },
+    {
+      "word": "configure",
+      "start": 20.42,
+      "end": 20.58
+    },
+    {
+      "word": "an",
+      "start": 20.58,
+      "end": 20.88
+    },
+    {
+      "word": "irritable",
+      "start": 20.88,
+      "end": 21.26
+    },
+    {
+      "word": "automation",
+      "start": 21.26,
+      "end": 21.76
+    },
+    {
+      "word": "that",
+      "start": 21.76,
+      "end": 22.16
+    },
+    {
+      "word": "broadcasts",
+      "start": 22.16,
+      "end": 22.66
+    },
+    {
+      "word": "deal",
+      "start": 22.66,
+      "end": 23.18
+    },
+    {
+      "word": "scope",
+      "start": 23.18,
+      "end": 23.6
+    },
+    {
+      "word": "and",
+      "start": 23.6,
+      "end": 23.84
+    },
+    {
+      "word": "launch",
+      "start": 23.84,
+      "end": 24.12
+    },
+    {
+      "word": "dates",
+      "start": 24.12,
+      "end": 24.42
+    },
+    {
+      "word": "into",
+      "start": 24.42,
+      "end": 24.7
+    },
+    {
+      "word": "Slack.",
+      "start": 24.7,
+      "end": 25.14
+    },
+    {
+      "word": "You",
+      "start": 25.72,
+      "end": 25.86
+    },
+    {
+      "word": "eliminate",
+      "start": 25.86,
+      "end": 26.22
+    },
+    {
+      "word": "hand",
+      "start": 26.22,
+      "end": 26.54
+    },
+    {
+      "word": "-off",
+      "start": 26.54,
+      "end": 26.78
+    },
+    {
+      "word": "chaos",
+      "start": 26.78,
+      "end": 27.16
+    },
+    {
+      "word": "while",
+      "start": 27.16,
+      "end": 27.5
+    },
+    {
+      "word": "accelerating",
+      "start": 27.5,
+      "end": 28.02
+    },
+    {
+      "word": "retention.",
+      "start": 28.02,
+      "end": 28.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The simple notification rule that keeps the whole company aligned on revenue.",
+      "line2": "SLACK DEAL ALERTS",
+      "tag": "\ud83d\uded1 Airtable automations that notify Slack when deals enter negotiation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Airtable automations that notify Slack when deals enter negotiation",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Airtable automations that notify Slack when deals enter negotiation",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Airtable automations that notify Slack when deals enter negotiation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-10",
+  "idea": "Zapier Central launch: conversational AI bots that run your workflows",
+  "text": "The future of business automation just arrived with Zapier Central. Solopreneurs waste hours daily jumping between CRM records, calendar invites, and customer email threads. Routine administrative tasks stall when your team forgets manual follow-up steps or copies the wrong client details. This platform lets you deploy custom AI assistants that monitor your inbox and trigger multi-app workflows automatically. You reclaim ten hours every single week.",
+  "duration": 26.539,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "a",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "future",
+      "start": 0.32,
+      "end": 0.38
+    },
+    {
+      "word": "of",
+      "start": 0.38,
+      "end": 0.62
+    },
+    {
+      "word": "business",
+      "start": 0.62,
+      "end": 0.9
+    },
+    {
+      "word": "automation",
+      "start": 0.9,
+      "end": 1.32
+    },
+    {
+      "word": "just",
+      "start": 1.32,
+      "end": 1.72
+    },
+    {
+      "word": "arrived",
+      "start": 1.72,
+      "end": 2.02
+    },
+    {
+      "word": "with",
+      "start": 2.02,
+      "end": 2.34
+    },
+    {
+      "word": "Zapier",
+      "start": 2.34,
+      "end": 2.78
+    },
+    {
+      "word": "Central.",
+      "start": 2.78,
+      "end": 3.3
+    },
+    {
+      "word": "Solopreneurs",
+      "start": 3.9,
+      "end": 4.4
+    },
+    {
+      "word": "waste",
+      "start": 4.4,
+      "end": 4.74
+    },
+    {
+      "word": "hours",
+      "start": 4.74,
+      "end": 5.14
+    },
+    {
+      "word": "daily",
+      "start": 5.14,
+      "end": 5.46
+    },
+    {
+      "word": "jumping",
+      "start": 5.46,
+      "end": 5.76
+    },
+    {
+      "word": "between",
+      "start": 5.76,
+      "end": 6.18
+    },
+    {
+      "word": "CRM",
+      "start": 6.18,
+      "end": 6.76
+    },
+    {
+      "word": "records,",
+      "start": 6.76,
+      "end": 7.18
+    },
+    {
+      "word": "calendar",
+      "start": 7.68,
+      "end": 7.82
+    },
+    {
+      "word": "invites,",
+      "start": 7.82,
+      "end": 8.24
+    },
+    {
+      "word": "and",
+      "start": 8.64,
+      "end": 8.92
+    },
+    {
+      "word": "customer",
+      "start": 8.92,
+      "end": 9.18
+    },
+    {
+      "word": "email",
+      "start": 9.18,
+      "end": 9.58
+    },
+    {
+      "word": "threads.",
+      "start": 9.58,
+      "end": 10.0
+    },
+    {
+      "word": "Routine",
+      "start": 10.62,
+      "end": 10.92
+    },
+    {
+      "word": "administrative",
+      "start": 10.92,
+      "end": 11.52
+    },
+    {
+      "word": "tasks",
+      "start": 11.52,
+      "end": 12.04
+    },
+    {
+      "word": "stall",
+      "start": 12.04,
+      "end": 12.38
+    },
+    {
+      "word": "when",
+      "start": 12.38,
+      "end": 12.52
+    },
+    {
+      "word": "your",
+      "start": 12.52,
+      "end": 12.68
+    },
+    {
+      "word": "team",
+      "start": 12.68,
+      "end": 12.9
+    },
+    {
+      "word": "forgets",
+      "start": 12.9,
+      "end": 13.3
+    },
+    {
+      "word": "manual",
+      "start": 13.3,
+      "end": 13.78
+    },
+    {
+      "word": "follow",
+      "start": 13.78,
+      "end": 14.12
+    },
+    {
+      "word": "-up",
+      "start": 14.12,
+      "end": 14.34
+    },
+    {
+      "word": "steps",
+      "start": 14.34,
+      "end": 14.64
+    },
+    {
+      "word": "or",
+      "start": 14.64,
+      "end": 15.12
+    },
+    {
+      "word": "copies",
+      "start": 15.12,
+      "end": 15.4
+    },
+    {
+      "word": "the",
+      "start": 15.4,
+      "end": 15.66
+    },
+    {
+      "word": "wrong",
+      "start": 15.66,
+      "end": 15.92
+    },
+    {
+      "word": "client",
+      "start": 15.92,
+      "end": 16.28
+    },
+    {
+      "word": "details.",
+      "start": 16.28,
+      "end": 16.8
+    },
+    {
+      "word": "This",
+      "start": 17.42,
+      "end": 17.66
+    },
+    {
+      "word": "platform",
+      "start": 17.66,
+      "end": 18.1
+    },
+    {
+      "word": "lets",
+      "start": 18.1,
+      "end": 18.32
+    },
+    {
+      "word": "you",
+      "start": 18.32,
+      "end": 18.5
+    },
+    {
+      "word": "deploy",
+      "start": 18.5,
+      "end": 18.86
+    },
+    {
+      "word": "custom",
+      "start": 18.86,
+      "end": 19.24
+    },
+    {
+      "word": "AI",
+      "start": 19.24,
+      "end": 19.64
+    },
+    {
+      "word": "assistance",
+      "start": 19.64,
+      "end": 20.12
+    },
+    {
+      "word": "that",
+      "start": 20.12,
+      "end": 20.68
+    },
+    {
+      "word": "monitor",
+      "start": 20.68,
+      "end": 20.74
+    },
+    {
+      "word": "your",
+      "start": 20.74,
+      "end": 21.1
+    },
+    {
+      "word": "inbox",
+      "start": 21.1,
+      "end": 21.32
+    },
+    {
+      "word": "and",
+      "start": 21.32,
+      "end": 21.74
+    },
+    {
+      "word": "trigger",
+      "start": 21.74,
+      "end": 21.98
+    },
+    {
+      "word": "multi",
+      "start": 21.98,
+      "end": 22.42
+    },
+    {
+      "word": "-app",
+      "start": 22.42,
+      "end": 22.66
+    },
+    {
+      "word": "workflows",
+      "start": 22.66,
+      "end": 23.18
+    },
+    {
+      "word": "automatically.",
+      "start": 23.18,
+      "end": 23.78
+    },
+    {
+      "word": "You",
+      "start": 23.78,
+      "end": 24.46
+    },
+    {
+      "word": "reclaim",
+      "start": 24.46,
+      "end": 24.72
+    },
+    {
+      "word": "10",
+      "start": 24.72,
+      "end": 25.2
+    },
+    {
+      "word": "hours",
+      "start": 25.2,
+      "end": 25.52
+    },
+    {
+      "word": "every",
+      "start": 25.52,
+      "end": 25.96
+    },
+    {
+      "word": "single",
+      "start": 25.96,
+      "end": 26.26
+    },
+    {
+      "word": "week.",
+      "start": 26.26,
+      "end": 26.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The future of business automation just arrived with this new tool.",
+      "line2": "ZAPIER CONVERSATIONAL AI BOTS",
+      "tag": "\ud83d\uded1 Zapier Central launch",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Zapier Central launch",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Zapier Central launch",
+        "subtitle": "Zapier Central launch"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Zapier Central launch"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Zapier Central launch"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Zapier Central launch",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-02",
+  "idea": "Smart client onboarding portal that collects assets automatically",
+  "text": "This tool automates your entire client onboarding flow in under three minutes. Handcrafting onboarding emails, sending contract links, and tracking asset checklists wastes hours every time you sign a client. Messy kickoff processes confuse new clients and immediately signal amateur operations. Connect Copilot CRM to automatically generate secure client portals with pre-loaded intake forms, contracts, and payment links. You deliver a white-glove onboarding experience on autopilot.",
+  "duration": 29.711,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "tool",
+      "start": 0.26,
+      "end": 0.58
+    },
+    {
+      "word": "automates",
+      "start": 0.58,
+      "end": 1.06
+    },
+    {
+      "word": "your",
+      "start": 1.06,
+      "end": 1.32
+    },
+    {
+      "word": "entire",
+      "start": 1.32,
+      "end": 1.76
+    },
+    {
+      "word": "client",
+      "start": 1.76,
+      "end": 2.1
+    },
+    {
+      "word": "onboarding",
+      "start": 2.1,
+      "end": 2.68
+    },
+    {
+      "word": "flow",
+      "start": 2.68,
+      "end": 2.96
+    },
+    {
+      "word": "in",
+      "start": 2.96,
+      "end": 3.06
+    },
+    {
+      "word": "under",
+      "start": 3.06,
+      "end": 3.3
+    },
+    {
+      "word": "three",
+      "start": 3.3,
+      "end": 3.54
+    },
+    {
+      "word": "minutes.",
+      "start": 3.54,
+      "end": 3.9
+    },
+    {
+      "word": "Handcrafting",
+      "start": 4.62,
+      "end": 5.06
+    },
+    {
+      "word": "onboarding",
+      "start": 5.06,
+      "end": 5.56
+    },
+    {
+      "word": "emails,",
+      "start": 5.56,
+      "end": 5.98
+    },
+    {
+      "word": "sending",
+      "start": 6.62,
+      "end": 6.66
+    },
+    {
+      "word": "contract",
+      "start": 6.66,
+      "end": 7.04
+    },
+    {
+      "word": "links,",
+      "start": 7.04,
+      "end": 7.48
+    },
+    {
+      "word": "and",
+      "start": 7.84,
+      "end": 7.98
+    },
+    {
+      "word": "tracking",
+      "start": 7.98,
+      "end": 8.32
+    },
+    {
+      "word": "asset",
+      "start": 8.32,
+      "end": 8.7
+    },
+    {
+      "word": "checklists",
+      "start": 8.7,
+      "end": 9.18
+    },
+    {
+      "word": "waste",
+      "start": 9.18,
+      "end": 9.56
+    },
+    {
+      "word": "hours",
+      "start": 9.56,
+      "end": 10.04
+    },
+    {
+      "word": "every",
+      "start": 10.04,
+      "end": 10.44
+    },
+    {
+      "word": "time",
+      "start": 10.44,
+      "end": 10.78
+    },
+    {
+      "word": "you",
+      "start": 10.78,
+      "end": 10.96
+    },
+    {
+      "word": "sign",
+      "start": 10.96,
+      "end": 11.16
+    },
+    {
+      "word": "a",
+      "start": 11.16,
+      "end": 11.36
+    },
+    {
+      "word": "client.",
+      "start": 11.36,
+      "end": 11.76
+    },
+    {
+      "word": "Messy",
+      "start": 12.44,
+      "end": 12.66
+    },
+    {
+      "word": "kickoff",
+      "start": 12.66,
+      "end": 12.94
+    },
+    {
+      "word": "processes",
+      "start": 12.94,
+      "end": 13.56
+    },
+    {
+      "word": "confuse",
+      "start": 13.56,
+      "end": 14.04
+    },
+    {
+      "word": "new",
+      "start": 14.04,
+      "end": 14.38
+    },
+    {
+      "word": "clients",
+      "start": 14.38,
+      "end": 14.74
+    },
+    {
+      "word": "and",
+      "start": 14.74,
+      "end": 15.12
+    },
+    {
+      "word": "immediately",
+      "start": 15.12,
+      "end": 15.54
+    },
+    {
+      "word": "signal",
+      "start": 15.54,
+      "end": 16.14
+    },
+    {
+      "word": "amateur",
+      "start": 16.14,
+      "end": 16.5
+    },
+    {
+      "word": "operations.",
+      "start": 16.5,
+      "end": 17.28
+    },
+    {
+      "word": "Connect",
+      "start": 17.94,
+      "end": 18.0
+    },
+    {
+      "word": "Co",
+      "start": 18.0,
+      "end": 18.26
+    },
+    {
+      "word": "-Pilot",
+      "start": 18.26,
+      "end": 18.56
+    },
+    {
+      "word": "CRM",
+      "start": 18.56,
+      "end": 19.26
+    },
+    {
+      "word": "to",
+      "start": 19.26,
+      "end": 19.5
+    },
+    {
+      "word": "automatically",
+      "start": 19.5,
+      "end": 20.02
+    },
+    {
+      "word": "generate",
+      "start": 20.02,
+      "end": 20.68
+    },
+    {
+      "word": "secure",
+      "start": 20.68,
+      "end": 21.1
+    },
+    {
+      "word": "client",
+      "start": 21.1,
+      "end": 21.48
+    },
+    {
+      "word": "portals",
+      "start": 21.48,
+      "end": 21.76
+    },
+    {
+      "word": "with",
+      "start": 21.76,
+      "end": 22.26
+    },
+    {
+      "word": "preloaded",
+      "start": 22.26,
+      "end": 22.78
+    },
+    {
+      "word": "intake",
+      "start": 22.78,
+      "end": 23.24
+    },
+    {
+      "word": "forms,",
+      "start": 23.24,
+      "end": 23.72
+    },
+    {
+      "word": "contracts,",
+      "start": 24.24,
+      "end": 24.54
+    },
+    {
+      "word": "and",
+      "start": 24.92,
+      "end": 25.18
+    },
+    {
+      "word": "payment",
+      "start": 25.18,
+      "end": 25.42
+    },
+    {
+      "word": "links.",
+      "start": 25.42,
+      "end": 25.82
+    },
+    {
+      "word": "You",
+      "start": 25.82,
+      "end": 26.54
+    },
+    {
+      "word": "deliver",
+      "start": 26.54,
+      "end": 26.82
+    },
+    {
+      "word": "a",
+      "start": 26.82,
+      "end": 27.06
+    },
+    {
+      "word": "white",
+      "start": 27.06,
+      "end": 27.32
+    },
+    {
+      "word": "glove",
+      "start": 27.32,
+      "end": 27.64
+    },
+    {
+      "word": "onboarding",
+      "start": 27.64,
+      "end": 28.32
+    },
+    {
+      "word": "experience",
+      "start": 28.32,
+      "end": 28.74
+    },
+    {
+      "word": "on",
+      "start": 28.74,
+      "end": 29.12
+    },
+    {
+      "word": "autopilot.",
+      "start": 29.12,
+      "end": 29.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This tool automates your entire client onboarding flow in 3 minutes.",
+      "line2": "SMART CLIENT ONBOARDING",
+      "tag": "\ud83d\uded1 Smart client onboarding portal that collects assets automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Smart client onboarding portal that collects assets automatically",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Smart client onboarding portal that collects assets automatically",
+        "subtitle": "Smart client onboarding portal that collects assets automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Smart client onboarding portal that collects assets automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Smart client onboarding portal that collects assets automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Smart client onboarding portal that collects assets automatically",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

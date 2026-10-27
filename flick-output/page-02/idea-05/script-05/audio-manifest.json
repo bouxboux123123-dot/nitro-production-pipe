@@ -1,0 +1,406 @@
+{
+  "page": "page-02",
+  "idea": "AI meeting summarizer that turns client calls into signed action items",
+  "text": "Here is the one tool that completely eliminated client misunderstandings in my freelance business. Clients nod along during Zoom presentations but end up surprised when the final work is delivered. Subjective interpretations of verbal feedback create frustrating friction and uncompensated redesign rounds. Run Fathom on your check-ins to generate shared action summaries where clients click to approve next steps. You eliminate costly revisions while keeping expectations crystal clear.",
+  "duration": 29.519,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.46
+    },
+    {
+      "word": "the",
+      "start": 0.46,
+      "end": 0.62
+    },
+    {
+      "word": "one",
+      "start": 0.62,
+      "end": 0.9
+    },
+    {
+      "word": "tool",
+      "start": 0.9,
+      "end": 1.2
+    },
+    {
+      "word": "that",
+      "start": 1.2,
+      "end": 1.54
+    },
+    {
+      "word": "completely",
+      "start": 1.54,
+      "end": 1.96
+    },
+    {
+      "word": "eliminated",
+      "start": 1.96,
+      "end": 2.54
+    },
+    {
+      "word": "client",
+      "start": 2.54,
+      "end": 2.86
+    },
+    {
+      "word": "misunderstandings",
+      "start": 2.86,
+      "end": 3.84
+    },
+    {
+      "word": "in",
+      "start": 3.84,
+      "end": 4.02
+    },
+    {
+      "word": "my",
+      "start": 4.02,
+      "end": 4.28
+    },
+    {
+      "word": "freelance",
+      "start": 4.28,
+      "end": 4.58
+    },
+    {
+      "word": "business.",
+      "start": 4.58,
+      "end": 5.28
+    },
+    {
+      "word": "Clients",
+      "start": 5.82,
+      "end": 6.12
+    },
+    {
+      "word": "not",
+      "start": 6.12,
+      "end": 6.46
+    },
+    {
+      "word": "along",
+      "start": 6.46,
+      "end": 6.9
+    },
+    {
+      "word": "during",
+      "start": 6.9,
+      "end": 7.26
+    },
+    {
+      "word": "Zoom",
+      "start": 7.26,
+      "end": 7.64
+    },
+    {
+      "word": "presentations,",
+      "start": 7.64,
+      "end": 8.34
+    },
+    {
+      "word": "but",
+      "start": 8.78,
+      "end": 8.96
+    },
+    {
+      "word": "end",
+      "start": 8.96,
+      "end": 9.16
+    },
+    {
+      "word": "up",
+      "start": 9.16,
+      "end": 9.4
+    },
+    {
+      "word": "surprised",
+      "start": 9.4,
+      "end": 9.98
+    },
+    {
+      "word": "when",
+      "start": 9.98,
+      "end": 10.28
+    },
+    {
+      "word": "the",
+      "start": 10.28,
+      "end": 10.48
+    },
+    {
+      "word": "final",
+      "start": 10.48,
+      "end": 10.78
+    },
+    {
+      "word": "work",
+      "start": 10.78,
+      "end": 11.04
+    },
+    {
+      "word": "is",
+      "start": 11.04,
+      "end": 11.28
+    },
+    {
+      "word": "delivered.",
+      "start": 11.28,
+      "end": 11.72
+    },
+    {
+      "word": "Subjective",
+      "start": 12.48,
+      "end": 12.72
+    },
+    {
+      "word": "interpretations",
+      "start": 12.72,
+      "end": 13.4
+    },
+    {
+      "word": "of",
+      "start": 13.4,
+      "end": 13.72
+    },
+    {
+      "word": "verbal",
+      "start": 13.72,
+      "end": 13.9
+    },
+    {
+      "word": "feedback",
+      "start": 13.9,
+      "end": 14.38
+    },
+    {
+      "word": "create",
+      "start": 14.38,
+      "end": 14.92
+    },
+    {
+      "word": "frustrating",
+      "start": 14.92,
+      "end": 15.34
+    },
+    {
+      "word": "friction",
+      "start": 15.34,
+      "end": 15.96
+    },
+    {
+      "word": "and",
+      "start": 15.96,
+      "end": 16.54
+    },
+    {
+      "word": "uncompensated",
+      "start": 16.54,
+      "end": 17.3
+    },
+    {
+      "word": "redesign",
+      "start": 17.3,
+      "end": 17.7
+    },
+    {
+      "word": "rounds.",
+      "start": 17.7,
+      "end": 18.3
+    },
+    {
+      "word": "Run",
+      "start": 18.9,
+      "end": 19.24
+    },
+    {
+      "word": "fathom",
+      "start": 19.24,
+      "end": 19.52
+    },
+    {
+      "word": "on",
+      "start": 19.52,
+      "end": 19.7
+    },
+    {
+      "word": "your",
+      "start": 19.7,
+      "end": 19.92
+    },
+    {
+      "word": "check",
+      "start": 19.92,
+      "end": 20.1
+    },
+    {
+      "word": "-ins",
+      "start": 20.1,
+      "end": 20.36
+    },
+    {
+      "word": "to",
+      "start": 20.36,
+      "end": 20.8
+    },
+    {
+      "word": "generate",
+      "start": 20.8,
+      "end": 21.16
+    },
+    {
+      "word": "shared",
+      "start": 21.16,
+      "end": 21.6
+    },
+    {
+      "word": "action",
+      "start": 21.6,
+      "end": 22.0
+    },
+    {
+      "word": "summaries",
+      "start": 22.0,
+      "end": 22.46
+    },
+    {
+      "word": "where",
+      "start": 22.46,
+      "end": 23.04
+    },
+    {
+      "word": "clients",
+      "start": 23.04,
+      "end": 23.34
+    },
+    {
+      "word": "click",
+      "start": 23.34,
+      "end": 23.66
+    },
+    {
+      "word": "to",
+      "start": 23.66,
+      "end": 23.9
+    },
+    {
+      "word": "approve",
+      "start": 23.9,
+      "end": 24.18
+    },
+    {
+      "word": "next",
+      "start": 24.18,
+      "end": 24.52
+    },
+    {
+      "word": "steps.",
+      "start": 24.52,
+      "end": 24.86
+    },
+    {
+      "word": "You",
+      "start": 25.52,
+      "end": 25.7
+    },
+    {
+      "word": "eliminate",
+      "start": 25.7,
+      "end": 26.08
+    },
+    {
+      "word": "costly",
+      "start": 26.08,
+      "end": 26.62
+    },
+    {
+      "word": "revisions",
+      "start": 26.62,
+      "end": 27.08
+    },
+    {
+      "word": "while",
+      "start": 27.08,
+      "end": 27.48
+    },
+    {
+      "word": "keeping",
+      "start": 27.48,
+      "end": 27.8
+    },
+    {
+      "word": "expectations",
+      "start": 27.8,
+      "end": 28.62
+    },
+    {
+      "word": "crystal",
+      "start": 28.62,
+      "end": 29.04
+    },
+    {
+      "word": "clear.",
+      "start": 29.04,
+      "end": 29.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "The one tool that completely eliminated client misunderstandings in my freelance business.",
+      "line2": "SUMMARIZE CLIENT CALLS",
+      "tag": "\ud83d\uded1 AI meeting summarizer that turns client calls into signed action items",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI meeting summarizer that turns client calls into signed action items",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI meeting summarizer that turns client calls into signed action items",
+        "subtitle": "AI meeting summarizer that turns client calls into signed action items"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI meeting summarizer that turns client calls into signed action items"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI meeting summarizer that turns client calls into signed action items"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI meeting summarizer that turns client calls into signed action items",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

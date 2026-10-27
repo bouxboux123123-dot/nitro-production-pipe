@@ -1,0 +1,411 @@
+{
+  "page": "page-09",
+  "idea": "Ghost vs Substack: which platform is better for building a media business",
+  "text": "Ghost versus Substack: this is the long-term math every serious writer needs to see. Substack makes starting effortless, but their revenue-share model severely penalizes your growth over time. Their ten percent platform cut plus Stripe processing eats thirteen percent of gross revenue permanently. Ghost charges a flat monthly fee, letting you keep one hundred percent of your subscriber earnings. This switch protects your cash flow as your audience scales.",
+  "duration": 24.747,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Ghost",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "vs.",
+      "start": 0.36,
+      "end": 0.66
+    },
+    {
+      "word": "Substack.",
+      "start": 0.84,
+      "end": 1.22
+    },
+    {
+      "word": "This",
+      "start": 1.66,
+      "end": 1.74
+    },
+    {
+      "word": "is",
+      "start": 1.74,
+      "end": 1.96
+    },
+    {
+      "word": "the",
+      "start": 1.96,
+      "end": 2.06
+    },
+    {
+      "word": "long",
+      "start": 2.06,
+      "end": 2.3
+    },
+    {
+      "word": "-term",
+      "start": 2.3,
+      "end": 2.56
+    },
+    {
+      "word": "math",
+      "start": 2.56,
+      "end": 2.9
+    },
+    {
+      "word": "every",
+      "start": 2.9,
+      "end": 3.24
+    },
+    {
+      "word": "serious",
+      "start": 3.24,
+      "end": 3.62
+    },
+    {
+      "word": "writer",
+      "start": 3.62,
+      "end": 3.88
+    },
+    {
+      "word": "needs",
+      "start": 3.88,
+      "end": 4.18
+    },
+    {
+      "word": "to",
+      "start": 4.18,
+      "end": 4.4
+    },
+    {
+      "word": "see.",
+      "start": 4.4,
+      "end": 4.74
+    },
+    {
+      "word": "Substack",
+      "start": 5.24,
+      "end": 5.5
+    },
+    {
+      "word": "makes",
+      "start": 5.5,
+      "end": 5.8
+    },
+    {
+      "word": "starting",
+      "start": 5.8,
+      "end": 6.1
+    },
+    {
+      "word": "effortless,",
+      "start": 6.1,
+      "end": 6.64
+    },
+    {
+      "word": "but",
+      "start": 6.86,
+      "end": 6.98
+    },
+    {
+      "word": "their",
+      "start": 6.98,
+      "end": 7.2
+    },
+    {
+      "word": "revenue",
+      "start": 7.2,
+      "end": 7.44
+    },
+    {
+      "word": "share",
+      "start": 7.44,
+      "end": 7.76
+    },
+    {
+      "word": "model",
+      "start": 7.76,
+      "end": 8.1
+    },
+    {
+      "word": "severely",
+      "start": 8.1,
+      "end": 8.62
+    },
+    {
+      "word": "penalizes",
+      "start": 8.62,
+      "end": 9.14
+    },
+    {
+      "word": "your",
+      "start": 9.14,
+      "end": 9.4
+    },
+    {
+      "word": "growth",
+      "start": 9.4,
+      "end": 9.62
+    },
+    {
+      "word": "over",
+      "start": 9.62,
+      "end": 9.82
+    },
+    {
+      "word": "time.",
+      "start": 9.82,
+      "end": 10.22
+    },
+    {
+      "word": "Their",
+      "start": 10.64,
+      "end": 10.8
+    },
+    {
+      "word": "10",
+      "start": 10.8,
+      "end": 11.1
+    },
+    {
+      "word": "%",
+      "start": 11.1,
+      "end": 11.44
+    },
+    {
+      "word": "platform",
+      "start": 11.44,
+      "end": 11.8
+    },
+    {
+      "word": "cut",
+      "start": 11.8,
+      "end": 12.18
+    },
+    {
+      "word": "plus",
+      "start": 12.18,
+      "end": 12.44
+    },
+    {
+      "word": "stripe",
+      "start": 12.44,
+      "end": 12.72
+    },
+    {
+      "word": "processing",
+      "start": 12.72,
+      "end": 13.18
+    },
+    {
+      "word": "eats",
+      "start": 13.18,
+      "end": 13.76
+    },
+    {
+      "word": "13",
+      "start": 13.76,
+      "end": 14.14
+    },
+    {
+      "word": "%",
+      "start": 14.14,
+      "end": 14.52
+    },
+    {
+      "word": "of",
+      "start": 14.52,
+      "end": 14.6
+    },
+    {
+      "word": "gross",
+      "start": 14.6,
+      "end": 14.9
+    },
+    {
+      "word": "revenue",
+      "start": 14.9,
+      "end": 15.22
+    },
+    {
+      "word": "permanently.",
+      "start": 15.22,
+      "end": 15.74
+    },
+    {
+      "word": "Ghost",
+      "start": 16.48,
+      "end": 16.7
+    },
+    {
+      "word": "charges",
+      "start": 16.7,
+      "end": 17.06
+    },
+    {
+      "word": "a",
+      "start": 17.06,
+      "end": 17.36
+    },
+    {
+      "word": "flat",
+      "start": 17.36,
+      "end": 17.54
+    },
+    {
+      "word": "monthly",
+      "start": 17.54,
+      "end": 17.92
+    },
+    {
+      "word": "fee,",
+      "start": 17.92,
+      "end": 18.4
+    },
+    {
+      "word": "letting",
+      "start": 18.64,
+      "end": 18.74
+    },
+    {
+      "word": "you",
+      "start": 18.74,
+      "end": 18.92
+    },
+    {
+      "word": "keep",
+      "start": 18.92,
+      "end": 19.12
+    },
+    {
+      "word": "100",
+      "start": 19.12,
+      "end": 19.6
+    },
+    {
+      "word": "%",
+      "start": 19.6,
+      "end": 19.96
+    },
+    {
+      "word": "of",
+      "start": 19.96,
+      "end": 20.06
+    },
+    {
+      "word": "your",
+      "start": 20.06,
+      "end": 20.32
+    },
+    {
+      "word": "subscriber",
+      "start": 20.32,
+      "end": 20.66
+    },
+    {
+      "word": "earnings.",
+      "start": 20.66,
+      "end": 21.18
+    },
+    {
+      "word": "This",
+      "start": 21.18,
+      "end": 21.94
+    },
+    {
+      "word": "switch",
+      "start": 21.94,
+      "end": 22.24
+    },
+    {
+      "word": "protects",
+      "start": 22.24,
+      "end": 22.56
+    },
+    {
+      "word": "your",
+      "start": 22.56,
+      "end": 22.92
+    },
+    {
+      "word": "cash",
+      "start": 22.92,
+      "end": 23.1
+    },
+    {
+      "word": "flow",
+      "start": 23.1,
+      "end": 23.4
+    },
+    {
+      "word": "as",
+      "start": 23.4,
+      "end": 23.58
+    },
+    {
+      "word": "your",
+      "start": 23.58,
+      "end": 23.9
+    },
+    {
+      "word": "audience",
+      "start": 23.9,
+      "end": 24.22
+    },
+    {
+      "word": "scales.",
+      "start": 24.22,
+      "end": 24.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Ghost vs Substack: the long-term math every serious writer needs to see.",
+      "line2": "GHOST VS SUBSTACK",
+      "tag": "\ud83d\uded1 Ghost vs Substack",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Ghost vs Substack",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Ghost vs Substack",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Ghost vs Substack",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

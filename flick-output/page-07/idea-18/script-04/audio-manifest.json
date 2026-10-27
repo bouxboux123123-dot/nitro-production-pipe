@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Founder async weekly standup system that eliminates hour-long syncs",
+  "text": "Here is how top remote-first startups ship code faster than traditional office teams. Physical offices rely on tap-on-the-shoulder conversations that disrupt concentration and generate zero documentation. When decisions remain trapped inside verbal chats, new hires repeat identical operational mistakes continuously. Standardize three-minute screen walkthroughs using Loom and store them automatically in a searchable Notion database. Your startup ships software twice as fast without extra meetings.",
+  "duration": 30.586,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.46
+    },
+    {
+      "word": "how",
+      "start": 0.46,
+      "end": 0.68
+    },
+    {
+      "word": "top",
+      "start": 0.68,
+      "end": 1.02
+    },
+    {
+      "word": "remote",
+      "start": 1.02,
+      "end": 1.4
+    },
+    {
+      "word": "first",
+      "start": 1.4,
+      "end": 1.76
+    },
+    {
+      "word": "startups",
+      "start": 1.76,
+      "end": 2.18
+    },
+    {
+      "word": "ship",
+      "start": 2.18,
+      "end": 2.58
+    },
+    {
+      "word": "code",
+      "start": 2.58,
+      "end": 2.9
+    },
+    {
+      "word": "faster",
+      "start": 2.9,
+      "end": 3.3
+    },
+    {
+      "word": "than",
+      "start": 3.3,
+      "end": 3.56
+    },
+    {
+      "word": "traditional",
+      "start": 3.56,
+      "end": 4.02
+    },
+    {
+      "word": "office",
+      "start": 4.02,
+      "end": 4.36
+    },
+    {
+      "word": "teams.",
+      "start": 4.36,
+      "end": 5.04
+    },
+    {
+      "word": "Physical",
+      "start": 5.76,
+      "end": 5.76
+    },
+    {
+      "word": "offices",
+      "start": 5.76,
+      "end": 6.28
+    },
+    {
+      "word": "rely",
+      "start": 6.28,
+      "end": 6.7
+    },
+    {
+      "word": "on",
+      "start": 6.7,
+      "end": 7.04
+    },
+    {
+      "word": "tap",
+      "start": 7.04,
+      "end": 7.28
+    },
+    {
+      "word": "on",
+      "start": 7.28,
+      "end": 7.48
+    },
+    {
+      "word": "the",
+      "start": 7.48,
+      "end": 7.66
+    },
+    {
+      "word": "shoulder",
+      "start": 7.66,
+      "end": 7.96
+    },
+    {
+      "word": "conversations",
+      "start": 7.96,
+      "end": 8.62
+    },
+    {
+      "word": "that",
+      "start": 8.62,
+      "end": 9.16
+    },
+    {
+      "word": "disrupt",
+      "start": 9.16,
+      "end": 9.48
+    },
+    {
+      "word": "concentration",
+      "start": 9.48,
+      "end": 10.24
+    },
+    {
+      "word": "and",
+      "start": 10.24,
+      "end": 10.94
+    },
+    {
+      "word": "generate",
+      "start": 10.94,
+      "end": 11.38
+    },
+    {
+      "word": "zero",
+      "start": 11.38,
+      "end": 11.88
+    },
+    {
+      "word": "documentation.",
+      "start": 11.88,
+      "end": 12.62
+    },
+    {
+      "word": "When",
+      "start": 13.06,
+      "end": 13.28
+    },
+    {
+      "word": "decisions",
+      "start": 13.28,
+      "end": 13.68
+    },
+    {
+      "word": "remain",
+      "start": 13.68,
+      "end": 14.08
+    },
+    {
+      "word": "trapped",
+      "start": 14.08,
+      "end": 14.42
+    },
+    {
+      "word": "inside",
+      "start": 14.42,
+      "end": 14.88
+    },
+    {
+      "word": "verbal",
+      "start": 14.88,
+      "end": 15.2
+    },
+    {
+      "word": "chats,",
+      "start": 15.2,
+      "end": 15.68
+    },
+    {
+      "word": "new",
+      "start": 16.16,
+      "end": 16.26
+    },
+    {
+      "word": "hires",
+      "start": 16.26,
+      "end": 16.56
+    },
+    {
+      "word": "repeat",
+      "start": 16.56,
+      "end": 16.98
+    },
+    {
+      "word": "identical",
+      "start": 16.98,
+      "end": 17.64
+    },
+    {
+      "word": "operational",
+      "start": 17.64,
+      "end": 18.24
+    },
+    {
+      "word": "mistakes",
+      "start": 18.24,
+      "end": 18.74
+    },
+    {
+      "word": "continuously.",
+      "start": 18.74,
+      "end": 19.6
+    },
+    {
+      "word": "Standardize",
+      "start": 20.44,
+      "end": 20.8
+    },
+    {
+      "word": "three",
+      "start": 20.8,
+      "end": 21.16
+    },
+    {
+      "word": "-minute",
+      "start": 21.16,
+      "end": 21.38
+    },
+    {
+      "word": "screen",
+      "start": 21.38,
+      "end": 21.82
+    },
+    {
+      "word": "walkthroughs",
+      "start": 21.82,
+      "end": 22.36
+    },
+    {
+      "word": "using",
+      "start": 22.36,
+      "end": 22.68
+    },
+    {
+      "word": "Loom",
+      "start": 22.68,
+      "end": 23.02
+    },
+    {
+      "word": "and",
+      "start": 23.02,
+      "end": 23.34
+    },
+    {
+      "word": "store",
+      "start": 23.34,
+      "end": 23.54
+    },
+    {
+      "word": "them",
+      "start": 23.54,
+      "end": 23.94
+    },
+    {
+      "word": "automatically",
+      "start": 23.94,
+      "end": 24.34
+    },
+    {
+      "word": "in",
+      "start": 24.34,
+      "end": 24.76
+    },
+    {
+      "word": "a",
+      "start": 24.76,
+      "end": 24.92
+    },
+    {
+      "word": "searchable",
+      "start": 24.92,
+      "end": 25.32
+    },
+    {
+      "word": "notion",
+      "start": 25.32,
+      "end": 25.74
+    },
+    {
+      "word": "database.",
+      "start": 25.74,
+      "end": 26.24
+    },
+    {
+      "word": "Your",
+      "start": 26.24,
+      "end": 27.08
+    },
+    {
+      "word": "startup",
+      "start": 27.08,
+      "end": 27.4
+    },
+    {
+      "word": "ships",
+      "start": 27.4,
+      "end": 27.8
+    },
+    {
+      "word": "software",
+      "start": 27.8,
+      "end": 28.3
+    },
+    {
+      "word": "twice",
+      "start": 28.3,
+      "end": 28.8
+    },
+    {
+      "word": "as",
+      "start": 28.8,
+      "end": 29.06
+    },
+    {
+      "word": "fast",
+      "start": 29.06,
+      "end": 29.42
+    },
+    {
+      "word": "without",
+      "start": 29.42,
+      "end": 29.76
+    },
+    {
+      "word": "extra",
+      "start": 29.76,
+      "end": 30.08
+    },
+    {
+      "word": "meetings.",
+      "start": 30.08,
+      "end": 30.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How remote-first startups ship faster than traditional office teams.",
+      "line2": "ELIMINATE 1-HOUR SYNCS",
+      "tag": "\ud83d\uded1 Founder async weekly standup system that eliminates hour-long syncs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder async weekly standup system that eliminates hour-long syncs",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder async weekly standup system that eliminates hour-long syncs",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

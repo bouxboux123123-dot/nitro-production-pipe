@@ -1,0 +1,391 @@
+{
+  "page": "page-05",
+  "idea": "Automated weekly executive digest generator sent via email",
+  "text": "Here is the exact executive summary workflow used by modern startup operators. High-growth founders need rapid clarity, but delegating metric compilation burns team hours and delays decisions. Stale spreadsheet snapshots fail to reflect live churn or pipeline velocity when leadership needs answers. Configure an automated Make pipeline that syncs Stripe revenue and CRM records into a sleek email. This drives faster decisions without manual prep.",
+  "duration": 26.112,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "is",
+      "start": 0.18,
+      "end": 0.34
+    },
+    {
+      "word": "the",
+      "start": 0.34,
+      "end": 0.5
+    },
+    {
+      "word": "exact",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "executive",
+      "start": 0.8,
+      "end": 1.36
+    },
+    {
+      "word": "summary",
+      "start": 1.36,
+      "end": 1.74
+    },
+    {
+      "word": "workflow",
+      "start": 1.74,
+      "end": 2.04
+    },
+    {
+      "word": "used",
+      "start": 2.04,
+      "end": 2.44
+    },
+    {
+      "word": "by",
+      "start": 2.44,
+      "end": 2.7
+    },
+    {
+      "word": "modern",
+      "start": 2.7,
+      "end": 3.02
+    },
+    {
+      "word": "startup",
+      "start": 3.02,
+      "end": 3.34
+    },
+    {
+      "word": "operators.",
+      "start": 3.34,
+      "end": 3.92
+    },
+    {
+      "word": "High",
+      "start": 4.52,
+      "end": 4.66
+    },
+    {
+      "word": "growth",
+      "start": 4.66,
+      "end": 4.92
+    },
+    {
+      "word": "founders",
+      "start": 4.92,
+      "end": 5.22
+    },
+    {
+      "word": "need",
+      "start": 5.22,
+      "end": 5.58
+    },
+    {
+      "word": "rapid",
+      "start": 5.58,
+      "end": 5.86
+    },
+    {
+      "word": "clarity,",
+      "start": 5.86,
+      "end": 6.36
+    },
+    {
+      "word": "but",
+      "start": 6.8,
+      "end": 6.92
+    },
+    {
+      "word": "delegating",
+      "start": 6.92,
+      "end": 7.36
+    },
+    {
+      "word": "metric",
+      "start": 7.36,
+      "end": 7.72
+    },
+    {
+      "word": "compilation",
+      "start": 7.72,
+      "end": 8.32
+    },
+    {
+      "word": "burns",
+      "start": 8.32,
+      "end": 8.68
+    },
+    {
+      "word": "team",
+      "start": 8.68,
+      "end": 9.14
+    },
+    {
+      "word": "hours",
+      "start": 9.14,
+      "end": 9.48
+    },
+    {
+      "word": "and",
+      "start": 9.48,
+      "end": 9.82
+    },
+    {
+      "word": "delays",
+      "start": 9.82,
+      "end": 10.04
+    },
+    {
+      "word": "decisions.",
+      "start": 10.04,
+      "end": 10.64
+    },
+    {
+      "word": "Stale",
+      "start": 11.26,
+      "end": 11.56
+    },
+    {
+      "word": "spreadsheet",
+      "start": 11.56,
+      "end": 11.96
+    },
+    {
+      "word": "snapshots",
+      "start": 11.96,
+      "end": 12.52
+    },
+    {
+      "word": "fail",
+      "start": 12.52,
+      "end": 12.9
+    },
+    {
+      "word": "to",
+      "start": 12.9,
+      "end": 13.36
+    },
+    {
+      "word": "reflect",
+      "start": 13.36,
+      "end": 13.38
+    },
+    {
+      "word": "live",
+      "start": 13.38,
+      "end": 13.76
+    },
+    {
+      "word": "churn",
+      "start": 13.76,
+      "end": 14.02
+    },
+    {
+      "word": "or",
+      "start": 14.02,
+      "end": 14.26
+    },
+    {
+      "word": "pipeline",
+      "start": 14.26,
+      "end": 14.64
+    },
+    {
+      "word": "velocity",
+      "start": 14.64,
+      "end": 15.22
+    },
+    {
+      "word": "when",
+      "start": 15.22,
+      "end": 15.72
+    },
+    {
+      "word": "leadership",
+      "start": 15.72,
+      "end": 15.94
+    },
+    {
+      "word": "needs",
+      "start": 15.94,
+      "end": 16.44
+    },
+    {
+      "word": "answers.",
+      "start": 16.44,
+      "end": 16.84
+    },
+    {
+      "word": "Configure",
+      "start": 17.5,
+      "end": 17.88
+    },
+    {
+      "word": "an",
+      "start": 17.88,
+      "end": 18.1
+    },
+    {
+      "word": "automated",
+      "start": 18.1,
+      "end": 18.38
+    },
+    {
+      "word": "make",
+      "start": 18.38,
+      "end": 18.74
+    },
+    {
+      "word": "pipeline",
+      "start": 18.74,
+      "end": 19.18
+    },
+    {
+      "word": "that",
+      "start": 19.18,
+      "end": 19.56
+    },
+    {
+      "word": "syncs",
+      "start": 19.56,
+      "end": 19.82
+    },
+    {
+      "word": "stripe",
+      "start": 19.82,
+      "end": 20.2
+    },
+    {
+      "word": "revenue",
+      "start": 20.2,
+      "end": 20.5
+    },
+    {
+      "word": "and",
+      "start": 20.5,
+      "end": 21.0
+    },
+    {
+      "word": "CRM",
+      "start": 21.0,
+      "end": 21.52
+    },
+    {
+      "word": "records",
+      "start": 21.52,
+      "end": 21.8
+    },
+    {
+      "word": "into",
+      "start": 21.8,
+      "end": 22.1
+    },
+    {
+      "word": "a",
+      "start": 22.1,
+      "end": 22.28
+    },
+    {
+      "word": "sleek",
+      "start": 22.28,
+      "end": 22.52
+    },
+    {
+      "word": "email.",
+      "start": 22.52,
+      "end": 22.88
+    },
+    {
+      "word": "This",
+      "start": 23.44,
+      "end": 23.66
+    },
+    {
+      "word": "drives",
+      "start": 23.66,
+      "end": 23.98
+    },
+    {
+      "word": "faster",
+      "start": 23.98,
+      "end": 24.46
+    },
+    {
+      "word": "decisions",
+      "start": 24.46,
+      "end": 24.92
+    },
+    {
+      "word": "without",
+      "start": 24.92,
+      "end": 25.44
+    },
+    {
+      "word": "manual",
+      "start": 25.44,
+      "end": 25.9
+    },
+    {
+      "word": "prep.",
+      "start": 25.9,
+      "end": 26.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The exact executive summary workflow used by modern startup operators.",
+      "line2": "WEEKLY EXECUTIVE DIGEST",
+      "tag": "\ud83d\uded1 Automated weekly executive digest generator sent via email",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated weekly executive digest generator sent via email",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated weekly executive digest generator sent via email",
+        "subtitle": "Automated weekly executive digest generator sent via email"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated weekly executive digest generator sent via email"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated weekly executive digest generator sent via email"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated weekly executive digest generator sent via email",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

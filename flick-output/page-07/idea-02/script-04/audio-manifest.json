@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+  "text": "Here is how top founders keep angel investors thrilled with transparent monthly updates. Early teams go silent because calculating burn rates, runway, and hiring needs takes too much time. Radio silence destroys investor trust, causing emergency bridge rounds and talent referrals to dry up. Sync Mercury and Gusto through Make to generate automated financial highlight summaries inside Notion. You deliver crystal-clear transparency without losing engineering hours.",
+  "duration": 29.711,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.4
+    },
+    {
+      "word": "how",
+      "start": 0.4,
+      "end": 0.58
+    },
+    {
+      "word": "top",
+      "start": 0.58,
+      "end": 0.94
+    },
+    {
+      "word": "founders",
+      "start": 0.94,
+      "end": 1.26
+    },
+    {
+      "word": "keep",
+      "start": 1.26,
+      "end": 1.72
+    },
+    {
+      "word": "angel",
+      "start": 1.72,
+      "end": 2.08
+    },
+    {
+      "word": "investors",
+      "start": 2.08,
+      "end": 2.72
+    },
+    {
+      "word": "thrilled",
+      "start": 2.72,
+      "end": 3.08
+    },
+    {
+      "word": "with",
+      "start": 3.08,
+      "end": 3.5
+    },
+    {
+      "word": "transparent",
+      "start": 3.5,
+      "end": 3.9
+    },
+    {
+      "word": "monthly",
+      "start": 3.9,
+      "end": 4.32
+    },
+    {
+      "word": "updates.",
+      "start": 4.32,
+      "end": 4.84
+    },
+    {
+      "word": "Early",
+      "start": 5.54,
+      "end": 5.66
+    },
+    {
+      "word": "teams",
+      "start": 5.66,
+      "end": 6.06
+    },
+    {
+      "word": "go",
+      "start": 6.06,
+      "end": 6.38
+    },
+    {
+      "word": "silent",
+      "start": 6.38,
+      "end": 6.78
+    },
+    {
+      "word": "because",
+      "start": 6.78,
+      "end": 7.24
+    },
+    {
+      "word": "calculating",
+      "start": 7.24,
+      "end": 7.82
+    },
+    {
+      "word": "burn",
+      "start": 7.82,
+      "end": 8.26
+    },
+    {
+      "word": "rates,",
+      "start": 8.26,
+      "end": 8.66
+    },
+    {
+      "word": "runway",
+      "start": 9.06,
+      "end": 9.18
+    },
+    {
+      "word": "and",
+      "start": 9.18,
+      "end": 9.62
+    },
+    {
+      "word": "hiring",
+      "start": 9.62,
+      "end": 10.0
+    },
+    {
+      "word": "needs",
+      "start": 10.0,
+      "end": 10.44
+    },
+    {
+      "word": "takes",
+      "start": 10.44,
+      "end": 10.8
+    },
+    {
+      "word": "too",
+      "start": 10.8,
+      "end": 11.08
+    },
+    {
+      "word": "much",
+      "start": 11.08,
+      "end": 11.32
+    },
+    {
+      "word": "time.",
+      "start": 11.32,
+      "end": 11.78
+    },
+    {
+      "word": "Radio",
+      "start": 12.32,
+      "end": 12.32
+    },
+    {
+      "word": "silence",
+      "start": 12.32,
+      "end": 12.94
+    },
+    {
+      "word": "destroys",
+      "start": 12.94,
+      "end": 13.54
+    },
+    {
+      "word": "investor",
+      "start": 13.54,
+      "end": 14.04
+    },
+    {
+      "word": "trust,",
+      "start": 14.04,
+      "end": 14.44
+    },
+    {
+      "word": "causing",
+      "start": 15.06,
+      "end": 15.06
+    },
+    {
+      "word": "emergency",
+      "start": 15.06,
+      "end": 15.68
+    },
+    {
+      "word": "bridge",
+      "start": 15.68,
+      "end": 16.16
+    },
+    {
+      "word": "rounds",
+      "start": 16.16,
+      "end": 16.52
+    },
+    {
+      "word": "and",
+      "start": 16.52,
+      "end": 16.88
+    },
+    {
+      "word": "talent",
+      "start": 16.88,
+      "end": 17.14
+    },
+    {
+      "word": "referrals",
+      "start": 17.14,
+      "end": 17.54
+    },
+    {
+      "word": "to",
+      "start": 17.54,
+      "end": 17.86
+    },
+    {
+      "word": "dry",
+      "start": 17.86,
+      "end": 18.12
+    },
+    {
+      "word": "up.",
+      "start": 18.12,
+      "end": 18.68
+    },
+    {
+      "word": "Sync",
+      "start": 19.12,
+      "end": 19.24
+    },
+    {
+      "word": "Mercury",
+      "start": 19.24,
+      "end": 19.68
+    },
+    {
+      "word": "and",
+      "start": 19.68,
+      "end": 19.94
+    },
+    {
+      "word": "gusto",
+      "start": 19.94,
+      "end": 20.4
+    },
+    {
+      "word": "through",
+      "start": 20.4,
+      "end": 20.7
+    },
+    {
+      "word": "make",
+      "start": 20.7,
+      "end": 20.92
+    },
+    {
+      "word": "to",
+      "start": 20.92,
+      "end": 21.18
+    },
+    {
+      "word": "generate",
+      "start": 21.18,
+      "end": 21.66
+    },
+    {
+      "word": "automated",
+      "start": 21.66,
+      "end": 22.12
+    },
+    {
+      "word": "financial",
+      "start": 22.12,
+      "end": 22.82
+    },
+    {
+      "word": "highlight",
+      "start": 22.82,
+      "end": 23.32
+    },
+    {
+      "word": "summaries",
+      "start": 23.32,
+      "end": 23.82
+    },
+    {
+      "word": "inside",
+      "start": 23.82,
+      "end": 24.54
+    },
+    {
+      "word": "notion.",
+      "start": 24.54,
+      "end": 25.02
+    },
+    {
+      "word": "You",
+      "start": 25.56,
+      "end": 25.7
+    },
+    {
+      "word": "deliver",
+      "start": 25.7,
+      "end": 26.02
+    },
+    {
+      "word": "crystal",
+      "start": 26.02,
+      "end": 26.5
+    },
+    {
+      "word": "clear",
+      "start": 26.5,
+      "end": 26.82
+    },
+    {
+      "word": "transparency",
+      "start": 26.82,
+      "end": 27.48
+    },
+    {
+      "word": "without",
+      "start": 27.48,
+      "end": 28.16
+    },
+    {
+      "word": "losing",
+      "start": 28.16,
+      "end": 28.56
+    },
+    {
+      "word": "engineering",
+      "start": 28.56,
+      "end": 29.1
+    },
+    {
+      "word": "hours.",
+      "start": 29.1,
+      "end": 29.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How top founders keep their angel investors thrilled with transparent updates.",
+      "line2": "INVESTOR UPDATES IN 60-SECONDS",
+      "tag": "\ud83d\uded1 Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

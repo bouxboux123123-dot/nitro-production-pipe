@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "CapCut desktop AI avatar and voice translation upgrades",
+  "text": "The gap between solo developers using Cursor background agents and full dev teams is shrinking fast. Bootstrapped builders fall behind competitors because they lack teams for testing, refactoring, and documentation. Juggling every maintenance task alone leads to technical debt, delayed releases, and founder burnout. Cursor agents work asynchronously across your entire repository, fixing bugs and writing unit tests while you sleep. You ship enterprise-grade software with solo overhead.",
+  "duration": 29.882,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "gap",
+      "start": 0.2,
+      "end": 0.4
+    },
+    {
+      "word": "between",
+      "start": 0.4,
+      "end": 0.78
+    },
+    {
+      "word": "solo",
+      "start": 0.78,
+      "end": 1.08
+    },
+    {
+      "word": "developers",
+      "start": 1.08,
+      "end": 1.5
+    },
+    {
+      "word": "using",
+      "start": 1.5,
+      "end": 2.04
+    },
+    {
+      "word": "cursor",
+      "start": 2.04,
+      "end": 2.4
+    },
+    {
+      "word": "background",
+      "start": 2.4,
+      "end": 2.92
+    },
+    {
+      "word": "agents",
+      "start": 2.92,
+      "end": 3.38
+    },
+    {
+      "word": "and",
+      "start": 3.38,
+      "end": 3.86
+    },
+    {
+      "word": "full",
+      "start": 3.86,
+      "end": 4.12
+    },
+    {
+      "word": "dev",
+      "start": 4.12,
+      "end": 4.3
+    },
+    {
+      "word": "teams",
+      "start": 4.3,
+      "end": 4.76
+    },
+    {
+      "word": "is",
+      "start": 4.76,
+      "end": 5.04
+    },
+    {
+      "word": "shrinking",
+      "start": 5.04,
+      "end": 5.4
+    },
+    {
+      "word": "fast.",
+      "start": 5.4,
+      "end": 6.02
+    },
+    {
+      "word": "Bootstrap",
+      "start": 6.7,
+      "end": 6.94
+    },
+    {
+      "word": "builders",
+      "start": 6.94,
+      "end": 7.42
+    },
+    {
+      "word": "fall",
+      "start": 7.42,
+      "end": 7.72
+    },
+    {
+      "word": "behind",
+      "start": 7.72,
+      "end": 8.12
+    },
+    {
+      "word": "competitors",
+      "start": 8.12,
+      "end": 8.56
+    },
+    {
+      "word": "because",
+      "start": 8.56,
+      "end": 9.32
+    },
+    {
+      "word": "they",
+      "start": 9.32,
+      "end": 9.56
+    },
+    {
+      "word": "lack",
+      "start": 9.56,
+      "end": 9.8
+    },
+    {
+      "word": "teams",
+      "start": 9.8,
+      "end": 10.26
+    },
+    {
+      "word": "for",
+      "start": 10.26,
+      "end": 10.48
+    },
+    {
+      "word": "testing,",
+      "start": 10.48,
+      "end": 10.98
+    },
+    {
+      "word": "refactoring",
+      "start": 11.34,
+      "end": 11.9
+    },
+    {
+      "word": "and",
+      "start": 11.9,
+      "end": 12.18
+    },
+    {
+      "word": "documentation.",
+      "start": 12.18,
+      "end": 12.92
+    },
+    {
+      "word": "Juggling",
+      "start": 13.36,
+      "end": 13.74
+    },
+    {
+      "word": "every",
+      "start": 13.74,
+      "end": 14.14
+    },
+    {
+      "word": "maintenance",
+      "start": 14.14,
+      "end": 14.44
+    },
+    {
+      "word": "task",
+      "start": 14.44,
+      "end": 14.86
+    },
+    {
+      "word": "alone",
+      "start": 14.86,
+      "end": 15.32
+    },
+    {
+      "word": "leads",
+      "start": 15.32,
+      "end": 15.66
+    },
+    {
+      "word": "to",
+      "start": 15.66,
+      "end": 15.96
+    },
+    {
+      "word": "technical",
+      "start": 15.96,
+      "end": 16.24
+    },
+    {
+      "word": "debt,",
+      "start": 16.24,
+      "end": 16.7
+    },
+    {
+      "word": "delayed",
+      "start": 17.24,
+      "end": 17.24
+    },
+    {
+      "word": "releases,",
+      "start": 17.24,
+      "end": 17.8
+    },
+    {
+      "word": "and",
+      "start": 18.1,
+      "end": 18.32
+    },
+    {
+      "word": "founder",
+      "start": 18.32,
+      "end": 18.64
+    },
+    {
+      "word": "burnout.",
+      "start": 18.64,
+      "end": 19.32
+    },
+    {
+      "word": "Cursor",
+      "start": 19.74,
+      "end": 20.02
+    },
+    {
+      "word": "agents",
+      "start": 20.02,
+      "end": 20.48
+    },
+    {
+      "word": "work",
+      "start": 20.48,
+      "end": 20.72
+    },
+    {
+      "word": "asynchronously",
+      "start": 20.72,
+      "end": 21.36
+    },
+    {
+      "word": "across",
+      "start": 21.36,
+      "end": 21.72
+    },
+    {
+      "word": "your",
+      "start": 21.72,
+      "end": 22.0
+    },
+    {
+      "word": "entire",
+      "start": 22.0,
+      "end": 22.38
+    },
+    {
+      "word": "repository,",
+      "start": 22.38,
+      "end": 23.16
+    },
+    {
+      "word": "fixing",
+      "start": 23.82,
+      "end": 24.0
+    },
+    {
+      "word": "bugs",
+      "start": 24.0,
+      "end": 24.42
+    },
+    {
+      "word": "and",
+      "start": 24.42,
+      "end": 24.66
+    },
+    {
+      "word": "writing",
+      "start": 24.66,
+      "end": 24.98
+    },
+    {
+      "word": "unit",
+      "start": 24.98,
+      "end": 25.24
+    },
+    {
+      "word": "tests",
+      "start": 25.24,
+      "end": 25.64
+    },
+    {
+      "word": "while",
+      "start": 25.64,
+      "end": 25.88
+    },
+    {
+      "word": "you",
+      "start": 25.88,
+      "end": 26.12
+    },
+    {
+      "word": "sleep.",
+      "start": 26.12,
+      "end": 26.38
+    },
+    {
+      "word": "You",
+      "start": 26.38,
+      "end": 27.06
+    },
+    {
+      "word": "ship",
+      "start": 27.06,
+      "end": 27.3
+    },
+    {
+      "word": "enterprise",
+      "start": 27.3,
+      "end": 27.76
+    },
+    {
+      "word": "grade",
+      "start": 27.76,
+      "end": 28.16
+    },
+    {
+      "word": "software",
+      "start": 28.16,
+      "end": 28.58
+    },
+    {
+      "word": "with",
+      "start": 28.58,
+      "end": 28.96
+    },
+    {
+      "word": "solo",
+      "start": 28.96,
+      "end": 29.24
+    },
+    {
+      "word": "overhead.",
+      "start": 29.24,
+      "end": 29.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The game-changing video translation update you need to test this week.",
+      "line2": "CAPCUT AI AVATAR TRANSLATION",
+      "tag": "\ud83d\uded1 CapCut desktop AI avatar and voice translation upgrades",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: CapCut desktop AI avatar and voice translation upgrades",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: CapCut desktop AI avatar and voice translation upgrades",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "CapCut desktop AI avatar and voice translation upgrades",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

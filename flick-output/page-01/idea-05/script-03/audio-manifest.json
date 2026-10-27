@@ -1,0 +1,396 @@
+{
+  "page": "page-01",
+  "idea": "Automated invoice and retainer collection system with Stripe Billing",
+  "text": "Stop sending manual invoices and waiting 30 days for corporate checks to clear. Waiting on enterprise accounting departments to process PDF invoices leaves your cash flow completely crippled. Manual invoicing forces account managers to act like collection agents, damaging client trust and team focus. Implement automated Stripe subscriptions with auto-debit ACH and instant failed-payment dunning emails. You protect gross profit margins and eliminate payment delays.",
+  "duration": 29.157,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "sending",
+      "start": 0.42,
+      "end": 0.76
+    },
+    {
+      "word": "manual",
+      "start": 0.76,
+      "end": 1.2
+    },
+    {
+      "word": "invoices",
+      "start": 1.2,
+      "end": 1.78
+    },
+    {
+      "word": "and",
+      "start": 1.78,
+      "end": 2.2
+    },
+    {
+      "word": "waiting",
+      "start": 2.2,
+      "end": 2.42
+    },
+    {
+      "word": "30",
+      "start": 2.42,
+      "end": 2.8
+    },
+    {
+      "word": "days",
+      "start": 2.8,
+      "end": 3.18
+    },
+    {
+      "word": "for",
+      "start": 3.18,
+      "end": 3.44
+    },
+    {
+      "word": "corporate",
+      "start": 3.44,
+      "end": 3.78
+    },
+    {
+      "word": "checks",
+      "start": 3.78,
+      "end": 4.02
+    },
+    {
+      "word": "to",
+      "start": 4.02,
+      "end": 4.3
+    },
+    {
+      "word": "clear.",
+      "start": 4.3,
+      "end": 4.68
+    },
+    {
+      "word": "Waiting",
+      "start": 5.44,
+      "end": 5.46
+    },
+    {
+      "word": "on",
+      "start": 5.46,
+      "end": 5.74
+    },
+    {
+      "word": "enterprise",
+      "start": 5.74,
+      "end": 6.16
+    },
+    {
+      "word": "accounting",
+      "start": 6.16,
+      "end": 6.68
+    },
+    {
+      "word": "departments",
+      "start": 6.68,
+      "end": 7.14
+    },
+    {
+      "word": "to",
+      "start": 7.14,
+      "end": 7.4
+    },
+    {
+      "word": "process",
+      "start": 7.4,
+      "end": 7.82
+    },
+    {
+      "word": "PDF",
+      "start": 7.82,
+      "end": 8.36
+    },
+    {
+      "word": "invoices",
+      "start": 8.36,
+      "end": 9.1
+    },
+    {
+      "word": "leaves",
+      "start": 9.1,
+      "end": 9.68
+    },
+    {
+      "word": "your",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "word": "cash",
+      "start": 9.92,
+      "end": 10.24
+    },
+    {
+      "word": "flow",
+      "start": 10.24,
+      "end": 10.56
+    },
+    {
+      "word": "completely",
+      "start": 10.56,
+      "end": 11.08
+    },
+    {
+      "word": "crippled.",
+      "start": 11.08,
+      "end": 11.6
+    },
+    {
+      "word": "Manual",
+      "start": 12.26,
+      "end": 12.26
+    },
+    {
+      "word": "invoicing",
+      "start": 12.26,
+      "end": 12.72
+    },
+    {
+      "word": "forces",
+      "start": 12.72,
+      "end": 13.12
+    },
+    {
+      "word": "account",
+      "start": 13.12,
+      "end": 13.58
+    },
+    {
+      "word": "managers",
+      "start": 13.58,
+      "end": 13.96
+    },
+    {
+      "word": "to",
+      "start": 13.96,
+      "end": 14.32
+    },
+    {
+      "word": "act",
+      "start": 14.32,
+      "end": 14.5
+    },
+    {
+      "word": "like",
+      "start": 14.5,
+      "end": 14.76
+    },
+    {
+      "word": "collection",
+      "start": 14.76,
+      "end": 15.08
+    },
+    {
+      "word": "agents,",
+      "start": 15.08,
+      "end": 15.6
+    },
+    {
+      "word": "damaging",
+      "start": 16.08,
+      "end": 16.32
+    },
+    {
+      "word": "client",
+      "start": 16.32,
+      "end": 16.86
+    },
+    {
+      "word": "trust",
+      "start": 16.86,
+      "end": 17.2
+    },
+    {
+      "word": "and",
+      "start": 17.2,
+      "end": 17.44
+    },
+    {
+      "word": "team",
+      "start": 17.44,
+      "end": 17.76
+    },
+    {
+      "word": "focus.",
+      "start": 17.76,
+      "end": 18.16
+    },
+    {
+      "word": "Implement",
+      "start": 18.86,
+      "end": 19.12
+    },
+    {
+      "word": "automated",
+      "start": 19.12,
+      "end": 19.82
+    },
+    {
+      "word": "Stripe",
+      "start": 19.82,
+      "end": 20.2
+    },
+    {
+      "word": "subscriptions",
+      "start": 20.2,
+      "end": 20.84
+    },
+    {
+      "word": "with",
+      "start": 20.84,
+      "end": 21.3
+    },
+    {
+      "word": "auto",
+      "start": 21.3,
+      "end": 21.52
+    },
+    {
+      "word": "debit",
+      "start": 21.52,
+      "end": 21.82
+    },
+    {
+      "word": "ACH",
+      "start": 21.82,
+      "end": 22.5
+    },
+    {
+      "word": "and",
+      "start": 22.5,
+      "end": 22.94
+    },
+    {
+      "word": "instant",
+      "start": 22.94,
+      "end": 23.34
+    },
+    {
+      "word": "failed",
+      "start": 23.34,
+      "end": 23.7
+    },
+    {
+      "word": "payment",
+      "start": 23.7,
+      "end": 24.04
+    },
+    {
+      "word": "done",
+      "start": 24.04,
+      "end": 24.2
+    },
+    {
+      "word": "emails.",
+      "start": 24.2,
+      "end": 24.78
+    },
+    {
+      "word": "You",
+      "start": 25.4,
+      "end": 25.58
+    },
+    {
+      "word": "protect",
+      "start": 25.58,
+      "end": 25.92
+    },
+    {
+      "word": "gross",
+      "start": 25.92,
+      "end": 26.38
+    },
+    {
+      "word": "profit",
+      "start": 26.38,
+      "end": 26.76
+    },
+    {
+      "word": "margins",
+      "start": 26.76,
+      "end": 27.22
+    },
+    {
+      "word": "and",
+      "start": 27.22,
+      "end": 27.7
+    },
+    {
+      "word": "eliminate",
+      "start": 27.7,
+      "end": 28.18
+    },
+    {
+      "word": "payment",
+      "start": 28.18,
+      "end": 28.62
+    },
+    {
+      "word": "delays.",
+      "start": 28.62,
+      "end": 28.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop sending manual invoices and waiting 30 days for corporate checks to clear.",
+      "line2": "AUTOMATE RETAINER BILLING",
+      "tag": "\ud83d\uded1 Automated invoice and retainer collection system with Stripe Billing",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated invoice and retainer collection system with Stripe Billing",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated invoice and retainer collection system with Stripe Billing",
+        "subtitle": "Automated invoice and retainer collection system with Stripe Billing"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated invoice and retainer collection system with Stripe Billing"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated invoice and retainer collection system with Stripe Billing"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated invoice and retainer collection system with Stripe Billing",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Async decision documentation framework using Github or Notion RFCs",
+  "text": "This Request For Comments template gathers thoughtful engineering feedback across twelve time zones seamlessly. Sync meetings force immediate verbal reactions, favoring fast talkers while drowning out analytical teammates. Important architectural flaws slip past undetected because nobody had sufficient quiet time to review trade-offs. Structuring written RFC templates inside Notion gives distributed engineers two days to leave inline comments. You reach consensus with full documentation and zero friction.",
+  "duration": 31.546,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "request",
+      "start": 0.24,
+      "end": 0.56
+    },
+    {
+      "word": "for",
+      "start": 0.56,
+      "end": 0.84
+    },
+    {
+      "word": "comments",
+      "start": 0.84,
+      "end": 1.18
+    },
+    {
+      "word": "template",
+      "start": 1.18,
+      "end": 1.76
+    },
+    {
+      "word": "gathers",
+      "start": 1.76,
+      "end": 2.22
+    },
+    {
+      "word": "thoughtful",
+      "start": 2.22,
+      "end": 2.68
+    },
+    {
+      "word": "engineering",
+      "start": 2.68,
+      "end": 3.16
+    },
+    {
+      "word": "feedback",
+      "start": 3.16,
+      "end": 3.8
+    },
+    {
+      "word": "across",
+      "start": 3.8,
+      "end": 4.2
+    },
+    {
+      "word": "12",
+      "start": 4.2,
+      "end": 4.56
+    },
+    {
+      "word": "-time",
+      "start": 4.56,
+      "end": 4.9
+    },
+    {
+      "word": "zones",
+      "start": 4.9,
+      "end": 5.36
+    },
+    {
+      "word": "seamlessly.",
+      "start": 5.36,
+      "end": 6.22
+    },
+    {
+      "word": "Sync",
+      "start": 6.94,
+      "end": 6.94
+    },
+    {
+      "word": "meetings",
+      "start": 6.94,
+      "end": 7.28
+    },
+    {
+      "word": "force",
+      "start": 7.28,
+      "end": 7.78
+    },
+    {
+      "word": "immediate",
+      "start": 7.78,
+      "end": 8.24
+    },
+    {
+      "word": "verbal",
+      "start": 8.24,
+      "end": 8.68
+    },
+    {
+      "word": "reactions,",
+      "start": 8.68,
+      "end": 9.28
+    },
+    {
+      "word": "favoring",
+      "start": 10.02,
+      "end": 10.02
+    },
+    {
+      "word": "fast",
+      "start": 10.02,
+      "end": 10.5
+    },
+    {
+      "word": "talkers",
+      "start": 10.5,
+      "end": 11.0
+    },
+    {
+      "word": "while",
+      "start": 11.0,
+      "end": 11.28
+    },
+    {
+      "word": "drowning",
+      "start": 11.28,
+      "end": 11.64
+    },
+    {
+      "word": "out",
+      "start": 11.64,
+      "end": 12.0
+    },
+    {
+      "word": "analytical",
+      "start": 12.0,
+      "end": 12.34
+    },
+    {
+      "word": "teammates.",
+      "start": 12.34,
+      "end": 12.94
+    },
+    {
+      "word": "Important",
+      "start": 13.76,
+      "end": 13.76
+    },
+    {
+      "word": "architectural",
+      "start": 13.76,
+      "end": 14.38
+    },
+    {
+      "word": "flaws",
+      "start": 14.38,
+      "end": 15.0
+    },
+    {
+      "word": "slip",
+      "start": 15.0,
+      "end": 15.46
+    },
+    {
+      "word": "past",
+      "start": 15.46,
+      "end": 15.82
+    },
+    {
+      "word": "undetected",
+      "start": 15.82,
+      "end": 16.38
+    },
+    {
+      "word": "because",
+      "start": 16.38,
+      "end": 16.96
+    },
+    {
+      "word": "nobody",
+      "start": 16.96,
+      "end": 17.28
+    },
+    {
+      "word": "had",
+      "start": 17.28,
+      "end": 17.64
+    },
+    {
+      "word": "sufficient",
+      "start": 17.64,
+      "end": 18.02
+    },
+    {
+      "word": "quiet",
+      "start": 18.02,
+      "end": 18.34
+    },
+    {
+      "word": "time",
+      "start": 18.34,
+      "end": 18.76
+    },
+    {
+      "word": "to",
+      "start": 18.76,
+      "end": 18.98
+    },
+    {
+      "word": "review",
+      "start": 18.98,
+      "end": 19.24
+    },
+    {
+      "word": "trade",
+      "start": 19.24,
+      "end": 19.54
+    },
+    {
+      "word": "-offs.",
+      "start": 19.54,
+      "end": 19.9
+    },
+    {
+      "word": "Structuring",
+      "start": 20.46,
+      "end": 20.98
+    },
+    {
+      "word": "written",
+      "start": 20.98,
+      "end": 21.44
+    },
+    {
+      "word": "RFC",
+      "start": 21.44,
+      "end": 21.88
+    },
+    {
+      "word": "templates",
+      "start": 21.88,
+      "end": 22.44
+    },
+    {
+      "word": "inside",
+      "start": 22.44,
+      "end": 22.96
+    },
+    {
+      "word": "Notion",
+      "start": 22.96,
+      "end": 23.52
+    },
+    {
+      "word": "gives",
+      "start": 23.52,
+      "end": 23.98
+    },
+    {
+      "word": "distributed",
+      "start": 23.98,
+      "end": 24.54
+    },
+    {
+      "word": "engineers",
+      "start": 24.54,
+      "end": 25.06
+    },
+    {
+      "word": "two",
+      "start": 25.06,
+      "end": 25.46
+    },
+    {
+      "word": "days",
+      "start": 25.46,
+      "end": 25.72
+    },
+    {
+      "word": "to",
+      "start": 25.72,
+      "end": 25.94
+    },
+    {
+      "word": "leave",
+      "start": 25.94,
+      "end": 26.22
+    },
+    {
+      "word": "inline",
+      "start": 26.22,
+      "end": 26.62
+    },
+    {
+      "word": "comments.",
+      "start": 26.62,
+      "end": 27.2
+    },
+    {
+      "word": "You",
+      "start": 27.2,
+      "end": 27.9
+    },
+    {
+      "word": "reach",
+      "start": 27.9,
+      "end": 28.22
+    },
+    {
+      "word": "consensus",
+      "start": 28.22,
+      "end": 28.68
+    },
+    {
+      "word": "with",
+      "start": 28.68,
+      "end": 29.12
+    },
+    {
+      "word": "full",
+      "start": 29.12,
+      "end": 29.38
+    },
+    {
+      "word": "documentation",
+      "start": 29.38,
+      "end": 30.08
+    },
+    {
+      "word": "and",
+      "start": 30.08,
+      "end": 30.72
+    },
+    {
+      "word": "zero",
+      "start": 30.72,
+      "end": 31.12
+    },
+    {
+      "word": "friction.",
+      "start": 31.12,
+      "end": 31.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The Request For Comments template that gathers thoughtful feedback across timezones.",
+      "line2": "ASYNC DECISION FRAMEWORK",
+      "tag": "\ud83d\uded1 Async decision documentation framework using Github or Notion RFCs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

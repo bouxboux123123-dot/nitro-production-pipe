@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "Raycast AI extensions launch for desktop productivity superpowers",
+  "text": "The three new Raycast extensions will save you thirty minutes every single workday. Developers and writers constantly interrupt their focus to look up documentation, generate regex patterns, or translate text across tabs. That micro-friction accumulates throughout the afternoon, draining your momentum and mental stamina. Raycast puts developer tools, Notion workspace queries, and quick LLM transformations right into your primary shortcut window. This keeps your hands firmly on the keyboard.",
+  "duration": 30.01,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "three",
+      "start": 0.22,
+      "end": 0.44
+    },
+    {
+      "word": "new",
+      "start": 0.44,
+      "end": 0.68
+    },
+    {
+      "word": "raycast",
+      "start": 0.68,
+      "end": 1.12
+    },
+    {
+      "word": "extensions",
+      "start": 1.12,
+      "end": 1.7
+    },
+    {
+      "word": "will",
+      "start": 1.7,
+      "end": 2.04
+    },
+    {
+      "word": "save",
+      "start": 2.04,
+      "end": 2.3
+    },
+    {
+      "word": "you",
+      "start": 2.3,
+      "end": 2.56
+    },
+    {
+      "word": "30",
+      "start": 2.56,
+      "end": 2.82
+    },
+    {
+      "word": "minutes",
+      "start": 2.82,
+      "end": 3.08
+    },
+    {
+      "word": "every",
+      "start": 3.08,
+      "end": 3.46
+    },
+    {
+      "word": "single",
+      "start": 3.46,
+      "end": 3.8
+    },
+    {
+      "word": "workday.",
+      "start": 3.8,
+      "end": 4.54
+    },
+    {
+      "word": "Developers",
+      "start": 5.2,
+      "end": 5.26
+    },
+    {
+      "word": "and",
+      "start": 5.26,
+      "end": 5.62
+    },
+    {
+      "word": "riders",
+      "start": 5.62,
+      "end": 5.98
+    },
+    {
+      "word": "constantly",
+      "start": 5.98,
+      "end": 6.6
+    },
+    {
+      "word": "interrupt",
+      "start": 6.6,
+      "end": 6.86
+    },
+    {
+      "word": "their",
+      "start": 6.86,
+      "end": 7.3
+    },
+    {
+      "word": "focus",
+      "start": 7.3,
+      "end": 7.48
+    },
+    {
+      "word": "to",
+      "start": 7.48,
+      "end": 7.74
+    },
+    {
+      "word": "look",
+      "start": 7.74,
+      "end": 7.9
+    },
+    {
+      "word": "up",
+      "start": 7.9,
+      "end": 8.1
+    },
+    {
+      "word": "documentation,",
+      "start": 8.1,
+      "end": 8.82
+    },
+    {
+      "word": "generate",
+      "start": 9.58,
+      "end": 9.8
+    },
+    {
+      "word": "rejects",
+      "start": 9.8,
+      "end": 10.38
+    },
+    {
+      "word": "patterns,",
+      "start": 10.38,
+      "end": 10.9
+    },
+    {
+      "word": "or",
+      "start": 11.2,
+      "end": 11.52
+    },
+    {
+      "word": "translate",
+      "start": 11.52,
+      "end": 11.92
+    },
+    {
+      "word": "text",
+      "start": 11.92,
+      "end": 12.4
+    },
+    {
+      "word": "across",
+      "start": 12.4,
+      "end": 12.8
+    },
+    {
+      "word": "tabs",
+      "start": 12.8,
+      "end": 13.26
+    },
+    {
+      "word": "that",
+      "start": 13.26,
+      "end": 13.8
+    },
+    {
+      "word": "microfriction",
+      "start": 13.8,
+      "end": 14.48
+    },
+    {
+      "word": "accumulates",
+      "start": 14.48,
+      "end": 15.12
+    },
+    {
+      "word": "throughout",
+      "start": 15.12,
+      "end": 15.5
+    },
+    {
+      "word": "the",
+      "start": 15.5,
+      "end": 15.86
+    },
+    {
+      "word": "afternoon,",
+      "start": 15.86,
+      "end": 16.36
+    },
+    {
+      "word": "draining",
+      "start": 16.76,
+      "end": 16.9
+    },
+    {
+      "word": "your",
+      "start": 16.9,
+      "end": 17.28
+    },
+    {
+      "word": "momentum",
+      "start": 17.28,
+      "end": 17.6
+    },
+    {
+      "word": "and",
+      "start": 17.6,
+      "end": 17.96
+    },
+    {
+      "word": "mental",
+      "start": 17.96,
+      "end": 18.24
+    },
+    {
+      "word": "stamina.",
+      "start": 18.24,
+      "end": 18.68
+    },
+    {
+      "word": "Raycast",
+      "start": 19.46,
+      "end": 19.82
+    },
+    {
+      "word": "puts",
+      "start": 19.82,
+      "end": 20.14
+    },
+    {
+      "word": "developer",
+      "start": 20.14,
+      "end": 20.5
+    },
+    {
+      "word": "tools,",
+      "start": 20.5,
+      "end": 21.04
+    },
+    {
+      "word": "notion",
+      "start": 21.58,
+      "end": 21.76
+    },
+    {
+      "word": "workspace",
+      "start": 21.76,
+      "end": 22.28
+    },
+    {
+      "word": "queries,",
+      "start": 22.28,
+      "end": 22.8
+    },
+    {
+      "word": "and",
+      "start": 22.96,
+      "end": 23.28
+    },
+    {
+      "word": "quick",
+      "start": 23.28,
+      "end": 23.56
+    },
+    {
+      "word": "LLM",
+      "start": 23.56,
+      "end": 24.3
+    },
+    {
+      "word": "transformations",
+      "start": 24.3,
+      "end": 24.94
+    },
+    {
+      "word": "right",
+      "start": 24.94,
+      "end": 25.5
+    },
+    {
+      "word": "into",
+      "start": 25.5,
+      "end": 25.68
+    },
+    {
+      "word": "your",
+      "start": 25.68,
+      "end": 26.26
+    },
+    {
+      "word": "primary",
+      "start": 26.26,
+      "end": 26.26
+    },
+    {
+      "word": "shortcut",
+      "start": 26.26,
+      "end": 26.68
+    },
+    {
+      "word": "window.",
+      "start": 26.68,
+      "end": 27.28
+    },
+    {
+      "word": "This",
+      "start": 27.28,
+      "end": 27.98
+    },
+    {
+      "word": "keeps",
+      "start": 27.98,
+      "end": 28.2
+    },
+    {
+      "word": "your",
+      "start": 28.2,
+      "end": 28.46
+    },
+    {
+      "word": "hands",
+      "start": 28.46,
+      "end": 28.76
+    },
+    {
+      "word": "firmly",
+      "start": 28.76,
+      "end": 29.1
+    },
+    {
+      "word": "on",
+      "start": 29.1,
+      "end": 29.4
+    },
+    {
+      "word": "the",
+      "start": 29.4,
+      "end": 29.62
+    },
+    {
+      "word": "keyboard.",
+      "start": 29.62,
+      "end": 29.86
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The 3 new Raycast extensions that will save you 30 minutes every single workday.",
+      "line2": "RAYCAST AI PRODUCTIVITY EXTENSIONS",
+      "tag": "\ud83d\uded1 Raycast AI extensions launch for desktop productivity superpowers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Raycast AI extensions launch for desktop productivity superpowers",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Raycast AI extensions launch for desktop productivity superpowers",
+        "subtitle": "Raycast AI extensions launch for desktop productivity superpowers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Raycast AI extensions launch for desktop productivity superpowers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Raycast AI extensions launch for desktop productivity superpowers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Raycast AI extensions launch for desktop productivity superpowers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "page": "page-04",
+  "idea": "Calibre: the ultimate free eBook manager and format converter",
+  "text": "Convert any document or eBook into Kindle, EPUB, or PDF format in two clicks. Clunky web uploaders constantly corrupt table layouts and compress your graphics into unreadable messes. Shifting file types manually strips essential chapters and breaks styling on mobile screens. Calibre runs instant offline conversions, preserving custom fonts, metadata tags, and formatting rules automatically. You get flawless cross-device reading without paying for converters.",
+  "duration": 29.157,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Convert",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "any",
+      "start": 0.36,
+      "end": 0.64
+    },
+    {
+      "word": "document",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "word": "or",
+      "start": 1.04,
+      "end": 1.46
+    },
+    {
+      "word": "ebook",
+      "start": 1.46,
+      "end": 1.78
+    },
+    {
+      "word": "into",
+      "start": 1.78,
+      "end": 2.1
+    },
+    {
+      "word": "Kindle,",
+      "start": 2.1,
+      "end": 2.44
+    },
+    {
+      "word": "Epub,",
+      "start": 2.86,
+      "end": 3.42
+    },
+    {
+      "word": "or",
+      "start": 3.52,
+      "end": 3.96
+    },
+    {
+      "word": "PDF",
+      "start": 3.96,
+      "end": 4.3
+    },
+    {
+      "word": "format",
+      "start": 4.3,
+      "end": 4.78
+    },
+    {
+      "word": "in",
+      "start": 4.78,
+      "end": 5.1
+    },
+    {
+      "word": "two",
+      "start": 5.1,
+      "end": 5.36
+    },
+    {
+      "word": "clicks.",
+      "start": 5.36,
+      "end": 5.8
+    },
+    {
+      "word": "Clunky",
+      "start": 6.52,
+      "end": 6.62
+    },
+    {
+      "word": "web",
+      "start": 6.62,
+      "end": 6.86
+    },
+    {
+      "word": "uploaders",
+      "start": 6.86,
+      "end": 7.38
+    },
+    {
+      "word": "constantly",
+      "start": 7.38,
+      "end": 7.96
+    },
+    {
+      "word": "corrupt",
+      "start": 7.96,
+      "end": 8.36
+    },
+    {
+      "word": "table",
+      "start": 8.36,
+      "end": 8.76
+    },
+    {
+      "word": "layouts",
+      "start": 8.76,
+      "end": 9.16
+    },
+    {
+      "word": "and",
+      "start": 9.16,
+      "end": 9.72
+    },
+    {
+      "word": "compress",
+      "start": 9.72,
+      "end": 9.96
+    },
+    {
+      "word": "your",
+      "start": 9.96,
+      "end": 10.22
+    },
+    {
+      "word": "graphics",
+      "start": 10.22,
+      "end": 10.56
+    },
+    {
+      "word": "into",
+      "start": 10.56,
+      "end": 10.92
+    },
+    {
+      "word": "unreadable",
+      "start": 10.92,
+      "end": 11.42
+    },
+    {
+      "word": "messes,",
+      "start": 11.42,
+      "end": 12.16
+    },
+    {
+      "word": "shifting",
+      "start": 12.64,
+      "end": 12.64
+    },
+    {
+      "word": "file",
+      "start": 12.64,
+      "end": 13.04
+    },
+    {
+      "word": "types",
+      "start": 13.04,
+      "end": 13.4
+    },
+    {
+      "word": "manually",
+      "start": 13.4,
+      "end": 13.8
+    },
+    {
+      "word": "strips",
+      "start": 13.8,
+      "end": 14.24
+    },
+    {
+      "word": "essential",
+      "start": 14.24,
+      "end": 14.72
+    },
+    {
+      "word": "chapters",
+      "start": 14.72,
+      "end": 15.12
+    },
+    {
+      "word": "and",
+      "start": 15.12,
+      "end": 15.44
+    },
+    {
+      "word": "breaks",
+      "start": 15.44,
+      "end": 15.8
+    },
+    {
+      "word": "styling",
+      "start": 15.8,
+      "end": 16.14
+    },
+    {
+      "word": "on",
+      "start": 16.14,
+      "end": 16.4
+    },
+    {
+      "word": "mobile",
+      "start": 16.4,
+      "end": 16.64
+    },
+    {
+      "word": "screens.",
+      "start": 16.64,
+      "end": 17.3
+    },
+    {
+      "word": "Caliber",
+      "start": 18.08,
+      "end": 18.22
+    },
+    {
+      "word": "runs",
+      "start": 18.22,
+      "end": 18.6
+    },
+    {
+      "word": "instant",
+      "start": 18.6,
+      "end": 19.04
+    },
+    {
+      "word": "offline",
+      "start": 19.04,
+      "end": 19.52
+    },
+    {
+      "word": "conversions,",
+      "start": 19.52,
+      "end": 20.26
+    },
+    {
+      "word": "preserving",
+      "start": 20.72,
+      "end": 20.96
+    },
+    {
+      "word": "custom",
+      "start": 20.96,
+      "end": 21.46
+    },
+    {
+      "word": "fonts,",
+      "start": 21.46,
+      "end": 21.98
+    },
+    {
+      "word": "metadata",
+      "start": 22.36,
+      "end": 22.52
+    },
+    {
+      "word": "tags,",
+      "start": 22.52,
+      "end": 23.1
+    },
+    {
+      "word": "and",
+      "start": 23.3,
+      "end": 23.64
+    },
+    {
+      "word": "formatting",
+      "start": 23.64,
+      "end": 23.78
+    },
+    {
+      "word": "rules",
+      "start": 23.78,
+      "end": 24.32
+    },
+    {
+      "word": "automatically.",
+      "start": 24.32,
+      "end": 24.9
+    },
+    {
+      "word": "You",
+      "start": 25.5,
+      "end": 25.66
+    },
+    {
+      "word": "get",
+      "start": 25.66,
+      "end": 26.0
+    },
+    {
+      "word": "flawless",
+      "start": 26.0,
+      "end": 26.38
+    },
+    {
+      "word": "cross",
+      "start": 26.38,
+      "end": 26.8
+    },
+    {
+      "word": "-device",
+      "start": 26.8,
+      "end": 27.14
+    },
+    {
+      "word": "reading",
+      "start": 27.14,
+      "end": 27.5
+    },
+    {
+      "word": "without",
+      "start": 27.5,
+      "end": 27.9
+    },
+    {
+      "word": "paying",
+      "start": 27.9,
+      "end": 28.26
+    },
+    {
+      "word": "for",
+      "start": 28.26,
+      "end": 28.58
+    },
+    {
+      "word": "converters.",
+      "start": 28.58,
+      "end": 29.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Convert any document or eBook into Kindle, EPUB, or PDF format in two clicks.",
+      "line2": "FREE EBOOK CONVERTER",
+      "tag": "\ud83d\uded1 Calibre",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Calibre",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Calibre",
+        "subtitle": "Calibre"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Calibre"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Calibre"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Calibre",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

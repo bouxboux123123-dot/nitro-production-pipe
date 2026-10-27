@@ -1,0 +1,396 @@
+{
+  "page": "page-09",
+  "idea": "Framer vs Webflow: which visual website builder should you build on",
+  "text": "Framer vs Webflow: which modern website builder fits your specific skill level best? Visual designers struggle with Webflow's steep technical curve, getting lost configuring flexbox properties and class tags. However, Webflow remains essential when managing complex relational CMS databases with thousand-item catalogs. Framer wins for lightning-fast landing pages, giving you Figma-like freedom with zero coding headaches. Choose the ideal engine for your workflow, and.",
+  "duration": 29.946,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Framer",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "VS",
+      "start": 0.5,
+      "end": 0.96
+    },
+    {
+      "word": "Webflow,",
+      "start": 0.96,
+      "end": 1.48
+    },
+    {
+      "word": "which",
+      "start": 1.92,
+      "end": 2.06
+    },
+    {
+      "word": "modern",
+      "start": 2.06,
+      "end": 2.4
+    },
+    {
+      "word": "website",
+      "start": 2.4,
+      "end": 2.9
+    },
+    {
+      "word": "builder",
+      "start": 2.9,
+      "end": 3.28
+    },
+    {
+      "word": "fits",
+      "start": 3.28,
+      "end": 3.52
+    },
+    {
+      "word": "your",
+      "start": 3.52,
+      "end": 4.08
+    },
+    {
+      "word": "specific",
+      "start": 4.08,
+      "end": 4.16
+    },
+    {
+      "word": "skill",
+      "start": 4.16,
+      "end": 4.46
+    },
+    {
+      "word": "level",
+      "start": 4.46,
+      "end": 4.7
+    },
+    {
+      "word": "best.",
+      "start": 4.7,
+      "end": 5.28
+    },
+    {
+      "word": "Visual",
+      "start": 5.94,
+      "end": 5.96
+    },
+    {
+      "word": "designers",
+      "start": 5.96,
+      "end": 6.48
+    },
+    {
+      "word": "struggle",
+      "start": 6.48,
+      "end": 6.9
+    },
+    {
+      "word": "with",
+      "start": 6.9,
+      "end": 7.18
+    },
+    {
+      "word": "Webflow's",
+      "start": 7.18,
+      "end": 7.82
+    },
+    {
+      "word": "steep",
+      "start": 7.82,
+      "end": 8.08
+    },
+    {
+      "word": "technical",
+      "start": 8.08,
+      "end": 8.54
+    },
+    {
+      "word": "curve,",
+      "start": 8.54,
+      "end": 8.94
+    },
+    {
+      "word": "getting",
+      "start": 9.38,
+      "end": 9.52
+    },
+    {
+      "word": "lost",
+      "start": 9.52,
+      "end": 9.9
+    },
+    {
+      "word": "configuring",
+      "start": 9.9,
+      "end": 10.54
+    },
+    {
+      "word": "Flexbox",
+      "start": 10.54,
+      "end": 11.1
+    },
+    {
+      "word": "properties",
+      "start": 11.1,
+      "end": 11.66
+    },
+    {
+      "word": "in",
+      "start": 11.66,
+      "end": 11.9
+    },
+    {
+      "word": "class",
+      "start": 11.9,
+      "end": 12.2
+    },
+    {
+      "word": "tags.",
+      "start": 12.2,
+      "end": 12.68
+    },
+    {
+      "word": "However,",
+      "start": 13.06,
+      "end": 13.5
+    },
+    {
+      "word": "Webflow",
+      "start": 13.72,
+      "end": 13.94
+    },
+    {
+      "word": "remains",
+      "start": 13.94,
+      "end": 14.3
+    },
+    {
+      "word": "essential",
+      "start": 14.3,
+      "end": 14.8
+    },
+    {
+      "word": "when",
+      "start": 14.8,
+      "end": 15.08
+    },
+    {
+      "word": "managing",
+      "start": 15.08,
+      "end": 15.5
+    },
+    {
+      "word": "complex",
+      "start": 15.5,
+      "end": 16.1
+    },
+    {
+      "word": "relational",
+      "start": 16.1,
+      "end": 16.84
+    },
+    {
+      "word": "CMS",
+      "start": 16.84,
+      "end": 17.26
+    },
+    {
+      "word": "databases",
+      "start": 17.26,
+      "end": 17.94
+    },
+    {
+      "word": "with",
+      "start": 17.94,
+      "end": 18.62
+    },
+    {
+      "word": "thousand",
+      "start": 18.62,
+      "end": 19.08
+    },
+    {
+      "word": "item",
+      "start": 19.08,
+      "end": 19.46
+    },
+    {
+      "word": "catalogs.",
+      "start": 19.46,
+      "end": 20.78
+    },
+    {
+      "word": "Framer",
+      "start": 21.04,
+      "end": 21.22
+    },
+    {
+      "word": "wins",
+      "start": 21.22,
+      "end": 21.5
+    },
+    {
+      "word": "for",
+      "start": 21.5,
+      "end": 21.8
+    },
+    {
+      "word": "lightning",
+      "start": 21.8,
+      "end": 22.08
+    },
+    {
+      "word": "fast",
+      "start": 22.08,
+      "end": 22.58
+    },
+    {
+      "word": "landing",
+      "start": 22.58,
+      "end": 22.94
+    },
+    {
+      "word": "pages,",
+      "start": 22.94,
+      "end": 23.44
+    },
+    {
+      "word": "giving",
+      "start": 23.8,
+      "end": 24.0
+    },
+    {
+      "word": "you",
+      "start": 24.0,
+      "end": 24.3
+    },
+    {
+      "word": "Figma",
+      "start": 24.3,
+      "end": 24.62
+    },
+    {
+      "word": "-like",
+      "start": 24.62,
+      "end": 24.9
+    },
+    {
+      "word": "freedom",
+      "start": 24.9,
+      "end": 25.14
+    },
+    {
+      "word": "with",
+      "start": 25.14,
+      "end": 25.5
+    },
+    {
+      "word": "zero",
+      "start": 25.5,
+      "end": 25.96
+    },
+    {
+      "word": "coding",
+      "start": 25.96,
+      "end": 26.36
+    },
+    {
+      "word": "headaches.",
+      "start": 26.36,
+      "end": 26.8
+    },
+    {
+      "word": "Choose",
+      "start": 26.8,
+      "end": 27.62
+    },
+    {
+      "word": "the",
+      "start": 27.62,
+      "end": 27.94
+    },
+    {
+      "word": "ideal",
+      "start": 27.94,
+      "end": 28.24
+    },
+    {
+      "word": "engine",
+      "start": 28.24,
+      "end": 28.6
+    },
+    {
+      "word": "for",
+      "start": 28.6,
+      "end": 28.84
+    },
+    {
+      "word": "your",
+      "start": 28.84,
+      "end": 29.18
+    },
+    {
+      "word": "workflow,",
+      "start": 29.18,
+      "end": 29.38
+    },
+    {
+      "word": "and...",
+      "start": 29.72,
+      "end": 29.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Framer vs Webflow: which website builder fits your skill level best?",
+      "line2": "FRAMER VS WEBFLOW",
+      "tag": "\ud83d\uded1 Framer vs Webflow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Framer vs Webflow",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Framer vs Webflow",
+        "subtitle": "Framer vs Webflow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Framer vs Webflow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Framer vs Webflow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Framer vs Webflow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

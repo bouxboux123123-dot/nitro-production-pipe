@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Automated bug triage system that routes user reports directly to Linear",
+  "text": "How to turn user bug reports from Intercom into structured Linear engineering tickets. Support reps spend hours asking customers for device specs, browser logs, and missing reproduction steps. Engineers waste half their sprint deciphering vague bug descriptions instead of shipping product updates. Automate the pipeline by routing Intercom conversations through Make to extract stack traces and create tagged Linear issues. Your engineering team resolves critical production errors twice as fast.",
+  "duration": 29.519,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.4
+    },
+    {
+      "word": "turn",
+      "start": 0.4,
+      "end": 0.6
+    },
+    {
+      "word": "user",
+      "start": 0.6,
+      "end": 0.9
+    },
+    {
+      "word": "bug",
+      "start": 0.9,
+      "end": 1.14
+    },
+    {
+      "word": "reports",
+      "start": 1.14,
+      "end": 1.54
+    },
+    {
+      "word": "from",
+      "start": 1.54,
+      "end": 1.88
+    },
+    {
+      "word": "Intercom",
+      "start": 1.88,
+      "end": 2.42
+    },
+    {
+      "word": "into",
+      "start": 2.42,
+      "end": 2.72
+    },
+    {
+      "word": "structured",
+      "start": 2.72,
+      "end": 3.18
+    },
+    {
+      "word": "linear",
+      "start": 3.18,
+      "end": 3.46
+    },
+    {
+      "word": "engineering",
+      "start": 3.46,
+      "end": 4.0
+    },
+    {
+      "word": "tickets.",
+      "start": 4.0,
+      "end": 4.5
+    },
+    {
+      "word": "Support",
+      "start": 5.12,
+      "end": 5.4
+    },
+    {
+      "word": "rep",
+      "start": 5.4,
+      "end": 5.66
+    },
+    {
+      "word": "spend",
+      "start": 5.66,
+      "end": 6.04
+    },
+    {
+      "word": "hours",
+      "start": 6.04,
+      "end": 6.44
+    },
+    {
+      "word": "asking",
+      "start": 6.44,
+      "end": 6.9
+    },
+    {
+      "word": "customers",
+      "start": 6.9,
+      "end": 7.32
+    },
+    {
+      "word": "for",
+      "start": 7.32,
+      "end": 7.68
+    },
+    {
+      "word": "device",
+      "start": 7.68,
+      "end": 8.08
+    },
+    {
+      "word": "specs,",
+      "start": 8.08,
+      "end": 8.5
+    },
+    {
+      "word": "browser",
+      "start": 9.14,
+      "end": 9.14
+    },
+    {
+      "word": "logs,",
+      "start": 9.14,
+      "end": 9.6
+    },
+    {
+      "word": "and",
+      "start": 9.96,
+      "end": 10.22
+    },
+    {
+      "word": "missing",
+      "start": 10.22,
+      "end": 10.42
+    },
+    {
+      "word": "reproduction",
+      "start": 10.42,
+      "end": 10.84
+    },
+    {
+      "word": "steps.",
+      "start": 10.84,
+      "end": 11.44
+    },
+    {
+      "word": "Engineers",
+      "start": 12.08,
+      "end": 12.46
+    },
+    {
+      "word": "waste",
+      "start": 12.46,
+      "end": 12.9
+    },
+    {
+      "word": "half",
+      "start": 12.9,
+      "end": 13.2
+    },
+    {
+      "word": "their",
+      "start": 13.2,
+      "end": 13.44
+    },
+    {
+      "word": "sprint",
+      "start": 13.44,
+      "end": 13.68
+    },
+    {
+      "word": "deciphering",
+      "start": 13.68,
+      "end": 14.38
+    },
+    {
+      "word": "vague",
+      "start": 14.38,
+      "end": 14.7
+    },
+    {
+      "word": "bug",
+      "start": 14.7,
+      "end": 14.94
+    },
+    {
+      "word": "descriptions",
+      "start": 14.94,
+      "end": 15.52
+    },
+    {
+      "word": "instead",
+      "start": 15.52,
+      "end": 16.16
+    },
+    {
+      "word": "of",
+      "start": 16.16,
+      "end": 16.58
+    },
+    {
+      "word": "shipping",
+      "start": 16.58,
+      "end": 16.66
+    },
+    {
+      "word": "product",
+      "start": 16.66,
+      "end": 17.08
+    },
+    {
+      "word": "updates.",
+      "start": 17.08,
+      "end": 17.54
+    },
+    {
+      "word": "Automate",
+      "start": 18.02,
+      "end": 18.2
+    },
+    {
+      "word": "the",
+      "start": 18.2,
+      "end": 18.4
+    },
+    {
+      "word": "pipeline",
+      "start": 18.4,
+      "end": 18.74
+    },
+    {
+      "word": "by",
+      "start": 18.74,
+      "end": 19.12
+    },
+    {
+      "word": "routing",
+      "start": 19.12,
+      "end": 19.5
+    },
+    {
+      "word": "Intercom",
+      "start": 19.5,
+      "end": 20.12
+    },
+    {
+      "word": "conversations",
+      "start": 20.12,
+      "end": 20.74
+    },
+    {
+      "word": "through",
+      "start": 20.74,
+      "end": 21.16
+    },
+    {
+      "word": "make",
+      "start": 21.16,
+      "end": 21.38
+    },
+    {
+      "word": "-to",
+      "start": 21.38,
+      "end": 21.7
+    },
+    {
+      "word": "-extract",
+      "start": 21.7,
+      "end": 22.06
+    },
+    {
+      "word": "stack",
+      "start": 22.06,
+      "end": 22.44
+    },
+    {
+      "word": "traces",
+      "start": 22.44,
+      "end": 22.86
+    },
+    {
+      "word": "and",
+      "start": 22.86,
+      "end": 23.44
+    },
+    {
+      "word": "create",
+      "start": 23.44,
+      "end": 23.88
+    },
+    {
+      "word": "tagged",
+      "start": 23.88,
+      "end": 24.24
+    },
+    {
+      "word": "linear",
+      "start": 24.24,
+      "end": 24.52
+    },
+    {
+      "word": "issues.",
+      "start": 24.52,
+      "end": 24.94
+    },
+    {
+      "word": "Your",
+      "start": 25.6,
+      "end": 25.78
+    },
+    {
+      "word": "engineering",
+      "start": 25.78,
+      "end": 26.18
+    },
+    {
+      "word": "team",
+      "start": 26.18,
+      "end": 26.68
+    },
+    {
+      "word": "resolves",
+      "start": 26.68,
+      "end": 27.16
+    },
+    {
+      "word": "critical",
+      "start": 27.16,
+      "end": 27.64
+    },
+    {
+      "word": "production",
+      "start": 27.64,
+      "end": 28.16
+    },
+    {
+      "word": "errors",
+      "start": 28.16,
+      "end": 28.46
+    },
+    {
+      "word": "twice",
+      "start": 28.46,
+      "end": 28.88
+    },
+    {
+      "word": "as",
+      "start": 28.88,
+      "end": 29.08
+    },
+    {
+      "word": "fast.",
+      "start": 29.08,
+      "end": 29.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How to turn user bug reports from Intercom into structured Linear engineering tickets.",
+      "line2": "ROUTE BUGS TO LINEAR",
+      "tag": "\ud83d\uded1 Automated bug triage system that routes user reports directly to Linear",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated bug triage system that routes user reports directly to Linear",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated bug triage system that routes user reports directly to Linear",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

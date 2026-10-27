@@ -1,0 +1,416 @@
+{
+  "page": "page-06",
+  "idea": "Automated timezone meeting scheduler that finds fair overlapping hours",
+  "text": "Here is the polite way to schedule global remote calls without burning out your staff. Always expecting offshore team members to adapt to headquarters hours creates resentment and silent quitting. Unequal scheduling culture forces remote employees to attend late night calls while headquarters operates in comfort. Set up an automated rotation policy in Google Calendar that alternates meeting host timezones every month. This builds genuine team equity across continents.",
+  "duration": 28.645,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.62
+    },
+    {
+      "word": "polite",
+      "start": 0.62,
+      "end": 0.88
+    },
+    {
+      "word": "way",
+      "start": 0.88,
+      "end": 1.14
+    },
+    {
+      "word": "to",
+      "start": 1.14,
+      "end": 1.36
+    },
+    {
+      "word": "schedule",
+      "start": 1.36,
+      "end": 1.82
+    },
+    {
+      "word": "global",
+      "start": 1.82,
+      "end": 2.24
+    },
+    {
+      "word": "remote",
+      "start": 2.24,
+      "end": 2.58
+    },
+    {
+      "word": "calls",
+      "start": 2.58,
+      "end": 3.1
+    },
+    {
+      "word": "without",
+      "start": 3.1,
+      "end": 3.58
+    },
+    {
+      "word": "burning",
+      "start": 3.58,
+      "end": 3.88
+    },
+    {
+      "word": "out",
+      "start": 3.88,
+      "end": 4.12
+    },
+    {
+      "word": "your",
+      "start": 4.12,
+      "end": 4.28
+    },
+    {
+      "word": "staff.",
+      "start": 4.28,
+      "end": 4.68
+    },
+    {
+      "word": "Always",
+      "start": 5.48,
+      "end": 5.48
+    },
+    {
+      "word": "expecting",
+      "start": 5.48,
+      "end": 6.12
+    },
+    {
+      "word": "offshore",
+      "start": 6.12,
+      "end": 6.54
+    },
+    {
+      "word": "team",
+      "start": 6.54,
+      "end": 6.94
+    },
+    {
+      "word": "members",
+      "start": 6.94,
+      "end": 7.24
+    },
+    {
+      "word": "to",
+      "start": 7.24,
+      "end": 7.52
+    },
+    {
+      "word": "adapt",
+      "start": 7.52,
+      "end": 7.82
+    },
+    {
+      "word": "to",
+      "start": 7.82,
+      "end": 8.0
+    },
+    {
+      "word": "headquarters",
+      "start": 8.0,
+      "end": 8.38
+    },
+    {
+      "word": "hours",
+      "start": 8.38,
+      "end": 9.08
+    },
+    {
+      "word": "creates",
+      "start": 9.08,
+      "end": 9.66
+    },
+    {
+      "word": "resentment",
+      "start": 9.66,
+      "end": 10.12
+    },
+    {
+      "word": "and",
+      "start": 10.12,
+      "end": 10.58
+    },
+    {
+      "word": "silent",
+      "start": 10.58,
+      "end": 10.92
+    },
+    {
+      "word": "quitting.",
+      "start": 10.92,
+      "end": 11.28
+    },
+    {
+      "word": "An",
+      "start": 11.6,
+      "end": 11.74
+    },
+    {
+      "word": "equal",
+      "start": 11.74,
+      "end": 12.0
+    },
+    {
+      "word": "scheduling",
+      "start": 12.0,
+      "end": 12.48
+    },
+    {
+      "word": "culture",
+      "start": 12.48,
+      "end": 13.06
+    },
+    {
+      "word": "forces",
+      "start": 13.06,
+      "end": 13.44
+    },
+    {
+      "word": "remote",
+      "start": 13.44,
+      "end": 13.82
+    },
+    {
+      "word": "employees",
+      "start": 13.82,
+      "end": 14.3
+    },
+    {
+      "word": "to",
+      "start": 14.3,
+      "end": 14.62
+    },
+    {
+      "word": "attend",
+      "start": 14.62,
+      "end": 14.96
+    },
+    {
+      "word": "late",
+      "start": 14.96,
+      "end": 15.24
+    },
+    {
+      "word": "night",
+      "start": 15.24,
+      "end": 15.54
+    },
+    {
+      "word": "calls",
+      "start": 15.54,
+      "end": 15.88
+    },
+    {
+      "word": "while",
+      "start": 15.88,
+      "end": 16.36
+    },
+    {
+      "word": "headquarters",
+      "start": 16.36,
+      "end": 16.86
+    },
+    {
+      "word": "operates",
+      "start": 16.86,
+      "end": 17.46
+    },
+    {
+      "word": "in",
+      "start": 17.46,
+      "end": 17.72
+    },
+    {
+      "word": "comfort.",
+      "start": 17.72,
+      "end": 18.16
+    },
+    {
+      "word": "Set",
+      "start": 18.72,
+      "end": 18.88
+    },
+    {
+      "word": "up",
+      "start": 18.88,
+      "end": 19.06
+    },
+    {
+      "word": "an",
+      "start": 19.06,
+      "end": 19.34
+    },
+    {
+      "word": "automated",
+      "start": 19.34,
+      "end": 19.64
+    },
+    {
+      "word": "rotation",
+      "start": 19.64,
+      "end": 20.26
+    },
+    {
+      "word": "policy",
+      "start": 20.26,
+      "end": 20.76
+    },
+    {
+      "word": "in",
+      "start": 20.76,
+      "end": 21.06
+    },
+    {
+      "word": "Google",
+      "start": 21.06,
+      "end": 21.4
+    },
+    {
+      "word": "Calendar",
+      "start": 21.4,
+      "end": 21.84
+    },
+    {
+      "word": "that",
+      "start": 21.84,
+      "end": 22.54
+    },
+    {
+      "word": "alternates",
+      "start": 22.54,
+      "end": 23.08
+    },
+    {
+      "word": "meeting",
+      "start": 23.08,
+      "end": 23.5
+    },
+    {
+      "word": "host",
+      "start": 23.5,
+      "end": 23.86
+    },
+    {
+      "word": "time",
+      "start": 23.86,
+      "end": 24.16
+    },
+    {
+      "word": "zones",
+      "start": 24.16,
+      "end": 24.46
+    },
+    {
+      "word": "every",
+      "start": 24.46,
+      "end": 24.74
+    },
+    {
+      "word": "month.",
+      "start": 24.74,
+      "end": 25.26
+    },
+    {
+      "word": "This",
+      "start": 25.68,
+      "end": 25.94
+    },
+    {
+      "word": "builds",
+      "start": 25.94,
+      "end": 26.38
+    },
+    {
+      "word": "genuine",
+      "start": 26.38,
+      "end": 26.76
+    },
+    {
+      "word": "team",
+      "start": 26.76,
+      "end": 27.26
+    },
+    {
+      "word": "equity",
+      "start": 27.26,
+      "end": 27.6
+    },
+    {
+      "word": "across",
+      "start": 27.6,
+      "end": 28.04
+    },
+    {
+      "word": "continents.",
+      "start": 28.04,
+      "end": 28.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The polite way to schedule global remote calls without burning out your staff.",
+      "line2": "FAIR TIMEZONE SCHEDULING",
+      "tag": "\ud83d\uded1 Automated timezone meeting scheduler that finds fair overlapping hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Automated timezone meeting scheduler that finds fair overlapping hours",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Automated timezone meeting scheduler that finds fair overlapping hours",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-07",
+  "idea": "Founder personal brand content repurposing engine for LinkedIn and X",
+  "text": "Build a powerful founder presence in fifteen minutes of writing a week. Most founders abandon content creation because drafting thought leadership posts from scratch drains mental energy. Without automated systems, personal branding feels like an exhausting second job that pulls focus from execution. Feed customer interview notes into Claude via Make to generate five high-converting hooks and structured social drafts. You build industry influence and customer trust on pure autopilot.",
+  "duration": 28.901,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Build",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "a",
+      "start": 0.22,
+      "end": 0.52
+    },
+    {
+      "word": "powerful",
+      "start": 0.52,
+      "end": 0.78
+    },
+    {
+      "word": "founder",
+      "start": 0.78,
+      "end": 1.18
+    },
+    {
+      "word": "presence",
+      "start": 1.18,
+      "end": 1.56
+    },
+    {
+      "word": "in",
+      "start": 1.56,
+      "end": 1.84
+    },
+    {
+      "word": "15",
+      "start": 1.84,
+      "end": 2.14
+    },
+    {
+      "word": "minutes",
+      "start": 2.14,
+      "end": 2.38
+    },
+    {
+      "word": "of",
+      "start": 2.38,
+      "end": 2.64
+    },
+    {
+      "word": "riding",
+      "start": 2.64,
+      "end": 2.82
+    },
+    {
+      "word": "a",
+      "start": 2.82,
+      "end": 3.58
+    },
+    {
+      "word": "week.",
+      "start": 3.58,
+      "end": 3.58
+    },
+    {
+      "word": "Most",
+      "start": 3.86,
+      "end": 4.16
+    },
+    {
+      "word": "founders",
+      "start": 4.16,
+      "end": 4.56
+    },
+    {
+      "word": "abandon",
+      "start": 4.56,
+      "end": 5.06
+    },
+    {
+      "word": "content",
+      "start": 5.06,
+      "end": 5.6
+    },
+    {
+      "word": "creation",
+      "start": 5.6,
+      "end": 6.12
+    },
+    {
+      "word": "because",
+      "start": 6.12,
+      "end": 6.78
+    },
+    {
+      "word": "drafting",
+      "start": 6.78,
+      "end": 7.14
+    },
+    {
+      "word": "thought",
+      "start": 7.14,
+      "end": 7.56
+    },
+    {
+      "word": "leadership",
+      "start": 7.56,
+      "end": 7.96
+    },
+    {
+      "word": "posts",
+      "start": 7.96,
+      "end": 8.32
+    },
+    {
+      "word": "from",
+      "start": 8.32,
+      "end": 8.68
+    },
+    {
+      "word": "scratch",
+      "start": 8.68,
+      "end": 9.08
+    },
+    {
+      "word": "drains",
+      "start": 9.08,
+      "end": 9.54
+    },
+    {
+      "word": "mental",
+      "start": 9.54,
+      "end": 9.9
+    },
+    {
+      "word": "energy.",
+      "start": 9.9,
+      "end": 10.38
+    },
+    {
+      "word": "Without",
+      "start": 10.92,
+      "end": 11.34
+    },
+    {
+      "word": "automated",
+      "start": 11.34,
+      "end": 11.72
+    },
+    {
+      "word": "systems,",
+      "start": 11.72,
+      "end": 12.42
+    },
+    {
+      "word": "personal",
+      "start": 13.08,
+      "end": 13.14
+    },
+    {
+      "word": "branding",
+      "start": 13.14,
+      "end": 13.54
+    },
+    {
+      "word": "feels",
+      "start": 13.54,
+      "end": 13.94
+    },
+    {
+      "word": "like",
+      "start": 13.94,
+      "end": 14.2
+    },
+    {
+      "word": "an",
+      "start": 14.2,
+      "end": 14.4
+    },
+    {
+      "word": "exhausting",
+      "start": 14.4,
+      "end": 14.76
+    },
+    {
+      "word": "second",
+      "start": 14.76,
+      "end": 15.26
+    },
+    {
+      "word": "job",
+      "start": 15.26,
+      "end": 15.68
+    },
+    {
+      "word": "that",
+      "start": 15.68,
+      "end": 15.92
+    },
+    {
+      "word": "pulls",
+      "start": 15.92,
+      "end": 16.26
+    },
+    {
+      "word": "focus",
+      "start": 16.26,
+      "end": 16.62
+    },
+    {
+      "word": "from",
+      "start": 16.62,
+      "end": 16.9
+    },
+    {
+      "word": "execution.",
+      "start": 16.9,
+      "end": 17.4
+    },
+    {
+      "word": "Feed",
+      "start": 18.08,
+      "end": 18.08
+    },
+    {
+      "word": "customer",
+      "start": 18.08,
+      "end": 18.5
+    },
+    {
+      "word": "interview",
+      "start": 18.5,
+      "end": 18.98
+    },
+    {
+      "word": "notes",
+      "start": 18.98,
+      "end": 19.28
+    },
+    {
+      "word": "into",
+      "start": 19.28,
+      "end": 19.56
+    },
+    {
+      "word": "clawed",
+      "start": 19.56,
+      "end": 20.0
+    },
+    {
+      "word": "via",
+      "start": 20.0,
+      "end": 20.18
+    },
+    {
+      "word": "make",
+      "start": 20.18,
+      "end": 20.46
+    },
+    {
+      "word": "to",
+      "start": 20.46,
+      "end": 20.82
+    },
+    {
+      "word": "generate",
+      "start": 20.82,
+      "end": 21.18
+    },
+    {
+      "word": "five",
+      "start": 21.18,
+      "end": 21.74
+    },
+    {
+      "word": "high",
+      "start": 21.74,
+      "end": 21.94
+    },
+    {
+      "word": "converting",
+      "start": 21.94,
+      "end": 22.26
+    },
+    {
+      "word": "hooks",
+      "start": 22.26,
+      "end": 22.84
+    },
+    {
+      "word": "and",
+      "start": 22.84,
+      "end": 23.24
+    },
+    {
+      "word": "structured",
+      "start": 23.24,
+      "end": 23.54
+    },
+    {
+      "word": "social",
+      "start": 23.54,
+      "end": 24.02
+    },
+    {
+      "word": "drafts.",
+      "start": 24.02,
+      "end": 24.46
+    },
+    {
+      "word": "You",
+      "start": 25.04,
+      "end": 25.16
+    },
+    {
+      "word": "build",
+      "start": 25.16,
+      "end": 25.44
+    },
+    {
+      "word": "industry",
+      "start": 25.44,
+      "end": 25.9
+    },
+    {
+      "word": "influence",
+      "start": 25.9,
+      "end": 26.44
+    },
+    {
+      "word": "and",
+      "start": 26.44,
+      "end": 26.8
+    },
+    {
+      "word": "customer",
+      "start": 26.8,
+      "end": 27.2
+    },
+    {
+      "word": "trust",
+      "start": 27.2,
+      "end": 27.56
+    },
+    {
+      "word": "on",
+      "start": 27.56,
+      "end": 27.9
+    },
+    {
+      "word": "pure",
+      "start": 27.9,
+      "end": 28.26
+    },
+    {
+      "word": "autopilot.",
+      "start": 28.26,
+      "end": 28.84
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Build a powerful founder presence in just 15 minutes of writing a week.",
+      "line2": "REPURPOSE FOUNDER CONTENT",
+      "tag": "\ud83d\uded1 Founder personal brand content repurposing engine for LinkedIn and X",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder personal brand content repurposing engine for LinkedIn and X",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder personal brand content repurposing engine for LinkedIn and X",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

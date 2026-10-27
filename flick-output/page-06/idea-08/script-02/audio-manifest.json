@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Loom video comment threading workflow for async design reviews",
+  "text": "Use timestamped video comments to point out exact layout edits and interface bugs asynchronously. Static screenshots with red markup arrows fail to capture complex animations, hover states, and responsive shifts. Designers waste hours guessing what clients meant, resulting in endless email chains and severe frustration. Dropping Loom screen recordings directly into Figma comments pairs spoken context with precise timeline timestamps. You eliminate revisions and ship polished interfaces faster.",
+  "duration": 30.543,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Use",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "timestamp",
+      "start": 0.32,
+      "end": 0.72
+    },
+    {
+      "word": "video",
+      "start": 0.72,
+      "end": 1.18
+    },
+    {
+      "word": "comments",
+      "start": 1.18,
+      "end": 1.52
+    },
+    {
+      "word": "to",
+      "start": 1.52,
+      "end": 1.76
+    },
+    {
+      "word": "point",
+      "start": 1.76,
+      "end": 2.0
+    },
+    {
+      "word": "out",
+      "start": 2.0,
+      "end": 2.28
+    },
+    {
+      "word": "exact",
+      "start": 2.28,
+      "end": 2.64
+    },
+    {
+      "word": "layout",
+      "start": 2.64,
+      "end": 3.04
+    },
+    {
+      "word": "edits",
+      "start": 3.04,
+      "end": 3.36
+    },
+    {
+      "word": "and",
+      "start": 3.36,
+      "end": 3.76
+    },
+    {
+      "word": "interface",
+      "start": 3.76,
+      "end": 3.98
+    },
+    {
+      "word": "bugs",
+      "start": 3.98,
+      "end": 4.42
+    },
+    {
+      "word": "asynchronously.",
+      "start": 4.42,
+      "end": 5.5
+    },
+    {
+      "word": "Static",
+      "start": 6.12,
+      "end": 6.12
+    },
+    {
+      "word": "screenshots",
+      "start": 6.12,
+      "end": 6.74
+    },
+    {
+      "word": "with",
+      "start": 6.74,
+      "end": 7.14
+    },
+    {
+      "word": "red",
+      "start": 7.14,
+      "end": 7.42
+    },
+    {
+      "word": "markup",
+      "start": 7.42,
+      "end": 7.72
+    },
+    {
+      "word": "arrows",
+      "start": 7.72,
+      "end": 8.16
+    },
+    {
+      "word": "failed",
+      "start": 8.16,
+      "end": 8.54
+    },
+    {
+      "word": "to",
+      "start": 8.54,
+      "end": 8.68
+    },
+    {
+      "word": "capture",
+      "start": 8.68,
+      "end": 9.06
+    },
+    {
+      "word": "complex",
+      "start": 9.06,
+      "end": 9.6
+    },
+    {
+      "word": "animations,",
+      "start": 9.6,
+      "end": 10.22
+    },
+    {
+      "word": "hover",
+      "start": 10.92,
+      "end": 10.92
+    },
+    {
+      "word": "states,",
+      "start": 10.92,
+      "end": 11.38
+    },
+    {
+      "word": "and",
+      "start": 11.7,
+      "end": 11.86
+    },
+    {
+      "word": "responsive",
+      "start": 11.86,
+      "end": 12.32
+    },
+    {
+      "word": "shifts.",
+      "start": 12.32,
+      "end": 12.82
+    },
+    {
+      "word": "Designers",
+      "start": 13.22,
+      "end": 13.7
+    },
+    {
+      "word": "waste",
+      "start": 13.7,
+      "end": 14.02
+    },
+    {
+      "word": "hours",
+      "start": 14.02,
+      "end": 14.42
+    },
+    {
+      "word": "guessing",
+      "start": 14.42,
+      "end": 14.78
+    },
+    {
+      "word": "what",
+      "start": 14.78,
+      "end": 15.02
+    },
+    {
+      "word": "clients",
+      "start": 15.02,
+      "end": 15.32
+    },
+    {
+      "word": "meant,",
+      "start": 15.32,
+      "end": 15.72
+    },
+    {
+      "word": "resulting",
+      "start": 16.06,
+      "end": 16.32
+    },
+    {
+      "word": "in",
+      "start": 16.32,
+      "end": 16.66
+    },
+    {
+      "word": "endless",
+      "start": 16.66,
+      "end": 16.96
+    },
+    {
+      "word": "email",
+      "start": 16.96,
+      "end": 17.42
+    },
+    {
+      "word": "chains",
+      "start": 17.42,
+      "end": 17.94
+    },
+    {
+      "word": "and",
+      "start": 17.94,
+      "end": 18.3
+    },
+    {
+      "word": "severe",
+      "start": 18.3,
+      "end": 18.58
+    },
+    {
+      "word": "frustration.",
+      "start": 18.58,
+      "end": 19.18
+    },
+    {
+      "word": "Dropping",
+      "start": 19.9,
+      "end": 20.24
+    },
+    {
+      "word": "loom",
+      "start": 20.24,
+      "end": 20.56
+    },
+    {
+      "word": "screen",
+      "start": 20.56,
+      "end": 20.98
+    },
+    {
+      "word": "recordings",
+      "start": 20.98,
+      "end": 21.5
+    },
+    {
+      "word": "directly",
+      "start": 21.5,
+      "end": 21.98
+    },
+    {
+      "word": "into",
+      "start": 21.98,
+      "end": 22.26
+    },
+    {
+      "word": "Figma",
+      "start": 22.26,
+      "end": 22.66
+    },
+    {
+      "word": "Commons",
+      "start": 22.66,
+      "end": 22.96
+    },
+    {
+      "word": "pairs",
+      "start": 22.96,
+      "end": 23.36
+    },
+    {
+      "word": "spoken",
+      "start": 23.36,
+      "end": 23.72
+    },
+    {
+      "word": "context",
+      "start": 23.72,
+      "end": 24.28
+    },
+    {
+      "word": "with",
+      "start": 24.28,
+      "end": 24.86
+    },
+    {
+      "word": "precise",
+      "start": 24.86,
+      "end": 25.18
+    },
+    {
+      "word": "timeline",
+      "start": 25.18,
+      "end": 25.72
+    },
+    {
+      "word": "timestamps.",
+      "start": 25.72,
+      "end": 26.56
+    },
+    {
+      "word": "You",
+      "start": 26.56,
+      "end": 27.3
+    },
+    {
+      "word": "eliminate",
+      "start": 27.3,
+      "end": 27.72
+    },
+    {
+      "word": "revisions",
+      "start": 27.72,
+      "end": 28.18
+    },
+    {
+      "word": "and",
+      "start": 28.18,
+      "end": 28.62
+    },
+    {
+      "word": "ship",
+      "start": 28.62,
+      "end": 28.92
+    },
+    {
+      "word": "polished",
+      "start": 28.92,
+      "end": 29.34
+    },
+    {
+      "word": "interfaces",
+      "start": 29.34,
+      "end": 29.86
+    },
+    {
+      "word": "faster.",
+      "start": 29.86,
+      "end": 30.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Use timestamped video comments to point out exact layout edits asynchronously.",
+      "line2": "ASYNC DESIGN REVIEWS",
+      "tag": "\ud83d\uded1 Loom video comment threading workflow for async design reviews",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Loom video comment threading workflow for async design reviews",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Loom video comment threading workflow for async design reviews",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Loom video comment threading workflow for async design reviews",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

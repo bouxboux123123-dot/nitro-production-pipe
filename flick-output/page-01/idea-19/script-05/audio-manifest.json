@@ -1,0 +1,406 @@
+{
+  "page": "page-01",
+  "idea": "Automated Slack digest that highlights weekly agency revenue and margins",
+  "text": "The financial clarity routine that keeps agency owners calm and focused on growth. Scaling past ten clients creates chaotic cash flows with staggered retainers, contractor payouts, and delayed wire transfers. Lack of margin visibility causes agencies to accept unprofitable client deliverables that drain creative bandwidth. Deploy an Airtable model synced with QuickBooks that posts weekly net profit directly into Slack. You run a profitable agency without bookkeeping anxiety.",
+  "duration": 29.69,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "financial",
+      "start": 0.24,
+      "end": 0.66
+    },
+    {
+      "word": "clarity",
+      "start": 0.66,
+      "end": 1.04
+    },
+    {
+      "word": "routine",
+      "start": 1.04,
+      "end": 1.54
+    },
+    {
+      "word": "that",
+      "start": 1.54,
+      "end": 1.78
+    },
+    {
+      "word": "keeps",
+      "start": 1.78,
+      "end": 2.08
+    },
+    {
+      "word": "agency",
+      "start": 2.08,
+      "end": 2.54
+    },
+    {
+      "word": "owners",
+      "start": 2.54,
+      "end": 2.9
+    },
+    {
+      "word": "calm",
+      "start": 2.9,
+      "end": 3.42
+    },
+    {
+      "word": "and",
+      "start": 3.42,
+      "end": 3.88
+    },
+    {
+      "word": "focused",
+      "start": 3.88,
+      "end": 4.12
+    },
+    {
+      "word": "on",
+      "start": 4.12,
+      "end": 4.42
+    },
+    {
+      "word": "growth.",
+      "start": 4.42,
+      "end": 5.04
+    },
+    {
+      "word": "Scaling",
+      "start": 5.42,
+      "end": 5.8
+    },
+    {
+      "word": "past",
+      "start": 5.8,
+      "end": 6.14
+    },
+    {
+      "word": "10",
+      "start": 6.14,
+      "end": 6.48
+    },
+    {
+      "word": "clients",
+      "start": 6.48,
+      "end": 6.82
+    },
+    {
+      "word": "creates",
+      "start": 6.82,
+      "end": 7.26
+    },
+    {
+      "word": "chaotic",
+      "start": 7.26,
+      "end": 7.8
+    },
+    {
+      "word": "cash",
+      "start": 7.8,
+      "end": 8.18
+    },
+    {
+      "word": "flows",
+      "start": 8.18,
+      "end": 8.46
+    },
+    {
+      "word": "with",
+      "start": 8.46,
+      "end": 8.74
+    },
+    {
+      "word": "staggered",
+      "start": 8.74,
+      "end": 9.04
+    },
+    {
+      "word": "retainers,",
+      "start": 9.04,
+      "end": 9.88
+    },
+    {
+      "word": "contractor",
+      "start": 10.34,
+      "end": 10.4
+    },
+    {
+      "word": "payouts,",
+      "start": 10.4,
+      "end": 10.98
+    },
+    {
+      "word": "and",
+      "start": 11.34,
+      "end": 11.5
+    },
+    {
+      "word": "delayed",
+      "start": 11.5,
+      "end": 11.74
+    },
+    {
+      "word": "wire",
+      "start": 11.74,
+      "end": 12.12
+    },
+    {
+      "word": "transfers.",
+      "start": 12.12,
+      "end": 12.74
+    },
+    {
+      "word": "Lack",
+      "start": 13.32,
+      "end": 13.36
+    },
+    {
+      "word": "of",
+      "start": 13.36,
+      "end": 13.52
+    },
+    {
+      "word": "margin",
+      "start": 13.52,
+      "end": 13.9
+    },
+    {
+      "word": "visibility",
+      "start": 13.9,
+      "end": 14.5
+    },
+    {
+      "word": "causes",
+      "start": 14.5,
+      "end": 15.02
+    },
+    {
+      "word": "agencies",
+      "start": 15.02,
+      "end": 15.52
+    },
+    {
+      "word": "to",
+      "start": 15.52,
+      "end": 15.88
+    },
+    {
+      "word": "accept",
+      "start": 15.88,
+      "end": 16.28
+    },
+    {
+      "word": "unprofitable",
+      "start": 16.28,
+      "end": 16.96
+    },
+    {
+      "word": "client",
+      "start": 16.96,
+      "end": 17.4
+    },
+    {
+      "word": "deliverables",
+      "start": 17.4,
+      "end": 17.96
+    },
+    {
+      "word": "that",
+      "start": 17.96,
+      "end": 18.26
+    },
+    {
+      "word": "drain",
+      "start": 18.26,
+      "end": 18.52
+    },
+    {
+      "word": "creative",
+      "start": 18.52,
+      "end": 19.08
+    },
+    {
+      "word": "bandwidth.",
+      "start": 19.08,
+      "end": 19.56
+    },
+    {
+      "word": "Deploy",
+      "start": 20.28,
+      "end": 20.52
+    },
+    {
+      "word": "an",
+      "start": 20.52,
+      "end": 20.82
+    },
+    {
+      "word": "irritable",
+      "start": 20.82,
+      "end": 21.22
+    },
+    {
+      "word": "model",
+      "start": 21.22,
+      "end": 21.68
+    },
+    {
+      "word": "synced",
+      "start": 21.68,
+      "end": 22.02
+    },
+    {
+      "word": "with",
+      "start": 22.02,
+      "end": 22.3
+    },
+    {
+      "word": "quick",
+      "start": 22.3,
+      "end": 22.6
+    },
+    {
+      "word": "books",
+      "start": 22.6,
+      "end": 22.92
+    },
+    {
+      "word": "that",
+      "start": 22.92,
+      "end": 23.36
+    },
+    {
+      "word": "posts",
+      "start": 23.36,
+      "end": 23.66
+    },
+    {
+      "word": "weekly",
+      "start": 23.66,
+      "end": 24.06
+    },
+    {
+      "word": "net",
+      "start": 24.06,
+      "end": 24.42
+    },
+    {
+      "word": "profit",
+      "start": 24.42,
+      "end": 24.8
+    },
+    {
+      "word": "directly",
+      "start": 24.8,
+      "end": 25.3
+    },
+    {
+      "word": "into",
+      "start": 25.3,
+      "end": 25.62
+    },
+    {
+      "word": "Slack.",
+      "start": 25.62,
+      "end": 26.04
+    },
+    {
+      "word": "You",
+      "start": 26.04,
+      "end": 26.64
+    },
+    {
+      "word": "run",
+      "start": 26.64,
+      "end": 26.8
+    },
+    {
+      "word": "a",
+      "start": 26.8,
+      "end": 27.3
+    },
+    {
+      "word": "profitable",
+      "start": 27.3,
+      "end": 27.44
+    },
+    {
+      "word": "agency",
+      "start": 27.44,
+      "end": 28.0
+    },
+    {
+      "word": "without",
+      "start": 28.0,
+      "end": 28.48
+    },
+    {
+      "word": "bookkeeping",
+      "start": 28.48,
+      "end": 29.02
+    },
+    {
+      "word": "anxiety.",
+      "start": 29.02,
+      "end": 29.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The financial clarity routine that keeps agency owners calm and focused on growth.",
+      "line2": "WEEKLY REVENUE DIGEST",
+      "tag": "\ud83d\uded1 Automated Slack digest that highlights weekly agency revenue and margins",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Automated Slack digest that highlights weekly agency revenue and margins",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Automated Slack digest that highlights weekly agency revenue and margins",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Raycast AI extensions launch for desktop productivity superpowers",
+  "text": "Here is how power users organize their desktop workflow in 2026. Traditional setups drown in cluttered desktops, forgotten browser bookmarks, and dozens of disconnected productivity utilities. Searching through nested file trees and buried chrome tabs creates crippling workflow lag across your daily projects. Power operators configure Raycast quicklinks, AI text modifiers, and automated shell scripts triggered by single keystroke combinations. You eliminate desktop chaos and regain focused hours.",
+  "duration": 32.186,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.46
+    },
+    {
+      "word": "how",
+      "start": 0.46,
+      "end": 0.66
+    },
+    {
+      "word": "power",
+      "start": 0.66,
+      "end": 1.06
+    },
+    {
+      "word": "users",
+      "start": 1.06,
+      "end": 1.36
+    },
+    {
+      "word": "organize",
+      "start": 1.36,
+      "end": 1.94
+    },
+    {
+      "word": "their",
+      "start": 1.94,
+      "end": 2.4
+    },
+    {
+      "word": "desktop",
+      "start": 2.4,
+      "end": 2.76
+    },
+    {
+      "word": "workflow",
+      "start": 2.76,
+      "end": 3.36
+    },
+    {
+      "word": "in",
+      "start": 3.36,
+      "end": 3.8
+    },
+    {
+      "word": "2026.",
+      "start": 3.8,
+      "end": 5.2
+    },
+    {
+      "word": "Traditional",
+      "start": 5.84,
+      "end": 5.96
+    },
+    {
+      "word": "setups",
+      "start": 5.96,
+      "end": 6.44
+    },
+    {
+      "word": "drown",
+      "start": 6.44,
+      "end": 6.92
+    },
+    {
+      "word": "in",
+      "start": 6.92,
+      "end": 7.2
+    },
+    {
+      "word": "cluttered",
+      "start": 7.2,
+      "end": 7.54
+    },
+    {
+      "word": "desktops,",
+      "start": 7.54,
+      "end": 8.16
+    },
+    {
+      "word": "forgotten",
+      "start": 8.62,
+      "end": 8.88
+    },
+    {
+      "word": "browser",
+      "start": 8.88,
+      "end": 9.38
+    },
+    {
+      "word": "bookmarks,",
+      "start": 9.38,
+      "end": 9.92
+    },
+    {
+      "word": "and",
+      "start": 10.3,
+      "end": 10.5
+    },
+    {
+      "word": "dozens",
+      "start": 10.5,
+      "end": 10.86
+    },
+    {
+      "word": "of",
+      "start": 10.86,
+      "end": 11.16
+    },
+    {
+      "word": "disconnected",
+      "start": 11.16,
+      "end": 11.76
+    },
+    {
+      "word": "productivity",
+      "start": 11.76,
+      "end": 12.42
+    },
+    {
+      "word": "utilities.",
+      "start": 12.42,
+      "end": 13.14
+    },
+    {
+      "word": "Searching",
+      "start": 13.62,
+      "end": 13.88
+    },
+    {
+      "word": "through",
+      "start": 13.88,
+      "end": 14.08
+    },
+    {
+      "word": "nested",
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "word": "file",
+      "start": 14.4,
+      "end": 14.78
+    },
+    {
+      "word": "trees",
+      "start": 14.78,
+      "end": 15.12
+    },
+    {
+      "word": "and",
+      "start": 15.12,
+      "end": 15.4
+    },
+    {
+      "word": "buried",
+      "start": 15.4,
+      "end": 15.72
+    },
+    {
+      "word": "chrome",
+      "start": 15.72,
+      "end": 16.04
+    },
+    {
+      "word": "tabs",
+      "start": 16.04,
+      "end": 16.36
+    },
+    {
+      "word": "creates",
+      "start": 16.36,
+      "end": 17.04
+    },
+    {
+      "word": "crippling",
+      "start": 17.04,
+      "end": 17.42
+    },
+    {
+      "word": "workflow",
+      "start": 17.42,
+      "end": 17.88
+    },
+    {
+      "word": "lag",
+      "start": 17.88,
+      "end": 18.22
+    },
+    {
+      "word": "across",
+      "start": 18.22,
+      "end": 18.52
+    },
+    {
+      "word": "your",
+      "start": 18.52,
+      "end": 18.74
+    },
+    {
+      "word": "daily",
+      "start": 18.74,
+      "end": 19.0
+    },
+    {
+      "word": "projects.",
+      "start": 19.0,
+      "end": 19.62
+    },
+    {
+      "word": "Power",
+      "start": 20.5,
+      "end": 20.56
+    },
+    {
+      "word": "operators",
+      "start": 20.56,
+      "end": 21.04
+    },
+    {
+      "word": "configure",
+      "start": 21.04,
+      "end": 21.6
+    },
+    {
+      "word": "raycast",
+      "start": 21.6,
+      "end": 22.08
+    },
+    {
+      "word": "quicklinks,",
+      "start": 22.08,
+      "end": 22.66
+    },
+    {
+      "word": "AI",
+      "start": 23.18,
+      "end": 23.42
+    },
+    {
+      "word": "text",
+      "start": 23.42,
+      "end": 23.82
+    },
+    {
+      "word": "modifiers,",
+      "start": 23.82,
+      "end": 24.34
+    },
+    {
+      "word": "and",
+      "start": 24.86,
+      "end": 25.14
+    },
+    {
+      "word": "automated",
+      "start": 25.14,
+      "end": 25.44
+    },
+    {
+      "word": "shell",
+      "start": 25.44,
+      "end": 25.8
+    },
+    {
+      "word": "scripts",
+      "start": 25.8,
+      "end": 26.12
+    },
+    {
+      "word": "triggered",
+      "start": 26.12,
+      "end": 26.48
+    },
+    {
+      "word": "by",
+      "start": 26.48,
+      "end": 26.76
+    },
+    {
+      "word": "single",
+      "start": 26.76,
+      "end": 27.08
+    },
+    {
+      "word": "keystroke",
+      "start": 27.08,
+      "end": 27.58
+    },
+    {
+      "word": "combinations.",
+      "start": 27.58,
+      "end": 28.22
+    },
+    {
+      "word": "You",
+      "start": 28.22,
+      "end": 29.04
+    },
+    {
+      "word": "eliminate",
+      "start": 29.04,
+      "end": 29.46
+    },
+    {
+      "word": "desktop",
+      "start": 29.46,
+      "end": 29.96
+    },
+    {
+      "word": "chaos",
+      "start": 29.96,
+      "end": 30.44
+    },
+    {
+      "word": "and",
+      "start": 30.44,
+      "end": 30.84
+    },
+    {
+      "word": "regain",
+      "start": 30.84,
+      "end": 31.22
+    },
+    {
+      "word": "focused",
+      "start": 31.22,
+      "end": 31.64
+    },
+    {
+      "word": "hours.",
+      "start": 31.64,
+      "end": 32.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "How power users organize their desktop workflow in 2026.",
+      "line2": "RAYCAST AI PRODUCTIVITY EXTENSIONS",
+      "tag": "\ud83d\uded1 Raycast AI extensions launch for desktop productivity superpowers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Raycast AI extensions launch for desktop productivity superpowers",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Raycast AI extensions launch for desktop productivity superpowers",
+        "subtitle": "Raycast AI extensions launch for desktop productivity superpowers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Raycast AI extensions launch for desktop productivity superpowers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Raycast AI extensions launch for desktop productivity superpowers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Raycast AI extensions launch for desktop productivity superpowers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

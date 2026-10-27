@@ -1,0 +1,411 @@
+{
+  "page": "page-03",
+  "idea": "Automated supplier price monitoring to protect profit margins",
+  "text": "The exact zero-touch fulfillment pipeline that scales your Etsy merchandise business. Managing custom apparel orders manually caps your store capacity at ten sales per day. Spending all night matching order numbers to print files prevents you from creating new winning designs. Use Make to map Etsy SKU variants directly to Gelato print-ready files and automate production triggers. This scales your merchandise revenue while giving you your weekends back.",
+  "duration": 25.301,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "exact",
+      "start": 0.28,
+      "end": 0.62
+    },
+    {
+      "word": "zero",
+      "start": 0.62,
+      "end": 1.04
+    },
+    {
+      "word": "-touch",
+      "start": 1.04,
+      "end": 1.3
+    },
+    {
+      "word": "fulfillment",
+      "start": 1.3,
+      "end": 1.74
+    },
+    {
+      "word": "pipeline",
+      "start": 1.74,
+      "end": 2.22
+    },
+    {
+      "word": "that",
+      "start": 2.22,
+      "end": 2.62
+    },
+    {
+      "word": "scales",
+      "start": 2.62,
+      "end": 2.84
+    },
+    {
+      "word": "your",
+      "start": 2.84,
+      "end": 3.14
+    },
+    {
+      "word": "Etsy",
+      "start": 3.14,
+      "end": 3.4
+    },
+    {
+      "word": "merchandise",
+      "start": 3.4,
+      "end": 3.86
+    },
+    {
+      "word": "business.",
+      "start": 3.86,
+      "end": 4.62
+    },
+    {
+      "word": "Managing",
+      "start": 5.24,
+      "end": 5.26
+    },
+    {
+      "word": "customer",
+      "start": 5.26,
+      "end": 5.78
+    },
+    {
+      "word": "apparel",
+      "start": 5.78,
+      "end": 6.14
+    },
+    {
+      "word": "orders",
+      "start": 6.14,
+      "end": 6.62
+    },
+    {
+      "word": "manually",
+      "start": 6.62,
+      "end": 7.02
+    },
+    {
+      "word": "caps",
+      "start": 7.02,
+      "end": 7.32
+    },
+    {
+      "word": "your",
+      "start": 7.32,
+      "end": 7.58
+    },
+    {
+      "word": "store",
+      "start": 7.58,
+      "end": 7.76
+    },
+    {
+      "word": "capacity",
+      "start": 7.76,
+      "end": 8.24
+    },
+    {
+      "word": "at",
+      "start": 8.24,
+      "end": 8.48
+    },
+    {
+      "word": "10",
+      "start": 8.48,
+      "end": 8.76
+    },
+    {
+      "word": "sales",
+      "start": 8.76,
+      "end": 9.06
+    },
+    {
+      "word": "per",
+      "start": 9.06,
+      "end": 9.28
+    },
+    {
+      "word": "day.",
+      "start": 9.28,
+      "end": 9.7
+    },
+    {
+      "word": "Spending",
+      "start": 10.1,
+      "end": 10.3
+    },
+    {
+      "word": "all",
+      "start": 10.3,
+      "end": 10.66
+    },
+    {
+      "word": "night",
+      "start": 10.66,
+      "end": 10.92
+    },
+    {
+      "word": "matching",
+      "start": 10.92,
+      "end": 11.26
+    },
+    {
+      "word": "order",
+      "start": 11.26,
+      "end": 11.48
+    },
+    {
+      "word": "numbers",
+      "start": 11.48,
+      "end": 11.72
+    },
+    {
+      "word": "to",
+      "start": 11.72,
+      "end": 11.98
+    },
+    {
+      "word": "print",
+      "start": 11.98,
+      "end": 12.2
+    },
+    {
+      "word": "files",
+      "start": 12.2,
+      "end": 12.64
+    },
+    {
+      "word": "prevents",
+      "start": 12.64,
+      "end": 13.2
+    },
+    {
+      "word": "you",
+      "start": 13.2,
+      "end": 13.4
+    },
+    {
+      "word": "from",
+      "start": 13.4,
+      "end": 13.58
+    },
+    {
+      "word": "creating",
+      "start": 13.58,
+      "end": 13.96
+    },
+    {
+      "word": "new",
+      "start": 13.96,
+      "end": 14.2
+    },
+    {
+      "word": "winning",
+      "start": 14.2,
+      "end": 14.38
+    },
+    {
+      "word": "designs.",
+      "start": 14.38,
+      "end": 14.88
+    },
+    {
+      "word": "Use",
+      "start": 15.48,
+      "end": 15.62
+    },
+    {
+      "word": "Make",
+      "start": 15.62,
+      "end": 15.82
+    },
+    {
+      "word": "-to",
+      "start": 15.82,
+      "end": 15.96
+    },
+    {
+      "word": "-Map",
+      "start": 15.96,
+      "end": 16.12
+    },
+    {
+      "word": "Etsy",
+      "start": 16.12,
+      "end": 16.54
+    },
+    {
+      "word": "SKU",
+      "start": 16.54,
+      "end": 17.2
+    },
+    {
+      "word": "variants",
+      "start": 17.2,
+      "end": 17.56
+    },
+    {
+      "word": "directly",
+      "start": 17.56,
+      "end": 17.98
+    },
+    {
+      "word": "to",
+      "start": 17.98,
+      "end": 18.34
+    },
+    {
+      "word": "gelato",
+      "start": 18.34,
+      "end": 18.82
+    },
+    {
+      "word": "print",
+      "start": 18.82,
+      "end": 19.04
+    },
+    {
+      "word": "-ready",
+      "start": 19.04,
+      "end": 19.22
+    },
+    {
+      "word": "files",
+      "start": 19.22,
+      "end": 19.66
+    },
+    {
+      "word": "and",
+      "start": 19.66,
+      "end": 20.32
+    },
+    {
+      "word": "automate",
+      "start": 20.32,
+      "end": 20.48
+    },
+    {
+      "word": "production",
+      "start": 20.48,
+      "end": 20.98
+    },
+    {
+      "word": "triggers.",
+      "start": 20.98,
+      "end": 21.4
+    },
+    {
+      "word": "This",
+      "start": 22.0,
+      "end": 22.22
+    },
+    {
+      "word": "scales",
+      "start": 22.22,
+      "end": 22.44
+    },
+    {
+      "word": "your",
+      "start": 22.44,
+      "end": 22.74
+    },
+    {
+      "word": "merchandise",
+      "start": 22.74,
+      "end": 23.2
+    },
+    {
+      "word": "revenue",
+      "start": 23.2,
+      "end": 23.64
+    },
+    {
+      "word": "while",
+      "start": 23.64,
+      "end": 24.0
+    },
+    {
+      "word": "giving",
+      "start": 24.0,
+      "end": 24.22
+    },
+    {
+      "word": "you",
+      "start": 24.22,
+      "end": 24.44
+    },
+    {
+      "word": "your",
+      "start": 24.44,
+      "end": 24.66
+    },
+    {
+      "word": "weekends",
+      "start": 24.66,
+      "end": 24.88
+    },
+    {
+      "word": "back.",
+      "start": 24.88,
+      "end": 25.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop manually checking 20 different product supplier links every week.",
+      "line2": "PROTECT PROFIT MARGINS",
+      "tag": "\ud83d\uded1 Automated supplier price monitoring to protect profit margins",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated supplier price monitoring to protect profit margins",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated supplier price monitoring to protect profit margins",
+        "subtitle": "Automated supplier price monitoring to protect profit margins"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated supplier price monitoring to protect profit margins"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated supplier price monitoring to protect profit margins"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated supplier price monitoring to protect profit margins",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

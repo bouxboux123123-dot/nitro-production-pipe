@@ -1,0 +1,431 @@
+{
+  "page": "page-07",
+  "idea": "Rapid customer onboarding checklist app for B2B SaaS pilots",
+  "text": "The fastest way to get enterprise trial users active within their first forty-eight hours. High-intent leads sign up, click around aimlessly, and vanish before discovering your core value. Generic email sequences fail because users ignore product tips when they are disconnected from the app. Embed an interactive checklist using Copilot linked to PostHog events that unlock features dynamically upon milestone completion. You slash time-to-value and boost pilot conversions dramatically.",
+  "duration": 29.327,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "fastest",
+      "start": 0.28,
+      "end": 0.58
+    },
+    {
+      "word": "way",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "to",
+      "start": 0.86,
+      "end": 0.98
+    },
+    {
+      "word": "get",
+      "start": 0.98,
+      "end": 1.18
+    },
+    {
+      "word": "Enterprise",
+      "start": 1.18,
+      "end": 1.64
+    },
+    {
+      "word": "trial",
+      "start": 1.64,
+      "end": 2.08
+    },
+    {
+      "word": "users",
+      "start": 2.08,
+      "end": 2.46
+    },
+    {
+      "word": "active",
+      "start": 2.46,
+      "end": 2.88
+    },
+    {
+      "word": "within",
+      "start": 2.88,
+      "end": 3.1
+    },
+    {
+      "word": "their",
+      "start": 3.1,
+      "end": 3.34
+    },
+    {
+      "word": "first",
+      "start": 3.34,
+      "end": 3.74
+    },
+    {
+      "word": "48",
+      "start": 3.74,
+      "end": 4.08
+    },
+    {
+      "word": "hours.",
+      "start": 4.08,
+      "end": 4.72
+    },
+    {
+      "word": "High",
+      "start": 5.28,
+      "end": 5.52
+    },
+    {
+      "word": "intent",
+      "start": 5.52,
+      "end": 5.84
+    },
+    {
+      "word": "leads",
+      "start": 5.84,
+      "end": 6.18
+    },
+    {
+      "word": "sign",
+      "start": 6.18,
+      "end": 6.52
+    },
+    {
+      "word": "up,",
+      "start": 6.52,
+      "end": 6.84
+    },
+    {
+      "word": "click",
+      "start": 6.98,
+      "end": 7.26
+    },
+    {
+      "word": "around",
+      "start": 7.26,
+      "end": 7.64
+    },
+    {
+      "word": "aimlessly,",
+      "start": 7.64,
+      "end": 8.14
+    },
+    {
+      "word": "and",
+      "start": 8.56,
+      "end": 8.74
+    },
+    {
+      "word": "vanish",
+      "start": 8.74,
+      "end": 9.02
+    },
+    {
+      "word": "before",
+      "start": 9.02,
+      "end": 9.48
+    },
+    {
+      "word": "discovering",
+      "start": 9.48,
+      "end": 9.86
+    },
+    {
+      "word": "your",
+      "start": 9.86,
+      "end": 10.2
+    },
+    {
+      "word": "core",
+      "start": 10.2,
+      "end": 10.44
+    },
+    {
+      "word": "value.",
+      "start": 10.44,
+      "end": 10.86
+    },
+    {
+      "word": "Generic",
+      "start": 11.48,
+      "end": 11.86
+    },
+    {
+      "word": "email",
+      "start": 11.86,
+      "end": 12.28
+    },
+    {
+      "word": "sequences",
+      "start": 12.28,
+      "end": 12.82
+    },
+    {
+      "word": "fail",
+      "start": 12.82,
+      "end": 13.34
+    },
+    {
+      "word": "because",
+      "start": 13.34,
+      "end": 13.74
+    },
+    {
+      "word": "users",
+      "start": 13.74,
+      "end": 14.1
+    },
+    {
+      "word": "ignore",
+      "start": 14.1,
+      "end": 14.5
+    },
+    {
+      "word": "product",
+      "start": 14.5,
+      "end": 14.9
+    },
+    {
+      "word": "tips",
+      "start": 14.9,
+      "end": 15.16
+    },
+    {
+      "word": "when",
+      "start": 15.16,
+      "end": 15.38
+    },
+    {
+      "word": "they",
+      "start": 15.38,
+      "end": 15.54
+    },
+    {
+      "word": "are",
+      "start": 15.54,
+      "end": 15.78
+    },
+    {
+      "word": "disconnected",
+      "start": 15.78,
+      "end": 16.14
+    },
+    {
+      "word": "from",
+      "start": 16.14,
+      "end": 16.48
+    },
+    {
+      "word": "the",
+      "start": 16.48,
+      "end": 16.66
+    },
+    {
+      "word": "app.",
+      "start": 16.66,
+      "end": 17.02
+    },
+    {
+      "word": "Embed",
+      "start": 17.32,
+      "end": 17.52
+    },
+    {
+      "word": "an",
+      "start": 17.52,
+      "end": 17.76
+    },
+    {
+      "word": "interactive",
+      "start": 17.76,
+      "end": 18.16
+    },
+    {
+      "word": "checklist",
+      "start": 18.16,
+      "end": 18.74
+    },
+    {
+      "word": "using",
+      "start": 18.74,
+      "end": 19.34
+    },
+    {
+      "word": "co",
+      "start": 19.34,
+      "end": 19.66
+    },
+    {
+      "word": "-pilot",
+      "start": 19.66,
+      "end": 19.94
+    },
+    {
+      "word": "link",
+      "start": 19.94,
+      "end": 20.28
+    },
+    {
+      "word": "to",
+      "start": 20.28,
+      "end": 20.54
+    },
+    {
+      "word": "post",
+      "start": 20.54,
+      "end": 20.82
+    },
+    {
+      "word": "hog",
+      "start": 20.82,
+      "end": 21.1
+    },
+    {
+      "word": "events",
+      "start": 21.1,
+      "end": 21.4
+    },
+    {
+      "word": "that",
+      "start": 21.4,
+      "end": 21.96
+    },
+    {
+      "word": "unlock",
+      "start": 21.96,
+      "end": 22.32
+    },
+    {
+      "word": "features",
+      "start": 22.32,
+      "end": 22.82
+    },
+    {
+      "word": "dynamically",
+      "start": 22.82,
+      "end": 23.4
+    },
+    {
+      "word": "upon",
+      "start": 23.4,
+      "end": 23.88
+    },
+    {
+      "word": "milestone",
+      "start": 23.88,
+      "end": 24.4
+    },
+    {
+      "word": "completion.",
+      "start": 24.4,
+      "end": 25.08
+    },
+    {
+      "word": "You",
+      "start": 25.08,
+      "end": 25.86
+    },
+    {
+      "word": "slash",
+      "start": 25.86,
+      "end": 26.22
+    },
+    {
+      "word": "time",
+      "start": 26.22,
+      "end": 26.5
+    },
+    {
+      "word": "to",
+      "start": 26.5,
+      "end": 26.66
+    },
+    {
+      "word": "value",
+      "start": 26.66,
+      "end": 27.0
+    },
+    {
+      "word": "and",
+      "start": 27.0,
+      "end": 27.3
+    },
+    {
+      "word": "boost",
+      "start": 27.3,
+      "end": 27.64
+    },
+    {
+      "word": "pilot",
+      "start": 27.64,
+      "end": 28.0
+    },
+    {
+      "word": "conversions",
+      "start": 28.0,
+      "end": 28.52
+    },
+    {
+      "word": "dramatically.",
+      "start": 28.52,
+      "end": 29.18
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The fastest way to get enterprise trial users active within their first 48 hours.",
+      "line2": "RAPID SAAS ONBOARDING",
+      "tag": "\ud83d\uded1 Rapid customer onboarding checklist app for B2B SaaS pilots",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Rapid customer onboarding checklist app for B2B SaaS pilots",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Rapid customer onboarding checklist app for B2B SaaS pilots",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

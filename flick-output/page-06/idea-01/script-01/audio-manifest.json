@@ -1,0 +1,381 @@
+{
+  "page": "page-06",
+  "idea": "Async video updates that replace 30-minute daily standup meetings",
+  "text": "Why daily thirty-minute standup meetings are quietly destroying your remote team's productivity. Forcing twelve developers into a morning call breaks their deep focus before writing code. Engineers waste precious momentum waiting through irrelevant updates instead of solving complex architecture problems. Replace the call with sixty-second Loom updates linked directly to Linear issues in Slack. This routine recovers ten engineering hours weekly.",
+  "duration": 25.365,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Why",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "daily",
+      "start": 0.34,
+      "end": 0.64
+    },
+    {
+      "word": "30",
+      "start": 0.64,
+      "end": 0.9
+    },
+    {
+      "word": "-minute",
+      "start": 0.9,
+      "end": 1.16
+    },
+    {
+      "word": "stand",
+      "start": 1.16,
+      "end": 1.44
+    },
+    {
+      "word": "-up",
+      "start": 1.44,
+      "end": 1.6
+    },
+    {
+      "word": "meetings",
+      "start": 1.6,
+      "end": 1.88
+    },
+    {
+      "word": "are",
+      "start": 1.88,
+      "end": 2.16
+    },
+    {
+      "word": "quietly",
+      "start": 2.16,
+      "end": 2.5
+    },
+    {
+      "word": "destroying",
+      "start": 2.5,
+      "end": 3.0
+    },
+    {
+      "word": "your",
+      "start": 3.0,
+      "end": 3.38
+    },
+    {
+      "word": "remote",
+      "start": 3.38,
+      "end": 3.6
+    },
+    {
+      "word": "team's",
+      "start": 3.6,
+      "end": 4.38
+    },
+    {
+      "word": "productivity?",
+      "start": 4.38,
+      "end": 4.72
+    },
+    {
+      "word": "Forcing",
+      "start": 5.46,
+      "end": 5.68
+    },
+    {
+      "word": "12",
+      "start": 5.68,
+      "end": 6.02
+    },
+    {
+      "word": "developers",
+      "start": 6.02,
+      "end": 6.4
+    },
+    {
+      "word": "into",
+      "start": 6.4,
+      "end": 6.74
+    },
+    {
+      "word": "a",
+      "start": 6.74,
+      "end": 6.88
+    },
+    {
+      "word": "morning",
+      "start": 6.88,
+      "end": 7.1
+    },
+    {
+      "word": "call",
+      "start": 7.1,
+      "end": 7.6
+    },
+    {
+      "word": "breaks",
+      "start": 7.6,
+      "end": 8.0
+    },
+    {
+      "word": "their",
+      "start": 8.0,
+      "end": 8.26
+    },
+    {
+      "word": "deep",
+      "start": 8.26,
+      "end": 8.58
+    },
+    {
+      "word": "focus",
+      "start": 8.58,
+      "end": 8.88
+    },
+    {
+      "word": "before",
+      "start": 8.88,
+      "end": 9.22
+    },
+    {
+      "word": "writing",
+      "start": 9.22,
+      "end": 9.54
+    },
+    {
+      "word": "code.",
+      "start": 9.54,
+      "end": 10.1
+    },
+    {
+      "word": "Engineers",
+      "start": 10.52,
+      "end": 10.88
+    },
+    {
+      "word": "waste",
+      "start": 10.88,
+      "end": 11.38
+    },
+    {
+      "word": "precious",
+      "start": 11.38,
+      "end": 11.76
+    },
+    {
+      "word": "momentum",
+      "start": 11.76,
+      "end": 12.24
+    },
+    {
+      "word": "waiting",
+      "start": 12.24,
+      "end": 12.5
+    },
+    {
+      "word": "through",
+      "start": 12.5,
+      "end": 12.9
+    },
+    {
+      "word": "irrelevant",
+      "start": 12.9,
+      "end": 13.26
+    },
+    {
+      "word": "updates",
+      "start": 13.26,
+      "end": 13.74
+    },
+    {
+      "word": "instead",
+      "start": 13.74,
+      "end": 14.4
+    },
+    {
+      "word": "of",
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "word": "solving",
+      "start": 14.64,
+      "end": 14.9
+    },
+    {
+      "word": "complex",
+      "start": 14.9,
+      "end": 15.44
+    },
+    {
+      "word": "architecture",
+      "start": 15.44,
+      "end": 15.98
+    },
+    {
+      "word": "problems.",
+      "start": 15.98,
+      "end": 16.62
+    },
+    {
+      "word": "Replace",
+      "start": 17.2,
+      "end": 17.36
+    },
+    {
+      "word": "the",
+      "start": 17.36,
+      "end": 17.72
+    },
+    {
+      "word": "call",
+      "start": 17.72,
+      "end": 17.96
+    },
+    {
+      "word": "with",
+      "start": 17.96,
+      "end": 18.22
+    },
+    {
+      "word": "60",
+      "start": 18.22,
+      "end": 18.56
+    },
+    {
+      "word": "-second",
+      "start": 18.56,
+      "end": 18.86
+    },
+    {
+      "word": "loom",
+      "start": 18.86,
+      "end": 19.08
+    },
+    {
+      "word": "updates",
+      "start": 19.08,
+      "end": 19.4
+    },
+    {
+      "word": "linked",
+      "start": 19.4,
+      "end": 19.9
+    },
+    {
+      "word": "directly",
+      "start": 19.9,
+      "end": 20.28
+    },
+    {
+      "word": "to",
+      "start": 20.28,
+      "end": 20.58
+    },
+    {
+      "word": "linear",
+      "start": 20.58,
+      "end": 20.74
+    },
+    {
+      "word": "issues",
+      "start": 20.74,
+      "end": 21.12
+    },
+    {
+      "word": "in",
+      "start": 21.12,
+      "end": 21.48
+    },
+    {
+      "word": "Slack.",
+      "start": 21.48,
+      "end": 21.84
+    },
+    {
+      "word": "This",
+      "start": 22.36,
+      "end": 22.54
+    },
+    {
+      "word": "routine",
+      "start": 22.54,
+      "end": 23.02
+    },
+    {
+      "word": "recovers",
+      "start": 23.02,
+      "end": 23.42
+    },
+    {
+      "word": "10",
+      "start": 23.42,
+      "end": 23.92
+    },
+    {
+      "word": "engineering",
+      "start": 23.92,
+      "end": 24.5
+    },
+    {
+      "word": "hours",
+      "start": 24.5,
+      "end": 24.9
+    },
+    {
+      "word": "weekly.",
+      "start": 24.9,
+      "end": 25.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Why daily 30-minute standup meetings are destroying your remote team's productivity.",
+      "line2": "KILL 30-MIN STANDUPS",
+      "tag": "\ud83d\uded1 Async video updates that replace 30-minute daily standup meetings",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Async video updates that replace 30-minute daily standup meetings",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Async video updates that replace 30-minute daily standup meetings",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

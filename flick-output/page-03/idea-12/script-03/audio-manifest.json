@@ -1,0 +1,401 @@
+{
+  "page": "page-03",
+  "idea": "AI video script generator for Faceless YouTube channels",
+  "text": "The exact prompt formula that outputs viral educational scripts with strong hooks. Most AI-generated video scripts sound like robotic Wikipedia summaries that viewers swipe away from in three seconds. Generic prompts fail because they lack psychological pacing, tension builds, and clear audience problem solving. Instead, feed Claude a structured five-part storytelling prompt that enforces strict retention-driven sentence constraints. You generate binge-worthy shorts in minutes.",
+  "duration": 29.199,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "exact",
+      "start": 0.3,
+      "end": 0.7
+    },
+    {
+      "word": "prompt",
+      "start": 0.7,
+      "end": 1.04
+    },
+    {
+      "word": "formula",
+      "start": 1.04,
+      "end": 1.4
+    },
+    {
+      "word": "that",
+      "start": 1.4,
+      "end": 1.82
+    },
+    {
+      "word": "outputs",
+      "start": 1.82,
+      "end": 2.14
+    },
+    {
+      "word": "viral",
+      "start": 2.14,
+      "end": 2.68
+    },
+    {
+      "word": "educational",
+      "start": 2.68,
+      "end": 3.3
+    },
+    {
+      "word": "scripts",
+      "start": 3.3,
+      "end": 3.76
+    },
+    {
+      "word": "with",
+      "start": 3.76,
+      "end": 4.12
+    },
+    {
+      "word": "strong",
+      "start": 4.12,
+      "end": 4.5
+    },
+    {
+      "word": "hooks.",
+      "start": 4.5,
+      "end": 4.86
+    },
+    {
+      "word": "Most",
+      "start": 5.38,
+      "end": 5.68
+    },
+    {
+      "word": "AI",
+      "start": 5.68,
+      "end": 6.16
+    },
+    {
+      "word": "-generated",
+      "start": 6.16,
+      "end": 6.54
+    },
+    {
+      "word": "video",
+      "start": 6.54,
+      "end": 6.96
+    },
+    {
+      "word": "scripts",
+      "start": 6.96,
+      "end": 7.34
+    },
+    {
+      "word": "sound",
+      "start": 7.34,
+      "end": 7.66
+    },
+    {
+      "word": "like",
+      "start": 7.66,
+      "end": 7.9
+    },
+    {
+      "word": "robotic",
+      "start": 7.9,
+      "end": 8.46
+    },
+    {
+      "word": "Wikipedia",
+      "start": 8.46,
+      "end": 8.9
+    },
+    {
+      "word": "summaries",
+      "start": 8.9,
+      "end": 9.52
+    },
+    {
+      "word": "that",
+      "start": 9.52,
+      "end": 10.1
+    },
+    {
+      "word": "viewers",
+      "start": 10.1,
+      "end": 10.48
+    },
+    {
+      "word": "swipe",
+      "start": 10.48,
+      "end": 10.82
+    },
+    {
+      "word": "away",
+      "start": 10.82,
+      "end": 11.18
+    },
+    {
+      "word": "from",
+      "start": 11.18,
+      "end": 11.36
+    },
+    {
+      "word": "in",
+      "start": 11.36,
+      "end": 11.6
+    },
+    {
+      "word": "three",
+      "start": 11.6,
+      "end": 11.88
+    },
+    {
+      "word": "seconds.",
+      "start": 11.88,
+      "end": 12.32
+    },
+    {
+      "word": "Generic",
+      "start": 13.06,
+      "end": 13.06
+    },
+    {
+      "word": "prompts",
+      "start": 13.06,
+      "end": 13.42
+    },
+    {
+      "word": "fail",
+      "start": 13.42,
+      "end": 13.7
+    },
+    {
+      "word": "because",
+      "start": 13.7,
+      "end": 14.0
+    },
+    {
+      "word": "they",
+      "start": 14.0,
+      "end": 14.22
+    },
+    {
+      "word": "lack",
+      "start": 14.22,
+      "end": 14.5
+    },
+    {
+      "word": "psychological",
+      "start": 14.5,
+      "end": 15.12
+    },
+    {
+      "word": "pacing,",
+      "start": 15.12,
+      "end": 15.7
+    },
+    {
+      "word": "tension",
+      "start": 16.38,
+      "end": 16.38
+    },
+    {
+      "word": "builds,",
+      "start": 16.38,
+      "end": 16.74
+    },
+    {
+      "word": "and",
+      "start": 17.0,
+      "end": 17.26
+    },
+    {
+      "word": "clear",
+      "start": 17.26,
+      "end": 17.56
+    },
+    {
+      "word": "audience",
+      "start": 17.56,
+      "end": 17.94
+    },
+    {
+      "word": "problem",
+      "start": 17.94,
+      "end": 18.4
+    },
+    {
+      "word": "-solving.",
+      "start": 18.4,
+      "end": 18.76
+    },
+    {
+      "word": "Instead,",
+      "start": 19.5,
+      "end": 19.86
+    },
+    {
+      "word": "feed",
+      "start": 20.36,
+      "end": 20.6
+    },
+    {
+      "word": "claw",
+      "start": 20.6,
+      "end": 20.76
+    },
+    {
+      "word": "to",
+      "start": 20.76,
+      "end": 20.98
+    },
+    {
+      "word": "structured",
+      "start": 20.98,
+      "end": 21.38
+    },
+    {
+      "word": "five",
+      "start": 21.38,
+      "end": 21.76
+    },
+    {
+      "word": "-part",
+      "start": 21.76,
+      "end": 22.06
+    },
+    {
+      "word": "storytelling",
+      "start": 22.06,
+      "end": 22.56
+    },
+    {
+      "word": "prompt",
+      "start": 22.56,
+      "end": 23.16
+    },
+    {
+      "word": "that",
+      "start": 23.16,
+      "end": 23.4
+    },
+    {
+      "word": "enforces",
+      "start": 23.4,
+      "end": 23.9
+    },
+    {
+      "word": "strict",
+      "start": 23.9,
+      "end": 24.38
+    },
+    {
+      "word": "retention",
+      "start": 24.38,
+      "end": 24.88
+    },
+    {
+      "word": "-driven",
+      "start": 24.88,
+      "end": 25.24
+    },
+    {
+      "word": "sentence",
+      "start": 25.24,
+      "end": 25.7
+    },
+    {
+      "word": "constraints.",
+      "start": 25.7,
+      "end": 26.34
+    },
+    {
+      "word": "You",
+      "start": 26.34,
+      "end": 27.08
+    },
+    {
+      "word": "generate",
+      "start": 27.08,
+      "end": 27.48
+    },
+    {
+      "word": "binge",
+      "start": 27.48,
+      "end": 27.86
+    },
+    {
+      "word": "-worthy",
+      "start": 27.86,
+      "end": 28.16
+    },
+    {
+      "word": "shorts",
+      "start": 28.16,
+      "end": 28.58
+    },
+    {
+      "word": "in",
+      "start": 28.58,
+      "end": 28.82
+    },
+    {
+      "word": "minutes.",
+      "start": 28.82,
+      "end": 29.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The exact prompt formula that outputs viral educational scripts with strong hooks.",
+      "line2": "SCRIPT FACELESS VIDEOS",
+      "tag": "\ud83d\uded1 AI video script generator for Faceless YouTube channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: AI video script generator for Faceless YouTube channels",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: AI video script generator for Faceless YouTube channels",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "AI video script generator for Faceless YouTube channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

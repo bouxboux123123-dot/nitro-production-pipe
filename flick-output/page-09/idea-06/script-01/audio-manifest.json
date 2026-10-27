@@ -1,0 +1,386 @@
+{
+  "page": "page-09",
+  "idea": "Linear vs Jira: why modern engineering teams are ditching Atlassian",
+  "text": "Linear vs Jira: why every fast-moving tech company is leaving Jira behind. Product managers spend hours configuring complex Jira workflows while engineers avoid updating their tickets. Jira's bloated custom fields and slow load times turn sprint tracking into a bureaucratic bottleneck. Linear solves this using lightning-fast keyboard shortcuts, automated GitHub syncs, and clean weekly cycles. You eliminate administrative bloat and ship code faster.",
+  "duration": 28.517,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Linear",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "VS",
+      "start": 0.34,
+      "end": 1.02
+    },
+    {
+      "word": "Jira,",
+      "start": 1.02,
+      "end": 1.48
+    },
+    {
+      "word": "why",
+      "start": 1.9,
+      "end": 2.04
+    },
+    {
+      "word": "every",
+      "start": 2.04,
+      "end": 2.34
+    },
+    {
+      "word": "fast",
+      "start": 2.34,
+      "end": 2.7
+    },
+    {
+      "word": "-moving",
+      "start": 2.7,
+      "end": 3.04
+    },
+    {
+      "word": "tech",
+      "start": 3.04,
+      "end": 3.38
+    },
+    {
+      "word": "company",
+      "start": 3.38,
+      "end": 3.68
+    },
+    {
+      "word": "is",
+      "start": 3.68,
+      "end": 3.9
+    },
+    {
+      "word": "leaving",
+      "start": 3.9,
+      "end": 4.26
+    },
+    {
+      "word": "Jira",
+      "start": 4.26,
+      "end": 4.6
+    },
+    {
+      "word": "behind.",
+      "start": 4.6,
+      "end": 5.14
+    },
+    {
+      "word": "Product",
+      "start": 6.1,
+      "end": 6.14
+    },
+    {
+      "word": "managers",
+      "start": 6.14,
+      "end": 6.54
+    },
+    {
+      "word": "spend",
+      "start": 6.54,
+      "end": 7.04
+    },
+    {
+      "word": "hours",
+      "start": 7.04,
+      "end": 7.46
+    },
+    {
+      "word": "configuring",
+      "start": 7.46,
+      "end": 8.14
+    },
+    {
+      "word": "complex",
+      "start": 8.14,
+      "end": 8.72
+    },
+    {
+      "word": "Jira",
+      "start": 8.72,
+      "end": 9.06
+    },
+    {
+      "word": "workflows",
+      "start": 9.06,
+      "end": 9.64
+    },
+    {
+      "word": "while",
+      "start": 9.64,
+      "end": 10.16
+    },
+    {
+      "word": "engineers",
+      "start": 10.16,
+      "end": 10.62
+    },
+    {
+      "word": "avoid",
+      "start": 10.62,
+      "end": 11.08
+    },
+    {
+      "word": "updating",
+      "start": 11.08,
+      "end": 11.48
+    },
+    {
+      "word": "their",
+      "start": 11.48,
+      "end": 11.84
+    },
+    {
+      "word": "tickets.",
+      "start": 11.84,
+      "end": 12.22
+    },
+    {
+      "word": "Jira's",
+      "start": 12.62,
+      "end": 13.38
+    },
+    {
+      "word": "bloated",
+      "start": 13.38,
+      "end": 13.4
+    },
+    {
+      "word": "custom",
+      "start": 13.4,
+      "end": 13.8
+    },
+    {
+      "word": "fields",
+      "start": 13.8,
+      "end": 14.18
+    },
+    {
+      "word": "and",
+      "start": 14.18,
+      "end": 14.48
+    },
+    {
+      "word": "slow",
+      "start": 14.48,
+      "end": 14.7
+    },
+    {
+      "word": "load",
+      "start": 14.7,
+      "end": 14.98
+    },
+    {
+      "word": "times",
+      "start": 14.98,
+      "end": 15.34
+    },
+    {
+      "word": "turn",
+      "start": 15.34,
+      "end": 15.78
+    },
+    {
+      "word": "sprint",
+      "start": 15.78,
+      "end": 16.08
+    },
+    {
+      "word": "tracking",
+      "start": 16.08,
+      "end": 16.38
+    },
+    {
+      "word": "into",
+      "start": 16.38,
+      "end": 16.66
+    },
+    {
+      "word": "a",
+      "start": 16.66,
+      "end": 16.82
+    },
+    {
+      "word": "bureaucratic",
+      "start": 16.82,
+      "end": 17.22
+    },
+    {
+      "word": "bottleneck.",
+      "start": 17.22,
+      "end": 17.92
+    },
+    {
+      "word": "Linear",
+      "start": 18.78,
+      "end": 18.9
+    },
+    {
+      "word": "solves",
+      "start": 18.9,
+      "end": 19.34
+    },
+    {
+      "word": "this",
+      "start": 19.34,
+      "end": 19.7
+    },
+    {
+      "word": "using",
+      "start": 19.7,
+      "end": 20.02
+    },
+    {
+      "word": "lightning",
+      "start": 20.02,
+      "end": 20.4
+    },
+    {
+      "word": "-fast",
+      "start": 20.4,
+      "end": 20.82
+    },
+    {
+      "word": "keyboard",
+      "start": 20.82,
+      "end": 21.14
+    },
+    {
+      "word": "shortcuts,",
+      "start": 21.14,
+      "end": 21.8
+    },
+    {
+      "word": "automated",
+      "start": 22.56,
+      "end": 22.56
+    },
+    {
+      "word": "GitHub",
+      "start": 22.56,
+      "end": 22.96
+    },
+    {
+      "word": "syncs,",
+      "start": 22.96,
+      "end": 23.44
+    },
+    {
+      "word": "and",
+      "start": 23.68,
+      "end": 23.88
+    },
+    {
+      "word": "clean",
+      "start": 23.88,
+      "end": 24.2
+    },
+    {
+      "word": "weekly",
+      "start": 24.2,
+      "end": 24.48
+    },
+    {
+      "word": "cycles.",
+      "start": 24.48,
+      "end": 24.96
+    },
+    {
+      "word": "You",
+      "start": 24.96,
+      "end": 25.7
+    },
+    {
+      "word": "eliminate",
+      "start": 25.7,
+      "end": 26.14
+    },
+    {
+      "word": "administrative",
+      "start": 26.14,
+      "end": 26.82
+    },
+    {
+      "word": "bloat",
+      "start": 26.82,
+      "end": 27.26
+    },
+    {
+      "word": "and",
+      "start": 27.26,
+      "end": 27.48
+    },
+    {
+      "word": "ship",
+      "start": 27.48,
+      "end": 27.72
+    },
+    {
+      "word": "code",
+      "start": 27.72,
+      "end": 28.02
+    },
+    {
+      "word": "faster.",
+      "start": 28.02,
+      "end": 28.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Linear vs Jira: why every fast-moving tech company is leaving Jira behind.",
+      "line2": "LINEAR VS JIRA",
+      "tag": "\ud83d\uded1 Linear vs Jira",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Linear vs Jira",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Linear vs Jira",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Linear vs Jira",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

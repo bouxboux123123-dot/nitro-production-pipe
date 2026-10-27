@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "AI meeting recording summarizer that pushes key decisions to Notion",
+  "text": "Stop forcing one team member to take manual notes during every remote company meeting. Designated note-takers miss critical discussions because they are frantically typing instead of actively participating. Human notes frequently skip key action items, causing project deadlines to slip without anyone noticing. Connect Fathom or Fireflies to Zoom to automatically extract action items and sync summaries directly to Notion. Everyone stays fully engaged while capturing perfect documentation.",
+  "duration": 30.181,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "forcing",
+      "start": 0.44,
+      "end": 0.76
+    },
+    {
+      "word": "one",
+      "start": 0.76,
+      "end": 1.14
+    },
+    {
+      "word": "team",
+      "start": 1.14,
+      "end": 1.36
+    },
+    {
+      "word": "member",
+      "start": 1.36,
+      "end": 1.64
+    },
+    {
+      "word": "to",
+      "start": 1.64,
+      "end": 1.78
+    },
+    {
+      "word": "take",
+      "start": 1.78,
+      "end": 2.1
+    },
+    {
+      "word": "manual",
+      "start": 2.1,
+      "end": 2.48
+    },
+    {
+      "word": "notes",
+      "start": 2.48,
+      "end": 2.9
+    },
+    {
+      "word": "during",
+      "start": 2.9,
+      "end": 3.28
+    },
+    {
+      "word": "every",
+      "start": 3.28,
+      "end": 3.64
+    },
+    {
+      "word": "remote",
+      "start": 3.64,
+      "end": 3.94
+    },
+    {
+      "word": "company",
+      "start": 3.94,
+      "end": 4.34
+    },
+    {
+      "word": "meeting.",
+      "start": 4.34,
+      "end": 5.04
+    },
+    {
+      "word": "Designated",
+      "start": 5.64,
+      "end": 6.0
+    },
+    {
+      "word": "note",
+      "start": 6.0,
+      "end": 6.34
+    },
+    {
+      "word": "takers",
+      "start": 6.34,
+      "end": 6.7
+    },
+    {
+      "word": "miss",
+      "start": 6.7,
+      "end": 7.12
+    },
+    {
+      "word": "critical",
+      "start": 7.12,
+      "end": 7.5
+    },
+    {
+      "word": "discussions",
+      "start": 7.5,
+      "end": 8.12
+    },
+    {
+      "word": "because",
+      "start": 8.12,
+      "end": 8.76
+    },
+    {
+      "word": "they",
+      "start": 8.76,
+      "end": 8.96
+    },
+    {
+      "word": "are",
+      "start": 8.96,
+      "end": 9.16
+    },
+    {
+      "word": "frantically",
+      "start": 9.16,
+      "end": 9.64
+    },
+    {
+      "word": "typing",
+      "start": 9.64,
+      "end": 10.16
+    },
+    {
+      "word": "instead",
+      "start": 10.16,
+      "end": 10.64
+    },
+    {
+      "word": "of",
+      "start": 10.64,
+      "end": 11.14
+    },
+    {
+      "word": "actively",
+      "start": 11.14,
+      "end": 11.3
+    },
+    {
+      "word": "participating.",
+      "start": 11.3,
+      "end": 11.98
+    },
+    {
+      "word": "Human",
+      "start": 12.56,
+      "end": 12.7
+    },
+    {
+      "word": "notes",
+      "start": 12.7,
+      "end": 13.08
+    },
+    {
+      "word": "frequently",
+      "start": 13.08,
+      "end": 13.58
+    },
+    {
+      "word": "skip",
+      "start": 13.58,
+      "end": 13.82
+    },
+    {
+      "word": "key",
+      "start": 13.82,
+      "end": 14.24
+    },
+    {
+      "word": "action",
+      "start": 14.24,
+      "end": 14.5
+    },
+    {
+      "word": "items,",
+      "start": 14.5,
+      "end": 14.94
+    },
+    {
+      "word": "causing",
+      "start": 15.66,
+      "end": 15.68
+    },
+    {
+      "word": "project",
+      "start": 15.68,
+      "end": 16.18
+    },
+    {
+      "word": "deadlines",
+      "start": 16.18,
+      "end": 16.54
+    },
+    {
+      "word": "to",
+      "start": 16.54,
+      "end": 16.92
+    },
+    {
+      "word": "slip",
+      "start": 16.92,
+      "end": 17.16
+    },
+    {
+      "word": "without",
+      "start": 17.16,
+      "end": 17.54
+    },
+    {
+      "word": "anyone",
+      "start": 17.54,
+      "end": 17.94
+    },
+    {
+      "word": "noticing.",
+      "start": 17.94,
+      "end": 18.46
+    },
+    {
+      "word": "Connect",
+      "start": 19.48,
+      "end": 19.5
+    },
+    {
+      "word": "fathom",
+      "start": 19.5,
+      "end": 19.84
+    },
+    {
+      "word": "or",
+      "start": 19.84,
+      "end": 20.2
+    },
+    {
+      "word": "fireflies",
+      "start": 20.2,
+      "end": 20.8
+    },
+    {
+      "word": "to",
+      "start": 20.8,
+      "end": 21.0
+    },
+    {
+      "word": "zoom",
+      "start": 21.0,
+      "end": 21.24
+    },
+    {
+      "word": "to",
+      "start": 21.24,
+      "end": 21.6
+    },
+    {
+      "word": "automatically",
+      "start": 21.6,
+      "end": 22.02
+    },
+    {
+      "word": "extract",
+      "start": 22.02,
+      "end": 22.64
+    },
+    {
+      "word": "action",
+      "start": 22.64,
+      "end": 23.02
+    },
+    {
+      "word": "items",
+      "start": 23.02,
+      "end": 23.38
+    },
+    {
+      "word": "and",
+      "start": 23.38,
+      "end": 23.96
+    },
+    {
+      "word": "sync",
+      "start": 23.96,
+      "end": 24.26
+    },
+    {
+      "word": "summaries",
+      "start": 24.26,
+      "end": 24.72
+    },
+    {
+      "word": "directly",
+      "start": 24.72,
+      "end": 25.18
+    },
+    {
+      "word": "to",
+      "start": 25.18,
+      "end": 25.44
+    },
+    {
+      "word": "notion.",
+      "start": 25.44,
+      "end": 25.9
+    },
+    {
+      "word": "Everyone",
+      "start": 26.46,
+      "end": 26.74
+    },
+    {
+      "word": "stays",
+      "start": 26.74,
+      "end": 27.24
+    },
+    {
+      "word": "fully",
+      "start": 27.24,
+      "end": 27.5
+    },
+    {
+      "word": "engaged",
+      "start": 27.5,
+      "end": 28.0
+    },
+    {
+      "word": "while",
+      "start": 28.0,
+      "end": 28.26
+    },
+    {
+      "word": "capturing",
+      "start": 28.26,
+      "end": 28.8
+    },
+    {
+      "word": "perfect",
+      "start": 28.8,
+      "end": 29.28
+    },
+    {
+      "word": "documentation.",
+      "start": 29.28,
+      "end": 29.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop making one team member take manual notes during remote company meetings.",
+      "line2": "PUSH DECISIONS TO NOTION",
+      "tag": "\ud83d\uded1 AI meeting recording summarizer that pushes key decisions to Notion",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: AI meeting recording summarizer that pushes key decisions to Notion",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: AI meeting recording summarizer that pushes key decisions to Notion",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

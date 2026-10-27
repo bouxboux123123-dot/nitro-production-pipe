@@ -1,0 +1,426 @@
+{
+  "page": "page-01",
+  "idea": "SOP delegation framework: how to turn tasks into foolproof video guides",
+  "text": "How to record instructions once so contractors execute deliverables with zero mistakes. Agency owners waste fifteen hours weekly re-explaining the same creative workflows and reviewing flawed client submissions. Text-heavy manuals rarely get read, leading to repetitive contractor errors and ruined client delivery deadlines. Run an SOP audit using Tango and Loom to turn screen recordings into automated, interactive ClickUp checklists instantly. Your team executes client work flawlessly without asking questions.",
+  "duration": 31.546,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "to",
+      "start": 0.28,
+      "end": 0.38
+    },
+    {
+      "word": "record",
+      "start": 0.38,
+      "end": 0.62
+    },
+    {
+      "word": "instructions",
+      "start": 0.62,
+      "end": 1.26
+    },
+    {
+      "word": "once",
+      "start": 1.26,
+      "end": 1.62
+    },
+    {
+      "word": "so",
+      "start": 1.62,
+      "end": 1.92
+    },
+    {
+      "word": "contractors",
+      "start": 1.92,
+      "end": 2.4
+    },
+    {
+      "word": "execute",
+      "start": 2.4,
+      "end": 3.02
+    },
+    {
+      "word": "deliverables",
+      "start": 3.02,
+      "end": 3.6
+    },
+    {
+      "word": "with",
+      "start": 3.6,
+      "end": 3.92
+    },
+    {
+      "word": "zero",
+      "start": 3.92,
+      "end": 4.3
+    },
+    {
+      "word": "mistakes.",
+      "start": 4.3,
+      "end": 5.04
+    },
+    {
+      "word": "Agency",
+      "start": 5.84,
+      "end": 5.9
+    },
+    {
+      "word": "owners",
+      "start": 5.9,
+      "end": 6.36
+    },
+    {
+      "word": "waste",
+      "start": 6.36,
+      "end": 6.72
+    },
+    {
+      "word": "15",
+      "start": 6.72,
+      "end": 7.18
+    },
+    {
+      "word": "hours",
+      "start": 7.18,
+      "end": 7.56
+    },
+    {
+      "word": "weekly",
+      "start": 7.56,
+      "end": 8.08
+    },
+    {
+      "word": "re",
+      "start": 8.08,
+      "end": 8.22
+    },
+    {
+      "word": "-explaining",
+      "start": 8.22,
+      "end": 8.68
+    },
+    {
+      "word": "the",
+      "start": 8.68,
+      "end": 8.96
+    },
+    {
+      "word": "same",
+      "start": 8.96,
+      "end": 9.22
+    },
+    {
+      "word": "creative",
+      "start": 9.22,
+      "end": 9.66
+    },
+    {
+      "word": "workflows",
+      "start": 9.66,
+      "end": 10.24
+    },
+    {
+      "word": "and",
+      "start": 10.24,
+      "end": 10.8
+    },
+    {
+      "word": "reviewing",
+      "start": 10.8,
+      "end": 11.16
+    },
+    {
+      "word": "flawed",
+      "start": 11.16,
+      "end": 11.62
+    },
+    {
+      "word": "client",
+      "start": 11.62,
+      "end": 12.0
+    },
+    {
+      "word": "submissions.",
+      "start": 12.0,
+      "end": 12.58
+    },
+    {
+      "word": "Text",
+      "start": 13.2,
+      "end": 13.24
+    },
+    {
+      "word": "heavy",
+      "start": 13.24,
+      "end": 13.52
+    },
+    {
+      "word": "manuals",
+      "start": 13.52,
+      "end": 13.96
+    },
+    {
+      "word": "rarely",
+      "start": 13.96,
+      "end": 14.3
+    },
+    {
+      "word": "get",
+      "start": 14.3,
+      "end": 14.62
+    },
+    {
+      "word": "read,",
+      "start": 14.62,
+      "end": 15.04
+    },
+    {
+      "word": "leading",
+      "start": 15.44,
+      "end": 15.44
+    },
+    {
+      "word": "to",
+      "start": 15.44,
+      "end": 15.74
+    },
+    {
+      "word": "repetitive",
+      "start": 15.74,
+      "end": 16.18
+    },
+    {
+      "word": "contractor",
+      "start": 16.18,
+      "end": 16.82
+    },
+    {
+      "word": "errors",
+      "start": 16.82,
+      "end": 17.16
+    },
+    {
+      "word": "and",
+      "start": 17.16,
+      "end": 17.52
+    },
+    {
+      "word": "ruined",
+      "start": 17.52,
+      "end": 17.86
+    },
+    {
+      "word": "client",
+      "start": 17.86,
+      "end": 18.3
+    },
+    {
+      "word": "delivery",
+      "start": 18.3,
+      "end": 18.62
+    },
+    {
+      "word": "deadlines.",
+      "start": 18.62,
+      "end": 19.16
+    },
+    {
+      "word": "Run",
+      "start": 19.82,
+      "end": 20.06
+    },
+    {
+      "word": "an",
+      "start": 20.06,
+      "end": 20.32
+    },
+    {
+      "word": "SOP",
+      "start": 20.32,
+      "end": 20.8
+    },
+    {
+      "word": "audit",
+      "start": 20.8,
+      "end": 21.06
+    },
+    {
+      "word": "using",
+      "start": 21.06,
+      "end": 21.44
+    },
+    {
+      "word": "Tango",
+      "start": 21.44,
+      "end": 21.8
+    },
+    {
+      "word": "and",
+      "start": 21.8,
+      "end": 22.1
+    },
+    {
+      "word": "Loom",
+      "start": 22.1,
+      "end": 22.44
+    },
+    {
+      "word": "to",
+      "start": 22.44,
+      "end": 22.78
+    },
+    {
+      "word": "turn",
+      "start": 22.78,
+      "end": 23.1
+    },
+    {
+      "word": "screen",
+      "start": 23.1,
+      "end": 23.4
+    },
+    {
+      "word": "recordings",
+      "start": 23.4,
+      "end": 23.9
+    },
+    {
+      "word": "into",
+      "start": 23.9,
+      "end": 24.26
+    },
+    {
+      "word": "automated,",
+      "start": 24.26,
+      "end": 24.84
+    },
+    {
+      "word": "interactive",
+      "start": 25.18,
+      "end": 25.58
+    },
+    {
+      "word": "click",
+      "start": 25.58,
+      "end": 25.88
+    },
+    {
+      "word": "-up",
+      "start": 25.88,
+      "end": 26.08
+    },
+    {
+      "word": "checklists",
+      "start": 26.08,
+      "end": 26.56
+    },
+    {
+      "word": "instantly.",
+      "start": 26.56,
+      "end": 27.16
+    },
+    {
+      "word": "Your",
+      "start": 27.59,
+      "end": 28.0
+    },
+    {
+      "word": "team",
+      "start": 28.0,
+      "end": 28.34
+    },
+    {
+      "word": "executes",
+      "start": 28.34,
+      "end": 28.84
+    },
+    {
+      "word": "client",
+      "start": 28.84,
+      "end": 29.28
+    },
+    {
+      "word": "work",
+      "start": 29.28,
+      "end": 29.62
+    },
+    {
+      "word": "flawlessly",
+      "start": 29.62,
+      "end": 30.16
+    },
+    {
+      "word": "without",
+      "start": 30.16,
+      "end": 30.52
+    },
+    {
+      "word": "asking",
+      "start": 30.52,
+      "end": 30.9
+    },
+    {
+      "word": "questions.",
+      "start": 30.9,
+      "end": 31.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How to record instructions once so contractors execute deliverables with zero mistakes.",
+      "line2": "FOOLPROOF VIDEO SOPS",
+      "tag": "\ud83d\uded1 SOP delegation framework",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: SOP delegation framework",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: SOP delegation framework",
+        "subtitle": "SOP delegation framework"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "SOP delegation framework"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "SOP delegation framework"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "SOP delegation framework",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

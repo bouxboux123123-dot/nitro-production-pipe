@@ -1,0 +1,411 @@
+{
+  "page": "page-09",
+  "idea": "Midjourney vs Flux: which AI image model generates better marketing visuals",
+  "text": "Why is open-source Flux suddenly challenging Midjourney's dominance in generative AI art? Midjourney seemed untouchable, but keeping image generation behind proprietary servers created strict commercial limitations. Design teams hit walls whenever Discord queues throttled renders or shifted character consistency between campaign assets. Flux offers twelve-billion-parameter open weights, enabling custom LoRA fine-tuning and local GPU batch generation. You own your entire production pipeline without monthly caps.",
+  "duration": 32.847,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Why",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "is",
+      "start": 0.3,
+      "end": 0.52
+    },
+    {
+      "word": "open",
+      "start": 0.52,
+      "end": 0.88
+    },
+    {
+      "word": "source",
+      "start": 0.88,
+      "end": 1.24
+    },
+    {
+      "word": "flux",
+      "start": 1.24,
+      "end": 1.62
+    },
+    {
+      "word": "suddenly",
+      "start": 1.62,
+      "end": 2.04
+    },
+    {
+      "word": "challenging",
+      "start": 2.04,
+      "end": 2.6
+    },
+    {
+      "word": "midjourneys",
+      "start": 2.6,
+      "end": 3.1
+    },
+    {
+      "word": "dominance",
+      "start": 3.1,
+      "end": 3.56
+    },
+    {
+      "word": "in",
+      "start": 3.56,
+      "end": 3.92
+    },
+    {
+      "word": "generative",
+      "start": 3.92,
+      "end": 4.46
+    },
+    {
+      "word": "AI",
+      "start": 4.46,
+      "end": 5.0
+    },
+    {
+      "word": "art?",
+      "start": 5.0,
+      "end": 5.62
+    },
+    {
+      "word": "Midjourneys",
+      "start": 5.9,
+      "end": 6.4
+    },
+    {
+      "word": "seemed",
+      "start": 6.4,
+      "end": 6.78
+    },
+    {
+      "word": "untouchable,",
+      "start": 6.78,
+      "end": 7.54
+    },
+    {
+      "word": "but",
+      "start": 7.9,
+      "end": 8.0
+    },
+    {
+      "word": "keeping",
+      "start": 8.0,
+      "end": 8.36
+    },
+    {
+      "word": "image",
+      "start": 8.36,
+      "end": 8.72
+    },
+    {
+      "word": "generation",
+      "start": 8.72,
+      "end": 9.32
+    },
+    {
+      "word": "behind",
+      "start": 9.32,
+      "end": 9.74
+    },
+    {
+      "word": "proprietary",
+      "start": 9.74,
+      "end": 10.28
+    },
+    {
+      "word": "servers",
+      "start": 10.28,
+      "end": 10.84
+    },
+    {
+      "word": "created",
+      "start": 10.84,
+      "end": 11.48
+    },
+    {
+      "word": "strict",
+      "start": 11.48,
+      "end": 11.86
+    },
+    {
+      "word": "commercial",
+      "start": 11.86,
+      "end": 12.36
+    },
+    {
+      "word": "limitations.",
+      "start": 12.36,
+      "end": 13.06
+    },
+    {
+      "word": "Design",
+      "start": 13.82,
+      "end": 13.82
+    },
+    {
+      "word": "teams",
+      "start": 13.82,
+      "end": 14.16
+    },
+    {
+      "word": "hit",
+      "start": 14.16,
+      "end": 14.46
+    },
+    {
+      "word": "walls",
+      "start": 14.46,
+      "end": 14.84
+    },
+    {
+      "word": "whenever",
+      "start": 14.84,
+      "end": 15.16
+    },
+    {
+      "word": "discord",
+      "start": 15.16,
+      "end": 15.54
+    },
+    {
+      "word": "cues",
+      "start": 15.54,
+      "end": 16.02
+    },
+    {
+      "word": "throttled",
+      "start": 16.02,
+      "end": 16.42
+    },
+    {
+      "word": "renders",
+      "start": 16.42,
+      "end": 16.8
+    },
+    {
+      "word": "or",
+      "start": 16.8,
+      "end": 17.48
+    },
+    {
+      "word": "shifted",
+      "start": 17.48,
+      "end": 17.78
+    },
+    {
+      "word": "character",
+      "start": 17.78,
+      "end": 18.32
+    },
+    {
+      "word": "consistency",
+      "start": 18.32,
+      "end": 18.9
+    },
+    {
+      "word": "between",
+      "start": 18.9,
+      "end": 19.58
+    },
+    {
+      "word": "campaign",
+      "start": 19.58,
+      "end": 20.1
+    },
+    {
+      "word": "assets.",
+      "start": 20.1,
+      "end": 20.72
+    },
+    {
+      "word": "Flux",
+      "start": 21.32,
+      "end": 21.54
+    },
+    {
+      "word": "offers",
+      "start": 21.54,
+      "end": 21.96
+    },
+    {
+      "word": "12",
+      "start": 21.96,
+      "end": 22.44
+    },
+    {
+      "word": "billion",
+      "start": 22.44,
+      "end": 22.72
+    },
+    {
+      "word": "parameter",
+      "start": 22.72,
+      "end": 23.24
+    },
+    {
+      "word": "open",
+      "start": 23.24,
+      "end": 23.64
+    },
+    {
+      "word": "weights,",
+      "start": 23.64,
+      "end": 24.14
+    },
+    {
+      "word": "enabling",
+      "start": 24.62,
+      "end": 24.8
+    },
+    {
+      "word": "custom",
+      "start": 24.8,
+      "end": 25.26
+    },
+    {
+      "word": "low",
+      "start": 25.26,
+      "end": 25.64
+    },
+    {
+      "word": "RA",
+      "start": 25.64,
+      "end": 25.96
+    },
+    {
+      "word": "fine",
+      "start": 25.96,
+      "end": 26.42
+    },
+    {
+      "word": "tuning",
+      "start": 26.42,
+      "end": 26.68
+    },
+    {
+      "word": "and",
+      "start": 26.68,
+      "end": 27.14
+    },
+    {
+      "word": "local",
+      "start": 27.14,
+      "end": 27.44
+    },
+    {
+      "word": "GPU",
+      "start": 27.44,
+      "end": 27.9
+    },
+    {
+      "word": "batch",
+      "start": 27.9,
+      "end": 28.38
+    },
+    {
+      "word": "generation.",
+      "start": 28.38,
+      "end": 28.98
+    },
+    {
+      "word": "You",
+      "start": 29.34,
+      "end": 29.72
+    },
+    {
+      "word": "own",
+      "start": 29.72,
+      "end": 29.92
+    },
+    {
+      "word": "your",
+      "start": 29.92,
+      "end": 30.24
+    },
+    {
+      "word": "entire",
+      "start": 30.24,
+      "end": 30.58
+    },
+    {
+      "word": "production",
+      "start": 30.58,
+      "end": 31.08
+    },
+    {
+      "word": "pipeline",
+      "start": 31.08,
+      "end": 31.54
+    },
+    {
+      "word": "without",
+      "start": 31.54,
+      "end": 32.0
+    },
+    {
+      "word": "monthly",
+      "start": 32.0,
+      "end": 32.4
+    },
+    {
+      "word": "caps.",
+      "start": 32.4,
+      "end": 32.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why open-source Flux is challenging Midjourney's long-held dominance in AI art.",
+      "line2": "MIDJOURNEY VS FLUX",
+      "tag": "\ud83d\uded1 Midjourney vs Flux",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Midjourney vs Flux",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Midjourney vs Flux",
+        "subtitle": "Midjourney vs Flux"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Midjourney vs Flux"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Midjourney vs Flux"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Midjourney vs Flux",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

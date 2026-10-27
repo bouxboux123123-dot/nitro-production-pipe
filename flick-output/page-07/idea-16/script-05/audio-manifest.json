@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "Automated SEO programmatic page generator for startup growth",
+  "text": "Scale your startup's organic customer acquisition without writing individual blog articles. Early-stage teams bleed capital on ads because their domain ranks for zero Google keywords. Relying solely on paid channels creates fragile customer acquisition that collapses the second ad spend pauses. Build a structured directory in Airtable and deploy it via Nextjs to rank for thousands of search terms. You drive consistent inbound signups twenty-four seven.",
+  "duration": 26.197,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "scale",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "your",
+      "start": 0.26,
+      "end": 0.5
+    },
+    {
+      "word": "startups",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "organic",
+      "start": 0.8,
+      "end": 1.36
+    },
+    {
+      "word": "customer",
+      "start": 1.36,
+      "end": 1.8
+    },
+    {
+      "word": "acquisition",
+      "start": 1.8,
+      "end": 2.32
+    },
+    {
+      "word": "without",
+      "start": 2.32,
+      "end": 2.94
+    },
+    {
+      "word": "writing",
+      "start": 2.94,
+      "end": 3.24
+    },
+    {
+      "word": "individual",
+      "start": 3.24,
+      "end": 3.74
+    },
+    {
+      "word": "blog",
+      "start": 3.74,
+      "end": 4.12
+    },
+    {
+      "word": "articles.",
+      "start": 4.12,
+      "end": 4.64
+    },
+    {
+      "word": "Early",
+      "start": 5.4,
+      "end": 5.44
+    },
+    {
+      "word": "stage",
+      "start": 5.44,
+      "end": 5.78
+    },
+    {
+      "word": "teams",
+      "start": 5.78,
+      "end": 6.16
+    },
+    {
+      "word": "bleed",
+      "start": 6.16,
+      "end": 6.56
+    },
+    {
+      "word": "capital",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "word": "on",
+      "start": 6.88,
+      "end": 7.14
+    },
+    {
+      "word": "ads",
+      "start": 7.14,
+      "end": 7.36
+    },
+    {
+      "word": "because",
+      "start": 7.36,
+      "end": 7.7
+    },
+    {
+      "word": "their",
+      "start": 7.7,
+      "end": 7.92
+    },
+    {
+      "word": "domain",
+      "start": 7.92,
+      "end": 8.2
+    },
+    {
+      "word": "ranks",
+      "start": 8.2,
+      "end": 8.52
+    },
+    {
+      "word": "for",
+      "start": 8.52,
+      "end": 8.78
+    },
+    {
+      "word": "zero",
+      "start": 8.78,
+      "end": 9.12
+    },
+    {
+      "word": "Google",
+      "start": 9.12,
+      "end": 9.46
+    },
+    {
+      "word": "keywords.",
+      "start": 9.46,
+      "end": 9.96
+    },
+    {
+      "word": "Relying",
+      "start": 10.56,
+      "end": 10.94
+    },
+    {
+      "word": "solely",
+      "start": 10.94,
+      "end": 11.3
+    },
+    {
+      "word": "on",
+      "start": 11.3,
+      "end": 11.54
+    },
+    {
+      "word": "paid",
+      "start": 11.54,
+      "end": 11.78
+    },
+    {
+      "word": "channels",
+      "start": 11.78,
+      "end": 12.14
+    },
+    {
+      "word": "creates",
+      "start": 12.14,
+      "end": 12.7
+    },
+    {
+      "word": "fragile",
+      "start": 12.7,
+      "end": 13.12
+    },
+    {
+      "word": "customer",
+      "start": 13.12,
+      "end": 13.54
+    },
+    {
+      "word": "acquisition",
+      "start": 13.54,
+      "end": 14.1
+    },
+    {
+      "word": "that",
+      "start": 14.1,
+      "end": 14.66
+    },
+    {
+      "word": "collapses",
+      "start": 14.66,
+      "end": 14.96
+    },
+    {
+      "word": "the",
+      "start": 14.96,
+      "end": 15.34
+    },
+    {
+      "word": "second",
+      "start": 15.34,
+      "end": 15.64
+    },
+    {
+      "word": "ad",
+      "start": 15.64,
+      "end": 15.98
+    },
+    {
+      "word": "spend",
+      "start": 15.98,
+      "end": 16.2
+    },
+    {
+      "word": "pauses.",
+      "start": 16.2,
+      "end": 16.64
+    },
+    {
+      "word": "Build",
+      "start": 17.3,
+      "end": 17.36
+    },
+    {
+      "word": "a",
+      "start": 17.36,
+      "end": 17.58
+    },
+    {
+      "word": "structured",
+      "start": 17.58,
+      "end": 17.94
+    },
+    {
+      "word": "directory",
+      "start": 17.94,
+      "end": 18.46
+    },
+    {
+      "word": "in",
+      "start": 18.46,
+      "end": 18.68
+    },
+    {
+      "word": "Airtable",
+      "start": 18.68,
+      "end": 19.06
+    },
+    {
+      "word": "and",
+      "start": 19.06,
+      "end": 19.54
+    },
+    {
+      "word": "deploy",
+      "start": 19.54,
+      "end": 19.76
+    },
+    {
+      "word": "it",
+      "start": 19.76,
+      "end": 19.98
+    },
+    {
+      "word": "via",
+      "start": 19.98,
+      "end": 20.22
+    },
+    {
+      "word": "next",
+      "start": 20.22,
+      "end": 20.54
+    },
+    {
+      "word": "to",
+      "start": 20.54,
+      "end": 20.8
+    },
+    {
+      "word": "rank",
+      "start": 20.8,
+      "end": 20.98
+    },
+    {
+      "word": "for",
+      "start": 20.98,
+      "end": 21.26
+    },
+    {
+      "word": "thousands",
+      "start": 21.26,
+      "end": 21.6
+    },
+    {
+      "word": "of",
+      "start": 21.6,
+      "end": 21.92
+    },
+    {
+      "word": "search",
+      "start": 21.92,
+      "end": 22.08
+    },
+    {
+      "word": "terms.",
+      "start": 22.08,
+      "end": 22.52
+    },
+    {
+      "word": "You",
+      "start": 23.06,
+      "end": 23.2
+    },
+    {
+      "word": "drive",
+      "start": 23.2,
+      "end": 23.5
+    },
+    {
+      "word": "consistent",
+      "start": 23.5,
+      "end": 24.12
+    },
+    {
+      "word": "inbound",
+      "start": 24.12,
+      "end": 24.76
+    },
+    {
+      "word": "signups",
+      "start": 24.76,
+      "end": 25.18
+    },
+    {
+      "word": "24",
+      "start": 25.18,
+      "end": 25.66
+    },
+    {
+      "word": ".7.",
+      "start": 25.66,
+      "end": 26.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Scale your startup's organic customer acquisition effortlessly.",
+      "line2": "PROGRAMMATIC SEO PAGES",
+      "tag": "\ud83d\uded1 Automated SEO programmatic page generator for startup growth",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SEO programmatic page generator for startup growth",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

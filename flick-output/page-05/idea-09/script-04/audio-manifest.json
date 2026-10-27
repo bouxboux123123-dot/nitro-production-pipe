@@ -1,0 +1,406 @@
+{
+  "page": "page-05",
+  "idea": "Automated contract signing flow using DocuSign API and Zapier",
+  "text": "Connect proposal acceptance to instant contract delivery with zero code. Founders lose warm leads when emailing an official contract takes two days after the client says yes. That lag creates buyer doubt and gives prospects room to reconsider their commitment. Trigger a Make.com workflow from your proposal form that immediately delivers a prefilled SignNow agreement. You lock in deals instantly and get invoices paid in twenty-four hours.",
+  "duration": 25.216,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Connect",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "proposal",
+      "start": 0.38,
+      "end": 0.82
+    },
+    {
+      "word": "acceptance",
+      "start": 0.82,
+      "end": 1.3
+    },
+    {
+      "word": "to",
+      "start": 1.3,
+      "end": 1.66
+    },
+    {
+      "word": "instant",
+      "start": 1.66,
+      "end": 1.92
+    },
+    {
+      "word": "contract",
+      "start": 1.92,
+      "end": 2.38
+    },
+    {
+      "word": "delivery",
+      "start": 2.38,
+      "end": 2.68
+    },
+    {
+      "word": "with",
+      "start": 2.68,
+      "end": 3.0
+    },
+    {
+      "word": "zero",
+      "start": 3.0,
+      "end": 3.42
+    },
+    {
+      "word": "code.",
+      "start": 3.42,
+      "end": 3.9
+    },
+    {
+      "word": "Founders",
+      "start": 4.66,
+      "end": 4.66
+    },
+    {
+      "word": "lose",
+      "start": 4.66,
+      "end": 5.0
+    },
+    {
+      "word": "warm",
+      "start": 5.0,
+      "end": 5.3
+    },
+    {
+      "word": "leads",
+      "start": 5.3,
+      "end": 5.6
+    },
+    {
+      "word": "when",
+      "start": 5.6,
+      "end": 5.86
+    },
+    {
+      "word": "emailing",
+      "start": 5.86,
+      "end": 6.28
+    },
+    {
+      "word": "an",
+      "start": 6.28,
+      "end": 6.44
+    },
+    {
+      "word": "official",
+      "start": 6.44,
+      "end": 6.74
+    },
+    {
+      "word": "contract",
+      "start": 6.74,
+      "end": 7.3
+    },
+    {
+      "word": "takes",
+      "start": 7.3,
+      "end": 7.68
+    },
+    {
+      "word": "two",
+      "start": 7.68,
+      "end": 8.0
+    },
+    {
+      "word": "days",
+      "start": 8.0,
+      "end": 8.24
+    },
+    {
+      "word": "after",
+      "start": 8.24,
+      "end": 8.48
+    },
+    {
+      "word": "the",
+      "start": 8.48,
+      "end": 8.88
+    },
+    {
+      "word": "client",
+      "start": 8.88,
+      "end": 8.88
+    },
+    {
+      "word": "says",
+      "start": 8.88,
+      "end": 9.16
+    },
+    {
+      "word": "yes.",
+      "start": 9.16,
+      "end": 9.68
+    },
+    {
+      "word": "That",
+      "start": 10.04,
+      "end": 10.22
+    },
+    {
+      "word": "lag",
+      "start": 10.22,
+      "end": 10.52
+    },
+    {
+      "word": "creates",
+      "start": 10.52,
+      "end": 10.92
+    },
+    {
+      "word": "buyer",
+      "start": 10.92,
+      "end": 11.26
+    },
+    {
+      "word": "doubt",
+      "start": 11.26,
+      "end": 11.54
+    },
+    {
+      "word": "and",
+      "start": 11.54,
+      "end": 11.96
+    },
+    {
+      "word": "gives",
+      "start": 11.96,
+      "end": 12.18
+    },
+    {
+      "word": "prospects",
+      "start": 12.18,
+      "end": 12.62
+    },
+    {
+      "word": "room",
+      "start": 12.62,
+      "end": 12.94
+    },
+    {
+      "word": "to",
+      "start": 12.94,
+      "end": 13.34
+    },
+    {
+      "word": "reconsider",
+      "start": 13.34,
+      "end": 13.5
+    },
+    {
+      "word": "their",
+      "start": 13.5,
+      "end": 13.92
+    },
+    {
+      "word": "commitment.",
+      "start": 13.92,
+      "end": 14.3
+    },
+    {
+      "word": "Trigger",
+      "start": 14.84,
+      "end": 15.0
+    },
+    {
+      "word": "a",
+      "start": 15.0,
+      "end": 15.2
+    },
+    {
+      "word": "make,",
+      "start": 15.2,
+      "end": 15.48
+    },
+    {
+      "word": "calm",
+      "start": 16.02,
+      "end": 16.1
+    },
+    {
+      "word": "workflow",
+      "start": 16.1,
+      "end": 16.44
+    },
+    {
+      "word": "from",
+      "start": 16.44,
+      "end": 16.72
+    },
+    {
+      "word": "your",
+      "start": 16.72,
+      "end": 16.94
+    },
+    {
+      "word": "proposal",
+      "start": 16.94,
+      "end": 17.24
+    },
+    {
+      "word": "form",
+      "start": 17.24,
+      "end": 17.74
+    },
+    {
+      "word": "that",
+      "start": 17.74,
+      "end": 18.0
+    },
+    {
+      "word": "immediately",
+      "start": 18.0,
+      "end": 18.48
+    },
+    {
+      "word": "delivers",
+      "start": 18.48,
+      "end": 18.84
+    },
+    {
+      "word": "a",
+      "start": 18.84,
+      "end": 19.54
+    },
+    {
+      "word": "fulfilled",
+      "start": 19.54,
+      "end": 19.54
+    },
+    {
+      "word": "sign",
+      "start": 19.54,
+      "end": 19.92
+    },
+    {
+      "word": "now",
+      "start": 19.92,
+      "end": 20.24
+    },
+    {
+      "word": "agreement.",
+      "start": 20.24,
+      "end": 20.6
+    },
+    {
+      "word": "You",
+      "start": 21.22,
+      "end": 21.34
+    },
+    {
+      "word": "lock",
+      "start": 21.34,
+      "end": 21.56
+    },
+    {
+      "word": "and",
+      "start": 21.56,
+      "end": 21.74
+    },
+    {
+      "word": "deals",
+      "start": 21.74,
+      "end": 21.94
+    },
+    {
+      "word": "instantly",
+      "start": 21.94,
+      "end": 22.44
+    },
+    {
+      "word": "and",
+      "start": 22.44,
+      "end": 22.96
+    },
+    {
+      "word": "get",
+      "start": 22.96,
+      "end": 23.16
+    },
+    {
+      "word": "invoices",
+      "start": 23.16,
+      "end": 23.72
+    },
+    {
+      "word": "paid",
+      "start": 23.72,
+      "end": 24.02
+    },
+    {
+      "word": "in",
+      "start": 24.02,
+      "end": 24.36
+    },
+    {
+      "word": "24",
+      "start": 24.36,
+      "end": 24.64
+    },
+    {
+      "word": "hours.",
+      "start": 24.64,
+      "end": 25.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Connect proposal acceptance to instant contract delivery with zero code.",
+      "line2": "AUTOMATE CONTRACT SIGNING",
+      "tag": "\ud83d\uded1 Automated contract signing flow using DocuSign API and Zapier",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated contract signing flow using DocuSign API and Zapier",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated contract signing flow using DocuSign API and Zapier",
+        "subtitle": "Automated contract signing flow using DocuSign API and Zapier"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated contract signing flow using DocuSign API and Zapier"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated contract signing flow using DocuSign API and Zapier"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated contract signing flow using DocuSign API and Zapier",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "How to schedule emails to send at a later date and time automatically",
+  "text": "If you write work emails late on Sunday night, do not send them right now. Midnight messages train demanding clients to expect instant replies, destroying your personal boundaries. Furthermore, late emails get buried underneath hundreds of morning newsletters before your recipient logs on. Click the dropdown arrow next to Send in Gmail or Outlook and select Schedule Send instead. Your message lands at nine Monday morning with zero stress.",
+  "duration": 24.725,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "you",
+      "start": 0.18,
+      "end": 0.3
+    },
+    {
+      "word": "write",
+      "start": 0.3,
+      "end": 0.52
+    },
+    {
+      "word": "work",
+      "start": 0.52,
+      "end": 0.78
+    },
+    {
+      "word": "emails",
+      "start": 0.78,
+      "end": 1.08
+    },
+    {
+      "word": "late",
+      "start": 1.08,
+      "end": 1.38
+    },
+    {
+      "word": "on",
+      "start": 1.38,
+      "end": 1.6
+    },
+    {
+      "word": "Sunday",
+      "start": 1.6,
+      "end": 1.86
+    },
+    {
+      "word": "night,",
+      "start": 1.86,
+      "end": 2.4
+    },
+    {
+      "word": "do",
+      "start": 2.46,
+      "end": 2.5
+    },
+    {
+      "word": "not",
+      "start": 2.5,
+      "end": 2.76
+    },
+    {
+      "word": "send",
+      "start": 2.76,
+      "end": 2.92
+    },
+    {
+      "word": "them",
+      "start": 2.92,
+      "end": 3.12
+    },
+    {
+      "word": "right",
+      "start": 3.12,
+      "end": 3.34
+    },
+    {
+      "word": "now.",
+      "start": 3.34,
+      "end": 3.88
+    },
+    {
+      "word": "Midnight",
+      "start": 4.46,
+      "end": 4.46
+    },
+    {
+      "word": "messages",
+      "start": 4.46,
+      "end": 4.88
+    },
+    {
+      "word": "train",
+      "start": 4.88,
+      "end": 5.36
+    },
+    {
+      "word": "demanding",
+      "start": 5.36,
+      "end": 5.74
+    },
+    {
+      "word": "clients",
+      "start": 5.74,
+      "end": 6.1
+    },
+    {
+      "word": "to",
+      "start": 6.1,
+      "end": 6.38
+    },
+    {
+      "word": "expect",
+      "start": 6.38,
+      "end": 6.8
+    },
+    {
+      "word": "instant",
+      "start": 6.8,
+      "end": 7.08
+    },
+    {
+      "word": "replies,",
+      "start": 7.08,
+      "end": 7.66
+    },
+    {
+      "word": "destroying",
+      "start": 8.18,
+      "end": 8.4
+    },
+    {
+      "word": "your",
+      "start": 8.4,
+      "end": 8.78
+    },
+    {
+      "word": "personal",
+      "start": 8.78,
+      "end": 9.06
+    },
+    {
+      "word": "boundaries.",
+      "start": 9.06,
+      "end": 9.48
+    },
+    {
+      "word": "Furthermore,",
+      "start": 10.42,
+      "end": 10.52
+    },
+    {
+      "word": "late",
+      "start": 11.2,
+      "end": 11.28
+    },
+    {
+      "word": "emails",
+      "start": 11.28,
+      "end": 11.62
+    },
+    {
+      "word": "get",
+      "start": 11.62,
+      "end": 12.0
+    },
+    {
+      "word": "buried",
+      "start": 12.0,
+      "end": 12.24
+    },
+    {
+      "word": "underneath",
+      "start": 12.24,
+      "end": 12.66
+    },
+    {
+      "word": "hundreds",
+      "start": 12.66,
+      "end": 13.0
+    },
+    {
+      "word": "of",
+      "start": 13.0,
+      "end": 13.26
+    },
+    {
+      "word": "morning",
+      "start": 13.26,
+      "end": 13.42
+    },
+    {
+      "word": "newsletters",
+      "start": 13.42,
+      "end": 13.88
+    },
+    {
+      "word": "before",
+      "start": 13.88,
+      "end": 14.34
+    },
+    {
+      "word": "your",
+      "start": 14.34,
+      "end": 14.72
+    },
+    {
+      "word": "recipient",
+      "start": 14.72,
+      "end": 14.8
+    },
+    {
+      "word": "logs",
+      "start": 14.8,
+      "end": 15.14
+    },
+    {
+      "word": "on.",
+      "start": 15.14,
+      "end": 15.6
+    },
+    {
+      "word": "Click",
+      "start": 15.98,
+      "end": 16.18
+    },
+    {
+      "word": "the",
+      "start": 16.18,
+      "end": 16.4
+    },
+    {
+      "word": "drop",
+      "start": 16.4,
+      "end": 16.62
+    },
+    {
+      "word": "-down",
+      "start": 16.62,
+      "end": 16.92
+    },
+    {
+      "word": "arrow",
+      "start": 16.92,
+      "end": 17.2
+    },
+    {
+      "word": "next",
+      "start": 17.2,
+      "end": 17.5
+    },
+    {
+      "word": "to",
+      "start": 17.5,
+      "end": 17.74
+    },
+    {
+      "word": "send",
+      "start": 17.74,
+      "end": 17.88
+    },
+    {
+      "word": "in",
+      "start": 17.88,
+      "end": 18.14
+    },
+    {
+      "word": "Gmail",
+      "start": 18.14,
+      "end": 18.46
+    },
+    {
+      "word": "or",
+      "start": 18.46,
+      "end": 18.88
+    },
+    {
+      "word": "Outlook",
+      "start": 18.88,
+      "end": 19.22
+    },
+    {
+      "word": "and",
+      "start": 19.22,
+      "end": 19.72
+    },
+    {
+      "word": "select",
+      "start": 19.72,
+      "end": 20.0
+    },
+    {
+      "word": "schedule",
+      "start": 20.0,
+      "end": 20.38
+    },
+    {
+      "word": "send",
+      "start": 20.38,
+      "end": 20.8
+    },
+    {
+      "word": "instead.",
+      "start": 20.8,
+      "end": 21.26
+    },
+    {
+      "word": "Your",
+      "start": 21.26,
+      "end": 21.96
+    },
+    {
+      "word": "message",
+      "start": 21.96,
+      "end": 22.28
+    },
+    {
+      "word": "lands",
+      "start": 22.28,
+      "end": 22.56
+    },
+    {
+      "word": "at",
+      "start": 22.56,
+      "end": 22.84
+    },
+    {
+      "word": "9",
+      "start": 22.84,
+      "end": 23.0
+    },
+    {
+      "word": "Monday",
+      "start": 23.0,
+      "end": 23.28
+    },
+    {
+      "word": "morning",
+      "start": 23.28,
+      "end": 23.62
+    },
+    {
+      "word": "with",
+      "start": 23.62,
+      "end": 23.88
+    },
+    {
+      "word": "zero",
+      "start": 23.88,
+      "end": 24.2
+    },
+    {
+      "word": "stress.",
+      "start": 24.2,
+      "end": 24.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Writing work emails at 11 PM on Sunday? Don't send them right now.",
+      "line2": "AUTO-SCHEDULE EMAILS",
+      "tag": "\ud83d\uded1 How to schedule emails to send at a later date and time automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to schedule emails to send at a later date and time automatically",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to schedule emails to send at a later date and time automatically",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to schedule emails to send at a later date and time automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to schedule emails to send at a later date and time automatically",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

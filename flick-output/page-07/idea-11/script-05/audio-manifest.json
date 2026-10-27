@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "Automated churn alert workflow that triggers founder outreach on cancellations",
+  "text": "Turn customer cancellations into your startup's most valuable product feedback loop instantly. When subscribers hit cancel, founders usually send generic survey links that end up in spam folders. Missing the real reason behind departures forces your engineers to guess roadmap priorities blindly. Sync cancellation webhooks through Zapier to Notion and automatically trigger a personalized founder inquiry via Gmail. You extract invaluable feature insights while salvaging paid accounts.",
+  "duration": 29.775,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Turn",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "customer",
+      "start": 0.36,
+      "end": 0.84
+    },
+    {
+      "word": "cancellations",
+      "start": 0.84,
+      "end": 1.54
+    },
+    {
+      "word": "into",
+      "start": 1.54,
+      "end": 1.8
+    },
+    {
+      "word": "your",
+      "start": 1.8,
+      "end": 2.02
+    },
+    {
+      "word": "startups'",
+      "start": 2.02,
+      "end": 2.34
+    },
+    {
+      "word": "most",
+      "start": 2.84,
+      "end": 2.84
+    },
+    {
+      "word": "valuable",
+      "start": 2.84,
+      "end": 3.28
+    },
+    {
+      "word": "product",
+      "start": 3.28,
+      "end": 3.9
+    },
+    {
+      "word": "feedback",
+      "start": 3.9,
+      "end": 4.3
+    },
+    {
+      "word": "loop",
+      "start": 4.3,
+      "end": 4.7
+    },
+    {
+      "word": "instantly.",
+      "start": 4.7,
+      "end": 5.26
+    },
+    {
+      "word": "When",
+      "start": 5.84,
+      "end": 6.04
+    },
+    {
+      "word": "subscribers",
+      "start": 6.04,
+      "end": 6.52
+    },
+    {
+      "word": "hit",
+      "start": 6.52,
+      "end": 6.98
+    },
+    {
+      "word": "cancel,",
+      "start": 6.98,
+      "end": 7.42
+    },
+    {
+      "word": "founders",
+      "start": 8.2,
+      "end": 8.2
+    },
+    {
+      "word": "usually",
+      "start": 8.2,
+      "end": 8.74
+    },
+    {
+      "word": "send",
+      "start": 8.74,
+      "end": 9.0
+    },
+    {
+      "word": "generic",
+      "start": 9.0,
+      "end": 9.5
+    },
+    {
+      "word": "survey",
+      "start": 9.5,
+      "end": 9.84
+    },
+    {
+      "word": "links",
+      "start": 9.84,
+      "end": 10.18
+    },
+    {
+      "word": "that",
+      "start": 10.18,
+      "end": 10.38
+    },
+    {
+      "word": "end",
+      "start": 10.38,
+      "end": 10.58
+    },
+    {
+      "word": "up",
+      "start": 10.58,
+      "end": 10.78
+    },
+    {
+      "word": "in",
+      "start": 10.78,
+      "end": 11.02
+    },
+    {
+      "word": "spam",
+      "start": 11.02,
+      "end": 11.34
+    },
+    {
+      "word": "folders,",
+      "start": 11.34,
+      "end": 11.84
+    },
+    {
+      "word": "missing",
+      "start": 12.34,
+      "end": 12.44
+    },
+    {
+      "word": "the",
+      "start": 12.44,
+      "end": 12.7
+    },
+    {
+      "word": "real",
+      "start": 12.7,
+      "end": 12.96
+    },
+    {
+      "word": "reason",
+      "start": 12.96,
+      "end": 13.26
+    },
+    {
+      "word": "behind",
+      "start": 13.26,
+      "end": 13.58
+    },
+    {
+      "word": "departures",
+      "start": 13.58,
+      "end": 14.06
+    },
+    {
+      "word": "forces",
+      "start": 14.06,
+      "end": 14.64
+    },
+    {
+      "word": "your",
+      "start": 14.64,
+      "end": 15.0
+    },
+    {
+      "word": "engineers",
+      "start": 15.0,
+      "end": 15.28
+    },
+    {
+      "word": "to",
+      "start": 15.28,
+      "end": 15.58
+    },
+    {
+      "word": "guess",
+      "start": 15.58,
+      "end": 15.88
+    },
+    {
+      "word": "roadmap",
+      "start": 15.88,
+      "end": 16.26
+    },
+    {
+      "word": "priorities",
+      "start": 16.26,
+      "end": 16.94
+    },
+    {
+      "word": "blindly.",
+      "start": 16.94,
+      "end": 17.62
+    },
+    {
+      "word": "Sync",
+      "start": 18.54,
+      "end": 18.58
+    },
+    {
+      "word": "cancellation",
+      "start": 18.58,
+      "end": 19.14
+    },
+    {
+      "word": "webhooks",
+      "start": 19.14,
+      "end": 19.78
+    },
+    {
+      "word": "through",
+      "start": 19.78,
+      "end": 20.06
+    },
+    {
+      "word": "Zapier",
+      "start": 20.06,
+      "end": 20.48
+    },
+    {
+      "word": "to",
+      "start": 20.48,
+      "end": 20.66
+    },
+    {
+      "word": "Notion",
+      "start": 20.66,
+      "end": 21.12
+    },
+    {
+      "word": "and",
+      "start": 21.12,
+      "end": 21.56
+    },
+    {
+      "word": "automatically",
+      "start": 21.56,
+      "end": 22.08
+    },
+    {
+      "word": "trigger",
+      "start": 22.08,
+      "end": 22.58
+    },
+    {
+      "word": "a",
+      "start": 22.58,
+      "end": 23.4
+    },
+    {
+      "word": "personalized",
+      "start": 23.4,
+      "end": 23.4
+    },
+    {
+      "word": "founder",
+      "start": 23.4,
+      "end": 23.86
+    },
+    {
+      "word": "inquiry",
+      "start": 23.86,
+      "end": 24.32
+    },
+    {
+      "word": "via",
+      "start": 24.32,
+      "end": 24.76
+    },
+    {
+      "word": "Gmail.",
+      "start": 24.76,
+      "end": 25.28
+    },
+    {
+      "word": "You",
+      "start": 25.28,
+      "end": 26.04
+    },
+    {
+      "word": "extract",
+      "start": 26.04,
+      "end": 26.52
+    },
+    {
+      "word": "invaluable",
+      "start": 26.52,
+      "end": 27.06
+    },
+    {
+      "word": "feature",
+      "start": 27.06,
+      "end": 27.6
+    },
+    {
+      "word": "insights",
+      "start": 27.6,
+      "end": 28.04
+    },
+    {
+      "word": "while",
+      "start": 28.04,
+      "end": 28.42
+    },
+    {
+      "word": "salvaging",
+      "start": 28.42,
+      "end": 28.92
+    },
+    {
+      "word": "paid",
+      "start": 28.92,
+      "end": 29.2
+    },
+    {
+      "word": "accounts.",
+      "start": 29.2,
+      "end": 29.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Turn customer cancellations into invaluable product feedback instantly.",
+      "line2": "INSTANT CHURN ALERTS",
+      "tag": "\ud83d\uded1 Automated churn alert workflow that triggers founder outreach on cancellations",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated churn alert workflow that triggers founder outreach on cancellations",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated churn alert workflow that triggers founder outreach on cancellations",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-02",
+  "idea": "AI email assistant for following up on overdue freelance payments",
+  "text": "This AI writes polite but firm payment reminders that actually work. Staring at overdue client balances while dreading confrontation delays essential follow-ups until your cash reserves disappear. Standard accounting system alerts get ignored because generic template emails feel cold and easily skippable. Linking QuickBooks Online with Make automatically generates contextual reminder emails through ChatGPT when milestone deadlines pass. You collect pending retainers within twenty-four hours.",
+  "duration": 30.757,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "AI",
+      "start": 0.28,
+      "end": 0.68
+    },
+    {
+      "word": "writes",
+      "start": 0.68,
+      "end": 1.1
+    },
+    {
+      "word": "polite",
+      "start": 1.1,
+      "end": 1.42
+    },
+    {
+      "word": "but",
+      "start": 1.42,
+      "end": 1.78
+    },
+    {
+      "word": "firm",
+      "start": 1.78,
+      "end": 2.04
+    },
+    {
+      "word": "payment",
+      "start": 2.04,
+      "end": 2.34
+    },
+    {
+      "word": "reminders",
+      "start": 2.34,
+      "end": 2.72
+    },
+    {
+      "word": "that",
+      "start": 2.72,
+      "end": 3.14
+    },
+    {
+      "word": "actually",
+      "start": 3.14,
+      "end": 3.56
+    },
+    {
+      "word": "work.",
+      "start": 3.56,
+      "end": 4.26
+    },
+    {
+      "word": "Staring",
+      "start": 4.52,
+      "end": 4.74
+    },
+    {
+      "word": "at",
+      "start": 4.74,
+      "end": 5.02
+    },
+    {
+      "word": "overdue",
+      "start": 5.02,
+      "end": 5.34
+    },
+    {
+      "word": "client",
+      "start": 5.34,
+      "end": 5.74
+    },
+    {
+      "word": "balances,",
+      "start": 5.74,
+      "end": 6.24
+    },
+    {
+      "word": "while",
+      "start": 6.66,
+      "end": 6.78
+    },
+    {
+      "word": "dreading",
+      "start": 6.78,
+      "end": 7.22
+    },
+    {
+      "word": "confrontation",
+      "start": 7.22,
+      "end": 7.74
+    },
+    {
+      "word": "delays",
+      "start": 7.74,
+      "end": 8.22
+    },
+    {
+      "word": "essential",
+      "start": 8.22,
+      "end": 8.78
+    },
+    {
+      "word": "follow",
+      "start": 8.78,
+      "end": 9.16
+    },
+    {
+      "word": "-ups",
+      "start": 9.16,
+      "end": 9.44
+    },
+    {
+      "word": "until",
+      "start": 9.44,
+      "end": 9.94
+    },
+    {
+      "word": "your",
+      "start": 9.94,
+      "end": 10.24
+    },
+    {
+      "word": "cash",
+      "start": 10.24,
+      "end": 10.52
+    },
+    {
+      "word": "reserves",
+      "start": 10.52,
+      "end": 11.0
+    },
+    {
+      "word": "disappear.",
+      "start": 11.0,
+      "end": 11.64
+    },
+    {
+      "word": "Standard",
+      "start": 12.34,
+      "end": 12.6
+    },
+    {
+      "word": "accounting",
+      "start": 12.6,
+      "end": 13.12
+    },
+    {
+      "word": "system",
+      "start": 13.12,
+      "end": 13.58
+    },
+    {
+      "word": "alerts",
+      "start": 13.58,
+      "end": 13.84
+    },
+    {
+      "word": "get",
+      "start": 13.84,
+      "end": 14.12
+    },
+    {
+      "word": "ignored",
+      "start": 14.12,
+      "end": 14.5
+    },
+    {
+      "word": "because",
+      "start": 14.5,
+      "end": 15.02
+    },
+    {
+      "word": "generic",
+      "start": 15.02,
+      "end": 15.48
+    },
+    {
+      "word": "template",
+      "start": 15.48,
+      "end": 15.94
+    },
+    {
+      "word": "emails",
+      "start": 15.94,
+      "end": 16.32
+    },
+    {
+      "word": "feel",
+      "start": 16.32,
+      "end": 16.72
+    },
+    {
+      "word": "cold",
+      "start": 16.72,
+      "end": 17.16
+    },
+    {
+      "word": "and",
+      "start": 17.16,
+      "end": 17.5
+    },
+    {
+      "word": "easily",
+      "start": 17.5,
+      "end": 17.84
+    },
+    {
+      "word": "skippable.",
+      "start": 17.84,
+      "end": 18.4
+    },
+    {
+      "word": "Linking",
+      "start": 18.74,
+      "end": 19.06
+    },
+    {
+      "word": "QuickBooks",
+      "start": 19.06,
+      "end": 19.56
+    },
+    {
+      "word": "Online",
+      "start": 19.56,
+      "end": 19.94
+    },
+    {
+      "word": "with",
+      "start": 19.94,
+      "end": 20.2
+    },
+    {
+      "word": "make",
+      "start": 20.2,
+      "end": 20.44
+    },
+    {
+      "word": "automatically",
+      "start": 20.44,
+      "end": 21.0
+    },
+    {
+      "word": "generates",
+      "start": 21.0,
+      "end": 21.84
+    },
+    {
+      "word": "contextual",
+      "start": 21.84,
+      "end": 22.54
+    },
+    {
+      "word": "reminder",
+      "start": 22.54,
+      "end": 23.0
+    },
+    {
+      "word": "emails",
+      "start": 23.0,
+      "end": 23.62
+    },
+    {
+      "word": "through",
+      "start": 23.62,
+      "end": 24.28
+    },
+    {
+      "word": "chat",
+      "start": 24.28,
+      "end": 24.62
+    },
+    {
+      "word": "GPT",
+      "start": 24.62,
+      "end": 25.34
+    },
+    {
+      "word": "when",
+      "start": 25.34,
+      "end": 25.72
+    },
+    {
+      "word": "milestone",
+      "start": 25.72,
+      "end": 26.16
+    },
+    {
+      "word": "deadlines",
+      "start": 26.16,
+      "end": 26.78
+    },
+    {
+      "word": "pass.",
+      "start": 26.78,
+      "end": 27.36
+    },
+    {
+      "word": "You",
+      "start": 27.36,
+      "end": 28.04
+    },
+    {
+      "word": "collect",
+      "start": 28.04,
+      "end": 28.36
+    },
+    {
+      "word": "pending",
+      "start": 28.36,
+      "end": 28.78
+    },
+    {
+      "word": "retainers",
+      "start": 28.78,
+      "end": 29.4
+    },
+    {
+      "word": "within",
+      "start": 29.4,
+      "end": 29.64
+    },
+    {
+      "word": "24",
+      "start": 29.64,
+      "end": 30.18
+    },
+    {
+      "word": "hours.",
+      "start": 30.18,
+      "end": 30.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This AI writes polite but firm payment reminders that actually work.",
+      "line2": "COLLECT OVERDUE INVOICES",
+      "tag": "\ud83d\uded1 AI email assistant for following up on overdue freelance payments",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "Voice-to-Invoice Stream: AI email assistant for following up on overdue freelance payments",
+      "primitive": "VoiceWaveToReceipt",
+      "props": {
+        "title": "Voice-to-Invoice Stream: AI email assistant for following up on overdue freelance payments",
+        "subtitle": "AI email assistant for following up on overdue freelance payments"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Overdue Payment Chaser",
+      "primitive": "OverdueChaserTimeline",
+      "props": {
+        "title": "Overdue Payment Chaser",
+        "subtitle": "AI email assistant for following up on overdue freelance payments"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Retainer Value Conversion",
+      "primitive": "HourlyToRetainerConverter",
+      "props": {
+        "title": "Retainer Value Conversion",
+        "subtitle": "AI email assistant for following up on overdue freelance payments"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant 24H Auto-Deposit",
+      "primitive": "StripePayoutCountdown",
+      "props": {
+        "title": "Instant 24H Auto-Deposit",
+        "subtitle": "AI email assistant for following up on overdue freelance payments",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

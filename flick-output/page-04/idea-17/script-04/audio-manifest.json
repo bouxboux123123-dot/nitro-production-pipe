@@ -1,0 +1,416 @@
+{
+  "page": "page-04",
+  "idea": "Calibre: the ultimate free eBook manager and format converter",
+  "text": "How to read any study guide or manual on any device for free. Reading dense two-column PDFs on a smartphone screen forces you to zoom and scroll horizontally. Static page dimensions cannot reflow text dynamically, creating painful reading friction across smaller mobile viewports. Calibre converts rigid document layers into responsive EPUBs, automatically adapting font sizes and margins for mobile screens. Turn unreadable training manuals into fluid pocket guides in seconds.",
+  "duration": 29.754,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "to",
+      "start": 0.26,
+      "end": 0.3
+    },
+    {
+      "word": "read",
+      "start": 0.3,
+      "end": 0.46
+    },
+    {
+      "word": "any",
+      "start": 0.46,
+      "end": 0.72
+    },
+    {
+      "word": "study",
+      "start": 0.72,
+      "end": 0.98
+    },
+    {
+      "word": "guide",
+      "start": 0.98,
+      "end": 1.4
+    },
+    {
+      "word": "or",
+      "start": 1.4,
+      "end": 1.6
+    },
+    {
+      "word": "manual",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "word": "on",
+      "start": 2.0,
+      "end": 2.16
+    },
+    {
+      "word": "any",
+      "start": 2.16,
+      "end": 2.36
+    },
+    {
+      "word": "device",
+      "start": 2.36,
+      "end": 2.74
+    },
+    {
+      "word": "for",
+      "start": 2.74,
+      "end": 3.04
+    },
+    {
+      "word": "free.",
+      "start": 3.04,
+      "end": 3.56
+    },
+    {
+      "word": "Reading",
+      "start": 4.12,
+      "end": 4.12
+    },
+    {
+      "word": "dense",
+      "start": 4.12,
+      "end": 4.48
+    },
+    {
+      "word": "two",
+      "start": 4.48,
+      "end": 4.8
+    },
+    {
+      "word": "column",
+      "start": 4.8,
+      "end": 5.14
+    },
+    {
+      "word": "PDFs",
+      "start": 5.14,
+      "end": 5.78
+    },
+    {
+      "word": "on",
+      "start": 5.78,
+      "end": 5.84
+    },
+    {
+      "word": "a",
+      "start": 5.84,
+      "end": 6.04
+    },
+    {
+      "word": "smartphone",
+      "start": 6.04,
+      "end": 6.34
+    },
+    {
+      "word": "screen",
+      "start": 6.34,
+      "end": 7.08
+    },
+    {
+      "word": "forces",
+      "start": 7.08,
+      "end": 7.36
+    },
+    {
+      "word": "you",
+      "start": 7.36,
+      "end": 7.62
+    },
+    {
+      "word": "to",
+      "start": 7.62,
+      "end": 7.8
+    },
+    {
+      "word": "zoom",
+      "start": 7.8,
+      "end": 8.08
+    },
+    {
+      "word": "and",
+      "start": 8.08,
+      "end": 8.38
+    },
+    {
+      "word": "scroll",
+      "start": 8.38,
+      "end": 8.74
+    },
+    {
+      "word": "horizontally.",
+      "start": 8.74,
+      "end": 9.3
+    },
+    {
+      "word": "Static",
+      "start": 10.46,
+      "end": 10.46
+    },
+    {
+      "word": "page",
+      "start": 10.46,
+      "end": 10.86
+    },
+    {
+      "word": "dimensions",
+      "start": 10.86,
+      "end": 11.38
+    },
+    {
+      "word": "cannot",
+      "start": 11.38,
+      "end": 11.86
+    },
+    {
+      "word": "reflow",
+      "start": 11.86,
+      "end": 12.26
+    },
+    {
+      "word": "text",
+      "start": 12.26,
+      "end": 12.62
+    },
+    {
+      "word": "dynamically,",
+      "start": 12.62,
+      "end": 13.2
+    },
+    {
+      "word": "creating",
+      "start": 14.08,
+      "end": 14.1
+    },
+    {
+      "word": "painful",
+      "start": 14.1,
+      "end": 14.6
+    },
+    {
+      "word": "reading",
+      "start": 14.6,
+      "end": 14.96
+    },
+    {
+      "word": "friction",
+      "start": 14.96,
+      "end": 15.3
+    },
+    {
+      "word": "across",
+      "start": 15.3,
+      "end": 15.74
+    },
+    {
+      "word": "smaller",
+      "start": 15.74,
+      "end": 16.14
+    },
+    {
+      "word": "mobile",
+      "start": 16.14,
+      "end": 16.48
+    },
+    {
+      "word": "viewports.",
+      "start": 16.48,
+      "end": 17.08
+    },
+    {
+      "word": "Caliber",
+      "start": 17.66,
+      "end": 17.82
+    },
+    {
+      "word": "converts",
+      "start": 17.82,
+      "end": 18.3
+    },
+    {
+      "word": "rigid",
+      "start": 18.3,
+      "end": 18.74
+    },
+    {
+      "word": "document",
+      "start": 18.74,
+      "end": 19.24
+    },
+    {
+      "word": "layers",
+      "start": 19.24,
+      "end": 19.58
+    },
+    {
+      "word": "into",
+      "start": 19.58,
+      "end": 19.84
+    },
+    {
+      "word": "responsive",
+      "start": 19.84,
+      "end": 20.4
+    },
+    {
+      "word": "EPUB,",
+      "start": 20.4,
+      "end": 21.02
+    },
+    {
+      "word": "automatically",
+      "start": 21.28,
+      "end": 21.72
+    },
+    {
+      "word": "adapting",
+      "start": 21.72,
+      "end": 22.48
+    },
+    {
+      "word": "font",
+      "start": 22.48,
+      "end": 22.8
+    },
+    {
+      "word": "sizes",
+      "start": 22.8,
+      "end": 23.26
+    },
+    {
+      "word": "and",
+      "start": 23.26,
+      "end": 23.62
+    },
+    {
+      "word": "margins",
+      "start": 23.62,
+      "end": 23.98
+    },
+    {
+      "word": "for",
+      "start": 23.98,
+      "end": 24.32
+    },
+    {
+      "word": "mobile",
+      "start": 24.32,
+      "end": 24.56
+    },
+    {
+      "word": "screens.",
+      "start": 24.56,
+      "end": 25.2
+    },
+    {
+      "word": "Turn",
+      "start": 25.72,
+      "end": 26.2
+    },
+    {
+      "word": "unreadable",
+      "start": 26.2,
+      "end": 26.82
+    },
+    {
+      "word": "training",
+      "start": 26.82,
+      "end": 27.24
+    },
+    {
+      "word": "manuals",
+      "start": 27.24,
+      "end": 27.62
+    },
+    {
+      "word": "into",
+      "start": 27.62,
+      "end": 27.98
+    },
+    {
+      "word": "fluid",
+      "start": 27.98,
+      "end": 28.3
+    },
+    {
+      "word": "pocket",
+      "start": 28.3,
+      "end": 28.64
+    },
+    {
+      "word": "guides",
+      "start": 28.64,
+      "end": 29.0
+    },
+    {
+      "word": "in",
+      "start": 29.0,
+      "end": 29.28
+    },
+    {
+      "word": "seconds.",
+      "start": 29.28,
+      "end": 29.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How to read any study guide or manual on any device for free.",
+      "line2": "FREE EBOOK CONVERTER",
+      "tag": "\ud83d\uded1 Calibre",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Calibre",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Calibre",
+        "subtitle": "Calibre"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Calibre"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Calibre"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Calibre",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

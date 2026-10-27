@@ -1,0 +1,411 @@
+{
+  "page": "page-09",
+  "idea": "Stripe vs Lemon Squeezy: which merchant of record is best for digital creators",
+  "text": "Stripe versus Lemon Squeezy: which payment system should you choose for selling software globally? Developers launch digital tools, only to panic when international tax laws demand complex overseas filings. Stripe functions as a payment gateway leaving taxes on you, whereas Lemon Squeezy acts as Merchant of Record. Choose Lemon Squeezy to automate global VAT remittances, or use Stripe if you require custom enterprise checkout pipelines. This prevents catastrophic compliance penalties.",
+  "duration": 30.031,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stripe",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "versus",
+      "start": 0.4,
+      "end": 0.8
+    },
+    {
+      "word": "lemon",
+      "start": 0.8,
+      "end": 1.16
+    },
+    {
+      "word": "squeezy,",
+      "start": 1.16,
+      "end": 1.76
+    },
+    {
+      "word": "which",
+      "start": 1.94,
+      "end": 2.36
+    },
+    {
+      "word": "payment",
+      "start": 2.36,
+      "end": 2.64
+    },
+    {
+      "word": "system",
+      "start": 2.64,
+      "end": 3.0
+    },
+    {
+      "word": "should",
+      "start": 3.0,
+      "end": 3.2
+    },
+    {
+      "word": "you",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "word": "choose",
+      "start": 3.36,
+      "end": 3.72
+    },
+    {
+      "word": "for",
+      "start": 3.72,
+      "end": 3.96
+    },
+    {
+      "word": "selling",
+      "start": 3.96,
+      "end": 4.28
+    },
+    {
+      "word": "software",
+      "start": 4.28,
+      "end": 4.78
+    },
+    {
+      "word": "globally.",
+      "start": 4.78,
+      "end": 5.38
+    },
+    {
+      "word": "Developers",
+      "start": 6.2,
+      "end": 6.2
+    },
+    {
+      "word": "launch",
+      "start": 6.2,
+      "end": 6.66
+    },
+    {
+      "word": "digital",
+      "start": 6.66,
+      "end": 7.02
+    },
+    {
+      "word": "tools",
+      "start": 7.02,
+      "end": 7.68
+    },
+    {
+      "word": "only",
+      "start": 7.68,
+      "end": 8.22
+    },
+    {
+      "word": "to",
+      "start": 8.22,
+      "end": 8.44
+    },
+    {
+      "word": "panic",
+      "start": 8.44,
+      "end": 8.72
+    },
+    {
+      "word": "when",
+      "start": 8.72,
+      "end": 8.98
+    },
+    {
+      "word": "international",
+      "start": 8.98,
+      "end": 9.46
+    },
+    {
+      "word": "tax",
+      "start": 9.46,
+      "end": 9.88
+    },
+    {
+      "word": "laws",
+      "start": 9.88,
+      "end": 10.22
+    },
+    {
+      "word": "demand",
+      "start": 10.22,
+      "end": 10.78
+    },
+    {
+      "word": "complex",
+      "start": 10.78,
+      "end": 11.36
+    },
+    {
+      "word": "overseas",
+      "start": 11.36,
+      "end": 11.94
+    },
+    {
+      "word": "filings.",
+      "start": 11.94,
+      "end": 12.5
+    },
+    {
+      "word": "Stripe",
+      "start": 13.16,
+      "end": 13.24
+    },
+    {
+      "word": "functions",
+      "start": 13.24,
+      "end": 13.62
+    },
+    {
+      "word": "as",
+      "start": 13.62,
+      "end": 13.92
+    },
+    {
+      "word": "a",
+      "start": 13.92,
+      "end": 14.02
+    },
+    {
+      "word": "payment",
+      "start": 14.02,
+      "end": 14.3
+    },
+    {
+      "word": "gateway",
+      "start": 14.3,
+      "end": 14.66
+    },
+    {
+      "word": "leaving",
+      "start": 14.66,
+      "end": 15.08
+    },
+    {
+      "word": "taxes",
+      "start": 15.08,
+      "end": 15.5
+    },
+    {
+      "word": "on",
+      "start": 15.5,
+      "end": 15.8
+    },
+    {
+      "word": "you,",
+      "start": 15.8,
+      "end": 16.28
+    },
+    {
+      "word": "whereas",
+      "start": 16.38,
+      "end": 16.6
+    },
+    {
+      "word": "lemon",
+      "start": 16.6,
+      "end": 16.96
+    },
+    {
+      "word": "squeezy",
+      "start": 16.96,
+      "end": 17.42
+    },
+    {
+      "word": "acts",
+      "start": 17.42,
+      "end": 17.72
+    },
+    {
+      "word": "as",
+      "start": 17.72,
+      "end": 18.0
+    },
+    {
+      "word": "merchant",
+      "start": 18.0,
+      "end": 18.22
+    },
+    {
+      "word": "of",
+      "start": 18.22,
+      "end": 18.46
+    },
+    {
+      "word": "record.",
+      "start": 18.46,
+      "end": 18.82
+    },
+    {
+      "word": "Choose",
+      "start": 19.38,
+      "end": 19.68
+    },
+    {
+      "word": "lemon",
+      "start": 19.68,
+      "end": 19.98
+    },
+    {
+      "word": "squeezy",
+      "start": 19.98,
+      "end": 20.38
+    },
+    {
+      "word": "to",
+      "start": 20.38,
+      "end": 20.74
+    },
+    {
+      "word": "automate",
+      "start": 20.74,
+      "end": 21.16
+    },
+    {
+      "word": "global",
+      "start": 21.16,
+      "end": 21.66
+    },
+    {
+      "word": "VAT",
+      "start": 21.66,
+      "end": 22.2
+    },
+    {
+      "word": "remittances,",
+      "start": 22.2,
+      "end": 22.8
+    },
+    {
+      "word": "or",
+      "start": 23.26,
+      "end": 23.5
+    },
+    {
+      "word": "you",
+      "start": 23.5,
+      "end": 23.82
+    },
+    {
+      "word": "stripe",
+      "start": 23.82,
+      "end": 24.14
+    },
+    {
+      "word": "if",
+      "start": 24.14,
+      "end": 24.36
+    },
+    {
+      "word": "you",
+      "start": 24.36,
+      "end": 24.62
+    },
+    {
+      "word": "require",
+      "start": 24.62,
+      "end": 25.02
+    },
+    {
+      "word": "custom",
+      "start": 25.02,
+      "end": 25.4
+    },
+    {
+      "word": "enterprise",
+      "start": 25.4,
+      "end": 25.92
+    },
+    {
+      "word": "checkout",
+      "start": 25.92,
+      "end": 26.38
+    },
+    {
+      "word": "pipelines.",
+      "start": 26.38,
+      "end": 26.94
+    },
+    {
+      "word": "This",
+      "start": 26.94,
+      "end": 27.78
+    },
+    {
+      "word": "prevents",
+      "start": 27.78,
+      "end": 28.1
+    },
+    {
+      "word": "catastrophic",
+      "start": 28.1,
+      "end": 28.76
+    },
+    {
+      "word": "compliance",
+      "start": 28.76,
+      "end": 29.46
+    },
+    {
+      "word": "penalties.",
+      "start": 29.46,
+      "end": 29.84
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Stripe vs Lemon Squeezy: which payment processor should you choose for selling software?",
+      "line2": "STRIPE VS LEMON SQUEEZY",
+      "tag": "\ud83d\uded1 Stripe vs Lemon Squeezy",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Stripe vs Lemon Squeezy",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Stripe vs Lemon Squeezy",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Stripe vs Lemon Squeezy",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

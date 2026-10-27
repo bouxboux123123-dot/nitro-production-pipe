@@ -1,0 +1,396 @@
+{
+  "page": "page-05",
+  "idea": "Glide customer portal for equipment maintenance logging",
+  "text": "Build a mobile app for your field team to log maintenance and scan barcodes in minutes. Technicians on site struggle with paper forms, causing illegible handwriting and misplaced service records. When inspection logs sit in trucks, managers miss critical warnings before expensive machinery breaks down. Instead, link Glide to Airtable so technicians scan barcodes and log photo inspections from their phones. You eliminate paperwork delays completely.",
+  "duration": 25.259,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Build",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "a",
+      "start": 0.24,
+      "end": 0.4
+    },
+    {
+      "word": "mobile",
+      "start": 0.4,
+      "end": 0.68
+    },
+    {
+      "word": "app",
+      "start": 0.68,
+      "end": 0.9
+    },
+    {
+      "word": "for",
+      "start": 0.9,
+      "end": 1.02
+    },
+    {
+      "word": "your",
+      "start": 1.02,
+      "end": 1.22
+    },
+    {
+      "word": "field",
+      "start": 1.22,
+      "end": 1.44
+    },
+    {
+      "word": "team",
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "word": "to",
+      "start": 1.68,
+      "end": 1.86
+    },
+    {
+      "word": "log",
+      "start": 1.86,
+      "end": 2.16
+    },
+    {
+      "word": "maintenance",
+      "start": 2.16,
+      "end": 2.5
+    },
+    {
+      "word": "and",
+      "start": 2.5,
+      "end": 2.84
+    },
+    {
+      "word": "scan",
+      "start": 2.84,
+      "end": 3.14
+    },
+    {
+      "word": "barcodes",
+      "start": 3.14,
+      "end": 3.58
+    },
+    {
+      "word": "in",
+      "start": 3.58,
+      "end": 3.78
+    },
+    {
+      "word": "minutes.",
+      "start": 3.78,
+      "end": 4.14
+    },
+    {
+      "word": "Technicians",
+      "start": 4.7,
+      "end": 4.96
+    },
+    {
+      "word": "on",
+      "start": 4.96,
+      "end": 5.26
+    },
+    {
+      "word": "site",
+      "start": 5.26,
+      "end": 5.58
+    },
+    {
+      "word": "struggle",
+      "start": 5.58,
+      "end": 5.9
+    },
+    {
+      "word": "with",
+      "start": 5.9,
+      "end": 6.3
+    },
+    {
+      "word": "paper",
+      "start": 6.3,
+      "end": 6.3
+    },
+    {
+      "word": "forms,",
+      "start": 6.3,
+      "end": 6.74
+    },
+    {
+      "word": "causing",
+      "start": 7.1,
+      "end": 7.42
+    },
+    {
+      "word": "a",
+      "start": 7.42,
+      "end": 7.6
+    },
+    {
+      "word": "legible",
+      "start": 7.6,
+      "end": 8.02
+    },
+    {
+      "word": "handwriting",
+      "start": 8.02,
+      "end": 8.44
+    },
+    {
+      "word": "and",
+      "start": 8.44,
+      "end": 8.7
+    },
+    {
+      "word": "misplaced",
+      "start": 8.7,
+      "end": 9.16
+    },
+    {
+      "word": "service",
+      "start": 9.16,
+      "end": 9.5
+    },
+    {
+      "word": "records.",
+      "start": 9.5,
+      "end": 9.9
+    },
+    {
+      "word": "When",
+      "start": 10.42,
+      "end": 10.66
+    },
+    {
+      "word": "inspection",
+      "start": 10.66,
+      "end": 10.9
+    },
+    {
+      "word": "logs",
+      "start": 10.9,
+      "end": 11.42
+    },
+    {
+      "word": "sit",
+      "start": 11.42,
+      "end": 11.58
+    },
+    {
+      "word": "in",
+      "start": 11.58,
+      "end": 11.78
+    },
+    {
+      "word": "trucks,",
+      "start": 11.78,
+      "end": 12.14
+    },
+    {
+      "word": "managers",
+      "start": 12.74,
+      "end": 12.84
+    },
+    {
+      "word": "miss",
+      "start": 12.84,
+      "end": 13.26
+    },
+    {
+      "word": "critical",
+      "start": 13.26,
+      "end": 13.62
+    },
+    {
+      "word": "warnings",
+      "start": 13.62,
+      "end": 13.92
+    },
+    {
+      "word": "before",
+      "start": 13.92,
+      "end": 14.32
+    },
+    {
+      "word": "expensive",
+      "start": 14.32,
+      "end": 14.82
+    },
+    {
+      "word": "machinery",
+      "start": 14.82,
+      "end": 15.28
+    },
+    {
+      "word": "breaks",
+      "start": 15.28,
+      "end": 15.66
+    },
+    {
+      "word": "down.",
+      "start": 15.66,
+      "end": 16.12
+    },
+    {
+      "word": "Instead,",
+      "start": 16.76,
+      "end": 17.06
+    },
+    {
+      "word": "link",
+      "start": 17.68,
+      "end": 17.76
+    },
+    {
+      "word": "glide",
+      "start": 17.76,
+      "end": 18.06
+    },
+    {
+      "word": "to",
+      "start": 18.06,
+      "end": 18.32
+    },
+    {
+      "word": "irritable",
+      "start": 18.32,
+      "end": 18.66
+    },
+    {
+      "word": "so",
+      "start": 18.66,
+      "end": 18.9
+    },
+    {
+      "word": "technicians",
+      "start": 18.9,
+      "end": 19.4
+    },
+    {
+      "word": "scan",
+      "start": 19.4,
+      "end": 19.8
+    },
+    {
+      "word": "barcodes",
+      "start": 19.8,
+      "end": 20.3
+    },
+    {
+      "word": "and",
+      "start": 20.3,
+      "end": 20.54
+    },
+    {
+      "word": "log",
+      "start": 20.54,
+      "end": 20.86
+    },
+    {
+      "word": "photo",
+      "start": 20.86,
+      "end": 21.2
+    },
+    {
+      "word": "inspections",
+      "start": 21.2,
+      "end": 21.68
+    },
+    {
+      "word": "from",
+      "start": 21.68,
+      "end": 22.04
+    },
+    {
+      "word": "their",
+      "start": 22.04,
+      "end": 22.26
+    },
+    {
+      "word": "phones.",
+      "start": 22.26,
+      "end": 22.66
+    },
+    {
+      "word": "You",
+      "start": 23.24,
+      "end": 23.36
+    },
+    {
+      "word": "eliminate",
+      "start": 23.36,
+      "end": 23.62
+    },
+    {
+      "word": "paperwork",
+      "start": 23.62,
+      "end": 24.22
+    },
+    {
+      "word": "delays",
+      "start": 24.22,
+      "end": 24.66
+    },
+    {
+      "word": "completely.",
+      "start": 24.66,
+      "end": 25.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Build a mobile app for your field team to log maintenance and scan barcodes.",
+      "line2": "LOG EQUIPMENT MAINTENANCE",
+      "tag": "\ud83d\uded1 Glide customer portal for equipment maintenance logging",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Glide customer portal for equipment maintenance logging",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Glide customer portal for equipment maintenance logging",
+        "subtitle": "Glide customer portal for equipment maintenance logging"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Glide customer portal for equipment maintenance logging"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Glide customer portal for equipment maintenance logging"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Glide customer portal for equipment maintenance logging",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

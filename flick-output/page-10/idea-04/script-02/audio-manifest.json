@@ -1,0 +1,391 @@
+{
+  "page": "page-10",
+  "idea": "Google Gemini workspace integration upgrades for Docs and Sheets",
+  "text": "You can now analyze entire Google Drive folders in one conversational prompt. Account managers lose hours opening dozens of client contracts and spreadsheets just to verify contract terms. Manual file searching leads to overlooked renewal clauses, conflicting numbers, and lost billable hours. Gemini\u2019s workspace integration scans every document across target folders simultaneously, extracting key terms with exact citations instantly. You audit complete client accounts in seconds.",
+  "duration": 30.693,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "can",
+      "start": 0.14,
+      "end": 0.3
+    },
+    {
+      "word": "now",
+      "start": 0.3,
+      "end": 0.62
+    },
+    {
+      "word": "analyze",
+      "start": 0.62,
+      "end": 1.1
+    },
+    {
+      "word": "entire",
+      "start": 1.1,
+      "end": 1.7
+    },
+    {
+      "word": "Google",
+      "start": 1.7,
+      "end": 2.06
+    },
+    {
+      "word": "Drive",
+      "start": 2.06,
+      "end": 2.42
+    },
+    {
+      "word": "folders",
+      "start": 2.42,
+      "end": 2.72
+    },
+    {
+      "word": "in",
+      "start": 2.72,
+      "end": 3.04
+    },
+    {
+      "word": "one",
+      "start": 3.04,
+      "end": 3.36
+    },
+    {
+      "word": "conversational",
+      "start": 3.36,
+      "end": 4.0
+    },
+    {
+      "word": "prompt.",
+      "start": 4.0,
+      "end": 4.54
+    },
+    {
+      "word": "Account",
+      "start": 5.02,
+      "end": 5.3
+    },
+    {
+      "word": "managers",
+      "start": 5.3,
+      "end": 5.72
+    },
+    {
+      "word": "lose",
+      "start": 5.72,
+      "end": 6.22
+    },
+    {
+      "word": "hours",
+      "start": 6.22,
+      "end": 6.58
+    },
+    {
+      "word": "opening",
+      "start": 6.58,
+      "end": 7.06
+    },
+    {
+      "word": "dozens",
+      "start": 7.06,
+      "end": 7.42
+    },
+    {
+      "word": "of",
+      "start": 7.42,
+      "end": 7.7
+    },
+    {
+      "word": "client",
+      "start": 7.7,
+      "end": 7.96
+    },
+    {
+      "word": "contracts",
+      "start": 7.96,
+      "end": 8.52
+    },
+    {
+      "word": "and",
+      "start": 8.52,
+      "end": 8.8
+    },
+    {
+      "word": "spreadsheets",
+      "start": 8.8,
+      "end": 9.34
+    },
+    {
+      "word": "just",
+      "start": 9.34,
+      "end": 9.82
+    },
+    {
+      "word": "to",
+      "start": 9.82,
+      "end": 10.18
+    },
+    {
+      "word": "verify",
+      "start": 10.18,
+      "end": 10.4
+    },
+    {
+      "word": "contract",
+      "start": 10.4,
+      "end": 10.88
+    },
+    {
+      "word": "terms.",
+      "start": 10.88,
+      "end": 11.42
+    },
+    {
+      "word": "Manual",
+      "start": 12.44,
+      "end": 12.44
+    },
+    {
+      "word": "file",
+      "start": 12.44,
+      "end": 12.84
+    },
+    {
+      "word": "searching",
+      "start": 12.84,
+      "end": 13.3
+    },
+    {
+      "word": "leads",
+      "start": 13.3,
+      "end": 13.62
+    },
+    {
+      "word": "to",
+      "start": 13.62,
+      "end": 14.0
+    },
+    {
+      "word": "overlooked",
+      "start": 14.0,
+      "end": 14.3
+    },
+    {
+      "word": "renewal",
+      "start": 14.3,
+      "end": 14.66
+    },
+    {
+      "word": "clauses,",
+      "start": 14.66,
+      "end": 15.28
+    },
+    {
+      "word": "conflicting",
+      "start": 15.94,
+      "end": 15.98
+    },
+    {
+      "word": "numbers,",
+      "start": 15.98,
+      "end": 16.52
+    },
+    {
+      "word": "and",
+      "start": 16.92,
+      "end": 17.1
+    },
+    {
+      "word": "lost",
+      "start": 17.1,
+      "end": 17.44
+    },
+    {
+      "word": "billable",
+      "start": 17.44,
+      "end": 17.86
+    },
+    {
+      "word": "hours.",
+      "start": 17.86,
+      "end": 18.34
+    },
+    {
+      "word": "Gemini's",
+      "start": 18.72,
+      "end": 19.36
+    },
+    {
+      "word": "workspace",
+      "start": 19.36,
+      "end": 19.76
+    },
+    {
+      "word": "integration",
+      "start": 19.76,
+      "end": 20.58
+    },
+    {
+      "word": "scans",
+      "start": 20.58,
+      "end": 21.0
+    },
+    {
+      "word": "every",
+      "start": 21.0,
+      "end": 21.4
+    },
+    {
+      "word": "document",
+      "start": 21.4,
+      "end": 21.82
+    },
+    {
+      "word": "across",
+      "start": 21.82,
+      "end": 22.3
+    },
+    {
+      "word": "target",
+      "start": 22.3,
+      "end": 22.7
+    },
+    {
+      "word": "folders",
+      "start": 22.7,
+      "end": 23.12
+    },
+    {
+      "word": "simultaneously,",
+      "start": 23.12,
+      "end": 24.04
+    },
+    {
+      "word": "extracting",
+      "start": 25.04,
+      "end": 25.04
+    },
+    {
+      "word": "key",
+      "start": 25.04,
+      "end": 25.5
+    },
+    {
+      "word": "terms",
+      "start": 25.5,
+      "end": 25.88
+    },
+    {
+      "word": "with",
+      "start": 25.88,
+      "end": 26.22
+    },
+    {
+      "word": "exact",
+      "start": 26.22,
+      "end": 26.6
+    },
+    {
+      "word": "citations",
+      "start": 26.6,
+      "end": 27.18
+    },
+    {
+      "word": "instantly.",
+      "start": 27.18,
+      "end": 27.84
+    },
+    {
+      "word": "You",
+      "start": 27.84,
+      "end": 28.6
+    },
+    {
+      "word": "audit",
+      "start": 28.6,
+      "end": 28.82
+    },
+    {
+      "word": "complete",
+      "start": 28.82,
+      "end": 29.28
+    },
+    {
+      "word": "client",
+      "start": 29.28,
+      "end": 29.6
+    },
+    {
+      "word": "accounts",
+      "start": 29.6,
+      "end": 30.02
+    },
+    {
+      "word": "in",
+      "start": 30.02,
+      "end": 30.26
+    },
+    {
+      "word": "seconds.",
+      "start": 30.26,
+      "end": 30.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "You can now analyze entire Google Drive folders in one conversational prompt.",
+      "line2": "GEMINI WORKSPACE INTEGRATION UPGRADES",
+      "tag": "\ud83d\uded1 Google Gemini workspace integration upgrades for Docs and Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Google Gemini workspace integration upgrades for Docs and Sheets",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Google Gemini workspace integration upgrades for Docs and Sheets",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

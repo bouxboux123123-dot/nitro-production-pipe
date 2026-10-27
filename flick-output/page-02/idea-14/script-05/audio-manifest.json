@@ -1,0 +1,401 @@
+{
+  "page": "page-02",
+  "idea": "AI audio cleaner for freelance podcasters and video editors",
+  "text": "If your client sent muffled audio, run it through this tool before editing. Freelance editors constantly receive hollow Zoom audio recorded on low-quality laptop microphones. Trying to fix harsh room resonance with stock equalizers leaves voices thin and triggers client revision requests. Descript Studio Sound reconstructs missing frequencies and isolates dialogue so it sounds like a studio recording. You save hours of tedious mixing on every project.",
+  "duration": 27.983,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "your",
+      "start": 0.16,
+      "end": 0.44
+    },
+    {
+      "word": "client",
+      "start": 0.44,
+      "end": 0.62
+    },
+    {
+      "word": "sent",
+      "start": 0.62,
+      "end": 0.96
+    },
+    {
+      "word": "muffled",
+      "start": 0.96,
+      "end": 1.34
+    },
+    {
+      "word": "audio,",
+      "start": 1.34,
+      "end": 1.9
+    },
+    {
+      "word": "run",
+      "start": 2.14,
+      "end": 2.26
+    },
+    {
+      "word": "it",
+      "start": 2.26,
+      "end": 2.48
+    },
+    {
+      "word": "through",
+      "start": 2.48,
+      "end": 2.66
+    },
+    {
+      "word": "this",
+      "start": 2.66,
+      "end": 2.9
+    },
+    {
+      "word": "tool",
+      "start": 2.9,
+      "end": 3.2
+    },
+    {
+      "word": "before",
+      "start": 3.2,
+      "end": 3.62
+    },
+    {
+      "word": "editing.",
+      "start": 3.62,
+      "end": 4.0
+    },
+    {
+      "word": "Freelance",
+      "start": 4.74,
+      "end": 4.98
+    },
+    {
+      "word": "editors",
+      "start": 4.98,
+      "end": 5.42
+    },
+    {
+      "word": "constantly",
+      "start": 5.42,
+      "end": 5.98
+    },
+    {
+      "word": "receive",
+      "start": 5.98,
+      "end": 6.48
+    },
+    {
+      "word": "hollow",
+      "start": 6.48,
+      "end": 6.92
+    },
+    {
+      "word": "zoom",
+      "start": 6.92,
+      "end": 7.22
+    },
+    {
+      "word": "audio",
+      "start": 7.22,
+      "end": 7.64
+    },
+    {
+      "word": "recorded",
+      "start": 7.64,
+      "end": 8.06
+    },
+    {
+      "word": "on",
+      "start": 8.06,
+      "end": 8.36
+    },
+    {
+      "word": "low",
+      "start": 8.36,
+      "end": 8.64
+    },
+    {
+      "word": "quality",
+      "start": 8.64,
+      "end": 9.0
+    },
+    {
+      "word": "laptop",
+      "start": 9.0,
+      "end": 9.46
+    },
+    {
+      "word": "microphones.",
+      "start": 9.46,
+      "end": 10.16
+    },
+    {
+      "word": "Trying",
+      "start": 10.74,
+      "end": 10.94
+    },
+    {
+      "word": "to",
+      "start": 10.94,
+      "end": 11.1
+    },
+    {
+      "word": "fix",
+      "start": 11.1,
+      "end": 11.38
+    },
+    {
+      "word": "harsh",
+      "start": 11.38,
+      "end": 11.74
+    },
+    {
+      "word": "room",
+      "start": 11.74,
+      "end": 12.02
+    },
+    {
+      "word": "resonance",
+      "start": 12.02,
+      "end": 12.36
+    },
+    {
+      "word": "with",
+      "start": 12.36,
+      "end": 12.72
+    },
+    {
+      "word": "stock",
+      "start": 12.72,
+      "end": 13.08
+    },
+    {
+      "word": "equalizers",
+      "start": 13.08,
+      "end": 13.72
+    },
+    {
+      "word": "leaves",
+      "start": 13.72,
+      "end": 14.08
+    },
+    {
+      "word": "voices",
+      "start": 14.08,
+      "end": 14.52
+    },
+    {
+      "word": "thin",
+      "start": 14.52,
+      "end": 14.96
+    },
+    {
+      "word": "and",
+      "start": 14.96,
+      "end": 15.48
+    },
+    {
+      "word": "triggers",
+      "start": 15.48,
+      "end": 15.8
+    },
+    {
+      "word": "client",
+      "start": 15.8,
+      "end": 16.26
+    },
+    {
+      "word": "revision",
+      "start": 16.26,
+      "end": 16.6
+    },
+    {
+      "word": "requests.",
+      "start": 16.6,
+      "end": 17.2
+    },
+    {
+      "word": "Descript",
+      "start": 17.7,
+      "end": 17.98
+    },
+    {
+      "word": "studio",
+      "start": 17.98,
+      "end": 18.36
+    },
+    {
+      "word": "sound",
+      "start": 18.36,
+      "end": 18.9
+    },
+    {
+      "word": "reconstructs",
+      "start": 18.9,
+      "end": 19.76
+    },
+    {
+      "word": "missing",
+      "start": 19.76,
+      "end": 19.98
+    },
+    {
+      "word": "frequencies",
+      "start": 19.98,
+      "end": 20.54
+    },
+    {
+      "word": "and",
+      "start": 20.54,
+      "end": 21.08
+    },
+    {
+      "word": "isolates",
+      "start": 21.08,
+      "end": 21.64
+    },
+    {
+      "word": "dialogue,",
+      "start": 21.64,
+      "end": 22.18
+    },
+    {
+      "word": "so",
+      "start": 22.64,
+      "end": 22.76
+    },
+    {
+      "word": "it",
+      "start": 22.76,
+      "end": 22.92
+    },
+    {
+      "word": "sounds",
+      "start": 22.92,
+      "end": 23.18
+    },
+    {
+      "word": "like",
+      "start": 23.18,
+      "end": 23.4
+    },
+    {
+      "word": "a",
+      "start": 23.4,
+      "end": 23.58
+    },
+    {
+      "word": "studio",
+      "start": 23.58,
+      "end": 23.86
+    },
+    {
+      "word": "recording.",
+      "start": 23.86,
+      "end": 24.34
+    },
+    {
+      "word": "You",
+      "start": 24.34,
+      "end": 25.14
+    },
+    {
+      "word": "save",
+      "start": 25.14,
+      "end": 25.38
+    },
+    {
+      "word": "hours",
+      "start": 25.38,
+      "end": 25.82
+    },
+    {
+      "word": "of",
+      "start": 25.82,
+      "end": 26.38
+    },
+    {
+      "word": "tedious",
+      "start": 26.38,
+      "end": 26.4
+    },
+    {
+      "word": "mixing",
+      "start": 26.4,
+      "end": 26.82
+    },
+    {
+      "word": "on",
+      "start": 26.82,
+      "end": 27.08
+    },
+    {
+      "word": "every",
+      "start": 27.08,
+      "end": 27.38
+    },
+    {
+      "word": "project.",
+      "start": 27.38,
+      "end": 27.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "If your client sent muffled audio, run it through this tool before editing.",
+      "line2": "CLEAN AUDIO INSTANTLY",
+      "tag": "\ud83d\uded1 AI audio cleaner for freelance podcasters and video editors",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI audio cleaner for freelance podcasters and video editors",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI audio cleaner for freelance podcasters and video editors",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI audio cleaner for freelance podcasters and video editors",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

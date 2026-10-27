@@ -1,0 +1,396 @@
+{
+  "page": "page-01",
+  "idea": "Automated creative asset tagging and DAM library for agency designers",
+  "text": "Speed up creative turnaround times by organizing your agency's asset repository today. Deadlines slip and reviews turn stressful when editors cannot locate approved b-roll or sound effects. Without searchable metadata tags, creative teams waste hours each week hunting down missing files. Integrate Frame.io with an Airtable asset manager to automatically index and categorize incoming client media. You ship client projects days faster without administrative drag.",
+  "duration": 29.434,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Speed",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "up",
+      "start": 0.38,
+      "end": 0.64
+    },
+    {
+      "word": "creative",
+      "start": 0.64,
+      "end": 1.06
+    },
+    {
+      "word": "turnaround",
+      "start": 1.06,
+      "end": 1.48
+    },
+    {
+      "word": "times",
+      "start": 1.48,
+      "end": 2.0
+    },
+    {
+      "word": "by",
+      "start": 2.0,
+      "end": 2.4
+    },
+    {
+      "word": "organizing",
+      "start": 2.4,
+      "end": 2.82
+    },
+    {
+      "word": "your",
+      "start": 2.82,
+      "end": 3.24
+    },
+    {
+      "word": "agency's",
+      "start": 3.24,
+      "end": 3.92
+    },
+    {
+      "word": "asset",
+      "start": 3.92,
+      "end": 4.1
+    },
+    {
+      "word": "repository",
+      "start": 4.1,
+      "end": 4.76
+    },
+    {
+      "word": "today.",
+      "start": 4.76,
+      "end": 5.58
+    },
+    {
+      "word": "Deadline's",
+      "start": 6.28,
+      "end": 6.6
+    },
+    {
+      "word": "slip",
+      "start": 6.6,
+      "end": 6.86
+    },
+    {
+      "word": "and",
+      "start": 6.86,
+      "end": 7.24
+    },
+    {
+      "word": "reviews",
+      "start": 7.24,
+      "end": 7.52
+    },
+    {
+      "word": "turn",
+      "start": 7.52,
+      "end": 7.92
+    },
+    {
+      "word": "stressful",
+      "start": 7.92,
+      "end": 8.32
+    },
+    {
+      "word": "when",
+      "start": 8.32,
+      "end": 8.62
+    },
+    {
+      "word": "editors",
+      "start": 8.62,
+      "end": 8.9
+    },
+    {
+      "word": "cannot",
+      "start": 8.9,
+      "end": 9.32
+    },
+    {
+      "word": "locate",
+      "start": 9.32,
+      "end": 9.68
+    },
+    {
+      "word": "approved",
+      "start": 9.68,
+      "end": 10.18
+    },
+    {
+      "word": "B",
+      "start": 10.18,
+      "end": 10.4
+    },
+    {
+      "word": "-roll",
+      "start": 10.4,
+      "end": 10.7
+    },
+    {
+      "word": "or",
+      "start": 10.7,
+      "end": 11.08
+    },
+    {
+      "word": "sound",
+      "start": 11.08,
+      "end": 11.38
+    },
+    {
+      "word": "effects.",
+      "start": 11.38,
+      "end": 11.76
+    },
+    {
+      "word": "Without",
+      "start": 12.16,
+      "end": 12.52
+    },
+    {
+      "word": "searchable",
+      "start": 12.52,
+      "end": 13.04
+    },
+    {
+      "word": "metadata",
+      "start": 13.04,
+      "end": 13.32
+    },
+    {
+      "word": "tags,",
+      "start": 13.32,
+      "end": 13.86
+    },
+    {
+      "word": "creative",
+      "start": 14.32,
+      "end": 14.54
+    },
+    {
+      "word": "teams",
+      "start": 14.54,
+      "end": 15.04
+    },
+    {
+      "word": "waste",
+      "start": 15.04,
+      "end": 15.4
+    },
+    {
+      "word": "hours",
+      "start": 15.4,
+      "end": 15.8
+    },
+    {
+      "word": "each",
+      "start": 15.8,
+      "end": 16.14
+    },
+    {
+      "word": "week",
+      "start": 16.14,
+      "end": 16.4
+    },
+    {
+      "word": "hunting",
+      "start": 16.4,
+      "end": 16.7
+    },
+    {
+      "word": "down",
+      "start": 16.7,
+      "end": 17.06
+    },
+    {
+      "word": "missing",
+      "start": 17.06,
+      "end": 17.26
+    },
+    {
+      "word": "files.",
+      "start": 17.26,
+      "end": 17.82
+    },
+    {
+      "word": "Integrate",
+      "start": 18.52,
+      "end": 18.82
+    },
+    {
+      "word": "Frame,",
+      "start": 18.82,
+      "end": 19.3
+    },
+    {
+      "word": "EO",
+      "start": 19.74,
+      "end": 20.02
+    },
+    {
+      "word": "with",
+      "start": 20.02,
+      "end": 20.14
+    },
+    {
+      "word": "an",
+      "start": 20.14,
+      "end": 20.36
+    },
+    {
+      "word": "irritable",
+      "start": 20.36,
+      "end": 20.74
+    },
+    {
+      "word": "asset",
+      "start": 20.74,
+      "end": 21.12
+    },
+    {
+      "word": "manager",
+      "start": 21.12,
+      "end": 21.52
+    },
+    {
+      "word": "to",
+      "start": 21.52,
+      "end": 21.94
+    },
+    {
+      "word": "automatically",
+      "start": 21.94,
+      "end": 22.36
+    },
+    {
+      "word": "index",
+      "start": 22.36,
+      "end": 22.88
+    },
+    {
+      "word": "and",
+      "start": 22.88,
+      "end": 23.46
+    },
+    {
+      "word": "categorize",
+      "start": 23.46,
+      "end": 23.96
+    },
+    {
+      "word": "incoming",
+      "start": 23.96,
+      "end": 24.36
+    },
+    {
+      "word": "client",
+      "start": 24.36,
+      "end": 24.86
+    },
+    {
+      "word": "media.",
+      "start": 24.86,
+      "end": 25.24
+    },
+    {
+      "word": "You",
+      "start": 25.24,
+      "end": 26.0
+    },
+    {
+      "word": "ship",
+      "start": 26.0,
+      "end": 26.26
+    },
+    {
+      "word": "client",
+      "start": 26.26,
+      "end": 26.64
+    },
+    {
+      "word": "projects",
+      "start": 26.64,
+      "end": 27.12
+    },
+    {
+      "word": "days",
+      "start": 27.12,
+      "end": 27.5
+    },
+    {
+      "word": "faster",
+      "start": 27.5,
+      "end": 27.94
+    },
+    {
+      "word": "without",
+      "start": 27.94,
+      "end": 28.32
+    },
+    {
+      "word": "administrative",
+      "start": 28.32,
+      "end": 28.88
+    },
+    {
+      "word": "drag.",
+      "start": 28.88,
+      "end": 29.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Speed up creative turnaround times by organizing your asset repository.",
+      "line2": "AUTO-TAG CREATIVE ASSETS",
+      "tag": "\ud83d\uded1 Automated creative asset tagging and DAM library for agency designers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated creative asset tagging and DAM library for agency designers",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated creative asset tagging and DAM library for agency designers",
+        "subtitle": "Automated creative asset tagging and DAM library for agency designers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated creative asset tagging and DAM library for agency designers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated creative asset tagging and DAM library for agency designers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated creative asset tagging and DAM library for agency designers",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-05",
+  "idea": "Webflow logic forms that route leads to different sales reps",
+  "text": "Double your sales conversion rate by answering high-value leads instantly. Inbound prospects research multiple competitors simultaneously, booking calls with whichever team replies first. Routing inquiries through manual review sheets slows down response times and destroys conversion rates. Use Make.com routers to enrich lead data via Clearbit and fire instant WhatsApp messages to VIP prospects. You capture top-tier accounts before competitors even respond.",
+  "duration": 29.135,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Double",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "your",
+      "start": 0.3,
+      "end": 0.56
+    },
+    {
+      "word": "sales",
+      "start": 0.56,
+      "end": 0.92
+    },
+    {
+      "word": "conversion",
+      "start": 0.92,
+      "end": 1.34
+    },
+    {
+      "word": "rate",
+      "start": 1.34,
+      "end": 1.68
+    },
+    {
+      "word": "by",
+      "start": 1.68,
+      "end": 2.02
+    },
+    {
+      "word": "answering",
+      "start": 2.02,
+      "end": 2.32
+    },
+    {
+      "word": "high",
+      "start": 2.32,
+      "end": 2.68
+    },
+    {
+      "word": "value",
+      "start": 2.68,
+      "end": 2.98
+    },
+    {
+      "word": "leads",
+      "start": 2.98,
+      "end": 3.38
+    },
+    {
+      "word": "instantly.",
+      "start": 3.38,
+      "end": 4.08
+    },
+    {
+      "word": "Inbound",
+      "start": 4.68,
+      "end": 5.0
+    },
+    {
+      "word": "prospects",
+      "start": 5.0,
+      "end": 5.52
+    },
+    {
+      "word": "research",
+      "start": 5.52,
+      "end": 6.08
+    },
+    {
+      "word": "multiple",
+      "start": 6.08,
+      "end": 6.56
+    },
+    {
+      "word": "competitors",
+      "start": 6.56,
+      "end": 7.12
+    },
+    {
+      "word": "simultaneously,",
+      "start": 7.12,
+      "end": 8.0
+    },
+    {
+      "word": "booking",
+      "start": 8.82,
+      "end": 9.0
+    },
+    {
+      "word": "calls",
+      "start": 9.0,
+      "end": 9.38
+    },
+    {
+      "word": "with",
+      "start": 9.38,
+      "end": 9.58
+    },
+    {
+      "word": "whichever",
+      "start": 9.58,
+      "end": 10.0
+    },
+    {
+      "word": "team",
+      "start": 10.0,
+      "end": 10.34
+    },
+    {
+      "word": "replies",
+      "start": 10.34,
+      "end": 10.76
+    },
+    {
+      "word": "first.",
+      "start": 10.76,
+      "end": 11.44
+    },
+    {
+      "word": "Routing",
+      "start": 12.0,
+      "end": 12.22
+    },
+    {
+      "word": "inquiries",
+      "start": 12.22,
+      "end": 12.68
+    },
+    {
+      "word": "through",
+      "start": 12.68,
+      "end": 13.1
+    },
+    {
+      "word": "manual",
+      "start": 13.1,
+      "end": 13.52
+    },
+    {
+      "word": "review",
+      "start": 13.52,
+      "end": 13.88
+    },
+    {
+      "word": "sheets,",
+      "start": 13.88,
+      "end": 14.34
+    },
+    {
+      "word": "slows",
+      "start": 14.52,
+      "end": 14.72
+    },
+    {
+      "word": "down",
+      "start": 14.72,
+      "end": 15.12
+    },
+    {
+      "word": "response",
+      "start": 15.12,
+      "end": 15.54
+    },
+    {
+      "word": "times,",
+      "start": 15.54,
+      "end": 16.0
+    },
+    {
+      "word": "and",
+      "start": 16.28,
+      "end": 16.48
+    },
+    {
+      "word": "destroys",
+      "start": 16.48,
+      "end": 16.86
+    },
+    {
+      "word": "conversion",
+      "start": 16.86,
+      "end": 17.32
+    },
+    {
+      "word": "rates.",
+      "start": 17.32,
+      "end": 17.84
+    },
+    {
+      "word": "You",
+      "start": 18.24,
+      "end": 18.38
+    },
+    {
+      "word": "make",
+      "start": 18.38,
+      "end": 18.74
+    },
+    {
+      "word": "calm",
+      "start": 18.74,
+      "end": 19.16
+    },
+    {
+      "word": "routers",
+      "start": 19.16,
+      "end": 19.48
+    },
+    {
+      "word": "to",
+      "start": 19.48,
+      "end": 19.84
+    },
+    {
+      "word": "enrich",
+      "start": 19.84,
+      "end": 20.1
+    },
+    {
+      "word": "lead",
+      "start": 20.1,
+      "end": 20.44
+    },
+    {
+      "word": "data",
+      "start": 20.44,
+      "end": 20.7
+    },
+    {
+      "word": "via",
+      "start": 20.7,
+      "end": 21.06
+    },
+    {
+      "word": "clear",
+      "start": 21.06,
+      "end": 21.32
+    },
+    {
+      "word": "bit",
+      "start": 21.32,
+      "end": 21.5
+    },
+    {
+      "word": "and",
+      "start": 21.5,
+      "end": 21.72
+    },
+    {
+      "word": "fire",
+      "start": 21.72,
+      "end": 22.0
+    },
+    {
+      "word": "instant.",
+      "start": 22.0,
+      "end": 22.44
+    },
+    {
+      "word": "What's",
+      "start": 22.82,
+      "end": 23.1
+    },
+    {
+      "word": "app",
+      "start": 23.1,
+      "end": 23.28
+    },
+    {
+      "word": "messages",
+      "start": 23.28,
+      "end": 23.64
+    },
+    {
+      "word": "to",
+      "start": 23.64,
+      "end": 24.06
+    },
+    {
+      "word": "VIP",
+      "start": 24.06,
+      "end": 24.42
+    },
+    {
+      "word": "prospects.",
+      "start": 24.42,
+      "end": 25.1
+    },
+    {
+      "word": "You",
+      "start": 25.1,
+      "end": 25.84
+    },
+    {
+      "word": "capture",
+      "start": 25.84,
+      "end": 26.18
+    },
+    {
+      "word": "top",
+      "start": 26.18,
+      "end": 26.56
+    },
+    {
+      "word": "tier",
+      "start": 26.56,
+      "end": 26.78
+    },
+    {
+      "word": "accounts",
+      "start": 26.78,
+      "end": 27.18
+    },
+    {
+      "word": "before",
+      "start": 27.18,
+      "end": 27.56
+    },
+    {
+      "word": "competitors",
+      "start": 27.56,
+      "end": 28.0
+    },
+    {
+      "word": "even",
+      "start": 28.0,
+      "end": 28.5
+    },
+    {
+      "word": "respond.",
+      "start": 28.5,
+      "end": 29.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Double your sales conversion rate by answering high-value leads instantly.",
+      "line2": "ROUTE LEADS INSTANTLY",
+      "tag": "\ud83d\uded1 Webflow logic forms that route leads to different sales reps",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Webflow logic forms that route leads to different sales reps",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Webflow logic forms that route leads to different sales reps",
+        "subtitle": "Webflow logic forms that route leads to different sales reps"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Webflow logic forms that route leads to different sales reps"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Webflow logic forms that route leads to different sales reps"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Webflow logic forms that route leads to different sales reps",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-02",
+  "idea": "AI presentation slide designer for freelance consultants",
+  "text": "Stop spending four hours designing PowerPoint slides for client pitches. Staring at blank slides while wrestling with margins and typography turns exciting consulting pitches into administrative dread. Clunky slide templates make your proposals look outdated, causing enterprise leads to question your five-figure pricing. Use Beautiful.ai to convert rough project briefs into smart slide layouts that adapt typography and charts automatically. You close high-value deals with breathtaking visual decks.",
+  "duration": 30.671,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "spending",
+      "start": 0.4,
+      "end": 0.72
+    },
+    {
+      "word": "four",
+      "start": 0.72,
+      "end": 1.16
+    },
+    {
+      "word": "hours",
+      "start": 1.16,
+      "end": 1.5
+    },
+    {
+      "word": "designing",
+      "start": 1.5,
+      "end": 2.0
+    },
+    {
+      "word": "PowerPoint",
+      "start": 2.0,
+      "end": 2.48
+    },
+    {
+      "word": "slides",
+      "start": 2.48,
+      "end": 2.98
+    },
+    {
+      "word": "for",
+      "start": 2.98,
+      "end": 3.28
+    },
+    {
+      "word": "client",
+      "start": 3.28,
+      "end": 3.6
+    },
+    {
+      "word": "pitches.",
+      "start": 3.6,
+      "end": 4.08
+    },
+    {
+      "word": "Staring",
+      "start": 4.74,
+      "end": 5.02
+    },
+    {
+      "word": "at",
+      "start": 5.02,
+      "end": 5.26
+    },
+    {
+      "word": "blank",
+      "start": 5.26,
+      "end": 5.52
+    },
+    {
+      "word": "slides,",
+      "start": 5.52,
+      "end": 5.94
+    },
+    {
+      "word": "while",
+      "start": 6.34,
+      "end": 6.52
+    },
+    {
+      "word": "wrestling",
+      "start": 6.52,
+      "end": 6.8
+    },
+    {
+      "word": "with",
+      "start": 6.8,
+      "end": 7.16
+    },
+    {
+      "word": "margins",
+      "start": 7.16,
+      "end": 7.66
+    },
+    {
+      "word": "and",
+      "start": 7.66,
+      "end": 8.12
+    },
+    {
+      "word": "typography",
+      "start": 8.12,
+      "end": 8.66
+    },
+    {
+      "word": "turns,",
+      "start": 8.66,
+      "end": 9.18
+    },
+    {
+      "word": "exciting",
+      "start": 9.62,
+      "end": 9.94
+    },
+    {
+      "word": "consulting",
+      "start": 9.94,
+      "end": 10.54
+    },
+    {
+      "word": "pitches",
+      "start": 10.54,
+      "end": 10.98
+    },
+    {
+      "word": "into",
+      "start": 10.98,
+      "end": 11.34
+    },
+    {
+      "word": "administrative",
+      "start": 11.34,
+      "end": 11.86
+    },
+    {
+      "word": "dread.",
+      "start": 11.86,
+      "end": 12.52
+    },
+    {
+      "word": "Clunky",
+      "start": 12.92,
+      "end": 13.06
+    },
+    {
+      "word": "slide",
+      "start": 13.06,
+      "end": 13.48
+    },
+    {
+      "word": "templates",
+      "start": 13.48,
+      "end": 13.82
+    },
+    {
+      "word": "make",
+      "start": 13.82,
+      "end": 14.12
+    },
+    {
+      "word": "your",
+      "start": 14.12,
+      "end": 14.34
+    },
+    {
+      "word": "proposals",
+      "start": 14.34,
+      "end": 14.7
+    },
+    {
+      "word": "look",
+      "start": 14.7,
+      "end": 15.02
+    },
+    {
+      "word": "outdated,",
+      "start": 15.02,
+      "end": 15.48
+    },
+    {
+      "word": "causing",
+      "start": 16.1,
+      "end": 16.24
+    },
+    {
+      "word": "enterprise",
+      "start": 16.24,
+      "end": 16.7
+    },
+    {
+      "word": "leads",
+      "start": 16.7,
+      "end": 17.16
+    },
+    {
+      "word": "to",
+      "start": 17.16,
+      "end": 17.38
+    },
+    {
+      "word": "question",
+      "start": 17.38,
+      "end": 17.7
+    },
+    {
+      "word": "your",
+      "start": 17.7,
+      "end": 18.0
+    },
+    {
+      "word": "five",
+      "start": 18.0,
+      "end": 18.32
+    },
+    {
+      "word": "figure",
+      "start": 18.32,
+      "end": 18.58
+    },
+    {
+      "word": "pricing.",
+      "start": 18.58,
+      "end": 19.0
+    },
+    {
+      "word": "Use",
+      "start": 19.58,
+      "end": 19.8
+    },
+    {
+      "word": "beautiful,",
+      "start": 19.8,
+      "end": 20.3
+    },
+    {
+      "word": "AI",
+      "start": 20.78,
+      "end": 21.1
+    },
+    {
+      "word": "to",
+      "start": 21.1,
+      "end": 21.44
+    },
+    {
+      "word": "convert",
+      "start": 21.44,
+      "end": 21.72
+    },
+    {
+      "word": "rough",
+      "start": 21.72,
+      "end": 22.06
+    },
+    {
+      "word": "project",
+      "start": 22.06,
+      "end": 22.54
+    },
+    {
+      "word": "briefs",
+      "start": 22.54,
+      "end": 22.82
+    },
+    {
+      "word": "into",
+      "start": 22.82,
+      "end": 23.14
+    },
+    {
+      "word": "smart",
+      "start": 23.14,
+      "end": 23.56
+    },
+    {
+      "word": "slide",
+      "start": 23.56,
+      "end": 23.88
+    },
+    {
+      "word": "layouts",
+      "start": 23.88,
+      "end": 24.26
+    },
+    {
+      "word": "that",
+      "start": 24.26,
+      "end": 24.58
+    },
+    {
+      "word": "adapt",
+      "start": 24.58,
+      "end": 24.9
+    },
+    {
+      "word": "typography",
+      "start": 24.9,
+      "end": 25.64
+    },
+    {
+      "word": "and",
+      "start": 25.64,
+      "end": 25.9
+    },
+    {
+      "word": "charts",
+      "start": 25.9,
+      "end": 26.3
+    },
+    {
+      "word": "automatically.",
+      "start": 26.3,
+      "end": 26.88
+    },
+    {
+      "word": "You",
+      "start": 26.88,
+      "end": 27.7
+    },
+    {
+      "word": "close",
+      "start": 27.7,
+      "end": 27.98
+    },
+    {
+      "word": "high",
+      "start": 27.98,
+      "end": 28.38
+    },
+    {
+      "word": "value",
+      "start": 28.38,
+      "end": 28.62
+    },
+    {
+      "word": "deals",
+      "start": 28.62,
+      "end": 28.98
+    },
+    {
+      "word": "with",
+      "start": 28.98,
+      "end": 29.3
+    },
+    {
+      "word": "breathtaking",
+      "start": 29.3,
+      "end": 29.72
+    },
+    {
+      "word": "visual",
+      "start": 29.72,
+      "end": 30.26
+    },
+    {
+      "word": "decks.",
+      "start": 30.26,
+      "end": 30.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop spending 4 hours designing PowerPoint slides for client pitches.",
+      "line2": "DESIGN SLIDES FASTER",
+      "tag": "\ud83d\uded1 AI presentation slide designer for freelance consultants",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI presentation slide designer for freelance consultants",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI presentation slide designer for freelance consultants",
+        "subtitle": "AI presentation slide designer for freelance consultants"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI presentation slide designer for freelance consultants"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI presentation slide designer for freelance consultants"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI presentation slide designer for freelance consultants",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

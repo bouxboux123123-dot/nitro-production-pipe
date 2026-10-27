@@ -1,0 +1,401 @@
+{
+  "page": "page-03",
+  "idea": "AI newsletter curation system for a paid subscription community",
+  "text": "How to build a profitable weekly newsletter side hustle in just two hours a week. Solo publishers waste twelve hours scouring blogs, copying links, and writing manual summaries. That research grind causes quick burnout, killing subscriber retention before you ever monetize. Connect Feedly RSS feeds through Make to Claude, automatically drafting curated roundups directly inside Beehiiv. You ship premium weekly newsletters on autopilot while saving ten hours.",
+  "duration": 28.794,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "to",
+      "start": 0.2,
+      "end": 0.32
+    },
+    {
+      "word": "build",
+      "start": 0.32,
+      "end": 0.5
+    },
+    {
+      "word": "a",
+      "start": 0.5,
+      "end": 1.0
+    },
+    {
+      "word": "profitable",
+      "start": 1.0,
+      "end": 1.14
+    },
+    {
+      "word": "weekly",
+      "start": 1.14,
+      "end": 1.52
+    },
+    {
+      "word": "newsletter",
+      "start": 1.52,
+      "end": 1.9
+    },
+    {
+      "word": "side",
+      "start": 1.9,
+      "end": 2.46
+    },
+    {
+      "word": "hustle",
+      "start": 2.46,
+      "end": 2.78
+    },
+    {
+      "word": "in",
+      "start": 2.78,
+      "end": 2.92
+    },
+    {
+      "word": "just",
+      "start": 2.92,
+      "end": 3.2
+    },
+    {
+      "word": "two",
+      "start": 3.2,
+      "end": 3.44
+    },
+    {
+      "word": "hours",
+      "start": 3.44,
+      "end": 3.7
+    },
+    {
+      "word": "a",
+      "start": 3.7,
+      "end": 3.86
+    },
+    {
+      "word": "week.",
+      "start": 3.86,
+      "end": 4.54
+    },
+    {
+      "word": "Solo",
+      "start": 4.96,
+      "end": 4.96
+    },
+    {
+      "word": "publishers",
+      "start": 4.96,
+      "end": 5.36
+    },
+    {
+      "word": "waste",
+      "start": 5.36,
+      "end": 5.8
+    },
+    {
+      "word": "12",
+      "start": 5.8,
+      "end": 6.22
+    },
+    {
+      "word": "hours",
+      "start": 6.22,
+      "end": 6.62
+    },
+    {
+      "word": "scouring",
+      "start": 6.62,
+      "end": 7.04
+    },
+    {
+      "word": "blogs,",
+      "start": 7.04,
+      "end": 7.6
+    },
+    {
+      "word": "copying",
+      "start": 8.1,
+      "end": 8.24
+    },
+    {
+      "word": "links,",
+      "start": 8.24,
+      "end": 8.68
+    },
+    {
+      "word": "and",
+      "start": 8.96,
+      "end": 9.14
+    },
+    {
+      "word": "writing",
+      "start": 9.14,
+      "end": 9.44
+    },
+    {
+      "word": "manual",
+      "start": 9.44,
+      "end": 9.9
+    },
+    {
+      "word": "summaries.",
+      "start": 9.9,
+      "end": 10.38
+    },
+    {
+      "word": "That",
+      "start": 10.96,
+      "end": 11.22
+    },
+    {
+      "word": "research",
+      "start": 11.22,
+      "end": 11.64
+    },
+    {
+      "word": "grind",
+      "start": 11.64,
+      "end": 12.06
+    },
+    {
+      "word": "causes",
+      "start": 12.06,
+      "end": 12.44
+    },
+    {
+      "word": "quick",
+      "start": 12.44,
+      "end": 12.86
+    },
+    {
+      "word": "burnout,",
+      "start": 12.86,
+      "end": 13.5
+    },
+    {
+      "word": "killing",
+      "start": 13.66,
+      "end": 13.92
+    },
+    {
+      "word": "subscriber",
+      "start": 13.92,
+      "end": 14.52
+    },
+    {
+      "word": "retention",
+      "start": 14.52,
+      "end": 15.06
+    },
+    {
+      "word": "before",
+      "start": 15.06,
+      "end": 15.46
+    },
+    {
+      "word": "you",
+      "start": 15.46,
+      "end": 15.72
+    },
+    {
+      "word": "ever",
+      "start": 15.72,
+      "end": 15.94
+    },
+    {
+      "word": "monetize.",
+      "start": 15.94,
+      "end": 16.68
+    },
+    {
+      "word": "Connect",
+      "start": 17.22,
+      "end": 17.22
+    },
+    {
+      "word": "feedly",
+      "start": 17.22,
+      "end": 17.76
+    },
+    {
+      "word": "RSS",
+      "start": 17.76,
+      "end": 18.18
+    },
+    {
+      "word": "feeds",
+      "start": 18.18,
+      "end": 18.66
+    },
+    {
+      "word": "through",
+      "start": 18.66,
+      "end": 18.94
+    },
+    {
+      "word": "make",
+      "start": 18.94,
+      "end": 19.14
+    },
+    {
+      "word": "-to",
+      "start": 19.14,
+      "end": 19.38
+    },
+    {
+      "word": "-clawed,",
+      "start": 19.38,
+      "end": 20.14
+    },
+    {
+      "word": "automatically",
+      "start": 20.7,
+      "end": 20.7
+    },
+    {
+      "word": "drafting",
+      "start": 20.7,
+      "end": 21.3
+    },
+    {
+      "word": "curated",
+      "start": 21.3,
+      "end": 21.78
+    },
+    {
+      "word": "round",
+      "start": 21.78,
+      "end": 22.12
+    },
+    {
+      "word": "-ups",
+      "start": 22.12,
+      "end": 22.44
+    },
+    {
+      "word": "directly",
+      "start": 22.44,
+      "end": 23.12
+    },
+    {
+      "word": "inside",
+      "start": 23.12,
+      "end": 23.62
+    },
+    {
+      "word": "Behiv.",
+      "start": 23.62,
+      "end": 24.06
+    },
+    {
+      "word": "You",
+      "start": 24.06,
+      "end": 24.8
+    },
+    {
+      "word": "ship",
+      "start": 24.8,
+      "end": 25.06
+    },
+    {
+      "word": "premium",
+      "start": 25.06,
+      "end": 25.48
+    },
+    {
+      "word": "weekly",
+      "start": 25.48,
+      "end": 25.86
+    },
+    {
+      "word": "newsletters",
+      "start": 25.86,
+      "end": 26.28
+    },
+    {
+      "word": "on",
+      "start": 26.28,
+      "end": 26.72
+    },
+    {
+      "word": "autopilot",
+      "start": 26.72,
+      "end": 27.36
+    },
+    {
+      "word": "while",
+      "start": 27.36,
+      "end": 27.64
+    },
+    {
+      "word": "saving",
+      "start": 27.64,
+      "end": 27.96
+    },
+    {
+      "word": "10",
+      "start": 27.96,
+      "end": 28.34
+    },
+    {
+      "word": "hours.",
+      "start": 28.34,
+      "end": 28.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How to build a profitable weekly newsletter side hustle in just 2 hours a week.",
+      "line2": "CURATE PAID NEWSLETTERS",
+      "tag": "\ud83d\uded1 AI newsletter curation system for a paid subscription community",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: AI newsletter curation system for a paid subscription community",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: AI newsletter curation system for a paid subscription community",
+        "subtitle": "AI newsletter curation system for a paid subscription community"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "AI newsletter curation system for a paid subscription community"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "AI newsletter curation system for a paid subscription community"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "AI newsletter curation system for a paid subscription community",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

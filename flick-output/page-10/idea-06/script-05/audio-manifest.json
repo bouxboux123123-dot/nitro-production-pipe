@@ -1,0 +1,386 @@
+{
+  "page": "page-10",
+  "idea": "Slack AI summary features and channel catch-up automation",
+  "text": "This new Slack feature is genuinely the best upgrade to team communication in years. Searching for obscure files or past client approvals inside bloated chat histories feels impossible. Basic keyword searches return hundreds of irrelevant messages, forcing you to read endless threads. Slack AI search answers natural language questions instantly by synthesizing relevant messages, canvases, and links. You find exact project answers in five seconds.",
+  "duration": 26.368,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "new",
+      "start": 0.22,
+      "end": 0.44
+    },
+    {
+      "word": "Slack",
+      "start": 0.44,
+      "end": 0.68
+    },
+    {
+      "word": "feature",
+      "start": 0.68,
+      "end": 0.98
+    },
+    {
+      "word": "is",
+      "start": 0.98,
+      "end": 1.38
+    },
+    {
+      "word": "genuinely",
+      "start": 1.38,
+      "end": 1.68
+    },
+    {
+      "word": "the",
+      "start": 1.68,
+      "end": 1.88
+    },
+    {
+      "word": "best",
+      "start": 1.88,
+      "end": 2.18
+    },
+    {
+      "word": "upgrade",
+      "start": 2.18,
+      "end": 2.48
+    },
+    {
+      "word": "to",
+      "start": 2.48,
+      "end": 2.76
+    },
+    {
+      "word": "team",
+      "start": 2.76,
+      "end": 3.02
+    },
+    {
+      "word": "communication",
+      "start": 3.02,
+      "end": 3.58
+    },
+    {
+      "word": "in",
+      "start": 3.58,
+      "end": 3.88
+    },
+    {
+      "word": "years.",
+      "start": 3.88,
+      "end": 4.38
+    },
+    {
+      "word": "Searching",
+      "start": 4.84,
+      "end": 5.06
+    },
+    {
+      "word": "for",
+      "start": 5.06,
+      "end": 5.24
+    },
+    {
+      "word": "obscure",
+      "start": 5.24,
+      "end": 5.5
+    },
+    {
+      "word": "files",
+      "start": 5.5,
+      "end": 6.02
+    },
+    {
+      "word": "or",
+      "start": 6.02,
+      "end": 6.48
+    },
+    {
+      "word": "past",
+      "start": 6.48,
+      "end": 6.76
+    },
+    {
+      "word": "client",
+      "start": 6.76,
+      "end": 7.04
+    },
+    {
+      "word": "approvals",
+      "start": 7.04,
+      "end": 7.52
+    },
+    {
+      "word": "inside",
+      "start": 7.52,
+      "end": 8.14
+    },
+    {
+      "word": "bloated",
+      "start": 8.14,
+      "end": 8.46
+    },
+    {
+      "word": "chat",
+      "start": 8.46,
+      "end": 8.78
+    },
+    {
+      "word": "histories",
+      "start": 8.78,
+      "end": 9.1
+    },
+    {
+      "word": "feels",
+      "start": 9.1,
+      "end": 9.54
+    },
+    {
+      "word": "impossible.",
+      "start": 9.54,
+      "end": 10.26
+    },
+    {
+      "word": "Basic",
+      "start": 11.06,
+      "end": 11.06
+    },
+    {
+      "word": "keyword",
+      "start": 11.06,
+      "end": 11.36
+    },
+    {
+      "word": "searches",
+      "start": 11.36,
+      "end": 11.9
+    },
+    {
+      "word": "return",
+      "start": 11.9,
+      "end": 12.28
+    },
+    {
+      "word": "hundreds",
+      "start": 12.28,
+      "end": 12.7
+    },
+    {
+      "word": "of",
+      "start": 12.7,
+      "end": 12.96
+    },
+    {
+      "word": "irrelevant",
+      "start": 12.96,
+      "end": 13.3
+    },
+    {
+      "word": "messages,",
+      "start": 13.3,
+      "end": 13.84
+    },
+    {
+      "word": "forcing",
+      "start": 14.28,
+      "end": 14.46
+    },
+    {
+      "word": "you",
+      "start": 14.46,
+      "end": 14.76
+    },
+    {
+      "word": "to",
+      "start": 14.76,
+      "end": 14.86
+    },
+    {
+      "word": "read",
+      "start": 14.86,
+      "end": 15.14
+    },
+    {
+      "word": "endless",
+      "start": 15.14,
+      "end": 15.48
+    },
+    {
+      "word": "threads.",
+      "start": 15.48,
+      "end": 16.06
+    },
+    {
+      "word": "Slack",
+      "start": 16.64,
+      "end": 16.92
+    },
+    {
+      "word": "AI",
+      "start": 16.92,
+      "end": 17.4
+    },
+    {
+      "word": "search",
+      "start": 17.4,
+      "end": 17.74
+    },
+    {
+      "word": "answers",
+      "start": 17.74,
+      "end": 18.08
+    },
+    {
+      "word": "natural",
+      "start": 18.08,
+      "end": 18.56
+    },
+    {
+      "word": "language",
+      "start": 18.56,
+      "end": 18.86
+    },
+    {
+      "word": "questions",
+      "start": 18.86,
+      "end": 19.44
+    },
+    {
+      "word": "instantly",
+      "start": 19.44,
+      "end": 19.94
+    },
+    {
+      "word": "by",
+      "start": 19.94,
+      "end": 20.44
+    },
+    {
+      "word": "synthesizing",
+      "start": 20.44,
+      "end": 20.98
+    },
+    {
+      "word": "relevant",
+      "start": 20.98,
+      "end": 21.34
+    },
+    {
+      "word": "messages,",
+      "start": 21.34,
+      "end": 21.9
+    },
+    {
+      "word": "canvases,",
+      "start": 22.42,
+      "end": 22.8
+    },
+    {
+      "word": "and",
+      "start": 22.9,
+      "end": 23.04
+    },
+    {
+      "word": "links.",
+      "start": 23.04,
+      "end": 23.3
+    },
+    {
+      "word": "You",
+      "start": 23.78,
+      "end": 23.9
+    },
+    {
+      "word": "find",
+      "start": 23.9,
+      "end": 24.14
+    },
+    {
+      "word": "exact",
+      "start": 24.14,
+      "end": 24.54
+    },
+    {
+      "word": "project",
+      "start": 24.54,
+      "end": 25.0
+    },
+    {
+      "word": "answers",
+      "start": 25.0,
+      "end": 25.32
+    },
+    {
+      "word": "in",
+      "start": 25.32,
+      "end": 25.62
+    },
+    {
+      "word": "five",
+      "start": 25.62,
+      "end": 25.96
+    },
+    {
+      "word": "seconds.",
+      "start": 25.96,
+      "end": 26.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Why this small Slack feature is the best thing to happen to team chat in years.",
+      "line2": "SLACK AI CHANNEL SUMMARIES",
+      "tag": "\ud83d\uded1 Slack AI summary features and channel catch-up automation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Slack AI summary features and channel catch-up automation",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Slack AI summary features and channel catch-up automation",
+        "subtitle": "Slack AI summary features and channel catch-up automation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Slack AI summary features and channel catch-up automation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Slack AI summary features and channel catch-up automation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Slack AI summary features and channel catch-up automation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

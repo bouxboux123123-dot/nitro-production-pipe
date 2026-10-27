@@ -1,0 +1,416 @@
+{
+  "page": "page-05",
+  "idea": "Notion automated database buttons for recurring task creation",
+  "text": "This sixty-second Notion upgrade saves hours of repetitive administrative work. Starting every project sprint by hand-typing identical subtasks drains mental energy and invites execution errors. Inconsistent tracking structures prevent managers from measuring team bandwidth or tracking milestone progress accurately. Embed custom Notion action buttons directly into your project summary pages to spawn complete sprint backlogs instantly. You streamline project delivery while scaling your output without extra stress.",
+  "duration": 32.271,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "60",
+      "start": 0.24,
+      "end": 0.52
+    },
+    {
+      "word": "-second",
+      "start": 0.52,
+      "end": 0.86
+    },
+    {
+      "word": "notion",
+      "start": 0.86,
+      "end": 1.26
+    },
+    {
+      "word": "upgrade",
+      "start": 1.26,
+      "end": 1.68
+    },
+    {
+      "word": "saves",
+      "start": 1.68,
+      "end": 2.18
+    },
+    {
+      "word": "hours",
+      "start": 2.18,
+      "end": 2.62
+    },
+    {
+      "word": "of",
+      "start": 2.62,
+      "end": 2.86
+    },
+    {
+      "word": "repetitive",
+      "start": 2.86,
+      "end": 3.3
+    },
+    {
+      "word": "administrative",
+      "start": 3.3,
+      "end": 3.88
+    },
+    {
+      "word": "work.",
+      "start": 3.88,
+      "end": 4.58
+    },
+    {
+      "word": "Starting",
+      "start": 5.16,
+      "end": 5.16
+    },
+    {
+      "word": "every",
+      "start": 5.16,
+      "end": 5.58
+    },
+    {
+      "word": "project",
+      "start": 5.58,
+      "end": 6.02
+    },
+    {
+      "word": "sprint",
+      "start": 6.02,
+      "end": 6.4
+    },
+    {
+      "word": "by",
+      "start": 6.4,
+      "end": 6.68
+    },
+    {
+      "word": "hand",
+      "start": 6.68,
+      "end": 6.94
+    },
+    {
+      "word": "-typing",
+      "start": 6.94,
+      "end": 7.28
+    },
+    {
+      "word": "identical",
+      "start": 7.28,
+      "end": 7.94
+    },
+    {
+      "word": "sub",
+      "start": 7.94,
+      "end": 8.24
+    },
+    {
+      "word": "-tasks,",
+      "start": 8.24,
+      "end": 8.72
+    },
+    {
+      "word": "drains",
+      "start": 9.0,
+      "end": 9.34
+    },
+    {
+      "word": "mental",
+      "start": 9.34,
+      "end": 9.74
+    },
+    {
+      "word": "energy,",
+      "start": 9.74,
+      "end": 10.2
+    },
+    {
+      "word": "and",
+      "start": 10.56,
+      "end": 10.8
+    },
+    {
+      "word": "invites",
+      "start": 10.8,
+      "end": 11.08
+    },
+    {
+      "word": "execution",
+      "start": 11.08,
+      "end": 11.64
+    },
+    {
+      "word": "errors.",
+      "start": 11.64,
+      "end": 12.22
+    },
+    {
+      "word": "In",
+      "start": 12.9,
+      "end": 13.0
+    },
+    {
+      "word": "consistent",
+      "start": 13.0,
+      "end": 13.4
+    },
+    {
+      "word": "tracking",
+      "start": 13.4,
+      "end": 13.9
+    },
+    {
+      "word": "structures,",
+      "start": 13.9,
+      "end": 14.56
+    },
+    {
+      "word": "prevent",
+      "start": 14.88,
+      "end": 15.08
+    },
+    {
+      "word": "managers",
+      "start": 15.08,
+      "end": 15.54
+    },
+    {
+      "word": "from",
+      "start": 15.54,
+      "end": 15.9
+    },
+    {
+      "word": "measuring",
+      "start": 15.9,
+      "end": 16.26
+    },
+    {
+      "word": "team",
+      "start": 16.26,
+      "end": 16.64
+    },
+    {
+      "word": "bandwidth",
+      "start": 16.64,
+      "end": 17.02
+    },
+    {
+      "word": "or",
+      "start": 17.02,
+      "end": 17.6
+    },
+    {
+      "word": "tracking",
+      "start": 17.6,
+      "end": 18.0
+    },
+    {
+      "word": "milestone",
+      "start": 18.0,
+      "end": 18.44
+    },
+    {
+      "word": "progress",
+      "start": 18.44,
+      "end": 19.12
+    },
+    {
+      "word": "accurately.",
+      "start": 19.12,
+      "end": 19.7
+    },
+    {
+      "word": "Embed",
+      "start": 20.12,
+      "end": 20.44
+    },
+    {
+      "word": "custom",
+      "start": 20.44,
+      "end": 20.88
+    },
+    {
+      "word": "-notion",
+      "start": 20.88,
+      "end": 21.26
+    },
+    {
+      "word": "action",
+      "start": 21.26,
+      "end": 21.8
+    },
+    {
+      "word": "buttons",
+      "start": 21.8,
+      "end": 22.28
+    },
+    {
+      "word": "directly",
+      "start": 22.28,
+      "end": 22.76
+    },
+    {
+      "word": "into",
+      "start": 22.76,
+      "end": 23.0
+    },
+    {
+      "word": "your",
+      "start": 23.0,
+      "end": 23.2
+    },
+    {
+      "word": "project",
+      "start": 23.2,
+      "end": 23.58
+    },
+    {
+      "word": "summary",
+      "start": 23.58,
+      "end": 23.9
+    },
+    {
+      "word": "pages",
+      "start": 23.9,
+      "end": 24.42
+    },
+    {
+      "word": "to",
+      "start": 24.42,
+      "end": 24.98
+    },
+    {
+      "word": "spawn",
+      "start": 24.98,
+      "end": 25.32
+    },
+    {
+      "word": "complete",
+      "start": 25.32,
+      "end": 25.8
+    },
+    {
+      "word": "sprint",
+      "start": 25.8,
+      "end": 26.14
+    },
+    {
+      "word": "backlogs",
+      "start": 26.14,
+      "end": 26.76
+    },
+    {
+      "word": "instantly.",
+      "start": 26.76,
+      "end": 27.28
+    },
+    {
+      "word": "You",
+      "start": 27.28,
+      "end": 28.14
+    },
+    {
+      "word": "streamline",
+      "start": 28.14,
+      "end": 28.7
+    },
+    {
+      "word": "project",
+      "start": 28.7,
+      "end": 29.2
+    },
+    {
+      "word": "delivery",
+      "start": 29.2,
+      "end": 29.58
+    },
+    {
+      "word": "while",
+      "start": 29.58,
+      "end": 30.06
+    },
+    {
+      "word": "scaling",
+      "start": 30.06,
+      "end": 30.36
+    },
+    {
+      "word": "your",
+      "start": 30.36,
+      "end": 30.64
+    },
+    {
+      "word": "output",
+      "start": 30.64,
+      "end": 30.94
+    },
+    {
+      "word": "without",
+      "start": 30.94,
+      "end": 31.38
+    },
+    {
+      "word": "extra",
+      "start": 31.38,
+      "end": 31.8
+    },
+    {
+      "word": "stress.",
+      "start": 31.8,
+      "end": 32.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The 60-second Notion upgrade that saves hours of repetitive admin work.",
+      "line2": "1-CLICK RECURRING TASKS",
+      "tag": "\ud83d\uded1 Notion automated database buttons for recurring task creation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Notion automated database buttons for recurring task creation",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Notion automated database buttons for recurring task creation",
+        "subtitle": "Notion automated database buttons for recurring task creation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Notion automated database buttons for recurring task creation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Notion automated database buttons for recurring task creation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Notion automated database buttons for recurring task creation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

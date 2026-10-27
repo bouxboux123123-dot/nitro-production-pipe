@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Stirling-PDF: 100 percent free open-source PDF power tool",
+  "text": "If you work with documents daily, bookmark this free tool right now. Converting scanned receipts into editable tables or compiling client pitch decks usually requires three different websites. That chaotic workflow fragments your file storage and leaves confidential client drafts scattered across random cloud servers. Stirling-PDF consolidates file conversion, page rotation, watermarking, and redaction inside one unified offline dashboard. Your team handles heavy document edits with zero security risks.",
+  "duration": 32.058,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "you",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "work",
+      "start": 0.3,
+      "end": 0.5
+    },
+    {
+      "word": "with",
+      "start": 0.5,
+      "end": 0.72
+    },
+    {
+      "word": "documents",
+      "start": 0.72,
+      "end": 1.18
+    },
+    {
+      "word": "daily,",
+      "start": 1.18,
+      "end": 1.7
+    },
+    {
+      "word": "bookmark",
+      "start": 2.06,
+      "end": 2.18
+    },
+    {
+      "word": "this",
+      "start": 2.18,
+      "end": 2.6
+    },
+    {
+      "word": "free",
+      "start": 2.6,
+      "end": 2.82
+    },
+    {
+      "word": "tool",
+      "start": 2.82,
+      "end": 3.1
+    },
+    {
+      "word": "right",
+      "start": 3.1,
+      "end": 3.42
+    },
+    {
+      "word": "now.",
+      "start": 3.42,
+      "end": 4.1
+    },
+    {
+      "word": "Converting",
+      "start": 4.46,
+      "end": 4.76
+    },
+    {
+      "word": "scanned",
+      "start": 4.76,
+      "end": 5.12
+    },
+    {
+      "word": "receipts",
+      "start": 5.12,
+      "end": 5.5
+    },
+    {
+      "word": "into",
+      "start": 5.5,
+      "end": 5.82
+    },
+    {
+      "word": "editable",
+      "start": 5.82,
+      "end": 6.18
+    },
+    {
+      "word": "tables",
+      "start": 6.18,
+      "end": 6.58
+    },
+    {
+      "word": "or",
+      "start": 6.58,
+      "end": 6.96
+    },
+    {
+      "word": "compiling",
+      "start": 6.96,
+      "end": 7.4
+    },
+    {
+      "word": "client",
+      "start": 7.4,
+      "end": 7.92
+    },
+    {
+      "word": "pitch",
+      "start": 7.92,
+      "end": 8.16
+    },
+    {
+      "word": "decks",
+      "start": 8.16,
+      "end": 8.5
+    },
+    {
+      "word": "usually",
+      "start": 8.5,
+      "end": 8.96
+    },
+    {
+      "word": "requires",
+      "start": 8.96,
+      "end": 9.46
+    },
+    {
+      "word": "three",
+      "start": 9.46,
+      "end": 9.88
+    },
+    {
+      "word": "different",
+      "start": 9.88,
+      "end": 10.18
+    },
+    {
+      "word": "websites.",
+      "start": 10.18,
+      "end": 10.64
+    },
+    {
+      "word": "That",
+      "start": 11.36,
+      "end": 11.6
+    },
+    {
+      "word": "chaotic",
+      "start": 11.6,
+      "end": 12.06
+    },
+    {
+      "word": "workflow",
+      "start": 12.06,
+      "end": 12.5
+    },
+    {
+      "word": "fragments",
+      "start": 12.5,
+      "end": 12.98
+    },
+    {
+      "word": "your",
+      "start": 12.98,
+      "end": 13.28
+    },
+    {
+      "word": "file",
+      "start": 13.28,
+      "end": 13.6
+    },
+    {
+      "word": "storage",
+      "start": 13.6,
+      "end": 14.08
+    },
+    {
+      "word": "and",
+      "start": 14.08,
+      "end": 14.58
+    },
+    {
+      "word": "leaves",
+      "start": 14.58,
+      "end": 14.88
+    },
+    {
+      "word": "confidential",
+      "start": 14.88,
+      "end": 15.5
+    },
+    {
+      "word": "client",
+      "start": 15.5,
+      "end": 16.04
+    },
+    {
+      "word": "drafts",
+      "start": 16.04,
+      "end": 16.5
+    },
+    {
+      "word": "scattered",
+      "start": 16.5,
+      "end": 17.08
+    },
+    {
+      "word": "across",
+      "start": 17.08,
+      "end": 17.54
+    },
+    {
+      "word": "random",
+      "start": 17.54,
+      "end": 17.9
+    },
+    {
+      "word": "cloud",
+      "start": 17.9,
+      "end": 18.34
+    },
+    {
+      "word": "servers.",
+      "start": 18.34,
+      "end": 18.76
+    },
+    {
+      "word": "Sterling",
+      "start": 19.46,
+      "end": 19.46
+    },
+    {
+      "word": "PDF",
+      "start": 19.46,
+      "end": 19.96
+    },
+    {
+      "word": "consolidates",
+      "start": 19.96,
+      "end": 20.86
+    },
+    {
+      "word": "file",
+      "start": 20.86,
+      "end": 21.22
+    },
+    {
+      "word": "conversion,",
+      "start": 21.22,
+      "end": 21.68
+    },
+    {
+      "word": "page",
+      "start": 22.38,
+      "end": 22.44
+    },
+    {
+      "word": "rotation,",
+      "start": 22.44,
+      "end": 23.02
+    },
+    {
+      "word": "watermarking,",
+      "start": 23.66,
+      "end": 24.28
+    },
+    {
+      "word": "and",
+      "start": 24.3,
+      "end": 24.5
+    },
+    {
+      "word": "redaction",
+      "start": 24.5,
+      "end": 25.08
+    },
+    {
+      "word": "inside",
+      "start": 25.08,
+      "end": 25.76
+    },
+    {
+      "word": "one",
+      "start": 25.76,
+      "end": 26.16
+    },
+    {
+      "word": "unified",
+      "start": 26.16,
+      "end": 26.6
+    },
+    {
+      "word": "offline",
+      "start": 26.6,
+      "end": 27.16
+    },
+    {
+      "word": "dashboard.",
+      "start": 27.16,
+      "end": 27.74
+    },
+    {
+      "word": "Your",
+      "start": 27.74,
+      "end": 28.58
+    },
+    {
+      "word": "team",
+      "start": 28.58,
+      "end": 28.96
+    },
+    {
+      "word": "handles",
+      "start": 28.96,
+      "end": 29.3
+    },
+    {
+      "word": "heavy",
+      "start": 29.3,
+      "end": 29.66
+    },
+    {
+      "word": "document",
+      "start": 29.66,
+      "end": 30.14
+    },
+    {
+      "word": "edits",
+      "start": 30.14,
+      "end": 30.46
+    },
+    {
+      "word": "with",
+      "start": 30.46,
+      "end": 30.76
+    },
+    {
+      "word": "zero",
+      "start": 30.76,
+      "end": 31.16
+    },
+    {
+      "word": "security",
+      "start": 31.16,
+      "end": 31.64
+    },
+    {
+      "word": "risks.",
+      "start": 31.64,
+      "end": 31.96
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "If you work with documents, bookmark this free tool right now.",
+      "line2": "100% FREE OPEN SOURCE",
+      "tag": "\ud83d\uded1 Stirling-PDF",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Stirling-PDF",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Stirling-PDF",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Stirling-PDF",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Glide app built on a Google Sheet in under 15 minutes",
+  "text": "Here is the fastest way to validate your app idea without writing code. Founders waste months building complex features before confirming whether customers will actually pay for them. Burning development budgets before finding product-market fit kills promising startups before they ever launch. Launch a working MVP in forty-eight hours using Glide powered by Google Sheets and Stripe checkout. You validate real market demand and collect revenue fast.",
+  "duration": 25.088,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "is",
+      "start": 0.18,
+      "end": 0.36
+    },
+    {
+      "word": "the",
+      "start": 0.36,
+      "end": 0.66
+    },
+    {
+      "word": "fastest",
+      "start": 0.66,
+      "end": 0.84
+    },
+    {
+      "word": "way",
+      "start": 0.84,
+      "end": 1.06
+    },
+    {
+      "word": "to",
+      "start": 1.06,
+      "end": 1.38
+    },
+    {
+      "word": "validate",
+      "start": 1.38,
+      "end": 1.52
+    },
+    {
+      "word": "your",
+      "start": 1.52,
+      "end": 1.82
+    },
+    {
+      "word": "app",
+      "start": 1.82,
+      "end": 2.0
+    },
+    {
+      "word": "idea",
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "word": "without",
+      "start": 2.32,
+      "end": 2.7
+    },
+    {
+      "word": "writing",
+      "start": 2.7,
+      "end": 3.02
+    },
+    {
+      "word": "code.",
+      "start": 3.02,
+      "end": 3.58
+    },
+    {
+      "word": "Founders",
+      "start": 4.18,
+      "end": 4.18
+    },
+    {
+      "word": "waste",
+      "start": 4.18,
+      "end": 4.54
+    },
+    {
+      "word": "months",
+      "start": 4.54,
+      "end": 4.86
+    },
+    {
+      "word": "building",
+      "start": 4.86,
+      "end": 5.24
+    },
+    {
+      "word": "complex",
+      "start": 5.24,
+      "end": 5.66
+    },
+    {
+      "word": "features",
+      "start": 5.66,
+      "end": 6.28
+    },
+    {
+      "word": "before",
+      "start": 6.28,
+      "end": 6.68
+    },
+    {
+      "word": "confirming",
+      "start": 6.68,
+      "end": 7.06
+    },
+    {
+      "word": "whether",
+      "start": 7.06,
+      "end": 7.44
+    },
+    {
+      "word": "customers",
+      "start": 7.44,
+      "end": 7.8
+    },
+    {
+      "word": "will",
+      "start": 7.8,
+      "end": 8.22
+    },
+    {
+      "word": "actually",
+      "start": 8.22,
+      "end": 8.58
+    },
+    {
+      "word": "pay",
+      "start": 8.58,
+      "end": 8.84
+    },
+    {
+      "word": "for",
+      "start": 8.84,
+      "end": 9.0
+    },
+    {
+      "word": "them.",
+      "start": 9.0,
+      "end": 9.5
+    },
+    {
+      "word": "Burning",
+      "start": 9.96,
+      "end": 9.96
+    },
+    {
+      "word": "development",
+      "start": 9.96,
+      "end": 10.44
+    },
+    {
+      "word": "budgets",
+      "start": 10.44,
+      "end": 10.82
+    },
+    {
+      "word": "before",
+      "start": 10.82,
+      "end": 11.18
+    },
+    {
+      "word": "finding",
+      "start": 11.18,
+      "end": 11.62
+    },
+    {
+      "word": "product",
+      "start": 11.62,
+      "end": 12.04
+    },
+    {
+      "word": "market",
+      "start": 12.04,
+      "end": 12.4
+    },
+    {
+      "word": "fit",
+      "start": 12.4,
+      "end": 12.66
+    },
+    {
+      "word": "kills",
+      "start": 12.66,
+      "end": 12.98
+    },
+    {
+      "word": "promising",
+      "start": 12.98,
+      "end": 13.52
+    },
+    {
+      "word": "startups",
+      "start": 13.52,
+      "end": 13.96
+    },
+    {
+      "word": "before",
+      "start": 13.96,
+      "end": 14.34
+    },
+    {
+      "word": "they",
+      "start": 14.34,
+      "end": 14.48
+    },
+    {
+      "word": "ever",
+      "start": 14.48,
+      "end": 14.68
+    },
+    {
+      "word": "launch.",
+      "start": 14.68,
+      "end": 15.16
+    },
+    {
+      "word": "Launch",
+      "start": 15.62,
+      "end": 15.82
+    },
+    {
+      "word": "a",
+      "start": 15.82,
+      "end": 15.98
+    },
+    {
+      "word": "working",
+      "start": 15.98,
+      "end": 16.3
+    },
+    {
+      "word": "MVP",
+      "start": 16.3,
+      "end": 16.82
+    },
+    {
+      "word": "in",
+      "start": 16.82,
+      "end": 17.26
+    },
+    {
+      "word": "48",
+      "start": 17.26,
+      "end": 17.62
+    },
+    {
+      "word": "hours",
+      "start": 17.62,
+      "end": 18.06
+    },
+    {
+      "word": "using",
+      "start": 18.06,
+      "end": 18.52
+    },
+    {
+      "word": "glide",
+      "start": 18.52,
+      "end": 18.94
+    },
+    {
+      "word": "powered",
+      "start": 18.94,
+      "end": 19.26
+    },
+    {
+      "word": "by",
+      "start": 19.26,
+      "end": 19.56
+    },
+    {
+      "word": "Google",
+      "start": 19.56,
+      "end": 19.92
+    },
+    {
+      "word": "Sheets",
+      "start": 19.92,
+      "end": 20.24
+    },
+    {
+      "word": "and",
+      "start": 20.24,
+      "end": 20.52
+    },
+    {
+      "word": "Stripe",
+      "start": 20.52,
+      "end": 20.8
+    },
+    {
+      "word": "checkout.",
+      "start": 20.8,
+      "end": 21.18
+    },
+    {
+      "word": "You",
+      "start": 21.78,
+      "end": 21.92
+    },
+    {
+      "word": "validate",
+      "start": 21.92,
+      "end": 22.22
+    },
+    {
+      "word": "real",
+      "start": 22.22,
+      "end": 22.7
+    },
+    {
+      "word": "market",
+      "start": 22.7,
+      "end": 23.02
+    },
+    {
+      "word": "demand",
+      "start": 23.02,
+      "end": 23.42
+    },
+    {
+      "word": "and",
+      "start": 23.42,
+      "end": 23.94
+    },
+    {
+      "word": "collect",
+      "start": 23.94,
+      "end": 24.24
+    },
+    {
+      "word": "revenue",
+      "start": 24.24,
+      "end": 24.54
+    },
+    {
+      "word": "fast.",
+      "start": 24.54,
+      "end": 25.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The fastest way to validate your app idea without writing code.",
+      "line2": "BUILD APPS IN 15-MINUTES",
+      "tag": "\ud83d\uded1 Glide app built on a Google Sheet in under 15 minutes",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Glide app built on a Google Sheet in under 15 minutes",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Glide app built on a Google Sheet in under 15 minutes",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Glide app built on a Google Sheet in under 15 minutes",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

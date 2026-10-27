@@ -1,0 +1,416 @@
+{
+  "page": "page-07",
+  "idea": "Founder async weekly standup system that eliminates hour-long syncs",
+  "text": "Hour-long Monday morning team syncs are quietly killing your startup's shipping momentum. Gathering eight engineers on a video call forces everyone to listen to irrelevant status updates. Breaking deep focus early in the week destroys creative velocity and delays critical product deployments. Replace recurring syncs with an automated Geekbot prompt in Slack that collects blockers in three bullet points. Your engineers reclaim fifteen hours of uninterrupted build time.",
+  "duration": 27.834,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Our",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "long",
+      "start": 0.34,
+      "end": 0.64
+    },
+    {
+      "word": "Monday",
+      "start": 0.64,
+      "end": 1.0
+    },
+    {
+      "word": "morning",
+      "start": 1.0,
+      "end": 1.36
+    },
+    {
+      "word": "team",
+      "start": 1.36,
+      "end": 1.74
+    },
+    {
+      "word": "sinks",
+      "start": 1.74,
+      "end": 1.96
+    },
+    {
+      "word": "are",
+      "start": 1.96,
+      "end": 2.3
+    },
+    {
+      "word": "quietly",
+      "start": 2.3,
+      "end": 2.64
+    },
+    {
+      "word": "killing",
+      "start": 2.64,
+      "end": 3.1
+    },
+    {
+      "word": "your",
+      "start": 3.1,
+      "end": 3.42
+    },
+    {
+      "word": "start",
+      "start": 3.42,
+      "end": 3.58
+    },
+    {
+      "word": "-up",
+      "start": 3.58,
+      "end": 3.8
+    },
+    {
+      "word": "shipping",
+      "start": 3.8,
+      "end": 4.1
+    },
+    {
+      "word": "momentum.",
+      "start": 4.1,
+      "end": 4.66
+    },
+    {
+      "word": "Gathering",
+      "start": 5.56,
+      "end": 5.56
+    },
+    {
+      "word": "eight",
+      "start": 5.56,
+      "end": 6.06
+    },
+    {
+      "word": "engineers",
+      "start": 6.06,
+      "end": 6.46
+    },
+    {
+      "word": "on",
+      "start": 6.46,
+      "end": 6.72
+    },
+    {
+      "word": "a",
+      "start": 6.72,
+      "end": 6.82
+    },
+    {
+      "word": "video",
+      "start": 6.82,
+      "end": 7.08
+    },
+    {
+      "word": "call",
+      "start": 7.08,
+      "end": 7.52
+    },
+    {
+      "word": "forces",
+      "start": 7.52,
+      "end": 7.9
+    },
+    {
+      "word": "everyone",
+      "start": 7.9,
+      "end": 8.36
+    },
+    {
+      "word": "to",
+      "start": 8.36,
+      "end": 8.66
+    },
+    {
+      "word": "listen",
+      "start": 8.66,
+      "end": 8.9
+    },
+    {
+      "word": "to",
+      "start": 8.9,
+      "end": 9.18
+    },
+    {
+      "word": "irrelevant",
+      "start": 9.18,
+      "end": 9.56
+    },
+    {
+      "word": "status",
+      "start": 9.56,
+      "end": 10.1
+    },
+    {
+      "word": "updates,",
+      "start": 10.1,
+      "end": 10.66
+    },
+    {
+      "word": "breaking",
+      "start": 11.12,
+      "end": 11.24
+    },
+    {
+      "word": "deep",
+      "start": 11.24,
+      "end": 11.62
+    },
+    {
+      "word": "focus",
+      "start": 11.62,
+      "end": 12.02
+    },
+    {
+      "word": "early",
+      "start": 12.02,
+      "end": 12.36
+    },
+    {
+      "word": "in",
+      "start": 12.36,
+      "end": 12.54
+    },
+    {
+      "word": "the",
+      "start": 12.54,
+      "end": 12.66
+    },
+    {
+      "word": "week",
+      "start": 12.66,
+      "end": 12.94
+    },
+    {
+      "word": "destroys",
+      "start": 12.94,
+      "end": 13.4
+    },
+    {
+      "word": "creative",
+      "start": 13.4,
+      "end": 13.9
+    },
+    {
+      "word": "velocity",
+      "start": 13.9,
+      "end": 14.46
+    },
+    {
+      "word": "and",
+      "start": 14.46,
+      "end": 15.08
+    },
+    {
+      "word": "delays",
+      "start": 15.08,
+      "end": 15.3
+    },
+    {
+      "word": "critical",
+      "start": 15.3,
+      "end": 15.8
+    },
+    {
+      "word": "product",
+      "start": 15.8,
+      "end": 16.22
+    },
+    {
+      "word": "deployments.",
+      "start": 16.22,
+      "end": 16.84
+    },
+    {
+      "word": "Replace",
+      "start": 17.5,
+      "end": 17.78
+    },
+    {
+      "word": "recurring",
+      "start": 17.78,
+      "end": 18.22
+    },
+    {
+      "word": "sinks",
+      "start": 18.22,
+      "end": 18.64
+    },
+    {
+      "word": "with",
+      "start": 18.64,
+      "end": 18.84
+    },
+    {
+      "word": "an",
+      "start": 18.84,
+      "end": 19.44
+    },
+    {
+      "word": "automated",
+      "start": 19.44,
+      "end": 19.44
+    },
+    {
+      "word": "geek",
+      "start": 19.44,
+      "end": 19.74
+    },
+    {
+      "word": "bot",
+      "start": 19.74,
+      "end": 20.06
+    },
+    {
+      "word": "prompt",
+      "start": 20.06,
+      "end": 20.54
+    },
+    {
+      "word": "and",
+      "start": 20.54,
+      "end": 20.82
+    },
+    {
+      "word": "slack",
+      "start": 20.82,
+      "end": 21.06
+    },
+    {
+      "word": "that",
+      "start": 21.06,
+      "end": 21.4
+    },
+    {
+      "word": "collects",
+      "start": 21.4,
+      "end": 21.72
+    },
+    {
+      "word": "blockers",
+      "start": 21.72,
+      "end": 22.1
+    },
+    {
+      "word": "in",
+      "start": 22.1,
+      "end": 22.48
+    },
+    {
+      "word": "three",
+      "start": 22.48,
+      "end": 22.8
+    },
+    {
+      "word": "bullet",
+      "start": 22.8,
+      "end": 23.02
+    },
+    {
+      "word": "points.",
+      "start": 23.02,
+      "end": 23.7
+    },
+    {
+      "word": "Your",
+      "start": 24.24,
+      "end": 24.28
+    },
+    {
+      "word": "engineers",
+      "start": 24.28,
+      "end": 24.68
+    },
+    {
+      "word": "reclaim",
+      "start": 24.68,
+      "end": 25.12
+    },
+    {
+      "word": "15",
+      "start": 25.12,
+      "end": 25.74
+    },
+    {
+      "word": "hours",
+      "start": 25.74,
+      "end": 26.16
+    },
+    {
+      "word": "of",
+      "start": 26.16,
+      "end": 26.46
+    },
+    {
+      "word": "uninterrupted",
+      "start": 26.46,
+      "end": 26.98
+    },
+    {
+      "word": "build",
+      "start": 26.98,
+      "end": 27.42
+    },
+    {
+      "word": "time.",
+      "start": 27.42,
+      "end": 27.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Why hour-long Monday morning team syncs are killing your startup's momentum.",
+      "line2": "ELIMINATE 1-HOUR SYNCS",
+      "tag": "\ud83d\uded1 Founder async weekly standup system that eliminates hour-long syncs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder async weekly standup system that eliminates hour-long syncs",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder async weekly standup system that eliminates hour-long syncs",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder async weekly standup system that eliminates hour-long syncs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

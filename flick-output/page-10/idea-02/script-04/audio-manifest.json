@@ -1,0 +1,396 @@
+{
+  "page": "page-10",
+  "idea": "ChatGPT deep research agent rollout for automated market analysis",
+  "text": "The biggest productivity breakthrough of the month just went live. Business developers lose days digging through earnings transcripts, industry trends, and product roadmaps to prepare client proposals. Scattered search queries produce fragmented notes that require painful manual validation across conflicting articles. ChatGPT\u2019s autonomous research agent searches dozens of web sources in parallel, compiling fully referenced market analyses automatically. You deliver airtight intelligence reports in record time.",
+  "duration": 31.013,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "biggest",
+      "start": 0.18,
+      "end": 0.5
+    },
+    {
+      "word": "productivity",
+      "start": 0.5,
+      "end": 0.96
+    },
+    {
+      "word": "breakthrough",
+      "start": 0.96,
+      "end": 1.48
+    },
+    {
+      "word": "of",
+      "start": 1.48,
+      "end": 1.7
+    },
+    {
+      "word": "the",
+      "start": 1.7,
+      "end": 1.8
+    },
+    {
+      "word": "month",
+      "start": 1.8,
+      "end": 2.12
+    },
+    {
+      "word": "just",
+      "start": 2.12,
+      "end": 2.48
+    },
+    {
+      "word": "went",
+      "start": 2.48,
+      "end": 2.7
+    },
+    {
+      "word": "live.",
+      "start": 2.7,
+      "end": 3.36
+    },
+    {
+      "word": "Business",
+      "start": 3.98,
+      "end": 3.98
+    },
+    {
+      "word": "developers",
+      "start": 3.98,
+      "end": 4.4
+    },
+    {
+      "word": "lose",
+      "start": 4.4,
+      "end": 4.88
+    },
+    {
+      "word": "days",
+      "start": 4.88,
+      "end": 5.28
+    },
+    {
+      "word": "digging",
+      "start": 5.28,
+      "end": 5.58
+    },
+    {
+      "word": "through",
+      "start": 5.58,
+      "end": 5.98
+    },
+    {
+      "word": "earnings",
+      "start": 5.98,
+      "end": 6.22
+    },
+    {
+      "word": "transcripts,",
+      "start": 6.22,
+      "end": 6.9
+    },
+    {
+      "word": "industry",
+      "start": 7.7,
+      "end": 7.7
+    },
+    {
+      "word": "trends,",
+      "start": 7.7,
+      "end": 8.28
+    },
+    {
+      "word": "and",
+      "start": 8.42,
+      "end": 8.68
+    },
+    {
+      "word": "product",
+      "start": 8.68,
+      "end": 8.94
+    },
+    {
+      "word": "roadmaps",
+      "start": 8.94,
+      "end": 9.4
+    },
+    {
+      "word": "to",
+      "start": 9.4,
+      "end": 9.68
+    },
+    {
+      "word": "prepare",
+      "start": 9.68,
+      "end": 9.94
+    },
+    {
+      "word": "client",
+      "start": 9.94,
+      "end": 10.34
+    },
+    {
+      "word": "proposals.",
+      "start": 10.34,
+      "end": 10.94
+    },
+    {
+      "word": "Scattered",
+      "start": 11.68,
+      "end": 12.02
+    },
+    {
+      "word": "search",
+      "start": 12.02,
+      "end": 12.46
+    },
+    {
+      "word": "queries",
+      "start": 12.46,
+      "end": 12.82
+    },
+    {
+      "word": "produce",
+      "start": 12.82,
+      "end": 13.4
+    },
+    {
+      "word": "fragmented",
+      "start": 13.4,
+      "end": 13.9
+    },
+    {
+      "word": "notes",
+      "start": 13.9,
+      "end": 14.38
+    },
+    {
+      "word": "that",
+      "start": 14.38,
+      "end": 14.74
+    },
+    {
+      "word": "require",
+      "start": 14.74,
+      "end": 15.06
+    },
+    {
+      "word": "painful",
+      "start": 15.06,
+      "end": 15.62
+    },
+    {
+      "word": "manual",
+      "start": 15.62,
+      "end": 16.06
+    },
+    {
+      "word": "validation",
+      "start": 16.06,
+      "end": 16.68
+    },
+    {
+      "word": "across",
+      "start": 16.68,
+      "end": 17.22
+    },
+    {
+      "word": "conflicting",
+      "start": 17.22,
+      "end": 17.72
+    },
+    {
+      "word": "articles.",
+      "start": 17.72,
+      "end": 18.3
+    },
+    {
+      "word": "Chat",
+      "start": 18.78,
+      "end": 19.0
+    },
+    {
+      "word": "GPT's",
+      "start": 19.0,
+      "end": 19.78
+    },
+    {
+      "word": "autonomous",
+      "start": 19.78,
+      "end": 20.26
+    },
+    {
+      "word": "research",
+      "start": 20.26,
+      "end": 20.82
+    },
+    {
+      "word": "agent",
+      "start": 20.82,
+      "end": 21.2
+    },
+    {
+      "word": "searches",
+      "start": 21.2,
+      "end": 21.76
+    },
+    {
+      "word": "dozens",
+      "start": 21.76,
+      "end": 22.12
+    },
+    {
+      "word": "of",
+      "start": 22.12,
+      "end": 22.36
+    },
+    {
+      "word": "web",
+      "start": 22.36,
+      "end": 22.56
+    },
+    {
+      "word": "sources",
+      "start": 22.56,
+      "end": 22.98
+    },
+    {
+      "word": "in",
+      "start": 22.98,
+      "end": 23.3
+    },
+    {
+      "word": "parallel,",
+      "start": 23.3,
+      "end": 23.74
+    },
+    {
+      "word": "compiling",
+      "start": 24.2,
+      "end": 24.52
+    },
+    {
+      "word": "fully",
+      "start": 24.52,
+      "end": 25.08
+    },
+    {
+      "word": "referenced",
+      "start": 25.08,
+      "end": 25.52
+    },
+    {
+      "word": "market",
+      "start": 25.52,
+      "end": 25.9
+    },
+    {
+      "word": "analyzes",
+      "start": 25.9,
+      "end": 26.56
+    },
+    {
+      "word": "automatically.",
+      "start": 26.56,
+      "end": 27.18
+    },
+    {
+      "word": "You",
+      "start": 27.18,
+      "end": 27.96
+    },
+    {
+      "word": "deliver",
+      "start": 27.96,
+      "end": 28.34
+    },
+    {
+      "word": "airtight",
+      "start": 28.34,
+      "end": 28.92
+    },
+    {
+      "word": "intelligence",
+      "start": 28.92,
+      "end": 29.46
+    },
+    {
+      "word": "reports",
+      "start": 29.46,
+      "end": 30.04
+    },
+    {
+      "word": "in",
+      "start": 30.04,
+      "end": 30.38
+    },
+    {
+      "word": "record",
+      "start": 30.38,
+      "end": 30.54
+    },
+    {
+      "word": "time.",
+      "start": 30.54,
+      "end": 30.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The biggest productivity breakthrough of the month just went live.",
+      "line2": "CHATGPT DEEP RESEARCH ROLLOUT",
+      "tag": "\ud83d\uded1 ChatGPT deep research agent rollout for automated market analysis",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "LLM Generation Velocity: ChatGPT deep research agent rollout for automated market analysis",
+      "primitive": "TokensPerSecondTachometer",
+      "props": {
+        "title": "LLM Generation Velocity: ChatGPT deep research agent rollout for automated market analysis",
+        "subtitle": "ChatGPT deep research agent rollout for automated market analysis"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hallucination & Grounding Check",
+      "primitive": "HallucinationConfidenceGauge",
+      "props": {
+        "title": "Hallucination & Grounding Check",
+        "subtitle": "ChatGPT deep research agent rollout for automated market analysis"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "1M Token Needle In Haystack",
+      "primitive": "NeedleInHaystackMatrix",
+      "props": {
+        "title": "1M Token Needle In Haystack",
+        "subtitle": "ChatGPT deep research agent rollout for automated market analysis"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Cost-Per-Million Token Deflation",
+      "primitive": "CostPerMillionTokensBar",
+      "props": {
+        "title": "Cost-Per-Million Token Deflation",
+        "subtitle": "ChatGPT deep research agent rollout for automated market analysis",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-04",
+  "idea": "Draw.io: free professional flowcharts and workflow diagrams",
+  "text": "Stop paying for diagram software because this free tool has every connector you need. Subscribing to Lucidchart or Miro drains your software budget just to map out basic customer journeys. Freemium tools limit you to three editable boards and lock essential export formats behind expensive paywalls. Draw.io provides unlimited boards, full vector shape libraries, and flexible SVG exports without requiring an account. You sketch professional workflows with zero financial overhead.",
+  "duration": 30.842,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "paying",
+      "start": 0.36,
+      "end": 0.68
+    },
+    {
+      "word": "for",
+      "start": 0.68,
+      "end": 0.9
+    },
+    {
+      "word": "diagram",
+      "start": 0.9,
+      "end": 1.28
+    },
+    {
+      "word": "software",
+      "start": 1.28,
+      "end": 1.92
+    },
+    {
+      "word": "because",
+      "start": 1.92,
+      "end": 2.38
+    },
+    {
+      "word": "this",
+      "start": 2.38,
+      "end": 2.68
+    },
+    {
+      "word": "free",
+      "start": 2.68,
+      "end": 2.94
+    },
+    {
+      "word": "tool",
+      "start": 2.94,
+      "end": 3.22
+    },
+    {
+      "word": "has",
+      "start": 3.22,
+      "end": 3.5
+    },
+    {
+      "word": "every",
+      "start": 3.5,
+      "end": 3.84
+    },
+    {
+      "word": "connector",
+      "start": 3.84,
+      "end": 4.14
+    },
+    {
+      "word": "you",
+      "start": 4.14,
+      "end": 4.36
+    },
+    {
+      "word": "need.",
+      "start": 4.36,
+      "end": 4.86
+    },
+    {
+      "word": "Subscribing",
+      "start": 5.34,
+      "end": 5.74
+    },
+    {
+      "word": "to",
+      "start": 5.74,
+      "end": 6.0
+    },
+    {
+      "word": "Lucidchart",
+      "start": 6.0,
+      "end": 6.58
+    },
+    {
+      "word": "or",
+      "start": 6.58,
+      "end": 6.9
+    },
+    {
+      "word": "Myro",
+      "start": 6.9,
+      "end": 7.38
+    },
+    {
+      "word": "drains",
+      "start": 7.38,
+      "end": 7.86
+    },
+    {
+      "word": "your",
+      "start": 7.86,
+      "end": 8.36
+    },
+    {
+      "word": "software",
+      "start": 8.36,
+      "end": 8.76
+    },
+    {
+      "word": "budget",
+      "start": 8.76,
+      "end": 9.12
+    },
+    {
+      "word": "just",
+      "start": 9.12,
+      "end": 9.5
+    },
+    {
+      "word": "to",
+      "start": 9.5,
+      "end": 9.68
+    },
+    {
+      "word": "map",
+      "start": 9.68,
+      "end": 9.86
+    },
+    {
+      "word": "out",
+      "start": 9.86,
+      "end": 10.22
+    },
+    {
+      "word": "basic",
+      "start": 10.22,
+      "end": 10.6
+    },
+    {
+      "word": "customer",
+      "start": 10.6,
+      "end": 10.98
+    },
+    {
+      "word": "journeys.",
+      "start": 10.98,
+      "end": 11.64
+    },
+    {
+      "word": "Premium",
+      "start": 12.36,
+      "end": 12.46
+    },
+    {
+      "word": "tools",
+      "start": 12.46,
+      "end": 13.04
+    },
+    {
+      "word": "limit",
+      "start": 13.04,
+      "end": 13.3
+    },
+    {
+      "word": "you",
+      "start": 13.3,
+      "end": 13.5
+    },
+    {
+      "word": "to",
+      "start": 13.5,
+      "end": 13.72
+    },
+    {
+      "word": "three",
+      "start": 13.72,
+      "end": 14.0
+    },
+    {
+      "word": "editable",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "word": "boards",
+      "start": 14.4,
+      "end": 14.78
+    },
+    {
+      "word": "and",
+      "start": 14.78,
+      "end": 15.18
+    },
+    {
+      "word": "lock",
+      "start": 15.18,
+      "end": 15.42
+    },
+    {
+      "word": "essential",
+      "start": 15.42,
+      "end": 15.94
+    },
+    {
+      "word": "export",
+      "start": 15.94,
+      "end": 16.44
+    },
+    {
+      "word": "formats",
+      "start": 16.44,
+      "end": 16.86
+    },
+    {
+      "word": "behind",
+      "start": 16.86,
+      "end": 17.34
+    },
+    {
+      "word": "expensive",
+      "start": 17.34,
+      "end": 17.88
+    },
+    {
+      "word": "paywalls.",
+      "start": 17.88,
+      "end": 18.58
+    },
+    {
+      "word": "Draw",
+      "start": 18.9,
+      "end": 19.32
+    },
+    {
+      "word": "EO",
+      "start": 19.32,
+      "end": 19.72
+    },
+    {
+      "word": "provides",
+      "start": 19.72,
+      "end": 20.16
+    },
+    {
+      "word": "unlimited",
+      "start": 20.16,
+      "end": 20.62
+    },
+    {
+      "word": "boards,",
+      "start": 20.62,
+      "end": 21.14
+    },
+    {
+      "word": "full",
+      "start": 21.64,
+      "end": 21.74
+    },
+    {
+      "word": "vector",
+      "start": 21.74,
+      "end": 22.04
+    },
+    {
+      "word": "shape",
+      "start": 22.04,
+      "end": 22.4
+    },
+    {
+      "word": "libraries,",
+      "start": 22.4,
+      "end": 22.86
+    },
+    {
+      "word": "and",
+      "start": 23.32,
+      "end": 23.48
+    },
+    {
+      "word": "flexible",
+      "start": 23.48,
+      "end": 23.88
+    },
+    {
+      "word": "SVG",
+      "start": 23.88,
+      "end": 24.48
+    },
+    {
+      "word": "exports",
+      "start": 24.48,
+      "end": 25.14
+    },
+    {
+      "word": "without",
+      "start": 25.14,
+      "end": 25.58
+    },
+    {
+      "word": "requiring",
+      "start": 25.58,
+      "end": 26.1
+    },
+    {
+      "word": "an",
+      "start": 26.1,
+      "end": 26.34
+    },
+    {
+      "word": "account.",
+      "start": 26.34,
+      "end": 26.82
+    },
+    {
+      "word": "You",
+      "start": 26.82,
+      "end": 27.5
+    },
+    {
+      "word": "sketch",
+      "start": 27.5,
+      "end": 27.74
+    },
+    {
+      "word": "professional",
+      "start": 27.74,
+      "end": 28.3
+    },
+    {
+      "word": "workflows",
+      "start": 28.3,
+      "end": 28.82
+    },
+    {
+      "word": "with",
+      "start": 28.82,
+      "end": 29.16
+    },
+    {
+      "word": "zero",
+      "start": 29.16,
+      "end": 29.64
+    },
+    {
+      "word": "financial",
+      "start": 29.64,
+      "end": 30.2
+    },
+    {
+      "word": "overhead.",
+      "start": 30.2,
+      "end": 30.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop paying for diagram software: this tool has every shape and connector you need.",
+      "line2": "BUILD FREE FLOWCHARTS",
+      "tag": "\ud83d\uded1 Draw.io",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Draw.io",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Draw.io",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Draw.io"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Draw.io",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

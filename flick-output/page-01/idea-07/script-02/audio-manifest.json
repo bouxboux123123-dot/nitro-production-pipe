@@ -1,0 +1,401 @@
+{
+  "page": "page-01",
+  "idea": "Automated contractor payroll calculation based on completed tasks",
+  "text": "This workflow tracks task completions in ClickUp and calculates contractor pay automatically. Tracking hourly timesheets creates friction when logged hours do not match actual client deliverables. Disconnected billing spreadsheets force tedious audit cycles that delay contractor payments and damage team morale. Use a Make automation that calculates milestone pay upon QA approval and syncs directly to QuickBooks. You guarantee accurate payouts while scaling output without extra stress.",
+  "duration": 29.327,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "workflow",
+      "start": 0.26,
+      "end": 0.62
+    },
+    {
+      "word": "tracks",
+      "start": 0.62,
+      "end": 1.06
+    },
+    {
+      "word": "task",
+      "start": 1.06,
+      "end": 1.4
+    },
+    {
+      "word": "completions",
+      "start": 1.4,
+      "end": 1.96
+    },
+    {
+      "word": "in",
+      "start": 1.96,
+      "end": 2.24
+    },
+    {
+      "word": "click",
+      "start": 2.24,
+      "end": 2.42
+    },
+    {
+      "word": "-up,",
+      "start": 2.42,
+      "end": 2.72
+    },
+    {
+      "word": "and",
+      "start": 2.96,
+      "end": 3.16
+    },
+    {
+      "word": "calculates",
+      "start": 3.16,
+      "end": 3.54
+    },
+    {
+      "word": "contractor",
+      "start": 3.54,
+      "end": 4.1
+    },
+    {
+      "word": "pay",
+      "start": 4.1,
+      "end": 4.48
+    },
+    {
+      "word": "automatically.",
+      "start": 4.48,
+      "end": 5.06
+    },
+    {
+      "word": "Tracking",
+      "start": 6.14,
+      "end": 6.14
+    },
+    {
+      "word": "hourly",
+      "start": 6.14,
+      "end": 6.64
+    },
+    {
+      "word": "timesheets",
+      "start": 6.64,
+      "end": 7.28
+    },
+    {
+      "word": "creates",
+      "start": 7.28,
+      "end": 7.74
+    },
+    {
+      "word": "friction",
+      "start": 7.74,
+      "end": 8.12
+    },
+    {
+      "word": "when",
+      "start": 8.12,
+      "end": 8.42
+    },
+    {
+      "word": "logged",
+      "start": 8.42,
+      "end": 8.82
+    },
+    {
+      "word": "hours",
+      "start": 8.82,
+      "end": 9.16
+    },
+    {
+      "word": "do",
+      "start": 9.16,
+      "end": 9.38
+    },
+    {
+      "word": "not",
+      "start": 9.38,
+      "end": 9.58
+    },
+    {
+      "word": "match",
+      "start": 9.58,
+      "end": 9.9
+    },
+    {
+      "word": "actual",
+      "start": 9.9,
+      "end": 10.34
+    },
+    {
+      "word": "client",
+      "start": 10.34,
+      "end": 10.66
+    },
+    {
+      "word": "deliverables.",
+      "start": 10.66,
+      "end": 11.28
+    },
+    {
+      "word": "Disconnected",
+      "start": 11.74,
+      "end": 12.2
+    },
+    {
+      "word": "billing",
+      "start": 12.2,
+      "end": 12.56
+    },
+    {
+      "word": "spreadsheets",
+      "start": 12.56,
+      "end": 13.18
+    },
+    {
+      "word": "force",
+      "start": 13.18,
+      "end": 13.6
+    },
+    {
+      "word": "tedious",
+      "start": 13.6,
+      "end": 14.06
+    },
+    {
+      "word": "audit",
+      "start": 14.06,
+      "end": 14.34
+    },
+    {
+      "word": "cycles",
+      "start": 14.34,
+      "end": 14.74
+    },
+    {
+      "word": "that",
+      "start": 14.74,
+      "end": 15.08
+    },
+    {
+      "word": "delay",
+      "start": 15.08,
+      "end": 15.28
+    },
+    {
+      "word": "contractor",
+      "start": 15.28,
+      "end": 15.76
+    },
+    {
+      "word": "payments",
+      "start": 15.76,
+      "end": 16.22
+    },
+    {
+      "word": "and",
+      "start": 16.22,
+      "end": 16.7
+    },
+    {
+      "word": "damage",
+      "start": 16.7,
+      "end": 17.0
+    },
+    {
+      "word": "team",
+      "start": 17.0,
+      "end": 17.36
+    },
+    {
+      "word": "morale.",
+      "start": 17.36,
+      "end": 17.78
+    },
+    {
+      "word": "Use",
+      "start": 18.48,
+      "end": 18.54
+    },
+    {
+      "word": "a",
+      "start": 18.54,
+      "end": 18.68
+    },
+    {
+      "word": "make",
+      "start": 18.68,
+      "end": 18.88
+    },
+    {
+      "word": "automation",
+      "start": 18.88,
+      "end": 19.38
+    },
+    {
+      "word": "that",
+      "start": 19.38,
+      "end": 20.28
+    },
+    {
+      "word": "calculates",
+      "start": 20.28,
+      "end": 20.28
+    },
+    {
+      "word": "milestone",
+      "start": 20.28,
+      "end": 20.78
+    },
+    {
+      "word": "pay",
+      "start": 20.78,
+      "end": 21.34
+    },
+    {
+      "word": "upon",
+      "start": 21.34,
+      "end": 21.84
+    },
+    {
+      "word": "QA",
+      "start": 21.84,
+      "end": 22.32
+    },
+    {
+      "word": "approval",
+      "start": 22.32,
+      "end": 22.72
+    },
+    {
+      "word": "and",
+      "start": 22.72,
+      "end": 23.28
+    },
+    {
+      "word": "sinks",
+      "start": 23.28,
+      "end": 23.5
+    },
+    {
+      "word": "directly",
+      "start": 23.5,
+      "end": 23.92
+    },
+    {
+      "word": "to",
+      "start": 23.92,
+      "end": 24.24
+    },
+    {
+      "word": "QuickBooks.",
+      "start": 24.24,
+      "end": 24.8
+    },
+    {
+      "word": "You",
+      "start": 25.4,
+      "end": 25.5
+    },
+    {
+      "word": "guarantee",
+      "start": 25.5,
+      "end": 25.84
+    },
+    {
+      "word": "accurate",
+      "start": 25.84,
+      "end": 26.44
+    },
+    {
+      "word": "payouts",
+      "start": 26.44,
+      "end": 26.92
+    },
+    {
+      "word": "while",
+      "start": 26.92,
+      "end": 27.2
+    },
+    {
+      "word": "scaling",
+      "start": 27.2,
+      "end": 27.58
+    },
+    {
+      "word": "output",
+      "start": 27.58,
+      "end": 28.0
+    },
+    {
+      "word": "without",
+      "start": 28.0,
+      "end": 28.48
+    },
+    {
+      "word": "extra",
+      "start": 28.48,
+      "end": 28.88
+    },
+    {
+      "word": "stress.",
+      "start": 28.88,
+      "end": 29.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "This workflow tracks task completions in ClickUp and calculates contractor pay automatically.",
+      "line2": "AUTOMATE CONTRACTOR PAYROLL",
+      "tag": "\ud83d\uded1 Automated contractor payroll calculation based on completed tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated contractor payroll calculation based on completed tasks",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated contractor payroll calculation based on completed tasks",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated contractor payroll calculation based on completed tasks",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

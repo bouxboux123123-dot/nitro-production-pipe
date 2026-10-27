@@ -1,0 +1,381 @@
+{
+  "page": "page-05",
+  "idea": "Make.com scenario that auto-generates branded invoices upon payment",
+  "text": "Stop spending Sunday afternoons manually creating billing receipts. Reconciling checkout payments against client emails eats up your rest time and creates massive bookkeeping headaches. Missed receipts cause clients to flood your inbox requesting duplicate statements for their expense reports. Use Make to capture Stripe checkouts, generate customized PDFs in Google Drive, and dispatch them via Gmail. You eliminate accounting stress and reclaim your weekends.",
+  "duration": 27.471,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "spending",
+      "start": 0.42,
+      "end": 0.68
+    },
+    {
+      "word": "Sunday",
+      "start": 0.68,
+      "end": 1.2
+    },
+    {
+      "word": "afternoons",
+      "start": 1.2,
+      "end": 1.88
+    },
+    {
+      "word": "manually",
+      "start": 1.88,
+      "end": 2.38
+    },
+    {
+      "word": "creating",
+      "start": 2.38,
+      "end": 2.86
+    },
+    {
+      "word": "billing",
+      "start": 2.86,
+      "end": 3.14
+    },
+    {
+      "word": "receipts.",
+      "start": 3.14,
+      "end": 3.78
+    },
+    {
+      "word": "Reconciling",
+      "start": 4.4,
+      "end": 4.82
+    },
+    {
+      "word": "checkout",
+      "start": 4.82,
+      "end": 5.24
+    },
+    {
+      "word": "payments",
+      "start": 5.24,
+      "end": 5.66
+    },
+    {
+      "word": "against",
+      "start": 5.66,
+      "end": 6.06
+    },
+    {
+      "word": "client",
+      "start": 6.06,
+      "end": 6.42
+    },
+    {
+      "word": "emails,",
+      "start": 6.42,
+      "end": 6.84
+    },
+    {
+      "word": "eats",
+      "start": 7.28,
+      "end": 7.34
+    },
+    {
+      "word": "up",
+      "start": 7.34,
+      "end": 7.52
+    },
+    {
+      "word": "your",
+      "start": 7.52,
+      "end": 7.68
+    },
+    {
+      "word": "rest",
+      "start": 7.68,
+      "end": 7.88
+    },
+    {
+      "word": "time,",
+      "start": 7.88,
+      "end": 8.38
+    },
+    {
+      "word": "and",
+      "start": 8.48,
+      "end": 8.7
+    },
+    {
+      "word": "creates",
+      "start": 8.7,
+      "end": 9.04
+    },
+    {
+      "word": "massive",
+      "start": 9.04,
+      "end": 9.56
+    },
+    {
+      "word": "bookkeeping",
+      "start": 9.56,
+      "end": 10.08
+    },
+    {
+      "word": "headaches.",
+      "start": 10.08,
+      "end": 10.54
+    },
+    {
+      "word": "Mist",
+      "start": 11.06,
+      "end": 11.18
+    },
+    {
+      "word": "receipts",
+      "start": 11.18,
+      "end": 11.6
+    },
+    {
+      "word": "cause",
+      "start": 11.6,
+      "end": 11.98
+    },
+    {
+      "word": "clients",
+      "start": 11.98,
+      "end": 12.28
+    },
+    {
+      "word": "to",
+      "start": 12.28,
+      "end": 12.58
+    },
+    {
+      "word": "flood",
+      "start": 12.58,
+      "end": 12.72
+    },
+    {
+      "word": "your",
+      "start": 12.72,
+      "end": 12.96
+    },
+    {
+      "word": "inbox",
+      "start": 12.96,
+      "end": 13.28
+    },
+    {
+      "word": "requesting",
+      "start": 13.28,
+      "end": 13.94
+    },
+    {
+      "word": "duplicate",
+      "start": 13.94,
+      "end": 14.38
+    },
+    {
+      "word": "statements",
+      "start": 14.38,
+      "end": 14.96
+    },
+    {
+      "word": "for",
+      "start": 14.96,
+      "end": 15.22
+    },
+    {
+      "word": "their",
+      "start": 15.22,
+      "end": 15.5
+    },
+    {
+      "word": "expense",
+      "start": 15.5,
+      "end": 15.8
+    },
+    {
+      "word": "reports.",
+      "start": 15.8,
+      "end": 16.38
+    },
+    {
+      "word": "Use",
+      "start": 16.96,
+      "end": 17.16
+    },
+    {
+      "word": "Make",
+      "start": 17.16,
+      "end": 17.34
+    },
+    {
+      "word": "to",
+      "start": 17.34,
+      "end": 17.52
+    },
+    {
+      "word": "Capture",
+      "start": 17.52,
+      "end": 17.88
+    },
+    {
+      "word": "Stripe",
+      "start": 17.88,
+      "end": 18.26
+    },
+    {
+      "word": "Checkouts,",
+      "start": 18.26,
+      "end": 18.8
+    },
+    {
+      "word": "generate",
+      "start": 19.2,
+      "end": 19.58
+    },
+    {
+      "word": "customized",
+      "start": 19.58,
+      "end": 20.28
+    },
+    {
+      "word": "PDFs",
+      "start": 20.28,
+      "end": 21.04
+    },
+    {
+      "word": "in",
+      "start": 21.04,
+      "end": 21.24
+    },
+    {
+      "word": "Google",
+      "start": 21.24,
+      "end": 21.54
+    },
+    {
+      "word": "Drive,",
+      "start": 21.54,
+      "end": 22.0
+    },
+    {
+      "word": "and",
+      "start": 22.4,
+      "end": 22.62
+    },
+    {
+      "word": "dispatch",
+      "start": 22.62,
+      "end": 22.88
+    },
+    {
+      "word": "them",
+      "start": 22.88,
+      "end": 23.2
+    },
+    {
+      "word": "via",
+      "start": 23.2,
+      "end": 23.5
+    },
+    {
+      "word": "Gmail.",
+      "start": 23.5,
+      "end": 23.98
+    },
+    {
+      "word": "You",
+      "start": 24.68,
+      "end": 24.84
+    },
+    {
+      "word": "eliminate",
+      "start": 24.84,
+      "end": 25.14
+    },
+    {
+      "word": "accounting",
+      "start": 25.14,
+      "end": 25.68
+    },
+    {
+      "word": "stress",
+      "start": 25.68,
+      "end": 26.14
+    },
+    {
+      "word": "and",
+      "start": 26.14,
+      "end": 26.4
+    },
+    {
+      "word": "reclaim",
+      "start": 26.4,
+      "end": 26.58
+    },
+    {
+      "word": "your",
+      "start": 26.58,
+      "end": 27.0
+    },
+    {
+      "word": "weekends.",
+      "start": 27.0,
+      "end": 27.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stop spending Sunday afternoons manually creating billing receipts.",
+      "line2": "AUTO-GENERATE BRANDED INVOICES",
+      "tag": "\ud83d\uded1 Make.com scenario that auto-generates branded invoices upon payment",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Make.com scenario that auto-generates branded invoices upon payment",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Make.com scenario that auto-generates branded invoices upon payment",
+        "subtitle": "Make.com scenario that auto-generates branded invoices upon payment"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Make.com scenario that auto-generates branded invoices upon payment"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Make.com scenario that auto-generates branded invoices upon payment"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Make.com scenario that auto-generates branded invoices upon payment",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

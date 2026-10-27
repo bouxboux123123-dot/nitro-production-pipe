@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "AI meeting prep bot that briefs founders before prospective client calls",
+  "text": "Stop scrambling through twenty browser tabs two minutes before a major sales pitch. Founders waste valuable mental energy frantically Googling prospect job titles, recent funding announcements, and mutual connections. Unprepared introductions sound robotic and immediately signal a lack of genuine enterprise commitment. Connect Apollo and GPT-4 to Google Calendar through Zapier to generate customized prep sheets straight to your phone. Win enterprise deals with effortless confidence.",
+  "duration": 30.053,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "scrambling",
+      "start": 0.46,
+      "end": 0.86
+    },
+    {
+      "word": "through",
+      "start": 0.86,
+      "end": 1.28
+    },
+    {
+      "word": "20",
+      "start": 1.28,
+      "end": 1.64
+    },
+    {
+      "word": "browser",
+      "start": 1.64,
+      "end": 1.98
+    },
+    {
+      "word": "tabs",
+      "start": 1.98,
+      "end": 2.38
+    },
+    {
+      "word": "two",
+      "start": 2.38,
+      "end": 2.72
+    },
+    {
+      "word": "minutes",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "word": "before",
+      "start": 2.96,
+      "end": 3.32
+    },
+    {
+      "word": "a",
+      "start": 3.32,
+      "end": 3.5
+    },
+    {
+      "word": "major",
+      "start": 3.5,
+      "end": 3.7
+    },
+    {
+      "word": "sales",
+      "start": 3.7,
+      "end": 4.12
+    },
+    {
+      "word": "pitch.",
+      "start": 4.12,
+      "end": 4.82
+    },
+    {
+      "word": "Founders",
+      "start": 5.42,
+      "end": 5.42
+    },
+    {
+      "word": "waste",
+      "start": 5.42,
+      "end": 5.9
+    },
+    {
+      "word": "valuable",
+      "start": 5.9,
+      "end": 6.42
+    },
+    {
+      "word": "mental",
+      "start": 6.42,
+      "end": 6.84
+    },
+    {
+      "word": "energy",
+      "start": 6.84,
+      "end": 7.28
+    },
+    {
+      "word": "frantically",
+      "start": 7.28,
+      "end": 7.72
+    },
+    {
+      "word": "googling",
+      "start": 7.72,
+      "end": 8.2
+    },
+    {
+      "word": "prospect",
+      "start": 8.2,
+      "end": 8.74
+    },
+    {
+      "word": "job",
+      "start": 8.74,
+      "end": 9.12
+    },
+    {
+      "word": "titles,",
+      "start": 9.12,
+      "end": 9.54
+    },
+    {
+      "word": "recent",
+      "start": 10.12,
+      "end": 10.3
+    },
+    {
+      "word": "funding",
+      "start": 10.3,
+      "end": 10.62
+    },
+    {
+      "word": "announcements,",
+      "start": 10.62,
+      "end": 11.14
+    },
+    {
+      "word": "and",
+      "start": 11.58,
+      "end": 11.76
+    },
+    {
+      "word": "mutual",
+      "start": 11.76,
+      "end": 12.08
+    },
+    {
+      "word": "connections.",
+      "start": 12.08,
+      "end": 12.7
+    },
+    {
+      "word": "Unprepared",
+      "start": 13.14,
+      "end": 13.56
+    },
+    {
+      "word": "introductions",
+      "start": 13.56,
+      "end": 14.3
+    },
+    {
+      "word": "sound",
+      "start": 14.3,
+      "end": 14.72
+    },
+    {
+      "word": "robotic",
+      "start": 14.72,
+      "end": 15.18
+    },
+    {
+      "word": "and",
+      "start": 15.18,
+      "end": 15.56
+    },
+    {
+      "word": "immediately",
+      "start": 15.56,
+      "end": 16.14
+    },
+    {
+      "word": "signal",
+      "start": 16.14,
+      "end": 16.48
+    },
+    {
+      "word": "a",
+      "start": 16.48,
+      "end": 17.04
+    },
+    {
+      "word": "lack",
+      "start": 17.04,
+      "end": 17.2
+    },
+    {
+      "word": "of",
+      "start": 17.2,
+      "end": 17.4
+    },
+    {
+      "word": "genuine",
+      "start": 17.4,
+      "end": 17.78
+    },
+    {
+      "word": "enterprise",
+      "start": 17.78,
+      "end": 18.36
+    },
+    {
+      "word": "commitment.",
+      "start": 18.36,
+      "end": 19.0
+    },
+    {
+      "word": "Connect",
+      "start": 19.8,
+      "end": 19.8
+    },
+    {
+      "word": "Apollo",
+      "start": 19.8,
+      "end": 20.34
+    },
+    {
+      "word": "and",
+      "start": 20.34,
+      "end": 20.7
+    },
+    {
+      "word": "GPT",
+      "start": 20.7,
+      "end": 21.18
+    },
+    {
+      "word": "-4",
+      "start": 21.18,
+      "end": 21.54
+    },
+    {
+      "word": "to",
+      "start": 21.54,
+      "end": 21.76
+    },
+    {
+      "word": "Google",
+      "start": 21.76,
+      "end": 22.12
+    },
+    {
+      "word": "Calendar",
+      "start": 22.12,
+      "end": 22.52
+    },
+    {
+      "word": "through",
+      "start": 22.52,
+      "end": 22.98
+    },
+    {
+      "word": "Zapier",
+      "start": 22.98,
+      "end": 23.42
+    },
+    {
+      "word": "to",
+      "start": 23.42,
+      "end": 23.92
+    },
+    {
+      "word": "generate",
+      "start": 23.92,
+      "end": 24.42
+    },
+    {
+      "word": "customized",
+      "start": 24.42,
+      "end": 25.08
+    },
+    {
+      "word": "prep",
+      "start": 25.08,
+      "end": 25.34
+    },
+    {
+      "word": "sheets",
+      "start": 25.34,
+      "end": 25.7
+    },
+    {
+      "word": "straight",
+      "start": 25.7,
+      "end": 26.2
+    },
+    {
+      "word": "to",
+      "start": 26.2,
+      "end": 26.3
+    },
+    {
+      "word": "your",
+      "start": 26.3,
+      "end": 26.54
+    },
+    {
+      "word": "phone.",
+      "start": 26.54,
+      "end": 27.02
+    },
+    {
+      "word": "Win",
+      "start": 27.02,
+      "end": 27.7
+    },
+    {
+      "word": "Enterprise",
+      "start": 27.7,
+      "end": 28.18
+    },
+    {
+      "word": "deals",
+      "start": 28.18,
+      "end": 28.62
+    },
+    {
+      "word": "with",
+      "start": 28.62,
+      "end": 29.02
+    },
+    {
+      "word": "effortless",
+      "start": 29.02,
+      "end": 29.5
+    },
+    {
+      "word": "confidence.",
+      "start": 29.5,
+      "end": 29.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop scrambling through browser tabs 2 minutes before a major sales pitch.",
+      "line2": "PREP CLIENT CALLS FASTER",
+      "tag": "\ud83d\uded1 AI meeting prep bot that briefs founders before prospective client calls",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: AI meeting prep bot that briefs founders before prospective client calls",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: AI meeting prep bot that briefs founders before prospective client calls",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "AI meeting prep bot that briefs founders before prospective client calls",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

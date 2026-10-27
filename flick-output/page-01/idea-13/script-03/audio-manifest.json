@@ -1,0 +1,426 @@
+{
+  "page": "page-01",
+  "idea": "Client revision tracker that enforces scope boundaries automatically",
+  "text": "Stop letting demanding clients turn a two-week sprint into a six-month revision nightmare. You agree on two revision cycles, but clients keep submitting staggered feedback via WhatsApp, email, and Loom. Without a single locked review deadline, your delivery schedule drifts and client retention drops as frustration mounts. Implement an automated revision gate in Notion that locks asset submissions once contractual deadlines pass. You deliver on schedule and protect agency profits.",
+  "duration": 28.666,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "letting",
+      "start": 0.36,
+      "end": 0.62
+    },
+    {
+      "word": "demanding",
+      "start": 0.62,
+      "end": 1.12
+    },
+    {
+      "word": "clients",
+      "start": 1.12,
+      "end": 1.46
+    },
+    {
+      "word": "turn",
+      "start": 1.46,
+      "end": 1.7
+    },
+    {
+      "word": "a",
+      "start": 1.7,
+      "end": 1.92
+    },
+    {
+      "word": "two",
+      "start": 1.92,
+      "end": 2.1
+    },
+    {
+      "word": "-week",
+      "start": 2.1,
+      "end": 2.36
+    },
+    {
+      "word": "sprint",
+      "start": 2.36,
+      "end": 2.62
+    },
+    {
+      "word": "into",
+      "start": 2.62,
+      "end": 2.86
+    },
+    {
+      "word": "a",
+      "start": 2.86,
+      "end": 3.16
+    },
+    {
+      "word": "six",
+      "start": 3.16,
+      "end": 3.32
+    },
+    {
+      "word": "-month",
+      "start": 3.32,
+      "end": 3.6
+    },
+    {
+      "word": "revision",
+      "start": 3.6,
+      "end": 3.98
+    },
+    {
+      "word": "nightmare.",
+      "start": 3.98,
+      "end": 4.48
+    },
+    {
+      "word": "You",
+      "start": 5.12,
+      "end": 5.24
+    },
+    {
+      "word": "agree",
+      "start": 5.24,
+      "end": 5.48
+    },
+    {
+      "word": "on",
+      "start": 5.48,
+      "end": 5.74
+    },
+    {
+      "word": "two",
+      "start": 5.74,
+      "end": 6.0
+    },
+    {
+      "word": "revision",
+      "start": 6.0,
+      "end": 6.3
+    },
+    {
+      "word": "cycles,",
+      "start": 6.3,
+      "end": 6.84
+    },
+    {
+      "word": "but",
+      "start": 7.18,
+      "end": 7.38
+    },
+    {
+      "word": "clients",
+      "start": 7.38,
+      "end": 7.64
+    },
+    {
+      "word": "keep",
+      "start": 7.64,
+      "end": 8.02
+    },
+    {
+      "word": "submitting",
+      "start": 8.02,
+      "end": 8.44
+    },
+    {
+      "word": "staggered",
+      "start": 8.44,
+      "end": 8.78
+    },
+    {
+      "word": "feedback",
+      "start": 8.78,
+      "end": 9.2
+    },
+    {
+      "word": "via",
+      "start": 9.2,
+      "end": 9.64
+    },
+    {
+      "word": "what's",
+      "start": 9.64,
+      "end": 10.04
+    },
+    {
+      "word": "app,",
+      "start": 10.04,
+      "end": 10.42
+    },
+    {
+      "word": "email,",
+      "start": 10.5,
+      "end": 10.74
+    },
+    {
+      "word": "and",
+      "start": 10.88,
+      "end": 11.02
+    },
+    {
+      "word": "loom.",
+      "start": 11.02,
+      "end": 11.34
+    },
+    {
+      "word": "Without",
+      "start": 11.7,
+      "end": 11.86
+    },
+    {
+      "word": "a",
+      "start": 11.86,
+      "end": 12.12
+    },
+    {
+      "word": "single",
+      "start": 12.12,
+      "end": 12.44
+    },
+    {
+      "word": "-locked",
+      "start": 12.44,
+      "end": 12.78
+    },
+    {
+      "word": "review",
+      "start": 12.78,
+      "end": 13.1
+    },
+    {
+      "word": "deadline,",
+      "start": 13.1,
+      "end": 13.52
+    },
+    {
+      "word": "your",
+      "start": 13.88,
+      "end": 14.08
+    },
+    {
+      "word": "delivery",
+      "start": 14.08,
+      "end": 14.34
+    },
+    {
+      "word": "schedule",
+      "start": 14.34,
+      "end": 14.84
+    },
+    {
+      "word": "drifts",
+      "start": 14.84,
+      "end": 15.28
+    },
+    {
+      "word": "and",
+      "start": 15.28,
+      "end": 15.58
+    },
+    {
+      "word": "client",
+      "start": 15.58,
+      "end": 15.84
+    },
+    {
+      "word": "retention",
+      "start": 15.84,
+      "end": 16.46
+    },
+    {
+      "word": "drops",
+      "start": 16.46,
+      "end": 17.04
+    },
+    {
+      "word": "as",
+      "start": 17.04,
+      "end": 17.32
+    },
+    {
+      "word": "frustration",
+      "start": 17.32,
+      "end": 17.84
+    },
+    {
+      "word": "mounts.",
+      "start": 17.84,
+      "end": 18.42
+    },
+    {
+      "word": "Implement",
+      "start": 19.06,
+      "end": 19.28
+    },
+    {
+      "word": "an",
+      "start": 19.28,
+      "end": 19.8
+    },
+    {
+      "word": "automated",
+      "start": 19.8,
+      "end": 20.18
+    },
+    {
+      "word": "revision",
+      "start": 20.18,
+      "end": 20.7
+    },
+    {
+      "word": "gate",
+      "start": 20.7,
+      "end": 21.06
+    },
+    {
+      "word": "in",
+      "start": 21.06,
+      "end": 21.26
+    },
+    {
+      "word": "notion",
+      "start": 21.26,
+      "end": 21.52
+    },
+    {
+      "word": "that",
+      "start": 21.52,
+      "end": 21.9
+    },
+    {
+      "word": "locks",
+      "start": 21.9,
+      "end": 22.22
+    },
+    {
+      "word": "asset",
+      "start": 22.22,
+      "end": 22.6
+    },
+    {
+      "word": "submissions",
+      "start": 22.6,
+      "end": 23.1
+    },
+    {
+      "word": "once",
+      "start": 23.1,
+      "end": 23.6
+    },
+    {
+      "word": "contractual",
+      "start": 23.6,
+      "end": 24.26
+    },
+    {
+      "word": "deadlines",
+      "start": 24.26,
+      "end": 24.74
+    },
+    {
+      "word": "pass.",
+      "start": 24.74,
+      "end": 25.34
+    },
+    {
+      "word": "You",
+      "start": 25.34,
+      "end": 25.94
+    },
+    {
+      "word": "deliver",
+      "start": 25.94,
+      "end": 26.24
+    },
+    {
+      "word": "on",
+      "start": 26.24,
+      "end": 26.56
+    },
+    {
+      "word": "schedule",
+      "start": 26.56,
+      "end": 26.94
+    },
+    {
+      "word": "and",
+      "start": 26.94,
+      "end": 27.28
+    },
+    {
+      "word": "protect",
+      "start": 27.28,
+      "end": 27.58
+    },
+    {
+      "word": "agency",
+      "start": 27.58,
+      "end": 28.06
+    },
+    {
+      "word": "profits.",
+      "start": 28.06,
+      "end": 28.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop letting demanding clients turn a 2-week project into a 6-month revision nightmare.",
+      "line2": "ENFORCE SCOPE BOUNDARIES",
+      "tag": "\ud83d\uded1 Client revision tracker that enforces scope boundaries automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Client revision tracker that enforces scope boundaries automatically",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Client revision tracker that enforces scope boundaries automatically",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

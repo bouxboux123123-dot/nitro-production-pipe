@@ -1,0 +1,401 @@
+{
+  "page": "page-09",
+  "idea": "Stripe vs Lemon Squeezy: which merchant of record is best for digital creators",
+  "text": "International sales tax will make you deeply regret using standard Stripe without an MoR. Selling software globally means calculating, collecting, and remitting digital VAT across dozens of foreign tax jurisdictions. Standard Stripe only processes payments, leaving you legally liable for complex regional audits and registration filings. Switch to Lemon Squeezy to let their Merchant of Record infrastructure handle global taxes and invoicing automatically. This eliminates legal headaches overnight.",
+  "duration": 31.055,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "International",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "word": "sales",
+      "start": 0.52,
+      "end": 1.04
+    },
+    {
+      "word": "tax",
+      "start": 1.04,
+      "end": 1.44
+    },
+    {
+      "word": "will",
+      "start": 1.44,
+      "end": 1.6
+    },
+    {
+      "word": "make",
+      "start": 1.6,
+      "end": 1.78
+    },
+    {
+      "word": "you",
+      "start": 1.78,
+      "end": 2.02
+    },
+    {
+      "word": "deeply",
+      "start": 2.02,
+      "end": 2.26
+    },
+    {
+      "word": "regret",
+      "start": 2.26,
+      "end": 2.68
+    },
+    {
+      "word": "using",
+      "start": 2.68,
+      "end": 3.1
+    },
+    {
+      "word": "standard",
+      "start": 3.1,
+      "end": 3.48
+    },
+    {
+      "word": "Stripe",
+      "start": 3.48,
+      "end": 3.92
+    },
+    {
+      "word": "without",
+      "start": 3.92,
+      "end": 4.38
+    },
+    {
+      "word": "a",
+      "start": 4.38,
+      "end": 4.56
+    },
+    {
+      "word": "MoR.",
+      "start": 4.56,
+      "end": 5.32
+    },
+    {
+      "word": "Selling",
+      "start": 5.98,
+      "end": 5.98
+    },
+    {
+      "word": "software",
+      "start": 5.98,
+      "end": 6.56
+    },
+    {
+      "word": "globally",
+      "start": 6.56,
+      "end": 7.06
+    },
+    {
+      "word": "means",
+      "start": 7.06,
+      "end": 7.48
+    },
+    {
+      "word": "calculating,",
+      "start": 7.48,
+      "end": 8.24
+    },
+    {
+      "word": "collecting,",
+      "start": 9.16,
+      "end": 9.16
+    },
+    {
+      "word": "and",
+      "start": 9.5,
+      "end": 9.68
+    },
+    {
+      "word": "remitting",
+      "start": 9.68,
+      "end": 9.98
+    },
+    {
+      "word": "digital",
+      "start": 9.98,
+      "end": 10.44
+    },
+    {
+      "word": "VAT",
+      "start": 10.44,
+      "end": 10.98
+    },
+    {
+      "word": "across",
+      "start": 10.98,
+      "end": 11.52
+    },
+    {
+      "word": "dozens",
+      "start": 11.52,
+      "end": 11.92
+    },
+    {
+      "word": "of",
+      "start": 11.92,
+      "end": 12.22
+    },
+    {
+      "word": "foreign",
+      "start": 12.22,
+      "end": 12.52
+    },
+    {
+      "word": "tax",
+      "start": 12.52,
+      "end": 12.9
+    },
+    {
+      "word": "jurisdictions.",
+      "start": 12.9,
+      "end": 13.56
+    },
+    {
+      "word": "Standard",
+      "start": 14.48,
+      "end": 14.48
+    },
+    {
+      "word": "Stripe",
+      "start": 14.48,
+      "end": 14.84
+    },
+    {
+      "word": "only",
+      "start": 14.84,
+      "end": 15.18
+    },
+    {
+      "word": "processes",
+      "start": 15.18,
+      "end": 15.64
+    },
+    {
+      "word": "payments,",
+      "start": 15.64,
+      "end": 16.26
+    },
+    {
+      "word": "leaving",
+      "start": 16.74,
+      "end": 16.88
+    },
+    {
+      "word": "you",
+      "start": 16.88,
+      "end": 17.14
+    },
+    {
+      "word": "legally",
+      "start": 17.14,
+      "end": 17.48
+    },
+    {
+      "word": "liable",
+      "start": 17.48,
+      "end": 17.9
+    },
+    {
+      "word": "for",
+      "start": 17.9,
+      "end": 18.26
+    },
+    {
+      "word": "complex",
+      "start": 18.26,
+      "end": 18.8
+    },
+    {
+      "word": "regional",
+      "start": 18.8,
+      "end": 19.28
+    },
+    {
+      "word": "audits",
+      "start": 19.28,
+      "end": 19.62
+    },
+    {
+      "word": "and",
+      "start": 19.62,
+      "end": 19.94
+    },
+    {
+      "word": "registration",
+      "start": 19.94,
+      "end": 20.46
+    },
+    {
+      "word": "filings.",
+      "start": 20.46,
+      "end": 21.12
+    },
+    {
+      "word": "Switch",
+      "start": 21.76,
+      "end": 22.02
+    },
+    {
+      "word": "to",
+      "start": 22.02,
+      "end": 22.24
+    },
+    {
+      "word": "Lemmon's",
+      "start": 22.24,
+      "end": 22.62
+    },
+    {
+      "word": "squeezy",
+      "start": 22.62,
+      "end": 22.98
+    },
+    {
+      "word": "to",
+      "start": 22.98,
+      "end": 23.22
+    },
+    {
+      "word": "let",
+      "start": 23.22,
+      "end": 23.4
+    },
+    {
+      "word": "their",
+      "start": 23.4,
+      "end": 23.64
+    },
+    {
+      "word": "merchant",
+      "start": 23.64,
+      "end": 23.9
+    },
+    {
+      "word": "of",
+      "start": 23.9,
+      "end": 24.16
+    },
+    {
+      "word": "record",
+      "start": 24.16,
+      "end": 24.5
+    },
+    {
+      "word": "infrastructure",
+      "start": 24.5,
+      "end": 25.16
+    },
+    {
+      "word": "handle",
+      "start": 25.16,
+      "end": 25.94
+    },
+    {
+      "word": "global",
+      "start": 25.94,
+      "end": 26.38
+    },
+    {
+      "word": "taxes",
+      "start": 26.38,
+      "end": 26.84
+    },
+    {
+      "word": "and",
+      "start": 26.84,
+      "end": 27.2
+    },
+    {
+      "word": "invoicing",
+      "start": 27.2,
+      "end": 27.6
+    },
+    {
+      "word": "automatically.",
+      "start": 27.6,
+      "end": 28.22
+    },
+    {
+      "word": "This",
+      "start": 28.22,
+      "end": 29.08
+    },
+    {
+      "word": "eliminates",
+      "start": 29.08,
+      "end": 29.62
+    },
+    {
+      "word": "legal",
+      "start": 29.62,
+      "end": 30.08
+    },
+    {
+      "word": "headaches",
+      "start": 30.08,
+      "end": 30.48
+    },
+    {
+      "word": "overnight.",
+      "start": 30.48,
+      "end": 30.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why international sales tax will make you regret using standard Stripe without an MoR.",
+      "line2": "STRIPE VS LEMON SQUEEZY",
+      "tag": "\ud83d\uded1 Stripe vs Lemon Squeezy",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Stripe vs Lemon Squeezy",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Stripe vs Lemon Squeezy",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Stripe vs Lemon Squeezy",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+  "text": "The official benchmark numbers behind DeepSeek V4 are shocking the tech industry. Teams assume cheaper open-weight models sacrifice reasoning depth, math accuracy, and code synthesis during production tasks. Underperforming lightweight models introduce logic bugs that require expensive manual intervention to correct. Benchmark results show DeepSeek V4 matching top frontier architectures on coding benchmarks while slashing latency in half. You get frontier AI performance on a startup budget.",
+  "duration": 30.863,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "official",
+      "start": 0.2,
+      "end": 0.54
+    },
+    {
+      "word": "benchmark",
+      "start": 0.54,
+      "end": 0.9
+    },
+    {
+      "word": "numbers",
+      "start": 0.9,
+      "end": 1.4
+    },
+    {
+      "word": "behind",
+      "start": 1.4,
+      "end": 1.88
+    },
+    {
+      "word": "DeepSeek",
+      "start": 1.88,
+      "end": 2.4
+    },
+    {
+      "word": "V4",
+      "start": 2.4,
+      "end": 3.06
+    },
+    {
+      "word": "are",
+      "start": 3.06,
+      "end": 3.3
+    },
+    {
+      "word": "shocking",
+      "start": 3.3,
+      "end": 3.64
+    },
+    {
+      "word": "the",
+      "start": 3.64,
+      "end": 3.86
+    },
+    {
+      "word": "tech",
+      "start": 3.86,
+      "end": 4.06
+    },
+    {
+      "word": "industry.",
+      "start": 4.06,
+      "end": 4.68
+    },
+    {
+      "word": "Teams",
+      "start": 5.4,
+      "end": 5.4
+    },
+    {
+      "word": "assume",
+      "start": 5.4,
+      "end": 5.76
+    },
+    {
+      "word": "cheaper",
+      "start": 5.76,
+      "end": 6.2
+    },
+    {
+      "word": "open",
+      "start": 6.2,
+      "end": 6.58
+    },
+    {
+      "word": "-weight",
+      "start": 6.58,
+      "end": 6.8
+    },
+    {
+      "word": "models",
+      "start": 6.8,
+      "end": 7.22
+    },
+    {
+      "word": "sacrifice",
+      "start": 7.22,
+      "end": 7.74
+    },
+    {
+      "word": "reasoning",
+      "start": 7.74,
+      "end": 8.26
+    },
+    {
+      "word": "depth,",
+      "start": 8.26,
+      "end": 8.82
+    },
+    {
+      "word": "math",
+      "start": 9.1,
+      "end": 9.46
+    },
+    {
+      "word": "accuracy,",
+      "start": 9.46,
+      "end": 9.88
+    },
+    {
+      "word": "and",
+      "start": 10.3,
+      "end": 10.54
+    },
+    {
+      "word": "code",
+      "start": 10.54,
+      "end": 10.84
+    },
+    {
+      "word": "synthesis",
+      "start": 10.84,
+      "end": 11.22
+    },
+    {
+      "word": "during",
+      "start": 11.22,
+      "end": 11.68
+    },
+    {
+      "word": "production",
+      "start": 11.68,
+      "end": 12.1
+    },
+    {
+      "word": "tasks.",
+      "start": 12.1,
+      "end": 12.62
+    },
+    {
+      "word": "Underperforming",
+      "start": 13.12,
+      "end": 13.64
+    },
+    {
+      "word": "lightweight",
+      "start": 13.64,
+      "end": 14.1
+    },
+    {
+      "word": "models",
+      "start": 14.1,
+      "end": 14.66
+    },
+    {
+      "word": "introduce",
+      "start": 14.66,
+      "end": 15.14
+    },
+    {
+      "word": "logic",
+      "start": 15.14,
+      "end": 15.62
+    },
+    {
+      "word": "bugs",
+      "start": 15.62,
+      "end": 16.06
+    },
+    {
+      "word": "that",
+      "start": 16.06,
+      "end": 16.54
+    },
+    {
+      "word": "require",
+      "start": 16.54,
+      "end": 16.94
+    },
+    {
+      "word": "expensive",
+      "start": 16.94,
+      "end": 17.6
+    },
+    {
+      "word": "manual",
+      "start": 17.6,
+      "end": 18.06
+    },
+    {
+      "word": "intervention",
+      "start": 18.06,
+      "end": 18.48
+    },
+    {
+      "word": "to",
+      "start": 18.48,
+      "end": 18.82
+    },
+    {
+      "word": "correct.",
+      "start": 18.82,
+      "end": 19.18
+    },
+    {
+      "word": "Benchmark",
+      "start": 19.82,
+      "end": 20.28
+    },
+    {
+      "word": "results",
+      "start": 20.28,
+      "end": 20.72
+    },
+    {
+      "word": "show",
+      "start": 20.72,
+      "end": 21.06
+    },
+    {
+      "word": "DeepSeek",
+      "start": 21.06,
+      "end": 21.62
+    },
+    {
+      "word": "V4",
+      "start": 21.62,
+      "end": 22.28
+    },
+    {
+      "word": "matching",
+      "start": 22.28,
+      "end": 22.66
+    },
+    {
+      "word": "top",
+      "start": 22.66,
+      "end": 23.02
+    },
+    {
+      "word": "frontier",
+      "start": 23.02,
+      "end": 23.44
+    },
+    {
+      "word": "architectures",
+      "start": 23.44,
+      "end": 24.06
+    },
+    {
+      "word": "on",
+      "start": 24.06,
+      "end": 24.54
+    },
+    {
+      "word": "coding",
+      "start": 24.54,
+      "end": 24.84
+    },
+    {
+      "word": "benchmarks",
+      "start": 24.84,
+      "end": 25.4
+    },
+    {
+      "word": "while",
+      "start": 25.4,
+      "end": 26.06
+    },
+    {
+      "word": "slashing",
+      "start": 26.06,
+      "end": 26.48
+    },
+    {
+      "word": "latency",
+      "start": 26.48,
+      "end": 26.9
+    },
+    {
+      "word": "in",
+      "start": 26.9,
+      "end": 27.18
+    },
+    {
+      "word": "half.",
+      "start": 27.18,
+      "end": 27.64
+    },
+    {
+      "word": "You",
+      "start": 27.64,
+      "end": 28.1
+    },
+    {
+      "word": "get",
+      "start": 28.1,
+      "end": 28.34
+    },
+    {
+      "word": "frontier",
+      "start": 28.34,
+      "end": 28.7
+    },
+    {
+      "word": "AI",
+      "start": 28.7,
+      "end": 29.28
+    },
+    {
+      "word": "performance",
+      "start": 29.28,
+      "end": 29.82
+    },
+    {
+      "word": "on",
+      "start": 29.82,
+      "end": 30.1
+    },
+    {
+      "word": "a",
+      "start": 30.1,
+      "end": 30.5
+    },
+    {
+      "word": "startup",
+      "start": 30.5,
+      "end": 30.5
+    },
+    {
+      "word": "budget.",
+      "start": 30.5,
+      "end": 30.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The benchmark numbers behind the latest AI model everyone is talking about.",
+      "line2": "DEEPSEEK CUTS COSTS 90%",
+      "tag": "\ud83d\uded1 DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "LLM Generation Velocity: DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+      "primitive": "TokensPerSecondTachometer",
+      "props": {
+        "title": "LLM Generation Velocity: DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+        "subtitle": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hallucination & Grounding Check",
+      "primitive": "HallucinationConfidenceGauge",
+      "props": {
+        "title": "Hallucination & Grounding Check",
+        "subtitle": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "1M Token Needle In Haystack",
+      "primitive": "NeedleInHaystackMatrix",
+      "props": {
+        "title": "1M Token Needle In Haystack",
+        "subtitle": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Cost-Per-Million Token Deflation",
+      "primitive": "CostPerMillionTokensBar",
+      "props": {
+        "title": "Cost-Per-Million Token Deflation",
+        "subtitle": "DeepSeek V4 launch benchmarks and how it cuts API costs by 90 percent",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-08",
+  "idea": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+  "text": "Here is why ChatGPT gives you generic answers and the three-step framework that fixes it. Asking vague questions forces AI to guess your goals, generating fluffy paragraphs you cannot use. Without strict boundaries, the model defaults to bland generalities and repetitive filler phrases. Structure your query using Role, Task, and Constraints to define voice, context, and output format. You get publication-ready answers on your first attempt.",
+  "duration": 25.323,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here's",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "why",
+      "start": 0.3,
+      "end": 0.56
+    },
+    {
+      "word": "chat",
+      "start": 0.56,
+      "end": 0.84
+    },
+    {
+      "word": "GPT",
+      "start": 0.84,
+      "end": 1.3
+    },
+    {
+      "word": "gives",
+      "start": 1.3,
+      "end": 1.58
+    },
+    {
+      "word": "you",
+      "start": 1.58,
+      "end": 1.76
+    },
+    {
+      "word": "generic",
+      "start": 1.76,
+      "end": 2.06
+    },
+    {
+      "word": "answers",
+      "start": 2.06,
+      "end": 2.42
+    },
+    {
+      "word": "and",
+      "start": 2.42,
+      "end": 2.74
+    },
+    {
+      "word": "the",
+      "start": 2.74,
+      "end": 2.9
+    },
+    {
+      "word": "three",
+      "start": 2.9,
+      "end": 3.12
+    },
+    {
+      "word": "-step",
+      "start": 3.12,
+      "end": 3.36
+    },
+    {
+      "word": "framework",
+      "start": 3.36,
+      "end": 3.64
+    },
+    {
+      "word": "that",
+      "start": 3.64,
+      "end": 4.02
+    },
+    {
+      "word": "fixes",
+      "start": 4.02,
+      "end": 4.16
+    },
+    {
+      "word": "it.",
+      "start": 4.16,
+      "end": 4.7
+    },
+    {
+      "word": "Asking",
+      "start": 5.08,
+      "end": 5.32
+    },
+    {
+      "word": "vague",
+      "start": 5.32,
+      "end": 5.56
+    },
+    {
+      "word": "questions",
+      "start": 5.56,
+      "end": 6.1
+    },
+    {
+      "word": "forces",
+      "start": 6.1,
+      "end": 6.52
+    },
+    {
+      "word": "AI",
+      "start": 6.52,
+      "end": 6.9
+    },
+    {
+      "word": "to",
+      "start": 6.9,
+      "end": 7.16
+    },
+    {
+      "word": "guess",
+      "start": 7.16,
+      "end": 7.32
+    },
+    {
+      "word": "your",
+      "start": 7.32,
+      "end": 7.54
+    },
+    {
+      "word": "goals,",
+      "start": 7.54,
+      "end": 7.9
+    },
+    {
+      "word": "generating",
+      "start": 8.68,
+      "end": 8.68
+    },
+    {
+      "word": "fluffy",
+      "start": 8.68,
+      "end": 9.08
+    },
+    {
+      "word": "paragraphs",
+      "start": 9.08,
+      "end": 9.5
+    },
+    {
+      "word": "you",
+      "start": 9.5,
+      "end": 9.86
+    },
+    {
+      "word": "cannot",
+      "start": 9.86,
+      "end": 10.16
+    },
+    {
+      "word": "use.",
+      "start": 10.16,
+      "end": 10.64
+    },
+    {
+      "word": "Without",
+      "start": 11.12,
+      "end": 11.46
+    },
+    {
+      "word": "strict",
+      "start": 11.46,
+      "end": 11.72
+    },
+    {
+      "word": "boundaries,",
+      "start": 11.72,
+      "end": 12.14
+    },
+    {
+      "word": "the",
+      "start": 12.58,
+      "end": 12.66
+    },
+    {
+      "word": "model",
+      "start": 12.66,
+      "end": 12.86
+    },
+    {
+      "word": "defaults",
+      "start": 12.86,
+      "end": 13.2
+    },
+    {
+      "word": "to",
+      "start": 13.2,
+      "end": 13.56
+    },
+    {
+      "word": "bland",
+      "start": 13.56,
+      "end": 13.78
+    },
+    {
+      "word": "generalities",
+      "start": 13.78,
+      "end": 14.44
+    },
+    {
+      "word": "and",
+      "start": 14.44,
+      "end": 14.72
+    },
+    {
+      "word": "repetitive",
+      "start": 14.72,
+      "end": 15.16
+    },
+    {
+      "word": "filler",
+      "start": 15.16,
+      "end": 15.44
+    },
+    {
+      "word": "phrases.",
+      "start": 15.44,
+      "end": 15.94
+    },
+    {
+      "word": "Structure",
+      "start": 16.52,
+      "end": 16.76
+    },
+    {
+      "word": "your",
+      "start": 16.76,
+      "end": 17.04
+    },
+    {
+      "word": "query",
+      "start": 17.04,
+      "end": 17.3
+    },
+    {
+      "word": "using",
+      "start": 17.3,
+      "end": 17.72
+    },
+    {
+      "word": "role,",
+      "start": 17.72,
+      "end": 18.28
+    },
+    {
+      "word": "task,",
+      "start": 18.4,
+      "end": 18.68
+    },
+    {
+      "word": "and",
+      "start": 18.78,
+      "end": 19.0
+    },
+    {
+      "word": "constraints",
+      "start": 19.0,
+      "end": 19.22
+    },
+    {
+      "word": "to",
+      "start": 19.22,
+      "end": 19.6
+    },
+    {
+      "word": "define",
+      "start": 19.6,
+      "end": 19.92
+    },
+    {
+      "word": "voice,",
+      "start": 19.92,
+      "end": 20.62
+    },
+    {
+      "word": "context,",
+      "start": 20.86,
+      "end": 21.18
+    },
+    {
+      "word": "and",
+      "start": 21.24,
+      "end": 21.44
+    },
+    {
+      "word": "output",
+      "start": 21.44,
+      "end": 21.7
+    },
+    {
+      "word": "format.",
+      "start": 21.7,
+      "end": 22.14
+    },
+    {
+      "word": "You",
+      "start": 22.7,
+      "end": 22.78
+    },
+    {
+      "word": "get",
+      "start": 22.78,
+      "end": 22.98
+    },
+    {
+      "word": "publication",
+      "start": 22.98,
+      "end": 23.48
+    },
+    {
+      "word": "-ready",
+      "start": 23.48,
+      "end": 23.82
+    },
+    {
+      "word": "answers",
+      "start": 23.82,
+      "end": 24.18
+    },
+    {
+      "word": "on",
+      "start": 24.18,
+      "end": 24.46
+    },
+    {
+      "word": "your",
+      "start": 24.46,
+      "end": 24.62
+    },
+    {
+      "word": "first",
+      "start": 24.62,
+      "end": 24.9
+    },
+    {
+      "word": "attempt.",
+      "start": 24.9,
+      "end": 25.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Why ChatGPT gives you generic, boring answers\u00e2\u20ac\u201dand the 3-step fix to cure it.",
+      "line2": "BETTER CHATGPT PROMPTS",
+      "tag": "\ud83d\uded1 Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner prompt framework to get accurate answers from ChatGPT every time",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

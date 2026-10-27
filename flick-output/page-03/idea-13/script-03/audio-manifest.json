@@ -1,0 +1,401 @@
+{
+  "page": "page-03",
+  "idea": "Automated Notion dashboard for tracking side hustle goals and metrics",
+  "text": "Stop losing track of customer orders, creative ideas, and monthly business expenses. Running a side business after your day job leaves zero bandwidth to organize receipts and deliverables. Untracked client tasks slip through the cracks, while chaotic records kill motivation and cap your income. Route incoming Shopify sales and project tasks into a centralized Notion workspace using Make.com. You run an organized operation in minutes a day.",
+  "duration": 25.835,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "losing",
+      "start": 0.3,
+      "end": 0.58
+    },
+    {
+      "word": "track",
+      "start": 0.58,
+      "end": 0.9
+    },
+    {
+      "word": "of",
+      "start": 0.9,
+      "end": 1.36
+    },
+    {
+      "word": "customer",
+      "start": 1.36,
+      "end": 1.44
+    },
+    {
+      "word": "orders,",
+      "start": 1.44,
+      "end": 1.88
+    },
+    {
+      "word": "creative",
+      "start": 2.26,
+      "end": 2.56
+    },
+    {
+      "word": "ideas,",
+      "start": 2.56,
+      "end": 3.02
+    },
+    {
+      "word": "and",
+      "start": 3.38,
+      "end": 3.58
+    },
+    {
+      "word": "monthly",
+      "start": 3.58,
+      "end": 3.8
+    },
+    {
+      "word": "business",
+      "start": 3.8,
+      "end": 4.16
+    },
+    {
+      "word": "expenses.",
+      "start": 4.16,
+      "end": 4.74
+    },
+    {
+      "word": "Running",
+      "start": 5.34,
+      "end": 5.52
+    },
+    {
+      "word": "a",
+      "start": 5.52,
+      "end": 5.8
+    },
+    {
+      "word": "side",
+      "start": 5.8,
+      "end": 6.02
+    },
+    {
+      "word": "business",
+      "start": 6.02,
+      "end": 6.36
+    },
+    {
+      "word": "after",
+      "start": 6.36,
+      "end": 6.64
+    },
+    {
+      "word": "your",
+      "start": 6.64,
+      "end": 6.78
+    },
+    {
+      "word": "day",
+      "start": 6.78,
+      "end": 7.0
+    },
+    {
+      "word": "job",
+      "start": 7.0,
+      "end": 7.42
+    },
+    {
+      "word": "leaves",
+      "start": 7.42,
+      "end": 7.7
+    },
+    {
+      "word": "zero",
+      "start": 7.7,
+      "end": 8.12
+    },
+    {
+      "word": "bandwidth",
+      "start": 8.12,
+      "end": 8.48
+    },
+    {
+      "word": "to",
+      "start": 8.48,
+      "end": 8.84
+    },
+    {
+      "word": "organize",
+      "start": 8.84,
+      "end": 9.2
+    },
+    {
+      "word": "receipts",
+      "start": 9.2,
+      "end": 9.68
+    },
+    {
+      "word": "and",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "word": "deliverables.",
+      "start": 9.92,
+      "end": 10.46
+    },
+    {
+      "word": "Untract",
+      "start": 11.04,
+      "end": 11.34
+    },
+    {
+      "word": "client",
+      "start": 11.34,
+      "end": 11.74
+    },
+    {
+      "word": "tasks",
+      "start": 11.74,
+      "end": 12.12
+    },
+    {
+      "word": "slip",
+      "start": 12.12,
+      "end": 12.38
+    },
+    {
+      "word": "through",
+      "start": 12.38,
+      "end": 12.6
+    },
+    {
+      "word": "the",
+      "start": 12.6,
+      "end": 12.74
+    },
+    {
+      "word": "cracks",
+      "start": 12.74,
+      "end": 13.02
+    },
+    {
+      "word": "while",
+      "start": 13.02,
+      "end": 13.6
+    },
+    {
+      "word": "chaotic",
+      "start": 13.6,
+      "end": 13.98
+    },
+    {
+      "word": "records",
+      "start": 13.98,
+      "end": 14.48
+    },
+    {
+      "word": "kill",
+      "start": 14.48,
+      "end": 14.78
+    },
+    {
+      "word": "motivation",
+      "start": 14.78,
+      "end": 15.26
+    },
+    {
+      "word": "and",
+      "start": 15.26,
+      "end": 15.6
+    },
+    {
+      "word": "cap",
+      "start": 15.6,
+      "end": 15.78
+    },
+    {
+      "word": "your",
+      "start": 15.78,
+      "end": 15.98
+    },
+    {
+      "word": "income.",
+      "start": 15.98,
+      "end": 16.44
+    },
+    {
+      "word": "Route",
+      "start": 16.88,
+      "end": 17.14
+    },
+    {
+      "word": "incoming",
+      "start": 17.14,
+      "end": 17.64
+    },
+    {
+      "word": "Shopify",
+      "start": 17.64,
+      "end": 18.3
+    },
+    {
+      "word": "sales",
+      "start": 18.3,
+      "end": 18.66
+    },
+    {
+      "word": "and",
+      "start": 18.66,
+      "end": 18.9
+    },
+    {
+      "word": "project",
+      "start": 18.9,
+      "end": 19.3
+    },
+    {
+      "word": "tasks",
+      "start": 19.3,
+      "end": 19.68
+    },
+    {
+      "word": "into",
+      "start": 19.68,
+      "end": 19.96
+    },
+    {
+      "word": "a",
+      "start": 19.96,
+      "end": 20.64
+    },
+    {
+      "word": "centralized",
+      "start": 20.64,
+      "end": 20.64
+    },
+    {
+      "word": "notion",
+      "start": 20.64,
+      "end": 21.1
+    },
+    {
+      "word": "workspace",
+      "start": 21.1,
+      "end": 21.52
+    },
+    {
+      "word": "using",
+      "start": 21.52,
+      "end": 22.06
+    },
+    {
+      "word": "Make,",
+      "start": 22.06,
+      "end": 22.6
+    },
+    {
+      "word": "Calm.",
+      "start": 22.62,
+      "end": 22.98
+    },
+    {
+      "word": "You",
+      "start": 23.42,
+      "end": 23.56
+    },
+    {
+      "word": "run",
+      "start": 23.56,
+      "end": 23.7
+    },
+    {
+      "word": "an",
+      "start": 23.7,
+      "end": 24.32
+    },
+    {
+      "word": "organized",
+      "start": 24.32,
+      "end": 24.4
+    },
+    {
+      "word": "operation",
+      "start": 24.4,
+      "end": 25.02
+    },
+    {
+      "word": "in",
+      "start": 25.02,
+      "end": 25.24
+    },
+    {
+      "word": "minutes",
+      "start": 25.24,
+      "end": 25.44
+    },
+    {
+      "word": "a",
+      "start": 25.44,
+      "end": 25.64
+    },
+    {
+      "word": "day.",
+      "start": 25.64,
+      "end": 25.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop losing track of customer orders, ideas, and monthly expenses.",
+      "line2": "TRACK HUSTLE METRICS",
+      "tag": "\ud83d\uded1 Automated Notion dashboard for tracking side hustle goals and metrics",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated Notion dashboard for tracking side hustle goals and metrics",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated Notion dashboard for tracking side hustle goals and metrics",
+        "subtitle": "Automated Notion dashboard for tracking side hustle goals and metrics"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated Notion dashboard for tracking side hustle goals and metrics"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated Notion dashboard for tracking side hustle goals and metrics"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated Notion dashboard for tracking side hustle goals and metrics",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

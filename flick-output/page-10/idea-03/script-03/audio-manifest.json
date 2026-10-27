@@ -1,0 +1,376 @@
+{
+  "page": "page-10",
+  "idea": "Notion 3.0 workspace automation updates and native database triggers",
+  "text": "The three new Notion automation triggers you should turn on right now. Project managers lose hours manually chasing team members for overdue task updates and deliverables. Without automated guardrails, critical client deliverables slip through the cracks and stall team momentum. Native database triggers instantly reassign owners, update priority tags, and notify Slack channels when deadlines approach. Your pipeline moves forward without manual micromanagement.",
+  "duration": 28.175,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "three",
+      "start": 0.22,
+      "end": 0.44
+    },
+    {
+      "word": "new",
+      "start": 0.44,
+      "end": 0.66
+    },
+    {
+      "word": "notion",
+      "start": 0.66,
+      "end": 1.04
+    },
+    {
+      "word": "automation",
+      "start": 1.04,
+      "end": 1.6
+    },
+    {
+      "word": "triggers",
+      "start": 1.6,
+      "end": 1.94
+    },
+    {
+      "word": "you",
+      "start": 1.94,
+      "end": 2.2
+    },
+    {
+      "word": "should",
+      "start": 2.2,
+      "end": 2.4
+    },
+    {
+      "word": "turn",
+      "start": 2.4,
+      "end": 2.6
+    },
+    {
+      "word": "on",
+      "start": 2.6,
+      "end": 2.84
+    },
+    {
+      "word": "right",
+      "start": 2.84,
+      "end": 3.08
+    },
+    {
+      "word": "now.",
+      "start": 3.08,
+      "end": 3.64
+    },
+    {
+      "word": "Project",
+      "start": 4.36,
+      "end": 4.36
+    },
+    {
+      "word": "managers",
+      "start": 4.36,
+      "end": 4.8
+    },
+    {
+      "word": "lose",
+      "start": 4.8,
+      "end": 5.32
+    },
+    {
+      "word": "hours",
+      "start": 5.32,
+      "end": 5.74
+    },
+    {
+      "word": "manually",
+      "start": 5.74,
+      "end": 6.24
+    },
+    {
+      "word": "chasing",
+      "start": 6.24,
+      "end": 6.6
+    },
+    {
+      "word": "team",
+      "start": 6.6,
+      "end": 7.0
+    },
+    {
+      "word": "members",
+      "start": 7.0,
+      "end": 7.3
+    },
+    {
+      "word": "for",
+      "start": 7.3,
+      "end": 7.68
+    },
+    {
+      "word": "overdue",
+      "start": 7.68,
+      "end": 7.98
+    },
+    {
+      "word": "task",
+      "start": 7.98,
+      "end": 8.48
+    },
+    {
+      "word": "updates",
+      "start": 8.48,
+      "end": 8.9
+    },
+    {
+      "word": "and",
+      "start": 8.9,
+      "end": 9.24
+    },
+    {
+      "word": "deliverables.",
+      "start": 9.24,
+      "end": 9.8
+    },
+    {
+      "word": "Without",
+      "start": 10.38,
+      "end": 10.74
+    },
+    {
+      "word": "automated",
+      "start": 10.74,
+      "end": 11.2
+    },
+    {
+      "word": "guardrails,",
+      "start": 11.2,
+      "end": 12.02
+    },
+    {
+      "word": "critical",
+      "start": 12.66,
+      "end": 12.66
+    },
+    {
+      "word": "client",
+      "start": 12.66,
+      "end": 13.06
+    },
+    {
+      "word": "deliverables",
+      "start": 13.06,
+      "end": 13.66
+    },
+    {
+      "word": "slip",
+      "start": 13.66,
+      "end": 13.92
+    },
+    {
+      "word": "through",
+      "start": 13.92,
+      "end": 14.18
+    },
+    {
+      "word": "the",
+      "start": 14.18,
+      "end": 14.32
+    },
+    {
+      "word": "cracks",
+      "start": 14.32,
+      "end": 14.68
+    },
+    {
+      "word": "and",
+      "start": 14.68,
+      "end": 14.98
+    },
+    {
+      "word": "stall",
+      "start": 14.98,
+      "end": 15.3
+    },
+    {
+      "word": "team",
+      "start": 15.3,
+      "end": 15.62
+    },
+    {
+      "word": "momentum.",
+      "start": 15.62,
+      "end": 16.08
+    },
+    {
+      "word": "Native",
+      "start": 16.86,
+      "end": 16.86
+    },
+    {
+      "word": "database",
+      "start": 16.86,
+      "end": 17.32
+    },
+    {
+      "word": "triggers",
+      "start": 17.32,
+      "end": 17.86
+    },
+    {
+      "word": "instantly",
+      "start": 17.86,
+      "end": 18.44
+    },
+    {
+      "word": "reassign",
+      "start": 18.44,
+      "end": 19.12
+    },
+    {
+      "word": "owners,",
+      "start": 19.12,
+      "end": 19.52
+    },
+    {
+      "word": "update",
+      "start": 20.28,
+      "end": 20.28
+    },
+    {
+      "word": "priority",
+      "start": 20.28,
+      "end": 20.72
+    },
+    {
+      "word": "tags,",
+      "start": 20.72,
+      "end": 21.26
+    },
+    {
+      "word": "and",
+      "start": 21.68,
+      "end": 21.98
+    },
+    {
+      "word": "notify",
+      "start": 21.98,
+      "end": 22.14
+    },
+    {
+      "word": "Slack",
+      "start": 22.14,
+      "end": 22.64
+    },
+    {
+      "word": "channels",
+      "start": 22.64,
+      "end": 23.02
+    },
+    {
+      "word": "when",
+      "start": 23.02,
+      "end": 23.3
+    },
+    {
+      "word": "deadlines",
+      "start": 23.3,
+      "end": 23.7
+    },
+    {
+      "word": "approach.",
+      "start": 23.7,
+      "end": 24.3
+    },
+    {
+      "word": "Your",
+      "start": 24.88,
+      "end": 25.12
+    },
+    {
+      "word": "pipeline",
+      "start": 25.12,
+      "end": 25.5
+    },
+    {
+      "word": "moves",
+      "start": 25.5,
+      "end": 26.02
+    },
+    {
+      "word": "forward",
+      "start": 26.02,
+      "end": 26.36
+    },
+    {
+      "word": "without",
+      "start": 26.36,
+      "end": 26.8
+    },
+    {
+      "word": "manual",
+      "start": 26.8,
+      "end": 27.22
+    },
+    {
+      "word": "micromanagement.",
+      "start": 27.22,
+      "end": 28.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The 3 new Notion automation triggers you should turn on right now.",
+      "line2": "NOTION 3.0 DATABASE TRIGGERS",
+      "tag": "\ud83d\uded1 Notion 3.0 workspace automation updates and native database triggers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Notion 3.0 workspace automation updates and native database triggers",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Notion 3.0 workspace automation updates and native database triggers",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

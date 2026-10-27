@@ -1,0 +1,436 @@
+{
+  "page": "page-03",
+  "idea": "Automated link-in-bio funnel that captures email addresses",
+  "text": "The biggest mistake side hustlers make with their social media traffic. You pour hours into scripting engaging short-form content, only to direct interested followers to an unmonetized landing page. Without an automated nurture funnel in place, ninety-five percent of those excited visitors leave and never return. Set up an automated Stan Store funnel integrated with ActiveCampaign to deliver instant freebies and follow up automatically. You capture high-intent buyers while you sleep.",
+  "duration": 29.69,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "biggest",
+      "start": 0.22,
+      "end": 0.58
+    },
+    {
+      "word": "mistake",
+      "start": 0.58,
+      "end": 1.08
+    },
+    {
+      "word": "side",
+      "start": 1.08,
+      "end": 1.48
+    },
+    {
+      "word": "hustlers",
+      "start": 1.48,
+      "end": 1.88
+    },
+    {
+      "word": "make",
+      "start": 1.88,
+      "end": 2.18
+    },
+    {
+      "word": "with",
+      "start": 2.18,
+      "end": 2.36
+    },
+    {
+      "word": "their",
+      "start": 2.36,
+      "end": 2.64
+    },
+    {
+      "word": "social",
+      "start": 2.64,
+      "end": 2.94
+    },
+    {
+      "word": "media",
+      "start": 2.94,
+      "end": 3.3
+    },
+    {
+      "word": "traffic.",
+      "start": 3.3,
+      "end": 3.88
+    },
+    {
+      "word": "You",
+      "start": 4.4,
+      "end": 4.52
+    },
+    {
+      "word": "pour",
+      "start": 4.52,
+      "end": 4.7
+    },
+    {
+      "word": "hours",
+      "start": 4.7,
+      "end": 5.16
+    },
+    {
+      "word": "into",
+      "start": 5.16,
+      "end": 5.48
+    },
+    {
+      "word": "scripting",
+      "start": 5.48,
+      "end": 5.84
+    },
+    {
+      "word": "and",
+      "start": 5.84,
+      "end": 6.1
+    },
+    {
+      "word": "gauging",
+      "start": 6.1,
+      "end": 6.54
+    },
+    {
+      "word": "short",
+      "start": 6.54,
+      "end": 6.88
+    },
+    {
+      "word": "-form",
+      "start": 6.88,
+      "end": 7.1
+    },
+    {
+      "word": "content",
+      "start": 7.1,
+      "end": 7.76
+    },
+    {
+      "word": "only",
+      "start": 7.76,
+      "end": 8.38
+    },
+    {
+      "word": "to",
+      "start": 8.38,
+      "end": 8.64
+    },
+    {
+      "word": "direct",
+      "start": 8.64,
+      "end": 9.0
+    },
+    {
+      "word": "interested",
+      "start": 9.0,
+      "end": 9.52
+    },
+    {
+      "word": "followers",
+      "start": 9.52,
+      "end": 9.96
+    },
+    {
+      "word": "to",
+      "start": 9.96,
+      "end": 10.52
+    },
+    {
+      "word": "an",
+      "start": 10.52,
+      "end": 10.84
+    },
+    {
+      "word": "unmonetized",
+      "start": 10.84,
+      "end": 11.6
+    },
+    {
+      "word": "landing",
+      "start": 11.6,
+      "end": 12.0
+    },
+    {
+      "word": "page.",
+      "start": 12.0,
+      "end": 12.54
+    },
+    {
+      "word": "Without",
+      "start": 12.92,
+      "end": 13.0
+    },
+    {
+      "word": "an",
+      "start": 13.0,
+      "end": 13.7
+    },
+    {
+      "word": "automated",
+      "start": 13.7,
+      "end": 13.7
+    },
+    {
+      "word": "nurture",
+      "start": 13.7,
+      "end": 14.1
+    },
+    {
+      "word": "funnel",
+      "start": 14.1,
+      "end": 14.34
+    },
+    {
+      "word": "in",
+      "start": 14.34,
+      "end": 14.54
+    },
+    {
+      "word": "place,",
+      "start": 14.54,
+      "end": 14.98
+    },
+    {
+      "word": "95",
+      "start": 15.36,
+      "end": 15.84
+    },
+    {
+      "word": "%",
+      "start": 15.84,
+      "end": 16.28
+    },
+    {
+      "word": "of",
+      "start": 16.28,
+      "end": 16.36
+    },
+    {
+      "word": "those",
+      "start": 16.36,
+      "end": 16.68
+    },
+    {
+      "word": "excited",
+      "start": 16.68,
+      "end": 17.06
+    },
+    {
+      "word": "visitors",
+      "start": 17.06,
+      "end": 17.48
+    },
+    {
+      "word": "leave",
+      "start": 17.48,
+      "end": 17.98
+    },
+    {
+      "word": "and",
+      "start": 17.98,
+      "end": 18.3
+    },
+    {
+      "word": "never",
+      "start": 18.3,
+      "end": 18.52
+    },
+    {
+      "word": "return.",
+      "start": 18.52,
+      "end": 19.0
+    },
+    {
+      "word": "Set",
+      "start": 19.64,
+      "end": 19.84
+    },
+    {
+      "word": "up",
+      "start": 19.84,
+      "end": 20.12
+    },
+    {
+      "word": "an",
+      "start": 20.12,
+      "end": 20.72
+    },
+    {
+      "word": "automated",
+      "start": 20.72,
+      "end": 20.92
+    },
+    {
+      "word": "stand",
+      "start": 20.92,
+      "end": 21.36
+    },
+    {
+      "word": "store",
+      "start": 21.36,
+      "end": 21.66
+    },
+    {
+      "word": "funnel",
+      "start": 21.66,
+      "end": 22.02
+    },
+    {
+      "word": "integrated",
+      "start": 22.02,
+      "end": 22.4
+    },
+    {
+      "word": "with",
+      "start": 22.4,
+      "end": 22.78
+    },
+    {
+      "word": "active",
+      "start": 22.78,
+      "end": 23.06
+    },
+    {
+      "word": "campaign",
+      "start": 23.06,
+      "end": 23.62
+    },
+    {
+      "word": "to",
+      "start": 23.62,
+      "end": 23.96
+    },
+    {
+      "word": "deliver",
+      "start": 23.96,
+      "end": 24.3
+    },
+    {
+      "word": "instant",
+      "start": 24.3,
+      "end": 24.76
+    },
+    {
+      "word": "freebies",
+      "start": 24.76,
+      "end": 25.28
+    },
+    {
+      "word": "and",
+      "start": 25.28,
+      "end": 25.56
+    },
+    {
+      "word": "follow",
+      "start": 25.56,
+      "end": 25.8
+    },
+    {
+      "word": "up",
+      "start": 25.8,
+      "end": 26.1
+    },
+    {
+      "word": "automatically.",
+      "start": 26.1,
+      "end": 26.64
+    },
+    {
+      "word": "You",
+      "start": 26.64,
+      "end": 27.42
+    },
+    {
+      "word": "capture",
+      "start": 27.42,
+      "end": 27.8
+    },
+    {
+      "word": "high",
+      "start": 27.8,
+      "end": 28.16
+    },
+    {
+      "word": "intent",
+      "start": 28.16,
+      "end": 28.5
+    },
+    {
+      "word": "buyers",
+      "start": 28.5,
+      "end": 28.92
+    },
+    {
+      "word": "while",
+      "start": 28.92,
+      "end": 29.2
+    },
+    {
+      "word": "you",
+      "start": 29.2,
+      "end": 29.42
+    },
+    {
+      "word": "sleep.",
+      "start": 29.42,
+      "end": 29.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The biggest mistake side hustlers make with their social media traffic.",
+      "line2": "CAPTURE EMAIL LEADS",
+      "tag": "\ud83d\uded1 Automated link-in-bio funnel that captures email addresses",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: Automated link-in-bio funnel that captures email addresses",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: Automated link-in-bio funnel that captures email addresses",
+        "subtitle": "Automated link-in-bio funnel that captures email addresses"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "Automated link-in-bio funnel that captures email addresses"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "Automated link-in-bio funnel that captures email addresses"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "Automated link-in-bio funnel that captures email addresses",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

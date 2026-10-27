@@ -1,0 +1,391 @@
+{
+  "page": "page-04",
+  "idea": "Espanso: free cross-platform text expander that saves thousands of keystrokes",
+  "text": "Type two letters and let this free tool fill out your entire message. Drafting identical cold emails or client updates by hand slows down your daily sales cadence. Manual typing introduces formatting discrepancies and wastes valuable energy that should go toward closing deals. Espanso enables dynamic forms that auto-populate today's date, client names, and tailored pitch copy instantly. You fire off personalized messages in seconds.",
+  "duration": 26.133,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Type",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "two",
+      "start": 0.28,
+      "end": 0.58
+    },
+    {
+      "word": "letters",
+      "start": 0.58,
+      "end": 0.84
+    },
+    {
+      "word": "and",
+      "start": 0.84,
+      "end": 1.04
+    },
+    {
+      "word": "let",
+      "start": 1.04,
+      "end": 1.22
+    },
+    {
+      "word": "this",
+      "start": 1.22,
+      "end": 1.42
+    },
+    {
+      "word": "free",
+      "start": 1.42,
+      "end": 1.62
+    },
+    {
+      "word": "tool",
+      "start": 1.62,
+      "end": 1.92
+    },
+    {
+      "word": "fill",
+      "start": 1.92,
+      "end": 2.12
+    },
+    {
+      "word": "out",
+      "start": 2.12,
+      "end": 2.3
+    },
+    {
+      "word": "your",
+      "start": 2.3,
+      "end": 2.74
+    },
+    {
+      "word": "entire",
+      "start": 2.74,
+      "end": 2.8
+    },
+    {
+      "word": "message.",
+      "start": 2.8,
+      "end": 3.32
+    },
+    {
+      "word": "Drafting",
+      "start": 3.92,
+      "end": 4.2
+    },
+    {
+      "word": "identical",
+      "start": 4.2,
+      "end": 4.64
+    },
+    {
+      "word": "cold",
+      "start": 4.64,
+      "end": 5.02
+    },
+    {
+      "word": "emails",
+      "start": 5.02,
+      "end": 5.36
+    },
+    {
+      "word": "or",
+      "start": 5.36,
+      "end": 5.7
+    },
+    {
+      "word": "client",
+      "start": 5.7,
+      "end": 6.0
+    },
+    {
+      "word": "updates",
+      "start": 6.0,
+      "end": 6.3
+    },
+    {
+      "word": "by",
+      "start": 6.3,
+      "end": 6.64
+    },
+    {
+      "word": "hand",
+      "start": 6.64,
+      "end": 7.02
+    },
+    {
+      "word": "slows",
+      "start": 7.02,
+      "end": 7.48
+    },
+    {
+      "word": "down",
+      "start": 7.48,
+      "end": 7.7
+    },
+    {
+      "word": "your",
+      "start": 7.7,
+      "end": 8.12
+    },
+    {
+      "word": "daily",
+      "start": 8.12,
+      "end": 8.12
+    },
+    {
+      "word": "sales",
+      "start": 8.12,
+      "end": 8.54
+    },
+    {
+      "word": "cadence.",
+      "start": 8.54,
+      "end": 9.24
+    },
+    {
+      "word": "Manual",
+      "start": 9.88,
+      "end": 9.88
+    },
+    {
+      "word": "typing",
+      "start": 9.88,
+      "end": 10.24
+    },
+    {
+      "word": "introduces",
+      "start": 10.24,
+      "end": 10.82
+    },
+    {
+      "word": "formatting",
+      "start": 10.82,
+      "end": 11.22
+    },
+    {
+      "word": "discrepancies",
+      "start": 11.22,
+      "end": 11.96
+    },
+    {
+      "word": "and",
+      "start": 11.96,
+      "end": 12.56
+    },
+    {
+      "word": "wastes",
+      "start": 12.56,
+      "end": 12.88
+    },
+    {
+      "word": "valuable",
+      "start": 12.88,
+      "end": 13.32
+    },
+    {
+      "word": "energy",
+      "start": 13.32,
+      "end": 13.72
+    },
+    {
+      "word": "that",
+      "start": 13.72,
+      "end": 14.06
+    },
+    {
+      "word": "should",
+      "start": 14.06,
+      "end": 14.24
+    },
+    {
+      "word": "go",
+      "start": 14.24,
+      "end": 14.42
+    },
+    {
+      "word": "toward",
+      "start": 14.42,
+      "end": 14.76
+    },
+    {
+      "word": "closing",
+      "start": 14.76,
+      "end": 15.14
+    },
+    {
+      "word": "deals.",
+      "start": 15.14,
+      "end": 15.6
+    },
+    {
+      "word": "Espanso",
+      "start": 16.28,
+      "end": 16.78
+    },
+    {
+      "word": "enables",
+      "start": 16.78,
+      "end": 17.22
+    },
+    {
+      "word": "dynamic",
+      "start": 17.22,
+      "end": 17.66
+    },
+    {
+      "word": "forms",
+      "start": 17.66,
+      "end": 18.16
+    },
+    {
+      "word": "that",
+      "start": 18.16,
+      "end": 18.42
+    },
+    {
+      "word": "auto",
+      "start": 18.42,
+      "end": 18.62
+    },
+    {
+      "word": "-populate",
+      "start": 18.62,
+      "end": 19.02
+    },
+    {
+      "word": "today's",
+      "start": 19.02,
+      "end": 19.52
+    },
+    {
+      "word": "date,",
+      "start": 19.52,
+      "end": 19.92
+    },
+    {
+      "word": "client",
+      "start": 20.14,
+      "end": 20.42
+    },
+    {
+      "word": "names,",
+      "start": 20.42,
+      "end": 20.78
+    },
+    {
+      "word": "and",
+      "start": 21.2,
+      "end": 21.36
+    },
+    {
+      "word": "tailored",
+      "start": 21.36,
+      "end": 21.72
+    },
+    {
+      "word": "pitch",
+      "start": 21.72,
+      "end": 22.06
+    },
+    {
+      "word": "copy",
+      "start": 22.06,
+      "end": 22.44
+    },
+    {
+      "word": "instantly.",
+      "start": 22.44,
+      "end": 22.94
+    },
+    {
+      "word": "You",
+      "start": 23.58,
+      "end": 23.7
+    },
+    {
+      "word": "fire",
+      "start": 23.7,
+      "end": 23.94
+    },
+    {
+      "word": "off",
+      "start": 23.94,
+      "end": 24.38
+    },
+    {
+      "word": "personalized",
+      "start": 24.38,
+      "end": 24.86
+    },
+    {
+      "word": "messages",
+      "start": 24.86,
+      "end": 25.34
+    },
+    {
+      "word": "in",
+      "start": 25.34,
+      "end": 25.7
+    },
+    {
+      "word": "seconds.",
+      "start": 25.7,
+      "end": 26.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Type two letters and let this free tool fill out your entire message.",
+      "line2": "FREE TEXT EXPANDER",
+      "tag": "\ud83d\uded1 Espanso",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Espanso",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Espanso",
+        "subtitle": "Espanso"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Espanso"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Espanso"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Espanso",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

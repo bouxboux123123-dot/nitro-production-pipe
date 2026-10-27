@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "Automated invoice and retainer collection system with Stripe Billing",
+  "text": "The automated credit card retainer billing setup that guarantees payment on the 1st. Most founders deliver weeks of client work before realizing their monthly invoice is still unpaid. Traditional Net thirty invoicing shifts all financial risk onto your agency while causing payroll anxiety. Integrate Stripe Billing with PandaDoc so contracts require an active credit card before onboarding begins. You eliminate overdue balances and get invoices paid in twenty-four hours.",
+  "duration": 29.605,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "automated",
+      "start": 0.28,
+      "end": 0.66
+    },
+    {
+      "word": "credit",
+      "start": 0.66,
+      "end": 0.98
+    },
+    {
+      "word": "card",
+      "start": 0.98,
+      "end": 1.32
+    },
+    {
+      "word": "retainer",
+      "start": 1.32,
+      "end": 1.8
+    },
+    {
+      "word": "billing",
+      "start": 1.8,
+      "end": 2.12
+    },
+    {
+      "word": "setup",
+      "start": 2.12,
+      "end": 2.5
+    },
+    {
+      "word": "that",
+      "start": 2.5,
+      "end": 2.96
+    },
+    {
+      "word": "guarantees",
+      "start": 2.96,
+      "end": 3.34
+    },
+    {
+      "word": "payment",
+      "start": 3.34,
+      "end": 3.82
+    },
+    {
+      "word": "on",
+      "start": 3.82,
+      "end": 4.02
+    },
+    {
+      "word": "the",
+      "start": 4.02,
+      "end": 4.22
+    },
+    {
+      "word": "first.",
+      "start": 4.22,
+      "end": 4.7
+    },
+    {
+      "word": "Most",
+      "start": 5.08,
+      "end": 5.4
+    },
+    {
+      "word": "founders",
+      "start": 5.4,
+      "end": 5.84
+    },
+    {
+      "word": "deliver",
+      "start": 5.84,
+      "end": 6.14
+    },
+    {
+      "word": "weeks",
+      "start": 6.14,
+      "end": 6.46
+    },
+    {
+      "word": "of",
+      "start": 6.46,
+      "end": 6.7
+    },
+    {
+      "word": "client",
+      "start": 6.7,
+      "end": 6.94
+    },
+    {
+      "word": "work",
+      "start": 6.94,
+      "end": 7.3
+    },
+    {
+      "word": "before",
+      "start": 7.3,
+      "end": 7.8
+    },
+    {
+      "word": "realizing",
+      "start": 7.8,
+      "end": 8.26
+    },
+    {
+      "word": "their",
+      "start": 8.26,
+      "end": 8.66
+    },
+    {
+      "word": "monthly",
+      "start": 8.66,
+      "end": 9.02
+    },
+    {
+      "word": "invoice",
+      "start": 9.02,
+      "end": 9.52
+    },
+    {
+      "word": "is",
+      "start": 9.52,
+      "end": 9.84
+    },
+    {
+      "word": "still",
+      "start": 9.84,
+      "end": 10.16
+    },
+    {
+      "word": "unpaid.",
+      "start": 10.16,
+      "end": 10.74
+    },
+    {
+      "word": "Traditional",
+      "start": 11.68,
+      "end": 11.7
+    },
+    {
+      "word": "net",
+      "start": 11.7,
+      "end": 12.08
+    },
+    {
+      "word": "30",
+      "start": 12.08,
+      "end": 12.48
+    },
+    {
+      "word": "invoicing",
+      "start": 12.48,
+      "end": 12.94
+    },
+    {
+      "word": "shifts",
+      "start": 12.94,
+      "end": 13.4
+    },
+    {
+      "word": "all",
+      "start": 13.4,
+      "end": 13.86
+    },
+    {
+      "word": "financial",
+      "start": 13.86,
+      "end": 14.3
+    },
+    {
+      "word": "risk",
+      "start": 14.3,
+      "end": 14.76
+    },
+    {
+      "word": "onto",
+      "start": 14.76,
+      "end": 15.0
+    },
+    {
+      "word": "your",
+      "start": 15.0,
+      "end": 15.28
+    },
+    {
+      "word": "agency",
+      "start": 15.28,
+      "end": 15.7
+    },
+    {
+      "word": "while",
+      "start": 15.7,
+      "end": 16.2
+    },
+    {
+      "word": "causing",
+      "start": 16.2,
+      "end": 16.62
+    },
+    {
+      "word": "payroll",
+      "start": 16.62,
+      "end": 17.08
+    },
+    {
+      "word": "anxiety.",
+      "start": 17.08,
+      "end": 17.86
+    },
+    {
+      "word": "Integrate",
+      "start": 18.3,
+      "end": 18.62
+    },
+    {
+      "word": "stripe",
+      "start": 18.62,
+      "end": 19.02
+    },
+    {
+      "word": "billing",
+      "start": 19.02,
+      "end": 19.3
+    },
+    {
+      "word": "with",
+      "start": 19.3,
+      "end": 19.58
+    },
+    {
+      "word": "Panda",
+      "start": 19.58,
+      "end": 19.88
+    },
+    {
+      "word": "doc",
+      "start": 19.88,
+      "end": 20.24
+    },
+    {
+      "word": "so",
+      "start": 20.24,
+      "end": 20.78
+    },
+    {
+      "word": "contracts",
+      "start": 20.78,
+      "end": 21.2
+    },
+    {
+      "word": "require",
+      "start": 21.2,
+      "end": 21.74
+    },
+    {
+      "word": "an",
+      "start": 21.74,
+      "end": 21.98
+    },
+    {
+      "word": "active",
+      "start": 21.98,
+      "end": 22.32
+    },
+    {
+      "word": "credit",
+      "start": 22.32,
+      "end": 22.62
+    },
+    {
+      "word": "card",
+      "start": 22.62,
+      "end": 22.98
+    },
+    {
+      "word": "before",
+      "start": 22.98,
+      "end": 23.4
+    },
+    {
+      "word": "onboarding",
+      "start": 23.4,
+      "end": 23.94
+    },
+    {
+      "word": "begins.",
+      "start": 23.94,
+      "end": 24.4
+    },
+    {
+      "word": "You",
+      "start": 25.02,
+      "end": 25.2
+    },
+    {
+      "word": "eliminate",
+      "start": 25.2,
+      "end": 25.62
+    },
+    {
+      "word": "overdue",
+      "start": 25.62,
+      "end": 26.18
+    },
+    {
+      "word": "balances",
+      "start": 26.18,
+      "end": 26.72
+    },
+    {
+      "word": "and",
+      "start": 26.72,
+      "end": 27.18
+    },
+    {
+      "word": "get",
+      "start": 27.18,
+      "end": 27.42
+    },
+    {
+      "word": "invoices",
+      "start": 27.42,
+      "end": 28.0
+    },
+    {
+      "word": "paid",
+      "start": 28.0,
+      "end": 28.32
+    },
+    {
+      "word": "in",
+      "start": 28.32,
+      "end": 28.7
+    },
+    {
+      "word": "24",
+      "start": 28.7,
+      "end": 29.02
+    },
+    {
+      "word": "hours.",
+      "start": 29.02,
+      "end": 29.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "The automated credit card retainer billing setup that guarantees payment on the 1st.",
+      "line2": "AUTOMATE RETAINER BILLING",
+      "tag": "\ud83d\uded1 Automated invoice and retainer collection system with Stripe Billing",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated invoice and retainer collection system with Stripe Billing",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated invoice and retainer collection system with Stripe Billing",
+        "subtitle": "Automated invoice and retainer collection system with Stripe Billing"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated invoice and retainer collection system with Stripe Billing"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated invoice and retainer collection system with Stripe Billing"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated invoice and retainer collection system with Stripe Billing",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

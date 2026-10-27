@@ -1,0 +1,386 @@
+{
+  "page": "page-07",
+  "idea": "Automated SOC2 compliance evidence collector for enterprise sales",
+  "text": "Closing enterprise deals requires SOC2 compliance, but gathering audit evidence manually kills momentum. Founders lose valuable sales cycles compiling security spreadsheets and hunting proof of database encryption. Missing a single compliance policy during audit reviews delays six-figure contracts by several months. Connect Vanta to your AWS infrastructure and GitHub repositories to collect verified compliance evidence continuously. You pass enterprise security audits in record time.",
+  "duration": 31.653,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Closing",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "enterprise",
+      "start": 0.44,
+      "end": 0.9
+    },
+    {
+      "word": "deals",
+      "start": 0.9,
+      "end": 1.42
+    },
+    {
+      "word": "requires",
+      "start": 1.42,
+      "end": 2.02
+    },
+    {
+      "word": "SOC2",
+      "start": 2.02,
+      "end": 3.0
+    },
+    {
+      "word": "compliance,",
+      "start": 3.0,
+      "end": 3.46
+    },
+    {
+      "word": "but",
+      "start": 3.96,
+      "end": 4.08
+    },
+    {
+      "word": "gathering",
+      "start": 4.08,
+      "end": 4.52
+    },
+    {
+      "word": "audit",
+      "start": 4.52,
+      "end": 4.86
+    },
+    {
+      "word": "evidence",
+      "start": 4.86,
+      "end": 5.26
+    },
+    {
+      "word": "manually",
+      "start": 5.26,
+      "end": 5.7
+    },
+    {
+      "word": "kills",
+      "start": 5.7,
+      "end": 6.2
+    },
+    {
+      "word": "momentum.",
+      "start": 6.2,
+      "end": 6.78
+    },
+    {
+      "word": "Founders",
+      "start": 7.7,
+      "end": 7.74
+    },
+    {
+      "word": "lose",
+      "start": 7.74,
+      "end": 8.22
+    },
+    {
+      "word": "valuable",
+      "start": 8.22,
+      "end": 8.64
+    },
+    {
+      "word": "sales",
+      "start": 8.64,
+      "end": 9.12
+    },
+    {
+      "word": "cycles,",
+      "start": 9.12,
+      "end": 9.56
+    },
+    {
+      "word": "compiling",
+      "start": 9.92,
+      "end": 10.24
+    },
+    {
+      "word": "security",
+      "start": 10.24,
+      "end": 10.94
+    },
+    {
+      "word": "spreadsheets,",
+      "start": 10.94,
+      "end": 11.52
+    },
+    {
+      "word": "and",
+      "start": 11.9,
+      "end": 12.0
+    },
+    {
+      "word": "hunting",
+      "start": 12.0,
+      "end": 12.34
+    },
+    {
+      "word": "proof",
+      "start": 12.34,
+      "end": 12.68
+    },
+    {
+      "word": "of",
+      "start": 12.68,
+      "end": 13.12
+    },
+    {
+      "word": "database",
+      "start": 13.12,
+      "end": 13.36
+    },
+    {
+      "word": "encryption.",
+      "start": 13.36,
+      "end": 13.98
+    },
+    {
+      "word": "Missing",
+      "start": 14.44,
+      "end": 14.56
+    },
+    {
+      "word": "a",
+      "start": 14.56,
+      "end": 14.78
+    },
+    {
+      "word": "single",
+      "start": 14.78,
+      "end": 15.08
+    },
+    {
+      "word": "compliance",
+      "start": 15.08,
+      "end": 15.6
+    },
+    {
+      "word": "policy",
+      "start": 15.6,
+      "end": 16.14
+    },
+    {
+      "word": "during",
+      "start": 16.14,
+      "end": 16.58
+    },
+    {
+      "word": "audit",
+      "start": 16.58,
+      "end": 16.82
+    },
+    {
+      "word": "reviews",
+      "start": 16.82,
+      "end": 17.36
+    },
+    {
+      "word": "delays",
+      "start": 17.36,
+      "end": 17.84
+    },
+    {
+      "word": "six",
+      "start": 17.84,
+      "end": 18.18
+    },
+    {
+      "word": "figure",
+      "start": 18.18,
+      "end": 18.44
+    },
+    {
+      "word": "contracts",
+      "start": 18.44,
+      "end": 18.92
+    },
+    {
+      "word": "by",
+      "start": 18.92,
+      "end": 19.34
+    },
+    {
+      "word": "several",
+      "start": 19.34,
+      "end": 19.6
+    },
+    {
+      "word": "months.",
+      "start": 19.6,
+      "end": 20.32
+    },
+    {
+      "word": "Connect",
+      "start": 20.96,
+      "end": 20.96
+    },
+    {
+      "word": "Vanta",
+      "start": 20.96,
+      "end": 21.36
+    },
+    {
+      "word": "to",
+      "start": 21.36,
+      "end": 21.62
+    },
+    {
+      "word": "your",
+      "start": 21.62,
+      "end": 21.9
+    },
+    {
+      "word": "AWS",
+      "start": 21.9,
+      "end": 22.4
+    },
+    {
+      "word": "infrastructure",
+      "start": 22.4,
+      "end": 23.18
+    },
+    {
+      "word": "and",
+      "start": 23.18,
+      "end": 23.8
+    },
+    {
+      "word": "GitHub",
+      "start": 23.8,
+      "end": 24.14
+    },
+    {
+      "word": "repositories",
+      "start": 24.14,
+      "end": 24.92
+    },
+    {
+      "word": "to",
+      "start": 24.92,
+      "end": 25.5
+    },
+    {
+      "word": "collect",
+      "start": 25.5,
+      "end": 25.92
+    },
+    {
+      "word": "verified",
+      "start": 25.92,
+      "end": 26.44
+    },
+    {
+      "word": "compliance",
+      "start": 26.44,
+      "end": 27.12
+    },
+    {
+      "word": "evidence",
+      "start": 27.12,
+      "end": 27.52
+    },
+    {
+      "word": "continuously.",
+      "start": 27.52,
+      "end": 28.22
+    },
+    {
+      "word": "You",
+      "start": 28.22,
+      "end": 28.96
+    },
+    {
+      "word": "pass",
+      "start": 28.96,
+      "end": 29.3
+    },
+    {
+      "word": "enterprise",
+      "start": 29.3,
+      "end": 29.84
+    },
+    {
+      "word": "security",
+      "start": 29.84,
+      "end": 30.4
+    },
+    {
+      "word": "audits",
+      "start": 30.4,
+      "end": 30.7
+    },
+    {
+      "word": "in",
+      "start": 30.7,
+      "end": 31.02
+    },
+    {
+      "word": "record",
+      "start": 31.02,
+      "end": 31.16
+    },
+    {
+      "word": "time.",
+      "start": 31.16,
+      "end": 31.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Closing enterprise deals requires SOC2 compliance\u00e2\u20ac\u201dhere is how to automate the evidence.",
+      "line2": "COLLECT SOC2 EVIDENCE",
+      "tag": "\ud83d\uded1 Automated SOC2 compliance evidence collector for enterprise sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

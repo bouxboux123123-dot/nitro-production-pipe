@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "How to turn any website into a standalone desktop app on your computer",
+  "text": "Launch your favorite online tools in clean, distraction-free windows without buying expensive desktop software. Working inside browser tabs tempts you with social media bookmarks, search bars, and distracting extensions. Cluttered browser shells steal screen space and make side-by-side window multitasking clunky and annoying. Click your browser menu, choose Save and Share, and create an isolated window shortcut instantly. You gain a sleek native desktop experience in seconds.",
+  "duration": 29.434,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Launch",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "your",
+      "start": 0.28,
+      "end": 0.66
+    },
+    {
+      "word": "favorite",
+      "start": 0.66,
+      "end": 0.82
+    },
+    {
+      "word": "online",
+      "start": 0.82,
+      "end": 1.18
+    },
+    {
+      "word": "tools",
+      "start": 1.18,
+      "end": 1.66
+    },
+    {
+      "word": "in",
+      "start": 1.66,
+      "end": 1.96
+    },
+    {
+      "word": "clean,",
+      "start": 1.96,
+      "end": 2.42
+    },
+    {
+      "word": "distraction",
+      "start": 2.62,
+      "end": 2.92
+    },
+    {
+      "word": "-free",
+      "start": 2.92,
+      "end": 3.3
+    },
+    {
+      "word": "windows",
+      "start": 3.3,
+      "end": 3.74
+    },
+    {
+      "word": "without",
+      "start": 3.74,
+      "end": 4.28
+    },
+    {
+      "word": "buying",
+      "start": 4.28,
+      "end": 4.64
+    },
+    {
+      "word": "expensive",
+      "start": 4.64,
+      "end": 5.26
+    },
+    {
+      "word": "desktop",
+      "start": 5.26,
+      "end": 5.72
+    },
+    {
+      "word": "software.",
+      "start": 5.72,
+      "end": 6.54
+    },
+    {
+      "word": "Working",
+      "start": 7.14,
+      "end": 7.24
+    },
+    {
+      "word": "inside",
+      "start": 7.24,
+      "end": 7.82
+    },
+    {
+      "word": "browser",
+      "start": 7.82,
+      "end": 8.18
+    },
+    {
+      "word": "tabs",
+      "start": 8.18,
+      "end": 8.64
+    },
+    {
+      "word": "tempts",
+      "start": 8.64,
+      "end": 9.12
+    },
+    {
+      "word": "you",
+      "start": 9.12,
+      "end": 9.24
+    },
+    {
+      "word": "with",
+      "start": 9.24,
+      "end": 9.44
+    },
+    {
+      "word": "social",
+      "start": 9.44,
+      "end": 9.74
+    },
+    {
+      "word": "media",
+      "start": 9.74,
+      "end": 10.06
+    },
+    {
+      "word": "bookmarks,",
+      "start": 10.06,
+      "end": 10.64
+    },
+    {
+      "word": "search",
+      "start": 11.24,
+      "end": 11.3
+    },
+    {
+      "word": "bars,",
+      "start": 11.3,
+      "end": 11.7
+    },
+    {
+      "word": "and",
+      "start": 11.94,
+      "end": 12.18
+    },
+    {
+      "word": "distracting",
+      "start": 12.18,
+      "end": 12.6
+    },
+    {
+      "word": "extensions.",
+      "start": 12.6,
+      "end": 13.38
+    },
+    {
+      "word": "Cluttered",
+      "start": 13.84,
+      "end": 13.96
+    },
+    {
+      "word": "browser",
+      "start": 13.96,
+      "end": 14.34
+    },
+    {
+      "word": "shells",
+      "start": 14.34,
+      "end": 14.8
+    },
+    {
+      "word": "steal",
+      "start": 14.8,
+      "end": 15.16
+    },
+    {
+      "word": "screen",
+      "start": 15.16,
+      "end": 15.54
+    },
+    {
+      "word": "space",
+      "start": 15.54,
+      "end": 15.98
+    },
+    {
+      "word": "and",
+      "start": 15.98,
+      "end": 16.2
+    },
+    {
+      "word": "make",
+      "start": 16.2,
+      "end": 16.46
+    },
+    {
+      "word": "side",
+      "start": 16.46,
+      "end": 16.74
+    },
+    {
+      "word": "-by",
+      "start": 16.74,
+      "end": 16.94
+    },
+    {
+      "word": "-side",
+      "start": 16.94,
+      "end": 17.24
+    },
+    {
+      "word": "window",
+      "start": 17.24,
+      "end": 17.68
+    },
+    {
+      "word": "multitasking",
+      "start": 17.68,
+      "end": 18.46
+    },
+    {
+      "word": "clunky",
+      "start": 18.46,
+      "end": 18.88
+    },
+    {
+      "word": "and",
+      "start": 18.88,
+      "end": 19.12
+    },
+    {
+      "word": "annoying.",
+      "start": 19.12,
+      "end": 19.44
+    },
+    {
+      "word": "Click",
+      "start": 20.3,
+      "end": 20.3
+    },
+    {
+      "word": "your",
+      "start": 20.3,
+      "end": 20.54
+    },
+    {
+      "word": "browser",
+      "start": 20.54,
+      "end": 20.82
+    },
+    {
+      "word": "menu,",
+      "start": 20.82,
+      "end": 21.2
+    },
+    {
+      "word": "choose",
+      "start": 21.6,
+      "end": 21.96
+    },
+    {
+      "word": "save",
+      "start": 21.96,
+      "end": 22.24
+    },
+    {
+      "word": "and",
+      "start": 22.24,
+      "end": 22.46
+    },
+    {
+      "word": "share,",
+      "start": 22.46,
+      "end": 22.78
+    },
+    {
+      "word": "and",
+      "start": 23.06,
+      "end": 23.28
+    },
+    {
+      "word": "create",
+      "start": 23.28,
+      "end": 23.52
+    },
+    {
+      "word": "an",
+      "start": 23.52,
+      "end": 23.82
+    },
+    {
+      "word": "isolated",
+      "start": 23.82,
+      "end": 24.22
+    },
+    {
+      "word": "window",
+      "start": 24.22,
+      "end": 24.72
+    },
+    {
+      "word": "shortcut",
+      "start": 24.72,
+      "end": 25.14
+    },
+    {
+      "word": "instantly.",
+      "start": 25.14,
+      "end": 25.74
+    },
+    {
+      "word": "You",
+      "start": 25.74,
+      "end": 26.46
+    },
+    {
+      "word": "gain",
+      "start": 26.46,
+      "end": 26.64
+    },
+    {
+      "word": "a",
+      "start": 26.64,
+      "end": 26.88
+    },
+    {
+      "word": "sleek",
+      "start": 26.88,
+      "end": 27.12
+    },
+    {
+      "word": "native",
+      "start": 27.12,
+      "end": 27.52
+    },
+    {
+      "word": "desktop",
+      "start": 27.52,
+      "end": 28.02
+    },
+    {
+      "word": "experience",
+      "start": 28.02,
+      "end": 28.68
+    },
+    {
+      "word": "in",
+      "start": 28.68,
+      "end": 28.98
+    },
+    {
+      "word": "seconds.",
+      "start": 28.98,
+      "end": 29.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Launch your favorite tools in their own clean, distraction-free windows.",
+      "line2": "TURN WEBSITES INTO APPS",
+      "tag": "\ud83d\uded1 How to turn any website into a standalone desktop app on your computer",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Distraction Shield Active: How to turn any website into a standalone desktop app on your computer",
+      "primitive": "DistractionShieldBlocker",
+      "props": {
+        "title": "Distraction Shield Active: How to turn any website into a standalone desktop app on your computer",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Context-Switching Energy Drain",
+      "primitive": "ContextSwitchingPenaltyMeter",
+      "props": {
+        "title": "Context-Switching Energy Drain",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "The Rule-of-Three Priorities",
+      "primitive": "DailyPriorityPillars",
+      "props": {
+        "title": "The Rule-of-Three Priorities",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "25-Minute Flow State Lock",
+      "primitive": "PomodoroRadialTimer",
+      "props": {
+        "title": "25-Minute Flow State Lock",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

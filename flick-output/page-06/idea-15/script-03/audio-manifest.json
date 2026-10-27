@@ -1,0 +1,426 @@
+{
+  "page": "page-06",
+  "idea": "Centralized team SOP hub that answers common questions using AI search",
+  "text": "Empower your remote workers to unblock themselves without waiting for teammates overseas to wake up. An engineer in Manila needing deployment instructions loses an entire workday waiting for a lead in London. Async momentum dies the moment essential knowledge stays trapped inside the heads of key managers. Deploying Notion AI creates a searchable knowledge assistant that surfaces exact SOP steps instantly in Slack. Your distributed staff moves forward without timezone delays.",
+  "duration": 29.69,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "empower",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "your",
+      "start": 0.48,
+      "end": 0.84
+    },
+    {
+      "word": "remote",
+      "start": 0.84,
+      "end": 1.06
+    },
+    {
+      "word": "workers",
+      "start": 1.06,
+      "end": 1.56
+    },
+    {
+      "word": "to",
+      "start": 1.56,
+      "end": 1.88
+    },
+    {
+      "word": "unblock",
+      "start": 1.88,
+      "end": 2.22
+    },
+    {
+      "word": "themselves",
+      "start": 2.22,
+      "end": 2.76
+    },
+    {
+      "word": "without",
+      "start": 2.76,
+      "end": 3.2
+    },
+    {
+      "word": "waiting",
+      "start": 3.2,
+      "end": 3.52
+    },
+    {
+      "word": "for",
+      "start": 3.52,
+      "end": 3.8
+    },
+    {
+      "word": "teammates",
+      "start": 3.8,
+      "end": 4.14
+    },
+    {
+      "word": "overseas",
+      "start": 4.14,
+      "end": 4.62
+    },
+    {
+      "word": "to",
+      "start": 4.62,
+      "end": 4.96
+    },
+    {
+      "word": "wake",
+      "start": 4.96,
+      "end": 5.16
+    },
+    {
+      "word": "up.",
+      "start": 5.16,
+      "end": 5.66
+    },
+    {
+      "word": "An",
+      "start": 6.04,
+      "end": 6.22
+    },
+    {
+      "word": "engineer",
+      "start": 6.22,
+      "end": 6.6
+    },
+    {
+      "word": "in",
+      "start": 6.6,
+      "end": 6.88
+    },
+    {
+      "word": "Manila",
+      "start": 6.88,
+      "end": 7.08
+    },
+    {
+      "word": "needing",
+      "start": 7.08,
+      "end": 7.46
+    },
+    {
+      "word": "deployment",
+      "start": 7.46,
+      "end": 7.94
+    },
+    {
+      "word": "instructions",
+      "start": 7.94,
+      "end": 8.74
+    },
+    {
+      "word": "loses",
+      "start": 8.74,
+      "end": 9.36
+    },
+    {
+      "word": "an",
+      "start": 9.36,
+      "end": 9.72
+    },
+    {
+      "word": "entire",
+      "start": 9.72,
+      "end": 10.12
+    },
+    {
+      "word": "workday",
+      "start": 10.12,
+      "end": 10.56
+    },
+    {
+      "word": "waiting",
+      "start": 10.56,
+      "end": 10.94
+    },
+    {
+      "word": "for",
+      "start": 10.94,
+      "end": 11.18
+    },
+    {
+      "word": "a",
+      "start": 11.18,
+      "end": 11.3
+    },
+    {
+      "word": "lead",
+      "start": 11.3,
+      "end": 11.5
+    },
+    {
+      "word": "in",
+      "start": 11.5,
+      "end": 11.74
+    },
+    {
+      "word": "London.",
+      "start": 11.74,
+      "end": 12.02
+    },
+    {
+      "word": "A",
+      "start": 12.5,
+      "end": 12.6
+    },
+    {
+      "word": "sink",
+      "start": 12.6,
+      "end": 12.76
+    },
+    {
+      "word": "momentum",
+      "start": 12.76,
+      "end": 13.26
+    },
+    {
+      "word": "dies",
+      "start": 13.26,
+      "end": 13.7
+    },
+    {
+      "word": "the",
+      "start": 13.7,
+      "end": 13.92
+    },
+    {
+      "word": "moment",
+      "start": 13.92,
+      "end": 14.2
+    },
+    {
+      "word": "essential",
+      "start": 14.2,
+      "end": 14.66
+    },
+    {
+      "word": "knowledge",
+      "start": 14.66,
+      "end": 15.22
+    },
+    {
+      "word": "stays",
+      "start": 15.22,
+      "end": 15.66
+    },
+    {
+      "word": "trapped",
+      "start": 15.66,
+      "end": 16.0
+    },
+    {
+      "word": "inside",
+      "start": 16.0,
+      "end": 16.4
+    },
+    {
+      "word": "the",
+      "start": 16.4,
+      "end": 16.58
+    },
+    {
+      "word": "heads",
+      "start": 16.58,
+      "end": 16.74
+    },
+    {
+      "word": "of",
+      "start": 16.74,
+      "end": 16.92
+    },
+    {
+      "word": "key",
+      "start": 16.92,
+      "end": 17.18
+    },
+    {
+      "word": "managers.",
+      "start": 17.18,
+      "end": 17.68
+    },
+    {
+      "word": "Deploying",
+      "start": 18.42,
+      "end": 18.8
+    },
+    {
+      "word": "notion",
+      "start": 18.8,
+      "end": 19.3
+    },
+    {
+      "word": "AI",
+      "start": 19.3,
+      "end": 19.98
+    },
+    {
+      "word": "creates",
+      "start": 19.98,
+      "end": 20.36
+    },
+    {
+      "word": "a",
+      "start": 20.36,
+      "end": 20.68
+    },
+    {
+      "word": "searchable",
+      "start": 20.68,
+      "end": 21.04
+    },
+    {
+      "word": "knowledge",
+      "start": 21.04,
+      "end": 21.36
+    },
+    {
+      "word": "assistant",
+      "start": 21.36,
+      "end": 21.86
+    },
+    {
+      "word": "that",
+      "start": 21.86,
+      "end": 22.46
+    },
+    {
+      "word": "surfaces",
+      "start": 22.46,
+      "end": 22.86
+    },
+    {
+      "word": "exact",
+      "start": 22.86,
+      "end": 23.5
+    },
+    {
+      "word": "SOP",
+      "start": 23.5,
+      "end": 24.14
+    },
+    {
+      "word": "steps",
+      "start": 24.14,
+      "end": 24.5
+    },
+    {
+      "word": "instantly",
+      "start": 24.5,
+      "end": 25.04
+    },
+    {
+      "word": "and",
+      "start": 25.04,
+      "end": 25.38
+    },
+    {
+      "word": "slack.",
+      "start": 25.38,
+      "end": 25.7
+    },
+    {
+      "word": "Your",
+      "start": 26.24,
+      "end": 26.44
+    },
+    {
+      "word": "distributed",
+      "start": 26.44,
+      "end": 26.9
+    },
+    {
+      "word": "staff",
+      "start": 26.9,
+      "end": 27.38
+    },
+    {
+      "word": "moves",
+      "start": 27.38,
+      "end": 27.76
+    },
+    {
+      "word": "forward",
+      "start": 27.76,
+      "end": 28.06
+    },
+    {
+      "word": "without",
+      "start": 28.06,
+      "end": 28.5
+    },
+    {
+      "word": "time",
+      "start": 28.5,
+      "end": 28.86
+    },
+    {
+      "word": "zone",
+      "start": 28.86,
+      "end": 29.18
+    },
+    {
+      "word": "delays.",
+      "start": 29.18,
+      "end": 29.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Empower remote workers to unblock themselves without waiting for someone to wake up.",
+      "line2": "AI-POWERED SOP SEARCH",
+      "tag": "\ud83d\uded1 Centralized team SOP hub that answers common questions using AI search",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Centralized team SOP hub that answers common questions using AI search",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Centralized team SOP hub that answers common questions using AI search",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

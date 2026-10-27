@@ -1,0 +1,386 @@
+{
+  "page": "page-04",
+  "idea": "Excalidraw: virtual whiteboard for brainstorming and architecture diagrams",
+  "text": "Map out your next workflow in thirty seconds using this free canvas. Documenting standard operating procedures in text documents leaves team members confused about execution order. Linear paragraphs fail to illustrate decision branches, causing skipped steps and operational bottlenecks. Excalidraw lets you connect steps visually with arrows, intuitive shapes, and notes on an instant web board. You clarify complex procedures in minutes with zero friction.",
+  "duration": 27.407,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "map",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "out",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "your",
+      "start": 0.5,
+      "end": 0.66
+    },
+    {
+      "word": "next",
+      "start": 0.66,
+      "end": 0.96
+    },
+    {
+      "word": "workflow",
+      "start": 0.96,
+      "end": 1.36
+    },
+    {
+      "word": "in",
+      "start": 1.36,
+      "end": 1.66
+    },
+    {
+      "word": "30",
+      "start": 1.66,
+      "end": 2.0
+    },
+    {
+      "word": "seconds",
+      "start": 2.0,
+      "end": 2.38
+    },
+    {
+      "word": "using",
+      "start": 2.38,
+      "end": 2.74
+    },
+    {
+      "word": "this",
+      "start": 2.74,
+      "end": 3.02
+    },
+    {
+      "word": "free",
+      "start": 3.02,
+      "end": 3.3
+    },
+    {
+      "word": "canvas.",
+      "start": 3.3,
+      "end": 3.72
+    },
+    {
+      "word": "Documenting",
+      "start": 4.56,
+      "end": 4.96
+    },
+    {
+      "word": "standard",
+      "start": 4.96,
+      "end": 5.32
+    },
+    {
+      "word": "operating",
+      "start": 5.32,
+      "end": 5.86
+    },
+    {
+      "word": "procedures",
+      "start": 5.86,
+      "end": 6.34
+    },
+    {
+      "word": "in",
+      "start": 6.34,
+      "end": 6.66
+    },
+    {
+      "word": "text",
+      "start": 6.66,
+      "end": 6.92
+    },
+    {
+      "word": "documents",
+      "start": 6.92,
+      "end": 7.54
+    },
+    {
+      "word": "leaves",
+      "start": 7.54,
+      "end": 8.1
+    },
+    {
+      "word": "team",
+      "start": 8.1,
+      "end": 8.48
+    },
+    {
+      "word": "members",
+      "start": 8.48,
+      "end": 8.82
+    },
+    {
+      "word": "confused",
+      "start": 8.82,
+      "end": 9.46
+    },
+    {
+      "word": "about",
+      "start": 9.46,
+      "end": 9.8
+    },
+    {
+      "word": "execution",
+      "start": 9.8,
+      "end": 10.24
+    },
+    {
+      "word": "order.",
+      "start": 10.24,
+      "end": 10.78
+    },
+    {
+      "word": "Linear",
+      "start": 11.1,
+      "end": 11.22
+    },
+    {
+      "word": "paragraphs",
+      "start": 11.22,
+      "end": 11.7
+    },
+    {
+      "word": "fail",
+      "start": 11.7,
+      "end": 12.16
+    },
+    {
+      "word": "to",
+      "start": 12.16,
+      "end": 12.54
+    },
+    {
+      "word": "illustrate",
+      "start": 12.54,
+      "end": 12.74
+    },
+    {
+      "word": "decision",
+      "start": 12.74,
+      "end": 13.22
+    },
+    {
+      "word": "branches,",
+      "start": 13.22,
+      "end": 13.64
+    },
+    {
+      "word": "causing",
+      "start": 14.28,
+      "end": 14.42
+    },
+    {
+      "word": "skipped",
+      "start": 14.42,
+      "end": 14.88
+    },
+    {
+      "word": "steps",
+      "start": 14.88,
+      "end": 15.22
+    },
+    {
+      "word": "and",
+      "start": 15.22,
+      "end": 15.54
+    },
+    {
+      "word": "operational",
+      "start": 15.54,
+      "end": 16.04
+    },
+    {
+      "word": "bottlenecks.",
+      "start": 16.04,
+      "end": 17.08
+    },
+    {
+      "word": "Excaladraw",
+      "start": 17.4,
+      "end": 17.9
+    },
+    {
+      "word": "lets",
+      "start": 17.9,
+      "end": 18.1
+    },
+    {
+      "word": "you",
+      "start": 18.1,
+      "end": 18.32
+    },
+    {
+      "word": "connect",
+      "start": 18.32,
+      "end": 18.6
+    },
+    {
+      "word": "steps",
+      "start": 18.6,
+      "end": 19.0
+    },
+    {
+      "word": "visually",
+      "start": 19.0,
+      "end": 19.42
+    },
+    {
+      "word": "with",
+      "start": 19.42,
+      "end": 19.76
+    },
+    {
+      "word": "arrows,",
+      "start": 19.76,
+      "end": 20.16
+    },
+    {
+      "word": "intuitive",
+      "start": 20.88,
+      "end": 20.9
+    },
+    {
+      "word": "shapes,",
+      "start": 20.9,
+      "end": 21.44
+    },
+    {
+      "word": "and",
+      "start": 21.84,
+      "end": 22.02
+    },
+    {
+      "word": "notes",
+      "start": 22.02,
+      "end": 22.22
+    },
+    {
+      "word": "on",
+      "start": 22.22,
+      "end": 22.42
+    },
+    {
+      "word": "an",
+      "start": 22.42,
+      "end": 22.76
+    },
+    {
+      "word": "instant",
+      "start": 22.76,
+      "end": 22.98
+    },
+    {
+      "word": "web",
+      "start": 22.98,
+      "end": 23.24
+    },
+    {
+      "word": "board.",
+      "start": 23.24,
+      "end": 23.62
+    },
+    {
+      "word": "You",
+      "start": 24.12,
+      "end": 24.22
+    },
+    {
+      "word": "clarify",
+      "start": 24.22,
+      "end": 24.56
+    },
+    {
+      "word": "complex",
+      "start": 24.56,
+      "end": 25.18
+    },
+    {
+      "word": "procedures",
+      "start": 25.18,
+      "end": 25.74
+    },
+    {
+      "word": "in",
+      "start": 25.74,
+      "end": 26.06
+    },
+    {
+      "word": "minutes",
+      "start": 26.06,
+      "end": 26.24
+    },
+    {
+      "word": "with",
+      "start": 26.24,
+      "end": 26.54
+    },
+    {
+      "word": "zero",
+      "start": 26.54,
+      "end": 26.96
+    },
+    {
+      "word": "friction.",
+      "start": 26.96,
+      "end": 27.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Map out your next workflow in 30 seconds using this free canvas.",
+      "line2": "FREE VIRTUAL WHITEBOARD",
+      "tag": "\ud83d\uded1 Excalidraw",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Excalidraw",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Excalidraw",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Excalidraw",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

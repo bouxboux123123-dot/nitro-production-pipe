@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "Make.com native AI assistants for scenario building and debugging",
+  "text": "Building client onboarding forms used to require three different tools until Notion launched this. Freelancers often struggle to link customer intake surveys, Google Drive uploads, and project dashboards together smoothly. When clients encounter disconnected links and clunky redirects, kickoff timelines slip and professional credibility suffers. Notion Forms now embeds file attachments, checklist preferences, and contact details straight into customer client portals. You deliver a five-star onboarding experience on autopilot.",
+  "duration": 32.165,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Building",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "client",
+      "start": 0.36,
+      "end": 0.78
+    },
+    {
+      "word": "onboarding",
+      "start": 0.78,
+      "end": 1.32
+    },
+    {
+      "word": "forms",
+      "start": 1.32,
+      "end": 1.6
+    },
+    {
+      "word": "used",
+      "start": 1.6,
+      "end": 1.96
+    },
+    {
+      "word": "to",
+      "start": 1.96,
+      "end": 2.22
+    },
+    {
+      "word": "require",
+      "start": 2.22,
+      "end": 2.52
+    },
+    {
+      "word": "three",
+      "start": 2.52,
+      "end": 2.94
+    },
+    {
+      "word": "different",
+      "start": 2.94,
+      "end": 3.28
+    },
+    {
+      "word": "tools",
+      "start": 3.28,
+      "end": 3.86
+    },
+    {
+      "word": "until",
+      "start": 3.86,
+      "end": 4.34
+    },
+    {
+      "word": "Notion",
+      "start": 4.34,
+      "end": 4.72
+    },
+    {
+      "word": "launched",
+      "start": 4.72,
+      "end": 5.08
+    },
+    {
+      "word": "this.",
+      "start": 5.08,
+      "end": 5.86
+    },
+    {
+      "word": "Freelancers",
+      "start": 6.2,
+      "end": 6.56
+    },
+    {
+      "word": "often",
+      "start": 6.56,
+      "end": 7.08
+    },
+    {
+      "word": "struggle",
+      "start": 7.08,
+      "end": 7.36
+    },
+    {
+      "word": "to",
+      "start": 7.36,
+      "end": 7.6
+    },
+    {
+      "word": "link",
+      "start": 7.6,
+      "end": 7.86
+    },
+    {
+      "word": "customer",
+      "start": 7.86,
+      "end": 8.32
+    },
+    {
+      "word": "intake",
+      "start": 8.32,
+      "end": 8.72
+    },
+    {
+      "word": "surveys,",
+      "start": 8.72,
+      "end": 9.2
+    },
+    {
+      "word": "Google",
+      "start": 9.66,
+      "end": 9.94
+    },
+    {
+      "word": "Drive",
+      "start": 9.94,
+      "end": 10.26
+    },
+    {
+      "word": "uploads,",
+      "start": 10.26,
+      "end": 10.94
+    },
+    {
+      "word": "and",
+      "start": 11.0,
+      "end": 11.12
+    },
+    {
+      "word": "project",
+      "start": 11.12,
+      "end": 11.54
+    },
+    {
+      "word": "dashboards",
+      "start": 11.54,
+      "end": 12.18
+    },
+    {
+      "word": "together",
+      "start": 12.18,
+      "end": 12.6
+    },
+    {
+      "word": "smoothly.",
+      "start": 12.6,
+      "end": 13.06
+    },
+    {
+      "word": "When",
+      "start": 13.48,
+      "end": 13.66
+    },
+    {
+      "word": "clients",
+      "start": 13.66,
+      "end": 13.92
+    },
+    {
+      "word": "encounter",
+      "start": 13.92,
+      "end": 14.5
+    },
+    {
+      "word": "disconnected",
+      "start": 14.5,
+      "end": 14.98
+    },
+    {
+      "word": "links",
+      "start": 14.98,
+      "end": 15.4
+    },
+    {
+      "word": "and",
+      "start": 15.4,
+      "end": 15.66
+    },
+    {
+      "word": "clunky",
+      "start": 15.66,
+      "end": 15.92
+    },
+    {
+      "word": "redirects,",
+      "start": 15.92,
+      "end": 16.86
+    },
+    {
+      "word": "kick",
+      "start": 17.0,
+      "end": 17.08
+    },
+    {
+      "word": "off",
+      "start": 17.08,
+      "end": 17.34
+    },
+    {
+      "word": "timeline",
+      "start": 17.34,
+      "end": 17.78
+    },
+    {
+      "word": "slip",
+      "start": 17.78,
+      "end": 18.36
+    },
+    {
+      "word": "and",
+      "start": 18.36,
+      "end": 18.66
+    },
+    {
+      "word": "professional",
+      "start": 18.66,
+      "end": 19.1
+    },
+    {
+      "word": "credibility",
+      "start": 19.1,
+      "end": 19.56
+    },
+    {
+      "word": "suffers.",
+      "start": 19.56,
+      "end": 20.1
+    },
+    {
+      "word": "Notion",
+      "start": 20.86,
+      "end": 21.12
+    },
+    {
+      "word": "forms",
+      "start": 21.12,
+      "end": 21.5
+    },
+    {
+      "word": "now",
+      "start": 21.5,
+      "end": 21.86
+    },
+    {
+      "word": "embeds",
+      "start": 21.86,
+      "end": 22.32
+    },
+    {
+      "word": "file",
+      "start": 22.32,
+      "end": 22.64
+    },
+    {
+      "word": "attachments,",
+      "start": 22.64,
+      "end": 23.24
+    },
+    {
+      "word": "checklist",
+      "start": 23.84,
+      "end": 24.02
+    },
+    {
+      "word": "preferences,",
+      "start": 24.02,
+      "end": 24.62
+    },
+    {
+      "word": "and",
+      "start": 25.0,
+      "end": 25.4
+    },
+    {
+      "word": "contact",
+      "start": 25.4,
+      "end": 25.68
+    },
+    {
+      "word": "details",
+      "start": 25.68,
+      "end": 26.22
+    },
+    {
+      "word": "straight",
+      "start": 26.22,
+      "end": 26.7
+    },
+    {
+      "word": "into",
+      "start": 26.7,
+      "end": 26.9
+    },
+    {
+      "word": "customer",
+      "start": 26.9,
+      "end": 27.36
+    },
+    {
+      "word": "client",
+      "start": 27.36,
+      "end": 27.76
+    },
+    {
+      "word": "portals.",
+      "start": 27.76,
+      "end": 28.16
+    },
+    {
+      "word": "You",
+      "start": 28.16,
+      "end": 28.88
+    },
+    {
+      "word": "deliver",
+      "start": 28.88,
+      "end": 29.14
+    },
+    {
+      "word": "a",
+      "start": 29.14,
+      "end": 29.42
+    },
+    {
+      "word": "five",
+      "start": 29.42,
+      "end": 29.74
+    },
+    {
+      "word": "-star",
+      "start": 29.74,
+      "end": 29.98
+    },
+    {
+      "word": "onboarding",
+      "start": 29.98,
+      "end": 30.74
+    },
+    {
+      "word": "experience",
+      "start": 30.74,
+      "end": 31.18
+    },
+    {
+      "word": "on",
+      "start": 31.18,
+      "end": 31.56
+    },
+    {
+      "word": "autopilot.",
+      "start": 31.56,
+      "end": 32.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Debug broken webhooks in seconds with this newly released feature.",
+      "line2": "MAKE AI SCENARIO DEBUGGER",
+      "tag": "\ud83d\uded1 Make.com native AI assistants for scenario building and debugging",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Make.com native AI assistants for scenario building and debugging",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Make.com native AI assistants for scenario building and debugging",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

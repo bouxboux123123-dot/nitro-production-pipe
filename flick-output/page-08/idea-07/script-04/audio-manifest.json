@@ -1,0 +1,371 @@
+{
+  "page": "page-08",
+  "idea": "Automated email filter that unsubscribes from spam newsletters",
+  "text": "Here is how beginners can clean out a messy inbox in under sixty seconds. Thousands of promotional subscriptions create visual clutter that makes checking email feel exhausting. Manual deletion fails because automated marketing drips send new emails around the clock. Instead, filter by unsubscribe, select all matching threads, and create an automated rule to archive them. You achieve inbox zero in seconds.",
+  "duration": 23.808,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.36
+    },
+    {
+      "word": "how",
+      "start": 0.36,
+      "end": 0.62
+    },
+    {
+      "word": "beginners",
+      "start": 0.62,
+      "end": 0.92
+    },
+    {
+      "word": "can",
+      "start": 0.92,
+      "end": 1.26
+    },
+    {
+      "word": "clean",
+      "start": 1.26,
+      "end": 1.44
+    },
+    {
+      "word": "out",
+      "start": 1.44,
+      "end": 1.62
+    },
+    {
+      "word": "a",
+      "start": 1.62,
+      "end": 1.76
+    },
+    {
+      "word": "messy",
+      "start": 1.76,
+      "end": 1.94
+    },
+    {
+      "word": "inbox",
+      "start": 1.94,
+      "end": 2.26
+    },
+    {
+      "word": "in",
+      "start": 2.26,
+      "end": 2.52
+    },
+    {
+      "word": "under",
+      "start": 2.52,
+      "end": 2.74
+    },
+    {
+      "word": "60",
+      "start": 2.74,
+      "end": 3.14
+    },
+    {
+      "word": "seconds.",
+      "start": 3.14,
+      "end": 3.7
+    },
+    {
+      "word": "Thousands",
+      "start": 4.34,
+      "end": 4.38
+    },
+    {
+      "word": "of",
+      "start": 4.38,
+      "end": 4.66
+    },
+    {
+      "word": "promotional",
+      "start": 4.66,
+      "end": 4.98
+    },
+    {
+      "word": "subscriptions",
+      "start": 4.98,
+      "end": 5.58
+    },
+    {
+      "word": "create",
+      "start": 5.58,
+      "end": 6.16
+    },
+    {
+      "word": "visual",
+      "start": 6.16,
+      "end": 6.52
+    },
+    {
+      "word": "clutter",
+      "start": 6.52,
+      "end": 6.8
+    },
+    {
+      "word": "that",
+      "start": 6.8,
+      "end": 7.02
+    },
+    {
+      "word": "makes",
+      "start": 7.02,
+      "end": 7.32
+    },
+    {
+      "word": "checking",
+      "start": 7.32,
+      "end": 7.7
+    },
+    {
+      "word": "email",
+      "start": 7.7,
+      "end": 8.04
+    },
+    {
+      "word": "feel",
+      "start": 8.04,
+      "end": 8.38
+    },
+    {
+      "word": "exhausting.",
+      "start": 8.38,
+      "end": 9.02
+    },
+    {
+      "word": "Manual",
+      "start": 9.94,
+      "end": 9.94
+    },
+    {
+      "word": "deletion",
+      "start": 9.94,
+      "end": 10.34
+    },
+    {
+      "word": "fails",
+      "start": 10.34,
+      "end": 10.74
+    },
+    {
+      "word": "because",
+      "start": 10.74,
+      "end": 11.18
+    },
+    {
+      "word": "automated",
+      "start": 11.18,
+      "end": 11.54
+    },
+    {
+      "word": "marketing",
+      "start": 11.54,
+      "end": 12.06
+    },
+    {
+      "word": "drips",
+      "start": 12.06,
+      "end": 12.44
+    },
+    {
+      "word": "send",
+      "start": 12.44,
+      "end": 12.66
+    },
+    {
+      "word": "new",
+      "start": 12.66,
+      "end": 12.9
+    },
+    {
+      "word": "emails",
+      "start": 12.9,
+      "end": 13.24
+    },
+    {
+      "word": "around",
+      "start": 13.24,
+      "end": 13.58
+    },
+    {
+      "word": "the",
+      "start": 13.58,
+      "end": 13.8
+    },
+    {
+      "word": "clock.",
+      "start": 13.8,
+      "end": 14.12
+    },
+    {
+      "word": "Instead,",
+      "start": 14.74,
+      "end": 15.08
+    },
+    {
+      "word": "filter",
+      "start": 15.62,
+      "end": 15.74
+    },
+    {
+      "word": "by",
+      "start": 15.74,
+      "end": 16.1
+    },
+    {
+      "word": "unsubscribe,",
+      "start": 16.1,
+      "end": 16.84
+    },
+    {
+      "word": "select",
+      "start": 17.2,
+      "end": 17.44
+    },
+    {
+      "word": "all",
+      "start": 17.44,
+      "end": 17.86
+    },
+    {
+      "word": "matching",
+      "start": 17.86,
+      "end": 18.18
+    },
+    {
+      "word": "threads,",
+      "start": 18.18,
+      "end": 18.58
+    },
+    {
+      "word": "and",
+      "start": 18.96,
+      "end": 19.06
+    },
+    {
+      "word": "create",
+      "start": 19.06,
+      "end": 19.3
+    },
+    {
+      "word": "an",
+      "start": 19.3,
+      "end": 19.74
+    },
+    {
+      "word": "automated",
+      "start": 19.74,
+      "end": 19.88
+    },
+    {
+      "word": "rule",
+      "start": 19.88,
+      "end": 20.24
+    },
+    {
+      "word": "to",
+      "start": 20.24,
+      "end": 20.6
+    },
+    {
+      "word": "archive",
+      "start": 20.6,
+      "end": 20.78
+    },
+    {
+      "word": "them.",
+      "start": 20.78,
+      "end": 21.32
+    },
+    {
+      "word": "You",
+      "start": 21.68,
+      "end": 21.84
+    },
+    {
+      "word": "achieve",
+      "start": 21.84,
+      "end": 22.16
+    },
+    {
+      "word": "inbox",
+      "start": 22.16,
+      "end": 22.58
+    },
+    {
+      "word": "zero",
+      "start": 22.58,
+      "end": 23.14
+    },
+    {
+      "word": "in",
+      "start": 23.14,
+      "end": 23.38
+    },
+    {
+      "word": "seconds.",
+      "start": 23.38,
+      "end": 23.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How beginners can clean out their messy inbox in under 60 seconds.",
+      "line2": "AUTO-UNSUBSCRIBE FROM SPAM",
+      "tag": "\ud83d\uded1 Automated email filter that unsubscribes from spam newsletters",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Automated email filter that unsubscribes from spam newsletters",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Automated email filter that unsubscribes from spam newsletters",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Automated email filter that unsubscribes from spam newsletters",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

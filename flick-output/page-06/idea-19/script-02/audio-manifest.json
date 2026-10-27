@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Remote team contract compliance and global payroll management tool",
+  "text": "This global payroll platform handles international compliance, statutory benefits, and foreign taxes effortlessly. Calculating cross-border wages manually through banking portals causes wire delays and painful currency conversion fees. Failing to withhold mandatory local healthcare or pension contributions triggers immediate government audits. Remote.com automates country-specific benefits, local tax filings, and on-time direct deposits in local currencies. This keeps your global team fully compliant and happy.",
+  "duration": 32.933,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "this",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "global",
+      "start": 0.3,
+      "end": 0.72
+    },
+    {
+      "word": "payroll",
+      "start": 0.72,
+      "end": 1.06
+    },
+    {
+      "word": "platform",
+      "start": 1.06,
+      "end": 1.76
+    },
+    {
+      "word": "handles",
+      "start": 1.76,
+      "end": 2.22
+    },
+    {
+      "word": "international",
+      "start": 2.22,
+      "end": 2.86
+    },
+    {
+      "word": "compliance,",
+      "start": 2.86,
+      "end": 3.54
+    },
+    {
+      "word": "statutory",
+      "start": 4.32,
+      "end": 4.54
+    },
+    {
+      "word": "benefits,",
+      "start": 4.54,
+      "end": 5.12
+    },
+    {
+      "word": "and",
+      "start": 5.52,
+      "end": 5.78
+    },
+    {
+      "word": "foreign",
+      "start": 5.78,
+      "end": 6.06
+    },
+    {
+      "word": "taxes",
+      "start": 6.06,
+      "end": 6.54
+    },
+    {
+      "word": "effortlessly.",
+      "start": 6.54,
+      "end": 7.2
+    },
+    {
+      "word": "Calculating",
+      "start": 8.04,
+      "end": 8.44
+    },
+    {
+      "word": "cross",
+      "start": 8.44,
+      "end": 8.82
+    },
+    {
+      "word": "-border",
+      "start": 8.82,
+      "end": 9.08
+    },
+    {
+      "word": "wages",
+      "start": 9.08,
+      "end": 9.54
+    },
+    {
+      "word": "manually",
+      "start": 9.54,
+      "end": 10.02
+    },
+    {
+      "word": "through",
+      "start": 10.02,
+      "end": 10.36
+    },
+    {
+      "word": "banking",
+      "start": 10.36,
+      "end": 10.68
+    },
+    {
+      "word": "portals",
+      "start": 10.68,
+      "end": 11.06
+    },
+    {
+      "word": "causes",
+      "start": 11.06,
+      "end": 11.78
+    },
+    {
+      "word": "wire",
+      "start": 11.78,
+      "end": 12.18
+    },
+    {
+      "word": "delays",
+      "start": 12.18,
+      "end": 12.66
+    },
+    {
+      "word": "and",
+      "start": 12.66,
+      "end": 13.16
+    },
+    {
+      "word": "painful",
+      "start": 13.16,
+      "end": 13.46
+    },
+    {
+      "word": "currency",
+      "start": 13.46,
+      "end": 13.9
+    },
+    {
+      "word": "conversion",
+      "start": 13.9,
+      "end": 14.5
+    },
+    {
+      "word": "fees,",
+      "start": 14.5,
+      "end": 15.0
+    },
+    {
+      "word": "failing",
+      "start": 15.52,
+      "end": 15.6
+    },
+    {
+      "word": "to",
+      "start": 15.6,
+      "end": 15.84
+    },
+    {
+      "word": "withhold",
+      "start": 15.84,
+      "end": 16.24
+    },
+    {
+      "word": "mandatory",
+      "start": 16.24,
+      "end": 16.8
+    },
+    {
+      "word": "local",
+      "start": 16.8,
+      "end": 17.28
+    },
+    {
+      "word": "health",
+      "start": 17.28,
+      "end": 17.6
+    },
+    {
+      "word": "care",
+      "start": 17.6,
+      "end": 17.86
+    },
+    {
+      "word": "or",
+      "start": 17.86,
+      "end": 18.08
+    },
+    {
+      "word": "pension",
+      "start": 18.08,
+      "end": 18.46
+    },
+    {
+      "word": "contributions",
+      "start": 18.46,
+      "end": 19.14
+    },
+    {
+      "word": "triggers",
+      "start": 19.14,
+      "end": 19.84
+    },
+    {
+      "word": "immediate",
+      "start": 19.84,
+      "end": 20.38
+    },
+    {
+      "word": "government",
+      "start": 20.38,
+      "end": 20.78
+    },
+    {
+      "word": "audits.",
+      "start": 20.78,
+      "end": 21.3
+    },
+    {
+      "word": "Remote,",
+      "start": 21.9,
+      "end": 22.24
+    },
+    {
+      "word": "calm",
+      "start": 22.84,
+      "end": 23.08
+    },
+    {
+      "word": "automates",
+      "start": 23.08,
+      "end": 23.54
+    },
+    {
+      "word": "country",
+      "start": 23.54,
+      "end": 23.96
+    },
+    {
+      "word": "-specific",
+      "start": 23.96,
+      "end": 24.38
+    },
+    {
+      "word": "benefits,",
+      "start": 24.38,
+      "end": 24.82
+    },
+    {
+      "word": "local",
+      "start": 25.34,
+      "end": 25.56
+    },
+    {
+      "word": "tax",
+      "start": 25.56,
+      "end": 25.92
+    },
+    {
+      "word": "filings,",
+      "start": 25.92,
+      "end": 26.36
+    },
+    {
+      "word": "and",
+      "start": 26.74,
+      "end": 26.94
+    },
+    {
+      "word": "on",
+      "start": 26.94,
+      "end": 27.16
+    },
+    {
+      "word": "-time",
+      "start": 27.16,
+      "end": 27.5
+    },
+    {
+      "word": "direct",
+      "start": 27.5,
+      "end": 27.9
+    },
+    {
+      "word": "deposits",
+      "start": 27.9,
+      "end": 28.36
+    },
+    {
+      "word": "in",
+      "start": 28.36,
+      "end": 28.64
+    },
+    {
+      "word": "local",
+      "start": 28.64,
+      "end": 29.02
+    },
+    {
+      "word": "currencies.",
+      "start": 29.02,
+      "end": 29.48
+    },
+    {
+      "word": "This",
+      "start": 30.14,
+      "end": 30.34
+    },
+    {
+      "word": "keeps",
+      "start": 30.34,
+      "end": 30.58
+    },
+    {
+      "word": "your",
+      "start": 30.58,
+      "end": 30.92
+    },
+    {
+      "word": "global",
+      "start": 30.92,
+      "end": 31.14
+    },
+    {
+      "word": "team",
+      "start": 31.14,
+      "end": 31.54
+    },
+    {
+      "word": "fully",
+      "start": 31.54,
+      "end": 31.8
+    },
+    {
+      "word": "compliant",
+      "start": 31.8,
+      "end": 32.34
+    },
+    {
+      "word": "and",
+      "start": 32.34,
+      "end": 32.66
+    },
+    {
+      "word": "happy.",
+      "start": 32.66,
+      "end": 32.84
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The global payroll platform that handles international compliance, benefits, and local taxes.",
+      "line2": "MANAGE GLOBAL PAYROLL",
+      "tag": "\ud83d\uded1 Remote team contract compliance and global payroll management tool",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Remote team contract compliance and global payroll management tool",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Remote team contract compliance and global payroll management tool",
+        "subtitle": "Remote team contract compliance and global payroll management tool"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Remote team contract compliance and global payroll management tool"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Remote team contract compliance and global payroll management tool"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Remote team contract compliance and global payroll management tool",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

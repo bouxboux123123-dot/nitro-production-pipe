@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated digital course access and student onboarding sequence",
+  "text": "Deliver course logins, community invites, and welcome videos instantly upon checkout. Juggling multiple platform invitations across separate tools means students get lost before completing their first lesson. Fractured onboarding spikes drop-off rates, destroying course completion metrics and killing upsells into higher-tier coaching. Link Stripe to ConvertKit and Skool via Make, provisioning community permissions and delivering welcome videos instantly. You maximize student completion while saving ten hours weekly.",
+  "duration": 30.586,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Deliver",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "course",
+      "start": 0.32,
+      "end": 0.78
+    },
+    {
+      "word": "logins,",
+      "start": 0.78,
+      "end": 1.34
+    },
+    {
+      "word": "community",
+      "start": 1.6,
+      "end": 1.92
+    },
+    {
+      "word": "invites,",
+      "start": 1.92,
+      "end": 2.4
+    },
+    {
+      "word": "and",
+      "start": 2.62,
+      "end": 2.78
+    },
+    {
+      "word": "welcome",
+      "start": 2.78,
+      "end": 3.1
+    },
+    {
+      "word": "videos",
+      "start": 3.1,
+      "end": 3.56
+    },
+    {
+      "word": "instantly",
+      "start": 3.56,
+      "end": 4.1
+    },
+    {
+      "word": "upon",
+      "start": 4.1,
+      "end": 4.5
+    },
+    {
+      "word": "checkout.",
+      "start": 4.5,
+      "end": 5.06
+    },
+    {
+      "word": "Juggling",
+      "start": 5.58,
+      "end": 6.02
+    },
+    {
+      "word": "multiple",
+      "start": 6.02,
+      "end": 6.54
+    },
+    {
+      "word": "platform",
+      "start": 6.54,
+      "end": 6.98
+    },
+    {
+      "word": "invitations",
+      "start": 6.98,
+      "end": 7.58
+    },
+    {
+      "word": "across",
+      "start": 7.58,
+      "end": 8.1
+    },
+    {
+      "word": "separate",
+      "start": 8.1,
+      "end": 8.42
+    },
+    {
+      "word": "tools",
+      "start": 8.42,
+      "end": 8.9
+    },
+    {
+      "word": "means",
+      "start": 8.9,
+      "end": 9.58
+    },
+    {
+      "word": "students",
+      "start": 9.58,
+      "end": 9.86
+    },
+    {
+      "word": "get",
+      "start": 9.86,
+      "end": 10.22
+    },
+    {
+      "word": "lost",
+      "start": 10.22,
+      "end": 10.54
+    },
+    {
+      "word": "before",
+      "start": 10.54,
+      "end": 10.88
+    },
+    {
+      "word": "completing",
+      "start": 10.88,
+      "end": 11.24
+    },
+    {
+      "word": "their",
+      "start": 11.24,
+      "end": 11.64
+    },
+    {
+      "word": "first",
+      "start": 11.64,
+      "end": 11.96
+    },
+    {
+      "word": "lesson.",
+      "start": 11.96,
+      "end": 12.46
+    },
+    {
+      "word": "Fractured",
+      "start": 12.86,
+      "end": 13.1
+    },
+    {
+      "word": "onboarding",
+      "start": 13.1,
+      "end": 13.74
+    },
+    {
+      "word": "spikes",
+      "start": 13.74,
+      "end": 14.06
+    },
+    {
+      "word": "drop",
+      "start": 14.06,
+      "end": 14.4
+    },
+    {
+      "word": "off",
+      "start": 14.4,
+      "end": 14.66
+    },
+    {
+      "word": "rates,",
+      "start": 14.66,
+      "end": 15.0
+    },
+    {
+      "word": "destroying",
+      "start": 15.72,
+      "end": 15.72
+    },
+    {
+      "word": "course",
+      "start": 15.72,
+      "end": 16.16
+    },
+    {
+      "word": "completion",
+      "start": 16.16,
+      "end": 16.68
+    },
+    {
+      "word": "metrics",
+      "start": 16.68,
+      "end": 17.06
+    },
+    {
+      "word": "and",
+      "start": 17.06,
+      "end": 17.46
+    },
+    {
+      "word": "killing",
+      "start": 17.46,
+      "end": 17.72
+    },
+    {
+      "word": "up",
+      "start": 17.72,
+      "end": 17.98
+    },
+    {
+      "word": "cells",
+      "start": 17.98,
+      "end": 18.22
+    },
+    {
+      "word": "into",
+      "start": 18.22,
+      "end": 18.48
+    },
+    {
+      "word": "higher",
+      "start": 18.48,
+      "end": 18.72
+    },
+    {
+      "word": "tier",
+      "start": 18.72,
+      "end": 19.02
+    },
+    {
+      "word": "coaching.",
+      "start": 19.02,
+      "end": 19.58
+    },
+    {
+      "word": "Links",
+      "start": 20.28,
+      "end": 20.42
+    },
+    {
+      "word": "strive",
+      "start": 20.42,
+      "end": 20.68
+    },
+    {
+      "word": "to",
+      "start": 20.68,
+      "end": 20.96
+    },
+    {
+      "word": "convert",
+      "start": 20.96,
+      "end": 21.18
+    },
+    {
+      "word": "kit",
+      "start": 21.18,
+      "end": 21.52
+    },
+    {
+      "word": "and",
+      "start": 21.52,
+      "end": 21.72
+    },
+    {
+      "word": "school",
+      "start": 21.72,
+      "end": 22.02
+    },
+    {
+      "word": "via",
+      "start": 22.02,
+      "end": 22.3
+    },
+    {
+      "word": "make,",
+      "start": 22.3,
+      "end": 22.68
+    },
+    {
+      "word": "provisioning",
+      "start": 23.04,
+      "end": 23.44
+    },
+    {
+      "word": "community",
+      "start": 23.44,
+      "end": 23.88
+    },
+    {
+      "word": "permissions",
+      "start": 23.88,
+      "end": 24.34
+    },
+    {
+      "word": "and",
+      "start": 24.34,
+      "end": 24.76
+    },
+    {
+      "word": "delivering",
+      "start": 24.76,
+      "end": 25.04
+    },
+    {
+      "word": "welcome",
+      "start": 25.04,
+      "end": 25.54
+    },
+    {
+      "word": "videos",
+      "start": 25.54,
+      "end": 26.0
+    },
+    {
+      "word": "instantly.",
+      "start": 26.0,
+      "end": 26.6
+    },
+    {
+      "word": "You",
+      "start": 26.96,
+      "end": 27.36
+    },
+    {
+      "word": "maximize",
+      "start": 27.36,
+      "end": 27.76
+    },
+    {
+      "word": "student",
+      "start": 27.76,
+      "end": 28.24
+    },
+    {
+      "word": "completion",
+      "start": 28.24,
+      "end": 28.74
+    },
+    {
+      "word": "while",
+      "start": 28.74,
+      "end": 29.14
+    },
+    {
+      "word": "saving",
+      "start": 29.14,
+      "end": 29.44
+    },
+    {
+      "word": "10",
+      "start": 29.44,
+      "end": 29.82
+    },
+    {
+      "word": "hours",
+      "start": 29.82,
+      "end": 30.16
+    },
+    {
+      "word": "weekly.",
+      "start": 30.16,
+      "end": 30.56
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Deliver course logins, community invites, and welcome videos instantly upon checkout.",
+      "line2": "ONBOARD COURSE STUDENTS",
+      "tag": "\ud83d\uded1 Automated digital course access and student onboarding sequence",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: Automated digital course access and student onboarding sequence",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: Automated digital course access and student onboarding sequence",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "Automated digital course access and student onboarding sequence",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

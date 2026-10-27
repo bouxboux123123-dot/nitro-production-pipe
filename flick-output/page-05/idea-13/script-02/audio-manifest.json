@@ -1,0 +1,391 @@
+{
+  "page": "page-05",
+  "idea": "Tally forms integrated with Discord webhooks for instant community alerts",
+  "text": "Here is how to build instant community notification bots without writing any code. Private Discord communities lose premium members because moderators miss onboarding questions buried in email inboxes. Leaving prospective members waiting overnight ruins momentum and spikes churn before day one. Simply link your Tally application form directly to a Discord webhook URL inside your form settings. New member responses ping private staff channels within seconds.",
+  "duration": 28.495,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "is",
+      "start": 0.32,
+      "end": 0.5
+    },
+    {
+      "word": "how",
+      "start": 0.5,
+      "end": 0.66
+    },
+    {
+      "word": "to",
+      "start": 0.66,
+      "end": 0.8
+    },
+    {
+      "word": "build",
+      "start": 0.8,
+      "end": 1.08
+    },
+    {
+      "word": "instant",
+      "start": 1.08,
+      "end": 1.42
+    },
+    {
+      "word": "community",
+      "start": 1.42,
+      "end": 2.0
+    },
+    {
+      "word": "notification",
+      "start": 2.0,
+      "end": 2.64
+    },
+    {
+      "word": "bots",
+      "start": 2.64,
+      "end": 3.14
+    },
+    {
+      "word": "without",
+      "start": 3.14,
+      "end": 3.56
+    },
+    {
+      "word": "writing",
+      "start": 3.56,
+      "end": 3.86
+    },
+    {
+      "word": "any",
+      "start": 3.86,
+      "end": 4.14
+    },
+    {
+      "word": "code.",
+      "start": 4.14,
+      "end": 4.66
+    },
+    {
+      "word": "Private",
+      "start": 5.44,
+      "end": 5.44
+    },
+    {
+      "word": "Discord",
+      "start": 5.44,
+      "end": 5.92
+    },
+    {
+      "word": "communities",
+      "start": 5.92,
+      "end": 6.42
+    },
+    {
+      "word": "lose",
+      "start": 6.42,
+      "end": 6.94
+    },
+    {
+      "word": "premium",
+      "start": 6.94,
+      "end": 7.26
+    },
+    {
+      "word": "members",
+      "start": 7.26,
+      "end": 7.78
+    },
+    {
+      "word": "because",
+      "start": 7.78,
+      "end": 8.52
+    },
+    {
+      "word": "moderators",
+      "start": 8.52,
+      "end": 8.96
+    },
+    {
+      "word": "miss",
+      "start": 8.96,
+      "end": 9.42
+    },
+    {
+      "word": "onboarding",
+      "start": 9.42,
+      "end": 9.96
+    },
+    {
+      "word": "questions",
+      "start": 9.96,
+      "end": 10.58
+    },
+    {
+      "word": "buried",
+      "start": 10.58,
+      "end": 11.06
+    },
+    {
+      "word": "in",
+      "start": 11.06,
+      "end": 11.36
+    },
+    {
+      "word": "email",
+      "start": 11.36,
+      "end": 11.68
+    },
+    {
+      "word": "inboxes,",
+      "start": 11.68,
+      "end": 12.72
+    },
+    {
+      "word": "leaving",
+      "start": 13.02,
+      "end": 13.02
+    },
+    {
+      "word": "prospective",
+      "start": 13.02,
+      "end": 13.54
+    },
+    {
+      "word": "members",
+      "start": 13.54,
+      "end": 14.06
+    },
+    {
+      "word": "waiting",
+      "start": 14.06,
+      "end": 14.44
+    },
+    {
+      "word": "overnight",
+      "start": 14.44,
+      "end": 15.04
+    },
+    {
+      "word": "ruins",
+      "start": 15.04,
+      "end": 15.44
+    },
+    {
+      "word": "momentum",
+      "start": 15.44,
+      "end": 15.94
+    },
+    {
+      "word": "and",
+      "start": 15.94,
+      "end": 16.4
+    },
+    {
+      "word": "spikes",
+      "start": 16.4,
+      "end": 16.66
+    },
+    {
+      "word": "churn",
+      "start": 16.66,
+      "end": 17.08
+    },
+    {
+      "word": "before",
+      "start": 17.08,
+      "end": 17.4
+    },
+    {
+      "word": "day",
+      "start": 17.4,
+      "end": 17.64
+    },
+    {
+      "word": "one.",
+      "start": 17.64,
+      "end": 18.16
+    },
+    {
+      "word": "Simply",
+      "start": 18.6,
+      "end": 18.72
+    },
+    {
+      "word": "link",
+      "start": 18.72,
+      "end": 18.98
+    },
+    {
+      "word": "your",
+      "start": 18.98,
+      "end": 19.4
+    },
+    {
+      "word": "tally",
+      "start": 19.4,
+      "end": 19.46
+    },
+    {
+      "word": "application",
+      "start": 19.46,
+      "end": 20.0
+    },
+    {
+      "word": "form",
+      "start": 20.0,
+      "end": 20.52
+    },
+    {
+      "word": "directly",
+      "start": 20.52,
+      "end": 20.92
+    },
+    {
+      "word": "to",
+      "start": 20.92,
+      "end": 21.3
+    },
+    {
+      "word": "a",
+      "start": 21.3,
+      "end": 21.46
+    },
+    {
+      "word": "Discord",
+      "start": 21.46,
+      "end": 21.8
+    },
+    {
+      "word": "webhook",
+      "start": 21.8,
+      "end": 22.36
+    },
+    {
+      "word": "URL",
+      "start": 22.36,
+      "end": 22.92
+    },
+    {
+      "word": "inside",
+      "start": 22.92,
+      "end": 23.56
+    },
+    {
+      "word": "your",
+      "start": 23.56,
+      "end": 23.88
+    },
+    {
+      "word": "form",
+      "start": 23.88,
+      "end": 24.12
+    },
+    {
+      "word": "settings.",
+      "start": 24.12,
+      "end": 24.56
+    },
+    {
+      "word": "New",
+      "start": 25.24,
+      "end": 25.26
+    },
+    {
+      "word": "member",
+      "start": 25.26,
+      "end": 25.52
+    },
+    {
+      "word": "responses",
+      "start": 25.52,
+      "end": 26.1
+    },
+    {
+      "word": "ping",
+      "start": 26.1,
+      "end": 26.54
+    },
+    {
+      "word": "private",
+      "start": 26.54,
+      "end": 26.96
+    },
+    {
+      "word": "staff",
+      "start": 26.96,
+      "end": 27.28
+    },
+    {
+      "word": "channels",
+      "start": 27.28,
+      "end": 27.66
+    },
+    {
+      "word": "within",
+      "start": 27.66,
+      "end": 28.0
+    },
+    {
+      "word": "seconds.",
+      "start": 28.0,
+      "end": 28.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "How to set up instant community notification bots without any coding.",
+      "line2": "INSTANT DISCORD ALERTS",
+      "tag": "\ud83d\uded1 Tally forms integrated with Discord webhooks for instant community alerts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

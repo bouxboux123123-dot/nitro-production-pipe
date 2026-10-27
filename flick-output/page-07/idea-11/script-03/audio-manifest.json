@@ -1,0 +1,406 @@
+{
+  "page": "page-07",
+  "idea": "Automated churn alert workflow that triggers founder outreach on cancellations",
+  "text": "Stop watching revenue churn in silence and find out exactly why customers leave your platform. Most SaaS founders review churn dashboards weeks after users disconnect their payment methods. Generic exit surveys get ignored because automated multiple-choice forms feel impersonal and lazy. Trigger an automated webhook from Chargebee to create a personalized HubSpot task and direct meeting link instantly. Uncovering true cancellation friction protects recurring cash flow.",
+  "duration": 29.37,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "watching",
+      "start": 0.42,
+      "end": 0.82
+    },
+    {
+      "word": "revenue",
+      "start": 0.82,
+      "end": 1.08
+    },
+    {
+      "word": "churn",
+      "start": 1.08,
+      "end": 1.46
+    },
+    {
+      "word": "in",
+      "start": 1.46,
+      "end": 1.72
+    },
+    {
+      "word": "silence",
+      "start": 1.72,
+      "end": 2.16
+    },
+    {
+      "word": "and",
+      "start": 2.16,
+      "end": 2.66
+    },
+    {
+      "word": "find",
+      "start": 2.66,
+      "end": 2.92
+    },
+    {
+      "word": "out",
+      "start": 2.92,
+      "end": 3.18
+    },
+    {
+      "word": "exactly",
+      "start": 3.18,
+      "end": 3.6
+    },
+    {
+      "word": "why",
+      "start": 3.6,
+      "end": 3.94
+    },
+    {
+      "word": "customers",
+      "start": 3.94,
+      "end": 4.32
+    },
+    {
+      "word": "leave",
+      "start": 4.32,
+      "end": 4.68
+    },
+    {
+      "word": "your",
+      "start": 4.68,
+      "end": 4.86
+    },
+    {
+      "word": "platform.",
+      "start": 4.86,
+      "end": 5.44
+    },
+    {
+      "word": "Most",
+      "start": 6.04,
+      "end": 6.36
+    },
+    {
+      "word": "saw",
+      "start": 6.36,
+      "end": 6.64
+    },
+    {
+      "word": "S",
+      "start": 6.64,
+      "end": 6.82
+    },
+    {
+      "word": "founders",
+      "start": 6.82,
+      "end": 7.26
+    },
+    {
+      "word": "review",
+      "start": 7.26,
+      "end": 7.74
+    },
+    {
+      "word": "churn",
+      "start": 7.74,
+      "end": 8.08
+    },
+    {
+      "word": "dashboards",
+      "start": 8.08,
+      "end": 8.66
+    },
+    {
+      "word": "weeks",
+      "start": 8.66,
+      "end": 9.14
+    },
+    {
+      "word": "after",
+      "start": 9.14,
+      "end": 9.64
+    },
+    {
+      "word": "users",
+      "start": 9.64,
+      "end": 10.04
+    },
+    {
+      "word": "disconnect",
+      "start": 10.04,
+      "end": 10.44
+    },
+    {
+      "word": "their",
+      "start": 10.44,
+      "end": 10.96
+    },
+    {
+      "word": "payment",
+      "start": 10.96,
+      "end": 11.1
+    },
+    {
+      "word": "methods.",
+      "start": 11.1,
+      "end": 11.66
+    },
+    {
+      "word": "Generic",
+      "start": 12.38,
+      "end": 12.38
+    },
+    {
+      "word": "exit",
+      "start": 12.38,
+      "end": 12.76
+    },
+    {
+      "word": "surveys",
+      "start": 12.76,
+      "end": 13.14
+    },
+    {
+      "word": "get",
+      "start": 13.14,
+      "end": 13.42
+    },
+    {
+      "word": "ignored",
+      "start": 13.42,
+      "end": 13.82
+    },
+    {
+      "word": "because",
+      "start": 13.82,
+      "end": 14.28
+    },
+    {
+      "word": "automated",
+      "start": 14.28,
+      "end": 14.64
+    },
+    {
+      "word": "multiple",
+      "start": 14.64,
+      "end": 15.24
+    },
+    {
+      "word": "choice",
+      "start": 15.24,
+      "end": 15.54
+    },
+    {
+      "word": "forms",
+      "start": 15.54,
+      "end": 15.88
+    },
+    {
+      "word": "feel",
+      "start": 15.88,
+      "end": 16.2
+    },
+    {
+      "word": "impersonal",
+      "start": 16.2,
+      "end": 16.94
+    },
+    {
+      "word": "and",
+      "start": 16.94,
+      "end": 17.16
+    },
+    {
+      "word": "lazy.",
+      "start": 17.16,
+      "end": 17.52
+    },
+    {
+      "word": "Trigger",
+      "start": 18.18,
+      "end": 18.38
+    },
+    {
+      "word": "an",
+      "start": 18.38,
+      "end": 18.68
+    },
+    {
+      "word": "automated",
+      "start": 18.68,
+      "end": 19.06
+    },
+    {
+      "word": "webhook",
+      "start": 19.06,
+      "end": 19.48
+    },
+    {
+      "word": "from",
+      "start": 19.48,
+      "end": 19.74
+    },
+    {
+      "word": "ChargeDB",
+      "start": 19.74,
+      "end": 20.4
+    },
+    {
+      "word": "to",
+      "start": 20.4,
+      "end": 20.78
+    },
+    {
+      "word": "create",
+      "start": 20.78,
+      "end": 21.04
+    },
+    {
+      "word": "a",
+      "start": 21.04,
+      "end": 21.8
+    },
+    {
+      "word": "personalized",
+      "start": 21.8,
+      "end": 21.8
+    },
+    {
+      "word": "hub",
+      "start": 21.8,
+      "end": 22.14
+    },
+    {
+      "word": "spot",
+      "start": 22.14,
+      "end": 22.48
+    },
+    {
+      "word": "task",
+      "start": 22.48,
+      "end": 22.86
+    },
+    {
+      "word": "and",
+      "start": 22.86,
+      "end": 23.38
+    },
+    {
+      "word": "direct",
+      "start": 23.38,
+      "end": 23.7
+    },
+    {
+      "word": "meeting",
+      "start": 23.7,
+      "end": 24.0
+    },
+    {
+      "word": "link",
+      "start": 24.0,
+      "end": 24.3
+    },
+    {
+      "word": "instantly.",
+      "start": 24.3,
+      "end": 24.96
+    },
+    {
+      "word": "Uncovering",
+      "start": 25.66,
+      "end": 26.16
+    },
+    {
+      "word": "true",
+      "start": 26.16,
+      "end": 26.46
+    },
+    {
+      "word": "cancellation",
+      "start": 26.46,
+      "end": 26.88
+    },
+    {
+      "word": "friction",
+      "start": 26.88,
+      "end": 27.58
+    },
+    {
+      "word": "protects",
+      "start": 27.58,
+      "end": 28.06
+    },
+    {
+      "word": "recurring",
+      "start": 28.06,
+      "end": 28.6
+    },
+    {
+      "word": "cash",
+      "start": 28.6,
+      "end": 29.0
+    },
+    {
+      "word": "flow.",
+      "start": 29.0,
+      "end": 29.26
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop watching revenue churn in silence: find out exactly why they left.",
+      "line2": "INSTANT CHURN ALERTS",
+      "tag": "\ud83d\uded1 Automated churn alert workflow that triggers founder outreach on cancellations",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated churn alert workflow that triggers founder outreach on cancellations",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated churn alert workflow that triggers founder outreach on cancellations",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-09",
+  "idea": "ClickUp vs Monday.com: which all-in-one project tool is less chaotic",
+  "text": "Why ClickUp's endless features often lead to team overwhelm and stalled project adoption. Managers spend weeks configuring complex statuses, only to watch employees revert back to disorganized Slack channels. The failure point is cognitive friction when staff get lost inside nested spaces and folders. Streamline operations by disabling unused ClickApps globally or switching client teams to Monday's visual boards. This cuts onboarding friction and keeps sprints running cleanly.",
+  "duration": 30.01,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Why",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "click",
+      "start": 0.28,
+      "end": 0.46
+    },
+    {
+      "word": "-ups",
+      "start": 0.46,
+      "end": 0.72
+    },
+    {
+      "word": "endless",
+      "start": 0.72,
+      "end": 1.06
+    },
+    {
+      "word": "features",
+      "start": 1.06,
+      "end": 1.66
+    },
+    {
+      "word": "often",
+      "start": 1.66,
+      "end": 2.06
+    },
+    {
+      "word": "lead",
+      "start": 2.06,
+      "end": 2.3
+    },
+    {
+      "word": "to",
+      "start": 2.3,
+      "end": 2.5
+    },
+    {
+      "word": "team",
+      "start": 2.5,
+      "end": 2.78
+    },
+    {
+      "word": "overwhelm",
+      "start": 2.78,
+      "end": 3.22
+    },
+    {
+      "word": "and",
+      "start": 3.22,
+      "end": 3.64
+    },
+    {
+      "word": "stalled",
+      "start": 3.64,
+      "end": 4.02
+    },
+    {
+      "word": "project",
+      "start": 4.02,
+      "end": 4.46
+    },
+    {
+      "word": "adoption.",
+      "start": 4.46,
+      "end": 5.18
+    },
+    {
+      "word": "Managers",
+      "start": 5.9,
+      "end": 6.12
+    },
+    {
+      "word": "spend",
+      "start": 6.12,
+      "end": 6.56
+    },
+    {
+      "word": "weeks",
+      "start": 6.56,
+      "end": 6.92
+    },
+    {
+      "word": "configuring",
+      "start": 6.92,
+      "end": 7.52
+    },
+    {
+      "word": "complex",
+      "start": 7.52,
+      "end": 8.04
+    },
+    {
+      "word": "statuses,",
+      "start": 8.04,
+      "end": 8.7
+    },
+    {
+      "word": "only",
+      "start": 9.12,
+      "end": 9.38
+    },
+    {
+      "word": "to",
+      "start": 9.38,
+      "end": 9.6
+    },
+    {
+      "word": "watch",
+      "start": 9.6,
+      "end": 9.9
+    },
+    {
+      "word": "employees",
+      "start": 9.9,
+      "end": 10.48
+    },
+    {
+      "word": "revert",
+      "start": 10.48,
+      "end": 10.88
+    },
+    {
+      "word": "back",
+      "start": 10.88,
+      "end": 11.24
+    },
+    {
+      "word": "to",
+      "start": 11.24,
+      "end": 11.44
+    },
+    {
+      "word": "disorganized",
+      "start": 11.44,
+      "end": 12.04
+    },
+    {
+      "word": "Slack",
+      "start": 12.04,
+      "end": 12.44
+    },
+    {
+      "word": "channels.",
+      "start": 12.44,
+      "end": 12.88
+    },
+    {
+      "word": "The",
+      "start": 13.28,
+      "end": 13.42
+    },
+    {
+      "word": "failure",
+      "start": 13.42,
+      "end": 13.62
+    },
+    {
+      "word": "point",
+      "start": 13.62,
+      "end": 13.98
+    },
+    {
+      "word": "is",
+      "start": 13.98,
+      "end": 14.24
+    },
+    {
+      "word": "cognitive",
+      "start": 14.24,
+      "end": 14.68
+    },
+    {
+      "word": "friction",
+      "start": 14.68,
+      "end": 15.22
+    },
+    {
+      "word": "when",
+      "start": 15.22,
+      "end": 15.56
+    },
+    {
+      "word": "staff",
+      "start": 15.56,
+      "end": 15.82
+    },
+    {
+      "word": "get",
+      "start": 15.82,
+      "end": 16.1
+    },
+    {
+      "word": "lost",
+      "start": 16.1,
+      "end": 16.38
+    },
+    {
+      "word": "inside",
+      "start": 16.38,
+      "end": 16.9
+    },
+    {
+      "word": "nested",
+      "start": 16.9,
+      "end": 17.16
+    },
+    {
+      "word": "spaces",
+      "start": 17.16,
+      "end": 17.78
+    },
+    {
+      "word": "and",
+      "start": 17.78,
+      "end": 18.1
+    },
+    {
+      "word": "folders.",
+      "start": 18.1,
+      "end": 18.48
+    },
+    {
+      "word": "Streamline",
+      "start": 19.36,
+      "end": 19.66
+    },
+    {
+      "word": "operations",
+      "start": 19.66,
+      "end": 20.26
+    },
+    {
+      "word": "by",
+      "start": 20.26,
+      "end": 20.7
+    },
+    {
+      "word": "disabling",
+      "start": 20.7,
+      "end": 21.1
+    },
+    {
+      "word": "unused",
+      "start": 21.1,
+      "end": 21.62
+    },
+    {
+      "word": "click,",
+      "start": 21.62,
+      "end": 22.14
+    },
+    {
+      "word": "apps",
+      "start": 22.48,
+      "end": 22.62
+    },
+    {
+      "word": "globally,",
+      "start": 22.62,
+      "end": 23.0
+    },
+    {
+      "word": "or",
+      "start": 23.38,
+      "end": 23.56
+    },
+    {
+      "word": "switching",
+      "start": 23.56,
+      "end": 23.94
+    },
+    {
+      "word": "client",
+      "start": 23.94,
+      "end": 24.3
+    },
+    {
+      "word": "teams",
+      "start": 24.3,
+      "end": 24.66
+    },
+    {
+      "word": "to",
+      "start": 24.66,
+      "end": 24.92
+    },
+    {
+      "word": "Monday's",
+      "start": 24.92,
+      "end": 25.46
+    },
+    {
+      "word": "visual",
+      "start": 25.46,
+      "end": 25.7
+    },
+    {
+      "word": "boards.",
+      "start": 25.7,
+      "end": 26.14
+    },
+    {
+      "word": "This",
+      "start": 26.68,
+      "end": 26.9
+    },
+    {
+      "word": "cuts",
+      "start": 26.9,
+      "end": 27.2
+    },
+    {
+      "word": "onboarding",
+      "start": 27.2,
+      "end": 27.8
+    },
+    {
+      "word": "friction",
+      "start": 27.8,
+      "end": 28.1
+    },
+    {
+      "word": "and",
+      "start": 28.1,
+      "end": 28.5
+    },
+    {
+      "word": "keeps",
+      "start": 28.5,
+      "end": 28.88
+    },
+    {
+      "word": "sprints",
+      "start": 28.88,
+      "end": 29.48
+    },
+    {
+      "word": "running",
+      "start": 29.48,
+      "end": 29.5
+    },
+    {
+      "word": "cleanly.",
+      "start": 29.5,
+      "end": 29.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why ClickUp's endless features can lead to total feature overwhelm and slow adoption.",
+      "line2": "CLICKUP VS MONDAY",
+      "tag": "\ud83d\uded1 ClickUp vs Monday.com",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: ClickUp vs Monday.com",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: ClickUp vs Monday.com",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "ClickUp vs Monday.com"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "ClickUp vs Monday.com",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

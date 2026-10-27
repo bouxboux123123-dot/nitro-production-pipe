@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Automated team pulse check-in bot for tracking burnout and morale",
+  "text": "Stop wondering how your remote team is really doing behind closed doors and static Slack statuses. Engineers feel uncomfortable raising mental fatigue verbally during hurried standup calls with their supervisors. Unaddressed frustration compounds quietly, causing output velocity to crater while cynicism spreads across channels. Automating anonymous weekly check-ins through Officevibe gives staff a safe outlet to report operational strain. You maintain peak velocity without burning out developers.",
+  "duration": 31.269,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "wondering",
+      "start": 0.38,
+      "end": 0.72
+    },
+    {
+      "word": "how",
+      "start": 0.72,
+      "end": 0.96
+    },
+    {
+      "word": "your",
+      "start": 0.96,
+      "end": 1.18
+    },
+    {
+      "word": "remote",
+      "start": 1.18,
+      "end": 1.36
+    },
+    {
+      "word": "team",
+      "start": 1.36,
+      "end": 1.82
+    },
+    {
+      "word": "is",
+      "start": 1.82,
+      "end": 2.06
+    },
+    {
+      "word": "really",
+      "start": 2.06,
+      "end": 2.38
+    },
+    {
+      "word": "doing",
+      "start": 2.38,
+      "end": 2.68
+    },
+    {
+      "word": "behind",
+      "start": 2.68,
+      "end": 3.18
+    },
+    {
+      "word": "closed",
+      "start": 3.18,
+      "end": 3.58
+    },
+    {
+      "word": "doors",
+      "start": 3.58,
+      "end": 4.06
+    },
+    {
+      "word": "and",
+      "start": 4.06,
+      "end": 4.5
+    },
+    {
+      "word": "static",
+      "start": 4.5,
+      "end": 4.84
+    },
+    {
+      "word": "Slack",
+      "start": 4.84,
+      "end": 5.16
+    },
+    {
+      "word": "statuses.",
+      "start": 5.16,
+      "end": 5.82
+    },
+    {
+      "word": "Engineers",
+      "start": 6.74,
+      "end": 6.84
+    },
+    {
+      "word": "feel",
+      "start": 6.84,
+      "end": 7.34
+    },
+    {
+      "word": "uncomfortable",
+      "start": 7.34,
+      "end": 7.9
+    },
+    {
+      "word": "raising",
+      "start": 7.9,
+      "end": 8.42
+    },
+    {
+      "word": "mental",
+      "start": 8.42,
+      "end": 8.78
+    },
+    {
+      "word": "fatigue",
+      "start": 8.78,
+      "end": 9.36
+    },
+    {
+      "word": "verbally",
+      "start": 9.36,
+      "end": 9.96
+    },
+    {
+      "word": "during",
+      "start": 9.96,
+      "end": 10.62
+    },
+    {
+      "word": "hurried",
+      "start": 10.62,
+      "end": 11.04
+    },
+    {
+      "word": "stand",
+      "start": 11.04,
+      "end": 11.38
+    },
+    {
+      "word": "-up",
+      "start": 11.38,
+      "end": 11.56
+    },
+    {
+      "word": "calls",
+      "start": 11.56,
+      "end": 11.88
+    },
+    {
+      "word": "with",
+      "start": 11.88,
+      "end": 12.1
+    },
+    {
+      "word": "their",
+      "start": 12.1,
+      "end": 12.36
+    },
+    {
+      "word": "supervisors.",
+      "start": 12.36,
+      "end": 12.88
+    },
+    {
+      "word": "Unaddressed",
+      "start": 13.44,
+      "end": 13.84
+    },
+    {
+      "word": "frustration",
+      "start": 13.84,
+      "end": 14.44
+    },
+    {
+      "word": "compounds",
+      "start": 14.44,
+      "end": 15.1
+    },
+    {
+      "word": "quietly,",
+      "start": 15.1,
+      "end": 15.82
+    },
+    {
+      "word": "causing",
+      "start": 16.26,
+      "end": 16.44
+    },
+    {
+      "word": "output",
+      "start": 16.44,
+      "end": 16.88
+    },
+    {
+      "word": "velocity",
+      "start": 16.88,
+      "end": 17.34
+    },
+    {
+      "word": "to",
+      "start": 17.34,
+      "end": 17.64
+    },
+    {
+      "word": "crater",
+      "start": 17.64,
+      "end": 17.92
+    },
+    {
+      "word": "while",
+      "start": 17.92,
+      "end": 18.48
+    },
+    {
+      "word": "cynicism",
+      "start": 18.48,
+      "end": 18.86
+    },
+    {
+      "word": "spreads",
+      "start": 18.86,
+      "end": 19.32
+    },
+    {
+      "word": "across",
+      "start": 19.32,
+      "end": 19.74
+    },
+    {
+      "word": "channels.",
+      "start": 19.74,
+      "end": 20.28
+    },
+    {
+      "word": "Automating",
+      "start": 21.04,
+      "end": 21.38
+    },
+    {
+      "word": "anonymous",
+      "start": 21.38,
+      "end": 21.94
+    },
+    {
+      "word": "weekly",
+      "start": 21.94,
+      "end": 22.48
+    },
+    {
+      "word": "check",
+      "start": 22.48,
+      "end": 22.72
+    },
+    {
+      "word": "-ins",
+      "start": 22.72,
+      "end": 22.96
+    },
+    {
+      "word": "through",
+      "start": 22.96,
+      "end": 23.34
+    },
+    {
+      "word": "OfficeVibe",
+      "start": 23.34,
+      "end": 24.1
+    },
+    {
+      "word": "give",
+      "start": 24.1,
+      "end": 24.56
+    },
+    {
+      "word": "staff",
+      "start": 24.56,
+      "end": 24.82
+    },
+    {
+      "word": "a",
+      "start": 24.82,
+      "end": 24.98
+    },
+    {
+      "word": "safe",
+      "start": 24.98,
+      "end": 25.28
+    },
+    {
+      "word": "outlet",
+      "start": 25.28,
+      "end": 25.6
+    },
+    {
+      "word": "to",
+      "start": 25.6,
+      "end": 25.94
+    },
+    {
+      "word": "report",
+      "start": 25.94,
+      "end": 26.28
+    },
+    {
+      "word": "operational",
+      "start": 26.28,
+      "end": 26.82
+    },
+    {
+      "word": "strain.",
+      "start": 26.82,
+      "end": 27.5
+    },
+    {
+      "word": "You",
+      "start": 27.5,
+      "end": 28.16
+    },
+    {
+      "word": "maintain",
+      "start": 28.16,
+      "end": 28.64
+    },
+    {
+      "word": "peak",
+      "start": 28.64,
+      "end": 28.96
+    },
+    {
+      "word": "velocity",
+      "start": 28.96,
+      "end": 29.5
+    },
+    {
+      "word": "without",
+      "start": 29.5,
+      "end": 30.02
+    },
+    {
+      "word": "burning",
+      "start": 30.02,
+      "end": 30.34
+    },
+    {
+      "word": "out",
+      "start": 30.34,
+      "end": 30.64
+    },
+    {
+      "word": "developers.",
+      "start": 30.64,
+      "end": 31.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop wondering how your remote team is really doing behind closed Slack statuses.",
+      "line2": "TRACK TEAM MORALE",
+      "tag": "\ud83d\uded1 Automated team pulse check-in bot for tracking burnout and morale",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated team pulse check-in bot for tracking burnout and morale",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated team pulse check-in bot for tracking burnout and morale",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated team pulse check-in bot for tracking burnout and morale",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "page": "page-02",
+  "idea": "AI design feedback translator that turns vague feedback into clear edits",
+  "text": "How to handle difficult freelance feedback without losing your mind. Receiving harsh, disorganized revision notes from stressful clients triggers immediate frustration and stalls project momentum. Freelancers get stuck because emotional reactions make it difficult to identify the legitimate product critique buried inside. Pasting unedited client critiques into a Claude persona prompt filters emotional noise into objective, task-oriented design instructions. You deliver perfect client revisions with total emotional detachment.",
+  "duration": 32.847,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.32
+    },
+    {
+      "word": "handle",
+      "start": 0.32,
+      "end": 0.62
+    },
+    {
+      "word": "difficult",
+      "start": 0.62,
+      "end": 1.1
+    },
+    {
+      "word": "freelance",
+      "start": 1.1,
+      "end": 1.44
+    },
+    {
+      "word": "feedback",
+      "start": 1.44,
+      "end": 1.9
+    },
+    {
+      "word": "without",
+      "start": 1.9,
+      "end": 2.36
+    },
+    {
+      "word": "losing",
+      "start": 2.36,
+      "end": 2.64
+    },
+    {
+      "word": "your",
+      "start": 2.64,
+      "end": 2.9
+    },
+    {
+      "word": "mind.",
+      "start": 2.9,
+      "end": 3.38
+    },
+    {
+      "word": "Receiving",
+      "start": 3.86,
+      "end": 4.22
+    },
+    {
+      "word": "harsh,",
+      "start": 4.22,
+      "end": 4.84
+    },
+    {
+      "word": "disorganized",
+      "start": 4.98,
+      "end": 5.68
+    },
+    {
+      "word": "revision",
+      "start": 5.68,
+      "end": 6.04
+    },
+    {
+      "word": "notes",
+      "start": 6.04,
+      "end": 6.44
+    },
+    {
+      "word": "from",
+      "start": 6.44,
+      "end": 6.74
+    },
+    {
+      "word": "stressful",
+      "start": 6.74,
+      "end": 7.1
+    },
+    {
+      "word": "clients",
+      "start": 7.1,
+      "end": 7.64
+    },
+    {
+      "word": "triggers",
+      "start": 7.64,
+      "end": 8.2
+    },
+    {
+      "word": "immediate",
+      "start": 8.2,
+      "end": 8.72
+    },
+    {
+      "word": "frustration",
+      "start": 8.72,
+      "end": 9.32
+    },
+    {
+      "word": "and",
+      "start": 9.32,
+      "end": 9.9
+    },
+    {
+      "word": "stalls",
+      "start": 9.9,
+      "end": 10.22
+    },
+    {
+      "word": "project",
+      "start": 10.22,
+      "end": 10.84
+    },
+    {
+      "word": "momentum.",
+      "start": 10.84,
+      "end": 11.42
+    },
+    {
+      "word": "Freelancers",
+      "start": 12.08,
+      "end": 12.56
+    },
+    {
+      "word": "get",
+      "start": 12.56,
+      "end": 13.02
+    },
+    {
+      "word": "stuck",
+      "start": 13.02,
+      "end": 13.3
+    },
+    {
+      "word": "because",
+      "start": 13.3,
+      "end": 13.88
+    },
+    {
+      "word": "emotional",
+      "start": 13.88,
+      "end": 14.38
+    },
+    {
+      "word": "reactions",
+      "start": 14.38,
+      "end": 14.98
+    },
+    {
+      "word": "make",
+      "start": 14.98,
+      "end": 15.28
+    },
+    {
+      "word": "it",
+      "start": 15.28,
+      "end": 15.46
+    },
+    {
+      "word": "difficult",
+      "start": 15.46,
+      "end": 15.76
+    },
+    {
+      "word": "to",
+      "start": 15.76,
+      "end": 16.04
+    },
+    {
+      "word": "identify",
+      "start": 16.04,
+      "end": 16.48
+    },
+    {
+      "word": "the",
+      "start": 16.48,
+      "end": 16.84
+    },
+    {
+      "word": "legitimate",
+      "start": 16.84,
+      "end": 17.18
+    },
+    {
+      "word": "product",
+      "start": 17.18,
+      "end": 17.7
+    },
+    {
+      "word": "critique",
+      "start": 17.7,
+      "end": 18.26
+    },
+    {
+      "word": "buried",
+      "start": 18.26,
+      "end": 18.62
+    },
+    {
+      "word": "inside.",
+      "start": 18.62,
+      "end": 19.32
+    },
+    {
+      "word": "Pasting",
+      "start": 19.74,
+      "end": 20.02
+    },
+    {
+      "word": "unedited",
+      "start": 20.02,
+      "end": 20.64
+    },
+    {
+      "word": "client",
+      "start": 20.64,
+      "end": 21.02
+    },
+    {
+      "word": "critiques",
+      "start": 21.02,
+      "end": 21.46
+    },
+    {
+      "word": "into",
+      "start": 21.46,
+      "end": 21.78
+    },
+    {
+      "word": "a",
+      "start": 21.78,
+      "end": 21.98
+    },
+    {
+      "word": "clawed",
+      "start": 21.98,
+      "end": 22.86
+    },
+    {
+      "word": "persona",
+      "start": 22.86,
+      "end": 22.86
+    },
+    {
+      "word": "prompt",
+      "start": 22.86,
+      "end": 23.48
+    },
+    {
+      "word": "filters",
+      "start": 23.48,
+      "end": 23.9
+    },
+    {
+      "word": "emotional",
+      "start": 23.9,
+      "end": 24.46
+    },
+    {
+      "word": "noise",
+      "start": 24.46,
+      "end": 24.94
+    },
+    {
+      "word": "into",
+      "start": 24.94,
+      "end": 25.24
+    },
+    {
+      "word": "objective,",
+      "start": 25.24,
+      "end": 26.04
+    },
+    {
+      "word": "task",
+      "start": 26.56,
+      "end": 26.66
+    },
+    {
+      "word": "oriented",
+      "start": 26.66,
+      "end": 27.02
+    },
+    {
+      "word": "design",
+      "start": 27.02,
+      "end": 27.46
+    },
+    {
+      "word": "instructions.",
+      "start": 27.46,
+      "end": 28.16
+    },
+    {
+      "word": "You",
+      "start": 28.41,
+      "end": 28.9
+    },
+    {
+      "word": "deliver",
+      "start": 28.9,
+      "end": 29.2
+    },
+    {
+      "word": "perfect",
+      "start": 29.2,
+      "end": 29.78
+    },
+    {
+      "word": "client",
+      "start": 29.78,
+      "end": 30.14
+    },
+    {
+      "word": "revisions",
+      "start": 30.14,
+      "end": 30.62
+    },
+    {
+      "word": "with",
+      "start": 30.62,
+      "end": 31.22
+    },
+    {
+      "word": "total",
+      "start": 31.22,
+      "end": 31.56
+    },
+    {
+      "word": "emotional",
+      "start": 31.56,
+      "end": 32.14
+    },
+    {
+      "word": "detachment.",
+      "start": 32.14,
+      "end": 32.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "How to handle difficult freelance feedback without losing your mind.",
+      "line2": "CLARIFY VAGUE FEEDBACK",
+      "tag": "\ud83d\uded1 AI design feedback translator that turns vague feedback into clear edits",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI design feedback translator that turns vague feedback into clear edits",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI design feedback translator that turns vague feedback into clear edits",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI design feedback translator that turns vague feedback into clear edits",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to password managers: never forget a password again",
+  "text": "You can log into any website with one secure click across all your devices. Resetting forgotten passwords every time you switch from your phone to your computer wastes precious hours. Fragmented logins create massive friction, forcing you to maintain insecure spreadsheets or weak repetitive patterns. Sync a free Bitwarden account across your browser and phone to autofill complex passwords anywhere automatically. You gain instant login access with bank-grade security.",
+  "duration": 26.048,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "can",
+      "start": 0.24,
+      "end": 0.24
+    },
+    {
+      "word": "log",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "word": "into",
+      "start": 0.44,
+      "end": 0.7
+    },
+    {
+      "word": "any",
+      "start": 0.7,
+      "end": 0.92
+    },
+    {
+      "word": "website",
+      "start": 0.92,
+      "end": 1.2
+    },
+    {
+      "word": "with",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "word": "one",
+      "start": 1.52,
+      "end": 1.74
+    },
+    {
+      "word": "secure",
+      "start": 1.74,
+      "end": 2.04
+    },
+    {
+      "word": "click",
+      "start": 2.04,
+      "end": 2.34
+    },
+    {
+      "word": "across",
+      "start": 2.34,
+      "end": 2.62
+    },
+    {
+      "word": "all",
+      "start": 2.62,
+      "end": 2.88
+    },
+    {
+      "word": "your",
+      "start": 2.88,
+      "end": 3.04
+    },
+    {
+      "word": "devices,",
+      "start": 3.04,
+      "end": 3.56
+    },
+    {
+      "word": "resetting",
+      "start": 4.16,
+      "end": 4.44
+    },
+    {
+      "word": "forgotten",
+      "start": 4.44,
+      "end": 4.84
+    },
+    {
+      "word": "passwords",
+      "start": 4.84,
+      "end": 5.28
+    },
+    {
+      "word": "every",
+      "start": 5.28,
+      "end": 5.68
+    },
+    {
+      "word": "time",
+      "start": 5.68,
+      "end": 5.96
+    },
+    {
+      "word": "you",
+      "start": 5.96,
+      "end": 6.16
+    },
+    {
+      "word": "switch",
+      "start": 6.16,
+      "end": 6.32
+    },
+    {
+      "word": "from",
+      "start": 6.32,
+      "end": 6.48
+    },
+    {
+      "word": "your",
+      "start": 6.48,
+      "end": 6.66
+    },
+    {
+      "word": "phone",
+      "start": 6.66,
+      "end": 7.0
+    },
+    {
+      "word": "to",
+      "start": 7.0,
+      "end": 7.34
+    },
+    {
+      "word": "your",
+      "start": 7.34,
+      "end": 7.54
+    },
+    {
+      "word": "computer",
+      "start": 7.54,
+      "end": 7.88
+    },
+    {
+      "word": "waste",
+      "start": 7.88,
+      "end": 8.18
+    },
+    {
+      "word": "precious",
+      "start": 8.18,
+      "end": 8.6
+    },
+    {
+      "word": "hours.",
+      "start": 8.6,
+      "end": 9.18
+    },
+    {
+      "word": "Fragmented",
+      "start": 9.78,
+      "end": 10.1
+    },
+    {
+      "word": "logins",
+      "start": 10.1,
+      "end": 10.58
+    },
+    {
+      "word": "create",
+      "start": 10.58,
+      "end": 10.94
+    },
+    {
+      "word": "massive",
+      "start": 10.94,
+      "end": 11.3
+    },
+    {
+      "word": "friction,",
+      "start": 11.3,
+      "end": 11.8
+    },
+    {
+      "word": "forcing",
+      "start": 12.12,
+      "end": 12.32
+    },
+    {
+      "word": "you",
+      "start": 12.32,
+      "end": 12.6
+    },
+    {
+      "word": "to",
+      "start": 12.6,
+      "end": 12.72
+    },
+    {
+      "word": "maintain",
+      "start": 12.72,
+      "end": 13.1
+    },
+    {
+      "word": "insecure",
+      "start": 13.1,
+      "end": 13.58
+    },
+    {
+      "word": "spreadsheets",
+      "start": 13.58,
+      "end": 14.26
+    },
+    {
+      "word": "or",
+      "start": 14.26,
+      "end": 14.74
+    },
+    {
+      "word": "weak",
+      "start": 14.74,
+      "end": 15.02
+    },
+    {
+      "word": "repetitive",
+      "start": 15.02,
+      "end": 15.4
+    },
+    {
+      "word": "patterns.",
+      "start": 15.4,
+      "end": 15.9
+    },
+    {
+      "word": "Sync",
+      "start": 16.64,
+      "end": 16.66
+    },
+    {
+      "word": "a",
+      "start": 16.66,
+      "end": 16.86
+    },
+    {
+      "word": "free",
+      "start": 16.86,
+      "end": 17.0
+    },
+    {
+      "word": "bitwarden",
+      "start": 17.0,
+      "end": 17.5
+    },
+    {
+      "word": "account",
+      "start": 17.5,
+      "end": 17.78
+    },
+    {
+      "word": "across",
+      "start": 17.78,
+      "end": 18.06
+    },
+    {
+      "word": "your",
+      "start": 18.06,
+      "end": 18.3
+    },
+    {
+      "word": "browser",
+      "start": 18.3,
+      "end": 18.64
+    },
+    {
+      "word": "and",
+      "start": 18.64,
+      "end": 19.2
+    },
+    {
+      "word": "phone",
+      "start": 19.2,
+      "end": 19.52
+    },
+    {
+      "word": "to",
+      "start": 19.52,
+      "end": 19.9
+    },
+    {
+      "word": "auto",
+      "start": 19.9,
+      "end": 20.06
+    },
+    {
+      "word": "-fill",
+      "start": 20.06,
+      "end": 20.28
+    },
+    {
+      "word": "complex",
+      "start": 20.28,
+      "end": 20.7
+    },
+    {
+      "word": "passwords",
+      "start": 20.7,
+      "end": 21.28
+    },
+    {
+      "word": "anywhere",
+      "start": 21.28,
+      "end": 21.76
+    },
+    {
+      "word": "automatically.",
+      "start": 21.76,
+      "end": 22.28
+    },
+    {
+      "word": "You",
+      "start": 22.28,
+      "end": 23.0
+    },
+    {
+      "word": "gain",
+      "start": 23.0,
+      "end": 23.3
+    },
+    {
+      "word": "instant",
+      "start": 23.3,
+      "end": 23.78
+    },
+    {
+      "word": "login",
+      "start": 23.78,
+      "end": 24.18
+    },
+    {
+      "word": "access",
+      "start": 24.18,
+      "end": 24.6
+    },
+    {
+      "word": "with",
+      "start": 24.6,
+      "end": 24.9
+    },
+    {
+      "word": "bank",
+      "start": 24.9,
+      "end": 25.2
+    },
+    {
+      "word": "-grade",
+      "start": 25.2,
+      "end": 25.42
+    },
+    {
+      "word": "security.",
+      "start": 25.42,
+      "end": 25.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Log into any website with one secure click across all your devices.",
+      "line2": "NEVER FORGET PASSWORDS",
+      "tag": "\ud83d\uded1 Beginner guide to password managers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to password managers",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to password managers",
+        "subtitle": "Beginner guide to password managers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to password managers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to password managers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to password managers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "page": "page-06",
+  "idea": "Virtual coworking room tool for spontaneous watercooler banter",
+  "text": "Virtual audio coworking rooms are replacing exhausting video calls for top distributed companies. Keeping webcams active for eight hours drains developer energy and triggers severe screen fatigue. Total isolation leaves junior engineers stranded without an easy way to ask quick questions. Persistent audio rooms inside Tandem let your team work quietly and speak instantly with hotkeys. This sparks organic problem solving while protecting deep focus.",
+  "duration": 28.069,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Virtual",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "audio",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "word": "-cowworking",
+      "start": 0.8,
+      "end": 1.36
+    },
+    {
+      "word": "rooms",
+      "start": 1.36,
+      "end": 1.7
+    },
+    {
+      "word": "are",
+      "start": 1.7,
+      "end": 2.12
+    },
+    {
+      "word": "replacing",
+      "start": 2.12,
+      "end": 2.52
+    },
+    {
+      "word": "exhausting",
+      "start": 2.52,
+      "end": 3.16
+    },
+    {
+      "word": "video",
+      "start": 3.16,
+      "end": 3.56
+    },
+    {
+      "word": "calls",
+      "start": 3.56,
+      "end": 3.9
+    },
+    {
+      "word": "for",
+      "start": 3.9,
+      "end": 4.12
+    },
+    {
+      "word": "top",
+      "start": 4.12,
+      "end": 4.46
+    },
+    {
+      "word": "distributed",
+      "start": 4.46,
+      "end": 4.98
+    },
+    {
+      "word": "companies.",
+      "start": 4.98,
+      "end": 5.6
+    },
+    {
+      "word": "Keeping",
+      "start": 6.42,
+      "end": 6.42
+    },
+    {
+      "word": "webcams",
+      "start": 6.42,
+      "end": 6.96
+    },
+    {
+      "word": "active",
+      "start": 6.96,
+      "end": 7.36
+    },
+    {
+      "word": "for",
+      "start": 7.36,
+      "end": 7.66
+    },
+    {
+      "word": "eight",
+      "start": 7.66,
+      "end": 7.96
+    },
+    {
+      "word": "hours",
+      "start": 7.96,
+      "end": 8.34
+    },
+    {
+      "word": "drains,",
+      "start": 8.34,
+      "end": 8.88
+    },
+    {
+      "word": "developer",
+      "start": 9.1,
+      "end": 9.36
+    },
+    {
+      "word": "energy,",
+      "start": 9.36,
+      "end": 9.82
+    },
+    {
+      "word": "and",
+      "start": 10.16,
+      "end": 10.36
+    },
+    {
+      "word": "triggers",
+      "start": 10.36,
+      "end": 10.7
+    },
+    {
+      "word": "severe",
+      "start": 10.7,
+      "end": 11.1
+    },
+    {
+      "word": "screen",
+      "start": 11.1,
+      "end": 11.56
+    },
+    {
+      "word": "fatigue.",
+      "start": 11.56,
+      "end": 12.0
+    },
+    {
+      "word": "Total",
+      "start": 12.66,
+      "end": 12.66
+    },
+    {
+      "word": "isolation",
+      "start": 12.66,
+      "end": 13.24
+    },
+    {
+      "word": "leaves",
+      "start": 13.24,
+      "end": 13.8
+    },
+    {
+      "word": "junior",
+      "start": 13.8,
+      "end": 14.16
+    },
+    {
+      "word": "engineers",
+      "start": 14.16,
+      "end": 14.74
+    },
+    {
+      "word": "stranded",
+      "start": 14.74,
+      "end": 15.16
+    },
+    {
+      "word": "without",
+      "start": 15.16,
+      "end": 15.54
+    },
+    {
+      "word": "an",
+      "start": 15.54,
+      "end": 15.78
+    },
+    {
+      "word": "easy",
+      "start": 15.78,
+      "end": 15.98
+    },
+    {
+      "word": "way",
+      "start": 15.98,
+      "end": 16.24
+    },
+    {
+      "word": "to",
+      "start": 16.24,
+      "end": 16.42
+    },
+    {
+      "word": "ask",
+      "start": 16.42,
+      "end": 16.7
+    },
+    {
+      "word": "quick",
+      "start": 16.7,
+      "end": 16.96
+    },
+    {
+      "word": "questions.",
+      "start": 16.96,
+      "end": 17.48
+    },
+    {
+      "word": "Persistent",
+      "start": 18.24,
+      "end": 18.64
+    },
+    {
+      "word": "audio",
+      "start": 18.64,
+      "end": 19.02
+    },
+    {
+      "word": "rooms",
+      "start": 19.02,
+      "end": 19.42
+    },
+    {
+      "word": "inside",
+      "start": 19.42,
+      "end": 19.98
+    },
+    {
+      "word": "tandem",
+      "start": 19.98,
+      "end": 20.38
+    },
+    {
+      "word": "let",
+      "start": 20.38,
+      "end": 20.8
+    },
+    {
+      "word": "your",
+      "start": 20.8,
+      "end": 20.98
+    },
+    {
+      "word": "team",
+      "start": 20.98,
+      "end": 21.28
+    },
+    {
+      "word": "work",
+      "start": 21.28,
+      "end": 21.58
+    },
+    {
+      "word": "quietly",
+      "start": 21.58,
+      "end": 21.94
+    },
+    {
+      "word": "and",
+      "start": 21.94,
+      "end": 22.42
+    },
+    {
+      "word": "speak",
+      "start": 22.42,
+      "end": 22.68
+    },
+    {
+      "word": "instantly",
+      "start": 22.68,
+      "end": 23.06
+    },
+    {
+      "word": "with",
+      "start": 23.06,
+      "end": 23.38
+    },
+    {
+      "word": "hotkeys.",
+      "start": 23.38,
+      "end": 23.9
+    },
+    {
+      "word": "This",
+      "start": 24.48,
+      "end": 24.72
+    },
+    {
+      "word": "sparks",
+      "start": 24.72,
+      "end": 25.02
+    },
+    {
+      "word": "organic",
+      "start": 25.02,
+      "end": 25.58
+    },
+    {
+      "word": "problem",
+      "start": 25.58,
+      "end": 26.08
+    },
+    {
+      "word": "-solving",
+      "start": 26.08,
+      "end": 26.42
+    },
+    {
+      "word": "while",
+      "start": 26.42,
+      "end": 26.82
+    },
+    {
+      "word": "protecting",
+      "start": 26.82,
+      "end": 27.14
+    },
+    {
+      "word": "deep",
+      "start": 27.14,
+      "end": 27.58
+    },
+    {
+      "word": "focus.",
+      "start": 27.58,
+      "end": 27.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The virtual office platform where team members can drop in and cowork audio-only.",
+      "line2": "SPONTANEOUS VIRTUAL COWORKING",
+      "tag": "\ud83d\uded1 Virtual coworking room tool for spontaneous watercooler banter",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Virtual coworking room tool for spontaneous watercooler banter",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Virtual coworking room tool for spontaneous watercooler banter",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

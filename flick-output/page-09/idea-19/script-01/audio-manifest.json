@@ -1,0 +1,421 @@
+{
+  "page": "page-09",
+  "idea": "Midjourney vs Flux: which AI image model generates better marketing visuals",
+  "text": "Midjourney versus Flux: which AI model creates more realistic assets for commercial brands? Midjourney produces gorgeous artistic images, but its overly stylized skin tones can ruin photorealistic product mockups. Prompting through Discord channels also scrambles team workflows and blocks direct integration into custom software pipelines. Flux provides natural textures, superior prompt adherence, and open weights you can run through ComfyUI. You get studio-grade marketing assets with total workflow control.",
+  "duration": 32.015,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Midjourney",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "vs.",
+      "start": 0.4,
+      "end": 0.74
+    },
+    {
+      "word": "Flux,",
+      "start": 0.92,
+      "end": 1.2
+    },
+    {
+      "word": "which",
+      "start": 1.66,
+      "end": 1.88
+    },
+    {
+      "word": "AI",
+      "start": 1.88,
+      "end": 2.32
+    },
+    {
+      "word": "model",
+      "start": 2.32,
+      "end": 2.68
+    },
+    {
+      "word": "creates",
+      "start": 2.68,
+      "end": 3.06
+    },
+    {
+      "word": "more",
+      "start": 3.06,
+      "end": 3.38
+    },
+    {
+      "word": "realistic",
+      "start": 3.38,
+      "end": 3.84
+    },
+    {
+      "word": "assets",
+      "start": 3.84,
+      "end": 4.32
+    },
+    {
+      "word": "for",
+      "start": 4.32,
+      "end": 4.62
+    },
+    {
+      "word": "commercial",
+      "start": 4.62,
+      "end": 5.04
+    },
+    {
+      "word": "brands.",
+      "start": 5.04,
+      "end": 5.54
+    },
+    {
+      "word": "Midjourney",
+      "start": 6.24,
+      "end": 6.48
+    },
+    {
+      "word": "produces",
+      "start": 6.48,
+      "end": 6.98
+    },
+    {
+      "word": "gorgeous",
+      "start": 6.98,
+      "end": 7.46
+    },
+    {
+      "word": "artistic",
+      "start": 7.46,
+      "end": 8.06
+    },
+    {
+      "word": "images,",
+      "start": 8.06,
+      "end": 8.54
+    },
+    {
+      "word": "but",
+      "start": 8.92,
+      "end": 9.02
+    },
+    {
+      "word": "its",
+      "start": 9.02,
+      "end": 9.34
+    },
+    {
+      "word": "overly",
+      "start": 9.34,
+      "end": 9.68
+    },
+    {
+      "word": "stylized",
+      "start": 9.68,
+      "end": 10.36
+    },
+    {
+      "word": "skin",
+      "start": 10.36,
+      "end": 10.74
+    },
+    {
+      "word": "tones",
+      "start": 10.74,
+      "end": 11.08
+    },
+    {
+      "word": "can",
+      "start": 11.08,
+      "end": 11.42
+    },
+    {
+      "word": "ruin",
+      "start": 11.42,
+      "end": 11.78
+    },
+    {
+      "word": "photorealistic",
+      "start": 11.78,
+      "end": 12.68
+    },
+    {
+      "word": "product",
+      "start": 12.68,
+      "end": 13.12
+    },
+    {
+      "word": "mock",
+      "start": 13.12,
+      "end": 13.4
+    },
+    {
+      "word": "-ups,",
+      "start": 13.4,
+      "end": 13.66
+    },
+    {
+      "word": "prompting",
+      "start": 13.98,
+      "end": 14.26
+    },
+    {
+      "word": "through",
+      "start": 14.26,
+      "end": 14.66
+    },
+    {
+      "word": "Discord",
+      "start": 14.66,
+      "end": 15.06
+    },
+    {
+      "word": "channels",
+      "start": 15.06,
+      "end": 15.48
+    },
+    {
+      "word": "also",
+      "start": 15.48,
+      "end": 15.98
+    },
+    {
+      "word": "scrambles",
+      "start": 15.98,
+      "end": 16.44
+    },
+    {
+      "word": "team",
+      "start": 16.44,
+      "end": 16.84
+    },
+    {
+      "word": "workflows",
+      "start": 16.84,
+      "end": 17.36
+    },
+    {
+      "word": "and",
+      "start": 17.36,
+      "end": 17.6
+    },
+    {
+      "word": "blocks",
+      "start": 17.6,
+      "end": 17.92
+    },
+    {
+      "word": "direct",
+      "start": 17.92,
+      "end": 18.34
+    },
+    {
+      "word": "integration",
+      "start": 18.34,
+      "end": 18.88
+    },
+    {
+      "word": "into",
+      "start": 18.88,
+      "end": 19.18
+    },
+    {
+      "word": "custom",
+      "start": 19.18,
+      "end": 19.52
+    },
+    {
+      "word": "software",
+      "start": 19.52,
+      "end": 20.04
+    },
+    {
+      "word": "pipelines.",
+      "start": 20.04,
+      "end": 20.62
+    },
+    {
+      "word": "Flux",
+      "start": 21.34,
+      "end": 21.54
+    },
+    {
+      "word": "provides",
+      "start": 21.54,
+      "end": 21.96
+    },
+    {
+      "word": "natural",
+      "start": 21.96,
+      "end": 22.5
+    },
+    {
+      "word": "textures,",
+      "start": 22.5,
+      "end": 23.02
+    },
+    {
+      "word": "superior",
+      "start": 23.58,
+      "end": 23.96
+    },
+    {
+      "word": "prompted",
+      "start": 23.96,
+      "end": 24.44
+    },
+    {
+      "word": "hearing",
+      "start": 24.44,
+      "end": 24.74
+    },
+    {
+      "word": "and",
+      "start": 24.74,
+      "end": 25.38
+    },
+    {
+      "word": "open",
+      "start": 25.38,
+      "end": 25.74
+    },
+    {
+      "word": "weights",
+      "start": 25.74,
+      "end": 26.06
+    },
+    {
+      "word": "you",
+      "start": 26.06,
+      "end": 26.26
+    },
+    {
+      "word": "can",
+      "start": 26.26,
+      "end": 26.46
+    },
+    {
+      "word": "run",
+      "start": 26.46,
+      "end": 26.68
+    },
+    {
+      "word": "through",
+      "start": 26.68,
+      "end": 27.08
+    },
+    {
+      "word": "for",
+      "start": 27.08,
+      "end": 27.32
+    },
+    {
+      "word": "UI.",
+      "start": 27.32,
+      "end": 27.78
+    },
+    {
+      "word": "You",
+      "start": 28.42,
+      "end": 28.54
+    },
+    {
+      "word": "get",
+      "start": 28.54,
+      "end": 28.8
+    },
+    {
+      "word": "studio",
+      "start": 28.8,
+      "end": 29.12
+    },
+    {
+      "word": "-grade",
+      "start": 29.12,
+      "end": 29.54
+    },
+    {
+      "word": "marketing",
+      "start": 29.54,
+      "end": 29.98
+    },
+    {
+      "word": "assets",
+      "start": 29.98,
+      "end": 30.4
+    },
+    {
+      "word": "with",
+      "start": 30.4,
+      "end": 30.88
+    },
+    {
+      "word": "total",
+      "start": 30.88,
+      "end": 31.12
+    },
+    {
+      "word": "workflow",
+      "start": 31.12,
+      "end": 31.48
+    },
+    {
+      "word": "control.",
+      "start": 31.48,
+      "end": 31.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Midjourney vs Flux: which image model creates more realistic commercial assets?",
+      "line2": "MIDJOURNEY VS FLUX",
+      "tag": "\ud83d\uded1 Midjourney vs Flux",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Midjourney vs Flux",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Midjourney vs Flux",
+        "subtitle": "Midjourney vs Flux"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Midjourney vs Flux"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Midjourney vs Flux"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Midjourney vs Flux",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

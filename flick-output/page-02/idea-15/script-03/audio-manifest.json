@@ -1,0 +1,406 @@
+{
+  "page": "page-02",
+  "idea": "Automated social proof collector for freelance testimonials",
+  "text": "This tool sends automated testimonial requests right when your clients are happiest. Freelancers usually miss the peak satisfaction window that happens the moment a final milestone gets delivered. Sending manual request emails days later results in low response rates and rushed, unhelpful one-sentence reviews. Setting up Senja with your Stripe webhook automatically pings clients with targeted questions upon final invoice payment. You generate continuous case studies hands-free.",
+  "duration": 28.794,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "tool",
+      "start": 0.28,
+      "end": 0.62
+    },
+    {
+      "word": "sends",
+      "start": 0.62,
+      "end": 1.02
+    },
+    {
+      "word": "automated",
+      "start": 1.02,
+      "end": 1.46
+    },
+    {
+      "word": "testimonial",
+      "start": 1.46,
+      "end": 2.26
+    },
+    {
+      "word": "requests",
+      "start": 2.26,
+      "end": 2.76
+    },
+    {
+      "word": "right",
+      "start": 2.76,
+      "end": 3.24
+    },
+    {
+      "word": "when",
+      "start": 3.24,
+      "end": 3.38
+    },
+    {
+      "word": "your",
+      "start": 3.38,
+      "end": 3.6
+    },
+    {
+      "word": "clients",
+      "start": 3.6,
+      "end": 3.84
+    },
+    {
+      "word": "are",
+      "start": 3.84,
+      "end": 4.14
+    },
+    {
+      "word": "happiest.",
+      "start": 4.14,
+      "end": 4.54
+    },
+    {
+      "word": "Freelancers",
+      "start": 5.26,
+      "end": 5.62
+    },
+    {
+      "word": "usually",
+      "start": 5.62,
+      "end": 6.2
+    },
+    {
+      "word": "miss",
+      "start": 6.2,
+      "end": 6.42
+    },
+    {
+      "word": "the",
+      "start": 6.42,
+      "end": 6.68
+    },
+    {
+      "word": "peak",
+      "start": 6.68,
+      "end": 6.88
+    },
+    {
+      "word": "satisfaction",
+      "start": 6.88,
+      "end": 7.4
+    },
+    {
+      "word": "window",
+      "start": 7.4,
+      "end": 7.94
+    },
+    {
+      "word": "that",
+      "start": 7.94,
+      "end": 8.44
+    },
+    {
+      "word": "happens",
+      "start": 8.44,
+      "end": 8.78
+    },
+    {
+      "word": "the",
+      "start": 8.78,
+      "end": 9.02
+    },
+    {
+      "word": "moment",
+      "start": 9.02,
+      "end": 9.26
+    },
+    {
+      "word": "a",
+      "start": 9.26,
+      "end": 9.88
+    },
+    {
+      "word": "final",
+      "start": 9.88,
+      "end": 10.0
+    },
+    {
+      "word": "milestone",
+      "start": 10.0,
+      "end": 10.48
+    },
+    {
+      "word": "gets",
+      "start": 10.48,
+      "end": 10.98
+    },
+    {
+      "word": "delivered.",
+      "start": 10.98,
+      "end": 11.42
+    },
+    {
+      "word": "Sending",
+      "start": 12.06,
+      "end": 12.06
+    },
+    {
+      "word": "manual",
+      "start": 12.06,
+      "end": 12.52
+    },
+    {
+      "word": "request",
+      "start": 12.52,
+      "end": 13.1
+    },
+    {
+      "word": "emails,",
+      "start": 13.1,
+      "end": 13.58
+    },
+    {
+      "word": "days",
+      "start": 13.74,
+      "end": 13.96
+    },
+    {
+      "word": "later",
+      "start": 13.96,
+      "end": 14.2
+    },
+    {
+      "word": "results",
+      "start": 14.2,
+      "end": 14.6
+    },
+    {
+      "word": "in",
+      "start": 14.6,
+      "end": 14.88
+    },
+    {
+      "word": "low",
+      "start": 14.88,
+      "end": 15.12
+    },
+    {
+      "word": "response",
+      "start": 15.12,
+      "end": 15.56
+    },
+    {
+      "word": "rates",
+      "start": 15.56,
+      "end": 15.9
+    },
+    {
+      "word": "and",
+      "start": 15.9,
+      "end": 16.34
+    },
+    {
+      "word": "rushed.",
+      "start": 16.34,
+      "end": 16.78
+    },
+    {
+      "word": "Unhelpful",
+      "start": 17.14,
+      "end": 17.62
+    },
+    {
+      "word": "one",
+      "start": 17.62,
+      "end": 17.9
+    },
+    {
+      "word": "sentence",
+      "start": 17.9,
+      "end": 18.26
+    },
+    {
+      "word": "reviews.",
+      "start": 18.26,
+      "end": 18.96
+    },
+    {
+      "word": "Setting",
+      "start": 19.64,
+      "end": 19.66
+    },
+    {
+      "word": "up",
+      "start": 19.66,
+      "end": 19.94
+    },
+    {
+      "word": "Senya",
+      "start": 19.94,
+      "end": 20.22
+    },
+    {
+      "word": "with",
+      "start": 20.22,
+      "end": 20.38
+    },
+    {
+      "word": "your",
+      "start": 20.38,
+      "end": 20.6
+    },
+    {
+      "word": "Stripe",
+      "start": 20.6,
+      "end": 20.86
+    },
+    {
+      "word": "Webhook",
+      "start": 20.86,
+      "end": 21.3
+    },
+    {
+      "word": "automatically",
+      "start": 21.3,
+      "end": 21.92
+    },
+    {
+      "word": "pings",
+      "start": 21.92,
+      "end": 22.4
+    },
+    {
+      "word": "clients",
+      "start": 22.4,
+      "end": 22.78
+    },
+    {
+      "word": "with",
+      "start": 22.78,
+      "end": 23.16
+    },
+    {
+      "word": "targeted",
+      "start": 23.16,
+      "end": 23.38
+    },
+    {
+      "word": "questions",
+      "start": 23.38,
+      "end": 24.1
+    },
+    {
+      "word": "upon",
+      "start": 24.1,
+      "end": 24.5
+    },
+    {
+      "word": "final",
+      "start": 24.5,
+      "end": 24.92
+    },
+    {
+      "word": "invoice",
+      "start": 24.92,
+      "end": 25.32
+    },
+    {
+      "word": "payment.",
+      "start": 25.32,
+      "end": 25.74
+    },
+    {
+      "word": "You",
+      "start": 26.36,
+      "end": 26.48
+    },
+    {
+      "word": "generate",
+      "start": 26.48,
+      "end": 26.88
+    },
+    {
+      "word": "continuous",
+      "start": 26.88,
+      "end": 27.38
+    },
+    {
+      "word": "case",
+      "start": 27.38,
+      "end": 27.8
+    },
+    {
+      "word": "studies",
+      "start": 27.8,
+      "end": 28.06
+    },
+    {
+      "word": "hands",
+      "start": 28.06,
+      "end": 28.5
+    },
+    {
+      "word": "free.",
+      "start": 28.5,
+      "end": 28.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "This tool sends automated testimonial requests right when clients are happiest.",
+      "line2": "COLLECT CLIENT TESTIMONIALS",
+      "tag": "\ud83d\uded1 Automated social proof collector for freelance testimonials",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated social proof collector for freelance testimonials",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated social proof collector for freelance testimonials",
+        "subtitle": "Automated social proof collector for freelance testimonials"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated social proof collector for freelance testimonials"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated social proof collector for freelance testimonials"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated social proof collector for freelance testimonials",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "page": "page-07",
+  "idea": "Automated hiring pipeline that screens inbound candidate applications",
+  "text": "Stop spending entire days reading through unqualified resumes manually. Sifting through keyword-stuffed CVs pulls founders away from core engineering milestones and customer acquisition. Unfiltered job boards dump hundreds of mismatched submissions directly into your inbox without technical verification. Set up a Typeform screening funnel connected via Zapier to Airtable that automatically rejects applicants missing core requirements. Your calendar fills exclusively with pre-vetted finalists.",
+  "duration": 30.245,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "spending",
+      "start": 0.4,
+      "end": 0.76
+    },
+    {
+      "word": "entire",
+      "start": 0.76,
+      "end": 1.2
+    },
+    {
+      "word": "days",
+      "start": 1.2,
+      "end": 1.6
+    },
+    {
+      "word": "reading",
+      "start": 1.6,
+      "end": 1.92
+    },
+    {
+      "word": "through",
+      "start": 1.92,
+      "end": 2.34
+    },
+    {
+      "word": "unqualified",
+      "start": 2.34,
+      "end": 3.0
+    },
+    {
+      "word": "resumes",
+      "start": 3.0,
+      "end": 3.56
+    },
+    {
+      "word": "manually.",
+      "start": 3.56,
+      "end": 4.3
+    },
+    {
+      "word": "Sifting",
+      "start": 4.78,
+      "end": 4.94
+    },
+    {
+      "word": "through",
+      "start": 4.94,
+      "end": 5.32
+    },
+    {
+      "word": "keyword",
+      "start": 5.32,
+      "end": 5.7
+    },
+    {
+      "word": "stuffed",
+      "start": 5.7,
+      "end": 6.16
+    },
+    {
+      "word": "cvs",
+      "start": 6.16,
+      "end": 6.66
+    },
+    {
+      "word": "pulls",
+      "start": 6.66,
+      "end": 7.1
+    },
+    {
+      "word": "founders",
+      "start": 7.1,
+      "end": 7.44
+    },
+    {
+      "word": "away",
+      "start": 7.44,
+      "end": 7.76
+    },
+    {
+      "word": "from",
+      "start": 7.76,
+      "end": 8.04
+    },
+    {
+      "word": "core",
+      "start": 8.04,
+      "end": 8.36
+    },
+    {
+      "word": "engineering",
+      "start": 8.36,
+      "end": 8.88
+    },
+    {
+      "word": "milestones",
+      "start": 8.88,
+      "end": 9.42
+    },
+    {
+      "word": "and",
+      "start": 9.42,
+      "end": 10.12
+    },
+    {
+      "word": "customer",
+      "start": 10.12,
+      "end": 10.48
+    },
+    {
+      "word": "acquisition.",
+      "start": 10.48,
+      "end": 11.1
+    },
+    {
+      "word": "Unfiltered",
+      "start": 11.94,
+      "end": 12.4
+    },
+    {
+      "word": "job",
+      "start": 12.4,
+      "end": 12.84
+    },
+    {
+      "word": "boards",
+      "start": 12.84,
+      "end": 13.2
+    },
+    {
+      "word": "dump",
+      "start": 13.2,
+      "end": 13.56
+    },
+    {
+      "word": "hundreds",
+      "start": 13.56,
+      "end": 13.9
+    },
+    {
+      "word": "of",
+      "start": 13.9,
+      "end": 14.16
+    },
+    {
+      "word": "mismatched",
+      "start": 14.16,
+      "end": 14.58
+    },
+    {
+      "word": "submissions",
+      "start": 14.58,
+      "end": 15.26
+    },
+    {
+      "word": "directly",
+      "start": 15.26,
+      "end": 15.88
+    },
+    {
+      "word": "into",
+      "start": 15.88,
+      "end": 16.12
+    },
+    {
+      "word": "your",
+      "start": 16.12,
+      "end": 16.38
+    },
+    {
+      "word": "inbox",
+      "start": 16.38,
+      "end": 16.7
+    },
+    {
+      "word": "without",
+      "start": 16.7,
+      "end": 17.18
+    },
+    {
+      "word": "technical",
+      "start": 17.18,
+      "end": 17.66
+    },
+    {
+      "word": "verification.",
+      "start": 17.66,
+      "end": 18.4
+    },
+    {
+      "word": "Set",
+      "start": 18.82,
+      "end": 18.96
+    },
+    {
+      "word": "up",
+      "start": 18.96,
+      "end": 19.14
+    },
+    {
+      "word": "a",
+      "start": 19.14,
+      "end": 19.34
+    },
+    {
+      "word": "type",
+      "start": 19.34,
+      "end": 19.58
+    },
+    {
+      "word": "form",
+      "start": 19.58,
+      "end": 19.84
+    },
+    {
+      "word": "screening",
+      "start": 19.84,
+      "end": 20.3
+    },
+    {
+      "word": "funnel",
+      "start": 20.3,
+      "end": 20.7
+    },
+    {
+      "word": "connected",
+      "start": 20.7,
+      "end": 21.26
+    },
+    {
+      "word": "via",
+      "start": 21.26,
+      "end": 21.64
+    },
+    {
+      "word": "Zapier",
+      "start": 21.64,
+      "end": 22.14
+    },
+    {
+      "word": "to",
+      "start": 22.14,
+      "end": 22.38
+    },
+    {
+      "word": "irritable",
+      "start": 22.38,
+      "end": 22.8
+    },
+    {
+      "word": "that",
+      "start": 22.8,
+      "end": 23.14
+    },
+    {
+      "word": "automatically",
+      "start": 23.14,
+      "end": 23.72
+    },
+    {
+      "word": "rejects",
+      "start": 23.72,
+      "end": 24.34
+    },
+    {
+      "word": "applicants",
+      "start": 24.34,
+      "end": 24.8
+    },
+    {
+      "word": "missing",
+      "start": 24.8,
+      "end": 25.28
+    },
+    {
+      "word": "core",
+      "start": 25.28,
+      "end": 25.56
+    },
+    {
+      "word": "requirements.",
+      "start": 25.56,
+      "end": 26.2
+    },
+    {
+      "word": "Your",
+      "start": 26.2,
+      "end": 27.1
+    },
+    {
+      "word": "calendar",
+      "start": 27.1,
+      "end": 27.38
+    },
+    {
+      "word": "fills",
+      "start": 27.38,
+      "end": 27.92
+    },
+    {
+      "word": "exclusively",
+      "start": 27.92,
+      "end": 28.56
+    },
+    {
+      "word": "with",
+      "start": 28.56,
+      "end": 28.98
+    },
+    {
+      "word": "pre",
+      "start": 28.98,
+      "end": 29.2
+    },
+    {
+      "word": "-vetted",
+      "start": 29.2,
+      "end": 29.48
+    },
+    {
+      "word": "finalists.",
+      "start": 29.48,
+      "end": 30.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop spending entire days reading through unqualified resumes manually.",
+      "line2": "AUTO-SCREEN CANDIDATES",
+      "tag": "\ud83d\uded1 Automated hiring pipeline that screens inbound candidate applications",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated hiring pipeline that screens inbound candidate applications",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated hiring pipeline that screens inbound candidate applications",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated hiring pipeline that screens inbound candidate applications",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

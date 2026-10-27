@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "LocalSend: share files between iPhone, Android, and PC with zero cables",
+  "text": "This free open-source app transfers photos, videos, and documents instantly over Wi-Fi. Trying to move huge asset packs to a client laptop usually requires hunting down USB dongles. Physical flash drives get misplaced, carry security risks, and fail when ports do not match. Open LocalSend on both devices to stream folders directly across local subnets without third-party servers. You share massive media folders without configuration headaches.",
+  "duration": 29.157,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "free",
+      "start": 0.26,
+      "end": 0.54
+    },
+    {
+      "word": "open",
+      "start": 0.54,
+      "end": 0.88
+    },
+    {
+      "word": "source",
+      "start": 0.88,
+      "end": 1.2
+    },
+    {
+      "word": "app",
+      "start": 1.2,
+      "end": 1.54
+    },
+    {
+      "word": "transfers",
+      "start": 1.54,
+      "end": 2.04
+    },
+    {
+      "word": "photos,",
+      "start": 2.04,
+      "end": 2.58
+    },
+    {
+      "word": "videos,",
+      "start": 3.02,
+      "end": 3.32
+    },
+    {
+      "word": "and",
+      "start": 3.66,
+      "end": 3.98
+    },
+    {
+      "word": "documents",
+      "start": 3.98,
+      "end": 4.28
+    },
+    {
+      "word": "instantly",
+      "start": 4.28,
+      "end": 4.9
+    },
+    {
+      "word": "over",
+      "start": 4.9,
+      "end": 5.18
+    },
+    {
+      "word": "Wi",
+      "start": 5.18,
+      "end": 5.52
+    },
+    {
+      "word": "-Fi.",
+      "start": 5.52,
+      "end": 5.88
+    },
+    {
+      "word": "Trying",
+      "start": 6.46,
+      "end": 6.5
+    },
+    {
+      "word": "to",
+      "start": 6.5,
+      "end": 6.64
+    },
+    {
+      "word": "move",
+      "start": 6.64,
+      "end": 6.94
+    },
+    {
+      "word": "huge",
+      "start": 6.94,
+      "end": 7.26
+    },
+    {
+      "word": "asset",
+      "start": 7.26,
+      "end": 7.58
+    },
+    {
+      "word": "packs",
+      "start": 7.58,
+      "end": 7.86
+    },
+    {
+      "word": "to",
+      "start": 7.86,
+      "end": 8.1
+    },
+    {
+      "word": "a",
+      "start": 8.1,
+      "end": 8.24
+    },
+    {
+      "word": "client",
+      "start": 8.24,
+      "end": 8.5
+    },
+    {
+      "word": "laptop",
+      "start": 8.5,
+      "end": 9.0
+    },
+    {
+      "word": "usually",
+      "start": 9.0,
+      "end": 9.8
+    },
+    {
+      "word": "requires",
+      "start": 9.8,
+      "end": 10.34
+    },
+    {
+      "word": "hunting",
+      "start": 10.34,
+      "end": 10.74
+    },
+    {
+      "word": "down",
+      "start": 10.74,
+      "end": 11.16
+    },
+    {
+      "word": "USB",
+      "start": 11.16,
+      "end": 11.52
+    },
+    {
+      "word": "dongles.",
+      "start": 11.52,
+      "end": 12.28
+    },
+    {
+      "word": "Physical",
+      "start": 12.92,
+      "end": 12.92
+    },
+    {
+      "word": "flash",
+      "start": 12.92,
+      "end": 13.32
+    },
+    {
+      "word": "drives",
+      "start": 13.32,
+      "end": 13.68
+    },
+    {
+      "word": "get",
+      "start": 13.68,
+      "end": 13.98
+    },
+    {
+      "word": "misplaced,",
+      "start": 13.98,
+      "end": 14.42
+    },
+    {
+      "word": "carry",
+      "start": 15.1,
+      "end": 15.12
+    },
+    {
+      "word": "security",
+      "start": 15.12,
+      "end": 15.62
+    },
+    {
+      "word": "risks,",
+      "start": 15.62,
+      "end": 15.94
+    },
+    {
+      "word": "and",
+      "start": 16.26,
+      "end": 16.48
+    },
+    {
+      "word": "fail",
+      "start": 16.48,
+      "end": 16.76
+    },
+    {
+      "word": "when",
+      "start": 16.76,
+      "end": 17.04
+    },
+    {
+      "word": "ports",
+      "start": 17.04,
+      "end": 17.32
+    },
+    {
+      "word": "do",
+      "start": 17.32,
+      "end": 17.48
+    },
+    {
+      "word": "not",
+      "start": 17.48,
+      "end": 17.68
+    },
+    {
+      "word": "match.",
+      "start": 17.68,
+      "end": 18.06
+    },
+    {
+      "word": "Open",
+      "start": 18.7,
+      "end": 18.96
+    },
+    {
+      "word": "local",
+      "start": 18.96,
+      "end": 19.36
+    },
+    {
+      "word": "send",
+      "start": 19.36,
+      "end": 19.66
+    },
+    {
+      "word": "on",
+      "start": 19.66,
+      "end": 19.92
+    },
+    {
+      "word": "both",
+      "start": 19.92,
+      "end": 20.24
+    },
+    {
+      "word": "devices",
+      "start": 20.24,
+      "end": 20.66
+    },
+    {
+      "word": "to",
+      "start": 20.66,
+      "end": 21.04
+    },
+    {
+      "word": "stream",
+      "start": 21.04,
+      "end": 21.32
+    },
+    {
+      "word": "folders",
+      "start": 21.32,
+      "end": 21.76
+    },
+    {
+      "word": "directly",
+      "start": 21.76,
+      "end": 22.32
+    },
+    {
+      "word": "across",
+      "start": 22.32,
+      "end": 22.72
+    },
+    {
+      "word": "local",
+      "start": 22.72,
+      "end": 23.08
+    },
+    {
+      "word": "subnets",
+      "start": 23.08,
+      "end": 23.52
+    },
+    {
+      "word": "without",
+      "start": 23.52,
+      "end": 24.14
+    },
+    {
+      "word": "third",
+      "start": 24.14,
+      "end": 24.5
+    },
+    {
+      "word": "-party",
+      "start": 24.5,
+      "end": 24.76
+    },
+    {
+      "word": "servers.",
+      "start": 24.76,
+      "end": 25.2
+    },
+    {
+      "word": "You",
+      "start": 25.2,
+      "end": 25.92
+    },
+    {
+      "word": "share",
+      "start": 25.92,
+      "end": 26.18
+    },
+    {
+      "word": "massive",
+      "start": 26.18,
+      "end": 26.64
+    },
+    {
+      "word": "media",
+      "start": 26.64,
+      "end": 26.96
+    },
+    {
+      "word": "folders",
+      "start": 26.96,
+      "end": 27.46
+    },
+    {
+      "word": "without",
+      "start": 27.46,
+      "end": 27.88
+    },
+    {
+      "word": "configuration",
+      "start": 27.88,
+      "end": 28.44
+    },
+    {
+      "word": "headaches.",
+      "start": 28.44,
+      "end": 29.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "This free open-source app transfers photos, videos, and documents instantly over Wi-Fi.",
+      "line2": "SHARE FILES WIRELESSLY",
+      "tag": "\ud83d\uded1 LocalSend",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: LocalSend",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: LocalSend",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "LocalSend",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

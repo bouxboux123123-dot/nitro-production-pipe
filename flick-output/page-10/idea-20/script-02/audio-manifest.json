@@ -1,0 +1,426 @@
+{
+  "page": "page-10",
+  "idea": "Webflow localization update for multi-region landing pages",
+  "text": "You can now translate and localize entire marketing sites without duplicating page trees. Expanding an e-commerce brand into international markets usually requires custom subdomains, third-party translation widgets, and disjointed styling. Bulky third-party translation scripts slow down page speed and ruin international mobile conversion rates. Webflow Localization serves static localized pages with native hreflang tags and machine translation built right into the CMS. You capture global revenue without performance trade-offs.",
+  "duration": 33.637,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "can",
+      "start": 0.12,
+      "end": 0.3
+    },
+    {
+      "word": "now",
+      "start": 0.3,
+      "end": 0.56
+    },
+    {
+      "word": "translate",
+      "start": 0.56,
+      "end": 1.04
+    },
+    {
+      "word": "and",
+      "start": 1.04,
+      "end": 1.36
+    },
+    {
+      "word": "localize",
+      "start": 1.36,
+      "end": 1.86
+    },
+    {
+      "word": "entire",
+      "start": 1.86,
+      "end": 2.34
+    },
+    {
+      "word": "marketing",
+      "start": 2.34,
+      "end": 2.78
+    },
+    {
+      "word": "sites",
+      "start": 2.78,
+      "end": 3.16
+    },
+    {
+      "word": "without",
+      "start": 3.16,
+      "end": 3.58
+    },
+    {
+      "word": "duplicating",
+      "start": 3.58,
+      "end": 4.14
+    },
+    {
+      "word": "page",
+      "start": 4.14,
+      "end": 4.56
+    },
+    {
+      "word": "trees.",
+      "start": 4.56,
+      "end": 5.12
+    },
+    {
+      "word": "Expanding",
+      "start": 5.82,
+      "end": 6.14
+    },
+    {
+      "word": "an",
+      "start": 6.14,
+      "end": 6.38
+    },
+    {
+      "word": "e",
+      "start": 6.38,
+      "end": 6.64
+    },
+    {
+      "word": "-commerce",
+      "start": 6.64,
+      "end": 6.96
+    },
+    {
+      "word": "brand",
+      "start": 6.96,
+      "end": 7.32
+    },
+    {
+      "word": "into",
+      "start": 7.32,
+      "end": 7.58
+    },
+    {
+      "word": "international",
+      "start": 7.58,
+      "end": 8.06
+    },
+    {
+      "word": "markets",
+      "start": 8.06,
+      "end": 8.8
+    },
+    {
+      "word": "usually",
+      "start": 8.8,
+      "end": 9.42
+    },
+    {
+      "word": "requires",
+      "start": 9.42,
+      "end": 10.02
+    },
+    {
+      "word": "custom",
+      "start": 10.02,
+      "end": 10.52
+    },
+    {
+      "word": "subdomains,",
+      "start": 10.52,
+      "end": 11.18
+    },
+    {
+      "word": "third",
+      "start": 11.72,
+      "end": 11.86
+    },
+    {
+      "word": "-party",
+      "start": 11.86,
+      "end": 12.14
+    },
+    {
+      "word": "translation",
+      "start": 12.14,
+      "end": 12.82
+    },
+    {
+      "word": "widgets,",
+      "start": 12.82,
+      "end": 13.2
+    },
+    {
+      "word": "and",
+      "start": 13.7,
+      "end": 13.74
+    },
+    {
+      "word": "disjointed",
+      "start": 13.74,
+      "end": 14.36
+    },
+    {
+      "word": "styling.",
+      "start": 14.36,
+      "end": 14.88
+    },
+    {
+      "word": "Bokey",
+      "start": 15.28,
+      "end": 15.56
+    },
+    {
+      "word": "third",
+      "start": 15.56,
+      "end": 15.82
+    },
+    {
+      "word": "-party",
+      "start": 15.82,
+      "end": 16.12
+    },
+    {
+      "word": "translation",
+      "start": 16.12,
+      "end": 16.78
+    },
+    {
+      "word": "script",
+      "start": 16.78,
+      "end": 17.2
+    },
+    {
+      "word": "slow",
+      "start": 17.2,
+      "end": 17.56
+    },
+    {
+      "word": "down",
+      "start": 17.56,
+      "end": 17.94
+    },
+    {
+      "word": "page",
+      "start": 17.94,
+      "end": 18.26
+    },
+    {
+      "word": "speed",
+      "start": 18.26,
+      "end": 18.78
+    },
+    {
+      "word": "and",
+      "start": 18.78,
+      "end": 19.16
+    },
+    {
+      "word": "ruin",
+      "start": 19.16,
+      "end": 19.42
+    },
+    {
+      "word": "international",
+      "start": 19.42,
+      "end": 20.06
+    },
+    {
+      "word": "mobile",
+      "start": 20.06,
+      "end": 20.52
+    },
+    {
+      "word": "conversion",
+      "start": 20.52,
+      "end": 20.94
+    },
+    {
+      "word": "rates.",
+      "start": 20.94,
+      "end": 21.6
+    },
+    {
+      "word": "Webflow",
+      "start": 22.12,
+      "end": 22.4
+    },
+    {
+      "word": "localization",
+      "start": 22.4,
+      "end": 23.04
+    },
+    {
+      "word": "serves",
+      "start": 23.04,
+      "end": 23.58
+    },
+    {
+      "word": "static",
+      "start": 23.58,
+      "end": 24.04
+    },
+    {
+      "word": "localized",
+      "start": 24.04,
+      "end": 24.6
+    },
+    {
+      "word": "pages",
+      "start": 24.6,
+      "end": 25.2
+    },
+    {
+      "word": "with",
+      "start": 25.2,
+      "end": 25.7
+    },
+    {
+      "word": "native",
+      "start": 25.7,
+      "end": 26.1
+    },
+    {
+      "word": "reflang",
+      "start": 26.1,
+      "end": 26.54
+    },
+    {
+      "word": "tags",
+      "start": 26.54,
+      "end": 27.0
+    },
+    {
+      "word": "and",
+      "start": 27.0,
+      "end": 27.36
+    },
+    {
+      "word": "machine",
+      "start": 27.36,
+      "end": 27.68
+    },
+    {
+      "word": "translation",
+      "start": 27.68,
+      "end": 28.42
+    },
+    {
+      "word": "built",
+      "start": 28.42,
+      "end": 28.88
+    },
+    {
+      "word": "right",
+      "start": 28.88,
+      "end": 29.16
+    },
+    {
+      "word": "into",
+      "start": 29.16,
+      "end": 29.38
+    },
+    {
+      "word": "the",
+      "start": 29.38,
+      "end": 29.66
+    },
+    {
+      "word": "CMS.",
+      "start": 29.66,
+      "end": 30.12
+    },
+    {
+      "word": "You",
+      "start": 30.66,
+      "end": 30.9
+    },
+    {
+      "word": "capture",
+      "start": 30.9,
+      "end": 31.22
+    },
+    {
+      "word": "global",
+      "start": 31.22,
+      "end": 31.66
+    },
+    {
+      "word": "revenue",
+      "start": 31.66,
+      "end": 32.04
+    },
+    {
+      "word": "without",
+      "start": 32.04,
+      "end": 32.46
+    },
+    {
+      "word": "performance",
+      "start": 32.46,
+      "end": 33.04
+    },
+    {
+      "word": "trade",
+      "start": 33.04,
+      "end": 33.32
+    },
+    {
+      "word": "-offs.",
+      "start": 33.32,
+      "end": 33.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Translate and localize entire marketing sites without duplicating page trees.",
+      "line2": "WEBFLOW MULTI-REGION LOCALIZATION UPDATE",
+      "tag": "\ud83d\uded1 Webflow localization update for multi-region landing pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Webflow localization update for multi-region landing pages",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Webflow localization update for multi-region landing pages",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Webflow localization update for multi-region landing pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

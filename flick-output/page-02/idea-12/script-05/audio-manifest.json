@@ -1,0 +1,406 @@
+{
+  "page": "page-02",
+  "idea": "AI research agent that pulls industry benchmarks for client reports",
+  "text": "The ultimate research shortcut for freelance writers, strategists, and consultants. Synthesizing forty-page whitepapers into concise client insights eats up whole workdays you cannot easily bill back. Strategy proposals lose impact when surface-level summaries fail to provide actionable data benchmarks for decision-makers. Elicit analyzes hundreds of research publications simultaneously, surfacing vetted methodologies and comparative industry metrics in seconds. You deliver deep strategic analysis in record time.",
+  "duration": 32.186,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "ultimate",
+      "start": 0.22,
+      "end": 0.58
+    },
+    {
+      "word": "research",
+      "start": 0.58,
+      "end": 1.08
+    },
+    {
+      "word": "shortcut",
+      "start": 1.08,
+      "end": 1.48
+    },
+    {
+      "word": "for",
+      "start": 1.48,
+      "end": 1.86
+    },
+    {
+      "word": "freelance",
+      "start": 1.86,
+      "end": 2.2
+    },
+    {
+      "word": "writers,",
+      "start": 2.2,
+      "end": 2.8
+    },
+    {
+      "word": "strategists,",
+      "start": 3.38,
+      "end": 3.82
+    },
+    {
+      "word": "and",
+      "start": 3.96,
+      "end": 4.2
+    },
+    {
+      "word": "consultants.",
+      "start": 4.2,
+      "end": 4.88
+    },
+    {
+      "word": "Synthesizing",
+      "start": 5.48,
+      "end": 5.98
+    },
+    {
+      "word": "40",
+      "start": 5.98,
+      "end": 6.34
+    },
+    {
+      "word": "page",
+      "start": 6.34,
+      "end": 6.72
+    },
+    {
+      "word": "white",
+      "start": 6.72,
+      "end": 7.04
+    },
+    {
+      "word": "papers",
+      "start": 7.04,
+      "end": 7.36
+    },
+    {
+      "word": "into",
+      "start": 7.36,
+      "end": 7.62
+    },
+    {
+      "word": "concise",
+      "start": 7.62,
+      "end": 8.08
+    },
+    {
+      "word": "client",
+      "start": 8.08,
+      "end": 8.5
+    },
+    {
+      "word": "insights",
+      "start": 8.5,
+      "end": 9.08
+    },
+    {
+      "word": "eats",
+      "start": 9.08,
+      "end": 9.54
+    },
+    {
+      "word": "up",
+      "start": 9.54,
+      "end": 9.76
+    },
+    {
+      "word": "whole",
+      "start": 9.76,
+      "end": 10.04
+    },
+    {
+      "word": "workdays",
+      "start": 10.04,
+      "end": 10.54
+    },
+    {
+      "word": "you",
+      "start": 10.54,
+      "end": 10.76
+    },
+    {
+      "word": "cannot",
+      "start": 10.76,
+      "end": 11.12
+    },
+    {
+      "word": "easily",
+      "start": 11.12,
+      "end": 11.5
+    },
+    {
+      "word": "build",
+      "start": 11.5,
+      "end": 11.8
+    },
+    {
+      "word": "back.",
+      "start": 11.8,
+      "end": 12.3
+    },
+    {
+      "word": "Strategy",
+      "start": 12.88,
+      "end": 12.88
+    },
+    {
+      "word": "proposals",
+      "start": 12.88,
+      "end": 13.38
+    },
+    {
+      "word": "lose",
+      "start": 13.38,
+      "end": 13.9
+    },
+    {
+      "word": "impact",
+      "start": 13.9,
+      "end": 14.34
+    },
+    {
+      "word": "when",
+      "start": 14.34,
+      "end": 14.76
+    },
+    {
+      "word": "surface",
+      "start": 14.76,
+      "end": 15.08
+    },
+    {
+      "word": "-level",
+      "start": 15.08,
+      "end": 15.44
+    },
+    {
+      "word": "summaries",
+      "start": 15.44,
+      "end": 15.9
+    },
+    {
+      "word": "fail",
+      "start": 15.9,
+      "end": 16.22
+    },
+    {
+      "word": "to",
+      "start": 16.22,
+      "end": 16.42
+    },
+    {
+      "word": "provide",
+      "start": 16.42,
+      "end": 16.82
+    },
+    {
+      "word": "actionable",
+      "start": 16.82,
+      "end": 17.36
+    },
+    {
+      "word": "data",
+      "start": 17.36,
+      "end": 17.68
+    },
+    {
+      "word": "benchmarks",
+      "start": 17.68,
+      "end": 18.16
+    },
+    {
+      "word": "for",
+      "start": 18.16,
+      "end": 18.58
+    },
+    {
+      "word": "decision",
+      "start": 18.58,
+      "end": 18.92
+    },
+    {
+      "word": "makers.",
+      "start": 18.92,
+      "end": 19.38
+    },
+    {
+      "word": "Alyssa",
+      "start": 20.16,
+      "end": 20.4
+    },
+    {
+      "word": "analyzes",
+      "start": 20.4,
+      "end": 21.16
+    },
+    {
+      "word": "hundreds",
+      "start": 21.16,
+      "end": 21.54
+    },
+    {
+      "word": "of",
+      "start": 21.54,
+      "end": 21.86
+    },
+    {
+      "word": "research",
+      "start": 21.86,
+      "end": 22.24
+    },
+    {
+      "word": "publications",
+      "start": 22.24,
+      "end": 22.98
+    },
+    {
+      "word": "simultaneously,",
+      "start": 22.98,
+      "end": 23.86
+    },
+    {
+      "word": "surfacing",
+      "start": 24.66,
+      "end": 25.0
+    },
+    {
+      "word": "vetted",
+      "start": 25.0,
+      "end": 25.32
+    },
+    {
+      "word": "methodologies",
+      "start": 25.32,
+      "end": 26.08
+    },
+    {
+      "word": "and",
+      "start": 26.08,
+      "end": 26.62
+    },
+    {
+      "word": "comparative",
+      "start": 26.62,
+      "end": 27.12
+    },
+    {
+      "word": "industry",
+      "start": 27.12,
+      "end": 27.62
+    },
+    {
+      "word": "metrics",
+      "start": 27.62,
+      "end": 28.0
+    },
+    {
+      "word": "in",
+      "start": 28.0,
+      "end": 28.3
+    },
+    {
+      "word": "seconds.",
+      "start": 28.3,
+      "end": 28.72
+    },
+    {
+      "word": "You",
+      "start": 28.72,
+      "end": 29.4
+    },
+    {
+      "word": "deliver",
+      "start": 29.4,
+      "end": 29.68
+    },
+    {
+      "word": "deep",
+      "start": 29.68,
+      "end": 30.12
+    },
+    {
+      "word": "strategic",
+      "start": 30.12,
+      "end": 30.64
+    },
+    {
+      "word": "analysis",
+      "start": 30.64,
+      "end": 31.14
+    },
+    {
+      "word": "in",
+      "start": 31.14,
+      "end": 31.48
+    },
+    {
+      "word": "record",
+      "start": 31.48,
+      "end": 31.72
+    },
+    {
+      "word": "time.",
+      "start": 31.72,
+      "end": 32.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "The ultimate research shortcut for freelance writers, strategists, and consultants.",
+      "line2": "PULL INDUSTRY BENCHMARKS",
+      "tag": "\ud83d\uded1 AI research agent that pulls industry benchmarks for client reports",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI research agent that pulls industry benchmarks for client reports",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI research agent that pulls industry benchmarks for client reports",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI research agent that pulls industry benchmarks for client reports",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

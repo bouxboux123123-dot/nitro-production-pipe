@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "LocalSend: share files between iPhone, Android, and PC with zero cables",
+  "text": "Here is the AirDrop alternative that works across Windows, Mac, iOS, and Android seamlessly. Apple AirDrop locks you into one ecosystem, leaving cross-platform collaboration completely stranded. Bluetooth sharing between competing operating systems is notoriously slow and frequently disconnects midway through large transfers. LocalSend bridges the gap by discovering nearby devices automatically on your local network protocol. You transfer production files between mixed hardware setups friction-free.",
+  "duration": 31.994,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.42
+    },
+    {
+      "word": "the",
+      "start": 0.42,
+      "end": 0.56
+    },
+    {
+      "word": "AirDrop",
+      "start": 0.56,
+      "end": 1.04
+    },
+    {
+      "word": "alternative",
+      "start": 1.04,
+      "end": 1.6
+    },
+    {
+      "word": "that",
+      "start": 1.6,
+      "end": 1.94
+    },
+    {
+      "word": "works",
+      "start": 1.94,
+      "end": 2.14
+    },
+    {
+      "word": "across",
+      "start": 2.14,
+      "end": 2.5
+    },
+    {
+      "word": "Windows,",
+      "start": 2.5,
+      "end": 3.0
+    },
+    {
+      "word": "Mac,",
+      "start": 3.24,
+      "end": 3.7
+    },
+    {
+      "word": "iOS,",
+      "start": 4.12,
+      "end": 4.46
+    },
+    {
+      "word": "and",
+      "start": 4.86,
+      "end": 5.26
+    },
+    {
+      "word": "Android",
+      "start": 5.26,
+      "end": 5.62
+    },
+    {
+      "word": "seamlessly.",
+      "start": 5.62,
+      "end": 6.3
+    },
+    {
+      "word": "Apple",
+      "start": 7.0,
+      "end": 7.2
+    },
+    {
+      "word": "AirDrop",
+      "start": 7.2,
+      "end": 7.72
+    },
+    {
+      "word": "locks",
+      "start": 7.72,
+      "end": 8.08
+    },
+    {
+      "word": "you",
+      "start": 8.08,
+      "end": 8.28
+    },
+    {
+      "word": "into",
+      "start": 8.28,
+      "end": 8.46
+    },
+    {
+      "word": "one",
+      "start": 8.46,
+      "end": 8.8
+    },
+    {
+      "word": "ecosystem,",
+      "start": 8.8,
+      "end": 9.3
+    },
+    {
+      "word": "leaving",
+      "start": 9.92,
+      "end": 10.12
+    },
+    {
+      "word": "cross",
+      "start": 10.12,
+      "end": 10.48
+    },
+    {
+      "word": "-platform",
+      "start": 10.48,
+      "end": 10.88
+    },
+    {
+      "word": "collaboration",
+      "start": 10.88,
+      "end": 11.68
+    },
+    {
+      "word": "completely",
+      "start": 11.68,
+      "end": 12.38
+    },
+    {
+      "word": "stranded.",
+      "start": 12.38,
+      "end": 12.84
+    },
+    {
+      "word": "Bluetooth",
+      "start": 13.52,
+      "end": 13.52
+    },
+    {
+      "word": "sharing",
+      "start": 13.52,
+      "end": 13.94
+    },
+    {
+      "word": "between",
+      "start": 13.94,
+      "end": 14.36
+    },
+    {
+      "word": "competing",
+      "start": 14.36,
+      "end": 14.8
+    },
+    {
+      "word": "operating",
+      "start": 14.8,
+      "end": 15.22
+    },
+    {
+      "word": "systems",
+      "start": 15.22,
+      "end": 15.7
+    },
+    {
+      "word": "is",
+      "start": 15.7,
+      "end": 16.2
+    },
+    {
+      "word": "notoriously",
+      "start": 16.2,
+      "end": 16.88
+    },
+    {
+      "word": "slow",
+      "start": 16.88,
+      "end": 17.58
+    },
+    {
+      "word": "and",
+      "start": 17.58,
+      "end": 18.04
+    },
+    {
+      "word": "frequently",
+      "start": 18.04,
+      "end": 18.44
+    },
+    {
+      "word": "disconnects",
+      "start": 18.44,
+      "end": 19.18
+    },
+    {
+      "word": "midway",
+      "start": 19.18,
+      "end": 19.46
+    },
+    {
+      "word": "through",
+      "start": 19.46,
+      "end": 20.02
+    },
+    {
+      "word": "large",
+      "start": 20.02,
+      "end": 20.44
+    },
+    {
+      "word": "transfers.",
+      "start": 20.44,
+      "end": 21.08
+    },
+    {
+      "word": "Local",
+      "start": 21.74,
+      "end": 22.02
+    },
+    {
+      "word": "send",
+      "start": 22.02,
+      "end": 22.44
+    },
+    {
+      "word": "bridges",
+      "start": 22.44,
+      "end": 22.9
+    },
+    {
+      "word": "the",
+      "start": 22.9,
+      "end": 23.2
+    },
+    {
+      "word": "gap",
+      "start": 23.2,
+      "end": 23.46
+    },
+    {
+      "word": "by",
+      "start": 23.46,
+      "end": 23.78
+    },
+    {
+      "word": "discovering",
+      "start": 23.78,
+      "end": 24.22
+    },
+    {
+      "word": "nearby",
+      "start": 24.22,
+      "end": 24.72
+    },
+    {
+      "word": "devices",
+      "start": 24.72,
+      "end": 25.3
+    },
+    {
+      "word": "automatically",
+      "start": 25.3,
+      "end": 25.94
+    },
+    {
+      "word": "on",
+      "start": 25.94,
+      "end": 26.28
+    },
+    {
+      "word": "your",
+      "start": 26.28,
+      "end": 26.52
+    },
+    {
+      "word": "local",
+      "start": 26.52,
+      "end": 26.74
+    },
+    {
+      "word": "network",
+      "start": 26.74,
+      "end": 27.2
+    },
+    {
+      "word": "protocol.",
+      "start": 27.2,
+      "end": 27.68
+    },
+    {
+      "word": "You",
+      "start": 27.68,
+      "end": 28.52
+    },
+    {
+      "word": "transfer",
+      "start": 28.52,
+      "end": 28.86
+    },
+    {
+      "word": "production",
+      "start": 28.86,
+      "end": 29.42
+    },
+    {
+      "word": "files",
+      "start": 29.42,
+      "end": 29.82
+    },
+    {
+      "word": "between",
+      "start": 29.82,
+      "end": 30.2
+    },
+    {
+      "word": "mixed",
+      "start": 30.2,
+      "end": 30.48
+    },
+    {
+      "word": "hardware",
+      "start": 30.48,
+      "end": 30.84
+    },
+    {
+      "word": "setups",
+      "start": 30.84,
+      "end": 31.32
+    },
+    {
+      "word": "friction",
+      "start": 31.32,
+      "end": 31.7
+    },
+    {
+      "word": "-free.",
+      "start": 31.7,
+      "end": 31.96
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The AirDrop alternative that works across Windows, Mac, iOS, and Android seamlessly.",
+      "line2": "SHARE FILES WIRELESSLY",
+      "tag": "\ud83d\uded1 LocalSend",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: LocalSend",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: LocalSend",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "LocalSend",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

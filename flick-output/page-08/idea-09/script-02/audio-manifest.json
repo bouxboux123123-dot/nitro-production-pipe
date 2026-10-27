@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "How to record your computer screen and voice for free with zero watermarks",
+  "text": "Here is the easiest free way to record your screen and microphone without software subscriptions. Demonstrating software errors through static screenshots creates confusing emails with zero clarity for teammates. Paid screen recorders charge fifteen dollars monthly while web capture tools compress videos into unreadable pixels. Instead, launch open-source OBS Studio, choose display capture, and click start recording at full 1080p resolution. You get unlimited watermark-free tutorials ready to share instantly.",
+  "duration": 32.058,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.46
+    },
+    {
+      "word": "the",
+      "start": 0.46,
+      "end": 0.58
+    },
+    {
+      "word": "easiest",
+      "start": 0.58,
+      "end": 0.98
+    },
+    {
+      "word": "freeway",
+      "start": 0.98,
+      "end": 1.28
+    },
+    {
+      "word": "to",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "word": "record",
+      "start": 1.52,
+      "end": 1.84
+    },
+    {
+      "word": "your",
+      "start": 1.84,
+      "end": 2.16
+    },
+    {
+      "word": "screen",
+      "start": 2.16,
+      "end": 2.5
+    },
+    {
+      "word": "and",
+      "start": 2.5,
+      "end": 2.76
+    },
+    {
+      "word": "microphone",
+      "start": 2.76,
+      "end": 3.14
+    },
+    {
+      "word": "without",
+      "start": 3.14,
+      "end": 3.64
+    },
+    {
+      "word": "software",
+      "start": 3.64,
+      "end": 4.08
+    },
+    {
+      "word": "subscriptions.",
+      "start": 4.08,
+      "end": 4.88
+    },
+    {
+      "word": "Demonstrating",
+      "start": 5.54,
+      "end": 6.06
+    },
+    {
+      "word": "software",
+      "start": 6.06,
+      "end": 6.58
+    },
+    {
+      "word": "errors",
+      "start": 6.58,
+      "end": 6.92
+    },
+    {
+      "word": "through",
+      "start": 6.92,
+      "end": 7.3
+    },
+    {
+      "word": "static",
+      "start": 7.3,
+      "end": 7.64
+    },
+    {
+      "word": "screenshots",
+      "start": 7.64,
+      "end": 8.22
+    },
+    {
+      "word": "creates",
+      "start": 8.22,
+      "end": 9.0
+    },
+    {
+      "word": "confusing",
+      "start": 9.0,
+      "end": 9.56
+    },
+    {
+      "word": "emails",
+      "start": 9.56,
+      "end": 9.96
+    },
+    {
+      "word": "with",
+      "start": 9.96,
+      "end": 10.32
+    },
+    {
+      "word": "zero",
+      "start": 10.32,
+      "end": 10.76
+    },
+    {
+      "word": "clarity",
+      "start": 10.76,
+      "end": 11.08
+    },
+    {
+      "word": "for",
+      "start": 11.08,
+      "end": 11.42
+    },
+    {
+      "word": "teammates.",
+      "start": 11.42,
+      "end": 11.84
+    },
+    {
+      "word": "Paid",
+      "start": 12.7,
+      "end": 12.72
+    },
+    {
+      "word": "screen",
+      "start": 12.72,
+      "end": 13.06
+    },
+    {
+      "word": "recorders",
+      "start": 13.06,
+      "end": 13.74
+    },
+    {
+      "word": "charge",
+      "start": 13.74,
+      "end": 14.14
+    },
+    {
+      "word": "$15",
+      "start": 14.14,
+      "end": 14.72
+    },
+    {
+      "word": "monthly",
+      "start": 14.72,
+      "end": 15.38
+    },
+    {
+      "word": "while",
+      "start": 15.38,
+      "end": 15.9
+    },
+    {
+      "word": "web",
+      "start": 15.9,
+      "end": 16.16
+    },
+    {
+      "word": "capture",
+      "start": 16.16,
+      "end": 16.46
+    },
+    {
+      "word": "tools",
+      "start": 16.46,
+      "end": 16.92
+    },
+    {
+      "word": "compress",
+      "start": 16.92,
+      "end": 17.24
+    },
+    {
+      "word": "videos",
+      "start": 17.24,
+      "end": 17.76
+    },
+    {
+      "word": "into",
+      "start": 17.76,
+      "end": 18.18
+    },
+    {
+      "word": "unreadable",
+      "start": 18.18,
+      "end": 18.72
+    },
+    {
+      "word": "pixels.",
+      "start": 18.72,
+      "end": 19.22
+    },
+    {
+      "word": "Instead,",
+      "start": 19.78,
+      "end": 20.12
+    },
+    {
+      "word": "launch",
+      "start": 20.42,
+      "end": 20.52
+    },
+    {
+      "word": "open",
+      "start": 20.52,
+      "end": 20.9
+    },
+    {
+      "word": "source",
+      "start": 20.9,
+      "end": 21.24
+    },
+    {
+      "word": "OBS",
+      "start": 21.24,
+      "end": 21.78
+    },
+    {
+      "word": "studio,",
+      "start": 21.78,
+      "end": 22.16
+    },
+    {
+      "word": "choose",
+      "start": 22.62,
+      "end": 22.86
+    },
+    {
+      "word": "display",
+      "start": 22.86,
+      "end": 23.2
+    },
+    {
+      "word": "capture",
+      "start": 23.2,
+      "end": 23.7
+    },
+    {
+      "word": "and",
+      "start": 23.7,
+      "end": 24.2
+    },
+    {
+      "word": "click",
+      "start": 24.2,
+      "end": 24.6
+    },
+    {
+      "word": "start",
+      "start": 24.6,
+      "end": 25.08
+    },
+    {
+      "word": "recording",
+      "start": 25.08,
+      "end": 25.42
+    },
+    {
+      "word": "at",
+      "start": 25.42,
+      "end": 25.72
+    },
+    {
+      "word": "full",
+      "start": 25.72,
+      "end": 26.04
+    },
+    {
+      "word": "1080p",
+      "start": 26.04,
+      "end": 27.22
+    },
+    {
+      "word": "resolution.",
+      "start": 27.22,
+      "end": 27.82
+    },
+    {
+      "word": "You",
+      "start": 28.14,
+      "end": 28.5
+    },
+    {
+      "word": "get",
+      "start": 28.5,
+      "end": 28.86
+    },
+    {
+      "word": "unlimited",
+      "start": 28.86,
+      "end": 29.34
+    },
+    {
+      "word": "watermark",
+      "start": 29.34,
+      "end": 29.96
+    },
+    {
+      "word": "-free",
+      "start": 29.96,
+      "end": 30.2
+    },
+    {
+      "word": "tutorials",
+      "start": 30.2,
+      "end": 30.68
+    },
+    {
+      "word": "ready",
+      "start": 30.68,
+      "end": 30.98
+    },
+    {
+      "word": "to",
+      "start": 30.98,
+      "end": 31.24
+    },
+    {
+      "word": "share",
+      "start": 31.24,
+      "end": 31.5
+    },
+    {
+      "word": "instantly.",
+      "start": 31.5,
+      "end": 31.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The easiest free way to record your screen and microphone without paying for software.",
+      "line2": "RECORD SCREEN WITHOUT WATERMARKS",
+      "tag": "\ud83d\uded1 How to record your computer screen and voice for free with zero watermarks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to record your computer screen and voice for free with zero watermarks",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to record your computer screen and voice for free with zero watermarks",
+        "subtitle": "How to record your computer screen and voice for free with zero watermarks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to record your computer screen and voice for free with zero watermarks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to record your computer screen and voice for free with zero watermarks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to record your computer screen and voice for free with zero watermarks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-10",
+  "idea": "Figma AI design tools launch and layout generation features",
+  "text": "Here are the top workflow shortcuts in Figma you probably haven't discovered yet. Designers waste hours clicking through nested frames just to rename layers or replace missing design tokens. Inconsistent frame naming and unlinked styles create massive confusion when developers inspect components during handoff. Using Figma AI Visual Search and First Draft commands lets you surface matching components and clean frames instantly. This removes handoff delays completely.",
+  "duration": 29.199,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "are",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "the",
+      "start": 0.42,
+      "end": 0.58
+    },
+    {
+      "word": "top",
+      "start": 0.58,
+      "end": 0.84
+    },
+    {
+      "word": "workflow",
+      "start": 0.84,
+      "end": 1.2
+    },
+    {
+      "word": "shortcuts",
+      "start": 1.2,
+      "end": 1.74
+    },
+    {
+      "word": "in",
+      "start": 1.74,
+      "end": 2.1
+    },
+    {
+      "word": "Figma",
+      "start": 2.1,
+      "end": 2.4
+    },
+    {
+      "word": "you",
+      "start": 2.4,
+      "end": 2.66
+    },
+    {
+      "word": "probably",
+      "start": 2.66,
+      "end": 3.14
+    },
+    {
+      "word": "haven't",
+      "start": 3.14,
+      "end": 3.48
+    },
+    {
+      "word": "discovered",
+      "start": 3.48,
+      "end": 3.74
+    },
+    {
+      "word": "yet.",
+      "start": 3.74,
+      "end": 4.56
+    },
+    {
+      "word": "Designers",
+      "start": 4.82,
+      "end": 5.34
+    },
+    {
+      "word": "waste",
+      "start": 5.34,
+      "end": 5.68
+    },
+    {
+      "word": "hours",
+      "start": 5.68,
+      "end": 6.1
+    },
+    {
+      "word": "clicking",
+      "start": 6.1,
+      "end": 6.46
+    },
+    {
+      "word": "through",
+      "start": 6.46,
+      "end": 6.76
+    },
+    {
+      "word": "nested",
+      "start": 6.76,
+      "end": 7.04
+    },
+    {
+      "word": "frames",
+      "start": 7.04,
+      "end": 7.62
+    },
+    {
+      "word": "just",
+      "start": 7.62,
+      "end": 8.14
+    },
+    {
+      "word": "to",
+      "start": 8.14,
+      "end": 8.32
+    },
+    {
+      "word": "rename",
+      "start": 8.32,
+      "end": 8.58
+    },
+    {
+      "word": "layers",
+      "start": 8.58,
+      "end": 9.08
+    },
+    {
+      "word": "or",
+      "start": 9.08,
+      "end": 9.7
+    },
+    {
+      "word": "replace",
+      "start": 9.7,
+      "end": 10.02
+    },
+    {
+      "word": "missing",
+      "start": 10.02,
+      "end": 10.38
+    },
+    {
+      "word": "design",
+      "start": 10.38,
+      "end": 10.88
+    },
+    {
+      "word": "tokens.",
+      "start": 10.88,
+      "end": 11.36
+    },
+    {
+      "word": "In",
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "word": "consistent",
+      "start": 12.0,
+      "end": 12.34
+    },
+    {
+      "word": "frame",
+      "start": 12.34,
+      "end": 12.82
+    },
+    {
+      "word": "naming",
+      "start": 12.82,
+      "end": 13.12
+    },
+    {
+      "word": "and",
+      "start": 13.12,
+      "end": 13.46
+    },
+    {
+      "word": "unlinked",
+      "start": 13.46,
+      "end": 13.78
+    },
+    {
+      "word": "styles",
+      "start": 13.78,
+      "end": 14.18
+    },
+    {
+      "word": "create",
+      "start": 14.18,
+      "end": 14.82
+    },
+    {
+      "word": "massive",
+      "start": 14.82,
+      "end": 15.22
+    },
+    {
+      "word": "confusion",
+      "start": 15.22,
+      "end": 15.78
+    },
+    {
+      "word": "when",
+      "start": 15.78,
+      "end": 16.28
+    },
+    {
+      "word": "developers",
+      "start": 16.28,
+      "end": 16.62
+    },
+    {
+      "word": "inspect",
+      "start": 16.62,
+      "end": 17.22
+    },
+    {
+      "word": "components",
+      "start": 17.22,
+      "end": 17.76
+    },
+    {
+      "word": "during",
+      "start": 17.76,
+      "end": 18.18
+    },
+    {
+      "word": "handoff.",
+      "start": 18.18,
+      "end": 18.82
+    },
+    {
+      "word": "Using",
+      "start": 19.24,
+      "end": 19.52
+    },
+    {
+      "word": "Figma,",
+      "start": 19.52,
+      "end": 20.1
+    },
+    {
+      "word": "AI",
+      "start": 20.24,
+      "end": 20.64
+    },
+    {
+      "word": "visual",
+      "start": 20.64,
+      "end": 21.02
+    },
+    {
+      "word": "search",
+      "start": 21.02,
+      "end": 21.44
+    },
+    {
+      "word": "and",
+      "start": 21.44,
+      "end": 21.68
+    },
+    {
+      "word": "first",
+      "start": 21.68,
+      "end": 21.98
+    },
+    {
+      "word": "draft",
+      "start": 21.98,
+      "end": 22.32
+    },
+    {
+      "word": "commands",
+      "start": 22.32,
+      "end": 22.8
+    },
+    {
+      "word": "lets",
+      "start": 22.8,
+      "end": 23.32
+    },
+    {
+      "word": "you",
+      "start": 23.32,
+      "end": 23.54
+    },
+    {
+      "word": "surface",
+      "start": 23.54,
+      "end": 23.82
+    },
+    {
+      "word": "matching",
+      "start": 23.82,
+      "end": 24.26
+    },
+    {
+      "word": "components",
+      "start": 24.26,
+      "end": 24.84
+    },
+    {
+      "word": "and",
+      "start": 24.84,
+      "end": 25.12
+    },
+    {
+      "word": "clean",
+      "start": 25.12,
+      "end": 25.42
+    },
+    {
+      "word": "frames",
+      "start": 25.42,
+      "end": 25.86
+    },
+    {
+      "word": "instantly.",
+      "start": 25.86,
+      "end": 26.4
+    },
+    {
+      "word": "This",
+      "start": 27.0,
+      "end": 27.24
+    },
+    {
+      "word": "removes",
+      "start": 27.24,
+      "end": 27.66
+    },
+    {
+      "word": "handoff",
+      "start": 27.66,
+      "end": 28.2
+    },
+    {
+      "word": "delays",
+      "start": 28.2,
+      "end": 28.56
+    },
+    {
+      "word": "completely.",
+      "start": 28.56,
+      "end": 29.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The top design workflow shortcuts in Figma you probably haven't discovered yet.",
+      "line2": "FIGMA AI DESIGN TOOLS",
+      "tag": "\ud83d\uded1 Figma AI design tools launch and layout generation features",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Figma AI design tools launch and layout generation features",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Figma AI design tools launch and layout generation features"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Figma AI design tools launch and layout generation features",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

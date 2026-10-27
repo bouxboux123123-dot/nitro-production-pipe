@@ -1,0 +1,376 @@
+{
+  "page": "page-09",
+  "idea": "Linear vs Jira: why modern engineering teams are ditching Atlassian",
+  "text": "How switching from Jira to Linear saved our development team four hours every week. Engineering teams waste Monday mornings dragging tickets across messy columns and updating statuses. Jira's rigid workflows force developers to spend more time documenting tasks than writing production code. Switching to Linear enables automated GitHub PR linking that closes issues directly from terminal commits. You reclaim valuable engineering bandwidth immediately.",
+  "duration": 26.091,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "switching",
+      "start": 0.26,
+      "end": 0.5
+    },
+    {
+      "word": "from",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "JIRA",
+      "start": 0.8,
+      "end": 1.06
+    },
+    {
+      "word": "to",
+      "start": 1.06,
+      "end": 1.26
+    },
+    {
+      "word": "linear",
+      "start": 1.26,
+      "end": 1.46
+    },
+    {
+      "word": "saved",
+      "start": 1.46,
+      "end": 1.88
+    },
+    {
+      "word": "our",
+      "start": 1.88,
+      "end": 2.32
+    },
+    {
+      "word": "development",
+      "start": 2.32,
+      "end": 2.36
+    },
+    {
+      "word": "team",
+      "start": 2.36,
+      "end": 2.82
+    },
+    {
+      "word": "for",
+      "start": 2.82,
+      "end": 3.06
+    },
+    {
+      "word": "hours",
+      "start": 3.06,
+      "end": 3.36
+    },
+    {
+      "word": "every",
+      "start": 3.36,
+      "end": 3.64
+    },
+    {
+      "word": "week.",
+      "start": 3.64,
+      "end": 4.22
+    },
+    {
+      "word": "Engineering",
+      "start": 4.62,
+      "end": 4.78
+    },
+    {
+      "word": "teams",
+      "start": 4.78,
+      "end": 5.34
+    },
+    {
+      "word": "waste",
+      "start": 5.34,
+      "end": 5.64
+    },
+    {
+      "word": "Monday",
+      "start": 5.64,
+      "end": 5.9
+    },
+    {
+      "word": "mornings",
+      "start": 5.9,
+      "end": 6.46
+    },
+    {
+      "word": "dragging",
+      "start": 6.46,
+      "end": 7.02
+    },
+    {
+      "word": "tickets",
+      "start": 7.02,
+      "end": 7.36
+    },
+    {
+      "word": "across",
+      "start": 7.36,
+      "end": 7.76
+    },
+    {
+      "word": "messy",
+      "start": 7.76,
+      "end": 8.08
+    },
+    {
+      "word": "columns",
+      "start": 8.08,
+      "end": 8.5
+    },
+    {
+      "word": "and",
+      "start": 8.5,
+      "end": 8.88
+    },
+    {
+      "word": "updating",
+      "start": 8.88,
+      "end": 9.14
+    },
+    {
+      "word": "statuses.",
+      "start": 9.14,
+      "end": 10.0
+    },
+    {
+      "word": "JIRA's",
+      "start": 10.5,
+      "end": 11.14
+    },
+    {
+      "word": "rigid",
+      "start": 11.14,
+      "end": 11.14
+    },
+    {
+      "word": "workflows",
+      "start": 11.14,
+      "end": 11.64
+    },
+    {
+      "word": "force",
+      "start": 11.64,
+      "end": 12.02
+    },
+    {
+      "word": "developers",
+      "start": 12.02,
+      "end": 12.4
+    },
+    {
+      "word": "to",
+      "start": 12.4,
+      "end": 12.76
+    },
+    {
+      "word": "spend",
+      "start": 12.76,
+      "end": 12.92
+    },
+    {
+      "word": "more",
+      "start": 12.92,
+      "end": 13.22
+    },
+    {
+      "word": "time",
+      "start": 13.22,
+      "end": 13.5
+    },
+    {
+      "word": "documenting",
+      "start": 13.5,
+      "end": 14.0
+    },
+    {
+      "word": "tasks",
+      "start": 14.0,
+      "end": 14.52
+    },
+    {
+      "word": "than",
+      "start": 14.52,
+      "end": 14.78
+    },
+    {
+      "word": "writing",
+      "start": 14.78,
+      "end": 15.06
+    },
+    {
+      "word": "production",
+      "start": 15.06,
+      "end": 15.44
+    },
+    {
+      "word": "code.",
+      "start": 15.44,
+      "end": 16.08
+    },
+    {
+      "word": "Switching",
+      "start": 16.46,
+      "end": 16.84
+    },
+    {
+      "word": "to",
+      "start": 16.84,
+      "end": 17.0
+    },
+    {
+      "word": "linear",
+      "start": 17.0,
+      "end": 17.32
+    },
+    {
+      "word": "enables",
+      "start": 17.32,
+      "end": 18.06
+    },
+    {
+      "word": "automated",
+      "start": 18.06,
+      "end": 18.56
+    },
+    {
+      "word": "GitHub",
+      "start": 18.56,
+      "end": 18.92
+    },
+    {
+      "word": "PR",
+      "start": 18.92,
+      "end": 19.48
+    },
+    {
+      "word": "linking",
+      "start": 19.48,
+      "end": 19.88
+    },
+    {
+      "word": "that",
+      "start": 19.88,
+      "end": 20.34
+    },
+    {
+      "word": "closes",
+      "start": 20.34,
+      "end": 20.62
+    },
+    {
+      "word": "issues",
+      "start": 20.62,
+      "end": 21.12
+    },
+    {
+      "word": "directly",
+      "start": 21.12,
+      "end": 21.54
+    },
+    {
+      "word": "from",
+      "start": 21.54,
+      "end": 21.9
+    },
+    {
+      "word": "terminal",
+      "start": 21.9,
+      "end": 22.3
+    },
+    {
+      "word": "commits.",
+      "start": 22.3,
+      "end": 22.72
+    },
+    {
+      "word": "You",
+      "start": 23.3,
+      "end": 23.44
+    },
+    {
+      "word": "reclaim",
+      "start": 23.44,
+      "end": 23.76
+    },
+    {
+      "word": "valuable",
+      "start": 23.76,
+      "end": 24.36
+    },
+    {
+      "word": "engineering",
+      "start": 24.36,
+      "end": 24.94
+    },
+    {
+      "word": "bandwidth",
+      "start": 24.94,
+      "end": 25.38
+    },
+    {
+      "word": "immediately.",
+      "start": 25.38,
+      "end": 25.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "How switching from Jira to Linear saved our development team 4 hours a week.",
+      "line2": "LINEAR VS JIRA",
+      "tag": "\ud83d\uded1 Linear vs Jira",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Linear vs Jira",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Linear vs Jira",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Linear vs Jira",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "page": "page-09",
+  "idea": "Linear vs Jira: why modern engineering teams are ditching Atlassian",
+  "text": "The speed difference between Linear's keyboard-first UI and Jira's clunky load times changes everything. Developers lose momentum waiting five seconds for overloaded Jira boards to render. Cluttered permission trees and bloated enterprise schemas turn simple issue updates into painful friction. Linear utilizes localized caching and universal command shortcuts that let developers triage tasks in milliseconds. This protects developer focus while speeding up releases.",
+  "duration": 28.645,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "speed",
+      "start": 0.26,
+      "end": 0.5
+    },
+    {
+      "word": "difference",
+      "start": 0.5,
+      "end": 0.82
+    },
+    {
+      "word": "between",
+      "start": 0.82,
+      "end": 1.2
+    },
+    {
+      "word": "linear's",
+      "start": 1.2,
+      "end": 1.66
+    },
+    {
+      "word": "keyboard",
+      "start": 1.66,
+      "end": 2.0
+    },
+    {
+      "word": "first",
+      "start": 2.0,
+      "end": 2.5
+    },
+    {
+      "word": "UI",
+      "start": 2.5,
+      "end": 3.06
+    },
+    {
+      "word": "and",
+      "start": 3.06,
+      "end": 3.52
+    },
+    {
+      "word": "Jira's",
+      "start": 3.52,
+      "end": 3.98
+    },
+    {
+      "word": "clunky",
+      "start": 3.98,
+      "end": 4.28
+    },
+    {
+      "word": "load",
+      "start": 4.28,
+      "end": 4.68
+    },
+    {
+      "word": "times",
+      "start": 4.68,
+      "end": 5.08
+    },
+    {
+      "word": "changes",
+      "start": 5.08,
+      "end": 5.56
+    },
+    {
+      "word": "everything.",
+      "start": 5.56,
+      "end": 6.4
+    },
+    {
+      "word": "Developers",
+      "start": 7.08,
+      "end": 7.12
+    },
+    {
+      "word": "lose",
+      "start": 7.12,
+      "end": 7.6
+    },
+    {
+      "word": "momentum",
+      "start": 7.6,
+      "end": 8.12
+    },
+    {
+      "word": "waiting",
+      "start": 8.12,
+      "end": 8.54
+    },
+    {
+      "word": "five",
+      "start": 8.54,
+      "end": 9.1
+    },
+    {
+      "word": "seconds",
+      "start": 9.1,
+      "end": 9.44
+    },
+    {
+      "word": "for",
+      "start": 9.44,
+      "end": 9.9
+    },
+    {
+      "word": "overloaded",
+      "start": 9.9,
+      "end": 10.2
+    },
+    {
+      "word": "Jira",
+      "start": 10.2,
+      "end": 10.72
+    },
+    {
+      "word": "boards",
+      "start": 10.72,
+      "end": 11.1
+    },
+    {
+      "word": "to",
+      "start": 11.1,
+      "end": 11.34
+    },
+    {
+      "word": "render.",
+      "start": 11.34,
+      "end": 11.68
+    },
+    {
+      "word": "Cluttered",
+      "start": 12.04,
+      "end": 12.26
+    },
+    {
+      "word": "permission",
+      "start": 12.26,
+      "end": 12.58
+    },
+    {
+      "word": "trees",
+      "start": 12.58,
+      "end": 13.08
+    },
+    {
+      "word": "and",
+      "start": 13.08,
+      "end": 13.34
+    },
+    {
+      "word": "bloated",
+      "start": 13.34,
+      "end": 13.66
+    },
+    {
+      "word": "enterprise",
+      "start": 13.66,
+      "end": 14.16
+    },
+    {
+      "word": "schemas",
+      "start": 14.16,
+      "end": 14.64
+    },
+    {
+      "word": "turn",
+      "start": 14.64,
+      "end": 15.06
+    },
+    {
+      "word": "simple",
+      "start": 15.06,
+      "end": 15.46
+    },
+    {
+      "word": "issue",
+      "start": 15.46,
+      "end": 15.8
+    },
+    {
+      "word": "updates",
+      "start": 15.8,
+      "end": 16.2
+    },
+    {
+      "word": "into",
+      "start": 16.2,
+      "end": 16.52
+    },
+    {
+      "word": "painful",
+      "start": 16.52,
+      "end": 16.82
+    },
+    {
+      "word": "friction.",
+      "start": 16.82,
+      "end": 17.44
+    },
+    {
+      "word": "Linear",
+      "start": 18.2,
+      "end": 18.24
+    },
+    {
+      "word": "utilizes",
+      "start": 18.24,
+      "end": 18.74
+    },
+    {
+      "word": "localized",
+      "start": 18.74,
+      "end": 19.4
+    },
+    {
+      "word": "caching",
+      "start": 19.4,
+      "end": 20.0
+    },
+    {
+      "word": "and",
+      "start": 20.0,
+      "end": 20.44
+    },
+    {
+      "word": "universal",
+      "start": 20.44,
+      "end": 20.8
+    },
+    {
+      "word": "command",
+      "start": 20.8,
+      "end": 21.26
+    },
+    {
+      "word": "shortcuts",
+      "start": 21.26,
+      "end": 21.8
+    },
+    {
+      "word": "that",
+      "start": 21.8,
+      "end": 22.4
+    },
+    {
+      "word": "let",
+      "start": 22.4,
+      "end": 22.62
+    },
+    {
+      "word": "developers",
+      "start": 22.62,
+      "end": 23.06
+    },
+    {
+      "word": "triage",
+      "start": 23.06,
+      "end": 23.64
+    },
+    {
+      "word": "tasks",
+      "start": 23.64,
+      "end": 24.1
+    },
+    {
+      "word": "in",
+      "start": 24.1,
+      "end": 24.36
+    },
+    {
+      "word": "milliseconds.",
+      "start": 24.36,
+      "end": 24.76
+    },
+    {
+      "word": "This",
+      "start": 25.54,
+      "end": 25.78
+    },
+    {
+      "word": "protects",
+      "start": 25.78,
+      "end": 26.14
+    },
+    {
+      "word": "developer",
+      "start": 26.14,
+      "end": 26.6
+    },
+    {
+      "word": "focus",
+      "start": 26.6,
+      "end": 27.06
+    },
+    {
+      "word": "while",
+      "start": 27.06,
+      "end": 27.52
+    },
+    {
+      "word": "speeding",
+      "start": 27.52,
+      "end": 27.76
+    },
+    {
+      "word": "up",
+      "start": 27.76,
+      "end": 28.1
+    },
+    {
+      "word": "releases.",
+      "start": 28.1,
+      "end": 28.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The speed difference between Linear's keyboard-first UI and Jira's clunky load times.",
+      "line2": "LINEAR VS JIRA",
+      "tag": "\ud83d\uded1 Linear vs Jira",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Linear vs Jira",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Linear vs Jira",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Linear vs Jira",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

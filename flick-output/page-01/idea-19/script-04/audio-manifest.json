@@ -1,0 +1,416 @@
+{
+  "page": "page-01",
+  "idea": "Automated Slack digest that highlights weekly agency revenue and margins",
+  "text": "Stay fully aware of your company's cash trajectory in thirty seconds every week. Most agency owners dread opening accounting software because dense balance sheets are confusing and stressful to navigate. When leadership avoids checking cash numbers, overdue client invoices quietly compound and jeopardize team payroll. Route real-time Stripe webhooks through Make to deliver a three-metric cash forecast inside Slack every Monday. You make confident hiring decisions without financial stress.",
+  "duration": 29.37,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stay",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "fully",
+      "start": 0.38,
+      "end": 0.6
+    },
+    {
+      "word": "aware",
+      "start": 0.6,
+      "end": 0.94
+    },
+    {
+      "word": "of",
+      "start": 0.94,
+      "end": 1.04
+    },
+    {
+      "word": "your",
+      "start": 1.04,
+      "end": 1.52
+    },
+    {
+      "word": "company's",
+      "start": 1.52,
+      "end": 1.7
+    },
+    {
+      "word": "cash",
+      "start": 1.7,
+      "end": 2.02
+    },
+    {
+      "word": "trajectory",
+      "start": 2.02,
+      "end": 2.58
+    },
+    {
+      "word": "in",
+      "start": 2.58,
+      "end": 2.9
+    },
+    {
+      "word": "30",
+      "start": 2.9,
+      "end": 3.2
+    },
+    {
+      "word": "seconds",
+      "start": 3.2,
+      "end": 3.54
+    },
+    {
+      "word": "every",
+      "start": 3.54,
+      "end": 3.82
+    },
+    {
+      "word": "week.",
+      "start": 3.82,
+      "end": 4.42
+    },
+    {
+      "word": "Most",
+      "start": 4.84,
+      "end": 4.92
+    },
+    {
+      "word": "agency",
+      "start": 4.92,
+      "end": 5.44
+    },
+    {
+      "word": "owners",
+      "start": 5.44,
+      "end": 5.82
+    },
+    {
+      "word": "dread",
+      "start": 5.82,
+      "end": 6.16
+    },
+    {
+      "word": "opening",
+      "start": 6.16,
+      "end": 6.54
+    },
+    {
+      "word": "accounting",
+      "start": 6.54,
+      "end": 7.1
+    },
+    {
+      "word": "software,",
+      "start": 7.1,
+      "end": 7.58
+    },
+    {
+      "word": "because",
+      "start": 7.98,
+      "end": 8.32
+    },
+    {
+      "word": "dense",
+      "start": 8.32,
+      "end": 8.7
+    },
+    {
+      "word": "balance",
+      "start": 8.7,
+      "end": 9.1
+    },
+    {
+      "word": "sheets",
+      "start": 9.1,
+      "end": 9.36
+    },
+    {
+      "word": "are",
+      "start": 9.36,
+      "end": 9.72
+    },
+    {
+      "word": "confusing",
+      "start": 9.72,
+      "end": 10.16
+    },
+    {
+      "word": "and",
+      "start": 10.16,
+      "end": 10.54
+    },
+    {
+      "word": "stressful",
+      "start": 10.54,
+      "end": 10.84
+    },
+    {
+      "word": "to",
+      "start": 10.84,
+      "end": 11.2
+    },
+    {
+      "word": "navigate.",
+      "start": 11.2,
+      "end": 11.5
+    },
+    {
+      "word": "When",
+      "start": 11.86,
+      "end": 12.04
+    },
+    {
+      "word": "leadership",
+      "start": 12.04,
+      "end": 12.36
+    },
+    {
+      "word": "avoids",
+      "start": 12.36,
+      "end": 12.84
+    },
+    {
+      "word": "checking",
+      "start": 12.84,
+      "end": 13.28
+    },
+    {
+      "word": "cash",
+      "start": 13.28,
+      "end": 13.64
+    },
+    {
+      "word": "numbers,",
+      "start": 13.64,
+      "end": 14.1
+    },
+    {
+      "word": "overdue",
+      "start": 14.62,
+      "end": 14.82
+    },
+    {
+      "word": "client",
+      "start": 14.82,
+      "end": 15.2
+    },
+    {
+      "word": "invoices",
+      "start": 15.2,
+      "end": 15.78
+    },
+    {
+      "word": "quietly",
+      "start": 15.78,
+      "end": 16.38
+    },
+    {
+      "word": "compound",
+      "start": 16.38,
+      "end": 16.84
+    },
+    {
+      "word": "and",
+      "start": 16.84,
+      "end": 17.36
+    },
+    {
+      "word": "jeopardize",
+      "start": 17.36,
+      "end": 17.88
+    },
+    {
+      "word": "team",
+      "start": 17.88,
+      "end": 18.18
+    },
+    {
+      "word": "payroll.",
+      "start": 18.18,
+      "end": 18.56
+    },
+    {
+      "word": "Route",
+      "start": 19.24,
+      "end": 19.58
+    },
+    {
+      "word": "real",
+      "start": 19.58,
+      "end": 19.86
+    },
+    {
+      "word": "-time",
+      "start": 19.86,
+      "end": 20.24
+    },
+    {
+      "word": "Stripe",
+      "start": 20.24,
+      "end": 20.56
+    },
+    {
+      "word": "Webhooks",
+      "start": 20.56,
+      "end": 21.02
+    },
+    {
+      "word": "through",
+      "start": 21.02,
+      "end": 21.26
+    },
+    {
+      "word": "make",
+      "start": 21.26,
+      "end": 21.46
+    },
+    {
+      "word": "to",
+      "start": 21.46,
+      "end": 21.64
+    },
+    {
+      "word": "deliver",
+      "start": 21.64,
+      "end": 21.92
+    },
+    {
+      "word": "a",
+      "start": 21.92,
+      "end": 22.18
+    },
+    {
+      "word": "three",
+      "start": 22.18,
+      "end": 22.38
+    },
+    {
+      "word": "-metric",
+      "start": 22.38,
+      "end": 22.74
+    },
+    {
+      "word": "cash",
+      "start": 22.74,
+      "end": 23.1
+    },
+    {
+      "word": "forecast",
+      "start": 23.1,
+      "end": 23.62
+    },
+    {
+      "word": "inside",
+      "start": 23.62,
+      "end": 24.42
+    },
+    {
+      "word": "Slack",
+      "start": 24.42,
+      "end": 24.84
+    },
+    {
+      "word": "every",
+      "start": 24.84,
+      "end": 25.12
+    },
+    {
+      "word": "Monday.",
+      "start": 25.12,
+      "end": 25.44
+    },
+    {
+      "word": "You",
+      "start": 26.04,
+      "end": 26.14
+    },
+    {
+      "word": "make",
+      "start": 26.14,
+      "end": 26.56
+    },
+    {
+      "word": "confident",
+      "start": 26.56,
+      "end": 26.8
+    },
+    {
+      "word": "hiring",
+      "start": 26.8,
+      "end": 27.26
+    },
+    {
+      "word": "decisions",
+      "start": 27.26,
+      "end": 27.78
+    },
+    {
+      "word": "without",
+      "start": 27.78,
+      "end": 28.26
+    },
+    {
+      "word": "financial",
+      "start": 28.26,
+      "end": 28.72
+    },
+    {
+      "word": "stress.",
+      "start": 28.72,
+      "end": 29.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stay fully aware of your company's cash trajectory in 30 seconds every week.",
+      "line2": "WEEKLY REVENUE DIGEST",
+      "tag": "\ud83d\uded1 Automated Slack digest that highlights weekly agency revenue and margins",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Automated Slack digest that highlights weekly agency revenue and margins",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Automated Slack digest that highlights weekly agency revenue and margins",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

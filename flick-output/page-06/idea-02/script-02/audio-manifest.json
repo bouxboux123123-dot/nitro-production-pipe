@@ -1,0 +1,416 @@
+{
+  "page": "page-06",
+  "idea": "Automated timezone meeting scheduler that finds fair overlapping hours",
+  "text": "This clever tool calculates the fairest overlapping meeting hours with zero painful timezone math. Distributed teams waste dozens of emails back and forth trying to convert daylight saving time differences. When managers pick meeting slots arbitrarily, remote teammates in opposite hemispheres suffer chronic schedule burnout. Deploy Timezone.io or World Time Buddy to identify mutual working hours and rotate monthly sync times. This eliminates scheduling friction across global teams.",
+  "duration": 30.757,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "clever",
+      "start": 0.28,
+      "end": 0.56
+    },
+    {
+      "word": "tool",
+      "start": 0.56,
+      "end": 0.9
+    },
+    {
+      "word": "calculates",
+      "start": 0.9,
+      "end": 1.44
+    },
+    {
+      "word": "the",
+      "start": 1.44,
+      "end": 1.84
+    },
+    {
+      "word": "fairest",
+      "start": 1.84,
+      "end": 2.16
+    },
+    {
+      "word": "overlapping",
+      "start": 2.16,
+      "end": 2.7
+    },
+    {
+      "word": "meeting",
+      "start": 2.7,
+      "end": 3.22
+    },
+    {
+      "word": "hours",
+      "start": 3.22,
+      "end": 3.6
+    },
+    {
+      "word": "with",
+      "start": 3.6,
+      "end": 4.12
+    },
+    {
+      "word": "zero",
+      "start": 4.12,
+      "end": 4.6
+    },
+    {
+      "word": "painful",
+      "start": 4.6,
+      "end": 5.02
+    },
+    {
+      "word": "time",
+      "start": 5.02,
+      "end": 5.38
+    },
+    {
+      "word": "zone",
+      "start": 5.38,
+      "end": 5.66
+    },
+    {
+      "word": "math.",
+      "start": 5.66,
+      "end": 6.26
+    },
+    {
+      "word": "Distributed",
+      "start": 6.74,
+      "end": 7.12
+    },
+    {
+      "word": "teams",
+      "start": 7.12,
+      "end": 7.64
+    },
+    {
+      "word": "waste",
+      "start": 7.64,
+      "end": 7.98
+    },
+    {
+      "word": "dozens",
+      "start": 7.98,
+      "end": 8.34
+    },
+    {
+      "word": "of",
+      "start": 8.34,
+      "end": 8.56
+    },
+    {
+      "word": "emails",
+      "start": 8.56,
+      "end": 8.84
+    },
+    {
+      "word": "back",
+      "start": 8.84,
+      "end": 9.24
+    },
+    {
+      "word": "and",
+      "start": 9.24,
+      "end": 9.48
+    },
+    {
+      "word": "forth",
+      "start": 9.48,
+      "end": 10.0
+    },
+    {
+      "word": "trying",
+      "start": 10.0,
+      "end": 10.3
+    },
+    {
+      "word": "to",
+      "start": 10.3,
+      "end": 10.58
+    },
+    {
+      "word": "convert",
+      "start": 10.58,
+      "end": 10.82
+    },
+    {
+      "word": "daylight",
+      "start": 10.82,
+      "end": 11.2
+    },
+    {
+      "word": "saving",
+      "start": 11.2,
+      "end": 11.72
+    },
+    {
+      "word": "time",
+      "start": 11.72,
+      "end": 12.16
+    },
+    {
+      "word": "differences.",
+      "start": 12.16,
+      "end": 12.66
+    },
+    {
+      "word": "When",
+      "start": 13.04,
+      "end": 13.24
+    },
+    {
+      "word": "managers",
+      "start": 13.24,
+      "end": 13.56
+    },
+    {
+      "word": "pick",
+      "start": 13.56,
+      "end": 13.94
+    },
+    {
+      "word": "meeting",
+      "start": 13.94,
+      "end": 14.3
+    },
+    {
+      "word": "slots",
+      "start": 14.3,
+      "end": 14.74
+    },
+    {
+      "word": "arbitrarily,",
+      "start": 14.74,
+      "end": 15.32
+    },
+    {
+      "word": "remote",
+      "start": 15.88,
+      "end": 16.14
+    },
+    {
+      "word": "teammates",
+      "start": 16.14,
+      "end": 16.52
+    },
+    {
+      "word": "in",
+      "start": 16.52,
+      "end": 16.86
+    },
+    {
+      "word": "opposite",
+      "start": 16.86,
+      "end": 17.2
+    },
+    {
+      "word": "hemispheres",
+      "start": 17.2,
+      "end": 17.82
+    },
+    {
+      "word": "suffer",
+      "start": 17.82,
+      "end": 18.2
+    },
+    {
+      "word": "chronic",
+      "start": 18.2,
+      "end": 18.58
+    },
+    {
+      "word": "schedule",
+      "start": 18.58,
+      "end": 19.02
+    },
+    {
+      "word": "burnout.",
+      "start": 19.02,
+      "end": 19.72
+    },
+    {
+      "word": "Deploy",
+      "start": 20.1,
+      "end": 20.26
+    },
+    {
+      "word": "time",
+      "start": 20.26,
+      "end": 20.82
+    },
+    {
+      "word": "zone,",
+      "start": 20.82,
+      "end": 21.22
+    },
+    {
+      "word": "EO",
+      "start": 21.58,
+      "end": 21.96
+    },
+    {
+      "word": "or",
+      "start": 21.96,
+      "end": 22.2
+    },
+    {
+      "word": "world",
+      "start": 22.2,
+      "end": 22.6
+    },
+    {
+      "word": "time",
+      "start": 22.6,
+      "end": 22.96
+    },
+    {
+      "word": "buddy",
+      "start": 22.96,
+      "end": 23.16
+    },
+    {
+      "word": "to",
+      "start": 23.16,
+      "end": 23.68
+    },
+    {
+      "word": "identify",
+      "start": 23.68,
+      "end": 23.92
+    },
+    {
+      "word": "mutual",
+      "start": 23.92,
+      "end": 24.38
+    },
+    {
+      "word": "working",
+      "start": 24.38,
+      "end": 24.84
+    },
+    {
+      "word": "hours",
+      "start": 24.84,
+      "end": 25.26
+    },
+    {
+      "word": "and",
+      "start": 25.26,
+      "end": 25.6
+    },
+    {
+      "word": "rotate",
+      "start": 25.6,
+      "end": 25.84
+    },
+    {
+      "word": "monthly",
+      "start": 25.84,
+      "end": 26.42
+    },
+    {
+      "word": "sync",
+      "start": 26.42,
+      "end": 26.7
+    },
+    {
+      "word": "times.",
+      "start": 26.7,
+      "end": 27.12
+    },
+    {
+      "word": "This",
+      "start": 27.12,
+      "end": 27.96
+    },
+    {
+      "word": "eliminates",
+      "start": 27.96,
+      "end": 28.42
+    },
+    {
+      "word": "scheduling",
+      "start": 28.42,
+      "end": 28.9
+    },
+    {
+      "word": "friction",
+      "start": 28.9,
+      "end": 29.4
+    },
+    {
+      "word": "across",
+      "start": 29.4,
+      "end": 29.86
+    },
+    {
+      "word": "global",
+      "start": 29.86,
+      "end": 30.18
+    },
+    {
+      "word": "teams.",
+      "start": 30.18,
+      "end": 30.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "This free tool calculates the fairest overlapping hours with zero timezone math.",
+      "line2": "FAIR TIMEZONE SCHEDULING",
+      "tag": "\ud83d\uded1 Automated timezone meeting scheduler that finds fair overlapping hours",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Automated timezone meeting scheduler that finds fair overlapping hours",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Automated timezone meeting scheduler that finds fair overlapping hours",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Automated timezone meeting scheduler that finds fair overlapping hours",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

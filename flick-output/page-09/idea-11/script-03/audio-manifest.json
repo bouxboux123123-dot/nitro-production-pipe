@@ -1,0 +1,391 @@
+{
+  "page": "page-09",
+  "idea": "Cursor vs GitHub Copilot: which AI coding assistant writes better software",
+  "text": "The full codebase indexing test: which AI tool actually understands your complex repository? Coding with shallow assistants forces you to manually paste schemas and type definitions into chat. Copilot Chat often drops conversational context, returning generic code snippets that fail your build pipeline. Cursor indexes your full git directory, mapping symbol trees and system architectures using semantic search. You resolve complex backend bugs effortlessly.",
+  "duration": 29.285,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "full",
+      "start": 0.22,
+      "end": 0.5
+    },
+    {
+      "word": "code",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "-based",
+      "start": 0.8,
+      "end": 1.02
+    },
+    {
+      "word": "indexing",
+      "start": 1.02,
+      "end": 1.56
+    },
+    {
+      "word": "test,",
+      "start": 1.56,
+      "end": 1.94
+    },
+    {
+      "word": "which",
+      "start": 2.16,
+      "end": 2.5
+    },
+    {
+      "word": "AI",
+      "start": 2.5,
+      "end": 3.0
+    },
+    {
+      "word": "tool",
+      "start": 3.0,
+      "end": 3.36
+    },
+    {
+      "word": "actually",
+      "start": 3.36,
+      "end": 3.9
+    },
+    {
+      "word": "understands",
+      "start": 3.9,
+      "end": 4.32
+    },
+    {
+      "word": "your",
+      "start": 4.32,
+      "end": 4.8
+    },
+    {
+      "word": "complex",
+      "start": 4.8,
+      "end": 5.06
+    },
+    {
+      "word": "repository.",
+      "start": 5.06,
+      "end": 5.94
+    },
+    {
+      "word": "Coding",
+      "start": 6.6,
+      "end": 6.8
+    },
+    {
+      "word": "with",
+      "start": 6.8,
+      "end": 7.16
+    },
+    {
+      "word": "shallow",
+      "start": 7.16,
+      "end": 7.44
+    },
+    {
+      "word": "assistance",
+      "start": 7.44,
+      "end": 7.98
+    },
+    {
+      "word": "forces",
+      "start": 7.98,
+      "end": 8.42
+    },
+    {
+      "word": "you",
+      "start": 8.42,
+      "end": 8.68
+    },
+    {
+      "word": "to",
+      "start": 8.68,
+      "end": 8.84
+    },
+    {
+      "word": "manually",
+      "start": 8.84,
+      "end": 9.16
+    },
+    {
+      "word": "pay",
+      "start": 9.16,
+      "end": 9.58
+    },
+    {
+      "word": "schemas",
+      "start": 9.58,
+      "end": 10.02
+    },
+    {
+      "word": "and",
+      "start": 10.02,
+      "end": 10.54
+    },
+    {
+      "word": "type",
+      "start": 10.54,
+      "end": 10.84
+    },
+    {
+      "word": "definitions",
+      "start": 10.84,
+      "end": 11.32
+    },
+    {
+      "word": "into",
+      "start": 11.32,
+      "end": 11.7
+    },
+    {
+      "word": "chat,",
+      "start": 11.7,
+      "end": 12.08
+    },
+    {
+      "word": "co",
+      "start": 12.5,
+      "end": 12.56
+    },
+    {
+      "word": "-pilot",
+      "start": 12.56,
+      "end": 12.86
+    },
+    {
+      "word": "chat",
+      "start": 12.86,
+      "end": 13.3
+    },
+    {
+      "word": "often",
+      "start": 13.3,
+      "end": 13.64
+    },
+    {
+      "word": "drops",
+      "start": 13.64,
+      "end": 14.0
+    },
+    {
+      "word": "conversational",
+      "start": 14.0,
+      "end": 14.8
+    },
+    {
+      "word": "context,",
+      "start": 14.8,
+      "end": 15.52
+    },
+    {
+      "word": "returning",
+      "start": 16.08,
+      "end": 16.22
+    },
+    {
+      "word": "generic",
+      "start": 16.22,
+      "end": 16.74
+    },
+    {
+      "word": "code",
+      "start": 16.74,
+      "end": 17.12
+    },
+    {
+      "word": "snippets",
+      "start": 17.12,
+      "end": 17.4
+    },
+    {
+      "word": "that",
+      "start": 17.4,
+      "end": 17.78
+    },
+    {
+      "word": "fail",
+      "start": 17.78,
+      "end": 18.04
+    },
+    {
+      "word": "your",
+      "start": 18.04,
+      "end": 18.26
+    },
+    {
+      "word": "build",
+      "start": 18.26,
+      "end": 18.5
+    },
+    {
+      "word": "pipeline.",
+      "start": 18.5,
+      "end": 19.08
+    },
+    {
+      "word": "Cursor",
+      "start": 19.72,
+      "end": 20.0
+    },
+    {
+      "word": "indexes",
+      "start": 20.0,
+      "end": 20.46
+    },
+    {
+      "word": "your",
+      "start": 20.46,
+      "end": 20.88
+    },
+    {
+      "word": "full",
+      "start": 20.88,
+      "end": 21.06
+    },
+    {
+      "word": "Git",
+      "start": 21.06,
+      "end": 21.28
+    },
+    {
+      "word": "directory,",
+      "start": 21.28,
+      "end": 21.8
+    },
+    {
+      "word": "mapping",
+      "start": 22.48,
+      "end": 22.48
+    },
+    {
+      "word": "symbol",
+      "start": 22.48,
+      "end": 22.92
+    },
+    {
+      "word": "trees",
+      "start": 22.92,
+      "end": 23.28
+    },
+    {
+      "word": "and",
+      "start": 23.28,
+      "end": 23.6
+    },
+    {
+      "word": "system",
+      "start": 23.6,
+      "end": 23.86
+    },
+    {
+      "word": "architectures",
+      "start": 23.86,
+      "end": 24.4
+    },
+    {
+      "word": "using",
+      "start": 24.4,
+      "end": 24.96
+    },
+    {
+      "word": "semantic",
+      "start": 24.96,
+      "end": 25.38
+    },
+    {
+      "word": "search.",
+      "start": 25.38,
+      "end": 25.98
+    },
+    {
+      "word": "You",
+      "start": 25.98,
+      "end": 26.62
+    },
+    {
+      "word": "resolve",
+      "start": 26.62,
+      "end": 27.0
+    },
+    {
+      "word": "complex",
+      "start": 27.0,
+      "end": 27.66
+    },
+    {
+      "word": "backend",
+      "start": 27.66,
+      "end": 28.14
+    },
+    {
+      "word": "bugs",
+      "start": 28.14,
+      "end": 28.6
+    },
+    {
+      "word": "effortlessly.",
+      "start": 28.6,
+      "end": 29.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The full codebase indexing comparison: which AI actually understands your project?",
+      "line2": "CURSOR VS GITHUB COPILOT",
+      "tag": "\ud83d\uded1 Cursor vs GitHub Copilot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Cursor vs GitHub Copilot",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Cursor vs GitHub Copilot",
+        "subtitle": "Cursor vs GitHub Copilot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Cursor vs GitHub Copilot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Cursor vs GitHub Copilot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Cursor vs GitHub Copilot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

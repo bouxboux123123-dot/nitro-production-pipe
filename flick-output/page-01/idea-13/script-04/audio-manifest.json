@@ -1,0 +1,426 @@
+{
+  "page": "page-01",
+  "idea": "Client revision tracker that enforces scope boundaries automatically",
+  "text": "Protect your team's bandwidth and your agency's profit margins with automated scope tracking. Scope creep sneaks in through dozens of tiny client favors that derail your weekly production calendar. When your task manager cannot flag out-of-scope tickets, senior producers end up working unpaid nights and weekends. Set up Zapier to validate new Asana tasks against your contract, automatically flagging extra requests as paid add-ons. You protect operational margins without tension.",
+  "duration": 29.733,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Protect",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "your",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "word": "team's",
+      "start": 0.64,
+      "end": 1.36
+    },
+    {
+      "word": "bandwidth",
+      "start": 1.36,
+      "end": 1.36
+    },
+    {
+      "word": "and",
+      "start": 1.36,
+      "end": 1.68
+    },
+    {
+      "word": "your",
+      "start": 1.68,
+      "end": 1.96
+    },
+    {
+      "word": "agency's",
+      "start": 1.96,
+      "end": 2.88
+    },
+    {
+      "word": "profit",
+      "start": 2.88,
+      "end": 2.88
+    },
+    {
+      "word": "margins",
+      "start": 2.88,
+      "end": 3.36
+    },
+    {
+      "word": "with",
+      "start": 3.36,
+      "end": 4.0
+    },
+    {
+      "word": "automated",
+      "start": 4.0,
+      "end": 4.14
+    },
+    {
+      "word": "scope",
+      "start": 4.14,
+      "end": 4.6
+    },
+    {
+      "word": "tracking.",
+      "start": 4.6,
+      "end": 5.08
+    },
+    {
+      "word": "Scope",
+      "start": 5.96,
+      "end": 5.98
+    },
+    {
+      "word": "creep",
+      "start": 5.98,
+      "end": 6.34
+    },
+    {
+      "word": "sneaks",
+      "start": 6.34,
+      "end": 6.74
+    },
+    {
+      "word": "in",
+      "start": 6.74,
+      "end": 7.04
+    },
+    {
+      "word": "through",
+      "start": 7.04,
+      "end": 7.26
+    },
+    {
+      "word": "dozens",
+      "start": 7.26,
+      "end": 7.66
+    },
+    {
+      "word": "of",
+      "start": 7.66,
+      "end": 8.3
+    },
+    {
+      "word": "tiny",
+      "start": 8.3,
+      "end": 8.34
+    },
+    {
+      "word": "client",
+      "start": 8.34,
+      "end": 8.74
+    },
+    {
+      "word": "favors",
+      "start": 8.74,
+      "end": 9.08
+    },
+    {
+      "word": "that",
+      "start": 9.08,
+      "end": 9.68
+    },
+    {
+      "word": "derail",
+      "start": 9.68,
+      "end": 9.94
+    },
+    {
+      "word": "your",
+      "start": 9.94,
+      "end": 10.3
+    },
+    {
+      "word": "weekly",
+      "start": 10.3,
+      "end": 10.62
+    },
+    {
+      "word": "production",
+      "start": 10.62,
+      "end": 11.16
+    },
+    {
+      "word": "calendar.",
+      "start": 11.16,
+      "end": 11.6
+    },
+    {
+      "word": "When",
+      "start": 11.94,
+      "end": 12.08
+    },
+    {
+      "word": "your",
+      "start": 12.08,
+      "end": 12.28
+    },
+    {
+      "word": "task",
+      "start": 12.28,
+      "end": 12.54
+    },
+    {
+      "word": "manager",
+      "start": 12.54,
+      "end": 12.92
+    },
+    {
+      "word": "cannot",
+      "start": 12.92,
+      "end": 13.44
+    },
+    {
+      "word": "flag",
+      "start": 13.44,
+      "end": 13.78
+    },
+    {
+      "word": "out",
+      "start": 13.78,
+      "end": 14.02
+    },
+    {
+      "word": "of",
+      "start": 14.02,
+      "end": 14.24
+    },
+    {
+      "word": "scope",
+      "start": 14.24,
+      "end": 14.48
+    },
+    {
+      "word": "tickets,",
+      "start": 14.48,
+      "end": 14.88
+    },
+    {
+      "word": "senior",
+      "start": 15.4,
+      "end": 15.58
+    },
+    {
+      "word": "producers",
+      "start": 15.58,
+      "end": 16.08
+    },
+    {
+      "word": "end",
+      "start": 16.08,
+      "end": 16.46
+    },
+    {
+      "word": "up",
+      "start": 16.46,
+      "end": 16.68
+    },
+    {
+      "word": "working",
+      "start": 16.68,
+      "end": 17.0
+    },
+    {
+      "word": "unpaid",
+      "start": 17.0,
+      "end": 17.4
+    },
+    {
+      "word": "nights",
+      "start": 17.4,
+      "end": 17.82
+    },
+    {
+      "word": "and",
+      "start": 17.82,
+      "end": 18.7
+    },
+    {
+      "word": "weekends.",
+      "start": 18.7,
+      "end": 18.7
+    },
+    {
+      "word": "Set",
+      "start": 19.14,
+      "end": 19.26
+    },
+    {
+      "word": "up",
+      "start": 19.26,
+      "end": 19.48
+    },
+    {
+      "word": "Zapier",
+      "start": 19.48,
+      "end": 19.88
+    },
+    {
+      "word": "to",
+      "start": 19.88,
+      "end": 20.22
+    },
+    {
+      "word": "validate",
+      "start": 20.22,
+      "end": 20.46
+    },
+    {
+      "word": "new",
+      "start": 20.46,
+      "end": 20.84
+    },
+    {
+      "word": "Asana",
+      "start": 20.84,
+      "end": 21.14
+    },
+    {
+      "word": "tasks",
+      "start": 21.14,
+      "end": 21.54
+    },
+    {
+      "word": "against",
+      "start": 21.54,
+      "end": 21.9
+    },
+    {
+      "word": "your",
+      "start": 21.9,
+      "end": 22.24
+    },
+    {
+      "word": "contract,",
+      "start": 22.24,
+      "end": 22.72
+    },
+    {
+      "word": "automatically",
+      "start": 23.26,
+      "end": 23.6
+    },
+    {
+      "word": "flagging",
+      "start": 23.6,
+      "end": 24.38
+    },
+    {
+      "word": "extra",
+      "start": 24.38,
+      "end": 24.6
+    },
+    {
+      "word": "requests",
+      "start": 24.6,
+      "end": 25.12
+    },
+    {
+      "word": "as",
+      "start": 25.12,
+      "end": 25.58
+    },
+    {
+      "word": "paid",
+      "start": 25.58,
+      "end": 25.9
+    },
+    {
+      "word": "add",
+      "start": 25.9,
+      "end": 26.16
+    },
+    {
+      "word": "-ons.",
+      "start": 26.16,
+      "end": 26.46
+    },
+    {
+      "word": "You",
+      "start": 26.46,
+      "end": 27.16
+    },
+    {
+      "word": "protect",
+      "start": 27.16,
+      "end": 27.56
+    },
+    {
+      "word": "operational",
+      "start": 27.56,
+      "end": 28.28
+    },
+    {
+      "word": "margins",
+      "start": 28.28,
+      "end": 28.8
+    },
+    {
+      "word": "without",
+      "start": 28.8,
+      "end": 29.24
+    },
+    {
+      "word": "tension.",
+      "start": 29.24,
+      "end": 29.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Protect your team's time and your agency's profit margins with clear scope tracking.",
+      "line2": "ENFORCE SCOPE BOUNDARIES",
+      "tag": "\ud83d\uded1 Client revision tracker that enforces scope boundaries automatically",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Client revision tracker that enforces scope boundaries automatically",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Client revision tracker that enforces scope boundaries automatically",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Client revision tracker that enforces scope boundaries automatically",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-01",
+  "idea": "Automated client gift and milestone celebration pipeline",
+  "text": "How a thirty-dollar thoughtful gift can protect a five-thousand-dollar monthly retainer relationship. When contract renewals approach, agencies scramble to prove value while competing against cheaper offshore providers. Retainer churn rarely happens over technical work; it happens when agencies fail to build emotional loyalty. Automate milestone gifts using HubSpot webhooks and Goody to send curated anniversary boxes automatically. You lock in five-figure client retainers year after year.",
+  "duration": 29.733,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "a",
+      "start": 0.22,
+      "end": 0.48
+    },
+    {
+      "word": "$30",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "word": "thoughtful",
+      "start": 0.8,
+      "end": 1.44
+    },
+    {
+      "word": "gift",
+      "start": 1.44,
+      "end": 1.88
+    },
+    {
+      "word": "can",
+      "start": 1.88,
+      "end": 2.14
+    },
+    {
+      "word": "protect",
+      "start": 2.14,
+      "end": 2.46
+    },
+    {
+      "word": "a",
+      "start": 2.46,
+      "end": 2.96
+    },
+    {
+      "word": "$5",
+      "start": 2.96,
+      "end": 3.2
+    },
+    {
+      "word": ",000",
+      "start": 3.2,
+      "end": 3.84
+    },
+    {
+      "word": "monthly",
+      "start": 3.84,
+      "end": 4.28
+    },
+    {
+      "word": "retainer",
+      "start": 4.28,
+      "end": 4.72
+    },
+    {
+      "word": "relationship.",
+      "start": 4.72,
+      "end": 5.54
+    },
+    {
+      "word": "When",
+      "start": 6.02,
+      "end": 6.28
+    },
+    {
+      "word": "contract",
+      "start": 6.28,
+      "end": 6.68
+    },
+    {
+      "word": "renewals",
+      "start": 6.68,
+      "end": 7.14
+    },
+    {
+      "word": "approach,",
+      "start": 7.14,
+      "end": 7.78
+    },
+    {
+      "word": "agencies",
+      "start": 8.04,
+      "end": 8.54
+    },
+    {
+      "word": "scramble",
+      "start": 8.54,
+      "end": 9.04
+    },
+    {
+      "word": "to",
+      "start": 9.04,
+      "end": 9.32
+    },
+    {
+      "word": "prove",
+      "start": 9.32,
+      "end": 9.62
+    },
+    {
+      "word": "value",
+      "start": 9.62,
+      "end": 9.96
+    },
+    {
+      "word": "while",
+      "start": 9.96,
+      "end": 10.36
+    },
+    {
+      "word": "competing",
+      "start": 10.36,
+      "end": 10.62
+    },
+    {
+      "word": "against",
+      "start": 10.62,
+      "end": 11.14
+    },
+    {
+      "word": "cheaper",
+      "start": 11.14,
+      "end": 11.54
+    },
+    {
+      "word": "offshore",
+      "start": 11.54,
+      "end": 11.96
+    },
+    {
+      "word": "providers.",
+      "start": 11.96,
+      "end": 12.48
+    },
+    {
+      "word": "Retainer",
+      "start": 12.96,
+      "end": 13.28
+    },
+    {
+      "word": "churn",
+      "start": 13.28,
+      "end": 13.68
+    },
+    {
+      "word": "rarely",
+      "start": 13.68,
+      "end": 14.06
+    },
+    {
+      "word": "happens",
+      "start": 14.06,
+      "end": 14.4
+    },
+    {
+      "word": "over",
+      "start": 14.4,
+      "end": 14.7
+    },
+    {
+      "word": "technical",
+      "start": 14.7,
+      "end": 15.04
+    },
+    {
+      "word": "work.",
+      "start": 15.04,
+      "end": 15.54
+    },
+    {
+      "word": "It",
+      "start": 15.8,
+      "end": 15.96
+    },
+    {
+      "word": "happens",
+      "start": 15.96,
+      "end": 16.24
+    },
+    {
+      "word": "when",
+      "start": 16.24,
+      "end": 16.56
+    },
+    {
+      "word": "agencies",
+      "start": 16.56,
+      "end": 17.0
+    },
+    {
+      "word": "fail",
+      "start": 17.0,
+      "end": 17.38
+    },
+    {
+      "word": "to",
+      "start": 17.38,
+      "end": 17.54
+    },
+    {
+      "word": "build",
+      "start": 17.54,
+      "end": 17.84
+    },
+    {
+      "word": "emotional",
+      "start": 17.84,
+      "end": 18.38
+    },
+    {
+      "word": "loyalty.",
+      "start": 18.38,
+      "end": 18.98
+    },
+    {
+      "word": "Automate",
+      "start": 19.72,
+      "end": 19.98
+    },
+    {
+      "word": "milestone",
+      "start": 19.98,
+      "end": 20.44
+    },
+    {
+      "word": "gifts",
+      "start": 20.44,
+      "end": 20.92
+    },
+    {
+      "word": "using",
+      "start": 20.92,
+      "end": 21.32
+    },
+    {
+      "word": "HubSpot,",
+      "start": 21.32,
+      "end": 21.92
+    },
+    {
+      "word": "Webhooks,",
+      "start": 22.06,
+      "end": 22.6
+    },
+    {
+      "word": "and",
+      "start": 22.6,
+      "end": 22.78
+    },
+    {
+      "word": "Goody",
+      "start": 22.78,
+      "end": 23.1
+    },
+    {
+      "word": "to",
+      "start": 23.1,
+      "end": 23.32
+    },
+    {
+      "word": "send",
+      "start": 23.32,
+      "end": 23.62
+    },
+    {
+      "word": "curated",
+      "start": 23.62,
+      "end": 24.08
+    },
+    {
+      "word": "anniversary",
+      "start": 24.08,
+      "end": 24.6
+    },
+    {
+      "word": "boxes",
+      "start": 24.6,
+      "end": 25.18
+    },
+    {
+      "word": "automatically.",
+      "start": 25.18,
+      "end": 25.86
+    },
+    {
+      "word": "You",
+      "start": 25.86,
+      "end": 26.74
+    },
+    {
+      "word": "lock",
+      "start": 26.74,
+      "end": 27.02
+    },
+    {
+      "word": "in",
+      "start": 27.02,
+      "end": 27.26
+    },
+    {
+      "word": "five",
+      "start": 27.26,
+      "end": 27.6
+    },
+    {
+      "word": "figure",
+      "start": 27.6,
+      "end": 27.9
+    },
+    {
+      "word": "client",
+      "start": 27.9,
+      "end": 28.24
+    },
+    {
+      "word": "retainer's",
+      "start": 28.24,
+      "end": 28.86
+    },
+    {
+      "word": "year",
+      "start": 28.86,
+      "end": 29.08
+    },
+    {
+      "word": "after",
+      "start": 29.08,
+      "end": 29.38
+    },
+    {
+      "word": "year.",
+      "start": 29.38,
+      "end": 29.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How a 30-dollar thoughtful gift can protect a 5,000-dollar monthly retainer relationship.",
+      "line2": "AUTOMATE CLIENT CELEBRATIONS",
+      "tag": "\ud83d\uded1 Automated client gift and milestone celebration pipeline",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Client Onboarding Pipeline: Automated client gift and milestone celebration pipeline",
+      "primitive": "OnboardingMilestoneRoadmap",
+      "props": {
+        "title": "Client Onboarding Pipeline: Automated client gift and milestone celebration pipeline",
+        "subtitle": "Automated client gift and milestone celebration pipeline"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Asset & Access Inspection Stall",
+      "primitive": "AssetIntakeInspector",
+      "props": {
+        "title": "Asset & Access Inspection Stall",
+        "subtitle": "Automated client gift and milestone celebration pipeline"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Welcome & Slack Provisioning",
+      "primitive": "ContractToSlackTrigger",
+      "props": {
+        "title": "Automated Welcome & Slack Provisioning",
+        "subtitle": "Automated client gift and milestone celebration pipeline"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "24-Hour Kickoff SLA Victory",
+      "primitive": "ClientHealthScorecard",
+      "props": {
+        "title": "24-Hour Kickoff SLA Victory",
+        "subtitle": "Automated client gift and milestone celebration pipeline",
+        "compositeScore": 98,
+        "clientTier": "Full SLA Onboarding Victory"
+      }
+    }
+  }
+}

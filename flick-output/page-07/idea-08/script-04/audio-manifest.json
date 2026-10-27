@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Founder personal brand content repurposing engine for LinkedIn and X",
+  "text": "The founder distribution system that drives thousands of organic signups each month. Founders struggle to maintain regular content schedules while managing sprint deadlines, hiring, and investor updates. Posting sporadically tanks audience engagement and wastes high-leverage marketing channels that competitors exploit daily. Build a repurposing engine that converts raw Loom demo recordings into X threads and scheduled LinkedIn posts. You drive consistent inbound customer trials with zero ongoing friction.",
+  "duration": 31.61,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "founder",
+      "start": 0.26,
+      "end": 0.44
+    },
+    {
+      "word": "distribution",
+      "start": 0.44,
+      "end": 1.02
+    },
+    {
+      "word": "system",
+      "start": 1.02,
+      "end": 1.58
+    },
+    {
+      "word": "that",
+      "start": 1.58,
+      "end": 1.9
+    },
+    {
+      "word": "drives",
+      "start": 1.9,
+      "end": 2.28
+    },
+    {
+      "word": "thousands",
+      "start": 2.28,
+      "end": 2.92
+    },
+    {
+      "word": "of",
+      "start": 2.92,
+      "end": 3.18
+    },
+    {
+      "word": "organic",
+      "start": 3.18,
+      "end": 3.58
+    },
+    {
+      "word": "signups",
+      "start": 3.58,
+      "end": 4.02
+    },
+    {
+      "word": "each",
+      "start": 4.02,
+      "end": 4.32
+    },
+    {
+      "word": "month.",
+      "start": 4.32,
+      "end": 5.08
+    },
+    {
+      "word": "Founders",
+      "start": 5.74,
+      "end": 5.74
+    },
+    {
+      "word": "struggle",
+      "start": 5.74,
+      "end": 6.22
+    },
+    {
+      "word": "to",
+      "start": 6.22,
+      "end": 6.46
+    },
+    {
+      "word": "maintain",
+      "start": 6.46,
+      "end": 6.88
+    },
+    {
+      "word": "regular",
+      "start": 6.88,
+      "end": 7.34
+    },
+    {
+      "word": "content",
+      "start": 7.34,
+      "end": 7.78
+    },
+    {
+      "word": "schedules",
+      "start": 7.78,
+      "end": 8.28
+    },
+    {
+      "word": "while",
+      "start": 8.28,
+      "end": 8.82
+    },
+    {
+      "word": "managing",
+      "start": 8.82,
+      "end": 9.24
+    },
+    {
+      "word": "sprint",
+      "start": 9.24,
+      "end": 9.68
+    },
+    {
+      "word": "deadlines,",
+      "start": 9.68,
+      "end": 10.18
+    },
+    {
+      "word": "hiring,",
+      "start": 10.66,
+      "end": 10.96
+    },
+    {
+      "word": "and",
+      "start": 11.38,
+      "end": 11.54
+    },
+    {
+      "word": "investor",
+      "start": 11.54,
+      "end": 11.94
+    },
+    {
+      "word": "updates.",
+      "start": 11.94,
+      "end": 12.42
+    },
+    {
+      "word": "Posting",
+      "start": 13.02,
+      "end": 13.32
+    },
+    {
+      "word": "sporadically",
+      "start": 13.32,
+      "end": 13.94
+    },
+    {
+      "word": "tanks",
+      "start": 13.94,
+      "end": 14.36
+    },
+    {
+      "word": "audience",
+      "start": 14.36,
+      "end": 14.8
+    },
+    {
+      "word": "engagement",
+      "start": 14.8,
+      "end": 15.44
+    },
+    {
+      "word": "and",
+      "start": 15.44,
+      "end": 15.98
+    },
+    {
+      "word": "wastes",
+      "start": 15.98,
+      "end": 16.3
+    },
+    {
+      "word": "high",
+      "start": 16.3,
+      "end": 16.62
+    },
+    {
+      "word": "leverage",
+      "start": 16.62,
+      "end": 16.9
+    },
+    {
+      "word": "marketing",
+      "start": 16.9,
+      "end": 17.42
+    },
+    {
+      "word": "channels",
+      "start": 17.42,
+      "end": 17.88
+    },
+    {
+      "word": "that",
+      "start": 17.88,
+      "end": 18.68
+    },
+    {
+      "word": "competitors",
+      "start": 18.68,
+      "end": 18.68
+    },
+    {
+      "word": "exploit",
+      "start": 18.68,
+      "end": 19.22
+    },
+    {
+      "word": "daily.",
+      "start": 19.22,
+      "end": 19.74
+    },
+    {
+      "word": "Build",
+      "start": 20.38,
+      "end": 20.4
+    },
+    {
+      "word": "a",
+      "start": 20.4,
+      "end": 20.6
+    },
+    {
+      "word": "repurposing",
+      "start": 20.6,
+      "end": 21.0
+    },
+    {
+      "word": "engine",
+      "start": 21.0,
+      "end": 21.48
+    },
+    {
+      "word": "that",
+      "start": 21.48,
+      "end": 21.88
+    },
+    {
+      "word": "converts",
+      "start": 21.88,
+      "end": 22.2
+    },
+    {
+      "word": "raw",
+      "start": 22.2,
+      "end": 22.58
+    },
+    {
+      "word": "loom",
+      "start": 22.58,
+      "end": 22.86
+    },
+    {
+      "word": "demo",
+      "start": 22.86,
+      "end": 23.18
+    },
+    {
+      "word": "recordings",
+      "start": 23.18,
+      "end": 23.66
+    },
+    {
+      "word": "into",
+      "start": 23.66,
+      "end": 24.0
+    },
+    {
+      "word": "ex",
+      "start": 24.0,
+      "end": 24.3
+    },
+    {
+      "word": "-threads",
+      "start": 24.3,
+      "end": 24.98
+    },
+    {
+      "word": "and",
+      "start": 24.98,
+      "end": 25.14
+    },
+    {
+      "word": "scheduled",
+      "start": 25.14,
+      "end": 25.54
+    },
+    {
+      "word": "linked",
+      "start": 25.54,
+      "end": 25.9
+    },
+    {
+      "word": "in",
+      "start": 25.9,
+      "end": 26.18
+    },
+    {
+      "word": "posts.",
+      "start": 26.18,
+      "end": 26.58
+    },
+    {
+      "word": "You",
+      "start": 27.14,
+      "end": 27.3
+    },
+    {
+      "word": "drive",
+      "start": 27.3,
+      "end": 27.64
+    },
+    {
+      "word": "consistent",
+      "start": 27.64,
+      "end": 28.3
+    },
+    {
+      "word": "inbound",
+      "start": 28.3,
+      "end": 28.88
+    },
+    {
+      "word": "customer",
+      "start": 28.88,
+      "end": 29.36
+    },
+    {
+      "word": "trials",
+      "start": 29.36,
+      "end": 29.82
+    },
+    {
+      "word": "with",
+      "start": 29.82,
+      "end": 30.16
+    },
+    {
+      "word": "zero",
+      "start": 30.16,
+      "end": 30.66
+    },
+    {
+      "word": "ongoing",
+      "start": 30.66,
+      "end": 31.06
+    },
+    {
+      "word": "friction.",
+      "start": 31.06,
+      "end": 31.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The founder distribution system that drives thousands of organic signups.",
+      "line2": "REPURPOSE FOUNDER CONTENT",
+      "tag": "\ud83d\uded1 Founder personal brand content repurposing engine for LinkedIn and X",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Founder personal brand content repurposing engine for LinkedIn and X",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Founder personal brand content repurposing engine for LinkedIn and X",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Founder personal brand content repurposing engine for LinkedIn and X",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

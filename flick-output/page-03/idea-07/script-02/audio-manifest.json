@@ -1,0 +1,401 @@
+{
+  "page": "page-03",
+  "idea": "Automated bookkeeper that tracks side hustle income vs expenses",
+  "text": "This tool syncs your PayPal, Stripe, and bank transactions into a neat profit report. Logging into four gateways every weekend to download CSV files and match fees is exhausting. Currency conversions and payment processing fees slip through, distorting your actual profit margins unnoticed. Link Plaid webhooks with QuickBooks to categorize digital income, ad spend, and software fees automatically. You monitor real-time profits with zero bookkeeping headache.",
+  "duration": 25.877,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "tool",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "word": "syncs",
+      "start": 0.44,
+      "end": 0.62
+    },
+    {
+      "word": "your",
+      "start": 0.62,
+      "end": 0.84
+    },
+    {
+      "word": "PayPal,",
+      "start": 0.84,
+      "end": 1.3
+    },
+    {
+      "word": "Stripe",
+      "start": 1.6,
+      "end": 1.88
+    },
+    {
+      "word": "and",
+      "start": 1.88,
+      "end": 2.08
+    },
+    {
+      "word": "bank",
+      "start": 2.08,
+      "end": 2.28
+    },
+    {
+      "word": "transactions",
+      "start": 2.28,
+      "end": 2.8
+    },
+    {
+      "word": "into",
+      "start": 2.8,
+      "end": 3.1
+    },
+    {
+      "word": "a",
+      "start": 3.1,
+      "end": 3.2
+    },
+    {
+      "word": "neat",
+      "start": 3.2,
+      "end": 3.4
+    },
+    {
+      "word": "profit",
+      "start": 3.4,
+      "end": 3.66
+    },
+    {
+      "word": "report.",
+      "start": 3.66,
+      "end": 4.3
+    },
+    {
+      "word": "Logging",
+      "start": 4.8,
+      "end": 4.98
+    },
+    {
+      "word": "into",
+      "start": 4.98,
+      "end": 5.22
+    },
+    {
+      "word": "four",
+      "start": 5.22,
+      "end": 5.44
+    },
+    {
+      "word": "gateways",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "word": "every",
+      "start": 5.84,
+      "end": 6.18
+    },
+    {
+      "word": "weekend",
+      "start": 6.18,
+      "end": 6.5
+    },
+    {
+      "word": "to",
+      "start": 6.5,
+      "end": 6.92
+    },
+    {
+      "word": "download",
+      "start": 6.92,
+      "end": 7.08
+    },
+    {
+      "word": "CSV",
+      "start": 7.08,
+      "end": 7.64
+    },
+    {
+      "word": "files",
+      "start": 7.64,
+      "end": 8.2
+    },
+    {
+      "word": "and",
+      "start": 8.2,
+      "end": 8.44
+    },
+    {
+      "word": "match",
+      "start": 8.44,
+      "end": 8.7
+    },
+    {
+      "word": "fees",
+      "start": 8.7,
+      "end": 8.96
+    },
+    {
+      "word": "is",
+      "start": 8.96,
+      "end": 9.22
+    },
+    {
+      "word": "exhausting.",
+      "start": 9.22,
+      "end": 9.7
+    },
+    {
+      "word": "Currency",
+      "start": 10.42,
+      "end": 10.48
+    },
+    {
+      "word": "conversions",
+      "start": 10.48,
+      "end": 10.94
+    },
+    {
+      "word": "and",
+      "start": 10.94,
+      "end": 11.24
+    },
+    {
+      "word": "payment",
+      "start": 11.24,
+      "end": 11.44
+    },
+    {
+      "word": "processing",
+      "start": 11.44,
+      "end": 11.84
+    },
+    {
+      "word": "fees",
+      "start": 11.84,
+      "end": 12.26
+    },
+    {
+      "word": "slip",
+      "start": 12.26,
+      "end": 12.52
+    },
+    {
+      "word": "through,",
+      "start": 12.52,
+      "end": 13.18
+    },
+    {
+      "word": "distorting",
+      "start": 13.32,
+      "end": 13.6
+    },
+    {
+      "word": "your",
+      "start": 13.6,
+      "end": 13.92
+    },
+    {
+      "word": "actual",
+      "start": 13.92,
+      "end": 14.2
+    },
+    {
+      "word": "profit",
+      "start": 14.2,
+      "end": 14.54
+    },
+    {
+      "word": "margins",
+      "start": 14.54,
+      "end": 14.92
+    },
+    {
+      "word": "unnoticed.",
+      "start": 14.92,
+      "end": 15.52
+    },
+    {
+      "word": "Link",
+      "start": 16.18,
+      "end": 16.3
+    },
+    {
+      "word": "plaid",
+      "start": 16.3,
+      "end": 16.58
+    },
+    {
+      "word": "webhooks",
+      "start": 16.58,
+      "end": 17.0
+    },
+    {
+      "word": "with",
+      "start": 17.0,
+      "end": 17.22
+    },
+    {
+      "word": "quick",
+      "start": 17.22,
+      "end": 17.42
+    },
+    {
+      "word": "books",
+      "start": 17.42,
+      "end": 17.66
+    },
+    {
+      "word": "to",
+      "start": 17.66,
+      "end": 18.02
+    },
+    {
+      "word": "categorize",
+      "start": 18.02,
+      "end": 18.48
+    },
+    {
+      "word": "digital",
+      "start": 18.48,
+      "end": 18.82
+    },
+    {
+      "word": "income,",
+      "start": 18.82,
+      "end": 19.38
+    },
+    {
+      "word": "ad",
+      "start": 19.74,
+      "end": 20.0
+    },
+    {
+      "word": "spend,",
+      "start": 20.0,
+      "end": 20.26
+    },
+    {
+      "word": "and",
+      "start": 20.66,
+      "end": 20.98
+    },
+    {
+      "word": "software",
+      "start": 20.98,
+      "end": 21.14
+    },
+    {
+      "word": "fees",
+      "start": 21.14,
+      "end": 21.62
+    },
+    {
+      "word": "automatically.",
+      "start": 21.62,
+      "end": 22.16
+    },
+    {
+      "word": "You",
+      "start": 22.16,
+      "end": 22.92
+    },
+    {
+      "word": "monitor",
+      "start": 22.92,
+      "end": 23.22
+    },
+    {
+      "word": "real",
+      "start": 23.22,
+      "end": 23.58
+    },
+    {
+      "word": "-time",
+      "start": 23.58,
+      "end": 23.9
+    },
+    {
+      "word": "profits",
+      "start": 23.9,
+      "end": 24.22
+    },
+    {
+      "word": "with",
+      "start": 24.22,
+      "end": 24.6
+    },
+    {
+      "word": "zero",
+      "start": 24.6,
+      "end": 24.98
+    },
+    {
+      "word": "bookkeeping",
+      "start": 24.98,
+      "end": 25.46
+    },
+    {
+      "word": "headache.",
+      "start": 25.46,
+      "end": 25.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "This tool syncs your PayPal, Stripe, and bank transactions into a neat profit report.",
+      "line2": "TRACK HUSTLE EXPENSES",
+      "tag": "\ud83d\uded1 Automated bookkeeper that tracks side hustle income vs expenses",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated bookkeeper that tracks side hustle income vs expenses",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated bookkeeper that tracks side hustle income vs expenses",
+        "subtitle": "Automated bookkeeper that tracks side hustle income vs expenses"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated bookkeeper that tracks side hustle income vs expenses"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated bookkeeper that tracks side hustle income vs expenses"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated bookkeeper that tracks side hustle income vs expenses",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

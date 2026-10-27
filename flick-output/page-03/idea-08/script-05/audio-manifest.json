@@ -1,0 +1,401 @@
+{
+  "page": "page-03",
+  "idea": "Automated digital course access and student onboarding sequence",
+  "text": "Scale your knowledge business into a smooth passive income engine. Creators dream of passive income but get trapped manually updating student rosters and sending login instructions. When manual onboarding limits student capacity, scaling paid traffic drowns your business in administrative tickets. Deploy a Make pipeline connecting checkout to Membervault and Discord, provisioning roles and private channels instantly. You enroll thousands of paying students with zero operational drag.",
+  "duration": 28.751,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Scale",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "your",
+      "start": 0.32,
+      "end": 0.58
+    },
+    {
+      "word": "knowledge",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "business",
+      "start": 0.86,
+      "end": 1.28
+    },
+    {
+      "word": "into",
+      "start": 1.28,
+      "end": 1.58
+    },
+    {
+      "word": "a",
+      "start": 1.58,
+      "end": 1.84
+    },
+    {
+      "word": "smooth,",
+      "start": 1.84,
+      "end": 2.18
+    },
+    {
+      "word": "passive",
+      "start": 2.34,
+      "end": 2.6
+    },
+    {
+      "word": "income",
+      "start": 2.6,
+      "end": 3.06
+    },
+    {
+      "word": "engine.",
+      "start": 3.06,
+      "end": 3.6
+    },
+    {
+      "word": "Creators",
+      "start": 4.08,
+      "end": 4.5
+    },
+    {
+      "word": "dream",
+      "start": 4.5,
+      "end": 4.84
+    },
+    {
+      "word": "of",
+      "start": 4.84,
+      "end": 5.08
+    },
+    {
+      "word": "passive",
+      "start": 5.08,
+      "end": 5.44
+    },
+    {
+      "word": "income,",
+      "start": 5.44,
+      "end": 6.0
+    },
+    {
+      "word": "but",
+      "start": 6.18,
+      "end": 6.28
+    },
+    {
+      "word": "get",
+      "start": 6.28,
+      "end": 6.5
+    },
+    {
+      "word": "trapped",
+      "start": 6.5,
+      "end": 6.82
+    },
+    {
+      "word": "manually",
+      "start": 6.82,
+      "end": 7.28
+    },
+    {
+      "word": "updating",
+      "start": 7.28,
+      "end": 7.76
+    },
+    {
+      "word": "student",
+      "start": 7.76,
+      "end": 8.16
+    },
+    {
+      "word": "rosters",
+      "start": 8.16,
+      "end": 8.58
+    },
+    {
+      "word": "and",
+      "start": 8.58,
+      "end": 9.2
+    },
+    {
+      "word": "sending",
+      "start": 9.2,
+      "end": 9.56
+    },
+    {
+      "word": "login",
+      "start": 9.56,
+      "end": 9.9
+    },
+    {
+      "word": "instructions.",
+      "start": 9.9,
+      "end": 10.58
+    },
+    {
+      "word": "When",
+      "start": 11.26,
+      "end": 11.44
+    },
+    {
+      "word": "manual",
+      "start": 11.44,
+      "end": 11.88
+    },
+    {
+      "word": "onboarding",
+      "start": 11.88,
+      "end": 12.5
+    },
+    {
+      "word": "limits",
+      "start": 12.5,
+      "end": 12.7
+    },
+    {
+      "word": "student",
+      "start": 12.7,
+      "end": 13.12
+    },
+    {
+      "word": "capacity,",
+      "start": 13.12,
+      "end": 13.66
+    },
+    {
+      "word": "scaling",
+      "start": 14.56,
+      "end": 14.56
+    },
+    {
+      "word": "paid",
+      "start": 14.56,
+      "end": 14.94
+    },
+    {
+      "word": "traffic",
+      "start": 14.94,
+      "end": 15.32
+    },
+    {
+      "word": "drowns",
+      "start": 15.32,
+      "end": 15.78
+    },
+    {
+      "word": "your",
+      "start": 15.78,
+      "end": 15.98
+    },
+    {
+      "word": "business",
+      "start": 15.98,
+      "end": 16.32
+    },
+    {
+      "word": "in",
+      "start": 16.32,
+      "end": 16.62
+    },
+    {
+      "word": "administrative",
+      "start": 16.62,
+      "end": 17.0
+    },
+    {
+      "word": "tickets.",
+      "start": 17.0,
+      "end": 17.6
+    },
+    {
+      "word": "Deploy",
+      "start": 18.06,
+      "end": 18.22
+    },
+    {
+      "word": "a",
+      "start": 18.22,
+      "end": 18.42
+    },
+    {
+      "word": "make",
+      "start": 18.42,
+      "end": 18.62
+    },
+    {
+      "word": "pipeline",
+      "start": 18.62,
+      "end": 19.08
+    },
+    {
+      "word": "connecting",
+      "start": 19.08,
+      "end": 19.62
+    },
+    {
+      "word": "checkout",
+      "start": 19.62,
+      "end": 20.0
+    },
+    {
+      "word": "to",
+      "start": 20.0,
+      "end": 20.32
+    },
+    {
+      "word": "Member",
+      "start": 20.32,
+      "end": 20.5
+    },
+    {
+      "word": "Vault",
+      "start": 20.5,
+      "end": 20.78
+    },
+    {
+      "word": "and",
+      "start": 20.78,
+      "end": 21.0
+    },
+    {
+      "word": "Discord,",
+      "start": 21.0,
+      "end": 21.44
+    },
+    {
+      "word": "provisioning",
+      "start": 22.04,
+      "end": 22.34
+    },
+    {
+      "word": "roles",
+      "start": 22.34,
+      "end": 22.72
+    },
+    {
+      "word": "and",
+      "start": 22.72,
+      "end": 22.98
+    },
+    {
+      "word": "private",
+      "start": 22.98,
+      "end": 23.32
+    },
+    {
+      "word": "channels",
+      "start": 23.32,
+      "end": 23.72
+    },
+    {
+      "word": "instantly.",
+      "start": 23.72,
+      "end": 24.32
+    },
+    {
+      "word": "You",
+      "start": 24.32,
+      "end": 25.08
+    },
+    {
+      "word": "enroll",
+      "start": 25.08,
+      "end": 25.42
+    },
+    {
+      "word": "thousands",
+      "start": 25.42,
+      "end": 26.04
+    },
+    {
+      "word": "of",
+      "start": 26.04,
+      "end": 26.32
+    },
+    {
+      "word": "paying",
+      "start": 26.32,
+      "end": 26.52
+    },
+    {
+      "word": "students",
+      "start": 26.52,
+      "end": 26.94
+    },
+    {
+      "word": "with",
+      "start": 26.94,
+      "end": 27.24
+    },
+    {
+      "word": "zero",
+      "start": 27.24,
+      "end": 27.68
+    },
+    {
+      "word": "operational",
+      "start": 27.68,
+      "end": 28.26
+    },
+    {
+      "word": "drag.",
+      "start": 28.26,
+      "end": 28.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Scale your knowledge business into a smooth passive income engine.",
+      "line2": "ONBOARD COURSE STUDENTS",
+      "tag": "\ud83d\uded1 Automated digital course access and student onboarding sequence",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated digital course access and student onboarding sequence",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated digital course access and student onboarding sequence",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated digital course access and student onboarding sequence"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated digital course access and student onboarding sequence",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

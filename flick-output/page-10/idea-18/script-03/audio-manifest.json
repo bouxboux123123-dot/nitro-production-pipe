@@ -1,0 +1,411 @@
+{
+  "page": "page-10",
+  "idea": "Stripe Billing 2.0 updates for metered usage and automated tax",
+  "text": "These new Stripe features completely simplify recurring customer invoices for modern agencies. Chasing unpaid invoices and manually adjusting prorated contract changes eats up dozens of billable hours every month. Outdated accounting software lacks automatic retries, causing failed credit card payments to churn valuable clients. Stripe Smart Retries uses machine learning to recover failed charges while customer portals allow self-service card updates. You get invoices paid in twenty-four hours.",
+  "duration": 31.482,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "These",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "new",
+      "start": 0.22,
+      "end": 0.54
+    },
+    {
+      "word": "Stripe",
+      "start": 0.54,
+      "end": 0.8
+    },
+    {
+      "word": "features",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "word": "completely",
+      "start": 1.2,
+      "end": 1.86
+    },
+    {
+      "word": "simplify",
+      "start": 1.86,
+      "end": 2.44
+    },
+    {
+      "word": "recurring",
+      "start": 2.44,
+      "end": 2.96
+    },
+    {
+      "word": "customer",
+      "start": 2.96,
+      "end": 3.52
+    },
+    {
+      "word": "invoices",
+      "start": 3.52,
+      "end": 4.02
+    },
+    {
+      "word": "for",
+      "start": 4.02,
+      "end": 4.48
+    },
+    {
+      "word": "modern",
+      "start": 4.48,
+      "end": 4.82
+    },
+    {
+      "word": "agencies,",
+      "start": 4.82,
+      "end": 5.6
+    },
+    {
+      "word": "chasing",
+      "start": 6.28,
+      "end": 6.52
+    },
+    {
+      "word": "unpaid",
+      "start": 6.52,
+      "end": 7.06
+    },
+    {
+      "word": "invoices,",
+      "start": 7.06,
+      "end": 7.7
+    },
+    {
+      "word": "and",
+      "start": 8.04,
+      "end": 8.2
+    },
+    {
+      "word": "manually",
+      "start": 8.2,
+      "end": 8.58
+    },
+    {
+      "word": "adjusting",
+      "start": 8.58,
+      "end": 9.2
+    },
+    {
+      "word": "pro",
+      "start": 9.2,
+      "end": 9.44
+    },
+    {
+      "word": "-rated",
+      "start": 9.44,
+      "end": 9.68
+    },
+    {
+      "word": "contract",
+      "start": 9.68,
+      "end": 10.18
+    },
+    {
+      "word": "changes",
+      "start": 10.18,
+      "end": 10.76
+    },
+    {
+      "word": "eats",
+      "start": 10.76,
+      "end": 11.36
+    },
+    {
+      "word": "up",
+      "start": 11.36,
+      "end": 11.58
+    },
+    {
+      "word": "dozens",
+      "start": 11.58,
+      "end": 11.92
+    },
+    {
+      "word": "of",
+      "start": 11.92,
+      "end": 12.28
+    },
+    {
+      "word": "billable",
+      "start": 12.28,
+      "end": 12.58
+    },
+    {
+      "word": "hours",
+      "start": 12.58,
+      "end": 12.96
+    },
+    {
+      "word": "every",
+      "start": 12.96,
+      "end": 13.3
+    },
+    {
+      "word": "month.",
+      "start": 13.3,
+      "end": 13.94
+    },
+    {
+      "word": "Outdated",
+      "start": 14.08,
+      "end": 14.32
+    },
+    {
+      "word": "accounting",
+      "start": 14.32,
+      "end": 14.86
+    },
+    {
+      "word": "software",
+      "start": 14.86,
+      "end": 15.32
+    },
+    {
+      "word": "lacks",
+      "start": 15.32,
+      "end": 15.8
+    },
+    {
+      "word": "automatic",
+      "start": 15.8,
+      "end": 16.3
+    },
+    {
+      "word": "retries,",
+      "start": 16.3,
+      "end": 16.82
+    },
+    {
+      "word": "causing",
+      "start": 17.24,
+      "end": 17.66
+    },
+    {
+      "word": "failed",
+      "start": 17.66,
+      "end": 18.04
+    },
+    {
+      "word": "credit",
+      "start": 18.04,
+      "end": 18.32
+    },
+    {
+      "word": "card",
+      "start": 18.32,
+      "end": 18.68
+    },
+    {
+      "word": "payments",
+      "start": 18.68,
+      "end": 18.94
+    },
+    {
+      "word": "to",
+      "start": 18.94,
+      "end": 19.24
+    },
+    {
+      "word": "churn",
+      "start": 19.24,
+      "end": 19.5
+    },
+    {
+      "word": "valuable",
+      "start": 19.5,
+      "end": 20.0
+    },
+    {
+      "word": "clients.",
+      "start": 20.0,
+      "end": 20.62
+    },
+    {
+      "word": "Stripe",
+      "start": 21.44,
+      "end": 21.6
+    },
+    {
+      "word": "smart",
+      "start": 21.6,
+      "end": 21.98
+    },
+    {
+      "word": "retries",
+      "start": 21.98,
+      "end": 22.5
+    },
+    {
+      "word": "uses",
+      "start": 22.5,
+      "end": 22.86
+    },
+    {
+      "word": "machine",
+      "start": 22.86,
+      "end": 23.3
+    },
+    {
+      "word": "learning",
+      "start": 23.3,
+      "end": 23.66
+    },
+    {
+      "word": "to",
+      "start": 23.66,
+      "end": 23.9
+    },
+    {
+      "word": "recover",
+      "start": 23.9,
+      "end": 24.3
+    },
+    {
+      "word": "failed",
+      "start": 24.3,
+      "end": 24.68
+    },
+    {
+      "word": "charges,",
+      "start": 24.68,
+      "end": 25.22
+    },
+    {
+      "word": "while",
+      "start": 25.5,
+      "end": 25.76
+    },
+    {
+      "word": "customer",
+      "start": 25.76,
+      "end": 26.12
+    },
+    {
+      "word": "portals",
+      "start": 26.12,
+      "end": 26.62
+    },
+    {
+      "word": "allow",
+      "start": 26.62,
+      "end": 27.04
+    },
+    {
+      "word": "self",
+      "start": 27.04,
+      "end": 27.42
+    },
+    {
+      "word": "-service",
+      "start": 27.42,
+      "end": 27.74
+    },
+    {
+      "word": "card",
+      "start": 27.74,
+      "end": 28.1
+    },
+    {
+      "word": "updates.",
+      "start": 28.1,
+      "end": 28.52
+    },
+    {
+      "word": "You",
+      "start": 28.52,
+      "end": 29.1
+    },
+    {
+      "word": "get",
+      "start": 29.1,
+      "end": 29.36
+    },
+    {
+      "word": "invoices",
+      "start": 29.36,
+      "end": 29.92
+    },
+    {
+      "word": "paid",
+      "start": 29.92,
+      "end": 30.22
+    },
+    {
+      "word": "in",
+      "start": 30.22,
+      "end": 30.54
+    },
+    {
+      "word": "24",
+      "start": 30.54,
+      "end": 30.9
+    },
+    {
+      "word": "hours.",
+      "start": 30.9,
+      "end": 31.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new Stripe features that simplify recurring customer invoices.",
+      "line2": "STRIPE METERED BILLING 2.0",
+      "tag": "\ud83d\uded1 Stripe Billing 2.0 updates for metered usage and automated tax",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Stripe Billing 2.0 updates for metered usage and automated tax",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Stripe Billing 2.0 updates for metered usage and automated tax",
+        "subtitle": "Stripe Billing 2.0 updates for metered usage and automated tax"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Stripe Billing 2.0 updates for metered usage and automated tax"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Stripe Billing 2.0 updates for metered usage and automated tax"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Stripe Billing 2.0 updates for metered usage and automated tax",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

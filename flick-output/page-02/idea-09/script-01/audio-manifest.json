@@ -1,0 +1,406 @@
+{
+  "page": "page-02",
+  "idea": "AI email assistant for following up on overdue freelance payments",
+  "text": "How to get overdue client invoices paid today without sounding desperate. Chasing late retainers drains your energy while drafting awkward manual reminders that jeopardize client relationships. Payments stall when net-thirty terms lapse without a structured escalation cadence to enforce firm deadlines. Connecting FreshBooks to Zapier triggers personalized reminder sequences drafted by Claude the second an invoice passes due. You recover trapped cash flow while protecting client goodwill.",
+  "duration": 29.135,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.3
+    },
+    {
+      "word": "get",
+      "start": 0.3,
+      "end": 0.52
+    },
+    {
+      "word": "overdue",
+      "start": 0.52,
+      "end": 0.92
+    },
+    {
+      "word": "client",
+      "start": 0.92,
+      "end": 1.26
+    },
+    {
+      "word": "invoices",
+      "start": 1.26,
+      "end": 1.84
+    },
+    {
+      "word": "paid",
+      "start": 1.84,
+      "end": 2.16
+    },
+    {
+      "word": "today",
+      "start": 2.16,
+      "end": 2.56
+    },
+    {
+      "word": "without",
+      "start": 2.56,
+      "end": 2.98
+    },
+    {
+      "word": "sounding",
+      "start": 2.98,
+      "end": 3.4
+    },
+    {
+      "word": "desperate.",
+      "start": 3.4,
+      "end": 4.02
+    },
+    {
+      "word": "Chasing",
+      "start": 4.62,
+      "end": 4.82
+    },
+    {
+      "word": "late",
+      "start": 4.82,
+      "end": 5.16
+    },
+    {
+      "word": "retainers",
+      "start": 5.16,
+      "end": 5.74
+    },
+    {
+      "word": "drains",
+      "start": 5.74,
+      "end": 6.04
+    },
+    {
+      "word": "your",
+      "start": 6.04,
+      "end": 6.3
+    },
+    {
+      "word": "energy",
+      "start": 6.3,
+      "end": 6.56
+    },
+    {
+      "word": "while",
+      "start": 6.56,
+      "end": 7.06
+    },
+    {
+      "word": "drafting",
+      "start": 7.06,
+      "end": 7.48
+    },
+    {
+      "word": "awkward",
+      "start": 7.48,
+      "end": 7.94
+    },
+    {
+      "word": "manual",
+      "start": 7.94,
+      "end": 8.36
+    },
+    {
+      "word": "reminders",
+      "start": 8.36,
+      "end": 8.8
+    },
+    {
+      "word": "that",
+      "start": 8.8,
+      "end": 9.34
+    },
+    {
+      "word": "jeopardize",
+      "start": 9.34,
+      "end": 10.0
+    },
+    {
+      "word": "client",
+      "start": 10.0,
+      "end": 10.36
+    },
+    {
+      "word": "relationships.",
+      "start": 10.36,
+      "end": 11.06
+    },
+    {
+      "word": "Payment",
+      "start": 11.78,
+      "end": 11.78
+    },
+    {
+      "word": "stall",
+      "start": 11.78,
+      "end": 12.34
+    },
+    {
+      "word": "when",
+      "start": 12.34,
+      "end": 12.54
+    },
+    {
+      "word": "net",
+      "start": 12.54,
+      "end": 12.74
+    },
+    {
+      "word": "30",
+      "start": 12.74,
+      "end": 13.02
+    },
+    {
+      "word": "terms",
+      "start": 13.02,
+      "end": 13.38
+    },
+    {
+      "word": "lapse",
+      "start": 13.38,
+      "end": 13.76
+    },
+    {
+      "word": "without",
+      "start": 13.76,
+      "end": 14.14
+    },
+    {
+      "word": "a",
+      "start": 14.14,
+      "end": 14.28
+    },
+    {
+      "word": "structured",
+      "start": 14.28,
+      "end": 14.62
+    },
+    {
+      "word": "escalation",
+      "start": 14.62,
+      "end": 15.32
+    },
+    {
+      "word": "cadence",
+      "start": 15.32,
+      "end": 15.82
+    },
+    {
+      "word": "to",
+      "start": 15.82,
+      "end": 16.08
+    },
+    {
+      "word": "enforce",
+      "start": 16.08,
+      "end": 16.44
+    },
+    {
+      "word": "firm",
+      "start": 16.44,
+      "end": 16.8
+    },
+    {
+      "word": "deadlines.",
+      "start": 16.8,
+      "end": 17.34
+    },
+    {
+      "word": "Connecting",
+      "start": 18.02,
+      "end": 18.5
+    },
+    {
+      "word": "fresh",
+      "start": 18.5,
+      "end": 18.78
+    },
+    {
+      "word": "books",
+      "start": 18.78,
+      "end": 19.06
+    },
+    {
+      "word": "to",
+      "start": 19.06,
+      "end": 19.26
+    },
+    {
+      "word": "Zapier",
+      "start": 19.26,
+      "end": 19.68
+    },
+    {
+      "word": "triggers,",
+      "start": 19.68,
+      "end": 20.16
+    },
+    {
+      "word": "personalized",
+      "start": 20.96,
+      "end": 20.96
+    },
+    {
+      "word": "reminder",
+      "start": 20.96,
+      "end": 21.44
+    },
+    {
+      "word": "sequences,",
+      "start": 21.44,
+      "end": 22.18
+    },
+    {
+      "word": "drafted",
+      "start": 22.78,
+      "end": 22.88
+    },
+    {
+      "word": "by",
+      "start": 22.88,
+      "end": 23.26
+    },
+    {
+      "word": "clawed",
+      "start": 23.26,
+      "end": 23.54
+    },
+    {
+      "word": "the",
+      "start": 23.54,
+      "end": 23.72
+    },
+    {
+      "word": "second",
+      "start": 23.72,
+      "end": 24.04
+    },
+    {
+      "word": "and",
+      "start": 24.04,
+      "end": 24.22
+    },
+    {
+      "word": "invoice",
+      "start": 24.22,
+      "end": 24.56
+    },
+    {
+      "word": "passes",
+      "start": 24.56,
+      "end": 25.02
+    },
+    {
+      "word": "due.",
+      "start": 25.02,
+      "end": 25.56
+    },
+    {
+      "word": "You",
+      "start": 25.92,
+      "end": 26.08
+    },
+    {
+      "word": "recover",
+      "start": 26.08,
+      "end": 26.42
+    },
+    {
+      "word": "trapped",
+      "start": 26.42,
+      "end": 26.92
+    },
+    {
+      "word": "cash",
+      "start": 26.92,
+      "end": 27.32
+    },
+    {
+      "word": "flow",
+      "start": 27.32,
+      "end": 27.58
+    },
+    {
+      "word": "while",
+      "start": 27.58,
+      "end": 27.88
+    },
+    {
+      "word": "protecting",
+      "start": 27.88,
+      "end": 28.18
+    },
+    {
+      "word": "client",
+      "start": 28.18,
+      "end": 28.68
+    },
+    {
+      "word": "goodwill.",
+      "start": 28.68,
+      "end": 29.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "How to get overdue client invoices paid today without sounding desperate.",
+      "line2": "COLLECT OVERDUE INVOICES",
+      "tag": "\ud83d\uded1 AI email assistant for following up on overdue freelance payments",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "Voice-to-Invoice Stream: AI email assistant for following up on overdue freelance payments",
+      "primitive": "VoiceWaveToReceipt",
+      "props": {
+        "title": "Voice-to-Invoice Stream: AI email assistant for following up on overdue freelance payments",
+        "subtitle": "AI email assistant for following up on overdue freelance payments"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Overdue Payment Chaser",
+      "primitive": "OverdueChaserTimeline",
+      "props": {
+        "title": "Overdue Payment Chaser",
+        "subtitle": "AI email assistant for following up on overdue freelance payments"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Retainer Value Conversion",
+      "primitive": "HourlyToRetainerConverter",
+      "props": {
+        "title": "Retainer Value Conversion",
+        "subtitle": "AI email assistant for following up on overdue freelance payments"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant 24H Auto-Deposit",
+      "primitive": "StripePayoutCountdown",
+      "props": {
+        "title": "Instant 24H Auto-Deposit",
+        "subtitle": "AI email assistant for following up on overdue freelance payments",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

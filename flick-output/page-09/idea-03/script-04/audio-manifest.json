@@ -1,0 +1,386 @@
+{
+  "page": "page-09",
+  "idea": "Claude vs ChatGPT: which AI assistant writes better business copy",
+  "text": "The definitive comparison between Claude Sonnet and GPT-4o. GPT-4o excels at real-time audio and fast web browsing, but it frequently hallucinates complex coding logic. Debugging syntactically incorrect code snippets stalls development sprints and frustrates engineering teams. Claude Sonnet dominates code generation and logical reasoning with its superior Artifacts interface and contextual accuracy. Use Claude for coding and GPT-4o for multimodal search.",
+  "duration": 30.735,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "definitive",
+      "start": 0.22,
+      "end": 0.58
+    },
+    {
+      "word": "comparison",
+      "start": 0.58,
+      "end": 1.14
+    },
+    {
+      "word": "between",
+      "start": 1.14,
+      "end": 1.64
+    },
+    {
+      "word": "Claude",
+      "start": 1.64,
+      "end": 2.06
+    },
+    {
+      "word": "Sonnet",
+      "start": 2.06,
+      "end": 2.36
+    },
+    {
+      "word": "and",
+      "start": 2.36,
+      "end": 2.64
+    },
+    {
+      "word": "GPT",
+      "start": 2.64,
+      "end": 3.14
+    },
+    {
+      "word": "-40.",
+      "start": 3.14,
+      "end": 3.74
+    },
+    {
+      "word": "GPT",
+      "start": 4.3,
+      "end": 4.94
+    },
+    {
+      "word": "-40",
+      "start": 4.94,
+      "end": 5.48
+    },
+    {
+      "word": "excels",
+      "start": 5.48,
+      "end": 6.3
+    },
+    {
+      "word": "at",
+      "start": 6.3,
+      "end": 6.42
+    },
+    {
+      "word": "real",
+      "start": 6.42,
+      "end": 6.7
+    },
+    {
+      "word": "-time",
+      "start": 6.7,
+      "end": 6.98
+    },
+    {
+      "word": "audio",
+      "start": 6.98,
+      "end": 7.38
+    },
+    {
+      "word": "and",
+      "start": 7.38,
+      "end": 7.62
+    },
+    {
+      "word": "fast",
+      "start": 7.62,
+      "end": 7.96
+    },
+    {
+      "word": "web",
+      "start": 7.96,
+      "end": 8.18
+    },
+    {
+      "word": "browsing,",
+      "start": 8.18,
+      "end": 8.64
+    },
+    {
+      "word": "but",
+      "start": 9.02,
+      "end": 9.2
+    },
+    {
+      "word": "it",
+      "start": 9.2,
+      "end": 9.7
+    },
+    {
+      "word": "frequently",
+      "start": 9.7,
+      "end": 9.78
+    },
+    {
+      "word": "hallucinates",
+      "start": 9.78,
+      "end": 10.46
+    },
+    {
+      "word": "complex",
+      "start": 10.46,
+      "end": 11.02
+    },
+    {
+      "word": "coding",
+      "start": 11.02,
+      "end": 11.44
+    },
+    {
+      "word": "logic.",
+      "start": 11.44,
+      "end": 12.02
+    },
+    {
+      "word": "Debugging",
+      "start": 12.68,
+      "end": 13.06
+    },
+    {
+      "word": "syntactically",
+      "start": 13.06,
+      "end": 13.74
+    },
+    {
+      "word": "incorrect",
+      "start": 13.74,
+      "end": 14.24
+    },
+    {
+      "word": "code",
+      "start": 14.24,
+      "end": 14.66
+    },
+    {
+      "word": "snippets",
+      "start": 14.66,
+      "end": 15.04
+    },
+    {
+      "word": "stalls",
+      "start": 15.04,
+      "end": 15.46
+    },
+    {
+      "word": "development",
+      "start": 15.46,
+      "end": 15.9
+    },
+    {
+      "word": "sprints",
+      "start": 15.9,
+      "end": 16.54
+    },
+    {
+      "word": "and",
+      "start": 16.54,
+      "end": 16.72
+    },
+    {
+      "word": "frustrates",
+      "start": 16.72,
+      "end": 17.24
+    },
+    {
+      "word": "engineering",
+      "start": 17.24,
+      "end": 17.66
+    },
+    {
+      "word": "teams.",
+      "start": 17.66,
+      "end": 18.24
+    },
+    {
+      "word": "Claude",
+      "start": 18.92,
+      "end": 18.94
+    },
+    {
+      "word": "Sonnet",
+      "start": 18.94,
+      "end": 19.32
+    },
+    {
+      "word": "dominates",
+      "start": 19.32,
+      "end": 19.84
+    },
+    {
+      "word": "code",
+      "start": 19.84,
+      "end": 20.32
+    },
+    {
+      "word": "generation",
+      "start": 20.32,
+      "end": 20.82
+    },
+    {
+      "word": "and",
+      "start": 20.82,
+      "end": 21.26
+    },
+    {
+      "word": "logical",
+      "start": 21.26,
+      "end": 21.72
+    },
+    {
+      "word": "reasoning",
+      "start": 21.72,
+      "end": 22.18
+    },
+    {
+      "word": "with",
+      "start": 22.18,
+      "end": 22.62
+    },
+    {
+      "word": "its",
+      "start": 22.62,
+      "end": 22.88
+    },
+    {
+      "word": "superior",
+      "start": 22.88,
+      "end": 23.32
+    },
+    {
+      "word": "artifacts",
+      "start": 23.32,
+      "end": 23.84
+    },
+    {
+      "word": "interface",
+      "start": 23.84,
+      "end": 24.52
+    },
+    {
+      "word": "and",
+      "start": 24.52,
+      "end": 24.98
+    },
+    {
+      "word": "contextual",
+      "start": 24.98,
+      "end": 25.54
+    },
+    {
+      "word": "accuracy.",
+      "start": 25.54,
+      "end": 26.16
+    },
+    {
+      "word": "Use",
+      "start": 26.16,
+      "end": 27.02
+    },
+    {
+      "word": "Claude",
+      "start": 27.02,
+      "end": 27.3
+    },
+    {
+      "word": "for",
+      "start": 27.3,
+      "end": 27.54
+    },
+    {
+      "word": "coding",
+      "start": 27.54,
+      "end": 27.98
+    },
+    {
+      "word": "and",
+      "start": 27.98,
+      "end": 28.34
+    },
+    {
+      "word": "GPT",
+      "start": 28.34,
+      "end": 28.8
+    },
+    {
+      "word": "-40",
+      "start": 28.8,
+      "end": 29.22
+    },
+    {
+      "word": "for",
+      "start": 29.22,
+      "end": 29.7
+    },
+    {
+      "word": "multimodal",
+      "start": 29.7,
+      "end": 30.3
+    },
+    {
+      "word": "search.",
+      "start": 30.3,
+      "end": 30.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The definitive comparison between Claude 3.5 Sonnet and GPT-4o.",
+      "line2": "CLAUDE VS CHATGPT",
+      "tag": "\ud83d\uded1 Claude vs ChatGPT",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Claude vs ChatGPT",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Claude vs ChatGPT",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Claude vs ChatGPT",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "page": "page-10",
+  "idea": "Perplexity AI computer assistant and browser automation tools",
+  "text": "Here is why this AI tool is replacing traditional web search for professionals. Consultants waste hours sifting through pages of sponsored links and clickbait articles to find verified data. Search algorithms prioritize ad revenue over accuracy, leaving you with untrustworthy sources and stale statistics. Perplexity delivers precise synthesis backed by real-time citations, academic papers, and clean interactive tables. You get bulletproof answers in seconds.",
+  "duration": 26.667,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here's",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "why",
+      "start": 0.3,
+      "end": 0.48
+    },
+    {
+      "word": "this",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "word": "AI",
+      "start": 0.72,
+      "end": 1.1
+    },
+    {
+      "word": "tool",
+      "start": 1.1,
+      "end": 1.38
+    },
+    {
+      "word": "is",
+      "start": 1.38,
+      "end": 1.62
+    },
+    {
+      "word": "replacing",
+      "start": 1.62,
+      "end": 2.0
+    },
+    {
+      "word": "traditional",
+      "start": 2.0,
+      "end": 2.46
+    },
+    {
+      "word": "web",
+      "start": 2.46,
+      "end": 2.78
+    },
+    {
+      "word": "search",
+      "start": 2.78,
+      "end": 3.02
+    },
+    {
+      "word": "for",
+      "start": 3.02,
+      "end": 3.28
+    },
+    {
+      "word": "professionals.",
+      "start": 3.28,
+      "end": 3.82
+    },
+    {
+      "word": "Consultants",
+      "start": 4.48,
+      "end": 4.92
+    },
+    {
+      "word": "waste",
+      "start": 4.92,
+      "end": 5.26
+    },
+    {
+      "word": "hours",
+      "start": 5.26,
+      "end": 5.68
+    },
+    {
+      "word": "sifting",
+      "start": 5.68,
+      "end": 5.96
+    },
+    {
+      "word": "through",
+      "start": 5.96,
+      "end": 6.28
+    },
+    {
+      "word": "pages",
+      "start": 6.28,
+      "end": 6.52
+    },
+    {
+      "word": "of",
+      "start": 6.52,
+      "end": 6.8
+    },
+    {
+      "word": "sponsored",
+      "start": 6.8,
+      "end": 7.08
+    },
+    {
+      "word": "links",
+      "start": 7.08,
+      "end": 7.44
+    },
+    {
+      "word": "and",
+      "start": 7.44,
+      "end": 7.66
+    },
+    {
+      "word": "clickbait",
+      "start": 7.66,
+      "end": 8.0
+    },
+    {
+      "word": "articles",
+      "start": 8.0,
+      "end": 8.34
+    },
+    {
+      "word": "to",
+      "start": 8.34,
+      "end": 8.62
+    },
+    {
+      "word": "find",
+      "start": 8.62,
+      "end": 8.92
+    },
+    {
+      "word": "verified",
+      "start": 8.92,
+      "end": 9.32
+    },
+    {
+      "word": "data.",
+      "start": 9.32,
+      "end": 10.0
+    },
+    {
+      "word": "Search",
+      "start": 10.64,
+      "end": 10.68
+    },
+    {
+      "word": "algorithms",
+      "start": 10.68,
+      "end": 11.14
+    },
+    {
+      "word": "prioritize",
+      "start": 11.14,
+      "end": 11.88
+    },
+    {
+      "word": "ad",
+      "start": 11.88,
+      "end": 12.4
+    },
+    {
+      "word": "revenue",
+      "start": 12.4,
+      "end": 12.7
+    },
+    {
+      "word": "over",
+      "start": 12.7,
+      "end": 13.02
+    },
+    {
+      "word": "accuracy,",
+      "start": 13.02,
+      "end": 13.48
+    },
+    {
+      "word": "leaving",
+      "start": 14.08,
+      "end": 14.08
+    },
+    {
+      "word": "you",
+      "start": 14.08,
+      "end": 14.34
+    },
+    {
+      "word": "with",
+      "start": 14.34,
+      "end": 14.5
+    },
+    {
+      "word": "untrustworthy",
+      "start": 14.5,
+      "end": 15.08
+    },
+    {
+      "word": "sources",
+      "start": 15.08,
+      "end": 15.52
+    },
+    {
+      "word": "and",
+      "start": 15.52,
+      "end": 15.84
+    },
+    {
+      "word": "stale",
+      "start": 15.84,
+      "end": 16.06
+    },
+    {
+      "word": "statistics.",
+      "start": 16.06,
+      "end": 16.76
+    },
+    {
+      "word": "Proplexity",
+      "start": 17.36,
+      "end": 17.82
+    },
+    {
+      "word": "delivers",
+      "start": 17.82,
+      "end": 18.24
+    },
+    {
+      "word": "precise",
+      "start": 18.24,
+      "end": 18.72
+    },
+    {
+      "word": "synthesis",
+      "start": 18.72,
+      "end": 19.14
+    },
+    {
+      "word": "backed",
+      "start": 19.14,
+      "end": 19.6
+    },
+    {
+      "word": "by",
+      "start": 19.6,
+      "end": 19.84
+    },
+    {
+      "word": "real",
+      "start": 19.84,
+      "end": 20.08
+    },
+    {
+      "word": "-time",
+      "start": 20.08,
+      "end": 20.36
+    },
+    {
+      "word": "citations,",
+      "start": 20.36,
+      "end": 21.0
+    },
+    {
+      "word": "academic",
+      "start": 21.6,
+      "end": 21.84
+    },
+    {
+      "word": "papers,",
+      "start": 21.84,
+      "end": 22.4
+    },
+    {
+      "word": "and",
+      "start": 22.76,
+      "end": 22.98
+    },
+    {
+      "word": "clean",
+      "start": 22.98,
+      "end": 23.24
+    },
+    {
+      "word": "interactive",
+      "start": 23.24,
+      "end": 23.72
+    },
+    {
+      "word": "tables.",
+      "start": 23.72,
+      "end": 24.24
+    },
+    {
+      "word": "You",
+      "start": 24.72,
+      "end": 24.84
+    },
+    {
+      "word": "get",
+      "start": 24.84,
+      "end": 25.08
+    },
+    {
+      "word": "bulletproof",
+      "start": 25.08,
+      "end": 25.6
+    },
+    {
+      "word": "answers",
+      "start": 25.6,
+      "end": 25.9
+    },
+    {
+      "word": "in",
+      "start": 25.9,
+      "end": 26.22
+    },
+    {
+      "word": "seconds.",
+      "start": 26.22,
+      "end": 26.54
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Why this AI tool might replace traditional web search for professionals.",
+      "line2": "PERPLEXITY BROWSER AUTOMATION TOOLS",
+      "tag": "\ud83d\uded1 Perplexity AI computer assistant and browser automation tools",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Perplexity AI computer assistant and browser automation tools",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Perplexity AI computer assistant and browser automation tools",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Perplexity AI computer assistant and browser automation tools",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

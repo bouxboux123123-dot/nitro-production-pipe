@@ -1,0 +1,411 @@
+{
+  "page": "page-05",
+  "idea": "Notion automated database buttons for recurring task creation",
+  "text": "Supercharge your Notion workspace with these built-in database automation rules. Teams struggle with disorganized task boards because nobody remembers to assign due dates or tag department leads. Untagged tasks get buried beneath new requests, leaving urgent client tickets completely abandoned. Build internal trigger rules inside Notion that automatically apply assignees, update deadlines, and move completed items. Your workspace manages itself without third-party tools, giving you your weekends back.",
+  "duration": 31.098,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Supercharge",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "word": "your",
+      "start": 0.6,
+      "end": 0.84
+    },
+    {
+      "word": "notion",
+      "start": 0.84,
+      "end": 1.18
+    },
+    {
+      "word": "workspace",
+      "start": 1.18,
+      "end": 1.6
+    },
+    {
+      "word": "with",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "word": "these",
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "word": "built",
+      "start": 2.32,
+      "end": 2.5
+    },
+    {
+      "word": "-in",
+      "start": 2.5,
+      "end": 2.7
+    },
+    {
+      "word": "database",
+      "start": 2.7,
+      "end": 3.2
+    },
+    {
+      "word": "automation",
+      "start": 3.2,
+      "end": 3.66
+    },
+    {
+      "word": "rules.",
+      "start": 3.66,
+      "end": 4.22
+    },
+    {
+      "word": "Teams",
+      "start": 5.1,
+      "end": 5.1
+    },
+    {
+      "word": "struggle",
+      "start": 5.1,
+      "end": 5.42
+    },
+    {
+      "word": "with",
+      "start": 5.42,
+      "end": 5.78
+    },
+    {
+      "word": "disorganized",
+      "start": 5.78,
+      "end": 6.36
+    },
+    {
+      "word": "taskboards",
+      "start": 6.36,
+      "end": 7.14
+    },
+    {
+      "word": "because",
+      "start": 7.14,
+      "end": 7.74
+    },
+    {
+      "word": "nobody",
+      "start": 7.74,
+      "end": 8.14
+    },
+    {
+      "word": "remembers",
+      "start": 8.14,
+      "end": 8.56
+    },
+    {
+      "word": "to",
+      "start": 8.56,
+      "end": 8.86
+    },
+    {
+      "word": "assign",
+      "start": 8.86,
+      "end": 9.2
+    },
+    {
+      "word": "due",
+      "start": 9.2,
+      "end": 9.5
+    },
+    {
+      "word": "dates",
+      "start": 9.5,
+      "end": 9.82
+    },
+    {
+      "word": "or",
+      "start": 9.82,
+      "end": 10.3
+    },
+    {
+      "word": "tag",
+      "start": 10.3,
+      "end": 10.64
+    },
+    {
+      "word": "department",
+      "start": 10.64,
+      "end": 11.1
+    },
+    {
+      "word": "leads.",
+      "start": 11.1,
+      "end": 11.62
+    },
+    {
+      "word": "Untagged",
+      "start": 12.3,
+      "end": 12.74
+    },
+    {
+      "word": "tasks",
+      "start": 12.74,
+      "end": 13.16
+    },
+    {
+      "word": "get",
+      "start": 13.16,
+      "end": 13.48
+    },
+    {
+      "word": "buried",
+      "start": 13.48,
+      "end": 13.86
+    },
+    {
+      "word": "beneath",
+      "start": 13.86,
+      "end": 14.16
+    },
+    {
+      "word": "new",
+      "start": 14.16,
+      "end": 14.44
+    },
+    {
+      "word": "requests,",
+      "start": 14.44,
+      "end": 14.92
+    },
+    {
+      "word": "leaving",
+      "start": 15.5,
+      "end": 15.66
+    },
+    {
+      "word": "urgent",
+      "start": 15.66,
+      "end": 16.1
+    },
+    {
+      "word": "client",
+      "start": 16.1,
+      "end": 16.44
+    },
+    {
+      "word": "tickets",
+      "start": 16.44,
+      "end": 16.76
+    },
+    {
+      "word": "completely",
+      "start": 16.76,
+      "end": 17.38
+    },
+    {
+      "word": "abandoned.",
+      "start": 17.38,
+      "end": 17.9
+    },
+    {
+      "word": "Build",
+      "start": 18.28,
+      "end": 18.52
+    },
+    {
+      "word": "internal",
+      "start": 18.52,
+      "end": 19.0
+    },
+    {
+      "word": "trigger",
+      "start": 19.0,
+      "end": 19.36
+    },
+    {
+      "word": "rules",
+      "start": 19.36,
+      "end": 19.68
+    },
+    {
+      "word": "inside",
+      "start": 19.68,
+      "end": 20.2
+    },
+    {
+      "word": "notion",
+      "start": 20.2,
+      "end": 20.6
+    },
+    {
+      "word": "that",
+      "start": 20.6,
+      "end": 20.96
+    },
+    {
+      "word": "automatically",
+      "start": 20.96,
+      "end": 21.44
+    },
+    {
+      "word": "apply",
+      "start": 21.44,
+      "end": 21.96
+    },
+    {
+      "word": "a",
+      "start": 21.96,
+      "end": 22.22
+    },
+    {
+      "word": "signee's,",
+      "start": 22.22,
+      "end": 23.06
+    },
+    {
+      "word": "update",
+      "start": 23.42,
+      "end": 23.42
+    },
+    {
+      "word": "deadlines,",
+      "start": 23.42,
+      "end": 23.98
+    },
+    {
+      "word": "and",
+      "start": 24.26,
+      "end": 24.5
+    },
+    {
+      "word": "move",
+      "start": 24.5,
+      "end": 24.82
+    },
+    {
+      "word": "completed",
+      "start": 24.82,
+      "end": 25.24
+    },
+    {
+      "word": "items.",
+      "start": 25.24,
+      "end": 25.74
+    },
+    {
+      "word": "Your",
+      "start": 26.38,
+      "end": 26.56
+    },
+    {
+      "word": "workspace",
+      "start": 26.56,
+      "end": 27.0
+    },
+    {
+      "word": "manages",
+      "start": 27.0,
+      "end": 27.54
+    },
+    {
+      "word": "itself",
+      "start": 27.54,
+      "end": 28.0
+    },
+    {
+      "word": "without",
+      "start": 28.0,
+      "end": 28.36
+    },
+    {
+      "word": "third",
+      "start": 28.36,
+      "end": 28.68
+    },
+    {
+      "word": "-party",
+      "start": 28.68,
+      "end": 28.9
+    },
+    {
+      "word": "tools,",
+      "start": 28.9,
+      "end": 29.34
+    },
+    {
+      "word": "giving",
+      "start": 29.34,
+      "end": 29.84
+    },
+    {
+      "word": "you",
+      "start": 29.84,
+      "end": 30.18
+    },
+    {
+      "word": "your",
+      "start": 30.18,
+      "end": 30.38
+    },
+    {
+      "word": "weekends",
+      "start": 30.38,
+      "end": 30.62
+    },
+    {
+      "word": "back.",
+      "start": 30.62,
+      "end": 31.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Supercharge your Notion workspace with these built-in automation rules.",
+      "line2": "1-CLICK RECURRING TASKS",
+      "tag": "\ud83d\uded1 Notion automated database buttons for recurring task creation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Notion automated database buttons for recurring task creation",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Notion automated database buttons for recurring task creation",
+        "subtitle": "Notion automated database buttons for recurring task creation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Notion automated database buttons for recurring task creation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Notion automated database buttons for recurring task creation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Notion automated database buttons for recurring task creation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

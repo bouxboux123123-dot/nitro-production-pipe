@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "Greenshot: lightweight screenshot utility with instant annotation tools",
+  "text": "Stop sending confusing screenshots: add clear numbered steps with this free app. Guiding clients through complex software settings using text messages leads to costly configuration errors and frustration. Circling random buttons with crude pen drawings fails to communicate chronological sequence or clear operational context. Greenshot places sequential step bubbles, highlights input fields, and blurs sensitive account details with simple keyboard shortcuts. You eliminate recurring client support tickets permanently.",
+  "duration": 31.674,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "sending",
+      "start": 0.42,
+      "end": 0.76
+    },
+    {
+      "word": "confusing",
+      "start": 0.76,
+      "end": 1.34
+    },
+    {
+      "word": "screenshots.",
+      "start": 1.34,
+      "end": 1.86
+    },
+    {
+      "word": "Add",
+      "start": 2.66,
+      "end": 2.74
+    },
+    {
+      "word": "clear",
+      "start": 2.74,
+      "end": 3.0
+    },
+    {
+      "word": "numbered",
+      "start": 3.0,
+      "end": 3.36
+    },
+    {
+      "word": "steps",
+      "start": 3.36,
+      "end": 3.66
+    },
+    {
+      "word": "with",
+      "start": 3.66,
+      "end": 3.88
+    },
+    {
+      "word": "this",
+      "start": 3.88,
+      "end": 4.1
+    },
+    {
+      "word": "free",
+      "start": 4.1,
+      "end": 4.38
+    },
+    {
+      "word": "app.",
+      "start": 4.38,
+      "end": 4.88
+    },
+    {
+      "word": "Guiding",
+      "start": 5.32,
+      "end": 5.48
+    },
+    {
+      "word": "clients",
+      "start": 5.48,
+      "end": 5.92
+    },
+    {
+      "word": "through",
+      "start": 5.92,
+      "end": 6.26
+    },
+    {
+      "word": "complex",
+      "start": 6.26,
+      "end": 6.78
+    },
+    {
+      "word": "software",
+      "start": 6.78,
+      "end": 7.18
+    },
+    {
+      "word": "settings",
+      "start": 7.18,
+      "end": 7.62
+    },
+    {
+      "word": "using",
+      "start": 7.62,
+      "end": 8.04
+    },
+    {
+      "word": "text",
+      "start": 8.04,
+      "end": 8.4
+    },
+    {
+      "word": "messages",
+      "start": 8.4,
+      "end": 8.92
+    },
+    {
+      "word": "leads",
+      "start": 8.92,
+      "end": 9.58
+    },
+    {
+      "word": "to",
+      "start": 9.58,
+      "end": 9.82
+    },
+    {
+      "word": "costly",
+      "start": 9.82,
+      "end": 10.18
+    },
+    {
+      "word": "configuration",
+      "start": 10.18,
+      "end": 10.96
+    },
+    {
+      "word": "errors",
+      "start": 10.96,
+      "end": 11.42
+    },
+    {
+      "word": "and",
+      "start": 11.42,
+      "end": 11.7
+    },
+    {
+      "word": "frustration.",
+      "start": 11.7,
+      "end": 12.44
+    },
+    {
+      "word": "Circling",
+      "start": 12.92,
+      "end": 13.1
+    },
+    {
+      "word": "random",
+      "start": 13.1,
+      "end": 13.46
+    },
+    {
+      "word": "buttons",
+      "start": 13.46,
+      "end": 13.82
+    },
+    {
+      "word": "with",
+      "start": 13.82,
+      "end": 14.16
+    },
+    {
+      "word": "crude",
+      "start": 14.16,
+      "end": 14.46
+    },
+    {
+      "word": "pen",
+      "start": 14.46,
+      "end": 14.72
+    },
+    {
+      "word": "drawings",
+      "start": 14.72,
+      "end": 15.12
+    },
+    {
+      "word": "fails",
+      "start": 15.12,
+      "end": 15.66
+    },
+    {
+      "word": "to",
+      "start": 15.66,
+      "end": 15.9
+    },
+    {
+      "word": "communicate",
+      "start": 15.9,
+      "end": 16.36
+    },
+    {
+      "word": "chronological",
+      "start": 16.36,
+      "end": 17.04
+    },
+    {
+      "word": "sequence",
+      "start": 17.04,
+      "end": 17.7
+    },
+    {
+      "word": "or",
+      "start": 17.7,
+      "end": 18.3
+    },
+    {
+      "word": "clear",
+      "start": 18.3,
+      "end": 18.62
+    },
+    {
+      "word": "operational",
+      "start": 18.62,
+      "end": 19.16
+    },
+    {
+      "word": "context.",
+      "start": 19.16,
+      "end": 19.86
+    },
+    {
+      "word": "Greenshot",
+      "start": 20.6,
+      "end": 21.04
+    },
+    {
+      "word": "places",
+      "start": 21.04,
+      "end": 21.38
+    },
+    {
+      "word": "sequential",
+      "start": 21.38,
+      "end": 21.84
+    },
+    {
+      "word": "step",
+      "start": 21.84,
+      "end": 22.24
+    },
+    {
+      "word": "bubbles,",
+      "start": 22.24,
+      "end": 22.54
+    },
+    {
+      "word": "highlights",
+      "start": 23.1,
+      "end": 23.38
+    },
+    {
+      "word": "input",
+      "start": 23.38,
+      "end": 23.84
+    },
+    {
+      "word": "fields,",
+      "start": 23.84,
+      "end": 24.3
+    },
+    {
+      "word": "and",
+      "start": 24.66,
+      "end": 24.86
+    },
+    {
+      "word": "blurs",
+      "start": 24.86,
+      "end": 25.18
+    },
+    {
+      "word": "sensitive",
+      "start": 25.18,
+      "end": 25.62
+    },
+    {
+      "word": "account",
+      "start": 25.62,
+      "end": 26.08
+    },
+    {
+      "word": "details",
+      "start": 26.08,
+      "end": 26.54
+    },
+    {
+      "word": "with",
+      "start": 26.54,
+      "end": 26.88
+    },
+    {
+      "word": "simple",
+      "start": 26.88,
+      "end": 27.22
+    },
+    {
+      "word": "keyboard",
+      "start": 27.22,
+      "end": 27.62
+    },
+    {
+      "word": "shortcuts.",
+      "start": 27.62,
+      "end": 28.2
+    },
+    {
+      "word": "You",
+      "start": 28.2,
+      "end": 28.98
+    },
+    {
+      "word": "eliminate",
+      "start": 28.98,
+      "end": 29.36
+    },
+    {
+      "word": "recurring",
+      "start": 29.36,
+      "end": 29.94
+    },
+    {
+      "word": "client",
+      "start": 29.94,
+      "end": 30.3
+    },
+    {
+      "word": "support",
+      "start": 30.3,
+      "end": 30.7
+    },
+    {
+      "word": "tickets",
+      "start": 30.7,
+      "end": 31.02
+    },
+    {
+      "word": "permanently.",
+      "start": 31.02,
+      "end": 31.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop sending confusing screenshots: add clear numbered steps with this free app.",
+      "line2": "FAST SCREENSHOT ANNOTATIONS",
+      "tag": "\ud83d\uded1 Greenshot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Greenshot",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Greenshot",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Greenshot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

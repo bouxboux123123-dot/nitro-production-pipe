@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "AI sales demo recorder that extracts custom follow-up action items",
+  "text": "Send the most detailed, impressive client follow-up your prospects have ever seen. Generic post-demo emails sound robotic, failing to prove you understood the customer's specific operational headaches. When buyers feel misunderstood, they compare offers strictly on price rather than business value. Route Fireflies transcripts into Make to generate a custom Notion portal highlighting their exact quoted requirements. You outshine competitors and command higher contract values.",
+  "duration": 28.367,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Send",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "the",
+      "start": 0.26,
+      "end": 0.42
+    },
+    {
+      "word": "most",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "detailed,",
+      "start": 0.66,
+      "end": 1.26
+    },
+    {
+      "word": "impressive",
+      "start": 1.84,
+      "end": 1.92
+    },
+    {
+      "word": "client",
+      "start": 1.92,
+      "end": 2.36
+    },
+    {
+      "word": "follow",
+      "start": 2.36,
+      "end": 2.68
+    },
+    {
+      "word": "-up",
+      "start": 2.68,
+      "end": 2.92
+    },
+    {
+      "word": "your",
+      "start": 2.92,
+      "end": 3.1
+    },
+    {
+      "word": "prospects",
+      "start": 3.1,
+      "end": 3.52
+    },
+    {
+      "word": "have",
+      "start": 3.52,
+      "end": 3.76
+    },
+    {
+      "word": "ever",
+      "start": 3.76,
+      "end": 4.0
+    },
+    {
+      "word": "seen.",
+      "start": 4.0,
+      "end": 4.54
+    },
+    {
+      "word": "Generic",
+      "start": 5.4,
+      "end": 5.4
+    },
+    {
+      "word": "Post",
+      "start": 5.4,
+      "end": 5.84
+    },
+    {
+      "word": "-Demo",
+      "start": 5.84,
+      "end": 6.24
+    },
+    {
+      "word": "emails",
+      "start": 6.24,
+      "end": 6.76
+    },
+    {
+      "word": "sound",
+      "start": 6.76,
+      "end": 7.16
+    },
+    {
+      "word": "robotic,",
+      "start": 7.16,
+      "end": 7.8
+    },
+    {
+      "word": "failing",
+      "start": 8.4,
+      "end": 8.5
+    },
+    {
+      "word": "to",
+      "start": 8.5,
+      "end": 8.74
+    },
+    {
+      "word": "prove",
+      "start": 8.74,
+      "end": 8.94
+    },
+    {
+      "word": "you",
+      "start": 8.94,
+      "end": 9.16
+    },
+    {
+      "word": "understood",
+      "start": 9.16,
+      "end": 9.54
+    },
+    {
+      "word": "the",
+      "start": 9.54,
+      "end": 10.12
+    },
+    {
+      "word": "customer's",
+      "start": 10.12,
+      "end": 10.48
+    },
+    {
+      "word": "specific",
+      "start": 10.48,
+      "end": 10.84
+    },
+    {
+      "word": "operational",
+      "start": 10.84,
+      "end": 11.48
+    },
+    {
+      "word": "headaches.",
+      "start": 11.48,
+      "end": 11.92
+    },
+    {
+      "word": "When",
+      "start": 12.34,
+      "end": 12.58
+    },
+    {
+      "word": "buyers",
+      "start": 12.58,
+      "end": 12.82
+    },
+    {
+      "word": "feel",
+      "start": 12.82,
+      "end": 13.16
+    },
+    {
+      "word": "misunderstood,",
+      "start": 13.16,
+      "end": 13.74
+    },
+    {
+      "word": "they",
+      "start": 14.2,
+      "end": 14.44
+    },
+    {
+      "word": "compare",
+      "start": 14.44,
+      "end": 14.74
+    },
+    {
+      "word": "offers",
+      "start": 14.74,
+      "end": 15.14
+    },
+    {
+      "word": "strictly",
+      "start": 15.14,
+      "end": 15.52
+    },
+    {
+      "word": "on",
+      "start": 15.52,
+      "end": 15.8
+    },
+    {
+      "word": "price",
+      "start": 15.8,
+      "end": 16.22
+    },
+    {
+      "word": "rather",
+      "start": 16.22,
+      "end": 16.6
+    },
+    {
+      "word": "than",
+      "start": 16.6,
+      "end": 16.94
+    },
+    {
+      "word": "business",
+      "start": 16.94,
+      "end": 17.12
+    },
+    {
+      "word": "value.",
+      "start": 17.12,
+      "end": 17.68
+    },
+    {
+      "word": "Route",
+      "start": 18.18,
+      "end": 18.48
+    },
+    {
+      "word": "fireflies",
+      "start": 18.48,
+      "end": 19.12
+    },
+    {
+      "word": "transcripts",
+      "start": 19.12,
+      "end": 19.72
+    },
+    {
+      "word": "into",
+      "start": 19.72,
+      "end": 19.96
+    },
+    {
+      "word": "make",
+      "start": 19.96,
+      "end": 20.14
+    },
+    {
+      "word": "to",
+      "start": 20.14,
+      "end": 20.44
+    },
+    {
+      "word": "generate",
+      "start": 20.44,
+      "end": 20.64
+    },
+    {
+      "word": "a",
+      "start": 20.64,
+      "end": 20.96
+    },
+    {
+      "word": "custom",
+      "start": 20.96,
+      "end": 21.14
+    },
+    {
+      "word": "notion",
+      "start": 21.14,
+      "end": 21.54
+    },
+    {
+      "word": "portal",
+      "start": 21.54,
+      "end": 22.12
+    },
+    {
+      "word": "highlighting",
+      "start": 22.12,
+      "end": 22.7
+    },
+    {
+      "word": "their",
+      "start": 22.7,
+      "end": 23.18
+    },
+    {
+      "word": "exact",
+      "start": 23.18,
+      "end": 23.58
+    },
+    {
+      "word": "quoted",
+      "start": 23.58,
+      "end": 23.92
+    },
+    {
+      "word": "requirements.",
+      "start": 23.92,
+      "end": 24.56
+    },
+    {
+      "word": "You",
+      "start": 24.56,
+      "end": 25.32
+    },
+    {
+      "word": "outshine",
+      "start": 25.32,
+      "end": 25.82
+    },
+    {
+      "word": "competitors",
+      "start": 25.82,
+      "end": 26.32
+    },
+    {
+      "word": "and",
+      "start": 26.32,
+      "end": 26.72
+    },
+    {
+      "word": "command",
+      "start": 26.72,
+      "end": 27.0
+    },
+    {
+      "word": "higher",
+      "start": 27.0,
+      "end": 27.4
+    },
+    {
+      "word": "contract",
+      "start": 27.4,
+      "end": 27.78
+    },
+    {
+      "word": "values.",
+      "start": 27.78,
+      "end": 28.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Send the most detailed, impressive client follow-up they have ever seen.",
+      "line2": "EXTRACT DEMO ACTION ITEMS",
+      "tag": "\ud83d\uded1 AI sales demo recorder that extracts custom follow-up action items",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: AI sales demo recorder that extracts custom follow-up action items",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: AI sales demo recorder that extracts custom follow-up action items",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

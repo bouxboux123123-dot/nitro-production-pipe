@@ -1,0 +1,396 @@
+{
+  "page": "page-02",
+  "idea": "Automated tax and expense sorter for solo freelancers",
+  "text": "Stop dumping paper receipts into a shoebox and do this instead. Solopreneurs waste hours flattening faded paper receipts and deciphering vendor names before tax deadlines. Paper slips fade, client travel receipts get misplaced, and IRS compliance rules require clear audit trails. Wave Mobile scans physical receipts with OCR technology, matching totals to your banking feeds in seconds. You eliminate paper clutter while keeping bulletproof books.",
+  "duration": 25.771,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "dumping",
+      "start": 0.3,
+      "end": 0.6
+    },
+    {
+      "word": "paper",
+      "start": 0.6,
+      "end": 0.92
+    },
+    {
+      "word": "receipts",
+      "start": 0.92,
+      "end": 1.26
+    },
+    {
+      "word": "into",
+      "start": 1.26,
+      "end": 1.54
+    },
+    {
+      "word": "a",
+      "start": 1.54,
+      "end": 1.78
+    },
+    {
+      "word": "shoe",
+      "start": 1.78,
+      "end": 1.88
+    },
+    {
+      "word": "box",
+      "start": 1.88,
+      "end": 2.16
+    },
+    {
+      "word": "and",
+      "start": 2.16,
+      "end": 2.36
+    },
+    {
+      "word": "do",
+      "start": 2.36,
+      "end": 2.54
+    },
+    {
+      "word": "this",
+      "start": 2.54,
+      "end": 2.8
+    },
+    {
+      "word": "instead.",
+      "start": 2.8,
+      "end": 3.32
+    },
+    {
+      "word": "Solopreneur's",
+      "start": 3.98,
+      "end": 4.56
+    },
+    {
+      "word": "waste",
+      "start": 4.56,
+      "end": 4.84
+    },
+    {
+      "word": "hours",
+      "start": 4.84,
+      "end": 5.26
+    },
+    {
+      "word": "flattening",
+      "start": 5.26,
+      "end": 5.74
+    },
+    {
+      "word": "faded",
+      "start": 5.74,
+      "end": 6.04
+    },
+    {
+      "word": "paper",
+      "start": 6.04,
+      "end": 6.34
+    },
+    {
+      "word": "receipts",
+      "start": 6.34,
+      "end": 6.72
+    },
+    {
+      "word": "and",
+      "start": 6.72,
+      "end": 6.96
+    },
+    {
+      "word": "deciphering",
+      "start": 6.96,
+      "end": 7.54
+    },
+    {
+      "word": "vendor",
+      "start": 7.54,
+      "end": 7.64
+    },
+    {
+      "word": "names",
+      "start": 7.64,
+      "end": 7.98
+    },
+    {
+      "word": "before",
+      "start": 7.98,
+      "end": 8.28
+    },
+    {
+      "word": "tax",
+      "start": 8.28,
+      "end": 8.62
+    },
+    {
+      "word": "deadlines.",
+      "start": 8.62,
+      "end": 9.1
+    },
+    {
+      "word": "Paper",
+      "start": 9.82,
+      "end": 9.88
+    },
+    {
+      "word": "slips",
+      "start": 9.88,
+      "end": 10.16
+    },
+    {
+      "word": "fade,",
+      "start": 10.16,
+      "end": 10.5
+    },
+    {
+      "word": "client",
+      "start": 10.9,
+      "end": 11.16
+    },
+    {
+      "word": "travel",
+      "start": 11.16,
+      "end": 11.52
+    },
+    {
+      "word": "receipts",
+      "start": 11.52,
+      "end": 11.86
+    },
+    {
+      "word": "get",
+      "start": 11.86,
+      "end": 12.06
+    },
+    {
+      "word": "misplaced,",
+      "start": 12.06,
+      "end": 12.42
+    },
+    {
+      "word": "and",
+      "start": 12.98,
+      "end": 13.16
+    },
+    {
+      "word": "IRS",
+      "start": 13.16,
+      "end": 13.5
+    },
+    {
+      "word": "compliance",
+      "start": 13.5,
+      "end": 14.1
+    },
+    {
+      "word": "rules",
+      "start": 14.1,
+      "end": 14.46
+    },
+    {
+      "word": "require",
+      "start": 14.46,
+      "end": 14.92
+    },
+    {
+      "word": "clear",
+      "start": 14.92,
+      "end": 15.28
+    },
+    {
+      "word": "audit",
+      "start": 15.28,
+      "end": 15.52
+    },
+    {
+      "word": "trails.",
+      "start": 15.52,
+      "end": 15.96
+    },
+    {
+      "word": "Wave",
+      "start": 16.72,
+      "end": 16.8
+    },
+    {
+      "word": "mobile",
+      "start": 16.8,
+      "end": 17.14
+    },
+    {
+      "word": "scans",
+      "start": 17.14,
+      "end": 17.54
+    },
+    {
+      "word": "physical",
+      "start": 17.54,
+      "end": 18.0
+    },
+    {
+      "word": "receipts",
+      "start": 18.0,
+      "end": 18.38
+    },
+    {
+      "word": "with",
+      "start": 18.38,
+      "end": 18.74
+    },
+    {
+      "word": "OCR",
+      "start": 18.74,
+      "end": 19.12
+    },
+    {
+      "word": "technology,",
+      "start": 19.12,
+      "end": 19.88
+    },
+    {
+      "word": "matching",
+      "start": 20.58,
+      "end": 20.58
+    },
+    {
+      "word": "totals",
+      "start": 20.58,
+      "end": 20.94
+    },
+    {
+      "word": "to",
+      "start": 20.94,
+      "end": 21.18
+    },
+    {
+      "word": "your",
+      "start": 21.18,
+      "end": 21.32
+    },
+    {
+      "word": "banking",
+      "start": 21.32,
+      "end": 21.52
+    },
+    {
+      "word": "feeds",
+      "start": 21.52,
+      "end": 21.94
+    },
+    {
+      "word": "in",
+      "start": 21.94,
+      "end": 22.2
+    },
+    {
+      "word": "seconds.",
+      "start": 22.2,
+      "end": 22.58
+    },
+    {
+      "word": "You",
+      "start": 23.1,
+      "end": 23.24
+    },
+    {
+      "word": "eliminate",
+      "start": 23.24,
+      "end": 23.6
+    },
+    {
+      "word": "paper",
+      "start": 23.6,
+      "end": 23.94
+    },
+    {
+      "word": "clutter",
+      "start": 23.94,
+      "end": 24.2
+    },
+    {
+      "word": "while",
+      "start": 24.2,
+      "end": 24.5
+    },
+    {
+      "word": "keeping",
+      "start": 24.5,
+      "end": 24.88
+    },
+    {
+      "word": "bullet",
+      "start": 24.88,
+      "end": 25.14
+    },
+    {
+      "word": "proof",
+      "start": 25.14,
+      "end": 25.42
+    },
+    {
+      "word": "books.",
+      "start": 25.42,
+      "end": 25.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop dumping paper receipts into a shoebox\u00e2\u20ac\u201ddo this instead.",
+      "line2": "AUTO-SORT FREELANCE TAXES",
+      "tag": "\ud83d\uded1 Automated tax and expense sorter for solo freelancers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated tax and expense sorter for solo freelancers",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated tax and expense sorter for solo freelancers",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated tax and expense sorter for solo freelancers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated tax and expense sorter for solo freelancers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

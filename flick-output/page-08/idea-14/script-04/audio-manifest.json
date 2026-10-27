@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "How to split your computer screen into two clean windows for multitasking",
+  "text": "This essential desktop organization trick is something every beginner needs on day one. Cluttering your single screen with dozens of overlapping windows turns simple writing tasks into chaos. When your workspace is disorganized, you spend valuable mental energy alt-tabbing instead of making actual progress. Press Windows Key plus Arrow to snap active programs into clean two-window or four-window quadrants. You will keep your workspace neat and productive.",
+  "duration": 24.789,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "essential",
+      "start": 0.28,
+      "end": 0.7
+    },
+    {
+      "word": "desktop",
+      "start": 0.7,
+      "end": 1.14
+    },
+    {
+      "word": "organization",
+      "start": 1.14,
+      "end": 1.74
+    },
+    {
+      "word": "trick",
+      "start": 1.74,
+      "end": 2.16
+    },
+    {
+      "word": "is",
+      "start": 2.16,
+      "end": 2.54
+    },
+    {
+      "word": "something",
+      "start": 2.54,
+      "end": 2.84
+    },
+    {
+      "word": "every",
+      "start": 2.84,
+      "end": 3.16
+    },
+    {
+      "word": "beginner",
+      "start": 3.16,
+      "end": 3.42
+    },
+    {
+      "word": "needs",
+      "start": 3.42,
+      "end": 3.8
+    },
+    {
+      "word": "on",
+      "start": 3.8,
+      "end": 4.0
+    },
+    {
+      "word": "day",
+      "start": 4.0,
+      "end": 4.18
+    },
+    {
+      "word": "one.",
+      "start": 4.18,
+      "end": 4.64
+    },
+    {
+      "word": "Cluttering",
+      "start": 4.88,
+      "end": 5.1
+    },
+    {
+      "word": "your",
+      "start": 5.1,
+      "end": 5.38
+    },
+    {
+      "word": "single",
+      "start": 5.38,
+      "end": 5.62
+    },
+    {
+      "word": "screen",
+      "start": 5.62,
+      "end": 5.96
+    },
+    {
+      "word": "with",
+      "start": 5.96,
+      "end": 6.18
+    },
+    {
+      "word": "dozens",
+      "start": 6.18,
+      "end": 6.42
+    },
+    {
+      "word": "of",
+      "start": 6.42,
+      "end": 6.78
+    },
+    {
+      "word": "overlapping",
+      "start": 6.78,
+      "end": 7.04
+    },
+    {
+      "word": "windows",
+      "start": 7.04,
+      "end": 7.62
+    },
+    {
+      "word": "turns",
+      "start": 7.62,
+      "end": 8.14
+    },
+    {
+      "word": "simple",
+      "start": 8.14,
+      "end": 8.5
+    },
+    {
+      "word": "writing",
+      "start": 8.5,
+      "end": 8.8
+    },
+    {
+      "word": "tasks",
+      "start": 8.8,
+      "end": 9.14
+    },
+    {
+      "word": "into",
+      "start": 9.14,
+      "end": 9.4
+    },
+    {
+      "word": "chaos.",
+      "start": 9.4,
+      "end": 9.82
+    },
+    {
+      "word": "When",
+      "start": 10.38,
+      "end": 10.5
+    },
+    {
+      "word": "your",
+      "start": 10.5,
+      "end": 10.76
+    },
+    {
+      "word": "workspace",
+      "start": 10.76,
+      "end": 10.96
+    },
+    {
+      "word": "is",
+      "start": 10.96,
+      "end": 11.36
+    },
+    {
+      "word": "disorganized,",
+      "start": 11.36,
+      "end": 11.96
+    },
+    {
+      "word": "you",
+      "start": 12.48,
+      "end": 12.56
+    },
+    {
+      "word": "spend",
+      "start": 12.56,
+      "end": 12.76
+    },
+    {
+      "word": "valuable",
+      "start": 12.76,
+      "end": 13.2
+    },
+    {
+      "word": "mental",
+      "start": 13.2,
+      "end": 13.64
+    },
+    {
+      "word": "energy,",
+      "start": 13.64,
+      "end": 14.04
+    },
+    {
+      "word": "alt",
+      "start": 14.38,
+      "end": 14.38
+    },
+    {
+      "word": "tabbing",
+      "start": 14.38,
+      "end": 14.8
+    },
+    {
+      "word": "instead",
+      "start": 14.8,
+      "end": 14.98
+    },
+    {
+      "word": "of",
+      "start": 14.98,
+      "end": 15.2
+    },
+    {
+      "word": "making",
+      "start": 15.2,
+      "end": 15.46
+    },
+    {
+      "word": "actual",
+      "start": 15.46,
+      "end": 15.8
+    },
+    {
+      "word": "progress.",
+      "start": 15.8,
+      "end": 16.4
+    },
+    {
+      "word": "Press",
+      "start": 16.94,
+      "end": 17.18
+    },
+    {
+      "word": "Windows",
+      "start": 17.18,
+      "end": 17.46
+    },
+    {
+      "word": "key",
+      "start": 17.46,
+      "end": 17.84
+    },
+    {
+      "word": "plus",
+      "start": 17.84,
+      "end": 18.14
+    },
+    {
+      "word": "arrow",
+      "start": 18.14,
+      "end": 18.36
+    },
+    {
+      "word": "to",
+      "start": 18.36,
+      "end": 18.66
+    },
+    {
+      "word": "snap",
+      "start": 18.66,
+      "end": 18.98
+    },
+    {
+      "word": "active",
+      "start": 18.98,
+      "end": 19.36
+    },
+    {
+      "word": "programs",
+      "start": 19.36,
+      "end": 19.78
+    },
+    {
+      "word": "into",
+      "start": 19.78,
+      "end": 20.12
+    },
+    {
+      "word": "clean",
+      "start": 20.12,
+      "end": 20.42
+    },
+    {
+      "word": "two",
+      "start": 20.42,
+      "end": 20.7
+    },
+    {
+      "word": "window",
+      "start": 20.7,
+      "end": 20.96
+    },
+    {
+      "word": "or",
+      "start": 20.96,
+      "end": 21.28
+    },
+    {
+      "word": "four",
+      "start": 21.28,
+      "end": 21.52
+    },
+    {
+      "word": "window",
+      "start": 21.52,
+      "end": 21.8
+    },
+    {
+      "word": "quadrants.",
+      "start": 21.8,
+      "end": 22.32
+    },
+    {
+      "word": "You",
+      "start": 22.82,
+      "end": 22.86
+    },
+    {
+      "word": "will",
+      "start": 22.86,
+      "end": 23.0
+    },
+    {
+      "word": "keep",
+      "start": 23.0,
+      "end": 23.16
+    },
+    {
+      "word": "your",
+      "start": 23.16,
+      "end": 23.48
+    },
+    {
+      "word": "workspace",
+      "start": 23.48,
+      "end": 23.64
+    },
+    {
+      "word": "neat",
+      "start": 23.64,
+      "end": 24.08
+    },
+    {
+      "word": "and",
+      "start": 24.08,
+      "end": 24.36
+    },
+    {
+      "word": "productive.",
+      "start": 24.36,
+      "end": 24.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The essential desktop organization trick every beginner needs to learn on day one.",
+      "line2": "SPLIT SCREEN MULTITASKING",
+      "tag": "\ud83d\uded1 How to split your computer screen into two clean windows for multitasking",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to split your computer screen into two clean windows for multitasking",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to split your computer screen into two clean windows for multitasking",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

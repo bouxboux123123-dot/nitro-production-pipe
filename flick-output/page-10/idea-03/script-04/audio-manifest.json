@@ -1,0 +1,376 @@
+{
+  "page": "page-10",
+  "idea": "Notion 3.0 workspace automation updates and native database triggers",
+  "text": "How Notion is quietly replacing dedicated project management software. Companies spend thousands on Jira licenses while employees still manage real deliverables in Notion docs. Juggling disparate project platforms creates duplicate data entry, mismatched timelines, and broken executive visibility. Notion\u2019s upgraded database automations, sprint cycles, and formula rollups now replace expensive enterprise trackers completely. You consolidate your tool stack while slashing monthly overhead.",
+  "duration": 31.205,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "Notion",
+      "start": 0.28,
+      "end": 0.6
+    },
+    {
+      "word": "is",
+      "start": 0.6,
+      "end": 0.88
+    },
+    {
+      "word": "quietly",
+      "start": 0.88,
+      "end": 1.32
+    },
+    {
+      "word": "replacing",
+      "start": 1.32,
+      "end": 1.98
+    },
+    {
+      "word": "dedicated",
+      "start": 1.98,
+      "end": 2.52
+    },
+    {
+      "word": "project",
+      "start": 2.52,
+      "end": 3.04
+    },
+    {
+      "word": "management",
+      "start": 3.04,
+      "end": 3.5
+    },
+    {
+      "word": "software.",
+      "start": 3.5,
+      "end": 4.16
+    },
+    {
+      "word": "Companies",
+      "start": 5.0,
+      "end": 5.0
+    },
+    {
+      "word": "spend",
+      "start": 5.0,
+      "end": 5.36
+    },
+    {
+      "word": "thousands",
+      "start": 5.36,
+      "end": 5.88
+    },
+    {
+      "word": "on",
+      "start": 5.88,
+      "end": 6.22
+    },
+    {
+      "word": "Jira",
+      "start": 6.22,
+      "end": 6.44
+    },
+    {
+      "word": "licenses",
+      "start": 6.44,
+      "end": 7.02
+    },
+    {
+      "word": "while",
+      "start": 7.02,
+      "end": 7.6
+    },
+    {
+      "word": "employees",
+      "start": 7.6,
+      "end": 8.08
+    },
+    {
+      "word": "still",
+      "start": 8.08,
+      "end": 8.46
+    },
+    {
+      "word": "manage",
+      "start": 8.46,
+      "end": 8.86
+    },
+    {
+      "word": "real",
+      "start": 8.86,
+      "end": 9.18
+    },
+    {
+      "word": "deliverables",
+      "start": 9.18,
+      "end": 9.74
+    },
+    {
+      "word": "in",
+      "start": 9.74,
+      "end": 9.98
+    },
+    {
+      "word": "Notion",
+      "start": 9.98,
+      "end": 10.34
+    },
+    {
+      "word": "docs.",
+      "start": 10.34,
+      "end": 10.86
+    },
+    {
+      "word": "Juggling",
+      "start": 11.46,
+      "end": 11.9
+    },
+    {
+      "word": "disparate",
+      "start": 11.9,
+      "end": 12.28
+    },
+    {
+      "word": "project",
+      "start": 12.28,
+      "end": 12.8
+    },
+    {
+      "word": "platforms",
+      "start": 12.8,
+      "end": 13.22
+    },
+    {
+      "word": "creates",
+      "start": 13.22,
+      "end": 13.9
+    },
+    {
+      "word": "duplicate",
+      "start": 13.9,
+      "end": 14.38
+    },
+    {
+      "word": "data",
+      "start": 14.38,
+      "end": 14.84
+    },
+    {
+      "word": "entry,",
+      "start": 14.84,
+      "end": 15.34
+    },
+    {
+      "word": "mismatch",
+      "start": 16.02,
+      "end": 16.02
+    },
+    {
+      "word": "timelines,",
+      "start": 16.02,
+      "end": 16.68
+    },
+    {
+      "word": "and",
+      "start": 17.1,
+      "end": 17.3
+    },
+    {
+      "word": "broken",
+      "start": 17.3,
+      "end": 17.66
+    },
+    {
+      "word": "executive",
+      "start": 17.66,
+      "end": 18.24
+    },
+    {
+      "word": "visibility.",
+      "start": 18.24,
+      "end": 18.86
+    },
+    {
+      "word": "Notions",
+      "start": 19.36,
+      "end": 19.68
+    },
+    {
+      "word": "upgraded",
+      "start": 19.68,
+      "end": 20.2
+    },
+    {
+      "word": "database",
+      "start": 20.2,
+      "end": 20.84
+    },
+    {
+      "word": "automations,",
+      "start": 20.84,
+      "end": 21.54
+    },
+    {
+      "word": "sprint",
+      "start": 21.96,
+      "end": 22.22
+    },
+    {
+      "word": "cycles,",
+      "start": 22.22,
+      "end": 22.6
+    },
+    {
+      "word": "and",
+      "start": 22.94,
+      "end": 23.18
+    },
+    {
+      "word": "formula",
+      "start": 23.18,
+      "end": 23.42
+    },
+    {
+      "word": "roll",
+      "start": 23.42,
+      "end": 23.74
+    },
+    {
+      "word": "-ups",
+      "start": 23.74,
+      "end": 23.98
+    },
+    {
+      "word": "now",
+      "start": 23.98,
+      "end": 24.6
+    },
+    {
+      "word": "replace",
+      "start": 24.6,
+      "end": 24.9
+    },
+    {
+      "word": "expensive",
+      "start": 24.9,
+      "end": 25.5
+    },
+    {
+      "word": "enterprise",
+      "start": 25.5,
+      "end": 26.02
+    },
+    {
+      "word": "trackers",
+      "start": 26.02,
+      "end": 26.5
+    },
+    {
+      "word": "completely.",
+      "start": 26.5,
+      "end": 27.08
+    },
+    {
+      "word": "You",
+      "start": 27.45,
+      "end": 27.86
+    },
+    {
+      "word": "consolidate",
+      "start": 27.86,
+      "end": 28.36
+    },
+    {
+      "word": "your",
+      "start": 28.36,
+      "end": 28.72
+    },
+    {
+      "word": "tool",
+      "start": 28.72,
+      "end": 29.08
+    },
+    {
+      "word": "stack",
+      "start": 29.08,
+      "end": 29.4
+    },
+    {
+      "word": "while",
+      "start": 29.4,
+      "end": 29.7
+    },
+    {
+      "word": "slashing",
+      "start": 29.7,
+      "end": 30.16
+    },
+    {
+      "word": "monthly",
+      "start": 30.16,
+      "end": 30.62
+    },
+    {
+      "word": "overhead.",
+      "start": 30.62,
+      "end": 31.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "How Notion is quietly replacing dedicated project management software.",
+      "line2": "NOTION 3.0 DATABASE TRIGGERS",
+      "tag": "\ud83d\uded1 Notion 3.0 workspace automation updates and native database triggers",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Notion 3.0 workspace automation updates and native database triggers",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Notion 3.0 workspace automation updates and native database triggers",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Notion 3.0 workspace automation updates and native database triggers",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

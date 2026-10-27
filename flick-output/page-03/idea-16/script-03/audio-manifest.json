@@ -1,0 +1,406 @@
+{
+  "page": "page-03",
+  "idea": "AI podcast clip generator that repurposes audio into viral short clips",
+  "text": "Stop manually scrubbing through audio timelines looking for good clips. Listening back to hours of raw recordings just to extract a thirty-second hook exhausts your limited time. When clip generation takes hours per episode, most solo creators abandon multi-platform distribution entirely. Run your episode through Riverside or Opus Clip to automatically identify hooks and export captioned vertical videos. You multiply your audience reach with zero manual editing.",
+  "duration": 29.263,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "manually",
+      "start": 0.4,
+      "end": 0.82
+    },
+    {
+      "word": "scrubbing",
+      "start": 0.82,
+      "end": 1.32
+    },
+    {
+      "word": "through",
+      "start": 1.32,
+      "end": 1.66
+    },
+    {
+      "word": "audio",
+      "start": 1.66,
+      "end": 2.0
+    },
+    {
+      "word": "timelines",
+      "start": 2.0,
+      "end": 2.42
+    },
+    {
+      "word": "looking",
+      "start": 2.42,
+      "end": 2.88
+    },
+    {
+      "word": "for",
+      "start": 2.88,
+      "end": 3.18
+    },
+    {
+      "word": "good",
+      "start": 3.18,
+      "end": 3.44
+    },
+    {
+      "word": "clips.",
+      "start": 3.44,
+      "end": 3.9
+    },
+    {
+      "word": "Listening",
+      "start": 4.4,
+      "end": 4.7
+    },
+    {
+      "word": "back",
+      "start": 4.7,
+      "end": 5.0
+    },
+    {
+      "word": "to",
+      "start": 5.0,
+      "end": 5.28
+    },
+    {
+      "word": "hours",
+      "start": 5.28,
+      "end": 5.48
+    },
+    {
+      "word": "of",
+      "start": 5.48,
+      "end": 5.72
+    },
+    {
+      "word": "raw",
+      "start": 5.72,
+      "end": 5.9
+    },
+    {
+      "word": "recordings",
+      "start": 5.9,
+      "end": 6.38
+    },
+    {
+      "word": "just",
+      "start": 6.38,
+      "end": 6.76
+    },
+    {
+      "word": "to",
+      "start": 6.76,
+      "end": 7.02
+    },
+    {
+      "word": "extract",
+      "start": 7.02,
+      "end": 7.34
+    },
+    {
+      "word": "a",
+      "start": 7.34,
+      "end": 7.72
+    },
+    {
+      "word": "30",
+      "start": 7.72,
+      "end": 7.88
+    },
+    {
+      "word": "-second",
+      "start": 7.88,
+      "end": 8.18
+    },
+    {
+      "word": "hook",
+      "start": 8.18,
+      "end": 8.7
+    },
+    {
+      "word": "exhausts",
+      "start": 8.7,
+      "end": 9.3
+    },
+    {
+      "word": "your",
+      "start": 9.3,
+      "end": 9.56
+    },
+    {
+      "word": "limited",
+      "start": 9.56,
+      "end": 9.72
+    },
+    {
+      "word": "time.",
+      "start": 9.72,
+      "end": 10.36
+    },
+    {
+      "word": "When",
+      "start": 10.78,
+      "end": 11.02
+    },
+    {
+      "word": "clip",
+      "start": 11.02,
+      "end": 11.24
+    },
+    {
+      "word": "generation",
+      "start": 11.24,
+      "end": 11.72
+    },
+    {
+      "word": "takes",
+      "start": 11.72,
+      "end": 12.16
+    },
+    {
+      "word": "hours",
+      "start": 12.16,
+      "end": 12.56
+    },
+    {
+      "word": "per",
+      "start": 12.56,
+      "end": 12.84
+    },
+    {
+      "word": "episode,",
+      "start": 12.84,
+      "end": 13.3
+    },
+    {
+      "word": "most",
+      "start": 13.72,
+      "end": 14.0
+    },
+    {
+      "word": "solo",
+      "start": 14.0,
+      "end": 14.38
+    },
+    {
+      "word": "creators",
+      "start": 14.38,
+      "end": 14.86
+    },
+    {
+      "word": "abandon",
+      "start": 14.86,
+      "end": 15.46
+    },
+    {
+      "word": "multi",
+      "start": 15.46,
+      "end": 15.98
+    },
+    {
+      "word": "-platform",
+      "start": 15.98,
+      "end": 16.46
+    },
+    {
+      "word": "distribution",
+      "start": 16.46,
+      "end": 17.18
+    },
+    {
+      "word": "entirely.",
+      "start": 17.18,
+      "end": 17.94
+    },
+    {
+      "word": "Run",
+      "start": 18.32,
+      "end": 18.5
+    },
+    {
+      "word": "your",
+      "start": 18.5,
+      "end": 18.72
+    },
+    {
+      "word": "episode",
+      "start": 18.72,
+      "end": 19.1
+    },
+    {
+      "word": "through",
+      "start": 19.1,
+      "end": 19.5
+    },
+    {
+      "word": "Riverside",
+      "start": 19.5,
+      "end": 19.9
+    },
+    {
+      "word": "or",
+      "start": 19.9,
+      "end": 20.5
+    },
+    {
+      "word": "Opus",
+      "start": 20.5,
+      "end": 20.82
+    },
+    {
+      "word": "clip",
+      "start": 20.82,
+      "end": 21.06
+    },
+    {
+      "word": "to",
+      "start": 21.06,
+      "end": 21.66
+    },
+    {
+      "word": "automatically",
+      "start": 21.66,
+      "end": 22.08
+    },
+    {
+      "word": "identify",
+      "start": 22.08,
+      "end": 22.76
+    },
+    {
+      "word": "hooks",
+      "start": 22.76,
+      "end": 23.26
+    },
+    {
+      "word": "and",
+      "start": 23.26,
+      "end": 23.64
+    },
+    {
+      "word": "export",
+      "start": 23.64,
+      "end": 24.04
+    },
+    {
+      "word": "captioned",
+      "start": 24.04,
+      "end": 24.9
+    },
+    {
+      "word": "vertical",
+      "start": 24.9,
+      "end": 24.9
+    },
+    {
+      "word": "videos.",
+      "start": 24.9,
+      "end": 25.42
+    },
+    {
+      "word": "You",
+      "start": 25.42,
+      "end": 26.16
+    },
+    {
+      "word": "multiply",
+      "start": 26.16,
+      "end": 26.54
+    },
+    {
+      "word": "your",
+      "start": 26.54,
+      "end": 27.0
+    },
+    {
+      "word": "audience",
+      "start": 27.0,
+      "end": 27.36
+    },
+    {
+      "word": "reach",
+      "start": 27.36,
+      "end": 27.68
+    },
+    {
+      "word": "with",
+      "start": 27.68,
+      "end": 28.02
+    },
+    {
+      "word": "zero",
+      "start": 28.02,
+      "end": 28.42
+    },
+    {
+      "word": "manual",
+      "start": 28.42,
+      "end": 28.86
+    },
+    {
+      "word": "editing.",
+      "start": 28.86,
+      "end": 29.18
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop manually scrubbing through audio timelines looking for good clips.",
+      "line2": "CREATE VIRAL CLIPS",
+      "tag": "\ud83d\uded1 AI podcast clip generator that repurposes audio into viral short clips",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: AI podcast clip generator that repurposes audio into viral short clips",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: AI podcast clip generator that repurposes audio into viral short clips",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "AI podcast clip generator that repurposes audio into viral short clips",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

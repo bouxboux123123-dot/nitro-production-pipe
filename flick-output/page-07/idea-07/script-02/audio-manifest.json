@@ -1,0 +1,386 @@
+{
+  "page": "page-07",
+  "idea": "Automated bug triage system that routes user reports directly to Linear",
+  "text": "Stop manually copying and pasting error screenshots into developer boards every morning. Customer support tickets pile up while engineers wait around for actionable bug reproduction data. Manual handoffs between Zendesk and Jira create duplicate tickets and lost client details. Connect support webhooks to Claude API via Zapier to parse error logs directly into priority Linear tasks. You slash engineering resolution time and keep customers thrilled.",
+  "duration": 28.623,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "manually",
+      "start": 0.42,
+      "end": 0.9
+    },
+    {
+      "word": "copying",
+      "start": 0.9,
+      "end": 1.34
+    },
+    {
+      "word": "and",
+      "start": 1.34,
+      "end": 1.68
+    },
+    {
+      "word": "pasting",
+      "start": 1.68,
+      "end": 2.1
+    },
+    {
+      "word": "error",
+      "start": 2.1,
+      "end": 2.36
+    },
+    {
+      "word": "screenshots",
+      "start": 2.36,
+      "end": 2.96
+    },
+    {
+      "word": "into",
+      "start": 2.96,
+      "end": 3.32
+    },
+    {
+      "word": "developer",
+      "start": 3.32,
+      "end": 3.66
+    },
+    {
+      "word": "boards",
+      "start": 3.66,
+      "end": 4.08
+    },
+    {
+      "word": "every",
+      "start": 4.08,
+      "end": 4.46
+    },
+    {
+      "word": "morning.",
+      "start": 4.46,
+      "end": 5.16
+    },
+    {
+      "word": "Customer",
+      "start": 5.8,
+      "end": 5.8
+    },
+    {
+      "word": "support",
+      "start": 5.8,
+      "end": 6.38
+    },
+    {
+      "word": "tickets",
+      "start": 6.38,
+      "end": 6.74
+    },
+    {
+      "word": "pile",
+      "start": 6.74,
+      "end": 7.06
+    },
+    {
+      "word": "up",
+      "start": 7.06,
+      "end": 7.46
+    },
+    {
+      "word": "while",
+      "start": 7.46,
+      "end": 7.82
+    },
+    {
+      "word": "engineers",
+      "start": 7.82,
+      "end": 8.24
+    },
+    {
+      "word": "wait",
+      "start": 8.24,
+      "end": 8.54
+    },
+    {
+      "word": "around",
+      "start": 8.54,
+      "end": 8.9
+    },
+    {
+      "word": "for",
+      "start": 8.9,
+      "end": 9.16
+    },
+    {
+      "word": "actionable",
+      "start": 9.16,
+      "end": 9.7
+    },
+    {
+      "word": "bug",
+      "start": 9.7,
+      "end": 9.98
+    },
+    {
+      "word": "reproduction",
+      "start": 9.98,
+      "end": 10.5
+    },
+    {
+      "word": "data.",
+      "start": 10.5,
+      "end": 10.98
+    },
+    {
+      "word": "Manual",
+      "start": 11.62,
+      "end": 11.62
+    },
+    {
+      "word": "handoffs",
+      "start": 11.62,
+      "end": 12.14
+    },
+    {
+      "word": "between",
+      "start": 12.14,
+      "end": 12.52
+    },
+    {
+      "word": "Zendesk",
+      "start": 12.52,
+      "end": 13.14
+    },
+    {
+      "word": "and",
+      "start": 13.14,
+      "end": 13.3
+    },
+    {
+      "word": "Jira",
+      "start": 13.3,
+      "end": 13.58
+    },
+    {
+      "word": "create",
+      "start": 13.58,
+      "end": 14.14
+    },
+    {
+      "word": "duplicate",
+      "start": 14.14,
+      "end": 14.56
+    },
+    {
+      "word": "tickets",
+      "start": 14.56,
+      "end": 15.08
+    },
+    {
+      "word": "and",
+      "start": 15.08,
+      "end": 15.56
+    },
+    {
+      "word": "lost",
+      "start": 15.56,
+      "end": 15.84
+    },
+    {
+      "word": "client",
+      "start": 15.84,
+      "end": 16.2
+    },
+    {
+      "word": "details.",
+      "start": 16.2,
+      "end": 16.78
+    },
+    {
+      "word": "Connect",
+      "start": 17.5,
+      "end": 17.72
+    },
+    {
+      "word": "support",
+      "start": 17.72,
+      "end": 18.22
+    },
+    {
+      "word": "webhooks",
+      "start": 18.22,
+      "end": 18.68
+    },
+    {
+      "word": "to",
+      "start": 18.68,
+      "end": 18.86
+    },
+    {
+      "word": "Claude",
+      "start": 18.86,
+      "end": 19.2
+    },
+    {
+      "word": "API",
+      "start": 19.2,
+      "end": 19.84
+    },
+    {
+      "word": "via",
+      "start": 19.84,
+      "end": 20.34
+    },
+    {
+      "word": "Zapier",
+      "start": 20.34,
+      "end": 20.82
+    },
+    {
+      "word": "to",
+      "start": 20.82,
+      "end": 21.04
+    },
+    {
+      "word": "parse",
+      "start": 21.04,
+      "end": 21.36
+    },
+    {
+      "word": "error",
+      "start": 21.36,
+      "end": 21.6
+    },
+    {
+      "word": "logs",
+      "start": 21.6,
+      "end": 22.12
+    },
+    {
+      "word": "directly",
+      "start": 22.12,
+      "end": 22.76
+    },
+    {
+      "word": "into",
+      "start": 22.76,
+      "end": 23.04
+    },
+    {
+      "word": "priority",
+      "start": 23.04,
+      "end": 23.54
+    },
+    {
+      "word": "linear",
+      "start": 23.54,
+      "end": 23.82
+    },
+    {
+      "word": "tasks.",
+      "start": 23.82,
+      "end": 24.34
+    },
+    {
+      "word": "You",
+      "start": 25.0,
+      "end": 25.1
+    },
+    {
+      "word": "slash",
+      "start": 25.1,
+      "end": 25.46
+    },
+    {
+      "word": "engineering",
+      "start": 25.46,
+      "end": 26.04
+    },
+    {
+      "word": "resolution",
+      "start": 26.04,
+      "end": 26.58
+    },
+    {
+      "word": "time",
+      "start": 26.58,
+      "end": 27.12
+    },
+    {
+      "word": "and",
+      "start": 27.12,
+      "end": 27.36
+    },
+    {
+      "word": "keep",
+      "start": 27.36,
+      "end": 27.66
+    },
+    {
+      "word": "customers",
+      "start": 27.66,
+      "end": 28.1
+    },
+    {
+      "word": "thrilled.",
+      "start": 28.1,
+      "end": 28.56
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop manually copying and pasting error screenshots into developer boards.",
+      "line2": "ROUTE BUGS TO LINEAR",
+      "tag": "\ud83d\uded1 Automated bug triage system that routes user reports directly to Linear",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated bug triage system that routes user reports directly to Linear",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated bug triage system that routes user reports directly to Linear",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated bug triage system that routes user reports directly to Linear",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

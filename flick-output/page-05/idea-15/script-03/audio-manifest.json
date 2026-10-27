@@ -1,0 +1,396 @@
+{
+  "page": "page-05",
+  "idea": "Automated calendar reminder sequence via Twilio SMS and Make",
+  "text": "Stop losing money when clients forget their scheduled appointment times. Missed consultation calls drain agency revenue and leave paid account managers sitting idle during prime business hours. Relying strictly on calendar invitations fails because over eighty percent of promotional notification emails go unopened. Build an automated workflow in Make that fires SMS confirmations via Twilio sixty minutes before call start times. You reclaim lost billable hours effortlessly.",
+  "duration": 29.306,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "losing",
+      "start": 0.42,
+      "end": 0.74
+    },
+    {
+      "word": "money",
+      "start": 0.74,
+      "end": 1.14
+    },
+    {
+      "word": "when",
+      "start": 1.14,
+      "end": 1.44
+    },
+    {
+      "word": "clients",
+      "start": 1.44,
+      "end": 1.72
+    },
+    {
+      "word": "forget",
+      "start": 1.72,
+      "end": 2.02
+    },
+    {
+      "word": "their",
+      "start": 2.02,
+      "end": 2.4
+    },
+    {
+      "word": "scheduled",
+      "start": 2.4,
+      "end": 2.78
+    },
+    {
+      "word": "appointment",
+      "start": 2.78,
+      "end": 3.2
+    },
+    {
+      "word": "times.",
+      "start": 3.2,
+      "end": 3.8
+    },
+    {
+      "word": "Mist",
+      "start": 4.44,
+      "end": 4.56
+    },
+    {
+      "word": "consultation",
+      "start": 4.56,
+      "end": 5.16
+    },
+    {
+      "word": "calls",
+      "start": 5.16,
+      "end": 5.7
+    },
+    {
+      "word": "drain",
+      "start": 5.7,
+      "end": 6.08
+    },
+    {
+      "word": "agency",
+      "start": 6.08,
+      "end": 6.56
+    },
+    {
+      "word": "revenue",
+      "start": 6.56,
+      "end": 6.94
+    },
+    {
+      "word": "and",
+      "start": 6.94,
+      "end": 7.5
+    },
+    {
+      "word": "leave",
+      "start": 7.5,
+      "end": 7.78
+    },
+    {
+      "word": "paid",
+      "start": 7.78,
+      "end": 8.0
+    },
+    {
+      "word": "account",
+      "start": 8.0,
+      "end": 8.44
+    },
+    {
+      "word": "managers",
+      "start": 8.44,
+      "end": 8.82
+    },
+    {
+      "word": "sitting",
+      "start": 8.82,
+      "end": 9.38
+    },
+    {
+      "word": "idle",
+      "start": 9.38,
+      "end": 9.64
+    },
+    {
+      "word": "during",
+      "start": 9.64,
+      "end": 10.06
+    },
+    {
+      "word": "prime",
+      "start": 10.06,
+      "end": 10.48
+    },
+    {
+      "word": "business",
+      "start": 10.48,
+      "end": 10.88
+    },
+    {
+      "word": "hours,",
+      "start": 10.88,
+      "end": 11.36
+    },
+    {
+      "word": "relying",
+      "start": 12.02,
+      "end": 12.02
+    },
+    {
+      "word": "strictly",
+      "start": 12.02,
+      "end": 12.56
+    },
+    {
+      "word": "on",
+      "start": 12.56,
+      "end": 12.86
+    },
+    {
+      "word": "calendar",
+      "start": 12.86,
+      "end": 13.22
+    },
+    {
+      "word": "invitations",
+      "start": 13.22,
+      "end": 13.84
+    },
+    {
+      "word": "fails",
+      "start": 13.84,
+      "end": 14.4
+    },
+    {
+      "word": "because",
+      "start": 14.4,
+      "end": 14.9
+    },
+    {
+      "word": "over",
+      "start": 14.9,
+      "end": 15.2
+    },
+    {
+      "word": "80",
+      "start": 15.2,
+      "end": 15.54
+    },
+    {
+      "word": "%",
+      "start": 15.54,
+      "end": 15.94
+    },
+    {
+      "word": "of",
+      "start": 15.94,
+      "end": 16.06
+    },
+    {
+      "word": "promotional",
+      "start": 16.06,
+      "end": 16.44
+    },
+    {
+      "word": "notification",
+      "start": 16.44,
+      "end": 17.08
+    },
+    {
+      "word": "emails",
+      "start": 17.08,
+      "end": 17.66
+    },
+    {
+      "word": "go",
+      "start": 17.66,
+      "end": 18.06
+    },
+    {
+      "word": "unopened.",
+      "start": 18.06,
+      "end": 18.66
+    },
+    {
+      "word": "Build",
+      "start": 19.28,
+      "end": 19.34
+    },
+    {
+      "word": "an",
+      "start": 19.34,
+      "end": 19.58
+    },
+    {
+      "word": "automated",
+      "start": 19.58,
+      "end": 19.96
+    },
+    {
+      "word": "workflow",
+      "start": 19.96,
+      "end": 20.46
+    },
+    {
+      "word": "and",
+      "start": 20.46,
+      "end": 20.74
+    },
+    {
+      "word": "make",
+      "start": 20.74,
+      "end": 20.92
+    },
+    {
+      "word": "that",
+      "start": 20.92,
+      "end": 21.22
+    },
+    {
+      "word": "fires",
+      "start": 21.22,
+      "end": 21.58
+    },
+    {
+      "word": "SMS",
+      "start": 21.58,
+      "end": 22.22
+    },
+    {
+      "word": "confirmations",
+      "start": 22.22,
+      "end": 23.16
+    },
+    {
+      "word": "via",
+      "start": 23.16,
+      "end": 23.6
+    },
+    {
+      "word": "Twilio",
+      "start": 23.6,
+      "end": 24.14
+    },
+    {
+      "word": "60",
+      "start": 24.14,
+      "end": 24.56
+    },
+    {
+      "word": "minutes",
+      "start": 24.56,
+      "end": 24.84
+    },
+    {
+      "word": "before",
+      "start": 24.84,
+      "end": 25.28
+    },
+    {
+      "word": "call",
+      "start": 25.28,
+      "end": 25.6
+    },
+    {
+      "word": "start",
+      "start": 25.6,
+      "end": 25.92
+    },
+    {
+      "word": "times.",
+      "start": 25.92,
+      "end": 26.34
+    },
+    {
+      "word": "You",
+      "start": 26.34,
+      "end": 27.04
+    },
+    {
+      "word": "reclaim",
+      "start": 27.04,
+      "end": 27.38
+    },
+    {
+      "word": "lost",
+      "start": 27.38,
+      "end": 27.8
+    },
+    {
+      "word": "billable",
+      "start": 27.8,
+      "end": 28.22
+    },
+    {
+      "word": "hours",
+      "start": 28.22,
+      "end": 28.68
+    },
+    {
+      "word": "effortlessly.",
+      "start": 28.68,
+      "end": 29.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stop losing money when clients forget their appointment time.",
+      "line2": "AUTOMATED SMS REMINDERS",
+      "tag": "\ud83d\uded1 Automated calendar reminder sequence via Twilio SMS and Make",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated calendar reminder sequence via Twilio SMS and Make",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated calendar reminder sequence via Twilio SMS and Make",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

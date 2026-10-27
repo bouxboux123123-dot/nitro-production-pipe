@@ -1,0 +1,396 @@
+{
+  "page": "page-05",
+  "idea": "Make.com scenario that auto-generates branded invoices upon payment",
+  "text": "This simple Make scenario handles all your client invoicing on complete autopilot. Solo founders often delay billing clients simply because drafting custom line-item documents feels tedious. Postponing invoices ruins company cash flow and signals unprofessionalism to your highest-value accounts. Configure a webhook that triggers Make to compile Stripe receipts and archive them inside Google Drive. You get paid faster while maintaining pristine financial records.",
+  "duration": 26.539,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "simple",
+      "start": 0.3,
+      "end": 0.44
+    },
+    {
+      "word": "-make",
+      "start": 0.44,
+      "end": 0.68
+    },
+    {
+      "word": "scenario",
+      "start": 0.68,
+      "end": 1.1
+    },
+    {
+      "word": "handles",
+      "start": 1.1,
+      "end": 1.54
+    },
+    {
+      "word": "all",
+      "start": 1.54,
+      "end": 1.84
+    },
+    {
+      "word": "your",
+      "start": 1.84,
+      "end": 2.04
+    },
+    {
+      "word": "client",
+      "start": 2.04,
+      "end": 2.34
+    },
+    {
+      "word": "invoicing",
+      "start": 2.34,
+      "end": 2.84
+    },
+    {
+      "word": "on",
+      "start": 2.84,
+      "end": 3.16
+    },
+    {
+      "word": "complete",
+      "start": 3.16,
+      "end": 3.54
+    },
+    {
+      "word": "autopilot.",
+      "start": 3.54,
+      "end": 4.4
+    },
+    {
+      "word": "Solo",
+      "start": 5.02,
+      "end": 5.02
+    },
+    {
+      "word": "founders",
+      "start": 5.02,
+      "end": 5.5
+    },
+    {
+      "word": "often",
+      "start": 5.5,
+      "end": 5.92
+    },
+    {
+      "word": "delay",
+      "start": 5.92,
+      "end": 6.14
+    },
+    {
+      "word": "billing",
+      "start": 6.14,
+      "end": 6.5
+    },
+    {
+      "word": "clients",
+      "start": 6.5,
+      "end": 6.9
+    },
+    {
+      "word": "simply",
+      "start": 6.9,
+      "end": 7.16
+    },
+    {
+      "word": "because",
+      "start": 7.16,
+      "end": 7.66
+    },
+    {
+      "word": "drafting",
+      "start": 7.66,
+      "end": 8.08
+    },
+    {
+      "word": "custom",
+      "start": 8.08,
+      "end": 8.52
+    },
+    {
+      "word": "line",
+      "start": 8.52,
+      "end": 8.8
+    },
+    {
+      "word": "item",
+      "start": 8.8,
+      "end": 9.06
+    },
+    {
+      "word": "documents",
+      "start": 9.06,
+      "end": 9.56
+    },
+    {
+      "word": "feels",
+      "start": 9.56,
+      "end": 9.9
+    },
+    {
+      "word": "tedious.",
+      "start": 9.9,
+      "end": 10.4
+    },
+    {
+      "word": "Post",
+      "start": 11.04,
+      "end": 11.24
+    },
+    {
+      "word": "-poning",
+      "start": 11.24,
+      "end": 11.54
+    },
+    {
+      "word": "invoices",
+      "start": 11.54,
+      "end": 12.12
+    },
+    {
+      "word": "ruins",
+      "start": 12.12,
+      "end": 12.4
+    },
+    {
+      "word": "company",
+      "start": 12.4,
+      "end": 12.82
+    },
+    {
+      "word": "cash",
+      "start": 12.82,
+      "end": 13.32
+    },
+    {
+      "word": "flow",
+      "start": 13.32,
+      "end": 13.62
+    },
+    {
+      "word": "and",
+      "start": 13.62,
+      "end": 13.94
+    },
+    {
+      "word": "signals",
+      "start": 13.94,
+      "end": 14.2
+    },
+    {
+      "word": "unprofessionalism",
+      "start": 14.2,
+      "end": 15.12
+    },
+    {
+      "word": "to",
+      "start": 15.12,
+      "end": 15.34
+    },
+    {
+      "word": "your",
+      "start": 15.34,
+      "end": 15.5
+    },
+    {
+      "word": "highest",
+      "start": 15.5,
+      "end": 15.74
+    },
+    {
+      "word": "value",
+      "start": 15.74,
+      "end": 16.08
+    },
+    {
+      "word": "accounts.",
+      "start": 16.08,
+      "end": 16.68
+    },
+    {
+      "word": "Configure",
+      "start": 17.3,
+      "end": 17.72
+    },
+    {
+      "word": "a",
+      "start": 17.72,
+      "end": 17.84
+    },
+    {
+      "word": "webhook",
+      "start": 17.84,
+      "end": 18.18
+    },
+    {
+      "word": "that",
+      "start": 18.18,
+      "end": 18.74
+    },
+    {
+      "word": "triggers",
+      "start": 18.74,
+      "end": 18.74
+    },
+    {
+      "word": "make",
+      "start": 18.74,
+      "end": 18.96
+    },
+    {
+      "word": "to",
+      "start": 18.96,
+      "end": 19.16
+    },
+    {
+      "word": "compile",
+      "start": 19.16,
+      "end": 19.52
+    },
+    {
+      "word": "stripe",
+      "start": 19.52,
+      "end": 19.92
+    },
+    {
+      "word": "receipts",
+      "start": 19.92,
+      "end": 20.36
+    },
+    {
+      "word": "and",
+      "start": 20.36,
+      "end": 20.8
+    },
+    {
+      "word": "archive",
+      "start": 20.8,
+      "end": 21.04
+    },
+    {
+      "word": "them",
+      "start": 21.04,
+      "end": 21.4
+    },
+    {
+      "word": "inside",
+      "start": 21.4,
+      "end": 21.86
+    },
+    {
+      "word": "Google",
+      "start": 21.86,
+      "end": 22.18
+    },
+    {
+      "word": "Drive.",
+      "start": 22.18,
+      "end": 22.64
+    },
+    {
+      "word": "You",
+      "start": 22.64,
+      "end": 23.22
+    },
+    {
+      "word": "get",
+      "start": 23.22,
+      "end": 23.44
+    },
+    {
+      "word": "paid",
+      "start": 23.44,
+      "end": 23.7
+    },
+    {
+      "word": "faster",
+      "start": 23.7,
+      "end": 24.12
+    },
+    {
+      "word": "while",
+      "start": 24.12,
+      "end": 24.52
+    },
+    {
+      "word": "maintaining",
+      "start": 24.52,
+      "end": 25.0
+    },
+    {
+      "word": "pristine",
+      "start": 25.0,
+      "end": 25.52
+    },
+    {
+      "word": "financial",
+      "start": 25.52,
+      "end": 26.02
+    },
+    {
+      "word": "records.",
+      "start": 26.02,
+      "end": 26.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The simple Make.com scenario that handles all client invoicing on autopilot.",
+      "line2": "AUTO-GENERATE BRANDED INVOICES",
+      "tag": "\ud83d\uded1 Make.com scenario that auto-generates branded invoices upon payment",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Make.com scenario that auto-generates branded invoices upon payment",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Make.com scenario that auto-generates branded invoices upon payment",
+        "subtitle": "Make.com scenario that auto-generates branded invoices upon payment"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Make.com scenario that auto-generates branded invoices upon payment"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Make.com scenario that auto-generates branded invoices upon payment"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Make.com scenario that auto-generates branded invoices upon payment",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "White-label client portal that houses deliverables and revision requests",
+  "text": "Stop letting client feedback get lost across endless Slack messages, emails, and WhatsApp. Scattering creative revision notes across disconnected channels leads to missed change requests and angry clients. Without a single source of truth, designers make conflicting edits that trigger costly project delays. Route all deliverable reviews through a branded Copilot portal with structured feedback forms and Loom embeds. You eliminate revision chaos while cutting turnaround time in half.",
+  "duration": 29.434,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "letting",
+      "start": 0.38,
+      "end": 0.66
+    },
+    {
+      "word": "client",
+      "start": 0.66,
+      "end": 0.96
+    },
+    {
+      "word": "feedback",
+      "start": 0.96,
+      "end": 1.34
+    },
+    {
+      "word": "get",
+      "start": 1.34,
+      "end": 1.82
+    },
+    {
+      "word": "lost",
+      "start": 1.82,
+      "end": 2.08
+    },
+    {
+      "word": "across",
+      "start": 2.08,
+      "end": 2.54
+    },
+    {
+      "word": "endless",
+      "start": 2.54,
+      "end": 2.88
+    },
+    {
+      "word": "slack",
+      "start": 2.88,
+      "end": 3.22
+    },
+    {
+      "word": "messages,",
+      "start": 3.22,
+      "end": 3.76
+    },
+    {
+      "word": "emails,",
+      "start": 4.28,
+      "end": 4.58
+    },
+    {
+      "word": "and",
+      "start": 4.92,
+      "end": 5.12
+    },
+    {
+      "word": "what's",
+      "start": 5.12,
+      "end": 5.46
+    },
+    {
+      "word": "app.",
+      "start": 5.46,
+      "end": 5.94
+    },
+    {
+      "word": "Scattering",
+      "start": 6.58,
+      "end": 6.72
+    },
+    {
+      "word": "creative",
+      "start": 6.72,
+      "end": 7.22
+    },
+    {
+      "word": "revision",
+      "start": 7.22,
+      "end": 7.56
+    },
+    {
+      "word": "notes",
+      "start": 7.56,
+      "end": 7.92
+    },
+    {
+      "word": "across",
+      "start": 7.92,
+      "end": 8.38
+    },
+    {
+      "word": "disconnected",
+      "start": 8.38,
+      "end": 8.82
+    },
+    {
+      "word": "channels",
+      "start": 8.82,
+      "end": 9.5
+    },
+    {
+      "word": "leads",
+      "start": 9.5,
+      "end": 10.1
+    },
+    {
+      "word": "to",
+      "start": 10.1,
+      "end": 10.32
+    },
+    {
+      "word": "mischange",
+      "start": 10.32,
+      "end": 10.86
+    },
+    {
+      "word": "requests",
+      "start": 10.86,
+      "end": 11.36
+    },
+    {
+      "word": "and",
+      "start": 11.36,
+      "end": 11.7
+    },
+    {
+      "word": "angry",
+      "start": 11.7,
+      "end": 11.98
+    },
+    {
+      "word": "clients.",
+      "start": 11.98,
+      "end": 12.52
+    },
+    {
+      "word": "Without",
+      "start": 12.92,
+      "end": 13.12
+    },
+    {
+      "word": "a",
+      "start": 13.12,
+      "end": 13.3
+    },
+    {
+      "word": "single",
+      "start": 13.3,
+      "end": 13.48
+    },
+    {
+      "word": "source",
+      "start": 13.48,
+      "end": 13.82
+    },
+    {
+      "word": "of",
+      "start": 13.82,
+      "end": 14.04
+    },
+    {
+      "word": "truth,",
+      "start": 14.04,
+      "end": 14.5
+    },
+    {
+      "word": "designers",
+      "start": 14.78,
+      "end": 15.08
+    },
+    {
+      "word": "make",
+      "start": 15.08,
+      "end": 15.5
+    },
+    {
+      "word": "conflicting",
+      "start": 15.5,
+      "end": 15.92
+    },
+    {
+      "word": "edits",
+      "start": 15.92,
+      "end": 16.34
+    },
+    {
+      "word": "that",
+      "start": 16.34,
+      "end": 16.64
+    },
+    {
+      "word": "trigger",
+      "start": 16.64,
+      "end": 16.92
+    },
+    {
+      "word": "costly",
+      "start": 16.92,
+      "end": 17.34
+    },
+    {
+      "word": "project",
+      "start": 17.34,
+      "end": 17.92
+    },
+    {
+      "word": "delays.",
+      "start": 17.92,
+      "end": 18.38
+    },
+    {
+      "word": "Route",
+      "start": 19.0,
+      "end": 19.28
+    },
+    {
+      "word": "all",
+      "start": 19.28,
+      "end": 19.66
+    },
+    {
+      "word": "deliverable",
+      "start": 19.66,
+      "end": 20.14
+    },
+    {
+      "word": "reviews",
+      "start": 20.14,
+      "end": 20.48
+    },
+    {
+      "word": "through",
+      "start": 20.48,
+      "end": 20.88
+    },
+    {
+      "word": "a",
+      "start": 20.88,
+      "end": 21.0
+    },
+    {
+      "word": "branded",
+      "start": 21.0,
+      "end": 21.36
+    },
+    {
+      "word": "co",
+      "start": 21.36,
+      "end": 21.72
+    },
+    {
+      "word": "-pilot",
+      "start": 21.72,
+      "end": 22.0
+    },
+    {
+      "word": "portal",
+      "start": 22.0,
+      "end": 22.4
+    },
+    {
+      "word": "with",
+      "start": 22.4,
+      "end": 22.86
+    },
+    {
+      "word": "structured",
+      "start": 22.86,
+      "end": 23.18
+    },
+    {
+      "word": "feedback",
+      "start": 23.18,
+      "end": 23.64
+    },
+    {
+      "word": "forms",
+      "start": 23.64,
+      "end": 24.18
+    },
+    {
+      "word": "and",
+      "start": 24.18,
+      "end": 24.5
+    },
+    {
+      "word": "loom",
+      "start": 24.5,
+      "end": 24.78
+    },
+    {
+      "word": "embeds.",
+      "start": 24.78,
+      "end": 25.56
+    },
+    {
+      "word": "You",
+      "start": 25.56,
+      "end": 26.06
+    },
+    {
+      "word": "eliminate",
+      "start": 26.06,
+      "end": 26.46
+    },
+    {
+      "word": "revision",
+      "start": 26.46,
+      "end": 26.94
+    },
+    {
+      "word": "chaos",
+      "start": 26.94,
+      "end": 27.34
+    },
+    {
+      "word": "while",
+      "start": 27.34,
+      "end": 27.72
+    },
+    {
+      "word": "cutting",
+      "start": 27.72,
+      "end": 28.08
+    },
+    {
+      "word": "turnaround",
+      "start": 28.08,
+      "end": 28.56
+    },
+    {
+      "word": "time",
+      "start": 28.56,
+      "end": 28.94
+    },
+    {
+      "word": "in",
+      "start": 28.94,
+      "end": 29.12
+    },
+    {
+      "word": "half.",
+      "start": 29.12,
+      "end": 29.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Stop letting client feedback get lost across endless Slack messages, emails, and WhatsApp.",
+      "line2": "WHITE-LABEL CLIENT PORTAL",
+      "tag": "\ud83d\uded1 White-label client portal that houses deliverables and revision requests",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: White-label client portal that houses deliverables and revision requests",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: White-label client portal that houses deliverables and revision requests",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "White-label client portal that houses deliverables and revision requests",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

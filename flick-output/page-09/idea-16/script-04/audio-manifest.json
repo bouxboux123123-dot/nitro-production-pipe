@@ -1,0 +1,391 @@
+{
+  "page": "page-09",
+  "idea": "Stripe vs Lemon Squeezy: which merchant of record is best for digital creators",
+  "text": "Stop stressing over European VAT and sales tax audits on your digital software downloads. Small software creators spend hours every quarter reconciling international tax IDs and currency conversions manually. Traditional payment gateways pass direct regulatory liability and audit risk straight to your business entity. Implement Lemon Squeezy as your Merchant of Record so their entity remits global taxes automatically. This keeps your attention on shipping products.",
+  "duration": 29.114,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "stressing",
+      "start": 0.38,
+      "end": 0.78
+    },
+    {
+      "word": "over",
+      "start": 0.78,
+      "end": 1.08
+    },
+    {
+      "word": "European",
+      "start": 1.08,
+      "end": 1.54
+    },
+    {
+      "word": "VAT",
+      "start": 1.54,
+      "end": 2.1
+    },
+    {
+      "word": "and",
+      "start": 2.1,
+      "end": 2.62
+    },
+    {
+      "word": "sales,",
+      "start": 2.62,
+      "end": 3.1
+    },
+    {
+      "word": "tax",
+      "start": 3.52,
+      "end": 3.66
+    },
+    {
+      "word": "audits",
+      "start": 3.66,
+      "end": 3.94
+    },
+    {
+      "word": "on",
+      "start": 3.94,
+      "end": 4.16
+    },
+    {
+      "word": "your",
+      "start": 4.16,
+      "end": 4.34
+    },
+    {
+      "word": "digital",
+      "start": 4.34,
+      "end": 4.7
+    },
+    {
+      "word": "software",
+      "start": 4.7,
+      "end": 5.16
+    },
+    {
+      "word": "downloads.",
+      "start": 5.16,
+      "end": 5.82
+    },
+    {
+      "word": "Small",
+      "start": 6.52,
+      "end": 6.78
+    },
+    {
+      "word": "software",
+      "start": 6.78,
+      "end": 7.18
+    },
+    {
+      "word": "creators",
+      "start": 7.18,
+      "end": 7.76
+    },
+    {
+      "word": "spend",
+      "start": 7.76,
+      "end": 8.2
+    },
+    {
+      "word": "hours",
+      "start": 8.2,
+      "end": 8.54
+    },
+    {
+      "word": "every",
+      "start": 8.54,
+      "end": 9.02
+    },
+    {
+      "word": "quarter",
+      "start": 9.02,
+      "end": 9.28
+    },
+    {
+      "word": "reconciling",
+      "start": 9.28,
+      "end": 10.08
+    },
+    {
+      "word": "international",
+      "start": 10.08,
+      "end": 10.56
+    },
+    {
+      "word": "tax,",
+      "start": 10.56,
+      "end": 11.18
+    },
+    {
+      "word": "ID",
+      "start": 11.4,
+      "end": 11.82
+    },
+    {
+      "word": "and",
+      "start": 11.82,
+      "end": 12.2
+    },
+    {
+      "word": "currency",
+      "start": 12.2,
+      "end": 12.6
+    },
+    {
+      "word": "conversions",
+      "start": 12.6,
+      "end": 13.26
+    },
+    {
+      "word": "manually.",
+      "start": 13.26,
+      "end": 13.8
+    },
+    {
+      "word": "Traditional",
+      "start": 14.64,
+      "end": 14.64
+    },
+    {
+      "word": "payment",
+      "start": 14.64,
+      "end": 15.0
+    },
+    {
+      "word": "gateways",
+      "start": 15.0,
+      "end": 15.48
+    },
+    {
+      "word": "pass",
+      "start": 15.48,
+      "end": 15.94
+    },
+    {
+      "word": "direct",
+      "start": 15.94,
+      "end": 16.38
+    },
+    {
+      "word": "regulatory",
+      "start": 16.38,
+      "end": 16.94
+    },
+    {
+      "word": "liability",
+      "start": 16.94,
+      "end": 17.64
+    },
+    {
+      "word": "and",
+      "start": 17.64,
+      "end": 18.08
+    },
+    {
+      "word": "audit",
+      "start": 18.08,
+      "end": 18.38
+    },
+    {
+      "word": "risks",
+      "start": 18.38,
+      "end": 18.7
+    },
+    {
+      "word": "straight",
+      "start": 18.7,
+      "end": 19.04
+    },
+    {
+      "word": "to",
+      "start": 19.04,
+      "end": 19.2
+    },
+    {
+      "word": "your",
+      "start": 19.2,
+      "end": 19.4
+    },
+    {
+      "word": "business",
+      "start": 19.4,
+      "end": 19.7
+    },
+    {
+      "word": "entity.",
+      "start": 19.7,
+      "end": 20.24
+    },
+    {
+      "word": "Implement",
+      "start": 21.0,
+      "end": 21.0
+    },
+    {
+      "word": "lemon",
+      "start": 21.0,
+      "end": 21.38
+    },
+    {
+      "word": "squeezy",
+      "start": 21.38,
+      "end": 21.98
+    },
+    {
+      "word": "as",
+      "start": 21.98,
+      "end": 22.24
+    },
+    {
+      "word": "your",
+      "start": 22.24,
+      "end": 22.46
+    },
+    {
+      "word": "merchant",
+      "start": 22.46,
+      "end": 22.68
+    },
+    {
+      "word": "of",
+      "start": 22.68,
+      "end": 22.9
+    },
+    {
+      "word": "record",
+      "start": 22.9,
+      "end": 23.24
+    },
+    {
+      "word": "so",
+      "start": 23.24,
+      "end": 23.7
+    },
+    {
+      "word": "their",
+      "start": 23.7,
+      "end": 24.02
+    },
+    {
+      "word": "entity",
+      "start": 24.02,
+      "end": 24.32
+    },
+    {
+      "word": "remits",
+      "start": 24.32,
+      "end": 24.72
+    },
+    {
+      "word": "global",
+      "start": 24.72,
+      "end": 25.16
+    },
+    {
+      "word": "taxes",
+      "start": 25.16,
+      "end": 25.66
+    },
+    {
+      "word": "automatically.",
+      "start": 25.66,
+      "end": 26.26
+    },
+    {
+      "word": "This",
+      "start": 26.94,
+      "end": 27.14
+    },
+    {
+      "word": "keeps",
+      "start": 27.14,
+      "end": 27.36
+    },
+    {
+      "word": "your",
+      "start": 27.36,
+      "end": 27.62
+    },
+    {
+      "word": "attention",
+      "start": 27.62,
+      "end": 27.94
+    },
+    {
+      "word": "on",
+      "start": 27.94,
+      "end": 28.26
+    },
+    {
+      "word": "shipping",
+      "start": 28.26,
+      "end": 28.52
+    },
+    {
+      "word": "products.",
+      "start": 28.52,
+      "end": 29.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Stop stressing over European VAT and sales tax audits on digital downloads.",
+      "line2": "STRIPE VS LEMON SQUEEZY",
+      "tag": "\ud83d\uded1 Stripe vs Lemon Squeezy",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Stripe vs Lemon Squeezy",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Stripe vs Lemon Squeezy",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Stripe vs Lemon Squeezy"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Stripe vs Lemon Squeezy",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-03",
+  "idea": "Automated Notion dashboard for tracking side hustle goals and metrics",
+  "text": "If your side hustle revenue and notes are scattered across five apps, watch this. Juggling Stripe payouts, client tasks, and messy spreadsheets leaves you guessing your actual net profit. Disconnected tools inevitably cause missed project deadlines, untracked expenses, and painful accounting headaches. Build an automated Notion dashboard connected via Make.com to sync your Gumroad sales and expenses instantly. You get real-time financial clarity while saving ten hours weekly.",
+  "duration": 28.73,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "your",
+      "start": 0.18,
+      "end": 0.42
+    },
+    {
+      "word": "side",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "hustle",
+      "start": 0.66,
+      "end": 0.96
+    },
+    {
+      "word": "revenue",
+      "start": 0.96,
+      "end": 1.28
+    },
+    {
+      "word": "and",
+      "start": 1.28,
+      "end": 1.62
+    },
+    {
+      "word": "notes",
+      "start": 1.62,
+      "end": 1.8
+    },
+    {
+      "word": "are",
+      "start": 1.8,
+      "end": 2.04
+    },
+    {
+      "word": "scattered",
+      "start": 2.04,
+      "end": 2.28
+    },
+    {
+      "word": "across",
+      "start": 2.28,
+      "end": 2.66
+    },
+    {
+      "word": "five",
+      "start": 2.66,
+      "end": 3.04
+    },
+    {
+      "word": "apps,",
+      "start": 3.04,
+      "end": 3.32
+    },
+    {
+      "word": "watch",
+      "start": 3.52,
+      "end": 3.8
+    },
+    {
+      "word": "this.",
+      "start": 3.8,
+      "end": 4.42
+    },
+    {
+      "word": "Juggling",
+      "start": 4.72,
+      "end": 5.14
+    },
+    {
+      "word": "stripe",
+      "start": 5.14,
+      "end": 5.48
+    },
+    {
+      "word": "payouts,",
+      "start": 5.48,
+      "end": 6.0
+    },
+    {
+      "word": "client",
+      "start": 6.3,
+      "end": 6.6
+    },
+    {
+      "word": "tasks,",
+      "start": 6.6,
+      "end": 7.0
+    },
+    {
+      "word": "and",
+      "start": 7.22,
+      "end": 7.6
+    },
+    {
+      "word": "messy",
+      "start": 7.6,
+      "end": 7.62
+    },
+    {
+      "word": "spreadsheets",
+      "start": 7.62,
+      "end": 8.24
+    },
+    {
+      "word": "leaves",
+      "start": 8.24,
+      "end": 8.6
+    },
+    {
+      "word": "you",
+      "start": 8.6,
+      "end": 8.78
+    },
+    {
+      "word": "guessing",
+      "start": 8.78,
+      "end": 9.04
+    },
+    {
+      "word": "your",
+      "start": 9.04,
+      "end": 9.42
+    },
+    {
+      "word": "actual",
+      "start": 9.42,
+      "end": 9.7
+    },
+    {
+      "word": "net",
+      "start": 9.7,
+      "end": 9.94
+    },
+    {
+      "word": "profit.",
+      "start": 9.94,
+      "end": 10.32
+    },
+    {
+      "word": "Disconnected",
+      "start": 10.76,
+      "end": 11.18
+    },
+    {
+      "word": "tools",
+      "start": 11.18,
+      "end": 11.76
+    },
+    {
+      "word": "inevitably",
+      "start": 11.76,
+      "end": 12.2
+    },
+    {
+      "word": "cause",
+      "start": 12.2,
+      "end": 12.66
+    },
+    {
+      "word": "missed",
+      "start": 12.66,
+      "end": 12.98
+    },
+    {
+      "word": "project",
+      "start": 12.98,
+      "end": 13.38
+    },
+    {
+      "word": "deadlines,",
+      "start": 13.38,
+      "end": 13.88
+    },
+    {
+      "word": "untracked",
+      "start": 14.42,
+      "end": 14.78
+    },
+    {
+      "word": "expenses,",
+      "start": 14.78,
+      "end": 15.36
+    },
+    {
+      "word": "and",
+      "start": 15.76,
+      "end": 16.06
+    },
+    {
+      "word": "painful",
+      "start": 16.06,
+      "end": 16.34
+    },
+    {
+      "word": "accounting",
+      "start": 16.34,
+      "end": 16.9
+    },
+    {
+      "word": "headaches.",
+      "start": 16.9,
+      "end": 17.34
+    },
+    {
+      "word": "Build",
+      "start": 17.96,
+      "end": 18.14
+    },
+    {
+      "word": "an",
+      "start": 18.14,
+      "end": 18.74
+    },
+    {
+      "word": "automated",
+      "start": 18.74,
+      "end": 18.74
+    },
+    {
+      "word": "notion",
+      "start": 18.74,
+      "end": 19.2
+    },
+    {
+      "word": "dashboard",
+      "start": 19.2,
+      "end": 19.78
+    },
+    {
+      "word": "connected",
+      "start": 19.78,
+      "end": 20.36
+    },
+    {
+      "word": "via",
+      "start": 20.36,
+      "end": 20.68
+    },
+    {
+      "word": "make,",
+      "start": 20.68,
+      "end": 21.02
+    },
+    {
+      "word": "calm",
+      "start": 21.38,
+      "end": 21.64
+    },
+    {
+      "word": "to",
+      "start": 21.64,
+      "end": 21.82
+    },
+    {
+      "word": "sink",
+      "start": 21.82,
+      "end": 22.0
+    },
+    {
+      "word": "your",
+      "start": 22.0,
+      "end": 22.32
+    },
+    {
+      "word": "gum",
+      "start": 22.32,
+      "end": 22.38
+    },
+    {
+      "word": "road",
+      "start": 22.38,
+      "end": 22.62
+    },
+    {
+      "word": "sales",
+      "start": 22.62,
+      "end": 23.06
+    },
+    {
+      "word": "and",
+      "start": 23.06,
+      "end": 23.28
+    },
+    {
+      "word": "expenses",
+      "start": 23.28,
+      "end": 23.72
+    },
+    {
+      "word": "instantly.",
+      "start": 23.72,
+      "end": 24.34
+    },
+    {
+      "word": "You",
+      "start": 24.92,
+      "end": 25.06
+    },
+    {
+      "word": "get",
+      "start": 25.06,
+      "end": 25.32
+    },
+    {
+      "word": "real",
+      "start": 25.32,
+      "end": 25.62
+    },
+    {
+      "word": "-time",
+      "start": 25.62,
+      "end": 25.96
+    },
+    {
+      "word": "financial",
+      "start": 25.96,
+      "end": 26.5
+    },
+    {
+      "word": "clarity",
+      "start": 26.5,
+      "end": 26.9
+    },
+    {
+      "word": "while",
+      "start": 26.9,
+      "end": 27.26
+    },
+    {
+      "word": "saving",
+      "start": 27.26,
+      "end": 27.6
+    },
+    {
+      "word": "10",
+      "start": 27.6,
+      "end": 27.96
+    },
+    {
+      "word": "hours",
+      "start": 27.96,
+      "end": 28.26
+    },
+    {
+      "word": "weekly.",
+      "start": 28.26,
+      "end": 28.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "If your side hustle notes and revenue numbers are scattered across 5 apps, watch this.",
+      "line2": "TRACK HUSTLE METRICS",
+      "tag": "\ud83d\uded1 Automated Notion dashboard for tracking side hustle goals and metrics",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated Notion dashboard for tracking side hustle goals and metrics",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated Notion dashboard for tracking side hustle goals and metrics",
+        "subtitle": "Automated Notion dashboard for tracking side hustle goals and metrics"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated Notion dashboard for tracking side hustle goals and metrics"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated Notion dashboard for tracking side hustle goals and metrics"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated Notion dashboard for tracking side hustle goals and metrics",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "page": "page-07",
+  "idea": "AI customer interview transcription and feature request clustering",
+  "text": "Here is the customer feedback pipeline used by fast-shipping product founders. User interviews pile up, but turning audio into structured product tickets takes too many manual hours. Valuable customer quotes get forgotten in cloud storage while product roadmaps drift away from market reality. Use Zapier to send Otter transcripts into Claude, generating tagged feature backlog items in Linear automatically. This aligns your product sprints with genuine customer demand.",
+  "duration": 28.431,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.86
+    },
+    {
+      "word": "customer",
+      "start": 0.86,
+      "end": 0.9
+    },
+    {
+      "word": "feedback",
+      "start": 0.9,
+      "end": 1.34
+    },
+    {
+      "word": "pipeline",
+      "start": 1.34,
+      "end": 2.02
+    },
+    {
+      "word": "used",
+      "start": 2.02,
+      "end": 2.4
+    },
+    {
+      "word": "by",
+      "start": 2.4,
+      "end": 2.68
+    },
+    {
+      "word": "fast",
+      "start": 2.68,
+      "end": 3.0
+    },
+    {
+      "word": "-chipping",
+      "start": 3.0,
+      "end": 3.32
+    },
+    {
+      "word": "product",
+      "start": 3.32,
+      "end": 3.74
+    },
+    {
+      "word": "founders.",
+      "start": 3.74,
+      "end": 4.18
+    },
+    {
+      "word": "User",
+      "start": 4.82,
+      "end": 5.04
+    },
+    {
+      "word": "interviews",
+      "start": 5.04,
+      "end": 5.52
+    },
+    {
+      "word": "pile",
+      "start": 5.52,
+      "end": 5.86
+    },
+    {
+      "word": "up.",
+      "start": 5.86,
+      "end": 6.32
+    },
+    {
+      "word": "But",
+      "start": 6.56,
+      "end": 6.68
+    },
+    {
+      "word": "turning",
+      "start": 6.68,
+      "end": 7.02
+    },
+    {
+      "word": "audio",
+      "start": 7.02,
+      "end": 7.4
+    },
+    {
+      "word": "into",
+      "start": 7.4,
+      "end": 7.74
+    },
+    {
+      "word": "structured",
+      "start": 7.74,
+      "end": 8.14
+    },
+    {
+      "word": "product",
+      "start": 8.14,
+      "end": 8.58
+    },
+    {
+      "word": "tickets",
+      "start": 8.58,
+      "end": 8.92
+    },
+    {
+      "word": "takes",
+      "start": 8.92,
+      "end": 9.4
+    },
+    {
+      "word": "too",
+      "start": 9.4,
+      "end": 9.66
+    },
+    {
+      "word": "many",
+      "start": 9.66,
+      "end": 9.86
+    },
+    {
+      "word": "manual",
+      "start": 9.86,
+      "end": 10.28
+    },
+    {
+      "word": "hours.",
+      "start": 10.28,
+      "end": 10.76
+    },
+    {
+      "word": "Valuable",
+      "start": 11.14,
+      "end": 11.6
+    },
+    {
+      "word": "customer",
+      "start": 11.6,
+      "end": 12.02
+    },
+    {
+      "word": "quotes",
+      "start": 12.02,
+      "end": 12.44
+    },
+    {
+      "word": "get",
+      "start": 12.44,
+      "end": 12.7
+    },
+    {
+      "word": "forgotten",
+      "start": 12.7,
+      "end": 13.06
+    },
+    {
+      "word": "in",
+      "start": 13.06,
+      "end": 13.34
+    },
+    {
+      "word": "cloud",
+      "start": 13.34,
+      "end": 13.68
+    },
+    {
+      "word": "storage",
+      "start": 13.68,
+      "end": 14.16
+    },
+    {
+      "word": "while",
+      "start": 14.16,
+      "end": 14.72
+    },
+    {
+      "word": "product",
+      "start": 14.72,
+      "end": 15.06
+    },
+    {
+      "word": "roadmaps",
+      "start": 15.06,
+      "end": 15.54
+    },
+    {
+      "word": "drift",
+      "start": 15.54,
+      "end": 15.88
+    },
+    {
+      "word": "away",
+      "start": 15.88,
+      "end": 16.16
+    },
+    {
+      "word": "from",
+      "start": 16.16,
+      "end": 16.48
+    },
+    {
+      "word": "market",
+      "start": 16.48,
+      "end": 16.76
+    },
+    {
+      "word": "reality.",
+      "start": 16.76,
+      "end": 17.26
+    },
+    {
+      "word": "Use",
+      "start": 18.06,
+      "end": 18.1
+    },
+    {
+      "word": "Zapier",
+      "start": 18.1,
+      "end": 18.54
+    },
+    {
+      "word": "to",
+      "start": 18.54,
+      "end": 18.74
+    },
+    {
+      "word": "send",
+      "start": 18.74,
+      "end": 19.08
+    },
+    {
+      "word": "auto",
+      "start": 19.08,
+      "end": 19.34
+    },
+    {
+      "word": "transcripts",
+      "start": 19.34,
+      "end": 19.82
+    },
+    {
+      "word": "into",
+      "start": 19.82,
+      "end": 20.2
+    },
+    {
+      "word": "Claude,",
+      "start": 20.2,
+      "end": 20.66
+    },
+    {
+      "word": "generating",
+      "start": 21.28,
+      "end": 21.28
+    },
+    {
+      "word": "tagged",
+      "start": 21.28,
+      "end": 21.84
+    },
+    {
+      "word": "feature",
+      "start": 21.84,
+      "end": 22.2
+    },
+    {
+      "word": "backlog",
+      "start": 22.2,
+      "end": 22.56
+    },
+    {
+      "word": "items",
+      "start": 22.56,
+      "end": 23.12
+    },
+    {
+      "word": "in",
+      "start": 23.12,
+      "end": 23.46
+    },
+    {
+      "word": "linear",
+      "start": 23.46,
+      "end": 23.68
+    },
+    {
+      "word": "automatically.",
+      "start": 23.68,
+      "end": 24.3
+    },
+    {
+      "word": "This",
+      "start": 25.06,
+      "end": 25.28
+    },
+    {
+      "word": "aligns",
+      "start": 25.28,
+      "end": 25.7
+    },
+    {
+      "word": "your",
+      "start": 25.7,
+      "end": 25.94
+    },
+    {
+      "word": "product's",
+      "start": 25.94,
+      "end": 26.46
+    },
+    {
+      "word": "sprints",
+      "start": 26.46,
+      "end": 26.66
+    },
+    {
+      "word": "with",
+      "start": 26.66,
+      "end": 26.88
+    },
+    {
+      "word": "genuine",
+      "start": 26.88,
+      "end": 27.3
+    },
+    {
+      "word": "customer",
+      "start": 27.3,
+      "end": 27.88
+    },
+    {
+      "word": "demand.",
+      "start": 27.88,
+      "end": 28.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The customer feedback pipeline used by fast-shipping product founders.",
+      "line2": "CLUSTER FEATURE REQUESTS",
+      "tag": "\ud83d\uded1 AI customer interview transcription and feature request clustering",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: AI customer interview transcription and feature request clustering",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: AI customer interview transcription and feature request clustering",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "AI customer interview transcription and feature request clustering"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "AI customer interview transcription and feature request clustering",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

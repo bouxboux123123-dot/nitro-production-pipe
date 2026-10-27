@@ -1,0 +1,396 @@
+{
+  "page": "page-05",
+  "idea": "Glide customer portal for equipment maintenance logging",
+  "text": "Here is the no-code operations app that saves field technicians an hour every day. Driving back to the depot to drop off paper work orders wastes fuel and billable hours. Inefficient dispatch routines prevent your crew from completing extra service calls before shifts end. Instead, use Glide and Airtable to update work tickets and sync inventory logs remotely. You increase technician capacity without added stress.",
+  "duration": 24.107,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "word": "the",
+      "start": 0.44,
+      "end": 0.58
+    },
+    {
+      "word": "no",
+      "start": 0.58,
+      "end": 0.78
+    },
+    {
+      "word": "-code",
+      "start": 0.78,
+      "end": 1.02
+    },
+    {
+      "word": "operations",
+      "start": 1.02,
+      "end": 1.48
+    },
+    {
+      "word": "app",
+      "start": 1.48,
+      "end": 1.9
+    },
+    {
+      "word": "that",
+      "start": 1.9,
+      "end": 2.14
+    },
+    {
+      "word": "saves",
+      "start": 2.14,
+      "end": 2.44
+    },
+    {
+      "word": "field",
+      "start": 2.44,
+      "end": 2.8
+    },
+    {
+      "word": "technicians",
+      "start": 2.8,
+      "end": 3.22
+    },
+    {
+      "word": "an",
+      "start": 3.22,
+      "end": 3.5
+    },
+    {
+      "word": "hour",
+      "start": 3.5,
+      "end": 3.76
+    },
+    {
+      "word": "every",
+      "start": 3.76,
+      "end": 4.04
+    },
+    {
+      "word": "day.",
+      "start": 4.04,
+      "end": 4.58
+    },
+    {
+      "word": "Driving",
+      "start": 4.84,
+      "end": 5.1
+    },
+    {
+      "word": "back",
+      "start": 5.1,
+      "end": 5.5
+    },
+    {
+      "word": "to",
+      "start": 5.5,
+      "end": 5.66
+    },
+    {
+      "word": "the",
+      "start": 5.66,
+      "end": 5.8
+    },
+    {
+      "word": "depot",
+      "start": 5.8,
+      "end": 5.9
+    },
+    {
+      "word": "to",
+      "start": 5.9,
+      "end": 6.18
+    },
+    {
+      "word": "drop",
+      "start": 6.18,
+      "end": 6.38
+    },
+    {
+      "word": "off",
+      "start": 6.38,
+      "end": 6.66
+    },
+    {
+      "word": "paperwork",
+      "start": 6.66,
+      "end": 7.0
+    },
+    {
+      "word": "orders",
+      "start": 7.0,
+      "end": 7.46
+    },
+    {
+      "word": "wastes",
+      "start": 7.46,
+      "end": 7.86
+    },
+    {
+      "word": "fuel",
+      "start": 7.86,
+      "end": 8.2
+    },
+    {
+      "word": "and",
+      "start": 8.2,
+      "end": 8.46
+    },
+    {
+      "word": "billable",
+      "start": 8.46,
+      "end": 8.82
+    },
+    {
+      "word": "hours.",
+      "start": 8.82,
+      "end": 9.28
+    },
+    {
+      "word": "In",
+      "start": 9.82,
+      "end": 9.94
+    },
+    {
+      "word": "efficient",
+      "start": 9.94,
+      "end": 10.22
+    },
+    {
+      "word": "dispatch",
+      "start": 10.22,
+      "end": 10.7
+    },
+    {
+      "word": "routines",
+      "start": 10.7,
+      "end": 11.14
+    },
+    {
+      "word": "prevent",
+      "start": 11.14,
+      "end": 11.46
+    },
+    {
+      "word": "your",
+      "start": 11.46,
+      "end": 11.7
+    },
+    {
+      "word": "crew",
+      "start": 11.7,
+      "end": 11.84
+    },
+    {
+      "word": "from",
+      "start": 11.84,
+      "end": 12.12
+    },
+    {
+      "word": "completing",
+      "start": 12.12,
+      "end": 12.5
+    },
+    {
+      "word": "extra",
+      "start": 12.5,
+      "end": 12.94
+    },
+    {
+      "word": "service",
+      "start": 12.94,
+      "end": 13.34
+    },
+    {
+      "word": "calls",
+      "start": 13.34,
+      "end": 13.68
+    },
+    {
+      "word": "before",
+      "start": 13.68,
+      "end": 14.04
+    },
+    {
+      "word": "shifts",
+      "start": 14.04,
+      "end": 14.34
+    },
+    {
+      "word": "end.",
+      "start": 14.34,
+      "end": 14.64
+    },
+    {
+      "word": "Instead,",
+      "start": 15.3,
+      "end": 15.58
+    },
+    {
+      "word": "use",
+      "start": 16.04,
+      "end": 16.3
+    },
+    {
+      "word": "glide",
+      "start": 16.3,
+      "end": 16.72
+    },
+    {
+      "word": "and",
+      "start": 16.72,
+      "end": 16.94
+    },
+    {
+      "word": "air",
+      "start": 16.94,
+      "end": 17.06
+    },
+    {
+      "word": "toble",
+      "start": 17.06,
+      "end": 17.34
+    },
+    {
+      "word": "to",
+      "start": 17.34,
+      "end": 17.58
+    },
+    {
+      "word": "update",
+      "start": 17.58,
+      "end": 17.76
+    },
+    {
+      "word": "work",
+      "start": 17.76,
+      "end": 18.14
+    },
+    {
+      "word": "tickets",
+      "start": 18.14,
+      "end": 18.42
+    },
+    {
+      "word": "and",
+      "start": 18.42,
+      "end": 18.92
+    },
+    {
+      "word": "sink",
+      "start": 18.92,
+      "end": 19.14
+    },
+    {
+      "word": "inventory",
+      "start": 19.14,
+      "end": 19.6
+    },
+    {
+      "word": "logs",
+      "start": 19.6,
+      "end": 20.1
+    },
+    {
+      "word": "remotely.",
+      "start": 20.1,
+      "end": 20.58
+    },
+    {
+      "word": "You",
+      "start": 20.58,
+      "end": 21.32
+    },
+    {
+      "word": "increase",
+      "start": 21.32,
+      "end": 21.76
+    },
+    {
+      "word": "technician",
+      "start": 21.76,
+      "end": 22.26
+    },
+    {
+      "word": "capacity",
+      "start": 22.26,
+      "end": 22.84
+    },
+    {
+      "word": "without",
+      "start": 22.84,
+      "end": 23.3
+    },
+    {
+      "word": "added",
+      "start": 23.3,
+      "end": 23.64
+    },
+    {
+      "word": "stress.",
+      "start": 23.64,
+      "end": 24.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The no-code operations app that saves field technicians 1 hour every day.",
+      "line2": "LOG EQUIPMENT MAINTENANCE",
+      "tag": "\ud83d\uded1 Glide customer portal for equipment maintenance logging",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Glide customer portal for equipment maintenance logging",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Glide customer portal for equipment maintenance logging",
+        "subtitle": "Glide customer portal for equipment maintenance logging"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Glide customer portal for equipment maintenance logging"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Glide customer portal for equipment maintenance logging"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Glide customer portal for equipment maintenance logging",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Calibre: the ultimate free eBook manager and format converter",
+  "text": "The free open-source software that organizes and cleans your digital library. Your research papers, manuals, and eBooks end up scattered across messy downloads folders with missing covers. File explorers cannot fetch metadata or ISBN numbers, turning reference searches into pure friction. Calibre indexes your library, downloads high-resolution covers, and pushes organized files to your device over Wi-Fi. You build a permanent digital bookshelf that never breaks.",
+  "duration": 28.922,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "free",
+      "start": 0.22,
+      "end": 0.48
+    },
+    {
+      "word": "open",
+      "start": 0.48,
+      "end": 0.86
+    },
+    {
+      "word": "-source",
+      "start": 0.86,
+      "end": 1.12
+    },
+    {
+      "word": "software",
+      "start": 1.12,
+      "end": 1.6
+    },
+    {
+      "word": "that",
+      "start": 1.6,
+      "end": 2.1
+    },
+    {
+      "word": "organizes",
+      "start": 2.1,
+      "end": 2.56
+    },
+    {
+      "word": "and",
+      "start": 2.56,
+      "end": 2.84
+    },
+    {
+      "word": "cleans",
+      "start": 2.84,
+      "end": 3.14
+    },
+    {
+      "word": "your",
+      "start": 3.14,
+      "end": 3.4
+    },
+    {
+      "word": "digital",
+      "start": 3.4,
+      "end": 3.7
+    },
+    {
+      "word": "library.",
+      "start": 3.7,
+      "end": 4.24
+    },
+    {
+      "word": "Your",
+      "start": 4.84,
+      "end": 5.02
+    },
+    {
+      "word": "research",
+      "start": 5.02,
+      "end": 5.46
+    },
+    {
+      "word": "papers,",
+      "start": 5.46,
+      "end": 5.9
+    },
+    {
+      "word": "manuals,",
+      "start": 6.52,
+      "end": 6.7
+    },
+    {
+      "word": "and",
+      "start": 7.02,
+      "end": 7.22
+    },
+    {
+      "word": "e",
+      "start": 7.22,
+      "end": 7.42
+    },
+    {
+      "word": "-books",
+      "start": 7.42,
+      "end": 7.74
+    },
+    {
+      "word": "end",
+      "start": 7.74,
+      "end": 8.02
+    },
+    {
+      "word": "up",
+      "start": 8.02,
+      "end": 8.32
+    },
+    {
+      "word": "scattered",
+      "start": 8.32,
+      "end": 8.58
+    },
+    {
+      "word": "across",
+      "start": 8.58,
+      "end": 8.98
+    },
+    {
+      "word": "messy",
+      "start": 8.98,
+      "end": 9.3
+    },
+    {
+      "word": "downloads",
+      "start": 9.3,
+      "end": 9.72
+    },
+    {
+      "word": "folders",
+      "start": 9.72,
+      "end": 10.32
+    },
+    {
+      "word": "with",
+      "start": 10.32,
+      "end": 10.68
+    },
+    {
+      "word": "missing",
+      "start": 10.68,
+      "end": 10.94
+    },
+    {
+      "word": "covers.",
+      "start": 10.94,
+      "end": 11.32
+    },
+    {
+      "word": "File",
+      "start": 11.78,
+      "end": 12.06
+    },
+    {
+      "word": "explorers",
+      "start": 12.06,
+      "end": 12.62
+    },
+    {
+      "word": "cannot",
+      "start": 12.62,
+      "end": 13.06
+    },
+    {
+      "word": "fetch",
+      "start": 13.06,
+      "end": 13.36
+    },
+    {
+      "word": "metadata",
+      "start": 13.36,
+      "end": 13.8
+    },
+    {
+      "word": "or",
+      "start": 13.8,
+      "end": 14.38
+    },
+    {
+      "word": "ISBN",
+      "start": 14.38,
+      "end": 14.8
+    },
+    {
+      "word": "numbers,",
+      "start": 14.8,
+      "end": 15.34
+    },
+    {
+      "word": "turning",
+      "start": 15.92,
+      "end": 16.06
+    },
+    {
+      "word": "reference",
+      "start": 16.06,
+      "end": 16.5
+    },
+    {
+      "word": "searches",
+      "start": 16.5,
+      "end": 16.9
+    },
+    {
+      "word": "into",
+      "start": 16.9,
+      "end": 17.2
+    },
+    {
+      "word": "pure",
+      "start": 17.2,
+      "end": 17.48
+    },
+    {
+      "word": "friction.",
+      "start": 17.48,
+      "end": 17.96
+    },
+    {
+      "word": "Caliber",
+      "start": 18.72,
+      "end": 18.96
+    },
+    {
+      "word": "indexes",
+      "start": 18.96,
+      "end": 19.3
+    },
+    {
+      "word": "your",
+      "start": 19.3,
+      "end": 19.66
+    },
+    {
+      "word": "library,",
+      "start": 19.66,
+      "end": 20.04
+    },
+    {
+      "word": "downloads",
+      "start": 20.86,
+      "end": 20.86
+    },
+    {
+      "word": "high",
+      "start": 20.86,
+      "end": 21.26
+    },
+    {
+      "word": "-resolution",
+      "start": 21.26,
+      "end": 21.62
+    },
+    {
+      "word": "covers,",
+      "start": 21.62,
+      "end": 22.14
+    },
+    {
+      "word": "and",
+      "start": 22.46,
+      "end": 22.64
+    },
+    {
+      "word": "pushes",
+      "start": 22.64,
+      "end": 22.88
+    },
+    {
+      "word": "organized",
+      "start": 22.88,
+      "end": 23.6
+    },
+    {
+      "word": "files",
+      "start": 23.6,
+      "end": 24.04
+    },
+    {
+      "word": "to",
+      "start": 24.04,
+      "end": 24.26
+    },
+    {
+      "word": "your",
+      "start": 24.26,
+      "end": 24.46
+    },
+    {
+      "word": "device",
+      "start": 24.46,
+      "end": 24.8
+    },
+    {
+      "word": "over",
+      "start": 24.8,
+      "end": 25.08
+    },
+    {
+      "word": "Wi",
+      "start": 25.08,
+      "end": 25.44
+    },
+    {
+      "word": "-Fi.",
+      "start": 25.44,
+      "end": 25.62
+    },
+    {
+      "word": "You",
+      "start": 25.62,
+      "end": 26.32
+    },
+    {
+      "word": "build",
+      "start": 26.32,
+      "end": 26.52
+    },
+    {
+      "word": "a",
+      "start": 26.52,
+      "end": 27.08
+    },
+    {
+      "word": "permanent",
+      "start": 27.08,
+      "end": 27.08
+    },
+    {
+      "word": "digital",
+      "start": 27.08,
+      "end": 27.48
+    },
+    {
+      "word": "bookshelf",
+      "start": 27.48,
+      "end": 28.0
+    },
+    {
+      "word": "that",
+      "start": 28.0,
+      "end": 28.24
+    },
+    {
+      "word": "never",
+      "start": 28.24,
+      "end": 28.52
+    },
+    {
+      "word": "breaks.",
+      "start": 28.52,
+      "end": 28.82
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The free open-source software that organizes and cleans your digital library.",
+      "line2": "FREE EBOOK CONVERTER",
+      "tag": "\ud83d\uded1 Calibre",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Calibre",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Calibre",
+        "subtitle": "Calibre"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Calibre"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Calibre"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Calibre",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-05",
+  "idea": "Tally forms integrated with Discord webhooks for instant community alerts",
+  "text": "This is the easiest way to build interactive client intake forms without monthly fees. Founders pay thirty dollars monthly for Typeform only to copy applicant responses manually into team chats. That disconnect creates operational bottlenecks and lets hot sales leads slip away unnoticed. Instead, build multi-step forms in Tally and fire instant payloads into Discord using native webhooks. Your pipeline updates live while eliminating costly subscriptions.",
+  "duration": 29.306,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "word": "the",
+      "start": 0.44,
+      "end": 0.6
+    },
+    {
+      "word": "easiest",
+      "start": 0.6,
+      "end": 0.94
+    },
+    {
+      "word": "way",
+      "start": 0.94,
+      "end": 1.22
+    },
+    {
+      "word": "to",
+      "start": 1.22,
+      "end": 1.4
+    },
+    {
+      "word": "build",
+      "start": 1.4,
+      "end": 1.72
+    },
+    {
+      "word": "interactive",
+      "start": 1.72,
+      "end": 2.26
+    },
+    {
+      "word": "client",
+      "start": 2.26,
+      "end": 2.7
+    },
+    {
+      "word": "intake",
+      "start": 2.7,
+      "end": 3.12
+    },
+    {
+      "word": "forms",
+      "start": 3.12,
+      "end": 3.52
+    },
+    {
+      "word": "without",
+      "start": 3.52,
+      "end": 4.1
+    },
+    {
+      "word": "monthly",
+      "start": 4.1,
+      "end": 4.54
+    },
+    {
+      "word": "fees.",
+      "start": 4.54,
+      "end": 5.1
+    },
+    {
+      "word": "Founders",
+      "start": 5.84,
+      "end": 5.94
+    },
+    {
+      "word": "pay",
+      "start": 5.94,
+      "end": 6.32
+    },
+    {
+      "word": "$30",
+      "start": 6.32,
+      "end": 6.86
+    },
+    {
+      "word": "monthly",
+      "start": 6.86,
+      "end": 7.48
+    },
+    {
+      "word": "for",
+      "start": 7.48,
+      "end": 7.78
+    },
+    {
+      "word": "type",
+      "start": 7.78,
+      "end": 8.08
+    },
+    {
+      "word": "form",
+      "start": 8.08,
+      "end": 8.44
+    },
+    {
+      "word": "only",
+      "start": 8.44,
+      "end": 8.92
+    },
+    {
+      "word": "to",
+      "start": 8.92,
+      "end": 9.1
+    },
+    {
+      "word": "copy",
+      "start": 9.1,
+      "end": 9.46
+    },
+    {
+      "word": "applicant",
+      "start": 9.46,
+      "end": 9.88
+    },
+    {
+      "word": "responses",
+      "start": 9.88,
+      "end": 10.56
+    },
+    {
+      "word": "manually",
+      "start": 10.56,
+      "end": 11.04
+    },
+    {
+      "word": "into",
+      "start": 11.04,
+      "end": 11.32
+    },
+    {
+      "word": "team",
+      "start": 11.32,
+      "end": 11.66
+    },
+    {
+      "word": "chats.",
+      "start": 11.66,
+      "end": 12.08
+    },
+    {
+      "word": "That",
+      "start": 12.42,
+      "end": 12.66
+    },
+    {
+      "word": "disconnect",
+      "start": 12.66,
+      "end": 13.06
+    },
+    {
+      "word": "creates",
+      "start": 13.06,
+      "end": 13.6
+    },
+    {
+      "word": "operational",
+      "start": 13.6,
+      "end": 14.22
+    },
+    {
+      "word": "bottlenecks",
+      "start": 14.22,
+      "end": 14.88
+    },
+    {
+      "word": "and",
+      "start": 14.88,
+      "end": 15.28
+    },
+    {
+      "word": "lets",
+      "start": 15.28,
+      "end": 15.52
+    },
+    {
+      "word": "hot",
+      "start": 15.52,
+      "end": 15.86
+    },
+    {
+      "word": "sales",
+      "start": 15.86,
+      "end": 16.22
+    },
+    {
+      "word": "lead",
+      "start": 16.22,
+      "end": 16.58
+    },
+    {
+      "word": "slip",
+      "start": 16.58,
+      "end": 16.86
+    },
+    {
+      "word": "away",
+      "start": 16.86,
+      "end": 17.26
+    },
+    {
+      "word": "unnoticed.",
+      "start": 17.26,
+      "end": 17.86
+    },
+    {
+      "word": "Instead,",
+      "start": 18.62,
+      "end": 19.02
+    },
+    {
+      "word": "build",
+      "start": 19.64,
+      "end": 19.7
+    },
+    {
+      "word": "multi",
+      "start": 19.7,
+      "end": 20.18
+    },
+    {
+      "word": "-step",
+      "start": 20.18,
+      "end": 20.46
+    },
+    {
+      "word": "forms",
+      "start": 20.46,
+      "end": 20.78
+    },
+    {
+      "word": "in",
+      "start": 20.78,
+      "end": 21.04
+    },
+    {
+      "word": "tally",
+      "start": 21.04,
+      "end": 21.32
+    },
+    {
+      "word": "and",
+      "start": 21.32,
+      "end": 21.78
+    },
+    {
+      "word": "fire",
+      "start": 21.78,
+      "end": 22.16
+    },
+    {
+      "word": "instant",
+      "start": 22.16,
+      "end": 22.54
+    },
+    {
+      "word": "payloads",
+      "start": 22.54,
+      "end": 23.14
+    },
+    {
+      "word": "into",
+      "start": 23.14,
+      "end": 23.3
+    },
+    {
+      "word": "Discord",
+      "start": 23.3,
+      "end": 23.68
+    },
+    {
+      "word": "using",
+      "start": 23.68,
+      "end": 24.18
+    },
+    {
+      "word": "native",
+      "start": 24.18,
+      "end": 24.54
+    },
+    {
+      "word": "webhooks.",
+      "start": 24.54,
+      "end": 25.5
+    },
+    {
+      "word": "Your",
+      "start": 25.5,
+      "end": 25.8
+    },
+    {
+      "word": "pipeline",
+      "start": 25.8,
+      "end": 26.24
+    },
+    {
+      "word": "updates",
+      "start": 26.24,
+      "end": 26.7
+    },
+    {
+      "word": "live",
+      "start": 26.7,
+      "end": 27.24
+    },
+    {
+      "word": "while",
+      "start": 27.24,
+      "end": 27.5
+    },
+    {
+      "word": "eliminating",
+      "start": 27.5,
+      "end": 27.98
+    },
+    {
+      "word": "costly",
+      "start": 27.98,
+      "end": 28.46
+    },
+    {
+      "word": "subscriptions.",
+      "start": 28.46,
+      "end": 29.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "The easiest way to build interactive quizzes and application forms.",
+      "line2": "INSTANT DISCORD ALERTS",
+      "tag": "\ud83d\uded1 Tally forms integrated with Discord webhooks for instant community alerts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

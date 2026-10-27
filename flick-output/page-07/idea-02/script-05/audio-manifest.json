@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+  "text": "Draft your monthly investor report in under two minutes using this workflow. You open a blank document, hunting for Stripe MRR, active churn, and runway across scattered tabs. Context switching between accounting tools and email clients drags out reporting and drains founder stamina. Trigger an n8n workflow that pulls ChartMogul KPIs and formats a structured investor memo via Claude. This finishes your monthly reporting before your morning coffee cools.",
+  "duration": 28.133,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Draft",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "your",
+      "start": 0.34,
+      "end": 0.54
+    },
+    {
+      "word": "monthly",
+      "start": 0.54,
+      "end": 0.86
+    },
+    {
+      "word": "investor",
+      "start": 0.86,
+      "end": 1.26
+    },
+    {
+      "word": "report",
+      "start": 1.26,
+      "end": 1.74
+    },
+    {
+      "word": "in",
+      "start": 1.74,
+      "end": 1.88
+    },
+    {
+      "word": "under",
+      "start": 1.88,
+      "end": 2.1
+    },
+    {
+      "word": "two",
+      "start": 2.1,
+      "end": 2.34
+    },
+    {
+      "word": "minutes",
+      "start": 2.34,
+      "end": 2.58
+    },
+    {
+      "word": "using",
+      "start": 2.58,
+      "end": 2.88
+    },
+    {
+      "word": "this",
+      "start": 2.88,
+      "end": 3.16
+    },
+    {
+      "word": "workflow.",
+      "start": 3.16,
+      "end": 3.52
+    },
+    {
+      "word": "You",
+      "start": 4.18,
+      "end": 4.28
+    },
+    {
+      "word": "open",
+      "start": 4.28,
+      "end": 4.44
+    },
+    {
+      "word": "a",
+      "start": 4.44,
+      "end": 4.62
+    },
+    {
+      "word": "blank",
+      "start": 4.62,
+      "end": 4.84
+    },
+    {
+      "word": "document,",
+      "start": 4.84,
+      "end": 5.44
+    },
+    {
+      "word": "hunting",
+      "start": 5.78,
+      "end": 5.94
+    },
+    {
+      "word": "for",
+      "start": 5.94,
+      "end": 6.28
+    },
+    {
+      "word": "Stripe",
+      "start": 6.28,
+      "end": 6.58
+    },
+    {
+      "word": "MRR,",
+      "start": 6.58,
+      "end": 7.6
+    },
+    {
+      "word": "Active",
+      "start": 8.02,
+      "end": 8.02
+    },
+    {
+      "word": "Churn,",
+      "start": 8.02,
+      "end": 8.56
+    },
+    {
+      "word": "and",
+      "start": 8.66,
+      "end": 8.8
+    },
+    {
+      "word": "runway",
+      "start": 8.8,
+      "end": 9.14
+    },
+    {
+      "word": "across",
+      "start": 9.14,
+      "end": 9.54
+    },
+    {
+      "word": "scattered",
+      "start": 9.54,
+      "end": 9.86
+    },
+    {
+      "word": "tabs.",
+      "start": 9.86,
+      "end": 10.36
+    },
+    {
+      "word": "Context",
+      "start": 11.22,
+      "end": 11.42
+    },
+    {
+      "word": "switching",
+      "start": 11.42,
+      "end": 12.0
+    },
+    {
+      "word": "between",
+      "start": 12.0,
+      "end": 12.38
+    },
+    {
+      "word": "accounting",
+      "start": 12.38,
+      "end": 12.76
+    },
+    {
+      "word": "tools",
+      "start": 12.76,
+      "end": 13.18
+    },
+    {
+      "word": "and",
+      "start": 13.18,
+      "end": 13.44
+    },
+    {
+      "word": "email",
+      "start": 13.44,
+      "end": 13.72
+    },
+    {
+      "word": "clients",
+      "start": 13.72,
+      "end": 14.16
+    },
+    {
+      "word": "drags",
+      "start": 14.16,
+      "end": 14.66
+    },
+    {
+      "word": "out",
+      "start": 14.66,
+      "end": 15.02
+    },
+    {
+      "word": "reporting",
+      "start": 15.02,
+      "end": 15.36
+    },
+    {
+      "word": "and",
+      "start": 15.36,
+      "end": 15.7
+    },
+    {
+      "word": "drains",
+      "start": 15.7,
+      "end": 16.04
+    },
+    {
+      "word": "founder",
+      "start": 16.04,
+      "end": 16.42
+    },
+    {
+      "word": "stamina.",
+      "start": 16.42,
+      "end": 16.86
+    },
+    {
+      "word": "Trigger",
+      "start": 17.22,
+      "end": 17.48
+    },
+    {
+      "word": "an",
+      "start": 17.48,
+      "end": 17.72
+    },
+    {
+      "word": "N8N",
+      "start": 17.72,
+      "end": 18.36
+    },
+    {
+      "word": "workflow",
+      "start": 18.36,
+      "end": 18.7
+    },
+    {
+      "word": "that",
+      "start": 18.7,
+      "end": 19.06
+    },
+    {
+      "word": "pulls",
+      "start": 19.06,
+      "end": 19.38
+    },
+    {
+      "word": "chart",
+      "start": 19.38,
+      "end": 19.74
+    },
+    {
+      "word": "mogul",
+      "start": 19.74,
+      "end": 20.1
+    },
+    {
+      "word": "KPIs",
+      "start": 20.1,
+      "end": 20.88
+    },
+    {
+      "word": "and",
+      "start": 20.88,
+      "end": 21.44
+    },
+    {
+      "word": "formats",
+      "start": 21.44,
+      "end": 21.74
+    },
+    {
+      "word": "a",
+      "start": 21.74,
+      "end": 22.16
+    },
+    {
+      "word": "structured",
+      "start": 22.16,
+      "end": 22.34
+    },
+    {
+      "word": "investor",
+      "start": 22.34,
+      "end": 22.84
+    },
+    {
+      "word": "memo",
+      "start": 22.84,
+      "end": 23.22
+    },
+    {
+      "word": "via",
+      "start": 23.22,
+      "end": 23.66
+    },
+    {
+      "word": "Claude.",
+      "start": 23.66,
+      "end": 24.12
+    },
+    {
+      "word": "This",
+      "start": 24.12,
+      "end": 24.96
+    },
+    {
+      "word": "finishes",
+      "start": 24.96,
+      "end": 25.24
+    },
+    {
+      "word": "your",
+      "start": 25.24,
+      "end": 25.62
+    },
+    {
+      "word": "monthly",
+      "start": 25.62,
+      "end": 25.92
+    },
+    {
+      "word": "reporting",
+      "start": 25.92,
+      "end": 26.48
+    },
+    {
+      "word": "before",
+      "start": 26.48,
+      "end": 26.84
+    },
+    {
+      "word": "your",
+      "start": 26.84,
+      "end": 27.04
+    },
+    {
+      "word": "morning",
+      "start": 27.04,
+      "end": 27.3
+    },
+    {
+      "word": "coffee",
+      "start": 27.3,
+      "end": 27.68
+    },
+    {
+      "word": "cools.",
+      "start": 27.68,
+      "end": 28.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Draft your complete monthly investor report in under 2 minutes.",
+      "line2": "INVESTOR UPDATES IN 60-SECONDS",
+      "tag": "\ud83d\uded1 Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "page": "page-04",
+  "idea": "Stirling-PDF: 100 percent free open-source PDF power tool",
+  "text": "Stop paying Adobe twenty dollars every month just to edit and merge PDFs. Small teams hit paywalls whenever clients send legal contracts requiring redactions or digital signatures. Free web tools leak confidential data while commercial desktop suites lock compression behind subscriptions. Stirling-PDF runs locally via Docker, providing fifty document manipulation utilities completely free. You get private OCR and unlimited file conversions forever.",
+  "duration": 29.242,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "paying",
+      "start": 0.38,
+      "end": 0.68
+    },
+    {
+      "word": "Adobe",
+      "start": 0.68,
+      "end": 1.04
+    },
+    {
+      "word": "$20",
+      "start": 1.04,
+      "end": 1.64
+    },
+    {
+      "word": "every",
+      "start": 1.64,
+      "end": 2.08
+    },
+    {
+      "word": "month",
+      "start": 2.08,
+      "end": 2.54
+    },
+    {
+      "word": "just",
+      "start": 2.54,
+      "end": 2.84
+    },
+    {
+      "word": "to",
+      "start": 2.84,
+      "end": 3.06
+    },
+    {
+      "word": "edit",
+      "start": 3.06,
+      "end": 3.26
+    },
+    {
+      "word": "and",
+      "start": 3.26,
+      "end": 3.5
+    },
+    {
+      "word": "merge",
+      "start": 3.5,
+      "end": 3.86
+    },
+    {
+      "word": "PDFs.",
+      "start": 3.86,
+      "end": 5.06
+    },
+    {
+      "word": "Small",
+      "start": 5.2,
+      "end": 5.46
+    },
+    {
+      "word": "teams",
+      "start": 5.46,
+      "end": 5.78
+    },
+    {
+      "word": "hit",
+      "start": 5.78,
+      "end": 6.08
+    },
+    {
+      "word": "paywalls",
+      "start": 6.08,
+      "end": 6.62
+    },
+    {
+      "word": "whenever",
+      "start": 6.62,
+      "end": 7.1
+    },
+    {
+      "word": "clients",
+      "start": 7.1,
+      "end": 7.5
+    },
+    {
+      "word": "send",
+      "start": 7.5,
+      "end": 7.78
+    },
+    {
+      "word": "legal",
+      "start": 7.78,
+      "end": 8.08
+    },
+    {
+      "word": "contracts",
+      "start": 8.08,
+      "end": 8.68
+    },
+    {
+      "word": "requiring",
+      "start": 8.68,
+      "end": 9.28
+    },
+    {
+      "word": "redactions",
+      "start": 9.28,
+      "end": 9.92
+    },
+    {
+      "word": "or",
+      "start": 9.92,
+      "end": 10.46
+    },
+    {
+      "word": "digital",
+      "start": 10.46,
+      "end": 10.88
+    },
+    {
+      "word": "signatures.",
+      "start": 10.88,
+      "end": 11.46
+    },
+    {
+      "word": "Free",
+      "start": 12.02,
+      "end": 12.1
+    },
+    {
+      "word": "web",
+      "start": 12.1,
+      "end": 12.3
+    },
+    {
+      "word": "tools",
+      "start": 12.3,
+      "end": 12.66
+    },
+    {
+      "word": "leak",
+      "start": 12.66,
+      "end": 12.96
+    },
+    {
+      "word": "confidential",
+      "start": 12.96,
+      "end": 13.46
+    },
+    {
+      "word": "data",
+      "start": 13.46,
+      "end": 14.0
+    },
+    {
+      "word": "while",
+      "start": 14.0,
+      "end": 14.44
+    },
+    {
+      "word": "commercial",
+      "start": 14.44,
+      "end": 14.84
+    },
+    {
+      "word": "desktop",
+      "start": 14.84,
+      "end": 15.26
+    },
+    {
+      "word": "suites",
+      "start": 15.26,
+      "end": 15.78
+    },
+    {
+      "word": "lock",
+      "start": 15.78,
+      "end": 16.08
+    },
+    {
+      "word": "compression",
+      "start": 16.08,
+      "end": 16.56
+    },
+    {
+      "word": "behind",
+      "start": 16.56,
+      "end": 16.98
+    },
+    {
+      "word": "subscriptions.",
+      "start": 16.98,
+      "end": 17.76
+    },
+    {
+      "word": "Sterling",
+      "start": 18.68,
+      "end": 18.72
+    },
+    {
+      "word": "PDF",
+      "start": 18.72,
+      "end": 19.2
+    },
+    {
+      "word": "runs",
+      "start": 19.2,
+      "end": 19.82
+    },
+    {
+      "word": "locally",
+      "start": 19.82,
+      "end": 20.22
+    },
+    {
+      "word": "via",
+      "start": 20.22,
+      "end": 20.58
+    },
+    {
+      "word": "Docker,",
+      "start": 20.58,
+      "end": 21.02
+    },
+    {
+      "word": "providing",
+      "start": 21.72,
+      "end": 21.72
+    },
+    {
+      "word": "50",
+      "start": 21.72,
+      "end": 22.3
+    },
+    {
+      "word": "document",
+      "start": 22.3,
+      "end": 22.74
+    },
+    {
+      "word": "manipulation",
+      "start": 22.74,
+      "end": 23.38
+    },
+    {
+      "word": "utilities",
+      "start": 23.38,
+      "end": 23.96
+    },
+    {
+      "word": "completely",
+      "start": 23.96,
+      "end": 24.64
+    },
+    {
+      "word": "free.",
+      "start": 24.64,
+      "end": 25.14
+    },
+    {
+      "word": "You",
+      "start": 25.14,
+      "end": 25.6
+    },
+    {
+      "word": "get",
+      "start": 25.6,
+      "end": 25.9
+    },
+    {
+      "word": "private",
+      "start": 25.9,
+      "end": 26.26
+    },
+    {
+      "word": "OCR",
+      "start": 26.26,
+      "end": 26.92
+    },
+    {
+      "word": "and",
+      "start": 26.92,
+      "end": 27.36
+    },
+    {
+      "word": "unlimited",
+      "start": 27.36,
+      "end": 27.76
+    },
+    {
+      "word": "file",
+      "start": 27.76,
+      "end": 28.16
+    },
+    {
+      "word": "conversions",
+      "start": 28.16,
+      "end": 28.66
+    },
+    {
+      "word": "forever.",
+      "start": 28.66,
+      "end": 29.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop paying Adobe 20 dollars a month just to edit and merge PDF files.",
+      "line2": "100% FREE OPEN SOURCE",
+      "tag": "\ud83d\uded1 Stirling-PDF",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Stirling-PDF",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Stirling-PDF",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Stirling-PDF",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

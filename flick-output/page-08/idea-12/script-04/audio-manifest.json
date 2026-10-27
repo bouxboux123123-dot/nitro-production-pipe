@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "How to automate your phone to mute during meetings and bedtime",
+  "text": "This sixty-second smartphone automation eliminates distracting notification pings during your entire workday. Every social media ping fractures your concentration, taking twenty minutes to regain deep cognitive focus. Willpower alone cannot stop notification checking when your screen continuously lights up with low-priority app alerts. Set a Work Focus automation that triggers automatically whenever you arrive at your office location. You protect four hours of deep work daily.",
+  "duration": 29.413,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "60",
+      "start": 0.28,
+      "end": 0.64
+    },
+    {
+      "word": "-second",
+      "start": 0.64,
+      "end": 0.98
+    },
+    {
+      "word": "smartphone",
+      "start": 0.98,
+      "end": 1.5
+    },
+    {
+      "word": "automation",
+      "start": 1.5,
+      "end": 2.34
+    },
+    {
+      "word": "eliminates",
+      "start": 2.34,
+      "end": 3.06
+    },
+    {
+      "word": "distracting",
+      "start": 3.06,
+      "end": 3.78
+    },
+    {
+      "word": "notification",
+      "start": 3.78,
+      "end": 4.4
+    },
+    {
+      "word": "pings",
+      "start": 4.4,
+      "end": 4.88
+    },
+    {
+      "word": "during",
+      "start": 4.88,
+      "end": 5.24
+    },
+    {
+      "word": "your",
+      "start": 5.24,
+      "end": 5.56
+    },
+    {
+      "word": "entire",
+      "start": 5.56,
+      "end": 5.94
+    },
+    {
+      "word": "workday.",
+      "start": 5.94,
+      "end": 6.68
+    },
+    {
+      "word": "Every",
+      "start": 7.32,
+      "end": 7.32
+    },
+    {
+      "word": "social",
+      "start": 7.32,
+      "end": 7.74
+    },
+    {
+      "word": "media",
+      "start": 7.74,
+      "end": 8.08
+    },
+    {
+      "word": "pings",
+      "start": 8.08,
+      "end": 8.54
+    },
+    {
+      "word": "fractures",
+      "start": 8.54,
+      "end": 8.92
+    },
+    {
+      "word": "your",
+      "start": 8.92,
+      "end": 9.38
+    },
+    {
+      "word": "concentration,",
+      "start": 9.38,
+      "end": 9.94
+    },
+    {
+      "word": "taking",
+      "start": 10.54,
+      "end": 10.68
+    },
+    {
+      "word": "20",
+      "start": 10.68,
+      "end": 11.08
+    },
+    {
+      "word": "minutes",
+      "start": 11.08,
+      "end": 11.34
+    },
+    {
+      "word": "to",
+      "start": 11.34,
+      "end": 11.64
+    },
+    {
+      "word": "regain",
+      "start": 11.64,
+      "end": 11.96
+    },
+    {
+      "word": "deep",
+      "start": 11.96,
+      "end": 12.38
+    },
+    {
+      "word": "cognitive",
+      "start": 12.38,
+      "end": 12.86
+    },
+    {
+      "word": "focus.",
+      "start": 12.86,
+      "end": 13.5
+    },
+    {
+      "word": "Will",
+      "start": 13.82,
+      "end": 14.0
+    },
+    {
+      "word": "power",
+      "start": 14.0,
+      "end": 14.32
+    },
+    {
+      "word": "alone",
+      "start": 14.32,
+      "end": 14.72
+    },
+    {
+      "word": "cannot",
+      "start": 14.72,
+      "end": 15.18
+    },
+    {
+      "word": "stop",
+      "start": 15.18,
+      "end": 15.5
+    },
+    {
+      "word": "notification",
+      "start": 15.5,
+      "end": 16.08
+    },
+    {
+      "word": "checking",
+      "start": 16.08,
+      "end": 16.64
+    },
+    {
+      "word": "when",
+      "start": 16.64,
+      "end": 16.84
+    },
+    {
+      "word": "your",
+      "start": 16.84,
+      "end": 17.08
+    },
+    {
+      "word": "screen",
+      "start": 17.08,
+      "end": 17.48
+    },
+    {
+      "word": "continuously",
+      "start": 17.48,
+      "end": 18.14
+    },
+    {
+      "word": "lights",
+      "start": 18.14,
+      "end": 18.54
+    },
+    {
+      "word": "up",
+      "start": 18.54,
+      "end": 18.76
+    },
+    {
+      "word": "with",
+      "start": 18.76,
+      "end": 18.96
+    },
+    {
+      "word": "low",
+      "start": 18.96,
+      "end": 19.26
+    },
+    {
+      "word": "-priority",
+      "start": 19.26,
+      "end": 19.78
+    },
+    {
+      "word": "app",
+      "start": 19.78,
+      "end": 20.04
+    },
+    {
+      "word": "alerts?",
+      "start": 20.04,
+      "end": 20.42
+    },
+    {
+      "word": "Set",
+      "start": 21.1,
+      "end": 21.26
+    },
+    {
+      "word": "a",
+      "start": 21.26,
+      "end": 21.42
+    },
+    {
+      "word": "work",
+      "start": 21.42,
+      "end": 21.66
+    },
+    {
+      "word": "-focus",
+      "start": 21.66,
+      "end": 22.0
+    },
+    {
+      "word": "automation",
+      "start": 22.0,
+      "end": 22.58
+    },
+    {
+      "word": "that",
+      "start": 22.58,
+      "end": 23.3
+    },
+    {
+      "word": "triggers",
+      "start": 23.3,
+      "end": 23.3
+    },
+    {
+      "word": "automatically",
+      "start": 23.3,
+      "end": 23.98
+    },
+    {
+      "word": "whenever",
+      "start": 23.98,
+      "end": 24.68
+    },
+    {
+      "word": "you",
+      "start": 24.68,
+      "end": 24.96
+    },
+    {
+      "word": "arrive",
+      "start": 24.96,
+      "end": 25.24
+    },
+    {
+      "word": "at",
+      "start": 25.24,
+      "end": 25.42
+    },
+    {
+      "word": "your",
+      "start": 25.42,
+      "end": 25.72
+    },
+    {
+      "word": "office",
+      "start": 25.72,
+      "end": 25.9
+    },
+    {
+      "word": "location.",
+      "start": 25.9,
+      "end": 26.52
+    },
+    {
+      "word": "You",
+      "start": 26.52,
+      "end": 27.2
+    },
+    {
+      "word": "protect",
+      "start": 27.2,
+      "end": 27.48
+    },
+    {
+      "word": "four",
+      "start": 27.48,
+      "end": 28.0
+    },
+    {
+      "word": "hours",
+      "start": 28.0,
+      "end": 28.32
+    },
+    {
+      "word": "of",
+      "start": 28.32,
+      "end": 28.56
+    },
+    {
+      "word": "deep",
+      "start": 28.56,
+      "end": 28.76
+    },
+    {
+      "word": "work",
+      "start": 28.76,
+      "end": 29.06
+    },
+    {
+      "word": "daily.",
+      "start": 29.06,
+      "end": 29.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The 60-second smartphone setup that eliminates distraction during your workday.",
+      "line2": "AUTO-MUTE YOUR PHONE",
+      "tag": "\ud83d\uded1 How to automate your phone to mute during meetings and bedtime",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Distraction Shield Active: How to automate your phone to mute during meetings and bedtime",
+      "primitive": "DistractionShieldBlocker",
+      "props": {
+        "title": "Distraction Shield Active: How to automate your phone to mute during meetings and bedtime",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Context-Switching Energy Drain",
+      "primitive": "ContextSwitchingPenaltyMeter",
+      "props": {
+        "title": "Context-Switching Energy Drain",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "The Rule-of-Three Priorities",
+      "primitive": "DailyPriorityPillars",
+      "props": {
+        "title": "The Rule-of-Three Priorities",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "25-Minute Flow State Lock",
+      "primitive": "PomodoroRadialTimer",
+      "props": {
+        "title": "25-Minute Flow State Lock",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

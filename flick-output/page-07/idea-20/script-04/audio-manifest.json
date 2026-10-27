@@ -1,0 +1,406 @@
+{
+  "page": "page-07",
+  "idea": "Automated customer testimonial widget that embeds live on sales pages",
+  "text": "Here is how automated social proof increased our SaaS landing page conversion by twenty-two percent. Cold visitors bounce within seconds if your value proposition is not backed by credible social validation. Static testimonial screenshots look staged and fail to build genuine trust with modern software buyers. Embed Senja video testimonials that showcase real users demonstrating their workflows and measurable business results. Your visitors convert into paying customers on autopilot.",
+  "duration": 30.821,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "is",
+      "start": 0.3,
+      "end": 0.5
+    },
+    {
+      "word": "how",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "automated",
+      "start": 0.8,
+      "end": 1.24
+    },
+    {
+      "word": "social",
+      "start": 1.24,
+      "end": 1.78
+    },
+    {
+      "word": "proof",
+      "start": 1.78,
+      "end": 2.22
+    },
+    {
+      "word": "increased",
+      "start": 2.22,
+      "end": 2.66
+    },
+    {
+      "word": "our",
+      "start": 2.66,
+      "end": 3.04
+    },
+    {
+      "word": "saw",
+      "start": 3.04,
+      "end": 3.28
+    },
+    {
+      "word": "-s",
+      "start": 3.28,
+      "end": 3.48
+    },
+    {
+      "word": "landing",
+      "start": 3.48,
+      "end": 3.82
+    },
+    {
+      "word": "page",
+      "start": 3.82,
+      "end": 4.28
+    },
+    {
+      "word": "conversion",
+      "start": 4.28,
+      "end": 4.84
+    },
+    {
+      "word": "by",
+      "start": 4.84,
+      "end": 5.48
+    },
+    {
+      "word": "22%.",
+      "start": 5.48,
+      "end": 7.0
+    },
+    {
+      "word": "Cold",
+      "start": 7.0,
+      "end": 7.38
+    },
+    {
+      "word": "visitors",
+      "start": 7.38,
+      "end": 7.78
+    },
+    {
+      "word": "bounce",
+      "start": 7.78,
+      "end": 8.32
+    },
+    {
+      "word": "within",
+      "start": 8.32,
+      "end": 8.64
+    },
+    {
+      "word": "seconds",
+      "start": 8.64,
+      "end": 9.08
+    },
+    {
+      "word": "if",
+      "start": 9.08,
+      "end": 9.52
+    },
+    {
+      "word": "your",
+      "start": 9.52,
+      "end": 9.84
+    },
+    {
+      "word": "value",
+      "start": 9.84,
+      "end": 10.1
+    },
+    {
+      "word": "proposition",
+      "start": 10.1,
+      "end": 10.62
+    },
+    {
+      "word": "is",
+      "start": 10.62,
+      "end": 10.98
+    },
+    {
+      "word": "not",
+      "start": 10.98,
+      "end": 11.26
+    },
+    {
+      "word": "backed",
+      "start": 11.26,
+      "end": 11.54
+    },
+    {
+      "word": "by",
+      "start": 11.54,
+      "end": 11.86
+    },
+    {
+      "word": "credible",
+      "start": 11.86,
+      "end": 12.2
+    },
+    {
+      "word": "social",
+      "start": 12.2,
+      "end": 12.72
+    },
+    {
+      "word": "validation.",
+      "start": 12.72,
+      "end": 13.38
+    },
+    {
+      "word": "Static",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "testimonial",
+      "start": 14.12,
+      "end": 14.76
+    },
+    {
+      "word": "screenshots",
+      "start": 14.76,
+      "end": 15.24
+    },
+    {
+      "word": "look",
+      "start": 15.24,
+      "end": 15.74
+    },
+    {
+      "word": "staged",
+      "start": 15.74,
+      "end": 16.16
+    },
+    {
+      "word": "and",
+      "start": 16.16,
+      "end": 16.5
+    },
+    {
+      "word": "failed",
+      "start": 16.5,
+      "end": 16.72
+    },
+    {
+      "word": "to",
+      "start": 16.72,
+      "end": 16.9
+    },
+    {
+      "word": "build",
+      "start": 16.9,
+      "end": 17.2
+    },
+    {
+      "word": "genuine",
+      "start": 17.2,
+      "end": 17.54
+    },
+    {
+      "word": "trust",
+      "start": 17.54,
+      "end": 17.98
+    },
+    {
+      "word": "with",
+      "start": 17.98,
+      "end": 18.34
+    },
+    {
+      "word": "modern",
+      "start": 18.34,
+      "end": 18.7
+    },
+    {
+      "word": "software",
+      "start": 18.7,
+      "end": 19.14
+    },
+    {
+      "word": "buyers.",
+      "start": 19.14,
+      "end": 19.76
+    },
+    {
+      "word": "Embed",
+      "start": 20.28,
+      "end": 20.6
+    },
+    {
+      "word": "Senya",
+      "start": 20.6,
+      "end": 21.02
+    },
+    {
+      "word": "video",
+      "start": 21.02,
+      "end": 21.3
+    },
+    {
+      "word": "testimonials",
+      "start": 21.3,
+      "end": 22.06
+    },
+    {
+      "word": "that",
+      "start": 22.06,
+      "end": 22.52
+    },
+    {
+      "word": "showcase",
+      "start": 22.52,
+      "end": 23.02
+    },
+    {
+      "word": "real",
+      "start": 23.02,
+      "end": 23.38
+    },
+    {
+      "word": "users",
+      "start": 23.38,
+      "end": 23.9
+    },
+    {
+      "word": "demonstrating",
+      "start": 23.9,
+      "end": 24.56
+    },
+    {
+      "word": "their",
+      "start": 24.56,
+      "end": 25.04
+    },
+    {
+      "word": "workflows",
+      "start": 25.04,
+      "end": 25.52
+    },
+    {
+      "word": "and",
+      "start": 25.52,
+      "end": 25.82
+    },
+    {
+      "word": "measurable",
+      "start": 25.82,
+      "end": 26.22
+    },
+    {
+      "word": "business",
+      "start": 26.22,
+      "end": 26.64
+    },
+    {
+      "word": "results.",
+      "start": 26.64,
+      "end": 27.2
+    },
+    {
+      "word": "Your",
+      "start": 27.74,
+      "end": 27.94
+    },
+    {
+      "word": "visitors",
+      "start": 27.94,
+      "end": 28.34
+    },
+    {
+      "word": "convert",
+      "start": 28.34,
+      "end": 28.74
+    },
+    {
+      "word": "into",
+      "start": 28.74,
+      "end": 29.0
+    },
+    {
+      "word": "paying",
+      "start": 29.0,
+      "end": 29.34
+    },
+    {
+      "word": "customers",
+      "start": 29.34,
+      "end": 29.8
+    },
+    {
+      "word": "on",
+      "start": 29.8,
+      "end": 30.14
+    },
+    {
+      "word": "autopilot.",
+      "start": 30.14,
+      "end": 30.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How automated social proof increased our landing page conversion by 22 percent.",
+      "line2": "EMBED LIVE TESTIMONIALS",
+      "tag": "\ud83d\uded1 Automated customer testimonial widget that embeds live on sales pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated customer testimonial widget that embeds live on sales pages",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated customer testimonial widget that embeds live on sales pages",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated customer testimonial widget that embeds live on sales pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

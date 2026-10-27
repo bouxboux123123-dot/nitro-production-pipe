@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Stirling-PDF: 100 percent free open-source PDF power tool",
+  "text": "You can split, merge, sign, and convert PDFs completely offline for free. Operations managers frequently get blocked waiting on external signature tools just to process signed contractor agreements. Relying on cloud services exposes sensitive tax forms and stalls execution when internet connections drop unexpectedly. Stirling-PDF runs locally as a lightweight container that handles full page reordering and digital signing instantly. Your document pipeline stays completely private and lightning fast.",
+  "duration": 32.229,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "can",
+      "start": 0.18,
+      "end": 0.44
+    },
+    {
+      "word": "split,",
+      "start": 0.44,
+      "end": 0.84
+    },
+    {
+      "word": "merge,",
+      "start": 0.84,
+      "end": 1.3
+    },
+    {
+      "word": "sign,",
+      "start": 1.56,
+      "end": 1.96
+    },
+    {
+      "word": "and",
+      "start": 2.1,
+      "end": 2.3
+    },
+    {
+      "word": "convert",
+      "start": 2.3,
+      "end": 2.58
+    },
+    {
+      "word": "PDFs",
+      "start": 2.58,
+      "end": 3.26
+    },
+    {
+      "word": "completely",
+      "start": 3.26,
+      "end": 3.78
+    },
+    {
+      "word": "offline",
+      "start": 3.78,
+      "end": 4.22
+    },
+    {
+      "word": "for",
+      "start": 4.22,
+      "end": 4.54
+    },
+    {
+      "word": "free.",
+      "start": 4.54,
+      "end": 5.02
+    },
+    {
+      "word": "Operations",
+      "start": 6.06,
+      "end": 6.06
+    },
+    {
+      "word": "managers",
+      "start": 6.06,
+      "end": 6.66
+    },
+    {
+      "word": "frequently",
+      "start": 6.66,
+      "end": 7.08
+    },
+    {
+      "word": "get",
+      "start": 7.08,
+      "end": 7.54
+    },
+    {
+      "word": "blocked",
+      "start": 7.54,
+      "end": 7.92
+    },
+    {
+      "word": "waiting",
+      "start": 7.92,
+      "end": 8.26
+    },
+    {
+      "word": "on",
+      "start": 8.26,
+      "end": 8.6
+    },
+    {
+      "word": "external",
+      "start": 8.6,
+      "end": 9.0
+    },
+    {
+      "word": "signature",
+      "start": 9.0,
+      "end": 9.38
+    },
+    {
+      "word": "tools",
+      "start": 9.38,
+      "end": 9.88
+    },
+    {
+      "word": "just",
+      "start": 9.88,
+      "end": 10.48
+    },
+    {
+      "word": "to",
+      "start": 10.48,
+      "end": 10.66
+    },
+    {
+      "word": "process",
+      "start": 10.66,
+      "end": 11.02
+    },
+    {
+      "word": "sign",
+      "start": 11.02,
+      "end": 11.44
+    },
+    {
+      "word": "contractor",
+      "start": 11.44,
+      "end": 11.98
+    },
+    {
+      "word": "agreements.",
+      "start": 11.98,
+      "end": 12.52
+    },
+    {
+      "word": "Relying",
+      "start": 12.98,
+      "end": 13.26
+    },
+    {
+      "word": "on",
+      "start": 13.26,
+      "end": 13.52
+    },
+    {
+      "word": "cloud",
+      "start": 13.52,
+      "end": 13.88
+    },
+    {
+      "word": "services",
+      "start": 13.88,
+      "end": 14.36
+    },
+    {
+      "word": "exposes",
+      "start": 14.36,
+      "end": 14.94
+    },
+    {
+      "word": "sensitive",
+      "start": 14.94,
+      "end": 15.46
+    },
+    {
+      "word": "tax",
+      "start": 15.46,
+      "end": 15.86
+    },
+    {
+      "word": "forms",
+      "start": 15.86,
+      "end": 16.24
+    },
+    {
+      "word": "and",
+      "start": 16.24,
+      "end": 16.64
+    },
+    {
+      "word": "stalls",
+      "start": 16.64,
+      "end": 16.92
+    },
+    {
+      "word": "execution",
+      "start": 16.92,
+      "end": 17.52
+    },
+    {
+      "word": "when",
+      "start": 17.52,
+      "end": 18.0
+    },
+    {
+      "word": "internet",
+      "start": 18.0,
+      "end": 18.24
+    },
+    {
+      "word": "connections",
+      "start": 18.24,
+      "end": 18.8
+    },
+    {
+      "word": "drop",
+      "start": 18.8,
+      "end": 19.3
+    },
+    {
+      "word": "unexpectedly.",
+      "start": 19.3,
+      "end": 20.02
+    },
+    {
+      "word": "Sterling",
+      "start": 21.1,
+      "end": 21.1
+    },
+    {
+      "word": "PDF",
+      "start": 21.1,
+      "end": 21.6
+    },
+    {
+      "word": "runs",
+      "start": 21.6,
+      "end": 22.26
+    },
+    {
+      "word": "locally",
+      "start": 22.26,
+      "end": 22.68
+    },
+    {
+      "word": "as",
+      "start": 22.68,
+      "end": 22.98
+    },
+    {
+      "word": "a",
+      "start": 22.98,
+      "end": 23.1
+    },
+    {
+      "word": "lightweight",
+      "start": 23.1,
+      "end": 23.4
+    },
+    {
+      "word": "container",
+      "start": 23.4,
+      "end": 23.94
+    },
+    {
+      "word": "that",
+      "start": 23.94,
+      "end": 24.52
+    },
+    {
+      "word": "handles",
+      "start": 24.52,
+      "end": 24.86
+    },
+    {
+      "word": "full",
+      "start": 24.86,
+      "end": 25.24
+    },
+    {
+      "word": "-page",
+      "start": 25.24,
+      "end": 25.56
+    },
+    {
+      "word": "reordering",
+      "start": 25.56,
+      "end": 26.06
+    },
+    {
+      "word": "and",
+      "start": 26.06,
+      "end": 26.6
+    },
+    {
+      "word": "digital",
+      "start": 26.6,
+      "end": 26.94
+    },
+    {
+      "word": "signing",
+      "start": 26.94,
+      "end": 27.32
+    },
+    {
+      "word": "instantly.",
+      "start": 27.32,
+      "end": 27.92
+    },
+    {
+      "word": "Your",
+      "start": 27.92,
+      "end": 28.72
+    },
+    {
+      "word": "document",
+      "start": 28.72,
+      "end": 29.24
+    },
+    {
+      "word": "pipeline",
+      "start": 29.24,
+      "end": 29.7
+    },
+    {
+      "word": "stays",
+      "start": 29.7,
+      "end": 30.18
+    },
+    {
+      "word": "completely",
+      "start": 30.18,
+      "end": 30.76
+    },
+    {
+      "word": "private",
+      "start": 30.76,
+      "end": 31.16
+    },
+    {
+      "word": "and",
+      "start": 31.16,
+      "end": 31.44
+    },
+    {
+      "word": "lightning",
+      "start": 31.44,
+      "end": 31.72
+    },
+    {
+      "word": "fast.",
+      "start": 31.72,
+      "end": 32.2
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How to split, merge, sign, and convert PDFs completely free offline.",
+      "line2": "100% FREE OPEN SOURCE",
+      "tag": "\ud83d\uded1 Stirling-PDF",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Stirling-PDF",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Stirling-PDF",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Stirling-PDF"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Stirling-PDF",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

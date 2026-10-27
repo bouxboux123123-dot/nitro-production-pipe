@@ -1,0 +1,386 @@
+{
+  "page": "page-07",
+  "idea": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+  "text": "Stop dreading investor updates at the end of every month. Digging through Stripe dashboards, calculating net retention, and summarizing product wins eats an entire Sunday. Manual metric aggregation introduces calculation errors into executive reports that instantly undermine your credibility. Connect Baremetrics and Linear to a Zapier webhook that compiles key KPIs into a ready-to-send draft. This automates your monthly reporting pipeline completely.",
+  "duration": 26.176,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "dreading",
+      "start": 0.44,
+      "end": 0.82
+    },
+    {
+      "word": "investor",
+      "start": 0.82,
+      "end": 1.2
+    },
+    {
+      "word": "updates",
+      "start": 1.2,
+      "end": 1.54
+    },
+    {
+      "word": "at",
+      "start": 1.54,
+      "end": 1.82
+    },
+    {
+      "word": "the",
+      "start": 1.82,
+      "end": 1.9
+    },
+    {
+      "word": "end",
+      "start": 1.9,
+      "end": 2.02
+    },
+    {
+      "word": "of",
+      "start": 2.02,
+      "end": 2.16
+    },
+    {
+      "word": "every",
+      "start": 2.16,
+      "end": 2.3
+    },
+    {
+      "word": "month.",
+      "start": 2.3,
+      "end": 2.98
+    },
+    {
+      "word": "Digging",
+      "start": 3.18,
+      "end": 3.32
+    },
+    {
+      "word": "through",
+      "start": 3.32,
+      "end": 3.58
+    },
+    {
+      "word": "Stripe",
+      "start": 3.58,
+      "end": 3.86
+    },
+    {
+      "word": "dashboards,",
+      "start": 3.86,
+      "end": 4.44
+    },
+    {
+      "word": "calculating",
+      "start": 5.16,
+      "end": 5.16
+    },
+    {
+      "word": "net",
+      "start": 5.16,
+      "end": 5.46
+    },
+    {
+      "word": "retention,",
+      "start": 5.46,
+      "end": 5.88
+    },
+    {
+      "word": "and",
+      "start": 6.38,
+      "end": 6.58
+    },
+    {
+      "word": "summarizing",
+      "start": 6.58,
+      "end": 7.02
+    },
+    {
+      "word": "product",
+      "start": 7.02,
+      "end": 7.44
+    },
+    {
+      "word": "wins",
+      "start": 7.44,
+      "end": 7.82
+    },
+    {
+      "word": "eats",
+      "start": 7.82,
+      "end": 8.12
+    },
+    {
+      "word": "an",
+      "start": 8.12,
+      "end": 8.26
+    },
+    {
+      "word": "entire",
+      "start": 8.26,
+      "end": 8.62
+    },
+    {
+      "word": "Sunday.",
+      "start": 8.62,
+      "end": 9.16
+    },
+    {
+      "word": "Manual",
+      "start": 10.0,
+      "end": 10.0
+    },
+    {
+      "word": "metric",
+      "start": 10.0,
+      "end": 10.36
+    },
+    {
+      "word": "aggregation",
+      "start": 10.36,
+      "end": 11.0
+    },
+    {
+      "word": "introduces",
+      "start": 11.0,
+      "end": 11.62
+    },
+    {
+      "word": "calculation",
+      "start": 11.62,
+      "end": 12.42
+    },
+    {
+      "word": "errors",
+      "start": 12.42,
+      "end": 12.7
+    },
+    {
+      "word": "into",
+      "start": 12.7,
+      "end": 13.04
+    },
+    {
+      "word": "executive",
+      "start": 13.04,
+      "end": 13.52
+    },
+    {
+      "word": "reports",
+      "start": 13.52,
+      "end": 14.04
+    },
+    {
+      "word": "that",
+      "start": 14.04,
+      "end": 14.54
+    },
+    {
+      "word": "instantly",
+      "start": 14.54,
+      "end": 14.86
+    },
+    {
+      "word": "undermine",
+      "start": 14.86,
+      "end": 15.24
+    },
+    {
+      "word": "your",
+      "start": 15.24,
+      "end": 15.62
+    },
+    {
+      "word": "credibility.",
+      "start": 15.62,
+      "end": 16.02
+    },
+    {
+      "word": "Connect",
+      "start": 16.98,
+      "end": 16.98
+    },
+    {
+      "word": "bare",
+      "start": 16.98,
+      "end": 17.22
+    },
+    {
+      "word": "metrics",
+      "start": 17.22,
+      "end": 17.62
+    },
+    {
+      "word": "and",
+      "start": 17.62,
+      "end": 17.86
+    },
+    {
+      "word": "linear",
+      "start": 17.86,
+      "end": 18.02
+    },
+    {
+      "word": "to",
+      "start": 18.02,
+      "end": 18.38
+    },
+    {
+      "word": "a",
+      "start": 18.38,
+      "end": 18.5
+    },
+    {
+      "word": "Zapier",
+      "start": 18.5,
+      "end": 18.9
+    },
+    {
+      "word": "webhook",
+      "start": 18.9,
+      "end": 19.34
+    },
+    {
+      "word": "that",
+      "start": 19.34,
+      "end": 19.82
+    },
+    {
+      "word": "compiles",
+      "start": 19.82,
+      "end": 20.26
+    },
+    {
+      "word": "key",
+      "start": 20.26,
+      "end": 20.62
+    },
+    {
+      "word": "KPIs",
+      "start": 20.62,
+      "end": 21.26
+    },
+    {
+      "word": "into",
+      "start": 21.26,
+      "end": 21.56
+    },
+    {
+      "word": "a",
+      "start": 21.56,
+      "end": 21.7
+    },
+    {
+      "word": "ready",
+      "start": 21.7,
+      "end": 21.84
+    },
+    {
+      "word": "-to",
+      "start": 21.84,
+      "end": 22.1
+    },
+    {
+      "word": "-send",
+      "start": 22.1,
+      "end": 22.26
+    },
+    {
+      "word": "draft.",
+      "start": 22.26,
+      "end": 22.72
+    },
+    {
+      "word": "This",
+      "start": 23.22,
+      "end": 23.48
+    },
+    {
+      "word": "automates",
+      "start": 23.48,
+      "end": 23.92
+    },
+    {
+      "word": "your",
+      "start": 23.92,
+      "end": 24.14
+    },
+    {
+      "word": "monthly",
+      "start": 24.14,
+      "end": 24.48
+    },
+    {
+      "word": "reporting",
+      "start": 24.48,
+      "end": 25.02
+    },
+    {
+      "word": "pipeline",
+      "start": 25.02,
+      "end": 25.5
+    },
+    {
+      "word": "completely.",
+      "start": 25.5,
+      "end": 26.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop dreading investor updates at the end of every month.",
+      "line2": "INVESTOR UPDATES IN 60-SECONDS",
+      "tag": "\ud83d\uded1 Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated investor update generator that drafts monthly metrics in 60 seconds",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "page": "page-01",
+  "idea": "Automated Slack digest that highlights weekly agency revenue and margins",
+  "text": "How agency founders track gross revenue, collected cash, and profit margins every Friday. Founders spend Friday afternoons wrestling with QuickBooks, exporting spreadsheets, and calculating net margins by hand. Delaying financial reviews until monthly bookkeeping leaves leadership blind to cash crunches and runaway contractor expenses. Connect Stripe and QuickBooks to Slack using Make to dispatch an automated executive financial summary every Friday. You gain cash flow clarity in thirty seconds.",
+  "duration": 31.141,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "agency",
+      "start": 0.26,
+      "end": 0.68
+    },
+    {
+      "word": "founders",
+      "start": 0.68,
+      "end": 1.16
+    },
+    {
+      "word": "track",
+      "start": 1.16,
+      "end": 1.58
+    },
+    {
+      "word": "gross",
+      "start": 1.58,
+      "end": 1.96
+    },
+    {
+      "word": "revenue,",
+      "start": 1.96,
+      "end": 2.36
+    },
+    {
+      "word": "collected",
+      "start": 2.94,
+      "end": 3.02
+    },
+    {
+      "word": "cash,",
+      "start": 3.02,
+      "end": 3.64
+    },
+    {
+      "word": "and",
+      "start": 3.82,
+      "end": 4.16
+    },
+    {
+      "word": "profit",
+      "start": 4.16,
+      "end": 4.34
+    },
+    {
+      "word": "margins",
+      "start": 4.34,
+      "end": 4.8
+    },
+    {
+      "word": "every",
+      "start": 4.8,
+      "end": 5.22
+    },
+    {
+      "word": "Friday.",
+      "start": 5.22,
+      "end": 5.7
+    },
+    {
+      "word": "Founders",
+      "start": 6.54,
+      "end": 6.66
+    },
+    {
+      "word": "spend",
+      "start": 6.66,
+      "end": 7.08
+    },
+    {
+      "word": "Friday",
+      "start": 7.08,
+      "end": 7.44
+    },
+    {
+      "word": "afternoons",
+      "start": 7.44,
+      "end": 8.14
+    },
+    {
+      "word": "wrestling",
+      "start": 8.14,
+      "end": 8.52
+    },
+    {
+      "word": "with",
+      "start": 8.52,
+      "end": 8.82
+    },
+    {
+      "word": "QuickBooks,",
+      "start": 8.82,
+      "end": 9.38
+    },
+    {
+      "word": "exporting",
+      "start": 10.14,
+      "end": 10.14
+    },
+    {
+      "word": "spreadsheets,",
+      "start": 10.14,
+      "end": 10.82
+    },
+    {
+      "word": "and",
+      "start": 11.22,
+      "end": 11.36
+    },
+    {
+      "word": "calculating",
+      "start": 11.36,
+      "end": 11.74
+    },
+    {
+      "word": "net",
+      "start": 11.74,
+      "end": 12.18
+    },
+    {
+      "word": "margins",
+      "start": 12.18,
+      "end": 12.58
+    },
+    {
+      "word": "by",
+      "start": 12.58,
+      "end": 12.98
+    },
+    {
+      "word": "hand,",
+      "start": 12.98,
+      "end": 13.46
+    },
+    {
+      "word": "delaying",
+      "start": 13.98,
+      "end": 13.98
+    },
+    {
+      "word": "financial",
+      "start": 13.98,
+      "end": 14.62
+    },
+    {
+      "word": "reviews",
+      "start": 14.62,
+      "end": 15.12
+    },
+    {
+      "word": "until",
+      "start": 15.12,
+      "end": 15.72
+    },
+    {
+      "word": "monthly",
+      "start": 15.72,
+      "end": 16.1
+    },
+    {
+      "word": "bookkeeping",
+      "start": 16.1,
+      "end": 16.66
+    },
+    {
+      "word": "leaves",
+      "start": 16.66,
+      "end": 17.02
+    },
+    {
+      "word": "leadership",
+      "start": 17.02,
+      "end": 17.46
+    },
+    {
+      "word": "blind",
+      "start": 17.46,
+      "end": 17.84
+    },
+    {
+      "word": "to",
+      "start": 17.84,
+      "end": 18.04
+    },
+    {
+      "word": "cash",
+      "start": 18.04,
+      "end": 18.34
+    },
+    {
+      "word": "crunches",
+      "start": 18.34,
+      "end": 18.78
+    },
+    {
+      "word": "and",
+      "start": 18.78,
+      "end": 19.26
+    },
+    {
+      "word": "runaway",
+      "start": 19.26,
+      "end": 19.58
+    },
+    {
+      "word": "contractor",
+      "start": 19.58,
+      "end": 20.14
+    },
+    {
+      "word": "expenses.",
+      "start": 20.14,
+      "end": 20.84
+    },
+    {
+      "word": "Connect",
+      "start": 21.46,
+      "end": 21.82
+    },
+    {
+      "word": "Stripe",
+      "start": 21.82,
+      "end": 22.32
+    },
+    {
+      "word": "and",
+      "start": 22.32,
+      "end": 22.6
+    },
+    {
+      "word": "QuickBooks",
+      "start": 22.6,
+      "end": 23.04
+    },
+    {
+      "word": "to",
+      "start": 23.04,
+      "end": 23.3
+    },
+    {
+      "word": "slack",
+      "start": 23.3,
+      "end": 23.58
+    },
+    {
+      "word": "using",
+      "start": 23.58,
+      "end": 23.94
+    },
+    {
+      "word": "make",
+      "start": 23.94,
+      "end": 24.18
+    },
+    {
+      "word": "to",
+      "start": 24.18,
+      "end": 24.46
+    },
+    {
+      "word": "dispatch",
+      "start": 24.46,
+      "end": 24.72
+    },
+    {
+      "word": "an",
+      "start": 24.72,
+      "end": 25.42
+    },
+    {
+      "word": "automated",
+      "start": 25.42,
+      "end": 25.42
+    },
+    {
+      "word": "executive",
+      "start": 25.42,
+      "end": 26.14
+    },
+    {
+      "word": "financial",
+      "start": 26.14,
+      "end": 26.7
+    },
+    {
+      "word": "summary",
+      "start": 26.7,
+      "end": 27.26
+    },
+    {
+      "word": "every",
+      "start": 27.26,
+      "end": 27.68
+    },
+    {
+      "word": "Friday.",
+      "start": 27.68,
+      "end": 28.1
+    },
+    {
+      "word": "You",
+      "start": 28.1,
+      "end": 28.82
+    },
+    {
+      "word": "gain",
+      "start": 28.82,
+      "end": 29.12
+    },
+    {
+      "word": "cash",
+      "start": 29.12,
+      "end": 29.48
+    },
+    {
+      "word": "flow",
+      "start": 29.48,
+      "end": 29.8
+    },
+    {
+      "word": "clarity",
+      "start": 29.8,
+      "end": 30.14
+    },
+    {
+      "word": "in",
+      "start": 30.14,
+      "end": 30.42
+    },
+    {
+      "word": "30",
+      "start": 30.42,
+      "end": 30.72
+    },
+    {
+      "word": "seconds.",
+      "start": 30.72,
+      "end": 31.04
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "How agency founders track gross revenue, collected cash, and profit margins every Friday.",
+      "line2": "WEEKLY REVENUE DIGEST",
+      "tag": "\ud83d\uded1 Automated Slack digest that highlights weekly agency revenue and margins",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Automated Slack digest that highlights weekly agency revenue and margins",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Automated Slack digest that highlights weekly agency revenue and margins",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Automated Slack digest that highlights weekly agency revenue and margins",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

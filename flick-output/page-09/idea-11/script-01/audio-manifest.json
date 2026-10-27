@@ -1,0 +1,396 @@
+{
+  "page": "page-09",
+  "idea": "Cursor vs GitHub Copilot: which AI coding assistant writes better software",
+  "text": "Cursor vs GitHub Copilot: which AI coding environment actually makes you ship software faster? Relying on simple inline autocomplete leaves developers copy-pasting code across fragmented terminal windows. Standard Copilot extensions only read open tabs, missing database schemas and complex project-wide dependencies. Cursor indexes your full repository, enabling multi-file refactors and automated terminal debugging in Composer. You build production features twice as fast.",
+  "duration": 31.887,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "cursor",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "VS",
+      "start": 0.34,
+      "end": 0.92
+    },
+    {
+      "word": "GitHub",
+      "start": 0.92,
+      "end": 1.44
+    },
+    {
+      "word": "Copilot,",
+      "start": 1.44,
+      "end": 2.08
+    },
+    {
+      "word": "which",
+      "start": 2.36,
+      "end": 2.74
+    },
+    {
+      "word": "AI",
+      "start": 2.74,
+      "end": 3.24
+    },
+    {
+      "word": "coding",
+      "start": 3.24,
+      "end": 3.58
+    },
+    {
+      "word": "environment",
+      "start": 3.58,
+      "end": 4.26
+    },
+    {
+      "word": "actually",
+      "start": 4.26,
+      "end": 4.74
+    },
+    {
+      "word": "makes",
+      "start": 4.74,
+      "end": 5.0
+    },
+    {
+      "word": "you",
+      "start": 5.0,
+      "end": 5.36
+    },
+    {
+      "word": "ship",
+      "start": 5.36,
+      "end": 5.44
+    },
+    {
+      "word": "software",
+      "start": 5.44,
+      "end": 5.92
+    },
+    {
+      "word": "faster.",
+      "start": 5.92,
+      "end": 6.68
+    },
+    {
+      "word": "Relying",
+      "start": 7.12,
+      "end": 7.4
+    },
+    {
+      "word": "on",
+      "start": 7.4,
+      "end": 7.74
+    },
+    {
+      "word": "simple",
+      "start": 7.74,
+      "end": 8.14
+    },
+    {
+      "word": "inline",
+      "start": 8.14,
+      "end": 8.66
+    },
+    {
+      "word": "auto",
+      "start": 8.66,
+      "end": 8.98
+    },
+    {
+      "word": "complete",
+      "start": 8.98,
+      "end": 9.36
+    },
+    {
+      "word": "leaves",
+      "start": 9.36,
+      "end": 9.76
+    },
+    {
+      "word": "developers",
+      "start": 9.76,
+      "end": 10.4
+    },
+    {
+      "word": "cop",
+      "start": 10.4,
+      "end": 10.7
+    },
+    {
+      "word": "a",
+      "start": 10.7,
+      "end": 10.86
+    },
+    {
+      "word": "pasting",
+      "start": 10.86,
+      "end": 11.26
+    },
+    {
+      "word": "code",
+      "start": 11.26,
+      "end": 11.74
+    },
+    {
+      "word": "across",
+      "start": 11.74,
+      "end": 12.24
+    },
+    {
+      "word": "fragmented",
+      "start": 12.24,
+      "end": 12.78
+    },
+    {
+      "word": "terminal",
+      "start": 12.78,
+      "end": 13.28
+    },
+    {
+      "word": "windows.",
+      "start": 13.28,
+      "end": 13.9
+    },
+    {
+      "word": "Standard",
+      "start": 14.66,
+      "end": 14.66
+    },
+    {
+      "word": "Copilot",
+      "start": 14.66,
+      "end": 15.24
+    },
+    {
+      "word": "extensions",
+      "start": 15.24,
+      "end": 15.84
+    },
+    {
+      "word": "only",
+      "start": 15.84,
+      "end": 16.34
+    },
+    {
+      "word": "read",
+      "start": 16.34,
+      "end": 16.64
+    },
+    {
+      "word": "open",
+      "start": 16.64,
+      "end": 17.02
+    },
+    {
+      "word": "tabs,",
+      "start": 17.02,
+      "end": 17.48
+    },
+    {
+      "word": "missing",
+      "start": 18.1,
+      "end": 18.16
+    },
+    {
+      "word": "database",
+      "start": 18.16,
+      "end": 18.6
+    },
+    {
+      "word": "schemas",
+      "start": 18.6,
+      "end": 19.12
+    },
+    {
+      "word": "and",
+      "start": 19.12,
+      "end": 19.72
+    },
+    {
+      "word": "complex",
+      "start": 19.72,
+      "end": 19.96
+    },
+    {
+      "word": "project",
+      "start": 19.96,
+      "end": 20.56
+    },
+    {
+      "word": "-wide",
+      "start": 20.56,
+      "end": 20.84
+    },
+    {
+      "word": "dependencies.",
+      "start": 20.84,
+      "end": 21.46
+    },
+    {
+      "word": "Cursor",
+      "start": 22.28,
+      "end": 22.58
+    },
+    {
+      "word": "indexes",
+      "start": 22.58,
+      "end": 22.94
+    },
+    {
+      "word": "your",
+      "start": 22.94,
+      "end": 23.34
+    },
+    {
+      "word": "full",
+      "start": 23.34,
+      "end": 23.54
+    },
+    {
+      "word": "repository,",
+      "start": 23.54,
+      "end": 24.28
+    },
+    {
+      "word": "enabling",
+      "start": 25.18,
+      "end": 25.2
+    },
+    {
+      "word": "multi",
+      "start": 25.2,
+      "end": 25.52
+    },
+    {
+      "word": "-file",
+      "start": 25.52,
+      "end": 25.96
+    },
+    {
+      "word": "refactors",
+      "start": 25.96,
+      "end": 26.6
+    },
+    {
+      "word": "and",
+      "start": 26.6,
+      "end": 26.96
+    },
+    {
+      "word": "automated",
+      "start": 26.96,
+      "end": 27.3
+    },
+    {
+      "word": "terminal",
+      "start": 27.3,
+      "end": 27.78
+    },
+    {
+      "word": "debugging",
+      "start": 27.78,
+      "end": 28.18
+    },
+    {
+      "word": "and",
+      "start": 28.18,
+      "end": 28.52
+    },
+    {
+      "word": "composer.",
+      "start": 28.52,
+      "end": 28.98
+    },
+    {
+      "word": "You",
+      "start": 28.98,
+      "end": 29.7
+    },
+    {
+      "word": "build",
+      "start": 29.7,
+      "end": 30.0
+    },
+    {
+      "word": "production",
+      "start": 30.0,
+      "end": 30.42
+    },
+    {
+      "word": "features",
+      "start": 30.42,
+      "end": 30.94
+    },
+    {
+      "word": "twice",
+      "start": 30.94,
+      "end": 31.3
+    },
+    {
+      "word": "as",
+      "start": 31.3,
+      "end": 31.54
+    },
+    {
+      "word": "fast.",
+      "start": 31.54,
+      "end": 31.86
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Cursor vs Copilot: which AI coding environment makes you ship software faster?",
+      "line2": "CURSOR VS GITHUB COPILOT",
+      "tag": "\ud83d\uded1 Cursor vs GitHub Copilot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Cursor vs GitHub Copilot",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Cursor vs GitHub Copilot",
+        "subtitle": "Cursor vs GitHub Copilot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Cursor vs GitHub Copilot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Cursor vs GitHub Copilot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Cursor vs GitHub Copilot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

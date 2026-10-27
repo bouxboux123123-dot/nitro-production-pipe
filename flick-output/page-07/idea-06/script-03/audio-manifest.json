@@ -1,0 +1,376 @@
+{
+  "page": "page-07",
+  "idea": "Rapid customer onboarding checklist app for B2B SaaS pilots",
+  "text": "The interactive onboarding checklist that increased product activation by forty percent. Founders burn ad spend acquiring trial accounts that never reach their setup finish line. Static welcome tours get dismissed instantly because users demand immediate, hands-on progress. Build dynamic progress checklists connected to Supabase webhooks that reward users as they configure workspaces. You convert dormant signups into daily active power users at scale.",
+  "duration": 26.624,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "interactive",
+      "start": 0.32,
+      "end": 0.68
+    },
+    {
+      "word": "onboarding",
+      "start": 0.68,
+      "end": 1.26
+    },
+    {
+      "word": "checklist",
+      "start": 1.26,
+      "end": 1.56
+    },
+    {
+      "word": "that",
+      "start": 1.56,
+      "end": 1.92
+    },
+    {
+      "word": "increased",
+      "start": 1.92,
+      "end": 2.22
+    },
+    {
+      "word": "product",
+      "start": 2.22,
+      "end": 2.66
+    },
+    {
+      "word": "activation",
+      "start": 2.66,
+      "end": 3.2
+    },
+    {
+      "word": "by",
+      "start": 3.2,
+      "end": 3.68
+    },
+    {
+      "word": "40%.",
+      "start": 3.68,
+      "end": 4.92
+    },
+    {
+      "word": "Founders",
+      "start": 4.92,
+      "end": 5.3
+    },
+    {
+      "word": "burn",
+      "start": 5.3,
+      "end": 5.76
+    },
+    {
+      "word": "ads",
+      "start": 5.76,
+      "end": 6.08
+    },
+    {
+      "word": "spend",
+      "start": 6.08,
+      "end": 6.3
+    },
+    {
+      "word": "acquiring",
+      "start": 6.3,
+      "end": 6.7
+    },
+    {
+      "word": "trial",
+      "start": 6.7,
+      "end": 7.04
+    },
+    {
+      "word": "accounts",
+      "start": 7.04,
+      "end": 7.48
+    },
+    {
+      "word": "that",
+      "start": 7.48,
+      "end": 7.74
+    },
+    {
+      "word": "never",
+      "start": 7.74,
+      "end": 8.0
+    },
+    {
+      "word": "reach",
+      "start": 8.0,
+      "end": 8.26
+    },
+    {
+      "word": "their",
+      "start": 8.26,
+      "end": 8.54
+    },
+    {
+      "word": "setup",
+      "start": 8.54,
+      "end": 8.82
+    },
+    {
+      "word": "finish",
+      "start": 8.82,
+      "end": 9.12
+    },
+    {
+      "word": "line.",
+      "start": 9.12,
+      "end": 9.66
+    },
+    {
+      "word": "Static",
+      "start": 10.38,
+      "end": 10.38
+    },
+    {
+      "word": "welcome",
+      "start": 10.38,
+      "end": 10.78
+    },
+    {
+      "word": "tours",
+      "start": 10.78,
+      "end": 11.1
+    },
+    {
+      "word": "get",
+      "start": 11.1,
+      "end": 11.42
+    },
+    {
+      "word": "dismissed",
+      "start": 11.42,
+      "end": 11.76
+    },
+    {
+      "word": "instantly",
+      "start": 11.76,
+      "end": 12.32
+    },
+    {
+      "word": "because",
+      "start": 12.32,
+      "end": 12.98
+    },
+    {
+      "word": "users",
+      "start": 12.98,
+      "end": 13.38
+    },
+    {
+      "word": "demand",
+      "start": 13.38,
+      "end": 13.78
+    },
+    {
+      "word": "immediate",
+      "start": 13.78,
+      "end": 14.3
+    },
+    {
+      "word": "hands",
+      "start": 14.3,
+      "end": 14.78
+    },
+    {
+      "word": "-on",
+      "start": 14.78,
+      "end": 15.02
+    },
+    {
+      "word": "progress.",
+      "start": 15.02,
+      "end": 15.5
+    },
+    {
+      "word": "Build",
+      "start": 16.04,
+      "end": 16.26
+    },
+    {
+      "word": "dynamic",
+      "start": 16.26,
+      "end": 16.7
+    },
+    {
+      "word": "progress",
+      "start": 16.7,
+      "end": 17.26
+    },
+    {
+      "word": "checklists",
+      "start": 17.26,
+      "end": 17.78
+    },
+    {
+      "word": "connected",
+      "start": 17.78,
+      "end": 18.32
+    },
+    {
+      "word": "to",
+      "start": 18.32,
+      "end": 18.72
+    },
+    {
+      "word": "superbase",
+      "start": 18.72,
+      "end": 19.16
+    },
+    {
+      "word": "webhooks",
+      "start": 19.16,
+      "end": 19.66
+    },
+    {
+      "word": "that",
+      "start": 19.66,
+      "end": 19.86
+    },
+    {
+      "word": "reward",
+      "start": 19.86,
+      "end": 20.16
+    },
+    {
+      "word": "users",
+      "start": 20.16,
+      "end": 20.6
+    },
+    {
+      "word": "as",
+      "start": 20.6,
+      "end": 21.12
+    },
+    {
+      "word": "they",
+      "start": 21.12,
+      "end": 21.3
+    },
+    {
+      "word": "configure",
+      "start": 21.3,
+      "end": 21.66
+    },
+    {
+      "word": "workspaces.",
+      "start": 21.66,
+      "end": 22.44
+    },
+    {
+      "word": "You",
+      "start": 23.08,
+      "end": 23.16
+    },
+    {
+      "word": "convert",
+      "start": 23.16,
+      "end": 23.48
+    },
+    {
+      "word": "dormant",
+      "start": 23.48,
+      "end": 23.96
+    },
+    {
+      "word": "signups",
+      "start": 23.96,
+      "end": 24.38
+    },
+    {
+      "word": "into",
+      "start": 24.38,
+      "end": 24.62
+    },
+    {
+      "word": "daily",
+      "start": 24.62,
+      "end": 24.96
+    },
+    {
+      "word": "active",
+      "start": 24.96,
+      "end": 25.34
+    },
+    {
+      "word": "power",
+      "start": 25.34,
+      "end": 25.7
+    },
+    {
+      "word": "users",
+      "start": 25.7,
+      "end": 26.0
+    },
+    {
+      "word": "at",
+      "start": 26.0,
+      "end": 26.28
+    },
+    {
+      "word": "scale.",
+      "start": 26.28,
+      "end": 26.56
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The interactive onboarding checklist that increased product activation by 40 percent.",
+      "line2": "RAPID SAAS ONBOARDING",
+      "tag": "\ud83d\uded1 Rapid customer onboarding checklist app for B2B SaaS pilots",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Rapid customer onboarding checklist app for B2B SaaS pilots",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Rapid customer onboarding checklist app for B2B SaaS pilots",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Rapid customer onboarding checklist app for B2B SaaS pilots",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

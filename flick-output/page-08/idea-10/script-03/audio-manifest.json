@@ -1,0 +1,401 @@
+{
+  "page": "page-08",
+  "idea": "How to turn paper documents into search-ready PDFs using your phone",
+  "text": "Here is how to digitize paper files into organized cloud folders in under two minutes. Keeping physical file cabinets clutters your office and makes retrieving client records impossible while traveling. Traditional desktop scanners take forever and leave files trapped on a single local computer. Instead, use Microsoft Lens to scan multi-page contracts directly into Google Drive with automatic OCR. You access vital records from anywhere in seconds.",
+  "duration": 26.283,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "is",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "how",
+      "start": 0.3,
+      "end": 0.5
+    },
+    {
+      "word": "to",
+      "start": 0.5,
+      "end": 0.64
+    },
+    {
+      "word": "digitize",
+      "start": 0.64,
+      "end": 1.12
+    },
+    {
+      "word": "paper",
+      "start": 1.12,
+      "end": 1.34
+    },
+    {
+      "word": "files",
+      "start": 1.34,
+      "end": 1.78
+    },
+    {
+      "word": "into",
+      "start": 1.78,
+      "end": 2.06
+    },
+    {
+      "word": "organized",
+      "start": 2.06,
+      "end": 2.6
+    },
+    {
+      "word": "cloud",
+      "start": 2.6,
+      "end": 3.08
+    },
+    {
+      "word": "folders",
+      "start": 3.08,
+      "end": 3.46
+    },
+    {
+      "word": "in",
+      "start": 3.46,
+      "end": 3.62
+    },
+    {
+      "word": "under",
+      "start": 3.62,
+      "end": 3.82
+    },
+    {
+      "word": "two",
+      "start": 3.82,
+      "end": 4.04
+    },
+    {
+      "word": "minutes.",
+      "start": 4.04,
+      "end": 4.4
+    },
+    {
+      "word": "Keeping",
+      "start": 4.94,
+      "end": 5.06
+    },
+    {
+      "word": "physical",
+      "start": 5.06,
+      "end": 5.48
+    },
+    {
+      "word": "file",
+      "start": 5.48,
+      "end": 5.88
+    },
+    {
+      "word": "cabinets",
+      "start": 5.88,
+      "end": 6.24
+    },
+    {
+      "word": "clutters",
+      "start": 6.24,
+      "end": 6.58
+    },
+    {
+      "word": "your",
+      "start": 6.58,
+      "end": 6.84
+    },
+    {
+      "word": "office",
+      "start": 6.84,
+      "end": 7.14
+    },
+    {
+      "word": "and",
+      "start": 7.14,
+      "end": 7.54
+    },
+    {
+      "word": "makes",
+      "start": 7.54,
+      "end": 7.78
+    },
+    {
+      "word": "retrieving",
+      "start": 7.78,
+      "end": 8.26
+    },
+    {
+      "word": "client",
+      "start": 8.26,
+      "end": 8.66
+    },
+    {
+      "word": "records",
+      "start": 8.66,
+      "end": 9.02
+    },
+    {
+      "word": "impossible",
+      "start": 9.02,
+      "end": 9.54
+    },
+    {
+      "word": "while",
+      "start": 9.54,
+      "end": 9.88
+    },
+    {
+      "word": "traveling.",
+      "start": 9.88,
+      "end": 10.34
+    },
+    {
+      "word": "Traditional",
+      "start": 11.08,
+      "end": 11.28
+    },
+    {
+      "word": "desktop",
+      "start": 11.28,
+      "end": 11.72
+    },
+    {
+      "word": "scanners",
+      "start": 11.72,
+      "end": 12.16
+    },
+    {
+      "word": "take",
+      "start": 12.16,
+      "end": 12.56
+    },
+    {
+      "word": "forever",
+      "start": 12.56,
+      "end": 12.9
+    },
+    {
+      "word": "and",
+      "start": 12.9,
+      "end": 13.1
+    },
+    {
+      "word": "leave",
+      "start": 13.1,
+      "end": 13.36
+    },
+    {
+      "word": "files",
+      "start": 13.36,
+      "end": 13.78
+    },
+    {
+      "word": "trapped",
+      "start": 13.78,
+      "end": 14.12
+    },
+    {
+      "word": "on",
+      "start": 14.12,
+      "end": 14.32
+    },
+    {
+      "word": "a",
+      "start": 14.32,
+      "end": 14.46
+    },
+    {
+      "word": "single",
+      "start": 14.46,
+      "end": 14.66
+    },
+    {
+      "word": "local",
+      "start": 14.66,
+      "end": 15.0
+    },
+    {
+      "word": "computer.",
+      "start": 15.0,
+      "end": 15.46
+    },
+    {
+      "word": "Instead,",
+      "start": 16.1,
+      "end": 16.42
+    },
+    {
+      "word": "use",
+      "start": 16.92,
+      "end": 17.06
+    },
+    {
+      "word": "Microsoft",
+      "start": 17.06,
+      "end": 17.54
+    },
+    {
+      "word": "Lens",
+      "start": 17.54,
+      "end": 18.04
+    },
+    {
+      "word": "to",
+      "start": 18.04,
+      "end": 18.5
+    },
+    {
+      "word": "scan",
+      "start": 18.5,
+      "end": 18.8
+    },
+    {
+      "word": "multi",
+      "start": 18.8,
+      "end": 19.1
+    },
+    {
+      "word": "-page",
+      "start": 19.1,
+      "end": 19.54
+    },
+    {
+      "word": "contracts",
+      "start": 19.54,
+      "end": 20.1
+    },
+    {
+      "word": "directly",
+      "start": 20.1,
+      "end": 20.64
+    },
+    {
+      "word": "into",
+      "start": 20.64,
+      "end": 20.92
+    },
+    {
+      "word": "Google",
+      "start": 20.92,
+      "end": 21.2
+    },
+    {
+      "word": "Drive",
+      "start": 21.2,
+      "end": 21.66
+    },
+    {
+      "word": "with",
+      "start": 21.66,
+      "end": 22.08
+    },
+    {
+      "word": "automatic",
+      "start": 22.08,
+      "end": 22.46
+    },
+    {
+      "word": "OCR.",
+      "start": 22.46,
+      "end": 23.1
+    },
+    {
+      "word": "You",
+      "start": 23.1,
+      "end": 23.86
+    },
+    {
+      "word": "access",
+      "start": 23.86,
+      "end": 24.24
+    },
+    {
+      "word": "vital",
+      "start": 24.24,
+      "end": 24.6
+    },
+    {
+      "word": "records",
+      "start": 24.6,
+      "end": 24.98
+    },
+    {
+      "word": "from",
+      "start": 24.98,
+      "end": 25.26
+    },
+    {
+      "word": "anywhere",
+      "start": 25.26,
+      "end": 25.58
+    },
+    {
+      "word": "in",
+      "start": 25.58,
+      "end": 25.84
+    },
+    {
+      "word": "seconds.",
+      "start": 25.84,
+      "end": 26.2
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How to digitize all your paper files into organized cloud folders in minutes.",
+      "line2": "SCAN PAPERS TO PDF",
+      "tag": "\ud83d\uded1 How to turn paper documents into search-ready PDFs using your phone",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to turn paper documents into search-ready PDFs using your phone",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to turn paper documents into search-ready PDFs using your phone",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

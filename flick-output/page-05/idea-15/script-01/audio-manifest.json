@@ -1,0 +1,406 @@
+{
+  "page": "page-05",
+  "idea": "Automated calendar reminder sequence via Twilio SMS and Make",
+  "text": "Here is how to slash client no-show rates from thirty percent down to under five percent. Consultants lose thousands every month when prospects ignore calendar emails buried in overflowing inboxes. Standard email reminders land in spam folders, leaving you stranded inside empty Zoom rooms. Connect Google Calendar to Twilio through Make to trigger automated SMS reminders a day before scheduled calls. Attendance rates surge immediately without manual follow-up.",
+  "duration": 29.029,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "how",
+      "start": 0.42,
+      "end": 0.58
+    },
+    {
+      "word": "to",
+      "start": 0.58,
+      "end": 0.8
+    },
+    {
+      "word": "slash",
+      "start": 0.8,
+      "end": 1.18
+    },
+    {
+      "word": "client",
+      "start": 1.18,
+      "end": 1.52
+    },
+    {
+      "word": "no",
+      "start": 1.52,
+      "end": 1.74
+    },
+    {
+      "word": "show",
+      "start": 1.74,
+      "end": 2.0
+    },
+    {
+      "word": "rates",
+      "start": 2.0,
+      "end": 2.22
+    },
+    {
+      "word": "from",
+      "start": 2.22,
+      "end": 2.52
+    },
+    {
+      "word": "30",
+      "start": 2.52,
+      "end": 2.86
+    },
+    {
+      "word": "%",
+      "start": 2.86,
+      "end": 3.24
+    },
+    {
+      "word": "down",
+      "start": 3.24,
+      "end": 3.6
+    },
+    {
+      "word": "to",
+      "start": 3.6,
+      "end": 3.88
+    },
+    {
+      "word": "under",
+      "start": 3.88,
+      "end": 4.08
+    },
+    {
+      "word": "5%.",
+      "start": 4.08,
+      "end": 5.4
+    },
+    {
+      "word": "Consultants",
+      "start": 5.4,
+      "end": 6.06
+    },
+    {
+      "word": "lose",
+      "start": 6.06,
+      "end": 6.32
+    },
+    {
+      "word": "thousands",
+      "start": 6.32,
+      "end": 6.84
+    },
+    {
+      "word": "every",
+      "start": 6.84,
+      "end": 7.22
+    },
+    {
+      "word": "month",
+      "start": 7.22,
+      "end": 7.56
+    },
+    {
+      "word": "when",
+      "start": 7.56,
+      "end": 7.78
+    },
+    {
+      "word": "prospects",
+      "start": 7.78,
+      "end": 8.22
+    },
+    {
+      "word": "ignore",
+      "start": 8.22,
+      "end": 8.72
+    },
+    {
+      "word": "calendar",
+      "start": 8.72,
+      "end": 9.2
+    },
+    {
+      "word": "emails",
+      "start": 9.2,
+      "end": 9.72
+    },
+    {
+      "word": "buried",
+      "start": 9.72,
+      "end": 10.24
+    },
+    {
+      "word": "in",
+      "start": 10.24,
+      "end": 10.5
+    },
+    {
+      "word": "overflowing",
+      "start": 10.5,
+      "end": 10.96
+    },
+    {
+      "word": "inboxes.",
+      "start": 10.96,
+      "end": 11.94
+    },
+    {
+      "word": "Standard",
+      "start": 12.5,
+      "end": 12.5
+    },
+    {
+      "word": "email",
+      "start": 12.5,
+      "end": 12.94
+    },
+    {
+      "word": "reminders",
+      "start": 12.94,
+      "end": 13.44
+    },
+    {
+      "word": "land",
+      "start": 13.44,
+      "end": 13.94
+    },
+    {
+      "word": "in",
+      "start": 13.94,
+      "end": 14.24
+    },
+    {
+      "word": "spam",
+      "start": 14.24,
+      "end": 14.58
+    },
+    {
+      "word": "folders,",
+      "start": 14.58,
+      "end": 15.0
+    },
+    {
+      "word": "leaving",
+      "start": 15.52,
+      "end": 15.62
+    },
+    {
+      "word": "you",
+      "start": 15.62,
+      "end": 15.92
+    },
+    {
+      "word": "stranded",
+      "start": 15.92,
+      "end": 16.22
+    },
+    {
+      "word": "inside",
+      "start": 16.22,
+      "end": 16.86
+    },
+    {
+      "word": "empty",
+      "start": 16.86,
+      "end": 17.18
+    },
+    {
+      "word": "zoom",
+      "start": 17.18,
+      "end": 17.52
+    },
+    {
+      "word": "rooms.",
+      "start": 17.52,
+      "end": 17.86
+    },
+    {
+      "word": "Connect",
+      "start": 18.48,
+      "end": 18.76
+    },
+    {
+      "word": "Google",
+      "start": 18.76,
+      "end": 19.14
+    },
+    {
+      "word": "Calendar",
+      "start": 19.14,
+      "end": 19.5
+    },
+    {
+      "word": "to",
+      "start": 19.5,
+      "end": 19.76
+    },
+    {
+      "word": "Twilio",
+      "start": 19.76,
+      "end": 20.2
+    },
+    {
+      "word": "through",
+      "start": 20.2,
+      "end": 20.5
+    },
+    {
+      "word": "make",
+      "start": 20.5,
+      "end": 20.72
+    },
+    {
+      "word": "to",
+      "start": 20.72,
+      "end": 20.96
+    },
+    {
+      "word": "trigger",
+      "start": 20.96,
+      "end": 21.28
+    },
+    {
+      "word": "automated",
+      "start": 21.28,
+      "end": 21.86
+    },
+    {
+      "word": "SMS",
+      "start": 21.86,
+      "end": 22.42
+    },
+    {
+      "word": "reminders",
+      "start": 22.42,
+      "end": 23.06
+    },
+    {
+      "word": "a",
+      "start": 23.06,
+      "end": 23.62
+    },
+    {
+      "word": "day",
+      "start": 23.62,
+      "end": 23.88
+    },
+    {
+      "word": "before",
+      "start": 23.88,
+      "end": 24.24
+    },
+    {
+      "word": "scheduled",
+      "start": 24.24,
+      "end": 24.64
+    },
+    {
+      "word": "calls.",
+      "start": 24.64,
+      "end": 25.26
+    },
+    {
+      "word": "Attendance",
+      "start": 25.84,
+      "end": 26.3
+    },
+    {
+      "word": "rates",
+      "start": 26.3,
+      "end": 26.62
+    },
+    {
+      "word": "surge",
+      "start": 26.62,
+      "end": 26.92
+    },
+    {
+      "word": "immediately",
+      "start": 26.92,
+      "end": 27.46
+    },
+    {
+      "word": "without",
+      "start": 27.46,
+      "end": 27.94
+    },
+    {
+      "word": "manual",
+      "start": 27.94,
+      "end": 28.4
+    },
+    {
+      "word": "follow",
+      "start": 28.4,
+      "end": 28.76
+    },
+    {
+      "word": "-up.",
+      "start": 28.76,
+      "end": 29.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "How to slash client no-show rates from 30 percent down to under 5 percent.",
+      "line2": "AUTOMATED SMS REMINDERS",
+      "tag": "\ud83d\uded1 Automated calendar reminder sequence via Twilio SMS and Make",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated calendar reminder sequence via Twilio SMS and Make",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated calendar reminder sequence via Twilio SMS and Make",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

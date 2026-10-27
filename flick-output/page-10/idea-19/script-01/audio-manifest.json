@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "Superhuman AI update for automated email triage and instant drafts",
+  "text": "The world's fastest email client just got an AI upgrade that writes full replies in your voice. Staring down hundreds of unread messages every morning paralyzes your focus and delays urgent client replies. Generic AI auto-replies sound robotic and force you to rewrite drafts manually before hitting send. Superhuman AI analyzes your previous communication style to generate tailored responses with one keyboard shortcut. You clear your inbox in record time.",
+  "duration": 29.861,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "world's",
+      "start": 0.18,
+      "end": 0.94
+    },
+    {
+      "word": "fastest",
+      "start": 0.94,
+      "end": 1.02
+    },
+    {
+      "word": "email",
+      "start": 1.02,
+      "end": 1.36
+    },
+    {
+      "word": "client",
+      "start": 1.36,
+      "end": 1.82
+    },
+    {
+      "word": "just",
+      "start": 1.82,
+      "end": 2.08
+    },
+    {
+      "word": "got",
+      "start": 2.08,
+      "end": 2.24
+    },
+    {
+      "word": "an",
+      "start": 2.24,
+      "end": 2.48
+    },
+    {
+      "word": "AI",
+      "start": 2.48,
+      "end": 2.78
+    },
+    {
+      "word": "upgrade",
+      "start": 2.78,
+      "end": 3.3
+    },
+    {
+      "word": "that",
+      "start": 3.3,
+      "end": 3.8
+    },
+    {
+      "word": "writes",
+      "start": 3.8,
+      "end": 4.1
+    },
+    {
+      "word": "full",
+      "start": 4.1,
+      "end": 4.38
+    },
+    {
+      "word": "replies",
+      "start": 4.38,
+      "end": 4.86
+    },
+    {
+      "word": "in",
+      "start": 4.86,
+      "end": 5.04
+    },
+    {
+      "word": "your",
+      "start": 5.04,
+      "end": 5.22
+    },
+    {
+      "word": "voice.",
+      "start": 5.22,
+      "end": 5.64
+    },
+    {
+      "word": "Staring",
+      "start": 6.28,
+      "end": 6.52
+    },
+    {
+      "word": "down",
+      "start": 6.52,
+      "end": 6.96
+    },
+    {
+      "word": "hundreds",
+      "start": 6.96,
+      "end": 7.26
+    },
+    {
+      "word": "of",
+      "start": 7.26,
+      "end": 7.56
+    },
+    {
+      "word": "unread",
+      "start": 7.56,
+      "end": 7.9
+    },
+    {
+      "word": "messages,",
+      "start": 7.9,
+      "end": 8.46
+    },
+    {
+      "word": "every",
+      "start": 8.96,
+      "end": 9.02
+    },
+    {
+      "word": "morning",
+      "start": 9.02,
+      "end": 9.36
+    },
+    {
+      "word": "paralyzes",
+      "start": 9.36,
+      "end": 9.94
+    },
+    {
+      "word": "your",
+      "start": 9.94,
+      "end": 10.26
+    },
+    {
+      "word": "focus",
+      "start": 10.26,
+      "end": 10.64
+    },
+    {
+      "word": "and",
+      "start": 10.64,
+      "end": 11.16
+    },
+    {
+      "word": "delays",
+      "start": 11.16,
+      "end": 11.44
+    },
+    {
+      "word": "urgent",
+      "start": 11.44,
+      "end": 11.92
+    },
+    {
+      "word": "client",
+      "start": 11.92,
+      "end": 12.28
+    },
+    {
+      "word": "replies.",
+      "start": 12.28,
+      "end": 12.94
+    },
+    {
+      "word": "Generic",
+      "start": 13.32,
+      "end": 13.64
+    },
+    {
+      "word": "AI",
+      "start": 13.64,
+      "end": 14.36
+    },
+    {
+      "word": "auto",
+      "start": 14.36,
+      "end": 14.6
+    },
+    {
+      "word": "replies",
+      "start": 14.6,
+      "end": 15.02
+    },
+    {
+      "word": "sound",
+      "start": 15.02,
+      "end": 15.5
+    },
+    {
+      "word": "robotic",
+      "start": 15.5,
+      "end": 16.04
+    },
+    {
+      "word": "and",
+      "start": 16.04,
+      "end": 16.54
+    },
+    {
+      "word": "force",
+      "start": 16.54,
+      "end": 16.76
+    },
+    {
+      "word": "you",
+      "start": 16.76,
+      "end": 16.98
+    },
+    {
+      "word": "to",
+      "start": 16.98,
+      "end": 17.18
+    },
+    {
+      "word": "rewrite",
+      "start": 17.18,
+      "end": 17.52
+    },
+    {
+      "word": "drafts",
+      "start": 17.52,
+      "end": 17.94
+    },
+    {
+      "word": "manually",
+      "start": 17.94,
+      "end": 18.42
+    },
+    {
+      "word": "before",
+      "start": 18.42,
+      "end": 19.02
+    },
+    {
+      "word": "hitting",
+      "start": 19.02,
+      "end": 19.32
+    },
+    {
+      "word": "send.",
+      "start": 19.32,
+      "end": 19.7
+    },
+    {
+      "word": "Superhuman",
+      "start": 20.44,
+      "end": 20.9
+    },
+    {
+      "word": "AI",
+      "start": 20.9,
+      "end": 21.54
+    },
+    {
+      "word": "analyzes",
+      "start": 21.54,
+      "end": 22.14
+    },
+    {
+      "word": "your",
+      "start": 22.14,
+      "end": 22.44
+    },
+    {
+      "word": "previous",
+      "start": 22.44,
+      "end": 22.8
+    },
+    {
+      "word": "communication",
+      "start": 22.8,
+      "end": 23.42
+    },
+    {
+      "word": "style",
+      "start": 23.42,
+      "end": 23.96
+    },
+    {
+      "word": "to",
+      "start": 23.96,
+      "end": 24.32
+    },
+    {
+      "word": "generate",
+      "start": 24.32,
+      "end": 24.8
+    },
+    {
+      "word": "tailored",
+      "start": 24.8,
+      "end": 25.14
+    },
+    {
+      "word": "responses",
+      "start": 25.14,
+      "end": 25.72
+    },
+    {
+      "word": "with",
+      "start": 25.72,
+      "end": 26.1
+    },
+    {
+      "word": "one",
+      "start": 26.1,
+      "end": 26.44
+    },
+    {
+      "word": "keyboard",
+      "start": 26.44,
+      "end": 26.8
+    },
+    {
+      "word": "shortcut.",
+      "start": 26.8,
+      "end": 27.3
+    },
+    {
+      "word": "You",
+      "start": 27.3,
+      "end": 28.02
+    },
+    {
+      "word": "clear",
+      "start": 28.02,
+      "end": 28.28
+    },
+    {
+      "word": "your",
+      "start": 28.28,
+      "end": 28.5
+    },
+    {
+      "word": "inbox",
+      "start": 28.5,
+      "end": 28.88
+    },
+    {
+      "word": "in",
+      "start": 28.88,
+      "end": 29.2
+    },
+    {
+      "word": "record",
+      "start": 29.2,
+      "end": 29.34
+    },
+    {
+      "word": "time.",
+      "start": 29.34,
+      "end": 29.84
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The world's fastest email client just got an AI upgrade that writes full replies in your voice.",
+      "line2": "SUPERHUMAN AI EMAIL TRIAGE",
+      "tag": "\ud83d\uded1 Superhuman AI update for automated email triage and instant drafts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Superhuman AI update for automated email triage and instant drafts",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Superhuman AI update for automated email triage and instant drafts",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

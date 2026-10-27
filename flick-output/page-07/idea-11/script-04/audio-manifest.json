@@ -1,0 +1,391 @@
+{
+  "page": "page-07",
+  "idea": "Automated churn alert workflow that triggers founder outreach on cancellations",
+  "text": "Direct founder outreach can save twenty-five percent of your canceling subscription accounts. Users frequently cancel due to minor software bugs, missing documentation, or confusing interface settings. Ignoring these fixable issues burns customer acquisition dollars on a constantly leaking bucket. Connect Stripe through Make to automatically send a plain-text email from the CEO offering hands-on assistance. Rapid personal support reverses cancellations into long-term retention.",
+  "duration": 29.541,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Direct",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "founder",
+      "start": 0.44,
+      "end": 0.84
+    },
+    {
+      "word": "outreach",
+      "start": 0.84,
+      "end": 1.32
+    },
+    {
+      "word": "can",
+      "start": 1.32,
+      "end": 1.72
+    },
+    {
+      "word": "save",
+      "start": 1.72,
+      "end": 1.96
+    },
+    {
+      "word": "25",
+      "start": 1.96,
+      "end": 2.64
+    },
+    {
+      "word": "%",
+      "start": 2.64,
+      "end": 3.04
+    },
+    {
+      "word": "of",
+      "start": 3.04,
+      "end": 3.12
+    },
+    {
+      "word": "your",
+      "start": 3.12,
+      "end": 3.34
+    },
+    {
+      "word": "cancelling",
+      "start": 3.34,
+      "end": 3.8
+    },
+    {
+      "word": "subscription",
+      "start": 3.8,
+      "end": 4.32
+    },
+    {
+      "word": "accounts.",
+      "start": 4.32,
+      "end": 5.06
+    },
+    {
+      "word": "Users",
+      "start": 5.84,
+      "end": 5.84
+    },
+    {
+      "word": "frequently",
+      "start": 5.84,
+      "end": 6.42
+    },
+    {
+      "word": "cancel",
+      "start": 6.42,
+      "end": 6.86
+    },
+    {
+      "word": "due",
+      "start": 6.86,
+      "end": 7.12
+    },
+    {
+      "word": "to",
+      "start": 7.12,
+      "end": 7.32
+    },
+    {
+      "word": "minor",
+      "start": 7.32,
+      "end": 7.54
+    },
+    {
+      "word": "software",
+      "start": 7.54,
+      "end": 8.06
+    },
+    {
+      "word": "bugs,",
+      "start": 8.06,
+      "end": 8.54
+    },
+    {
+      "word": "missing",
+      "start": 8.92,
+      "end": 9.04
+    },
+    {
+      "word": "documentation,",
+      "start": 9.04,
+      "end": 9.8
+    },
+    {
+      "word": "or",
+      "start": 10.3,
+      "end": 10.58
+    },
+    {
+      "word": "confusing",
+      "start": 10.58,
+      "end": 10.98
+    },
+    {
+      "word": "interface",
+      "start": 10.98,
+      "end": 11.44
+    },
+    {
+      "word": "settings,",
+      "start": 11.44,
+      "end": 11.96
+    },
+    {
+      "word": "ignoring",
+      "start": 12.48,
+      "end": 12.78
+    },
+    {
+      "word": "these",
+      "start": 12.78,
+      "end": 13.16
+    },
+    {
+      "word": "fixable",
+      "start": 13.16,
+      "end": 13.6
+    },
+    {
+      "word": "issues",
+      "start": 13.6,
+      "end": 14.04
+    },
+    {
+      "word": "burns",
+      "start": 14.04,
+      "end": 14.48
+    },
+    {
+      "word": "customer",
+      "start": 14.48,
+      "end": 14.96
+    },
+    {
+      "word": "acquisition",
+      "start": 14.96,
+      "end": 15.46
+    },
+    {
+      "word": "dollars",
+      "start": 15.46,
+      "end": 15.88
+    },
+    {
+      "word": "on",
+      "start": 15.88,
+      "end": 16.36
+    },
+    {
+      "word": "a",
+      "start": 16.36,
+      "end": 16.78
+    },
+    {
+      "word": "constantly",
+      "start": 16.78,
+      "end": 16.84
+    },
+    {
+      "word": "leaking",
+      "start": 16.84,
+      "end": 17.3
+    },
+    {
+      "word": "bucket.",
+      "start": 17.3,
+      "end": 17.72
+    },
+    {
+      "word": "Connect",
+      "start": 18.58,
+      "end": 18.58
+    },
+    {
+      "word": "Stripe",
+      "start": 18.58,
+      "end": 18.9
+    },
+    {
+      "word": "through",
+      "start": 18.9,
+      "end": 19.22
+    },
+    {
+      "word": "make",
+      "start": 19.22,
+      "end": 19.44
+    },
+    {
+      "word": "to",
+      "start": 19.44,
+      "end": 19.8
+    },
+    {
+      "word": "automatically",
+      "start": 19.8,
+      "end": 20.14
+    },
+    {
+      "word": "send",
+      "start": 20.14,
+      "end": 20.54
+    },
+    {
+      "word": "a",
+      "start": 20.54,
+      "end": 20.72
+    },
+    {
+      "word": "plain",
+      "start": 20.72,
+      "end": 20.96
+    },
+    {
+      "word": "text",
+      "start": 20.96,
+      "end": 21.26
+    },
+    {
+      "word": "email",
+      "start": 21.26,
+      "end": 21.64
+    },
+    {
+      "word": "from",
+      "start": 21.64,
+      "end": 22.1
+    },
+    {
+      "word": "the",
+      "start": 22.1,
+      "end": 22.34
+    },
+    {
+      "word": "CEO",
+      "start": 22.34,
+      "end": 22.78
+    },
+    {
+      "word": "offering",
+      "start": 22.78,
+      "end": 23.36
+    },
+    {
+      "word": "hands",
+      "start": 23.36,
+      "end": 23.74
+    },
+    {
+      "word": "-on",
+      "start": 23.74,
+      "end": 23.94
+    },
+    {
+      "word": "assistance.",
+      "start": 23.94,
+      "end": 24.54
+    },
+    {
+      "word": "Rapid",
+      "start": 24.54,
+      "end": 25.42
+    },
+    {
+      "word": "personal",
+      "start": 25.42,
+      "end": 25.9
+    },
+    {
+      "word": "support",
+      "start": 25.9,
+      "end": 26.54
+    },
+    {
+      "word": "reverses",
+      "start": 26.54,
+      "end": 27.2
+    },
+    {
+      "word": "cancellations",
+      "start": 27.2,
+      "end": 27.94
+    },
+    {
+      "word": "into",
+      "start": 27.94,
+      "end": 28.26
+    },
+    {
+      "word": "long",
+      "start": 28.26,
+      "end": 28.66
+    },
+    {
+      "word": "-term",
+      "start": 28.66,
+      "end": 28.94
+    },
+    {
+      "word": "retention.",
+      "start": 28.94,
+      "end": 29.44
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How direct founder outreach saved 25 percent of canceling accounts.",
+      "line2": "INSTANT CHURN ALERTS",
+      "tag": "\ud83d\uded1 Automated churn alert workflow that triggers founder outreach on cancellations",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated churn alert workflow that triggers founder outreach on cancellations",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated churn alert workflow that triggers founder outreach on cancellations",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated churn alert workflow that triggers founder outreach on cancellations",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

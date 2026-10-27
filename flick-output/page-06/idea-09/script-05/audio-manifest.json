@@ -1,0 +1,391 @@
+{
+  "page": "page-06",
+  "idea": "Automated password and 2FA credential sharing hub for remote teams",
+  "text": "Here is the essential cybersecurity setup every remote business must configure today. Distributed teams frequently juggle shared logins using weak passwords stored inside unencrypted browser managers. Without centralized authentication, phishing attacks can compromise critical customer databases and payroll records in seconds. Integrating Dashlane Business with YubiKey hardware tokens enforces mandatory multi-factor verification across all workspace accounts. You safeguard confidential company data effortlessly.",
+  "duration": 32.933,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "word": "the",
+      "start": 0.44,
+      "end": 0.6
+    },
+    {
+      "word": "Essential",
+      "start": 0.6,
+      "end": 1.04
+    },
+    {
+      "word": "Cyber",
+      "start": 1.04,
+      "end": 1.38
+    },
+    {
+      "word": "Security",
+      "start": 1.38,
+      "end": 1.94
+    },
+    {
+      "word": "setup",
+      "start": 1.94,
+      "end": 2.24
+    },
+    {
+      "word": "every",
+      "start": 2.24,
+      "end": 2.76
+    },
+    {
+      "word": "remote",
+      "start": 2.76,
+      "end": 3.14
+    },
+    {
+      "word": "business",
+      "start": 3.14,
+      "end": 3.58
+    },
+    {
+      "word": "must",
+      "start": 3.58,
+      "end": 3.88
+    },
+    {
+      "word": "configure",
+      "start": 3.88,
+      "end": 4.28
+    },
+    {
+      "word": "today.",
+      "start": 4.28,
+      "end": 5.06
+    },
+    {
+      "word": "Distributed",
+      "start": 5.6,
+      "end": 5.84
+    },
+    {
+      "word": "teams",
+      "start": 5.84,
+      "end": 6.4
+    },
+    {
+      "word": "frequently",
+      "start": 6.4,
+      "end": 6.96
+    },
+    {
+      "word": "juggle",
+      "start": 6.96,
+      "end": 7.38
+    },
+    {
+      "word": "shared",
+      "start": 7.38,
+      "end": 7.76
+    },
+    {
+      "word": "logins",
+      "start": 7.76,
+      "end": 8.32
+    },
+    {
+      "word": "using",
+      "start": 8.32,
+      "end": 8.66
+    },
+    {
+      "word": "weak",
+      "start": 8.66,
+      "end": 9.0
+    },
+    {
+      "word": "passwords",
+      "start": 9.0,
+      "end": 9.58
+    },
+    {
+      "word": "stored",
+      "start": 9.58,
+      "end": 10.28
+    },
+    {
+      "word": "inside",
+      "start": 10.28,
+      "end": 10.92
+    },
+    {
+      "word": "unencrypted",
+      "start": 10.92,
+      "end": 11.54
+    },
+    {
+      "word": "browser",
+      "start": 11.54,
+      "end": 12.0
+    },
+    {
+      "word": "managers.",
+      "start": 12.0,
+      "end": 12.56
+    },
+    {
+      "word": "Without",
+      "start": 13.02,
+      "end": 13.36
+    },
+    {
+      "word": "centralized",
+      "start": 13.36,
+      "end": 13.92
+    },
+    {
+      "word": "authentication,",
+      "start": 13.92,
+      "end": 14.66
+    },
+    {
+      "word": "phishing",
+      "start": 15.24,
+      "end": 15.44
+    },
+    {
+      "word": "attacks",
+      "start": 15.44,
+      "end": 15.86
+    },
+    {
+      "word": "can",
+      "start": 15.86,
+      "end": 16.24
+    },
+    {
+      "word": "compromise",
+      "start": 16.24,
+      "end": 16.62
+    },
+    {
+      "word": "critical",
+      "start": 16.62,
+      "end": 17.24
+    },
+    {
+      "word": "customer",
+      "start": 17.24,
+      "end": 17.64
+    },
+    {
+      "word": "databases",
+      "start": 17.64,
+      "end": 18.24
+    },
+    {
+      "word": "and",
+      "start": 18.24,
+      "end": 18.86
+    },
+    {
+      "word": "payroll",
+      "start": 18.86,
+      "end": 19.16
+    },
+    {
+      "word": "records",
+      "start": 19.16,
+      "end": 19.68
+    },
+    {
+      "word": "in",
+      "start": 19.68,
+      "end": 19.94
+    },
+    {
+      "word": "seconds.",
+      "start": 19.94,
+      "end": 20.5
+    },
+    {
+      "word": "Integrating",
+      "start": 21.12,
+      "end": 21.48
+    },
+    {
+      "word": "Dashlane",
+      "start": 21.48,
+      "end": 22.04
+    },
+    {
+      "word": "business",
+      "start": 22.04,
+      "end": 22.48
+    },
+    {
+      "word": "with",
+      "start": 22.48,
+      "end": 22.8
+    },
+    {
+      "word": "you",
+      "start": 22.8,
+      "end": 22.96
+    },
+    {
+      "word": "by",
+      "start": 22.96,
+      "end": 23.2
+    },
+    {
+      "word": "key",
+      "start": 23.2,
+      "end": 23.5
+    },
+    {
+      "word": "hardware",
+      "start": 23.5,
+      "end": 23.88
+    },
+    {
+      "word": "tokens",
+      "start": 23.88,
+      "end": 24.46
+    },
+    {
+      "word": "enforces",
+      "start": 24.46,
+      "end": 25.36
+    },
+    {
+      "word": "mandatory",
+      "start": 25.36,
+      "end": 26.04
+    },
+    {
+      "word": "multi",
+      "start": 26.04,
+      "end": 26.52
+    },
+    {
+      "word": "-factor",
+      "start": 26.52,
+      "end": 26.76
+    },
+    {
+      "word": "verification",
+      "start": 26.76,
+      "end": 27.48
+    },
+    {
+      "word": "across",
+      "start": 27.48,
+      "end": 28.12
+    },
+    {
+      "word": "all",
+      "start": 28.12,
+      "end": 28.44
+    },
+    {
+      "word": "workspace",
+      "start": 28.44,
+      "end": 28.78
+    },
+    {
+      "word": "accounts.",
+      "start": 28.78,
+      "end": 29.4
+    },
+    {
+      "word": "You",
+      "start": 29.4,
+      "end": 30.18
+    },
+    {
+      "word": "safeguard",
+      "start": 30.18,
+      "end": 30.66
+    },
+    {
+      "word": "confidential",
+      "start": 30.66,
+      "end": 31.36
+    },
+    {
+      "word": "company",
+      "start": 31.36,
+      "end": 31.88
+    },
+    {
+      "word": "data",
+      "start": 31.88,
+      "end": 32.28
+    },
+    {
+      "word": "effortlessly.",
+      "start": 32.28,
+      "end": 32.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The essential cybersecurity setup every remote business needs to install.",
+      "line2": "SHARE 2FA CREDENTIALS SAFELY",
+      "tag": "\ud83d\uded1 Automated password and 2FA credential sharing hub for remote teams",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated password and 2FA credential sharing hub for remote teams",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated password and 2FA credential sharing hub for remote teams",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated password and 2FA credential sharing hub for remote teams",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

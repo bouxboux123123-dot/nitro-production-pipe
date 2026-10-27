@@ -1,0 +1,406 @@
+{
+  "page": "page-03",
+  "idea": "AI SEO keyword researcher for finding low-competition blog niches",
+  "text": "Stop writing blog articles that nobody will ever find on Google or search engines. Pouring dozens of weekend hours into writing posts that generate zero traffic is completely demoralizing. Content fails to gain traction when you target competitive keywords guarded by high-authority websites. Use an automated Python script with SEMrush API to filter for keywords with difficulty scores under fifteen. You will rank articles on page one predictably.",
+  "duration": 28.453,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "writing",
+      "start": 0.44,
+      "end": 0.8
+    },
+    {
+      "word": "blog",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "word": "articles",
+      "start": 1.2,
+      "end": 1.6
+    },
+    {
+      "word": "that",
+      "start": 1.6,
+      "end": 2.02
+    },
+    {
+      "word": "nobody",
+      "start": 2.02,
+      "end": 2.34
+    },
+    {
+      "word": "will",
+      "start": 2.34,
+      "end": 2.68
+    },
+    {
+      "word": "ever",
+      "start": 2.68,
+      "end": 2.94
+    },
+    {
+      "word": "find",
+      "start": 2.94,
+      "end": 3.2
+    },
+    {
+      "word": "on",
+      "start": 3.2,
+      "end": 3.48
+    },
+    {
+      "word": "Google",
+      "start": 3.48,
+      "end": 3.8
+    },
+    {
+      "word": "or",
+      "start": 3.8,
+      "end": 4.14
+    },
+    {
+      "word": "search",
+      "start": 4.14,
+      "end": 4.46
+    },
+    {
+      "word": "engines.",
+      "start": 4.46,
+      "end": 4.94
+    },
+    {
+      "word": "Pouring",
+      "start": 5.66,
+      "end": 5.92
+    },
+    {
+      "word": "dozens",
+      "start": 5.92,
+      "end": 6.24
+    },
+    {
+      "word": "of",
+      "start": 6.24,
+      "end": 6.62
+    },
+    {
+      "word": "weekend",
+      "start": 6.62,
+      "end": 6.8
+    },
+    {
+      "word": "hours",
+      "start": 6.8,
+      "end": 7.32
+    },
+    {
+      "word": "into",
+      "start": 7.32,
+      "end": 7.62
+    },
+    {
+      "word": "writing",
+      "start": 7.62,
+      "end": 8.0
+    },
+    {
+      "word": "posts",
+      "start": 8.0,
+      "end": 8.42
+    },
+    {
+      "word": "that",
+      "start": 8.42,
+      "end": 8.68
+    },
+    {
+      "word": "generate",
+      "start": 8.68,
+      "end": 9.06
+    },
+    {
+      "word": "zero",
+      "start": 9.06,
+      "end": 9.62
+    },
+    {
+      "word": "traffic",
+      "start": 9.62,
+      "end": 10.04
+    },
+    {
+      "word": "is",
+      "start": 10.04,
+      "end": 10.66
+    },
+    {
+      "word": "completely",
+      "start": 10.66,
+      "end": 11.16
+    },
+    {
+      "word": "demoralizing.",
+      "start": 11.16,
+      "end": 12.02
+    },
+    {
+      "word": "Content",
+      "start": 12.68,
+      "end": 12.68
+    },
+    {
+      "word": "fails",
+      "start": 12.68,
+      "end": 13.04
+    },
+    {
+      "word": "to",
+      "start": 13.04,
+      "end": 13.22
+    },
+    {
+      "word": "gain",
+      "start": 13.22,
+      "end": 13.46
+    },
+    {
+      "word": "traction",
+      "start": 13.46,
+      "end": 13.82
+    },
+    {
+      "word": "when",
+      "start": 13.82,
+      "end": 14.06
+    },
+    {
+      "word": "you",
+      "start": 14.06,
+      "end": 14.22
+    },
+    {
+      "word": "target",
+      "start": 14.22,
+      "end": 14.5
+    },
+    {
+      "word": "competitive",
+      "start": 14.5,
+      "end": 15.04
+    },
+    {
+      "word": "keywords",
+      "start": 15.04,
+      "end": 15.54
+    },
+    {
+      "word": "guarded",
+      "start": 15.54,
+      "end": 15.96
+    },
+    {
+      "word": "by",
+      "start": 15.96,
+      "end": 16.24
+    },
+    {
+      "word": "high",
+      "start": 16.24,
+      "end": 16.46
+    },
+    {
+      "word": "authority",
+      "start": 16.46,
+      "end": 16.92
+    },
+    {
+      "word": "websites.",
+      "start": 16.92,
+      "end": 17.5
+    },
+    {
+      "word": "Use",
+      "start": 18.18,
+      "end": 18.28
+    },
+    {
+      "word": "an",
+      "start": 18.28,
+      "end": 18.76
+    },
+    {
+      "word": "automated",
+      "start": 18.76,
+      "end": 18.96
+    },
+    {
+      "word": "Python",
+      "start": 18.96,
+      "end": 19.4
+    },
+    {
+      "word": "script",
+      "start": 19.4,
+      "end": 19.82
+    },
+    {
+      "word": "with",
+      "start": 19.82,
+      "end": 20.26
+    },
+    {
+      "word": "SEMrush",
+      "start": 20.26,
+      "end": 21.22
+    },
+    {
+      "word": "API",
+      "start": 21.22,
+      "end": 21.94
+    },
+    {
+      "word": "to",
+      "start": 21.94,
+      "end": 22.62
+    },
+    {
+      "word": "filter",
+      "start": 22.62,
+      "end": 22.86
+    },
+    {
+      "word": "for",
+      "start": 22.86,
+      "end": 23.14
+    },
+    {
+      "word": "keywords",
+      "start": 23.14,
+      "end": 23.46
+    },
+    {
+      "word": "with",
+      "start": 23.46,
+      "end": 23.84
+    },
+    {
+      "word": "difficulty",
+      "start": 23.84,
+      "end": 24.24
+    },
+    {
+      "word": "scores",
+      "start": 24.24,
+      "end": 24.64
+    },
+    {
+      "word": "under",
+      "start": 24.64,
+      "end": 24.9
+    },
+    {
+      "word": "15.",
+      "start": 24.9,
+      "end": 25.36
+    },
+    {
+      "word": "You",
+      "start": 25.36,
+      "end": 26.0
+    },
+    {
+      "word": "will",
+      "start": 26.0,
+      "end": 26.18
+    },
+    {
+      "word": "rank",
+      "start": 26.18,
+      "end": 26.38
+    },
+    {
+      "word": "articles",
+      "start": 26.38,
+      "end": 26.76
+    },
+    {
+      "word": "on",
+      "start": 26.76,
+      "end": 27.14
+    },
+    {
+      "word": "page",
+      "start": 27.14,
+      "end": 27.46
+    },
+    {
+      "word": "one",
+      "start": 27.46,
+      "end": 27.9
+    },
+    {
+      "word": "predictably.",
+      "start": 27.9,
+      "end": 28.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop writing blog articles that nobody will ever find on Google.",
+      "line2": "FIND PROFITABLE NICHES",
+      "tag": "\ud83d\uded1 AI SEO keyword researcher for finding low-competition blog niches",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: AI SEO keyword researcher for finding low-competition blog niches",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: AI SEO keyword researcher for finding low-competition blog niches",
+        "subtitle": "AI SEO keyword researcher for finding low-competition blog niches"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "AI SEO keyword researcher for finding low-competition blog niches"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "AI SEO keyword researcher for finding low-competition blog niches"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "AI SEO keyword researcher for finding low-competition blog niches",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

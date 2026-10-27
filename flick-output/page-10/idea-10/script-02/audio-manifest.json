@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "Zapier Central launch: conversational AI bots that run your workflows",
+  "text": "You can now talk to your data and trigger complex multi-step automations in plain English. Growth marketers struggle to run timely customer cohorts because querying production databases requires engineering support. Static webhooks fall apart when customer inquiries require contextual reasoning and conditional routing across tools. Zapier Central connects live Google Sheets, HubSpot, and Slack to dynamic reasoning loops without API keys. You execute complex operational requests in seconds.",
+  "duration": 31.546,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "can",
+      "start": 0.12,
+      "end": 0.3
+    },
+    {
+      "word": "now",
+      "start": 0.3,
+      "end": 0.56
+    },
+    {
+      "word": "talk",
+      "start": 0.56,
+      "end": 0.78
+    },
+    {
+      "word": "to",
+      "start": 0.78,
+      "end": 0.9
+    },
+    {
+      "word": "your",
+      "start": 0.9,
+      "end": 1.04
+    },
+    {
+      "word": "data",
+      "start": 1.04,
+      "end": 1.54
+    },
+    {
+      "word": "and",
+      "start": 1.54,
+      "end": 1.76
+    },
+    {
+      "word": "trigger",
+      "start": 1.76,
+      "end": 2.08
+    },
+    {
+      "word": "complex",
+      "start": 2.08,
+      "end": 2.62
+    },
+    {
+      "word": "multi",
+      "start": 2.62,
+      "end": 3.16
+    },
+    {
+      "word": "-step",
+      "start": 3.16,
+      "end": 3.4
+    },
+    {
+      "word": "automations",
+      "start": 3.4,
+      "end": 4.0
+    },
+    {
+      "word": "in",
+      "start": 4.0,
+      "end": 4.32
+    },
+    {
+      "word": "plain",
+      "start": 4.32,
+      "end": 4.62
+    },
+    {
+      "word": "English.",
+      "start": 4.62,
+      "end": 5.08
+    },
+    {
+      "word": "Growth",
+      "start": 5.66,
+      "end": 5.98
+    },
+    {
+      "word": "marketers",
+      "start": 5.98,
+      "end": 6.42
+    },
+    {
+      "word": "struggle",
+      "start": 6.42,
+      "end": 6.84
+    },
+    {
+      "word": "to",
+      "start": 6.84,
+      "end": 7.06
+    },
+    {
+      "word": "run",
+      "start": 7.06,
+      "end": 7.4
+    },
+    {
+      "word": "timely",
+      "start": 7.4,
+      "end": 7.9
+    },
+    {
+      "word": "customer",
+      "start": 7.9,
+      "end": 8.38
+    },
+    {
+      "word": "cohorts",
+      "start": 8.38,
+      "end": 8.88
+    },
+    {
+      "word": "because",
+      "start": 8.88,
+      "end": 9.62
+    },
+    {
+      "word": "querying",
+      "start": 9.62,
+      "end": 10.12
+    },
+    {
+      "word": "production",
+      "start": 10.12,
+      "end": 10.64
+    },
+    {
+      "word": "databases",
+      "start": 10.64,
+      "end": 11.3
+    },
+    {
+      "word": "requires",
+      "start": 11.3,
+      "end": 12.2
+    },
+    {
+      "word": "engineering",
+      "start": 12.2,
+      "end": 12.76
+    },
+    {
+      "word": "support.",
+      "start": 12.76,
+      "end": 13.38
+    },
+    {
+      "word": "Static",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "Webhooks",
+      "start": 14.02,
+      "end": 14.52
+    },
+    {
+      "word": "fall",
+      "start": 14.52,
+      "end": 14.7
+    },
+    {
+      "word": "apart",
+      "start": 14.7,
+      "end": 15.08
+    },
+    {
+      "word": "when",
+      "start": 15.08,
+      "end": 15.36
+    },
+    {
+      "word": "customer",
+      "start": 15.36,
+      "end": 15.8
+    },
+    {
+      "word": "inquiries",
+      "start": 15.8,
+      "end": 16.32
+    },
+    {
+      "word": "require",
+      "start": 16.32,
+      "end": 16.96
+    },
+    {
+      "word": "contextual",
+      "start": 16.96,
+      "end": 17.58
+    },
+    {
+      "word": "reasoning",
+      "start": 17.58,
+      "end": 18.06
+    },
+    {
+      "word": "and",
+      "start": 18.06,
+      "end": 18.46
+    },
+    {
+      "word": "conditional",
+      "start": 18.46,
+      "end": 18.86
+    },
+    {
+      "word": "routing",
+      "start": 18.86,
+      "end": 19.24
+    },
+    {
+      "word": "across",
+      "start": 19.24,
+      "end": 19.68
+    },
+    {
+      "word": "tools.",
+      "start": 19.68,
+      "end": 20.32
+    },
+    {
+      "word": "Zapier",
+      "start": 21.0,
+      "end": 21.28
+    },
+    {
+      "word": "Central",
+      "start": 21.28,
+      "end": 21.68
+    },
+    {
+      "word": "connects",
+      "start": 21.68,
+      "end": 22.06
+    },
+    {
+      "word": "live",
+      "start": 22.06,
+      "end": 22.52
+    },
+    {
+      "word": "Google",
+      "start": 22.52,
+      "end": 22.9
+    },
+    {
+      "word": "Sheets,",
+      "start": 22.9,
+      "end": 23.36
+    },
+    {
+      "word": "HubSpot,",
+      "start": 23.68,
+      "end": 24.18
+    },
+    {
+      "word": "and",
+      "start": 24.54,
+      "end": 24.82
+    },
+    {
+      "word": "Slack",
+      "start": 24.82,
+      "end": 25.04
+    },
+    {
+      "word": "to",
+      "start": 25.04,
+      "end": 25.32
+    },
+    {
+      "word": "dynamic",
+      "start": 25.32,
+      "end": 25.7
+    },
+    {
+      "word": "reasoning",
+      "start": 25.7,
+      "end": 26.1
+    },
+    {
+      "word": "loops",
+      "start": 26.1,
+      "end": 26.46
+    },
+    {
+      "word": "without",
+      "start": 26.46,
+      "end": 26.92
+    },
+    {
+      "word": "API",
+      "start": 26.92,
+      "end": 27.4
+    },
+    {
+      "word": "keys.",
+      "start": 27.4,
+      "end": 27.96
+    },
+    {
+      "word": "You",
+      "start": 27.96,
+      "end": 28.66
+    },
+    {
+      "word": "execute",
+      "start": 28.66,
+      "end": 29.12
+    },
+    {
+      "word": "complex",
+      "start": 29.12,
+      "end": 29.62
+    },
+    {
+      "word": "operational",
+      "start": 29.62,
+      "end": 30.26
+    },
+    {
+      "word": "requests",
+      "start": 30.26,
+      "end": 30.78
+    },
+    {
+      "word": "in",
+      "start": 30.78,
+      "end": 31.1
+    },
+    {
+      "word": "seconds.",
+      "start": 31.1,
+      "end": 31.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "You can now talk to your data and trigger complex multi-step automations in plain English.",
+      "line2": "ZAPIER CONVERSATIONAL AI BOTS",
+      "tag": "\ud83d\uded1 Zapier Central launch",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Zapier Central launch",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Zapier Central launch",
+        "subtitle": "Zapier Central launch"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Zapier Central launch"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Zapier Central launch"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Zapier Central launch",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

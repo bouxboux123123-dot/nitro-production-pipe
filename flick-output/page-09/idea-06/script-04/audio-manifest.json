@@ -1,0 +1,386 @@
+{
+  "page": "page-09",
+  "idea": "Linear vs Jira: why modern engineering teams are ditching Atlassian",
+  "text": "The software tracking tool comparison software engineers care about most is Linear versus Jira. Enterprise leaders mandate Jira for compliance, but developer velocity stalls under heavy administrative bloat. Jira's legacy architecture requires endless manual configuration, disconnecting daily sprint boards from actual GitHub commits. Linear restores momentum with automated branch tracking, keyboard-driven triage, and clean cycle analytics. Your team ships product updates twice as fast.",
+  "duration": 30.757,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "software",
+      "start": 0.26,
+      "end": 0.56
+    },
+    {
+      "word": "tracking",
+      "start": 0.56,
+      "end": 1.06
+    },
+    {
+      "word": "tool",
+      "start": 1.06,
+      "end": 1.4
+    },
+    {
+      "word": "comparison",
+      "start": 1.4,
+      "end": 1.92
+    },
+    {
+      "word": "software",
+      "start": 1.92,
+      "end": 2.52
+    },
+    {
+      "word": "engineers",
+      "start": 2.52,
+      "end": 3.04
+    },
+    {
+      "word": "care",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "word": "about",
+      "start": 3.44,
+      "end": 3.76
+    },
+    {
+      "word": "most",
+      "start": 3.76,
+      "end": 4.24
+    },
+    {
+      "word": "is",
+      "start": 4.24,
+      "end": 4.62
+    },
+    {
+      "word": "linear",
+      "start": 4.62,
+      "end": 4.88
+    },
+    {
+      "word": "versus",
+      "start": 4.88,
+      "end": 5.5
+    },
+    {
+      "word": "JIRA.",
+      "start": 5.5,
+      "end": 6.1
+    },
+    {
+      "word": "Enterprise",
+      "start": 6.82,
+      "end": 7.06
+    },
+    {
+      "word": "leaders",
+      "start": 7.06,
+      "end": 7.58
+    },
+    {
+      "word": "mandate",
+      "start": 7.58,
+      "end": 8.1
+    },
+    {
+      "word": "JIRA",
+      "start": 8.1,
+      "end": 8.44
+    },
+    {
+      "word": "for",
+      "start": 8.44,
+      "end": 8.74
+    },
+    {
+      "word": "compliance,",
+      "start": 8.74,
+      "end": 9.22
+    },
+    {
+      "word": "but",
+      "start": 9.66,
+      "end": 9.88
+    },
+    {
+      "word": "developer",
+      "start": 9.88,
+      "end": 10.22
+    },
+    {
+      "word": "velocity",
+      "start": 10.22,
+      "end": 10.88
+    },
+    {
+      "word": "stalls",
+      "start": 10.88,
+      "end": 11.36
+    },
+    {
+      "word": "under",
+      "start": 11.36,
+      "end": 11.7
+    },
+    {
+      "word": "heavy",
+      "start": 11.7,
+      "end": 12.0
+    },
+    {
+      "word": "administrative",
+      "start": 12.0,
+      "end": 12.52
+    },
+    {
+      "word": "bloat.",
+      "start": 12.52,
+      "end": 13.12
+    },
+    {
+      "word": "JIRA's",
+      "start": 13.54,
+      "end": 13.74
+    },
+    {
+      "word": "legacy",
+      "start": 13.74,
+      "end": 14.14
+    },
+    {
+      "word": "architecture",
+      "start": 14.14,
+      "end": 14.72
+    },
+    {
+      "word": "requires",
+      "start": 14.72,
+      "end": 15.38
+    },
+    {
+      "word": "endless",
+      "start": 15.38,
+      "end": 15.82
+    },
+    {
+      "word": "manual",
+      "start": 15.82,
+      "end": 16.26
+    },
+    {
+      "word": "configuration,",
+      "start": 16.26,
+      "end": 17.1
+    },
+    {
+      "word": "disconnecting",
+      "start": 17.66,
+      "end": 18.14
+    },
+    {
+      "word": "daily",
+      "start": 18.14,
+      "end": 18.46
+    },
+    {
+      "word": "sprint",
+      "start": 18.46,
+      "end": 18.82
+    },
+    {
+      "word": "boards",
+      "start": 18.82,
+      "end": 19.1
+    },
+    {
+      "word": "from",
+      "start": 19.1,
+      "end": 19.4
+    },
+    {
+      "word": "actual",
+      "start": 19.4,
+      "end": 19.84
+    },
+    {
+      "word": "GitHub",
+      "start": 19.84,
+      "end": 20.2
+    },
+    {
+      "word": "commits.",
+      "start": 20.2,
+      "end": 20.68
+    },
+    {
+      "word": "Linear",
+      "start": 21.4,
+      "end": 21.62
+    },
+    {
+      "word": "restores",
+      "start": 21.62,
+      "end": 22.08
+    },
+    {
+      "word": "momentum",
+      "start": 22.08,
+      "end": 22.58
+    },
+    {
+      "word": "with",
+      "start": 22.58,
+      "end": 23.2
+    },
+    {
+      "word": "automated",
+      "start": 23.2,
+      "end": 23.38
+    },
+    {
+      "word": "branch",
+      "start": 23.38,
+      "end": 23.74
+    },
+    {
+      "word": "tracking,",
+      "start": 23.74,
+      "end": 24.14
+    },
+    {
+      "word": "keyboard",
+      "start": 24.64,
+      "end": 24.86
+    },
+    {
+      "word": "driven",
+      "start": 24.86,
+      "end": 25.22
+    },
+    {
+      "word": "triage,",
+      "start": 25.22,
+      "end": 25.76
+    },
+    {
+      "word": "and",
+      "start": 26.04,
+      "end": 26.26
+    },
+    {
+      "word": "clean",
+      "start": 26.26,
+      "end": 26.62
+    },
+    {
+      "word": "cycle",
+      "start": 26.62,
+      "end": 26.98
+    },
+    {
+      "word": "analytics.",
+      "start": 26.98,
+      "end": 27.44
+    },
+    {
+      "word": "Your",
+      "start": 27.44,
+      "end": 28.28
+    },
+    {
+      "word": "team",
+      "start": 28.28,
+      "end": 28.58
+    },
+    {
+      "word": "ships",
+      "start": 28.58,
+      "end": 28.88
+    },
+    {
+      "word": "product",
+      "start": 28.88,
+      "end": 29.32
+    },
+    {
+      "word": "updates",
+      "start": 29.32,
+      "end": 29.7
+    },
+    {
+      "word": "twice",
+      "start": 29.7,
+      "end": 30.12
+    },
+    {
+      "word": "as",
+      "start": 30.12,
+      "end": 30.36
+    },
+    {
+      "word": "fast.",
+      "start": 30.36,
+      "end": 30.72
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The software tracking tool comparison software engineers care about most.",
+      "line2": "LINEAR VS JIRA",
+      "tag": "\ud83d\uded1 Linear vs Jira",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Linear vs Jira",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Linear vs Jira",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Linear vs Jira",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "page": "page-03",
+  "idea": "AI graphic design workflow for selling stock graphics and templates",
+  "text": "Here is the batch workflow that launched five digital products in one weekend. Creators burn out because building dozens of social graphics takes entire weekends of tedious clicking. The breakdown comes from manually formatting layouts and exporting assets one file at a time. Instead, use Make to feed prompts from Claude into Figma components for instant batch rendering. You package complete Gumroad bundles hands-free.",
+  "duration": 23.317,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "is",
+      "start": 0.2,
+      "end": 0.4
+    },
+    {
+      "word": "the",
+      "start": 0.4,
+      "end": 0.52
+    },
+    {
+      "word": "batch",
+      "start": 0.52,
+      "end": 0.74
+    },
+    {
+      "word": "workflow",
+      "start": 0.74,
+      "end": 1.18
+    },
+    {
+      "word": "that",
+      "start": 1.18,
+      "end": 1.46
+    },
+    {
+      "word": "launched",
+      "start": 1.46,
+      "end": 1.74
+    },
+    {
+      "word": "five",
+      "start": 1.74,
+      "end": 2.16
+    },
+    {
+      "word": "digital",
+      "start": 2.16,
+      "end": 2.48
+    },
+    {
+      "word": "products",
+      "start": 2.48,
+      "end": 2.82
+    },
+    {
+      "word": "in",
+      "start": 2.82,
+      "end": 3.04
+    },
+    {
+      "word": "one",
+      "start": 3.04,
+      "end": 3.26
+    },
+    {
+      "word": "weekend.",
+      "start": 3.26,
+      "end": 3.7
+    },
+    {
+      "word": "Creators",
+      "start": 4.42,
+      "end": 4.68
+    },
+    {
+      "word": "burn",
+      "start": 4.68,
+      "end": 4.88
+    },
+    {
+      "word": "out",
+      "start": 4.88,
+      "end": 5.08
+    },
+    {
+      "word": "because",
+      "start": 5.08,
+      "end": 5.38
+    },
+    {
+      "word": "building",
+      "start": 5.38,
+      "end": 5.7
+    },
+    {
+      "word": "dozens",
+      "start": 5.7,
+      "end": 5.98
+    },
+    {
+      "word": "of",
+      "start": 5.98,
+      "end": 6.3
+    },
+    {
+      "word": "social",
+      "start": 6.3,
+      "end": 6.5
+    },
+    {
+      "word": "graphics",
+      "start": 6.5,
+      "end": 6.9
+    },
+    {
+      "word": "takes",
+      "start": 6.9,
+      "end": 7.46
+    },
+    {
+      "word": "entire",
+      "start": 7.46,
+      "end": 7.96
+    },
+    {
+      "word": "weekends",
+      "start": 7.96,
+      "end": 8.36
+    },
+    {
+      "word": "of",
+      "start": 8.36,
+      "end": 8.66
+    },
+    {
+      "word": "tedious",
+      "start": 8.66,
+      "end": 8.92
+    },
+    {
+      "word": "clicking.",
+      "start": 8.92,
+      "end": 9.32
+    },
+    {
+      "word": "The",
+      "start": 9.88,
+      "end": 10.04
+    },
+    {
+      "word": "breakdown",
+      "start": 10.04,
+      "end": 10.3
+    },
+    {
+      "word": "comes",
+      "start": 10.3,
+      "end": 10.72
+    },
+    {
+      "word": "from",
+      "start": 10.72,
+      "end": 10.98
+    },
+    {
+      "word": "manually",
+      "start": 10.98,
+      "end": 11.34
+    },
+    {
+      "word": "formatting",
+      "start": 11.34,
+      "end": 11.66
+    },
+    {
+      "word": "layouts",
+      "start": 11.66,
+      "end": 12.24
+    },
+    {
+      "word": "and",
+      "start": 12.24,
+      "end": 12.8
+    },
+    {
+      "word": "exporting",
+      "start": 12.8,
+      "end": 13.16
+    },
+    {
+      "word": "assets",
+      "start": 13.16,
+      "end": 13.54
+    },
+    {
+      "word": "one",
+      "start": 13.54,
+      "end": 13.96
+    },
+    {
+      "word": "file",
+      "start": 13.96,
+      "end": 14.22
+    },
+    {
+      "word": "at",
+      "start": 14.22,
+      "end": 14.36
+    },
+    {
+      "word": "a",
+      "start": 14.36,
+      "end": 14.56
+    },
+    {
+      "word": "time.",
+      "start": 14.56,
+      "end": 14.86
+    },
+    {
+      "word": "Instead,",
+      "start": 15.44,
+      "end": 15.74
+    },
+    {
+      "word": "use",
+      "start": 16.36,
+      "end": 16.4
+    },
+    {
+      "word": "make",
+      "start": 16.4,
+      "end": 16.6
+    },
+    {
+      "word": "-to",
+      "start": 16.6,
+      "end": 16.8
+    },
+    {
+      "word": "-feed",
+      "start": 16.8,
+      "end": 17.04
+    },
+    {
+      "word": "prompts",
+      "start": 17.04,
+      "end": 17.34
+    },
+    {
+      "word": "from",
+      "start": 17.34,
+      "end": 17.64
+    },
+    {
+      "word": "clawed",
+      "start": 17.64,
+      "end": 18.0
+    },
+    {
+      "word": "into",
+      "start": 18.0,
+      "end": 18.2
+    },
+    {
+      "word": "figma",
+      "start": 18.2,
+      "end": 18.6
+    },
+    {
+      "word": "components",
+      "start": 18.6,
+      "end": 18.9
+    },
+    {
+      "word": "for",
+      "start": 18.9,
+      "end": 19.38
+    },
+    {
+      "word": "instant",
+      "start": 19.38,
+      "end": 19.64
+    },
+    {
+      "word": "batch",
+      "start": 19.64,
+      "end": 19.96
+    },
+    {
+      "word": "rendering.",
+      "start": 19.96,
+      "end": 20.34
+    },
+    {
+      "word": "You",
+      "start": 20.9,
+      "end": 21.0
+    },
+    {
+      "word": "package",
+      "start": 21.0,
+      "end": 21.32
+    },
+    {
+      "word": "complete",
+      "start": 21.32,
+      "end": 21.84
+    },
+    {
+      "word": "gumroad",
+      "start": 21.84,
+      "end": 22.3
+    },
+    {
+      "word": "bundles",
+      "start": 22.3,
+      "end": 22.64
+    },
+    {
+      "word": "hands",
+      "start": 22.64,
+      "end": 23.04
+    },
+    {
+      "word": "-free.",
+      "start": 23.04,
+      "end": 23.22
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The batch template workflow that helped me launch 5 digital products in one weekend.",
+      "line2": "SELL STOCK GRAPHICS",
+      "tag": "\ud83d\uded1 AI graphic design workflow for selling stock graphics and templates",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: AI graphic design workflow for selling stock graphics and templates",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: AI graphic design workflow for selling stock graphics and templates",
+        "subtitle": "AI graphic design workflow for selling stock graphics and templates"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "AI graphic design workflow for selling stock graphics and templates"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "AI graphic design workflow for selling stock graphics and templates"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "AI graphic design workflow for selling stock graphics and templates",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

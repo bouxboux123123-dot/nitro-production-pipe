@@ -1,0 +1,431 @@
+{
+  "page": "page-06",
+  "idea": "Focus time blocking tool that syncs Slack status and disables notifications",
+  "text": "This smart tool auto-declines conflicting calendar meetings and sets Slack to do-not-disturb automatically. When anyone can book open slots, your afternoon collapses into back-to-back calls with zero execution time. Declining meeting invites manually causes friction and guilt, so people accept syncs they never needed. Clockwise intelligently shifts flexible internal meetings, defends focus blocks, and syncs Slack statuses automatically. This saves you ten hours each week for high-leverage work.",
+  "duration": 30.33,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "smart",
+      "start": 0.28,
+      "end": 0.6
+    },
+    {
+      "word": "tool",
+      "start": 0.6,
+      "end": 0.94
+    },
+    {
+      "word": "auto",
+      "start": 0.94,
+      "end": 1.22
+    },
+    {
+      "word": "declines",
+      "start": 1.22,
+      "end": 1.7
+    },
+    {
+      "word": "conflicting",
+      "start": 1.7,
+      "end": 2.34
+    },
+    {
+      "word": "calendar",
+      "start": 2.34,
+      "end": 2.72
+    },
+    {
+      "word": "meetings",
+      "start": 2.72,
+      "end": 3.18
+    },
+    {
+      "word": "and",
+      "start": 3.18,
+      "end": 3.72
+    },
+    {
+      "word": "set",
+      "start": 3.72,
+      "end": 3.96
+    },
+    {
+      "word": "Slack",
+      "start": 3.96,
+      "end": 4.3
+    },
+    {
+      "word": "to",
+      "start": 4.3,
+      "end": 4.46
+    },
+    {
+      "word": "do",
+      "start": 4.46,
+      "end": 4.64
+    },
+    {
+      "word": "not",
+      "start": 4.64,
+      "end": 4.88
+    },
+    {
+      "word": "disturb",
+      "start": 4.88,
+      "end": 5.32
+    },
+    {
+      "word": "automatically.",
+      "start": 5.32,
+      "end": 5.88
+    },
+    {
+      "word": "When",
+      "start": 6.6,
+      "end": 6.72
+    },
+    {
+      "word": "anyone",
+      "start": 6.72,
+      "end": 7.08
+    },
+    {
+      "word": "can",
+      "start": 7.08,
+      "end": 7.38
+    },
+    {
+      "word": "book",
+      "start": 7.38,
+      "end": 7.62
+    },
+    {
+      "word": "open",
+      "start": 7.62,
+      "end": 8.0
+    },
+    {
+      "word": "slots,",
+      "start": 8.0,
+      "end": 8.42
+    },
+    {
+      "word": "your",
+      "start": 8.86,
+      "end": 9.0
+    },
+    {
+      "word": "afternoon",
+      "start": 9.0,
+      "end": 9.52
+    },
+    {
+      "word": "collapses",
+      "start": 9.52,
+      "end": 10.02
+    },
+    {
+      "word": "into",
+      "start": 10.02,
+      "end": 10.4
+    },
+    {
+      "word": "back",
+      "start": 10.4,
+      "end": 10.66
+    },
+    {
+      "word": "-to",
+      "start": 10.66,
+      "end": 10.74
+    },
+    {
+      "word": "-back",
+      "start": 10.74,
+      "end": 10.96
+    },
+    {
+      "word": "calls",
+      "start": 10.96,
+      "end": 11.36
+    },
+    {
+      "word": "with",
+      "start": 11.36,
+      "end": 11.72
+    },
+    {
+      "word": "zero",
+      "start": 11.72,
+      "end": 12.14
+    },
+    {
+      "word": "execution",
+      "start": 12.14,
+      "end": 12.6
+    },
+    {
+      "word": "time.",
+      "start": 12.6,
+      "end": 13.2
+    },
+    {
+      "word": "Declining",
+      "start": 13.5,
+      "end": 13.88
+    },
+    {
+      "word": "meeting",
+      "start": 13.88,
+      "end": 14.24
+    },
+    {
+      "word": "invites",
+      "start": 14.24,
+      "end": 14.7
+    },
+    {
+      "word": "manually",
+      "start": 14.7,
+      "end": 15.16
+    },
+    {
+      "word": "causes",
+      "start": 15.16,
+      "end": 15.72
+    },
+    {
+      "word": "friction",
+      "start": 15.72,
+      "end": 16.1
+    },
+    {
+      "word": "and",
+      "start": 16.1,
+      "end": 16.34
+    },
+    {
+      "word": "guilt",
+      "start": 16.34,
+      "end": 16.66
+    },
+    {
+      "word": "so",
+      "start": 16.66,
+      "end": 17.1
+    },
+    {
+      "word": "people",
+      "start": 17.1,
+      "end": 17.38
+    },
+    {
+      "word": "accept",
+      "start": 17.38,
+      "end": 17.88
+    },
+    {
+      "word": "syncs",
+      "start": 17.88,
+      "end": 18.12
+    },
+    {
+      "word": "they",
+      "start": 18.12,
+      "end": 18.36
+    },
+    {
+      "word": "never",
+      "start": 18.36,
+      "end": 18.6
+    },
+    {
+      "word": "needed.",
+      "start": 18.6,
+      "end": 19.02
+    },
+    {
+      "word": "Clockwise",
+      "start": 19.58,
+      "end": 20.14
+    },
+    {
+      "word": "intelligently",
+      "start": 20.14,
+      "end": 20.88
+    },
+    {
+      "word": "shifts",
+      "start": 20.88,
+      "end": 21.22
+    },
+    {
+      "word": "flexible",
+      "start": 21.22,
+      "end": 21.8
+    },
+    {
+      "word": "internal",
+      "start": 21.8,
+      "end": 22.28
+    },
+    {
+      "word": "meetings,",
+      "start": 22.28,
+      "end": 22.82
+    },
+    {
+      "word": "defends",
+      "start": 23.4,
+      "end": 23.42
+    },
+    {
+      "word": "focused",
+      "start": 23.42,
+      "end": 23.96
+    },
+    {
+      "word": "blocks,",
+      "start": 23.96,
+      "end": 24.36
+    },
+    {
+      "word": "and",
+      "start": 24.58,
+      "end": 24.84
+    },
+    {
+      "word": "syncs",
+      "start": 24.84,
+      "end": 25.14
+    },
+    {
+      "word": "Slack",
+      "start": 25.14,
+      "end": 25.44
+    },
+    {
+      "word": "statuses",
+      "start": 25.44,
+      "end": 26.04
+    },
+    {
+      "word": "automatically.",
+      "start": 26.04,
+      "end": 26.62
+    },
+    {
+      "word": "This",
+      "start": 26.62,
+      "end": 27.5
+    },
+    {
+      "word": "saves",
+      "start": 27.5,
+      "end": 27.78
+    },
+    {
+      "word": "you",
+      "start": 27.78,
+      "end": 28.06
+    },
+    {
+      "word": "10",
+      "start": 28.06,
+      "end": 28.3
+    },
+    {
+      "word": "hours",
+      "start": 28.3,
+      "end": 28.62
+    },
+    {
+      "word": "each",
+      "start": 28.62,
+      "end": 28.98
+    },
+    {
+      "word": "week",
+      "start": 28.98,
+      "end": 29.2
+    },
+    {
+      "word": "for",
+      "start": 29.2,
+      "end": 29.4
+    },
+    {
+      "word": "high",
+      "start": 29.4,
+      "end": 29.64
+    },
+    {
+      "word": "leverage",
+      "start": 29.64,
+      "end": 29.94
+    },
+    {
+      "word": "work.",
+      "start": 29.94,
+      "end": 30.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "This smart tool auto-declines conflicting meetings and sets Slack to do-not-disturb.",
+      "line2": "BLOCK FOCUS TIME",
+      "tag": "\ud83d\uded1 Focus time blocking tool that syncs Slack status and disables notifications",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Focus time blocking tool that syncs Slack status and disables notifications",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Focus time blocking tool that syncs Slack status and disables notifications",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

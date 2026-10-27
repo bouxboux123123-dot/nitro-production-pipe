@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "AppFlowy: the open-source Notion replacement that stays local",
+  "text": "This is the cleanest free notes and project management tool on the internet. Teams get bogged down by cluttered interfaces and sluggish loading times on bloated cloud software. Feature bloat and forced cloud sync introduce lag that constantly disrupts your deep work. AppFlowy combines minimalist design with blazing-fast local desktop architecture, responsive tables, and nested document trees. You enjoy instant page transitions while keeping total privacy.",
+  "duration": 25.792,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "is",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "the",
+      "start": 0.34,
+      "end": 0.5
+    },
+    {
+      "word": "cleanest",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "free",
+      "start": 0.8,
+      "end": 1.02
+    },
+    {
+      "word": "notes",
+      "start": 1.02,
+      "end": 1.24
+    },
+    {
+      "word": "and",
+      "start": 1.24,
+      "end": 1.48
+    },
+    {
+      "word": "project",
+      "start": 1.48,
+      "end": 1.84
+    },
+    {
+      "word": "management",
+      "start": 1.84,
+      "end": 2.28
+    },
+    {
+      "word": "tool",
+      "start": 2.28,
+      "end": 2.62
+    },
+    {
+      "word": "on",
+      "start": 2.62,
+      "end": 2.82
+    },
+    {
+      "word": "the",
+      "start": 2.82,
+      "end": 3.5
+    },
+    {
+      "word": "Internet.",
+      "start": 3.5,
+      "end": 3.5
+    },
+    {
+      "word": "Teams",
+      "start": 4.0,
+      "end": 4.0
+    },
+    {
+      "word": "get",
+      "start": 4.0,
+      "end": 4.3
+    },
+    {
+      "word": "bogged",
+      "start": 4.3,
+      "end": 4.64
+    },
+    {
+      "word": "down",
+      "start": 4.64,
+      "end": 4.82
+    },
+    {
+      "word": "by",
+      "start": 4.82,
+      "end": 5.08
+    },
+    {
+      "word": "cluttered",
+      "start": 5.08,
+      "end": 5.38
+    },
+    {
+      "word": "interfaces",
+      "start": 5.38,
+      "end": 5.8
+    },
+    {
+      "word": "and",
+      "start": 5.8,
+      "end": 6.26
+    },
+    {
+      "word": "sluggish",
+      "start": 6.26,
+      "end": 6.52
+    },
+    {
+      "word": "loading",
+      "start": 6.52,
+      "end": 6.86
+    },
+    {
+      "word": "times",
+      "start": 6.86,
+      "end": 7.26
+    },
+    {
+      "word": "on",
+      "start": 7.26,
+      "end": 7.48
+    },
+    {
+      "word": "bloated",
+      "start": 7.48,
+      "end": 7.72
+    },
+    {
+      "word": "cloud",
+      "start": 7.72,
+      "end": 8.12
+    },
+    {
+      "word": "software.",
+      "start": 8.12,
+      "end": 8.58
+    },
+    {
+      "word": "Feature",
+      "start": 9.36,
+      "end": 9.36
+    },
+    {
+      "word": "bloat",
+      "start": 9.36,
+      "end": 9.7
+    },
+    {
+      "word": "and",
+      "start": 9.7,
+      "end": 9.92
+    },
+    {
+      "word": "forced",
+      "start": 9.92,
+      "end": 10.22
+    },
+    {
+      "word": "cloud",
+      "start": 10.22,
+      "end": 10.54
+    },
+    {
+      "word": "sync",
+      "start": 10.54,
+      "end": 10.74
+    },
+    {
+      "word": "introduced",
+      "start": 10.74,
+      "end": 11.18
+    },
+    {
+      "word": "lag",
+      "start": 11.18,
+      "end": 11.5
+    },
+    {
+      "word": "that",
+      "start": 11.5,
+      "end": 12.14
+    },
+    {
+      "word": "constantly",
+      "start": 12.14,
+      "end": 12.46
+    },
+    {
+      "word": "disrupts",
+      "start": 12.46,
+      "end": 12.9
+    },
+    {
+      "word": "your",
+      "start": 12.9,
+      "end": 13.04
+    },
+    {
+      "word": "deep",
+      "start": 13.04,
+      "end": 13.26
+    },
+    {
+      "word": "work.",
+      "start": 13.26,
+      "end": 13.74
+    },
+    {
+      "word": "App",
+      "start": 14.36,
+      "end": 14.38
+    },
+    {
+      "word": "flowy",
+      "start": 14.38,
+      "end": 14.78
+    },
+    {
+      "word": "combines",
+      "start": 14.78,
+      "end": 15.14
+    },
+    {
+      "word": "minimalist",
+      "start": 15.14,
+      "end": 15.58
+    },
+    {
+      "word": "design",
+      "start": 15.58,
+      "end": 16.12
+    },
+    {
+      "word": "with",
+      "start": 16.12,
+      "end": 16.4
+    },
+    {
+      "word": "blazing",
+      "start": 16.4,
+      "end": 16.66
+    },
+    {
+      "word": "fast",
+      "start": 16.66,
+      "end": 17.14
+    },
+    {
+      "word": "local",
+      "start": 17.14,
+      "end": 17.5
+    },
+    {
+      "word": "desktop",
+      "start": 17.5,
+      "end": 17.92
+    },
+    {
+      "word": "architecture,",
+      "start": 17.92,
+      "end": 18.6
+    },
+    {
+      "word": "responsive",
+      "start": 19.48,
+      "end": 19.48
+    },
+    {
+      "word": "tables,",
+      "start": 19.48,
+      "end": 19.96
+    },
+    {
+      "word": "and",
+      "start": 20.44,
+      "end": 20.52
+    },
+    {
+      "word": "nested",
+      "start": 20.52,
+      "end": 20.76
+    },
+    {
+      "word": "document",
+      "start": 20.76,
+      "end": 21.22
+    },
+    {
+      "word": "trees.",
+      "start": 21.22,
+      "end": 21.68
+    },
+    {
+      "word": "You",
+      "start": 22.34,
+      "end": 22.44
+    },
+    {
+      "word": "enjoy",
+      "start": 22.44,
+      "end": 22.7
+    },
+    {
+      "word": "instant",
+      "start": 22.7,
+      "end": 23.16
+    },
+    {
+      "word": "page",
+      "start": 23.16,
+      "end": 23.48
+    },
+    {
+      "word": "transitions",
+      "start": 23.48,
+      "end": 24.1
+    },
+    {
+      "word": "while",
+      "start": 24.1,
+      "end": 24.48
+    },
+    {
+      "word": "keeping",
+      "start": 24.48,
+      "end": 24.86
+    },
+    {
+      "word": "total",
+      "start": 24.86,
+      "end": 25.24
+    },
+    {
+      "word": "privacy.",
+      "start": 25.24,
+      "end": 25.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The cleanest free notes and project management tool on the internet right now.",
+      "line2": "LOCAL NOTION ALTERNATIVE",
+      "tag": "\ud83d\uded1 AppFlowy",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: AppFlowy",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: AppFlowy",
+        "subtitle": "AppFlowy"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "AppFlowy"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "AppFlowy"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "AppFlowy",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

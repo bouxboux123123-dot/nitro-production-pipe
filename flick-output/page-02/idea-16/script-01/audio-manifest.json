@@ -1,0 +1,416 @@
+{
+  "page": "page-02",
+  "idea": "AI multi-language translator for international client deliverables",
+  "text": "Expand your freelance client base globally by delivering localized client assets in multiple languages. American and European freelancers miss lucrative international contracts because foreign marketing leads demand native-language content. Traditional human localization agencies charge steep per-word minimums and take weeks to return simple deliverables. DeepL Pro translates PDF decks and markdown copy while preserving exact brand terminology and visual layouts. You win international retainers with enterprise-grade accuracy.",
+  "duration": 33.445,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Expand",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "your",
+      "start": 0.46,
+      "end": 1.06
+    },
+    {
+      "word": "freelance",
+      "start": 1.06,
+      "end": 1.06
+    },
+    {
+      "word": "client",
+      "start": 1.06,
+      "end": 1.52
+    },
+    {
+      "word": "base",
+      "start": 1.52,
+      "end": 1.82
+    },
+    {
+      "word": "globally",
+      "start": 1.82,
+      "end": 2.28
+    },
+    {
+      "word": "by",
+      "start": 2.28,
+      "end": 2.76
+    },
+    {
+      "word": "delivering",
+      "start": 2.76,
+      "end": 3.18
+    },
+    {
+      "word": "localized",
+      "start": 3.18,
+      "end": 3.76
+    },
+    {
+      "word": "client",
+      "start": 3.76,
+      "end": 4.26
+    },
+    {
+      "word": "assets",
+      "start": 4.26,
+      "end": 4.62
+    },
+    {
+      "word": "in",
+      "start": 4.62,
+      "end": 5.08
+    },
+    {
+      "word": "multiple",
+      "start": 5.08,
+      "end": 5.46
+    },
+    {
+      "word": "languages.",
+      "start": 5.46,
+      "end": 6.14
+    },
+    {
+      "word": "American",
+      "start": 7.04,
+      "end": 7.18
+    },
+    {
+      "word": "and",
+      "start": 7.18,
+      "end": 7.48
+    },
+    {
+      "word": "European",
+      "start": 7.48,
+      "end": 8.02
+    },
+    {
+      "word": "freelancers",
+      "start": 8.02,
+      "end": 8.64
+    },
+    {
+      "word": "miss",
+      "start": 8.64,
+      "end": 9.28
+    },
+    {
+      "word": "lucrative",
+      "start": 9.28,
+      "end": 9.68
+    },
+    {
+      "word": "international",
+      "start": 9.68,
+      "end": 10.32
+    },
+    {
+      "word": "contracts",
+      "start": 10.32,
+      "end": 10.96
+    },
+    {
+      "word": "because",
+      "start": 10.96,
+      "end": 11.68
+    },
+    {
+      "word": "foreign",
+      "start": 11.68,
+      "end": 12.04
+    },
+    {
+      "word": "marketing",
+      "start": 12.04,
+      "end": 12.54
+    },
+    {
+      "word": "leads",
+      "start": 12.54,
+      "end": 12.94
+    },
+    {
+      "word": "demand",
+      "start": 12.94,
+      "end": 13.44
+    },
+    {
+      "word": "native",
+      "start": 13.44,
+      "end": 13.82
+    },
+    {
+      "word": "language",
+      "start": 13.82,
+      "end": 14.28
+    },
+    {
+      "word": "content.",
+      "start": 14.28,
+      "end": 14.84
+    },
+    {
+      "word": "Traditional",
+      "start": 15.52,
+      "end": 15.52
+    },
+    {
+      "word": "human",
+      "start": 15.52,
+      "end": 15.96
+    },
+    {
+      "word": "localization",
+      "start": 15.96,
+      "end": 16.52
+    },
+    {
+      "word": "agencies",
+      "start": 16.52,
+      "end": 17.32
+    },
+    {
+      "word": "charge",
+      "start": 17.32,
+      "end": 17.98
+    },
+    {
+      "word": "steep",
+      "start": 17.98,
+      "end": 18.3
+    },
+    {
+      "word": "per",
+      "start": 18.3,
+      "end": 18.48
+    },
+    {
+      "word": "word",
+      "start": 18.48,
+      "end": 18.7
+    },
+    {
+      "word": "minimums",
+      "start": 18.7,
+      "end": 19.46
+    },
+    {
+      "word": "and",
+      "start": 19.46,
+      "end": 19.62
+    },
+    {
+      "word": "take",
+      "start": 19.62,
+      "end": 19.86
+    },
+    {
+      "word": "weeks",
+      "start": 19.86,
+      "end": 20.14
+    },
+    {
+      "word": "to",
+      "start": 20.14,
+      "end": 20.34
+    },
+    {
+      "word": "return",
+      "start": 20.34,
+      "end": 20.72
+    },
+    {
+      "word": "simple",
+      "start": 20.72,
+      "end": 21.06
+    },
+    {
+      "word": "deliverables.",
+      "start": 21.06,
+      "end": 21.78
+    },
+    {
+      "word": "Deep",
+      "start": 22.48,
+      "end": 22.56
+    },
+    {
+      "word": "L",
+      "start": 22.56,
+      "end": 22.9
+    },
+    {
+      "word": "Pro",
+      "start": 22.9,
+      "end": 23.18
+    },
+    {
+      "word": "translates",
+      "start": 23.18,
+      "end": 23.74
+    },
+    {
+      "word": "PDF",
+      "start": 23.74,
+      "end": 24.34
+    },
+    {
+      "word": "decks",
+      "start": 24.34,
+      "end": 24.72
+    },
+    {
+      "word": "and",
+      "start": 24.72,
+      "end": 24.98
+    },
+    {
+      "word": "markdown",
+      "start": 24.98,
+      "end": 25.46
+    },
+    {
+      "word": "copy",
+      "start": 25.46,
+      "end": 25.86
+    },
+    {
+      "word": "while",
+      "start": 25.86,
+      "end": 26.4
+    },
+    {
+      "word": "preserving",
+      "start": 26.4,
+      "end": 26.74
+    },
+    {
+      "word": "exact",
+      "start": 26.74,
+      "end": 27.36
+    },
+    {
+      "word": "brand",
+      "start": 27.36,
+      "end": 27.7
+    },
+    {
+      "word": "terminology",
+      "start": 27.7,
+      "end": 28.3
+    },
+    {
+      "word": "and",
+      "start": 28.3,
+      "end": 28.74
+    },
+    {
+      "word": "visual",
+      "start": 28.74,
+      "end": 29.02
+    },
+    {
+      "word": "layouts.",
+      "start": 29.02,
+      "end": 29.5
+    },
+    {
+      "word": "You",
+      "start": 30.0,
+      "end": 30.24
+    },
+    {
+      "word": "win",
+      "start": 30.24,
+      "end": 30.44
+    },
+    {
+      "word": "international",
+      "start": 30.44,
+      "end": 31.06
+    },
+    {
+      "word": "retainers",
+      "start": 31.06,
+      "end": 31.72
+    },
+    {
+      "word": "with",
+      "start": 31.72,
+      "end": 31.96
+    },
+    {
+      "word": "enterprise",
+      "start": 31.96,
+      "end": 32.4
+    },
+    {
+      "word": "grade",
+      "start": 32.4,
+      "end": 32.84
+    },
+    {
+      "word": "accuracy.",
+      "start": 32.84,
+      "end": 33.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Expand your freelance client base globally with localized deliverables.",
+      "line2": "TRANSLATE CLIENT DELIVERABLES",
+      "tag": "\ud83d\uded1 AI multi-language translator for international client deliverables",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI multi-language translator for international client deliverables",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI multi-language translator for international client deliverables",
+        "subtitle": "AI multi-language translator for international client deliverables"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI multi-language translator for international client deliverables"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI multi-language translator for international client deliverables"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI multi-language translator for international client deliverables",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

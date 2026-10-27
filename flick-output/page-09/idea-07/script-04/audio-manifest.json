@@ -1,0 +1,386 @@
+{
+  "page": "page-09",
+  "idea": "Canva vs Figma: which design tool is better for marketing teams",
+  "text": "The clear breakdown between design simplicity and professional design power defines Canva versus Figma. Creative directors waste hours fielding repetitive requests from sales reps needing minor deck tweaks. Without accessible templates, high-earning UI designers become glorified asset factories adjusting fonts and export dimensions. Build reusable Canva libraries for sales assets while preserving Figma for technical product design systems. This operational split protects creative focus.",
+  "duration": 30.991,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "clear",
+      "start": 0.22,
+      "end": 0.44
+    },
+    {
+      "word": "breakdown",
+      "start": 0.44,
+      "end": 0.92
+    },
+    {
+      "word": "between",
+      "start": 0.92,
+      "end": 1.3
+    },
+    {
+      "word": "design",
+      "start": 1.3,
+      "end": 1.76
+    },
+    {
+      "word": "simplicity",
+      "start": 1.76,
+      "end": 2.26
+    },
+    {
+      "word": "and",
+      "start": 2.26,
+      "end": 2.82
+    },
+    {
+      "word": "professional",
+      "start": 2.82,
+      "end": 3.26
+    },
+    {
+      "word": "design",
+      "start": 3.26,
+      "end": 3.7
+    },
+    {
+      "word": "power",
+      "start": 3.7,
+      "end": 4.26
+    },
+    {
+      "word": "defines",
+      "start": 4.26,
+      "end": 4.84
+    },
+    {
+      "word": "Canva",
+      "start": 4.84,
+      "end": 5.3
+    },
+    {
+      "word": "versus",
+      "start": 5.3,
+      "end": 5.74
+    },
+    {
+      "word": "Figma.",
+      "start": 5.74,
+      "end": 6.48
+    },
+    {
+      "word": "Creative",
+      "start": 7.0,
+      "end": 7.08
+    },
+    {
+      "word": "directors",
+      "start": 7.08,
+      "end": 7.64
+    },
+    {
+      "word": "waste",
+      "start": 7.64,
+      "end": 8.1
+    },
+    {
+      "word": "hours",
+      "start": 8.1,
+      "end": 8.58
+    },
+    {
+      "word": "fielding",
+      "start": 8.58,
+      "end": 9.02
+    },
+    {
+      "word": "repetitive",
+      "start": 9.02,
+      "end": 9.6
+    },
+    {
+      "word": "requests",
+      "start": 9.6,
+      "end": 10.08
+    },
+    {
+      "word": "from",
+      "start": 10.08,
+      "end": 10.44
+    },
+    {
+      "word": "sales",
+      "start": 10.44,
+      "end": 10.84
+    },
+    {
+      "word": "reps",
+      "start": 10.84,
+      "end": 11.12
+    },
+    {
+      "word": "needing",
+      "start": 11.12,
+      "end": 11.48
+    },
+    {
+      "word": "minor",
+      "start": 11.48,
+      "end": 11.76
+    },
+    {
+      "word": "deck",
+      "start": 11.76,
+      "end": 12.08
+    },
+    {
+      "word": "tweaks.",
+      "start": 12.08,
+      "end": 12.42
+    },
+    {
+      "word": "Without",
+      "start": 12.88,
+      "end": 13.1
+    },
+    {
+      "word": "accessible",
+      "start": 13.1,
+      "end": 13.6
+    },
+    {
+      "word": "templates,",
+      "start": 13.6,
+      "end": 14.24
+    },
+    {
+      "word": "high",
+      "start": 14.78,
+      "end": 14.88
+    },
+    {
+      "word": "earning",
+      "start": 14.88,
+      "end": 15.12
+    },
+    {
+      "word": "UI",
+      "start": 15.12,
+      "end": 15.62
+    },
+    {
+      "word": "designers",
+      "start": 15.62,
+      "end": 16.14
+    },
+    {
+      "word": "become",
+      "start": 16.14,
+      "end": 16.64
+    },
+    {
+      "word": "glorified",
+      "start": 16.64,
+      "end": 17.28
+    },
+    {
+      "word": "asset",
+      "start": 17.28,
+      "end": 17.66
+    },
+    {
+      "word": "factories,",
+      "start": 17.66,
+      "end": 18.3
+    },
+    {
+      "word": "adjusting",
+      "start": 19.08,
+      "end": 19.08
+    },
+    {
+      "word": "fonts",
+      "start": 19.08,
+      "end": 19.48
+    },
+    {
+      "word": "and",
+      "start": 19.48,
+      "end": 19.78
+    },
+    {
+      "word": "export",
+      "start": 19.78,
+      "end": 20.1
+    },
+    {
+      "word": "dimensions.",
+      "start": 20.1,
+      "end": 20.72
+    },
+    {
+      "word": "Build",
+      "start": 21.58,
+      "end": 21.6
+    },
+    {
+      "word": "reusable",
+      "start": 21.6,
+      "end": 22.2
+    },
+    {
+      "word": "Canva",
+      "start": 22.2,
+      "end": 22.72
+    },
+    {
+      "word": "libraries",
+      "start": 22.72,
+      "end": 23.08
+    },
+    {
+      "word": "for",
+      "start": 23.08,
+      "end": 23.46
+    },
+    {
+      "word": "sales",
+      "start": 23.46,
+      "end": 23.78
+    },
+    {
+      "word": "assets",
+      "start": 23.78,
+      "end": 24.28
+    },
+    {
+      "word": "while",
+      "start": 24.28,
+      "end": 24.8
+    },
+    {
+      "word": "preserving",
+      "start": 24.8,
+      "end": 25.18
+    },
+    {
+      "word": "Figma",
+      "start": 25.18,
+      "end": 25.66
+    },
+    {
+      "word": "for",
+      "start": 25.66,
+      "end": 25.96
+    },
+    {
+      "word": "technical",
+      "start": 25.96,
+      "end": 26.36
+    },
+    {
+      "word": "product",
+      "start": 26.36,
+      "end": 26.82
+    },
+    {
+      "word": "design",
+      "start": 26.82,
+      "end": 27.18
+    },
+    {
+      "word": "systems.",
+      "start": 27.18,
+      "end": 27.7
+    },
+    {
+      "word": "This",
+      "start": 27.7,
+      "end": 28.5
+    },
+    {
+      "word": "operational",
+      "start": 28.5,
+      "end": 29.18
+    },
+    {
+      "word": "split",
+      "start": 29.18,
+      "end": 29.56
+    },
+    {
+      "word": "protects",
+      "start": 29.56,
+      "end": 29.94
+    },
+    {
+      "word": "creative",
+      "start": 29.94,
+      "end": 30.52
+    },
+    {
+      "word": "focus.",
+      "start": 30.52,
+      "end": 30.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The clear breakdown between design simplicity and professional design power.",
+      "line2": "CANVA VS FIGMA",
+      "tag": "\ud83d\uded1 Canva vs Figma",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Canva vs Figma",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Canva vs Figma",
+        "subtitle": "Canva vs Figma"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Canva vs Figma"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Canva vs Figma"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Canva vs Figma",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

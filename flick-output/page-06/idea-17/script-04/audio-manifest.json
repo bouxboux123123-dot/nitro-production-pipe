@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Focus time blocking tool that syncs Slack status and disables notifications",
+  "text": "This is the productivity shield that cured my remote work notification anxiety for good. Working asynchronously often creates toxic pressure to reply within five minutes, killing genuine deep work. Constantly watching chat channels fractures your day into chaotic intervals where complex thinking becomes impossible. Automated status rules in Reclaim lock calendar focus sessions and schedule custom Slack away messages. This eliminates response anxiety while doubling your weekly engineering output.",
+  "duration": 30.458,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.46
+    },
+    {
+      "word": "the",
+      "start": 0.46,
+      "end": 0.62
+    },
+    {
+      "word": "productivity",
+      "start": 0.62,
+      "end": 1.06
+    },
+    {
+      "word": "shield",
+      "start": 1.06,
+      "end": 1.56
+    },
+    {
+      "word": "that",
+      "start": 1.56,
+      "end": 1.84
+    },
+    {
+      "word": "cured",
+      "start": 1.84,
+      "end": 2.14
+    },
+    {
+      "word": "my",
+      "start": 2.14,
+      "end": 2.46
+    },
+    {
+      "word": "remote",
+      "start": 2.46,
+      "end": 2.68
+    },
+    {
+      "word": "work",
+      "start": 2.68,
+      "end": 3.12
+    },
+    {
+      "word": "notification",
+      "start": 3.12,
+      "end": 3.7
+    },
+    {
+      "word": "anxiety",
+      "start": 3.7,
+      "end": 4.22
+    },
+    {
+      "word": "for",
+      "start": 4.22,
+      "end": 4.56
+    },
+    {
+      "word": "good.",
+      "start": 4.56,
+      "end": 5.06
+    },
+    {
+      "word": "Working",
+      "start": 5.66,
+      "end": 5.82
+    },
+    {
+      "word": "asynchronously",
+      "start": 5.82,
+      "end": 6.74
+    },
+    {
+      "word": "often",
+      "start": 6.74,
+      "end": 7.14
+    },
+    {
+      "word": "creates",
+      "start": 7.14,
+      "end": 7.54
+    },
+    {
+      "word": "toxic",
+      "start": 7.54,
+      "end": 7.96
+    },
+    {
+      "word": "pressure",
+      "start": 7.96,
+      "end": 8.32
+    },
+    {
+      "word": "to",
+      "start": 8.32,
+      "end": 8.6
+    },
+    {
+      "word": "reply",
+      "start": 8.6,
+      "end": 8.94
+    },
+    {
+      "word": "within",
+      "start": 8.94,
+      "end": 9.24
+    },
+    {
+      "word": "five",
+      "start": 9.24,
+      "end": 9.7
+    },
+    {
+      "word": "minutes,",
+      "start": 9.7,
+      "end": 10.06
+    },
+    {
+      "word": "killing",
+      "start": 10.82,
+      "end": 10.84
+    },
+    {
+      "word": "genuine",
+      "start": 10.84,
+      "end": 11.34
+    },
+    {
+      "word": "deep",
+      "start": 11.34,
+      "end": 11.72
+    },
+    {
+      "word": "work.",
+      "start": 11.72,
+      "end": 12.14
+    },
+    {
+      "word": "Constantly",
+      "start": 12.52,
+      "end": 12.78
+    },
+    {
+      "word": "watching",
+      "start": 12.78,
+      "end": 13.28
+    },
+    {
+      "word": "chat",
+      "start": 13.28,
+      "end": 13.64
+    },
+    {
+      "word": "channels",
+      "start": 13.64,
+      "end": 14.04
+    },
+    {
+      "word": "fractures",
+      "start": 14.04,
+      "end": 14.48
+    },
+    {
+      "word": "your",
+      "start": 14.48,
+      "end": 14.76
+    },
+    {
+      "word": "day",
+      "start": 14.76,
+      "end": 14.98
+    },
+    {
+      "word": "into",
+      "start": 14.98,
+      "end": 15.2
+    },
+    {
+      "word": "chaotic",
+      "start": 15.2,
+      "end": 15.7
+    },
+    {
+      "word": "intervals",
+      "start": 15.7,
+      "end": 16.14
+    },
+    {
+      "word": "where",
+      "start": 16.14,
+      "end": 16.7
+    },
+    {
+      "word": "complex",
+      "start": 16.7,
+      "end": 17.04
+    },
+    {
+      "word": "thinking",
+      "start": 17.04,
+      "end": 17.52
+    },
+    {
+      "word": "becomes",
+      "start": 17.52,
+      "end": 17.96
+    },
+    {
+      "word": "impossible.",
+      "start": 17.96,
+      "end": 18.78
+    },
+    {
+      "word": "Automated",
+      "start": 19.48,
+      "end": 19.82
+    },
+    {
+      "word": "status",
+      "start": 19.82,
+      "end": 20.24
+    },
+    {
+      "word": "rules",
+      "start": 20.24,
+      "end": 20.56
+    },
+    {
+      "word": "in",
+      "start": 20.56,
+      "end": 20.86
+    },
+    {
+      "word": "reclaim",
+      "start": 20.86,
+      "end": 21.04
+    },
+    {
+      "word": "lock",
+      "start": 21.04,
+      "end": 21.52
+    },
+    {
+      "word": "calendar,",
+      "start": 21.52,
+      "end": 21.94
+    },
+    {
+      "word": "focus",
+      "start": 22.48,
+      "end": 22.6
+    },
+    {
+      "word": "sessions",
+      "start": 22.6,
+      "end": 23.1
+    },
+    {
+      "word": "and",
+      "start": 23.1,
+      "end": 23.42
+    },
+    {
+      "word": "schedule",
+      "start": 23.42,
+      "end": 23.82
+    },
+    {
+      "word": "custom",
+      "start": 23.82,
+      "end": 24.32
+    },
+    {
+      "word": "slack",
+      "start": 24.32,
+      "end": 24.7
+    },
+    {
+      "word": "away",
+      "start": 24.7,
+      "end": 24.92
+    },
+    {
+      "word": "messages.",
+      "start": 24.92,
+      "end": 25.48
+    },
+    {
+      "word": "This",
+      "start": 26.1,
+      "end": 26.36
+    },
+    {
+      "word": "eliminates",
+      "start": 26.36,
+      "end": 26.8
+    },
+    {
+      "word": "response",
+      "start": 26.8,
+      "end": 27.42
+    },
+    {
+      "word": "anxiety",
+      "start": 27.42,
+      "end": 28.0
+    },
+    {
+      "word": "while",
+      "start": 28.0,
+      "end": 28.58
+    },
+    {
+      "word": "doubling",
+      "start": 28.58,
+      "end": 28.86
+    },
+    {
+      "word": "your",
+      "start": 28.86,
+      "end": 29.24
+    },
+    {
+      "word": "weekly",
+      "start": 29.24,
+      "end": 29.42
+    },
+    {
+      "word": "engineering",
+      "start": 29.42,
+      "end": 30.0
+    },
+    {
+      "word": "output.",
+      "start": 30.0,
+      "end": 30.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The productivity shield that cured my remote work notification anxiety.",
+      "line2": "BLOCK FOCUS TIME",
+      "tag": "\ud83d\uded1 Focus time blocking tool that syncs Slack status and disables notifications",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Focus time blocking tool that syncs Slack status and disables notifications",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Focus time blocking tool that syncs Slack status and disables notifications",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Focus time blocking tool that syncs Slack status and disables notifications",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

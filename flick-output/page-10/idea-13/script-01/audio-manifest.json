@@ -1,0 +1,416 @@
+{
+  "page": "page-10",
+  "idea": "Loom AI speech enhancement and automated title generation",
+  "text": "Loom just upgraded their video AI and your quick updates now look like studio recordings. Nothing slows remote teams down faster than rambling walkthroughs packed with awkward pauses and background chatter. Coworkers skip unedited videos when core action items stay buried inside unindexed audio tracks. Loom's new engine instantly strips filler words, silences ambient noise, and auto-generates chapter markers. You deliver crystal-clear updates in a single take.",
+  "duration": 25.877,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Loom",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "just",
+      "start": 0.22,
+      "end": 0.5
+    },
+    {
+      "word": "upgraded",
+      "start": 0.5,
+      "end": 0.84
+    },
+    {
+      "word": "their",
+      "start": 0.84,
+      "end": 1.12
+    },
+    {
+      "word": "video",
+      "start": 1.12,
+      "end": 1.4
+    },
+    {
+      "word": "AI",
+      "start": 1.4,
+      "end": 1.92
+    },
+    {
+      "word": "and",
+      "start": 1.92,
+      "end": 2.3
+    },
+    {
+      "word": "your",
+      "start": 2.3,
+      "end": 2.48
+    },
+    {
+      "word": "quick",
+      "start": 2.48,
+      "end": 2.7
+    },
+    {
+      "word": "updates",
+      "start": 2.7,
+      "end": 3.0
+    },
+    {
+      "word": "now",
+      "start": 3.0,
+      "end": 3.34
+    },
+    {
+      "word": "look",
+      "start": 3.34,
+      "end": 3.48
+    },
+    {
+      "word": "like",
+      "start": 3.48,
+      "end": 3.74
+    },
+    {
+      "word": "studio",
+      "start": 3.74,
+      "end": 4.0
+    },
+    {
+      "word": "recordings.",
+      "start": 4.0,
+      "end": 4.5
+    },
+    {
+      "word": "Nothing",
+      "start": 5.24,
+      "end": 5.4
+    },
+    {
+      "word": "slows",
+      "start": 5.4,
+      "end": 5.8
+    },
+    {
+      "word": "remote",
+      "start": 5.8,
+      "end": 6.12
+    },
+    {
+      "word": "teams",
+      "start": 6.12,
+      "end": 6.5
+    },
+    {
+      "word": "down",
+      "start": 6.5,
+      "end": 6.84
+    },
+    {
+      "word": "faster",
+      "start": 6.84,
+      "end": 7.16
+    },
+    {
+      "word": "than",
+      "start": 7.16,
+      "end": 7.42
+    },
+    {
+      "word": "rambling",
+      "start": 7.42,
+      "end": 7.82
+    },
+    {
+      "word": "walkthroughs",
+      "start": 7.82,
+      "end": 8.44
+    },
+    {
+      "word": "packed",
+      "start": 8.44,
+      "end": 8.64
+    },
+    {
+      "word": "with",
+      "start": 8.64,
+      "end": 8.88
+    },
+    {
+      "word": "awkward",
+      "start": 8.88,
+      "end": 9.14
+    },
+    {
+      "word": "pauses",
+      "start": 9.14,
+      "end": 9.56
+    },
+    {
+      "word": "and",
+      "start": 9.56,
+      "end": 9.92
+    },
+    {
+      "word": "background",
+      "start": 9.92,
+      "end": 10.12
+    },
+    {
+      "word": "chatter.",
+      "start": 10.12,
+      "end": 10.64
+    },
+    {
+      "word": "Co",
+      "start": 11.22,
+      "end": 11.36
+    },
+    {
+      "word": "-workers",
+      "start": 11.36,
+      "end": 11.62
+    },
+    {
+      "word": "skip",
+      "start": 11.62,
+      "end": 11.98
+    },
+    {
+      "word": "unedited",
+      "start": 11.98,
+      "end": 12.32
+    },
+    {
+      "word": "videos",
+      "start": 12.32,
+      "end": 12.68
+    },
+    {
+      "word": "when",
+      "start": 12.68,
+      "end": 12.94
+    },
+    {
+      "word": "core",
+      "start": 12.94,
+      "end": 13.18
+    },
+    {
+      "word": "action",
+      "start": 13.18,
+      "end": 13.44
+    },
+    {
+      "word": "items",
+      "start": 13.44,
+      "end": 13.8
+    },
+    {
+      "word": "stay",
+      "start": 13.8,
+      "end": 14.12
+    },
+    {
+      "word": "buried",
+      "start": 14.12,
+      "end": 14.38
+    },
+    {
+      "word": "inside",
+      "start": 14.38,
+      "end": 14.92
+    },
+    {
+      "word": "un",
+      "start": 14.92,
+      "end": 15.06
+    },
+    {
+      "word": "-indexed",
+      "start": 15.06,
+      "end": 15.62
+    },
+    {
+      "word": "audio",
+      "start": 15.62,
+      "end": 15.8
+    },
+    {
+      "word": "tracks.",
+      "start": 15.8,
+      "end": 16.22
+    },
+    {
+      "word": "Loom's",
+      "start": 16.88,
+      "end": 17.06
+    },
+    {
+      "word": "new",
+      "start": 17.06,
+      "end": 17.22
+    },
+    {
+      "word": "engine",
+      "start": 17.22,
+      "end": 17.52
+    },
+    {
+      "word": "instantly",
+      "start": 17.52,
+      "end": 18.04
+    },
+    {
+      "word": "strips",
+      "start": 18.04,
+      "end": 18.38
+    },
+    {
+      "word": "filler",
+      "start": 18.38,
+      "end": 18.7
+    },
+    {
+      "word": "words,",
+      "start": 18.7,
+      "end": 19.14
+    },
+    {
+      "word": "silences,",
+      "start": 19.64,
+      "end": 19.92
+    },
+    {
+      "word": "ambient",
+      "start": 20.42,
+      "end": 20.42
+    },
+    {
+      "word": "noise,",
+      "start": 20.42,
+      "end": 20.82
+    },
+    {
+      "word": "and",
+      "start": 21.24,
+      "end": 21.48
+    },
+    {
+      "word": "auto",
+      "start": 21.48,
+      "end": 21.68
+    },
+    {
+      "word": "-generates",
+      "start": 21.68,
+      "end": 22.08
+    },
+    {
+      "word": "chapter",
+      "start": 22.08,
+      "end": 22.5
+    },
+    {
+      "word": "markers.",
+      "start": 22.5,
+      "end": 22.92
+    },
+    {
+      "word": "You",
+      "start": 23.46,
+      "end": 23.6
+    },
+    {
+      "word": "deliver",
+      "start": 23.6,
+      "end": 23.86
+    },
+    {
+      "word": "crystal",
+      "start": 23.86,
+      "end": 24.2
+    },
+    {
+      "word": "clear",
+      "start": 24.2,
+      "end": 24.58
+    },
+    {
+      "word": "updates",
+      "start": 24.58,
+      "end": 24.88
+    },
+    {
+      "word": "in",
+      "start": 24.88,
+      "end": 25.2
+    },
+    {
+      "word": "a",
+      "start": 25.2,
+      "end": 25.3
+    },
+    {
+      "word": "single",
+      "start": 25.3,
+      "end": 25.52
+    },
+    {
+      "word": "take.",
+      "start": 25.52,
+      "end": 25.84
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Loom just upgraded their video AI and your quick updates now look like studio recordings.",
+      "line2": "LOOM AI SPEECH ENHANCEMENT",
+      "tag": "\ud83d\uded1 Loom AI speech enhancement and automated title generation",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Loom AI speech enhancement and automated title generation",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Loom AI speech enhancement and automated title generation",
+        "subtitle": "Loom AI speech enhancement and automated title generation"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Loom AI speech enhancement and automated title generation"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Loom AI speech enhancement and automated title generation"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Loom AI speech enhancement and automated title generation",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "How to summarize long YouTube videos in 10 seconds without watching them",
+  "text": "This free tool reads YouTube transcripts and gives you a five-bullet summary instantly. Watching a sixty-minute tech breakdown just to check a single concept drains your afternoon energy. Manual note-taking while listening forces constant pausing and rewinding, derailing your entire research flow. Click the YouTube Summary extension to pull the full transcript and prompt ChatGPT for actionable takeaways automatically. You save hours of video viewing every week.",
+  "duration": 27.663,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "free",
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "word": "tool",
+      "start": 0.52,
+      "end": 0.8
+    },
+    {
+      "word": "reads",
+      "start": 0.8,
+      "end": 1.08
+    },
+    {
+      "word": "YouTube",
+      "start": 1.08,
+      "end": 1.54
+    },
+    {
+      "word": "transcripts",
+      "start": 1.54,
+      "end": 2.1
+    },
+    {
+      "word": "and",
+      "start": 2.1,
+      "end": 2.66
+    },
+    {
+      "word": "gives",
+      "start": 2.66,
+      "end": 2.84
+    },
+    {
+      "word": "you",
+      "start": 2.84,
+      "end": 3.02
+    },
+    {
+      "word": "a",
+      "start": 3.02,
+      "end": 3.18
+    },
+    {
+      "word": "five",
+      "start": 3.18,
+      "end": 3.48
+    },
+    {
+      "word": "-bullet",
+      "start": 3.48,
+      "end": 3.78
+    },
+    {
+      "word": "summary",
+      "start": 3.78,
+      "end": 4.18
+    },
+    {
+      "word": "instantly.",
+      "start": 4.18,
+      "end": 5.04
+    },
+    {
+      "word": "Watching",
+      "start": 5.56,
+      "end": 5.66
+    },
+    {
+      "word": "a",
+      "start": 5.66,
+      "end": 6.06
+    },
+    {
+      "word": "60",
+      "start": 6.06,
+      "end": 6.24
+    },
+    {
+      "word": "-minute",
+      "start": 6.24,
+      "end": 6.48
+    },
+    {
+      "word": "tech",
+      "start": 6.48,
+      "end": 6.74
+    },
+    {
+      "word": "breakdown",
+      "start": 6.74,
+      "end": 7.16
+    },
+    {
+      "word": "just",
+      "start": 7.16,
+      "end": 7.52
+    },
+    {
+      "word": "to",
+      "start": 7.52,
+      "end": 7.66
+    },
+    {
+      "word": "check",
+      "start": 7.66,
+      "end": 7.82
+    },
+    {
+      "word": "a",
+      "start": 7.82,
+      "end": 8.04
+    },
+    {
+      "word": "single",
+      "start": 8.04,
+      "end": 8.3
+    },
+    {
+      "word": "concept",
+      "start": 8.3,
+      "end": 8.86
+    },
+    {
+      "word": "drains",
+      "start": 8.86,
+      "end": 9.42
+    },
+    {
+      "word": "your",
+      "start": 9.42,
+      "end": 9.76
+    },
+    {
+      "word": "afternoon",
+      "start": 9.76,
+      "end": 10.18
+    },
+    {
+      "word": "energy.",
+      "start": 10.18,
+      "end": 10.76
+    },
+    {
+      "word": "Manual",
+      "start": 11.42,
+      "end": 11.42
+    },
+    {
+      "word": "note",
+      "start": 11.42,
+      "end": 11.74
+    },
+    {
+      "word": "-taking",
+      "start": 11.74,
+      "end": 12.06
+    },
+    {
+      "word": "while",
+      "start": 12.06,
+      "end": 12.46
+    },
+    {
+      "word": "listening",
+      "start": 12.46,
+      "end": 12.8
+    },
+    {
+      "word": "forces",
+      "start": 12.8,
+      "end": 13.24
+    },
+    {
+      "word": "constant",
+      "start": 13.24,
+      "end": 13.86
+    },
+    {
+      "word": "pausing",
+      "start": 13.86,
+      "end": 14.26
+    },
+    {
+      "word": "and",
+      "start": 14.26,
+      "end": 14.56
+    },
+    {
+      "word": "rewinding,",
+      "start": 14.56,
+      "end": 15.06
+    },
+    {
+      "word": "derailing",
+      "start": 15.52,
+      "end": 15.88
+    },
+    {
+      "word": "your",
+      "start": 15.88,
+      "end": 16.22
+    },
+    {
+      "word": "entire",
+      "start": 16.22,
+      "end": 16.62
+    },
+    {
+      "word": "research",
+      "start": 16.62,
+      "end": 17.06
+    },
+    {
+      "word": "flow.",
+      "start": 17.06,
+      "end": 17.52
+    },
+    {
+      "word": "Click",
+      "start": 17.96,
+      "end": 18.2
+    },
+    {
+      "word": "the",
+      "start": 18.2,
+      "end": 18.42
+    },
+    {
+      "word": "YouTube",
+      "start": 18.42,
+      "end": 18.8
+    },
+    {
+      "word": "summary",
+      "start": 18.8,
+      "end": 19.14
+    },
+    {
+      "word": "extension",
+      "start": 19.14,
+      "end": 19.66
+    },
+    {
+      "word": "to",
+      "start": 19.66,
+      "end": 19.96
+    },
+    {
+      "word": "pull",
+      "start": 19.96,
+      "end": 20.16
+    },
+    {
+      "word": "the",
+      "start": 20.16,
+      "end": 20.34
+    },
+    {
+      "word": "full",
+      "start": 20.34,
+      "end": 20.62
+    },
+    {
+      "word": "transcript",
+      "start": 20.62,
+      "end": 21.12
+    },
+    {
+      "word": "and",
+      "start": 21.12,
+      "end": 21.42
+    },
+    {
+      "word": "prompt",
+      "start": 21.42,
+      "end": 21.66
+    },
+    {
+      "word": "chat",
+      "start": 21.66,
+      "end": 22.02
+    },
+    {
+      "word": "GPT",
+      "start": 22.02,
+      "end": 22.6
+    },
+    {
+      "word": "for",
+      "start": 22.6,
+      "end": 22.98
+    },
+    {
+      "word": "actionable",
+      "start": 22.98,
+      "end": 23.52
+    },
+    {
+      "word": "takeaways",
+      "start": 23.52,
+      "end": 24.0
+    },
+    {
+      "word": "automatically.",
+      "start": 24.0,
+      "end": 24.62
+    },
+    {
+      "word": "You",
+      "start": 25.32,
+      "end": 25.52
+    },
+    {
+      "word": "save",
+      "start": 25.52,
+      "end": 25.7
+    },
+    {
+      "word": "hours",
+      "start": 25.7,
+      "end": 26.14
+    },
+    {
+      "word": "of",
+      "start": 26.14,
+      "end": 26.42
+    },
+    {
+      "word": "video",
+      "start": 26.42,
+      "end": 26.56
+    },
+    {
+      "word": "viewing",
+      "start": 26.56,
+      "end": 26.98
+    },
+    {
+      "word": "every",
+      "start": 26.98,
+      "end": 27.34
+    },
+    {
+      "word": "week.",
+      "start": 27.34,
+      "end": 27.64
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "This free tool reads the video transcript and gives you a 5-bullet summary instantly.",
+      "line2": "SUMMARIZE YOUTUBE IN 10-SECONDS",
+      "tag": "\ud83d\uded1 How to summarize long YouTube videos in 10 seconds without watching them",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

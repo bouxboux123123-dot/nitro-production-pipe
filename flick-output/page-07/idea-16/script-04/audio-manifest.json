@@ -1,0 +1,406 @@
+{
+  "page": "page-07",
+  "idea": "Automated SEO programmatic page generator for startup growth",
+  "text": "Here is the organic acquisition engine used by companies like Zapier and Canva. Most founders believe scaling traffic requires hiring a costly content agency to write articles manually. Unicorns scale by deploying programmatic page architectures that dynamically index thousands of high-intent search queries. Link your product integration database to Webflow CMS using Make, publishing dynamic landing pages for every integration. You build compounding organic search distribution on autopilot.",
+  "duration": 31.653,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.46
+    },
+    {
+      "word": "the",
+      "start": 0.46,
+      "end": 0.68
+    },
+    {
+      "word": "organic",
+      "start": 0.68,
+      "end": 1.0
+    },
+    {
+      "word": "acquisition",
+      "start": 1.0,
+      "end": 1.5
+    },
+    {
+      "word": "engine",
+      "start": 1.5,
+      "end": 2.04
+    },
+    {
+      "word": "used",
+      "start": 2.04,
+      "end": 2.32
+    },
+    {
+      "word": "by",
+      "start": 2.32,
+      "end": 2.6
+    },
+    {
+      "word": "companies",
+      "start": 2.6,
+      "end": 2.92
+    },
+    {
+      "word": "like",
+      "start": 2.92,
+      "end": 3.36
+    },
+    {
+      "word": "Zapier",
+      "start": 3.36,
+      "end": 3.8
+    },
+    {
+      "word": "and",
+      "start": 3.8,
+      "end": 4.1
+    },
+    {
+      "word": "Canva.",
+      "start": 4.1,
+      "end": 4.5
+    },
+    {
+      "word": "Most",
+      "start": 4.98,
+      "end": 5.3
+    },
+    {
+      "word": "founders",
+      "start": 5.3,
+      "end": 5.68
+    },
+    {
+      "word": "believe",
+      "start": 5.68,
+      "end": 6.06
+    },
+    {
+      "word": "scaling",
+      "start": 6.06,
+      "end": 6.46
+    },
+    {
+      "word": "traffic",
+      "start": 6.46,
+      "end": 6.98
+    },
+    {
+      "word": "requires",
+      "start": 6.98,
+      "end": 7.54
+    },
+    {
+      "word": "hiring",
+      "start": 7.54,
+      "end": 8.0
+    },
+    {
+      "word": "a",
+      "start": 8.0,
+      "end": 8.28
+    },
+    {
+      "word": "costly",
+      "start": 8.28,
+      "end": 8.62
+    },
+    {
+      "word": "content",
+      "start": 8.62,
+      "end": 9.02
+    },
+    {
+      "word": "agency",
+      "start": 9.02,
+      "end": 9.56
+    },
+    {
+      "word": "to",
+      "start": 9.56,
+      "end": 10.0
+    },
+    {
+      "word": "write",
+      "start": 10.0,
+      "end": 10.34
+    },
+    {
+      "word": "articles",
+      "start": 10.34,
+      "end": 10.7
+    },
+    {
+      "word": "manually.",
+      "start": 10.7,
+      "end": 11.46
+    },
+    {
+      "word": "Unicorn",
+      "start": 12.14,
+      "end": 12.26
+    },
+    {
+      "word": "scale",
+      "start": 12.26,
+      "end": 12.96
+    },
+    {
+      "word": "by",
+      "start": 12.96,
+      "end": 13.26
+    },
+    {
+      "word": "deploying",
+      "start": 13.26,
+      "end": 13.72
+    },
+    {
+      "word": "programmatic",
+      "start": 13.72,
+      "end": 14.46
+    },
+    {
+      "word": "page",
+      "start": 14.46,
+      "end": 14.9
+    },
+    {
+      "word": "architectures",
+      "start": 14.9,
+      "end": 15.48
+    },
+    {
+      "word": "that",
+      "start": 15.48,
+      "end": 16.14
+    },
+    {
+      "word": "dynamically",
+      "start": 16.14,
+      "end": 16.8
+    },
+    {
+      "word": "index",
+      "start": 16.8,
+      "end": 17.16
+    },
+    {
+      "word": "thousands",
+      "start": 17.16,
+      "end": 17.78
+    },
+    {
+      "word": "of",
+      "start": 17.78,
+      "end": 18.04
+    },
+    {
+      "word": "high",
+      "start": 18.04,
+      "end": 18.28
+    },
+    {
+      "word": "-intensity",
+      "start": 18.28,
+      "end": 18.54
+    },
+    {
+      "word": "search",
+      "start": 18.54,
+      "end": 18.94
+    },
+    {
+      "word": "queries.",
+      "start": 18.94,
+      "end": 19.38
+    },
+    {
+      "word": "Link",
+      "start": 19.76,
+      "end": 19.98
+    },
+    {
+      "word": "your",
+      "start": 19.98,
+      "end": 20.24
+    },
+    {
+      "word": "product",
+      "start": 20.24,
+      "end": 20.52
+    },
+    {
+      "word": "integration",
+      "start": 20.52,
+      "end": 21.12
+    },
+    {
+      "word": "database",
+      "start": 21.12,
+      "end": 21.58
+    },
+    {
+      "word": "to",
+      "start": 21.58,
+      "end": 21.96
+    },
+    {
+      "word": "Webflow",
+      "start": 21.96,
+      "end": 22.46
+    },
+    {
+      "word": "CMS",
+      "start": 22.46,
+      "end": 23.02
+    },
+    {
+      "word": "using",
+      "start": 23.02,
+      "end": 23.48
+    },
+    {
+      "word": "Make,",
+      "start": 23.48,
+      "end": 23.88
+    },
+    {
+      "word": "publishing",
+      "start": 24.62,
+      "end": 24.62
+    },
+    {
+      "word": "dynamic",
+      "start": 24.62,
+      "end": 25.24
+    },
+    {
+      "word": "landing",
+      "start": 25.24,
+      "end": 25.68
+    },
+    {
+      "word": "pages",
+      "start": 25.68,
+      "end": 26.1
+    },
+    {
+      "word": "for",
+      "start": 26.1,
+      "end": 26.5
+    },
+    {
+      "word": "every",
+      "start": 26.5,
+      "end": 26.78
+    },
+    {
+      "word": "integration.",
+      "start": 26.78,
+      "end": 27.34
+    },
+    {
+      "word": "You",
+      "start": 27.34,
+      "end": 28.04
+    },
+    {
+      "word": "build",
+      "start": 28.04,
+      "end": 28.36
+    },
+    {
+      "word": "compounding",
+      "start": 28.36,
+      "end": 29.02
+    },
+    {
+      "word": "organic",
+      "start": 29.02,
+      "end": 29.58
+    },
+    {
+      "word": "search",
+      "start": 29.58,
+      "end": 30.06
+    },
+    {
+      "word": "distribution",
+      "start": 30.06,
+      "end": 30.58
+    },
+    {
+      "word": "on",
+      "start": 30.58,
+      "end": 31.02
+    },
+    {
+      "word": "autopilot.",
+      "start": 31.02,
+      "end": 31.62
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The organic acquisition engine used by Zapier, Canva, and Wise.",
+      "line2": "PROGRAMMATIC SEO PAGES",
+      "tag": "\ud83d\uded1 Automated SEO programmatic page generator for startup growth",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SEO programmatic page generator for startup growth",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

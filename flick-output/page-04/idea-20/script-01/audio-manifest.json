@@ -1,0 +1,421 @@
+{
+  "page": "page-04",
+  "idea": "Greenshot: lightweight screenshot utility with instant annotation tools",
+  "text": "The simplest screenshot tool for creating step-by-step tutorial guides. Onboarding new team members with long blocks of text creates confusion and constant follow-up questions. Standard screenshot tools lack dedicated tutorial annotations, forcing you into clumsy graphics programs for simple callouts. Greenshot captures your screen instantly, auto-increments numbered step badges, and highlights critical UI elements with one click. You build crystal-clear standard operating procedures in sixty seconds.",
+  "duration": 30.671,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "simplest",
+      "start": 0.22,
+      "end": 0.6
+    },
+    {
+      "word": "screenshot",
+      "start": 0.6,
+      "end": 1.06
+    },
+    {
+      "word": "tool",
+      "start": 1.06,
+      "end": 1.5
+    },
+    {
+      "word": "for",
+      "start": 1.5,
+      "end": 1.72
+    },
+    {
+      "word": "creating",
+      "start": 1.72,
+      "end": 2.2
+    },
+    {
+      "word": "step",
+      "start": 2.2,
+      "end": 2.44
+    },
+    {
+      "word": "-by",
+      "start": 2.44,
+      "end": 2.58
+    },
+    {
+      "word": "-step",
+      "start": 2.58,
+      "end": 2.88
+    },
+    {
+      "word": "tutorial",
+      "start": 2.88,
+      "end": 3.34
+    },
+    {
+      "word": "guides.",
+      "start": 3.34,
+      "end": 3.94
+    },
+    {
+      "word": "On",
+      "start": 4.62,
+      "end": 4.66
+    },
+    {
+      "word": "-boarding",
+      "start": 4.66,
+      "end": 4.84
+    },
+    {
+      "word": "new",
+      "start": 4.84,
+      "end": 5.22
+    },
+    {
+      "word": "team",
+      "start": 5.22,
+      "end": 5.44
+    },
+    {
+      "word": "members",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "word": "with",
+      "start": 5.76,
+      "end": 6.06
+    },
+    {
+      "word": "long",
+      "start": 6.06,
+      "end": 6.4
+    },
+    {
+      "word": "blocks",
+      "start": 6.4,
+      "end": 6.68
+    },
+    {
+      "word": "of",
+      "start": 6.68,
+      "end": 6.92
+    },
+    {
+      "word": "text",
+      "start": 6.92,
+      "end": 7.3
+    },
+    {
+      "word": "creates",
+      "start": 7.3,
+      "end": 7.84
+    },
+    {
+      "word": "confusion",
+      "start": 7.84,
+      "end": 8.38
+    },
+    {
+      "word": "and",
+      "start": 8.38,
+      "end": 9.1
+    },
+    {
+      "word": "constant",
+      "start": 9.1,
+      "end": 9.4
+    },
+    {
+      "word": "follow",
+      "start": 9.4,
+      "end": 9.76
+    },
+    {
+      "word": "-up",
+      "start": 9.76,
+      "end": 9.96
+    },
+    {
+      "word": "questions.",
+      "start": 9.96,
+      "end": 10.52
+    },
+    {
+      "word": "Standard",
+      "start": 11.5,
+      "end": 11.5
+    },
+    {
+      "word": "screenshot",
+      "start": 11.5,
+      "end": 12.06
+    },
+    {
+      "word": "tools",
+      "start": 12.06,
+      "end": 12.7
+    },
+    {
+      "word": "lack",
+      "start": 12.7,
+      "end": 13.06
+    },
+    {
+      "word": "dedicated",
+      "start": 13.06,
+      "end": 13.54
+    },
+    {
+      "word": "tutorial",
+      "start": 13.54,
+      "end": 14.14
+    },
+    {
+      "word": "annotations,",
+      "start": 14.14,
+      "end": 14.82
+    },
+    {
+      "word": "forcing",
+      "start": 15.42,
+      "end": 15.5
+    },
+    {
+      "word": "you",
+      "start": 15.5,
+      "end": 15.8
+    },
+    {
+      "word": "into",
+      "start": 15.8,
+      "end": 16.04
+    },
+    {
+      "word": "clumsy",
+      "start": 16.04,
+      "end": 16.34
+    },
+    {
+      "word": "graphics",
+      "start": 16.34,
+      "end": 16.84
+    },
+    {
+      "word": "programs",
+      "start": 16.84,
+      "end": 17.32
+    },
+    {
+      "word": "for",
+      "start": 17.32,
+      "end": 17.7
+    },
+    {
+      "word": "simple",
+      "start": 17.7,
+      "end": 18.0
+    },
+    {
+      "word": "callouts.",
+      "start": 18.0,
+      "end": 18.5
+    },
+    {
+      "word": "Greenshot",
+      "start": 19.06,
+      "end": 19.42
+    },
+    {
+      "word": "captures",
+      "start": 19.42,
+      "end": 19.78
+    },
+    {
+      "word": "your",
+      "start": 19.78,
+      "end": 20.08
+    },
+    {
+      "word": "screen",
+      "start": 20.08,
+      "end": 20.4
+    },
+    {
+      "word": "instantly,",
+      "start": 20.4,
+      "end": 21.0
+    },
+    {
+      "word": "auto",
+      "start": 21.52,
+      "end": 21.6
+    },
+    {
+      "word": "-increments",
+      "start": 21.6,
+      "end": 22.0
+    },
+    {
+      "word": "numbered",
+      "start": 22.0,
+      "end": 22.44
+    },
+    {
+      "word": "step",
+      "start": 22.44,
+      "end": 22.74
+    },
+    {
+      "word": "badges,",
+      "start": 22.74,
+      "end": 23.12
+    },
+    {
+      "word": "and",
+      "start": 23.5,
+      "end": 23.72
+    },
+    {
+      "word": "highlights",
+      "start": 23.72,
+      "end": 24.08
+    },
+    {
+      "word": "critical",
+      "start": 24.08,
+      "end": 24.64
+    },
+    {
+      "word": "UI",
+      "start": 24.64,
+      "end": 25.14
+    },
+    {
+      "word": "elements",
+      "start": 25.14,
+      "end": 25.48
+    },
+    {
+      "word": "with",
+      "start": 25.48,
+      "end": 25.84
+    },
+    {
+      "word": "one",
+      "start": 25.84,
+      "end": 26.12
+    },
+    {
+      "word": "click.",
+      "start": 26.12,
+      "end": 26.42
+    },
+    {
+      "word": "You",
+      "start": 26.42,
+      "end": 27.14
+    },
+    {
+      "word": "build",
+      "start": 27.14,
+      "end": 27.4
+    },
+    {
+      "word": "crystal",
+      "start": 27.4,
+      "end": 27.76
+    },
+    {
+      "word": "clear",
+      "start": 27.76,
+      "end": 28.12
+    },
+    {
+      "word": "standard",
+      "start": 28.12,
+      "end": 28.5
+    },
+    {
+      "word": "operating",
+      "start": 28.5,
+      "end": 29.0
+    },
+    {
+      "word": "procedures",
+      "start": 29.0,
+      "end": 29.46
+    },
+    {
+      "word": "in",
+      "start": 29.46,
+      "end": 29.86
+    },
+    {
+      "word": "60",
+      "start": 29.86,
+      "end": 30.22
+    },
+    {
+      "word": "seconds.",
+      "start": 30.22,
+      "end": 30.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The simplest screenshot tool for creating step-by-step tutorial guides.",
+      "line2": "FAST SCREENSHOT ANNOTATIONS",
+      "tag": "\ud83d\uded1 Greenshot",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Greenshot",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Greenshot",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Greenshot"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Greenshot",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

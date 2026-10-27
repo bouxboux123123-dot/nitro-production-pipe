@@ -1,0 +1,386 @@
+{
+  "page": "page-08",
+  "idea": "How to summarize long YouTube videos in 10 seconds without watching them",
+  "text": "Get the core insights from any video lecture immediately without watching the entire recording. Listening through ninety minutes of casual conversation just to find one answer destroys your schedule. Manual scrubbing creates unnecessary friction and keeps you trapped in passive listening mode. Open YouTube transcript, paste the text into Claude, and prompt it for five bullet points. You extract key insights in thirty seconds flat.",
+  "duration": 23.381,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Get",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "the",
+      "start": 0.18,
+      "end": 0.38
+    },
+    {
+      "word": "core",
+      "start": 0.38,
+      "end": 0.56
+    },
+    {
+      "word": "insights",
+      "start": 0.56,
+      "end": 0.94
+    },
+    {
+      "word": "from",
+      "start": 0.94,
+      "end": 1.22
+    },
+    {
+      "word": "any",
+      "start": 1.22,
+      "end": 1.42
+    },
+    {
+      "word": "video",
+      "start": 1.42,
+      "end": 1.7
+    },
+    {
+      "word": "lecture",
+      "start": 1.7,
+      "end": 2.06
+    },
+    {
+      "word": "immediately",
+      "start": 2.06,
+      "end": 2.6
+    },
+    {
+      "word": "without",
+      "start": 2.6,
+      "end": 2.98
+    },
+    {
+      "word": "watching",
+      "start": 2.98,
+      "end": 3.34
+    },
+    {
+      "word": "the",
+      "start": 3.34,
+      "end": 3.9
+    },
+    {
+      "word": "entire",
+      "start": 3.9,
+      "end": 3.9
+    },
+    {
+      "word": "recording.",
+      "start": 3.9,
+      "end": 4.52
+    },
+    {
+      "word": "Listening",
+      "start": 5.0,
+      "end": 5.22
+    },
+    {
+      "word": "through",
+      "start": 5.22,
+      "end": 5.44
+    },
+    {
+      "word": "90",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "word": "minutes",
+      "start": 5.76,
+      "end": 5.98
+    },
+    {
+      "word": "of",
+      "start": 5.98,
+      "end": 6.22
+    },
+    {
+      "word": "casual",
+      "start": 6.22,
+      "end": 6.54
+    },
+    {
+      "word": "conversation",
+      "start": 6.54,
+      "end": 7.16
+    },
+    {
+      "word": "just",
+      "start": 7.16,
+      "end": 7.68
+    },
+    {
+      "word": "to",
+      "start": 7.68,
+      "end": 7.82
+    },
+    {
+      "word": "find",
+      "start": 7.82,
+      "end": 8.04
+    },
+    {
+      "word": "one",
+      "start": 8.04,
+      "end": 8.36
+    },
+    {
+      "word": "answer",
+      "start": 8.36,
+      "end": 8.6
+    },
+    {
+      "word": "destroys",
+      "start": 8.6,
+      "end": 9.04
+    },
+    {
+      "word": "your",
+      "start": 9.04,
+      "end": 9.34
+    },
+    {
+      "word": "schedule.",
+      "start": 9.34,
+      "end": 9.8
+    },
+    {
+      "word": "Manual",
+      "start": 10.44,
+      "end": 10.6
+    },
+    {
+      "word": "scrubbing",
+      "start": 10.6,
+      "end": 11.1
+    },
+    {
+      "word": "creates",
+      "start": 11.1,
+      "end": 11.48
+    },
+    {
+      "word": "unnecessary",
+      "start": 11.48,
+      "end": 12.0
+    },
+    {
+      "word": "friction",
+      "start": 12.0,
+      "end": 12.52
+    },
+    {
+      "word": "and",
+      "start": 12.52,
+      "end": 12.86
+    },
+    {
+      "word": "keeps",
+      "start": 12.86,
+      "end": 13.02
+    },
+    {
+      "word": "you",
+      "start": 13.02,
+      "end": 13.28
+    },
+    {
+      "word": "trapped",
+      "start": 13.28,
+      "end": 13.44
+    },
+    {
+      "word": "in",
+      "start": 13.44,
+      "end": 13.76
+    },
+    {
+      "word": "passive",
+      "start": 13.76,
+      "end": 13.98
+    },
+    {
+      "word": "listening",
+      "start": 13.98,
+      "end": 14.34
+    },
+    {
+      "word": "mode.",
+      "start": 14.34,
+      "end": 14.76
+    },
+    {
+      "word": "Open",
+      "start": 15.3,
+      "end": 15.52
+    },
+    {
+      "word": "YouTube",
+      "start": 15.52,
+      "end": 15.92
+    },
+    {
+      "word": "transcript,",
+      "start": 15.92,
+      "end": 16.5
+    },
+    {
+      "word": "paste",
+      "start": 17.04,
+      "end": 17.04
+    },
+    {
+      "word": "the",
+      "start": 17.04,
+      "end": 17.26
+    },
+    {
+      "word": "text",
+      "start": 17.26,
+      "end": 17.5
+    },
+    {
+      "word": "into",
+      "start": 17.5,
+      "end": 17.82
+    },
+    {
+      "word": "Claude,",
+      "start": 17.82,
+      "end": 18.16
+    },
+    {
+      "word": "and",
+      "start": 18.54,
+      "end": 18.66
+    },
+    {
+      "word": "prompt",
+      "start": 18.66,
+      "end": 18.82
+    },
+    {
+      "word": "it",
+      "start": 18.82,
+      "end": 19.0
+    },
+    {
+      "word": "for",
+      "start": 19.0,
+      "end": 19.2
+    },
+    {
+      "word": "five",
+      "start": 19.2,
+      "end": 19.56
+    },
+    {
+      "word": "bullet",
+      "start": 19.56,
+      "end": 19.78
+    },
+    {
+      "word": "points.",
+      "start": 19.78,
+      "end": 20.24
+    },
+    {
+      "word": "You",
+      "start": 20.78,
+      "end": 21.0
+    },
+    {
+      "word": "extract",
+      "start": 21.0,
+      "end": 21.26
+    },
+    {
+      "word": "key",
+      "start": 21.26,
+      "end": 21.68
+    },
+    {
+      "word": "insights",
+      "start": 21.68,
+      "end": 22.04
+    },
+    {
+      "word": "in",
+      "start": 22.04,
+      "end": 22.38
+    },
+    {
+      "word": "30",
+      "start": 22.38,
+      "end": 22.7
+    },
+    {
+      "word": "seconds",
+      "start": 22.7,
+      "end": 23.06
+    },
+    {
+      "word": "flat.",
+      "start": 23.06,
+      "end": 23.32
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Get the core insights from any podcast or video lecture immediately.",
+      "line2": "SUMMARIZE YOUTUBE IN 10-SECONDS",
+      "tag": "\ud83d\uded1 How to summarize long YouTube videos in 10 seconds without watching them",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to summarize long YouTube videos in 10 seconds without watching them",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to summarize long YouTube videos in 10 seconds without watching them",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

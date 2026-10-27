@@ -1,0 +1,416 @@
+{
+  "page": "page-04",
+  "idea": "Cobalt: clean, ad-free video and audio downloader with no paywalls",
+  "text": "Stop using shady online converters that bombard your screen with spam. Grabbing a background song or video snippet shouldn't force you to dodge suspicious popup ads and fake download buttons. Shady converter portals throttle transfer speeds and frequently drop browser hijackers directly into your downloads folder. Instead, use Cobalt to extract raw audio and video without trackers, ads, or paywalls. You pull clean media files in seconds without security risks.",
+  "duration": 28.794,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "using",
+      "start": 0.42,
+      "end": 0.82
+    },
+    {
+      "word": "shady",
+      "start": 0.82,
+      "end": 1.26
+    },
+    {
+      "word": "online",
+      "start": 1.26,
+      "end": 1.74
+    },
+    {
+      "word": "converters",
+      "start": 1.74,
+      "end": 2.28
+    },
+    {
+      "word": "that",
+      "start": 2.28,
+      "end": 2.6
+    },
+    {
+      "word": "bombard",
+      "start": 2.6,
+      "end": 2.84
+    },
+    {
+      "word": "your",
+      "start": 2.84,
+      "end": 3.18
+    },
+    {
+      "word": "screen",
+      "start": 3.18,
+      "end": 3.46
+    },
+    {
+      "word": "with",
+      "start": 3.46,
+      "end": 3.76
+    },
+    {
+      "word": "spam.",
+      "start": 3.76,
+      "end": 4.3
+    },
+    {
+      "word": "Grabbing",
+      "start": 4.8,
+      "end": 5.12
+    },
+    {
+      "word": "a",
+      "start": 5.12,
+      "end": 5.36
+    },
+    {
+      "word": "background",
+      "start": 5.36,
+      "end": 5.64
+    },
+    {
+      "word": "song",
+      "start": 5.64,
+      "end": 6.1
+    },
+    {
+      "word": "or",
+      "start": 6.1,
+      "end": 6.34
+    },
+    {
+      "word": "video",
+      "start": 6.34,
+      "end": 6.6
+    },
+    {
+      "word": "snippet",
+      "start": 6.6,
+      "end": 6.98
+    },
+    {
+      "word": "shouldn't",
+      "start": 6.98,
+      "end": 7.46
+    },
+    {
+      "word": "force",
+      "start": 7.46,
+      "end": 7.72
+    },
+    {
+      "word": "you",
+      "start": 7.72,
+      "end": 7.94
+    },
+    {
+      "word": "to",
+      "start": 7.94,
+      "end": 8.08
+    },
+    {
+      "word": "dodge",
+      "start": 8.08,
+      "end": 8.36
+    },
+    {
+      "word": "suspicious",
+      "start": 8.36,
+      "end": 8.96
+    },
+    {
+      "word": "pop",
+      "start": 8.96,
+      "end": 9.18
+    },
+    {
+      "word": "-up",
+      "start": 9.18,
+      "end": 9.4
+    },
+    {
+      "word": "ads",
+      "start": 9.4,
+      "end": 9.7
+    },
+    {
+      "word": "and",
+      "start": 9.7,
+      "end": 10.12
+    },
+    {
+      "word": "fake",
+      "start": 10.12,
+      "end": 10.38
+    },
+    {
+      "word": "download",
+      "start": 10.38,
+      "end": 10.76
+    },
+    {
+      "word": "buttons.",
+      "start": 10.76,
+      "end": 11.34
+    },
+    {
+      "word": "Shady",
+      "start": 11.9,
+      "end": 12.08
+    },
+    {
+      "word": "converter",
+      "start": 12.08,
+      "end": 12.48
+    },
+    {
+      "word": "portals",
+      "start": 12.48,
+      "end": 12.94
+    },
+    {
+      "word": "throttle",
+      "start": 12.94,
+      "end": 13.34
+    },
+    {
+      "word": "transfer",
+      "start": 13.34,
+      "end": 13.76
+    },
+    {
+      "word": "speeds",
+      "start": 13.76,
+      "end": 14.32
+    },
+    {
+      "word": "and",
+      "start": 14.32,
+      "end": 14.82
+    },
+    {
+      "word": "frequently",
+      "start": 14.82,
+      "end": 15.16
+    },
+    {
+      "word": "drop",
+      "start": 15.16,
+      "end": 15.64
+    },
+    {
+      "word": "browser",
+      "start": 15.64,
+      "end": 16.04
+    },
+    {
+      "word": "hijackers",
+      "start": 16.04,
+      "end": 16.62
+    },
+    {
+      "word": "directly",
+      "start": 16.62,
+      "end": 17.12
+    },
+    {
+      "word": "into",
+      "start": 17.12,
+      "end": 17.36
+    },
+    {
+      "word": "your",
+      "start": 17.36,
+      "end": 17.58
+    },
+    {
+      "word": "downloads",
+      "start": 17.58,
+      "end": 17.88
+    },
+    {
+      "word": "folder.",
+      "start": 17.88,
+      "end": 18.48
+    },
+    {
+      "word": "Instead,",
+      "start": 19.2,
+      "end": 19.52
+    },
+    {
+      "word": "use",
+      "start": 19.96,
+      "end": 20.18
+    },
+    {
+      "word": "Cobalt",
+      "start": 20.18,
+      "end": 20.54
+    },
+    {
+      "word": "to",
+      "start": 20.54,
+      "end": 20.84
+    },
+    {
+      "word": "extract",
+      "start": 20.84,
+      "end": 21.18
+    },
+    {
+      "word": "raw",
+      "start": 21.18,
+      "end": 21.58
+    },
+    {
+      "word": "audio",
+      "start": 21.58,
+      "end": 21.9
+    },
+    {
+      "word": "and",
+      "start": 21.9,
+      "end": 22.14
+    },
+    {
+      "word": "video",
+      "start": 22.14,
+      "end": 22.42
+    },
+    {
+      "word": "without",
+      "start": 22.42,
+      "end": 22.78
+    },
+    {
+      "word": "trackers,",
+      "start": 22.78,
+      "end": 23.58
+    },
+    {
+      "word": "ads,",
+      "start": 24.0,
+      "end": 24.0
+    },
+    {
+      "word": "or",
+      "start": 24.12,
+      "end": 24.34
+    },
+    {
+      "word": "paywalls.",
+      "start": 24.34,
+      "end": 24.9
+    },
+    {
+      "word": "You",
+      "start": 25.44,
+      "end": 25.58
+    },
+    {
+      "word": "pull",
+      "start": 25.58,
+      "end": 25.8
+    },
+    {
+      "word": "clean",
+      "start": 25.8,
+      "end": 26.14
+    },
+    {
+      "word": "media",
+      "start": 26.14,
+      "end": 26.42
+    },
+    {
+      "word": "files",
+      "start": 26.42,
+      "end": 26.88
+    },
+    {
+      "word": "in",
+      "start": 26.88,
+      "end": 27.16
+    },
+    {
+      "word": "seconds",
+      "start": 27.16,
+      "end": 27.46
+    },
+    {
+      "word": "without",
+      "start": 27.46,
+      "end": 27.9
+    },
+    {
+      "word": "security",
+      "start": 27.9,
+      "end": 28.34
+    },
+    {
+      "word": "risks.",
+      "start": 28.34,
+      "end": 28.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop using shady online converters that bombard you with spam.",
+      "line2": "AD-FREE MEDIA DOWNLOADER",
+      "tag": "\ud83d\uded1 Cobalt",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Cobalt",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Cobalt",
+        "subtitle": "Cobalt"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Cobalt"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Cobalt"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Cobalt",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

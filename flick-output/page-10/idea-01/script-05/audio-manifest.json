@@ -1,0 +1,396 @@
+{
+  "page": "page-10",
+  "idea": "New Claude Sonnet 4.6 feature update and productivity benchmarks",
+  "text": "What the new Claude release actually means for your daily work. Professionals lose hours every day turning messy research notes into structured briefs and polished reports. Typical chatbots drop critical context and distort numbers when processing lengthy documents and complex spreadsheets. Anthropic\u2019s upgraded architecture maintains precision across massive context windows, converting raw files into publication-ready assets instantly. This eliminates tedious document cleanup from your schedule.",
+  "duration": 29.989,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "with",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "a",
+      "start": 0.2,
+      "end": 0.3
+    },
+    {
+      "word": "new",
+      "start": 0.3,
+      "end": 0.52
+    },
+    {
+      "word": "clawed",
+      "start": 0.52,
+      "end": 0.88
+    },
+    {
+      "word": "release",
+      "start": 0.88,
+      "end": 1.22
+    },
+    {
+      "word": "actually",
+      "start": 1.22,
+      "end": 1.7
+    },
+    {
+      "word": "means",
+      "start": 1.7,
+      "end": 2.06
+    },
+    {
+      "word": "for",
+      "start": 2.06,
+      "end": 2.24
+    },
+    {
+      "word": "your",
+      "start": 2.24,
+      "end": 2.44
+    },
+    {
+      "word": "daily",
+      "start": 2.44,
+      "end": 2.68
+    },
+    {
+      "word": "work.",
+      "start": 2.68,
+      "end": 3.34
+    },
+    {
+      "word": "Professionals",
+      "start": 3.88,
+      "end": 4.1
+    },
+    {
+      "word": "lose",
+      "start": 4.1,
+      "end": 4.36
+    },
+    {
+      "word": "hours",
+      "start": 4.36,
+      "end": 4.76
+    },
+    {
+      "word": "every",
+      "start": 4.76,
+      "end": 5.12
+    },
+    {
+      "word": "day",
+      "start": 5.12,
+      "end": 5.42
+    },
+    {
+      "word": "turning",
+      "start": 5.42,
+      "end": 5.76
+    },
+    {
+      "word": "messy",
+      "start": 5.76,
+      "end": 6.06
+    },
+    {
+      "word": "research",
+      "start": 6.06,
+      "end": 6.5
+    },
+    {
+      "word": "notes",
+      "start": 6.5,
+      "end": 6.82
+    },
+    {
+      "word": "into",
+      "start": 6.82,
+      "end": 7.14
+    },
+    {
+      "word": "structured",
+      "start": 7.14,
+      "end": 7.54
+    },
+    {
+      "word": "briefs",
+      "start": 7.54,
+      "end": 7.96
+    },
+    {
+      "word": "and",
+      "start": 7.96,
+      "end": 8.48
+    },
+    {
+      "word": "polished",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "word": "reports.",
+      "start": 8.8,
+      "end": 9.52
+    },
+    {
+      "word": "Typical",
+      "start": 10.26,
+      "end": 10.28
+    },
+    {
+      "word": "chatbots",
+      "start": 10.28,
+      "end": 10.94
+    },
+    {
+      "word": "drop",
+      "start": 10.94,
+      "end": 11.42
+    },
+    {
+      "word": "critical",
+      "start": 11.42,
+      "end": 11.84
+    },
+    {
+      "word": "context",
+      "start": 11.84,
+      "end": 12.4
+    },
+    {
+      "word": "and",
+      "start": 12.4,
+      "end": 12.8
+    },
+    {
+      "word": "distort",
+      "start": 12.8,
+      "end": 13.0
+    },
+    {
+      "word": "numbers",
+      "start": 13.0,
+      "end": 13.48
+    },
+    {
+      "word": "when",
+      "start": 13.48,
+      "end": 13.94
+    },
+    {
+      "word": "processing",
+      "start": 13.94,
+      "end": 14.44
+    },
+    {
+      "word": "lengthy",
+      "start": 14.44,
+      "end": 14.8
+    },
+    {
+      "word": "documents",
+      "start": 14.8,
+      "end": 15.32
+    },
+    {
+      "word": "and",
+      "start": 15.32,
+      "end": 15.8
+    },
+    {
+      "word": "complex",
+      "start": 15.8,
+      "end": 16.1
+    },
+    {
+      "word": "spreadsheets.",
+      "start": 16.1,
+      "end": 16.7
+    },
+    {
+      "word": "And",
+      "start": 17.18,
+      "end": 17.24
+    },
+    {
+      "word": "Thropics",
+      "start": 17.24,
+      "end": 17.64
+    },
+    {
+      "word": "upgraded",
+      "start": 17.64,
+      "end": 18.24
+    },
+    {
+      "word": "architecture",
+      "start": 18.24,
+      "end": 18.96
+    },
+    {
+      "word": "maintains",
+      "start": 18.96,
+      "end": 19.66
+    },
+    {
+      "word": "precision",
+      "start": 19.66,
+      "end": 20.2
+    },
+    {
+      "word": "across",
+      "start": 20.2,
+      "end": 20.64
+    },
+    {
+      "word": "massive",
+      "start": 20.64,
+      "end": 21.1
+    },
+    {
+      "word": "context",
+      "start": 21.1,
+      "end": 21.64
+    },
+    {
+      "word": "windows,",
+      "start": 21.64,
+      "end": 22.26
+    },
+    {
+      "word": "converting",
+      "start": 22.78,
+      "end": 23.0
+    },
+    {
+      "word": "raw",
+      "start": 23.0,
+      "end": 23.44
+    },
+    {
+      "word": "files",
+      "start": 23.44,
+      "end": 23.88
+    },
+    {
+      "word": "into",
+      "start": 23.88,
+      "end": 24.14
+    },
+    {
+      "word": "publication",
+      "start": 24.14,
+      "end": 24.8
+    },
+    {
+      "word": "-ready",
+      "start": 24.8,
+      "end": 25.14
+    },
+    {
+      "word": "assets",
+      "start": 25.14,
+      "end": 25.6
+    },
+    {
+      "word": "instantly.",
+      "start": 25.6,
+      "end": 26.34
+    },
+    {
+      "word": "This",
+      "start": 26.34,
+      "end": 27.18
+    },
+    {
+      "word": "eliminates",
+      "start": 27.18,
+      "end": 27.68
+    },
+    {
+      "word": "tedious",
+      "start": 27.68,
+      "end": 28.28
+    },
+    {
+      "word": "document",
+      "start": 28.28,
+      "end": 28.82
+    },
+    {
+      "word": "cleanup",
+      "start": 28.82,
+      "end": 29.08
+    },
+    {
+      "word": "from",
+      "start": 29.08,
+      "end": 29.38
+    },
+    {
+      "word": "your",
+      "start": 29.38,
+      "end": 29.58
+    },
+    {
+      "word": "schedule.",
+      "start": 29.58,
+      "end": 29.96
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "What the new Claude release actually means for your daily work.",
+      "line2": "CLAUDE SONNET 4.6 BENCHMARKS",
+      "tag": "\ud83d\uded1 New Claude Sonnet 4.6 feature update and productivity benchmarks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "LLM Generation Velocity: New Claude Sonnet 4.6 feature update and productivity benchmarks",
+      "primitive": "TokensPerSecondTachometer",
+      "props": {
+        "title": "LLM Generation Velocity: New Claude Sonnet 4.6 feature update and productivity benchmarks",
+        "subtitle": "New Claude Sonnet 4.6 feature update and productivity benchmarks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hallucination & Grounding Check",
+      "primitive": "HallucinationConfidenceGauge",
+      "props": {
+        "title": "Hallucination & Grounding Check",
+        "subtitle": "New Claude Sonnet 4.6 feature update and productivity benchmarks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "1M Token Needle In Haystack",
+      "primitive": "NeedleInHaystackMatrix",
+      "props": {
+        "title": "1M Token Needle In Haystack",
+        "subtitle": "New Claude Sonnet 4.6 feature update and productivity benchmarks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Cost-Per-Million Token Deflation",
+      "primitive": "CostPerMillionTokensBar",
+      "props": {
+        "title": "Cost-Per-Million Token Deflation",
+        "subtitle": "New Claude Sonnet 4.6 feature update and productivity benchmarks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

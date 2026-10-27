@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to setting up your first free Notion workspace in 5 minutes",
+  "text": "Stop over-complicating your productivity apps and use this three-section layout instead. Spending hours tweaking database colors and relations gives the illusion of productivity while zero actual work gets completed. Complicated multi-tier dashboards create friction every single time you need to jot down a quick task. Build a basic Notion workspace using three simple toggles labeled Inbox, Projects, and Archive. This streamlined system captures notes instantly and keeps priorities clear.",
+  "duration": 30.223,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "overcomplicating",
+      "start": 0.4,
+      "end": 1.2
+    },
+    {
+      "word": "your",
+      "start": 1.2,
+      "end": 1.54
+    },
+    {
+      "word": "productivity",
+      "start": 1.54,
+      "end": 1.94
+    },
+    {
+      "word": "apps",
+      "start": 1.94,
+      "end": 2.46
+    },
+    {
+      "word": "and",
+      "start": 2.46,
+      "end": 2.82
+    },
+    {
+      "word": "use",
+      "start": 2.82,
+      "end": 3.06
+    },
+    {
+      "word": "this",
+      "start": 3.06,
+      "end": 3.36
+    },
+    {
+      "word": "three",
+      "start": 3.36,
+      "end": 3.6
+    },
+    {
+      "word": "-section",
+      "start": 3.6,
+      "end": 3.9
+    },
+    {
+      "word": "layout",
+      "start": 3.9,
+      "end": 4.34
+    },
+    {
+      "word": "instead.",
+      "start": 4.34,
+      "end": 5.06
+    },
+    {
+      "word": "Spending",
+      "start": 5.84,
+      "end": 5.84
+    },
+    {
+      "word": "hours",
+      "start": 5.84,
+      "end": 6.38
+    },
+    {
+      "word": "tweaking",
+      "start": 6.38,
+      "end": 6.8
+    },
+    {
+      "word": "database",
+      "start": 6.8,
+      "end": 7.28
+    },
+    {
+      "word": "colors",
+      "start": 7.28,
+      "end": 7.8
+    },
+    {
+      "word": "and",
+      "start": 7.8,
+      "end": 8.04
+    },
+    {
+      "word": "relations",
+      "start": 8.04,
+      "end": 8.64
+    },
+    {
+      "word": "gives",
+      "start": 8.64,
+      "end": 9.12
+    },
+    {
+      "word": "the",
+      "start": 9.12,
+      "end": 9.38
+    },
+    {
+      "word": "illusion",
+      "start": 9.38,
+      "end": 9.66
+    },
+    {
+      "word": "of",
+      "start": 9.66,
+      "end": 9.96
+    },
+    {
+      "word": "productivity",
+      "start": 9.96,
+      "end": 10.52
+    },
+    {
+      "word": "while",
+      "start": 10.52,
+      "end": 11.12
+    },
+    {
+      "word": "zero",
+      "start": 11.12,
+      "end": 11.6
+    },
+    {
+      "word": "actual",
+      "start": 11.6,
+      "end": 12.02
+    },
+    {
+      "word": "work",
+      "start": 12.02,
+      "end": 12.32
+    },
+    {
+      "word": "gets",
+      "start": 12.32,
+      "end": 12.58
+    },
+    {
+      "word": "completed.",
+      "start": 12.58,
+      "end": 13.12
+    },
+    {
+      "word": "Complicated",
+      "start": 13.68,
+      "end": 14.12
+    },
+    {
+      "word": "multi",
+      "start": 14.12,
+      "end": 14.52
+    },
+    {
+      "word": "-tier",
+      "start": 14.52,
+      "end": 14.8
+    },
+    {
+      "word": "dashboards",
+      "start": 14.8,
+      "end": 15.36
+    },
+    {
+      "word": "create",
+      "start": 15.36,
+      "end": 15.82
+    },
+    {
+      "word": "friction",
+      "start": 15.82,
+      "end": 16.24
+    },
+    {
+      "word": "every",
+      "start": 16.24,
+      "end": 16.64
+    },
+    {
+      "word": "single",
+      "start": 16.64,
+      "end": 16.96
+    },
+    {
+      "word": "time",
+      "start": 16.96,
+      "end": 17.3
+    },
+    {
+      "word": "you",
+      "start": 17.3,
+      "end": 17.46
+    },
+    {
+      "word": "need",
+      "start": 17.46,
+      "end": 17.68
+    },
+    {
+      "word": "to",
+      "start": 17.68,
+      "end": 17.88
+    },
+    {
+      "word": "jot",
+      "start": 17.88,
+      "end": 18.08
+    },
+    {
+      "word": "down",
+      "start": 18.08,
+      "end": 18.32
+    },
+    {
+      "word": "a",
+      "start": 18.32,
+      "end": 18.44
+    },
+    {
+      "word": "quick",
+      "start": 18.44,
+      "end": 18.68
+    },
+    {
+      "word": "task.",
+      "start": 18.68,
+      "end": 19.1
+    },
+    {
+      "word": "Build",
+      "start": 19.78,
+      "end": 19.78
+    },
+    {
+      "word": "a",
+      "start": 19.78,
+      "end": 19.96
+    },
+    {
+      "word": "basic",
+      "start": 19.96,
+      "end": 20.3
+    },
+    {
+      "word": "notion",
+      "start": 20.3,
+      "end": 20.66
+    },
+    {
+      "word": "workspace",
+      "start": 20.66,
+      "end": 21.1
+    },
+    {
+      "word": "using",
+      "start": 21.1,
+      "end": 21.62
+    },
+    {
+      "word": "three",
+      "start": 21.62,
+      "end": 22.02
+    },
+    {
+      "word": "simple",
+      "start": 22.02,
+      "end": 22.34
+    },
+    {
+      "word": "toggles",
+      "start": 22.34,
+      "end": 22.7
+    },
+    {
+      "word": "labeled",
+      "start": 22.7,
+      "end": 23.12
+    },
+    {
+      "word": "inbox,",
+      "start": 23.12,
+      "end": 23.66
+    },
+    {
+      "word": "projects,",
+      "start": 24.1,
+      "end": 24.34
+    },
+    {
+      "word": "and",
+      "start": 24.52,
+      "end": 24.74
+    },
+    {
+      "word": "archive.",
+      "start": 24.74,
+      "end": 25.1
+    },
+    {
+      "word": "This",
+      "start": 25.68,
+      "end": 25.94
+    },
+    {
+      "word": "streamlined",
+      "start": 25.94,
+      "end": 26.34
+    },
+    {
+      "word": "system",
+      "start": 26.34,
+      "end": 26.94
+    },
+    {
+      "word": "captures",
+      "start": 26.94,
+      "end": 27.4
+    },
+    {
+      "word": "notes",
+      "start": 27.4,
+      "end": 27.78
+    },
+    {
+      "word": "instantly",
+      "start": 27.78,
+      "end": 28.34
+    },
+    {
+      "word": "and",
+      "start": 28.34,
+      "end": 28.84
+    },
+    {
+      "word": "keeps",
+      "start": 28.84,
+      "end": 29.16
+    },
+    {
+      "word": "priorities",
+      "start": 29.16,
+      "end": 29.66
+    },
+    {
+      "word": "clear.",
+      "start": 29.66,
+      "end": 30.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop over-complicating your productivity apps: use this 3-section layout.",
+      "line2": "NOTION IN 5 MINUTES",
+      "tag": "\ud83d\uded1 Beginner guide to setting up your first free Notion workspace in 5 minutes",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to setting up your first free Notion workspace in 5 minutes",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to setting up your first free Notion workspace in 5 minutes",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

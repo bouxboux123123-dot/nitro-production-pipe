@@ -1,0 +1,406 @@
+{
+  "page": "page-05",
+  "idea": "Automated customer feedback sentiment tracker with Make and AI",
+  "text": "Analyze hundreds of customer survey responses in ten seconds flat. Reading qualitative customer feedback row by row inside Google Sheets consumes entire workdays. Vital churn warnings remain hidden inside long text paragraphs until dissatisfied customers request refunds. Send Typeform responses through Make.com to OpenAI for instant sentiment categorization, logging scores directly into Airtable. You extract actionable product insights in seconds, saving you ten hours every week.",
+  "duration": 32.058,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Analyze",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "word": "hundreds",
+      "start": 0.58,
+      "end": 0.94
+    },
+    {
+      "word": "of",
+      "start": 0.94,
+      "end": 1.46
+    },
+    {
+      "word": "customer",
+      "start": 1.46,
+      "end": 1.6
+    },
+    {
+      "word": "survey",
+      "start": 1.6,
+      "end": 1.98
+    },
+    {
+      "word": "responses",
+      "start": 1.98,
+      "end": 2.48
+    },
+    {
+      "word": "in",
+      "start": 2.48,
+      "end": 2.86
+    },
+    {
+      "word": "10",
+      "start": 2.86,
+      "end": 3.18
+    },
+    {
+      "word": "seconds",
+      "start": 3.18,
+      "end": 3.56
+    },
+    {
+      "word": "flat.",
+      "start": 3.56,
+      "end": 4.16
+    },
+    {
+      "word": "Reading",
+      "start": 4.72,
+      "end": 4.72
+    },
+    {
+      "word": "qualitative",
+      "start": 4.72,
+      "end": 5.32
+    },
+    {
+      "word": "customer",
+      "start": 5.32,
+      "end": 5.9
+    },
+    {
+      "word": "feedback",
+      "start": 5.9,
+      "end": 6.34
+    },
+    {
+      "word": "row",
+      "start": 6.34,
+      "end": 6.66
+    },
+    {
+      "word": "by",
+      "start": 6.66,
+      "end": 6.94
+    },
+    {
+      "word": "row",
+      "start": 6.94,
+      "end": 7.4
+    },
+    {
+      "word": "inside",
+      "start": 7.4,
+      "end": 8.02
+    },
+    {
+      "word": "Google",
+      "start": 8.02,
+      "end": 8.46
+    },
+    {
+      "word": "Sheets",
+      "start": 8.46,
+      "end": 9.04
+    },
+    {
+      "word": "consumes",
+      "start": 9.04,
+      "end": 9.58
+    },
+    {
+      "word": "entire",
+      "start": 9.58,
+      "end": 10.18
+    },
+    {
+      "word": "workdays.",
+      "start": 10.18,
+      "end": 10.88
+    },
+    {
+      "word": "Vital",
+      "start": 11.6,
+      "end": 11.62
+    },
+    {
+      "word": "churn",
+      "start": 11.62,
+      "end": 12.12
+    },
+    {
+      "word": "warnings",
+      "start": 12.12,
+      "end": 12.42
+    },
+    {
+      "word": "remain",
+      "start": 12.42,
+      "end": 12.86
+    },
+    {
+      "word": "hidden",
+      "start": 12.86,
+      "end": 13.14
+    },
+    {
+      "word": "inside",
+      "start": 13.14,
+      "end": 13.66
+    },
+    {
+      "word": "long",
+      "start": 13.66,
+      "end": 14.04
+    },
+    {
+      "word": "-text",
+      "start": 14.04,
+      "end": 14.34
+    },
+    {
+      "word": "paragraphs",
+      "start": 14.34,
+      "end": 14.86
+    },
+    {
+      "word": "until",
+      "start": 14.86,
+      "end": 15.54
+    },
+    {
+      "word": "dissatisfied",
+      "start": 15.54,
+      "end": 16.12
+    },
+    {
+      "word": "customers",
+      "start": 16.12,
+      "end": 16.8
+    },
+    {
+      "word": "request",
+      "start": 16.8,
+      "end": 17.38
+    },
+    {
+      "word": "refunds.",
+      "start": 17.38,
+      "end": 17.94
+    },
+    {
+      "word": "Send",
+      "start": 18.52,
+      "end": 18.66
+    },
+    {
+      "word": "type",
+      "start": 18.66,
+      "end": 18.94
+    },
+    {
+      "word": "form",
+      "start": 18.94,
+      "end": 19.18
+    },
+    {
+      "word": "responses",
+      "start": 19.18,
+      "end": 19.7
+    },
+    {
+      "word": "through",
+      "start": 19.7,
+      "end": 20.1
+    },
+    {
+      "word": "Make.",
+      "start": 20.1,
+      "end": 20.5
+    },
+    {
+      "word": "Calm",
+      "start": 21.04,
+      "end": 21.04
+    },
+    {
+      "word": "to",
+      "start": 21.04,
+      "end": 21.24
+    },
+    {
+      "word": "open",
+      "start": 21.24,
+      "end": 21.56
+    },
+    {
+      "word": "AI",
+      "start": 21.56,
+      "end": 21.98
+    },
+    {
+      "word": "for",
+      "start": 21.98,
+      "end": 22.36
+    },
+    {
+      "word": "instant",
+      "start": 22.36,
+      "end": 22.72
+    },
+    {
+      "word": "sentiment",
+      "start": 22.72,
+      "end": 23.16
+    },
+    {
+      "word": "categorization,",
+      "start": 23.16,
+      "end": 24.04
+    },
+    {
+      "word": "logging",
+      "start": 24.56,
+      "end": 24.68
+    },
+    {
+      "word": "scores",
+      "start": 24.68,
+      "end": 25.26
+    },
+    {
+      "word": "directly",
+      "start": 25.26,
+      "end": 25.78
+    },
+    {
+      "word": "into",
+      "start": 25.78,
+      "end": 26.1
+    },
+    {
+      "word": "Airtable.",
+      "start": 26.1,
+      "end": 26.5
+    },
+    {
+      "word": "You",
+      "start": 26.5,
+      "end": 27.22
+    },
+    {
+      "word": "extract",
+      "start": 27.22,
+      "end": 27.62
+    },
+    {
+      "word": "actionable",
+      "start": 27.62,
+      "end": 28.34
+    },
+    {
+      "word": "product",
+      "start": 28.34,
+      "end": 28.72
+    },
+    {
+      "word": "insights",
+      "start": 28.72,
+      "end": 29.16
+    },
+    {
+      "word": "in",
+      "start": 29.16,
+      "end": 29.46
+    },
+    {
+      "word": "seconds,",
+      "start": 29.46,
+      "end": 29.96
+    },
+    {
+      "word": "saving",
+      "start": 30.36,
+      "end": 30.42
+    },
+    {
+      "word": "you",
+      "start": 30.42,
+      "end": 30.76
+    },
+    {
+      "word": "10",
+      "start": 30.76,
+      "end": 31.04
+    },
+    {
+      "word": "hours",
+      "start": 31.04,
+      "end": 31.38
+    },
+    {
+      "word": "every",
+      "start": 31.38,
+      "end": 31.74
+    },
+    {
+      "word": "week.",
+      "start": 31.74,
+      "end": 32.02
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "How to analyze hundreds of customer survey responses in 10 seconds flat.",
+      "line2": "TRACK FEEDBACK SENTIMENT",
+      "tag": "\ud83d\uded1 Automated customer feedback sentiment tracker with Make and AI",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated customer feedback sentiment tracker with Make and AI",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated customer feedback sentiment tracker with Make and AI",
+        "subtitle": "Automated customer feedback sentiment tracker with Make and AI"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated customer feedback sentiment tracker with Make and AI"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated customer feedback sentiment tracker with Make and AI"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated customer feedback sentiment tracker with Make and AI",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

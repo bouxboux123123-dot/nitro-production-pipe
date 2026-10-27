@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Automated contract signing flow using DocuSign API and Zapier",
+  "text": "Here is how to dispatch client contracts and notify your team the second they sign. Waiting around for signature notifications leaves new clients stranded in onboarding limbo. Deals lose momentum when account managers spend hours manually refreshing DocuSign dashboards. Connect PandaDoc webhooks to Make.com to trigger instant Slack alerts and provision ClickUp folders. This cuts turnaround time from two days to five minutes.",
+  "duration": 24.491,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "is",
+      "start": 0.18,
+      "end": 0.32
+    },
+    {
+      "word": "how",
+      "start": 0.32,
+      "end": 0.46
+    },
+    {
+      "word": "to",
+      "start": 0.46,
+      "end": 0.68
+    },
+    {
+      "word": "dispatch",
+      "start": 0.68,
+      "end": 0.96
+    },
+    {
+      "word": "client",
+      "start": 0.96,
+      "end": 1.38
+    },
+    {
+      "word": "contracts",
+      "start": 1.38,
+      "end": 1.9
+    },
+    {
+      "word": "and",
+      "start": 1.9,
+      "end": 2.3
+    },
+    {
+      "word": "notify",
+      "start": 2.3,
+      "end": 2.42
+    },
+    {
+      "word": "your",
+      "start": 2.42,
+      "end": 2.74
+    },
+    {
+      "word": "team",
+      "start": 2.74,
+      "end": 2.96
+    },
+    {
+      "word": "the",
+      "start": 2.96,
+      "end": 3.16
+    },
+    {
+      "word": "second",
+      "start": 3.16,
+      "end": 3.36
+    },
+    {
+      "word": "they",
+      "start": 3.36,
+      "end": 3.6
+    },
+    {
+      "word": "sign.",
+      "start": 3.6,
+      "end": 4.04
+    },
+    {
+      "word": "Waiting",
+      "start": 4.56,
+      "end": 4.62
+    },
+    {
+      "word": "around",
+      "start": 4.62,
+      "end": 4.92
+    },
+    {
+      "word": "for",
+      "start": 4.92,
+      "end": 5.18
+    },
+    {
+      "word": "signature",
+      "start": 5.18,
+      "end": 5.5
+    },
+    {
+      "word": "notifications",
+      "start": 5.5,
+      "end": 6.26
+    },
+    {
+      "word": "leaves",
+      "start": 6.26,
+      "end": 6.78
+    },
+    {
+      "word": "new",
+      "start": 6.78,
+      "end": 7.08
+    },
+    {
+      "word": "clients",
+      "start": 7.08,
+      "end": 7.44
+    },
+    {
+      "word": "stranded",
+      "start": 7.44,
+      "end": 7.78
+    },
+    {
+      "word": "in",
+      "start": 7.78,
+      "end": 8.02
+    },
+    {
+      "word": "onboarding",
+      "start": 8.02,
+      "end": 8.48
+    },
+    {
+      "word": "limbo.",
+      "start": 8.48,
+      "end": 8.86
+    },
+    {
+      "word": "Deals",
+      "start": 9.6,
+      "end": 9.6
+    },
+    {
+      "word": "lose",
+      "start": 9.6,
+      "end": 9.9
+    },
+    {
+      "word": "momentum",
+      "start": 9.9,
+      "end": 10.32
+    },
+    {
+      "word": "when",
+      "start": 10.32,
+      "end": 10.58
+    },
+    {
+      "word": "account",
+      "start": 10.58,
+      "end": 10.92
+    },
+    {
+      "word": "managers",
+      "start": 10.92,
+      "end": 11.34
+    },
+    {
+      "word": "spend",
+      "start": 11.34,
+      "end": 11.8
+    },
+    {
+      "word": "hours",
+      "start": 11.8,
+      "end": 12.22
+    },
+    {
+      "word": "manually",
+      "start": 12.22,
+      "end": 12.66
+    },
+    {
+      "word": "refreshing",
+      "start": 12.66,
+      "end": 13.24
+    },
+    {
+      "word": "daku",
+      "start": 13.24,
+      "end": 13.64
+    },
+    {
+      "word": "sign",
+      "start": 13.64,
+      "end": 14.04
+    },
+    {
+      "word": "dashboards.",
+      "start": 14.04,
+      "end": 14.72
+    },
+    {
+      "word": "Connect",
+      "start": 15.16,
+      "end": 15.46
+    },
+    {
+      "word": "Panda",
+      "start": 15.46,
+      "end": 15.86
+    },
+    {
+      "word": "dock",
+      "start": 15.86,
+      "end": 16.2
+    },
+    {
+      "word": "webhooks",
+      "start": 16.2,
+      "end": 16.62
+    },
+    {
+      "word": "to",
+      "start": 16.62,
+      "end": 16.74
+    },
+    {
+      "word": "make.",
+      "start": 16.74,
+      "end": 17.12
+    },
+    {
+      "word": "Calm",
+      "start": 17.4,
+      "end": 17.62
+    },
+    {
+      "word": "to",
+      "start": 17.62,
+      "end": 17.86
+    },
+    {
+      "word": "trigger",
+      "start": 17.86,
+      "end": 18.16
+    },
+    {
+      "word": "instant",
+      "start": 18.16,
+      "end": 18.62
+    },
+    {
+      "word": "slack",
+      "start": 18.62,
+      "end": 18.92
+    },
+    {
+      "word": "alerts",
+      "start": 18.92,
+      "end": 19.24
+    },
+    {
+      "word": "and",
+      "start": 19.24,
+      "end": 20.0
+    },
+    {
+      "word": "provision",
+      "start": 20.0,
+      "end": 20.0
+    },
+    {
+      "word": "click",
+      "start": 20.0,
+      "end": 20.24
+    },
+    {
+      "word": "up",
+      "start": 20.24,
+      "end": 20.48
+    },
+    {
+      "word": "folders.",
+      "start": 20.48,
+      "end": 20.82
+    },
+    {
+      "word": "This",
+      "start": 21.48,
+      "end": 21.7
+    },
+    {
+      "word": "cuts",
+      "start": 21.7,
+      "end": 21.92
+    },
+    {
+      "word": "turn",
+      "start": 21.92,
+      "end": 22.22
+    },
+    {
+      "word": "around",
+      "start": 22.22,
+      "end": 22.54
+    },
+    {
+      "word": "time",
+      "start": 22.54,
+      "end": 22.88
+    },
+    {
+      "word": "from",
+      "start": 22.88,
+      "end": 23.14
+    },
+    {
+      "word": "two",
+      "start": 23.14,
+      "end": 23.36
+    },
+    {
+      "word": "days",
+      "start": 23.36,
+      "end": 23.62
+    },
+    {
+      "word": "to",
+      "start": 23.62,
+      "end": 23.82
+    },
+    {
+      "word": "five",
+      "start": 23.82,
+      "end": 24.14
+    },
+    {
+      "word": "minutes.",
+      "start": 24.14,
+      "end": 24.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "How to send out client contracts and auto-notify your team the second they sign.",
+      "line2": "AUTOMATE CONTRACT SIGNING",
+      "tag": "\ud83d\uded1 Automated contract signing flow using DocuSign API and Zapier",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated contract signing flow using DocuSign API and Zapier",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated contract signing flow using DocuSign API and Zapier",
+        "subtitle": "Automated contract signing flow using DocuSign API and Zapier"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated contract signing flow using DocuSign API and Zapier"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated contract signing flow using DocuSign API and Zapier"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated contract signing flow using DocuSign API and Zapier",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

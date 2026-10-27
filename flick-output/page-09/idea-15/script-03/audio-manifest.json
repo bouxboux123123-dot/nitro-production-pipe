@@ -1,0 +1,406 @@
+{
+  "page": "page-09",
+  "idea": "Perplexity AI vs Google Search: which is faster for professional research",
+  "text": "Here is how Perplexity synthesizes cited research answers with zero ads and zero sponsored fluff. Finding technical documentation on Google means dodging sponsored snippets and annoying cookie banners. The structural flaw is Google's ad model, which profits by keeping you clicking rather than answering questions immediately. Perplexity indexes real-time web pages and generates concise summaries with clickable footnote references for instant verification. It cuts analysis time in half.",
+  "duration": 30.586,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.46
+    },
+    {
+      "word": "how",
+      "start": 0.46,
+      "end": 0.74
+    },
+    {
+      "word": "perplexity",
+      "start": 0.74,
+      "end": 1.24
+    },
+    {
+      "word": "synthesizes",
+      "start": 1.24,
+      "end": 2.02
+    },
+    {
+      "word": "cited",
+      "start": 2.02,
+      "end": 2.4
+    },
+    {
+      "word": "research",
+      "start": 2.4,
+      "end": 2.88
+    },
+    {
+      "word": "answers",
+      "start": 2.88,
+      "end": 3.26
+    },
+    {
+      "word": "with",
+      "start": 3.26,
+      "end": 3.8
+    },
+    {
+      "word": "zero",
+      "start": 3.8,
+      "end": 4.24
+    },
+    {
+      "word": "ads",
+      "start": 4.24,
+      "end": 4.6
+    },
+    {
+      "word": "and",
+      "start": 4.6,
+      "end": 5.12
+    },
+    {
+      "word": "zero",
+      "start": 5.12,
+      "end": 5.52
+    },
+    {
+      "word": "sponsored",
+      "start": 5.52,
+      "end": 6.06
+    },
+    {
+      "word": "fluff.",
+      "start": 6.06,
+      "end": 6.8
+    },
+    {
+      "word": "Finding",
+      "start": 7.44,
+      "end": 7.44
+    },
+    {
+      "word": "technical",
+      "start": 7.44,
+      "end": 8.0
+    },
+    {
+      "word": "documentation",
+      "start": 8.0,
+      "end": 8.74
+    },
+    {
+      "word": "on",
+      "start": 8.74,
+      "end": 9.1
+    },
+    {
+      "word": "Google",
+      "start": 9.1,
+      "end": 9.46
+    },
+    {
+      "word": "means",
+      "start": 9.46,
+      "end": 9.86
+    },
+    {
+      "word": "dodging",
+      "start": 9.86,
+      "end": 10.28
+    },
+    {
+      "word": "sponsored",
+      "start": 10.28,
+      "end": 10.84
+    },
+    {
+      "word": "snippets",
+      "start": 10.84,
+      "end": 11.34
+    },
+    {
+      "word": "and",
+      "start": 11.34,
+      "end": 11.82
+    },
+    {
+      "word": "annoying",
+      "start": 11.82,
+      "end": 12.22
+    },
+    {
+      "word": "cookie",
+      "start": 12.22,
+      "end": 12.54
+    },
+    {
+      "word": "banners.",
+      "start": 12.54,
+      "end": 12.88
+    },
+    {
+      "word": "The",
+      "start": 13.38,
+      "end": 13.54
+    },
+    {
+      "word": "structural",
+      "start": 13.54,
+      "end": 13.86
+    },
+    {
+      "word": "flaw",
+      "start": 13.86,
+      "end": 14.32
+    },
+    {
+      "word": "is",
+      "start": 14.32,
+      "end": 14.56
+    },
+    {
+      "word": "Google's",
+      "start": 14.56,
+      "end": 15.06
+    },
+    {
+      "word": "ad",
+      "start": 15.06,
+      "end": 15.28
+    },
+    {
+      "word": "model,",
+      "start": 15.28,
+      "end": 15.56
+    },
+    {
+      "word": "which",
+      "start": 15.98,
+      "end": 16.1
+    },
+    {
+      "word": "profits",
+      "start": 16.1,
+      "end": 16.38
+    },
+    {
+      "word": "by",
+      "start": 16.38,
+      "end": 16.76
+    },
+    {
+      "word": "keeping",
+      "start": 16.76,
+      "end": 17.02
+    },
+    {
+      "word": "you",
+      "start": 17.02,
+      "end": 17.28
+    },
+    {
+      "word": "clicking",
+      "start": 17.28,
+      "end": 17.64
+    },
+    {
+      "word": "rather",
+      "start": 17.64,
+      "end": 18.04
+    },
+    {
+      "word": "than",
+      "start": 18.04,
+      "end": 18.32
+    },
+    {
+      "word": "answering",
+      "start": 18.32,
+      "end": 18.62
+    },
+    {
+      "word": "questions",
+      "start": 18.62,
+      "end": 19.22
+    },
+    {
+      "word": "immediately.",
+      "start": 19.22,
+      "end": 19.82
+    },
+    {
+      "word": "perplexity",
+      "start": 20.84,
+      "end": 21.12
+    },
+    {
+      "word": "indexes",
+      "start": 21.12,
+      "end": 21.5
+    },
+    {
+      "word": "real",
+      "start": 21.5,
+      "end": 22.0
+    },
+    {
+      "word": "-time",
+      "start": 22.0,
+      "end": 22.34
+    },
+    {
+      "word": "web",
+      "start": 22.34,
+      "end": 22.64
+    },
+    {
+      "word": "pages",
+      "start": 22.64,
+      "end": 23.02
+    },
+    {
+      "word": "and",
+      "start": 23.02,
+      "end": 23.58
+    },
+    {
+      "word": "generates",
+      "start": 23.58,
+      "end": 24.0
+    },
+    {
+      "word": "concise",
+      "start": 24.0,
+      "end": 24.6
+    },
+    {
+      "word": "summaries",
+      "start": 24.6,
+      "end": 25.06
+    },
+    {
+      "word": "with",
+      "start": 25.06,
+      "end": 25.46
+    },
+    {
+      "word": "clickable",
+      "start": 25.46,
+      "end": 25.88
+    },
+    {
+      "word": "footnote",
+      "start": 25.88,
+      "end": 26.3
+    },
+    {
+      "word": "references",
+      "start": 26.3,
+      "end": 26.76
+    },
+    {
+      "word": "for",
+      "start": 26.76,
+      "end": 27.18
+    },
+    {
+      "word": "instant",
+      "start": 27.18,
+      "end": 27.48
+    },
+    {
+      "word": "verification.",
+      "start": 27.48,
+      "end": 28.1
+    },
+    {
+      "word": "It",
+      "start": 28.1,
+      "end": 28.9
+    },
+    {
+      "word": "cuts",
+      "start": 28.9,
+      "end": 29.16
+    },
+    {
+      "word": "analysis",
+      "start": 29.16,
+      "end": 29.64
+    },
+    {
+      "word": "time",
+      "start": 29.64,
+      "end": 30.08
+    },
+    {
+      "word": "in",
+      "start": 30.08,
+      "end": 30.24
+    },
+    {
+      "word": "half.",
+      "start": 30.24,
+      "end": 30.56
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "How Perplexity synthesizes cited answers with zero ads and zero sponsored fluff.",
+      "line2": "PERPLEXITY VS GOOGLE SEARCH",
+      "tag": "\ud83d\uded1 Perplexity AI vs Google Search",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Perplexity AI vs Google Search",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Perplexity AI vs Google Search",
+        "subtitle": "Perplexity AI vs Google Search"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Perplexity AI vs Google Search"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Perplexity AI vs Google Search"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Perplexity AI vs Google Search",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

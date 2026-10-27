@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Baserow: the completely free open-source Airtable alternative",
+  "text": "Stop paying per-seat Airtable subscriptions and switch to this open-source powerhouse today. Expanding teams watch software bills double simply by onboarding new contractors and project managers. Cloud vendors hold relational databases hostage behind per-user billing that punishes your company for hiring. Baserow delivers complete data ownership, unlimited databases, and powerful formula fields hosted directly on your servers. You scale team capacity while keeping operational expenses at zero.",
+  "duration": 30.927,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "paying",
+      "start": 0.36,
+      "end": 0.72
+    },
+    {
+      "word": "per",
+      "start": 0.72,
+      "end": 0.9
+    },
+    {
+      "word": "seat",
+      "start": 0.9,
+      "end": 1.16
+    },
+    {
+      "word": "irritable",
+      "start": 1.16,
+      "end": 1.54
+    },
+    {
+      "word": "subscriptions",
+      "start": 1.54,
+      "end": 2.16
+    },
+    {
+      "word": "and",
+      "start": 2.16,
+      "end": 2.64
+    },
+    {
+      "word": "switch",
+      "start": 2.64,
+      "end": 2.86
+    },
+    {
+      "word": "to",
+      "start": 2.86,
+      "end": 3.02
+    },
+    {
+      "word": "this",
+      "start": 3.02,
+      "end": 3.32
+    },
+    {
+      "word": "open",
+      "start": 3.32,
+      "end": 3.54
+    },
+    {
+      "word": "source",
+      "start": 3.54,
+      "end": 3.92
+    },
+    {
+      "word": "powerhouse",
+      "start": 3.92,
+      "end": 4.28
+    },
+    {
+      "word": "today.",
+      "start": 4.28,
+      "end": 5.16
+    },
+    {
+      "word": "Expanding",
+      "start": 5.68,
+      "end": 5.96
+    },
+    {
+      "word": "teams",
+      "start": 5.96,
+      "end": 6.34
+    },
+    {
+      "word": "watch",
+      "start": 6.34,
+      "end": 6.74
+    },
+    {
+      "word": "software",
+      "start": 6.74,
+      "end": 7.16
+    },
+    {
+      "word": "bills",
+      "start": 7.16,
+      "end": 7.54
+    },
+    {
+      "word": "double",
+      "start": 7.54,
+      "end": 7.9
+    },
+    {
+      "word": "simply",
+      "start": 7.9,
+      "end": 8.26
+    },
+    {
+      "word": "by",
+      "start": 8.26,
+      "end": 8.72
+    },
+    {
+      "word": "onboarding",
+      "start": 8.72,
+      "end": 9.22
+    },
+    {
+      "word": "new",
+      "start": 9.22,
+      "end": 9.48
+    },
+    {
+      "word": "contractors",
+      "start": 9.48,
+      "end": 9.9
+    },
+    {
+      "word": "and",
+      "start": 9.9,
+      "end": 10.3
+    },
+    {
+      "word": "project",
+      "start": 10.3,
+      "end": 10.7
+    },
+    {
+      "word": "managers.",
+      "start": 10.7,
+      "end": 11.24
+    },
+    {
+      "word": "Cloud",
+      "start": 11.86,
+      "end": 12.2
+    },
+    {
+      "word": "vendors",
+      "start": 12.2,
+      "end": 12.52
+    },
+    {
+      "word": "hold",
+      "start": 12.52,
+      "end": 13.02
+    },
+    {
+      "word": "relational",
+      "start": 13.02,
+      "end": 13.54
+    },
+    {
+      "word": "databases",
+      "start": 13.54,
+      "end": 14.12
+    },
+    {
+      "word": "hostage",
+      "start": 14.12,
+      "end": 14.82
+    },
+    {
+      "word": "behind",
+      "start": 14.82,
+      "end": 15.28
+    },
+    {
+      "word": "per",
+      "start": 15.28,
+      "end": 15.52
+    },
+    {
+      "word": "user",
+      "start": 15.52,
+      "end": 15.78
+    },
+    {
+      "word": "billing",
+      "start": 15.78,
+      "end": 16.12
+    },
+    {
+      "word": "that",
+      "start": 16.12,
+      "end": 16.64
+    },
+    {
+      "word": "punishes",
+      "start": 16.64,
+      "end": 16.92
+    },
+    {
+      "word": "your",
+      "start": 16.92,
+      "end": 17.3
+    },
+    {
+      "word": "company",
+      "start": 17.3,
+      "end": 17.5
+    },
+    {
+      "word": "for",
+      "start": 17.5,
+      "end": 17.86
+    },
+    {
+      "word": "hiring.",
+      "start": 17.86,
+      "end": 18.28
+    },
+    {
+      "word": "Bassero",
+      "start": 18.82,
+      "end": 19.06
+    },
+    {
+      "word": "delivers",
+      "start": 19.06,
+      "end": 19.44
+    },
+    {
+      "word": "complete",
+      "start": 19.44,
+      "end": 20.02
+    },
+    {
+      "word": "data",
+      "start": 20.02,
+      "end": 20.4
+    },
+    {
+      "word": "ownership,",
+      "start": 20.4,
+      "end": 20.9
+    },
+    {
+      "word": "unlimited",
+      "start": 21.66,
+      "end": 21.66
+    },
+    {
+      "word": "databases,",
+      "start": 21.66,
+      "end": 22.36
+    },
+    {
+      "word": "and",
+      "start": 22.86,
+      "end": 23.12
+    },
+    {
+      "word": "powerful",
+      "start": 23.12,
+      "end": 23.46
+    },
+    {
+      "word": "formula",
+      "start": 23.46,
+      "end": 23.94
+    },
+    {
+      "word": "fields",
+      "start": 23.94,
+      "end": 24.52
+    },
+    {
+      "word": "hosted",
+      "start": 24.52,
+      "end": 24.92
+    },
+    {
+      "word": "directly",
+      "start": 24.92,
+      "end": 25.34
+    },
+    {
+      "word": "on",
+      "start": 25.34,
+      "end": 25.6
+    },
+    {
+      "word": "your",
+      "start": 25.6,
+      "end": 25.84
+    },
+    {
+      "word": "servers.",
+      "start": 25.84,
+      "end": 26.2
+    },
+    {
+      "word": "You",
+      "start": 26.2,
+      "end": 26.98
+    },
+    {
+      "word": "scale",
+      "start": 26.98,
+      "end": 27.26
+    },
+    {
+      "word": "team",
+      "start": 27.26,
+      "end": 27.6
+    },
+    {
+      "word": "capacity",
+      "start": 27.6,
+      "end": 28.16
+    },
+    {
+      "word": "while",
+      "start": 28.16,
+      "end": 28.56
+    },
+    {
+      "word": "keeping",
+      "start": 28.56,
+      "end": 28.9
+    },
+    {
+      "word": "operational",
+      "start": 28.9,
+      "end": 29.54
+    },
+    {
+      "word": "expenses",
+      "start": 29.54,
+      "end": 30.12
+    },
+    {
+      "word": "at",
+      "start": 30.12,
+      "end": 30.44
+    },
+    {
+      "word": "zero.",
+      "start": 30.44,
+      "end": 30.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop paying for Airtable seats: switch to this open-source tool today.",
+      "line2": "FREE AIRTABLE ALTERNATIVE",
+      "tag": "\ud83d\uded1 Baserow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Baserow",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Baserow",
+        "subtitle": "Baserow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Baserow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Baserow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Baserow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

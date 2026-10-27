@@ -1,0 +1,376 @@
+{
+  "page": "page-09",
+  "idea": "Airtable vs Google Sheets: when do you actually need a relational database",
+  "text": "Here is the simple rule to decide between Google Sheets and Airtable. Founders overcomplicate their tech stack by forcing complex relational workflows into basic grid spreadsheets. Use Google Sheets when you need heavy financial formulas, numerical forecasting, or raw data crunching. Switch to Airtable the moment you manage linked records, client portals, or multi-stage project pipelines. This decision protects your operational momentum.",
+  "duration": 25.344,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.42
+    },
+    {
+      "word": "the",
+      "start": 0.42,
+      "end": 0.64
+    },
+    {
+      "word": "simple",
+      "start": 0.64,
+      "end": 0.86
+    },
+    {
+      "word": "rule",
+      "start": 0.86,
+      "end": 1.1
+    },
+    {
+      "word": "to",
+      "start": 1.1,
+      "end": 1.28
+    },
+    {
+      "word": "decide",
+      "start": 1.28,
+      "end": 1.6
+    },
+    {
+      "word": "between",
+      "start": 1.6,
+      "end": 1.94
+    },
+    {
+      "word": "Google",
+      "start": 1.94,
+      "end": 2.3
+    },
+    {
+      "word": "Sheets",
+      "start": 2.3,
+      "end": 2.62
+    },
+    {
+      "word": "and",
+      "start": 2.62,
+      "end": 2.84
+    },
+    {
+      "word": "Airtable.",
+      "start": 2.84,
+      "end": 3.44
+    },
+    {
+      "word": "Founders",
+      "start": 4.08,
+      "end": 4.08
+    },
+    {
+      "word": "overcomplicate",
+      "start": 4.08,
+      "end": 4.84
+    },
+    {
+      "word": "their",
+      "start": 4.84,
+      "end": 5.1
+    },
+    {
+      "word": "tech",
+      "start": 5.1,
+      "end": 5.38
+    },
+    {
+      "word": "stack",
+      "start": 5.38,
+      "end": 5.66
+    },
+    {
+      "word": "by",
+      "start": 5.66,
+      "end": 6.02
+    },
+    {
+      "word": "forcing",
+      "start": 6.02,
+      "end": 6.4
+    },
+    {
+      "word": "complex",
+      "start": 6.4,
+      "end": 6.88
+    },
+    {
+      "word": "relational",
+      "start": 6.88,
+      "end": 7.44
+    },
+    {
+      "word": "workflows",
+      "start": 7.44,
+      "end": 7.94
+    },
+    {
+      "word": "into",
+      "start": 7.94,
+      "end": 8.2
+    },
+    {
+      "word": "basic",
+      "start": 8.2,
+      "end": 8.62
+    },
+    {
+      "word": "grid",
+      "start": 8.62,
+      "end": 8.94
+    },
+    {
+      "word": "spreadsheets.",
+      "start": 8.94,
+      "end": 9.6
+    },
+    {
+      "word": "Use",
+      "start": 10.18,
+      "end": 10.22
+    },
+    {
+      "word": "Google",
+      "start": 10.22,
+      "end": 10.52
+    },
+    {
+      "word": "Sheets",
+      "start": 10.52,
+      "end": 10.8
+    },
+    {
+      "word": "when",
+      "start": 10.8,
+      "end": 10.98
+    },
+    {
+      "word": "you",
+      "start": 10.98,
+      "end": 11.08
+    },
+    {
+      "word": "need",
+      "start": 11.08,
+      "end": 11.34
+    },
+    {
+      "word": "heavy",
+      "start": 11.34,
+      "end": 11.6
+    },
+    {
+      "word": "financial",
+      "start": 11.6,
+      "end": 12.08
+    },
+    {
+      "word": "formulas,",
+      "start": 12.08,
+      "end": 12.68
+    },
+    {
+      "word": "numerical",
+      "start": 13.44,
+      "end": 13.44
+    },
+    {
+      "word": "forecasting,",
+      "start": 13.44,
+      "end": 14.06
+    },
+    {
+      "word": "or",
+      "start": 14.56,
+      "end": 14.76
+    },
+    {
+      "word": "raw",
+      "start": 14.76,
+      "end": 15.02
+    },
+    {
+      "word": "data",
+      "start": 15.02,
+      "end": 15.3
+    },
+    {
+      "word": "crunching.",
+      "start": 15.3,
+      "end": 16.06
+    },
+    {
+      "word": "Switch",
+      "start": 16.3,
+      "end": 16.52
+    },
+    {
+      "word": "to",
+      "start": 16.52,
+      "end": 16.78
+    },
+    {
+      "word": "Airtable",
+      "start": 16.78,
+      "end": 17.08
+    },
+    {
+      "word": "the",
+      "start": 17.08,
+      "end": 17.2
+    },
+    {
+      "word": "moment",
+      "start": 17.2,
+      "end": 17.4
+    },
+    {
+      "word": "you",
+      "start": 17.4,
+      "end": 18.04
+    },
+    {
+      "word": "manage",
+      "start": 18.04,
+      "end": 18.04
+    },
+    {
+      "word": "linked",
+      "start": 18.04,
+      "end": 18.34
+    },
+    {
+      "word": "records,",
+      "start": 18.34,
+      "end": 18.74
+    },
+    {
+      "word": "client",
+      "start": 19.4,
+      "end": 19.44
+    },
+    {
+      "word": "portals,",
+      "start": 19.44,
+      "end": 19.84
+    },
+    {
+      "word": "or",
+      "start": 20.28,
+      "end": 20.6
+    },
+    {
+      "word": "multi",
+      "start": 20.6,
+      "end": 20.74
+    },
+    {
+      "word": "-stage",
+      "start": 20.74,
+      "end": 21.22
+    },
+    {
+      "word": "project",
+      "start": 21.22,
+      "end": 21.74
+    },
+    {
+      "word": "pipelines.",
+      "start": 21.74,
+      "end": 22.2
+    },
+    {
+      "word": "This",
+      "start": 22.88,
+      "end": 23.08
+    },
+    {
+      "word": "decision",
+      "start": 23.08,
+      "end": 23.46
+    },
+    {
+      "word": "protects",
+      "start": 23.46,
+      "end": 23.82
+    },
+    {
+      "word": "your",
+      "start": 23.82,
+      "end": 24.4
+    },
+    {
+      "word": "operational",
+      "start": 24.4,
+      "end": 24.72
+    },
+    {
+      "word": "momentum.",
+      "start": 24.72,
+      "end": 25.18
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Here is the simple rule to decide between Google Sheets and Airtable.",
+      "line2": "AIRTABLE VS GOOGLE SHEETS",
+      "tag": "\ud83d\uded1 Airtable vs Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Airtable vs Google Sheets",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Airtable vs Google Sheets",
+        "subtitle": "Airtable vs Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Airtable vs Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Airtable vs Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Airtable vs Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to bookmark managers that save tabs across all devices",
+  "text": "Here is the tab management routine every computer beginner needs to adopt today. You finish work with dozens of open tabs, terrified of losing your spot tomorrow. Restarting with twenty tabs overloads your computer and creates immediate distraction each morning. Instead, group active tabs using native Chrome tab groups or save them into Raindrop before shutting down. You start every morning with total digital focus.",
+  "duration": 23.979,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.38
+    },
+    {
+      "word": "the",
+      "start": 0.38,
+      "end": 0.48
+    },
+    {
+      "word": "tab",
+      "start": 0.48,
+      "end": 0.74
+    },
+    {
+      "word": "management",
+      "start": 0.74,
+      "end": 1.12
+    },
+    {
+      "word": "routine",
+      "start": 1.12,
+      "end": 1.66
+    },
+    {
+      "word": "every",
+      "start": 1.66,
+      "end": 2.06
+    },
+    {
+      "word": "computer",
+      "start": 2.06,
+      "end": 2.44
+    },
+    {
+      "word": "beginner",
+      "start": 2.44,
+      "end": 2.72
+    },
+    {
+      "word": "needs",
+      "start": 2.72,
+      "end": 3.0
+    },
+    {
+      "word": "to",
+      "start": 3.0,
+      "end": 3.2
+    },
+    {
+      "word": "adopt",
+      "start": 3.2,
+      "end": 3.52
+    },
+    {
+      "word": "today.",
+      "start": 3.52,
+      "end": 4.04
+    },
+    {
+      "word": "You",
+      "start": 4.48,
+      "end": 4.58
+    },
+    {
+      "word": "finish",
+      "start": 4.58,
+      "end": 4.82
+    },
+    {
+      "word": "work",
+      "start": 4.82,
+      "end": 5.06
+    },
+    {
+      "word": "with",
+      "start": 5.06,
+      "end": 5.3
+    },
+    {
+      "word": "dozens",
+      "start": 5.3,
+      "end": 5.52
+    },
+    {
+      "word": "of",
+      "start": 5.52,
+      "end": 5.84
+    },
+    {
+      "word": "open",
+      "start": 5.84,
+      "end": 6.04
+    },
+    {
+      "word": "tabs,",
+      "start": 6.04,
+      "end": 6.52
+    },
+    {
+      "word": "terrified",
+      "start": 7.02,
+      "end": 7.12
+    },
+    {
+      "word": "of",
+      "start": 7.12,
+      "end": 7.42
+    },
+    {
+      "word": "losing",
+      "start": 7.42,
+      "end": 7.66
+    },
+    {
+      "word": "your",
+      "start": 7.66,
+      "end": 7.9
+    },
+    {
+      "word": "spot",
+      "start": 7.9,
+      "end": 8.14
+    },
+    {
+      "word": "tomorrow.",
+      "start": 8.14,
+      "end": 8.66
+    },
+    {
+      "word": "Restarting",
+      "start": 9.3,
+      "end": 9.7
+    },
+    {
+      "word": "with",
+      "start": 9.7,
+      "end": 9.9
+    },
+    {
+      "word": "20",
+      "start": 9.9,
+      "end": 10.16
+    },
+    {
+      "word": "tabs",
+      "start": 10.16,
+      "end": 10.52
+    },
+    {
+      "word": "overloads",
+      "start": 10.52,
+      "end": 11.08
+    },
+    {
+      "word": "your",
+      "start": 11.08,
+      "end": 11.3
+    },
+    {
+      "word": "computer",
+      "start": 11.3,
+      "end": 11.62
+    },
+    {
+      "word": "and",
+      "start": 11.62,
+      "end": 11.9
+    },
+    {
+      "word": "creates",
+      "start": 11.9,
+      "end": 12.28
+    },
+    {
+      "word": "immediate",
+      "start": 12.28,
+      "end": 12.72
+    },
+    {
+      "word": "distraction",
+      "start": 12.72,
+      "end": 13.28
+    },
+    {
+      "word": "each",
+      "start": 13.28,
+      "end": 13.7
+    },
+    {
+      "word": "morning.",
+      "start": 13.7,
+      "end": 14.08
+    },
+    {
+      "word": "Instead,",
+      "start": 14.78,
+      "end": 15.06
+    },
+    {
+      "word": "group",
+      "start": 15.68,
+      "end": 15.78
+    },
+    {
+      "word": "active",
+      "start": 15.78,
+      "end": 16.08
+    },
+    {
+      "word": "tabs",
+      "start": 16.08,
+      "end": 16.5
+    },
+    {
+      "word": "using",
+      "start": 16.5,
+      "end": 16.88
+    },
+    {
+      "word": "native",
+      "start": 16.88,
+      "end": 17.28
+    },
+    {
+      "word": "Chrome",
+      "start": 17.28,
+      "end": 17.6
+    },
+    {
+      "word": "tab",
+      "start": 17.6,
+      "end": 17.94
+    },
+    {
+      "word": "groups",
+      "start": 17.94,
+      "end": 18.22
+    },
+    {
+      "word": "or",
+      "start": 18.22,
+      "end": 18.7
+    },
+    {
+      "word": "save",
+      "start": 18.7,
+      "end": 18.92
+    },
+    {
+      "word": "them",
+      "start": 18.92,
+      "end": 19.1
+    },
+    {
+      "word": "into",
+      "start": 19.1,
+      "end": 19.28
+    },
+    {
+      "word": "raindrop",
+      "start": 19.28,
+      "end": 19.86
+    },
+    {
+      "word": "before",
+      "start": 19.86,
+      "end": 20.22
+    },
+    {
+      "word": "shutting",
+      "start": 20.22,
+      "end": 20.52
+    },
+    {
+      "word": "down.",
+      "start": 20.52,
+      "end": 21.1
+    },
+    {
+      "word": "You",
+      "start": 21.48,
+      "end": 21.64
+    },
+    {
+      "word": "start",
+      "start": 21.64,
+      "end": 21.88
+    },
+    {
+      "word": "every",
+      "start": 21.88,
+      "end": 22.2
+    },
+    {
+      "word": "morning",
+      "start": 22.2,
+      "end": 22.44
+    },
+    {
+      "word": "with",
+      "start": 22.44,
+      "end": 22.82
+    },
+    {
+      "word": "total",
+      "start": 22.82,
+      "end": 23.06
+    },
+    {
+      "word": "digital",
+      "start": 23.06,
+      "end": 23.46
+    },
+    {
+      "word": "focus.",
+      "start": 23.46,
+      "end": 23.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The tab management routine every computer beginner needs to adopt today.",
+      "line2": "SAVE TABS ACROSS DEVICES",
+      "tag": "\ud83d\uded1 Beginner guide to bookmark managers that save tabs across all devices",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to bookmark managers that save tabs across all devices",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to bookmark managers that save tabs across all devices",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

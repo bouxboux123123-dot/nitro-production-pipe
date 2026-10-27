@@ -1,0 +1,421 @@
+{
+  "page": "page-08",
+  "idea": "How to compress massive PDF files so they can be emailed easily",
+  "text": "This free tool cuts massive PDF file sizes by eighty percent without losing visual quality. Trying to send scanned tax records or portfolio files often triggers immediate mailbox rejection messages. Generic export presets pack uncompressed image layers into your document, ballooning standard files past email limits. Run your document through iLovePDF or Adobe Compressor to strip redundant metadata and downsample images cleanly. You will send lightweight files in seconds.",
+  "duration": 31.077,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "free",
+      "start": 0.24,
+      "end": 0.5
+    },
+    {
+      "word": "tool",
+      "start": 0.5,
+      "end": 0.72
+    },
+    {
+      "word": "cuts",
+      "start": 0.72,
+      "end": 1.04
+    },
+    {
+      "word": "massive",
+      "start": 1.04,
+      "end": 1.56
+    },
+    {
+      "word": "PDF",
+      "start": 1.56,
+      "end": 1.96
+    },
+    {
+      "word": "file",
+      "start": 1.96,
+      "end": 2.48
+    },
+    {
+      "word": "sizes",
+      "start": 2.48,
+      "end": 2.94
+    },
+    {
+      "word": "by",
+      "start": 2.94,
+      "end": 3.5
+    },
+    {
+      "word": "80",
+      "start": 3.5,
+      "end": 3.8
+    },
+    {
+      "word": "%",
+      "start": 3.8,
+      "end": 4.28
+    },
+    {
+      "word": "without",
+      "start": 4.28,
+      "end": 4.56
+    },
+    {
+      "word": "losing",
+      "start": 4.56,
+      "end": 4.88
+    },
+    {
+      "word": "visual",
+      "start": 4.88,
+      "end": 5.38
+    },
+    {
+      "word": "quality.",
+      "start": 5.38,
+      "end": 6.02
+    },
+    {
+      "word": "Trying",
+      "start": 6.6,
+      "end": 6.66
+    },
+    {
+      "word": "to",
+      "start": 6.66,
+      "end": 6.84
+    },
+    {
+      "word": "send",
+      "start": 6.84,
+      "end": 7.1
+    },
+    {
+      "word": "scan",
+      "start": 7.1,
+      "end": 7.44
+    },
+    {
+      "word": "tax",
+      "start": 7.44,
+      "end": 7.78
+    },
+    {
+      "word": "records",
+      "start": 7.78,
+      "end": 8.24
+    },
+    {
+      "word": "or",
+      "start": 8.24,
+      "end": 8.7
+    },
+    {
+      "word": "portfolio",
+      "start": 8.7,
+      "end": 9.2
+    },
+    {
+      "word": "files",
+      "start": 9.2,
+      "end": 9.9
+    },
+    {
+      "word": "often",
+      "start": 9.9,
+      "end": 10.5
+    },
+    {
+      "word": "triggers",
+      "start": 10.5,
+      "end": 10.88
+    },
+    {
+      "word": "immediate",
+      "start": 10.88,
+      "end": 11.42
+    },
+    {
+      "word": "mailbox",
+      "start": 11.42,
+      "end": 11.92
+    },
+    {
+      "word": "rejection",
+      "start": 11.92,
+      "end": 12.54
+    },
+    {
+      "word": "messages.",
+      "start": 12.54,
+      "end": 13.18
+    },
+    {
+      "word": "Generic",
+      "start": 13.92,
+      "end": 13.92
+    },
+    {
+      "word": "export",
+      "start": 13.92,
+      "end": 14.4
+    },
+    {
+      "word": "presets",
+      "start": 14.4,
+      "end": 14.78
+    },
+    {
+      "word": "pack",
+      "start": 14.78,
+      "end": 15.3
+    },
+    {
+      "word": "uncompressed",
+      "start": 15.3,
+      "end": 15.84
+    },
+    {
+      "word": "image",
+      "start": 15.84,
+      "end": 16.18
+    },
+    {
+      "word": "layers",
+      "start": 16.18,
+      "end": 16.48
+    },
+    {
+      "word": "into",
+      "start": 16.48,
+      "end": 16.68
+    },
+    {
+      "word": "your",
+      "start": 16.68,
+      "end": 17.5
+    },
+    {
+      "word": "document,",
+      "start": 17.5,
+      "end": 17.5
+    },
+    {
+      "word": "ballooning",
+      "start": 17.9,
+      "end": 18.18
+    },
+    {
+      "word": "standard",
+      "start": 18.18,
+      "end": 18.56
+    },
+    {
+      "word": "files",
+      "start": 18.56,
+      "end": 19.0
+    },
+    {
+      "word": "past",
+      "start": 19.0,
+      "end": 19.46
+    },
+    {
+      "word": "email",
+      "start": 19.46,
+      "end": 19.82
+    },
+    {
+      "word": "limits.",
+      "start": 19.82,
+      "end": 20.2
+    },
+    {
+      "word": "Run",
+      "start": 20.82,
+      "end": 21.0
+    },
+    {
+      "word": "your",
+      "start": 21.0,
+      "end": 21.18
+    },
+    {
+      "word": "document",
+      "start": 21.18,
+      "end": 21.54
+    },
+    {
+      "word": "through",
+      "start": 21.54,
+      "end": 21.92
+    },
+    {
+      "word": "I",
+      "start": 21.92,
+      "end": 22.24
+    },
+    {
+      "word": "love",
+      "start": 22.24,
+      "end": 22.5
+    },
+    {
+      "word": "PDF",
+      "start": 22.5,
+      "end": 23.0
+    },
+    {
+      "word": "or",
+      "start": 23.0,
+      "end": 23.72
+    },
+    {
+      "word": "Adobe",
+      "start": 23.72,
+      "end": 24.12
+    },
+    {
+      "word": "compressor",
+      "start": 24.12,
+      "end": 24.6
+    },
+    {
+      "word": "to",
+      "start": 24.6,
+      "end": 24.96
+    },
+    {
+      "word": "strip",
+      "start": 24.96,
+      "end": 25.24
+    },
+    {
+      "word": "redundant",
+      "start": 25.24,
+      "end": 25.66
+    },
+    {
+      "word": "metadata",
+      "start": 25.66,
+      "end": 26.18
+    },
+    {
+      "word": "and",
+      "start": 26.18,
+      "end": 26.64
+    },
+    {
+      "word": "down",
+      "start": 26.64,
+      "end": 26.94
+    },
+    {
+      "word": "sample",
+      "start": 26.94,
+      "end": 27.28
+    },
+    {
+      "word": "images",
+      "start": 27.28,
+      "end": 27.72
+    },
+    {
+      "word": "cleanly.",
+      "start": 27.72,
+      "end": 28.5
+    },
+    {
+      "word": "You",
+      "start": 28.5,
+      "end": 28.9
+    },
+    {
+      "word": "will",
+      "start": 28.9,
+      "end": 29.1
+    },
+    {
+      "word": "send",
+      "start": 29.1,
+      "end": 29.4
+    },
+    {
+      "word": "lightweight",
+      "start": 29.4,
+      "end": 29.76
+    },
+    {
+      "word": "files",
+      "start": 29.76,
+      "end": 30.32
+    },
+    {
+      "word": "in",
+      "start": 30.32,
+      "end": 30.6
+    },
+    {
+      "word": "seconds.",
+      "start": 30.6,
+      "end": 30.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The safe, free tool that cuts PDF file sizes by 80 percent without losing quality.",
+      "line2": "COMPRESS LARGE PDF FILES",
+      "tag": "\ud83d\uded1 How to compress massive PDF files so they can be emailed easily",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to compress massive PDF files so they can be emailed easily",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to compress massive PDF files so they can be emailed easily",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to compress massive PDF files so they can be emailed easily",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Espanso: free cross-platform text expander that saves thousands of keystrokes",
+  "text": "Stop typing the same email replies, links, and code snippets over and over. Customer support reps and developers retype identical onboarding responses dozens of times throughout the workday. Copying templates from notes apps breaks focus and introduces embarrassing copy-paste typos into client messages. Espanso solves this by detecting custom keyboard triggers system-wide and instantly replacing them with dynamic snippets. You shave hours off repetitive typing across every application.",
+  "duration": 30.543,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "typing",
+      "start": 0.36,
+      "end": 0.68
+    },
+    {
+      "word": "the",
+      "start": 0.68,
+      "end": 0.94
+    },
+    {
+      "word": "same",
+      "start": 0.94,
+      "end": 1.18
+    },
+    {
+      "word": "email",
+      "start": 1.18,
+      "end": 1.54
+    },
+    {
+      "word": "replies,",
+      "start": 1.54,
+      "end": 2.06
+    },
+    {
+      "word": "links,",
+      "start": 2.4,
+      "end": 2.74
+    },
+    {
+      "word": "and",
+      "start": 3.06,
+      "end": 3.22
+    },
+    {
+      "word": "code",
+      "start": 3.22,
+      "end": 3.48
+    },
+    {
+      "word": "snippets",
+      "start": 3.48,
+      "end": 3.86
+    },
+    {
+      "word": "over",
+      "start": 3.86,
+      "end": 4.26
+    },
+    {
+      "word": "and",
+      "start": 4.26,
+      "end": 4.42
+    },
+    {
+      "word": "over.",
+      "start": 4.42,
+      "end": 4.86
+    },
+    {
+      "word": "Customer",
+      "start": 5.5,
+      "end": 5.62
+    },
+    {
+      "word": "support",
+      "start": 5.62,
+      "end": 6.2
+    },
+    {
+      "word": "reps",
+      "start": 6.2,
+      "end": 6.46
+    },
+    {
+      "word": "and",
+      "start": 6.46,
+      "end": 6.66
+    },
+    {
+      "word": "developers",
+      "start": 6.66,
+      "end": 7.16
+    },
+    {
+      "word": "retire",
+      "start": 7.16,
+      "end": 7.84
+    },
+    {
+      "word": "identical",
+      "start": 7.84,
+      "end": 8.54
+    },
+    {
+      "word": "onboarding",
+      "start": 8.54,
+      "end": 9.1
+    },
+    {
+      "word": "responses",
+      "start": 9.1,
+      "end": 9.8
+    },
+    {
+      "word": "dozens",
+      "start": 9.8,
+      "end": 10.3
+    },
+    {
+      "word": "of",
+      "start": 10.3,
+      "end": 10.58
+    },
+    {
+      "word": "times",
+      "start": 10.58,
+      "end": 10.94
+    },
+    {
+      "word": "throughout",
+      "start": 10.94,
+      "end": 11.26
+    },
+    {
+      "word": "the",
+      "start": 11.26,
+      "end": 11.44
+    },
+    {
+      "word": "workday.",
+      "start": 11.44,
+      "end": 12.02
+    },
+    {
+      "word": "Copying",
+      "start": 12.36,
+      "end": 12.6
+    },
+    {
+      "word": "templates",
+      "start": 12.6,
+      "end": 12.96
+    },
+    {
+      "word": "from",
+      "start": 12.96,
+      "end": 13.28
+    },
+    {
+      "word": "notes,",
+      "start": 13.28,
+      "end": 13.64
+    },
+    {
+      "word": "apps",
+      "start": 13.94,
+      "end": 13.94
+    },
+    {
+      "word": "breaks",
+      "start": 13.94,
+      "end": 14.26
+    },
+    {
+      "word": "focus",
+      "start": 14.26,
+      "end": 14.66
+    },
+    {
+      "word": "and",
+      "start": 14.66,
+      "end": 14.92
+    },
+    {
+      "word": "introduces",
+      "start": 14.92,
+      "end": 15.42
+    },
+    {
+      "word": "embarrassing",
+      "start": 15.42,
+      "end": 16.2
+    },
+    {
+      "word": "copper",
+      "start": 16.2,
+      "end": 16.56
+    },
+    {
+      "word": "-paced",
+      "start": 16.56,
+      "end": 16.78
+    },
+    {
+      "word": "typos",
+      "start": 16.78,
+      "end": 17.34
+    },
+    {
+      "word": "into",
+      "start": 17.34,
+      "end": 17.64
+    },
+    {
+      "word": "client",
+      "start": 17.64,
+      "end": 17.98
+    },
+    {
+      "word": "messages.",
+      "start": 17.98,
+      "end": 18.56
+    },
+    {
+      "word": "Espanso",
+      "start": 19.38,
+      "end": 19.8
+    },
+    {
+      "word": "solves",
+      "start": 19.8,
+      "end": 20.14
+    },
+    {
+      "word": "this",
+      "start": 20.14,
+      "end": 20.54
+    },
+    {
+      "word": "by",
+      "start": 20.54,
+      "end": 20.76
+    },
+    {
+      "word": "detecting",
+      "start": 20.76,
+      "end": 21.18
+    },
+    {
+      "word": "custom",
+      "start": 21.18,
+      "end": 21.6
+    },
+    {
+      "word": "keyboard",
+      "start": 21.6,
+      "end": 21.98
+    },
+    {
+      "word": "triggers",
+      "start": 21.98,
+      "end": 22.56
+    },
+    {
+      "word": "system",
+      "start": 22.56,
+      "end": 22.96
+    },
+    {
+      "word": "-wide",
+      "start": 22.96,
+      "end": 23.36
+    },
+    {
+      "word": "and",
+      "start": 23.36,
+      "end": 23.98
+    },
+    {
+      "word": "instantly",
+      "start": 23.98,
+      "end": 24.32
+    },
+    {
+      "word": "replacing",
+      "start": 24.32,
+      "end": 24.74
+    },
+    {
+      "word": "them",
+      "start": 24.74,
+      "end": 25.14
+    },
+    {
+      "word": "with",
+      "start": 25.14,
+      "end": 25.32
+    },
+    {
+      "word": "dynamic",
+      "start": 25.32,
+      "end": 25.78
+    },
+    {
+      "word": "snippets.",
+      "start": 25.78,
+      "end": 26.38
+    },
+    {
+      "word": "You",
+      "start": 26.38,
+      "end": 27.14
+    },
+    {
+      "word": "shave",
+      "start": 27.14,
+      "end": 27.4
+    },
+    {
+      "word": "hours",
+      "start": 27.4,
+      "end": 27.8
+    },
+    {
+      "word": "off",
+      "start": 27.8,
+      "end": 28.22
+    },
+    {
+      "word": "repetitive",
+      "start": 28.22,
+      "end": 28.66
+    },
+    {
+      "word": "typing",
+      "start": 28.66,
+      "end": 29.08
+    },
+    {
+      "word": "across",
+      "start": 29.08,
+      "end": 29.5
+    },
+    {
+      "word": "every",
+      "start": 29.5,
+      "end": 29.86
+    },
+    {
+      "word": "application.",
+      "start": 29.86,
+      "end": 30.4
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Stop typing the same email replies, links, and code snippets over and over.",
+      "line2": "FREE TEXT EXPANDER",
+      "tag": "\ud83d\uded1 Espanso",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Espanso",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Espanso",
+        "subtitle": "Espanso"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Espanso"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Espanso"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Espanso",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

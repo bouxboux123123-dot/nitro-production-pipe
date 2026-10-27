@@ -1,0 +1,401 @@
+{
+  "page": "page-03",
+  "idea": "Automated supplier price monitoring to protect profit margins",
+  "text": "Run a hands-off global print-on-demand business without touching a single cardboard box. Beginners assume selling merchandise requires buying bulk inventory, packing boxes, and printing shipping labels. Storing inventory ties up cash and creates dead stock when seasonal trends fade. Connect your storefront to Gelato to print and ship apparel only after customer payment clears. This creates pure passive profit while saving ten hours every week.",
+  "duration": 25.493,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Run",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "a",
+      "start": 0.24,
+      "end": 0.38
+    },
+    {
+      "word": "hands",
+      "start": 0.38,
+      "end": 0.58
+    },
+    {
+      "word": "-off",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "global",
+      "start": 0.86,
+      "end": 1.28
+    },
+    {
+      "word": "print",
+      "start": 1.28,
+      "end": 1.56
+    },
+    {
+      "word": "-on",
+      "start": 1.56,
+      "end": 1.7
+    },
+    {
+      "word": "-demand",
+      "start": 1.7,
+      "end": 1.98
+    },
+    {
+      "word": "business",
+      "start": 1.98,
+      "end": 2.44
+    },
+    {
+      "word": "without",
+      "start": 2.44,
+      "end": 2.74
+    },
+    {
+      "word": "touching",
+      "start": 2.74,
+      "end": 3.02
+    },
+    {
+      "word": "a",
+      "start": 3.02,
+      "end": 3.52
+    },
+    {
+      "word": "single",
+      "start": 3.52,
+      "end": 3.52
+    },
+    {
+      "word": "cardboard",
+      "start": 3.52,
+      "end": 3.94
+    },
+    {
+      "word": "box.",
+      "start": 3.94,
+      "end": 4.62
+    },
+    {
+      "word": "Beginners",
+      "start": 5.08,
+      "end": 5.3
+    },
+    {
+      "word": "assume",
+      "start": 5.3,
+      "end": 5.66
+    },
+    {
+      "word": "selling",
+      "start": 5.66,
+      "end": 5.98
+    },
+    {
+      "word": "merchandise",
+      "start": 5.98,
+      "end": 6.58
+    },
+    {
+      "word": "requires",
+      "start": 6.58,
+      "end": 7.2
+    },
+    {
+      "word": "buying",
+      "start": 7.2,
+      "end": 7.6
+    },
+    {
+      "word": "bulk",
+      "start": 7.6,
+      "end": 7.88
+    },
+    {
+      "word": "inventory,",
+      "start": 7.88,
+      "end": 8.38
+    },
+    {
+      "word": "packing",
+      "start": 9.04,
+      "end": 9.04
+    },
+    {
+      "word": "boxes,",
+      "start": 9.04,
+      "end": 9.56
+    },
+    {
+      "word": "and",
+      "start": 9.92,
+      "end": 10.18
+    },
+    {
+      "word": "printing",
+      "start": 10.18,
+      "end": 10.4
+    },
+    {
+      "word": "shipping",
+      "start": 10.4,
+      "end": 10.7
+    },
+    {
+      "word": "labels.",
+      "start": 10.7,
+      "end": 11.1
+    },
+    {
+      "word": "Storing",
+      "start": 11.66,
+      "end": 12.0
+    },
+    {
+      "word": "inventory",
+      "start": 12.0,
+      "end": 12.48
+    },
+    {
+      "word": "ties",
+      "start": 12.48,
+      "end": 12.82
+    },
+    {
+      "word": "up",
+      "start": 12.82,
+      "end": 13.04
+    },
+    {
+      "word": "cash",
+      "start": 13.04,
+      "end": 13.38
+    },
+    {
+      "word": "and",
+      "start": 13.38,
+      "end": 13.72
+    },
+    {
+      "word": "creates",
+      "start": 13.72,
+      "end": 14.02
+    },
+    {
+      "word": "dead",
+      "start": 14.02,
+      "end": 14.38
+    },
+    {
+      "word": "stock",
+      "start": 14.38,
+      "end": 14.7
+    },
+    {
+      "word": "when",
+      "start": 14.7,
+      "end": 14.94
+    },
+    {
+      "word": "seasonal",
+      "start": 14.94,
+      "end": 15.32
+    },
+    {
+      "word": "trends",
+      "start": 15.32,
+      "end": 15.7
+    },
+    {
+      "word": "fade.",
+      "start": 15.7,
+      "end": 16.04
+    },
+    {
+      "word": "Connect",
+      "start": 16.82,
+      "end": 16.82
+    },
+    {
+      "word": "your",
+      "start": 16.82,
+      "end": 17.06
+    },
+    {
+      "word": "storefront",
+      "start": 17.06,
+      "end": 17.34
+    },
+    {
+      "word": "to",
+      "start": 17.34,
+      "end": 17.68
+    },
+    {
+      "word": "gelato",
+      "start": 17.68,
+      "end": 18.06
+    },
+    {
+      "word": "to",
+      "start": 18.06,
+      "end": 18.36
+    },
+    {
+      "word": "print",
+      "start": 18.36,
+      "end": 18.48
+    },
+    {
+      "word": "and",
+      "start": 18.48,
+      "end": 18.66
+    },
+    {
+      "word": "ship",
+      "start": 18.66,
+      "end": 18.82
+    },
+    {
+      "word": "apparel",
+      "start": 18.82,
+      "end": 19.3
+    },
+    {
+      "word": "only",
+      "start": 19.3,
+      "end": 19.72
+    },
+    {
+      "word": "after",
+      "start": 19.72,
+      "end": 20.02
+    },
+    {
+      "word": "customer",
+      "start": 20.02,
+      "end": 20.4
+    },
+    {
+      "word": "payment",
+      "start": 20.4,
+      "end": 20.76
+    },
+    {
+      "word": "clears.",
+      "start": 20.76,
+      "end": 21.12
+    },
+    {
+      "word": "This",
+      "start": 21.12,
+      "end": 21.92
+    },
+    {
+      "word": "creates",
+      "start": 21.92,
+      "end": 22.34
+    },
+    {
+      "word": "pure",
+      "start": 22.34,
+      "end": 22.72
+    },
+    {
+      "word": "passive",
+      "start": 22.72,
+      "end": 23.16
+    },
+    {
+      "word": "profit",
+      "start": 23.16,
+      "end": 23.54
+    },
+    {
+      "word": "while",
+      "start": 23.54,
+      "end": 23.88
+    },
+    {
+      "word": "saving",
+      "start": 23.88,
+      "end": 24.18
+    },
+    {
+      "word": "10",
+      "start": 24.18,
+      "end": 24.56
+    },
+    {
+      "word": "hours",
+      "start": 24.56,
+      "end": 24.88
+    },
+    {
+      "word": "every",
+      "start": 24.88,
+      "end": 25.18
+    },
+    {
+      "word": "week.",
+      "start": 25.18,
+      "end": 25.46
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The smart scraper that keeps your online store profitable without manual audits.",
+      "line2": "PROTECT PROFIT MARGINS",
+      "tag": "\ud83d\uded1 Automated supplier price monitoring to protect profit margins",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated supplier price monitoring to protect profit margins",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated supplier price monitoring to protect profit margins",
+        "subtitle": "Automated supplier price monitoring to protect profit margins"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated supplier price monitoring to protect profit margins"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated supplier price monitoring to protect profit margins"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated supplier price monitoring to protect profit margins",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

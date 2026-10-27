@@ -1,0 +1,381 @@
+{
+  "page": "page-06",
+  "idea": "AI meeting recording summarizer that pushes key decisions to Notion",
+  "text": "Keep distributed teammates completely aligned even when they miss the live team call. Colleagues in different timezones wake up disconnected from decisions made during morning syncs. Reading raw transcripts takes too long, so overseas engineers skip reviews and build outdated specs. Automatically summarize every recording with Fathom and sync a concise recap directly to Notion. Your global team stays aligned without meeting burnout.",
+  "duration": 24.448,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "heap",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "distributed",
+      "start": 0.3,
+      "end": 0.84
+    },
+    {
+      "word": "teammates",
+      "start": 0.84,
+      "end": 1.28
+    },
+    {
+      "word": "completely",
+      "start": 1.28,
+      "end": 1.88
+    },
+    {
+      "word": "aligned",
+      "start": 1.88,
+      "end": 2.34
+    },
+    {
+      "word": "even",
+      "start": 2.34,
+      "end": 2.7
+    },
+    {
+      "word": "when",
+      "start": 2.7,
+      "end": 2.86
+    },
+    {
+      "word": "they",
+      "start": 2.86,
+      "end": 3.02
+    },
+    {
+      "word": "missed",
+      "start": 3.02,
+      "end": 3.16
+    },
+    {
+      "word": "the",
+      "start": 3.16,
+      "end": 3.36
+    },
+    {
+      "word": "live",
+      "start": 3.36,
+      "end": 3.56
+    },
+    {
+      "word": "team",
+      "start": 3.56,
+      "end": 3.88
+    },
+    {
+      "word": "call.",
+      "start": 3.88,
+      "end": 4.38
+    },
+    {
+      "word": "Colleagues",
+      "start": 4.94,
+      "end": 5.1
+    },
+    {
+      "word": "in",
+      "start": 5.1,
+      "end": 5.3
+    },
+    {
+      "word": "different",
+      "start": 5.3,
+      "end": 5.56
+    },
+    {
+      "word": "time",
+      "start": 5.56,
+      "end": 5.86
+    },
+    {
+      "word": "zones",
+      "start": 5.86,
+      "end": 6.16
+    },
+    {
+      "word": "wake",
+      "start": 6.16,
+      "end": 6.38
+    },
+    {
+      "word": "up",
+      "start": 6.38,
+      "end": 6.66
+    },
+    {
+      "word": "disconnected",
+      "start": 6.66,
+      "end": 7.04
+    },
+    {
+      "word": "from",
+      "start": 7.04,
+      "end": 7.38
+    },
+    {
+      "word": "decisions",
+      "start": 7.38,
+      "end": 7.74
+    },
+    {
+      "word": "made",
+      "start": 7.74,
+      "end": 8.04
+    },
+    {
+      "word": "during",
+      "start": 8.04,
+      "end": 8.38
+    },
+    {
+      "word": "morning",
+      "start": 8.38,
+      "end": 8.7
+    },
+    {
+      "word": "sinks.",
+      "start": 8.7,
+      "end": 9.08
+    },
+    {
+      "word": "Reading",
+      "start": 9.72,
+      "end": 9.74
+    },
+    {
+      "word": "raw",
+      "start": 9.74,
+      "end": 10.04
+    },
+    {
+      "word": "transcripts",
+      "start": 10.04,
+      "end": 10.42
+    },
+    {
+      "word": "takes",
+      "start": 10.42,
+      "end": 10.82
+    },
+    {
+      "word": "too",
+      "start": 10.82,
+      "end": 11.12
+    },
+    {
+      "word": "long,",
+      "start": 11.12,
+      "end": 11.5
+    },
+    {
+      "word": "so",
+      "start": 11.8,
+      "end": 11.94
+    },
+    {
+      "word": "overseas",
+      "start": 11.94,
+      "end": 12.3
+    },
+    {
+      "word": "engineers",
+      "start": 12.3,
+      "end": 12.86
+    },
+    {
+      "word": "skip",
+      "start": 12.86,
+      "end": 13.22
+    },
+    {
+      "word": "reviews",
+      "start": 13.22,
+      "end": 13.66
+    },
+    {
+      "word": "and",
+      "start": 13.66,
+      "end": 13.96
+    },
+    {
+      "word": "build",
+      "start": 13.96,
+      "end": 14.14
+    },
+    {
+      "word": "outdated",
+      "start": 14.14,
+      "end": 14.62
+    },
+    {
+      "word": "specs.",
+      "start": 14.62,
+      "end": 15.18
+    },
+    {
+      "word": "Automatically",
+      "start": 15.76,
+      "end": 16.28
+    },
+    {
+      "word": "summarize",
+      "start": 16.28,
+      "end": 16.7
+    },
+    {
+      "word": "every",
+      "start": 16.7,
+      "end": 17.22
+    },
+    {
+      "word": "recording",
+      "start": 17.22,
+      "end": 17.58
+    },
+    {
+      "word": "with",
+      "start": 17.58,
+      "end": 17.94
+    },
+    {
+      "word": "Fathom",
+      "start": 17.94,
+      "end": 18.18
+    },
+    {
+      "word": "and",
+      "start": 18.18,
+      "end": 18.74
+    },
+    {
+      "word": "sync",
+      "start": 18.74,
+      "end": 18.88
+    },
+    {
+      "word": "a",
+      "start": 18.88,
+      "end": 19.16
+    },
+    {
+      "word": "concise",
+      "start": 19.16,
+      "end": 19.46
+    },
+    {
+      "word": "recap",
+      "start": 19.46,
+      "end": 19.94
+    },
+    {
+      "word": "directly",
+      "start": 19.94,
+      "end": 20.4
+    },
+    {
+      "word": "to",
+      "start": 20.4,
+      "end": 20.66
+    },
+    {
+      "word": "Notion.",
+      "start": 20.66,
+      "end": 21.02
+    },
+    {
+      "word": "Your",
+      "start": 21.54,
+      "end": 21.72
+    },
+    {
+      "word": "global",
+      "start": 21.72,
+      "end": 22.08
+    },
+    {
+      "word": "team",
+      "start": 22.08,
+      "end": 22.5
+    },
+    {
+      "word": "stays",
+      "start": 22.5,
+      "end": 22.82
+    },
+    {
+      "word": "aligned",
+      "start": 22.82,
+      "end": 23.24
+    },
+    {
+      "word": "without",
+      "start": 23.24,
+      "end": 23.66
+    },
+    {
+      "word": "meeting",
+      "start": 23.66,
+      "end": 24.0
+    },
+    {
+      "word": "burnout.",
+      "start": 24.0,
+      "end": 24.42
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How to keep team members in the loop even if they skipped the live meeting.",
+      "line2": "PUSH DECISIONS TO NOTION",
+      "tag": "\ud83d\uded1 AI meeting recording summarizer that pushes key decisions to Notion",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: AI meeting recording summarizer that pushes key decisions to Notion",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: AI meeting recording summarizer that pushes key decisions to Notion",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "AI meeting recording summarizer that pushes key decisions to Notion",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

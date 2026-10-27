@@ -1,0 +1,396 @@
+{
+  "page": "page-10",
+  "idea": "Superhuman AI update for automated email triage and instant drafts",
+  "text": "People gladly pay thirty dollars monthly for email tools because of features like these. Spending hours every day drafting repetitive status updates and scheduling calls drags your business to a crawl. Free email platforms lack smart calendar embeds and read-tracking analytics that close deals faster. Superhuman integrates instant calendar availability, background read notifications, and rapid AI drafting into one fast interface. You save ten hours every week.",
+  "duration": 28.709,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "People",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "gladly",
+      "start": 0.38,
+      "end": 0.72
+    },
+    {
+      "word": "pay",
+      "start": 0.72,
+      "end": 1.08
+    },
+    {
+      "word": "$30",
+      "start": 1.08,
+      "end": 1.56
+    },
+    {
+      "word": "monthly",
+      "start": 1.56,
+      "end": 2.14
+    },
+    {
+      "word": "for",
+      "start": 2.14,
+      "end": 2.48
+    },
+    {
+      "word": "email",
+      "start": 2.48,
+      "end": 2.76
+    },
+    {
+      "word": "tools",
+      "start": 2.76,
+      "end": 3.3
+    },
+    {
+      "word": "because",
+      "start": 3.3,
+      "end": 3.82
+    },
+    {
+      "word": "of",
+      "start": 3.82,
+      "end": 4.06
+    },
+    {
+      "word": "features",
+      "start": 4.06,
+      "end": 4.34
+    },
+    {
+      "word": "like",
+      "start": 4.34,
+      "end": 4.72
+    },
+    {
+      "word": "these.",
+      "start": 4.72,
+      "end": 5.48
+    },
+    {
+      "word": "Spending",
+      "start": 5.9,
+      "end": 5.98
+    },
+    {
+      "word": "hours",
+      "start": 5.98,
+      "end": 6.46
+    },
+    {
+      "word": "every",
+      "start": 6.46,
+      "end": 6.84
+    },
+    {
+      "word": "day",
+      "start": 6.84,
+      "end": 7.14
+    },
+    {
+      "word": "drafting",
+      "start": 7.14,
+      "end": 7.58
+    },
+    {
+      "word": "repetitive",
+      "start": 7.58,
+      "end": 8.18
+    },
+    {
+      "word": "status",
+      "start": 8.18,
+      "end": 8.6
+    },
+    {
+      "word": "updates",
+      "start": 8.6,
+      "end": 9.0
+    },
+    {
+      "word": "and",
+      "start": 9.0,
+      "end": 9.54
+    },
+    {
+      "word": "scheduling",
+      "start": 9.54,
+      "end": 9.9
+    },
+    {
+      "word": "calls",
+      "start": 9.9,
+      "end": 10.44
+    },
+    {
+      "word": "drags",
+      "start": 10.44,
+      "end": 10.78
+    },
+    {
+      "word": "your",
+      "start": 10.78,
+      "end": 11.02
+    },
+    {
+      "word": "business",
+      "start": 11.02,
+      "end": 11.22
+    },
+    {
+      "word": "to",
+      "start": 11.22,
+      "end": 11.6
+    },
+    {
+      "word": "a",
+      "start": 11.6,
+      "end": 11.74
+    },
+    {
+      "word": "crawl.",
+      "start": 11.74,
+      "end": 12.14
+    },
+    {
+      "word": "Free",
+      "start": 12.58,
+      "end": 12.68
+    },
+    {
+      "word": "email",
+      "start": 12.68,
+      "end": 12.98
+    },
+    {
+      "word": "platforms",
+      "start": 12.98,
+      "end": 13.5
+    },
+    {
+      "word": "lack",
+      "start": 13.5,
+      "end": 13.94
+    },
+    {
+      "word": "smart",
+      "start": 13.94,
+      "end": 14.42
+    },
+    {
+      "word": "calendar",
+      "start": 14.42,
+      "end": 14.82
+    },
+    {
+      "word": "embeds",
+      "start": 14.82,
+      "end": 15.38
+    },
+    {
+      "word": "and",
+      "start": 15.38,
+      "end": 15.56
+    },
+    {
+      "word": "re",
+      "start": 15.56,
+      "end": 15.76
+    },
+    {
+      "word": "-tracking",
+      "start": 15.76,
+      "end": 16.14
+    },
+    {
+      "word": "analytics",
+      "start": 16.14,
+      "end": 16.52
+    },
+    {
+      "word": "that",
+      "start": 16.52,
+      "end": 16.92
+    },
+    {
+      "word": "close",
+      "start": 16.92,
+      "end": 17.18
+    },
+    {
+      "word": "deals",
+      "start": 17.18,
+      "end": 17.42
+    },
+    {
+      "word": "faster.",
+      "start": 17.42,
+      "end": 17.94
+    },
+    {
+      "word": "Superhuman",
+      "start": 18.76,
+      "end": 19.18
+    },
+    {
+      "word": "integrates",
+      "start": 19.18,
+      "end": 19.64
+    },
+    {
+      "word": "instant",
+      "start": 19.64,
+      "end": 20.18
+    },
+    {
+      "word": "calendar",
+      "start": 20.18,
+      "end": 20.58
+    },
+    {
+      "word": "availability,",
+      "start": 20.58,
+      "end": 21.14
+    },
+    {
+      "word": "background",
+      "start": 21.8,
+      "end": 21.92
+    },
+    {
+      "word": "read",
+      "start": 21.92,
+      "end": 22.34
+    },
+    {
+      "word": "notifications,",
+      "start": 22.34,
+      "end": 22.94
+    },
+    {
+      "word": "and",
+      "start": 23.5,
+      "end": 23.76
+    },
+    {
+      "word": "rapid",
+      "start": 23.76,
+      "end": 23.96
+    },
+    {
+      "word": "AI",
+      "start": 23.96,
+      "end": 24.54
+    },
+    {
+      "word": "drafting",
+      "start": 24.54,
+      "end": 24.98
+    },
+    {
+      "word": "into",
+      "start": 24.98,
+      "end": 25.3
+    },
+    {
+      "word": "one",
+      "start": 25.3,
+      "end": 25.58
+    },
+    {
+      "word": "fast",
+      "start": 25.58,
+      "end": 25.94
+    },
+    {
+      "word": "interface.",
+      "start": 25.94,
+      "end": 26.4
+    },
+    {
+      "word": "You",
+      "start": 27.0,
+      "end": 27.16
+    },
+    {
+      "word": "save",
+      "start": 27.16,
+      "end": 27.32
+    },
+    {
+      "word": "10",
+      "start": 27.32,
+      "end": 27.72
+    },
+    {
+      "word": "hours",
+      "start": 27.72,
+      "end": 28.06
+    },
+    {
+      "word": "every",
+      "start": 28.06,
+      "end": 28.38
+    },
+    {
+      "word": "week.",
+      "start": 28.38,
+      "end": 28.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Why people gladly pay for premium email tools: look at these new features.",
+      "line2": "SUPERHUMAN AI EMAIL TRIAGE",
+      "tag": "\ud83d\uded1 Superhuman AI update for automated email triage and instant drafts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Superhuman AI update for automated email triage and instant drafts",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Superhuman AI update for automated email triage and instant drafts",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Superhuman AI update for automated email triage and instant drafts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

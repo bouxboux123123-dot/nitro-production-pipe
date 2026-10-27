@@ -1,0 +1,441 @@
+{
+  "page": "page-06",
+  "idea": "Async peer recognition bot that rewards teammates in public Slack channels",
+  "text": "Here is the culture-building tool that boosted team morale and connection across our remote workforce. Traditional employee surveys only capture frustration after cultural breakdown and team resentment have already taken root. Managers lack real-time visibility into cross-team collaboration when casual in-person interactions do not exist. Connecting Culture Amp with automated Slack shoutouts tracks positive sentiment trends while spotlighting unsung internal contributors. You build an authentic remote community without forced happy hours.",
+  "duration": 32.805,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.62
+    },
+    {
+      "word": "culture",
+      "start": 0.62,
+      "end": 0.92
+    },
+    {
+      "word": "building",
+      "start": 0.92,
+      "end": 1.3
+    },
+    {
+      "word": "tool",
+      "start": 1.3,
+      "end": 1.62
+    },
+    {
+      "word": "that",
+      "start": 1.62,
+      "end": 1.88
+    },
+    {
+      "word": "boosted",
+      "start": 1.88,
+      "end": 2.24
+    },
+    {
+      "word": "team",
+      "start": 2.24,
+      "end": 2.66
+    },
+    {
+      "word": "morale",
+      "start": 2.66,
+      "end": 2.96
+    },
+    {
+      "word": "and",
+      "start": 2.96,
+      "end": 3.28
+    },
+    {
+      "word": "connection",
+      "start": 3.28,
+      "end": 3.84
+    },
+    {
+      "word": "across",
+      "start": 3.84,
+      "end": 4.4
+    },
+    {
+      "word": "our",
+      "start": 4.4,
+      "end": 4.66
+    },
+    {
+      "word": "remote",
+      "start": 4.66,
+      "end": 4.92
+    },
+    {
+      "word": "work",
+      "start": 4.92,
+      "end": 5.3
+    },
+    {
+      "word": "force.",
+      "start": 5.3,
+      "end": 5.7
+    },
+    {
+      "word": "Traditional",
+      "start": 6.52,
+      "end": 6.52
+    },
+    {
+      "word": "employees",
+      "start": 6.52,
+      "end": 7.22
+    },
+    {
+      "word": "surveys",
+      "start": 7.22,
+      "end": 7.64
+    },
+    {
+      "word": "only",
+      "start": 7.64,
+      "end": 8.14
+    },
+    {
+      "word": "capture",
+      "start": 8.14,
+      "end": 8.52
+    },
+    {
+      "word": "frustration",
+      "start": 8.52,
+      "end": 9.14
+    },
+    {
+      "word": "after",
+      "start": 9.14,
+      "end": 9.72
+    },
+    {
+      "word": "cultural",
+      "start": 9.72,
+      "end": 10.12
+    },
+    {
+      "word": "breakdown",
+      "start": 10.12,
+      "end": 10.54
+    },
+    {
+      "word": "and",
+      "start": 10.54,
+      "end": 11.02
+    },
+    {
+      "word": "team",
+      "start": 11.02,
+      "end": 11.28
+    },
+    {
+      "word": "resentment",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "word": "have",
+      "start": 11.68,
+      "end": 12.22
+    },
+    {
+      "word": "already",
+      "start": 12.22,
+      "end": 12.5
+    },
+    {
+      "word": "taken",
+      "start": 12.5,
+      "end": 12.9
+    },
+    {
+      "word": "root.",
+      "start": 12.9,
+      "end": 13.36
+    },
+    {
+      "word": "Managers",
+      "start": 13.64,
+      "end": 13.98
+    },
+    {
+      "word": "lack",
+      "start": 13.98,
+      "end": 14.36
+    },
+    {
+      "word": "real",
+      "start": 14.36,
+      "end": 14.68
+    },
+    {
+      "word": "-time",
+      "start": 14.68,
+      "end": 14.98
+    },
+    {
+      "word": "visibility",
+      "start": 14.98,
+      "end": 15.56
+    },
+    {
+      "word": "into",
+      "start": 15.56,
+      "end": 15.92
+    },
+    {
+      "word": "cross",
+      "start": 15.92,
+      "end": 16.26
+    },
+    {
+      "word": "-team",
+      "start": 16.26,
+      "end": 16.46
+    },
+    {
+      "word": "collaboration",
+      "start": 16.46,
+      "end": 17.14
+    },
+    {
+      "word": "when",
+      "start": 17.14,
+      "end": 17.8
+    },
+    {
+      "word": "casual",
+      "start": 17.8,
+      "end": 18.26
+    },
+    {
+      "word": "and",
+      "start": 18.26,
+      "end": 18.48
+    },
+    {
+      "word": "person",
+      "start": 18.48,
+      "end": 18.74
+    },
+    {
+      "word": "interactions",
+      "start": 18.74,
+      "end": 19.28
+    },
+    {
+      "word": "do",
+      "start": 19.28,
+      "end": 19.56
+    },
+    {
+      "word": "not",
+      "start": 19.56,
+      "end": 19.8
+    },
+    {
+      "word": "exist.",
+      "start": 19.8,
+      "end": 20.3
+    },
+    {
+      "word": "Connecting",
+      "start": 21.06,
+      "end": 21.34
+    },
+    {
+      "word": "culture",
+      "start": 21.34,
+      "end": 21.76
+    },
+    {
+      "word": "AMP",
+      "start": 21.76,
+      "end": 22.02
+    },
+    {
+      "word": "with",
+      "start": 22.02,
+      "end": 22.66
+    },
+    {
+      "word": "automated",
+      "start": 22.66,
+      "end": 22.68
+    },
+    {
+      "word": "Slack",
+      "start": 22.68,
+      "end": 23.16
+    },
+    {
+      "word": "shoutouts",
+      "start": 23.16,
+      "end": 23.74
+    },
+    {
+      "word": "tracks",
+      "start": 23.74,
+      "end": 24.36
+    },
+    {
+      "word": "positive",
+      "start": 24.36,
+      "end": 24.96
+    },
+    {
+      "word": "sentiment",
+      "start": 24.96,
+      "end": 25.4
+    },
+    {
+      "word": "trends",
+      "start": 25.4,
+      "end": 25.8
+    },
+    {
+      "word": "while",
+      "start": 25.8,
+      "end": 26.36
+    },
+    {
+      "word": "spotlighting",
+      "start": 26.36,
+      "end": 27.06
+    },
+    {
+      "word": "unsung",
+      "start": 27.06,
+      "end": 27.56
+    },
+    {
+      "word": "internal",
+      "start": 27.56,
+      "end": 28.02
+    },
+    {
+      "word": "contributors.",
+      "start": 28.02,
+      "end": 28.62
+    },
+    {
+      "word": "You",
+      "start": 28.62,
+      "end": 29.38
+    },
+    {
+      "word": "build",
+      "start": 29.38,
+      "end": 29.62
+    },
+    {
+      "word": "an",
+      "start": 29.62,
+      "end": 29.82
+    },
+    {
+      "word": "authentic",
+      "start": 29.82,
+      "end": 30.24
+    },
+    {
+      "word": "remote",
+      "start": 30.24,
+      "end": 30.58
+    },
+    {
+      "word": "community",
+      "start": 30.58,
+      "end": 31.12
+    },
+    {
+      "word": "without",
+      "start": 31.12,
+      "end": 31.58
+    },
+    {
+      "word": "forced",
+      "start": 31.58,
+      "end": 31.98
+    },
+    {
+      "word": "happy",
+      "start": 31.98,
+      "end": 32.32
+    },
+    {
+      "word": "hours.",
+      "start": 32.32,
+      "end": 32.74
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The culture-building tool that boosted team morale and peer connection.",
+      "line2": "REWARD REMOTE TEAMMATES",
+      "tag": "\ud83d\uded1 Async peer recognition bot that rewards teammates in public Slack channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async peer recognition bot that rewards teammates in public Slack channels",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async peer recognition bot that rewards teammates in public Slack channels",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "page": "page-06",
+  "idea": "Async video updates that replace 30-minute daily standup meetings",
+  "text": "Here is the exact ninety-second async video template that keeps our remote team aligned. Traditional morning status calls drag on endlessly because teammates ramble without clear structure or direction. Unstructured verbal updates fail to highlight urgent roadblocks, leaving critical project dependencies completely unaddressed. Require contributors to post ninety-second Loom recaps covering yesterday's output, today's priority, and immediate blockers. Your team eliminates sync fatigue while accelerating delivery.",
+  "duration": 30.415,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.66
+    },
+    {
+      "word": "exact",
+      "start": 0.66,
+      "end": 1.04
+    },
+    {
+      "word": "90",
+      "start": 1.04,
+      "end": 1.42
+    },
+    {
+      "word": "-second",
+      "start": 1.42,
+      "end": 1.74
+    },
+    {
+      "word": "sync",
+      "start": 1.74,
+      "end": 2.02
+    },
+    {
+      "word": "video",
+      "start": 2.02,
+      "end": 2.42
+    },
+    {
+      "word": "template",
+      "start": 2.42,
+      "end": 2.8
+    },
+    {
+      "word": "that",
+      "start": 2.8,
+      "end": 3.12
+    },
+    {
+      "word": "keeps",
+      "start": 3.12,
+      "end": 3.38
+    },
+    {
+      "word": "our",
+      "start": 3.38,
+      "end": 3.66
+    },
+    {
+      "word": "remote",
+      "start": 3.66,
+      "end": 3.96
+    },
+    {
+      "word": "team",
+      "start": 3.96,
+      "end": 4.28
+    },
+    {
+      "word": "aligned.",
+      "start": 4.28,
+      "end": 4.86
+    },
+    {
+      "word": "Traditional",
+      "start": 5.64,
+      "end": 5.78
+    },
+    {
+      "word": "morning",
+      "start": 5.78,
+      "end": 6.24
+    },
+    {
+      "word": "status",
+      "start": 6.24,
+      "end": 6.68
+    },
+    {
+      "word": "calls",
+      "start": 6.68,
+      "end": 7.1
+    },
+    {
+      "word": "drag",
+      "start": 7.1,
+      "end": 7.46
+    },
+    {
+      "word": "on",
+      "start": 7.46,
+      "end": 7.74
+    },
+    {
+      "word": "endlessly",
+      "start": 7.74,
+      "end": 8.18
+    },
+    {
+      "word": "because",
+      "start": 8.18,
+      "end": 8.9
+    },
+    {
+      "word": "teammates",
+      "start": 8.9,
+      "end": 9.3
+    },
+    {
+      "word": "ramble",
+      "start": 9.3,
+      "end": 9.8
+    },
+    {
+      "word": "without",
+      "start": 9.8,
+      "end": 10.22
+    },
+    {
+      "word": "clear",
+      "start": 10.22,
+      "end": 10.52
+    },
+    {
+      "word": "structure",
+      "start": 10.52,
+      "end": 10.94
+    },
+    {
+      "word": "or",
+      "start": 10.94,
+      "end": 11.18
+    },
+    {
+      "word": "direction.",
+      "start": 11.18,
+      "end": 11.7
+    },
+    {
+      "word": "Unstructured",
+      "start": 12.12,
+      "end": 12.58
+    },
+    {
+      "word": "verbal",
+      "start": 12.58,
+      "end": 12.92
+    },
+    {
+      "word": "updates",
+      "start": 12.92,
+      "end": 13.3
+    },
+    {
+      "word": "fail",
+      "start": 13.3,
+      "end": 13.62
+    },
+    {
+      "word": "to",
+      "start": 13.62,
+      "end": 13.88
+    },
+    {
+      "word": "highlight",
+      "start": 13.88,
+      "end": 14.3
+    },
+    {
+      "word": "urgent",
+      "start": 14.3,
+      "end": 14.62
+    },
+    {
+      "word": "roadblocks,",
+      "start": 14.62,
+      "end": 15.28
+    },
+    {
+      "word": "leaving",
+      "start": 15.8,
+      "end": 15.9
+    },
+    {
+      "word": "critical",
+      "start": 15.9,
+      "end": 16.36
+    },
+    {
+      "word": "project",
+      "start": 16.36,
+      "end": 16.82
+    },
+    {
+      "word": "dependencies",
+      "start": 16.82,
+      "end": 17.4
+    },
+    {
+      "word": "completely",
+      "start": 17.4,
+      "end": 18.24
+    },
+    {
+      "word": "unaddressed.",
+      "start": 18.24,
+      "end": 18.9
+    },
+    {
+      "word": "Require",
+      "start": 19.56,
+      "end": 19.88
+    },
+    {
+      "word": "contributors",
+      "start": 19.88,
+      "end": 20.38
+    },
+    {
+      "word": "to",
+      "start": 20.38,
+      "end": 20.72
+    },
+    {
+      "word": "post",
+      "start": 20.72,
+      "end": 20.98
+    },
+    {
+      "word": "90",
+      "start": 20.98,
+      "end": 21.4
+    },
+    {
+      "word": "-second",
+      "start": 21.4,
+      "end": 21.72
+    },
+    {
+      "word": "loom",
+      "start": 21.72,
+      "end": 21.96
+    },
+    {
+      "word": "recaps",
+      "start": 21.96,
+      "end": 22.4
+    },
+    {
+      "word": "covering",
+      "start": 22.4,
+      "end": 22.76
+    },
+    {
+      "word": "yesterday's",
+      "start": 22.76,
+      "end": 23.56
+    },
+    {
+      "word": "output,",
+      "start": 23.56,
+      "end": 23.74
+    },
+    {
+      "word": "today's",
+      "start": 24.28,
+      "end": 24.64
+    },
+    {
+      "word": "priority,",
+      "start": 24.64,
+      "end": 25.14
+    },
+    {
+      "word": "and",
+      "start": 25.48,
+      "end": 25.66
+    },
+    {
+      "word": "immediate",
+      "start": 25.66,
+      "end": 26.06
+    },
+    {
+      "word": "blockers.",
+      "start": 26.06,
+      "end": 26.52
+    },
+    {
+      "word": "Your",
+      "start": 26.52,
+      "end": 27.36
+    },
+    {
+      "word": "team",
+      "start": 27.36,
+      "end": 27.7
+    },
+    {
+      "word": "eliminates",
+      "start": 27.7,
+      "end": 28.26
+    },
+    {
+      "word": "sync",
+      "start": 28.26,
+      "end": 28.52
+    },
+    {
+      "word": "fatigue",
+      "start": 28.52,
+      "end": 28.96
+    },
+    {
+      "word": "while",
+      "start": 28.96,
+      "end": 29.32
+    },
+    {
+      "word": "accelerating",
+      "start": 29.32,
+      "end": 29.8
+    },
+    {
+      "word": "delivery.",
+      "start": 29.8,
+      "end": 30.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The exact 90-second async video template that keeps our remote team in sync.",
+      "line2": "KILL 30-MIN STANDUPS",
+      "tag": "\ud83d\uded1 Async video updates that replace 30-minute daily standup meetings",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Async video updates that replace 30-minute daily standup meetings",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Async video updates that replace 30-minute daily standup meetings",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Async video updates that replace 30-minute daily standup meetings",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

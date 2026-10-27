@@ -1,0 +1,411 @@
+{
+  "page": "page-07",
+  "idea": "Automated SEO programmatic page generator for startup growth",
+  "text": "Here is how early-stage startups generate thousands of organic search landing pages. Writing individual blog posts takes months, making it impossible to outrank entrenched competitors on broad keywords. Manual writing cannot scale across thousands of high-intent search queries like software comparisons and integrations. Structure programmatic page templates in Webflow, syncing dynamic data rows from Airtable using automated Whalesync pipelines. You capture massive inbound buyer traffic on autopilot.",
+  "duration": 31.781,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.46
+    },
+    {
+      "word": "how",
+      "start": 0.46,
+      "end": 0.74
+    },
+    {
+      "word": "early",
+      "start": 0.74,
+      "end": 1.02
+    },
+    {
+      "word": "stage",
+      "start": 1.02,
+      "end": 1.44
+    },
+    {
+      "word": "startups",
+      "start": 1.44,
+      "end": 1.86
+    },
+    {
+      "word": "generate",
+      "start": 1.86,
+      "end": 2.44
+    },
+    {
+      "word": "thousands",
+      "start": 2.44,
+      "end": 3.06
+    },
+    {
+      "word": "of",
+      "start": 3.06,
+      "end": 3.38
+    },
+    {
+      "word": "organic",
+      "start": 3.38,
+      "end": 3.74
+    },
+    {
+      "word": "search",
+      "start": 3.74,
+      "end": 4.14
+    },
+    {
+      "word": "landing",
+      "start": 4.14,
+      "end": 4.46
+    },
+    {
+      "word": "pages.",
+      "start": 4.46,
+      "end": 5.1
+    },
+    {
+      "word": "Writing",
+      "start": 5.98,
+      "end": 5.98
+    },
+    {
+      "word": "individual",
+      "start": 5.98,
+      "end": 6.58
+    },
+    {
+      "word": "blog",
+      "start": 6.58,
+      "end": 6.98
+    },
+    {
+      "word": "posts",
+      "start": 6.98,
+      "end": 7.3
+    },
+    {
+      "word": "takes",
+      "start": 7.3,
+      "end": 7.7
+    },
+    {
+      "word": "months,",
+      "start": 7.7,
+      "end": 8.24
+    },
+    {
+      "word": "making",
+      "start": 8.58,
+      "end": 8.72
+    },
+    {
+      "word": "it",
+      "start": 8.72,
+      "end": 9.04
+    },
+    {
+      "word": "impossible",
+      "start": 9.04,
+      "end": 9.48
+    },
+    {
+      "word": "to",
+      "start": 9.48,
+      "end": 9.8
+    },
+    {
+      "word": "outrank",
+      "start": 9.8,
+      "end": 10.32
+    },
+    {
+      "word": "entrenched",
+      "start": 10.32,
+      "end": 10.82
+    },
+    {
+      "word": "competitors",
+      "start": 10.82,
+      "end": 11.32
+    },
+    {
+      "word": "on",
+      "start": 11.32,
+      "end": 11.78
+    },
+    {
+      "word": "broad",
+      "start": 11.78,
+      "end": 12.08
+    },
+    {
+      "word": "keywords.",
+      "start": 12.08,
+      "end": 12.62
+    },
+    {
+      "word": "Manual",
+      "start": 13.36,
+      "end": 13.36
+    },
+    {
+      "word": "writing",
+      "start": 13.36,
+      "end": 13.76
+    },
+    {
+      "word": "cannot",
+      "start": 13.76,
+      "end": 14.18
+    },
+    {
+      "word": "scale",
+      "start": 14.18,
+      "end": 14.52
+    },
+    {
+      "word": "across",
+      "start": 14.52,
+      "end": 14.94
+    },
+    {
+      "word": "thousands",
+      "start": 14.94,
+      "end": 15.4
+    },
+    {
+      "word": "of",
+      "start": 15.4,
+      "end": 15.68
+    },
+    {
+      "word": "high",
+      "start": 15.68,
+      "end": 15.98
+    },
+    {
+      "word": "-intensity",
+      "start": 15.98,
+      "end": 16.14
+    },
+    {
+      "word": "search",
+      "start": 16.14,
+      "end": 16.54
+    },
+    {
+      "word": "queries,",
+      "start": 16.54,
+      "end": 16.9
+    },
+    {
+      "word": "like",
+      "start": 17.3,
+      "end": 17.38
+    },
+    {
+      "word": "software",
+      "start": 17.38,
+      "end": 17.78
+    },
+    {
+      "word": "comparisons",
+      "start": 17.78,
+      "end": 18.36
+    },
+    {
+      "word": "and",
+      "start": 18.36,
+      "end": 18.84
+    },
+    {
+      "word": "integrations.",
+      "start": 18.84,
+      "end": 19.48
+    },
+    {
+      "word": "Structure",
+      "start": 20.16,
+      "end": 20.48
+    },
+    {
+      "word": "programmatic",
+      "start": 20.48,
+      "end": 21.32
+    },
+    {
+      "word": "page",
+      "start": 21.32,
+      "end": 21.82
+    },
+    {
+      "word": "templates",
+      "start": 21.82,
+      "end": 22.28
+    },
+    {
+      "word": "in",
+      "start": 22.28,
+      "end": 22.56
+    },
+    {
+      "word": "Webflow,",
+      "start": 22.56,
+      "end": 23.08
+    },
+    {
+      "word": "syncing",
+      "start": 23.36,
+      "end": 23.64
+    },
+    {
+      "word": "dynamic",
+      "start": 23.64,
+      "end": 24.12
+    },
+    {
+      "word": "data",
+      "start": 24.12,
+      "end": 24.6
+    },
+    {
+      "word": "rose",
+      "start": 24.6,
+      "end": 25.16
+    },
+    {
+      "word": "from",
+      "start": 25.16,
+      "end": 25.46
+    },
+    {
+      "word": "irritable",
+      "start": 25.46,
+      "end": 25.86
+    },
+    {
+      "word": "using",
+      "start": 25.86,
+      "end": 26.26
+    },
+    {
+      "word": "automated",
+      "start": 26.26,
+      "end": 26.74
+    },
+    {
+      "word": "whale",
+      "start": 26.74,
+      "end": 27.08
+    },
+    {
+      "word": "sync",
+      "start": 27.08,
+      "end": 27.32
+    },
+    {
+      "word": "pipelines.",
+      "start": 27.32,
+      "end": 27.9
+    },
+    {
+      "word": "You",
+      "start": 27.9,
+      "end": 28.68
+    },
+    {
+      "word": "capture",
+      "start": 28.68,
+      "end": 29.06
+    },
+    {
+      "word": "massive",
+      "start": 29.06,
+      "end": 29.62
+    },
+    {
+      "word": "inbound",
+      "start": 29.62,
+      "end": 30.12
+    },
+    {
+      "word": "buyer",
+      "start": 30.12,
+      "end": 30.5
+    },
+    {
+      "word": "traffic",
+      "start": 30.5,
+      "end": 30.86
+    },
+    {
+      "word": "on",
+      "start": 30.86,
+      "end": 31.22
+    },
+    {
+      "word": "autopilot.",
+      "start": 31.22,
+      "end": 31.76
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How early-stage startups generate thousands of organic search landing pages.",
+      "line2": "PROGRAMMATIC SEO PAGES",
+      "tag": "\ud83d\uded1 Automated SEO programmatic page generator for startup growth",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SEO programmatic page generator for startup growth",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SEO programmatic page generator for startup growth"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SEO programmatic page generator for startup growth",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

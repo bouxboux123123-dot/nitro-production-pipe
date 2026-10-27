@@ -1,0 +1,396 @@
+{
+  "page": "page-06",
+  "idea": "Digital whiteboard template for running remote design sprint workshops",
+  "text": "Stop suffering through awkward, silent Zoom brainstorming sessions with your remote engineering team. Asking an open question to twenty muted cameras always results in uncomfortable pauses and repetitive opinions. Extroverts dominate the call while introverted developers with breakthrough technical solutions stay completely silent. Switching to an asynchronous Mural board with silent sticky clustering lets everyone contribute simultaneously before voting. You turn dead silence into breakthrough product features.",
+  "duration": 31.333,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "suffering",
+      "start": 0.44,
+      "end": 0.84
+    },
+    {
+      "word": "through",
+      "start": 0.84,
+      "end": 1.24
+    },
+    {
+      "word": "awkward,",
+      "start": 1.24,
+      "end": 1.84
+    },
+    {
+      "word": "silent,",
+      "start": 2.34,
+      "end": 2.34
+    },
+    {
+      "word": "zoom",
+      "start": 2.42,
+      "end": 2.7
+    },
+    {
+      "word": "brainstorming",
+      "start": 2.7,
+      "end": 3.42
+    },
+    {
+      "word": "sessions",
+      "start": 3.42,
+      "end": 3.82
+    },
+    {
+      "word": "with",
+      "start": 3.82,
+      "end": 4.34
+    },
+    {
+      "word": "your",
+      "start": 4.34,
+      "end": 4.6
+    },
+    {
+      "word": "remote",
+      "start": 4.6,
+      "end": 4.92
+    },
+    {
+      "word": "engineering",
+      "start": 4.92,
+      "end": 5.42
+    },
+    {
+      "word": "team.",
+      "start": 5.42,
+      "end": 6.16
+    },
+    {
+      "word": "Asking",
+      "start": 6.74,
+      "end": 6.92
+    },
+    {
+      "word": "an",
+      "start": 6.92,
+      "end": 7.14
+    },
+    {
+      "word": "open",
+      "start": 7.14,
+      "end": 7.46
+    },
+    {
+      "word": "question",
+      "start": 7.46,
+      "end": 7.86
+    },
+    {
+      "word": "to",
+      "start": 7.86,
+      "end": 8.14
+    },
+    {
+      "word": "20",
+      "start": 8.14,
+      "end": 8.4
+    },
+    {
+      "word": "muted",
+      "start": 8.4,
+      "end": 8.7
+    },
+    {
+      "word": "cameras",
+      "start": 8.7,
+      "end": 9.24
+    },
+    {
+      "word": "always",
+      "start": 9.24,
+      "end": 9.92
+    },
+    {
+      "word": "results",
+      "start": 9.92,
+      "end": 10.4
+    },
+    {
+      "word": "in",
+      "start": 10.4,
+      "end": 10.76
+    },
+    {
+      "word": "uncomfortable",
+      "start": 10.76,
+      "end": 11.2
+    },
+    {
+      "word": "pauses",
+      "start": 11.2,
+      "end": 11.84
+    },
+    {
+      "word": "and",
+      "start": 11.84,
+      "end": 12.26
+    },
+    {
+      "word": "repetitive",
+      "start": 12.26,
+      "end": 12.68
+    },
+    {
+      "word": "opinions.",
+      "start": 12.68,
+      "end": 13.36
+    },
+    {
+      "word": "Extroverts",
+      "start": 13.92,
+      "end": 14.32
+    },
+    {
+      "word": "dominate",
+      "start": 14.32,
+      "end": 14.76
+    },
+    {
+      "word": "the",
+      "start": 14.76,
+      "end": 15.1
+    },
+    {
+      "word": "call",
+      "start": 15.1,
+      "end": 15.34
+    },
+    {
+      "word": "while",
+      "start": 15.34,
+      "end": 15.7
+    },
+    {
+      "word": "introverted",
+      "start": 15.7,
+      "end": 16.18
+    },
+    {
+      "word": "developers",
+      "start": 16.18,
+      "end": 16.6
+    },
+    {
+      "word": "with",
+      "start": 16.6,
+      "end": 17.06
+    },
+    {
+      "word": "breakthrough",
+      "start": 17.06,
+      "end": 17.44
+    },
+    {
+      "word": "technical",
+      "start": 17.44,
+      "end": 17.94
+    },
+    {
+      "word": "solutions",
+      "start": 17.94,
+      "end": 18.6
+    },
+    {
+      "word": "stay",
+      "start": 18.6,
+      "end": 19.24
+    },
+    {
+      "word": "completely",
+      "start": 19.24,
+      "end": 19.8
+    },
+    {
+      "word": "silent.",
+      "start": 19.8,
+      "end": 20.32
+    },
+    {
+      "word": "Switching",
+      "start": 20.88,
+      "end": 21.3
+    },
+    {
+      "word": "to",
+      "start": 21.3,
+      "end": 21.48
+    },
+    {
+      "word": "an",
+      "start": 21.48,
+      "end": 21.6
+    },
+    {
+      "word": "asynchronous",
+      "start": 21.6,
+      "end": 22.14
+    },
+    {
+      "word": "mural",
+      "start": 22.14,
+      "end": 22.52
+    },
+    {
+      "word": "board",
+      "start": 22.52,
+      "end": 22.94
+    },
+    {
+      "word": "with",
+      "start": 22.94,
+      "end": 23.18
+    },
+    {
+      "word": "silent",
+      "start": 23.18,
+      "end": 23.62
+    },
+    {
+      "word": "sticky",
+      "start": 23.62,
+      "end": 23.92
+    },
+    {
+      "word": "clustering",
+      "start": 23.92,
+      "end": 24.66
+    },
+    {
+      "word": "lets",
+      "start": 24.66,
+      "end": 25.12
+    },
+    {
+      "word": "everyone",
+      "start": 25.12,
+      "end": 25.56
+    },
+    {
+      "word": "contribute",
+      "start": 25.56,
+      "end": 26.2
+    },
+    {
+      "word": "simultaneously",
+      "start": 26.2,
+      "end": 27.02
+    },
+    {
+      "word": "before",
+      "start": 27.02,
+      "end": 27.62
+    },
+    {
+      "word": "voting.",
+      "start": 27.62,
+      "end": 28.08
+    },
+    {
+      "word": "You",
+      "start": 28.08,
+      "end": 28.72
+    },
+    {
+      "word": "turn",
+      "start": 28.72,
+      "end": 28.98
+    },
+    {
+      "word": "dead",
+      "start": 28.98,
+      "end": 29.28
+    },
+    {
+      "word": "silence",
+      "start": 29.28,
+      "end": 29.7
+    },
+    {
+      "word": "into",
+      "start": 29.7,
+      "end": 30.04
+    },
+    {
+      "word": "breakthrough",
+      "start": 30.04,
+      "end": 30.44
+    },
+    {
+      "word": "product",
+      "start": 30.44,
+      "end": 30.84
+    },
+    {
+      "word": "features.",
+      "start": 30.84,
+      "end": 31.22
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop suffering through awkward, silent Zoom brainstorming sessions.",
+      "line2": "REMOTE DESIGN SPRINTS",
+      "tag": "\ud83d\uded1 Digital whiteboard template for running remote design sprint workshops",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Digital whiteboard template for running remote design sprint workshops",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Digital whiteboard template for running remote design sprint workshops",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "page": "page-09",
+  "idea": "Linear vs Jira: why modern engineering teams are ditching Atlassian",
+  "text": "Is Linear really worth migrating your entire engineering organization off Jira? Enterprise leaders fear losing custom audit logs and executive reports by leaving the Atlassian ecosystem. However, Jira's slow interface breeds stale ticket backlogs and inaccurate sprint forecasts that constantly mislead leadership. Linear delivers automated project roadmap rollups for executives while giving developers instant keyboard-driven ticket management. This alignment accelerates software release cycles dramatically.",
+  "duration": 31.098,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "is",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "linear",
+      "start": 0.22,
+      "end": 0.4
+    },
+    {
+      "word": "really",
+      "start": 0.4,
+      "end": 0.84
+    },
+    {
+      "word": "worth",
+      "start": 0.84,
+      "end": 1.12
+    },
+    {
+      "word": "migrating",
+      "start": 1.12,
+      "end": 1.52
+    },
+    {
+      "word": "your",
+      "start": 1.52,
+      "end": 1.9
+    },
+    {
+      "word": "entire",
+      "start": 1.9,
+      "end": 2.3
+    },
+    {
+      "word": "engineering",
+      "start": 2.3,
+      "end": 2.94
+    },
+    {
+      "word": "organization",
+      "start": 2.94,
+      "end": 3.54
+    },
+    {
+      "word": "off",
+      "start": 3.54,
+      "end": 3.92
+    },
+    {
+      "word": "JIRA.",
+      "start": 3.92,
+      "end": 4.3
+    },
+    {
+      "word": "Enterprise",
+      "start": 5.02,
+      "end": 5.28
+    },
+    {
+      "word": "leaders",
+      "start": 5.28,
+      "end": 5.76
+    },
+    {
+      "word": "fear",
+      "start": 5.76,
+      "end": 6.08
+    },
+    {
+      "word": "losing",
+      "start": 6.08,
+      "end": 6.44
+    },
+    {
+      "word": "custom",
+      "start": 6.44,
+      "end": 6.92
+    },
+    {
+      "word": "audit",
+      "start": 6.92,
+      "end": 7.14
+    },
+    {
+      "word": "logs",
+      "start": 7.14,
+      "end": 7.56
+    },
+    {
+      "word": "and",
+      "start": 7.56,
+      "end": 8.02
+    },
+    {
+      "word": "executive",
+      "start": 8.02,
+      "end": 8.36
+    },
+    {
+      "word": "reports",
+      "start": 8.36,
+      "end": 8.98
+    },
+    {
+      "word": "by",
+      "start": 8.98,
+      "end": 9.5
+    },
+    {
+      "word": "leaving",
+      "start": 9.5,
+      "end": 9.78
+    },
+    {
+      "word": "the",
+      "start": 9.78,
+      "end": 10.0
+    },
+    {
+      "word": "Atlassian",
+      "start": 10.0,
+      "end": 10.54
+    },
+    {
+      "word": "ecosystem.",
+      "start": 10.54,
+      "end": 11.16
+    },
+    {
+      "word": "However,",
+      "start": 11.96,
+      "end": 12.48
+    },
+    {
+      "word": "JIRA's",
+      "start": 12.94,
+      "end": 13.24
+    },
+    {
+      "word": "slow",
+      "start": 13.24,
+      "end": 13.48
+    },
+    {
+      "word": "interface",
+      "start": 13.48,
+      "end": 13.92
+    },
+    {
+      "word": "breeds",
+      "start": 13.92,
+      "end": 14.4
+    },
+    {
+      "word": "stale",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "word": "ticket",
+      "start": 14.72,
+      "end": 15.02
+    },
+    {
+      "word": "backlogs",
+      "start": 15.02,
+      "end": 15.74
+    },
+    {
+      "word": "and",
+      "start": 15.74,
+      "end": 16.1
+    },
+    {
+      "word": "inaccurate",
+      "start": 16.1,
+      "end": 16.5
+    },
+    {
+      "word": "sprint",
+      "start": 16.5,
+      "end": 16.96
+    },
+    {
+      "word": "forecasts",
+      "start": 16.96,
+      "end": 17.3
+    },
+    {
+      "word": "that",
+      "start": 17.3,
+      "end": 17.9
+    },
+    {
+      "word": "constantly",
+      "start": 17.9,
+      "end": 18.32
+    },
+    {
+      "word": "mislead",
+      "start": 18.32,
+      "end": 18.78
+    },
+    {
+      "word": "leadership.",
+      "start": 18.78,
+      "end": 19.24
+    },
+    {
+      "word": "Linear",
+      "start": 19.88,
+      "end": 19.88
+    },
+    {
+      "word": "delivers",
+      "start": 19.88,
+      "end": 20.34
+    },
+    {
+      "word": "automated",
+      "start": 20.34,
+      "end": 20.88
+    },
+    {
+      "word": "project",
+      "start": 20.88,
+      "end": 21.52
+    },
+    {
+      "word": "roadmap",
+      "start": 21.52,
+      "end": 21.92
+    },
+    {
+      "word": "roll",
+      "start": 21.92,
+      "end": 22.2
+    },
+    {
+      "word": "-ups",
+      "start": 22.2,
+      "end": 22.36
+    },
+    {
+      "word": "for",
+      "start": 22.36,
+      "end": 22.68
+    },
+    {
+      "word": "executives",
+      "start": 22.68,
+      "end": 23.24
+    },
+    {
+      "word": "while",
+      "start": 23.24,
+      "end": 23.8
+    },
+    {
+      "word": "giving",
+      "start": 23.8,
+      "end": 24.08
+    },
+    {
+      "word": "developers",
+      "start": 24.08,
+      "end": 24.56
+    },
+    {
+      "word": "instant",
+      "start": 24.56,
+      "end": 25.18
+    },
+    {
+      "word": "keyboard",
+      "start": 25.18,
+      "end": 25.64
+    },
+    {
+      "word": "-driven",
+      "start": 25.64,
+      "end": 25.96
+    },
+    {
+      "word": "ticket",
+      "start": 25.96,
+      "end": 26.32
+    },
+    {
+      "word": "management.",
+      "start": 26.32,
+      "end": 26.82
+    },
+    {
+      "word": "This",
+      "start": 26.82,
+      "end": 27.64
+    },
+    {
+      "word": "alignment",
+      "start": 27.64,
+      "end": 28.18
+    },
+    {
+      "word": "accelerates",
+      "start": 28.18,
+      "end": 29.1
+    },
+    {
+      "word": "software",
+      "start": 29.1,
+      "end": 29.56
+    },
+    {
+      "word": "release",
+      "start": 29.56,
+      "end": 29.98
+    },
+    {
+      "word": "cycles",
+      "start": 29.98,
+      "end": 30.36
+    },
+    {
+      "word": "dramatically.",
+      "start": 30.36,
+      "end": 30.94
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Is Linear really worth migrating your entire company off Jira? Here is the answer.",
+      "line2": "LINEAR VS JIRA",
+      "tag": "\ud83d\uded1 Linear vs Jira",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Linear vs Jira",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Linear vs Jira",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Linear vs Jira"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Linear vs Jira",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

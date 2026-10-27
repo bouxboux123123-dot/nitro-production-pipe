@@ -1,0 +1,406 @@
+{
+  "page": "page-07",
+  "idea": "Automated SOC2 compliance evidence collector for enterprise sales",
+  "text": "This automated tool continuously monitors your cloud security settings and gathers audit evidence in real time. Taking manual screenshots of AWS IAM policies and employee laptop encryption settings drains engineering resources. Outdated compliance evidence leaves security gaps that cause external auditors to fail your startup's certification. Deploy Drata to automatically scan cloud configurations and monitor access controls across every team member. You maintain continuous compliance with zero manual paperwork.",
+  "duration": 33.253,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "automated",
+      "start": 0.3,
+      "end": 0.7
+    },
+    {
+      "word": "tool",
+      "start": 0.7,
+      "end": 1.28
+    },
+    {
+      "word": "continuously",
+      "start": 1.28,
+      "end": 1.94
+    },
+    {
+      "word": "monitors",
+      "start": 1.94,
+      "end": 2.4
+    },
+    {
+      "word": "your",
+      "start": 2.4,
+      "end": 2.74
+    },
+    {
+      "word": "cloud",
+      "start": 2.74,
+      "end": 3.08
+    },
+    {
+      "word": "security",
+      "start": 3.08,
+      "end": 3.66
+    },
+    {
+      "word": "settings",
+      "start": 3.66,
+      "end": 4.12
+    },
+    {
+      "word": "and",
+      "start": 4.12,
+      "end": 4.6
+    },
+    {
+      "word": "gathers",
+      "start": 4.6,
+      "end": 4.86
+    },
+    {
+      "word": "audit",
+      "start": 4.86,
+      "end": 5.34
+    },
+    {
+      "word": "evidence",
+      "start": 5.34,
+      "end": 5.72
+    },
+    {
+      "word": "in",
+      "start": 5.72,
+      "end": 6.04
+    },
+    {
+      "word": "real",
+      "start": 6.04,
+      "end": 6.28
+    },
+    {
+      "word": "time.",
+      "start": 6.28,
+      "end": 6.88
+    },
+    {
+      "word": "Taking",
+      "start": 7.62,
+      "end": 7.62
+    },
+    {
+      "word": "manual",
+      "start": 7.62,
+      "end": 8.04
+    },
+    {
+      "word": "screenshots",
+      "start": 8.04,
+      "end": 8.56
+    },
+    {
+      "word": "of",
+      "start": 8.56,
+      "end": 9.02
+    },
+    {
+      "word": "AWS",
+      "start": 9.02,
+      "end": 9.62
+    },
+    {
+      "word": "IAM",
+      "start": 9.62,
+      "end": 10.42
+    },
+    {
+      "word": "policies",
+      "start": 10.42,
+      "end": 10.98
+    },
+    {
+      "word": "and",
+      "start": 10.98,
+      "end": 11.66
+    },
+    {
+      "word": "employee",
+      "start": 11.66,
+      "end": 12.04
+    },
+    {
+      "word": "laptop",
+      "start": 12.04,
+      "end": 12.5
+    },
+    {
+      "word": "encryption",
+      "start": 12.5,
+      "end": 13.06
+    },
+    {
+      "word": "settings,",
+      "start": 13.06,
+      "end": 13.52
+    },
+    {
+      "word": "drains,",
+      "start": 13.68,
+      "end": 13.98
+    },
+    {
+      "word": "engineering",
+      "start": 14.12,
+      "end": 14.5
+    },
+    {
+      "word": "resources,",
+      "start": 14.5,
+      "end": 15.36
+    },
+    {
+      "word": "outdated",
+      "start": 15.82,
+      "end": 16.08
+    },
+    {
+      "word": "compliance",
+      "start": 16.08,
+      "end": 16.76
+    },
+    {
+      "word": "evidence",
+      "start": 16.76,
+      "end": 17.2
+    },
+    {
+      "word": "leaves",
+      "start": 17.2,
+      "end": 17.58
+    },
+    {
+      "word": "security",
+      "start": 17.58,
+      "end": 18.04
+    },
+    {
+      "word": "gaps",
+      "start": 18.04,
+      "end": 18.46
+    },
+    {
+      "word": "that",
+      "start": 18.46,
+      "end": 18.82
+    },
+    {
+      "word": "cause",
+      "start": 18.82,
+      "end": 19.1
+    },
+    {
+      "word": "external",
+      "start": 19.1,
+      "end": 19.6
+    },
+    {
+      "word": "auditors",
+      "start": 19.6,
+      "end": 20.02
+    },
+    {
+      "word": "to",
+      "start": 20.02,
+      "end": 20.28
+    },
+    {
+      "word": "fail",
+      "start": 20.28,
+      "end": 20.5
+    },
+    {
+      "word": "your",
+      "start": 20.5,
+      "end": 20.76
+    },
+    {
+      "word": "startup",
+      "start": 20.76,
+      "end": 21.08
+    },
+    {
+      "word": "certification.",
+      "start": 21.08,
+      "end": 21.96
+    },
+    {
+      "word": "Deploy",
+      "start": 22.64,
+      "end": 22.86
+    },
+    {
+      "word": "Drought",
+      "start": 22.86,
+      "end": 23.28
+    },
+    {
+      "word": "to",
+      "start": 23.28,
+      "end": 23.66
+    },
+    {
+      "word": "automatically",
+      "start": 23.66,
+      "end": 24.2
+    },
+    {
+      "word": "scan",
+      "start": 24.2,
+      "end": 24.76
+    },
+    {
+      "word": "cloud",
+      "start": 24.76,
+      "end": 25.22
+    },
+    {
+      "word": "configurations",
+      "start": 25.22,
+      "end": 25.9
+    },
+    {
+      "word": "and",
+      "start": 25.9,
+      "end": 26.58
+    },
+    {
+      "word": "monitor",
+      "start": 26.58,
+      "end": 26.92
+    },
+    {
+      "word": "access",
+      "start": 26.92,
+      "end": 27.3
+    },
+    {
+      "word": "controls",
+      "start": 27.3,
+      "end": 27.82
+    },
+    {
+      "word": "across",
+      "start": 27.82,
+      "end": 28.26
+    },
+    {
+      "word": "every",
+      "start": 28.26,
+      "end": 28.6
+    },
+    {
+      "word": "team",
+      "start": 28.6,
+      "end": 28.86
+    },
+    {
+      "word": "member.",
+      "start": 28.86,
+      "end": 29.2
+    },
+    {
+      "word": "You",
+      "start": 29.2,
+      "end": 29.88
+    },
+    {
+      "word": "maintain",
+      "start": 29.88,
+      "end": 30.34
+    },
+    {
+      "word": "continuous",
+      "start": 30.34,
+      "end": 30.9
+    },
+    {
+      "word": "compliance",
+      "start": 30.9,
+      "end": 31.38
+    },
+    {
+      "word": "with",
+      "start": 31.38,
+      "end": 31.8
+    },
+    {
+      "word": "zero",
+      "start": 31.8,
+      "end": 32.24
+    },
+    {
+      "word": "manual",
+      "start": 32.24,
+      "end": 32.64
+    },
+    {
+      "word": "paperwork.",
+      "start": 32.64,
+      "end": 33.1
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "This tool continuously monitors security settings and gathers audit screenshots.",
+      "line2": "COLLECT SOC2 EVIDENCE",
+      "tag": "\ud83d\uded1 Automated SOC2 compliance evidence collector for enterprise sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated SOC2 compliance evidence collector for enterprise sales",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated SOC2 compliance evidence collector for enterprise sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

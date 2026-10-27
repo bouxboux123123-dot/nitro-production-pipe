@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "How to turn any website into a standalone desktop app on your computer",
+  "text": "This two-click browser setting turns any website into an independent desktop icon on your computer. Hunting through dozens of open tabs to locate your project board constantly breaks your deep focus. Running web apps inside cluttered browser windows creates severe memory lag and hides urgent notification badges. In Chrome or Edge, click More Tools, select Create Shortcut, and check Open as Window. You launch tools in distraction-free windows instantly.",
+  "duration": 25.28,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "two",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "word": "-click",
+      "start": 0.44,
+      "end": 0.66
+    },
+    {
+      "word": "browser",
+      "start": 0.66,
+      "end": 0.96
+    },
+    {
+      "word": "setting",
+      "start": 0.96,
+      "end": 1.36
+    },
+    {
+      "word": "turns",
+      "start": 1.36,
+      "end": 1.62
+    },
+    {
+      "word": "any",
+      "start": 1.62,
+      "end": 1.84
+    },
+    {
+      "word": "website",
+      "start": 1.84,
+      "end": 2.22
+    },
+    {
+      "word": "into",
+      "start": 2.22,
+      "end": 2.46
+    },
+    {
+      "word": "an",
+      "start": 2.46,
+      "end": 2.7
+    },
+    {
+      "word": "independent",
+      "start": 2.7,
+      "end": 3.12
+    },
+    {
+      "word": "desktop",
+      "start": 3.12,
+      "end": 3.56
+    },
+    {
+      "word": "icon",
+      "start": 3.56,
+      "end": 4.02
+    },
+    {
+      "word": "on",
+      "start": 4.02,
+      "end": 4.18
+    },
+    {
+      "word": "your",
+      "start": 4.18,
+      "end": 4.38
+    },
+    {
+      "word": "computer.",
+      "start": 4.38,
+      "end": 4.88
+    },
+    {
+      "word": "Hunting",
+      "start": 5.38,
+      "end": 5.44
+    },
+    {
+      "word": "through",
+      "start": 5.44,
+      "end": 5.74
+    },
+    {
+      "word": "dozens",
+      "start": 5.74,
+      "end": 5.96
+    },
+    {
+      "word": "of",
+      "start": 5.96,
+      "end": 6.24
+    },
+    {
+      "word": "open",
+      "start": 6.24,
+      "end": 6.48
+    },
+    {
+      "word": "tabs",
+      "start": 6.48,
+      "end": 6.78
+    },
+    {
+      "word": "to",
+      "start": 6.78,
+      "end": 7.02
+    },
+    {
+      "word": "locate",
+      "start": 7.02,
+      "end": 7.26
+    },
+    {
+      "word": "your",
+      "start": 7.26,
+      "end": 7.6
+    },
+    {
+      "word": "project",
+      "start": 7.6,
+      "end": 7.92
+    },
+    {
+      "word": "board",
+      "start": 7.92,
+      "end": 8.32
+    },
+    {
+      "word": "constantly",
+      "start": 8.32,
+      "end": 8.82
+    },
+    {
+      "word": "breaks",
+      "start": 8.82,
+      "end": 9.1
+    },
+    {
+      "word": "your",
+      "start": 9.1,
+      "end": 9.3
+    },
+    {
+      "word": "deep",
+      "start": 9.3,
+      "end": 9.58
+    },
+    {
+      "word": "focus.",
+      "start": 9.58,
+      "end": 9.98
+    },
+    {
+      "word": "Running",
+      "start": 10.54,
+      "end": 10.78
+    },
+    {
+      "word": "web",
+      "start": 10.78,
+      "end": 11.06
+    },
+    {
+      "word": "apps",
+      "start": 11.06,
+      "end": 11.28
+    },
+    {
+      "word": "inside",
+      "start": 11.28,
+      "end": 11.8
+    },
+    {
+      "word": "cluttered",
+      "start": 11.8,
+      "end": 12.06
+    },
+    {
+      "word": "browser",
+      "start": 12.06,
+      "end": 12.4
+    },
+    {
+      "word": "windows",
+      "start": 12.4,
+      "end": 12.76
+    },
+    {
+      "word": "creates",
+      "start": 12.76,
+      "end": 13.24
+    },
+    {
+      "word": "severe",
+      "start": 13.24,
+      "end": 13.56
+    },
+    {
+      "word": "memory",
+      "start": 13.56,
+      "end": 13.9
+    },
+    {
+      "word": "lag",
+      "start": 13.9,
+      "end": 14.28
+    },
+    {
+      "word": "and",
+      "start": 14.28,
+      "end": 14.54
+    },
+    {
+      "word": "hides",
+      "start": 14.54,
+      "end": 14.9
+    },
+    {
+      "word": "urgent",
+      "start": 14.9,
+      "end": 15.2
+    },
+    {
+      "word": "notification",
+      "start": 15.2,
+      "end": 15.78
+    },
+    {
+      "word": "badges.",
+      "start": 15.78,
+      "end": 16.24
+    },
+    {
+      "word": "In",
+      "start": 16.9,
+      "end": 17.0
+    },
+    {
+      "word": "Chrome",
+      "start": 17.0,
+      "end": 17.28
+    },
+    {
+      "word": "or",
+      "start": 17.28,
+      "end": 17.58
+    },
+    {
+      "word": "Edge,",
+      "start": 17.58,
+      "end": 17.88
+    },
+    {
+      "word": "click",
+      "start": 18.24,
+      "end": 18.26
+    },
+    {
+      "word": "more",
+      "start": 18.26,
+      "end": 18.52
+    },
+    {
+      "word": "tools,",
+      "start": 18.52,
+      "end": 18.94
+    },
+    {
+      "word": "select",
+      "start": 19.56,
+      "end": 19.64
+    },
+    {
+      "word": "Create",
+      "start": 19.64,
+      "end": 19.98
+    },
+    {
+      "word": "Shortcut,",
+      "start": 19.98,
+      "end": 20.44
+    },
+    {
+      "word": "and",
+      "start": 20.74,
+      "end": 20.88
+    },
+    {
+      "word": "check",
+      "start": 20.88,
+      "end": 21.16
+    },
+    {
+      "word": "Open",
+      "start": 21.16,
+      "end": 21.44
+    },
+    {
+      "word": "as",
+      "start": 21.44,
+      "end": 21.68
+    },
+    {
+      "word": "Window.",
+      "start": 21.68,
+      "end": 22.02
+    },
+    {
+      "word": "You",
+      "start": 22.64,
+      "end": 22.76
+    },
+    {
+      "word": "launch",
+      "start": 22.76,
+      "end": 23.0
+    },
+    {
+      "word": "tools",
+      "start": 23.0,
+      "end": 23.42
+    },
+    {
+      "word": "and",
+      "start": 23.42,
+      "end": 23.66
+    },
+    {
+      "word": "distraction",
+      "start": 23.66,
+      "end": 23.98
+    },
+    {
+      "word": "-free",
+      "start": 23.98,
+      "end": 24.34
+    },
+    {
+      "word": "windows",
+      "start": 24.34,
+      "end": 24.72
+    },
+    {
+      "word": "instantly.",
+      "start": 24.72,
+      "end": 25.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The 2-click browser setting that turns any website into an independent desktop icon.",
+      "line2": "TURN WEBSITES INTO APPS",
+      "tag": "\ud83d\uded1 How to turn any website into a standalone desktop app on your computer",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to turn any website into a standalone desktop app on your computer",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to turn any website into a standalone desktop app on your computer",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to turn any website into a standalone desktop app on your computer",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

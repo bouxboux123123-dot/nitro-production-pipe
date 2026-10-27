@@ -1,0 +1,411 @@
+{
+  "page": "page-01",
+  "idea": "White-label client portal that houses deliverables and revision requests",
+  "text": "Consolidate all client deliverables and communication into one branded hub. When clients must hunt through emails for project links, they end up pinging your team around the clock. Scattered communication creates administrative overhead that slows down creative production and irritates paying clients. Set up a centralized ClickUp client view that tracks deliverables, status updates, and feedback tickets in real time. You eliminate constant status questions and prevent client churn.",
+  "duration": 28.559,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "consolidate",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "word": "all",
+      "start": 0.6,
+      "end": 1.2
+    },
+    {
+      "word": "client",
+      "start": 1.2,
+      "end": 1.5
+    },
+    {
+      "word": "deliverables",
+      "start": 1.5,
+      "end": 2.06
+    },
+    {
+      "word": "and",
+      "start": 2.06,
+      "end": 2.3
+    },
+    {
+      "word": "communication",
+      "start": 2.3,
+      "end": 2.9
+    },
+    {
+      "word": "into",
+      "start": 2.9,
+      "end": 3.28
+    },
+    {
+      "word": "one",
+      "start": 3.28,
+      "end": 3.56
+    },
+    {
+      "word": "branded",
+      "start": 3.56,
+      "end": 3.88
+    },
+    {
+      "word": "hub.",
+      "start": 3.88,
+      "end": 4.38
+    },
+    {
+      "word": "When",
+      "start": 4.82,
+      "end": 4.94
+    },
+    {
+      "word": "clients",
+      "start": 4.94,
+      "end": 5.2
+    },
+    {
+      "word": "must",
+      "start": 5.2,
+      "end": 5.54
+    },
+    {
+      "word": "hunt",
+      "start": 5.54,
+      "end": 5.74
+    },
+    {
+      "word": "through",
+      "start": 5.74,
+      "end": 6.08
+    },
+    {
+      "word": "emails",
+      "start": 6.08,
+      "end": 6.44
+    },
+    {
+      "word": "for",
+      "start": 6.44,
+      "end": 6.74
+    },
+    {
+      "word": "project",
+      "start": 6.74,
+      "end": 7.1
+    },
+    {
+      "word": "links,",
+      "start": 7.1,
+      "end": 7.5
+    },
+    {
+      "word": "they",
+      "start": 7.9,
+      "end": 8.0
+    },
+    {
+      "word": "end",
+      "start": 8.0,
+      "end": 8.16
+    },
+    {
+      "word": "up",
+      "start": 8.16,
+      "end": 8.4
+    },
+    {
+      "word": "pinging",
+      "start": 8.4,
+      "end": 8.62
+    },
+    {
+      "word": "your",
+      "start": 8.62,
+      "end": 8.88
+    },
+    {
+      "word": "team",
+      "start": 8.88,
+      "end": 9.12
+    },
+    {
+      "word": "around",
+      "start": 9.12,
+      "end": 9.42
+    },
+    {
+      "word": "the",
+      "start": 9.42,
+      "end": 9.64
+    },
+    {
+      "word": "clock.",
+      "start": 9.64,
+      "end": 10.06
+    },
+    {
+      "word": "Scattered",
+      "start": 10.64,
+      "end": 10.92
+    },
+    {
+      "word": "communication",
+      "start": 10.92,
+      "end": 11.6
+    },
+    {
+      "word": "creates",
+      "start": 11.6,
+      "end": 12.24
+    },
+    {
+      "word": "administrative",
+      "start": 12.24,
+      "end": 12.9
+    },
+    {
+      "word": "overhead",
+      "start": 12.9,
+      "end": 13.42
+    },
+    {
+      "word": "that",
+      "start": 13.42,
+      "end": 14.02
+    },
+    {
+      "word": "slows",
+      "start": 14.02,
+      "end": 14.3
+    },
+    {
+      "word": "down",
+      "start": 14.3,
+      "end": 14.74
+    },
+    {
+      "word": "creative",
+      "start": 14.74,
+      "end": 15.14
+    },
+    {
+      "word": "production",
+      "start": 15.14,
+      "end": 15.62
+    },
+    {
+      "word": "and",
+      "start": 15.62,
+      "end": 16.14
+    },
+    {
+      "word": "irritates",
+      "start": 16.14,
+      "end": 16.58
+    },
+    {
+      "word": "paying",
+      "start": 16.58,
+      "end": 16.96
+    },
+    {
+      "word": "clients.",
+      "start": 16.96,
+      "end": 17.52
+    },
+    {
+      "word": "Set",
+      "start": 17.92,
+      "end": 18.06
+    },
+    {
+      "word": "up",
+      "start": 18.06,
+      "end": 18.22
+    },
+    {
+      "word": "a",
+      "start": 18.22,
+      "end": 18.52
+    },
+    {
+      "word": "centralized",
+      "start": 18.52,
+      "end": 18.9
+    },
+    {
+      "word": "click",
+      "start": 18.9,
+      "end": 19.24
+    },
+    {
+      "word": "-up",
+      "start": 19.24,
+      "end": 19.46
+    },
+    {
+      "word": "client",
+      "start": 19.46,
+      "end": 19.76
+    },
+    {
+      "word": "view",
+      "start": 19.76,
+      "end": 20.06
+    },
+    {
+      "word": "that",
+      "start": 20.06,
+      "end": 20.3
+    },
+    {
+      "word": "tracks",
+      "start": 20.3,
+      "end": 20.58
+    },
+    {
+      "word": "deliverables,",
+      "start": 20.58,
+      "end": 21.34
+    },
+    {
+      "word": "status",
+      "start": 21.84,
+      "end": 22.0
+    },
+    {
+      "word": "updates,",
+      "start": 22.0,
+      "end": 22.44
+    },
+    {
+      "word": "and",
+      "start": 22.58,
+      "end": 22.82
+    },
+    {
+      "word": "feedback",
+      "start": 22.82,
+      "end": 23.14
+    },
+    {
+      "word": "tickets",
+      "start": 23.14,
+      "end": 23.58
+    },
+    {
+      "word": "in",
+      "start": 23.58,
+      "end": 23.84
+    },
+    {
+      "word": "real",
+      "start": 23.84,
+      "end": 24.08
+    },
+    {
+      "word": "time.",
+      "start": 24.08,
+      "end": 24.54
+    },
+    {
+      "word": "You",
+      "start": 25.14,
+      "end": 25.22
+    },
+    {
+      "word": "eliminate",
+      "start": 25.22,
+      "end": 25.56
+    },
+    {
+      "word": "constant",
+      "start": 25.56,
+      "end": 26.12
+    },
+    {
+      "word": "status",
+      "start": 26.12,
+      "end": 26.52
+    },
+    {
+      "word": "questions",
+      "start": 26.52,
+      "end": 27.06
+    },
+    {
+      "word": "and",
+      "start": 27.06,
+      "end": 27.46
+    },
+    {
+      "word": "prevent",
+      "start": 27.46,
+      "end": 27.72
+    },
+    {
+      "word": "client",
+      "start": 27.72,
+      "end": 28.12
+    },
+    {
+      "word": "churn.",
+      "start": 28.12,
+      "end": 28.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Consolidate all client deliverables and communication into one branded hub.",
+      "line2": "WHITE-LABEL CLIENT PORTAL",
+      "tag": "\ud83d\uded1 White-label client portal that houses deliverables and revision requests",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: White-label client portal that houses deliverables and revision requests",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: White-label client portal that houses deliverables and revision requests",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "White-label client portal that houses deliverables and revision requests"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "White-label client portal that houses deliverables and revision requests",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

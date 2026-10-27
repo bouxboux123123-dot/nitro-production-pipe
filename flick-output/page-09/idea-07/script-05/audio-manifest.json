@@ -1,0 +1,391 @@
+{
+  "page": "page-09",
+  "idea": "Canva vs Figma: which design tool is better for marketing teams",
+  "text": "Canva vs Figma: the ultimate tool decision guide for non-designers. Fast-paced teams struggle to maintain brand consistency while shipping daily marketing campaigns on tight deadlines. Choosing Figma without design training causes gridlock, while using Canva for software mockups ruins developer handoffs. Deploy Canva for rapid promotional collateral, and restrict Figma to responsive interface design and prototyping. This framework keeps creative pipelines moving cleanly.",
+  "duration": 29.242,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Canva",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "VS",
+      "start": 0.42,
+      "end": 0.9
+    },
+    {
+      "word": "Figma,",
+      "start": 0.9,
+      "end": 1.38
+    },
+    {
+      "word": "the",
+      "start": 1.8,
+      "end": 1.9
+    },
+    {
+      "word": "ultimate",
+      "start": 1.9,
+      "end": 2.22
+    },
+    {
+      "word": "tool",
+      "start": 2.22,
+      "end": 2.52
+    },
+    {
+      "word": "decision",
+      "start": 2.52,
+      "end": 2.92
+    },
+    {
+      "word": "guide",
+      "start": 2.92,
+      "end": 3.36
+    },
+    {
+      "word": "for",
+      "start": 3.36,
+      "end": 3.58
+    },
+    {
+      "word": "non",
+      "start": 3.58,
+      "end": 3.74
+    },
+    {
+      "word": "-designers.",
+      "start": 3.74,
+      "end": 4.48
+    },
+    {
+      "word": "Fast",
+      "start": 5.18,
+      "end": 5.24
+    },
+    {
+      "word": "-paced",
+      "start": 5.24,
+      "end": 5.5
+    },
+    {
+      "word": "teams",
+      "start": 5.5,
+      "end": 5.96
+    },
+    {
+      "word": "struggle",
+      "start": 5.96,
+      "end": 6.22
+    },
+    {
+      "word": "to",
+      "start": 6.22,
+      "end": 6.56
+    },
+    {
+      "word": "maintain",
+      "start": 6.56,
+      "end": 6.92
+    },
+    {
+      "word": "brand",
+      "start": 6.92,
+      "end": 7.34
+    },
+    {
+      "word": "consistency",
+      "start": 7.34,
+      "end": 7.96
+    },
+    {
+      "word": "while",
+      "start": 7.96,
+      "end": 8.56
+    },
+    {
+      "word": "shipping",
+      "start": 8.56,
+      "end": 8.88
+    },
+    {
+      "word": "daily",
+      "start": 8.88,
+      "end": 9.22
+    },
+    {
+      "word": "marketing",
+      "start": 9.22,
+      "end": 9.64
+    },
+    {
+      "word": "campaigns",
+      "start": 9.64,
+      "end": 10.18
+    },
+    {
+      "word": "on",
+      "start": 10.18,
+      "end": 10.48
+    },
+    {
+      "word": "tight",
+      "start": 10.48,
+      "end": 10.82
+    },
+    {
+      "word": "deadlines,",
+      "start": 10.82,
+      "end": 11.34
+    },
+    {
+      "word": "choosing",
+      "start": 11.82,
+      "end": 12.12
+    },
+    {
+      "word": "Figma",
+      "start": 12.12,
+      "end": 12.54
+    },
+    {
+      "word": "without",
+      "start": 12.54,
+      "end": 12.84
+    },
+    {
+      "word": "design",
+      "start": 12.84,
+      "end": 13.2
+    },
+    {
+      "word": "training",
+      "start": 13.2,
+      "end": 13.64
+    },
+    {
+      "word": "causes",
+      "start": 13.64,
+      "end": 14.04
+    },
+    {
+      "word": "gridlock",
+      "start": 14.04,
+      "end": 14.66
+    },
+    {
+      "word": "while",
+      "start": 14.66,
+      "end": 15.12
+    },
+    {
+      "word": "using",
+      "start": 15.12,
+      "end": 15.5
+    },
+    {
+      "word": "Canva",
+      "start": 15.5,
+      "end": 15.84
+    },
+    {
+      "word": "for",
+      "start": 15.84,
+      "end": 16.14
+    },
+    {
+      "word": "software",
+      "start": 16.14,
+      "end": 16.48
+    },
+    {
+      "word": "mock",
+      "start": 16.48,
+      "end": 16.8
+    },
+    {
+      "word": "-ups",
+      "start": 16.8,
+      "end": 17.06
+    },
+    {
+      "word": "ruins",
+      "start": 17.06,
+      "end": 17.44
+    },
+    {
+      "word": "developer",
+      "start": 17.44,
+      "end": 17.92
+    },
+    {
+      "word": "handoffs,",
+      "start": 17.92,
+      "end": 18.62
+    },
+    {
+      "word": "deploy",
+      "start": 19.22,
+      "end": 19.44
+    },
+    {
+      "word": "Canva",
+      "start": 19.44,
+      "end": 19.9
+    },
+    {
+      "word": "for",
+      "start": 19.9,
+      "end": 20.14
+    },
+    {
+      "word": "rapid",
+      "start": 20.14,
+      "end": 20.4
+    },
+    {
+      "word": "promotional",
+      "start": 20.4,
+      "end": 20.98
+    },
+    {
+      "word": "collateral",
+      "start": 20.98,
+      "end": 21.5
+    },
+    {
+      "word": "and",
+      "start": 21.5,
+      "end": 22.1
+    },
+    {
+      "word": "restrict",
+      "start": 22.1,
+      "end": 22.5
+    },
+    {
+      "word": "Figma",
+      "start": 22.5,
+      "end": 22.98
+    },
+    {
+      "word": "to",
+      "start": 22.98,
+      "end": 23.2
+    },
+    {
+      "word": "responsive",
+      "start": 23.2,
+      "end": 23.7
+    },
+    {
+      "word": "interface",
+      "start": 23.7,
+      "end": 24.24
+    },
+    {
+      "word": "design",
+      "start": 24.24,
+      "end": 24.8
+    },
+    {
+      "word": "and",
+      "start": 24.8,
+      "end": 25.3
+    },
+    {
+      "word": "prototyping.",
+      "start": 25.3,
+      "end": 26.0
+    },
+    {
+      "word": "This",
+      "start": 26.0,
+      "end": 26.56
+    },
+    {
+      "word": "framework",
+      "start": 26.56,
+      "end": 26.88
+    },
+    {
+      "word": "keeps",
+      "start": 26.88,
+      "end": 27.34
+    },
+    {
+      "word": "creative",
+      "start": 27.34,
+      "end": 27.8
+    },
+    {
+      "word": "pipelines",
+      "start": 27.8,
+      "end": 28.3
+    },
+    {
+      "word": "moving",
+      "start": 28.3,
+      "end": 28.78
+    },
+    {
+      "word": "cleanly.",
+      "start": 28.78,
+      "end": 29.22
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Canva vs Figma: the ultimate tool decision guide for non-designers.",
+      "line2": "CANVA VS FIGMA",
+      "tag": "\ud83d\uded1 Canva vs Figma",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Canva vs Figma",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Canva vs Figma",
+        "subtitle": "Canva vs Figma"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Canva vs Figma"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Canva vs Figma"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Canva vs Figma",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

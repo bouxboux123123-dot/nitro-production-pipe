@@ -1,0 +1,416 @@
+{
+  "page": "page-06",
+  "idea": "Async team trivia and social gaming bot for building remote camaraderie",
+  "text": "Give your remote employees a two-minute mental break and a shared laugh between intense sprints. Staring at ticket queues and Figma files all day without casual coworker banter accelerates burnout. Remote isolation creeps in when internal communication consists strictly of project deadlines and bug escalations. Launching Donut or Kahoot async challenges in Microsoft Teams gives employees quick brain teasers and team leaderboards. This re-energizes team morale in minutes.",
+  "duration": 29.391,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Give",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "your",
+      "start": 0.2,
+      "end": 0.42
+    },
+    {
+      "word": "remote",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "employees",
+      "start": 0.66,
+      "end": 1.18
+    },
+    {
+      "word": "a",
+      "start": 1.18,
+      "end": 1.48
+    },
+    {
+      "word": "two",
+      "start": 1.48,
+      "end": 1.68
+    },
+    {
+      "word": "-minute",
+      "start": 1.68,
+      "end": 1.88
+    },
+    {
+      "word": "mental",
+      "start": 1.88,
+      "end": 2.24
+    },
+    {
+      "word": "break",
+      "start": 2.24,
+      "end": 2.62
+    },
+    {
+      "word": "and",
+      "start": 2.62,
+      "end": 2.94
+    },
+    {
+      "word": "a",
+      "start": 2.94,
+      "end": 3.18
+    },
+    {
+      "word": "shared",
+      "start": 3.18,
+      "end": 3.44
+    },
+    {
+      "word": "laugh",
+      "start": 3.44,
+      "end": 3.78
+    },
+    {
+      "word": "between",
+      "start": 3.78,
+      "end": 4.14
+    },
+    {
+      "word": "intense",
+      "start": 4.14,
+      "end": 4.62
+    },
+    {
+      "word": "sprints.",
+      "start": 4.62,
+      "end": 5.7
+    },
+    {
+      "word": "Staring",
+      "start": 5.74,
+      "end": 6.0
+    },
+    {
+      "word": "at",
+      "start": 6.0,
+      "end": 6.26
+    },
+    {
+      "word": "ticket",
+      "start": 6.26,
+      "end": 6.56
+    },
+    {
+      "word": "queues",
+      "start": 6.56,
+      "end": 6.92
+    },
+    {
+      "word": "and",
+      "start": 6.92,
+      "end": 7.22
+    },
+    {
+      "word": "Figma",
+      "start": 7.22,
+      "end": 7.54
+    },
+    {
+      "word": "files",
+      "start": 7.54,
+      "end": 7.84
+    },
+    {
+      "word": "all",
+      "start": 7.84,
+      "end": 8.28
+    },
+    {
+      "word": "day",
+      "start": 8.28,
+      "end": 8.52
+    },
+    {
+      "word": "without",
+      "start": 8.52,
+      "end": 8.9
+    },
+    {
+      "word": "casual",
+      "start": 8.9,
+      "end": 9.38
+    },
+    {
+      "word": "coworker,",
+      "start": 9.38,
+      "end": 10.18
+    },
+    {
+      "word": "banter",
+      "start": 10.38,
+      "end": 10.52
+    },
+    {
+      "word": "accelerates",
+      "start": 10.52,
+      "end": 11.28
+    },
+    {
+      "word": "burnout.",
+      "start": 11.28,
+      "end": 11.88
+    },
+    {
+      "word": "Remote",
+      "start": 12.16,
+      "end": 12.36
+    },
+    {
+      "word": "isolation",
+      "start": 12.36,
+      "end": 12.98
+    },
+    {
+      "word": "creeps",
+      "start": 12.98,
+      "end": 13.44
+    },
+    {
+      "word": "in",
+      "start": 13.44,
+      "end": 13.74
+    },
+    {
+      "word": "when",
+      "start": 13.74,
+      "end": 13.94
+    },
+    {
+      "word": "internal",
+      "start": 13.94,
+      "end": 14.28
+    },
+    {
+      "word": "communication",
+      "start": 14.28,
+      "end": 14.98
+    },
+    {
+      "word": "consists",
+      "start": 14.98,
+      "end": 15.54
+    },
+    {
+      "word": "strictly",
+      "start": 15.54,
+      "end": 16.0
+    },
+    {
+      "word": "of",
+      "start": 16.0,
+      "end": 16.26
+    },
+    {
+      "word": "project",
+      "start": 16.26,
+      "end": 16.64
+    },
+    {
+      "word": "deadlines",
+      "start": 16.64,
+      "end": 17.04
+    },
+    {
+      "word": "and",
+      "start": 17.04,
+      "end": 17.56
+    },
+    {
+      "word": "bug",
+      "start": 17.56,
+      "end": 17.72
+    },
+    {
+      "word": "escalations.",
+      "start": 17.72,
+      "end": 18.48
+    },
+    {
+      "word": "Launching",
+      "start": 19.1,
+      "end": 19.46
+    },
+    {
+      "word": "donut",
+      "start": 19.46,
+      "end": 19.88
+    },
+    {
+      "word": "or",
+      "start": 19.88,
+      "end": 20.22
+    },
+    {
+      "word": "cahoot,",
+      "start": 20.22,
+      "end": 20.74
+    },
+    {
+      "word": "a",
+      "start": 20.94,
+      "end": 21.02
+    },
+    {
+      "word": "sink",
+      "start": 21.02,
+      "end": 21.22
+    },
+    {
+      "word": "challenges",
+      "start": 21.22,
+      "end": 21.68
+    },
+    {
+      "word": "in",
+      "start": 21.68,
+      "end": 22.04
+    },
+    {
+      "word": "Microsoft",
+      "start": 22.04,
+      "end": 22.36
+    },
+    {
+      "word": "Teams",
+      "start": 22.36,
+      "end": 22.96
+    },
+    {
+      "word": "gives",
+      "start": 22.96,
+      "end": 23.52
+    },
+    {
+      "word": "employees",
+      "start": 23.52,
+      "end": 24.06
+    },
+    {
+      "word": "quick",
+      "start": 24.06,
+      "end": 24.52
+    },
+    {
+      "word": "brain",
+      "start": 24.52,
+      "end": 24.86
+    },
+    {
+      "word": "teasers",
+      "start": 24.86,
+      "end": 25.16
+    },
+    {
+      "word": "and",
+      "start": 25.16,
+      "end": 25.5
+    },
+    {
+      "word": "team",
+      "start": 25.5,
+      "end": 25.76
+    },
+    {
+      "word": "leaderboards.",
+      "start": 25.76,
+      "end": 26.4
+    },
+    {
+      "word": "This",
+      "start": 26.4,
+      "end": 27.24
+    },
+    {
+      "word": "re",
+      "start": 27.24,
+      "end": 27.36
+    },
+    {
+      "word": "-energizes",
+      "start": 27.36,
+      "end": 27.98
+    },
+    {
+      "word": "team",
+      "start": 27.98,
+      "end": 28.42
+    },
+    {
+      "word": "morale",
+      "start": 28.42,
+      "end": 28.78
+    },
+    {
+      "word": "in",
+      "start": 28.78,
+      "end": 29.02
+    },
+    {
+      "word": "minutes.",
+      "start": 29.02,
+      "end": 29.3
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Give your remote employees a 2-minute mental break and a shared laugh.",
+      "line2": "BOOST REMOTE CAMARADERIE",
+      "tag": "\ud83d\uded1 Async team trivia and social gaming bot for building remote camaraderie",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async team trivia and social gaming bot for building remote camaraderie",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async team trivia and social gaming bot for building remote camaraderie",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async team trivia and social gaming bot for building remote camaraderie",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "Automated user feedback widget that feeds straight into product planning",
+  "text": "Let your most active users tell you exactly what product features to build next. Guessing product direction burns thousands of engineering hours on tools nobody ever opens. Traditional customer interviews take weeks to schedule and only represent a tiny vocal minority. Set up an automated Userback voting board integrated with your Slack community and product changelog. This drives viral product adoption while saving ten hours weekly.",
+  "duration": 25.088,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "that",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "your",
+      "start": 0.16,
+      "end": 0.28
+    },
+    {
+      "word": "most",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "active",
+      "start": 0.5,
+      "end": 0.82
+    },
+    {
+      "word": "users",
+      "start": 0.82,
+      "end": 1.16
+    },
+    {
+      "word": "tell",
+      "start": 1.16,
+      "end": 1.42
+    },
+    {
+      "word": "you",
+      "start": 1.42,
+      "end": 1.62
+    },
+    {
+      "word": "exactly",
+      "start": 1.62,
+      "end": 1.98
+    },
+    {
+      "word": "what",
+      "start": 1.98,
+      "end": 2.24
+    },
+    {
+      "word": "product",
+      "start": 2.24,
+      "end": 2.52
+    },
+    {
+      "word": "features",
+      "start": 2.52,
+      "end": 2.86
+    },
+    {
+      "word": "to",
+      "start": 2.86,
+      "end": 3.16
+    },
+    {
+      "word": "build",
+      "start": 3.16,
+      "end": 3.38
+    },
+    {
+      "word": "next.",
+      "start": 3.38,
+      "end": 3.9
+    },
+    {
+      "word": "Gressing",
+      "start": 4.32,
+      "end": 4.52
+    },
+    {
+      "word": "product",
+      "start": 4.52,
+      "end": 4.9
+    },
+    {
+      "word": "direction",
+      "start": 4.9,
+      "end": 5.38
+    },
+    {
+      "word": "burns",
+      "start": 5.38,
+      "end": 5.76
+    },
+    {
+      "word": "thousands",
+      "start": 5.76,
+      "end": 6.24
+    },
+    {
+      "word": "of",
+      "start": 6.24,
+      "end": 6.6
+    },
+    {
+      "word": "engineering",
+      "start": 6.6,
+      "end": 6.84
+    },
+    {
+      "word": "hours",
+      "start": 6.84,
+      "end": 7.3
+    },
+    {
+      "word": "on",
+      "start": 7.3,
+      "end": 7.58
+    },
+    {
+      "word": "tools",
+      "start": 7.58,
+      "end": 7.96
+    },
+    {
+      "word": "nobody",
+      "start": 7.96,
+      "end": 8.34
+    },
+    {
+      "word": "ever",
+      "start": 8.34,
+      "end": 8.74
+    },
+    {
+      "word": "opens.",
+      "start": 8.74,
+      "end": 9.18
+    },
+    {
+      "word": "Traditional",
+      "start": 9.92,
+      "end": 10.04
+    },
+    {
+      "word": "customer",
+      "start": 10.04,
+      "end": 10.56
+    },
+    {
+      "word": "interviews",
+      "start": 10.56,
+      "end": 11.0
+    },
+    {
+      "word": "take",
+      "start": 11.0,
+      "end": 11.3
+    },
+    {
+      "word": "weeks",
+      "start": 11.3,
+      "end": 11.58
+    },
+    {
+      "word": "to",
+      "start": 11.58,
+      "end": 11.78
+    },
+    {
+      "word": "schedule",
+      "start": 11.78,
+      "end": 12.18
+    },
+    {
+      "word": "and",
+      "start": 12.18,
+      "end": 12.72
+    },
+    {
+      "word": "only",
+      "start": 12.72,
+      "end": 13.0
+    },
+    {
+      "word": "represent",
+      "start": 13.0,
+      "end": 13.36
+    },
+    {
+      "word": "a",
+      "start": 13.36,
+      "end": 13.86
+    },
+    {
+      "word": "tiny",
+      "start": 13.86,
+      "end": 13.9
+    },
+    {
+      "word": "vocal",
+      "start": 13.9,
+      "end": 14.24
+    },
+    {
+      "word": "minority.",
+      "start": 14.24,
+      "end": 14.92
+    },
+    {
+      "word": "Set",
+      "start": 15.44,
+      "end": 15.6
+    },
+    {
+      "word": "up",
+      "start": 15.6,
+      "end": 15.92
+    },
+    {
+      "word": "an",
+      "start": 15.92,
+      "end": 16.52
+    },
+    {
+      "word": "automated",
+      "start": 16.52,
+      "end": 16.52
+    },
+    {
+      "word": "user",
+      "start": 16.52,
+      "end": 16.92
+    },
+    {
+      "word": "-back",
+      "start": 16.92,
+      "end": 17.14
+    },
+    {
+      "word": "voting",
+      "start": 17.14,
+      "end": 17.44
+    },
+    {
+      "word": "board",
+      "start": 17.44,
+      "end": 17.86
+    },
+    {
+      "word": "integrated",
+      "start": 17.86,
+      "end": 18.24
+    },
+    {
+      "word": "with",
+      "start": 18.24,
+      "end": 18.52
+    },
+    {
+      "word": "your",
+      "start": 18.52,
+      "end": 18.74
+    },
+    {
+      "word": "Slack",
+      "start": 18.74,
+      "end": 18.98
+    },
+    {
+      "word": "community",
+      "start": 18.98,
+      "end": 19.4
+    },
+    {
+      "word": "and",
+      "start": 19.4,
+      "end": 19.76
+    },
+    {
+      "word": "product",
+      "start": 19.76,
+      "end": 20.06
+    },
+    {
+      "word": "changelog.",
+      "start": 20.06,
+      "end": 20.7
+    },
+    {
+      "word": "This",
+      "start": 21.18,
+      "end": 21.42
+    },
+    {
+      "word": "drives",
+      "start": 21.42,
+      "end": 21.8
+    },
+    {
+      "word": "viral",
+      "start": 21.8,
+      "end": 22.34
+    },
+    {
+      "word": "product",
+      "start": 22.34,
+      "end": 22.72
+    },
+    {
+      "word": "adoption",
+      "start": 22.72,
+      "end": 23.2
+    },
+    {
+      "word": "while",
+      "start": 23.2,
+      "end": 23.66
+    },
+    {
+      "word": "saving",
+      "start": 23.66,
+      "end": 23.92
+    },
+    {
+      "word": "10",
+      "start": 23.92,
+      "end": 24.32
+    },
+    {
+      "word": "hours",
+      "start": 24.32,
+      "end": 24.66
+    },
+    {
+      "word": "weekly.",
+      "start": 24.66,
+      "end": 25.0
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Let your most active users tell you exactly what to build next.",
+      "line2": "AUTOMATE USER FEEDBACK",
+      "tag": "\ud83d\uded1 Automated user feedback widget that feeds straight into product planning",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated user feedback widget that feeds straight into product planning",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated user feedback widget that feeds straight into product planning",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

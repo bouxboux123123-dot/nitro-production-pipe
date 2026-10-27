@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "CapCut vs Premiere Pro: is professional editing software still necessary",
+  "text": "Professional video editors are quietly ditching Adobe Premiere to build short-form client reels inside CapCut. High-paying clients demand rapid turnarounds, but Premiere's sluggish UI and crashed caption engines kill your margins. Building dynamic subtitles requires heavy MOGRT templates that bloat project files and stall timeline scrub speeds. CapCut delivers native word-by-word caption animations, instant vocal isolation, and cloud asset syncing without plugins. You scale monthly client capacity effortlessly.",
+  "duration": 32.421,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Professional",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "video",
+      "start": 0.46,
+      "end": 0.94
+    },
+    {
+      "word": "editors",
+      "start": 0.94,
+      "end": 1.24
+    },
+    {
+      "word": "are",
+      "start": 1.24,
+      "end": 1.6
+    },
+    {
+      "word": "quietly",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "word": "ditching",
+      "start": 2.0,
+      "end": 2.36
+    },
+    {
+      "word": "Adobe",
+      "start": 2.36,
+      "end": 2.84
+    },
+    {
+      "word": "Premiere",
+      "start": 2.84,
+      "end": 3.16
+    },
+    {
+      "word": "to",
+      "start": 3.16,
+      "end": 3.32
+    },
+    {
+      "word": "build",
+      "start": 3.32,
+      "end": 3.62
+    },
+    {
+      "word": "short",
+      "start": 3.62,
+      "end": 3.94
+    },
+    {
+      "word": "-form",
+      "start": 3.94,
+      "end": 4.22
+    },
+    {
+      "word": "client",
+      "start": 4.22,
+      "end": 4.6
+    },
+    {
+      "word": "reels",
+      "start": 4.6,
+      "end": 5.02
+    },
+    {
+      "word": "inside",
+      "start": 5.02,
+      "end": 5.7
+    },
+    {
+      "word": "CapCut.",
+      "start": 5.7,
+      "end": 6.38
+    },
+    {
+      "word": "High",
+      "start": 6.94,
+      "end": 7.2
+    },
+    {
+      "word": "-paying",
+      "start": 7.2,
+      "end": 7.44
+    },
+    {
+      "word": "clients",
+      "start": 7.44,
+      "end": 7.9
+    },
+    {
+      "word": "demand",
+      "start": 7.9,
+      "end": 8.38
+    },
+    {
+      "word": "rapid",
+      "start": 8.38,
+      "end": 8.7
+    },
+    {
+      "word": "turnarounds,",
+      "start": 8.7,
+      "end": 9.36
+    },
+    {
+      "word": "but",
+      "start": 9.82,
+      "end": 9.94
+    },
+    {
+      "word": "Premiere's",
+      "start": 9.94,
+      "end": 10.9
+    },
+    {
+      "word": "sluggish",
+      "start": 10.9,
+      "end": 10.9
+    },
+    {
+      "word": "UI",
+      "start": 10.9,
+      "end": 11.42
+    },
+    {
+      "word": "and",
+      "start": 11.42,
+      "end": 11.78
+    },
+    {
+      "word": "crashed",
+      "start": 11.78,
+      "end": 12.16
+    },
+    {
+      "word": "caption",
+      "start": 12.16,
+      "end": 12.52
+    },
+    {
+      "word": "engines",
+      "start": 12.52,
+      "end": 13.0
+    },
+    {
+      "word": "kill",
+      "start": 13.0,
+      "end": 13.38
+    },
+    {
+      "word": "your",
+      "start": 13.38,
+      "end": 13.62
+    },
+    {
+      "word": "margins.",
+      "start": 13.62,
+      "end": 14.06
+    },
+    {
+      "word": "Building",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "dynamic",
+      "start": 14.74,
+      "end": 15.26
+    },
+    {
+      "word": "subtitles",
+      "start": 15.26,
+      "end": 15.88
+    },
+    {
+      "word": "requires",
+      "start": 15.88,
+      "end": 16.38
+    },
+    {
+      "word": "heavy",
+      "start": 16.38,
+      "end": 16.8
+    },
+    {
+      "word": "-mogit",
+      "start": 16.8,
+      "end": 17.18
+    },
+    {
+      "word": "templates",
+      "start": 17.18,
+      "end": 17.52
+    },
+    {
+      "word": "that",
+      "start": 17.52,
+      "end": 17.84
+    },
+    {
+      "word": "bloat",
+      "start": 17.84,
+      "end": 18.12
+    },
+    {
+      "word": "project",
+      "start": 18.12,
+      "end": 18.58
+    },
+    {
+      "word": "files,",
+      "start": 18.58,
+      "end": 19.02
+    },
+    {
+      "word": "install",
+      "start": 19.38,
+      "end": 19.74
+    },
+    {
+      "word": "timeline",
+      "start": 19.74,
+      "end": 20.24
+    },
+    {
+      "word": "scrub",
+      "start": 20.24,
+      "end": 20.64
+    },
+    {
+      "word": "speeds.",
+      "start": 20.64,
+      "end": 21.18
+    },
+    {
+      "word": "CapCut",
+      "start": 22.06,
+      "end": 22.36
+    },
+    {
+      "word": "delivers",
+      "start": 22.36,
+      "end": 22.72
+    },
+    {
+      "word": "native",
+      "start": 22.72,
+      "end": 23.22
+    },
+    {
+      "word": "word",
+      "start": 23.22,
+      "end": 23.48
+    },
+    {
+      "word": "-by",
+      "start": 23.48,
+      "end": 23.66
+    },
+    {
+      "word": "-word",
+      "start": 23.66,
+      "end": 23.92
+    },
+    {
+      "word": "caption",
+      "start": 23.92,
+      "end": 24.34
+    },
+    {
+      "word": "animations,",
+      "start": 24.34,
+      "end": 24.92
+    },
+    {
+      "word": "instant",
+      "start": 25.7,
+      "end": 25.74
+    },
+    {
+      "word": "vocal",
+      "start": 25.74,
+      "end": 26.16
+    },
+    {
+      "word": "isolation,",
+      "start": 26.16,
+      "end": 26.74
+    },
+    {
+      "word": "and",
+      "start": 27.14,
+      "end": 27.4
+    },
+    {
+      "word": "cloud",
+      "start": 27.4,
+      "end": 27.7
+    },
+    {
+      "word": "assets",
+      "start": 27.7,
+      "end": 28.06
+    },
+    {
+      "word": "syncing",
+      "start": 28.06,
+      "end": 28.44
+    },
+    {
+      "word": "without",
+      "start": 28.44,
+      "end": 28.82
+    },
+    {
+      "word": "plugins.",
+      "start": 28.82,
+      "end": 29.2
+    },
+    {
+      "word": "You",
+      "start": 29.2,
+      "end": 29.94
+    },
+    {
+      "word": "scale",
+      "start": 29.94,
+      "end": 30.26
+    },
+    {
+      "word": "monthly",
+      "start": 30.26,
+      "end": 30.72
+    },
+    {
+      "word": "client",
+      "start": 30.72,
+      "end": 31.1
+    },
+    {
+      "word": "capacity",
+      "start": 31.1,
+      "end": 31.66
+    },
+    {
+      "word": "effortlessly.",
+      "start": 31.66,
+      "end": 32.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Why professional video editors are quietly using CapCut for client reels.",
+      "line2": "CAPCUT VS PREMIERE PRO",
+      "tag": "\ud83d\uded1 CapCut vs Premiere Pro",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: CapCut vs Premiere Pro",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: CapCut vs Premiere Pro",
+        "subtitle": "CapCut vs Premiere Pro"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "CapCut vs Premiere Pro"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "CapCut vs Premiere Pro"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "CapCut vs Premiere Pro",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "page": "page-02",
+  "idea": "AI scope creep detector for client email threads",
+  "text": "How to tell a client their request costs extra without feeling awkward. Pushing back on out-of-scope demands feels confrontational, so freelancers usually stay silent and absorb the extra work. Unbilled scope creep erodes your creative enthusiasm and causes bitter resentment toward otherwise great accounts. Trigger an automated Slack bot that detects contract deviations and generates polite, pre-formatted change-order proposals. You protect your pricing boundaries without damaging client rapport.",
+  "duration": 30.117,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.3
+    },
+    {
+      "word": "tell",
+      "start": 0.3,
+      "end": 0.52
+    },
+    {
+      "word": "a",
+      "start": 0.52,
+      "end": 0.66
+    },
+    {
+      "word": "client",
+      "start": 0.66,
+      "end": 0.9
+    },
+    {
+      "word": "their",
+      "start": 0.9,
+      "end": 1.2
+    },
+    {
+      "word": "request",
+      "start": 1.2,
+      "end": 1.5
+    },
+    {
+      "word": "costs",
+      "start": 1.5,
+      "end": 1.96
+    },
+    {
+      "word": "extra",
+      "start": 1.96,
+      "end": 2.26
+    },
+    {
+      "word": "without",
+      "start": 2.26,
+      "end": 2.66
+    },
+    {
+      "word": "feeling",
+      "start": 2.66,
+      "end": 3.04
+    },
+    {
+      "word": "awkward.",
+      "start": 3.04,
+      "end": 3.58
+    },
+    {
+      "word": "Pushing",
+      "start": 4.2,
+      "end": 4.2
+    },
+    {
+      "word": "back",
+      "start": 4.2,
+      "end": 4.54
+    },
+    {
+      "word": "on",
+      "start": 4.54,
+      "end": 4.72
+    },
+    {
+      "word": "out",
+      "start": 4.72,
+      "end": 4.86
+    },
+    {
+      "word": "of",
+      "start": 4.86,
+      "end": 5.04
+    },
+    {
+      "word": "scope",
+      "start": 5.04,
+      "end": 5.32
+    },
+    {
+      "word": "demands",
+      "start": 5.32,
+      "end": 5.7
+    },
+    {
+      "word": "feels",
+      "start": 5.7,
+      "end": 6.14
+    },
+    {
+      "word": "confrontational,",
+      "start": 6.14,
+      "end": 6.98
+    },
+    {
+      "word": "so",
+      "start": 7.38,
+      "end": 7.56
+    },
+    {
+      "word": "freelancers",
+      "start": 7.56,
+      "end": 8.08
+    },
+    {
+      "word": "usually",
+      "start": 8.08,
+      "end": 8.62
+    },
+    {
+      "word": "stay",
+      "start": 8.62,
+      "end": 8.9
+    },
+    {
+      "word": "silent",
+      "start": 8.9,
+      "end": 9.3
+    },
+    {
+      "word": "and",
+      "start": 9.3,
+      "end": 9.64
+    },
+    {
+      "word": "absorb",
+      "start": 9.64,
+      "end": 9.98
+    },
+    {
+      "word": "the",
+      "start": 9.98,
+      "end": 10.36
+    },
+    {
+      "word": "extra",
+      "start": 10.36,
+      "end": 10.6
+    },
+    {
+      "word": "work.",
+      "start": 10.6,
+      "end": 11.08
+    },
+    {
+      "word": "Unbuild",
+      "start": 11.72,
+      "end": 12.06
+    },
+    {
+      "word": "scope",
+      "start": 12.06,
+      "end": 12.5
+    },
+    {
+      "word": "creep,",
+      "start": 12.5,
+      "end": 12.96
+    },
+    {
+      "word": "erodes",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "word": "your",
+      "start": 13.44,
+      "end": 13.68
+    },
+    {
+      "word": "creative",
+      "start": 13.68,
+      "end": 14.0
+    },
+    {
+      "word": "enthusiasm",
+      "start": 14.0,
+      "end": 14.64
+    },
+    {
+      "word": "and",
+      "start": 14.64,
+      "end": 15.3
+    },
+    {
+      "word": "causes",
+      "start": 15.3,
+      "end": 15.68
+    },
+    {
+      "word": "bitter",
+      "start": 15.68,
+      "end": 15.94
+    },
+    {
+      "word": "resentment",
+      "start": 15.94,
+      "end": 16.36
+    },
+    {
+      "word": "toward",
+      "start": 16.36,
+      "end": 16.8
+    },
+    {
+      "word": "otherwise",
+      "start": 16.8,
+      "end": 17.28
+    },
+    {
+      "word": "great",
+      "start": 17.28,
+      "end": 17.64
+    },
+    {
+      "word": "accounts.",
+      "start": 17.64,
+      "end": 18.16
+    },
+    {
+      "word": "Trigger",
+      "start": 18.62,
+      "end": 18.8
+    },
+    {
+      "word": "an",
+      "start": 18.8,
+      "end": 19.12
+    },
+    {
+      "word": "automated",
+      "start": 19.12,
+      "end": 19.56
+    },
+    {
+      "word": "slack",
+      "start": 19.56,
+      "end": 19.92
+    },
+    {
+      "word": "bot",
+      "start": 19.92,
+      "end": 20.2
+    },
+    {
+      "word": "that",
+      "start": 20.2,
+      "end": 20.46
+    },
+    {
+      "word": "detects",
+      "start": 20.46,
+      "end": 20.78
+    },
+    {
+      "word": "contract",
+      "start": 20.78,
+      "end": 21.3
+    },
+    {
+      "word": "deviations",
+      "start": 21.3,
+      "end": 21.9
+    },
+    {
+      "word": "and",
+      "start": 21.9,
+      "end": 22.5
+    },
+    {
+      "word": "generates",
+      "start": 22.5,
+      "end": 22.96
+    },
+    {
+      "word": "polite,",
+      "start": 22.96,
+      "end": 23.72
+    },
+    {
+      "word": "pre",
+      "start": 23.98,
+      "end": 24.08
+    },
+    {
+      "word": "-formatted",
+      "start": 24.08,
+      "end": 24.54
+    },
+    {
+      "word": "change",
+      "start": 24.54,
+      "end": 24.94
+    },
+    {
+      "word": "order",
+      "start": 24.94,
+      "end": 25.18
+    },
+    {
+      "word": "proposals.",
+      "start": 25.18,
+      "end": 25.68
+    },
+    {
+      "word": "You",
+      "start": 26.34,
+      "end": 26.54
+    },
+    {
+      "word": "protect",
+      "start": 26.54,
+      "end": 26.78
+    },
+    {
+      "word": "your",
+      "start": 26.78,
+      "end": 27.38
+    },
+    {
+      "word": "pricing",
+      "start": 27.38,
+      "end": 27.4
+    },
+    {
+      "word": "boundaries",
+      "start": 27.4,
+      "end": 27.9
+    },
+    {
+      "word": "without",
+      "start": 27.9,
+      "end": 28.54
+    },
+    {
+      "word": "damaging",
+      "start": 28.54,
+      "end": 29.16
+    },
+    {
+      "word": "client",
+      "start": 29.16,
+      "end": 29.54
+    },
+    {
+      "word": "rapport.",
+      "start": 29.54,
+      "end": 29.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "How to tell a client their request costs extra without feeling awkward.",
+      "line2": "STOP SCOPE CREEP",
+      "tag": "\ud83d\uded1 AI scope creep detector for client email threads",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI scope creep detector for client email threads",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI scope creep detector for client email threads",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI scope creep detector for client email threads"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI scope creep detector for client email threads",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

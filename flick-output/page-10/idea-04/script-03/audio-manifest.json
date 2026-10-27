@@ -1,0 +1,411 @@
+{
+  "page": "page-10",
+  "idea": "Google Gemini workspace integration upgrades for Docs and Sheets",
+  "text": "The new Gemini feature that builds entire financial models in Google Sheets. Founders and operators struggle with broken VLOOKUP formulas and syntax errors when building cash flow projections. Complex nested calculations easily corrupt financial forecasts whenever manual data entry shifts row ranges. Gemini in Sheets now generates dynamic forecasting models, automated pivot tables, and validated formulas directly from plain English. You build audit-proof financial sheets in minutes.",
+  "duration": 31.247,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "new",
+      "start": 0.16,
+      "end": 0.36
+    },
+    {
+      "word": "Gemini",
+      "start": 0.36,
+      "end": 0.7
+    },
+    {
+      "word": "feature",
+      "start": 0.7,
+      "end": 1.16
+    },
+    {
+      "word": "that",
+      "start": 1.16,
+      "end": 1.56
+    },
+    {
+      "word": "builds",
+      "start": 1.56,
+      "end": 1.7
+    },
+    {
+      "word": "entire",
+      "start": 1.7,
+      "end": 2.28
+    },
+    {
+      "word": "financial",
+      "start": 2.28,
+      "end": 2.76
+    },
+    {
+      "word": "models",
+      "start": 2.76,
+      "end": 3.18
+    },
+    {
+      "word": "in",
+      "start": 3.18,
+      "end": 3.44
+    },
+    {
+      "word": "Google",
+      "start": 3.44,
+      "end": 3.76
+    },
+    {
+      "word": "Sheets.",
+      "start": 3.76,
+      "end": 4.44
+    },
+    {
+      "word": "Founders",
+      "start": 5.14,
+      "end": 5.14
+    },
+    {
+      "word": "and",
+      "start": 5.14,
+      "end": 5.52
+    },
+    {
+      "word": "operators",
+      "start": 5.52,
+      "end": 5.94
+    },
+    {
+      "word": "struggle",
+      "start": 5.94,
+      "end": 6.36
+    },
+    {
+      "word": "with",
+      "start": 6.36,
+      "end": 6.72
+    },
+    {
+      "word": "broken",
+      "start": 6.72,
+      "end": 7.04
+    },
+    {
+      "word": "V",
+      "start": 7.04,
+      "end": 7.26
+    },
+    {
+      "word": "-look",
+      "start": 7.26,
+      "end": 7.38
+    },
+    {
+      "word": "-up",
+      "start": 7.38,
+      "end": 7.6
+    },
+    {
+      "word": "formulas",
+      "start": 7.6,
+      "end": 8.04
+    },
+    {
+      "word": "and",
+      "start": 8.04,
+      "end": 8.68
+    },
+    {
+      "word": "syntax",
+      "start": 8.68,
+      "end": 8.96
+    },
+    {
+      "word": "errors",
+      "start": 8.96,
+      "end": 9.46
+    },
+    {
+      "word": "when",
+      "start": 9.46,
+      "end": 9.92
+    },
+    {
+      "word": "building",
+      "start": 9.92,
+      "end": 10.32
+    },
+    {
+      "word": "cash",
+      "start": 10.32,
+      "end": 10.7
+    },
+    {
+      "word": "flow",
+      "start": 10.7,
+      "end": 10.96
+    },
+    {
+      "word": "projections.",
+      "start": 10.96,
+      "end": 11.64
+    },
+    {
+      "word": "Complex",
+      "start": 12.48,
+      "end": 12.66
+    },
+    {
+      "word": "nested",
+      "start": 12.66,
+      "end": 13.18
+    },
+    {
+      "word": "calculations",
+      "start": 13.18,
+      "end": 13.92
+    },
+    {
+      "word": "easily",
+      "start": 13.92,
+      "end": 14.62
+    },
+    {
+      "word": "corrupt",
+      "start": 14.62,
+      "end": 14.96
+    },
+    {
+      "word": "financial",
+      "start": 14.96,
+      "end": 15.58
+    },
+    {
+      "word": "forecasts",
+      "start": 15.58,
+      "end": 16.14
+    },
+    {
+      "word": "whenever",
+      "start": 16.14,
+      "end": 16.78
+    },
+    {
+      "word": "manual",
+      "start": 16.78,
+      "end": 17.24
+    },
+    {
+      "word": "data",
+      "start": 17.24,
+      "end": 17.6
+    },
+    {
+      "word": "entry",
+      "start": 17.6,
+      "end": 17.9
+    },
+    {
+      "word": "shifts",
+      "start": 17.9,
+      "end": 18.2
+    },
+    {
+      "word": "row",
+      "start": 18.2,
+      "end": 18.58
+    },
+    {
+      "word": "ranges.",
+      "start": 18.58,
+      "end": 19.06
+    },
+    {
+      "word": "Gemini",
+      "start": 19.54,
+      "end": 19.96
+    },
+    {
+      "word": "and",
+      "start": 19.96,
+      "end": 20.36
+    },
+    {
+      "word": "Sheets",
+      "start": 20.36,
+      "end": 20.74
+    },
+    {
+      "word": "now",
+      "start": 20.74,
+      "end": 21.16
+    },
+    {
+      "word": "generates",
+      "start": 21.16,
+      "end": 21.7
+    },
+    {
+      "word": "dynamic",
+      "start": 21.7,
+      "end": 22.24
+    },
+    {
+      "word": "forecasting",
+      "start": 22.24,
+      "end": 22.76
+    },
+    {
+      "word": "models,",
+      "start": 22.76,
+      "end": 23.38
+    },
+    {
+      "word": "automated",
+      "start": 24.14,
+      "end": 24.16
+    },
+    {
+      "word": "pivot",
+      "start": 24.16,
+      "end": 24.64
+    },
+    {
+      "word": "tables,",
+      "start": 24.64,
+      "end": 25.06
+    },
+    {
+      "word": "and",
+      "start": 25.44,
+      "end": 25.58
+    },
+    {
+      "word": "validated",
+      "start": 25.58,
+      "end": 25.94
+    },
+    {
+      "word": "formulas",
+      "start": 25.94,
+      "end": 26.64
+    },
+    {
+      "word": "directly",
+      "start": 26.64,
+      "end": 27.08
+    },
+    {
+      "word": "from",
+      "start": 27.08,
+      "end": 27.46
+    },
+    {
+      "word": "plain",
+      "start": 27.46,
+      "end": 27.76
+    },
+    {
+      "word": "English.",
+      "start": 27.76,
+      "end": 28.18
+    },
+    {
+      "word": "You",
+      "start": 28.18,
+      "end": 28.9
+    },
+    {
+      "word": "build",
+      "start": 28.9,
+      "end": 29.18
+    },
+    {
+      "word": "audit",
+      "start": 29.18,
+      "end": 29.46
+    },
+    {
+      "word": "proof",
+      "start": 29.46,
+      "end": 29.74
+    },
+    {
+      "word": "financial",
+      "start": 29.74,
+      "end": 30.2
+    },
+    {
+      "word": "Sheets",
+      "start": 30.2,
+      "end": 30.66
+    },
+    {
+      "word": "in",
+      "start": 30.66,
+      "end": 30.9
+    },
+    {
+      "word": "minutes.",
+      "start": 30.9,
+      "end": 31.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The new Gemini feature that builds entire financial models in Google Sheets.",
+      "line2": "GEMINI WORKSPACE INTEGRATION UPGRADES",
+      "tag": "\ud83d\uded1 Google Gemini workspace integration upgrades for Docs and Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Google Gemini workspace integration upgrades for Docs and Sheets",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Google Gemini workspace integration upgrades for Docs and Sheets",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Google Gemini workspace integration upgrades for Docs and Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

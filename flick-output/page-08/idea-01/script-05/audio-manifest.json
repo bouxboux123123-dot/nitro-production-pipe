@@ -1,0 +1,421 @@
+{
+  "page": "page-08",
+  "idea": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+  "text": "Fix hours of messy spreadsheet data with one copy and paste. When your download comes back with mangled phone numbers, weird line breaks, and mismatched dates, panic sets in. Ticking through hundreds of spreadsheet records manually drains your mental energy and invites human calculation errors. Copy the chaotic dataset into ChatGPT and provide the three-word directive: clean spreadsheet rows. The tool organizes the values into flawless spreadsheet columns immediately.",
+  "duration": 28.73,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Fix",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "hours",
+      "start": 0.3,
+      "end": 0.66
+    },
+    {
+      "word": "of",
+      "start": 0.66,
+      "end": 1.1
+    },
+    {
+      "word": "messy",
+      "start": 1.1,
+      "end": 1.1
+    },
+    {
+      "word": "spreadsheet",
+      "start": 1.1,
+      "end": 1.6
+    },
+    {
+      "word": "data",
+      "start": 1.6,
+      "end": 1.94
+    },
+    {
+      "word": "with",
+      "start": 1.94,
+      "end": 2.18
+    },
+    {
+      "word": "one",
+      "start": 2.18,
+      "end": 2.46
+    },
+    {
+      "word": "copy",
+      "start": 2.46,
+      "end": 2.76
+    },
+    {
+      "word": "and",
+      "start": 2.76,
+      "end": 3.06
+    },
+    {
+      "word": "paste.",
+      "start": 3.06,
+      "end": 3.4
+    },
+    {
+      "word": "When",
+      "start": 3.86,
+      "end": 3.94
+    },
+    {
+      "word": "your",
+      "start": 3.94,
+      "end": 4.14
+    },
+    {
+      "word": "download",
+      "start": 4.14,
+      "end": 4.44
+    },
+    {
+      "word": "comes",
+      "start": 4.44,
+      "end": 4.86
+    },
+    {
+      "word": "back",
+      "start": 4.86,
+      "end": 5.16
+    },
+    {
+      "word": "with",
+      "start": 5.16,
+      "end": 5.38
+    },
+    {
+      "word": "mangled",
+      "start": 5.38,
+      "end": 5.84
+    },
+    {
+      "word": "phone",
+      "start": 5.84,
+      "end": 6.16
+    },
+    {
+      "word": "numbers,",
+      "start": 6.16,
+      "end": 6.52
+    },
+    {
+      "word": "weird",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "word": "line",
+      "start": 7.2,
+      "end": 7.56
+    },
+    {
+      "word": "breaks",
+      "start": 7.56,
+      "end": 7.88
+    },
+    {
+      "word": "and",
+      "start": 7.88,
+      "end": 8.18
+    },
+    {
+      "word": "mismatched",
+      "start": 8.18,
+      "end": 8.6
+    },
+    {
+      "word": "dates,",
+      "start": 8.6,
+      "end": 9.12
+    },
+    {
+      "word": "panic",
+      "start": 9.6,
+      "end": 9.62
+    },
+    {
+      "word": "sets",
+      "start": 9.62,
+      "end": 9.98
+    },
+    {
+      "word": "in.",
+      "start": 9.98,
+      "end": 10.52
+    },
+    {
+      "word": "Ticking",
+      "start": 10.9,
+      "end": 11.08
+    },
+    {
+      "word": "through",
+      "start": 11.08,
+      "end": 11.46
+    },
+    {
+      "word": "hundreds",
+      "start": 11.46,
+      "end": 11.72
+    },
+    {
+      "word": "of",
+      "start": 11.72,
+      "end": 12.02
+    },
+    {
+      "word": "spreadsheet",
+      "start": 12.02,
+      "end": 12.32
+    },
+    {
+      "word": "records",
+      "start": 12.32,
+      "end": 12.84
+    },
+    {
+      "word": "manually",
+      "start": 12.84,
+      "end": 13.3
+    },
+    {
+      "word": "drains",
+      "start": 13.3,
+      "end": 13.7
+    },
+    {
+      "word": "your",
+      "start": 13.7,
+      "end": 14.0
+    },
+    {
+      "word": "mental",
+      "start": 14.0,
+      "end": 14.26
+    },
+    {
+      "word": "energy",
+      "start": 14.26,
+      "end": 14.78
+    },
+    {
+      "word": "and",
+      "start": 14.78,
+      "end": 15.18
+    },
+    {
+      "word": "invites",
+      "start": 15.18,
+      "end": 15.5
+    },
+    {
+      "word": "human",
+      "start": 15.5,
+      "end": 15.96
+    },
+    {
+      "word": "calculation",
+      "start": 15.96,
+      "end": 16.52
+    },
+    {
+      "word": "errors.",
+      "start": 16.52,
+      "end": 17.04
+    },
+    {
+      "word": "Copy",
+      "start": 17.66,
+      "end": 17.68
+    },
+    {
+      "word": "the",
+      "start": 17.68,
+      "end": 17.94
+    },
+    {
+      "word": "chaotic",
+      "start": 17.94,
+      "end": 18.34
+    },
+    {
+      "word": "data",
+      "start": 18.34,
+      "end": 18.68
+    },
+    {
+      "word": "set",
+      "start": 18.68,
+      "end": 18.86
+    },
+    {
+      "word": "into",
+      "start": 18.86,
+      "end": 19.1
+    },
+    {
+      "word": "chat",
+      "start": 19.1,
+      "end": 19.44
+    },
+    {
+      "word": "GPT",
+      "start": 19.44,
+      "end": 20.06
+    },
+    {
+      "word": "and",
+      "start": 20.06,
+      "end": 20.62
+    },
+    {
+      "word": "provide",
+      "start": 20.62,
+      "end": 20.86
+    },
+    {
+      "word": "the",
+      "start": 20.86,
+      "end": 21.18
+    },
+    {
+      "word": "three",
+      "start": 21.18,
+      "end": 21.38
+    },
+    {
+      "word": "word",
+      "start": 21.38,
+      "end": 21.6
+    },
+    {
+      "word": "directive.",
+      "start": 21.6,
+      "end": 22.08
+    },
+    {
+      "word": "Clean",
+      "start": 22.86,
+      "end": 22.86
+    },
+    {
+      "word": "spreadsheet",
+      "start": 22.86,
+      "end": 23.3
+    },
+    {
+      "word": "rows.",
+      "start": 23.3,
+      "end": 23.88
+    },
+    {
+      "word": "The",
+      "start": 24.52,
+      "end": 24.66
+    },
+    {
+      "word": "tool",
+      "start": 24.66,
+      "end": 25.02
+    },
+    {
+      "word": "organizes",
+      "start": 25.02,
+      "end": 25.6
+    },
+    {
+      "word": "the",
+      "start": 25.6,
+      "end": 25.86
+    },
+    {
+      "word": "values",
+      "start": 25.86,
+      "end": 26.18
+    },
+    {
+      "word": "into",
+      "start": 26.18,
+      "end": 26.56
+    },
+    {
+      "word": "flawless",
+      "start": 26.56,
+      "end": 26.96
+    },
+    {
+      "word": "spreadsheet",
+      "start": 26.96,
+      "end": 27.56
+    },
+    {
+      "word": "columns",
+      "start": 27.56,
+      "end": 28.02
+    },
+    {
+      "word": "immediately.",
+      "start": 28.02,
+      "end": 28.58
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Fix hours of messy spreadsheet data with one copy and paste.",
+      "line2": "CLEAN MESSY DATA INSTANTLY",
+      "tag": "\ud83d\uded1 The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+        "subtitle": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "The 3-word ChatGPT prompt that cleans messy spreadsheet data instantly",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

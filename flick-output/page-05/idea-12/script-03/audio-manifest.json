@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Automated customer feedback sentiment tracker with Make and AI",
+  "text": "Stop reading through spreadsheets of survey answers one by one. Product managers drown in survey data trying to identify common user pain points manually. Manual text parsing is slow, biased, and fails to surface urgent technical bugs before they spread. Pipe Google Forms through Make.com to Claude API, auto-generating summarized bug tags and feature requests in Notion. You turn raw feedback into structured product roadmaps instantly.",
+  "duration": 25.941,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "reading",
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "word": "through",
+      "start": 0.56,
+      "end": 0.94
+    },
+    {
+      "word": "spreadsheets",
+      "start": 0.94,
+      "end": 1.34
+    },
+    {
+      "word": "of",
+      "start": 1.34,
+      "end": 1.6
+    },
+    {
+      "word": "survey",
+      "start": 1.6,
+      "end": 1.86
+    },
+    {
+      "word": "answers",
+      "start": 1.86,
+      "end": 2.16
+    },
+    {
+      "word": "one",
+      "start": 2.16,
+      "end": 2.48
+    },
+    {
+      "word": "by",
+      "start": 2.48,
+      "end": 2.74
+    },
+    {
+      "word": "one.",
+      "start": 2.74,
+      "end": 3.2
+    },
+    {
+      "word": "Product",
+      "start": 3.76,
+      "end": 3.76
+    },
+    {
+      "word": "managers",
+      "start": 3.76,
+      "end": 4.2
+    },
+    {
+      "word": "drown",
+      "start": 4.2,
+      "end": 4.66
+    },
+    {
+      "word": "in",
+      "start": 4.66,
+      "end": 4.92
+    },
+    {
+      "word": "survey",
+      "start": 4.92,
+      "end": 5.18
+    },
+    {
+      "word": "data",
+      "start": 5.18,
+      "end": 5.56
+    },
+    {
+      "word": "trying",
+      "start": 5.56,
+      "end": 5.84
+    },
+    {
+      "word": "to",
+      "start": 5.84,
+      "end": 6.24
+    },
+    {
+      "word": "identify",
+      "start": 6.24,
+      "end": 6.5
+    },
+    {
+      "word": "common",
+      "start": 6.5,
+      "end": 6.88
+    },
+    {
+      "word": "user",
+      "start": 6.88,
+      "end": 7.14
+    },
+    {
+      "word": "pain",
+      "start": 7.14,
+      "end": 7.5
+    },
+    {
+      "word": "points",
+      "start": 7.5,
+      "end": 7.82
+    },
+    {
+      "word": "manually.",
+      "start": 7.82,
+      "end": 8.46
+    },
+    {
+      "word": "Manual",
+      "start": 9.22,
+      "end": 9.22
+    },
+    {
+      "word": "text",
+      "start": 9.22,
+      "end": 9.52
+    },
+    {
+      "word": "parsing",
+      "start": 9.52,
+      "end": 9.76
+    },
+    {
+      "word": "is",
+      "start": 9.76,
+      "end": 10.1
+    },
+    {
+      "word": "slow,",
+      "start": 10.1,
+      "end": 10.48
+    },
+    {
+      "word": "biased,",
+      "start": 10.56,
+      "end": 10.92
+    },
+    {
+      "word": "and",
+      "start": 11.34,
+      "end": 11.46
+    },
+    {
+      "word": "fails",
+      "start": 11.46,
+      "end": 11.7
+    },
+    {
+      "word": "to",
+      "start": 11.7,
+      "end": 11.94
+    },
+    {
+      "word": "surface",
+      "start": 11.94,
+      "end": 12.28
+    },
+    {
+      "word": "urgent",
+      "start": 12.28,
+      "end": 12.58
+    },
+    {
+      "word": "technical",
+      "start": 12.58,
+      "end": 13.04
+    },
+    {
+      "word": "bugs",
+      "start": 13.04,
+      "end": 13.36
+    },
+    {
+      "word": "before",
+      "start": 13.36,
+      "end": 13.66
+    },
+    {
+      "word": "they",
+      "start": 13.66,
+      "end": 13.88
+    },
+    {
+      "word": "spread.",
+      "start": 13.88,
+      "end": 14.24
+    },
+    {
+      "word": "Pipe",
+      "start": 14.74,
+      "end": 15.0
+    },
+    {
+      "word": "Google",
+      "start": 15.0,
+      "end": 15.32
+    },
+    {
+      "word": "forms",
+      "start": 15.32,
+      "end": 15.64
+    },
+    {
+      "word": "through",
+      "start": 15.64,
+      "end": 15.92
+    },
+    {
+      "word": "make,",
+      "start": 15.92,
+      "end": 16.2
+    },
+    {
+      "word": "calm",
+      "start": 16.78,
+      "end": 16.78
+    },
+    {
+      "word": "to",
+      "start": 16.78,
+      "end": 17.0
+    },
+    {
+      "word": "clawed",
+      "start": 17.0,
+      "end": 17.44
+    },
+    {
+      "word": "API,",
+      "start": 17.44,
+      "end": 17.88
+    },
+    {
+      "word": "auto",
+      "start": 18.6,
+      "end": 18.66
+    },
+    {
+      "word": "-generating",
+      "start": 18.66,
+      "end": 19.2
+    },
+    {
+      "word": "summarized",
+      "start": 19.2,
+      "end": 19.74
+    },
+    {
+      "word": "bug",
+      "start": 19.74,
+      "end": 20.08
+    },
+    {
+      "word": "tags",
+      "start": 20.08,
+      "end": 20.42
+    },
+    {
+      "word": "and",
+      "start": 20.42,
+      "end": 20.8
+    },
+    {
+      "word": "feature",
+      "start": 20.8,
+      "end": 21.0
+    },
+    {
+      "word": "requests",
+      "start": 21.0,
+      "end": 21.46
+    },
+    {
+      "word": "in",
+      "start": 21.46,
+      "end": 21.7
+    },
+    {
+      "word": "Notion.",
+      "start": 21.7,
+      "end": 22.16
+    },
+    {
+      "word": "You",
+      "start": 22.16,
+      "end": 22.7
+    },
+    {
+      "word": "turn",
+      "start": 22.7,
+      "end": 22.98
+    },
+    {
+      "word": "raw",
+      "start": 22.98,
+      "end": 23.2
+    },
+    {
+      "word": "feedback",
+      "start": 23.2,
+      "end": 23.58
+    },
+    {
+      "word": "into",
+      "start": 23.58,
+      "end": 24.0
+    },
+    {
+      "word": "structured",
+      "start": 24.0,
+      "end": 24.44
+    },
+    {
+      "word": "product",
+      "start": 24.44,
+      "end": 24.88
+    },
+    {
+      "word": "roadmaps",
+      "start": 24.88,
+      "end": 25.52
+    },
+    {
+      "word": "instantly.",
+      "start": 25.52,
+      "end": 25.82
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Stop reading through spreadsheets of survey answers one by one.",
+      "line2": "TRACK FEEDBACK SENTIMENT",
+      "tag": "\ud83d\uded1 Automated customer feedback sentiment tracker with Make and AI",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated customer feedback sentiment tracker with Make and AI",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated customer feedback sentiment tracker with Make and AI",
+        "subtitle": "Automated customer feedback sentiment tracker with Make and AI"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated customer feedback sentiment tracker with Make and AI"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated customer feedback sentiment tracker with Make and AI"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated customer feedback sentiment tracker with Make and AI",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

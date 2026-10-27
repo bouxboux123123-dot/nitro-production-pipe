@@ -1,0 +1,416 @@
+{
+  "page": "page-01",
+  "idea": "Agency hiring scorecard system for evaluating creative talent",
+  "text": "Find and retain elite agency talent using this proven creative evaluation framework. Retaining top-tier video editors is impossible when your onboarding process feels chaotic, unorganized, and frustratingly slow. Elite creative talent leaves agencies that lack clear operational guidelines, organized files, and transparent performance expectations. Deploy a Notion contractor onboarding portal integrated with Loom modules and an objective quarterly performance scorecard. You retain high-performing creative contractors who scale client retainers.",
+  "duration": 34.383,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Find",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "and",
+      "start": 0.44,
+      "end": 0.6
+    },
+    {
+      "word": "retain",
+      "start": 0.6,
+      "end": 1.02
+    },
+    {
+      "word": "Elite",
+      "start": 1.02,
+      "end": 1.4
+    },
+    {
+      "word": "Agency",
+      "start": 1.4,
+      "end": 1.86
+    },
+    {
+      "word": "talent",
+      "start": 1.86,
+      "end": 2.24
+    },
+    {
+      "word": "using",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "word": "this",
+      "start": 2.64,
+      "end": 2.98
+    },
+    {
+      "word": "proven",
+      "start": 2.98,
+      "end": 3.34
+    },
+    {
+      "word": "creative",
+      "start": 3.34,
+      "end": 3.74
+    },
+    {
+      "word": "evaluation",
+      "start": 3.74,
+      "end": 4.36
+    },
+    {
+      "word": "framework.",
+      "start": 4.36,
+      "end": 5.04
+    },
+    {
+      "word": "Retaining",
+      "start": 5.64,
+      "end": 6.0
+    },
+    {
+      "word": "top",
+      "start": 6.0,
+      "end": 6.38
+    },
+    {
+      "word": "tier",
+      "start": 6.38,
+      "end": 6.62
+    },
+    {
+      "word": "video",
+      "start": 6.62,
+      "end": 6.96
+    },
+    {
+      "word": "editors",
+      "start": 6.96,
+      "end": 7.24
+    },
+    {
+      "word": "is",
+      "start": 7.24,
+      "end": 7.72
+    },
+    {
+      "word": "impossible",
+      "start": 7.72,
+      "end": 8.22
+    },
+    {
+      "word": "when",
+      "start": 8.22,
+      "end": 8.5
+    },
+    {
+      "word": "your",
+      "start": 8.5,
+      "end": 8.74
+    },
+    {
+      "word": "onboarding",
+      "start": 8.74,
+      "end": 9.24
+    },
+    {
+      "word": "process",
+      "start": 9.24,
+      "end": 9.68
+    },
+    {
+      "word": "feels",
+      "start": 9.68,
+      "end": 10.12
+    },
+    {
+      "word": "chaotic,",
+      "start": 10.12,
+      "end": 10.76
+    },
+    {
+      "word": "unorganized,",
+      "start": 11.2,
+      "end": 11.84
+    },
+    {
+      "word": "and",
+      "start": 12.36,
+      "end": 12.66
+    },
+    {
+      "word": "frustratingly",
+      "start": 12.66,
+      "end": 13.32
+    },
+    {
+      "word": "slow.",
+      "start": 13.32,
+      "end": 13.74
+    },
+    {
+      "word": "Elite",
+      "start": 14.34,
+      "end": 14.34
+    },
+    {
+      "word": "Creative",
+      "start": 14.34,
+      "end": 14.74
+    },
+    {
+      "word": "Talent",
+      "start": 14.74,
+      "end": 15.08
+    },
+    {
+      "word": "leaves",
+      "start": 15.08,
+      "end": 15.44
+    },
+    {
+      "word": "agencies",
+      "start": 15.44,
+      "end": 15.96
+    },
+    {
+      "word": "that",
+      "start": 15.96,
+      "end": 16.34
+    },
+    {
+      "word": "lack",
+      "start": 16.34,
+      "end": 16.6
+    },
+    {
+      "word": "clear",
+      "start": 16.6,
+      "end": 16.9
+    },
+    {
+      "word": "operational",
+      "start": 16.9,
+      "end": 17.5
+    },
+    {
+      "word": "guidelines,",
+      "start": 17.5,
+      "end": 18.1
+    },
+    {
+      "word": "organized",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "files,",
+      "start": 19.14,
+      "end": 19.68
+    },
+    {
+      "word": "and",
+      "start": 20.0,
+      "end": 20.4
+    },
+    {
+      "word": "transparent",
+      "start": 20.4,
+      "end": 20.76
+    },
+    {
+      "word": "performance",
+      "start": 20.76,
+      "end": 21.36
+    },
+    {
+      "word": "expectations.",
+      "start": 21.36,
+      "end": 22.14
+    },
+    {
+      "word": "Deploy",
+      "start": 22.96,
+      "end": 23.16
+    },
+    {
+      "word": "a",
+      "start": 23.16,
+      "end": 23.4
+    },
+    {
+      "word": "notion",
+      "start": 23.4,
+      "end": 23.72
+    },
+    {
+      "word": "contractor",
+      "start": 23.72,
+      "end": 24.34
+    },
+    {
+      "word": "onboarding",
+      "start": 24.34,
+      "end": 24.98
+    },
+    {
+      "word": "portal",
+      "start": 24.98,
+      "end": 25.36
+    },
+    {
+      "word": "integrated",
+      "start": 25.36,
+      "end": 25.8
+    },
+    {
+      "word": "with",
+      "start": 25.8,
+      "end": 26.16
+    },
+    {
+      "word": "Loom",
+      "start": 26.16,
+      "end": 26.4
+    },
+    {
+      "word": "modules",
+      "start": 26.4,
+      "end": 26.88
+    },
+    {
+      "word": "and",
+      "start": 26.88,
+      "end": 27.42
+    },
+    {
+      "word": "an",
+      "start": 27.42,
+      "end": 27.62
+    },
+    {
+      "word": "objective",
+      "start": 27.62,
+      "end": 28.12
+    },
+    {
+      "word": "quarterly",
+      "start": 28.12,
+      "end": 28.64
+    },
+    {
+      "word": "performance",
+      "start": 28.64,
+      "end": 29.24
+    },
+    {
+      "word": "scorecard.",
+      "start": 29.24,
+      "end": 29.88
+    },
+    {
+      "word": "You",
+      "start": 30.44,
+      "end": 30.58
+    },
+    {
+      "word": "retain",
+      "start": 30.58,
+      "end": 30.86
+    },
+    {
+      "word": "high",
+      "start": 30.86,
+      "end": 31.2
+    },
+    {
+      "word": "performing",
+      "start": 31.2,
+      "end": 31.68
+    },
+    {
+      "word": "creative",
+      "start": 31.68,
+      "end": 32.12
+    },
+    {
+      "word": "contractors",
+      "start": 32.12,
+      "end": 32.66
+    },
+    {
+      "word": "who",
+      "start": 32.66,
+      "end": 33.06
+    },
+    {
+      "word": "scale",
+      "start": 33.06,
+      "end": 33.4
+    },
+    {
+      "word": "client",
+      "start": 33.4,
+      "end": 33.74
+    },
+    {
+      "word": "retainers.",
+      "start": 33.74,
+      "end": 34.36
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Find and retain elite agency talent using this proven evaluation framework.",
+      "line2": "CREATIVE HIRING SCORECARDS",
+      "tag": "\ud83d\uded1 Agency hiring scorecard system for evaluating creative talent",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Agency hiring scorecard system for evaluating creative talent",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Agency hiring scorecard system for evaluating creative talent",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Agency hiring scorecard system for evaluating creative talent",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

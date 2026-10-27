@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Automated runway and cash burn dashboard on Google Sheets",
+  "text": "Do you know your startup's exact zero-cash date right now? Most founders simply check bank balances, overlooking quarterly payroll taxes and annual SaaS renewals that drain cash. Static spreadsheets fail because disconnected bank accounts hide dangerous spikes in your net burn rate. Instead, sync your Mercury accounts and Stripe revenue directly into Google Sheets using live webhook feeds. You forecast runway accurately to avoid emergency capital calls.",
+  "duration": 25.963,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "know",
+      "start": 0.18,
+      "end": 0.32
+    },
+    {
+      "word": "your",
+      "start": 0.32,
+      "end": 0.54
+    },
+    {
+      "word": "startups",
+      "start": 0.54,
+      "end": 0.82
+    },
+    {
+      "word": "exact",
+      "start": 0.82,
+      "end": 1.3
+    },
+    {
+      "word": "zero",
+      "start": 1.3,
+      "end": 1.68
+    },
+    {
+      "word": "cash",
+      "start": 1.68,
+      "end": 1.98
+    },
+    {
+      "word": "date",
+      "start": 1.98,
+      "end": 2.22
+    },
+    {
+      "word": "right",
+      "start": 2.22,
+      "end": 2.48
+    },
+    {
+      "word": "now.",
+      "start": 2.48,
+      "end": 2.96
+    },
+    {
+      "word": "Most",
+      "start": 3.36,
+      "end": 3.4
+    },
+    {
+      "word": "founders",
+      "start": 3.4,
+      "end": 3.76
+    },
+    {
+      "word": "simply",
+      "start": 3.76,
+      "end": 4.12
+    },
+    {
+      "word": "check",
+      "start": 4.12,
+      "end": 4.36
+    },
+    {
+      "word": "bank",
+      "start": 4.36,
+      "end": 4.6
+    },
+    {
+      "word": "balances,",
+      "start": 4.6,
+      "end": 5.1
+    },
+    {
+      "word": "overlooking",
+      "start": 5.78,
+      "end": 5.86
+    },
+    {
+      "word": "quarterly",
+      "start": 5.86,
+      "end": 6.42
+    },
+    {
+      "word": "payroll",
+      "start": 6.42,
+      "end": 6.76
+    },
+    {
+      "word": "taxes",
+      "start": 6.76,
+      "end": 7.28
+    },
+    {
+      "word": "and",
+      "start": 7.28,
+      "end": 7.78
+    },
+    {
+      "word": "annual",
+      "start": 7.78,
+      "end": 8.1
+    },
+    {
+      "word": "saw",
+      "start": 8.1,
+      "end": 8.4
+    },
+    {
+      "word": "S",
+      "start": 8.4,
+      "end": 8.58
+    },
+    {
+      "word": "renewals",
+      "start": 8.58,
+      "end": 8.96
+    },
+    {
+      "word": "that",
+      "start": 8.96,
+      "end": 9.16
+    },
+    {
+      "word": "drain",
+      "start": 9.16,
+      "end": 9.44
+    },
+    {
+      "word": "cash.",
+      "start": 9.44,
+      "end": 10.04
+    },
+    {
+      "word": "Static",
+      "start": 10.78,
+      "end": 10.78
+    },
+    {
+      "word": "spreadsheets",
+      "start": 10.78,
+      "end": 11.38
+    },
+    {
+      "word": "fail",
+      "start": 11.38,
+      "end": 11.66
+    },
+    {
+      "word": "because",
+      "start": 11.66,
+      "end": 12.0
+    },
+    {
+      "word": "disconnected",
+      "start": 12.0,
+      "end": 12.44
+    },
+    {
+      "word": "bank",
+      "start": 12.44,
+      "end": 12.84
+    },
+    {
+      "word": "accounts",
+      "start": 12.84,
+      "end": 13.16
+    },
+    {
+      "word": "hide",
+      "start": 13.16,
+      "end": 13.56
+    },
+    {
+      "word": "dangerous",
+      "start": 13.56,
+      "end": 13.86
+    },
+    {
+      "word": "spikes",
+      "start": 13.86,
+      "end": 14.34
+    },
+    {
+      "word": "in",
+      "start": 14.34,
+      "end": 14.5
+    },
+    {
+      "word": "your",
+      "start": 14.5,
+      "end": 14.64
+    },
+    {
+      "word": "net",
+      "start": 14.64,
+      "end": 14.84
+    },
+    {
+      "word": "burn",
+      "start": 14.84,
+      "end": 15.12
+    },
+    {
+      "word": "rate.",
+      "start": 15.12,
+      "end": 15.46
+    },
+    {
+      "word": "Instead,",
+      "start": 15.96,
+      "end": 16.28
+    },
+    {
+      "word": "sink",
+      "start": 16.82,
+      "end": 16.88
+    },
+    {
+      "word": "your",
+      "start": 16.88,
+      "end": 17.34
+    },
+    {
+      "word": "mercury",
+      "start": 17.34,
+      "end": 17.34
+    },
+    {
+      "word": "accounts",
+      "start": 17.34,
+      "end": 17.8
+    },
+    {
+      "word": "and",
+      "start": 17.8,
+      "end": 18.1
+    },
+    {
+      "word": "stripe",
+      "start": 18.1,
+      "end": 18.42
+    },
+    {
+      "word": "revenue",
+      "start": 18.42,
+      "end": 18.74
+    },
+    {
+      "word": "directly",
+      "start": 18.74,
+      "end": 19.22
+    },
+    {
+      "word": "into",
+      "start": 19.22,
+      "end": 19.56
+    },
+    {
+      "word": "Google",
+      "start": 19.56,
+      "end": 19.9
+    },
+    {
+      "word": "Sheets",
+      "start": 19.9,
+      "end": 20.24
+    },
+    {
+      "word": "using",
+      "start": 20.24,
+      "end": 20.6
+    },
+    {
+      "word": "live",
+      "start": 20.6,
+      "end": 20.96
+    },
+    {
+      "word": "webhook",
+      "start": 20.96,
+      "end": 21.36
+    },
+    {
+      "word": "feeds.",
+      "start": 21.36,
+      "end": 21.8
+    },
+    {
+      "word": "You",
+      "start": 22.36,
+      "end": 22.48
+    },
+    {
+      "word": "forecast",
+      "start": 22.48,
+      "end": 22.9
+    },
+    {
+      "word": "runway",
+      "start": 22.9,
+      "end": 23.32
+    },
+    {
+      "word": "accurately",
+      "start": 23.32,
+      "end": 23.84
+    },
+    {
+      "word": "to",
+      "start": 23.84,
+      "end": 24.14
+    },
+    {
+      "word": "avoid",
+      "start": 24.14,
+      "end": 24.4
+    },
+    {
+      "word": "emergency",
+      "start": 24.4,
+      "end": 25.06
+    },
+    {
+      "word": "capital",
+      "start": 25.06,
+      "end": 25.46
+    },
+    {
+      "word": "calls.",
+      "start": 25.46,
+      "end": 25.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Founders: do you know your exact startup zero-cash date down to the day?",
+      "line2": "TRACK STARTUP RUNWAY",
+      "tag": "\ud83d\uded1 Automated runway and cash burn dashboard on Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated runway and cash burn dashboard on Google Sheets",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated runway and cash burn dashboard on Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

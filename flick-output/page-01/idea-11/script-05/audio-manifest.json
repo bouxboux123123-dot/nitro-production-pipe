@@ -1,0 +1,406 @@
+{
+  "page": "page-01",
+  "idea": "Agency rate card calculator that protects 60 percent gross margins",
+  "text": "Never underquote an agency scope of work again with this benchmark tool. Underestimating turnaround times forces agency founders to subsidize client projects out of their own personal pockets. Complex scopes fail financially when unexpected client revision cycles outpace the original fee structure. Deploy an automated Airtable scoping matrix that calculates production hours, contractor fees, and required buffer margins. You lock in profitable client contracts every single time.",
+  "duration": 29.946,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "never",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "under",
+      "start": 0.36,
+      "end": 0.68
+    },
+    {
+      "word": "quote",
+      "start": 0.68,
+      "end": 0.86
+    },
+    {
+      "word": "an",
+      "start": 0.86,
+      "end": 1.04
+    },
+    {
+      "word": "agency",
+      "start": 1.04,
+      "end": 1.46
+    },
+    {
+      "word": "scope",
+      "start": 1.46,
+      "end": 1.78
+    },
+    {
+      "word": "of",
+      "start": 1.78,
+      "end": 1.94
+    },
+    {
+      "word": "work",
+      "start": 1.94,
+      "end": 2.16
+    },
+    {
+      "word": "again",
+      "start": 2.16,
+      "end": 2.44
+    },
+    {
+      "word": "with",
+      "start": 2.44,
+      "end": 2.68
+    },
+    {
+      "word": "this",
+      "start": 2.68,
+      "end": 2.94
+    },
+    {
+      "word": "benchmark",
+      "start": 2.94,
+      "end": 3.32
+    },
+    {
+      "word": "tool.",
+      "start": 3.32,
+      "end": 4.22
+    },
+    {
+      "word": "Under",
+      "start": 4.68,
+      "end": 4.7
+    },
+    {
+      "word": "estimating",
+      "start": 4.7,
+      "end": 5.2
+    },
+    {
+      "word": "turnaround",
+      "start": 5.2,
+      "end": 5.88
+    },
+    {
+      "word": "times,",
+      "start": 5.88,
+      "end": 6.48
+    },
+    {
+      "word": "forces",
+      "start": 6.86,
+      "end": 6.96
+    },
+    {
+      "word": "agency",
+      "start": 6.96,
+      "end": 7.5
+    },
+    {
+      "word": "founders",
+      "start": 7.5,
+      "end": 7.96
+    },
+    {
+      "word": "to",
+      "start": 7.96,
+      "end": 8.46
+    },
+    {
+      "word": "subsidize",
+      "start": 8.46,
+      "end": 8.94
+    },
+    {
+      "word": "client",
+      "start": 8.94,
+      "end": 9.28
+    },
+    {
+      "word": "projects",
+      "start": 9.28,
+      "end": 9.8
+    },
+    {
+      "word": "out",
+      "start": 9.8,
+      "end": 10.08
+    },
+    {
+      "word": "of",
+      "start": 10.08,
+      "end": 10.14
+    },
+    {
+      "word": "their",
+      "start": 10.14,
+      "end": 10.36
+    },
+    {
+      "word": "own",
+      "start": 10.36,
+      "end": 10.74
+    },
+    {
+      "word": "personal",
+      "start": 10.74,
+      "end": 11.02
+    },
+    {
+      "word": "pockets.",
+      "start": 11.02,
+      "end": 11.58
+    },
+    {
+      "word": "Complex",
+      "start": 12.22,
+      "end": 12.22
+    },
+    {
+      "word": "scopes",
+      "start": 12.22,
+      "end": 12.66
+    },
+    {
+      "word": "fail",
+      "start": 12.66,
+      "end": 12.98
+    },
+    {
+      "word": "financially",
+      "start": 12.98,
+      "end": 13.54
+    },
+    {
+      "word": "when",
+      "start": 13.54,
+      "end": 13.98
+    },
+    {
+      "word": "unexpected",
+      "start": 13.98,
+      "end": 14.38
+    },
+    {
+      "word": "client",
+      "start": 14.38,
+      "end": 14.94
+    },
+    {
+      "word": "revision",
+      "start": 14.94,
+      "end": 15.28
+    },
+    {
+      "word": "cycles",
+      "start": 15.28,
+      "end": 15.8
+    },
+    {
+      "word": "outpaced",
+      "start": 15.8,
+      "end": 16.48
+    },
+    {
+      "word": "the",
+      "start": 16.48,
+      "end": 16.82
+    },
+    {
+      "word": "original",
+      "start": 16.82,
+      "end": 17.16
+    },
+    {
+      "word": "fee",
+      "start": 17.16,
+      "end": 17.46
+    },
+    {
+      "word": "structure.",
+      "start": 17.46,
+      "end": 17.94
+    },
+    {
+      "word": "Deploy",
+      "start": 18.62,
+      "end": 18.84
+    },
+    {
+      "word": "an",
+      "start": 18.84,
+      "end": 19.14
+    },
+    {
+      "word": "automated,",
+      "start": 19.14,
+      "end": 19.64
+    },
+    {
+      "word": "irritable",
+      "start": 19.74,
+      "end": 20.18
+    },
+    {
+      "word": "scoping",
+      "start": 20.18,
+      "end": 20.6
+    },
+    {
+      "word": "matrix",
+      "start": 20.6,
+      "end": 20.96
+    },
+    {
+      "word": "that",
+      "start": 20.96,
+      "end": 21.46
+    },
+    {
+      "word": "calculates",
+      "start": 21.46,
+      "end": 21.9
+    },
+    {
+      "word": "production",
+      "start": 21.9,
+      "end": 22.48
+    },
+    {
+      "word": "hours,",
+      "start": 22.48,
+      "end": 22.98
+    },
+    {
+      "word": "contractor",
+      "start": 23.34,
+      "end": 23.68
+    },
+    {
+      "word": "fees,",
+      "start": 23.68,
+      "end": 24.22
+    },
+    {
+      "word": "and",
+      "start": 24.52,
+      "end": 24.82
+    },
+    {
+      "word": "required",
+      "start": 24.82,
+      "end": 25.24
+    },
+    {
+      "word": "buffer",
+      "start": 25.24,
+      "end": 25.52
+    },
+    {
+      "word": "margins.",
+      "start": 25.52,
+      "end": 26.04
+    },
+    {
+      "word": "You",
+      "start": 26.04,
+      "end": 26.8
+    },
+    {
+      "word": "lock",
+      "start": 26.8,
+      "end": 27.08
+    },
+    {
+      "word": "in",
+      "start": 27.08,
+      "end": 27.32
+    },
+    {
+      "word": "profitable",
+      "start": 27.32,
+      "end": 27.8
+    },
+    {
+      "word": "client",
+      "start": 27.8,
+      "end": 28.22
+    },
+    {
+      "word": "contracts",
+      "start": 28.22,
+      "end": 28.74
+    },
+    {
+      "word": "every",
+      "start": 28.74,
+      "end": 29.22
+    },
+    {
+      "word": "single",
+      "start": 29.22,
+      "end": 29.56
+    },
+    {
+      "word": "time.",
+      "start": 29.56,
+      "end": 29.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 AGENCY SYSTEMS",
+      "line1": "Never underquote an agency scope of work again with this benchmark tool.",
+      "line2": "PROTECT 60% MARGINS",
+      "tag": "\ud83d\uded1 Agency rate card calculator that protects 60 percent gross margins",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "AGENCY SYSTEMS BOTTLENECK",
+      "title": "Team Capacity Bottleneck: Agency rate card calculator that protects 60 percent gross margins",
+      "primitive": "TeamUtilizationHeatmap",
+      "props": {
+        "title": "Team Capacity Bottleneck: Agency rate card calculator that protects 60 percent gross margins",
+        "subtitle": "Agency rate card calculator that protects 60 percent gross margins"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Unbilled Scope & Margin Leak",
+      "primitive": "RetainerMarginLeakDetector",
+      "props": {
+        "title": "Unbilled Scope & Margin Leak",
+        "subtitle": "Agency rate card calculator that protects 60 percent gross margins"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Recruitment Threshold",
+      "primitive": "HireTriggerThresholdMeter",
+      "props": {
+        "title": "Automated Recruitment Threshold",
+        "subtitle": "Agency rate card calculator that protects 60 percent gross margins"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Turnaround Benchmark Victory",
+      "primitive": "DeliverableVelocityTracker",
+      "props": {
+        "title": "Turnaround Benchmark Victory",
+        "subtitle": "Agency rate card calculator that protects 60 percent gross margins",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "Stripe Billing 2.0 updates for metered usage and automated tax",
+  "text": "Stripe just revamped their billing engine for software and agency subscriptions. Founders lose thousands of dollars monthly trying to track seat upgrades, overage charges, and foreign sales tax manually. Custom database scripts for usage billing fail under high request volume, causing incorrect customer charges. Stripe Billing aggregates consumption events in real time and automatically calculates jurisdiction-specific taxes at checkout. This eliminates billing leakage and saves engineering time.",
+  "duration": 30.735,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stripe",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "just",
+      "start": 0.4,
+      "end": 0.72
+    },
+    {
+      "word": "revamp",
+      "start": 0.72,
+      "end": 1.08
+    },
+    {
+      "word": "their",
+      "start": 1.08,
+      "end": 1.36
+    },
+    {
+      "word": "billing",
+      "start": 1.36,
+      "end": 1.6
+    },
+    {
+      "word": "engine",
+      "start": 1.6,
+      "end": 1.92
+    },
+    {
+      "word": "for",
+      "start": 1.92,
+      "end": 2.22
+    },
+    {
+      "word": "software",
+      "start": 2.22,
+      "end": 2.6
+    },
+    {
+      "word": "and",
+      "start": 2.6,
+      "end": 2.92
+    },
+    {
+      "word": "agency",
+      "start": 2.92,
+      "end": 3.34
+    },
+    {
+      "word": "subscriptions.",
+      "start": 3.34,
+      "end": 4.14
+    },
+    {
+      "word": "Founders",
+      "start": 4.96,
+      "end": 5.08
+    },
+    {
+      "word": "lose",
+      "start": 5.08,
+      "end": 5.48
+    },
+    {
+      "word": "thousands",
+      "start": 5.48,
+      "end": 6.02
+    },
+    {
+      "word": "of",
+      "start": 6.02,
+      "end": 6.26
+    },
+    {
+      "word": "dollars",
+      "start": 6.26,
+      "end": 6.54
+    },
+    {
+      "word": "monthly",
+      "start": 6.54,
+      "end": 7.02
+    },
+    {
+      "word": "trying",
+      "start": 7.02,
+      "end": 7.32
+    },
+    {
+      "word": "to",
+      "start": 7.32,
+      "end": 7.46
+    },
+    {
+      "word": "track",
+      "start": 7.46,
+      "end": 7.76
+    },
+    {
+      "word": "seat",
+      "start": 7.76,
+      "end": 8.02
+    },
+    {
+      "word": "upgrades,",
+      "start": 8.02,
+      "end": 8.5
+    },
+    {
+      "word": "over",
+      "start": 9.12,
+      "end": 9.22
+    },
+    {
+      "word": "age",
+      "start": 9.22,
+      "end": 9.48
+    },
+    {
+      "word": "charges,",
+      "start": 9.48,
+      "end": 10.02
+    },
+    {
+      "word": "and",
+      "start": 10.3,
+      "end": 10.64
+    },
+    {
+      "word": "foreign",
+      "start": 10.64,
+      "end": 10.94
+    },
+    {
+      "word": "sales",
+      "start": 10.94,
+      "end": 11.32
+    },
+    {
+      "word": "tax",
+      "start": 11.32,
+      "end": 11.76
+    },
+    {
+      "word": "manually.",
+      "start": 11.76,
+      "end": 12.3
+    },
+    {
+      "word": "Custom",
+      "start": 12.96,
+      "end": 12.96
+    },
+    {
+      "word": "database",
+      "start": 12.96,
+      "end": 13.34
+    },
+    {
+      "word": "scripts",
+      "start": 13.34,
+      "end": 13.86
+    },
+    {
+      "word": "for",
+      "start": 13.86,
+      "end": 14.08
+    },
+    {
+      "word": "usage",
+      "start": 14.08,
+      "end": 14.42
+    },
+    {
+      "word": "billing",
+      "start": 14.42,
+      "end": 14.78
+    },
+    {
+      "word": "fail",
+      "start": 14.78,
+      "end": 15.06
+    },
+    {
+      "word": "under",
+      "start": 15.06,
+      "end": 15.26
+    },
+    {
+      "word": "high",
+      "start": 15.26,
+      "end": 15.64
+    },
+    {
+      "word": "request",
+      "start": 15.64,
+      "end": 16.02
+    },
+    {
+      "word": "volume,",
+      "start": 16.02,
+      "end": 16.56
+    },
+    {
+      "word": "causing",
+      "start": 17.26,
+      "end": 17.26
+    },
+    {
+      "word": "incorrect",
+      "start": 17.26,
+      "end": 17.8
+    },
+    {
+      "word": "customer",
+      "start": 17.8,
+      "end": 18.24
+    },
+    {
+      "word": "charges.",
+      "start": 18.24,
+      "end": 18.9
+    },
+    {
+      "word": "Stripe",
+      "start": 19.52,
+      "end": 19.84
+    },
+    {
+      "word": "billing",
+      "start": 19.84,
+      "end": 20.22
+    },
+    {
+      "word": "aggregates",
+      "start": 20.22,
+      "end": 20.86
+    },
+    {
+      "word": "consumption",
+      "start": 20.86,
+      "end": 21.36
+    },
+    {
+      "word": "events",
+      "start": 21.36,
+      "end": 21.76
+    },
+    {
+      "word": "in",
+      "start": 21.76,
+      "end": 22.04
+    },
+    {
+      "word": "real",
+      "start": 22.04,
+      "end": 22.3
+    },
+    {
+      "word": "time",
+      "start": 22.3,
+      "end": 22.76
+    },
+    {
+      "word": "and",
+      "start": 22.76,
+      "end": 23.32
+    },
+    {
+      "word": "automatically",
+      "start": 23.32,
+      "end": 23.82
+    },
+    {
+      "word": "calculates",
+      "start": 23.82,
+      "end": 24.56
+    },
+    {
+      "word": "jurisdiction",
+      "start": 24.56,
+      "end": 25.22
+    },
+    {
+      "word": "-specific",
+      "start": 25.22,
+      "end": 25.8
+    },
+    {
+      "word": "taxes",
+      "start": 25.8,
+      "end": 26.32
+    },
+    {
+      "word": "at",
+      "start": 26.32,
+      "end": 26.6
+    },
+    {
+      "word": "checkout.",
+      "start": 26.6,
+      "end": 26.92
+    },
+    {
+      "word": "This",
+      "start": 26.92,
+      "end": 27.84
+    },
+    {
+      "word": "eliminates",
+      "start": 27.84,
+      "end": 28.32
+    },
+    {
+      "word": "billing",
+      "start": 28.32,
+      "end": 28.7
+    },
+    {
+      "word": "leakage",
+      "start": 28.7,
+      "end": 29.1
+    },
+    {
+      "word": "and",
+      "start": 29.1,
+      "end": 29.46
+    },
+    {
+      "word": "saves",
+      "start": 29.46,
+      "end": 29.76
+    },
+    {
+      "word": "engineering",
+      "start": 29.76,
+      "end": 30.2
+    },
+    {
+      "word": "time.",
+      "start": 30.2,
+      "end": 30.7
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Stripe just revamped their billing engine for software and agency subscriptions.",
+      "line2": "STRIPE METERED BILLING 2.0",
+      "tag": "\ud83d\uded1 Stripe Billing 2.0 updates for metered usage and automated tax",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Stripe Billing 2.0 updates for metered usage and automated tax",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Stripe Billing 2.0 updates for metered usage and automated tax",
+        "subtitle": "Stripe Billing 2.0 updates for metered usage and automated tax"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Stripe Billing 2.0 updates for metered usage and automated tax"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Stripe Billing 2.0 updates for metered usage and automated tax"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Stripe Billing 2.0 updates for metered usage and automated tax",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

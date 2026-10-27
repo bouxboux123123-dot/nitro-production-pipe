@@ -1,0 +1,386 @@
+{
+  "page": "page-10",
+  "idea": "Webflow localization update for multi-region landing pages",
+  "text": "This is easily the cleanest website localization workflow released this year. Adapting images, currency displays, and layout padding for different cultures used to force messy code workarounds. Unaligned layouts and broken text wraps severely hurt brand credibility with international enterprise buyers. Webflow Localization provides visual canvas toggles to adjust typography, asset sources, and copy for each target market. You deploy pristine global web experiences in hours.",
+  "duration": 29.967,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "is",
+      "start": 0.2,
+      "end": 0.5
+    },
+    {
+      "word": "easily",
+      "start": 0.5,
+      "end": 0.76
+    },
+    {
+      "word": "the",
+      "start": 0.76,
+      "end": 1.02
+    },
+    {
+      "word": "cleanest",
+      "start": 1.02,
+      "end": 1.38
+    },
+    {
+      "word": "website",
+      "start": 1.38,
+      "end": 1.88
+    },
+    {
+      "word": "localization",
+      "start": 1.88,
+      "end": 2.52
+    },
+    {
+      "word": "workflow",
+      "start": 2.52,
+      "end": 3.06
+    },
+    {
+      "word": "released",
+      "start": 3.06,
+      "end": 3.6
+    },
+    {
+      "word": "this",
+      "start": 3.6,
+      "end": 3.92
+    },
+    {
+      "word": "year.",
+      "start": 3.92,
+      "end": 4.42
+    },
+    {
+      "word": "Adapting",
+      "start": 4.76,
+      "end": 5.22
+    },
+    {
+      "word": "images,",
+      "start": 5.22,
+      "end": 5.66
+    },
+    {
+      "word": "currency",
+      "start": 6.46,
+      "end": 6.46
+    },
+    {
+      "word": "displays,",
+      "start": 6.46,
+      "end": 7.02
+    },
+    {
+      "word": "and",
+      "start": 7.3,
+      "end": 7.5
+    },
+    {
+      "word": "layout",
+      "start": 7.5,
+      "end": 7.86
+    },
+    {
+      "word": "padding",
+      "start": 7.86,
+      "end": 8.2
+    },
+    {
+      "word": "for",
+      "start": 8.2,
+      "end": 8.46
+    },
+    {
+      "word": "different",
+      "start": 8.46,
+      "end": 8.74
+    },
+    {
+      "word": "cultures",
+      "start": 8.74,
+      "end": 9.2
+    },
+    {
+      "word": "used",
+      "start": 9.2,
+      "end": 9.64
+    },
+    {
+      "word": "to",
+      "start": 9.64,
+      "end": 9.88
+    },
+    {
+      "word": "force",
+      "start": 9.88,
+      "end": 10.14
+    },
+    {
+      "word": "messy",
+      "start": 10.14,
+      "end": 10.46
+    },
+    {
+      "word": "code",
+      "start": 10.46,
+      "end": 10.8
+    },
+    {
+      "word": "workarounds.",
+      "start": 10.8,
+      "end": 11.42
+    },
+    {
+      "word": "Unaligned",
+      "start": 11.86,
+      "end": 12.28
+    },
+    {
+      "word": "layouts",
+      "start": 12.28,
+      "end": 12.8
+    },
+    {
+      "word": "and",
+      "start": 12.8,
+      "end": 13.06
+    },
+    {
+      "word": "broken",
+      "start": 13.06,
+      "end": 13.3
+    },
+    {
+      "word": "text",
+      "start": 13.3,
+      "end": 13.82
+    },
+    {
+      "word": "wraps",
+      "start": 13.82,
+      "end": 14.16
+    },
+    {
+      "word": "severely",
+      "start": 14.16,
+      "end": 14.54
+    },
+    {
+      "word": "hurt",
+      "start": 14.54,
+      "end": 15.0
+    },
+    {
+      "word": "brand",
+      "start": 15.0,
+      "end": 15.32
+    },
+    {
+      "word": "credibility",
+      "start": 15.32,
+      "end": 15.78
+    },
+    {
+      "word": "with",
+      "start": 15.78,
+      "end": 16.26
+    },
+    {
+      "word": "international",
+      "start": 16.26,
+      "end": 16.7
+    },
+    {
+      "word": "enterprise",
+      "start": 16.7,
+      "end": 17.32
+    },
+    {
+      "word": "buyers.",
+      "start": 17.32,
+      "end": 17.82
+    },
+    {
+      "word": "Webflow",
+      "start": 18.56,
+      "end": 18.9
+    },
+    {
+      "word": "localization",
+      "start": 18.9,
+      "end": 19.52
+    },
+    {
+      "word": "provides",
+      "start": 19.52,
+      "end": 20.14
+    },
+    {
+      "word": "visual",
+      "start": 20.14,
+      "end": 20.64
+    },
+    {
+      "word": "canvas",
+      "start": 20.64,
+      "end": 21.02
+    },
+    {
+      "word": "to",
+      "start": 21.02,
+      "end": 21.32
+    },
+    {
+      "word": "adjust",
+      "start": 21.32,
+      "end": 21.98
+    },
+    {
+      "word": "typography,",
+      "start": 21.98,
+      "end": 22.96
+    },
+    {
+      "word": "asset",
+      "start": 23.52,
+      "end": 23.52
+    },
+    {
+      "word": "sources,",
+      "start": 23.52,
+      "end": 24.16
+    },
+    {
+      "word": "and",
+      "start": 24.4,
+      "end": 24.68
+    },
+    {
+      "word": "copy",
+      "start": 24.68,
+      "end": 24.96
+    },
+    {
+      "word": "for",
+      "start": 24.96,
+      "end": 25.22
+    },
+    {
+      "word": "each",
+      "start": 25.22,
+      "end": 25.5
+    },
+    {
+      "word": "target",
+      "start": 25.5,
+      "end": 25.82
+    },
+    {
+      "word": "market.",
+      "start": 25.82,
+      "end": 26.24
+    },
+    {
+      "word": "You",
+      "start": 26.24,
+      "end": 26.86
+    },
+    {
+      "word": "deploy",
+      "start": 26.86,
+      "end": 27.2
+    },
+    {
+      "word": "pristine",
+      "start": 27.2,
+      "end": 27.74
+    },
+    {
+      "word": "global",
+      "start": 27.74,
+      "end": 28.2
+    },
+    {
+      "word": "web",
+      "start": 28.2,
+      "end": 28.46
+    },
+    {
+      "word": "experiences",
+      "start": 28.46,
+      "end": 29.14
+    },
+    {
+      "word": "in",
+      "start": 29.14,
+      "end": 29.52
+    },
+    {
+      "word": "hours.",
+      "start": 29.52,
+      "end": 29.9
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "The cleanest website localization workflow released this year.",
+      "line2": "WEBFLOW MULTI-REGION LOCALIZATION UPDATE",
+      "tag": "\ud83d\uded1 Webflow localization update for multi-region landing pages",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Webflow localization update for multi-region landing pages",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Webflow localization update for multi-region landing pages",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Webflow localization update for multi-region landing pages"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Webflow localization update for multi-region landing pages",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

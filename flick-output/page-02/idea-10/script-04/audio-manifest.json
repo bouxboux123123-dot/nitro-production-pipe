@@ -1,0 +1,401 @@
+{
+  "page": "page-02",
+  "idea": "Automated time tracking that links directly to freelance tasks",
+  "text": "How to track every billable freelance minute effortlessly. Jumping between quick client revisions and advisory calls creates hidden work that never appears on your invoices. Freelancers lose revenue because traditional stopwatches require continuous manual management that interrupts creative momentum. Clockify auto-tracker monitors active document titles and converts logged application time into structured client billing sheets. This system stops billable leakage while saving you ten hours every week.",
+  "duration": 30.501,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "to",
+      "start": 0.24,
+      "end": 0.3
+    },
+    {
+      "word": "track",
+      "start": 0.3,
+      "end": 0.62
+    },
+    {
+      "word": "every",
+      "start": 0.62,
+      "end": 0.96
+    },
+    {
+      "word": "billable",
+      "start": 0.96,
+      "end": 1.4
+    },
+    {
+      "word": "freelance",
+      "start": 1.4,
+      "end": 1.84
+    },
+    {
+      "word": "minute",
+      "start": 1.84,
+      "end": 2.2
+    },
+    {
+      "word": "effortlessly.",
+      "start": 2.2,
+      "end": 2.72
+    },
+    {
+      "word": "Jumping",
+      "start": 3.36,
+      "end": 3.74
+    },
+    {
+      "word": "between",
+      "start": 3.74,
+      "end": 4.08
+    },
+    {
+      "word": "quick",
+      "start": 4.08,
+      "end": 4.36
+    },
+    {
+      "word": "client",
+      "start": 4.36,
+      "end": 4.7
+    },
+    {
+      "word": "revisions",
+      "start": 4.7,
+      "end": 5.16
+    },
+    {
+      "word": "and",
+      "start": 5.16,
+      "end": 5.46
+    },
+    {
+      "word": "advisory",
+      "start": 5.46,
+      "end": 6.02
+    },
+    {
+      "word": "calls",
+      "start": 6.02,
+      "end": 6.58
+    },
+    {
+      "word": "creates",
+      "start": 6.58,
+      "end": 7.14
+    },
+    {
+      "word": "hidden",
+      "start": 7.14,
+      "end": 7.5
+    },
+    {
+      "word": "work",
+      "start": 7.5,
+      "end": 7.78
+    },
+    {
+      "word": "that",
+      "start": 7.78,
+      "end": 8.04
+    },
+    {
+      "word": "never",
+      "start": 8.04,
+      "end": 8.3
+    },
+    {
+      "word": "appears",
+      "start": 8.3,
+      "end": 8.6
+    },
+    {
+      "word": "on",
+      "start": 8.6,
+      "end": 8.84
+    },
+    {
+      "word": "your",
+      "start": 8.84,
+      "end": 9.06
+    },
+    {
+      "word": "invoices.",
+      "start": 9.06,
+      "end": 9.7
+    },
+    {
+      "word": "Freelancers",
+      "start": 10.36,
+      "end": 10.82
+    },
+    {
+      "word": "lose",
+      "start": 10.82,
+      "end": 11.32
+    },
+    {
+      "word": "revenue",
+      "start": 11.32,
+      "end": 11.7
+    },
+    {
+      "word": "because",
+      "start": 11.7,
+      "end": 12.22
+    },
+    {
+      "word": "traditional",
+      "start": 12.22,
+      "end": 12.76
+    },
+    {
+      "word": "stopwatches",
+      "start": 12.76,
+      "end": 13.48
+    },
+    {
+      "word": "require",
+      "start": 13.48,
+      "end": 14.1
+    },
+    {
+      "word": "continuous",
+      "start": 14.1,
+      "end": 14.74
+    },
+    {
+      "word": "manual",
+      "start": 14.74,
+      "end": 15.26
+    },
+    {
+      "word": "management",
+      "start": 15.26,
+      "end": 15.76
+    },
+    {
+      "word": "that",
+      "start": 15.76,
+      "end": 16.48
+    },
+    {
+      "word": "interrupts",
+      "start": 16.48,
+      "end": 16.74
+    },
+    {
+      "word": "creative",
+      "start": 16.74,
+      "end": 17.38
+    },
+    {
+      "word": "momentum.",
+      "start": 17.38,
+      "end": 17.98
+    },
+    {
+      "word": "Clockify",
+      "start": 18.32,
+      "end": 18.88
+    },
+    {
+      "word": "auto",
+      "start": 18.88,
+      "end": 19.2
+    },
+    {
+      "word": "tracker",
+      "start": 19.2,
+      "end": 19.56
+    },
+    {
+      "word": "monitors",
+      "start": 19.56,
+      "end": 20.0
+    },
+    {
+      "word": "active",
+      "start": 20.0,
+      "end": 20.5
+    },
+    {
+      "word": "document",
+      "start": 20.5,
+      "end": 21.02
+    },
+    {
+      "word": "titles",
+      "start": 21.02,
+      "end": 21.42
+    },
+    {
+      "word": "and",
+      "start": 21.42,
+      "end": 22.08
+    },
+    {
+      "word": "converts",
+      "start": 22.08,
+      "end": 22.42
+    },
+    {
+      "word": "logged",
+      "start": 22.42,
+      "end": 22.9
+    },
+    {
+      "word": "application",
+      "start": 22.9,
+      "end": 23.42
+    },
+    {
+      "word": "time",
+      "start": 23.42,
+      "end": 23.94
+    },
+    {
+      "word": "into",
+      "start": 23.94,
+      "end": 24.28
+    },
+    {
+      "word": "structured",
+      "start": 24.28,
+      "end": 24.72
+    },
+    {
+      "word": "client",
+      "start": 24.72,
+      "end": 25.12
+    },
+    {
+      "word": "billing",
+      "start": 25.12,
+      "end": 25.44
+    },
+    {
+      "word": "sheets.",
+      "start": 25.44,
+      "end": 25.88
+    },
+    {
+      "word": "This",
+      "start": 26.44,
+      "end": 26.68
+    },
+    {
+      "word": "system",
+      "start": 26.68,
+      "end": 27.0
+    },
+    {
+      "word": "stops",
+      "start": 27.0,
+      "end": 27.5
+    },
+    {
+      "word": "billable",
+      "start": 27.5,
+      "end": 27.88
+    },
+    {
+      "word": "leakage",
+      "start": 27.88,
+      "end": 28.26
+    },
+    {
+      "word": "while",
+      "start": 28.26,
+      "end": 28.68
+    },
+    {
+      "word": "saving",
+      "start": 28.68,
+      "end": 28.96
+    },
+    {
+      "word": "you",
+      "start": 28.96,
+      "end": 29.26
+    },
+    {
+      "word": "10",
+      "start": 29.26,
+      "end": 29.52
+    },
+    {
+      "word": "hours",
+      "start": 29.52,
+      "end": 29.88
+    },
+    {
+      "word": "every",
+      "start": 29.88,
+      "end": 30.18
+    },
+    {
+      "word": "week.",
+      "start": 30.18,
+      "end": 30.48
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "How to track every billable freelance minute effortlessly.",
+      "line2": "AUTOMATE TIME TRACKING",
+      "tag": "\ud83d\uded1 Automated time tracking that links directly to freelance tasks",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "Voice-to-Invoice Stream: Automated time tracking that links directly to freelance tasks",
+      "primitive": "VoiceWaveToReceipt",
+      "props": {
+        "title": "Voice-to-Invoice Stream: Automated time tracking that links directly to freelance tasks",
+        "subtitle": "Automated time tracking that links directly to freelance tasks"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Overdue Payment Chaser",
+      "primitive": "OverdueChaserTimeline",
+      "props": {
+        "title": "Overdue Payment Chaser",
+        "subtitle": "Automated time tracking that links directly to freelance tasks"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Retainer Value Conversion",
+      "primitive": "HourlyToRetainerConverter",
+      "props": {
+        "title": "Retainer Value Conversion",
+        "subtitle": "Automated time tracking that links directly to freelance tasks"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant 24H Auto-Deposit",
+      "primitive": "StripePayoutCountdown",
+      "props": {
+        "title": "Instant 24H Auto-Deposit",
+        "subtitle": "Automated time tracking that links directly to freelance tasks",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

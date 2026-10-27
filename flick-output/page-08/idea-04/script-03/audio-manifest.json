@@ -1,0 +1,406 @@
+{
+  "page": "page-08",
+  "idea": "How to extract text from a screenshot or image without retyping it",
+  "text": "How to copy uncopyable text from YouTube videos, PDFs, and locked presentations. Pausing tutorial videos to manually copy code snippets or bullet points completely halts your learning. Locked PDF permissions and static slides lock information behind visual walls, paralyzing your research workflow. Press Windows key plus Shift plus T using PowerToys Text Extractor to select the frame. The optical recognition engine dumps the text straight into your clipboard.",
+  "duration": 29.413,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "to",
+      "start": 0.26,
+      "end": 0.34
+    },
+    {
+      "word": "copy",
+      "start": 0.34,
+      "end": 0.68
+    },
+    {
+      "word": "uncomfortable",
+      "start": 0.68,
+      "end": 1.36
+    },
+    {
+      "word": "text",
+      "start": 1.36,
+      "end": 1.78
+    },
+    {
+      "word": "from",
+      "start": 1.78,
+      "end": 1.98
+    },
+    {
+      "word": "YouTube",
+      "start": 1.98,
+      "end": 2.36
+    },
+    {
+      "word": "videos,",
+      "start": 2.36,
+      "end": 2.86
+    },
+    {
+      "word": "PDF,",
+      "start": 3.22,
+      "end": 3.58
+    },
+    {
+      "word": "and",
+      "start": 4.12,
+      "end": 4.36
+    },
+    {
+      "word": "locked",
+      "start": 4.36,
+      "end": 4.68
+    },
+    {
+      "word": "presentations.",
+      "start": 4.68,
+      "end": 5.46
+    },
+    {
+      "word": "Pause",
+      "start": 6.2,
+      "end": 6.36
+    },
+    {
+      "word": "tutorial",
+      "start": 6.36,
+      "end": 6.92
+    },
+    {
+      "word": "videos",
+      "start": 6.92,
+      "end": 7.4
+    },
+    {
+      "word": "to",
+      "start": 7.4,
+      "end": 7.64
+    },
+    {
+      "word": "manually",
+      "start": 7.64,
+      "end": 8.12
+    },
+    {
+      "word": "copy",
+      "start": 8.12,
+      "end": 8.52
+    },
+    {
+      "word": "code",
+      "start": 8.52,
+      "end": 8.88
+    },
+    {
+      "word": "snippets",
+      "start": 8.88,
+      "end": 9.22
+    },
+    {
+      "word": "or",
+      "start": 9.22,
+      "end": 9.54
+    },
+    {
+      "word": "bullet",
+      "start": 9.54,
+      "end": 9.82
+    },
+    {
+      "word": "points",
+      "start": 9.82,
+      "end": 10.28
+    },
+    {
+      "word": "completely",
+      "start": 10.28,
+      "end": 11.06
+    },
+    {
+      "word": "halts",
+      "start": 11.06,
+      "end": 11.32
+    },
+    {
+      "word": "your",
+      "start": 11.32,
+      "end": 11.54
+    },
+    {
+      "word": "learning.",
+      "start": 11.54,
+      "end": 11.94
+    },
+    {
+      "word": "Locked",
+      "start": 12.6,
+      "end": 12.6
+    },
+    {
+      "word": "PDF",
+      "start": 12.6,
+      "end": 13.06
+    },
+    {
+      "word": "permissions",
+      "start": 13.06,
+      "end": 13.62
+    },
+    {
+      "word": "and",
+      "start": 13.62,
+      "end": 13.98
+    },
+    {
+      "word": "static",
+      "start": 13.98,
+      "end": 14.28
+    },
+    {
+      "word": "slides",
+      "start": 14.28,
+      "end": 14.78
+    },
+    {
+      "word": "lock",
+      "start": 14.78,
+      "end": 15.1
+    },
+    {
+      "word": "information",
+      "start": 15.1,
+      "end": 15.68
+    },
+    {
+      "word": "behind",
+      "start": 15.68,
+      "end": 16.06
+    },
+    {
+      "word": "visual",
+      "start": 16.06,
+      "end": 16.4
+    },
+    {
+      "word": "walls,",
+      "start": 16.4,
+      "end": 16.94
+    },
+    {
+      "word": "paralyzing",
+      "start": 17.32,
+      "end": 17.8
+    },
+    {
+      "word": "your",
+      "start": 17.8,
+      "end": 18.12
+    },
+    {
+      "word": "research",
+      "start": 18.12,
+      "end": 18.4
+    },
+    {
+      "word": "workflow.",
+      "start": 18.4,
+      "end": 19.04
+    },
+    {
+      "word": "Press",
+      "start": 19.5,
+      "end": 19.8
+    },
+    {
+      "word": "Windows",
+      "start": 19.8,
+      "end": 20.16
+    },
+    {
+      "word": "key",
+      "start": 20.16,
+      "end": 20.52
+    },
+    {
+      "word": "plus",
+      "start": 20.52,
+      "end": 20.82
+    },
+    {
+      "word": "shift",
+      "start": 20.82,
+      "end": 21.16
+    },
+    {
+      "word": "plus",
+      "start": 21.16,
+      "end": 21.56
+    },
+    {
+      "word": "T",
+      "start": 21.56,
+      "end": 21.94
+    },
+    {
+      "word": "using",
+      "start": 21.94,
+      "end": 22.26
+    },
+    {
+      "word": "power",
+      "start": 22.26,
+      "end": 22.66
+    },
+    {
+      "word": "toys",
+      "start": 22.66,
+      "end": 23.0
+    },
+    {
+      "word": "text",
+      "start": 23.0,
+      "end": 23.42
+    },
+    {
+      "word": "extractor",
+      "start": 23.42,
+      "end": 24.06
+    },
+    {
+      "word": "to",
+      "start": 24.06,
+      "end": 24.26
+    },
+    {
+      "word": "select",
+      "start": 24.26,
+      "end": 24.5
+    },
+    {
+      "word": "the",
+      "start": 24.5,
+      "end": 24.76
+    },
+    {
+      "word": "frame.",
+      "start": 24.76,
+      "end": 25.06
+    },
+    {
+      "word": "The",
+      "start": 25.64,
+      "end": 25.84
+    },
+    {
+      "word": "optical",
+      "start": 25.84,
+      "end": 26.26
+    },
+    {
+      "word": "recognition",
+      "start": 26.26,
+      "end": 26.72
+    },
+    {
+      "word": "engine",
+      "start": 26.72,
+      "end": 27.3
+    },
+    {
+      "word": "dumps",
+      "start": 27.3,
+      "end": 27.62
+    },
+    {
+      "word": "the",
+      "start": 27.62,
+      "end": 27.86
+    },
+    {
+      "word": "text",
+      "start": 27.86,
+      "end": 28.12
+    },
+    {
+      "word": "straight",
+      "start": 28.12,
+      "end": 28.52
+    },
+    {
+      "word": "into",
+      "start": 28.52,
+      "end": 28.72
+    },
+    {
+      "word": "your",
+      "start": 28.72,
+      "end": 28.9
+    },
+    {
+      "word": "clipboard.",
+      "start": 28.9,
+      "end": 29.14
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "How to copy uncopyable text from YouTube videos, PDFs, and locked presentations.",
+      "line2": "EXTRACT TEXT FROM IMAGES",
+      "tag": "\ud83d\uded1 How to extract text from a screenshot or image without retyping it",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to extract text from a screenshot or image without retyping it",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to extract text from a screenshot or image without retyping it",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to extract text from a screenshot or image without retyping it"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to extract text from a screenshot or image without retyping it",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

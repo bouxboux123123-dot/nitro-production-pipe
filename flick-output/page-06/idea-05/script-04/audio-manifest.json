@@ -1,0 +1,386 @@
+{
+  "page": "page-06",
+  "idea": "Virtual coworking room tool for spontaneous watercooler banter",
+  "text": "Elite remote teams build genuine company culture without subjecting employees to forced Zoom happy hours. Mandatory social calls feel like unpaid overtime, driving resentment instead of actual team bonding. Genuine workplace trust develops during spontaneous moments that formal video conferences completely destroy. Using Kosy to create persistent digital lounges lets developers and marketers banter while finishing deliverables. You foster authentic camaraderie without wasting evening hours.",
+  "duration": 31.546,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Elite",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "remote",
+      "start": 0.38,
+      "end": 0.74
+    },
+    {
+      "word": "teams",
+      "start": 0.74,
+      "end": 1.22
+    },
+    {
+      "word": "build",
+      "start": 1.22,
+      "end": 1.6
+    },
+    {
+      "word": "genuine",
+      "start": 1.6,
+      "end": 1.96
+    },
+    {
+      "word": "company",
+      "start": 1.96,
+      "end": 2.4
+    },
+    {
+      "word": "culture",
+      "start": 2.4,
+      "end": 2.88
+    },
+    {
+      "word": "without",
+      "start": 2.88,
+      "end": 3.5
+    },
+    {
+      "word": "subjecting",
+      "start": 3.5,
+      "end": 4.18
+    },
+    {
+      "word": "employees",
+      "start": 4.18,
+      "end": 4.6
+    },
+    {
+      "word": "to",
+      "start": 4.6,
+      "end": 4.92
+    },
+    {
+      "word": "forced",
+      "start": 4.92,
+      "end": 5.34
+    },
+    {
+      "word": "Zoom",
+      "start": 5.34,
+      "end": 5.7
+    },
+    {
+      "word": "happy",
+      "start": 5.7,
+      "end": 6.08
+    },
+    {
+      "word": "hours.",
+      "start": 6.08,
+      "end": 6.8
+    },
+    {
+      "word": "Mandatory",
+      "start": 7.44,
+      "end": 7.54
+    },
+    {
+      "word": "social",
+      "start": 7.54,
+      "end": 8.14
+    },
+    {
+      "word": "calls",
+      "start": 8.14,
+      "end": 8.54
+    },
+    {
+      "word": "feel",
+      "start": 8.54,
+      "end": 8.8
+    },
+    {
+      "word": "like",
+      "start": 8.8,
+      "end": 9.16
+    },
+    {
+      "word": "unpaid",
+      "start": 9.16,
+      "end": 9.56
+    },
+    {
+      "word": "overtime,",
+      "start": 9.56,
+      "end": 10.28
+    },
+    {
+      "word": "driving",
+      "start": 11.04,
+      "end": 11.04
+    },
+    {
+      "word": "resentment",
+      "start": 11.04,
+      "end": 11.6
+    },
+    {
+      "word": "instead",
+      "start": 11.6,
+      "end": 11.98
+    },
+    {
+      "word": "of",
+      "start": 11.98,
+      "end": 12.3
+    },
+    {
+      "word": "actual",
+      "start": 12.3,
+      "end": 12.6
+    },
+    {
+      "word": "team",
+      "start": 12.6,
+      "end": 12.9
+    },
+    {
+      "word": "bonding.",
+      "start": 12.9,
+      "end": 13.32
+    },
+    {
+      "word": "Genuine",
+      "start": 13.94,
+      "end": 14.14
+    },
+    {
+      "word": "workplace",
+      "start": 14.14,
+      "end": 14.56
+    },
+    {
+      "word": "trust",
+      "start": 14.56,
+      "end": 15.0
+    },
+    {
+      "word": "develops",
+      "start": 15.0,
+      "end": 15.4
+    },
+    {
+      "word": "during",
+      "start": 15.4,
+      "end": 15.84
+    },
+    {
+      "word": "spontaneous",
+      "start": 15.84,
+      "end": 16.46
+    },
+    {
+      "word": "moments",
+      "start": 16.46,
+      "end": 17.0
+    },
+    {
+      "word": "that",
+      "start": 17.0,
+      "end": 17.54
+    },
+    {
+      "word": "formal",
+      "start": 17.54,
+      "end": 17.82
+    },
+    {
+      "word": "video",
+      "start": 17.82,
+      "end": 18.26
+    },
+    {
+      "word": "conferences",
+      "start": 18.26,
+      "end": 18.7
+    },
+    {
+      "word": "completely",
+      "start": 18.7,
+      "end": 19.42
+    },
+    {
+      "word": "destroy.",
+      "start": 19.42,
+      "end": 20.0
+    },
+    {
+      "word": "Using",
+      "start": 20.98,
+      "end": 20.98
+    },
+    {
+      "word": "cozy",
+      "start": 20.98,
+      "end": 21.42
+    },
+    {
+      "word": "to",
+      "start": 21.42,
+      "end": 21.74
+    },
+    {
+      "word": "create",
+      "start": 21.74,
+      "end": 22.12
+    },
+    {
+      "word": "persistent",
+      "start": 22.12,
+      "end": 22.62
+    },
+    {
+      "word": "digital",
+      "start": 22.62,
+      "end": 23.06
+    },
+    {
+      "word": "lounges,",
+      "start": 23.06,
+      "end": 23.76
+    },
+    {
+      "word": "let's",
+      "start": 24.06,
+      "end": 24.3
+    },
+    {
+      "word": "developers",
+      "start": 24.3,
+      "end": 24.7
+    },
+    {
+      "word": "and",
+      "start": 24.7,
+      "end": 25.5
+    },
+    {
+      "word": "marketers",
+      "start": 25.5,
+      "end": 25.5
+    },
+    {
+      "word": "banter",
+      "start": 25.5,
+      "end": 25.92
+    },
+    {
+      "word": "while",
+      "start": 25.92,
+      "end": 26.34
+    },
+    {
+      "word": "finishing",
+      "start": 26.34,
+      "end": 26.68
+    },
+    {
+      "word": "deliverables.",
+      "start": 26.68,
+      "end": 27.36
+    },
+    {
+      "word": "You",
+      "start": 27.36,
+      "end": 28.1
+    },
+    {
+      "word": "foster",
+      "start": 28.1,
+      "end": 28.44
+    },
+    {
+      "word": "authentic",
+      "start": 28.44,
+      "end": 29.02
+    },
+    {
+      "word": "camaraderie",
+      "start": 29.02,
+      "end": 29.8
+    },
+    {
+      "word": "without",
+      "start": 29.8,
+      "end": 30.16
+    },
+    {
+      "word": "wasting",
+      "start": 30.16,
+      "end": 30.52
+    },
+    {
+      "word": "evening",
+      "start": 30.52,
+      "end": 31.02
+    },
+    {
+      "word": "hours.",
+      "start": 31.02,
+      "end": 31.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How high-performing remote teams build genuine culture without forced Zoom happy hours.",
+      "line2": "SPONTANEOUS VIRTUAL COWORKING",
+      "tag": "\ud83d\uded1 Virtual coworking room tool for spontaneous watercooler banter",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Virtual coworking room tool for spontaneous watercooler banter",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Virtual coworking room tool for spontaneous watercooler banter",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Virtual coworking room tool for spontaneous watercooler banter",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

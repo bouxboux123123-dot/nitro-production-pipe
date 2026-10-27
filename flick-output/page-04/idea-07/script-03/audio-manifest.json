@@ -1,0 +1,426 @@
+{
+  "page": "page-04",
+  "idea": "CapCut desktop free shortcuts for fast automated editing",
+  "text": "How to auto-caption, cut pauses, and color grade video without paying a single cent. Subscription apps lure you in with free trials, only to slap watermarks across your final export. Paying multiple subscriptions for transcription, color grading, and rendering drains your monthly freelance profits. Instead, run CapCut Desktop completely free to generate styled captions, remove silence automatically, and apply LUTs. You produce studio-quality social clips in minutes with zero watermarks.",
+  "duration": 30.607,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "to",
+      "start": 0.24,
+      "end": 0.3
+    },
+    {
+      "word": "auto",
+      "start": 0.3,
+      "end": 0.64
+    },
+    {
+      "word": "caption,",
+      "start": 0.64,
+      "end": 1.06
+    },
+    {
+      "word": "cut",
+      "start": 1.36,
+      "end": 1.66
+    },
+    {
+      "word": "pauses,",
+      "start": 1.66,
+      "end": 2.06
+    },
+    {
+      "word": "and",
+      "start": 2.38,
+      "end": 2.5
+    },
+    {
+      "word": "color",
+      "start": 2.5,
+      "end": 2.78
+    },
+    {
+      "word": "grade",
+      "start": 2.78,
+      "end": 3.04
+    },
+    {
+      "word": "video",
+      "start": 3.04,
+      "end": 3.4
+    },
+    {
+      "word": "without",
+      "start": 3.4,
+      "end": 3.76
+    },
+    {
+      "word": "paying",
+      "start": 3.76,
+      "end": 4.02
+    },
+    {
+      "word": "a",
+      "start": 4.02,
+      "end": 4.22
+    },
+    {
+      "word": "single",
+      "start": 4.22,
+      "end": 4.54
+    },
+    {
+      "word": "cent.",
+      "start": 4.54,
+      "end": 4.9
+    },
+    {
+      "word": "Subscription",
+      "start": 5.62,
+      "end": 6.02
+    },
+    {
+      "word": "apps",
+      "start": 6.02,
+      "end": 6.4
+    },
+    {
+      "word": "lure",
+      "start": 6.4,
+      "end": 6.66
+    },
+    {
+      "word": "you",
+      "start": 6.66,
+      "end": 6.86
+    },
+    {
+      "word": "in",
+      "start": 6.86,
+      "end": 7.04
+    },
+    {
+      "word": "with",
+      "start": 7.04,
+      "end": 7.28
+    },
+    {
+      "word": "free",
+      "start": 7.28,
+      "end": 7.54
+    },
+    {
+      "word": "trials,",
+      "start": 7.54,
+      "end": 8.0
+    },
+    {
+      "word": "only",
+      "start": 8.52,
+      "end": 8.66
+    },
+    {
+      "word": "to",
+      "start": 8.66,
+      "end": 8.94
+    },
+    {
+      "word": "slap",
+      "start": 8.94,
+      "end": 9.24
+    },
+    {
+      "word": "watermarks",
+      "start": 9.24,
+      "end": 9.7
+    },
+    {
+      "word": "across",
+      "start": 9.7,
+      "end": 10.0
+    },
+    {
+      "word": "your",
+      "start": 10.0,
+      "end": 10.42
+    },
+    {
+      "word": "final",
+      "start": 10.42,
+      "end": 10.62
+    },
+    {
+      "word": "export.",
+      "start": 10.62,
+      "end": 11.18
+    },
+    {
+      "word": "Paying",
+      "start": 11.62,
+      "end": 12.0
+    },
+    {
+      "word": "multiple",
+      "start": 12.0,
+      "end": 12.38
+    },
+    {
+      "word": "subscriptions",
+      "start": 12.38,
+      "end": 13.02
+    },
+    {
+      "word": "for",
+      "start": 13.02,
+      "end": 13.4
+    },
+    {
+      "word": "transcription,",
+      "start": 13.4,
+      "end": 14.0
+    },
+    {
+      "word": "color",
+      "start": 14.8,
+      "end": 14.8
+    },
+    {
+      "word": "grading,",
+      "start": 14.8,
+      "end": 15.16
+    },
+    {
+      "word": "and",
+      "start": 15.44,
+      "end": 15.74
+    },
+    {
+      "word": "rendering",
+      "start": 15.74,
+      "end": 15.92
+    },
+    {
+      "word": "drains",
+      "start": 15.92,
+      "end": 16.46
+    },
+    {
+      "word": "your",
+      "start": 16.46,
+      "end": 16.72
+    },
+    {
+      "word": "monthly",
+      "start": 16.72,
+      "end": 17.1
+    },
+    {
+      "word": "freelance",
+      "start": 17.1,
+      "end": 17.56
+    },
+    {
+      "word": "profits.",
+      "start": 17.56,
+      "end": 18.18
+    },
+    {
+      "word": "Instead,",
+      "start": 18.68,
+      "end": 19.02
+    },
+    {
+      "word": "run",
+      "start": 19.26,
+      "end": 19.36
+    },
+    {
+      "word": "cap",
+      "start": 19.36,
+      "end": 19.62
+    },
+    {
+      "word": "-cut",
+      "start": 19.62,
+      "end": 19.84
+    },
+    {
+      "word": "desktop",
+      "start": 19.84,
+      "end": 20.2
+    },
+    {
+      "word": "completely",
+      "start": 20.2,
+      "end": 20.84
+    },
+    {
+      "word": "free",
+      "start": 20.84,
+      "end": 21.12
+    },
+    {
+      "word": "to",
+      "start": 21.12,
+      "end": 21.32
+    },
+    {
+      "word": "generate",
+      "start": 21.32,
+      "end": 21.68
+    },
+    {
+      "word": "styled",
+      "start": 21.68,
+      "end": 22.2
+    },
+    {
+      "word": "captions,",
+      "start": 22.2,
+      "end": 22.88
+    },
+    {
+      "word": "remove",
+      "start": 23.22,
+      "end": 23.52
+    },
+    {
+      "word": "silence",
+      "start": 23.52,
+      "end": 23.98
+    },
+    {
+      "word": "automatically,",
+      "start": 23.98,
+      "end": 24.58
+    },
+    {
+      "word": "and",
+      "start": 24.9,
+      "end": 25.16
+    },
+    {
+      "word": "apply",
+      "start": 25.16,
+      "end": 25.54
+    },
+    {
+      "word": "LUTs.",
+      "start": 25.54,
+      "end": 26.42
+    },
+    {
+      "word": "You",
+      "start": 26.42,
+      "end": 26.94
+    },
+    {
+      "word": "produce",
+      "start": 26.94,
+      "end": 27.3
+    },
+    {
+      "word": "studio",
+      "start": 27.3,
+      "end": 27.62
+    },
+    {
+      "word": "quality",
+      "start": 27.62,
+      "end": 28.2
+    },
+    {
+      "word": "social",
+      "start": 28.2,
+      "end": 28.6
+    },
+    {
+      "word": "clips",
+      "start": 28.6,
+      "end": 28.86
+    },
+    {
+      "word": "in",
+      "start": 28.86,
+      "end": 29.06
+    },
+    {
+      "word": "minutes",
+      "start": 29.06,
+      "end": 29.24
+    },
+    {
+      "word": "with",
+      "start": 29.24,
+      "end": 29.62
+    },
+    {
+      "word": "zero",
+      "start": 29.62,
+      "end": 29.98
+    },
+    {
+      "word": "watermarks.",
+      "start": 29.98,
+      "end": 30.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How to auto-caption, cut pauses, and color grade video without paying a cent.",
+      "line2": "FAST VIDEO SHORTCUTS",
+      "tag": "\ud83d\uded1 CapCut desktop free shortcuts for fast automated editing",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: CapCut desktop free shortcuts for fast automated editing",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: CapCut desktop free shortcuts for fast automated editing",
+        "subtitle": "CapCut desktop free shortcuts for fast automated editing"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "CapCut desktop free shortcuts for fast automated editing"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "CapCut desktop free shortcuts for fast automated editing"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "CapCut desktop free shortcuts for fast automated editing",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

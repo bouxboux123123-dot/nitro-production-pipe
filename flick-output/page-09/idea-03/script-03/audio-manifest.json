@@ -1,0 +1,396 @@
+{
+  "page": "page-09",
+  "idea": "Claude vs ChatGPT: which AI assistant writes better business copy",
+  "text": "Stop using robotic text: here is which model writes without sounding like an algorithm. Creators spend hours prompting ChatGPT to sound conversational, yet the output still feels sterile and formulaic. Bland corporate tone damages reader retention and lowers newsletter click-through rates across the board. Claude analyzes reference samples to mirror your exact tone, rhythm, and sentence variation effortlessly. This lets you publish authentic content rapidly.",
+  "duration": 26.368,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "using",
+      "start": 0.38,
+      "end": 0.7
+    },
+    {
+      "word": "robotic",
+      "start": 0.7,
+      "end": 1.08
+    },
+    {
+      "word": "text.",
+      "start": 1.08,
+      "end": 1.7
+    },
+    {
+      "word": "Here",
+      "start": 1.96,
+      "end": 2.1
+    },
+    {
+      "word": "is",
+      "start": 2.1,
+      "end": 2.22
+    },
+    {
+      "word": "which",
+      "start": 2.22,
+      "end": 2.46
+    },
+    {
+      "word": "model",
+      "start": 2.46,
+      "end": 2.68
+    },
+    {
+      "word": "writes",
+      "start": 2.68,
+      "end": 3.02
+    },
+    {
+      "word": "without",
+      "start": 3.02,
+      "end": 3.38
+    },
+    {
+      "word": "sounding",
+      "start": 3.38,
+      "end": 3.74
+    },
+    {
+      "word": "like",
+      "start": 3.74,
+      "end": 3.96
+    },
+    {
+      "word": "an",
+      "start": 3.96,
+      "end": 4.12
+    },
+    {
+      "word": "algorithm.",
+      "start": 4.12,
+      "end": 4.46
+    },
+    {
+      "word": "Creator",
+      "start": 5.32,
+      "end": 5.4
+    },
+    {
+      "word": "spend",
+      "start": 5.4,
+      "end": 5.88
+    },
+    {
+      "word": "hours",
+      "start": 5.88,
+      "end": 6.24
+    },
+    {
+      "word": "prompting",
+      "start": 6.24,
+      "end": 6.66
+    },
+    {
+      "word": "chat",
+      "start": 6.66,
+      "end": 7.0
+    },
+    {
+      "word": "GPT",
+      "start": 7.0,
+      "end": 7.4
+    },
+    {
+      "word": "to",
+      "start": 7.4,
+      "end": 7.66
+    },
+    {
+      "word": "sound",
+      "start": 7.66,
+      "end": 7.94
+    },
+    {
+      "word": "conversational,",
+      "start": 7.94,
+      "end": 8.68
+    },
+    {
+      "word": "yet",
+      "start": 9.06,
+      "end": 9.16
+    },
+    {
+      "word": "the",
+      "start": 9.16,
+      "end": 9.38
+    },
+    {
+      "word": "output",
+      "start": 9.38,
+      "end": 9.54
+    },
+    {
+      "word": "still",
+      "start": 9.54,
+      "end": 9.98
+    },
+    {
+      "word": "feels",
+      "start": 9.98,
+      "end": 10.3
+    },
+    {
+      "word": "sterile",
+      "start": 10.3,
+      "end": 10.62
+    },
+    {
+      "word": "and",
+      "start": 10.62,
+      "end": 10.98
+    },
+    {
+      "word": "formulaic.",
+      "start": 10.98,
+      "end": 11.56
+    },
+    {
+      "word": "Blanned",
+      "start": 12.04,
+      "end": 12.36
+    },
+    {
+      "word": "corporate",
+      "start": 12.36,
+      "end": 12.68
+    },
+    {
+      "word": "tone",
+      "start": 12.68,
+      "end": 13.04
+    },
+    {
+      "word": "damages",
+      "start": 13.04,
+      "end": 13.48
+    },
+    {
+      "word": "reader",
+      "start": 13.48,
+      "end": 13.76
+    },
+    {
+      "word": "retention",
+      "start": 13.76,
+      "end": 14.24
+    },
+    {
+      "word": "and",
+      "start": 14.24,
+      "end": 14.8
+    },
+    {
+      "word": "lowers",
+      "start": 14.8,
+      "end": 15.02
+    },
+    {
+      "word": "newsletter",
+      "start": 15.02,
+      "end": 15.5
+    },
+    {
+      "word": "click",
+      "start": 15.5,
+      "end": 15.86
+    },
+    {
+      "word": "-through",
+      "start": 15.86,
+      "end": 16.06
+    },
+    {
+      "word": "rates",
+      "start": 16.06,
+      "end": 16.28
+    },
+    {
+      "word": "across",
+      "start": 16.28,
+      "end": 16.62
+    },
+    {
+      "word": "the",
+      "start": 16.62,
+      "end": 16.82
+    },
+    {
+      "word": "board.",
+      "start": 16.82,
+      "end": 17.22
+    },
+    {
+      "word": "Claude",
+      "start": 17.66,
+      "end": 17.96
+    },
+    {
+      "word": "analyzes",
+      "start": 17.96,
+      "end": 18.54
+    },
+    {
+      "word": "reference",
+      "start": 18.54,
+      "end": 18.98
+    },
+    {
+      "word": "samples",
+      "start": 18.98,
+      "end": 19.32
+    },
+    {
+      "word": "to",
+      "start": 19.32,
+      "end": 19.68
+    },
+    {
+      "word": "mirror",
+      "start": 19.68,
+      "end": 19.88
+    },
+    {
+      "word": "your",
+      "start": 19.88,
+      "end": 20.14
+    },
+    {
+      "word": "exact",
+      "start": 20.14,
+      "end": 20.48
+    },
+    {
+      "word": "tone,",
+      "start": 20.48,
+      "end": 21.02
+    },
+    {
+      "word": "rhythm,",
+      "start": 21.12,
+      "end": 21.3
+    },
+    {
+      "word": "and",
+      "start": 21.7,
+      "end": 21.9
+    },
+    {
+      "word": "sentence",
+      "start": 21.9,
+      "end": 22.18
+    },
+    {
+      "word": "variation",
+      "start": 22.18,
+      "end": 22.82
+    },
+    {
+      "word": "effortlessly.",
+      "start": 22.82,
+      "end": 23.32
+    },
+    {
+      "word": "This",
+      "start": 24.0,
+      "end": 24.16
+    },
+    {
+      "word": "lets",
+      "start": 24.16,
+      "end": 24.32
+    },
+    {
+      "word": "you",
+      "start": 24.32,
+      "end": 24.54
+    },
+    {
+      "word": "publish",
+      "start": 24.54,
+      "end": 24.82
+    },
+    {
+      "word": "authentic",
+      "start": 24.82,
+      "end": 25.34
+    },
+    {
+      "word": "content",
+      "start": 25.34,
+      "end": 25.86
+    },
+    {
+      "word": "rapidly.",
+      "start": 25.86,
+      "end": 26.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Stop using robotic AI text: here is which model writes without sounding like an AI.",
+      "line2": "CLAUDE VS CHATGPT",
+      "tag": "\ud83d\uded1 Claude vs ChatGPT",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Claude vs ChatGPT",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Claude vs ChatGPT",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Claude vs ChatGPT",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

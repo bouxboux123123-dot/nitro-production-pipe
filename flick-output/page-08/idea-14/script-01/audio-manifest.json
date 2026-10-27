@@ -1,0 +1,421 @@
+{
+  "page": "page-08",
+  "idea": "How to split your computer screen into two clean windows for multitasking",
+  "text": "Stop minimizing and maximizing windows fifty times an hour while working on your computer. Constantly clicking between background tabs to cross-reference data scrambles your thoughts and causes silly copy errors. Losing visual context between overlapping applications wastes minutes every time you need to confirm numbers. Press Windows Key plus the Left or Right Arrow to snap windows cleanly side by side. This gives you instant dual-window multitasking without extra hardware.",
+  "duration": 28.943,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "minimizing",
+      "start": 0.44,
+      "end": 0.9
+    },
+    {
+      "word": "and",
+      "start": 0.9,
+      "end": 1.84
+    },
+    {
+      "word": "maximizing",
+      "start": 1.84,
+      "end": 1.84
+    },
+    {
+      "word": "Windows",
+      "start": 1.84,
+      "end": 2.3
+    },
+    {
+      "word": "50",
+      "start": 2.3,
+      "end": 2.76
+    },
+    {
+      "word": "times",
+      "start": 2.76,
+      "end": 3.14
+    },
+    {
+      "word": "an",
+      "start": 3.14,
+      "end": 3.36
+    },
+    {
+      "word": "hour",
+      "start": 3.36,
+      "end": 3.74
+    },
+    {
+      "word": "while",
+      "start": 3.74,
+      "end": 3.96
+    },
+    {
+      "word": "working",
+      "start": 3.96,
+      "end": 4.26
+    },
+    {
+      "word": "on",
+      "start": 4.26,
+      "end": 4.42
+    },
+    {
+      "word": "your",
+      "start": 4.42,
+      "end": 4.64
+    },
+    {
+      "word": "computer.",
+      "start": 4.64,
+      "end": 5.2
+    },
+    {
+      "word": "Constantly",
+      "start": 5.9,
+      "end": 6.14
+    },
+    {
+      "word": "clicking",
+      "start": 6.14,
+      "end": 6.5
+    },
+    {
+      "word": "between",
+      "start": 6.5,
+      "end": 6.92
+    },
+    {
+      "word": "background",
+      "start": 6.92,
+      "end": 7.26
+    },
+    {
+      "word": "tabs",
+      "start": 7.26,
+      "end": 7.78
+    },
+    {
+      "word": "to",
+      "start": 7.78,
+      "end": 8.06
+    },
+    {
+      "word": "cross",
+      "start": 8.06,
+      "end": 8.4
+    },
+    {
+      "word": "-reference",
+      "start": 8.4,
+      "end": 8.76
+    },
+    {
+      "word": "data",
+      "start": 8.76,
+      "end": 9.12
+    },
+    {
+      "word": "scrambles",
+      "start": 9.12,
+      "end": 9.54
+    },
+    {
+      "word": "your",
+      "start": 9.54,
+      "end": 9.82
+    },
+    {
+      "word": "thoughts",
+      "start": 9.82,
+      "end": 10.18
+    },
+    {
+      "word": "and",
+      "start": 10.18,
+      "end": 10.7
+    },
+    {
+      "word": "causes",
+      "start": 10.7,
+      "end": 11.08
+    },
+    {
+      "word": "silly",
+      "start": 11.08,
+      "end": 11.56
+    },
+    {
+      "word": "copy",
+      "start": 11.56,
+      "end": 11.96
+    },
+    {
+      "word": "errors.",
+      "start": 11.96,
+      "end": 12.32
+    },
+    {
+      "word": "Losing",
+      "start": 12.72,
+      "end": 13.02
+    },
+    {
+      "word": "visual",
+      "start": 13.02,
+      "end": 13.48
+    },
+    {
+      "word": "context",
+      "start": 13.48,
+      "end": 13.96
+    },
+    {
+      "word": "between",
+      "start": 13.96,
+      "end": 14.42
+    },
+    {
+      "word": "overlapping",
+      "start": 14.42,
+      "end": 14.86
+    },
+    {
+      "word": "applications",
+      "start": 14.86,
+      "end": 15.58
+    },
+    {
+      "word": "wastes",
+      "start": 15.58,
+      "end": 16.16
+    },
+    {
+      "word": "minutes",
+      "start": 16.16,
+      "end": 16.44
+    },
+    {
+      "word": "every",
+      "start": 16.44,
+      "end": 16.78
+    },
+    {
+      "word": "time",
+      "start": 16.78,
+      "end": 17.12
+    },
+    {
+      "word": "you",
+      "start": 17.12,
+      "end": 17.28
+    },
+    {
+      "word": "need",
+      "start": 17.28,
+      "end": 17.52
+    },
+    {
+      "word": "to",
+      "start": 17.52,
+      "end": 17.76
+    },
+    {
+      "word": "confirm",
+      "start": 17.76,
+      "end": 17.98
+    },
+    {
+      "word": "numbers.",
+      "start": 17.98,
+      "end": 18.5
+    },
+    {
+      "word": "Press",
+      "start": 19.08,
+      "end": 19.32
+    },
+    {
+      "word": "Windows",
+      "start": 19.32,
+      "end": 19.68
+    },
+    {
+      "word": "key",
+      "start": 19.68,
+      "end": 20.06
+    },
+    {
+      "word": "plus",
+      "start": 20.06,
+      "end": 20.34
+    },
+    {
+      "word": "the",
+      "start": 20.34,
+      "end": 20.58
+    },
+    {
+      "word": "left",
+      "start": 20.58,
+      "end": 20.86
+    },
+    {
+      "word": "or",
+      "start": 20.86,
+      "end": 21.2
+    },
+    {
+      "word": "right",
+      "start": 21.2,
+      "end": 21.52
+    },
+    {
+      "word": "arrow",
+      "start": 21.52,
+      "end": 21.8
+    },
+    {
+      "word": "to",
+      "start": 21.8,
+      "end": 22.08
+    },
+    {
+      "word": "snap",
+      "start": 22.08,
+      "end": 22.38
+    },
+    {
+      "word": "Windows",
+      "start": 22.38,
+      "end": 22.82
+    },
+    {
+      "word": "cleanly",
+      "start": 22.82,
+      "end": 23.38
+    },
+    {
+      "word": "side",
+      "start": 23.38,
+      "end": 23.74
+    },
+    {
+      "word": "by",
+      "start": 23.74,
+      "end": 24.04
+    },
+    {
+      "word": "side.",
+      "start": 24.04,
+      "end": 24.46
+    },
+    {
+      "word": "This",
+      "start": 24.46,
+      "end": 25.18
+    },
+    {
+      "word": "gives",
+      "start": 25.18,
+      "end": 25.36
+    },
+    {
+      "word": "you",
+      "start": 25.36,
+      "end": 25.7
+    },
+    {
+      "word": "instant",
+      "start": 25.7,
+      "end": 26.08
+    },
+    {
+      "word": "dual",
+      "start": 26.08,
+      "end": 26.44
+    },
+    {
+      "word": "window",
+      "start": 26.44,
+      "end": 26.76
+    },
+    {
+      "word": "multitasking",
+      "start": 26.76,
+      "end": 27.6
+    },
+    {
+      "word": "without",
+      "start": 27.6,
+      "end": 28.02
+    },
+    {
+      "word": "extra",
+      "start": 28.02,
+      "end": 28.44
+    },
+    {
+      "word": "hardware.",
+      "start": 28.44,
+      "end": 28.78
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop minimizing and maximizing windows 50 times an hour while working.",
+      "line2": "SPLIT SCREEN MULTITASKING",
+      "tag": "\ud83d\uded1 How to split your computer screen into two clean windows for multitasking",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to split your computer screen into two clean windows for multitasking",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to split your computer screen into two clean windows for multitasking",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to split your computer screen into two clean windows for multitasking",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

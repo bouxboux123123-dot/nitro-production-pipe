@@ -1,0 +1,401 @@
+{
+  "page": "page-03",
+  "idea": "Automated lead generation scraper for local service business clients",
+  "text": "How to build a qualified outreach list while watching a movie. Sitting down after work to copy-paste two hundred contractor contacts into sheets is soul-crushing and slow. Typos and duplicate entries ruin email deliverability, landing your pitches directly inside spam folders. Set an automated webhook between Maps scrapers and Clay to clean domains and verify active emails. You generate hundreds of validated leads on pure autopilot.",
+  "duration": 24.896,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "to",
+      "start": 0.2,
+      "end": 0.28
+    },
+    {
+      "word": "build",
+      "start": 0.28,
+      "end": 0.48
+    },
+    {
+      "word": "a",
+      "start": 0.48,
+      "end": 0.96
+    },
+    {
+      "word": "qualified",
+      "start": 0.96,
+      "end": 0.96
+    },
+    {
+      "word": "outreach",
+      "start": 0.96,
+      "end": 1.48
+    },
+    {
+      "word": "list",
+      "start": 1.48,
+      "end": 1.82
+    },
+    {
+      "word": "while",
+      "start": 1.82,
+      "end": 2.0
+    },
+    {
+      "word": "watching",
+      "start": 2.0,
+      "end": 2.3
+    },
+    {
+      "word": "a",
+      "start": 2.3,
+      "end": 3.04
+    },
+    {
+      "word": "movie.",
+      "start": 3.04,
+      "end": 3.04
+    },
+    {
+      "word": "Sitting",
+      "start": 3.44,
+      "end": 3.46
+    },
+    {
+      "word": "down",
+      "start": 3.46,
+      "end": 3.76
+    },
+    {
+      "word": "after",
+      "start": 3.76,
+      "end": 4.08
+    },
+    {
+      "word": "work",
+      "start": 4.08,
+      "end": 4.26
+    },
+    {
+      "word": "to",
+      "start": 4.26,
+      "end": 4.46
+    },
+    {
+      "word": "cop",
+      "start": 4.46,
+      "end": 4.6
+    },
+    {
+      "word": "a",
+      "start": 4.6,
+      "end": 4.74
+    },
+    {
+      "word": "paste",
+      "start": 4.74,
+      "end": 4.94
+    },
+    {
+      "word": "200",
+      "start": 4.94,
+      "end": 5.38
+    },
+    {
+      "word": "contractor",
+      "start": 5.38,
+      "end": 5.94
+    },
+    {
+      "word": "contacts",
+      "start": 5.94,
+      "end": 6.32
+    },
+    {
+      "word": "into",
+      "start": 6.32,
+      "end": 6.6
+    },
+    {
+      "word": "sheets",
+      "start": 6.6,
+      "end": 6.88
+    },
+    {
+      "word": "is",
+      "start": 6.88,
+      "end": 7.4
+    },
+    {
+      "word": "sole",
+      "start": 7.4,
+      "end": 7.66
+    },
+    {
+      "word": "crushing",
+      "start": 7.66,
+      "end": 7.96
+    },
+    {
+      "word": "and",
+      "start": 7.96,
+      "end": 8.28
+    },
+    {
+      "word": "slow.",
+      "start": 8.28,
+      "end": 8.72
+    },
+    {
+      "word": "Typeos",
+      "start": 9.16,
+      "end": 9.66
+    },
+    {
+      "word": "and",
+      "start": 9.66,
+      "end": 9.82
+    },
+    {
+      "word": "duplicate",
+      "start": 9.82,
+      "end": 10.16
+    },
+    {
+      "word": "entries",
+      "start": 10.16,
+      "end": 10.6
+    },
+    {
+      "word": "ruin",
+      "start": 10.6,
+      "end": 11.0
+    },
+    {
+      "word": "email",
+      "start": 11.0,
+      "end": 11.38
+    },
+    {
+      "word": "deliverability,",
+      "start": 11.38,
+      "end": 12.1
+    },
+    {
+      "word": "landing",
+      "start": 12.66,
+      "end": 12.68
+    },
+    {
+      "word": "your",
+      "start": 12.68,
+      "end": 12.92
+    },
+    {
+      "word": "pitches",
+      "start": 12.92,
+      "end": 13.2
+    },
+    {
+      "word": "directly",
+      "start": 13.2,
+      "end": 13.72
+    },
+    {
+      "word": "inside",
+      "start": 13.72,
+      "end": 14.22
+    },
+    {
+      "word": "spam",
+      "start": 14.22,
+      "end": 14.56
+    },
+    {
+      "word": "folders.",
+      "start": 14.56,
+      "end": 14.96
+    },
+    {
+      "word": "Set",
+      "start": 15.56,
+      "end": 15.68
+    },
+    {
+      "word": "an",
+      "start": 15.68,
+      "end": 16.12
+    },
+    {
+      "word": "automated",
+      "start": 16.12,
+      "end": 16.26
+    },
+    {
+      "word": "webhook",
+      "start": 16.26,
+      "end": 16.74
+    },
+    {
+      "word": "between",
+      "start": 16.74,
+      "end": 17.1
+    },
+    {
+      "word": "maps",
+      "start": 17.1,
+      "end": 17.4
+    },
+    {
+      "word": "scrapers",
+      "start": 17.4,
+      "end": 17.9
+    },
+    {
+      "word": "and",
+      "start": 17.9,
+      "end": 18.16
+    },
+    {
+      "word": "clay",
+      "start": 18.16,
+      "end": 18.34
+    },
+    {
+      "word": "to",
+      "start": 18.34,
+      "end": 18.56
+    },
+    {
+      "word": "clean",
+      "start": 18.56,
+      "end": 18.8
+    },
+    {
+      "word": "domains",
+      "start": 18.8,
+      "end": 19.26
+    },
+    {
+      "word": "and",
+      "start": 19.26,
+      "end": 19.94
+    },
+    {
+      "word": "verify",
+      "start": 19.94,
+      "end": 20.12
+    },
+    {
+      "word": "active",
+      "start": 20.12,
+      "end": 20.64
+    },
+    {
+      "word": "emails.",
+      "start": 20.64,
+      "end": 21.12
+    },
+    {
+      "word": "You",
+      "start": 21.74,
+      "end": 21.86
+    },
+    {
+      "word": "generate",
+      "start": 21.86,
+      "end": 22.18
+    },
+    {
+      "word": "hundreds",
+      "start": 22.18,
+      "end": 22.62
+    },
+    {
+      "word": "of",
+      "start": 22.62,
+      "end": 23.0
+    },
+    {
+      "word": "validated",
+      "start": 23.0,
+      "end": 23.16
+    },
+    {
+      "word": "leads",
+      "start": 23.16,
+      "end": 23.62
+    },
+    {
+      "word": "on",
+      "start": 23.62,
+      "end": 23.94
+    },
+    {
+      "word": "pure",
+      "start": 23.94,
+      "end": 24.28
+    },
+    {
+      "word": "autopilot.",
+      "start": 24.28,
+      "end": 24.86
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How to build a qualified outreach list while watching a movie.",
+      "line2": "SCRAPE LOCAL LEADS",
+      "tag": "\ud83d\uded1 Automated lead generation scraper for local service business clients",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated lead generation scraper for local service business clients",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated lead generation scraper for local service business clients",
+        "subtitle": "Automated lead generation scraper for local service business clients"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated lead generation scraper for local service business clients"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated lead generation scraper for local service business clients"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated lead generation scraper for local service business clients",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

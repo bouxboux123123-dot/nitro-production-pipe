@@ -1,0 +1,401 @@
+{
+  "page": "page-02",
+  "idea": "AI rate calculator based on market data and project complexity",
+  "text": "Double your freelance rate without losing a single good client. Most freelancers stay trapped at fifty dollars an hour because they sell raw time instead of business outcomes. Competing strictly on hourly pricing invites painful bidding wars against low-cost commodity freelancers. Use an AI value calculator to package your services into fixed tiers tied directly to client revenue growth. You double your monthly income while working fewer hours.",
+  "duration": 24.981,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Double",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "your",
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "word": "freelance",
+      "start": 0.52,
+      "end": 0.8
+    },
+    {
+      "word": "rate",
+      "start": 0.8,
+      "end": 1.18
+    },
+    {
+      "word": "without",
+      "start": 1.18,
+      "end": 1.48
+    },
+    {
+      "word": "losing",
+      "start": 1.48,
+      "end": 1.76
+    },
+    {
+      "word": "a",
+      "start": 1.76,
+      "end": 2.24
+    },
+    {
+      "word": "single",
+      "start": 2.24,
+      "end": 2.24
+    },
+    {
+      "word": "good",
+      "start": 2.24,
+      "end": 2.56
+    },
+    {
+      "word": "client.",
+      "start": 2.56,
+      "end": 2.86
+    },
+    {
+      "word": "Most",
+      "start": 3.34,
+      "end": 3.68
+    },
+    {
+      "word": "freelancers",
+      "start": 3.68,
+      "end": 4.2
+    },
+    {
+      "word": "stay",
+      "start": 4.2,
+      "end": 4.56
+    },
+    {
+      "word": "trapped",
+      "start": 4.56,
+      "end": 4.78
+    },
+    {
+      "word": "at",
+      "start": 4.78,
+      "end": 5.14
+    },
+    {
+      "word": "$50",
+      "start": 5.14,
+      "end": 5.36
+    },
+    {
+      "word": "an",
+      "start": 5.36,
+      "end": 5.74
+    },
+    {
+      "word": "hour",
+      "start": 5.74,
+      "end": 6.02
+    },
+    {
+      "word": "because",
+      "start": 6.02,
+      "end": 6.32
+    },
+    {
+      "word": "they",
+      "start": 6.32,
+      "end": 6.54
+    },
+    {
+      "word": "sell",
+      "start": 6.54,
+      "end": 6.78
+    },
+    {
+      "word": "raw",
+      "start": 6.78,
+      "end": 7.0
+    },
+    {
+      "word": "time",
+      "start": 7.0,
+      "end": 7.36
+    },
+    {
+      "word": "instead",
+      "start": 7.36,
+      "end": 7.58
+    },
+    {
+      "word": "of",
+      "start": 7.58,
+      "end": 7.8
+    },
+    {
+      "word": "business",
+      "start": 7.8,
+      "end": 8.06
+    },
+    {
+      "word": "outcomes.",
+      "start": 8.06,
+      "end": 8.56
+    },
+    {
+      "word": "Competing",
+      "start": 9.16,
+      "end": 9.46
+    },
+    {
+      "word": "strictly",
+      "start": 9.46,
+      "end": 9.94
+    },
+    {
+      "word": "on",
+      "start": 9.94,
+      "end": 10.2
+    },
+    {
+      "word": "hourly",
+      "start": 10.2,
+      "end": 10.48
+    },
+    {
+      "word": "pricing",
+      "start": 10.48,
+      "end": 10.98
+    },
+    {
+      "word": "invites",
+      "start": 10.98,
+      "end": 11.66
+    },
+    {
+      "word": "painful",
+      "start": 11.66,
+      "end": 12.12
+    },
+    {
+      "word": "bidding",
+      "start": 12.12,
+      "end": 12.44
+    },
+    {
+      "word": "wars",
+      "start": 12.44,
+      "end": 12.74
+    },
+    {
+      "word": "against",
+      "start": 12.74,
+      "end": 13.14
+    },
+    {
+      "word": "low",
+      "start": 13.14,
+      "end": 13.46
+    },
+    {
+      "word": "-cost",
+      "start": 13.46,
+      "end": 13.74
+    },
+    {
+      "word": "commodity",
+      "start": 13.74,
+      "end": 14.18
+    },
+    {
+      "word": "freelancers.",
+      "start": 14.18,
+      "end": 14.88
+    },
+    {
+      "word": "Use",
+      "start": 15.5,
+      "end": 15.6
+    },
+    {
+      "word": "an",
+      "start": 15.6,
+      "end": 15.9
+    },
+    {
+      "word": "AI",
+      "start": 15.9,
+      "end": 16.24
+    },
+    {
+      "word": "value",
+      "start": 16.24,
+      "end": 16.64
+    },
+    {
+      "word": "calculator",
+      "start": 16.64,
+      "end": 17.1
+    },
+    {
+      "word": "to",
+      "start": 17.1,
+      "end": 17.56
+    },
+    {
+      "word": "package",
+      "start": 17.56,
+      "end": 17.64
+    },
+    {
+      "word": "your",
+      "start": 17.64,
+      "end": 18.04
+    },
+    {
+      "word": "services",
+      "start": 18.04,
+      "end": 18.36
+    },
+    {
+      "word": "into",
+      "start": 18.36,
+      "end": 18.66
+    },
+    {
+      "word": "fixed",
+      "start": 18.66,
+      "end": 18.98
+    },
+    {
+      "word": "tiers",
+      "start": 18.98,
+      "end": 19.38
+    },
+    {
+      "word": "tied",
+      "start": 19.38,
+      "end": 19.98
+    },
+    {
+      "word": "directly",
+      "start": 19.98,
+      "end": 20.4
+    },
+    {
+      "word": "to",
+      "start": 20.4,
+      "end": 20.78
+    },
+    {
+      "word": "client",
+      "start": 20.78,
+      "end": 21.08
+    },
+    {
+      "word": "revenue",
+      "start": 21.08,
+      "end": 21.38
+    },
+    {
+      "word": "growth.",
+      "start": 21.38,
+      "end": 21.84
+    },
+    {
+      "word": "You",
+      "start": 21.84,
+      "end": 22.44
+    },
+    {
+      "word": "double",
+      "start": 22.44,
+      "end": 22.64
+    },
+    {
+      "word": "your",
+      "start": 22.64,
+      "end": 22.92
+    },
+    {
+      "word": "monthly",
+      "start": 22.92,
+      "end": 23.12
+    },
+    {
+      "word": "income",
+      "start": 23.12,
+      "end": 23.52
+    },
+    {
+      "word": "while",
+      "start": 23.52,
+      "end": 23.76
+    },
+    {
+      "word": "working",
+      "start": 23.76,
+      "end": 24.14
+    },
+    {
+      "word": "fewer",
+      "start": 24.14,
+      "end": 24.42
+    },
+    {
+      "word": "hours.",
+      "start": 24.42,
+      "end": 24.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "How to double your freelance hourly rate without losing a single good client.",
+      "line2": "CALCULATE FREELANCE RATES",
+      "tag": "\ud83d\uded1 AI rate calculator based on market data and project complexity",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: AI rate calculator based on market data and project complexity",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: AI rate calculator based on market data and project complexity",
+        "subtitle": "AI rate calculator based on market data and project complexity"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "AI rate calculator based on market data and project complexity"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "AI rate calculator based on market data and project complexity"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "AI rate calculator based on market data and project complexity",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

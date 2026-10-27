@@ -1,0 +1,396 @@
+{
+  "page": "page-03",
+  "idea": "Automated weekly backup system for store assets and customer records",
+  "text": "Automatically back up customer emails and order receipts directly to private cloud storage. Downloading weekly CSV files manually is a tedious chore that gets forgotten during busy weeks. A platform crash or sudden account ban can wipe out years of buyer records permanently. Set up Zapier to sync Gumroad or Shopify purchase receipts into an encrypted Airtable base. You will own your audience data forever with zero maintenance.",
+  "duration": 25.621,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Automatically",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "word": "backup",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "word": "customer",
+      "start": 1.04,
+      "end": 1.54
+    },
+    {
+      "word": "emails",
+      "start": 1.54,
+      "end": 1.94
+    },
+    {
+      "word": "and",
+      "start": 1.94,
+      "end": 2.24
+    },
+    {
+      "word": "order",
+      "start": 2.24,
+      "end": 2.66
+    },
+    {
+      "word": "receipts",
+      "start": 2.66,
+      "end": 3.06
+    },
+    {
+      "word": "directly",
+      "start": 3.06,
+      "end": 3.58
+    },
+    {
+      "word": "to",
+      "start": 3.58,
+      "end": 3.88
+    },
+    {
+      "word": "private",
+      "start": 3.88,
+      "end": 4.16
+    },
+    {
+      "word": "cloud",
+      "start": 4.16,
+      "end": 4.56
+    },
+    {
+      "word": "storage.",
+      "start": 4.56,
+      "end": 5.08
+    },
+    {
+      "word": "Downloading",
+      "start": 5.78,
+      "end": 6.14
+    },
+    {
+      "word": "weekly",
+      "start": 6.14,
+      "end": 6.54
+    },
+    {
+      "word": "CSV",
+      "start": 6.54,
+      "end": 6.96
+    },
+    {
+      "word": "files",
+      "start": 6.96,
+      "end": 7.54
+    },
+    {
+      "word": "manually",
+      "start": 7.54,
+      "end": 8.0
+    },
+    {
+      "word": "is",
+      "start": 8.0,
+      "end": 8.62
+    },
+    {
+      "word": "a",
+      "start": 8.62,
+      "end": 8.8
+    },
+    {
+      "word": "tedious",
+      "start": 8.8,
+      "end": 9.06
+    },
+    {
+      "word": "chore",
+      "start": 9.06,
+      "end": 9.48
+    },
+    {
+      "word": "that",
+      "start": 9.48,
+      "end": 9.66
+    },
+    {
+      "word": "gets",
+      "start": 9.66,
+      "end": 9.92
+    },
+    {
+      "word": "forgotten",
+      "start": 9.92,
+      "end": 10.34
+    },
+    {
+      "word": "during",
+      "start": 10.34,
+      "end": 10.74
+    },
+    {
+      "word": "busy",
+      "start": 10.74,
+      "end": 10.94
+    },
+    {
+      "word": "weeks.",
+      "start": 10.94,
+      "end": 11.42
+    },
+    {
+      "word": "A",
+      "start": 11.98,
+      "end": 12.04
+    },
+    {
+      "word": "platform",
+      "start": 12.04,
+      "end": 12.36
+    },
+    {
+      "word": "crash",
+      "start": 12.36,
+      "end": 12.92
+    },
+    {
+      "word": "or",
+      "start": 12.92,
+      "end": 13.22
+    },
+    {
+      "word": "sudden",
+      "start": 13.22,
+      "end": 13.46
+    },
+    {
+      "word": "account",
+      "start": 13.46,
+      "end": 13.88
+    },
+    {
+      "word": "ban",
+      "start": 13.88,
+      "end": 14.1
+    },
+    {
+      "word": "can",
+      "start": 14.1,
+      "end": 14.4
+    },
+    {
+      "word": "wipe",
+      "start": 14.4,
+      "end": 14.6
+    },
+    {
+      "word": "out",
+      "start": 14.6,
+      "end": 14.88
+    },
+    {
+      "word": "years",
+      "start": 14.88,
+      "end": 15.06
+    },
+    {
+      "word": "of",
+      "start": 15.06,
+      "end": 15.32
+    },
+    {
+      "word": "buyer",
+      "start": 15.32,
+      "end": 15.54
+    },
+    {
+      "word": "records",
+      "start": 15.54,
+      "end": 15.94
+    },
+    {
+      "word": "permanently.",
+      "start": 15.94,
+      "end": 16.54
+    },
+    {
+      "word": "Set",
+      "start": 17.06,
+      "end": 17.18
+    },
+    {
+      "word": "up",
+      "start": 17.18,
+      "end": 17.38
+    },
+    {
+      "word": "Zapier",
+      "start": 17.38,
+      "end": 17.76
+    },
+    {
+      "word": "to",
+      "start": 17.76,
+      "end": 17.96
+    },
+    {
+      "word": "sync",
+      "start": 17.96,
+      "end": 18.22
+    },
+    {
+      "word": "gumroad",
+      "start": 18.22,
+      "end": 18.68
+    },
+    {
+      "word": "or",
+      "start": 18.68,
+      "end": 18.98
+    },
+    {
+      "word": "Shopify",
+      "start": 18.98,
+      "end": 19.56
+    },
+    {
+      "word": "purchase",
+      "start": 19.56,
+      "end": 19.9
+    },
+    {
+      "word": "receipts",
+      "start": 19.9,
+      "end": 20.42
+    },
+    {
+      "word": "into",
+      "start": 20.42,
+      "end": 20.68
+    },
+    {
+      "word": "an",
+      "start": 20.68,
+      "end": 20.86
+    },
+    {
+      "word": "encrypted,",
+      "start": 20.86,
+      "end": 21.26
+    },
+    {
+      "word": "irritable",
+      "start": 21.34,
+      "end": 21.7
+    },
+    {
+      "word": "base.",
+      "start": 21.7,
+      "end": 22.1
+    },
+    {
+      "word": "You",
+      "start": 22.64,
+      "end": 22.72
+    },
+    {
+      "word": "will",
+      "start": 22.72,
+      "end": 22.86
+    },
+    {
+      "word": "own",
+      "start": 22.86,
+      "end": 23.04
+    },
+    {
+      "word": "your",
+      "start": 23.04,
+      "end": 23.34
+    },
+    {
+      "word": "audience",
+      "start": 23.34,
+      "end": 23.68
+    },
+    {
+      "word": "data",
+      "start": 23.68,
+      "end": 24.04
+    },
+    {
+      "word": "forever",
+      "start": 24.04,
+      "end": 24.34
+    },
+    {
+      "word": "with",
+      "start": 24.34,
+      "end": 24.66
+    },
+    {
+      "word": "zero",
+      "start": 24.66,
+      "end": 25.02
+    },
+    {
+      "word": "maintenance.",
+      "start": 25.02,
+      "end": 25.38
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How to automatically back up all customer emails and order receipts to private cloud storage.",
+      "line2": "AUTO-BACKUP STORE DATA",
+      "tag": "\ud83d\uded1 Automated weekly backup system for store assets and customer records",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated weekly backup system for store assets and customer records",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated weekly backup system for store assets and customer records",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated weekly backup system for store assets and customer records"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated weekly backup system for store assets and customer records",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

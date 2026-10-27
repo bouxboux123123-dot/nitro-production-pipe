@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Automated employee equipment ordering and home office stipend flow",
+  "text": "This automated procurement flow handles international hardware shipping, customs clearance, and laptop returns effortlessly. Expanding abroad usually forces operations managers to juggle fragmented local vendors and expensive import tariffs. Spreadsheets fail the moment an overseas contractor departs and their company laptop gets stranded abroad. Instead, platform solutions like Firstbase manage device lifecycles, deploy Jamf profiles, and automate courier retrievals. You protect company assets while slashing logistics time.",
+  "duration": 32.869,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "automated",
+      "start": 0.28,
+      "end": 0.66
+    },
+    {
+      "word": "procurement",
+      "start": 0.66,
+      "end": 1.22
+    },
+    {
+      "word": "flow",
+      "start": 1.22,
+      "end": 1.64
+    },
+    {
+      "word": "handles",
+      "start": 1.64,
+      "end": 2.0
+    },
+    {
+      "word": "international",
+      "start": 2.0,
+      "end": 2.6
+    },
+    {
+      "word": "hardware",
+      "start": 2.6,
+      "end": 3.02
+    },
+    {
+      "word": "shipping,",
+      "start": 3.02,
+      "end": 3.6
+    },
+    {
+      "word": "customs",
+      "start": 4.18,
+      "end": 4.18
+    },
+    {
+      "word": "clearance,",
+      "start": 4.18,
+      "end": 4.76
+    },
+    {
+      "word": "and",
+      "start": 4.98,
+      "end": 5.18
+    },
+    {
+      "word": "laptop",
+      "start": 5.18,
+      "end": 5.5
+    },
+    {
+      "word": "returns",
+      "start": 5.5,
+      "end": 6.26
+    },
+    {
+      "word": "effortlessly.",
+      "start": 6.26,
+      "end": 6.78
+    },
+    {
+      "word": "Expanding",
+      "start": 7.7,
+      "end": 8.02
+    },
+    {
+      "word": "abroad",
+      "start": 8.02,
+      "end": 8.52
+    },
+    {
+      "word": "usually",
+      "start": 8.52,
+      "end": 9.0
+    },
+    {
+      "word": "forces",
+      "start": 9.0,
+      "end": 9.34
+    },
+    {
+      "word": "operations",
+      "start": 9.34,
+      "end": 10.0
+    },
+    {
+      "word": "managers",
+      "start": 10.0,
+      "end": 10.52
+    },
+    {
+      "word": "to",
+      "start": 10.52,
+      "end": 11.04
+    },
+    {
+      "word": "juggle",
+      "start": 11.04,
+      "end": 11.42
+    },
+    {
+      "word": "fragmented",
+      "start": 11.42,
+      "end": 11.88
+    },
+    {
+      "word": "local",
+      "start": 11.88,
+      "end": 12.36
+    },
+    {
+      "word": "vendors",
+      "start": 12.36,
+      "end": 12.78
+    },
+    {
+      "word": "and",
+      "start": 12.78,
+      "end": 13.24
+    },
+    {
+      "word": "expensive",
+      "start": 13.24,
+      "end": 13.62
+    },
+    {
+      "word": "import",
+      "start": 13.62,
+      "end": 14.12
+    },
+    {
+      "word": "tariffs.",
+      "start": 14.12,
+      "end": 14.54
+    },
+    {
+      "word": "Spreadsheets",
+      "start": 15.02,
+      "end": 15.46
+    },
+    {
+      "word": "fail",
+      "start": 15.46,
+      "end": 15.78
+    },
+    {
+      "word": "the",
+      "start": 15.78,
+      "end": 15.96
+    },
+    {
+      "word": "moment",
+      "start": 15.96,
+      "end": 16.24
+    },
+    {
+      "word": "and",
+      "start": 16.24,
+      "end": 16.52
+    },
+    {
+      "word": "overseas",
+      "start": 16.52,
+      "end": 16.92
+    },
+    {
+      "word": "contractor",
+      "start": 16.92,
+      "end": 17.54
+    },
+    {
+      "word": "departs,",
+      "start": 17.54,
+      "end": 18.02
+    },
+    {
+      "word": "and",
+      "start": 18.36,
+      "end": 18.5
+    },
+    {
+      "word": "their",
+      "start": 18.5,
+      "end": 18.72
+    },
+    {
+      "word": "company",
+      "start": 18.72,
+      "end": 19.0
+    },
+    {
+      "word": "laptop",
+      "start": 19.0,
+      "end": 19.38
+    },
+    {
+      "word": "gets",
+      "start": 19.38,
+      "end": 19.86
+    },
+    {
+      "word": "stranded",
+      "start": 19.86,
+      "end": 20.16
+    },
+    {
+      "word": "abroad.",
+      "start": 20.16,
+      "end": 20.72
+    },
+    {
+      "word": "Instead,",
+      "start": 21.46,
+      "end": 21.82
+    },
+    {
+      "word": "platform",
+      "start": 22.38,
+      "end": 22.52
+    },
+    {
+      "word": "solutions",
+      "start": 22.52,
+      "end": 23.16
+    },
+    {
+      "word": "like",
+      "start": 23.16,
+      "end": 23.56
+    },
+    {
+      "word": "first",
+      "start": 23.56,
+      "end": 23.9
+    },
+    {
+      "word": "base",
+      "start": 23.9,
+      "end": 24.18
+    },
+    {
+      "word": "managed",
+      "start": 24.18,
+      "end": 24.62
+    },
+    {
+      "word": "device",
+      "start": 24.62,
+      "end": 25.0
+    },
+    {
+      "word": "life",
+      "start": 25.0,
+      "end": 25.34
+    },
+    {
+      "word": "cycles,",
+      "start": 25.34,
+      "end": 25.74
+    },
+    {
+      "word": "deploy",
+      "start": 26.38,
+      "end": 26.46
+    },
+    {
+      "word": "Jamf",
+      "start": 26.46,
+      "end": 26.88
+    },
+    {
+      "word": "profiles,",
+      "start": 26.88,
+      "end": 27.36
+    },
+    {
+      "word": "and",
+      "start": 27.64,
+      "end": 27.94
+    },
+    {
+      "word": "automate",
+      "start": 27.94,
+      "end": 28.16
+    },
+    {
+      "word": "courier",
+      "start": 28.16,
+      "end": 28.62
+    },
+    {
+      "word": "retrievals.",
+      "start": 28.62,
+      "end": 29.2
+    },
+    {
+      "word": "You",
+      "start": 29.2,
+      "end": 29.92
+    },
+    {
+      "word": "protect",
+      "start": 29.92,
+      "end": 30.22
+    },
+    {
+      "word": "company",
+      "start": 30.22,
+      "end": 30.66
+    },
+    {
+      "word": "assets",
+      "start": 30.66,
+      "end": 31.06
+    },
+    {
+      "word": "while",
+      "start": 31.06,
+      "end": 31.42
+    },
+    {
+      "word": "slashing",
+      "start": 31.42,
+      "end": 31.88
+    },
+    {
+      "word": "logistics",
+      "start": 31.88,
+      "end": 32.32
+    },
+    {
+      "word": "time.",
+      "start": 32.32,
+      "end": 32.84
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The automated procurement flow that handles international shipping, customs, and returns.",
+      "line2": "AUTOMATE EQUIPMENT STIPENDS",
+      "tag": "\ud83d\uded1 Automated employee equipment ordering and home office stipend flow",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Automated employee equipment ordering and home office stipend flow",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Automated employee equipment ordering and home office stipend flow",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

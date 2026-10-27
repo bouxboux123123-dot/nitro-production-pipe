@@ -1,0 +1,396 @@
+{
+  "page": "page-06",
+  "idea": "Centralized team SOP hub that answers common questions using AI search",
+  "text": "Stop answering the exact same operational questions ten times every single week. Team leads waste hours repeatedly sharing links to brand assets, refund protocols, and API keys across Slack. Knowledge silos trap critical documentation inside personal folders while distributed teammates wait hours for basic answers. Deploying Guru directly into Slack answers repetitive inquiries instantly by querying your verified company SOP database. You eliminate constant DM interruptions forever.",
+  "duration": 32.463,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "answering",
+      "start": 0.42,
+      "end": 0.8
+    },
+    {
+      "word": "the",
+      "start": 0.8,
+      "end": 1.06
+    },
+    {
+      "word": "exact",
+      "start": 1.06,
+      "end": 1.44
+    },
+    {
+      "word": "same",
+      "start": 1.44,
+      "end": 1.78
+    },
+    {
+      "word": "operational",
+      "start": 1.78,
+      "end": 2.34
+    },
+    {
+      "word": "questions",
+      "start": 2.34,
+      "end": 2.9
+    },
+    {
+      "word": "10",
+      "start": 2.9,
+      "end": 3.34
+    },
+    {
+      "word": "times",
+      "start": 3.34,
+      "end": 3.74
+    },
+    {
+      "word": "every",
+      "start": 3.74,
+      "end": 4.08
+    },
+    {
+      "word": "single",
+      "start": 4.08,
+      "end": 4.42
+    },
+    {
+      "word": "week.",
+      "start": 4.42,
+      "end": 5.16
+    },
+    {
+      "word": "Team",
+      "start": 5.56,
+      "end": 5.56
+    },
+    {
+      "word": "leads",
+      "start": 5.56,
+      "end": 5.88
+    },
+    {
+      "word": "waste",
+      "start": 5.88,
+      "end": 6.28
+    },
+    {
+      "word": "hours",
+      "start": 6.28,
+      "end": 6.66
+    },
+    {
+      "word": "repeatedly",
+      "start": 6.66,
+      "end": 7.18
+    },
+    {
+      "word": "sharing",
+      "start": 7.18,
+      "end": 7.68
+    },
+    {
+      "word": "links",
+      "start": 7.68,
+      "end": 7.98
+    },
+    {
+      "word": "to",
+      "start": 7.98,
+      "end": 8.18
+    },
+    {
+      "word": "brand",
+      "start": 8.18,
+      "end": 8.52
+    },
+    {
+      "word": "assets,",
+      "start": 8.52,
+      "end": 9.14
+    },
+    {
+      "word": "refund",
+      "start": 9.5,
+      "end": 9.72
+    },
+    {
+      "word": "protocols,",
+      "start": 9.72,
+      "end": 10.3
+    },
+    {
+      "word": "and",
+      "start": 10.8,
+      "end": 11.22
+    },
+    {
+      "word": "API",
+      "start": 11.22,
+      "end": 11.4
+    },
+    {
+      "word": "keys",
+      "start": 11.4,
+      "end": 11.94
+    },
+    {
+      "word": "across",
+      "start": 11.94,
+      "end": 12.34
+    },
+    {
+      "word": "Slack.",
+      "start": 12.34,
+      "end": 12.82
+    },
+    {
+      "word": "Knowledge",
+      "start": 13.52,
+      "end": 13.52
+    },
+    {
+      "word": "silos",
+      "start": 13.52,
+      "end": 14.06
+    },
+    {
+      "word": "trap",
+      "start": 14.06,
+      "end": 14.42
+    },
+    {
+      "word": "critical",
+      "start": 14.42,
+      "end": 14.78
+    },
+    {
+      "word": "documentation",
+      "start": 14.78,
+      "end": 15.54
+    },
+    {
+      "word": "inside",
+      "start": 15.54,
+      "end": 16.16
+    },
+    {
+      "word": "personal",
+      "start": 16.16,
+      "end": 16.64
+    },
+    {
+      "word": "folders",
+      "start": 16.64,
+      "end": 17.04
+    },
+    {
+      "word": "while",
+      "start": 17.04,
+      "end": 17.68
+    },
+    {
+      "word": "distributed",
+      "start": 17.68,
+      "end": 18.22
+    },
+    {
+      "word": "teammates",
+      "start": 18.22,
+      "end": 18.64
+    },
+    {
+      "word": "wait",
+      "start": 18.64,
+      "end": 19.12
+    },
+    {
+      "word": "hours",
+      "start": 19.12,
+      "end": 19.5
+    },
+    {
+      "word": "for",
+      "start": 19.5,
+      "end": 19.78
+    },
+    {
+      "word": "basic",
+      "start": 19.78,
+      "end": 20.12
+    },
+    {
+      "word": "answers.",
+      "start": 20.12,
+      "end": 20.68
+    },
+    {
+      "word": "Deploying",
+      "start": 21.34,
+      "end": 21.82
+    },
+    {
+      "word": "Guru",
+      "start": 21.82,
+      "end": 22.16
+    },
+    {
+      "word": "directly",
+      "start": 22.16,
+      "end": 22.64
+    },
+    {
+      "word": "into",
+      "start": 22.64,
+      "end": 22.98
+    },
+    {
+      "word": "Slack",
+      "start": 22.98,
+      "end": 23.32
+    },
+    {
+      "word": "answers",
+      "start": 23.32,
+      "end": 23.72
+    },
+    {
+      "word": "repetitive",
+      "start": 23.72,
+      "end": 24.28
+    },
+    {
+      "word": "inquiries,",
+      "start": 24.28,
+      "end": 24.96
+    },
+    {
+      "word": "instantly",
+      "start": 25.66,
+      "end": 25.66
+    },
+    {
+      "word": "by",
+      "start": 25.66,
+      "end": 26.24
+    },
+    {
+      "word": "querying",
+      "start": 26.24,
+      "end": 26.62
+    },
+    {
+      "word": "your",
+      "start": 26.62,
+      "end": 26.9
+    },
+    {
+      "word": "verified",
+      "start": 26.9,
+      "end": 27.32
+    },
+    {
+      "word": "company",
+      "start": 27.32,
+      "end": 27.94
+    },
+    {
+      "word": "SOP",
+      "start": 27.94,
+      "end": 28.48
+    },
+    {
+      "word": "database.",
+      "start": 28.48,
+      "end": 28.96
+    },
+    {
+      "word": "You",
+      "start": 28.96,
+      "end": 29.76
+    },
+    {
+      "word": "eliminate",
+      "start": 29.76,
+      "end": 30.24
+    },
+    {
+      "word": "constant",
+      "start": 30.24,
+      "end": 30.9
+    },
+    {
+      "word": "DM",
+      "start": 30.9,
+      "end": 31.32
+    },
+    {
+      "word": "interruptions",
+      "start": 31.32,
+      "end": 32.02
+    },
+    {
+      "word": "forever.",
+      "start": 32.02,
+      "end": 32.36
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop answering the same 'Where do I find the logo files?' question 10 times a week.",
+      "line2": "AI-POWERED SOP SEARCH",
+      "tag": "\ud83d\uded1 Centralized team SOP hub that answers common questions using AI search",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Centralized team SOP hub that answers common questions using AI search",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Centralized team SOP hub that answers common questions using AI search",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

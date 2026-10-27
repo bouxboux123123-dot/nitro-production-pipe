@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "Pitch deck slide generator that formats raw traction metrics",
+  "text": "How to build clean, fundable pitch deck slides without hiring an expensive designer. Founders waste entire days nudging text boxes, aligning chart axes, and fixing formatting inconsistencies in PowerPoint. Messy, misaligned slide design signals operational carelessness to venture investors and weakens strong traction metrics. Connect Airtable traction logs directly to Gamma to generate clean, investor-ready slides automatically. This produces institutional-grade pitch decks in twenty minutes.",
+  "duration": 31.269,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "to",
+      "start": 0.2,
+      "end": 0.3
+    },
+    {
+      "word": "build",
+      "start": 0.3,
+      "end": 0.62
+    },
+    {
+      "word": "clean,",
+      "start": 0.62,
+      "end": 1.12
+    },
+    {
+      "word": "fundable",
+      "start": 1.18,
+      "end": 1.66
+    },
+    {
+      "word": "pitch",
+      "start": 1.66,
+      "end": 1.94
+    },
+    {
+      "word": "deck",
+      "start": 1.94,
+      "end": 2.22
+    },
+    {
+      "word": "slides",
+      "start": 2.22,
+      "end": 2.6
+    },
+    {
+      "word": "without",
+      "start": 2.6,
+      "end": 3.06
+    },
+    {
+      "word": "hiring",
+      "start": 3.06,
+      "end": 3.42
+    },
+    {
+      "word": "an",
+      "start": 3.42,
+      "end": 3.66
+    },
+    {
+      "word": "expensive",
+      "start": 3.66,
+      "end": 4.1
+    },
+    {
+      "word": "designer.",
+      "start": 4.1,
+      "end": 4.84
+    },
+    {
+      "word": "Founders",
+      "start": 5.74,
+      "end": 5.74
+    },
+    {
+      "word": "waste",
+      "start": 5.74,
+      "end": 6.18
+    },
+    {
+      "word": "entire",
+      "start": 6.18,
+      "end": 6.66
+    },
+    {
+      "word": "days",
+      "start": 6.66,
+      "end": 7.08
+    },
+    {
+      "word": "nudging",
+      "start": 7.08,
+      "end": 7.44
+    },
+    {
+      "word": "text",
+      "start": 7.44,
+      "end": 7.8
+    },
+    {
+      "word": "boxes,",
+      "start": 7.8,
+      "end": 8.3
+    },
+    {
+      "word": "aligning",
+      "start": 8.82,
+      "end": 9.28
+    },
+    {
+      "word": "chart",
+      "start": 9.28,
+      "end": 9.54
+    },
+    {
+      "word": "axes",
+      "start": 9.54,
+      "end": 9.92
+    },
+    {
+      "word": "and",
+      "start": 9.92,
+      "end": 10.46
+    },
+    {
+      "word": "fixing",
+      "start": 10.46,
+      "end": 10.88
+    },
+    {
+      "word": "formatting",
+      "start": 10.88,
+      "end": 11.26
+    },
+    {
+      "word": "inconsistencies",
+      "start": 11.26,
+      "end": 12.18
+    },
+    {
+      "word": "in",
+      "start": 12.18,
+      "end": 12.66
+    },
+    {
+      "word": "PowerPoint.",
+      "start": 12.66,
+      "end": 13.2
+    },
+    {
+      "word": "Messy,",
+      "start": 13.76,
+      "end": 14.06
+    },
+    {
+      "word": "misaligned",
+      "start": 14.18,
+      "end": 14.66
+    },
+    {
+      "word": "slide",
+      "start": 14.66,
+      "end": 15.02
+    },
+    {
+      "word": "design",
+      "start": 15.02,
+      "end": 15.5
+    },
+    {
+      "word": "signals",
+      "start": 15.5,
+      "end": 15.92
+    },
+    {
+      "word": "operational",
+      "start": 15.92,
+      "end": 16.58
+    },
+    {
+      "word": "carelessness",
+      "start": 16.58,
+      "end": 17.24
+    },
+    {
+      "word": "to",
+      "start": 17.24,
+      "end": 17.76
+    },
+    {
+      "word": "venture",
+      "start": 17.76,
+      "end": 17.96
+    },
+    {
+      "word": "investors",
+      "start": 17.96,
+      "end": 18.54
+    },
+    {
+      "word": "and",
+      "start": 18.54,
+      "end": 19.02
+    },
+    {
+      "word": "weak",
+      "start": 19.02,
+      "end": 19.22
+    },
+    {
+      "word": "and",
+      "start": 19.22,
+      "end": 19.5
+    },
+    {
+      "word": "strong",
+      "start": 19.5,
+      "end": 19.86
+    },
+    {
+      "word": "traction",
+      "start": 19.86,
+      "end": 20.28
+    },
+    {
+      "word": "metrics.",
+      "start": 20.28,
+      "end": 20.76
+    },
+    {
+      "word": "Connect",
+      "start": 21.36,
+      "end": 21.66
+    },
+    {
+      "word": "Airtable",
+      "start": 21.66,
+      "end": 22.18
+    },
+    {
+      "word": "traction",
+      "start": 22.18,
+      "end": 22.58
+    },
+    {
+      "word": "logs",
+      "start": 22.58,
+      "end": 22.98
+    },
+    {
+      "word": "directly",
+      "start": 22.98,
+      "end": 23.42
+    },
+    {
+      "word": "to",
+      "start": 23.42,
+      "end": 23.7
+    },
+    {
+      "word": "gamma",
+      "start": 23.7,
+      "end": 23.92
+    },
+    {
+      "word": "to",
+      "start": 23.92,
+      "end": 24.32
+    },
+    {
+      "word": "generate",
+      "start": 24.32,
+      "end": 24.66
+    },
+    {
+      "word": "clean,",
+      "start": 24.66,
+      "end": 25.5
+    },
+    {
+      "word": "invest",
+      "start": 25.88,
+      "end": 25.98
+    },
+    {
+      "word": "-ready",
+      "start": 25.98,
+      "end": 26.28
+    },
+    {
+      "word": "slides",
+      "start": 26.28,
+      "end": 26.8
+    },
+    {
+      "word": "automatically.",
+      "start": 26.8,
+      "end": 27.36
+    },
+    {
+      "word": "This",
+      "start": 27.36,
+      "end": 28.26
+    },
+    {
+      "word": "produces",
+      "start": 28.26,
+      "end": 28.7
+    },
+    {
+      "word": "institutional",
+      "start": 28.7,
+      "end": 29.44
+    },
+    {
+      "word": "grade",
+      "start": 29.44,
+      "end": 29.86
+    },
+    {
+      "word": "pitch",
+      "start": 29.86,
+      "end": 30.12
+    },
+    {
+      "word": "decks",
+      "start": 30.12,
+      "end": 30.36
+    },
+    {
+      "word": "in",
+      "start": 30.36,
+      "end": 30.6
+    },
+    {
+      "word": "20",
+      "start": 30.6,
+      "end": 30.86
+    },
+    {
+      "word": "minutes.",
+      "start": 30.86,
+      "end": 31.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "How to build clean, fundable pitch deck slides without hiring a designer.",
+      "line2": "FORMAT PITCH DECKS",
+      "tag": "\ud83d\uded1 Pitch deck slide generator that formats raw traction metrics",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Pitch deck slide generator that formats raw traction metrics",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Pitch deck slide generator that formats raw traction metrics",
+        "subtitle": "Pitch deck slide generator that formats raw traction metrics"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Pitch deck slide generator that formats raw traction metrics"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Pitch deck slide generator that formats raw traction metrics"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Pitch deck slide generator that formats raw traction metrics",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

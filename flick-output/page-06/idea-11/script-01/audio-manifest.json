@@ -1,0 +1,416 @@
+{
+  "page": "page-06",
+  "idea": "Digital whiteboard template for running remote design sprint workshops",
+  "text": "How to run an energetic, highly productive product brainstorm completely remote. Most remote brainstorming sessions collapse into three people dominating Zoom while the remaining team multitasks off camera. Unstructured conversations generate zero tangible outcomes, leaving founders with cluttered chat logs and no actionable product direction. Using a structured Miro design sprint template enforces five-minute silent sticky-note ideation and anonymous dot voting. You extract brilliant ideas from every single participant.",
+  "duration": 32.677,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "to",
+      "start": 0.24,
+      "end": 0.36
+    },
+    {
+      "word": "run",
+      "start": 0.36,
+      "end": 0.58
+    },
+    {
+      "word": "an",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "energetic,",
+      "start": 0.86,
+      "end": 1.38
+    },
+    {
+      "word": "highly",
+      "start": 1.68,
+      "end": 2.04
+    },
+    {
+      "word": "productive",
+      "start": 2.04,
+      "end": 2.58
+    },
+    {
+      "word": "product",
+      "start": 2.58,
+      "end": 3.0
+    },
+    {
+      "word": "brainstorm",
+      "start": 3.0,
+      "end": 3.52
+    },
+    {
+      "word": "completely",
+      "start": 3.52,
+      "end": 4.2
+    },
+    {
+      "word": "remote.",
+      "start": 4.2,
+      "end": 4.72
+    },
+    {
+      "word": "Most",
+      "start": 5.2,
+      "end": 5.46
+    },
+    {
+      "word": "remote",
+      "start": 5.46,
+      "end": 5.92
+    },
+    {
+      "word": "brainstorming",
+      "start": 5.92,
+      "end": 6.66
+    },
+    {
+      "word": "sessions",
+      "start": 6.66,
+      "end": 7.16
+    },
+    {
+      "word": "collapse",
+      "start": 7.16,
+      "end": 7.6
+    },
+    {
+      "word": "into",
+      "start": 7.6,
+      "end": 7.88
+    },
+    {
+      "word": "three",
+      "start": 7.88,
+      "end": 8.2
+    },
+    {
+      "word": "people",
+      "start": 8.2,
+      "end": 8.54
+    },
+    {
+      "word": "dominating",
+      "start": 8.54,
+      "end": 8.96
+    },
+    {
+      "word": "Zoom,",
+      "start": 8.96,
+      "end": 9.58
+    },
+    {
+      "word": "while",
+      "start": 9.94,
+      "end": 9.96
+    },
+    {
+      "word": "the",
+      "start": 9.96,
+      "end": 10.14
+    },
+    {
+      "word": "remaining",
+      "start": 10.14,
+      "end": 10.38
+    },
+    {
+      "word": "team",
+      "start": 10.38,
+      "end": 10.92
+    },
+    {
+      "word": "multitasks",
+      "start": 10.92,
+      "end": 11.62
+    },
+    {
+      "word": "off",
+      "start": 11.62,
+      "end": 12.0
+    },
+    {
+      "word": "-camera.",
+      "start": 12.0,
+      "end": 12.38
+    },
+    {
+      "word": "Unstructured",
+      "start": 12.76,
+      "end": 13.34
+    },
+    {
+      "word": "conversations",
+      "start": 13.34,
+      "end": 14.02
+    },
+    {
+      "word": "generate",
+      "start": 14.02,
+      "end": 14.54
+    },
+    {
+      "word": "zero",
+      "start": 14.54,
+      "end": 15.1
+    },
+    {
+      "word": "tangible",
+      "start": 15.1,
+      "end": 15.5
+    },
+    {
+      "word": "outcomes,",
+      "start": 15.5,
+      "end": 16.18
+    },
+    {
+      "word": "leaving",
+      "start": 16.74,
+      "end": 16.92
+    },
+    {
+      "word": "founders",
+      "start": 16.92,
+      "end": 17.28
+    },
+    {
+      "word": "with",
+      "start": 17.28,
+      "end": 17.68
+    },
+    {
+      "word": "cluttered",
+      "start": 17.68,
+      "end": 17.98
+    },
+    {
+      "word": "chat",
+      "start": 17.98,
+      "end": 18.26
+    },
+    {
+      "word": "logs",
+      "start": 18.26,
+      "end": 18.56
+    },
+    {
+      "word": "and",
+      "start": 18.56,
+      "end": 19.08
+    },
+    {
+      "word": "no",
+      "start": 19.08,
+      "end": 19.38
+    },
+    {
+      "word": "actionable",
+      "start": 19.38,
+      "end": 19.9
+    },
+    {
+      "word": "product",
+      "start": 19.9,
+      "end": 20.28
+    },
+    {
+      "word": "direction.",
+      "start": 20.28,
+      "end": 20.78
+    },
+    {
+      "word": "Using",
+      "start": 21.48,
+      "end": 21.64
+    },
+    {
+      "word": "a",
+      "start": 21.64,
+      "end": 21.88
+    },
+    {
+      "word": "structured",
+      "start": 21.88,
+      "end": 22.28
+    },
+    {
+      "word": "myro",
+      "start": 22.28,
+      "end": 22.78
+    },
+    {
+      "word": "design,",
+      "start": 22.78,
+      "end": 23.24
+    },
+    {
+      "word": "sprint",
+      "start": 23.38,
+      "end": 23.56
+    },
+    {
+      "word": "template,",
+      "start": 23.56,
+      "end": 23.98
+    },
+    {
+      "word": "enforces",
+      "start": 24.42,
+      "end": 24.8
+    },
+    {
+      "word": "five",
+      "start": 24.8,
+      "end": 25.3
+    },
+    {
+      "word": "-minute",
+      "start": 25.3,
+      "end": 25.58
+    },
+    {
+      "word": "silent",
+      "start": 25.58,
+      "end": 26.04
+    },
+    {
+      "word": "sticky",
+      "start": 26.04,
+      "end": 26.32
+    },
+    {
+      "word": "note",
+      "start": 26.32,
+      "end": 26.62
+    },
+    {
+      "word": "ideation",
+      "start": 26.62,
+      "end": 27.24
+    },
+    {
+      "word": "and",
+      "start": 27.24,
+      "end": 27.76
+    },
+    {
+      "word": "anonymous",
+      "start": 27.76,
+      "end": 28.16
+    },
+    {
+      "word": "dot",
+      "start": 28.16,
+      "end": 28.58
+    },
+    {
+      "word": "voting.",
+      "start": 28.58,
+      "end": 28.88
+    },
+    {
+      "word": "You",
+      "start": 28.88,
+      "end": 29.62
+    },
+    {
+      "word": "extract",
+      "start": 29.62,
+      "end": 30.08
+    },
+    {
+      "word": "brilliant",
+      "start": 30.08,
+      "end": 30.56
+    },
+    {
+      "word": "ideas",
+      "start": 30.56,
+      "end": 31.06
+    },
+    {
+      "word": "from",
+      "start": 31.06,
+      "end": 31.42
+    },
+    {
+      "word": "every",
+      "start": 31.42,
+      "end": 31.74
+    },
+    {
+      "word": "single",
+      "start": 31.74,
+      "end": 32.04
+    },
+    {
+      "word": "participant.",
+      "start": 32.04,
+      "end": 32.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How to run an energetic, highly productive product brainstorm completely remote.",
+      "line2": "REMOTE DESIGN SPRINTS",
+      "tag": "\ud83d\uded1 Digital whiteboard template for running remote design sprint workshops",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Digital whiteboard template for running remote design sprint workshops",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Digital whiteboard template for running remote design sprint workshops",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Digital whiteboard template for running remote design sprint workshops",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

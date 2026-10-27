@@ -1,0 +1,356 @@
+{
+  "page": "page-09",
+  "idea": "Ghost vs Substack: which platform is better for building a media business",
+  "text": "Here is how much money you lose staying on Substack past one thousand paid subscribers. Charging ten dollars monthly brings in ten thousand dollars of subscription revenue every month. Substack takes one thousand dollars monthly, draining twelve thousand dollars annually for basic hosting. Ghost Pro runs that exact list for twenty-five dollars monthly with direct Stripe payouts. You save over eleven thousand dollars every single year.",
+  "duration": 24.213,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.4
+    },
+    {
+      "word": "how",
+      "start": 0.4,
+      "end": 0.58
+    },
+    {
+      "word": "much",
+      "start": 0.58,
+      "end": 0.8
+    },
+    {
+      "word": "money",
+      "start": 0.8,
+      "end": 0.98
+    },
+    {
+      "word": "you",
+      "start": 0.98,
+      "end": 1.18
+    },
+    {
+      "word": "lose",
+      "start": 1.18,
+      "end": 1.44
+    },
+    {
+      "word": "staying",
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "word": "on",
+      "start": 1.68,
+      "end": 1.92
+    },
+    {
+      "word": "substack",
+      "start": 1.92,
+      "end": 2.36
+    },
+    {
+      "word": "past",
+      "start": 2.36,
+      "end": 2.76
+    },
+    {
+      "word": "1000",
+      "start": 2.76,
+      "end": 3.38
+    },
+    {
+      "word": "paid",
+      "start": 3.38,
+      "end": 3.68
+    },
+    {
+      "word": "subscribers.",
+      "start": 3.68,
+      "end": 4.32
+    },
+    {
+      "word": "Charging",
+      "start": 4.82,
+      "end": 5.28
+    },
+    {
+      "word": "$10",
+      "start": 5.28,
+      "end": 5.66
+    },
+    {
+      "word": "monthly",
+      "start": 5.66,
+      "end": 6.24
+    },
+    {
+      "word": "brings",
+      "start": 6.24,
+      "end": 6.56
+    },
+    {
+      "word": "in",
+      "start": 6.56,
+      "end": 6.9
+    },
+    {
+      "word": "$10",
+      "start": 6.9,
+      "end": 7.06
+    },
+    {
+      "word": ",000",
+      "start": 7.06,
+      "end": 7.54
+    },
+    {
+      "word": "of",
+      "start": 7.54,
+      "end": 7.9
+    },
+    {
+      "word": "subscription",
+      "start": 7.9,
+      "end": 8.46
+    },
+    {
+      "word": "revenue",
+      "start": 8.46,
+      "end": 8.84
+    },
+    {
+      "word": "every",
+      "start": 8.84,
+      "end": 9.22
+    },
+    {
+      "word": "month.",
+      "start": 9.22,
+      "end": 9.82
+    },
+    {
+      "word": "Substack",
+      "start": 10.3,
+      "end": 10.54
+    },
+    {
+      "word": "takes",
+      "start": 10.54,
+      "end": 10.9
+    },
+    {
+      "word": "$1",
+      "start": 10.9,
+      "end": 11.18
+    },
+    {
+      "word": ",000",
+      "start": 11.18,
+      "end": 11.76
+    },
+    {
+      "word": "monthly,",
+      "start": 11.76,
+      "end": 12.4
+    },
+    {
+      "word": "draining",
+      "start": 12.66,
+      "end": 12.86
+    },
+    {
+      "word": "$12",
+      "start": 12.86,
+      "end": 13.42
+    },
+    {
+      "word": ",000",
+      "start": 13.42,
+      "end": 14.1
+    },
+    {
+      "word": "annually",
+      "start": 14.1,
+      "end": 14.44
+    },
+    {
+      "word": "for",
+      "start": 14.44,
+      "end": 14.78
+    },
+    {
+      "word": "basic",
+      "start": 14.78,
+      "end": 15.12
+    },
+    {
+      "word": "hosting.",
+      "start": 15.12,
+      "end": 15.58
+    },
+    {
+      "word": "Ghost",
+      "start": 16.4,
+      "end": 16.46
+    },
+    {
+      "word": "Pro",
+      "start": 16.46,
+      "end": 16.74
+    },
+    {
+      "word": "runs",
+      "start": 16.74,
+      "end": 17.06
+    },
+    {
+      "word": "that",
+      "start": 17.06,
+      "end": 17.36
+    },
+    {
+      "word": "exact",
+      "start": 17.36,
+      "end": 17.72
+    },
+    {
+      "word": "list",
+      "start": 17.72,
+      "end": 17.96
+    },
+    {
+      "word": "for",
+      "start": 17.96,
+      "end": 18.3
+    },
+    {
+      "word": "$25",
+      "start": 18.3,
+      "end": 18.82
+    },
+    {
+      "word": "monthly",
+      "start": 18.82,
+      "end": 19.42
+    },
+    {
+      "word": "with",
+      "start": 19.42,
+      "end": 19.84
+    },
+    {
+      "word": "direct",
+      "start": 19.84,
+      "end": 20.18
+    },
+    {
+      "word": "stripe",
+      "start": 20.18,
+      "end": 20.54
+    },
+    {
+      "word": "payouts.",
+      "start": 20.54,
+      "end": 21.0
+    },
+    {
+      "word": "You",
+      "start": 21.0,
+      "end": 21.6
+    },
+    {
+      "word": "save",
+      "start": 21.6,
+      "end": 21.82
+    },
+    {
+      "word": "over",
+      "start": 21.82,
+      "end": 22.06
+    },
+    {
+      "word": "$11",
+      "start": 22.06,
+      "end": 22.48
+    },
+    {
+      "word": ",000",
+      "start": 22.48,
+      "end": 23.24
+    },
+    {
+      "word": "every",
+      "start": 23.24,
+      "end": 23.58
+    },
+    {
+      "word": "single",
+      "start": 23.58,
+      "end": 23.84
+    },
+    {
+      "word": "year.",
+      "start": 23.84,
+      "end": 24.18
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "How much money you lose by staying on Substack past 1,000 paid subscribers.",
+      "line2": "GHOST VS SUBSTACK",
+      "tag": "\ud83d\uded1 Ghost vs Substack",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Ghost vs Substack",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Ghost vs Substack",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Ghost vs Substack",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

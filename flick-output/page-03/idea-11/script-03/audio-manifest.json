@@ -1,0 +1,381 @@
+{
+  "page": "page-03",
+  "idea": "Automated dropshipping inventory sync to prevent selling out-of-stock items",
+  "text": "Stop issuing angry refunds to disappointed customers. Taking customer money for unavailable inventory destroys your brand reputation and triggers payment processor holds. Spreadsheets and late-night manual checks cannot keep up with fluctuating warehouse inventory across multiple suppliers. Instead, build an automated inventory webhook using Make that pauses Shopify product variants whenever supplier stock hits zero. You keep your customer dispute rate near zero.",
+  "duration": 29.263,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "issuing",
+      "start": 0.44,
+      "end": 0.84
+    },
+    {
+      "word": "angry",
+      "start": 0.84,
+      "end": 1.26
+    },
+    {
+      "word": "refunds",
+      "start": 1.26,
+      "end": 1.6
+    },
+    {
+      "word": "to",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "word": "disappointed",
+      "start": 2.0,
+      "end": 2.44
+    },
+    {
+      "word": "customers.",
+      "start": 2.44,
+      "end": 3.14
+    },
+    {
+      "word": "Taking",
+      "start": 3.88,
+      "end": 3.98
+    },
+    {
+      "word": "customer",
+      "start": 3.98,
+      "end": 4.44
+    },
+    {
+      "word": "money",
+      "start": 4.44,
+      "end": 4.82
+    },
+    {
+      "word": "for",
+      "start": 4.82,
+      "end": 5.16
+    },
+    {
+      "word": "unavailable",
+      "start": 5.16,
+      "end": 5.62
+    },
+    {
+      "word": "inventory",
+      "start": 5.62,
+      "end": 6.34
+    },
+    {
+      "word": "destroys",
+      "start": 6.34,
+      "end": 6.98
+    },
+    {
+      "word": "your",
+      "start": 6.98,
+      "end": 7.32
+    },
+    {
+      "word": "brand",
+      "start": 7.32,
+      "end": 7.62
+    },
+    {
+      "word": "reputation",
+      "start": 7.62,
+      "end": 8.24
+    },
+    {
+      "word": "and",
+      "start": 8.24,
+      "end": 8.84
+    },
+    {
+      "word": "triggers",
+      "start": 8.84,
+      "end": 9.16
+    },
+    {
+      "word": "payment",
+      "start": 9.16,
+      "end": 9.54
+    },
+    {
+      "word": "processor",
+      "start": 9.54,
+      "end": 10.06
+    },
+    {
+      "word": "holds.",
+      "start": 10.06,
+      "end": 10.56
+    },
+    {
+      "word": "Spreadsheets",
+      "start": 11.22,
+      "end": 11.74
+    },
+    {
+      "word": "and",
+      "start": 11.74,
+      "end": 12.08
+    },
+    {
+      "word": "late",
+      "start": 12.08,
+      "end": 12.32
+    },
+    {
+      "word": "night",
+      "start": 12.32,
+      "end": 12.66
+    },
+    {
+      "word": "manual",
+      "start": 12.66,
+      "end": 13.04
+    },
+    {
+      "word": "checks",
+      "start": 13.04,
+      "end": 13.42
+    },
+    {
+      "word": "cannot",
+      "start": 13.42,
+      "end": 13.94
+    },
+    {
+      "word": "keep",
+      "start": 13.94,
+      "end": 14.2
+    },
+    {
+      "word": "up",
+      "start": 14.2,
+      "end": 14.4
+    },
+    {
+      "word": "with",
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "word": "fluctuating",
+      "start": 14.64,
+      "end": 15.2
+    },
+    {
+      "word": "warehouse",
+      "start": 15.2,
+      "end": 15.68
+    },
+    {
+      "word": "inventory",
+      "start": 15.68,
+      "end": 16.26
+    },
+    {
+      "word": "across",
+      "start": 16.26,
+      "end": 16.86
+    },
+    {
+      "word": "multiple",
+      "start": 16.86,
+      "end": 17.28
+    },
+    {
+      "word": "suppliers.",
+      "start": 17.28,
+      "end": 17.88
+    },
+    {
+      "word": "Instead,",
+      "start": 18.54,
+      "end": 18.8
+    },
+    {
+      "word": "build",
+      "start": 19.12,
+      "end": 19.14
+    },
+    {
+      "word": "an",
+      "start": 19.14,
+      "end": 19.84
+    },
+    {
+      "word": "automated",
+      "start": 19.84,
+      "end": 19.84
+    },
+    {
+      "word": "inventory",
+      "start": 19.84,
+      "end": 20.46
+    },
+    {
+      "word": "webhook",
+      "start": 20.46,
+      "end": 21.04
+    },
+    {
+      "word": "using",
+      "start": 21.04,
+      "end": 21.46
+    },
+    {
+      "word": "make",
+      "start": 21.46,
+      "end": 21.74
+    },
+    {
+      "word": "that",
+      "start": 21.74,
+      "end": 22.04
+    },
+    {
+      "word": "pauses",
+      "start": 22.04,
+      "end": 22.42
+    },
+    {
+      "word": "Shopify",
+      "start": 22.42,
+      "end": 23.06
+    },
+    {
+      "word": "product",
+      "start": 23.06,
+      "end": 23.46
+    },
+    {
+      "word": "variance",
+      "start": 23.46,
+      "end": 23.92
+    },
+    {
+      "word": "whenever",
+      "start": 23.92,
+      "end": 24.6
+    },
+    {
+      "word": "supplier",
+      "start": 24.6,
+      "end": 25.18
+    },
+    {
+      "word": "stock",
+      "start": 25.18,
+      "end": 25.54
+    },
+    {
+      "word": "hits",
+      "start": 25.54,
+      "end": 25.84
+    },
+    {
+      "word": "zero.",
+      "start": 25.84,
+      "end": 26.32
+    },
+    {
+      "word": "You",
+      "start": 26.32,
+      "end": 26.96
+    },
+    {
+      "word": "keep",
+      "start": 26.96,
+      "end": 27.14
+    },
+    {
+      "word": "your",
+      "start": 27.14,
+      "end": 27.76
+    },
+    {
+      "word": "customer",
+      "start": 27.76,
+      "end": 27.76
+    },
+    {
+      "word": "dispute",
+      "start": 27.76,
+      "end": 28.26
+    },
+    {
+      "word": "rate",
+      "start": 28.26,
+      "end": 28.54
+    },
+    {
+      "word": "near",
+      "start": 28.54,
+      "end": 28.8
+    },
+    {
+      "word": "zero.",
+      "start": 28.8,
+      "end": 29.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Stop issuing angry refunds to disappointed customers.",
+      "line2": "SYNC DROPSHIP INVENTORY",
+      "tag": "\ud83d\uded1 Automated dropshipping inventory sync to prevent selling out-of-stock items",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated dropshipping inventory sync to prevent selling out-of-stock items",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated dropshipping inventory sync to prevent selling out-of-stock items",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated dropshipping inventory sync to prevent selling out-of-stock items",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

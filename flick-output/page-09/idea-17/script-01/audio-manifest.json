@@ -1,0 +1,391 @@
+{
+  "page": "page-09",
+  "idea": "Ghost vs Substack: which platform is better for building a media business",
+  "text": "Ghost versus Substack: where should you host your paid newsletter publication? Substack makes publishing simple, but surrendering ten percent of subscriber revenue hurts as your list scales. Crossing five thousand dollars monthly means losing six thousand dollars yearly on basic platform commissions. Ghost connects directly to Stripe with zero take-rate fees on a predictable flat monthly plan. You protect your profit margins while retaining full audience ownership.",
+  "duration": 25.365,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Ghost",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "vs.",
+      "start": 0.36,
+      "end": 0.66
+    },
+    {
+      "word": "Substack,",
+      "start": 0.84,
+      "end": 1.22
+    },
+    {
+      "word": "where",
+      "start": 1.62,
+      "end": 1.74
+    },
+    {
+      "word": "should",
+      "start": 1.74,
+      "end": 1.86
+    },
+    {
+      "word": "you",
+      "start": 1.86,
+      "end": 2.04
+    },
+    {
+      "word": "host",
+      "start": 2.04,
+      "end": 2.22
+    },
+    {
+      "word": "your",
+      "start": 2.22,
+      "end": 2.46
+    },
+    {
+      "word": "paid",
+      "start": 2.46,
+      "end": 2.66
+    },
+    {
+      "word": "newsletter",
+      "start": 2.66,
+      "end": 3.06
+    },
+    {
+      "word": "publication?",
+      "start": 3.06,
+      "end": 3.72
+    },
+    {
+      "word": "Substack",
+      "start": 4.4,
+      "end": 4.64
+    },
+    {
+      "word": "makes",
+      "start": 4.64,
+      "end": 4.94
+    },
+    {
+      "word": "publishing",
+      "start": 4.94,
+      "end": 5.26
+    },
+    {
+      "word": "simple,",
+      "start": 5.26,
+      "end": 5.74
+    },
+    {
+      "word": "but",
+      "start": 6.02,
+      "end": 6.1
+    },
+    {
+      "word": "surrendering",
+      "start": 6.1,
+      "end": 6.52
+    },
+    {
+      "word": "10",
+      "start": 6.52,
+      "end": 6.84
+    },
+    {
+      "word": "%",
+      "start": 6.84,
+      "end": 7.1
+    },
+    {
+      "word": "of",
+      "start": 7.1,
+      "end": 7.26
+    },
+    {
+      "word": "subscriber",
+      "start": 7.26,
+      "end": 7.76
+    },
+    {
+      "word": "revenue",
+      "start": 7.76,
+      "end": 8.12
+    },
+    {
+      "word": "hurts",
+      "start": 8.12,
+      "end": 8.38
+    },
+    {
+      "word": "as",
+      "start": 8.38,
+      "end": 8.6
+    },
+    {
+      "word": "your",
+      "start": 8.6,
+      "end": 8.74
+    },
+    {
+      "word": "list",
+      "start": 8.74,
+      "end": 8.96
+    },
+    {
+      "word": "scales.",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "word": "Crossing",
+      "start": 9.9,
+      "end": 10.16
+    },
+    {
+      "word": "$5",
+      "start": 10.16,
+      "end": 10.62
+    },
+    {
+      "word": ",000",
+      "start": 10.62,
+      "end": 11.2
+    },
+    {
+      "word": "monthly",
+      "start": 11.2,
+      "end": 11.5
+    },
+    {
+      "word": "means",
+      "start": 11.5,
+      "end": 11.9
+    },
+    {
+      "word": "losing",
+      "start": 11.9,
+      "end": 12.26
+    },
+    {
+      "word": "$6",
+      "start": 12.26,
+      "end": 12.64
+    },
+    {
+      "word": ",000",
+      "start": 12.64,
+      "end": 13.36
+    },
+    {
+      "word": "yearly",
+      "start": 13.36,
+      "end": 13.68
+    },
+    {
+      "word": "on",
+      "start": 13.68,
+      "end": 13.98
+    },
+    {
+      "word": "basic",
+      "start": 13.98,
+      "end": 14.34
+    },
+    {
+      "word": "platform",
+      "start": 14.34,
+      "end": 14.76
+    },
+    {
+      "word": "commissions.",
+      "start": 14.76,
+      "end": 15.3
+    },
+    {
+      "word": "Ghost",
+      "start": 15.9,
+      "end": 16.18
+    },
+    {
+      "word": "connects",
+      "start": 16.18,
+      "end": 16.54
+    },
+    {
+      "word": "directly",
+      "start": 16.54,
+      "end": 17.04
+    },
+    {
+      "word": "to",
+      "start": 17.04,
+      "end": 17.36
+    },
+    {
+      "word": "Stripe",
+      "start": 17.36,
+      "end": 17.62
+    },
+    {
+      "word": "with",
+      "start": 17.62,
+      "end": 17.86
+    },
+    {
+      "word": "zero",
+      "start": 17.86,
+      "end": 18.28
+    },
+    {
+      "word": "take",
+      "start": 18.28,
+      "end": 18.54
+    },
+    {
+      "word": "-rate",
+      "start": 18.54,
+      "end": 18.8
+    },
+    {
+      "word": "fees",
+      "start": 18.8,
+      "end": 19.2
+    },
+    {
+      "word": "on",
+      "start": 19.2,
+      "end": 19.46
+    },
+    {
+      "word": "a",
+      "start": 19.46,
+      "end": 19.9
+    },
+    {
+      "word": "predictable",
+      "start": 19.9,
+      "end": 19.92
+    },
+    {
+      "word": "flat",
+      "start": 19.92,
+      "end": 20.38
+    },
+    {
+      "word": "monthly",
+      "start": 20.38,
+      "end": 20.72
+    },
+    {
+      "word": "plan.",
+      "start": 20.72,
+      "end": 21.22
+    },
+    {
+      "word": "You",
+      "start": 21.22,
+      "end": 21.76
+    },
+    {
+      "word": "protect",
+      "start": 21.76,
+      "end": 22.08
+    },
+    {
+      "word": "your",
+      "start": 22.08,
+      "end": 22.48
+    },
+    {
+      "word": "profit",
+      "start": 22.48,
+      "end": 22.62
+    },
+    {
+      "word": "margins",
+      "start": 22.62,
+      "end": 23.08
+    },
+    {
+      "word": "while",
+      "start": 23.08,
+      "end": 23.62
+    },
+    {
+      "word": "retaining",
+      "start": 23.62,
+      "end": 24.04
+    },
+    {
+      "word": "full",
+      "start": 24.04,
+      "end": 24.52
+    },
+    {
+      "word": "audience",
+      "start": 24.52,
+      "end": 24.9
+    },
+    {
+      "word": "ownership.",
+      "start": 24.9,
+      "end": 25.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Ghost vs Substack: where should you host your paid newsletter publication?",
+      "line2": "GHOST VS SUBSTACK",
+      "tag": "\ud83d\uded1 Ghost vs Substack",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Ghost vs Substack",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Ghost vs Substack",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Ghost vs Substack"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Ghost vs Substack",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

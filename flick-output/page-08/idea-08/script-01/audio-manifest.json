@@ -1,0 +1,401 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to bookmark managers that save tabs across all devices",
+  "text": "If you currently have forty open browser tabs slowing down your laptop, stop right now. Keeping dozens of links open across messy windows makes your computer lag and overheat. Leaving tabs open as reminders creates constant distraction and risks losing research during sudden browser crashes. Instead, install Raindrop or Toby to save all open tabs into structured collections with one click. You free up gigabytes of memory immediately.",
+  "duration": 25.685,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "you",
+      "start": 0.2,
+      "end": 0.32
+    },
+    {
+      "word": "currently",
+      "start": 0.32,
+      "end": 0.58
+    },
+    {
+      "word": "have",
+      "start": 0.58,
+      "end": 0.92
+    },
+    {
+      "word": "40",
+      "start": 0.92,
+      "end": 1.16
+    },
+    {
+      "word": "open",
+      "start": 1.16,
+      "end": 1.52
+    },
+    {
+      "word": "browser",
+      "start": 1.52,
+      "end": 1.8
+    },
+    {
+      "word": "tabs",
+      "start": 1.8,
+      "end": 2.18
+    },
+    {
+      "word": "slowing",
+      "start": 2.18,
+      "end": 2.48
+    },
+    {
+      "word": "down",
+      "start": 2.48,
+      "end": 2.74
+    },
+    {
+      "word": "your",
+      "start": 2.74,
+      "end": 3.5
+    },
+    {
+      "word": "laptop,",
+      "start": 3.5,
+      "end": 3.5
+    },
+    {
+      "word": "stop",
+      "start": 3.76,
+      "end": 4.08
+    },
+    {
+      "word": "right",
+      "start": 4.08,
+      "end": 4.34
+    },
+    {
+      "word": "now.",
+      "start": 4.34,
+      "end": 4.88
+    },
+    {
+      "word": "Keeping",
+      "start": 5.2,
+      "end": 5.3
+    },
+    {
+      "word": "dozens",
+      "start": 5.3,
+      "end": 5.66
+    },
+    {
+      "word": "of",
+      "start": 5.66,
+      "end": 5.86
+    },
+    {
+      "word": "links",
+      "start": 5.86,
+      "end": 6.08
+    },
+    {
+      "word": "open",
+      "start": 6.08,
+      "end": 6.34
+    },
+    {
+      "word": "across",
+      "start": 6.34,
+      "end": 6.72
+    },
+    {
+      "word": "messy",
+      "start": 6.72,
+      "end": 6.96
+    },
+    {
+      "word": "windows",
+      "start": 6.96,
+      "end": 7.36
+    },
+    {
+      "word": "makes",
+      "start": 7.36,
+      "end": 7.7
+    },
+    {
+      "word": "your",
+      "start": 7.7,
+      "end": 7.92
+    },
+    {
+      "word": "computer",
+      "start": 7.92,
+      "end": 8.26
+    },
+    {
+      "word": "lag",
+      "start": 8.26,
+      "end": 8.54
+    },
+    {
+      "word": "and",
+      "start": 8.54,
+      "end": 8.74
+    },
+    {
+      "word": "overheat.",
+      "start": 8.74,
+      "end": 9.42
+    },
+    {
+      "word": "Leaving",
+      "start": 9.92,
+      "end": 9.94
+    },
+    {
+      "word": "tabs",
+      "start": 9.94,
+      "end": 10.3
+    },
+    {
+      "word": "open",
+      "start": 10.3,
+      "end": 10.62
+    },
+    {
+      "word": "as",
+      "start": 10.62,
+      "end": 10.86
+    },
+    {
+      "word": "reminders",
+      "start": 10.86,
+      "end": 11.28
+    },
+    {
+      "word": "creates",
+      "start": 11.28,
+      "end": 11.98
+    },
+    {
+      "word": "constant",
+      "start": 11.98,
+      "end": 12.38
+    },
+    {
+      "word": "distraction",
+      "start": 12.38,
+      "end": 12.94
+    },
+    {
+      "word": "and",
+      "start": 12.94,
+      "end": 13.52
+    },
+    {
+      "word": "risks",
+      "start": 13.52,
+      "end": 13.7
+    },
+    {
+      "word": "losing",
+      "start": 13.7,
+      "end": 14.08
+    },
+    {
+      "word": "research",
+      "start": 14.08,
+      "end": 14.48
+    },
+    {
+      "word": "during",
+      "start": 14.48,
+      "end": 14.92
+    },
+    {
+      "word": "sudden",
+      "start": 14.92,
+      "end": 15.24
+    },
+    {
+      "word": "browser",
+      "start": 15.24,
+      "end": 15.62
+    },
+    {
+      "word": "crashes.",
+      "start": 15.62,
+      "end": 16.16
+    },
+    {
+      "word": "Instead,",
+      "start": 16.84,
+      "end": 17.18
+    },
+    {
+      "word": "install",
+      "start": 18.0,
+      "end": 18.04
+    },
+    {
+      "word": "Raindrop",
+      "start": 18.04,
+      "end": 18.54
+    },
+    {
+      "word": "or",
+      "start": 18.54,
+      "end": 18.84
+    },
+    {
+      "word": "Toby",
+      "start": 18.84,
+      "end": 19.14
+    },
+    {
+      "word": "to",
+      "start": 19.14,
+      "end": 19.54
+    },
+    {
+      "word": "save",
+      "start": 19.54,
+      "end": 19.74
+    },
+    {
+      "word": "all",
+      "start": 19.74,
+      "end": 20.16
+    },
+    {
+      "word": "open",
+      "start": 20.16,
+      "end": 20.48
+    },
+    {
+      "word": "tabs",
+      "start": 20.48,
+      "end": 20.84
+    },
+    {
+      "word": "into",
+      "start": 20.84,
+      "end": 21.16
+    },
+    {
+      "word": "structured",
+      "start": 21.16,
+      "end": 21.54
+    },
+    {
+      "word": "collections",
+      "start": 21.54,
+      "end": 22.12
+    },
+    {
+      "word": "with",
+      "start": 22.12,
+      "end": 22.46
+    },
+    {
+      "word": "one",
+      "start": 22.46,
+      "end": 22.72
+    },
+    {
+      "word": "click.",
+      "start": 22.72,
+      "end": 23.0
+    },
+    {
+      "word": "You",
+      "start": 23.54,
+      "end": 23.72
+    },
+    {
+      "word": "free",
+      "start": 23.72,
+      "end": 23.86
+    },
+    {
+      "word": "up",
+      "start": 23.86,
+      "end": 24.12
+    },
+    {
+      "word": "gigabytes",
+      "start": 24.12,
+      "end": 24.46
+    },
+    {
+      "word": "of",
+      "start": 24.46,
+      "end": 24.76
+    },
+    {
+      "word": "memory",
+      "start": 24.76,
+      "end": 25.02
+    },
+    {
+      "word": "immediately.",
+      "start": 25.02,
+      "end": 25.56
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "If you currently have 47 open browser tabs slowing down your laptop, stop right now.",
+      "line2": "SAVE TABS ACROSS DEVICES",
+      "tag": "\ud83d\uded1 Beginner guide to bookmark managers that save tabs across all devices",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to bookmark managers that save tabs across all devices",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to bookmark managers that save tabs across all devices",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to bookmark managers that save tabs across all devices",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

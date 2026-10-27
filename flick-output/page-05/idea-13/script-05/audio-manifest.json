@@ -1,0 +1,401 @@
+{
+  "page": "page-05",
+  "idea": "Tally forms integrated with Discord webhooks for instant community alerts",
+  "text": "Connect Tally forms to Discord or Slack in less than two minutes flat. Remote teams waste time checking form tabs, causing customer inquiries to sit unread for hours. Relying on inbox refreshes guarantees critical support tickets get buried during peak workday traffic. Simply paste your channel incoming webhook into Tally to broadcast new submissions with structured data fields. Your team resolves inquiries instantly with zero manual triage.",
+  "duration": 26.091,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Connect",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "tally",
+      "start": 0.42,
+      "end": 0.7
+    },
+    {
+      "word": "forms",
+      "start": 0.7,
+      "end": 0.98
+    },
+    {
+      "word": "to",
+      "start": 0.98,
+      "end": 1.22
+    },
+    {
+      "word": "Discord",
+      "start": 1.22,
+      "end": 1.56
+    },
+    {
+      "word": "or",
+      "start": 1.56,
+      "end": 1.94
+    },
+    {
+      "word": "Slack",
+      "start": 1.94,
+      "end": 2.18
+    },
+    {
+      "word": "in",
+      "start": 2.18,
+      "end": 2.36
+    },
+    {
+      "word": "less",
+      "start": 2.36,
+      "end": 2.58
+    },
+    {
+      "word": "than",
+      "start": 2.58,
+      "end": 2.76
+    },
+    {
+      "word": "two",
+      "start": 2.76,
+      "end": 2.94
+    },
+    {
+      "word": "minutes",
+      "start": 2.94,
+      "end": 3.2
+    },
+    {
+      "word": "flat.",
+      "start": 3.2,
+      "end": 3.72
+    },
+    {
+      "word": "Remote",
+      "start": 4.36,
+      "end": 4.36
+    },
+    {
+      "word": "Teams",
+      "start": 4.36,
+      "end": 4.72
+    },
+    {
+      "word": "waste",
+      "start": 4.72,
+      "end": 5.04
+    },
+    {
+      "word": "time",
+      "start": 5.04,
+      "end": 5.46
+    },
+    {
+      "word": "checking",
+      "start": 5.46,
+      "end": 5.78
+    },
+    {
+      "word": "form",
+      "start": 5.78,
+      "end": 6.12
+    },
+    {
+      "word": "tabs,",
+      "start": 6.12,
+      "end": 6.48
+    },
+    {
+      "word": "causing",
+      "start": 6.94,
+      "end": 7.14
+    },
+    {
+      "word": "customer",
+      "start": 7.14,
+      "end": 7.56
+    },
+    {
+      "word": "inquiries",
+      "start": 7.56,
+      "end": 7.92
+    },
+    {
+      "word": "to",
+      "start": 7.92,
+      "end": 8.18
+    },
+    {
+      "word": "sit",
+      "start": 8.18,
+      "end": 8.3
+    },
+    {
+      "word": "on",
+      "start": 8.3,
+      "end": 8.48
+    },
+    {
+      "word": "red",
+      "start": 8.48,
+      "end": 8.64
+    },
+    {
+      "word": "for",
+      "start": 8.64,
+      "end": 8.88
+    },
+    {
+      "word": "hours.",
+      "start": 8.88,
+      "end": 9.3
+    },
+    {
+      "word": "Relying",
+      "start": 9.86,
+      "end": 10.16
+    },
+    {
+      "word": "on",
+      "start": 10.16,
+      "end": 10.36
+    },
+    {
+      "word": "inbox",
+      "start": 10.36,
+      "end": 10.72
+    },
+    {
+      "word": "refreshes,",
+      "start": 10.72,
+      "end": 11.66
+    },
+    {
+      "word": "guarantees",
+      "start": 11.74,
+      "end": 12.1
+    },
+    {
+      "word": "critical",
+      "start": 12.1,
+      "end": 12.7
+    },
+    {
+      "word": "support",
+      "start": 12.7,
+      "end": 13.12
+    },
+    {
+      "word": "tickets",
+      "start": 13.12,
+      "end": 13.42
+    },
+    {
+      "word": "get",
+      "start": 13.42,
+      "end": 13.8
+    },
+    {
+      "word": "buried",
+      "start": 13.8,
+      "end": 14.0
+    },
+    {
+      "word": "during",
+      "start": 14.0,
+      "end": 14.44
+    },
+    {
+      "word": "peak",
+      "start": 14.44,
+      "end": 14.72
+    },
+    {
+      "word": "workday",
+      "start": 14.72,
+      "end": 15.12
+    },
+    {
+      "word": "traffic.",
+      "start": 15.12,
+      "end": 15.54
+    },
+    {
+      "word": "Simply",
+      "start": 16.02,
+      "end": 16.32
+    },
+    {
+      "word": "paste",
+      "start": 16.32,
+      "end": 16.62
+    },
+    {
+      "word": "your",
+      "start": 16.62,
+      "end": 16.9
+    },
+    {
+      "word": "channel",
+      "start": 16.9,
+      "end": 17.16
+    },
+    {
+      "word": "incoming",
+      "start": 17.16,
+      "end": 17.66
+    },
+    {
+      "word": "webhook",
+      "start": 17.66,
+      "end": 18.08
+    },
+    {
+      "word": "into",
+      "start": 18.08,
+      "end": 18.3
+    },
+    {
+      "word": "tally",
+      "start": 18.3,
+      "end": 18.64
+    },
+    {
+      "word": "to",
+      "start": 18.64,
+      "end": 19.12
+    },
+    {
+      "word": "broadcast",
+      "start": 19.12,
+      "end": 19.46
+    },
+    {
+      "word": "new",
+      "start": 19.46,
+      "end": 19.94
+    },
+    {
+      "word": "submissions",
+      "start": 19.94,
+      "end": 20.42
+    },
+    {
+      "word": "with",
+      "start": 20.42,
+      "end": 20.8
+    },
+    {
+      "word": "structured",
+      "start": 20.8,
+      "end": 21.18
+    },
+    {
+      "word": "data",
+      "start": 21.18,
+      "end": 21.44
+    },
+    {
+      "word": "fields.",
+      "start": 21.44,
+      "end": 21.92
+    },
+    {
+      "word": "Your",
+      "start": 22.48,
+      "end": 22.62
+    },
+    {
+      "word": "team",
+      "start": 22.62,
+      "end": 22.92
+    },
+    {
+      "word": "resolves",
+      "start": 22.92,
+      "end": 23.38
+    },
+    {
+      "word": "inquiries",
+      "start": 23.38,
+      "end": 23.86
+    },
+    {
+      "word": "instantly",
+      "start": 23.86,
+      "end": 24.32
+    },
+    {
+      "word": "with",
+      "start": 24.32,
+      "end": 24.64
+    },
+    {
+      "word": "zero",
+      "start": 24.64,
+      "end": 25.06
+    },
+    {
+      "word": "manual",
+      "start": 25.06,
+      "end": 25.5
+    },
+    {
+      "word": "triage.",
+      "start": 25.5,
+      "end": 26.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Connect Tally forms to Discord or Slack in less than 2 minutes.",
+      "line2": "INSTANT DISCORD ALERTS",
+      "tag": "\ud83d\uded1 Tally forms integrated with Discord webhooks for instant community alerts",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Tally forms integrated with Discord webhooks for instant community alerts",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Tally forms integrated with Discord webhooks for instant community alerts",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

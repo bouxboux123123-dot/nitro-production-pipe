@@ -1,0 +1,436 @@
+{
+  "page": "page-03",
+  "idea": "Automated abandoned cart recovery sequence that reclaims lost sales",
+  "text": "Set up this automated recovery campaign once and profit forever. Letting half-completed orders vanish into the void forces you to spend double on customer acquisition just to break even. Without persistent cart tracking, high-intent shoppers forget your brand before they ever reach the confirmation receipt. Link your Shopify or Stripe store to Omnisend to fire automated SMS and email reminders with one-click restore URLs. You turn abandoned checkouts into predictable recurring revenue.",
+  "duration": 29.967,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Set",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "up",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "word": "this",
+      "start": 0.44,
+      "end": 0.74
+    },
+    {
+      "word": "automated",
+      "start": 0.74,
+      "end": 1.16
+    },
+    {
+      "word": "recovery",
+      "start": 1.16,
+      "end": 1.58
+    },
+    {
+      "word": "campaign",
+      "start": 1.58,
+      "end": 2.14
+    },
+    {
+      "word": "once",
+      "start": 2.14,
+      "end": 2.6
+    },
+    {
+      "word": "and",
+      "start": 2.6,
+      "end": 2.8
+    },
+    {
+      "word": "profit",
+      "start": 2.8,
+      "end": 3.06
+    },
+    {
+      "word": "forever.",
+      "start": 3.06,
+      "end": 3.74
+    },
+    {
+      "word": "Letting",
+      "start": 4.2,
+      "end": 4.4
+    },
+    {
+      "word": "half",
+      "start": 4.4,
+      "end": 4.68
+    },
+    {
+      "word": "-completed",
+      "start": 4.68,
+      "end": 5.06
+    },
+    {
+      "word": "orders",
+      "start": 5.06,
+      "end": 5.56
+    },
+    {
+      "word": "vanish",
+      "start": 5.56,
+      "end": 5.9
+    },
+    {
+      "word": "into",
+      "start": 5.9,
+      "end": 6.12
+    },
+    {
+      "word": "the",
+      "start": 6.12,
+      "end": 6.34
+    },
+    {
+      "word": "void",
+      "start": 6.34,
+      "end": 6.54
+    },
+    {
+      "word": "forces",
+      "start": 6.54,
+      "end": 6.92
+    },
+    {
+      "word": "you",
+      "start": 6.92,
+      "end": 7.22
+    },
+    {
+      "word": "to",
+      "start": 7.22,
+      "end": 7.4
+    },
+    {
+      "word": "spend",
+      "start": 7.4,
+      "end": 7.66
+    },
+    {
+      "word": "double",
+      "start": 7.66,
+      "end": 8.0
+    },
+    {
+      "word": "on",
+      "start": 8.0,
+      "end": 8.28
+    },
+    {
+      "word": "customer",
+      "start": 8.28,
+      "end": 8.66
+    },
+    {
+      "word": "acquisition",
+      "start": 8.66,
+      "end": 9.22
+    },
+    {
+      "word": "just",
+      "start": 9.22,
+      "end": 9.94
+    },
+    {
+      "word": "to",
+      "start": 9.94,
+      "end": 10.1
+    },
+    {
+      "word": "break",
+      "start": 10.1,
+      "end": 10.42
+    },
+    {
+      "word": "even.",
+      "start": 10.42,
+      "end": 10.78
+    },
+    {
+      "word": "Without",
+      "start": 11.38,
+      "end": 11.68
+    },
+    {
+      "word": "persistent",
+      "start": 11.68,
+      "end": 12.22
+    },
+    {
+      "word": "cart",
+      "start": 12.22,
+      "end": 12.52
+    },
+    {
+      "word": "tracking,",
+      "start": 12.52,
+      "end": 12.88
+    },
+    {
+      "word": "high",
+      "start": 13.42,
+      "end": 13.66
+    },
+    {
+      "word": "-intense",
+      "start": 13.66,
+      "end": 13.98
+    },
+    {
+      "word": "shoppers",
+      "start": 13.98,
+      "end": 14.34
+    },
+    {
+      "word": "forget",
+      "start": 14.34,
+      "end": 14.64
+    },
+    {
+      "word": "your",
+      "start": 14.64,
+      "end": 14.9
+    },
+    {
+      "word": "brand",
+      "start": 14.9,
+      "end": 15.26
+    },
+    {
+      "word": "before",
+      "start": 15.26,
+      "end": 15.56
+    },
+    {
+      "word": "they",
+      "start": 15.56,
+      "end": 15.84
+    },
+    {
+      "word": "ever",
+      "start": 15.84,
+      "end": 16.08
+    },
+    {
+      "word": "reach",
+      "start": 16.08,
+      "end": 16.32
+    },
+    {
+      "word": "the",
+      "start": 16.32,
+      "end": 16.76
+    },
+    {
+      "word": "confirmation",
+      "start": 16.76,
+      "end": 16.96
+    },
+    {
+      "word": "receipt.",
+      "start": 16.96,
+      "end": 17.6
+    },
+    {
+      "word": "Link",
+      "start": 18.0,
+      "end": 18.04
+    },
+    {
+      "word": "your",
+      "start": 18.04,
+      "end": 18.3
+    },
+    {
+      "word": "Shopify",
+      "start": 18.3,
+      "end": 18.82
+    },
+    {
+      "word": "or",
+      "start": 18.82,
+      "end": 19.2
+    },
+    {
+      "word": "Stripe",
+      "start": 19.2,
+      "end": 19.56
+    },
+    {
+      "word": "store",
+      "start": 19.56,
+      "end": 19.8
+    },
+    {
+      "word": "to",
+      "start": 19.8,
+      "end": 20.1
+    },
+    {
+      "word": "omnisend",
+      "start": 20.1,
+      "end": 20.6
+    },
+    {
+      "word": "to",
+      "start": 20.6,
+      "end": 20.82
+    },
+    {
+      "word": "fire",
+      "start": 20.82,
+      "end": 21.22
+    },
+    {
+      "word": "automated",
+      "start": 21.22,
+      "end": 21.72
+    },
+    {
+      "word": "SMS",
+      "start": 21.72,
+      "end": 22.24
+    },
+    {
+      "word": "and",
+      "start": 22.24,
+      "end": 22.9
+    },
+    {
+      "word": "email",
+      "start": 22.9,
+      "end": 23.26
+    },
+    {
+      "word": "reminders",
+      "start": 23.26,
+      "end": 23.72
+    },
+    {
+      "word": "with",
+      "start": 23.72,
+      "end": 24.48
+    },
+    {
+      "word": "one",
+      "start": 24.48,
+      "end": 24.78
+    },
+    {
+      "word": "-click",
+      "start": 24.78,
+      "end": 25.0
+    },
+    {
+      "word": "restore",
+      "start": 25.0,
+      "end": 25.5
+    },
+    {
+      "word": "URLs.",
+      "start": 25.5,
+      "end": 26.12
+    },
+    {
+      "word": "You",
+      "start": 26.12,
+      "end": 26.92
+    },
+    {
+      "word": "turn",
+      "start": 26.92,
+      "end": 27.14
+    },
+    {
+      "word": "abandoned",
+      "start": 27.14,
+      "end": 27.62
+    },
+    {
+      "word": "checkouts",
+      "start": 27.62,
+      "end": 28.18
+    },
+    {
+      "word": "into",
+      "start": 28.18,
+      "end": 28.46
+    },
+    {
+      "word": "predictable",
+      "start": 28.46,
+      "end": 28.94
+    },
+    {
+      "word": "recurring",
+      "start": 28.94,
+      "end": 29.5
+    },
+    {
+      "word": "revenue.",
+      "start": 29.5,
+      "end": 29.86
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "Set up this automated recovery campaign once and profit forever.",
+      "line2": "RECLAIM LOST SALES",
+      "tag": "\ud83d\uded1 Automated abandoned cart recovery sequence that reclaims lost sales",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Automated Digital Checkout: Automated abandoned cart recovery sequence that reclaims lost sales",
+      "primitive": "GumroadSaleNotification",
+      "props": {
+        "title": "Automated Digital Checkout: Automated abandoned cart recovery sequence that reclaims lost sales",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Abandoned Cart Recovery Trigger",
+      "primitive": "AbandonedCartSequence",
+      "props": {
+        "title": "Abandoned Cart Recovery Trigger",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Channel Inventory Sync",
+      "primitive": "InventorySyncBridge",
+      "props": {
+        "title": "Multi-Channel Inventory Sync",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Encrypted Vault Asset Delivery",
+      "primitive": "DigitalAssetVaultDelivery",
+      "props": {
+        "title": "Encrypted Vault Asset Delivery",
+        "subtitle": "Automated abandoned cart recovery sequence that reclaims lost sales",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

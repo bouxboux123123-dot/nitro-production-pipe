@@ -1,0 +1,411 @@
+{
+  "page": "page-04",
+  "idea": "Krita: free open-source digital painting and graphics tool",
+  "text": "Open, edit, and export layered graphics without paying a recurring subscription. Getting a layered PSD from a client when you lack a Photoshop license halts your project immediately. Basic image viewers flatten graphic layers into static bitmaps, preventing you from adjusting typography or isolating graphics. Krita opens complex PSD files, preserving transparent layers, blending modes, and filter masks for seamless editing. You handle demanding client deliverables without costly software subscriptions.",
+  "duration": 31.119,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Open,",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "edit,",
+      "start": 0.56,
+      "end": 0.78
+    },
+    {
+      "word": "and",
+      "start": 0.96,
+      "end": 1.3
+    },
+    {
+      "word": "export",
+      "start": 1.3,
+      "end": 1.66
+    },
+    {
+      "word": "layered",
+      "start": 1.66,
+      "end": 1.98
+    },
+    {
+      "word": "graphics",
+      "start": 1.98,
+      "end": 2.4
+    },
+    {
+      "word": "without",
+      "start": 2.4,
+      "end": 2.8
+    },
+    {
+      "word": "paying",
+      "start": 2.8,
+      "end": 3.08
+    },
+    {
+      "word": "a",
+      "start": 3.08,
+      "end": 3.28
+    },
+    {
+      "word": "recurring",
+      "start": 3.28,
+      "end": 3.64
+    },
+    {
+      "word": "subscription.",
+      "start": 3.64,
+      "end": 4.46
+    },
+    {
+      "word": "Getting",
+      "start": 5.04,
+      "end": 5.08
+    },
+    {
+      "word": "a",
+      "start": 5.08,
+      "end": 5.32
+    },
+    {
+      "word": "layered",
+      "start": 5.32,
+      "end": 5.64
+    },
+    {
+      "word": "PSD",
+      "start": 5.64,
+      "end": 6.26
+    },
+    {
+      "word": "from",
+      "start": 6.26,
+      "end": 6.46
+    },
+    {
+      "word": "a",
+      "start": 6.46,
+      "end": 6.58
+    },
+    {
+      "word": "client",
+      "start": 6.58,
+      "end": 6.84
+    },
+    {
+      "word": "when",
+      "start": 6.84,
+      "end": 7.04
+    },
+    {
+      "word": "you",
+      "start": 7.04,
+      "end": 7.16
+    },
+    {
+      "word": "lack",
+      "start": 7.16,
+      "end": 7.32
+    },
+    {
+      "word": "a",
+      "start": 7.32,
+      "end": 7.78
+    },
+    {
+      "word": "Photoshop",
+      "start": 7.78,
+      "end": 7.94
+    },
+    {
+      "word": "license",
+      "start": 7.94,
+      "end": 8.64
+    },
+    {
+      "word": "halts",
+      "start": 8.64,
+      "end": 9.16
+    },
+    {
+      "word": "your",
+      "start": 9.16,
+      "end": 9.44
+    },
+    {
+      "word": "project",
+      "start": 9.44,
+      "end": 9.86
+    },
+    {
+      "word": "immediately.",
+      "start": 9.86,
+      "end": 10.64
+    },
+    {
+      "word": "Basic",
+      "start": 11.5,
+      "end": 11.5
+    },
+    {
+      "word": "image",
+      "start": 11.5,
+      "end": 11.8
+    },
+    {
+      "word": "viewers",
+      "start": 11.8,
+      "end": 12.26
+    },
+    {
+      "word": "flatten",
+      "start": 12.26,
+      "end": 12.66
+    },
+    {
+      "word": "graphic",
+      "start": 12.66,
+      "end": 13.0
+    },
+    {
+      "word": "layers",
+      "start": 13.0,
+      "end": 13.34
+    },
+    {
+      "word": "into",
+      "start": 13.34,
+      "end": 13.62
+    },
+    {
+      "word": "static",
+      "start": 13.62,
+      "end": 14.02
+    },
+    {
+      "word": "bitmaps,",
+      "start": 14.02,
+      "end": 14.58
+    },
+    {
+      "word": "preventing",
+      "start": 14.96,
+      "end": 15.16
+    },
+    {
+      "word": "you",
+      "start": 15.16,
+      "end": 15.48
+    },
+    {
+      "word": "from",
+      "start": 15.48,
+      "end": 15.68
+    },
+    {
+      "word": "adjusting",
+      "start": 15.68,
+      "end": 16.14
+    },
+    {
+      "word": "typography",
+      "start": 16.14,
+      "end": 16.84
+    },
+    {
+      "word": "or",
+      "start": 16.84,
+      "end": 17.44
+    },
+    {
+      "word": "isolating",
+      "start": 17.44,
+      "end": 17.96
+    },
+    {
+      "word": "graphics.",
+      "start": 17.96,
+      "end": 18.56
+    },
+    {
+      "word": "Krita",
+      "start": 19.06,
+      "end": 19.26
+    },
+    {
+      "word": "opens",
+      "start": 19.26,
+      "end": 19.68
+    },
+    {
+      "word": "complex",
+      "start": 19.68,
+      "end": 20.22
+    },
+    {
+      "word": "PSD",
+      "start": 20.22,
+      "end": 20.9
+    },
+    {
+      "word": "files,",
+      "start": 20.9,
+      "end": 21.36
+    },
+    {
+      "word": "preserving",
+      "start": 21.78,
+      "end": 22.06
+    },
+    {
+      "word": "transparent",
+      "start": 22.06,
+      "end": 22.68
+    },
+    {
+      "word": "layers,",
+      "start": 22.68,
+      "end": 23.24
+    },
+    {
+      "word": "blending",
+      "start": 23.96,
+      "end": 23.96
+    },
+    {
+      "word": "modes,",
+      "start": 23.96,
+      "end": 24.38
+    },
+    {
+      "word": "and",
+      "start": 24.52,
+      "end": 24.88
+    },
+    {
+      "word": "filter",
+      "start": 24.88,
+      "end": 25.04
+    },
+    {
+      "word": "masks",
+      "start": 25.04,
+      "end": 25.44
+    },
+    {
+      "word": "for",
+      "start": 25.44,
+      "end": 25.74
+    },
+    {
+      "word": "seamless",
+      "start": 25.74,
+      "end": 26.04
+    },
+    {
+      "word": "editing.",
+      "start": 26.04,
+      "end": 26.54
+    },
+    {
+      "word": "You",
+      "start": 26.54,
+      "end": 27.3
+    },
+    {
+      "word": "handle",
+      "start": 27.3,
+      "end": 27.54
+    },
+    {
+      "word": "demanding",
+      "start": 27.54,
+      "end": 28.02
+    },
+    {
+      "word": "client",
+      "start": 28.02,
+      "end": 28.38
+    },
+    {
+      "word": "deliverables",
+      "start": 28.38,
+      "end": 28.92
+    },
+    {
+      "word": "without",
+      "start": 28.92,
+      "end": 29.34
+    },
+    {
+      "word": "costly",
+      "start": 29.34,
+      "end": 29.76
+    },
+    {
+      "word": "software",
+      "start": 29.76,
+      "end": 30.3
+    },
+    {
+      "word": "subscriptions.",
+      "start": 30.3,
+      "end": 30.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "Open, edit, and export layered graphics without paying a recurring subscription.",
+      "line2": "FREE DIGITAL PAINTING",
+      "tag": "\ud83d\uded1 Krita",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Krita",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Krita",
+        "subtitle": "Krita"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Krita"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Krita"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Krita",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

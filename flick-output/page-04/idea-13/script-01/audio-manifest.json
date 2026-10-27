@@ -1,0 +1,421 @@
+{
+  "page": "page-04",
+  "idea": "LocalSend: share files between iPhone, Android, and PC with zero cables",
+  "text": "Here is the fastest way to send files between different devices without AirDrop or cables. Moving raw footage between Windows and iPhone usually forces you through slow cloud uploads or messaging compression. Cloud drives throttle upload bandwidth, compress images, and clutter storage with duplicate folders. LocalSend fixes this by transferring files directly over local Wi-Fi using secure end-to-end encryption. You send gigabytes in seconds without internet access.",
+  "duration": 30.181,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.62
+    },
+    {
+      "word": "fastest",
+      "start": 0.62,
+      "end": 0.96
+    },
+    {
+      "word": "way",
+      "start": 0.96,
+      "end": 1.2
+    },
+    {
+      "word": "to",
+      "start": 1.2,
+      "end": 1.42
+    },
+    {
+      "word": "send",
+      "start": 1.42,
+      "end": 1.68
+    },
+    {
+      "word": "files",
+      "start": 1.68,
+      "end": 2.06
+    },
+    {
+      "word": "between",
+      "start": 2.06,
+      "end": 2.46
+    },
+    {
+      "word": "different",
+      "start": 2.46,
+      "end": 2.74
+    },
+    {
+      "word": "devices",
+      "start": 2.74,
+      "end": 3.24
+    },
+    {
+      "word": "without",
+      "start": 3.24,
+      "end": 3.96
+    },
+    {
+      "word": "air",
+      "start": 3.96,
+      "end": 4.3
+    },
+    {
+      "word": "drop",
+      "start": 4.3,
+      "end": 4.62
+    },
+    {
+      "word": "or",
+      "start": 4.62,
+      "end": 4.94
+    },
+    {
+      "word": "cables.",
+      "start": 4.94,
+      "end": 5.4
+    },
+    {
+      "word": "Moving",
+      "start": 6.08,
+      "end": 6.26
+    },
+    {
+      "word": "raw",
+      "start": 6.26,
+      "end": 6.62
+    },
+    {
+      "word": "footage",
+      "start": 6.62,
+      "end": 6.92
+    },
+    {
+      "word": "between",
+      "start": 6.92,
+      "end": 7.32
+    },
+    {
+      "word": "Windows",
+      "start": 7.32,
+      "end": 7.76
+    },
+    {
+      "word": "and",
+      "start": 7.76,
+      "end": 8.02
+    },
+    {
+      "word": "iPhone",
+      "start": 8.02,
+      "end": 8.6
+    },
+    {
+      "word": "usually",
+      "start": 8.6,
+      "end": 9.46
+    },
+    {
+      "word": "forces",
+      "start": 9.46,
+      "end": 9.8
+    },
+    {
+      "word": "you",
+      "start": 9.8,
+      "end": 10.14
+    },
+    {
+      "word": "through",
+      "start": 10.14,
+      "end": 10.48
+    },
+    {
+      "word": "slow",
+      "start": 10.48,
+      "end": 10.82
+    },
+    {
+      "word": "cloud",
+      "start": 10.82,
+      "end": 11.18
+    },
+    {
+      "word": "uploads",
+      "start": 11.18,
+      "end": 11.96
+    },
+    {
+      "word": "or",
+      "start": 11.96,
+      "end": 12.18
+    },
+    {
+      "word": "messaging",
+      "start": 12.18,
+      "end": 12.58
+    },
+    {
+      "word": "compression.",
+      "start": 12.58,
+      "end": 13.24
+    },
+    {
+      "word": "Cloud",
+      "start": 13.92,
+      "end": 13.94
+    },
+    {
+      "word": "drives",
+      "start": 13.94,
+      "end": 14.34
+    },
+    {
+      "word": "throttle",
+      "start": 14.34,
+      "end": 14.78
+    },
+    {
+      "word": "upload",
+      "start": 14.78,
+      "end": 15.24
+    },
+    {
+      "word": "bandwidth,",
+      "start": 15.24,
+      "end": 15.68
+    },
+    {
+      "word": "compress",
+      "start": 16.32,
+      "end": 16.36
+    },
+    {
+      "word": "images,",
+      "start": 16.36,
+      "end": 16.82
+    },
+    {
+      "word": "and",
+      "start": 17.22,
+      "end": 17.44
+    },
+    {
+      "word": "clutter",
+      "start": 17.44,
+      "end": 17.66
+    },
+    {
+      "word": "storage",
+      "start": 17.66,
+      "end": 18.2
+    },
+    {
+      "word": "with",
+      "start": 18.2,
+      "end": 18.48
+    },
+    {
+      "word": "duplicate",
+      "start": 18.48,
+      "end": 18.9
+    },
+    {
+      "word": "folders.",
+      "start": 18.9,
+      "end": 19.54
+    },
+    {
+      "word": "Local",
+      "start": 20.54,
+      "end": 20.56
+    },
+    {
+      "word": "send",
+      "start": 20.56,
+      "end": 20.86
+    },
+    {
+      "word": "fixes",
+      "start": 20.86,
+      "end": 21.24
+    },
+    {
+      "word": "this",
+      "start": 21.24,
+      "end": 21.64
+    },
+    {
+      "word": "by",
+      "start": 21.64,
+      "end": 21.96
+    },
+    {
+      "word": "transferring",
+      "start": 21.96,
+      "end": 22.44
+    },
+    {
+      "word": "files",
+      "start": 22.44,
+      "end": 22.9
+    },
+    {
+      "word": "directly",
+      "start": 22.9,
+      "end": 23.4
+    },
+    {
+      "word": "over",
+      "start": 23.4,
+      "end": 23.7
+    },
+    {
+      "word": "local",
+      "start": 23.7,
+      "end": 24.0
+    },
+    {
+      "word": "Wi",
+      "start": 24.0,
+      "end": 24.36
+    },
+    {
+      "word": "-Fi",
+      "start": 24.36,
+      "end": 24.58
+    },
+    {
+      "word": "using",
+      "start": 24.58,
+      "end": 25.04
+    },
+    {
+      "word": "secure",
+      "start": 25.04,
+      "end": 25.6
+    },
+    {
+      "word": "end",
+      "start": 25.6,
+      "end": 25.9
+    },
+    {
+      "word": "-to",
+      "start": 25.9,
+      "end": 26.02
+    },
+    {
+      "word": "-end",
+      "start": 26.02,
+      "end": 26.18
+    },
+    {
+      "word": "encryption.",
+      "start": 26.18,
+      "end": 26.72
+    },
+    {
+      "word": "You",
+      "start": 26.72,
+      "end": 27.48
+    },
+    {
+      "word": "send",
+      "start": 27.48,
+      "end": 27.76
+    },
+    {
+      "word": "gigabytes",
+      "start": 27.76,
+      "end": 28.2
+    },
+    {
+      "word": "in",
+      "start": 28.2,
+      "end": 28.5
+    },
+    {
+      "word": "seconds",
+      "start": 28.5,
+      "end": 28.9
+    },
+    {
+      "word": "without",
+      "start": 28.9,
+      "end": 29.32
+    },
+    {
+      "word": "internet",
+      "start": 29.32,
+      "end": 29.64
+    },
+    {
+      "word": "access.",
+      "start": 29.64,
+      "end": 30.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The fastest way to send files between different devices without AirDrop or cables.",
+      "line2": "SHARE FILES WIRELESSLY",
+      "tag": "\ud83d\uded1 LocalSend",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: LocalSend",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: LocalSend",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "LocalSend"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "LocalSend",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

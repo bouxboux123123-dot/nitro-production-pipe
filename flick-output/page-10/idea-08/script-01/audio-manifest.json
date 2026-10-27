@@ -1,0 +1,406 @@
+{
+  "page": "page-10",
+  "idea": "Canva Magic Studio upgrades for bulk image and video production",
+  "text": "Canva just updated their Magic Studio and the batch creation tools are insane. Marketers spend hours copy-pasting spreadsheet data into individual graphic templates and adjusting text boxes manually. Repetitive asset production creates design burnout and delays scheduled product launches across social channels. Canva's upgraded Bulk Create tool connects directly to CSV files, generating hundreds of branded assets simultaneously. This produces a month of content in ten minutes.",
+  "duration": 30.202,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Canva",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "just",
+      "start": 0.36,
+      "end": 0.7
+    },
+    {
+      "word": "updated",
+      "start": 0.7,
+      "end": 1.12
+    },
+    {
+      "word": "their",
+      "start": 1.12,
+      "end": 1.54
+    },
+    {
+      "word": "magic",
+      "start": 1.54,
+      "end": 1.76
+    },
+    {
+      "word": "studio",
+      "start": 1.76,
+      "end": 2.26
+    },
+    {
+      "word": "and",
+      "start": 2.26,
+      "end": 2.64
+    },
+    {
+      "word": "the",
+      "start": 2.64,
+      "end": 2.84
+    },
+    {
+      "word": "batch",
+      "start": 2.84,
+      "end": 3.06
+    },
+    {
+      "word": "creation",
+      "start": 3.06,
+      "end": 3.58
+    },
+    {
+      "word": "tools",
+      "start": 3.58,
+      "end": 3.98
+    },
+    {
+      "word": "are",
+      "start": 3.98,
+      "end": 4.26
+    },
+    {
+      "word": "insane.",
+      "start": 4.26,
+      "end": 4.86
+    },
+    {
+      "word": "Marketers",
+      "start": 5.6,
+      "end": 5.88
+    },
+    {
+      "word": "spend",
+      "start": 5.88,
+      "end": 6.16
+    },
+    {
+      "word": "hours",
+      "start": 6.16,
+      "end": 6.58
+    },
+    {
+      "word": "cop",
+      "start": 6.58,
+      "end": 6.82
+    },
+    {
+      "word": "a",
+      "start": 6.82,
+      "end": 7.0
+    },
+    {
+      "word": "pasting",
+      "start": 7.0,
+      "end": 7.42
+    },
+    {
+      "word": "spreadsheet",
+      "start": 7.42,
+      "end": 7.82
+    },
+    {
+      "word": "data",
+      "start": 7.82,
+      "end": 8.22
+    },
+    {
+      "word": "into",
+      "start": 8.22,
+      "end": 8.52
+    },
+    {
+      "word": "individual",
+      "start": 8.52,
+      "end": 9.04
+    },
+    {
+      "word": "graphic",
+      "start": 9.04,
+      "end": 9.44
+    },
+    {
+      "word": "templates",
+      "start": 9.44,
+      "end": 9.92
+    },
+    {
+      "word": "and",
+      "start": 9.92,
+      "end": 10.46
+    },
+    {
+      "word": "adjusting",
+      "start": 10.46,
+      "end": 10.88
+    },
+    {
+      "word": "text",
+      "start": 10.88,
+      "end": 11.26
+    },
+    {
+      "word": "boxes",
+      "start": 11.26,
+      "end": 11.7
+    },
+    {
+      "word": "manually.",
+      "start": 11.7,
+      "end": 12.34
+    },
+    {
+      "word": "Repetitive",
+      "start": 12.72,
+      "end": 13.1
+    },
+    {
+      "word": "asset",
+      "start": 13.1,
+      "end": 13.54
+    },
+    {
+      "word": "production",
+      "start": 13.54,
+      "end": 13.98
+    },
+    {
+      "word": "creates",
+      "start": 13.98,
+      "end": 14.48
+    },
+    {
+      "word": "design",
+      "start": 14.48,
+      "end": 14.92
+    },
+    {
+      "word": "burnout",
+      "start": 14.92,
+      "end": 15.54
+    },
+    {
+      "word": "and",
+      "start": 15.54,
+      "end": 15.82
+    },
+    {
+      "word": "delays",
+      "start": 15.82,
+      "end": 16.08
+    },
+    {
+      "word": "scheduled",
+      "start": 16.08,
+      "end": 16.6
+    },
+    {
+      "word": "product",
+      "start": 16.6,
+      "end": 16.98
+    },
+    {
+      "word": "launches",
+      "start": 16.98,
+      "end": 17.36
+    },
+    {
+      "word": "across",
+      "start": 17.36,
+      "end": 17.72
+    },
+    {
+      "word": "social",
+      "start": 17.72,
+      "end": 18.12
+    },
+    {
+      "word": "channels.",
+      "start": 18.12,
+      "end": 18.62
+    },
+    {
+      "word": "Canva's",
+      "start": 19.44,
+      "end": 20.24
+    },
+    {
+      "word": "upgraded",
+      "start": 20.24,
+      "end": 20.24
+    },
+    {
+      "word": "bulk",
+      "start": 20.24,
+      "end": 20.54
+    },
+    {
+      "word": "create",
+      "start": 20.54,
+      "end": 20.94
+    },
+    {
+      "word": "tool",
+      "start": 20.94,
+      "end": 21.4
+    },
+    {
+      "word": "connects",
+      "start": 21.4,
+      "end": 21.8
+    },
+    {
+      "word": "directly",
+      "start": 21.8,
+      "end": 22.24
+    },
+    {
+      "word": "to",
+      "start": 22.24,
+      "end": 22.6
+    },
+    {
+      "word": "CSV",
+      "start": 22.6,
+      "end": 22.96
+    },
+    {
+      "word": "files",
+      "start": 22.96,
+      "end": 23.66
+    },
+    {
+      "word": "generating",
+      "start": 23.66,
+      "end": 24.42
+    },
+    {
+      "word": "hundreds",
+      "start": 24.42,
+      "end": 24.92
+    },
+    {
+      "word": "of",
+      "start": 24.92,
+      "end": 25.18
+    },
+    {
+      "word": "branded",
+      "start": 25.18,
+      "end": 25.52
+    },
+    {
+      "word": "assets",
+      "start": 25.52,
+      "end": 26.12
+    },
+    {
+      "word": "simultaneously.",
+      "start": 26.12,
+      "end": 26.84
+    },
+    {
+      "word": "This",
+      "start": 26.84,
+      "end": 27.88
+    },
+    {
+      "word": "produces",
+      "start": 27.88,
+      "end": 28.26
+    },
+    {
+      "word": "a",
+      "start": 28.26,
+      "end": 28.58
+    },
+    {
+      "word": "month",
+      "start": 28.58,
+      "end": 28.7
+    },
+    {
+      "word": "of",
+      "start": 28.7,
+      "end": 29.08
+    },
+    {
+      "word": "content",
+      "start": 29.08,
+      "end": 29.3
+    },
+    {
+      "word": "in",
+      "start": 29.3,
+      "end": 29.52
+    },
+    {
+      "word": "10",
+      "start": 29.52,
+      "end": 29.8
+    },
+    {
+      "word": "minutes.",
+      "start": 29.8,
+      "end": 30.12
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "Canva just updated their Magic Studio and the batch creation tools are insane.",
+      "line2": "CANVA BULK PRODUCTION UPGRADE",
+      "tag": "\ud83d\uded1 Canva Magic Studio upgrades for bulk image and video production",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Canva Magic Studio upgrades for bulk image and video production",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Canva Magic Studio upgrades for bulk image and video production",
+        "subtitle": "Canva Magic Studio upgrades for bulk image and video production"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Canva Magic Studio upgrades for bulk image and video production"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Canva Magic Studio upgrades for bulk image and video production"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Canva Magic Studio upgrades for bulk image and video production",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

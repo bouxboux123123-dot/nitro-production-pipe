@@ -1,0 +1,421 @@
+{
+  "page": "page-02",
+  "idea": "Voice-to-invoice app that generates itemized bills from voice memos",
+  "text": "Freelancers: this one hack will get you paid 5 days faster every single time. Clients delay payment when invoices arrive weeks late with confusing, unitemized lump sums. Lacking clear line-item descriptions causes endless accounting back-and-forth and postpones invoice approval. Speak your milestone summary into an AI voice invoice tool that automatically attaches itemized receipts and payment links. You eliminate payment friction and get invoices paid in twenty-four hours.",
+  "duration": 30.117,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Freelancers,",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "word": "this",
+      "start": 1.14,
+      "end": 1.36
+    },
+    {
+      "word": "one",
+      "start": 1.36,
+      "end": 1.6
+    },
+    {
+      "word": "hack",
+      "start": 1.6,
+      "end": 1.78
+    },
+    {
+      "word": "will",
+      "start": 1.78,
+      "end": 1.92
+    },
+    {
+      "word": "get",
+      "start": 1.92,
+      "end": 2.08
+    },
+    {
+      "word": "you",
+      "start": 2.08,
+      "end": 2.26
+    },
+    {
+      "word": "paid",
+      "start": 2.26,
+      "end": 2.48
+    },
+    {
+      "word": "five",
+      "start": 2.48,
+      "end": 2.86
+    },
+    {
+      "word": "days",
+      "start": 2.86,
+      "end": 3.18
+    },
+    {
+      "word": "faster",
+      "start": 3.18,
+      "end": 3.6
+    },
+    {
+      "word": "every",
+      "start": 3.6,
+      "end": 3.96
+    },
+    {
+      "word": "single",
+      "start": 3.96,
+      "end": 4.28
+    },
+    {
+      "word": "time.",
+      "start": 4.28,
+      "end": 5.0
+    },
+    {
+      "word": "Clients",
+      "start": 5.38,
+      "end": 5.62
+    },
+    {
+      "word": "delay",
+      "start": 5.62,
+      "end": 5.86
+    },
+    {
+      "word": "payment",
+      "start": 5.86,
+      "end": 6.3
+    },
+    {
+      "word": "when",
+      "start": 6.3,
+      "end": 6.54
+    },
+    {
+      "word": "invoices",
+      "start": 6.54,
+      "end": 7.0
+    },
+    {
+      "word": "arrive",
+      "start": 7.0,
+      "end": 7.46
+    },
+    {
+      "word": "weeks",
+      "start": 7.46,
+      "end": 7.86
+    },
+    {
+      "word": "late",
+      "start": 7.86,
+      "end": 8.22
+    },
+    {
+      "word": "with",
+      "start": 8.22,
+      "end": 8.44
+    },
+    {
+      "word": "confusing,",
+      "start": 8.44,
+      "end": 9.1
+    },
+    {
+      "word": "unidomized",
+      "start": 9.4,
+      "end": 9.96
+    },
+    {
+      "word": "lump",
+      "start": 9.96,
+      "end": 10.3
+    },
+    {
+      "word": "sums.",
+      "start": 10.3,
+      "end": 10.76
+    },
+    {
+      "word": "Lacking",
+      "start": 11.38,
+      "end": 11.66
+    },
+    {
+      "word": "clear",
+      "start": 11.66,
+      "end": 12.02
+    },
+    {
+      "word": "line",
+      "start": 12.02,
+      "end": 12.34
+    },
+    {
+      "word": "item",
+      "start": 12.34,
+      "end": 12.58
+    },
+    {
+      "word": "descriptions",
+      "start": 12.58,
+      "end": 13.24
+    },
+    {
+      "word": "causes",
+      "start": 13.24,
+      "end": 13.88
+    },
+    {
+      "word": "endless",
+      "start": 13.88,
+      "end": 14.22
+    },
+    {
+      "word": "accounting",
+      "start": 14.22,
+      "end": 14.8
+    },
+    {
+      "word": "back",
+      "start": 14.8,
+      "end": 15.1
+    },
+    {
+      "word": "and",
+      "start": 15.1,
+      "end": 15.32
+    },
+    {
+      "word": "forth",
+      "start": 15.32,
+      "end": 15.66
+    },
+    {
+      "word": "and",
+      "start": 15.66,
+      "end": 16.06
+    },
+    {
+      "word": "post",
+      "start": 16.06,
+      "end": 16.34
+    },
+    {
+      "word": "-pones",
+      "start": 16.34,
+      "end": 16.7
+    },
+    {
+      "word": "invoice",
+      "start": 16.7,
+      "end": 17.18
+    },
+    {
+      "word": "approval.",
+      "start": 17.18,
+      "end": 17.64
+    },
+    {
+      "word": "Speak",
+      "start": 18.08,
+      "end": 18.28
+    },
+    {
+      "word": "your",
+      "start": 18.28,
+      "end": 18.68
+    },
+    {
+      "word": "milestone",
+      "start": 18.68,
+      "end": 18.86
+    },
+    {
+      "word": "summary",
+      "start": 18.86,
+      "end": 19.46
+    },
+    {
+      "word": "into",
+      "start": 19.46,
+      "end": 19.74
+    },
+    {
+      "word": "an",
+      "start": 19.74,
+      "end": 20.06
+    },
+    {
+      "word": "AI",
+      "start": 20.06,
+      "end": 20.36
+    },
+    {
+      "word": "voice",
+      "start": 20.36,
+      "end": 20.7
+    },
+    {
+      "word": "invoice",
+      "start": 20.7,
+      "end": 21.06
+    },
+    {
+      "word": "tool",
+      "start": 21.06,
+      "end": 21.52
+    },
+    {
+      "word": "that",
+      "start": 21.52,
+      "end": 22.14
+    },
+    {
+      "word": "automatically",
+      "start": 22.14,
+      "end": 22.56
+    },
+    {
+      "word": "attaches",
+      "start": 22.56,
+      "end": 23.08
+    },
+    {
+      "word": "itemized",
+      "start": 23.08,
+      "end": 23.9
+    },
+    {
+      "word": "receipts",
+      "start": 23.9,
+      "end": 24.32
+    },
+    {
+      "word": "and",
+      "start": 24.32,
+      "end": 24.7
+    },
+    {
+      "word": "payment",
+      "start": 24.7,
+      "end": 24.88
+    },
+    {
+      "word": "links.",
+      "start": 24.88,
+      "end": 25.24
+    },
+    {
+      "word": "You",
+      "start": 25.24,
+      "end": 25.98
+    },
+    {
+      "word": "eliminate",
+      "start": 25.98,
+      "end": 26.28
+    },
+    {
+      "word": "payment",
+      "start": 26.28,
+      "end": 26.68
+    },
+    {
+      "word": "friction",
+      "start": 26.68,
+      "end": 27.12
+    },
+    {
+      "word": "and",
+      "start": 27.12,
+      "end": 27.66
+    },
+    {
+      "word": "get",
+      "start": 27.66,
+      "end": 27.84
+    },
+    {
+      "word": "invoices",
+      "start": 27.84,
+      "end": 28.42
+    },
+    {
+      "word": "paid",
+      "start": 28.42,
+      "end": 28.78
+    },
+    {
+      "word": "in",
+      "start": 28.78,
+      "end": 29.06
+    },
+    {
+      "word": "24",
+      "start": 29.06,
+      "end": 29.56
+    },
+    {
+      "word": "hours.",
+      "start": 29.56,
+      "end": 30.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Freelancers: this one hack will get you paid 5 days faster every single time.",
+      "line2": "VOICE TO INVOICE",
+      "tag": "\ud83d\uded1 Voice-to-invoice app that generates itemized bills from voice memos",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "Voice-to-Invoice Stream: Voice-to-invoice app that generates itemized bills from voice memos",
+      "primitive": "VoiceWaveToReceipt",
+      "props": {
+        "title": "Voice-to-Invoice Stream: Voice-to-invoice app that generates itemized bills from voice memos",
+        "subtitle": "Voice-to-invoice app that generates itemized bills from voice memos"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Overdue Payment Chaser",
+      "primitive": "OverdueChaserTimeline",
+      "props": {
+        "title": "Overdue Payment Chaser",
+        "subtitle": "Voice-to-invoice app that generates itemized bills from voice memos"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Retainer Value Conversion",
+      "primitive": "HourlyToRetainerConverter",
+      "props": {
+        "title": "Retainer Value Conversion",
+        "subtitle": "Voice-to-invoice app that generates itemized bills from voice memos"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant 24H Auto-Deposit",
+      "primitive": "StripePayoutCountdown",
+      "props": {
+        "title": "Instant 24H Auto-Deposit",
+        "subtitle": "Voice-to-invoice app that generates itemized bills from voice memos",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

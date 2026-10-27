@@ -1,0 +1,396 @@
+{
+  "page": "page-08",
+  "idea": "Beginner guide to setting up your first free Notion workspace in 5 minutes",
+  "text": "The absolute simplest way to build a personal daily planner that actually works. Juggling sticky notes and phone reminders leaves your important deadlines scattered everywhere. Complex productivity apps require hours of setup, causing beginners to quit after three days. Open a blank Notion page, type forward slash to add checkboxes, and group tasks by morning and afternoon. You get an uncluttered daily planner that keeps you focused.",
+  "duration": 24.448,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "absolute",
+      "start": 0.24,
+      "end": 0.64
+    },
+    {
+      "word": "simplest",
+      "start": 0.64,
+      "end": 1.18
+    },
+    {
+      "word": "way",
+      "start": 1.18,
+      "end": 1.44
+    },
+    {
+      "word": "to",
+      "start": 1.44,
+      "end": 1.64
+    },
+    {
+      "word": "build",
+      "start": 1.64,
+      "end": 1.8
+    },
+    {
+      "word": "a",
+      "start": 1.8,
+      "end": 2.02
+    },
+    {
+      "word": "personal",
+      "start": 2.02,
+      "end": 2.32
+    },
+    {
+      "word": "daily",
+      "start": 2.32,
+      "end": 2.64
+    },
+    {
+      "word": "planner",
+      "start": 2.64,
+      "end": 2.9
+    },
+    {
+      "word": "that",
+      "start": 2.9,
+      "end": 3.26
+    },
+    {
+      "word": "actually",
+      "start": 3.26,
+      "end": 3.62
+    },
+    {
+      "word": "works.",
+      "start": 3.62,
+      "end": 4.16
+    },
+    {
+      "word": "Juggling",
+      "start": 4.64,
+      "end": 4.92
+    },
+    {
+      "word": "sticky",
+      "start": 4.92,
+      "end": 5.18
+    },
+    {
+      "word": "notes",
+      "start": 5.18,
+      "end": 5.46
+    },
+    {
+      "word": "and",
+      "start": 5.46,
+      "end": 5.66
+    },
+    {
+      "word": "phone",
+      "start": 5.66,
+      "end": 5.9
+    },
+    {
+      "word": "reminders",
+      "start": 5.9,
+      "end": 6.34
+    },
+    {
+      "word": "leaves",
+      "start": 6.34,
+      "end": 6.78
+    },
+    {
+      "word": "your",
+      "start": 6.78,
+      "end": 7.08
+    },
+    {
+      "word": "important",
+      "start": 7.08,
+      "end": 7.42
+    },
+    {
+      "word": "deadlines",
+      "start": 7.42,
+      "end": 7.92
+    },
+    {
+      "word": "scattered",
+      "start": 7.92,
+      "end": 8.38
+    },
+    {
+      "word": "everywhere.",
+      "start": 8.38,
+      "end": 9.1
+    },
+    {
+      "word": "Complex",
+      "start": 9.86,
+      "end": 9.86
+    },
+    {
+      "word": "productivity",
+      "start": 9.86,
+      "end": 10.42
+    },
+    {
+      "word": "apps",
+      "start": 10.42,
+      "end": 10.82
+    },
+    {
+      "word": "require",
+      "start": 10.82,
+      "end": 11.18
+    },
+    {
+      "word": "hours",
+      "start": 11.18,
+      "end": 11.66
+    },
+    {
+      "word": "of",
+      "start": 11.66,
+      "end": 11.92
+    },
+    {
+      "word": "setup,",
+      "start": 11.92,
+      "end": 12.16
+    },
+    {
+      "word": "causing",
+      "start": 12.5,
+      "end": 12.76
+    },
+    {
+      "word": "beginners",
+      "start": 12.76,
+      "end": 13.1
+    },
+    {
+      "word": "to",
+      "start": 13.1,
+      "end": 13.42
+    },
+    {
+      "word": "quit",
+      "start": 13.42,
+      "end": 13.56
+    },
+    {
+      "word": "after",
+      "start": 13.56,
+      "end": 13.82
+    },
+    {
+      "word": "three",
+      "start": 13.82,
+      "end": 14.1
+    },
+    {
+      "word": "days.",
+      "start": 14.1,
+      "end": 14.48
+    },
+    {
+      "word": "Open",
+      "start": 14.98,
+      "end": 15.12
+    },
+    {
+      "word": "a",
+      "start": 15.12,
+      "end": 15.28
+    },
+    {
+      "word": "blank",
+      "start": 15.28,
+      "end": 15.52
+    },
+    {
+      "word": "Notion",
+      "start": 15.52,
+      "end": 15.9
+    },
+    {
+      "word": "page,",
+      "start": 15.9,
+      "end": 16.28
+    },
+    {
+      "word": "type",
+      "start": 16.8,
+      "end": 16.86
+    },
+    {
+      "word": "forward",
+      "start": 16.86,
+      "end": 17.24
+    },
+    {
+      "word": "slash",
+      "start": 17.24,
+      "end": 17.58
+    },
+    {
+      "word": "to",
+      "start": 17.58,
+      "end": 17.82
+    },
+    {
+      "word": "add",
+      "start": 17.82,
+      "end": 18.08
+    },
+    {
+      "word": "checkboxes",
+      "start": 18.08,
+      "end": 18.64
+    },
+    {
+      "word": "and",
+      "start": 18.64,
+      "end": 19.2
+    },
+    {
+      "word": "group",
+      "start": 19.2,
+      "end": 19.48
+    },
+    {
+      "word": "tasks",
+      "start": 19.48,
+      "end": 19.84
+    },
+    {
+      "word": "by",
+      "start": 19.84,
+      "end": 20.2
+    },
+    {
+      "word": "morning",
+      "start": 20.2,
+      "end": 20.52
+    },
+    {
+      "word": "and",
+      "start": 20.52,
+      "end": 20.76
+    },
+    {
+      "word": "afternoon.",
+      "start": 20.76,
+      "end": 21.26
+    },
+    {
+      "word": "You",
+      "start": 21.26,
+      "end": 21.78
+    },
+    {
+      "word": "get",
+      "start": 21.78,
+      "end": 22.04
+    },
+    {
+      "word": "an",
+      "start": 22.04,
+      "end": 22.18
+    },
+    {
+      "word": "uncluttered",
+      "start": 22.18,
+      "end": 22.66
+    },
+    {
+      "word": "daily",
+      "start": 22.66,
+      "end": 23.02
+    },
+    {
+      "word": "planner",
+      "start": 23.02,
+      "end": 23.3
+    },
+    {
+      "word": "that",
+      "start": 23.3,
+      "end": 23.56
+    },
+    {
+      "word": "keeps",
+      "start": 23.56,
+      "end": 23.74
+    },
+    {
+      "word": "you",
+      "start": 23.74,
+      "end": 24.08
+    },
+    {
+      "word": "focused.",
+      "start": 24.08,
+      "end": 24.36
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The absolute simplest way to build a personal daily planner that actually works.",
+      "line2": "NOTION IN 5 MINUTES",
+      "tag": "\ud83d\uded1 Beginner guide to setting up your first free Notion workspace in 5 minutes",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Beginner guide to setting up your first free Notion workspace in 5 minutes",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Beginner guide to setting up your first free Notion workspace in 5 minutes",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Beginner guide to setting up your first free Notion workspace in 5 minutes",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

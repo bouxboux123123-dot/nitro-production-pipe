@@ -1,0 +1,401 @@
+{
+  "page": "page-07",
+  "idea": "AI sales demo recorder that extracts custom follow-up action items",
+  "text": "Stop losing deal momentum by waiting two days to send the follow-up proposal. Reps delay proposals because formatting pricing tables and technical specifications requires tedious manual assembly. Every two-day delay cuts closing probability in half because executive attention quickly shifts elsewhere. Pipe Gong call transcripts into HubSpot to auto-generate PandaDoc contracts populated with client criteria. You deliver airtight proposals while stakeholder enthusiasm is high.",
+  "duration": 30.159,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "losing",
+      "start": 0.4,
+      "end": 0.78
+    },
+    {
+      "word": "deal",
+      "start": 0.78,
+      "end": 1.1
+    },
+    {
+      "word": "momentum",
+      "start": 1.1,
+      "end": 1.56
+    },
+    {
+      "word": "by",
+      "start": 1.56,
+      "end": 1.96
+    },
+    {
+      "word": "waiting",
+      "start": 1.96,
+      "end": 2.2
+    },
+    {
+      "word": "two",
+      "start": 2.2,
+      "end": 2.6
+    },
+    {
+      "word": "days",
+      "start": 2.6,
+      "end": 2.84
+    },
+    {
+      "word": "to",
+      "start": 2.84,
+      "end": 3.06
+    },
+    {
+      "word": "send",
+      "start": 3.06,
+      "end": 3.26
+    },
+    {
+      "word": "the",
+      "start": 3.26,
+      "end": 3.54
+    },
+    {
+      "word": "follow",
+      "start": 3.54,
+      "end": 3.7
+    },
+    {
+      "word": "-up",
+      "start": 3.7,
+      "end": 3.98
+    },
+    {
+      "word": "proposal.",
+      "start": 3.98,
+      "end": 4.64
+    },
+    {
+      "word": "Rep's",
+      "start": 5.18,
+      "end": 5.5
+    },
+    {
+      "word": "delay",
+      "start": 5.5,
+      "end": 5.7
+    },
+    {
+      "word": "proposals",
+      "start": 5.7,
+      "end": 6.24
+    },
+    {
+      "word": "because",
+      "start": 6.24,
+      "end": 6.84
+    },
+    {
+      "word": "formatting",
+      "start": 6.84,
+      "end": 7.2
+    },
+    {
+      "word": "pricing",
+      "start": 7.2,
+      "end": 7.76
+    },
+    {
+      "word": "tables",
+      "start": 7.76,
+      "end": 8.22
+    },
+    {
+      "word": "and",
+      "start": 8.22,
+      "end": 8.6
+    },
+    {
+      "word": "technical",
+      "start": 8.6,
+      "end": 8.98
+    },
+    {
+      "word": "specifications",
+      "start": 8.98,
+      "end": 9.94
+    },
+    {
+      "word": "requires",
+      "start": 9.94,
+      "end": 10.86
+    },
+    {
+      "word": "tedious",
+      "start": 10.86,
+      "end": 11.44
+    },
+    {
+      "word": "manual",
+      "start": 11.44,
+      "end": 11.9
+    },
+    {
+      "word": "assembly.",
+      "start": 11.9,
+      "end": 12.44
+    },
+    {
+      "word": "Every",
+      "start": 12.8,
+      "end": 13.06
+    },
+    {
+      "word": "two",
+      "start": 13.06,
+      "end": 13.32
+    },
+    {
+      "word": "-day",
+      "start": 13.32,
+      "end": 13.54
+    },
+    {
+      "word": "delay",
+      "start": 13.54,
+      "end": 13.76
+    },
+    {
+      "word": "cuts",
+      "start": 13.76,
+      "end": 14.1
+    },
+    {
+      "word": "closing",
+      "start": 14.1,
+      "end": 14.54
+    },
+    {
+      "word": "probability",
+      "start": 14.54,
+      "end": 15.1
+    },
+    {
+      "word": "in",
+      "start": 15.1,
+      "end": 15.38
+    },
+    {
+      "word": "half",
+      "start": 15.38,
+      "end": 15.68
+    },
+    {
+      "word": "because",
+      "start": 15.68,
+      "end": 16.06
+    },
+    {
+      "word": "executive",
+      "start": 16.06,
+      "end": 16.52
+    },
+    {
+      "word": "attention",
+      "start": 16.52,
+      "end": 17.1
+    },
+    {
+      "word": "quickly",
+      "start": 17.1,
+      "end": 17.76
+    },
+    {
+      "word": "shifts",
+      "start": 17.76,
+      "end": 18.02
+    },
+    {
+      "word": "elsewhere.",
+      "start": 18.02,
+      "end": 18.72
+    },
+    {
+      "word": "Pipe",
+      "start": 19.42,
+      "end": 19.46
+    },
+    {
+      "word": "-gong",
+      "start": 19.46,
+      "end": 19.74
+    },
+    {
+      "word": "call",
+      "start": 19.74,
+      "end": 20.04
+    },
+    {
+      "word": "transcripts",
+      "start": 20.04,
+      "end": 20.5
+    },
+    {
+      "word": "into",
+      "start": 20.5,
+      "end": 20.8
+    },
+    {
+      "word": "HubSpot",
+      "start": 20.8,
+      "end": 21.3
+    },
+    {
+      "word": "to",
+      "start": 21.3,
+      "end": 21.8
+    },
+    {
+      "word": "auto",
+      "start": 21.8,
+      "end": 21.92
+    },
+    {
+      "word": "-generate",
+      "start": 21.92,
+      "end": 22.38
+    },
+    {
+      "word": "Panda",
+      "start": 22.38,
+      "end": 22.8
+    },
+    {
+      "word": "doc",
+      "start": 22.8,
+      "end": 23.2
+    },
+    {
+      "word": "contracts",
+      "start": 23.2,
+      "end": 23.66
+    },
+    {
+      "word": "populated",
+      "start": 23.66,
+      "end": 24.22
+    },
+    {
+      "word": "with",
+      "start": 24.22,
+      "end": 24.6
+    },
+    {
+      "word": "client",
+      "start": 24.6,
+      "end": 24.92
+    },
+    {
+      "word": "criteria.",
+      "start": 24.92,
+      "end": 25.5
+    },
+    {
+      "word": "You",
+      "start": 26.16,
+      "end": 26.32
+    },
+    {
+      "word": "deliver",
+      "start": 26.32,
+      "end": 26.62
+    },
+    {
+      "word": "airtight",
+      "start": 26.62,
+      "end": 27.12
+    },
+    {
+      "word": "proposals",
+      "start": 27.12,
+      "end": 27.66
+    },
+    {
+      "word": "while",
+      "start": 27.66,
+      "end": 28.18
+    },
+    {
+      "word": "stakeholder",
+      "start": 28.18,
+      "end": 28.78
+    },
+    {
+      "word": "enthusiasm",
+      "start": 28.78,
+      "end": 29.32
+    },
+    {
+      "word": "is",
+      "start": 29.32,
+      "end": 29.78
+    },
+    {
+      "word": "high.",
+      "start": 29.78,
+      "end": 30.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop losing deal momentum by waiting 2 days to send the follow-up proposal.",
+      "line2": "EXTRACT DEMO ACTION ITEMS",
+      "tag": "\ud83d\uded1 AI sales demo recorder that extracts custom follow-up action items",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: AI sales demo recorder that extracts custom follow-up action items",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: AI sales demo recorder that extracts custom follow-up action items",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "AI sales demo recorder that extracts custom follow-up action items",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

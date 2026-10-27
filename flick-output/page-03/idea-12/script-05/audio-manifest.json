@@ -1,0 +1,381 @@
+{
+  "page": "page-03",
+  "idea": "AI video script generator for Faceless YouTube channels",
+  "text": "The fast-track system for creating consistent video content every single day. Trying to research, write, and publish videos individually every morning leads straight to creative burnout. Inconsistency kills channel reach because social algorithms harshly penalize irregular posting schedules. Instead, automate your drafting workflow by batching twenty niche prompts through Claude directly into a Notion editorial calendar. You schedule a month of content effortlessly.",
+  "duration": 25.429,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Fast",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "-track",
+      "start": 0.42,
+      "end": 0.64
+    },
+    {
+      "word": "system",
+      "start": 0.64,
+      "end": 0.98
+    },
+    {
+      "word": "for",
+      "start": 0.98,
+      "end": 1.2
+    },
+    {
+      "word": "creating",
+      "start": 1.2,
+      "end": 1.54
+    },
+    {
+      "word": "consistent",
+      "start": 1.54,
+      "end": 2.0
+    },
+    {
+      "word": "video",
+      "start": 2.0,
+      "end": 2.38
+    },
+    {
+      "word": "content",
+      "start": 2.38,
+      "end": 2.72
+    },
+    {
+      "word": "every",
+      "start": 2.72,
+      "end": 3.04
+    },
+    {
+      "word": "single",
+      "start": 3.04,
+      "end": 3.32
+    },
+    {
+      "word": "day,",
+      "start": 3.32,
+      "end": 3.92
+    },
+    {
+      "word": "trying",
+      "start": 4.3,
+      "end": 4.3
+    },
+    {
+      "word": "to",
+      "start": 4.3,
+      "end": 4.52
+    },
+    {
+      "word": "research",
+      "start": 4.52,
+      "end": 4.84
+    },
+    {
+      "word": "right",
+      "start": 4.84,
+      "end": 5.26
+    },
+    {
+      "word": "and",
+      "start": 5.26,
+      "end": 5.72
+    },
+    {
+      "word": "publish",
+      "start": 5.72,
+      "end": 5.98
+    },
+    {
+      "word": "videos",
+      "start": 5.98,
+      "end": 6.4
+    },
+    {
+      "word": "individually",
+      "start": 6.4,
+      "end": 6.86
+    },
+    {
+      "word": "every",
+      "start": 6.86,
+      "end": 7.28
+    },
+    {
+      "word": "morning",
+      "start": 7.28,
+      "end": 7.52
+    },
+    {
+      "word": "leads",
+      "start": 7.52,
+      "end": 7.92
+    },
+    {
+      "word": "straight",
+      "start": 7.92,
+      "end": 8.12
+    },
+    {
+      "word": "to",
+      "start": 8.12,
+      "end": 8.32
+    },
+    {
+      "word": "creative",
+      "start": 8.32,
+      "end": 8.72
+    },
+    {
+      "word": "burnout.",
+      "start": 8.72,
+      "end": 9.36
+    },
+    {
+      "word": "In",
+      "start": 9.72,
+      "end": 9.9
+    },
+    {
+      "word": "consistency",
+      "start": 9.9,
+      "end": 10.3
+    },
+    {
+      "word": "kills",
+      "start": 10.3,
+      "end": 10.84
+    },
+    {
+      "word": "channel",
+      "start": 10.84,
+      "end": 11.22
+    },
+    {
+      "word": "reach",
+      "start": 11.22,
+      "end": 11.6
+    },
+    {
+      "word": "because",
+      "start": 11.6,
+      "end": 12.14
+    },
+    {
+      "word": "social",
+      "start": 12.14,
+      "end": 12.54
+    },
+    {
+      "word": "algorithms",
+      "start": 12.54,
+      "end": 12.98
+    },
+    {
+      "word": "harshly",
+      "start": 12.98,
+      "end": 13.62
+    },
+    {
+      "word": "penalize",
+      "start": 13.62,
+      "end": 14.16
+    },
+    {
+      "word": "irregular",
+      "start": 14.16,
+      "end": 14.64
+    },
+    {
+      "word": "posting",
+      "start": 14.64,
+      "end": 15.02
+    },
+    {
+      "word": "schedules.",
+      "start": 15.02,
+      "end": 15.6
+    },
+    {
+      "word": "Instead,",
+      "start": 16.72,
+      "end": 16.72
+    },
+    {
+      "word": "automate",
+      "start": 17.2,
+      "end": 17.22
+    },
+    {
+      "word": "your",
+      "start": 17.22,
+      "end": 17.86
+    },
+    {
+      "word": "drafting",
+      "start": 17.86,
+      "end": 17.9
+    },
+    {
+      "word": "workflow",
+      "start": 17.9,
+      "end": 18.32
+    },
+    {
+      "word": "by",
+      "start": 18.32,
+      "end": 18.66
+    },
+    {
+      "word": "batching",
+      "start": 18.66,
+      "end": 19.08
+    },
+    {
+      "word": "20",
+      "start": 19.08,
+      "end": 19.32
+    },
+    {
+      "word": "-inch",
+      "start": 19.32,
+      "end": 19.58
+    },
+    {
+      "word": "prompts",
+      "start": 19.58,
+      "end": 19.9
+    },
+    {
+      "word": "through",
+      "start": 19.9,
+      "end": 20.24
+    },
+    {
+      "word": "Claude",
+      "start": 20.24,
+      "end": 20.52
+    },
+    {
+      "word": "directly",
+      "start": 20.52,
+      "end": 20.98
+    },
+    {
+      "word": "into",
+      "start": 20.98,
+      "end": 21.32
+    },
+    {
+      "word": "a",
+      "start": 21.32,
+      "end": 21.44
+    },
+    {
+      "word": "notion",
+      "start": 21.44,
+      "end": 21.76
+    },
+    {
+      "word": "editorial",
+      "start": 21.76,
+      "end": 22.34
+    },
+    {
+      "word": "calendar.",
+      "start": 22.34,
+      "end": 22.82
+    },
+    {
+      "word": "You",
+      "start": 22.82,
+      "end": 23.56
+    },
+    {
+      "word": "schedule",
+      "start": 23.56,
+      "end": 23.88
+    },
+    {
+      "word": "a",
+      "start": 23.88,
+      "end": 24.08
+    },
+    {
+      "word": "month",
+      "start": 24.08,
+      "end": 24.22
+    },
+    {
+      "word": "of",
+      "start": 24.22,
+      "end": 24.56
+    },
+    {
+      "word": "content",
+      "start": 24.56,
+      "end": 24.82
+    },
+    {
+      "word": "effortlessly.",
+      "start": 24.82,
+      "end": 25.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "The fast-track system for creating consistent video content every single day.",
+      "line2": "SCRIPT FACELESS VIDEOS",
+      "tag": "\ud83d\uded1 AI video script generator for Faceless YouTube channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: AI video script generator for Faceless YouTube channels",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: AI video script generator for Faceless YouTube channels",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "AI video script generator for Faceless YouTube channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "page": "page-09",
+  "idea": "CapCut vs Premiere Pro: is professional editing software still necessary",
+  "text": "In a head-to-head editing test, which tool finishes a viral TikTok video faster? Building vertical content in Premiere means manually toggling aspect ratios, nesting sequences, and adjusting lagging title layers. Every revision forces timeline re-renders and re-linking missing media across clunky project bins. CapCut speeds past with one-tap auto-framing, instant trending audio syncing, and built-in kinetic templates. You deliver client reels three times faster.",
+  "duration": 29.413,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "In",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "a",
+      "start": 0.22,
+      "end": 0.32
+    },
+    {
+      "word": "head",
+      "start": 0.32,
+      "end": 0.54
+    },
+    {
+      "word": "-to",
+      "start": 0.54,
+      "end": 0.58
+    },
+    {
+      "word": "-head",
+      "start": 0.58,
+      "end": 0.76
+    },
+    {
+      "word": "editing",
+      "start": 0.76,
+      "end": 1.06
+    },
+    {
+      "word": "test,",
+      "start": 1.06,
+      "end": 1.52
+    },
+    {
+      "word": "which",
+      "start": 1.76,
+      "end": 1.96
+    },
+    {
+      "word": "tool",
+      "start": 1.96,
+      "end": 2.3
+    },
+    {
+      "word": "finishes",
+      "start": 2.3,
+      "end": 2.64
+    },
+    {
+      "word": "a",
+      "start": 2.64,
+      "end": 3.02
+    },
+    {
+      "word": "viral",
+      "start": 3.02,
+      "end": 3.36
+    },
+    {
+      "word": "TikTok",
+      "start": 3.36,
+      "end": 3.9
+    },
+    {
+      "word": "video",
+      "start": 3.9,
+      "end": 4.28
+    },
+    {
+      "word": "faster,",
+      "start": 4.28,
+      "end": 4.78
+    },
+    {
+      "word": "building",
+      "start": 5.5,
+      "end": 5.62
+    },
+    {
+      "word": "vertical",
+      "start": 5.62,
+      "end": 6.12
+    },
+    {
+      "word": "content",
+      "start": 6.12,
+      "end": 6.56
+    },
+    {
+      "word": "in",
+      "start": 6.56,
+      "end": 6.84
+    },
+    {
+      "word": "Premiere",
+      "start": 6.84,
+      "end": 7.18
+    },
+    {
+      "word": "means",
+      "start": 7.18,
+      "end": 7.68
+    },
+    {
+      "word": "manually",
+      "start": 7.68,
+      "end": 8.16
+    },
+    {
+      "word": "toggling",
+      "start": 8.16,
+      "end": 8.68
+    },
+    {
+      "word": "aspect",
+      "start": 8.68,
+      "end": 9.12
+    },
+    {
+      "word": "ratios,",
+      "start": 9.12,
+      "end": 9.62
+    },
+    {
+      "word": "nesting",
+      "start": 10.26,
+      "end": 10.36
+    },
+    {
+      "word": "sequences,",
+      "start": 10.36,
+      "end": 11.0
+    },
+    {
+      "word": "and",
+      "start": 11.4,
+      "end": 11.62
+    },
+    {
+      "word": "adjusting",
+      "start": 11.62,
+      "end": 12.06
+    },
+    {
+      "word": "lagging",
+      "start": 12.06,
+      "end": 12.48
+    },
+    {
+      "word": "title",
+      "start": 12.48,
+      "end": 12.86
+    },
+    {
+      "word": "layers.",
+      "start": 12.86,
+      "end": 13.32
+    },
+    {
+      "word": "Every",
+      "start": 13.78,
+      "end": 14.0
+    },
+    {
+      "word": "revision",
+      "start": 14.0,
+      "end": 14.42
+    },
+    {
+      "word": "forces",
+      "start": 14.42,
+      "end": 14.92
+    },
+    {
+      "word": "timeline",
+      "start": 14.92,
+      "end": 15.5
+    },
+    {
+      "word": "re",
+      "start": 15.5,
+      "end": 15.78
+    },
+    {
+      "word": "-renders",
+      "start": 15.78,
+      "end": 16.14
+    },
+    {
+      "word": "and",
+      "start": 16.14,
+      "end": 16.46
+    },
+    {
+      "word": "relinking",
+      "start": 16.46,
+      "end": 16.82
+    },
+    {
+      "word": "missing",
+      "start": 16.82,
+      "end": 17.18
+    },
+    {
+      "word": "media",
+      "start": 17.18,
+      "end": 17.62
+    },
+    {
+      "word": "across",
+      "start": 17.62,
+      "end": 18.08
+    },
+    {
+      "word": "clunky",
+      "start": 18.08,
+      "end": 18.4
+    },
+    {
+      "word": "project",
+      "start": 18.4,
+      "end": 18.96
+    },
+    {
+      "word": "bins.",
+      "start": 18.96,
+      "end": 19.38
+    },
+    {
+      "word": "Cap",
+      "start": 20.14,
+      "end": 20.14
+    },
+    {
+      "word": "-cut",
+      "start": 20.14,
+      "end": 20.36
+    },
+    {
+      "word": "speeds",
+      "start": 20.36,
+      "end": 20.8
+    },
+    {
+      "word": "passed",
+      "start": 20.8,
+      "end": 21.22
+    },
+    {
+      "word": "with",
+      "start": 21.22,
+      "end": 21.48
+    },
+    {
+      "word": "one",
+      "start": 21.48,
+      "end": 21.76
+    },
+    {
+      "word": "-tap",
+      "start": 21.76,
+      "end": 22.02
+    },
+    {
+      "word": "auto",
+      "start": 22.02,
+      "end": 22.38
+    },
+    {
+      "word": "-framing,",
+      "start": 22.38,
+      "end": 22.88
+    },
+    {
+      "word": "instant",
+      "start": 23.28,
+      "end": 23.52
+    },
+    {
+      "word": "-trending",
+      "start": 23.52,
+      "end": 23.92
+    },
+    {
+      "word": "audio",
+      "start": 23.92,
+      "end": 24.3
+    },
+    {
+      "word": "-syncing,",
+      "start": 24.3,
+      "end": 24.64
+    },
+    {
+      "word": "and",
+      "start": 24.94,
+      "end": 25.2
+    },
+    {
+      "word": "built",
+      "start": 25.2,
+      "end": 25.36
+    },
+    {
+      "word": "-in",
+      "start": 25.36,
+      "end": 25.58
+    },
+    {
+      "word": "kinetic",
+      "start": 25.58,
+      "end": 25.86
+    },
+    {
+      "word": "templates.",
+      "start": 25.86,
+      "end": 26.42
+    },
+    {
+      "word": "You",
+      "start": 26.42,
+      "end": 27.1
+    },
+    {
+      "word": "deliver",
+      "start": 27.1,
+      "end": 27.44
+    },
+    {
+      "word": "client",
+      "start": 27.44,
+      "end": 27.82
+    },
+    {
+      "word": "reels",
+      "start": 27.82,
+      "end": 28.2
+    },
+    {
+      "word": "three",
+      "start": 28.2,
+      "end": 28.56
+    },
+    {
+      "word": "times",
+      "start": 28.56,
+      "end": 28.9
+    },
+    {
+      "word": "faster.",
+      "start": 28.9,
+      "end": 29.34
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "The head-to-head editing test: who can finish a viral TikTok video faster?",
+      "line2": "CAPCUT VS PREMIERE PRO",
+      "tag": "\ud83d\uded1 CapCut vs Premiere Pro",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: CapCut vs Premiere Pro",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: CapCut vs Premiere Pro",
+        "subtitle": "CapCut vs Premiere Pro"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "CapCut vs Premiere Pro"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "CapCut vs Premiere Pro"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "CapCut vs Premiere Pro",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

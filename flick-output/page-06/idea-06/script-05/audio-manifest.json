@@ -1,0 +1,376 @@
+{
+  "page": "page-06",
+  "idea": "Async decision documentation framework using Github or Notion RFCs",
+  "text": "Here is how to document company decisions so new hires understand technical context years later. Tribal knowledge trapped in ephemeral Slack messages disappears every time a senior architect leaves. Onboarding developers waste weeks guessing why legacy databases were configured in unusual ways. Archiving approved RFCs within a searchable Notion database creates an immutable ledger of past choices. New hires reach full productivity in days.",
+  "duration": 26.304,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here's",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "how",
+      "start": 0.3,
+      "end": 0.44
+    },
+    {
+      "word": "to",
+      "start": 0.44,
+      "end": 0.58
+    },
+    {
+      "word": "document",
+      "start": 0.58,
+      "end": 0.96
+    },
+    {
+      "word": "company",
+      "start": 0.96,
+      "end": 1.36
+    },
+    {
+      "word": "decisions",
+      "start": 1.36,
+      "end": 1.88
+    },
+    {
+      "word": "so",
+      "start": 1.88,
+      "end": 2.22
+    },
+    {
+      "word": "new",
+      "start": 2.22,
+      "end": 2.44
+    },
+    {
+      "word": "hires",
+      "start": 2.44,
+      "end": 2.7
+    },
+    {
+      "word": "understand",
+      "start": 2.7,
+      "end": 3.32
+    },
+    {
+      "word": "technical",
+      "start": 3.32,
+      "end": 3.78
+    },
+    {
+      "word": "context",
+      "start": 3.78,
+      "end": 4.26
+    },
+    {
+      "word": "years",
+      "start": 4.26,
+      "end": 4.62
+    },
+    {
+      "word": "later.",
+      "start": 4.62,
+      "end": 5.16
+    },
+    {
+      "word": "Tribal",
+      "start": 5.72,
+      "end": 5.72
+    },
+    {
+      "word": "knowledge",
+      "start": 5.72,
+      "end": 6.16
+    },
+    {
+      "word": "trapped",
+      "start": 6.16,
+      "end": 6.48
+    },
+    {
+      "word": "in",
+      "start": 6.48,
+      "end": 6.7
+    },
+    {
+      "word": "ephemeral",
+      "start": 6.7,
+      "end": 7.12
+    },
+    {
+      "word": "slack",
+      "start": 7.12,
+      "end": 7.38
+    },
+    {
+      "word": "messages",
+      "start": 7.38,
+      "end": 7.94
+    },
+    {
+      "word": "disappears",
+      "start": 7.94,
+      "end": 8.78
+    },
+    {
+      "word": "every",
+      "start": 8.78,
+      "end": 9.2
+    },
+    {
+      "word": "time",
+      "start": 9.2,
+      "end": 9.58
+    },
+    {
+      "word": "a",
+      "start": 9.58,
+      "end": 9.8
+    },
+    {
+      "word": "senior",
+      "start": 9.8,
+      "end": 10.02
+    },
+    {
+      "word": "architect",
+      "start": 10.02,
+      "end": 10.52
+    },
+    {
+      "word": "leaves.",
+      "start": 10.52,
+      "end": 11.04
+    },
+    {
+      "word": "Onboarding",
+      "start": 11.74,
+      "end": 12.04
+    },
+    {
+      "word": "developers",
+      "start": 12.04,
+      "end": 12.44
+    },
+    {
+      "word": "waste",
+      "start": 12.44,
+      "end": 12.9
+    },
+    {
+      "word": "weeks",
+      "start": 12.9,
+      "end": 13.2
+    },
+    {
+      "word": "guessing",
+      "start": 13.2,
+      "end": 13.58
+    },
+    {
+      "word": "why",
+      "start": 13.58,
+      "end": 13.9
+    },
+    {
+      "word": "legacy",
+      "start": 13.9,
+      "end": 14.22
+    },
+    {
+      "word": "databases",
+      "start": 14.22,
+      "end": 14.74
+    },
+    {
+      "word": "were",
+      "start": 14.74,
+      "end": 15.14
+    },
+    {
+      "word": "configured",
+      "start": 15.14,
+      "end": 15.48
+    },
+    {
+      "word": "in",
+      "start": 15.48,
+      "end": 15.8
+    },
+    {
+      "word": "unusual",
+      "start": 15.8,
+      "end": 16.12
+    },
+    {
+      "word": "ways.",
+      "start": 16.12,
+      "end": 16.68
+    },
+    {
+      "word": "Archiving",
+      "start": 17.42,
+      "end": 17.72
+    },
+    {
+      "word": "approved",
+      "start": 17.72,
+      "end": 18.24
+    },
+    {
+      "word": "RFCs",
+      "start": 18.24,
+      "end": 18.98
+    },
+    {
+      "word": "within",
+      "start": 18.98,
+      "end": 19.16
+    },
+    {
+      "word": "a",
+      "start": 19.16,
+      "end": 19.46
+    },
+    {
+      "word": "searchable",
+      "start": 19.46,
+      "end": 19.82
+    },
+    {
+      "word": "notion",
+      "start": 19.82,
+      "end": 20.2
+    },
+    {
+      "word": "database",
+      "start": 20.2,
+      "end": 20.66
+    },
+    {
+      "word": "creates",
+      "start": 20.66,
+      "end": 21.38
+    },
+    {
+      "word": "an",
+      "start": 21.38,
+      "end": 21.58
+    },
+    {
+      "word": "immutable",
+      "start": 21.58,
+      "end": 21.98
+    },
+    {
+      "word": "ledger",
+      "start": 21.98,
+      "end": 22.32
+    },
+    {
+      "word": "of",
+      "start": 22.32,
+      "end": 22.6
+    },
+    {
+      "word": "past",
+      "start": 22.6,
+      "end": 22.84
+    },
+    {
+      "word": "choices.",
+      "start": 22.84,
+      "end": 23.36
+    },
+    {
+      "word": "New",
+      "start": 24.02,
+      "end": 24.1
+    },
+    {
+      "word": "hires",
+      "start": 24.1,
+      "end": 24.38
+    },
+    {
+      "word": "reach",
+      "start": 24.38,
+      "end": 24.76
+    },
+    {
+      "word": "full",
+      "start": 24.76,
+      "end": 25.08
+    },
+    {
+      "word": "productivity",
+      "start": 25.08,
+      "end": 25.58
+    },
+    {
+      "word": "in",
+      "start": 25.58,
+      "end": 25.92
+    },
+    {
+      "word": "days.",
+      "start": 25.92,
+      "end": 26.22
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How to document company decisions so new hires understand the context years later.",
+      "line2": "ASYNC DECISION FRAMEWORK",
+      "tag": "\ud83d\uded1 Async decision documentation framework using Github or Notion RFCs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Async decision documentation framework using Github or Notion RFCs",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Async decision documentation framework using Github or Notion RFCs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "page": "page-08",
+  "idea": "How to automate your phone to mute during meetings and bedtime",
+  "text": "Stop letting your smartphone buzz loudly in the middle of important client presentations. Frantically fumbling to silence incoming calls destroys your professional composure and team focus. Relying on manual mute switches fails because you forget to re-enable sound, missing urgent calls later. Set up an automated Focus Mode on iPhone or Android synced directly to your Google Calendar. Your phone silences itself seamlessly during every meeting.",
+  "duration": 25.643,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "letting",
+      "start": 0.32,
+      "end": 0.52
+    },
+    {
+      "word": "your",
+      "start": 0.52,
+      "end": 0.92
+    },
+    {
+      "word": "smartphone",
+      "start": 0.92,
+      "end": 1.08
+    },
+    {
+      "word": "buzz",
+      "start": 1.08,
+      "end": 1.5
+    },
+    {
+      "word": "loudly",
+      "start": 1.5,
+      "end": 1.92
+    },
+    {
+      "word": "in",
+      "start": 1.92,
+      "end": 2.2
+    },
+    {
+      "word": "the",
+      "start": 2.2,
+      "end": 2.3
+    },
+    {
+      "word": "middle",
+      "start": 2.3,
+      "end": 2.44
+    },
+    {
+      "word": "of",
+      "start": 2.44,
+      "end": 2.82
+    },
+    {
+      "word": "important",
+      "start": 2.82,
+      "end": 3.04
+    },
+    {
+      "word": "client",
+      "start": 3.04,
+      "end": 3.38
+    },
+    {
+      "word": "presentations.",
+      "start": 3.38,
+      "end": 4.18
+    },
+    {
+      "word": "Frantically",
+      "start": 4.68,
+      "end": 5.1
+    },
+    {
+      "word": "fumbling",
+      "start": 5.1,
+      "end": 5.46
+    },
+    {
+      "word": "to",
+      "start": 5.46,
+      "end": 5.72
+    },
+    {
+      "word": "silence",
+      "start": 5.72,
+      "end": 6.1
+    },
+    {
+      "word": "incoming",
+      "start": 6.1,
+      "end": 6.54
+    },
+    {
+      "word": "calls",
+      "start": 6.54,
+      "end": 7.02
+    },
+    {
+      "word": "destroys",
+      "start": 7.02,
+      "end": 7.5
+    },
+    {
+      "word": "your",
+      "start": 7.5,
+      "end": 8.18
+    },
+    {
+      "word": "professional",
+      "start": 8.18,
+      "end": 8.22
+    },
+    {
+      "word": "composure",
+      "start": 8.22,
+      "end": 8.74
+    },
+    {
+      "word": "and",
+      "start": 8.74,
+      "end": 9.04
+    },
+    {
+      "word": "team",
+      "start": 9.04,
+      "end": 9.3
+    },
+    {
+      "word": "focus.",
+      "start": 9.3,
+      "end": 9.76
+    },
+    {
+      "word": "Relying",
+      "start": 10.32,
+      "end": 10.6
+    },
+    {
+      "word": "on",
+      "start": 10.6,
+      "end": 10.82
+    },
+    {
+      "word": "manual",
+      "start": 10.82,
+      "end": 11.12
+    },
+    {
+      "word": "mute",
+      "start": 11.12,
+      "end": 11.44
+    },
+    {
+      "word": "switches",
+      "start": 11.44,
+      "end": 11.82
+    },
+    {
+      "word": "fails",
+      "start": 11.82,
+      "end": 12.24
+    },
+    {
+      "word": "because",
+      "start": 12.24,
+      "end": 12.7
+    },
+    {
+      "word": "you",
+      "start": 12.7,
+      "end": 12.86
+    },
+    {
+      "word": "forget",
+      "start": 12.86,
+      "end": 13.12
+    },
+    {
+      "word": "to",
+      "start": 13.12,
+      "end": 13.36
+    },
+    {
+      "word": "re",
+      "start": 13.36,
+      "end": 13.44
+    },
+    {
+      "word": "-enable",
+      "start": 13.44,
+      "end": 13.76
+    },
+    {
+      "word": "sound,",
+      "start": 13.76,
+      "end": 14.36
+    },
+    {
+      "word": "missing",
+      "start": 14.92,
+      "end": 14.96
+    },
+    {
+      "word": "urgent",
+      "start": 14.96,
+      "end": 15.3
+    },
+    {
+      "word": "calls",
+      "start": 15.3,
+      "end": 15.66
+    },
+    {
+      "word": "later.",
+      "start": 15.66,
+      "end": 16.14
+    },
+    {
+      "word": "Set",
+      "start": 16.56,
+      "end": 16.7
+    },
+    {
+      "word": "up",
+      "start": 16.7,
+      "end": 16.84
+    },
+    {
+      "word": "an",
+      "start": 16.84,
+      "end": 17.3
+    },
+    {
+      "word": "automated",
+      "start": 17.3,
+      "end": 17.46
+    },
+    {
+      "word": "focus",
+      "start": 17.46,
+      "end": 17.88
+    },
+    {
+      "word": "mode",
+      "start": 17.88,
+      "end": 18.12
+    },
+    {
+      "word": "on",
+      "start": 18.12,
+      "end": 18.36
+    },
+    {
+      "word": "iPhone",
+      "start": 18.36,
+      "end": 18.8
+    },
+    {
+      "word": "or",
+      "start": 18.8,
+      "end": 19.26
+    },
+    {
+      "word": "Android,",
+      "start": 19.26,
+      "end": 19.76
+    },
+    {
+      "word": "sync",
+      "start": 20.22,
+      "end": 20.32
+    },
+    {
+      "word": "directly",
+      "start": 20.32,
+      "end": 20.68
+    },
+    {
+      "word": "to",
+      "start": 20.68,
+      "end": 20.98
+    },
+    {
+      "word": "your",
+      "start": 20.98,
+      "end": 21.1
+    },
+    {
+      "word": "Google",
+      "start": 21.1,
+      "end": 21.4
+    },
+    {
+      "word": "Calendar.",
+      "start": 21.4,
+      "end": 21.78
+    },
+    {
+      "word": "Your",
+      "start": 22.44,
+      "end": 22.68
+    },
+    {
+      "word": "phone",
+      "start": 22.68,
+      "end": 23.06
+    },
+    {
+      "word": "silences",
+      "start": 23.06,
+      "end": 23.56
+    },
+    {
+      "word": "itself",
+      "start": 23.56,
+      "end": 24.08
+    },
+    {
+      "word": "seamlessly",
+      "start": 24.08,
+      "end": 24.52
+    },
+    {
+      "word": "during",
+      "start": 24.52,
+      "end": 25.02
+    },
+    {
+      "word": "every",
+      "start": 25.02,
+      "end": 25.3
+    },
+    {
+      "word": "meeting.",
+      "start": 25.3,
+      "end": 25.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop having your phone buzz loudly in the middle of important work calls.",
+      "line2": "AUTO-MUTE YOUR PHONE",
+      "tag": "\ud83d\uded1 How to automate your phone to mute during meetings and bedtime",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to automate your phone to mute during meetings and bedtime",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to automate your phone to mute during meetings and bedtime",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

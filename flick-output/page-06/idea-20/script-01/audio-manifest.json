@@ -1,0 +1,381 @@
+{
+  "page": "page-06",
+  "idea": "Async project health check widget that flags stalled deliverables",
+  "text": "How remote managers know which projects are off track before deadlines get missed. Most team leads rely on scattered messages, discovering stalled tasks only after delivery dates fail. Waiting for weekly status syncs hides technical blockers until it is too late. Range triggers daily traffic-light status prompts in Slack and automatically flags overdue pull requests. You catch scope drift days before release.",
+  "duration": 23.296,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "remote",
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "word": "managers",
+      "start": 0.52,
+      "end": 0.94
+    },
+    {
+      "word": "know",
+      "start": 0.94,
+      "end": 1.34
+    },
+    {
+      "word": "which",
+      "start": 1.34,
+      "end": 1.62
+    },
+    {
+      "word": "projects",
+      "start": 1.62,
+      "end": 1.88
+    },
+    {
+      "word": "are",
+      "start": 1.88,
+      "end": 2.12
+    },
+    {
+      "word": "off",
+      "start": 2.12,
+      "end": 2.32
+    },
+    {
+      "word": "track",
+      "start": 2.32,
+      "end": 2.62
+    },
+    {
+      "word": "before",
+      "start": 2.62,
+      "end": 2.9
+    },
+    {
+      "word": "deadlines",
+      "start": 2.9,
+      "end": 3.26
+    },
+    {
+      "word": "get",
+      "start": 3.26,
+      "end": 3.64
+    },
+    {
+      "word": "missed.",
+      "start": 3.64,
+      "end": 3.98
+    },
+    {
+      "word": "Most",
+      "start": 4.4,
+      "end": 4.58
+    },
+    {
+      "word": "team",
+      "start": 4.58,
+      "end": 4.86
+    },
+    {
+      "word": "leads",
+      "start": 4.86,
+      "end": 5.16
+    },
+    {
+      "word": "rely",
+      "start": 5.16,
+      "end": 5.46
+    },
+    {
+      "word": "on",
+      "start": 5.46,
+      "end": 5.72
+    },
+    {
+      "word": "scattered",
+      "start": 5.72,
+      "end": 6.02
+    },
+    {
+      "word": "messages,",
+      "start": 6.02,
+      "end": 6.62
+    },
+    {
+      "word": "discovering",
+      "start": 7.26,
+      "end": 7.34
+    },
+    {
+      "word": "stalled",
+      "start": 7.34,
+      "end": 7.92
+    },
+    {
+      "word": "tasks",
+      "start": 7.92,
+      "end": 8.36
+    },
+    {
+      "word": "only",
+      "start": 8.36,
+      "end": 8.78
+    },
+    {
+      "word": "after",
+      "start": 8.78,
+      "end": 9.1
+    },
+    {
+      "word": "delivery",
+      "start": 9.1,
+      "end": 9.32
+    },
+    {
+      "word": "dates",
+      "start": 9.32,
+      "end": 9.7
+    },
+    {
+      "word": "fail.",
+      "start": 9.7,
+      "end": 10.18
+    },
+    {
+      "word": "Waiting",
+      "start": 10.62,
+      "end": 10.78
+    },
+    {
+      "word": "for",
+      "start": 10.78,
+      "end": 11.04
+    },
+    {
+      "word": "weekly",
+      "start": 11.04,
+      "end": 11.36
+    },
+    {
+      "word": "status",
+      "start": 11.36,
+      "end": 11.72
+    },
+    {
+      "word": "syncs",
+      "start": 11.72,
+      "end": 12.0
+    },
+    {
+      "word": "hides",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "word": "technical",
+      "start": 12.32,
+      "end": 12.74
+    },
+    {
+      "word": "blockers",
+      "start": 12.74,
+      "end": 13.24
+    },
+    {
+      "word": "until",
+      "start": 13.24,
+      "end": 13.7
+    },
+    {
+      "word": "it",
+      "start": 13.7,
+      "end": 13.84
+    },
+    {
+      "word": "is",
+      "start": 13.84,
+      "end": 14.0
+    },
+    {
+      "word": "too",
+      "start": 14.0,
+      "end": 14.26
+    },
+    {
+      "word": "late.",
+      "start": 14.26,
+      "end": 14.58
+    },
+    {
+      "word": "Range",
+      "start": 15.36,
+      "end": 15.36
+    },
+    {
+      "word": "triggers",
+      "start": 15.36,
+      "end": 15.72
+    },
+    {
+      "word": "daily",
+      "start": 15.72,
+      "end": 16.16
+    },
+    {
+      "word": "traffic",
+      "start": 16.16,
+      "end": 16.48
+    },
+    {
+      "word": "light",
+      "start": 16.48,
+      "end": 16.8
+    },
+    {
+      "word": "status",
+      "start": 16.8,
+      "end": 17.2
+    },
+    {
+      "word": "prompts",
+      "start": 17.2,
+      "end": 17.5
+    },
+    {
+      "word": "in",
+      "start": 17.5,
+      "end": 17.8
+    },
+    {
+      "word": "Slack",
+      "start": 17.8,
+      "end": 18.1
+    },
+    {
+      "word": "and",
+      "start": 18.1,
+      "end": 18.46
+    },
+    {
+      "word": "automatically",
+      "start": 18.46,
+      "end": 18.84
+    },
+    {
+      "word": "flags",
+      "start": 18.84,
+      "end": 19.4
+    },
+    {
+      "word": "over",
+      "start": 19.4,
+      "end": 19.62
+    },
+    {
+      "word": "new",
+      "start": 19.62,
+      "end": 19.88
+    },
+    {
+      "word": "pull",
+      "start": 19.88,
+      "end": 20.12
+    },
+    {
+      "word": "requests,",
+      "start": 20.12,
+      "end": 20.6
+    },
+    {
+      "word": "you",
+      "start": 21.16,
+      "end": 21.24
+    },
+    {
+      "word": "catch",
+      "start": 21.24,
+      "end": 21.54
+    },
+    {
+      "word": "scope",
+      "start": 21.54,
+      "end": 21.86
+    },
+    {
+      "word": "drift",
+      "start": 21.86,
+      "end": 22.16
+    },
+    {
+      "word": "days",
+      "start": 22.16,
+      "end": 22.46
+    },
+    {
+      "word": "before",
+      "start": 22.46,
+      "end": 22.8
+    },
+    {
+      "word": "release.",
+      "start": 22.8,
+      "end": 23.16
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "How remote managers know which projects are off track before deadlines get missed.",
+      "line2": "FLAG STALLED DELIVERABLES",
+      "tag": "\ud83d\uded1 Async project health check widget that flags stalled deliverables",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async project health check widget that flags stalled deliverables",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async project health check widget that flags stalled deliverables",
+        "subtitle": "Async project health check widget that flags stalled deliverables"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async project health check widget that flags stalled deliverables"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async project health check widget that flags stalled deliverables"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async project health check widget that flags stalled deliverables",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

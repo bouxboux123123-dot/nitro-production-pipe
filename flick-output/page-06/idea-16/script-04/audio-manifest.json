@@ -1,0 +1,416 @@
+{
+  "page": "page-06",
+  "idea": "Automated meeting cost calculator that shows the dollar value of big syncs",
+  "text": "Here is the eye-opening tool that encourages remote teams to default to asynchronous communication. Workers default to booking Zoom calls because composing a structured update feels like more upfront effort. That habit floods schedules with low-value check-ins, creating compounding context switching across product squads. Installing a calendar cost plugin exposes financial impact before sending invites, nudging organizers toward Loom videos. Meeting volume drops forty percent company-wide.",
+  "duration": 30.074,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "is",
+      "start": 0.28,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.64
+    },
+    {
+      "word": "eye",
+      "start": 0.64,
+      "end": 0.88
+    },
+    {
+      "word": "-opening",
+      "start": 0.88,
+      "end": 1.14
+    },
+    {
+      "word": "tool",
+      "start": 1.14,
+      "end": 1.68
+    },
+    {
+      "word": "that",
+      "start": 1.68,
+      "end": 1.96
+    },
+    {
+      "word": "encourages",
+      "start": 1.96,
+      "end": 2.4
+    },
+    {
+      "word": "remote",
+      "start": 2.4,
+      "end": 2.8
+    },
+    {
+      "word": "teams",
+      "start": 2.8,
+      "end": 3.32
+    },
+    {
+      "word": "to",
+      "start": 3.32,
+      "end": 3.58
+    },
+    {
+      "word": "default",
+      "start": 3.58,
+      "end": 3.9
+    },
+    {
+      "word": "to",
+      "start": 3.9,
+      "end": 4.16
+    },
+    {
+      "word": "asynchronous",
+      "start": 4.16,
+      "end": 4.6
+    },
+    {
+      "word": "communication.",
+      "start": 4.6,
+      "end": 5.6
+    },
+    {
+      "word": "Workers",
+      "start": 6.48,
+      "end": 6.48
+    },
+    {
+      "word": "default",
+      "start": 6.48,
+      "end": 6.92
+    },
+    {
+      "word": "to",
+      "start": 6.92,
+      "end": 7.36
+    },
+    {
+      "word": "booking",
+      "start": 7.36,
+      "end": 7.48
+    },
+    {
+      "word": "Zoom",
+      "start": 7.48,
+      "end": 7.82
+    },
+    {
+      "word": "calls",
+      "start": 7.82,
+      "end": 8.2
+    },
+    {
+      "word": "because",
+      "start": 8.2,
+      "end": 8.8
+    },
+    {
+      "word": "composing",
+      "start": 8.8,
+      "end": 9.28
+    },
+    {
+      "word": "a",
+      "start": 9.28,
+      "end": 9.58
+    },
+    {
+      "word": "structured",
+      "start": 9.58,
+      "end": 9.98
+    },
+    {
+      "word": "update",
+      "start": 9.98,
+      "end": 10.4
+    },
+    {
+      "word": "feels",
+      "start": 10.4,
+      "end": 10.8
+    },
+    {
+      "word": "like",
+      "start": 10.8,
+      "end": 11.06
+    },
+    {
+      "word": "more",
+      "start": 11.06,
+      "end": 11.34
+    },
+    {
+      "word": "upfront",
+      "start": 11.34,
+      "end": 11.8
+    },
+    {
+      "word": "effort",
+      "start": 11.8,
+      "end": 12.22
+    },
+    {
+      "word": "that",
+      "start": 12.22,
+      "end": 12.64
+    },
+    {
+      "word": "habit",
+      "start": 12.64,
+      "end": 12.98
+    },
+    {
+      "word": "flood",
+      "start": 12.98,
+      "end": 13.26
+    },
+    {
+      "word": "schedules",
+      "start": 13.26,
+      "end": 13.72
+    },
+    {
+      "word": "with",
+      "start": 13.72,
+      "end": 14.06
+    },
+    {
+      "word": "low",
+      "start": 14.06,
+      "end": 14.34
+    },
+    {
+      "word": "-value",
+      "start": 14.34,
+      "end": 14.64
+    },
+    {
+      "word": "check",
+      "start": 14.64,
+      "end": 14.92
+    },
+    {
+      "word": "-ins",
+      "start": 14.92,
+      "end": 15.22
+    },
+    {
+      "word": "creating",
+      "start": 15.22,
+      "end": 15.88
+    },
+    {
+      "word": "compounding",
+      "start": 15.88,
+      "end": 16.52
+    },
+    {
+      "word": "contexts",
+      "start": 16.52,
+      "end": 17.16
+    },
+    {
+      "word": "switching",
+      "start": 17.16,
+      "end": 17.58
+    },
+    {
+      "word": "across",
+      "start": 17.58,
+      "end": 18.06
+    },
+    {
+      "word": "product",
+      "start": 18.06,
+      "end": 18.32
+    },
+    {
+      "word": "squads.",
+      "start": 18.32,
+      "end": 18.96
+    },
+    {
+      "word": "Installing",
+      "start": 19.6,
+      "end": 19.96
+    },
+    {
+      "word": "a",
+      "start": 19.96,
+      "end": 20.42
+    },
+    {
+      "word": "calendar",
+      "start": 20.42,
+      "end": 20.46
+    },
+    {
+      "word": "cost,",
+      "start": 20.46,
+      "end": 20.92
+    },
+    {
+      "word": "plug",
+      "start": 21.08,
+      "end": 21.22
+    },
+    {
+      "word": "-in",
+      "start": 21.22,
+      "end": 21.4
+    },
+    {
+      "word": "exposes",
+      "start": 21.4,
+      "end": 21.86
+    },
+    {
+      "word": "financial",
+      "start": 21.86,
+      "end": 22.56
+    },
+    {
+      "word": "impact",
+      "start": 22.56,
+      "end": 23.06
+    },
+    {
+      "word": "before",
+      "start": 23.06,
+      "end": 23.44
+    },
+    {
+      "word": "sending",
+      "start": 23.44,
+      "end": 23.76
+    },
+    {
+      "word": "invites,",
+      "start": 23.76,
+      "end": 24.46
+    },
+    {
+      "word": "nudging",
+      "start": 24.84,
+      "end": 25.08
+    },
+    {
+      "word": "organizers",
+      "start": 25.08,
+      "end": 25.64
+    },
+    {
+      "word": "toward",
+      "start": 25.64,
+      "end": 26.16
+    },
+    {
+      "word": "loom",
+      "start": 26.16,
+      "end": 26.44
+    },
+    {
+      "word": "videos.",
+      "start": 26.44,
+      "end": 27.0
+    },
+    {
+      "word": "Meeting",
+      "start": 27.0,
+      "end": 27.76
+    },
+    {
+      "word": "volume",
+      "start": 27.76,
+      "end": 28.18
+    },
+    {
+      "word": "drops",
+      "start": 28.18,
+      "end": 28.62
+    },
+    {
+      "word": "40",
+      "start": 28.62,
+      "end": 29.1
+    },
+    {
+      "word": "%",
+      "start": 29.1,
+      "end": 29.42
+    },
+    {
+      "word": "company",
+      "start": 29.42,
+      "end": 29.68
+    },
+    {
+      "word": "-wide.",
+      "start": 29.68,
+      "end": 30.04
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "The eye-opening tool that encourages teams to default to async communication.",
+      "line2": "CALCULATE MEETING COSTS",
+      "tag": "\ud83d\uded1 Automated meeting cost calculator that shows the dollar value of big syncs",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Automated meeting cost calculator that shows the dollar value of big syncs",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Automated meeting cost calculator that shows the dollar value of big syncs",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Automated meeting cost calculator that shows the dollar value of big syncs",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

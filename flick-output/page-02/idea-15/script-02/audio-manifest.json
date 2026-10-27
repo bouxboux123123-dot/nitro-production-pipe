@@ -1,0 +1,391 @@
+{
+  "page": "page-02",
+  "idea": "Automated social proof collector for freelance testimonials",
+  "text": "Stop awkwardly begging past freelance clients for reviews on LinkedIn months after delivery. Waiting until you need new leads feels desperate and catches former clients with faded memories. Scattered LinkedIn recommendations get buried on profiles instead of proving real metrics on your proposals. Testimonial collectors let clients record sixty-second video reviews directly from phone browsers without logging in. You close bigger retainers with authentic proof.",
+  "duration": 25.941,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "awkwardly",
+      "start": 0.34,
+      "end": 0.68
+    },
+    {
+      "word": "begging",
+      "start": 0.68,
+      "end": 1.08
+    },
+    {
+      "word": "past",
+      "start": 1.08,
+      "end": 1.48
+    },
+    {
+      "word": "freelance",
+      "start": 1.48,
+      "end": 1.82
+    },
+    {
+      "word": "clients",
+      "start": 1.82,
+      "end": 2.26
+    },
+    {
+      "word": "for",
+      "start": 2.26,
+      "end": 2.54
+    },
+    {
+      "word": "reviews",
+      "start": 2.54,
+      "end": 2.82
+    },
+    {
+      "word": "on",
+      "start": 2.82,
+      "end": 3.1
+    },
+    {
+      "word": "LinkedIn",
+      "start": 3.1,
+      "end": 3.34
+    },
+    {
+      "word": "months",
+      "start": 3.34,
+      "end": 3.76
+    },
+    {
+      "word": "after",
+      "start": 3.76,
+      "end": 4.1
+    },
+    {
+      "word": "delivery.",
+      "start": 4.1,
+      "end": 4.62
+    },
+    {
+      "word": "Waiting",
+      "start": 5.32,
+      "end": 5.32
+    },
+    {
+      "word": "until",
+      "start": 5.32,
+      "end": 5.68
+    },
+    {
+      "word": "you",
+      "start": 5.68,
+      "end": 5.8
+    },
+    {
+      "word": "need",
+      "start": 5.8,
+      "end": 6.02
+    },
+    {
+      "word": "new",
+      "start": 6.02,
+      "end": 6.22
+    },
+    {
+      "word": "leads",
+      "start": 6.22,
+      "end": 6.5
+    },
+    {
+      "word": "feels",
+      "start": 6.5,
+      "end": 6.82
+    },
+    {
+      "word": "desperate",
+      "start": 6.82,
+      "end": 7.2
+    },
+    {
+      "word": "and",
+      "start": 7.2,
+      "end": 7.72
+    },
+    {
+      "word": "catches",
+      "start": 7.72,
+      "end": 8.04
+    },
+    {
+      "word": "former",
+      "start": 8.04,
+      "end": 8.42
+    },
+    {
+      "word": "clients",
+      "start": 8.42,
+      "end": 8.78
+    },
+    {
+      "word": "with",
+      "start": 8.78,
+      "end": 9.14
+    },
+    {
+      "word": "faded",
+      "start": 9.14,
+      "end": 9.32
+    },
+    {
+      "word": "memories.",
+      "start": 9.32,
+      "end": 9.86
+    },
+    {
+      "word": "Scattered",
+      "start": 10.5,
+      "end": 10.78
+    },
+    {
+      "word": "LinkedIn",
+      "start": 10.78,
+      "end": 11.22
+    },
+    {
+      "word": "recommendations",
+      "start": 11.22,
+      "end": 11.86
+    },
+    {
+      "word": "get",
+      "start": 11.86,
+      "end": 12.36
+    },
+    {
+      "word": "buried",
+      "start": 12.36,
+      "end": 12.58
+    },
+    {
+      "word": "on",
+      "start": 12.58,
+      "end": 12.94
+    },
+    {
+      "word": "profiles",
+      "start": 12.94,
+      "end": 13.28
+    },
+    {
+      "word": "instead",
+      "start": 13.28,
+      "end": 13.8
+    },
+    {
+      "word": "of",
+      "start": 13.8,
+      "end": 14.22
+    },
+    {
+      "word": "proving",
+      "start": 14.22,
+      "end": 14.34
+    },
+    {
+      "word": "real",
+      "start": 14.34,
+      "end": 14.64
+    },
+    {
+      "word": "metrics",
+      "start": 14.64,
+      "end": 14.98
+    },
+    {
+      "word": "on",
+      "start": 14.98,
+      "end": 15.18
+    },
+    {
+      "word": "your",
+      "start": 15.18,
+      "end": 15.38
+    },
+    {
+      "word": "proposals.",
+      "start": 15.38,
+      "end": 15.84
+    },
+    {
+      "word": "Testimonial",
+      "start": 16.64,
+      "end": 17.14
+    },
+    {
+      "word": "collectors",
+      "start": 17.14,
+      "end": 17.52
+    },
+    {
+      "word": "let",
+      "start": 17.52,
+      "end": 17.94
+    },
+    {
+      "word": "clients",
+      "start": 17.94,
+      "end": 18.32
+    },
+    {
+      "word": "record",
+      "start": 18.32,
+      "end": 18.72
+    },
+    {
+      "word": "60",
+      "start": 18.72,
+      "end": 19.12
+    },
+    {
+      "word": "-second",
+      "start": 19.12,
+      "end": 19.38
+    },
+    {
+      "word": "video",
+      "start": 19.38,
+      "end": 19.84
+    },
+    {
+      "word": "reviews",
+      "start": 19.84,
+      "end": 20.36
+    },
+    {
+      "word": "directly",
+      "start": 20.36,
+      "end": 20.8
+    },
+    {
+      "word": "from",
+      "start": 20.8,
+      "end": 21.16
+    },
+    {
+      "word": "phone",
+      "start": 21.16,
+      "end": 21.44
+    },
+    {
+      "word": "browsers",
+      "start": 21.44,
+      "end": 21.88
+    },
+    {
+      "word": "without",
+      "start": 21.88,
+      "end": 22.5
+    },
+    {
+      "word": "logging",
+      "start": 22.5,
+      "end": 22.8
+    },
+    {
+      "word": "in.",
+      "start": 22.8,
+      "end": 23.38
+    },
+    {
+      "word": "You",
+      "start": 23.7,
+      "end": 23.76
+    },
+    {
+      "word": "close",
+      "start": 23.76,
+      "end": 24.04
+    },
+    {
+      "word": "bigger",
+      "start": 24.04,
+      "end": 24.34
+    },
+    {
+      "word": "retainers",
+      "start": 24.34,
+      "end": 24.86
+    },
+    {
+      "word": "with",
+      "start": 24.86,
+      "end": 25.16
+    },
+    {
+      "word": "authentic",
+      "start": 25.16,
+      "end": 25.48
+    },
+    {
+      "word": "proof.",
+      "start": 25.48,
+      "end": 25.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREELANCE AI",
+      "line1": "Stop awkwardly begging past freelance clients for reviews on LinkedIn.",
+      "line2": "COLLECT CLIENT TESTIMONIALS",
+      "tag": "\ud83d\uded1 Automated social proof collector for freelance testimonials",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREELANCE AI BOTTLENECK",
+      "title": "AI Contract Redline: Automated social proof collector for freelance testimonials",
+      "primitive": "ContractRedlineScanner",
+      "props": {
+        "title": "AI Contract Redline: Automated social proof collector for freelance testimonials",
+        "subtitle": "Automated social proof collector for freelance testimonials"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Hidden Indemnity & Liability Trap",
+      "primitive": "IndemnityTrapCard",
+      "props": {
+        "title": "Hidden Indemnity & Liability Trap",
+        "subtitle": "Automated social proof collector for freelance testimonials"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Protected Terms Comparison",
+      "primitive": "ClauseComparisonSlider",
+      "props": {
+        "title": "Protected Terms Comparison",
+        "subtitle": "Automated social proof collector for freelance testimonials"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Scope Protection Active",
+      "primitive": "ScopeCreepMeter",
+      "props": {
+        "title": "Scope Protection Active",
+        "subtitle": "Automated social proof collector for freelance testimonials",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

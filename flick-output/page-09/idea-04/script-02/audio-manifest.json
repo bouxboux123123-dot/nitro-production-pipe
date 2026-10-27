@@ -1,0 +1,401 @@
+{
+  "page": "page-09",
+  "idea": "Loom vs Tella: which screen recording tool makes better client demos",
+  "text": "Loom is great for quick internal chats, but Tella makes you look like a production studio. Sending prospects a raw Loom link means sharing awkward pauses, unedited stumbles, and desktop clutter. Low presentation quality undermines your brand credibility and hurts high-ticket conversion rates. Tella lets you record multiple takes, crop interfaces dynamically, and apply studio backgrounds without technical editing. This closes more premium clients without extra stress.",
+  "duration": 28.389,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Loom",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "is",
+      "start": 0.32,
+      "end": 0.58
+    },
+    {
+      "word": "great",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "for",
+      "start": 0.86,
+      "end": 1.06
+    },
+    {
+      "word": "quick",
+      "start": 1.06,
+      "end": 1.28
+    },
+    {
+      "word": "internal",
+      "start": 1.28,
+      "end": 1.74
+    },
+    {
+      "word": "chats,",
+      "start": 1.74,
+      "end": 2.16
+    },
+    {
+      "word": "but",
+      "start": 2.58,
+      "end": 2.7
+    },
+    {
+      "word": "Tella",
+      "start": 2.7,
+      "end": 2.88
+    },
+    {
+      "word": "makes",
+      "start": 2.88,
+      "end": 3.18
+    },
+    {
+      "word": "you",
+      "start": 3.18,
+      "end": 3.34
+    },
+    {
+      "word": "look",
+      "start": 3.34,
+      "end": 3.52
+    },
+    {
+      "word": "like",
+      "start": 3.52,
+      "end": 3.74
+    },
+    {
+      "word": "a",
+      "start": 3.74,
+      "end": 4.2
+    },
+    {
+      "word": "production",
+      "start": 4.2,
+      "end": 4.2
+    },
+    {
+      "word": "studio.",
+      "start": 4.2,
+      "end": 4.84
+    },
+    {
+      "word": "Sending",
+      "start": 5.62,
+      "end": 5.62
+    },
+    {
+      "word": "prospects",
+      "start": 5.62,
+      "end": 6.22
+    },
+    {
+      "word": "a",
+      "start": 6.22,
+      "end": 6.64
+    },
+    {
+      "word": "raw",
+      "start": 6.64,
+      "end": 6.82
+    },
+    {
+      "word": "loom",
+      "start": 6.82,
+      "end": 7.08
+    },
+    {
+      "word": "link",
+      "start": 7.08,
+      "end": 7.34
+    },
+    {
+      "word": "means",
+      "start": 7.34,
+      "end": 7.68
+    },
+    {
+      "word": "sharing",
+      "start": 7.68,
+      "end": 8.06
+    },
+    {
+      "word": "awkward",
+      "start": 8.06,
+      "end": 8.4
+    },
+    {
+      "word": "pauses,",
+      "start": 8.4,
+      "end": 8.98
+    },
+    {
+      "word": "unedited",
+      "start": 9.46,
+      "end": 9.78
+    },
+    {
+      "word": "stumbles,",
+      "start": 9.78,
+      "end": 10.22
+    },
+    {
+      "word": "and",
+      "start": 10.48,
+      "end": 10.58
+    },
+    {
+      "word": "desktop",
+      "start": 10.58,
+      "end": 10.92
+    },
+    {
+      "word": "clutter.",
+      "start": 10.92,
+      "end": 11.38
+    },
+    {
+      "word": "Low",
+      "start": 12.02,
+      "end": 12.08
+    },
+    {
+      "word": "presentation",
+      "start": 12.08,
+      "end": 12.64
+    },
+    {
+      "word": "quality",
+      "start": 12.64,
+      "end": 13.3
+    },
+    {
+      "word": "undermines",
+      "start": 13.3,
+      "end": 13.76
+    },
+    {
+      "word": "your",
+      "start": 13.76,
+      "end": 14.14
+    },
+    {
+      "word": "brand",
+      "start": 14.14,
+      "end": 14.44
+    },
+    {
+      "word": "credibility",
+      "start": 14.44,
+      "end": 14.94
+    },
+    {
+      "word": "and",
+      "start": 14.94,
+      "end": 15.42
+    },
+    {
+      "word": "hurts",
+      "start": 15.42,
+      "end": 15.64
+    },
+    {
+      "word": "high",
+      "start": 15.64,
+      "end": 15.98
+    },
+    {
+      "word": "-ticket",
+      "start": 15.98,
+      "end": 16.2
+    },
+    {
+      "word": "conversion",
+      "start": 16.2,
+      "end": 16.6
+    },
+    {
+      "word": "rates.",
+      "start": 16.6,
+      "end": 17.24
+    },
+    {
+      "word": "Tella",
+      "start": 17.78,
+      "end": 17.9
+    },
+    {
+      "word": "lets",
+      "start": 17.9,
+      "end": 18.18
+    },
+    {
+      "word": "you",
+      "start": 18.18,
+      "end": 18.4
+    },
+    {
+      "word": "record",
+      "start": 18.4,
+      "end": 18.74
+    },
+    {
+      "word": "multiple",
+      "start": 18.74,
+      "end": 19.16
+    },
+    {
+      "word": "takes,",
+      "start": 19.16,
+      "end": 19.7
+    },
+    {
+      "word": "crop",
+      "start": 20.0,
+      "end": 20.34
+    },
+    {
+      "word": "interfaces",
+      "start": 20.34,
+      "end": 20.9
+    },
+    {
+      "word": "dynamically,",
+      "start": 20.9,
+      "end": 21.54
+    },
+    {
+      "word": "and",
+      "start": 21.98,
+      "end": 22.18
+    },
+    {
+      "word": "apply",
+      "start": 22.18,
+      "end": 22.42
+    },
+    {
+      "word": "studio",
+      "start": 22.42,
+      "end": 22.84
+    },
+    {
+      "word": "backgrounds",
+      "start": 22.84,
+      "end": 23.3
+    },
+    {
+      "word": "without",
+      "start": 23.3,
+      "end": 23.82
+    },
+    {
+      "word": "technical",
+      "start": 23.82,
+      "end": 24.26
+    },
+    {
+      "word": "editing.",
+      "start": 24.26,
+      "end": 24.66
+    },
+    {
+      "word": "This",
+      "start": 25.28,
+      "end": 25.52
+    },
+    {
+      "word": "closes",
+      "start": 25.52,
+      "end": 25.84
+    },
+    {
+      "word": "more",
+      "start": 25.84,
+      "end": 26.28
+    },
+    {
+      "word": "premium",
+      "start": 26.28,
+      "end": 26.62
+    },
+    {
+      "word": "clients",
+      "start": 26.62,
+      "end": 27.08
+    },
+    {
+      "word": "without",
+      "start": 27.08,
+      "end": 27.54
+    },
+    {
+      "word": "extra",
+      "start": 27.54,
+      "end": 27.9
+    },
+    {
+      "word": "stress.",
+      "start": 27.9,
+      "end": 28.26
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "Loom is great for quick internal chats, but Tella makes you look like a production studio.",
+      "line2": "LOOM VS TELLA",
+      "tag": "\ud83d\uded1 Loom vs Tella",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Loom vs Tella",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Loom vs Tella",
+        "subtitle": "Loom vs Tella"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Loom vs Tella"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Loom vs Tella"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Loom vs Tella",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

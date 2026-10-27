@@ -1,0 +1,416 @@
+{
+  "page": "page-05",
+  "idea": "Automated calendar reminder sequence via Twilio SMS and Make",
+  "text": "Send automated SMS text reminders before every scheduled consultation call without lifting a finger. Busy founders waste precious mornings manually texting prospects or staring at empty video meeting links. Relying on prospect memory costs agencies thousands in wasted calendar slots and dead sales pipelines. Set up a Make scenario linking Calendly booking webhooks directly to Twilio for two-step SMS dispatching. Your show-up rates jump past ninety percent on autopilot.",
+  "duration": 30.949,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "send",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "automated",
+      "start": 0.42,
+      "end": 1.04
+    },
+    {
+      "word": "SMS",
+      "start": 1.04,
+      "end": 1.54
+    },
+    {
+      "word": "text",
+      "start": 1.54,
+      "end": 2.04
+    },
+    {
+      "word": "reminders",
+      "start": 2.04,
+      "end": 2.5
+    },
+    {
+      "word": "before",
+      "start": 2.5,
+      "end": 3.2
+    },
+    {
+      "word": "every",
+      "start": 3.2,
+      "end": 3.6
+    },
+    {
+      "word": "scheduled",
+      "start": 3.6,
+      "end": 4.04
+    },
+    {
+      "word": "consultation",
+      "start": 4.04,
+      "end": 4.62
+    },
+    {
+      "word": "call",
+      "start": 4.62,
+      "end": 5.24
+    },
+    {
+      "word": "without",
+      "start": 5.24,
+      "end": 5.72
+    },
+    {
+      "word": "lifting",
+      "start": 5.72,
+      "end": 6.0
+    },
+    {
+      "word": "a",
+      "start": 6.0,
+      "end": 6.82
+    },
+    {
+      "word": "finger.",
+      "start": 6.82,
+      "end": 6.82
+    },
+    {
+      "word": "Busy",
+      "start": 7.28,
+      "end": 7.52
+    },
+    {
+      "word": "founders",
+      "start": 7.52,
+      "end": 7.9
+    },
+    {
+      "word": "waste",
+      "start": 7.9,
+      "end": 8.36
+    },
+    {
+      "word": "precious",
+      "start": 8.36,
+      "end": 8.76
+    },
+    {
+      "word": "mornings",
+      "start": 8.76,
+      "end": 9.16
+    },
+    {
+      "word": "manually",
+      "start": 9.16,
+      "end": 9.76
+    },
+    {
+      "word": "texting",
+      "start": 9.76,
+      "end": 10.2
+    },
+    {
+      "word": "prospects",
+      "start": 10.2,
+      "end": 10.74
+    },
+    {
+      "word": "or",
+      "start": 10.74,
+      "end": 11.32
+    },
+    {
+      "word": "staring",
+      "start": 11.32,
+      "end": 11.7
+    },
+    {
+      "word": "at",
+      "start": 11.7,
+      "end": 12.08
+    },
+    {
+      "word": "empty",
+      "start": 12.08,
+      "end": 12.3
+    },
+    {
+      "word": "video",
+      "start": 12.3,
+      "end": 12.7
+    },
+    {
+      "word": "meeting",
+      "start": 12.7,
+      "end": 13.0
+    },
+    {
+      "word": "links,",
+      "start": 13.0,
+      "end": 13.52
+    },
+    {
+      "word": "relying",
+      "start": 13.78,
+      "end": 14.0
+    },
+    {
+      "word": "on",
+      "start": 14.0,
+      "end": 14.52
+    },
+    {
+      "word": "prospect",
+      "start": 14.52,
+      "end": 14.78
+    },
+    {
+      "word": "memory",
+      "start": 14.78,
+      "end": 15.18
+    },
+    {
+      "word": "costs",
+      "start": 15.18,
+      "end": 15.62
+    },
+    {
+      "word": "agencies",
+      "start": 15.62,
+      "end": 16.2
+    },
+    {
+      "word": "thousands",
+      "start": 16.2,
+      "end": 16.8
+    },
+    {
+      "word": "in",
+      "start": 16.8,
+      "end": 17.1
+    },
+    {
+      "word": "wasted",
+      "start": 17.1,
+      "end": 17.38
+    },
+    {
+      "word": "calendar",
+      "start": 17.38,
+      "end": 17.86
+    },
+    {
+      "word": "slots",
+      "start": 17.86,
+      "end": 18.32
+    },
+    {
+      "word": "and",
+      "start": 18.32,
+      "end": 18.82
+    },
+    {
+      "word": "dead",
+      "start": 18.82,
+      "end": 19.1
+    },
+    {
+      "word": "sales",
+      "start": 19.1,
+      "end": 19.42
+    },
+    {
+      "word": "pipelines.",
+      "start": 19.42,
+      "end": 20.12
+    },
+    {
+      "word": "Set",
+      "start": 20.74,
+      "end": 20.9
+    },
+    {
+      "word": "up",
+      "start": 20.9,
+      "end": 21.04
+    },
+    {
+      "word": "a",
+      "start": 21.04,
+      "end": 21.14
+    },
+    {
+      "word": "make",
+      "start": 21.14,
+      "end": 21.32
+    },
+    {
+      "word": "scenario",
+      "start": 21.32,
+      "end": 21.76
+    },
+    {
+      "word": "linking",
+      "start": 21.76,
+      "end": 22.28
+    },
+    {
+      "word": "callanly",
+      "start": 22.28,
+      "end": 22.84
+    },
+    {
+      "word": "booking",
+      "start": 22.84,
+      "end": 23.1
+    },
+    {
+      "word": "webhooks",
+      "start": 23.1,
+      "end": 23.8
+    },
+    {
+      "word": "directly",
+      "start": 23.8,
+      "end": 24.2
+    },
+    {
+      "word": "to",
+      "start": 24.2,
+      "end": 24.5
+    },
+    {
+      "word": "Twilio",
+      "start": 24.5,
+      "end": 24.98
+    },
+    {
+      "word": "for",
+      "start": 24.98,
+      "end": 25.28
+    },
+    {
+      "word": "two",
+      "start": 25.28,
+      "end": 25.56
+    },
+    {
+      "word": "-step",
+      "start": 25.56,
+      "end": 25.84
+    },
+    {
+      "word": "SMS",
+      "start": 25.84,
+      "end": 26.44
+    },
+    {
+      "word": "dispatching.",
+      "start": 26.44,
+      "end": 27.04
+    },
+    {
+      "word": "Your",
+      "start": 27.04,
+      "end": 27.82
+    },
+    {
+      "word": "show",
+      "start": 27.82,
+      "end": 28.08
+    },
+    {
+      "word": "-up",
+      "start": 28.08,
+      "end": 28.28
+    },
+    {
+      "word": "rates",
+      "start": 28.28,
+      "end": 28.58
+    },
+    {
+      "word": "jump",
+      "start": 28.58,
+      "end": 28.98
+    },
+    {
+      "word": "past",
+      "start": 28.98,
+      "end": 29.3
+    },
+    {
+      "word": "90",
+      "start": 29.3,
+      "end": 29.7
+    },
+    {
+      "word": "%",
+      "start": 29.7,
+      "end": 30.1
+    },
+    {
+      "word": "on",
+      "start": 30.1,
+      "end": 30.34
+    },
+    {
+      "word": "autopilot.",
+      "start": 30.34,
+      "end": 30.92
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Send automated SMS text reminders before scheduled consultation calls.",
+      "line2": "AUTOMATED SMS REMINDERS",
+      "tag": "\ud83d\uded1 Automated calendar reminder sequence via Twilio SMS and Make",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Webhook Payload Pulse: Automated calendar reminder sequence via Twilio SMS and Make",
+      "primitive": "WebhookPayloadPulse",
+      "props": {
+        "title": "Webhook Payload Pulse: Automated calendar reminder sequence via Twilio SMS and Make",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "API Rate Limit Monitoring",
+      "primitive": "ApiRateLimitBar",
+      "props": {
+        "title": "API Rate Limit Monitoring",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Branch Conditional Routing",
+      "primitive": "RouterBranchSplitter",
+      "props": {
+        "title": "Multi-Branch Conditional Routing",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Exponential Retry Backoff",
+      "primitive": "ErrorRetryBackoff",
+      "props": {
+        "title": "Exponential Retry Backoff",
+        "subtitle": "Automated calendar reminder sequence via Twilio SMS and Make",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

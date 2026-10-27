@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Loom video comment threading workflow for async design reviews",
+  "text": "Give crystal clear creative feedback across different continents effortlessly without losing a single night of sleep. Coordinating international review calls forces overseas designers into late night meetings that wreck morale. Vague Slack messages only create frustration, leading to botched deliverables and missed client deadlines. Sending Loom screen recordings with pinned comment threads delivers rich visual guidance across every timezone instantly. Your international team ships high quality designs faster.",
+  "duration": 30.522,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Give",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "crystal",
+      "start": 0.28,
+      "end": 0.62
+    },
+    {
+      "word": "clear",
+      "start": 0.62,
+      "end": 0.98
+    },
+    {
+      "word": "creative",
+      "start": 0.98,
+      "end": 1.46
+    },
+    {
+      "word": "feedback",
+      "start": 1.46,
+      "end": 1.82
+    },
+    {
+      "word": "across",
+      "start": 1.82,
+      "end": 2.36
+    },
+    {
+      "word": "different",
+      "start": 2.36,
+      "end": 2.7
+    },
+    {
+      "word": "continents",
+      "start": 2.7,
+      "end": 3.1
+    },
+    {
+      "word": "effortlessly,",
+      "start": 3.1,
+      "end": 3.72
+    },
+    {
+      "word": "without",
+      "start": 4.36,
+      "end": 4.52
+    },
+    {
+      "word": "losing",
+      "start": 4.52,
+      "end": 4.84
+    },
+    {
+      "word": "a",
+      "start": 4.84,
+      "end": 5.12
+    },
+    {
+      "word": "single",
+      "start": 5.12,
+      "end": 5.36
+    },
+    {
+      "word": "night",
+      "start": 5.36,
+      "end": 5.62
+    },
+    {
+      "word": "of",
+      "start": 5.62,
+      "end": 5.88
+    },
+    {
+      "word": "sleep.",
+      "start": 5.88,
+      "end": 6.32
+    },
+    {
+      "word": "Coordinating",
+      "start": 6.8,
+      "end": 7.38
+    },
+    {
+      "word": "international",
+      "start": 7.38,
+      "end": 8.06
+    },
+    {
+      "word": "review",
+      "start": 8.06,
+      "end": 8.5
+    },
+    {
+      "word": "calls",
+      "start": 8.5,
+      "end": 8.9
+    },
+    {
+      "word": "forces",
+      "start": 8.9,
+      "end": 9.56
+    },
+    {
+      "word": "overseas",
+      "start": 9.56,
+      "end": 10.22
+    },
+    {
+      "word": "designers",
+      "start": 10.22,
+      "end": 10.82
+    },
+    {
+      "word": "into",
+      "start": 10.82,
+      "end": 11.2
+    },
+    {
+      "word": "late",
+      "start": 11.2,
+      "end": 11.44
+    },
+    {
+      "word": "night",
+      "start": 11.44,
+      "end": 11.76
+    },
+    {
+      "word": "meetings",
+      "start": 11.76,
+      "end": 12.08
+    },
+    {
+      "word": "that",
+      "start": 12.08,
+      "end": 12.42
+    },
+    {
+      "word": "wreck",
+      "start": 12.42,
+      "end": 12.62
+    },
+    {
+      "word": "morale.",
+      "start": 12.62,
+      "end": 13.1
+    },
+    {
+      "word": "Big",
+      "start": 13.76,
+      "end": 13.76
+    },
+    {
+      "word": "Slack",
+      "start": 13.76,
+      "end": 14.1
+    },
+    {
+      "word": "messages",
+      "start": 14.1,
+      "end": 14.48
+    },
+    {
+      "word": "only",
+      "start": 14.48,
+      "end": 15.0
+    },
+    {
+      "word": "create",
+      "start": 15.0,
+      "end": 15.36
+    },
+    {
+      "word": "frustration,",
+      "start": 15.36,
+      "end": 16.0
+    },
+    {
+      "word": "leading",
+      "start": 16.6,
+      "end": 16.6
+    },
+    {
+      "word": "to",
+      "start": 16.6,
+      "end": 16.9
+    },
+    {
+      "word": "botched",
+      "start": 16.9,
+      "end": 17.2
+    },
+    {
+      "word": "deliverables",
+      "start": 17.2,
+      "end": 17.76
+    },
+    {
+      "word": "and",
+      "start": 17.76,
+      "end": 18.0
+    },
+    {
+      "word": "missed",
+      "start": 18.0,
+      "end": 18.28
+    },
+    {
+      "word": "client",
+      "start": 18.28,
+      "end": 18.64
+    },
+    {
+      "word": "deadlines.",
+      "start": 18.64,
+      "end": 19.14
+    },
+    {
+      "word": "Sending",
+      "start": 19.84,
+      "end": 20.12
+    },
+    {
+      "word": "loom",
+      "start": 20.12,
+      "end": 20.48
+    },
+    {
+      "word": "screen",
+      "start": 20.48,
+      "end": 20.9
+    },
+    {
+      "word": "recordings",
+      "start": 20.9,
+      "end": 21.38
+    },
+    {
+      "word": "with",
+      "start": 21.38,
+      "end": 21.8
+    },
+    {
+      "word": "pinned",
+      "start": 21.8,
+      "end": 22.1
+    },
+    {
+      "word": "comment",
+      "start": 22.1,
+      "end": 22.48
+    },
+    {
+      "word": "threads",
+      "start": 22.48,
+      "end": 22.96
+    },
+    {
+      "word": "delivers",
+      "start": 22.96,
+      "end": 23.58
+    },
+    {
+      "word": "rich",
+      "start": 23.58,
+      "end": 23.96
+    },
+    {
+      "word": "visual",
+      "start": 23.96,
+      "end": 24.36
+    },
+    {
+      "word": "guidance",
+      "start": 24.36,
+      "end": 24.74
+    },
+    {
+      "word": "across",
+      "start": 24.74,
+      "end": 25.16
+    },
+    {
+      "word": "every",
+      "start": 25.16,
+      "end": 25.48
+    },
+    {
+      "word": "time",
+      "start": 25.48,
+      "end": 25.82
+    },
+    {
+      "word": "zone",
+      "start": 25.82,
+      "end": 26.14
+    },
+    {
+      "word": "instantly.",
+      "start": 26.14,
+      "end": 26.68
+    },
+    {
+      "word": "Your",
+      "start": 26.68,
+      "end": 27.44
+    },
+    {
+      "word": "international",
+      "start": 27.44,
+      "end": 27.92
+    },
+    {
+      "word": "team",
+      "start": 27.92,
+      "end": 28.4
+    },
+    {
+      "word": "ships",
+      "start": 28.4,
+      "end": 28.66
+    },
+    {
+      "word": "high",
+      "start": 28.66,
+      "end": 29.1
+    },
+    {
+      "word": "quality",
+      "start": 29.1,
+      "end": 29.44
+    },
+    {
+      "word": "designs",
+      "start": 29.44,
+      "end": 29.9
+    },
+    {
+      "word": "faster.",
+      "start": 29.9,
+      "end": 30.5
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Give crystal-clear creative feedback across different continents effortlessly.",
+      "line2": "ASYNC DESIGN REVIEWS",
+      "tag": "\ud83d\uded1 Loom video comment threading workflow for async design reviews",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Loom video comment threading workflow for async design reviews",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Loom video comment threading workflow for async design reviews",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Loom video comment threading workflow for async design reviews"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Loom video comment threading workflow for async design reviews",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

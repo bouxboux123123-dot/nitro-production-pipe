@@ -1,0 +1,386 @@
+{
+  "page": "page-08",
+  "idea": "Simple Google Sheets formula to translate 100 foreign phrases at once",
+  "text": "Stop copying foreign phrases one by one into Google Translate. If you handle supplier lists or client comments in multiple languages, manual translation eats your morning. Switching windows repeatedly causes misplaced rows and disrupts your mental focus throughout the workday. Instead, use the native GOOGLETRANSLATE function directly inside your spreadsheet to process the entire column automatically. This localizes fifty rows in three seconds flat.",
+  "duration": 25.984,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "copying",
+      "start": 0.36,
+      "end": 0.76
+    },
+    {
+      "word": "foreign",
+      "start": 0.76,
+      "end": 1.16
+    },
+    {
+      "word": "phrases",
+      "start": 1.16,
+      "end": 1.5
+    },
+    {
+      "word": "one",
+      "start": 1.5,
+      "end": 1.82
+    },
+    {
+      "word": "by",
+      "start": 1.82,
+      "end": 2.06
+    },
+    {
+      "word": "one",
+      "start": 2.06,
+      "end": 2.2
+    },
+    {
+      "word": "into",
+      "start": 2.2,
+      "end": 2.44
+    },
+    {
+      "word": "Google",
+      "start": 2.44,
+      "end": 2.74
+    },
+    {
+      "word": "Translate.",
+      "start": 2.74,
+      "end": 3.36
+    },
+    {
+      "word": "If",
+      "start": 3.8,
+      "end": 3.94
+    },
+    {
+      "word": "you",
+      "start": 3.94,
+      "end": 4.1
+    },
+    {
+      "word": "handle",
+      "start": 4.1,
+      "end": 4.32
+    },
+    {
+      "word": "supplier",
+      "start": 4.32,
+      "end": 4.76
+    },
+    {
+      "word": "lists",
+      "start": 4.76,
+      "end": 5.1
+    },
+    {
+      "word": "or",
+      "start": 5.1,
+      "end": 5.4
+    },
+    {
+      "word": "client",
+      "start": 5.4,
+      "end": 5.7
+    },
+    {
+      "word": "comments",
+      "start": 5.7,
+      "end": 6.04
+    },
+    {
+      "word": "in",
+      "start": 6.04,
+      "end": 6.34
+    },
+    {
+      "word": "multiple",
+      "start": 6.34,
+      "end": 6.56
+    },
+    {
+      "word": "languages,",
+      "start": 6.56,
+      "end": 7.14
+    },
+    {
+      "word": "manual",
+      "start": 7.82,
+      "end": 7.86
+    },
+    {
+      "word": "translation",
+      "start": 7.86,
+      "end": 8.48
+    },
+    {
+      "word": "eats",
+      "start": 8.48,
+      "end": 8.82
+    },
+    {
+      "word": "your",
+      "start": 8.82,
+      "end": 9.06
+    },
+    {
+      "word": "morning.",
+      "start": 9.06,
+      "end": 9.36
+    },
+    {
+      "word": "Switching",
+      "start": 9.9,
+      "end": 10.3
+    },
+    {
+      "word": "windows",
+      "start": 10.3,
+      "end": 10.6
+    },
+    {
+      "word": "repeatedly",
+      "start": 10.6,
+      "end": 11.12
+    },
+    {
+      "word": "causes",
+      "start": 11.12,
+      "end": 11.64
+    },
+    {
+      "word": "misplaced",
+      "start": 11.64,
+      "end": 12.08
+    },
+    {
+      "word": "rows",
+      "start": 12.08,
+      "end": 12.58
+    },
+    {
+      "word": "and",
+      "start": 12.58,
+      "end": 13.02
+    },
+    {
+      "word": "disrupts",
+      "start": 13.02,
+      "end": 13.44
+    },
+    {
+      "word": "your",
+      "start": 13.44,
+      "end": 13.58
+    },
+    {
+      "word": "mental",
+      "start": 13.58,
+      "end": 13.84
+    },
+    {
+      "word": "focus",
+      "start": 13.84,
+      "end": 14.24
+    },
+    {
+      "word": "throughout",
+      "start": 14.24,
+      "end": 14.56
+    },
+    {
+      "word": "the",
+      "start": 14.56,
+      "end": 14.74
+    },
+    {
+      "word": "workday.",
+      "start": 14.74,
+      "end": 15.2
+    },
+    {
+      "word": "Instead,",
+      "start": 15.72,
+      "end": 16.02
+    },
+    {
+      "word": "use",
+      "start": 16.58,
+      "end": 16.62
+    },
+    {
+      "word": "the",
+      "start": 16.62,
+      "end": 16.82
+    },
+    {
+      "word": "native",
+      "start": 16.82,
+      "end": 17.1
+    },
+    {
+      "word": "Google",
+      "start": 17.1,
+      "end": 17.5
+    },
+    {
+      "word": "Translate",
+      "start": 17.5,
+      "end": 18.02
+    },
+    {
+      "word": "function",
+      "start": 18.02,
+      "end": 18.44
+    },
+    {
+      "word": "directly",
+      "start": 18.44,
+      "end": 18.94
+    },
+    {
+      "word": "inside",
+      "start": 18.94,
+      "end": 19.32
+    },
+    {
+      "word": "your",
+      "start": 19.32,
+      "end": 19.58
+    },
+    {
+      "word": "spreadsheet",
+      "start": 19.58,
+      "end": 19.94
+    },
+    {
+      "word": "to",
+      "start": 19.94,
+      "end": 20.34
+    },
+    {
+      "word": "process",
+      "start": 20.34,
+      "end": 20.64
+    },
+    {
+      "word": "the",
+      "start": 20.64,
+      "end": 21.0
+    },
+    {
+      "word": "entire",
+      "start": 21.0,
+      "end": 21.42
+    },
+    {
+      "word": "column",
+      "start": 21.42,
+      "end": 21.86
+    },
+    {
+      "word": "automatically.",
+      "start": 21.86,
+      "end": 22.4
+    },
+    {
+      "word": "This",
+      "start": 22.4,
+      "end": 23.28
+    },
+    {
+      "word": "localizes",
+      "start": 23.28,
+      "end": 23.92
+    },
+    {
+      "word": "50",
+      "start": 23.92,
+      "end": 24.4
+    },
+    {
+      "word": "rows",
+      "start": 24.4,
+      "end": 24.76
+    },
+    {
+      "word": "in",
+      "start": 24.76,
+      "end": 25.04
+    },
+    {
+      "word": "three",
+      "start": 25.04,
+      "end": 25.34
+    },
+    {
+      "word": "seconds",
+      "start": 25.34,
+      "end": 25.64
+    },
+    {
+      "word": "flat.",
+      "start": 25.64,
+      "end": 25.96
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop copying foreign phrases one by one into Google Translate.",
+      "line2": "TRANSLATE 100 PHRASES INSTANTLY",
+      "tag": "\ud83d\uded1 Simple Google Sheets formula to translate 100 foreign phrases at once",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: Simple Google Sheets formula to translate 100 foreign phrases at once",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: Simple Google Sheets formula to translate 100 foreign phrases at once",
+        "subtitle": "Simple Google Sheets formula to translate 100 foreign phrases at once"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "Simple Google Sheets formula to translate 100 foreign phrases at once"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "Simple Google Sheets formula to translate 100 foreign phrases at once"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "Simple Google Sheets formula to translate 100 foreign phrases at once",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

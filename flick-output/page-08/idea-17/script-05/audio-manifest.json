@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "How to automatically format messy dates and names in Google Sheets",
+  "text": "The simple spreadsheet cleanup trick that saves hours of tedious data entry in Google Sheets. Copying customer details across multiple forms leaves you stuck fixing irregular capitalization and unreadable date formats. Manually adjusting every entry leads to fatal formula errors and ruins your team's weekly sales reporting. Use TRIM to strip hidden spaces, alongside automatic Date Formatting under the Numbers menu. This delivers flawless spreadsheets without stressful busywork.",
+  "duration": 29.775,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "simple",
+      "start": 0.22,
+      "end": 0.52
+    },
+    {
+      "word": "spreadsheet",
+      "start": 0.52,
+      "end": 0.92
+    },
+    {
+      "word": "cleanup",
+      "start": 0.92,
+      "end": 1.38
+    },
+    {
+      "word": "trick",
+      "start": 1.38,
+      "end": 1.78
+    },
+    {
+      "word": "that",
+      "start": 1.78,
+      "end": 2.24
+    },
+    {
+      "word": "saves",
+      "start": 2.24,
+      "end": 2.52
+    },
+    {
+      "word": "hours",
+      "start": 2.52,
+      "end": 3.02
+    },
+    {
+      "word": "of",
+      "start": 3.02,
+      "end": 3.34
+    },
+    {
+      "word": "tedious",
+      "start": 3.34,
+      "end": 3.68
+    },
+    {
+      "word": "data",
+      "start": 3.68,
+      "end": 4.02
+    },
+    {
+      "word": "entry",
+      "start": 4.02,
+      "end": 4.44
+    },
+    {
+      "word": "in",
+      "start": 4.44,
+      "end": 4.74
+    },
+    {
+      "word": "Google",
+      "start": 4.74,
+      "end": 5.1
+    },
+    {
+      "word": "Sheets.",
+      "start": 5.1,
+      "end": 5.9
+    },
+    {
+      "word": "Copying",
+      "start": 6.26,
+      "end": 6.54
+    },
+    {
+      "word": "customer",
+      "start": 6.54,
+      "end": 6.96
+    },
+    {
+      "word": "details",
+      "start": 6.96,
+      "end": 7.52
+    },
+    {
+      "word": "across",
+      "start": 7.52,
+      "end": 7.98
+    },
+    {
+      "word": "multiple",
+      "start": 7.98,
+      "end": 8.4
+    },
+    {
+      "word": "forms",
+      "start": 8.4,
+      "end": 8.86
+    },
+    {
+      "word": "leaves",
+      "start": 8.86,
+      "end": 9.24
+    },
+    {
+      "word": "you",
+      "start": 9.24,
+      "end": 9.54
+    },
+    {
+      "word": "stuck",
+      "start": 9.54,
+      "end": 9.78
+    },
+    {
+      "word": "fixing",
+      "start": 9.78,
+      "end": 10.14
+    },
+    {
+      "word": "a",
+      "start": 10.14,
+      "end": 10.36
+    },
+    {
+      "word": "regular",
+      "start": 10.36,
+      "end": 10.7
+    },
+    {
+      "word": "capitalization",
+      "start": 10.7,
+      "end": 11.64
+    },
+    {
+      "word": "and",
+      "start": 11.64,
+      "end": 12.3
+    },
+    {
+      "word": "unreadable",
+      "start": 12.3,
+      "end": 12.74
+    },
+    {
+      "word": "date",
+      "start": 12.74,
+      "end": 13.14
+    },
+    {
+      "word": "formats,",
+      "start": 13.14,
+      "end": 13.64
+    },
+    {
+      "word": "manually",
+      "start": 14.34,
+      "end": 14.36
+    },
+    {
+      "word": "adjusting",
+      "start": 14.36,
+      "end": 14.88
+    },
+    {
+      "word": "every",
+      "start": 14.88,
+      "end": 15.32
+    },
+    {
+      "word": "entry",
+      "start": 15.32,
+      "end": 15.68
+    },
+    {
+      "word": "leads",
+      "start": 15.68,
+      "end": 16.0
+    },
+    {
+      "word": "to",
+      "start": 16.0,
+      "end": 16.28
+    },
+    {
+      "word": "fatal",
+      "start": 16.28,
+      "end": 16.54
+    },
+    {
+      "word": "formula",
+      "start": 16.54,
+      "end": 17.04
+    },
+    {
+      "word": "errors",
+      "start": 17.04,
+      "end": 17.4
+    },
+    {
+      "word": "and",
+      "start": 17.4,
+      "end": 17.78
+    },
+    {
+      "word": "ruins",
+      "start": 17.78,
+      "end": 18.02
+    },
+    {
+      "word": "your",
+      "start": 18.02,
+      "end": 18.34
+    },
+    {
+      "word": "team's",
+      "start": 18.34,
+      "end": 19.1
+    },
+    {
+      "word": "weekly",
+      "start": 19.1,
+      "end": 19.1
+    },
+    {
+      "word": "sales",
+      "start": 19.1,
+      "end": 19.54
+    },
+    {
+      "word": "reporting.",
+      "start": 19.54,
+      "end": 20.24
+    },
+    {
+      "word": "Use",
+      "start": 20.7,
+      "end": 20.9
+    },
+    {
+      "word": "trim",
+      "start": 20.9,
+      "end": 21.08
+    },
+    {
+      "word": "to",
+      "start": 21.08,
+      "end": 21.34
+    },
+    {
+      "word": "strip",
+      "start": 21.34,
+      "end": 21.62
+    },
+    {
+      "word": "hidden",
+      "start": 21.62,
+      "end": 21.86
+    },
+    {
+      "word": "spaces,",
+      "start": 21.86,
+      "end": 22.5
+    },
+    {
+      "word": "alongside",
+      "start": 22.96,
+      "end": 23.42
+    },
+    {
+      "word": "automatic",
+      "start": 23.42,
+      "end": 23.98
+    },
+    {
+      "word": "date",
+      "start": 23.98,
+      "end": 24.48
+    },
+    {
+      "word": "formatting",
+      "start": 24.48,
+      "end": 24.78
+    },
+    {
+      "word": "under",
+      "start": 24.78,
+      "end": 25.08
+    },
+    {
+      "word": "the",
+      "start": 25.08,
+      "end": 25.5
+    },
+    {
+      "word": "numbers",
+      "start": 25.5,
+      "end": 25.5
+    },
+    {
+      "word": "menu.",
+      "start": 25.5,
+      "end": 25.98
+    },
+    {
+      "word": "This",
+      "start": 26.44,
+      "end": 26.68
+    },
+    {
+      "word": "delivers",
+      "start": 26.68,
+      "end": 27.04
+    },
+    {
+      "word": "flawless",
+      "start": 27.04,
+      "end": 27.6
+    },
+    {
+      "word": "spreadsheets",
+      "start": 27.6,
+      "end": 28.22
+    },
+    {
+      "word": "without",
+      "start": 28.22,
+      "end": 28.62
+    },
+    {
+      "word": "stressful",
+      "start": 28.62,
+      "end": 29.16
+    },
+    {
+      "word": "busy",
+      "start": 29.16,
+      "end": 29.44
+    },
+    {
+      "word": "work.",
+      "start": 29.44,
+      "end": 29.68
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The spreadsheet cleanup trick that saves hours of tedious data entry.",
+      "line2": "FORMAT DATES AND NAMES",
+      "tag": "\ud83d\uded1 How to automatically format messy dates and names in Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to automatically format messy dates and names in Google Sheets",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to automatically format messy dates and names in Google Sheets",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

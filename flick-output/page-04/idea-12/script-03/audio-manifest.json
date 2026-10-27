@@ -1,0 +1,401 @@
+{
+  "page": "page-04",
+  "idea": "Cyberchef: the swiss army knife for data conversion and formatting",
+  "text": "How to strip HTML, parse JSON, and decrypt strings without installing software. Web scraping and API responses frequently arrive trapped inside raw markup, nested brackets, and encoded symbols. Manually cleaning this text across multiple editors wastes precious hours and introduces costly formatting errors. CyberChef lets you combine drag-and-drop recipes that strip HTML tags, format JSON, and decode strings instantly. You sanitize messy feeds in seconds.",
+  "duration": 30.97,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "how",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.34
+    },
+    {
+      "word": "strip",
+      "start": 0.34,
+      "end": 0.64
+    },
+    {
+      "word": "HTML,",
+      "start": 0.64,
+      "end": 1.32
+    },
+    {
+      "word": "parse",
+      "start": 1.9,
+      "end": 2.16
+    },
+    {
+      "word": "JSON,",
+      "start": 2.16,
+      "end": 2.7
+    },
+    {
+      "word": "and",
+      "start": 2.96,
+      "end": 3.18
+    },
+    {
+      "word": "decrypt",
+      "start": 3.18,
+      "end": 3.36
+    },
+    {
+      "word": "strings",
+      "start": 3.36,
+      "end": 3.86
+    },
+    {
+      "word": "without",
+      "start": 3.86,
+      "end": 4.18
+    },
+    {
+      "word": "installing",
+      "start": 4.18,
+      "end": 4.8
+    },
+    {
+      "word": "software.",
+      "start": 4.8,
+      "end": 5.44
+    },
+    {
+      "word": "Web",
+      "start": 6.16,
+      "end": 6.22
+    },
+    {
+      "word": "scraping",
+      "start": 6.22,
+      "end": 6.58
+    },
+    {
+      "word": "and",
+      "start": 6.58,
+      "end": 6.94
+    },
+    {
+      "word": "API",
+      "start": 6.94,
+      "end": 7.3
+    },
+    {
+      "word": "responses",
+      "start": 7.3,
+      "end": 8.08
+    },
+    {
+      "word": "frequently",
+      "start": 8.08,
+      "end": 8.6
+    },
+    {
+      "word": "arrived",
+      "start": 8.6,
+      "end": 9.16
+    },
+    {
+      "word": "trapped",
+      "start": 9.16,
+      "end": 9.46
+    },
+    {
+      "word": "inside",
+      "start": 9.46,
+      "end": 9.92
+    },
+    {
+      "word": "raw",
+      "start": 9.92,
+      "end": 10.14
+    },
+    {
+      "word": "markup,",
+      "start": 10.14,
+      "end": 10.58
+    },
+    {
+      "word": "nested",
+      "start": 11.06,
+      "end": 11.18
+    },
+    {
+      "word": "brackets,",
+      "start": 11.18,
+      "end": 11.78
+    },
+    {
+      "word": "and",
+      "start": 12.02,
+      "end": 12.16
+    },
+    {
+      "word": "encoded",
+      "start": 12.16,
+      "end": 12.58
+    },
+    {
+      "word": "symbols,",
+      "start": 12.58,
+      "end": 13.16
+    },
+    {
+      "word": "manually",
+      "start": 13.8,
+      "end": 13.8
+    },
+    {
+      "word": "cleaning",
+      "start": 13.8,
+      "end": 14.24
+    },
+    {
+      "word": "this",
+      "start": 14.24,
+      "end": 14.48
+    },
+    {
+      "word": "text",
+      "start": 14.48,
+      "end": 14.76
+    },
+    {
+      "word": "across",
+      "start": 14.76,
+      "end": 15.16
+    },
+    {
+      "word": "multiple",
+      "start": 15.16,
+      "end": 15.62
+    },
+    {
+      "word": "editors,",
+      "start": 15.62,
+      "end": 16.02
+    },
+    {
+      "word": "waste",
+      "start": 16.48,
+      "end": 16.48
+    },
+    {
+      "word": "precious",
+      "start": 16.48,
+      "end": 16.9
+    },
+    {
+      "word": "hours,",
+      "start": 16.9,
+      "end": 17.36
+    },
+    {
+      "word": "and",
+      "start": 17.62,
+      "end": 17.84
+    },
+    {
+      "word": "introduces",
+      "start": 17.84,
+      "end": 18.26
+    },
+    {
+      "word": "costly",
+      "start": 18.26,
+      "end": 18.88
+    },
+    {
+      "word": "formatting",
+      "start": 18.88,
+      "end": 19.2
+    },
+    {
+      "word": "errors.",
+      "start": 19.2,
+      "end": 19.82
+    },
+    {
+      "word": "Cyber",
+      "start": 20.74,
+      "end": 20.78
+    },
+    {
+      "word": "Chef",
+      "start": 20.78,
+      "end": 21.06
+    },
+    {
+      "word": "lets",
+      "start": 21.06,
+      "end": 21.28
+    },
+    {
+      "word": "you",
+      "start": 21.28,
+      "end": 21.48
+    },
+    {
+      "word": "combine",
+      "start": 21.48,
+      "end": 21.84
+    },
+    {
+      "word": "drag",
+      "start": 21.84,
+      "end": 22.14
+    },
+    {
+      "word": "and",
+      "start": 22.14,
+      "end": 22.32
+    },
+    {
+      "word": "drop",
+      "start": 22.32,
+      "end": 22.62
+    },
+    {
+      "word": "recipes",
+      "start": 22.62,
+      "end": 23.04
+    },
+    {
+      "word": "that",
+      "start": 23.04,
+      "end": 23.46
+    },
+    {
+      "word": "strip",
+      "start": 23.46,
+      "end": 23.74
+    },
+    {
+      "word": "HTML",
+      "start": 23.74,
+      "end": 24.38
+    },
+    {
+      "word": "tags,",
+      "start": 24.38,
+      "end": 25.06
+    },
+    {
+      "word": "format",
+      "start": 25.56,
+      "end": 25.66
+    },
+    {
+      "word": "JSON,",
+      "start": 25.66,
+      "end": 26.28
+    },
+    {
+      "word": "and",
+      "start": 26.64,
+      "end": 26.9
+    },
+    {
+      "word": "decode",
+      "start": 26.9,
+      "end": 27.24
+    },
+    {
+      "word": "strings",
+      "start": 27.24,
+      "end": 27.66
+    },
+    {
+      "word": "instantly.",
+      "start": 27.66,
+      "end": 28.14
+    },
+    {
+      "word": "You",
+      "start": 28.14,
+      "end": 28.98
+    },
+    {
+      "word": "sanitize",
+      "start": 28.98,
+      "end": 29.54
+    },
+    {
+      "word": "messy",
+      "start": 29.54,
+      "end": 29.76
+    },
+    {
+      "word": "feeds",
+      "start": 29.76,
+      "end": 30.24
+    },
+    {
+      "word": "in",
+      "start": 30.24,
+      "end": 30.5
+    },
+    {
+      "word": "seconds.",
+      "start": 30.5,
+      "end": 30.88
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "How to strip HTML, parse JSON, and decrypt strings without installing software.",
+      "line2": "CONVERT DATA INSTANTLY",
+      "tag": "\ud83d\uded1 Cyberchef",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Free DOM Extraction: Cyberchef",
+      "primitive": "DOMElementSniffer",
+      "props": {
+        "title": "Free DOM Extraction: Cyberchef",
+        "subtitle": "Cyberchef"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Proxy Rotation & Rate Limits",
+      "primitive": "ProxyRotationGauge",
+      "props": {
+        "title": "Proxy Rotation & Rate Limits",
+        "subtitle": "Cyberchef"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Deduplicated CSV Merge",
+      "primitive": "CSVMergeVisualizer",
+      "props": {
+        "title": "Deduplicated CSV Merge",
+        "subtitle": "Cyberchef"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Headless CLI Execution",
+      "primitive": "HeadlessBrowserTerminal",
+      "props": {
+        "title": "Headless CLI Execution",
+        "subtitle": "Cyberchef",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

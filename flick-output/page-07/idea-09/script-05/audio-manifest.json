@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "Automated employee onboarding hub that issues accounts and permissions",
+  "text": "Here is the startup onboarding system that scales cleanly from five to fifty employees. Manual onboarding collapses the moment you hire multiple remote teammates across different functional departments. Missing software invites and forgotten compliance documents introduce serious operational delays and security vulnerabilities. Deploy an automated Gusto and Rippling workflow to collect contracts, configure email accounts, and assign role-based permissions instantly. Scale your team without administrative chaos.",
+  "duration": 30.778,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "is",
+      "start": 0.26,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.7
+    },
+    {
+      "word": "startup",
+      "start": 0.7,
+      "end": 0.94
+    },
+    {
+      "word": "onboarding",
+      "start": 0.94,
+      "end": 1.58
+    },
+    {
+      "word": "system",
+      "start": 1.58,
+      "end": 1.88
+    },
+    {
+      "word": "that",
+      "start": 1.88,
+      "end": 2.26
+    },
+    {
+      "word": "scales",
+      "start": 2.26,
+      "end": 2.6
+    },
+    {
+      "word": "cleanly",
+      "start": 2.6,
+      "end": 3.16
+    },
+    {
+      "word": "from",
+      "start": 3.16,
+      "end": 3.42
+    },
+    {
+      "word": "five",
+      "start": 3.42,
+      "end": 3.86
+    },
+    {
+      "word": "to",
+      "start": 3.86,
+      "end": 4.04
+    },
+    {
+      "word": "50",
+      "start": 4.04,
+      "end": 4.38
+    },
+    {
+      "word": "employees.",
+      "start": 4.38,
+      "end": 5.04
+    },
+    {
+      "word": "Manual",
+      "start": 6.04,
+      "end": 6.04
+    },
+    {
+      "word": "onboarding",
+      "start": 6.04,
+      "end": 6.66
+    },
+    {
+      "word": "collapses",
+      "start": 6.66,
+      "end": 7.06
+    },
+    {
+      "word": "the",
+      "start": 7.06,
+      "end": 7.38
+    },
+    {
+      "word": "moment",
+      "start": 7.38,
+      "end": 7.64
+    },
+    {
+      "word": "you",
+      "start": 7.64,
+      "end": 7.98
+    },
+    {
+      "word": "hire",
+      "start": 7.98,
+      "end": 8.28
+    },
+    {
+      "word": "multiple",
+      "start": 8.28,
+      "end": 8.84
+    },
+    {
+      "word": "remote",
+      "start": 8.84,
+      "end": 9.24
+    },
+    {
+      "word": "teammates",
+      "start": 9.24,
+      "end": 9.66
+    },
+    {
+      "word": "across",
+      "start": 9.66,
+      "end": 10.28
+    },
+    {
+      "word": "different",
+      "start": 10.28,
+      "end": 10.62
+    },
+    {
+      "word": "functional",
+      "start": 10.62,
+      "end": 11.02
+    },
+    {
+      "word": "departments.",
+      "start": 11.02,
+      "end": 11.66
+    },
+    {
+      "word": "Missing",
+      "start": 12.18,
+      "end": 12.32
+    },
+    {
+      "word": "software",
+      "start": 12.32,
+      "end": 12.82
+    },
+    {
+      "word": "invites",
+      "start": 12.82,
+      "end": 13.32
+    },
+    {
+      "word": "and",
+      "start": 13.32,
+      "end": 13.52
+    },
+    {
+      "word": "forgotten",
+      "start": 13.52,
+      "end": 13.94
+    },
+    {
+      "word": "compliance",
+      "start": 13.94,
+      "end": 14.56
+    },
+    {
+      "word": "documents",
+      "start": 14.56,
+      "end": 15.08
+    },
+    {
+      "word": "introduce",
+      "start": 15.08,
+      "end": 15.74
+    },
+    {
+      "word": "serious",
+      "start": 15.74,
+      "end": 16.22
+    },
+    {
+      "word": "operational",
+      "start": 16.22,
+      "end": 16.86
+    },
+    {
+      "word": "delays",
+      "start": 16.86,
+      "end": 17.36
+    },
+    {
+      "word": "and",
+      "start": 17.36,
+      "end": 17.7
+    },
+    {
+      "word": "security",
+      "start": 17.7,
+      "end": 18.06
+    },
+    {
+      "word": "vulnerabilities.",
+      "start": 18.06,
+      "end": 18.74
+    },
+    {
+      "word": "Deploy",
+      "start": 19.5,
+      "end": 19.72
+    },
+    {
+      "word": "an",
+      "start": 19.72,
+      "end": 20.46
+    },
+    {
+      "word": "automated",
+      "start": 20.46,
+      "end": 20.46
+    },
+    {
+      "word": "gusto",
+      "start": 20.46,
+      "end": 21.02
+    },
+    {
+      "word": "and",
+      "start": 21.02,
+      "end": 21.22
+    },
+    {
+      "word": "rippling",
+      "start": 21.22,
+      "end": 21.52
+    },
+    {
+      "word": "workflow",
+      "start": 21.52,
+      "end": 21.88
+    },
+    {
+      "word": "to",
+      "start": 21.88,
+      "end": 22.2
+    },
+    {
+      "word": "collect",
+      "start": 22.2,
+      "end": 22.5
+    },
+    {
+      "word": "contracts,",
+      "start": 22.5,
+      "end": 23.1
+    },
+    {
+      "word": "configure",
+      "start": 23.62,
+      "end": 23.92
+    },
+    {
+      "word": "email",
+      "start": 23.92,
+      "end": 24.36
+    },
+    {
+      "word": "accounts",
+      "start": 24.36,
+      "end": 24.9
+    },
+    {
+      "word": "and",
+      "start": 24.9,
+      "end": 25.44
+    },
+    {
+      "word": "assign",
+      "start": 25.44,
+      "end": 25.84
+    },
+    {
+      "word": "role",
+      "start": 25.84,
+      "end": 26.2
+    },
+    {
+      "word": "-based",
+      "start": 26.2,
+      "end": 26.52
+    },
+    {
+      "word": "permissions",
+      "start": 26.52,
+      "end": 27.02
+    },
+    {
+      "word": "instantly.",
+      "start": 27.02,
+      "end": 27.7
+    },
+    {
+      "word": "Scale",
+      "start": 27.7,
+      "end": 28.52
+    },
+    {
+      "word": "your",
+      "start": 28.52,
+      "end": 28.78
+    },
+    {
+      "word": "team",
+      "start": 28.78,
+      "end": 29.1
+    },
+    {
+      "word": "without",
+      "start": 29.1,
+      "end": 29.44
+    },
+    {
+      "word": "administrative",
+      "start": 29.44,
+      "end": 30.1
+    },
+    {
+      "word": "chaos.",
+      "start": 30.1,
+      "end": 30.52
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "The startup hiring checklist that scales cleanly from 5 to 50 employees.",
+      "line2": "PROVISION EMPLOYEE ACCOUNTS",
+      "tag": "\ud83d\uded1 Automated employee onboarding hub that issues accounts and permissions",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "Zombie SaaS Seat Hunt: Automated employee onboarding hub that issues accounts and permissions",
+      "primitive": "ZombieSeatDetector",
+      "props": {
+        "title": "Zombie SaaS Seat Hunt: Automated employee onboarding hub that issues accounts and permissions",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Idle Cloud Compute Trim",
+      "primitive": "CloudComputeTrimBar",
+      "props": {
+        "title": "Idle Cloud Compute Trim",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Single Workspace Consolidation",
+      "primitive": "SingleSignOnConsolidation",
+      "props": {
+        "title": "Single Workspace Consolidation",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Runway Extended 3x",
+      "primitive": "RunwayMonthsGauge",
+      "props": {
+        "title": "Runway Extended 3x",
+        "subtitle": "Automated employee onboarding hub that issues accounts and permissions",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

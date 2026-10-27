@@ -1,0 +1,406 @@
+{
+  "page": "page-03",
+  "idea": "AI video script generator for Faceless YouTube channels",
+  "text": "How to script 10 high-retention YouTube Short videos in under 15 minutes. Writing engaging short-form video scripts after work leaves most creators exhausted and behind schedule. The bottleneck happens when you write without structured pacing, causing weak hooks and rapid viewer drop-off. Instead, use an Airtable pipeline that prompts Claude to generate structured five-sentence retention scripts instantly. You produce weeks of content in one sitting.",
+  "duration": 24.363,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "out",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "-of",
+      "start": 0.22,
+      "end": 0.38
+    },
+    {
+      "word": "-script",
+      "start": 0.38,
+      "end": 0.56
+    },
+    {
+      "word": "10",
+      "start": 0.56,
+      "end": 0.86
+    },
+    {
+      "word": "higher",
+      "start": 0.86,
+      "end": 1.06
+    },
+    {
+      "word": "attention",
+      "start": 1.06,
+      "end": 1.38
+    },
+    {
+      "word": "YouTube",
+      "start": 1.38,
+      "end": 1.88
+    },
+    {
+      "word": "short",
+      "start": 1.88,
+      "end": 2.24
+    },
+    {
+      "word": "videos",
+      "start": 2.24,
+      "end": 2.58
+    },
+    {
+      "word": "in",
+      "start": 2.58,
+      "end": 2.72
+    },
+    {
+      "word": "under",
+      "start": 2.72,
+      "end": 2.92
+    },
+    {
+      "word": "15",
+      "start": 2.92,
+      "end": 3.26
+    },
+    {
+      "word": "minutes.",
+      "start": 3.26,
+      "end": 3.86
+    },
+    {
+      "word": "Writing",
+      "start": 4.34,
+      "end": 4.36
+    },
+    {
+      "word": "engaging",
+      "start": 4.36,
+      "end": 4.96
+    },
+    {
+      "word": "short",
+      "start": 4.96,
+      "end": 5.28
+    },
+    {
+      "word": "-form",
+      "start": 5.28,
+      "end": 5.48
+    },
+    {
+      "word": "video",
+      "start": 5.48,
+      "end": 5.86
+    },
+    {
+      "word": "scripts",
+      "start": 5.86,
+      "end": 6.16
+    },
+    {
+      "word": "after",
+      "start": 6.16,
+      "end": 6.48
+    },
+    {
+      "word": "work",
+      "start": 6.48,
+      "end": 6.74
+    },
+    {
+      "word": "leaves",
+      "start": 6.74,
+      "end": 6.96
+    },
+    {
+      "word": "most",
+      "start": 6.96,
+      "end": 7.28
+    },
+    {
+      "word": "creators",
+      "start": 7.28,
+      "end": 7.66
+    },
+    {
+      "word": "exhausted",
+      "start": 7.66,
+      "end": 8.26
+    },
+    {
+      "word": "and",
+      "start": 8.26,
+      "end": 8.48
+    },
+    {
+      "word": "behind",
+      "start": 8.48,
+      "end": 8.78
+    },
+    {
+      "word": "schedule.",
+      "start": 8.78,
+      "end": 9.2
+    },
+    {
+      "word": "The",
+      "start": 9.72,
+      "end": 9.86
+    },
+    {
+      "word": "bottleneck",
+      "start": 9.86,
+      "end": 10.12
+    },
+    {
+      "word": "happens",
+      "start": 10.12,
+      "end": 10.58
+    },
+    {
+      "word": "when",
+      "start": 10.58,
+      "end": 10.76
+    },
+    {
+      "word": "you",
+      "start": 10.76,
+      "end": 10.88
+    },
+    {
+      "word": "write",
+      "start": 10.88,
+      "end": 11.06
+    },
+    {
+      "word": "without",
+      "start": 11.06,
+      "end": 11.4
+    },
+    {
+      "word": "structured",
+      "start": 11.4,
+      "end": 11.8
+    },
+    {
+      "word": "pacing,",
+      "start": 11.8,
+      "end": 12.2
+    },
+    {
+      "word": "causing",
+      "start": 12.86,
+      "end": 12.86
+    },
+    {
+      "word": "weak",
+      "start": 12.86,
+      "end": 13.24
+    },
+    {
+      "word": "hooks",
+      "start": 13.24,
+      "end": 13.48
+    },
+    {
+      "word": "and",
+      "start": 13.48,
+      "end": 13.82
+    },
+    {
+      "word": "rapid",
+      "start": 13.82,
+      "end": 13.98
+    },
+    {
+      "word": "viewer",
+      "start": 13.98,
+      "end": 14.34
+    },
+    {
+      "word": "drop",
+      "start": 14.34,
+      "end": 14.62
+    },
+    {
+      "word": "-off.",
+      "start": 14.62,
+      "end": 14.9
+    },
+    {
+      "word": "Instead,",
+      "start": 15.44,
+      "end": 15.78
+    },
+    {
+      "word": "use",
+      "start": 16.22,
+      "end": 16.4
+    },
+    {
+      "word": "an",
+      "start": 16.4,
+      "end": 16.62
+    },
+    {
+      "word": "irritable",
+      "start": 16.62,
+      "end": 17.02
+    },
+    {
+      "word": "pipeline",
+      "start": 17.02,
+      "end": 17.44
+    },
+    {
+      "word": "that",
+      "start": 17.44,
+      "end": 17.82
+    },
+    {
+      "word": "prompts",
+      "start": 17.82,
+      "end": 18.12
+    },
+    {
+      "word": "claw",
+      "start": 18.12,
+      "end": 18.4
+    },
+    {
+      "word": "to",
+      "start": 18.4,
+      "end": 18.6
+    },
+    {
+      "word": "generate",
+      "start": 18.6,
+      "end": 18.94
+    },
+    {
+      "word": "structured",
+      "start": 18.94,
+      "end": 19.54
+    },
+    {
+      "word": "five",
+      "start": 19.54,
+      "end": 19.92
+    },
+    {
+      "word": "sentence",
+      "start": 19.92,
+      "end": 20.24
+    },
+    {
+      "word": "retention",
+      "start": 20.24,
+      "end": 20.74
+    },
+    {
+      "word": "scripts",
+      "start": 20.74,
+      "end": 21.16
+    },
+    {
+      "word": "instantly.",
+      "start": 21.16,
+      "end": 21.64
+    },
+    {
+      "word": "You",
+      "start": 21.64,
+      "end": 22.34
+    },
+    {
+      "word": "produce",
+      "start": 22.34,
+      "end": 22.66
+    },
+    {
+      "word": "weeks",
+      "start": 22.66,
+      "end": 22.98
+    },
+    {
+      "word": "of",
+      "start": 22.98,
+      "end": 23.24
+    },
+    {
+      "word": "content",
+      "start": 23.24,
+      "end": 23.56
+    },
+    {
+      "word": "in",
+      "start": 23.56,
+      "end": 23.82
+    },
+    {
+      "word": "one",
+      "start": 23.82,
+      "end": 24.06
+    },
+    {
+      "word": "sitting.",
+      "start": 24.06,
+      "end": 24.24
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 SIDE HUSTLE AUTOMATION",
+      "line1": "How to script 10 high-retention YouTube Short videos in under 15 minutes.",
+      "line2": "SCRIPT FACELESS VIDEOS",
+      "tag": "\ud83d\uded1 AI video script generator for Faceless YouTube channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "SIDE HUSTLE AUTOMATION BOTTLENECK",
+      "title": "Longform Content Splitter: AI video script generator for Faceless YouTube channels",
+      "primitive": "LongformSplitter",
+      "props": {
+        "title": "Longform Content Splitter: AI video script generator for Faceless YouTube channels",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Dynamic Aspect Ratio Morph",
+      "primitive": "PlatformAspectRatioMorph",
+      "props": {
+        "title": "Dynamic Aspect Ratio Morph",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Semantic Hashtag Optimization",
+      "primitive": "AutoHashtagOptimizer",
+      "props": {
+        "title": "Semantic Hashtag Optimization",
+        "subtitle": "AI video script generator for Faceless YouTube channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "30-Day Multi-Feed Schedule",
+      "primitive": "OmniChannelCalendarGrid",
+      "props": {
+        "title": "30-Day Multi-Feed Schedule",
+        "subtitle": "AI video script generator for Faceless YouTube channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

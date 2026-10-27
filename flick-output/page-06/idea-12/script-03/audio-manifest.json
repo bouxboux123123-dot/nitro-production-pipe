@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Async peer recognition bot that rewards teammates in public Slack channels",
+  "text": "Stop remote employees from feeling unseen and unappreciated for their hard work behind screens. Distributed workers often spend forty hours solving complex bugs without ever hearing simple feedback from managers. This emotional disconnect accelerates burnout and doubles voluntary employee turnover across remote engineering departments. Setting up Matter bot triggers weekly kudos rounds and celebrates peer nominations directly in company announcement channels. Your remote staff feels valued and motivated every day.",
+  "duration": 31.631,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "remote",
+      "start": 0.4,
+      "end": 0.72
+    },
+    {
+      "word": "employees",
+      "start": 0.72,
+      "end": 1.24
+    },
+    {
+      "word": "from",
+      "start": 1.24,
+      "end": 1.6
+    },
+    {
+      "word": "feeling",
+      "start": 1.6,
+      "end": 2.02
+    },
+    {
+      "word": "unseen",
+      "start": 2.02,
+      "end": 2.58
+    },
+    {
+      "word": "and",
+      "start": 2.58,
+      "end": 3.1
+    },
+    {
+      "word": "unappreciated",
+      "start": 3.1,
+      "end": 3.76
+    },
+    {
+      "word": "for",
+      "start": 3.76,
+      "end": 4.0
+    },
+    {
+      "word": "their",
+      "start": 4.0,
+      "end": 4.22
+    },
+    {
+      "word": "hard",
+      "start": 4.22,
+      "end": 4.5
+    },
+    {
+      "word": "work",
+      "start": 4.5,
+      "end": 4.76
+    },
+    {
+      "word": "behind",
+      "start": 4.76,
+      "end": 5.08
+    },
+    {
+      "word": "screens.",
+      "start": 5.08,
+      "end": 5.66
+    },
+    {
+      "word": "Distributed",
+      "start": 6.34,
+      "end": 6.64
+    },
+    {
+      "word": "workers",
+      "start": 6.64,
+      "end": 7.24
+    },
+    {
+      "word": "often",
+      "start": 7.24,
+      "end": 7.8
+    },
+    {
+      "word": "spend",
+      "start": 7.8,
+      "end": 8.08
+    },
+    {
+      "word": "40",
+      "start": 8.08,
+      "end": 8.48
+    },
+    {
+      "word": "hours",
+      "start": 8.48,
+      "end": 8.88
+    },
+    {
+      "word": "solving",
+      "start": 8.88,
+      "end": 9.28
+    },
+    {
+      "word": "complex",
+      "start": 9.28,
+      "end": 9.78
+    },
+    {
+      "word": "bugs",
+      "start": 9.78,
+      "end": 10.28
+    },
+    {
+      "word": "without",
+      "start": 10.28,
+      "end": 10.82
+    },
+    {
+      "word": "ever",
+      "start": 10.82,
+      "end": 11.1
+    },
+    {
+      "word": "hearing",
+      "start": 11.1,
+      "end": 11.42
+    },
+    {
+      "word": "simple",
+      "start": 11.42,
+      "end": 11.68
+    },
+    {
+      "word": "feedback",
+      "start": 11.68,
+      "end": 12.14
+    },
+    {
+      "word": "from",
+      "start": 12.14,
+      "end": 12.5
+    },
+    {
+      "word": "managers.",
+      "start": 12.5,
+      "end": 12.86
+    },
+    {
+      "word": "This",
+      "start": 13.5,
+      "end": 13.56
+    },
+    {
+      "word": "emotional",
+      "start": 13.56,
+      "end": 14.04
+    },
+    {
+      "word": "disconnect",
+      "start": 14.04,
+      "end": 14.64
+    },
+    {
+      "word": "accelerates",
+      "start": 14.64,
+      "end": 15.46
+    },
+    {
+      "word": "burnout",
+      "start": 15.46,
+      "end": 16.02
+    },
+    {
+      "word": "and",
+      "start": 16.02,
+      "end": 16.32
+    },
+    {
+      "word": "doubles",
+      "start": 16.32,
+      "end": 16.58
+    },
+    {
+      "word": "voluntary",
+      "start": 16.58,
+      "end": 17.14
+    },
+    {
+      "word": "employee",
+      "start": 17.14,
+      "end": 17.8
+    },
+    {
+      "word": "turnover",
+      "start": 17.8,
+      "end": 18.16
+    },
+    {
+      "word": "cross",
+      "start": 18.16,
+      "end": 18.72
+    },
+    {
+      "word": "remote",
+      "start": 18.72,
+      "end": 19.12
+    },
+    {
+      "word": "engineering",
+      "start": 19.12,
+      "end": 19.66
+    },
+    {
+      "word": "departments.",
+      "start": 19.66,
+      "end": 20.38
+    },
+    {
+      "word": "Setting",
+      "start": 21.08,
+      "end": 21.14
+    },
+    {
+      "word": "up",
+      "start": 21.14,
+      "end": 21.4
+    },
+    {
+      "word": "Matterbot",
+      "start": 21.4,
+      "end": 21.94
+    },
+    {
+      "word": "triggers",
+      "start": 21.94,
+      "end": 22.3
+    },
+    {
+      "word": "weekly",
+      "start": 22.3,
+      "end": 22.76
+    },
+    {
+      "word": "kudos",
+      "start": 22.76,
+      "end": 23.12
+    },
+    {
+      "word": "rounds",
+      "start": 23.12,
+      "end": 23.6
+    },
+    {
+      "word": "and",
+      "start": 23.6,
+      "end": 24.26
+    },
+    {
+      "word": "celebrates",
+      "start": 24.26,
+      "end": 24.62
+    },
+    {
+      "word": "peer",
+      "start": 24.62,
+      "end": 25.0
+    },
+    {
+      "word": "nominations",
+      "start": 25.0,
+      "end": 25.64
+    },
+    {
+      "word": "directly",
+      "start": 25.64,
+      "end": 26.26
+    },
+    {
+      "word": "in",
+      "start": 26.26,
+      "end": 26.62
+    },
+    {
+      "word": "company",
+      "start": 26.62,
+      "end": 26.86
+    },
+    {
+      "word": "announcement",
+      "start": 26.86,
+      "end": 27.28
+    },
+    {
+      "word": "channels.",
+      "start": 27.28,
+      "end": 27.88
+    },
+    {
+      "word": "Your",
+      "start": 27.88,
+      "end": 28.68
+    },
+    {
+      "word": "remote",
+      "start": 28.68,
+      "end": 28.96
+    },
+    {
+      "word": "staff",
+      "start": 28.96,
+      "end": 29.36
+    },
+    {
+      "word": "feels",
+      "start": 29.36,
+      "end": 29.72
+    },
+    {
+      "word": "valued",
+      "start": 29.72,
+      "end": 30.2
+    },
+    {
+      "word": "and",
+      "start": 30.2,
+      "end": 30.78
+    },
+    {
+      "word": "motivated",
+      "start": 30.78,
+      "end": 30.9
+    },
+    {
+      "word": "every",
+      "start": 30.9,
+      "end": 31.28
+    },
+    {
+      "word": "day.",
+      "start": 31.28,
+      "end": 31.6
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "Stop remote employees from feeling unseen and unappreciated for their hard work.",
+      "line2": "REWARD REMOTE TEAMMATES",
+      "tag": "\ud83d\uded1 Async peer recognition bot that rewards teammates in public Slack channels",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Global Timezone Golden Window: Async peer recognition bot that rewards teammates in public Slack channels",
+      "primitive": "TimezoneGlobeOverlap",
+      "props": {
+        "title": "Global Timezone Golden Window: Async peer recognition bot that rewards teammates in public Slack channels",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Deep Work Shield Active",
+      "primitive": "NotificationMuteSchedule",
+      "props": {
+        "title": "Deep Work Shield Active",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "24-Hour Asynchronous Relay",
+      "primitive": "HandoffRelayBaton",
+      "props": {
+        "title": "24-Hour Asynchronous Relay",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "42-Second Bot Standup Digest",
+      "primitive": "AsyncStandupDigest",
+      "props": {
+        "title": "42-Second Bot Standup Digest",
+        "subtitle": "Async peer recognition bot that rewards teammates in public Slack channels",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

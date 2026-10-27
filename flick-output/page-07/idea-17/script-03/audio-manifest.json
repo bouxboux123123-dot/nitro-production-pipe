@@ -1,0 +1,396 @@
+{
+  "page": "page-07",
+  "idea": "Automated user feedback widget that feeds straight into product planning",
+  "text": "Stop relying on angry support tickets to figure out where your app is confusing. Most users quietly abandon broken features rather than filling out cumbersome external contact forms. That silent drop-off blinds your product team to critical conversion bottlenecks in your checkout funnel. Deploy an interactive Canny micro-widget inside your onboarding flow to collect immediate user sentiment and ratings. You eliminate churn before customers leave.",
+  "duration": 25.003,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "relying",
+      "start": 0.4,
+      "end": 0.76
+    },
+    {
+      "word": "on",
+      "start": 0.76,
+      "end": 1.08
+    },
+    {
+      "word": "angry",
+      "start": 1.08,
+      "end": 1.36
+    },
+    {
+      "word": "support",
+      "start": 1.36,
+      "end": 1.76
+    },
+    {
+      "word": "tickets",
+      "start": 1.76,
+      "end": 2.04
+    },
+    {
+      "word": "to",
+      "start": 2.04,
+      "end": 2.34
+    },
+    {
+      "word": "figure",
+      "start": 2.34,
+      "end": 2.5
+    },
+    {
+      "word": "out",
+      "start": 2.5,
+      "end": 2.74
+    },
+    {
+      "word": "where",
+      "start": 2.74,
+      "end": 2.86
+    },
+    {
+      "word": "your",
+      "start": 2.86,
+      "end": 3.06
+    },
+    {
+      "word": "app",
+      "start": 3.06,
+      "end": 3.16
+    },
+    {
+      "word": "is",
+      "start": 3.16,
+      "end": 3.44
+    },
+    {
+      "word": "confusing.",
+      "start": 3.44,
+      "end": 3.9
+    },
+    {
+      "word": "Most",
+      "start": 4.54,
+      "end": 4.6
+    },
+    {
+      "word": "users",
+      "start": 4.6,
+      "end": 4.92
+    },
+    {
+      "word": "quietly",
+      "start": 4.92,
+      "end": 5.4
+    },
+    {
+      "word": "abandon",
+      "start": 5.4,
+      "end": 5.84
+    },
+    {
+      "word": "broken",
+      "start": 5.84,
+      "end": 6.12
+    },
+    {
+      "word": "features",
+      "start": 6.12,
+      "end": 6.64
+    },
+    {
+      "word": "rather",
+      "start": 6.64,
+      "end": 7.22
+    },
+    {
+      "word": "than",
+      "start": 7.22,
+      "end": 7.48
+    },
+    {
+      "word": "filling",
+      "start": 7.48,
+      "end": 7.64
+    },
+    {
+      "word": "out",
+      "start": 7.64,
+      "end": 7.98
+    },
+    {
+      "word": "cumbersome",
+      "start": 7.98,
+      "end": 8.26
+    },
+    {
+      "word": "external",
+      "start": 8.26,
+      "end": 8.82
+    },
+    {
+      "word": "contact",
+      "start": 8.82,
+      "end": 9.2
+    },
+    {
+      "word": "forms.",
+      "start": 9.2,
+      "end": 9.7
+    },
+    {
+      "word": "That",
+      "start": 10.26,
+      "end": 10.46
+    },
+    {
+      "word": "silent",
+      "start": 10.46,
+      "end": 10.86
+    },
+    {
+      "word": "drop",
+      "start": 10.86,
+      "end": 11.14
+    },
+    {
+      "word": "-off",
+      "start": 11.14,
+      "end": 11.46
+    },
+    {
+      "word": "blinds",
+      "start": 11.46,
+      "end": 11.9
+    },
+    {
+      "word": "your",
+      "start": 11.9,
+      "end": 12.1
+    },
+    {
+      "word": "product",
+      "start": 12.1,
+      "end": 12.34
+    },
+    {
+      "word": "team",
+      "start": 12.34,
+      "end": 12.62
+    },
+    {
+      "word": "to",
+      "start": 12.62,
+      "end": 12.84
+    },
+    {
+      "word": "critical",
+      "start": 12.84,
+      "end": 13.18
+    },
+    {
+      "word": "conversion",
+      "start": 13.18,
+      "end": 13.72
+    },
+    {
+      "word": "bottlenecks",
+      "start": 13.72,
+      "end": 14.32
+    },
+    {
+      "word": "in",
+      "start": 14.32,
+      "end": 14.4
+    },
+    {
+      "word": "your",
+      "start": 14.4,
+      "end": 14.6
+    },
+    {
+      "word": "checkout",
+      "start": 14.6,
+      "end": 14.84
+    },
+    {
+      "word": "funnel.",
+      "start": 14.84,
+      "end": 15.48
+    },
+    {
+      "word": "Deploy",
+      "start": 15.92,
+      "end": 16.14
+    },
+    {
+      "word": "an",
+      "start": 16.14,
+      "end": 16.4
+    },
+    {
+      "word": "interactive",
+      "start": 16.4,
+      "end": 16.88
+    },
+    {
+      "word": "canny",
+      "start": 16.88,
+      "end": 17.4
+    },
+    {
+      "word": "micro",
+      "start": 17.4,
+      "end": 17.74
+    },
+    {
+      "word": "widget",
+      "start": 17.74,
+      "end": 18.08
+    },
+    {
+      "word": "inside",
+      "start": 18.08,
+      "end": 18.46
+    },
+    {
+      "word": "your",
+      "start": 18.46,
+      "end": 18.74
+    },
+    {
+      "word": "onboarding",
+      "start": 18.74,
+      "end": 19.26
+    },
+    {
+      "word": "flow",
+      "start": 19.26,
+      "end": 19.58
+    },
+    {
+      "word": "to",
+      "start": 19.58,
+      "end": 19.98
+    },
+    {
+      "word": "collect",
+      "start": 19.98,
+      "end": 20.26
+    },
+    {
+      "word": "immediate",
+      "start": 20.26,
+      "end": 20.66
+    },
+    {
+      "word": "user",
+      "start": 20.66,
+      "end": 21.14
+    },
+    {
+      "word": "sentiment",
+      "start": 21.14,
+      "end": 21.6
+    },
+    {
+      "word": "and",
+      "start": 21.6,
+      "end": 21.86
+    },
+    {
+      "word": "ratings.",
+      "start": 21.86,
+      "end": 22.22
+    },
+    {
+      "word": "You",
+      "start": 22.88,
+      "end": 22.96
+    },
+    {
+      "word": "eliminate",
+      "start": 22.96,
+      "end": 23.24
+    },
+    {
+      "word": "churn",
+      "start": 23.24,
+      "end": 23.76
+    },
+    {
+      "word": "before",
+      "start": 23.76,
+      "end": 24.1
+    },
+    {
+      "word": "customers",
+      "start": 24.1,
+      "end": 24.46
+    },
+    {
+      "word": "leave.",
+      "start": 24.46,
+      "end": 24.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 STARTUP EFFICIENCY",
+      "line1": "Stop relying on angry support tickets to figure out where your app is confusing.",
+      "line2": "AUTOMATE USER FEEDBACK",
+      "tag": "\ud83d\uded1 Automated user feedback widget that feeds straight into product planning",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "STARTUP EFFICIENCY BOTTLENECK",
+      "title": "72-Hour MVP Assembly: Automated user feedback widget that feeds straight into product planning",
+      "primitive": "LandingPageWireframeBuild",
+      "props": {
+        "title": "72-Hour MVP Assembly: Automated user feedback widget that feeds straight into product planning",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Beta Feedback Cluster",
+      "primitive": "UserFeedbackCluster",
+      "props": {
+        "title": "Beta Feedback Cluster",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Core Feature Prioritization",
+      "primitive": "FeaturePrioritizationQuadrant",
+      "props": {
+        "title": "Core Feature Prioritization",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Smoke Test Validation Victory",
+      "primitive": "SmokeTestConversionCard",
+      "props": {
+        "title": "Smoke Test Validation Victory",
+        "subtitle": "Automated user feedback widget that feeds straight into product planning",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page-08",
+  "idea": "How to automate your phone to mute during meetings and bedtime",
+  "text": "Built-in smartphone automation can silence notifications based on your exact work and sleep schedule. Constant evening pings from Slack and email ruin your downtime and disrupt healthy sleep patterns. Manually toggling do-not-disturb every single night is a tedious habit that people consistently forget. Configure an automated Sleep Focus on iOS or Bedtime Routine on Android for ten tonight. You protect your rest without touching a single button.",
+  "duration": 25.877,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Hilton",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "smartphone",
+      "start": 0.32,
+      "end": 0.92
+    },
+    {
+      "word": "automation",
+      "start": 0.92,
+      "end": 1.52
+    },
+    {
+      "word": "can",
+      "start": 1.52,
+      "end": 1.88
+    },
+    {
+      "word": "silence",
+      "start": 1.88,
+      "end": 2.28
+    },
+    {
+      "word": "notifications",
+      "start": 2.28,
+      "end": 2.92
+    },
+    {
+      "word": "based",
+      "start": 2.92,
+      "end": 3.4
+    },
+    {
+      "word": "on",
+      "start": 3.4,
+      "end": 3.54
+    },
+    {
+      "word": "your",
+      "start": 3.54,
+      "end": 3.76
+    },
+    {
+      "word": "exact",
+      "start": 3.76,
+      "end": 4.04
+    },
+    {
+      "word": "work",
+      "start": 4.04,
+      "end": 4.32
+    },
+    {
+      "word": "and",
+      "start": 4.32,
+      "end": 4.66
+    },
+    {
+      "word": "sleep",
+      "start": 4.66,
+      "end": 4.7
+    },
+    {
+      "word": "schedule.",
+      "start": 4.7,
+      "end": 5.24
+    },
+    {
+      "word": "Constant",
+      "start": 6.04,
+      "end": 6.04
+    },
+    {
+      "word": "evening",
+      "start": 6.04,
+      "end": 6.42
+    },
+    {
+      "word": "pings",
+      "start": 6.42,
+      "end": 6.72
+    },
+    {
+      "word": "from",
+      "start": 6.72,
+      "end": 7.08
+    },
+    {
+      "word": "slack",
+      "start": 7.08,
+      "end": 7.32
+    },
+    {
+      "word": "and",
+      "start": 7.32,
+      "end": 7.56
+    },
+    {
+      "word": "email",
+      "start": 7.56,
+      "end": 7.8
+    },
+    {
+      "word": "ruin",
+      "start": 7.8,
+      "end": 8.12
+    },
+    {
+      "word": "your",
+      "start": 8.12,
+      "end": 8.34
+    },
+    {
+      "word": "downtime",
+      "start": 8.34,
+      "end": 8.78
+    },
+    {
+      "word": "and",
+      "start": 8.78,
+      "end": 9.26
+    },
+    {
+      "word": "disrupt",
+      "start": 9.26,
+      "end": 9.56
+    },
+    {
+      "word": "healthy",
+      "start": 9.56,
+      "end": 10.0
+    },
+    {
+      "word": "sleep",
+      "start": 10.0,
+      "end": 10.34
+    },
+    {
+      "word": "patterns.",
+      "start": 10.34,
+      "end": 10.76
+    },
+    {
+      "word": "Manually",
+      "start": 11.42,
+      "end": 11.82
+    },
+    {
+      "word": "toggling",
+      "start": 11.82,
+      "end": 12.24
+    },
+    {
+      "word": "do",
+      "start": 12.24,
+      "end": 12.38
+    },
+    {
+      "word": "not",
+      "start": 12.38,
+      "end": 12.66
+    },
+    {
+      "word": "disturb",
+      "start": 12.66,
+      "end": 12.96
+    },
+    {
+      "word": "every",
+      "start": 12.96,
+      "end": 13.38
+    },
+    {
+      "word": "single",
+      "start": 13.38,
+      "end": 13.64
+    },
+    {
+      "word": "night",
+      "start": 13.64,
+      "end": 13.96
+    },
+    {
+      "word": "is",
+      "start": 13.96,
+      "end": 14.22
+    },
+    {
+      "word": "a",
+      "start": 14.22,
+      "end": 14.34
+    },
+    {
+      "word": "tedious",
+      "start": 14.34,
+      "end": 14.56
+    },
+    {
+      "word": "habit",
+      "start": 14.56,
+      "end": 14.96
+    },
+    {
+      "word": "that",
+      "start": 14.96,
+      "end": 15.34
+    },
+    {
+      "word": "people",
+      "start": 15.34,
+      "end": 15.66
+    },
+    {
+      "word": "consistently",
+      "start": 15.66,
+      "end": 16.2
+    },
+    {
+      "word": "forget.",
+      "start": 16.2,
+      "end": 16.68
+    },
+    {
+      "word": "Configure",
+      "start": 17.34,
+      "end": 17.74
+    },
+    {
+      "word": "an",
+      "start": 17.74,
+      "end": 17.96
+    },
+    {
+      "word": "automated",
+      "start": 17.96,
+      "end": 18.26
+    },
+    {
+      "word": "sleep",
+      "start": 18.26,
+      "end": 18.74
+    },
+    {
+      "word": "focus",
+      "start": 18.74,
+      "end": 19.06
+    },
+    {
+      "word": "on",
+      "start": 19.06,
+      "end": 19.42
+    },
+    {
+      "word": "iOS",
+      "start": 19.42,
+      "end": 19.86
+    },
+    {
+      "word": "or",
+      "start": 19.86,
+      "end": 20.54
+    },
+    {
+      "word": "bedtime",
+      "start": 20.54,
+      "end": 21.04
+    },
+    {
+      "word": "routine",
+      "start": 21.04,
+      "end": 21.44
+    },
+    {
+      "word": "on",
+      "start": 21.44,
+      "end": 21.74
+    },
+    {
+      "word": "Android",
+      "start": 21.74,
+      "end": 22.06
+    },
+    {
+      "word": "for",
+      "start": 22.06,
+      "end": 22.44
+    },
+    {
+      "word": "10",
+      "start": 22.44,
+      "end": 22.64
+    },
+    {
+      "word": "to",
+      "start": 22.64,
+      "end": 22.8
+    },
+    {
+      "word": "night.",
+      "start": 22.8,
+      "end": 23.16
+    },
+    {
+      "word": "You",
+      "start": 23.16,
+      "end": 23.64
+    },
+    {
+      "word": "protect",
+      "start": 23.64,
+      "end": 23.94
+    },
+    {
+      "word": "your",
+      "start": 23.94,
+      "end": 24.18
+    },
+    {
+      "word": "rest",
+      "start": 24.18,
+      "end": 24.46
+    },
+    {
+      "word": "without",
+      "start": 24.46,
+      "end": 24.78
+    },
+    {
+      "word": "touching",
+      "start": 24.78,
+      "end": 25.08
+    },
+    {
+      "word": "a",
+      "start": 25.08,
+      "end": 25.56
+    },
+    {
+      "word": "single",
+      "start": 25.56,
+      "end": 25.56
+    },
+    {
+      "word": "button.",
+      "start": 25.56,
+      "end": 25.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "The built-in automation on iPhone and Android that silences alerts based on your schedule.",
+      "line2": "AUTO-MUTE YOUR PHONE",
+      "tag": "\ud83d\uded1 How to automate your phone to mute during meetings and bedtime",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to automate your phone to mute during meetings and bedtime",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to automate your phone to mute during meetings and bedtime",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to automate your phone to mute during meetings and bedtime",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

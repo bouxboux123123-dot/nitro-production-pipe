@@ -1,0 +1,386 @@
+{
+  "page": "page-04",
+  "idea": "Excalidraw: virtual whiteboard for brainstorming and architecture diagrams",
+  "text": "The simplest and fastest free collaborative whiteboard on the web. Brainstorming with teammates usually requires forcing everyone through tedious account creation flows and expensive seat pricing. Bulky enterprise whiteboards load slowly and clutter simple sessions with hundreds of confusing settings. Excalidraw lets you open an infinite canvas, share an encrypted collaboration link, and sketch ideas with zero logins. You map out architecture ten minutes faster.",
+  "duration": 25.771,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "simplest",
+      "start": 0.34,
+      "end": 0.58
+    },
+    {
+      "word": "and",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "fastest",
+      "start": 0.86,
+      "end": 1.24
+    },
+    {
+      "word": "free",
+      "start": 1.24,
+      "end": 1.52
+    },
+    {
+      "word": "collaborative",
+      "start": 1.52,
+      "end": 2.06
+    },
+    {
+      "word": "whiteboard",
+      "start": 2.06,
+      "end": 2.54
+    },
+    {
+      "word": "on",
+      "start": 2.54,
+      "end": 2.72
+    },
+    {
+      "word": "the",
+      "start": 2.72,
+      "end": 2.9
+    },
+    {
+      "word": "web.",
+      "start": 2.9,
+      "end": 3.36
+    },
+    {
+      "word": "Brainstorming",
+      "start": 3.96,
+      "end": 4.24
+    },
+    {
+      "word": "with",
+      "start": 4.24,
+      "end": 4.78
+    },
+    {
+      "word": "teammates",
+      "start": 4.78,
+      "end": 4.78
+    },
+    {
+      "word": "usually",
+      "start": 4.78,
+      "end": 5.24
+    },
+    {
+      "word": "requires",
+      "start": 5.24,
+      "end": 5.66
+    },
+    {
+      "word": "forcing",
+      "start": 5.66,
+      "end": 6.14
+    },
+    {
+      "word": "everyone",
+      "start": 6.14,
+      "end": 6.56
+    },
+    {
+      "word": "through",
+      "start": 6.56,
+      "end": 6.9
+    },
+    {
+      "word": "tedious",
+      "start": 6.9,
+      "end": 7.22
+    },
+    {
+      "word": "account",
+      "start": 7.22,
+      "end": 7.66
+    },
+    {
+      "word": "creation",
+      "start": 7.66,
+      "end": 8.0
+    },
+    {
+      "word": "flows",
+      "start": 8.0,
+      "end": 8.46
+    },
+    {
+      "word": "and",
+      "start": 8.46,
+      "end": 8.9
+    },
+    {
+      "word": "expensive",
+      "start": 8.9,
+      "end": 9.28
+    },
+    {
+      "word": "seat",
+      "start": 9.28,
+      "end": 9.54
+    },
+    {
+      "word": "pricing.",
+      "start": 9.54,
+      "end": 9.96
+    },
+    {
+      "word": "Bulky",
+      "start": 10.62,
+      "end": 10.82
+    },
+    {
+      "word": "Enterprise",
+      "start": 10.82,
+      "end": 11.2
+    },
+    {
+      "word": "whiteboards",
+      "start": 11.2,
+      "end": 11.82
+    },
+    {
+      "word": "load",
+      "start": 11.82,
+      "end": 12.2
+    },
+    {
+      "word": "slowly",
+      "start": 12.2,
+      "end": 12.6
+    },
+    {
+      "word": "and",
+      "start": 12.6,
+      "end": 12.84
+    },
+    {
+      "word": "clutter",
+      "start": 12.84,
+      "end": 13.04
+    },
+    {
+      "word": "simple",
+      "start": 13.04,
+      "end": 13.4
+    },
+    {
+      "word": "sessions",
+      "start": 13.4,
+      "end": 13.84
+    },
+    {
+      "word": "with",
+      "start": 13.84,
+      "end": 14.2
+    },
+    {
+      "word": "hundreds",
+      "start": 14.2,
+      "end": 14.46
+    },
+    {
+      "word": "of",
+      "start": 14.46,
+      "end": 14.78
+    },
+    {
+      "word": "confusing",
+      "start": 14.78,
+      "end": 15.1
+    },
+    {
+      "word": "settings.",
+      "start": 15.1,
+      "end": 15.66
+    },
+    {
+      "word": "Excaladraw",
+      "start": 16.36,
+      "end": 16.84
+    },
+    {
+      "word": "lets",
+      "start": 16.84,
+      "end": 17.02
+    },
+    {
+      "word": "you",
+      "start": 17.02,
+      "end": 17.22
+    },
+    {
+      "word": "open",
+      "start": 17.22,
+      "end": 17.4
+    },
+    {
+      "word": "an",
+      "start": 17.4,
+      "end": 17.66
+    },
+    {
+      "word": "infinite",
+      "start": 17.66,
+      "end": 17.96
+    },
+    {
+      "word": "canvas,",
+      "start": 17.96,
+      "end": 18.4
+    },
+    {
+      "word": "share",
+      "start": 18.78,
+      "end": 19.02
+    },
+    {
+      "word": "an",
+      "start": 19.02,
+      "end": 19.22
+    },
+    {
+      "word": "encrypted",
+      "start": 19.22,
+      "end": 19.64
+    },
+    {
+      "word": "collaboration",
+      "start": 19.64,
+      "end": 20.22
+    },
+    {
+      "word": "link,",
+      "start": 20.22,
+      "end": 20.7
+    },
+    {
+      "word": "and",
+      "start": 21.0,
+      "end": 21.16
+    },
+    {
+      "word": "sketch",
+      "start": 21.16,
+      "end": 21.38
+    },
+    {
+      "word": "ideas",
+      "start": 21.38,
+      "end": 21.84
+    },
+    {
+      "word": "with",
+      "start": 21.84,
+      "end": 22.14
+    },
+    {
+      "word": "zero",
+      "start": 22.14,
+      "end": 22.56
+    },
+    {
+      "word": "logins.",
+      "start": 22.56,
+      "end": 23.08
+    },
+    {
+      "word": "You",
+      "start": 23.6,
+      "end": 23.7
+    },
+    {
+      "word": "map",
+      "start": 23.7,
+      "end": 23.86
+    },
+    {
+      "word": "out",
+      "start": 23.86,
+      "end": 24.2
+    },
+    {
+      "word": "architecture",
+      "start": 24.2,
+      "end": 24.52
+    },
+    {
+      "word": "10",
+      "start": 24.52,
+      "end": 24.96
+    },
+    {
+      "word": "minutes",
+      "start": 24.96,
+      "end": 25.24
+    },
+    {
+      "word": "faster.",
+      "start": 25.24,
+      "end": 25.66
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 FREE POWER TOOLS",
+      "line1": "The simplest and fastest free collaborative whiteboard on the web.",
+      "line2": "FREE VIRTUAL WHITEBOARD",
+      "tag": "\ud83d\uded1 Excalidraw",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "FREE POWER TOOLS BOTTLENECK",
+      "title": "Batch Asset Pipeline: Excalidraw",
+      "primitive": "BatchFileRenamerStream",
+      "props": {
+        "title": "Batch Asset Pipeline: Excalidraw",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "EXIF Metadata Sanitizer",
+      "primitive": "MetadataScrubber",
+      "props": {
+        "title": "EXIF Metadata Sanitizer",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Multi-Format Transcode Matrix",
+      "primitive": "FormatTranscodeMatrix",
+      "props": {
+        "title": "Multi-Format Transcode Matrix",
+        "subtitle": "Excalidraw"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Lossless File Compression",
+      "primitive": "LosslessCompressorCard",
+      "props": {
+        "title": "Lossless File Compression",
+        "subtitle": "Excalidraw",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

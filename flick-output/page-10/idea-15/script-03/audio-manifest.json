@@ -1,0 +1,411 @@
+{
+  "page": "page-10",
+  "idea": "Make.com native AI assistants for scenario building and debugging",
+  "text": "Every time someone fills out your contact form, you risk losing leads to Zapier sync delays. Waiting fifteen minutes for webhook automations to poll means hot inbound prospects turn cold before reps respond. Polling lags and quota limits frequently drop submissions during high-traffic marketing campaigns. Notion Forms routes prospect entries directly into your workspace CRM with zero delay and instant alerts. You convert leads faster without extra software costs.",
+  "duration": 29.178,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Every",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "time",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "word": "someone",
+      "start": 0.64,
+      "end": 0.96
+    },
+    {
+      "word": "fills",
+      "start": 0.96,
+      "end": 1.2
+    },
+    {
+      "word": "out",
+      "start": 1.2,
+      "end": 1.4
+    },
+    {
+      "word": "your",
+      "start": 1.4,
+      "end": 1.68
+    },
+    {
+      "word": "contact",
+      "start": 1.68,
+      "end": 1.98
+    },
+    {
+      "word": "form,",
+      "start": 1.98,
+      "end": 2.42
+    },
+    {
+      "word": "you",
+      "start": 2.74,
+      "end": 2.82
+    },
+    {
+      "word": "risk",
+      "start": 2.82,
+      "end": 3.06
+    },
+    {
+      "word": "losing",
+      "start": 3.06,
+      "end": 3.44
+    },
+    {
+      "word": "leads",
+      "start": 3.44,
+      "end": 3.82
+    },
+    {
+      "word": "to",
+      "start": 3.82,
+      "end": 4.08
+    },
+    {
+      "word": "Zapier",
+      "start": 4.08,
+      "end": 4.48
+    },
+    {
+      "word": "sink",
+      "start": 4.48,
+      "end": 4.74
+    },
+    {
+      "word": "delays.",
+      "start": 4.74,
+      "end": 5.22
+    },
+    {
+      "word": "Waiting",
+      "start": 5.88,
+      "end": 6.02
+    },
+    {
+      "word": "15",
+      "start": 6.02,
+      "end": 6.52
+    },
+    {
+      "word": "minutes",
+      "start": 6.52,
+      "end": 6.8
+    },
+    {
+      "word": "for",
+      "start": 6.8,
+      "end": 7.06
+    },
+    {
+      "word": "webhook",
+      "start": 7.06,
+      "end": 7.4
+    },
+    {
+      "word": "automations",
+      "start": 7.4,
+      "end": 8.0
+    },
+    {
+      "word": "to",
+      "start": 8.0,
+      "end": 8.28
+    },
+    {
+      "word": "poll",
+      "start": 8.28,
+      "end": 8.68
+    },
+    {
+      "word": "means",
+      "start": 8.68,
+      "end": 9.06
+    },
+    {
+      "word": "hot",
+      "start": 9.06,
+      "end": 9.44
+    },
+    {
+      "word": "inbound",
+      "start": 9.44,
+      "end": 9.88
+    },
+    {
+      "word": "prospects",
+      "start": 9.88,
+      "end": 10.3
+    },
+    {
+      "word": "turn",
+      "start": 10.3,
+      "end": 10.84
+    },
+    {
+      "word": "cold",
+      "start": 10.84,
+      "end": 11.26
+    },
+    {
+      "word": "before",
+      "start": 11.26,
+      "end": 11.68
+    },
+    {
+      "word": "reps",
+      "start": 11.68,
+      "end": 11.88
+    },
+    {
+      "word": "respond.",
+      "start": 11.88,
+      "end": 12.56
+    },
+    {
+      "word": "Polling",
+      "start": 13.08,
+      "end": 13.32
+    },
+    {
+      "word": "lags",
+      "start": 13.32,
+      "end": 13.66
+    },
+    {
+      "word": "and",
+      "start": 13.66,
+      "end": 13.94
+    },
+    {
+      "word": "quota",
+      "start": 13.94,
+      "end": 14.2
+    },
+    {
+      "word": "limits",
+      "start": 14.2,
+      "end": 14.56
+    },
+    {
+      "word": "frequently",
+      "start": 14.56,
+      "end": 15.06
+    },
+    {
+      "word": "drop",
+      "start": 15.06,
+      "end": 15.42
+    },
+    {
+      "word": "submissions",
+      "start": 15.42,
+      "end": 15.9
+    },
+    {
+      "word": "during",
+      "start": 15.9,
+      "end": 16.36
+    },
+    {
+      "word": "high",
+      "start": 16.36,
+      "end": 16.68
+    },
+    {
+      "word": "traffic",
+      "start": 16.68,
+      "end": 16.96
+    },
+    {
+      "word": "marketing",
+      "start": 16.96,
+      "end": 17.44
+    },
+    {
+      "word": "campaigns.",
+      "start": 17.44,
+      "end": 18.12
+    },
+    {
+      "word": "Notion",
+      "start": 18.84,
+      "end": 19.12
+    },
+    {
+      "word": "forms",
+      "start": 19.12,
+      "end": 19.5
+    },
+    {
+      "word": "routes",
+      "start": 19.5,
+      "end": 19.9
+    },
+    {
+      "word": "prospect",
+      "start": 19.9,
+      "end": 20.44
+    },
+    {
+      "word": "entries",
+      "start": 20.44,
+      "end": 20.8
+    },
+    {
+      "word": "directly",
+      "start": 20.8,
+      "end": 21.22
+    },
+    {
+      "word": "into",
+      "start": 21.22,
+      "end": 21.52
+    },
+    {
+      "word": "your",
+      "start": 21.52,
+      "end": 21.76
+    },
+    {
+      "word": "workspace",
+      "start": 21.76,
+      "end": 22.04
+    },
+    {
+      "word": "CRM",
+      "start": 22.04,
+      "end": 22.96
+    },
+    {
+      "word": "with",
+      "start": 22.96,
+      "end": 23.4
+    },
+    {
+      "word": "zero",
+      "start": 23.4,
+      "end": 23.8
+    },
+    {
+      "word": "delay",
+      "start": 23.8,
+      "end": 24.18
+    },
+    {
+      "word": "and",
+      "start": 24.18,
+      "end": 24.7
+    },
+    {
+      "word": "instant",
+      "start": 24.7,
+      "end": 24.88
+    },
+    {
+      "word": "alerts.",
+      "start": 24.88,
+      "end": 25.34
+    },
+    {
+      "word": "You",
+      "start": 26.0,
+      "end": 26.12
+    },
+    {
+      "word": "convert",
+      "start": 26.12,
+      "end": 26.46
+    },
+    {
+      "word": "leads",
+      "start": 26.46,
+      "end": 26.86
+    },
+    {
+      "word": "faster",
+      "start": 26.86,
+      "end": 27.32
+    },
+    {
+      "word": "without",
+      "start": 27.32,
+      "end": 27.8
+    },
+    {
+      "word": "extra",
+      "start": 27.8,
+      "end": 28.18
+    },
+    {
+      "word": "software",
+      "start": 28.18,
+      "end": 28.6
+    },
+    {
+      "word": "costs.",
+      "start": 28.6,
+      "end": 29.08
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TECH BENCHMARKS",
+      "line1": "How Make.com is helping non-technical users build advanced API workflows.",
+      "line2": "MAKE AI SCENARIO DEBUGGER",
+      "tag": "\ud83d\uded1 Make.com native AI assistants for scenario building and debugging",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TECH BENCHMARKS BOTTLENECK",
+      "title": "Silent SaaS Terms Shift: Make.com native AI assistants for scenario building and debugging",
+      "primitive": "ChangelogDiffView",
+      "props": {
+        "title": "Silent SaaS Terms Shift: Make.com native AI assistants for scenario building and debugging",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Stealth Seat Price Multiplication",
+      "primitive": "PriceHikeImpactCard",
+      "props": {
+        "title": "Stealth Seat Price Multiplication",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Enterprise SSO Wall Exposed",
+      "primitive": "SeatTaxCalculator",
+      "props": {
+        "title": "Enterprise SSO Wall Exposed",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Self-Hosted Infrastructure Savings",
+      "primitive": "SelfHostSavingsLedger",
+      "props": {
+        "title": "Self-Hosted Infrastructure Savings",
+        "subtitle": "Make.com native AI assistants for scenario building and debugging",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

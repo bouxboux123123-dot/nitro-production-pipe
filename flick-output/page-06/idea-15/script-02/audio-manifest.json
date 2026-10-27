@@ -1,0 +1,406 @@
+{
+  "page": "page-06",
+  "idea": "Centralized team SOP hub that answers common questions using AI search",
+  "text": "This AI knowledge assistant searches your company docs and answers team questions directly on Slack. Hunting across Notion, Google Drive, and outdated pinned messages wastes hours of productive engineering time. When documentation lives scattered across five separate platforms, remote employees guess rather than verifying the correct procedure. Integrating Slite with Slack lets employees ask natural questions and receive cited answers in seconds. Your team stays aligned without context switching.",
+  "duration": 31.141,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "AI",
+      "start": 0.26,
+      "end": 0.8
+    },
+    {
+      "word": "knowledge",
+      "start": 0.8,
+      "end": 1.12
+    },
+    {
+      "word": "assistant",
+      "start": 1.12,
+      "end": 1.66
+    },
+    {
+      "word": "searches",
+      "start": 1.66,
+      "end": 2.04
+    },
+    {
+      "word": "your",
+      "start": 2.04,
+      "end": 2.4
+    },
+    {
+      "word": "company",
+      "start": 2.4,
+      "end": 2.66
+    },
+    {
+      "word": "docs",
+      "start": 2.66,
+      "end": 3.08
+    },
+    {
+      "word": "and",
+      "start": 3.08,
+      "end": 3.46
+    },
+    {
+      "word": "answers",
+      "start": 3.46,
+      "end": 3.8
+    },
+    {
+      "word": "team",
+      "start": 3.8,
+      "end": 4.26
+    },
+    {
+      "word": "questions",
+      "start": 4.26,
+      "end": 4.76
+    },
+    {
+      "word": "directly",
+      "start": 4.76,
+      "end": 5.22
+    },
+    {
+      "word": "on",
+      "start": 5.22,
+      "end": 5.6
+    },
+    {
+      "word": "Slack.",
+      "start": 5.6,
+      "end": 6.1
+    },
+    {
+      "word": "Hunting",
+      "start": 6.64,
+      "end": 6.72
+    },
+    {
+      "word": "across",
+      "start": 6.72,
+      "end": 7.1
+    },
+    {
+      "word": "Notion,",
+      "start": 7.1,
+      "end": 7.72
+    },
+    {
+      "word": "Google",
+      "start": 7.96,
+      "end": 8.28
+    },
+    {
+      "word": "Drive,",
+      "start": 8.28,
+      "end": 8.76
+    },
+    {
+      "word": "and",
+      "start": 9.1,
+      "end": 9.26
+    },
+    {
+      "word": "outdated",
+      "start": 9.26,
+      "end": 9.72
+    },
+    {
+      "word": "pinned",
+      "start": 9.72,
+      "end": 10.1
+    },
+    {
+      "word": "messages",
+      "start": 10.1,
+      "end": 10.62
+    },
+    {
+      "word": "wastes",
+      "start": 10.62,
+      "end": 11.2
+    },
+    {
+      "word": "hours",
+      "start": 11.2,
+      "end": 11.66
+    },
+    {
+      "word": "of",
+      "start": 11.66,
+      "end": 11.94
+    },
+    {
+      "word": "productive",
+      "start": 11.94,
+      "end": 12.26
+    },
+    {
+      "word": "engineering",
+      "start": 12.26,
+      "end": 12.78
+    },
+    {
+      "word": "time.",
+      "start": 12.78,
+      "end": 13.36
+    },
+    {
+      "word": "When",
+      "start": 13.58,
+      "end": 13.74
+    },
+    {
+      "word": "documentation",
+      "start": 13.74,
+      "end": 14.34
+    },
+    {
+      "word": "lives",
+      "start": 14.34,
+      "end": 15.02
+    },
+    {
+      "word": "scattered",
+      "start": 15.02,
+      "end": 15.36
+    },
+    {
+      "word": "across",
+      "start": 15.36,
+      "end": 15.78
+    },
+    {
+      "word": "five",
+      "start": 15.78,
+      "end": 16.2
+    },
+    {
+      "word": "separate",
+      "start": 16.2,
+      "end": 16.52
+    },
+    {
+      "word": "platforms,",
+      "start": 16.52,
+      "end": 17.16
+    },
+    {
+      "word": "remote",
+      "start": 17.66,
+      "end": 17.84
+    },
+    {
+      "word": "employees",
+      "start": 17.84,
+      "end": 18.38
+    },
+    {
+      "word": "guess",
+      "start": 18.38,
+      "end": 18.78
+    },
+    {
+      "word": "rather",
+      "start": 18.78,
+      "end": 19.16
+    },
+    {
+      "word": "than",
+      "start": 19.16,
+      "end": 19.8
+    },
+    {
+      "word": "verifying",
+      "start": 19.8,
+      "end": 19.8
+    },
+    {
+      "word": "the",
+      "start": 19.8,
+      "end": 20.16
+    },
+    {
+      "word": "correct",
+      "start": 20.16,
+      "end": 20.4
+    },
+    {
+      "word": "procedure.",
+      "start": 20.4,
+      "end": 20.94
+    },
+    {
+      "word": "Integrating",
+      "start": 21.72,
+      "end": 22.08
+    },
+    {
+      "word": "slight",
+      "start": 22.08,
+      "end": 22.46
+    },
+    {
+      "word": "with",
+      "start": 22.46,
+      "end": 22.7
+    },
+    {
+      "word": "Slack",
+      "start": 22.7,
+      "end": 22.98
+    },
+    {
+      "word": "lets",
+      "start": 22.98,
+      "end": 23.22
+    },
+    {
+      "word": "employees",
+      "start": 23.22,
+      "end": 23.78
+    },
+    {
+      "word": "ask",
+      "start": 23.78,
+      "end": 24.48
+    },
+    {
+      "word": "natural",
+      "start": 24.48,
+      "end": 24.92
+    },
+    {
+      "word": "questions",
+      "start": 24.92,
+      "end": 25.4
+    },
+    {
+      "word": "and",
+      "start": 25.4,
+      "end": 26.0
+    },
+    {
+      "word": "receive",
+      "start": 26.0,
+      "end": 26.34
+    },
+    {
+      "word": "cited",
+      "start": 26.34,
+      "end": 26.68
+    },
+    {
+      "word": "answers",
+      "start": 26.68,
+      "end": 27.12
+    },
+    {
+      "word": "in",
+      "start": 27.12,
+      "end": 27.42
+    },
+    {
+      "word": "seconds.",
+      "start": 27.42,
+      "end": 27.82
+    },
+    {
+      "word": "Your",
+      "start": 27.82,
+      "end": 28.62
+    },
+    {
+      "word": "team",
+      "start": 28.62,
+      "end": 28.94
+    },
+    {
+      "word": "stays",
+      "start": 28.94,
+      "end": 29.34
+    },
+    {
+      "word": "aligned",
+      "start": 29.34,
+      "end": 29.78
+    },
+    {
+      "word": "without",
+      "start": 29.78,
+      "end": 30.2
+    },
+    {
+      "word": "context",
+      "start": 30.2,
+      "end": 30.64
+    },
+    {
+      "word": "switching.",
+      "start": 30.64,
+      "end": 31.06
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 REMOTE TEAM SYSTEMS",
+      "line1": "This AI knowledge assistant searches your company docs and answers questions on Slack.",
+      "line2": "AI-POWERED SOP SEARCH",
+      "tag": "\ud83d\uded1 Centralized team SOP hub that answers common questions using AI search",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "REMOTE TEAM SYSTEMS BOTTLENECK",
+      "title": "Live Meeting Dollar Burn: Centralized team SOP hub that answers common questions using AI search",
+      "primitive": "MeetingCostCalculator",
+      "props": {
+        "title": "Live Meeting Dollar Burn: Centralized team SOP hub that answers common questions using AI search",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Async Micro-Walkthrough",
+      "primitive": "ScreenRecordingSnippet",
+      "props": {
+        "title": "Async Micro-Walkthrough",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Action Item Extraction",
+      "primitive": "ActionItemAutoAssigner",
+      "props": {
+        "title": "Automated Action Item Extraction",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Loom-to-SOP Transmutation",
+      "primitive": "VideoToSOPTransmuter",
+      "props": {
+        "title": "Loom-to-SOP Transmutation",
+        "subtitle": "Centralized team SOP hub that answers common questions using AI search",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

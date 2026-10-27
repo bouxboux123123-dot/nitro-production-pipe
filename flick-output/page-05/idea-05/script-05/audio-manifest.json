@@ -1,0 +1,416 @@
+{
+  "page": "page-05",
+  "idea": "Softr client portal connected directly to Airtable permissions",
+  "text": "Give your clients twenty-four-seven visibility on deliverables with zero manual work. Clients panic and send urgent midnight emails whenever they cannot see what your creative team is building. Manual status spreadsheets constantly fall behind schedule because designers forget to update rows after finishing tasks. Instead, connect a Softr portal to Airtable views that update task statuses when deliverables are submitted. Clients stay confident with self-serve tracking around the clock.",
+  "duration": 29.306,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Give",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "your",
+      "start": 0.18,
+      "end": 0.44
+    },
+    {
+      "word": "clients",
+      "start": 0.44,
+      "end": 0.66
+    },
+    {
+      "word": "24",
+      "start": 0.66,
+      "end": 1.22
+    },
+    {
+      "word": "-7",
+      "start": 1.22,
+      "end": 1.7
+    },
+    {
+      "word": "visibility",
+      "start": 1.7,
+      "end": 2.26
+    },
+    {
+      "word": "on",
+      "start": 2.26,
+      "end": 2.66
+    },
+    {
+      "word": "deliverables",
+      "start": 2.66,
+      "end": 3.16
+    },
+    {
+      "word": "with",
+      "start": 3.16,
+      "end": 3.48
+    },
+    {
+      "word": "zero",
+      "start": 3.48,
+      "end": 3.9
+    },
+    {
+      "word": "manual",
+      "start": 3.9,
+      "end": 4.3
+    },
+    {
+      "word": "work.",
+      "start": 4.3,
+      "end": 4.96
+    },
+    {
+      "word": "Clients",
+      "start": 5.38,
+      "end": 5.66
+    },
+    {
+      "word": "panic",
+      "start": 5.66,
+      "end": 6.04
+    },
+    {
+      "word": "and",
+      "start": 6.04,
+      "end": 6.34
+    },
+    {
+      "word": "send",
+      "start": 6.34,
+      "end": 6.66
+    },
+    {
+      "word": "urgent",
+      "start": 6.66,
+      "end": 7.02
+    },
+    {
+      "word": "midnight",
+      "start": 7.02,
+      "end": 7.5
+    },
+    {
+      "word": "emails",
+      "start": 7.5,
+      "end": 7.94
+    },
+    {
+      "word": "whenever",
+      "start": 7.94,
+      "end": 8.56
+    },
+    {
+      "word": "they",
+      "start": 8.56,
+      "end": 8.88
+    },
+    {
+      "word": "cannot",
+      "start": 8.88,
+      "end": 9.26
+    },
+    {
+      "word": "see",
+      "start": 9.26,
+      "end": 9.52
+    },
+    {
+      "word": "what",
+      "start": 9.52,
+      "end": 9.68
+    },
+    {
+      "word": "your",
+      "start": 9.68,
+      "end": 9.96
+    },
+    {
+      "word": "creative",
+      "start": 9.96,
+      "end": 10.26
+    },
+    {
+      "word": "team",
+      "start": 10.26,
+      "end": 10.68
+    },
+    {
+      "word": "is",
+      "start": 10.68,
+      "end": 10.9
+    },
+    {
+      "word": "building.",
+      "start": 10.9,
+      "end": 11.34
+    },
+    {
+      "word": "Manual",
+      "start": 12.04,
+      "end": 12.04
+    },
+    {
+      "word": "status",
+      "start": 12.04,
+      "end": 12.48
+    },
+    {
+      "word": "spreadsheets",
+      "start": 12.48,
+      "end": 13.12
+    },
+    {
+      "word": "constantly",
+      "start": 13.12,
+      "end": 13.74
+    },
+    {
+      "word": "fall",
+      "start": 13.74,
+      "end": 14.02
+    },
+    {
+      "word": "behind",
+      "start": 14.02,
+      "end": 14.34
+    },
+    {
+      "word": "schedule",
+      "start": 14.34,
+      "end": 14.78
+    },
+    {
+      "word": "because",
+      "start": 14.78,
+      "end": 15.36
+    },
+    {
+      "word": "designers",
+      "start": 15.36,
+      "end": 15.8
+    },
+    {
+      "word": "forget",
+      "start": 15.8,
+      "end": 16.18
+    },
+    {
+      "word": "to",
+      "start": 16.18,
+      "end": 16.84
+    },
+    {
+      "word": "update",
+      "start": 16.84,
+      "end": 16.84
+    },
+    {
+      "word": "rows",
+      "start": 16.84,
+      "end": 17.22
+    },
+    {
+      "word": "after",
+      "start": 17.22,
+      "end": 17.6
+    },
+    {
+      "word": "finishing",
+      "start": 17.6,
+      "end": 17.98
+    },
+    {
+      "word": "tasks.",
+      "start": 17.98,
+      "end": 18.5
+    },
+    {
+      "word": "Instead,",
+      "start": 19.2,
+      "end": 19.58
+    },
+    {
+      "word": "connect",
+      "start": 20.2,
+      "end": 20.22
+    },
+    {
+      "word": "a",
+      "start": 20.22,
+      "end": 20.48
+    },
+    {
+      "word": "softer",
+      "start": 20.48,
+      "end": 20.78
+    },
+    {
+      "word": "portal",
+      "start": 20.78,
+      "end": 21.08
+    },
+    {
+      "word": "to",
+      "start": 21.08,
+      "end": 21.42
+    },
+    {
+      "word": "irritable",
+      "start": 21.42,
+      "end": 21.78
+    },
+    {
+      "word": "views",
+      "start": 21.78,
+      "end": 22.2
+    },
+    {
+      "word": "that",
+      "start": 22.2,
+      "end": 22.5
+    },
+    {
+      "word": "update",
+      "start": 22.5,
+      "end": 22.76
+    },
+    {
+      "word": "task",
+      "start": 22.76,
+      "end": 23.16
+    },
+    {
+      "word": "statuses",
+      "start": 23.16,
+      "end": 23.74
+    },
+    {
+      "word": "when",
+      "start": 23.74,
+      "end": 24.14
+    },
+    {
+      "word": "deliverables",
+      "start": 24.14,
+      "end": 24.64
+    },
+    {
+      "word": "are",
+      "start": 24.64,
+      "end": 24.98
+    },
+    {
+      "word": "submitted.",
+      "start": 24.98,
+      "end": 25.32
+    },
+    {
+      "word": "Clients",
+      "start": 25.32,
+      "end": 26.34
+    },
+    {
+      "word": "stay",
+      "start": 26.34,
+      "end": 26.66
+    },
+    {
+      "word": "confident",
+      "start": 26.66,
+      "end": 27.06
+    },
+    {
+      "word": "with",
+      "start": 27.06,
+      "end": 27.52
+    },
+    {
+      "word": "self",
+      "start": 27.52,
+      "end": 27.78
+    },
+    {
+      "word": "-serve",
+      "start": 27.78,
+      "end": 28.1
+    },
+    {
+      "word": "tracking",
+      "start": 28.1,
+      "end": 28.42
+    },
+    {
+      "word": "around",
+      "start": 28.42,
+      "end": 28.78
+    },
+    {
+      "word": "the",
+      "start": 28.78,
+      "end": 28.98
+    },
+    {
+      "word": "clock.",
+      "start": 28.98,
+      "end": 29.28
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 NO-CODE WORKFLOW",
+      "line1": "Give your clients 24/7 visibility on deliverables with zero manual work.",
+      "line2": "AIRTABLE CLIENT PORTAL",
+      "tag": "\ud83d\uded1 Softr client portal connected directly to Airtable permissions",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "NO-CODE WORKFLOW BOTTLENECK",
+      "title": "Relational Database Sync: Softr client portal connected directly to Airtable permissions",
+      "primitive": "LinkedRecordRelation",
+      "props": {
+        "title": "Relational Database Sync: Softr client portal connected directly to Airtable permissions",
+        "subtitle": "Softr client portal connected directly to Airtable permissions"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Duplicate Record Detection",
+      "primitive": "DeduplicationRadar",
+      "props": {
+        "title": "Duplicate Record Detection",
+        "subtitle": "Softr client portal connected directly to Airtable permissions"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated CRM Kanban Transition",
+      "primitive": "AutomatedStatusPipeline",
+      "props": {
+        "title": "Automated CRM Kanban Transition",
+        "subtitle": "Softr client portal connected directly to Airtable permissions"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Instant Rollup Aggregation",
+      "primitive": "FormulaRollupCounter",
+      "props": {
+        "title": "Instant Rollup Aggregation",
+        "subtitle": "Softr client portal connected directly to Airtable permissions",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

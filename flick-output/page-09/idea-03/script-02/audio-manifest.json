@@ -1,0 +1,411 @@
+{
+  "page": "page-09",
+  "idea": "Claude vs ChatGPT: which AI assistant writes better business copy",
+  "text": "We gave both models the exact same business prompt and the winner was obvious. When drafting a high-stakes client proposal, ChatGPT produced repetitive bullet points packed with corporate clich\u00e9s. Generic fluff forces you to manually rewrite sections before sending them to executive decision-makers. Claude Sonnet delivered a sharp, persuasive draft with nuanced commercial reasoning and crisp formatting. This cuts editing time in half while closing bigger deals.",
+  "duration": 25.899,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "gave",
+      "start": 0.18,
+      "end": 0.36
+    },
+    {
+      "word": "both",
+      "start": 0.36,
+      "end": 0.7
+    },
+    {
+      "word": "models",
+      "start": 0.7,
+      "end": 0.9
+    },
+    {
+      "word": "the",
+      "start": 0.9,
+      "end": 1.2
+    },
+    {
+      "word": "exact",
+      "start": 1.2,
+      "end": 1.56
+    },
+    {
+      "word": "same",
+      "start": 1.56,
+      "end": 1.84
+    },
+    {
+      "word": "business",
+      "start": 1.84,
+      "end": 2.22
+    },
+    {
+      "word": "prompt,",
+      "start": 2.22,
+      "end": 2.56
+    },
+    {
+      "word": "and",
+      "start": 2.72,
+      "end": 2.88
+    },
+    {
+      "word": "the",
+      "start": 2.88,
+      "end": 3.14
+    },
+    {
+      "word": "winner",
+      "start": 3.14,
+      "end": 3.14
+    },
+    {
+      "word": "was",
+      "start": 3.14,
+      "end": 3.48
+    },
+    {
+      "word": "obvious.",
+      "start": 3.48,
+      "end": 3.78
+    },
+    {
+      "word": "When",
+      "start": 4.36,
+      "end": 4.54
+    },
+    {
+      "word": "drafting",
+      "start": 4.54,
+      "end": 4.82
+    },
+    {
+      "word": "a",
+      "start": 4.82,
+      "end": 5.08
+    },
+    {
+      "word": "high",
+      "start": 5.08,
+      "end": 5.28
+    },
+    {
+      "word": "-stakes",
+      "start": 5.28,
+      "end": 5.56
+    },
+    {
+      "word": "client",
+      "start": 5.56,
+      "end": 5.9
+    },
+    {
+      "word": "proposal,",
+      "start": 5.9,
+      "end": 6.42
+    },
+    {
+      "word": "chat",
+      "start": 7.0,
+      "end": 7.08
+    },
+    {
+      "word": "GPT",
+      "start": 7.08,
+      "end": 7.7
+    },
+    {
+      "word": "produced",
+      "start": 7.7,
+      "end": 8.04
+    },
+    {
+      "word": "repetitive",
+      "start": 8.04,
+      "end": 8.58
+    },
+    {
+      "word": "bullet",
+      "start": 8.58,
+      "end": 8.78
+    },
+    {
+      "word": "points",
+      "start": 8.78,
+      "end": 9.2
+    },
+    {
+      "word": "packed",
+      "start": 9.2,
+      "end": 9.48
+    },
+    {
+      "word": "with",
+      "start": 9.48,
+      "end": 9.72
+    },
+    {
+      "word": "corporate",
+      "start": 9.72,
+      "end": 10.08
+    },
+    {
+      "word": "cliches.",
+      "start": 10.08,
+      "end": 10.6
+    },
+    {
+      "word": "Generic",
+      "start": 11.22,
+      "end": 11.62
+    },
+    {
+      "word": "fluff",
+      "start": 11.62,
+      "end": 11.92
+    },
+    {
+      "word": "forces",
+      "start": 11.92,
+      "end": 12.26
+    },
+    {
+      "word": "you",
+      "start": 12.26,
+      "end": 12.48
+    },
+    {
+      "word": "to",
+      "start": 12.48,
+      "end": 12.64
+    },
+    {
+      "word": "manually",
+      "start": 12.64,
+      "end": 12.94
+    },
+    {
+      "word": "rewrite",
+      "start": 12.94,
+      "end": 13.36
+    },
+    {
+      "word": "sections",
+      "start": 13.36,
+      "end": 13.98
+    },
+    {
+      "word": "before",
+      "start": 13.98,
+      "end": 14.54
+    },
+    {
+      "word": "sending",
+      "start": 14.54,
+      "end": 14.76
+    },
+    {
+      "word": "them",
+      "start": 14.76,
+      "end": 15.02
+    },
+    {
+      "word": "to",
+      "start": 15.02,
+      "end": 15.44
+    },
+    {
+      "word": "executive",
+      "start": 15.44,
+      "end": 15.66
+    },
+    {
+      "word": "decision",
+      "start": 15.66,
+      "end": 16.12
+    },
+    {
+      "word": "-makers.",
+      "start": 16.12,
+      "end": 16.5
+    },
+    {
+      "word": "Claude",
+      "start": 17.14,
+      "end": 17.4
+    },
+    {
+      "word": "Sonnet",
+      "start": 17.4,
+      "end": 17.76
+    },
+    {
+      "word": "delivered",
+      "start": 17.76,
+      "end": 18.0
+    },
+    {
+      "word": "a",
+      "start": 18.0,
+      "end": 18.3
+    },
+    {
+      "word": "sharp,",
+      "start": 18.3,
+      "end": 18.7
+    },
+    {
+      "word": "persuasive",
+      "start": 18.88,
+      "end": 19.12
+    },
+    {
+      "word": "draft",
+      "start": 19.12,
+      "end": 19.64
+    },
+    {
+      "word": "with",
+      "start": 19.64,
+      "end": 20.0
+    },
+    {
+      "word": "nuanced",
+      "start": 20.0,
+      "end": 20.44
+    },
+    {
+      "word": "commercial",
+      "start": 20.44,
+      "end": 20.94
+    },
+    {
+      "word": "reasoning",
+      "start": 20.94,
+      "end": 21.28
+    },
+    {
+      "word": "and",
+      "start": 21.28,
+      "end": 21.76
+    },
+    {
+      "word": "crisp",
+      "start": 21.76,
+      "end": 21.96
+    },
+    {
+      "word": "formatting.",
+      "start": 21.96,
+      "end": 22.3
+    },
+    {
+      "word": "This",
+      "start": 22.3,
+      "end": 23.1
+    },
+    {
+      "word": "cuts",
+      "start": 23.1,
+      "end": 23.4
+    },
+    {
+      "word": "editing",
+      "start": 23.4,
+      "end": 23.7
+    },
+    {
+      "word": "time",
+      "start": 23.7,
+      "end": 24.1
+    },
+    {
+      "word": "in",
+      "start": 24.1,
+      "end": 24.24
+    },
+    {
+      "word": "half",
+      "start": 24.24,
+      "end": 24.5
+    },
+    {
+      "word": "-while",
+      "start": 24.5,
+      "end": 24.76
+    },
+    {
+      "word": "closing",
+      "start": 24.76,
+      "end": 25.18
+    },
+    {
+      "word": "bigger",
+      "start": 25.18,
+      "end": 25.48
+    },
+    {
+      "word": "deals.",
+      "start": 25.48,
+      "end": 25.8
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 TOOL COMPARISON",
+      "line1": "We gave both models the exact same business prompt and the winner was obvious.",
+      "line2": "CLAUDE VS CHATGPT",
+      "tag": "\ud83d\uded1 Claude vs ChatGPT",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "TOOL COMPARISON BOTTLENECK",
+      "title": "UI Friction & Bloat Audit: Claude vs ChatGPT",
+      "primitive": "InterfaceBloatScorecard",
+      "props": {
+        "title": "UI Friction & Bloat Audit: Claude vs ChatGPT",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "Ticket Creation Latency Showdown",
+      "primitive": "TicketingSpeedStopwatch",
+      "props": {
+        "title": "Ticket Creation Latency Showdown",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Automated Git Status Bridge",
+      "primitive": "GitCommitIssueLinker",
+      "props": {
+        "title": "Automated Git Status Bridge",
+        "subtitle": "Claude vs ChatGPT"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "Sprint Cycle Time Burndown",
+      "primitive": "CycleTimeBurndownChart",
+      "props": {
+        "title": "Sprint Cycle Time Burndown",
+        "subtitle": "Claude vs ChatGPT",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}

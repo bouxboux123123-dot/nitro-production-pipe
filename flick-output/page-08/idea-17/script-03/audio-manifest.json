@@ -1,0 +1,416 @@
+{
+  "page": "page-08",
+  "idea": "How to automatically format messy dates and names in Google Sheets",
+  "text": "Stop manually editing hundreds of spreadsheet cells one by one late at night. Staring at imported CSV files with jumbled names, extra spaces, and mismatched dates drains your energy. Manual text corrections produce typos, corrupting your customer records and preventing your summary charts from updating. Open Google Sheets, highlight your dataset, and select Data Cleanup suggestions to auto-format names and dates. You clean entire contact databases in three clicks.",
+  "duration": 29.071,
+  "sample_rate": 24000,
+  "words": [
+    {
+      "word": "Stop",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "manually",
+      "start": 0.4,
+      "end": 0.8
+    },
+    {
+      "word": "editing",
+      "start": 0.8,
+      "end": 1.18
+    },
+    {
+      "word": "hundreds",
+      "start": 1.18,
+      "end": 1.58
+    },
+    {
+      "word": "of",
+      "start": 1.58,
+      "end": 1.86
+    },
+    {
+      "word": "spreadsheet",
+      "start": 1.86,
+      "end": 2.14
+    },
+    {
+      "word": "cells",
+      "start": 2.14,
+      "end": 2.66
+    },
+    {
+      "word": "one",
+      "start": 2.66,
+      "end": 2.94
+    },
+    {
+      "word": "by",
+      "start": 2.94,
+      "end": 3.16
+    },
+    {
+      "word": "one",
+      "start": 3.16,
+      "end": 3.38
+    },
+    {
+      "word": "late",
+      "start": 3.38,
+      "end": 3.58
+    },
+    {
+      "word": "at",
+      "start": 3.58,
+      "end": 3.78
+    },
+    {
+      "word": "night.",
+      "start": 3.78,
+      "end": 4.4
+    },
+    {
+      "word": "Staring",
+      "start": 4.82,
+      "end": 4.98
+    },
+    {
+      "word": "at",
+      "start": 4.98,
+      "end": 5.32
+    },
+    {
+      "word": "imported",
+      "start": 5.32,
+      "end": 5.8
+    },
+    {
+      "word": "CSV",
+      "start": 5.8,
+      "end": 6.26
+    },
+    {
+      "word": "files",
+      "start": 6.26,
+      "end": 6.8
+    },
+    {
+      "word": "with",
+      "start": 6.8,
+      "end": 7.12
+    },
+    {
+      "word": "jumbled",
+      "start": 7.12,
+      "end": 7.48
+    },
+    {
+      "word": "names,",
+      "start": 7.48,
+      "end": 8.0
+    },
+    {
+      "word": "extra",
+      "start": 8.54,
+      "end": 8.66
+    },
+    {
+      "word": "spaces,",
+      "start": 8.66,
+      "end": 9.2
+    },
+    {
+      "word": "and",
+      "start": 9.62,
+      "end": 9.84
+    },
+    {
+      "word": "mismatched",
+      "start": 9.84,
+      "end": 10.22
+    },
+    {
+      "word": "dates",
+      "start": 10.22,
+      "end": 10.56
+    },
+    {
+      "word": "drains",
+      "start": 10.56,
+      "end": 10.94
+    },
+    {
+      "word": "your",
+      "start": 10.94,
+      "end": 11.18
+    },
+    {
+      "word": "energy.",
+      "start": 11.18,
+      "end": 11.56
+    },
+    {
+      "word": "Manual",
+      "start": 12.22,
+      "end": 12.22
+    },
+    {
+      "word": "text",
+      "start": 12.22,
+      "end": 12.54
+    },
+    {
+      "word": "corrections",
+      "start": 12.54,
+      "end": 13.02
+    },
+    {
+      "word": "produced",
+      "start": 13.02,
+      "end": 13.52
+    },
+    {
+      "word": "typos,",
+      "start": 13.52,
+      "end": 14.08
+    },
+    {
+      "word": "corrupting",
+      "start": 14.64,
+      "end": 14.82
+    },
+    {
+      "word": "your",
+      "start": 14.82,
+      "end": 15.24
+    },
+    {
+      "word": "customer",
+      "start": 15.24,
+      "end": 15.36
+    },
+    {
+      "word": "records,",
+      "start": 15.36,
+      "end": 15.76
+    },
+    {
+      "word": "and",
+      "start": 16.16,
+      "end": 16.34
+    },
+    {
+      "word": "preventing",
+      "start": 16.34,
+      "end": 16.58
+    },
+    {
+      "word": "your",
+      "start": 16.58,
+      "end": 17.24
+    },
+    {
+      "word": "summary",
+      "start": 17.24,
+      "end": 17.24
+    },
+    {
+      "word": "charts",
+      "start": 17.24,
+      "end": 17.6
+    },
+    {
+      "word": "from",
+      "start": 17.6,
+      "end": 17.84
+    },
+    {
+      "word": "updating.",
+      "start": 17.84,
+      "end": 18.26
+    },
+    {
+      "word": "Open",
+      "start": 19.0,
+      "end": 19.3
+    },
+    {
+      "word": "Google",
+      "start": 19.3,
+      "end": 19.68
+    },
+    {
+      "word": "Sheets,",
+      "start": 19.68,
+      "end": 20.08
+    },
+    {
+      "word": "highlight",
+      "start": 20.54,
+      "end": 20.7
+    },
+    {
+      "word": "your",
+      "start": 20.7,
+      "end": 21.04
+    },
+    {
+      "word": "data",
+      "start": 21.04,
+      "end": 21.28
+    },
+    {
+      "word": "set,",
+      "start": 21.28,
+      "end": 21.54
+    },
+    {
+      "word": "and",
+      "start": 21.7,
+      "end": 21.94
+    },
+    {
+      "word": "select",
+      "start": 21.94,
+      "end": 22.26
+    },
+    {
+      "word": "data",
+      "start": 22.26,
+      "end": 22.64
+    },
+    {
+      "word": "cleanup",
+      "start": 22.64,
+      "end": 22.94
+    },
+    {
+      "word": "suggestions",
+      "start": 22.94,
+      "end": 23.5
+    },
+    {
+      "word": "to",
+      "start": 23.5,
+      "end": 23.94
+    },
+    {
+      "word": "auto",
+      "start": 23.94,
+      "end": 24.18
+    },
+    {
+      "word": "format",
+      "start": 24.18,
+      "end": 24.48
+    },
+    {
+      "word": "names",
+      "start": 24.48,
+      "end": 24.9
+    },
+    {
+      "word": "and",
+      "start": 24.9,
+      "end": 25.14
+    },
+    {
+      "word": "dates.",
+      "start": 25.14,
+      "end": 25.5
+    },
+    {
+      "word": "You",
+      "start": 26.02,
+      "end": 26.18
+    },
+    {
+      "word": "clean",
+      "start": 26.18,
+      "end": 26.42
+    },
+    {
+      "word": "entire",
+      "start": 26.42,
+      "end": 26.96
+    },
+    {
+      "word": "contact",
+      "start": 26.96,
+      "end": 27.46
+    },
+    {
+      "word": "databases",
+      "start": 27.46,
+      "end": 28.0
+    },
+    {
+      "word": "in",
+      "start": 28.0,
+      "end": 28.42
+    },
+    {
+      "word": "three",
+      "start": 28.42,
+      "end": 28.7
+    },
+    {
+      "word": "clicks.",
+      "start": 28.7,
+      "end": 28.98
+    }
+  ],
+  "visuals": {
+    "hook": {
+      "chapter": "\u26a1 HOOK",
+      "badge": "\u26a1 WORKFLOW BASICS",
+      "line1": "Stop manually editing hundreds of spreadsheet cells one by one.",
+      "line2": "FORMAT DATES AND NAMES",
+      "tag": "\ud83d\uded1 How to automatically format messy dates and names in Google Sheets",
+      "subtext": "Stop losing hours every week doing this manually."
+    },
+    "act1": {
+      "chapter": "\ud83d\udd37 THE BOTTLENECK",
+      "badge": "WORKFLOW BASICS BOTTLENECK",
+      "title": "Automated Desktop Cleanup: How to automatically format messy dates and names in Google Sheets",
+      "primitive": "MessyDesktopCleanup",
+      "props": {
+        "title": "Automated Desktop Cleanup: How to automatically format messy dates and names in Google Sheets",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act2": {
+      "chapter": "\ud83d\uded1 THE CRISIS",
+      "badge": "CRITICAL BOTTLENECK",
+      "title": "ISO 8601 File Naming Standard",
+      "primitive": "ISO8601NamingCard",
+      "props": {
+        "title": "ISO 8601 File Naming Standard",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act3": {
+      "chapter": "\ud83d\ude80 THE FIX",
+      "badge": "THE AUTOMATED PIPELINE",
+      "title": "Golden 3-Click Folder Tree",
+      "primitive": "FolderHierarchyTree",
+      "props": {
+        "title": "Golden 3-Click Folder Tree",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets"
+      }
+    },
+    "act4": {
+      "chapter": "\u26a1 VICTORY",
+      "badge": "BENCHMARK VICTORY",
+      "title": "3-2-1 Encrypted Cloud Backup",
+      "primitive": "CloudSyncIndicator",
+      "props": {
+        "title": "3-2-1 Encrypted Cloud Backup",
+        "subtitle": "How to automatically format messy dates and names in Google Sheets",
+        "compositeScore": null,
+        "clientTier": null
+      }
+    }
+  }
+}
