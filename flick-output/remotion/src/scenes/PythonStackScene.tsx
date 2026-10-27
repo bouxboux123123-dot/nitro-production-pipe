@@ -78,31 +78,50 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   });
   const activeWord = activeWordIndex !== -1 ? words[activeWordIndex] : null;
 
-  // Stable phrase chunking (3-word batches for smooth mobile readability)
+  // Sentence-aware phrase chunking (keeps subtitles strictly within sentence boundaries)
   const phraseChunks = useMemo(() => {
     const chunks: WordTimestamp[][] = [];
+    if (!words || words.length === 0) return chunks;
+
+    // 1. Group words by sentence based on terminal punctuation
+    let currentSentence: WordTimestamp[] = [];
+    const sentences: WordTimestamp[][] = [];
+    for (const w of words) {
+      currentSentence.push(w);
+      if (/[.!?]$/.test((w.word || '').trim())) {
+        sentences.push(currentSentence);
+        currentSentence = [];
+      }
+    }
+    if (currentSentence.length > 0) {
+      sentences.push(currentSentence);
+    }
+
+    // 2. Chunk each sentence independently (max 3 words per chunk)
     const CHUNK_SIZE = 3;
-    for (let i = 0; i < words.length; i += CHUNK_SIZE) {
-      chunks.push(words.slice(i, i + CHUNK_SIZE));
+    for (const sent of sentences) {
+      for (let i = 0; i < sent.length; i += CHUNK_SIZE) {
+        chunks.push(sent.slice(i, i + CHUNK_SIZE));
+      }
     }
     return chunks;
   }, [words]);
 
   const currentChunk = useMemo(() => {
     if (!phraseChunks.length) return [];
-    if (activeWordIndex !== -1) {
-      const chunkIdx = Math.floor(activeWordIndex / 3);
-      return phraseChunks[chunkIdx] || [];
+    if (activeWord) {
+      const match = phraseChunks.find((c) => c.some((w) => w.start === activeWord.start));
+      if (match) return match;
     }
     const nextIdx = words.findIndex((w) => w.start > t);
     if (nextIdx > 0) {
-      const prevWordIdx = nextIdx - 1;
-      const chunkIdx = Math.floor(prevWordIdx / 3);
-      return phraseChunks[chunkIdx] || [];
+      const prevWord = words[nextIdx - 1];
+      const match = phraseChunks.find((c) => c.some((w) => w.start === prevWord.start));
+      if (match) return match;
     }
     if (nextIdx === 0) return phraseChunks[0];
     return phraseChunks[phraseChunks.length - 1] || [];
-  }, [phraseChunks, words, activeWordIndex, t]);
+  }, [phraseChunks, words, activeWord, t]);
 
   const KEYWORDS = [
     'CRASHED',
@@ -141,7 +160,10 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   const t_hook = v?.timings?.hook ?? sentenceEndTimes[0] ?? (totalDuration * 0.20);
   const t_act1 = v?.timings?.act1 ?? sentenceEndTimes[1] ?? (totalDuration * 0.45);
   const t_act2 = v?.timings?.act2 ?? sentenceEndTimes[2] ?? (totalDuration * 0.70);
-  const t_act3 = v?.timings?.act3 ?? sentenceEndTimes[3] ?? (totalDuration * 0.90);
+  // Guarantee Act 4 displays cleanly before the video completes
+  const rawAct3 = sentenceEndTimes[3] ?? (totalDuration * 0.88);
+  const maxAct3 = Math.max(t_act2 + 2.4, totalDuration - 2.8);
+  const t_act3 = v?.timings?.act3 ?? Math.min(rawAct3, maxAct3);
 
   // -------------------------------------------------------------
   // V7: TOP-OF-SCREEN PROGRESS BAR (0px -> 1080px across 30.0s)
@@ -209,8 +231,8 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   // ACT 1: HAIRLINE HERO (t_hook - t_act1)
   // -------------------------------------------------------------
   const act1Entry = spring({ frame: frame - f(t_hook), fps, config: { damping: 14, stiffness: 120 } });
-  const act1ExitOpacity = interpolate(t, [t_act1 - 0.35, t_act1], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
-  const act1ExitScale = interpolate(t, [t_act1 - 0.35, t_act1], [1, 0.4], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act1ExitOpacity = interpolate(t, [t_act1 - 0.15, t_act1 + 0.15], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act1ExitScale = interpolate(t, [t_act1 - 0.15, t_act1 + 0.15], [1, 0.85], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   const hairlineIntensity = interpolate(t, [t_hook, t_hook + act1Duration * 0.5, t_act1], [0.35, 0.75, 1.0], { extrapolateRight: 'clamp' });
   const tag1Pop = spring({ frame: frame - f(t_hook + act1Duration * 0.25), fps, config: { damping: 12 } });
@@ -221,7 +243,8 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   // ACT 2: 1000-FRAME CRASH (t_act1 - t_act2)
   // -------------------------------------------------------------
   const act2Entry = spring({ frame: frame - f(t_act1), fps, config: { damping: 14, stiffness: 130 } });
-  const act2ExitX = interpolate(t, [t_act2 - 0.35, t_act2], [0, -1300], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act2ExitOpacity = interpolate(t, [t_act2 - 0.15, t_act2 + 0.15], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act2ExitX = interpolate(t, [t_act2 - 0.15, t_act2 + 0.15], [0, -350], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   const rawCounter = interpolate(t, [t_act1 + 0.1, crashTime], [1, 1000], {
     extrapolateLeft: 'clamp',
@@ -248,7 +271,8 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   // ACT 3: V12 A/B SPLIT SCREEN (t_act2 - t_act3)
   // -------------------------------------------------------------
   const act3Entry = spring({ frame: frame - f(t_act2), fps, config: { damping: 13, stiffness: 140 } });
-  const act3ExitX = interpolate(t, [t_act3 - 0.35, t_act3], [0, -1300], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act3ExitOpacity = interpolate(t, [t_act3 - 0.15, t_act3 + 0.15], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const act3ExitX = interpolate(t, [t_act3 - 0.15, t_act3 + 0.15], [0, -350], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const dividerHeight = interpolate(t, [t_act2, t_act2 + 0.5], [0, 650], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   // V6: Letter-by-letter code typing
@@ -532,7 +556,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
         )}
 
         {/* ===================== ACT 1: HERO (t_hook - t_act1) ===================== */}
-        {t >= t_hook && t < t_act1 && (
+        {t >= t_hook && t < t_act1 + 0.15 && (
           <div
             style={{
               position: 'absolute',
@@ -685,7 +709,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
         )}
 
         {/* ===================== ACT 2: 1000-FRAME CRASH (t_act1 - t_act2) ===================== */}
-        {t >= t_act1 && t < t_act2 && (
+        {t >= t_act1 && t < t_act2 + 0.15 && (
           <div
             style={{
               position: 'absolute',
@@ -695,6 +719,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
               justifyContent: 'center',
               alignItems: 'center',
               paddingBottom: 110,
+              opacity: act2ExitOpacity,
               transform: `translateX(${act2ExitX}px) scale(${act2Entry}) rotateY(${act2Tilt}deg)`,
             }}
           >
@@ -822,7 +847,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
         )}
 
         {/* ===================== ACT 3: V12 A/B SPLIT SCREEN (t_act2 - t_act3) ===================== */}
-        {t >= t_act2 && t < t_act3 && (
+        {t >= t_act2 && t < t_act3 + 0.15 && (
           <div
             style={{
               position: 'absolute',
@@ -832,6 +857,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
               justifyContent: 'center',
               alignItems: 'center',
               paddingBottom: 110,
+              opacity: act3ExitOpacity,
               transform: `translateX(${act3ExitX}px) scale(${act3Entry}) rotateY(${act3Tilt}deg)`,
             }}
           >
@@ -994,7 +1020,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
           >
             {Act4Primitive ? (
               <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
-                <Sequence from={f(t_act3)} durationInFrames={f(30.0 - t_act3)} layout="none">
+                <Sequence from={f(t_act3)} durationInFrames={f(totalDuration - t_act3)} layout="none">
                   <Act4Primitive {...(v?.act4?.props || {})} />
                 </Sequence>
               </div>

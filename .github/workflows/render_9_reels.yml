@@ -3,6 +3,10 @@ name: Render 9 Reels Matrix (Parallel Cloud Production)
 on:
   workflow_dispatch:
 
+env:
+  ACTIONS_RUNNER_DEBUG: 'true'
+  ACTIONS_STEP_DEBUG: 'true'
+
 jobs:
   render-reel:
     name: Reel ${{ matrix.reel_num }} (${{ matrix.page }}/${{ matrix.idea }}/${{ matrix.script }})

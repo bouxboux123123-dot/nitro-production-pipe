@@ -14,12 +14,16 @@ on:
       output_filename:
         description: 'Output MP4 filename (without extension)'
         required: false
-        default: 'python-stack-reel'
+        default: 'final-reel'
   push:
     paths:
       - 'flick-output/remotion/src/**'
       - 'flick-output/remotion/public/**'
       - '.github/workflows/remotion_render.yml'
+
+env:
+  ACTIONS_RUNNER_DEBUG: 'true'
+  ACTIONS_STEP_DEBUG: 'true'
 
 jobs:
   render-remotion:
@@ -56,7 +60,7 @@ jobs:
           CORES=$(nproc)
           ACTUAL_CONCURRENCY=$(( CONCURRENCY > CORES ? CORES : CONCURRENCY ))
           echo "=== Starting Remotion Cloud Render: $COMPOSITION (requested: $CONCURRENCY, cores: $CORES, using: $ACTUAL_CONCURRENCY) ==="
-          npx remotion render src/index.tsx "$COMPOSITION" "out/${OUTPUT_NAME}.mp4" --concurrency="$ACTUAL_CONCURRENCY" --props='{"backgroundVideo": "backgrounds/bg_01.mp4"}'
+          npx remotion render src/index.tsx "$COMPOSITION" "out/${OUTPUT_NAME}.mp4" --concurrency="$ACTUAL_CONCURRENCY" --props='{"backgroundVideo": "backgrounds/bg_01.mp4"}' --log=verbose
 
       - name: Upload Rendered Video Artifact
         uses: actions/upload-artifact@v4

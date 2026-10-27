@@ -112,10 +112,10 @@ def run_voiceover_benchmark(script_file: Path, out_dir: Path, model_dir: Path):
     print(f"Saved manifest to: {manifest_path}")
 
     print("\n" + "="*50)
-    print("🏁 BENCHMARK SUMMARY (VOICEOVER ONLY):")
+    print("BENCHMARK SUMMARY (VOICEOVER ONLY):")
     for k, v in timings.items():
-        print(f"  • {k}: {v}s")
-    print(f"  • TOTAL TIME: {manifest['total_voiceover_pipeline_time_seconds']}s")
+        print(f"  * {k}: {v}s")
+    print(f"  * TOTAL TIME: {manifest['total_voiceover_pipeline_time_seconds']}s")
     print("="*50 + "\n")
 
 if __name__ == "__main__":

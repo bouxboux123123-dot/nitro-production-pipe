@@ -3,7 +3,7 @@ import json
 import time
 from datetime import datetime
 
-RUN_ID = "40350161717"
+RUN_ID = "40353544869"
 REPO = "bouxboux123123-dot/nitro-production-pipe"
 
 def check_status():
@@ -55,7 +55,12 @@ def check_status():
                 pass
 
         tag = "[RUNNING]" if status == "IN_PROGRESS" else ("[OK]" if conclusion == "success" else "[FAIL]")
-        print(f" {tag:<10} {name:<32} {elapsed_str} -> {active_step}")
+        print(f" {tag:<10} {name:<32} {elapsed_str}")
+        for s in j.get("steps", []):
+            s_stat = s.get("status")
+            s_conc = s.get("conclusion")
+            if s_stat == "in_progress" or s_conc == "failure":
+                print(f"       -> {s.get('name')}: {s_stat} ({s_conc})")
 
     print("=" * 70)
 
