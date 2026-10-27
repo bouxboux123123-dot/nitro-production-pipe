@@ -1,389 +1,351 @@
 {
-  "duration": 29.732667,
-  "sample_rate": 24000,
-  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
-  "speed": 1.1,
-  "text": "The exact automated asset collection pipeline that gets new clients live in 24 hours. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Client onboarding SOP that collects assets and logins in 24 hours instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "text": "The exact automated asset collection pipeline that gets new clients live in twenty-four hours. Most agencies send clunky email questionnaires, receiving corrupted logos, expired passwords, and broken Drive permissions. Unstructured intake leaves your creative team stranded without the essential assets needed for kickoff. Instead, route signed PandaDoc contracts into an automated portal linked directly to ClickUp and 1Password. Your team receives verified brand assets within a day.",
+  "duration": 30.373,
   "words": [
     {
       "word": "The",
       "start": 0.0,
-      "end": 0.28
+      "end": 0.42
     },
     {
       "word": "exact",
-      "start": 0.28,
-      "end": 0.7
+      "start": 0.42,
+      "end": 1.04
     },
     {
       "word": "automated",
-      "start": 0.7,
-      "end": 1.12
+      "start": 1.04,
+      "end": 1.74
     },
     {
       "word": "asset",
-      "start": 1.12,
-      "end": 1.56
+      "start": 1.74,
+      "end": 2.5
     },
     {
       "word": "collection",
-      "start": 1.56,
-      "end": 2.1
+      "start": 2.5,
+      "end": 3.28
     },
     {
       "word": "pipeline",
-      "start": 2.1,
-      "end": 2.56
-    },
-    {
-      "word": "that",
-      "start": 2.56,
-      "end": 2.88
-    },
-    {
-      "word": "gets",
-      "start": 2.88,
-      "end": 3.18
-    },
-    {
-      "word": "new",
-      "start": 3.18,
-      "end": 3.48
-    },
-    {
-      "word": "clients",
-      "start": 3.48,
-      "end": 3.82
-    },
-    {
-      "word": "live",
-      "start": 3.82,
+      "start": 3.28,
       "end": 4.0
     },
     {
-      "word": "in",
+      "word": "that",
       "start": 4.0,
-      "end": 4.26
+      "end": 4.66
+    },
+    {
+      "word": "gets",
+      "start": 4.66,
+      "end": 5.06
+    },
+    {
+      "word": "new",
+      "start": 5.06,
+      "end": 5.52
+    },
+    {
+      "word": "clients",
+      "start": 5.52,
+      "end": 6.04
+    },
+    {
+      "word": "live",
+      "start": 6.04,
+      "end": 6.44
+    },
+    {
+      "word": "in",
+      "start": 6.44,
+      "end": 6.92
     },
     {
       "word": "24",
-      "start": 4.26,
-      "end": 4.6
+      "start": 6.92,
+      "end": 7.32
     },
     {
-      "word": "hours",
-      "start": 4.6,
-      "end": 5.24
+      "word": "hours.",
+      "start": 7.32,
+      "end": 8.26
     },
     {
       "word": "Most",
-      "start": 5.66,
-      "end": 5.94
+      "start": 9.18,
+      "end": 9.5
     },
     {
-      "word": "people",
-      "start": 5.94,
-      "end": 6.3
+      "word": "agencies",
+      "start": 9.5,
+      "end": 10.2
     },
     {
-      "word": "waste",
-      "start": 6.3,
-      "end": 6.58
+      "word": "send",
+      "start": 10.2,
+      "end": 10.9
     },
     {
-      "word": "four",
-      "start": 6.58,
-      "end": 6.98
+      "word": "clunky",
+      "start": 10.9,
+      "end": 11.46
     },
     {
-      "word": "hours",
-      "start": 6.98,
-      "end": 7.3
+      "word": "email",
+      "start": 11.46,
+      "end": 12.12
     },
     {
-      "word": "every",
-      "start": 7.3,
-      "end": 7.66
+      "word": "questionnaires,",
+      "start": 12.12,
+      "end": 13.56
     },
     {
-      "word": "week",
-      "start": 7.66,
-      "end": 7.92
+      "word": "receiving",
+      "start": 14.02,
+      "end": 14.36
     },
     {
-      "word": "doing",
-      "start": 7.92,
-      "end": 8.2
+      "word": "corrupted",
+      "start": 14.36,
+      "end": 15.24
     },
     {
-      "word": "this",
-      "start": 8.2,
-      "end": 8.46
+      "word": "logos,",
+      "start": 15.24,
+      "end": 15.96
     },
     {
-      "word": "manually",
-      "start": 8.46,
-      "end": 8.88
+      "word": "expired",
+      "start": 17.04,
+      "end": 17.16
     },
     {
-      "word": "Here",
-      "start": 9.44,
-      "end": 9.64
-    },
-    {
-      "word": "is",
-      "start": 9.64,
-      "end": 9.78
-    },
-    {
-      "word": "the",
-      "start": 9.78,
-      "end": 10.0
-    },
-    {
-      "word": "issue",
-      "start": 10.0,
-      "end": 10.4
-    },
-    {
-      "word": "repetitive",
-      "start": 10.72,
-      "end": 11.14
-    },
-    {
-      "word": "workflows",
-      "start": 11.14,
-      "end": 11.72
-    },
-    {
-      "word": "break",
-      "start": 11.72,
-      "end": 12.02
-    },
-    {
-      "word": "under",
-      "start": 12.02,
-      "end": 12.24
-    },
-    {
-      "word": "load",
-      "start": 12.24,
-      "end": 12.56
+      "word": "passwords",
+      "start": 17.16,
+      "end": 18.0
     },
     {
       "word": "and",
-      "start": 12.56,
-      "end": 12.86
+      "start": 18.0,
+      "end": 18.7
     },
     {
-      "word": "steal",
-      "start": 12.86,
-      "end": 13.06
+      "word": "broken",
+      "start": 18.7,
+      "end": 19.12
     },
     {
-      "word": "your",
-      "start": 13.06,
-      "end": 13.38
-    },
-    {
-      "word": "focus",
-      "start": 13.38,
-      "end": 13.72
-    },
-    {
-      "word": "The",
-      "start": 14.14,
-      "end": 14.3
-    },
-    {
-      "word": "fix",
-      "start": 14.3,
-      "end": 14.46
-    },
-    {
-      "word": "is",
-      "start": 14.46,
-      "end": 14.74
-    },
-    {
-      "word": "simple",
-      "start": 14.74,
-      "end": 15.02
-    },
-    {
-      "word": "use",
-      "start": 15.42,
-      "end": 15.68
-    },
-    {
-      "word": "Client",
-      "start": 15.68,
-      "end": 16.04
-    },
-    {
-      "word": "onboarding",
-      "start": 16.04,
-      "end": 16.58
-    },
-    {
-      "word": "SOP",
-      "start": 16.58,
-      "end": 16.9
-    },
-    {
-      "word": "that",
-      "start": 16.9,
-      "end": 17.2
-    },
-    {
-      "word": "collects",
-      "start": 17.2,
-      "end": 17.52
-    },
-    {
-      "word": "assets",
-      "start": 17.52,
-      "end": 18.02
-    },
-    {
-      "word": "and",
-      "start": 18.02,
-      "end": 18.26
-    },
-    {
-      "word": "logins",
-      "start": 18.26,
-      "end": 18.62
-    },
-    {
-      "word": "in",
-      "start": 18.62,
-      "end": 18.86
-    },
-    {
-      "word": "24",
-      "start": 18.86,
-      "end": 19.24
-    },
-    {
-      "word": "hours",
-      "start": 19.24,
+      "word": "drive",
+      "start": 19.12,
       "end": 19.72
     },
     {
-      "word": "instead",
+      "word": "permissions.",
       "start": 19.72,
-      "end": 20.24
+      "end": 20.46
     },
     {
-      "word": "It",
-      "start": 20.84,
-      "end": 21.02
+      "word": "Unstructured",
+      "start": 21.08,
+      "end": 22.02
     },
     {
-      "word": "automates",
-      "start": 21.02,
-      "end": 21.44
+      "word": "intake",
+      "start": 22.02,
+      "end": 22.66
     },
     {
-      "word": "every",
-      "start": 21.44,
-      "end": 21.9
+      "word": "leaves",
+      "start": 22.66,
+      "end": 23.16
     },
     {
-      "word": "step",
-      "start": 21.9,
-      "end": 22.14
+      "word": "your",
+      "start": 23.16,
+      "end": 23.54
     },
     {
-      "word": "in",
-      "start": 22.14,
-      "end": 22.36
+      "word": "creative",
+      "start": 23.54,
+      "end": 23.92
     },
     {
-      "word": "heap",
-      "start": 22.36,
-      "end": 22.56
+      "word": "team",
+      "start": 23.92,
+      "end": 24.72
     },
     {
-      "word": "memory",
-      "start": 22.56,
-      "end": 22.86
+      "word": "stranded",
+      "start": 24.72,
+      "end": 25.24
     },
     {
-      "word": "with",
-      "start": 22.86,
-      "end": 23.2
-    },
-    {
-      "word": "zero",
-      "start": 23.2,
-      "end": 23.6
-    },
-    {
-      "word": "manual",
-      "start": 23.6,
-      "end": 24.06
-    },
-    {
-      "word": "oversight",
-      "start": 24.06,
-      "end": 24.52
-    },
-    {
-      "word": "You",
-      "start": 25.08,
-      "end": 25.2
-    },
-    {
-      "word": "get",
-      "start": 25.2,
-      "end": 25.46
-    },
-    {
-      "word": "instant",
-      "start": 25.46,
+      "word": "without",
+      "start": 25.24,
       "end": 25.84
     },
     {
-      "word": "results",
+      "word": "the",
       "start": 25.84,
-      "end": 26.32
+      "end": 26.14
     },
     {
-      "word": "zero",
-      "start": 26.74,
-      "end": 27.14
+      "word": "essential",
+      "start": 26.14,
+      "end": 26.76
     },
     {
-      "word": "errors",
-      "start": 27.14,
-      "end": 27.52
+      "word": "assets",
+      "start": 26.76,
+      "end": 27.34
+    },
+    {
+      "word": "needed",
+      "start": 27.34,
+      "end": 27.94
+    },
+    {
+      "word": "for",
+      "start": 27.94,
+      "end": 28.28
+    },
+    {
+      "word": "kickoff.",
+      "start": 28.28,
+      "end": 28.68
+    },
+    {
+      "word": "Instead,",
+      "start": 28.68,
+      "end": 30.46
+    },
+    {
+      "word": "route",
+      "start": 31.54,
+      "end": 31.64
+    },
+    {
+      "word": "signed",
+      "start": 31.64,
+      "end": 32.16
+    },
+    {
+      "word": "panda",
+      "start": 32.16,
+      "end": 32.72
+    },
+    {
+      "word": ".com",
+      "start": 32.72,
+      "end": 33.7
+    },
+    {
+      "word": "tracks",
+      "start": 33.7,
+      "end": 34.16
+    },
+    {
+      "word": "into",
+      "start": 34.16,
+      "end": 34.44
+    },
+    {
+      "word": "an",
+      "start": 34.44,
+      "end": 34.8
+    },
+    {
+      "word": "automated",
+      "start": 34.8,
+      "end": 35.18
+    },
+    {
+      "word": "query",
+      "start": 35.18,
+      "end": 36.04
+    },
+    {
+      "word": "linked",
+      "start": 36.04,
+      "end": 36.88
+    },
+    {
+      "word": "directly",
+      "start": 36.88,
+      "end": 37.42
+    },
+    {
+      "word": "to",
+      "start": 37.42,
+      "end": 37.92
+    },
+    {
+      "word": "click",
+      "start": 37.92,
+      "end": 38.22
+    },
+    {
+      "word": "up",
+      "start": 38.22,
+      "end": 38.72
     },
     {
       "word": "and",
-      "start": 27.6,
-      "end": 27.86
+      "start": 38.72,
+      "end": 39.0
     },
     {
-      "word": "five",
-      "start": 27.86,
-      "end": 28.22
+      "word": "password.",
+      "start": 39.0,
+      "end": 39.78
     },
     {
-      "word": "times",
-      "start": 28.22,
-      "end": 28.66
+      "word": "Your",
+      "start": 40.86,
+      "end": 41.28
     },
     {
-      "word": "faster",
-      "start": 28.66,
-      "end": 29.02
+      "word": "team",
+      "start": 41.28,
+      "end": 41.68
     },
     {
-      "word": "turnaround",
-      "start": 29.02,
-      "end": 29.5
+      "word": "receives",
+      "start": 41.68,
+      "end": 42.48
+    },
+    {
+      "word": "verified",
+      "start": 42.48,
+      "end": 43.24
+    },
+    {
+      "word": "brand",
+      "start": 43.24,
+      "end": 43.94
+    },
+    {
+      "word": "assets",
+      "start": 43.94,
+      "end": 44.58
+    },
+    {
+      "word": "within",
+      "start": 44.58,
+      "end": 44.92
+    },
+    {
+      "word": "a",
+      "start": 44.92,
+      "end": 45.2
+    },
+    {
+      "word": "day.",
+      "start": 45.2,
+      "end": 45.52
     }
   ],
   "visuals": {

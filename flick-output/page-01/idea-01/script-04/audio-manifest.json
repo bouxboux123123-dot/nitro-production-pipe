@@ -1,369 +1,376 @@
 {
-  "duration": 29.284667,
-  "sample_rate": 24000,
-  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
-  "speed": 1.1,
-  "text": "How seven-figure digital agencies onboard new retainer clients on autopilot. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Client onboarding SOP that collects assets and logins in 24 hours instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "text": "How seven-figure digital agencies onboard new retainer clients on autopilot. Rapidly signing multiple accounts creates operational chaos when intake tasks live trapped inside account managers' inboxes. Without standardized architecture, messy handoffs between sales and fulfillment cause delayed launch dates and early churn. Connect contract signing in PandaDoc to an automated Make workflow that generates dedicated client Slack channels and Dashboards. You onboard five new retainers simultaneously in twenty-four hours.",
+  "duration": 32.933,
   "words": [
     {
-      "word": "How",
+      "word": "how",
       "start": 0.0,
-      "end": 0.32
+      "end": 0.44
     },
     {
-      "word": "seven-figure",
-      "start": 0.32,
-      "end": 0.94
+      "word": "seven",
+      "start": 0.44,
+      "end": 1.0
     },
     {
-      "word": "digital",
-      "start": 0.94,
+      "word": "-figure",
+      "start": 1.0,
       "end": 1.38
     },
     {
-      "word": "agencies",
+      "word": "digital",
       "start": 1.38,
-      "end": 1.94
+      "end": 2.04
+    },
+    {
+      "word": "agencies",
+      "start": 2.04,
+      "end": 2.9
     },
     {
       "word": "onboard",
-      "start": 1.94,
-      "end": 2.5
+      "start": 2.9,
+      "end": 3.8
     },
     {
       "word": "new",
-      "start": 2.5,
-      "end": 2.82
+      "start": 3.8,
+      "end": 4.34
     },
     {
       "word": "retainer",
-      "start": 2.82,
-      "end": 3.24
+      "start": 4.34,
+      "end": 4.84
     },
     {
       "word": "clients",
-      "start": 3.24,
-      "end": 3.66
-    },
-    {
-      "word": "on",
-      "start": 3.66,
-      "end": 3.94
-    },
-    {
-      "word": "autopilot",
-      "start": 3.94,
-      "end": 4.62
-    },
-    {
-      "word": "Most",
-      "start": 5.38,
+      "start": 4.84,
       "end": 5.38
     },
     {
-      "word": "people",
+      "word": "on",
       "start": 5.38,
-      "end": 5.74
+      "end": 5.8
     },
     {
-      "word": "waste",
-      "start": 5.74,
-      "end": 6.02
+      "word": "autopilot,",
+      "start": 5.8,
+      "end": 7.44
     },
     {
-      "word": "four",
-      "start": 6.02,
-      "end": 6.44
+      "word": "rapidly",
+      "start": 8.02,
+      "end": 8.18
     },
     {
-      "word": "hours",
-      "start": 6.44,
-      "end": 6.76
+      "word": "signing",
+      "start": 8.18,
+      "end": 9.0
     },
     {
-      "word": "every",
-      "start": 6.76,
-      "end": 7.14
+      "word": "multiple",
+      "start": 9.0,
+      "end": 9.54
     },
     {
-      "word": "week",
-      "start": 7.14,
-      "end": 7.38
+      "word": "accounts",
+      "start": 9.54,
+      "end": 10.3
     },
     {
-      "word": "doing",
-      "start": 7.38,
-      "end": 7.64
+      "word": "creates",
+      "start": 10.3,
+      "end": 11.18
     },
     {
-      "word": "this",
-      "start": 7.64,
-      "end": 7.9
+      "word": "operational",
+      "start": 11.18,
+      "end": 12.02
     },
     {
-      "word": "manually",
-      "start": 7.9,
-      "end": 8.34
+      "word": "chaos",
+      "start": 12.02,
+      "end": 12.96
     },
     {
-      "word": "Here",
-      "start": 8.9,
-      "end": 9.08
+      "word": "when",
+      "start": 12.96,
+      "end": 13.72
     },
     {
-      "word": "is",
-      "start": 9.08,
-      "end": 9.22
+      "word": "intake",
+      "start": 13.72,
+      "end": 14.34
     },
     {
-      "word": "the",
-      "start": 9.22,
-      "end": 9.44
+      "word": "tasks",
+      "start": 14.34,
+      "end": 14.98
     },
     {
-      "word": "issue",
-      "start": 9.44,
-      "end": 9.82
-    },
-    {
-      "word": "repetitive",
-      "start": 10.18,
-      "end": 10.64
-    },
-    {
-      "word": "workflows",
-      "start": 10.64,
-      "end": 11.22
-    },
-    {
-      "word": "break",
-      "start": 11.22,
-      "end": 11.54
-    },
-    {
-      "word": "under",
-      "start": 11.54,
-      "end": 11.78
-    },
-    {
-      "word": "load",
-      "start": 11.78,
-      "end": 12.12
-    },
-    {
-      "word": "and",
-      "start": 12.12,
-      "end": 12.42
-    },
-    {
-      "word": "steal",
-      "start": 12.42,
-      "end": 12.64
-    },
-    {
-      "word": "your",
-      "start": 12.64,
-      "end": 12.94
-    },
-    {
-      "word": "focus",
-      "start": 12.94,
-      "end": 13.28
-    },
-    {
-      "word": "The",
-      "start": 13.68,
-      "end": 13.86
-    },
-    {
-      "word": "fix",
-      "start": 13.86,
-      "end": 14.02
-    },
-    {
-      "word": "is",
-      "start": 14.02,
-      "end": 14.3
-    },
-    {
-      "word": "simple",
-      "start": 14.3,
-      "end": 14.58
-    },
-    {
-      "word": "use",
+      "word": "live",
       "start": 14.98,
-      "end": 15.22
+      "end": 16.26
     },
     {
-      "word": "Client",
-      "start": 15.22,
-      "end": 15.6
-    },
-    {
-      "word": "onboarding",
-      "start": 15.6,
-      "end": 16.14
-    },
-    {
-      "word": "SOP",
-      "start": 16.14,
-      "end": 16.46
-    },
-    {
-      "word": "that",
-      "start": 16.46,
+      "word": "trapped",
+      "start": 16.26,
       "end": 16.76
     },
     {
-      "word": "collects",
+      "word": "inside",
       "start": 16.76,
-      "end": 17.06
+      "end": 17.54
     },
     {
-      "word": "assets",
-      "start": 17.06,
-      "end": 17.56
+      "word": "account",
+      "start": 17.54,
+      "end": 18.2
+    },
+    {
+      "word": "managers",
+      "start": 18.2,
+      "end": 18.88
+    },
+    {
+      "word": "in",
+      "start": 18.88,
+      "end": 19.32
+    },
+    {
+      "word": "boxes,",
+      "start": 19.32,
+      "end": 19.92
+    },
+    {
+      "word": "without",
+      "start": 20.74,
+      "end": 21.04
+    },
+    {
+      "word": "standardized",
+      "start": 21.04,
+      "end": 21.92
+    },
+    {
+      "word": "architecture.",
+      "start": 21.92,
+      "end": 23.0
+    },
+    {
+      "word": "Messy",
+      "start": 23.82,
+      "end": 24.18
+    },
+    {
+      "word": "handoffs",
+      "start": 24.18,
+      "end": 24.82
+    },
+    {
+      "word": "between",
+      "start": 24.82,
+      "end": 25.42
+    },
+    {
+      "word": "sales",
+      "start": 25.42,
+      "end": 25.98
     },
     {
       "word": "and",
-      "start": 17.56,
-      "end": 17.8
+      "start": 25.98,
+      "end": 26.34
     },
     {
-      "word": "logins",
-      "start": 17.8,
-      "end": 18.16
+      "word": "fulfillment",
+      "start": 26.34,
+      "end": 26.92
     },
     {
-      "word": "in",
-      "start": 18.16,
-      "end": 18.4
+      "word": "calls",
+      "start": 26.92,
+      "end": 27.64
     },
     {
-      "word": "24",
-      "start": 18.4,
-      "end": 18.78
+      "word": "to",
+      "start": 27.64,
+      "end": 27.88
     },
     {
-      "word": "hours",
-      "start": 18.78,
-      "end": 19.26
+      "word": "late",
+      "start": 27.88,
+      "end": 28.18
     },
     {
-      "word": "instead",
-      "start": 19.26,
-      "end": 19.8
+      "word": "launch",
+      "start": 28.18,
+      "end": 28.72
     },
     {
-      "word": "It",
-      "start": 20.38,
-      "end": 20.58
+      "word": "dates",
+      "start": 28.72,
+      "end": 29.16
     },
     {
-      "word": "automates",
-      "start": 20.58,
-      "end": 20.98
+      "word": "and",
+      "start": 29.16,
+      "end": 29.52
     },
     {
-      "word": "every",
-      "start": 20.98,
-      "end": 21.44
+      "word": "early",
+      "start": 29.52,
+      "end": 29.96
     },
     {
-      "word": "step",
-      "start": 21.44,
-      "end": 21.68
+      "word": "churn.",
+      "start": 29.96,
+      "end": 30.64
     },
     {
-      "word": "in",
-      "start": 21.68,
-      "end": 21.9
+      "word": "Connect",
+      "start": 31.84,
+      "end": 31.98
     },
     {
-      "word": "heap",
-      "start": 21.9,
-      "end": 22.1
+      "word": "contract",
+      "start": 31.98,
+      "end": 32.8
     },
     {
-      "word": "memory",
-      "start": 22.1,
-      "end": 22.42
+      "word": "signing",
+      "start": 32.8,
+      "end": 33.32
     },
     {
-      "word": "with",
-      "start": 22.42,
-      "end": 22.74
+      "word": "and",
+      "start": 33.32,
+      "end": 33.74
     },
     {
-      "word": "zero",
-      "start": 22.74,
-      "end": 23.16
+      "word": "panned",
+      "start": 33.74,
+      "end": 34.0
     },
     {
-      "word": "manual",
-      "start": 23.16,
-      "end": 23.6
+      "word": "a",
+      "start": 34.0,
+      "end": 34.32
     },
     {
-      "word": "oversight",
-      "start": 23.6,
-      "end": 24.04
+      "word": "dock",
+      "start": 34.32,
+      "end": 34.6
+    },
+    {
+      "word": "to",
+      "start": 34.6,
+      "end": 35.26
+    },
+    {
+      "word": "an",
+      "start": 35.26,
+      "end": 35.54
+    },
+    {
+      "word": "automated",
+      "start": 35.54,
+      "end": 35.92
+    },
+    {
+      "word": "make",
+      "start": 35.92,
+      "end": 36.6
+    },
+    {
+      "word": "workflow",
+      "start": 36.6,
+      "end": 37.18
+    },
+    {
+      "word": "that",
+      "start": 37.18,
+      "end": 37.92
+    },
+    {
+      "word": "generates",
+      "start": 37.92,
+      "end": 38.46
+    },
+    {
+      "word": "dedicated",
+      "start": 38.46,
+      "end": 39.22
+    },
+    {
+      "word": "client",
+      "start": 39.22,
+      "end": 40.08
+    },
+    {
+      "word": "slack",
+      "start": 40.08,
+      "end": 40.6
+    },
+    {
+      "word": "channels",
+      "start": 40.6,
+      "end": 41.18
+    },
+    {
+      "word": "and",
+      "start": 41.18,
+      "end": 41.62
+    },
+    {
+      "word": "dashboards.",
+      "start": 41.62,
+      "end": 42.56
     },
     {
       "word": "You",
-      "start": 24.64,
-      "end": 24.76
+      "start": 43.38,
+      "end": 43.5
     },
     {
-      "word": "get",
-      "start": 24.76,
-      "end": 25.06
-    },
-    {
-      "word": "instant",
-      "start": 25.06,
-      "end": 25.38
-    },
-    {
-      "word": "results",
-      "start": 25.38,
-      "end": 25.86
-    },
-    {
-      "word": "zero",
-      "start": 26.28,
-      "end": 26.7
-    },
-    {
-      "word": "errors",
-      "start": 26.7,
-      "end": 27.06
-    },
-    {
-      "word": "and",
-      "start": 27.18,
-      "end": 27.42
+      "word": "onboard",
+      "start": 43.5,
+      "end": 43.94
     },
     {
       "word": "five",
-      "start": 27.42,
-      "end": 27.76
+      "start": 43.94,
+      "end": 44.76
     },
     {
-      "word": "times",
-      "start": 27.76,
-      "end": 28.2
+      "word": "new",
+      "start": 44.76,
+      "end": 45.02
     },
     {
-      "word": "faster",
-      "start": 28.2,
-      "end": 28.58
+      "word": "retainer",
+      "start": 45.02,
+      "end": 45.74
     },
     {
-      "word": "turnaround",
-      "start": 28.58,
-      "end": 29.06
+      "word": "simultaneously",
+      "start": 45.74,
+      "end": 46.86
+    },
+    {
+      "word": "in",
+      "start": 46.86,
+      "end": 48.06
+    },
+    {
+      "word": "24",
+      "start": 48.06,
+      "end": 48.52
+    },
+    {
+      "word": "hours.",
+      "start": 48.52,
+      "end": 49.22
     }
   ],
   "visuals": {

@@ -1,379 +1,361 @@
 {
-  "duration": 24.32,
-  "sample_rate": 24000,
-  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
-  "speed": 1.1,
-  "text": "Stop guessing who on your team is drowning and who has room for more work. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Agency capacity planning matrix that prevents team burnout instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "text": "Stop guessing who on your team is drowning and who has room for more work. Asking for status updates during weekly syncs yields polite answers while deliverables quietly fall behind schedule. Unchecked Slack requests hide team exhaustion until your most valuable senior specialists quit unexpectedly. Connect your project management board to a visual Notion bandwidth dashboard that flags overloaded staff instantly. You resolve bottlenecks before burnout strikes.",
+  "duration": 28.303,
   "words": [
     {
       "word": "Stop",
       "start": 0.0,
-      "end": 0.4
+      "end": 0.56
     },
     {
       "word": "guessing",
-      "start": 0.4,
-      "end": 0.78
+      "start": 0.56,
+      "end": 1.0
     },
     {
       "word": "who",
-      "start": 0.78,
-      "end": 1.22
+      "start": 1.0,
+      "end": 1.54
     },
     {
       "word": "on",
-      "start": 1.22,
-      "end": 1.28
+      "start": 1.54,
+      "end": 1.74
     },
     {
       "word": "your",
-      "start": 1.28,
-      "end": 1.58
+      "start": 1.74,
+      "end": 2.04
     },
     {
       "word": "team",
-      "start": 1.58,
-      "end": 1.8
+      "start": 2.04,
+      "end": 2.26
     },
     {
       "word": "is",
-      "start": 1.8,
-      "end": 2.16
+      "start": 2.26,
+      "end": 2.64
     },
     {
-      "word": "drowling",
-      "start": 2.16,
-      "end": 2.66
-    },
-    {
-      "word": "and",
-      "start": 2.66,
-      "end": 2.98
-    },
-    {
-      "word": "who",
-      "start": 2.98,
+      "word": "drowning",
+      "start": 2.64,
       "end": 3.18
     },
     {
-      "word": "is",
+      "word": "and",
       "start": 3.18,
-      "end": 3.46
+      "end": 3.94
+    },
+    {
+      "word": "who",
+      "start": 3.94,
+      "end": 4.08
+    },
+    {
+      "word": "has",
+      "start": 4.08,
+      "end": 4.42
     },
     {
       "word": "ran",
-      "start": 3.46,
-      "end": 3.74
+      "start": 4.42,
+      "end": 4.74
     },
     {
-      "word": "from",
-      "start": 3.74,
-      "end": 4.04
+      "word": "for",
+      "start": 4.74,
+      "end": 5.04
     },
     {
-      "word": "here",
-      "start": 4.04,
-      "end": 4.34
+      "word": "their",
+      "start": 5.04,
+      "end": 5.44
     },
     {
-      "word": "yuck",
-      "start": 4.68,
-      "end": 5.24
+      "word": "luck.",
+      "start": 5.44,
+      "end": 6.4
     },
     {
-      "word": "Most",
-      "start": 5.78,
-      "end": 5.9
+      "word": "Asking",
+      "start": 7.02,
+      "end": 7.36
     },
     {
-      "word": "people",
-      "start": 5.9,
-      "end": 6.24
-    },
-    {
-      "word": "waste",
-      "start": 6.24,
-      "end": 6.82
-    },
-    {
-      "word": "fear",
-      "start": 6.82,
-      "end": 7.32
-    },
-    {
-      "word": "hours",
-      "start": 7.32,
+      "word": "for",
+      "start": 7.36,
       "end": 7.74
     },
     {
-      "word": "every",
+      "word": "status",
       "start": 7.74,
-      "end": 8.2
+      "end": 8.22
     },
     {
-      "word": "week",
-      "start": 8.2,
-      "end": 8.58
+      "word": "updates",
+      "start": 8.22,
+      "end": 8.76
     },
     {
-      "word": "doing",
-      "start": 8.58,
-      "end": 8.86
+      "word": "during",
+      "start": 8.76,
+      "end": 9.38
     },
     {
-      "word": "this",
-      "start": 8.86,
-      "end": 9.24
+      "word": "weekly",
+      "start": 9.38,
+      "end": 9.98
     },
     {
-      "word": "manually",
-      "start": 9.24,
-      "end": 9.82
+      "word": "sync's",
+      "start": 9.98,
+      "end": 10.78
     },
     {
-      "word": "Here",
-      "start": 10.58,
-      "end": 10.82
+      "word": "yields",
+      "start": 10.78,
+      "end": 11.04
     },
     {
-      "word": "is",
-      "start": 10.82,
-      "end": 11.02
+      "word": "polite",
+      "start": 11.04,
+      "end": 11.86
     },
     {
-      "word": "the",
-      "start": 11.02,
-      "end": 11.28
+      "word": "answers",
+      "start": 11.86,
+      "end": 12.58
     },
     {
-      "word": "issue",
-      "start": 11.28,
-      "end": 11.76
+      "word": "will",
+      "start": 12.58,
+      "end": 13.4
     },
     {
-      "word": "Repetitive",
-      "start": 12.28,
-      "end": 12.78
+      "word": "deliver",
+      "start": 13.4,
+      "end": 13.72
     },
     {
-      "word": "luck",
-      "start": 12.78,
-      "end": 13.3
+      "word": "these",
+      "start": 13.72,
+      "end": 14.28
     },
     {
-      "word": "flows",
-      "start": 13.3,
-      "end": 13.68
-    },
-    {
-      "word": "break",
-      "start": 13.68,
-      "end": 14.06
-    },
-    {
-      "word": "under",
-      "start": 14.06,
-      "end": 14.4
-    },
-    {
-      "word": "load",
-      "start": 14.4,
+      "word": "quietly",
+      "start": 14.28,
       "end": 14.76
     },
     {
-      "word": "and",
+      "word": "fall",
       "start": 14.76,
-      "end": 15.14
+      "end": 15.38
     },
     {
-      "word": "steal",
-      "start": 15.14,
-      "end": 15.36
+      "word": "behind",
+      "start": 15.38,
+      "end": 15.92
     },
     {
-      "word": "your",
-      "start": 15.36,
-      "end": 15.68
+      "word": "schedule",
+      "start": 15.92,
+      "end": 16.6
     },
     {
-      "word": "focus",
-      "start": 15.68,
-      "end": 16.12
+      "word": "and",
+      "start": 16.6,
+      "end": 17.44
     },
     {
-      "word": "The",
-      "start": 17.02,
-      "end": 17.12
+      "word": "check",
+      "start": 17.44,
+      "end": 17.88
     },
     {
-      "word": "fix",
-      "start": 17.12,
-      "end": 17.36
+      "word": "slack",
+      "start": 17.88,
+      "end": 18.54
     },
     {
-      "word": "is",
-      "start": 17.36,
-      "end": 17.76
+      "word": "requests",
+      "start": 18.54,
+      "end": 19.24
     },
     {
-      "word": "simple",
-      "start": 17.76,
-      "end": 18.24
-    },
-    {
-      "word": "Usagency",
-      "start": 18.92,
-      "end": 19.56
-    },
-    {
-      "word": "capacity",
-      "start": 19.56,
-      "end": 20.32
-    },
-    {
-      "word": "planning",
-      "start": 20.32,
-      "end": 20.82
-    },
-    {
-      "word": "matrix",
-      "start": 20.82,
-      "end": 21.24
-    },
-    {
-      "word": "that",
-      "start": 21.24,
-      "end": 21.72
-    },
-    {
-      "word": "prevents",
-      "start": 21.72,
-      "end": 22.1
+      "word": "high",
+      "start": 19.24,
+      "end": 19.9
     },
     {
       "word": "team",
-      "start": 22.1,
+      "start": 19.9,
+      "end": 20.26
+    },
+    {
+      "word": "exhaustion",
+      "start": 20.26,
+      "end": 21.1
+    },
+    {
+      "word": "until",
+      "start": 21.1,
+      "end": 22.02
+    },
+    {
+      "word": "you",
+      "start": 22.02,
+      "end": 22.28
+    },
+    {
+      "word": "most",
+      "start": 22.28,
       "end": 22.64
     },
     {
-      "word": "burnout",
+      "word": "valuable",
       "start": 22.64,
-      "end": 23.18
+      "end": 23.28
     },
     {
-      "word": "instead",
-      "start": 23.18,
-      "end": 23.9
+      "word": "senior",
+      "start": 23.28,
+      "end": 24.08
     },
     {
-      "word": "It",
-      "start": 24.3,
-      "end": 24.82
+      "word": "specialists",
+      "start": 24.08,
+      "end": 24.88
     },
     {
-      "word": "automates",
-      "start": 24.82,
-      "end": 25.38
+      "word": "quit",
+      "start": 24.88,
+      "end": 25.5
     },
     {
-      "word": "every",
-      "start": 25.38,
-      "end": 25.96
+      "word": "unexpectedly.",
+      "start": 25.5,
+      "end": 26.54
     },
     {
-      "word": "step",
-      "start": 25.96,
-      "end": 26.28
+      "word": "Connect",
+      "start": 27.68,
+      "end": 28.0
     },
     {
-      "word": "and",
-      "start": 26.28,
-      "end": 26.52
+      "word": "your",
+      "start": 28.0,
+      "end": 28.46
     },
     {
-      "word": "heat",
-      "start": 26.52,
-      "end": 26.88
+      "word": "project",
+      "start": 28.46,
+      "end": 28.98
     },
     {
-      "word": "memory",
-      "start": 26.88,
-      "end": 27.26
+      "word": "management",
+      "start": 28.98,
+      "end": 29.8
     },
     {
-      "word": "with",
-      "start": 27.26,
-      "end": 27.8
+      "word": "board",
+      "start": 29.8,
+      "end": 30.4
     },
     {
-      "word": "zero",
-      "start": 27.8,
-      "end": 28.26
+      "word": "to",
+      "start": 30.4,
+      "end": 31.04
     },
     {
-      "word": "manual",
-      "start": 28.26,
-      "end": 28.88
+      "word": "a",
+      "start": 31.04,
+      "end": 31.26
     },
     {
-      "word": "oversight",
-      "start": 28.88,
-      "end": 29.56
+      "word": "visual",
+      "start": 31.26,
+      "end": 31.58
+    },
+    {
+      "word": "motion",
+      "start": 31.58,
+      "end": 32.28
+    },
+    {
+      "word": "bandwidth",
+      "start": 32.28,
+      "end": 32.9
+    },
+    {
+      "word": "dashboard",
+      "start": 32.9,
+      "end": 33.76
+    },
+    {
+      "word": "that",
+      "start": 33.76,
+      "end": 34.68
+    },
+    {
+      "word": "flags",
+      "start": 34.68,
+      "end": 35.18
+    },
+    {
+      "word": "over",
+      "start": 35.18,
+      "end": 35.72
+    },
+    {
+      "word": "loaded",
+      "start": 35.72,
+      "end": 36.18
+    },
+    {
+      "word": "staff",
+      "start": 36.18,
+      "end": 36.88
+    },
+    {
+      "word": "instantly.",
+      "start": 36.88,
+      "end": 37.88
     },
     {
       "word": "You",
-      "start": 30.36,
-      "end": 30.38
+      "start": 38.82,
+      "end": 38.9
     },
     {
-      "word": "get",
-      "start": 30.38,
-      "end": 30.72
+      "word": "resolve",
+      "start": 38.9,
+      "end": 39.54
     },
     {
-      "word": "instant",
-      "start": 30.72,
-      "end": 31.24
+      "word": "battle",
+      "start": 39.54,
+      "end": 40.16
     },
     {
-      "word": "results",
-      "start": 31.24,
-      "end": 31.84
+      "word": "threats",
+      "start": 40.16,
+      "end": 40.6
     },
     {
-      "word": "zero",
-      "start": 32.48,
-      "end": 32.82
+      "word": "before",
+      "start": 40.6,
+      "end": 41.08
     },
     {
-      "word": "errors",
-      "start": 32.82,
-      "end": 33.42
+      "word": "burnout",
+      "start": 41.08,
+      "end": 41.8
     },
     {
-      "word": "and",
-      "start": 33.42,
-      "end": 33.88
-    },
-    {
-      "word": "five",
-      "start": 33.88,
-      "end": 34.34
-    },
-    {
-      "word": "times",
-      "start": 34.34,
-      "end": 34.92
-    },
-    {
-      "word": "faster",
-      "start": 34.92,
-      "end": 35.44
-    },
-    {
-      "word": "turnaround",
-      "start": 35.44,
-      "end": 36.16
+      "word": "strikes.",
+      "start": 41.8,
+      "end": 42.2
     }
   ],
   "visuals": {

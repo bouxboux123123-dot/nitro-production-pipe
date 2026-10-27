@@ -1,374 +1,371 @@
 {
-  "duration": 28.431,
-  "sample_rate": 24000,
-  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
-  "speed": 1.1,
-  "text": "The biggest bottleneck for scaling an agency is slow client onboarding. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Client onboarding SOP that collects assets and logins in 24 hours instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "text": "The biggest bottleneck for scaling an agency is slow client onboarding. You close an exciting retainer, but production stalls for weeks waiting on missing assets and logins. Scattering intake requests across messy email threads creates permission errors and painful kickoff friction. Instead, trigger an automated intake portal using Airtable that collects every credential in one guided flow. This slashes onboarding down to twenty-four hours and launches client campaigns with zero manual chasing.",
+  "duration": 29.797,
   "words": [
     {
       "word": "The",
       "start": 0.0,
-      "end": 0.22
+      "end": 0.3
     },
     {
       "word": "biggest",
-      "start": 0.22,
-      "end": 0.5
+      "start": 0.3,
+      "end": 0.76
     },
     {
       "word": "bottleneck",
-      "start": 0.5,
-      "end": 0.9
+      "start": 0.76,
+      "end": 1.32
     },
     {
       "word": "for",
-      "start": 0.9,
-      "end": 1.28
+      "start": 1.32,
+      "end": 1.94
     },
     {
       "word": "scaling",
-      "start": 1.28,
-      "end": 1.56
+      "start": 1.94,
+      "end": 2.34
     },
     {
       "word": "an",
-      "start": 1.56,
-      "end": 1.78
+      "start": 2.34,
+      "end": 2.62
     },
     {
       "word": "agency",
-      "start": 1.78,
-      "end": 2.24
-    },
-    {
-      "word": "is",
-      "start": 2.24,
-      "end": 2.58
-    },
-    {
-      "word": "slow",
-      "start": 2.58,
-      "end": 2.96
-    },
-    {
-      "word": "client",
-      "start": 2.96,
+      "start": 2.62,
       "end": 3.36
     },
     {
-      "word": "onboarding",
+      "word": "is",
       "start": 3.36,
-      "end": 4.2
+      "end": 4.04
     },
     {
-      "word": "Most",
-      "start": 4.4,
-      "end": 4.68
+      "word": "slow",
+      "start": 4.04,
+      "end": 4.58
     },
     {
-      "word": "people",
-      "start": 4.68,
-      "end": 5.04
+      "word": "client",
+      "start": 4.58,
+      "end": 5.08
     },
     {
-      "word": "waste",
-      "start": 5.04,
-      "end": 5.32
-    },
-    {
-      "word": "four",
-      "start": 5.32,
-      "end": 5.74
-    },
-    {
-      "word": "hours",
-      "start": 5.74,
-      "end": 6.06
-    },
-    {
-      "word": "every",
-      "start": 6.06,
-      "end": 6.42
-    },
-    {
-      "word": "week",
-      "start": 6.42,
-      "end": 6.66
-    },
-    {
-      "word": "doing",
-      "start": 6.66,
-      "end": 6.92
-    },
-    {
-      "word": "this",
-      "start": 6.92,
-      "end": 7.18
-    },
-    {
-      "word": "manually",
-      "start": 7.18,
-      "end": 7.6
-    },
-    {
-      "word": "Here",
-      "start": 8.18,
-      "end": 8.36
-    },
-    {
-      "word": "is",
-      "start": 8.36,
-      "end": 8.5
-    },
-    {
-      "word": "the",
-      "start": 8.5,
-      "end": 8.74
-    },
-    {
-      "word": "issue",
-      "start": 8.74,
-      "end": 9.06
-    },
-    {
-      "word": "repetitive",
-      "start": 9.44,
-      "end": 9.86
-    },
-    {
-      "word": "workflows",
-      "start": 9.86,
-      "end": 10.46
-    },
-    {
-      "word": "break",
-      "start": 10.46,
-      "end": 10.74
-    },
-    {
-      "word": "under",
-      "start": 10.74,
-      "end": 10.96
-    },
-    {
-      "word": "load",
-      "start": 10.96,
-      "end": 11.28
-    },
-    {
-      "word": "and",
-      "start": 11.28,
-      "end": 11.58
-    },
-    {
-      "word": "steal",
-      "start": 11.58,
-      "end": 11.8
-    },
-    {
-      "word": "your",
-      "start": 11.8,
-      "end": 12.1
-    },
-    {
-      "word": "focus",
-      "start": 12.1,
-      "end": 12.42
-    },
-    {
-      "word": "The",
-      "start": 12.82,
-      "end": 13.0
-    },
-    {
-      "word": "fix",
-      "start": 13.0,
-      "end": 13.16
-    },
-    {
-      "word": "is",
-      "start": 13.16,
-      "end": 13.48
-    },
-    {
-      "word": "simple",
-      "start": 13.48,
-      "end": 13.72
-    },
-    {
-      "word": "use",
-      "start": 14.12,
-      "end": 14.38
-    },
-    {
-      "word": "Client",
-      "start": 14.38,
-      "end": 14.74
-    },
-    {
-      "word": "onboarding",
-      "start": 14.74,
-      "end": 15.26
-    },
-    {
-      "word": "SOP",
-      "start": 15.26,
-      "end": 15.6
-    },
-    {
-      "word": "that",
-      "start": 15.6,
-      "end": 15.9
-    },
-    {
-      "word": "collects",
-      "start": 15.9,
-      "end": 16.2
-    },
-    {
-      "word": "assets",
-      "start": 16.2,
-      "end": 16.7
-    },
-    {
-      "word": "and",
-      "start": 16.7,
-      "end": 16.96
-    },
-    {
-      "word": "logins",
-      "start": 16.96,
-      "end": 17.3
-    },
-    {
-      "word": "in",
-      "start": 17.3,
-      "end": 17.56
-    },
-    {
-      "word": "24",
-      "start": 17.56,
-      "end": 17.94
-    },
-    {
-      "word": "hours",
-      "start": 17.94,
-      "end": 18.42
-    },
-    {
-      "word": "instead",
-      "start": 18.42,
-      "end": 18.94
-    },
-    {
-      "word": "It",
-      "start": 19.54,
-      "end": 19.72
-    },
-    {
-      "word": "automates",
-      "start": 19.72,
-      "end": 20.14
-    },
-    {
-      "word": "every",
-      "start": 20.14,
-      "end": 20.6
-    },
-    {
-      "word": "step",
-      "start": 20.6,
-      "end": 20.84
-    },
-    {
-      "word": "in",
-      "start": 20.84,
-      "end": 21.06
-    },
-    {
-      "word": "heap",
-      "start": 21.06,
-      "end": 21.26
-    },
-    {
-      "word": "memory",
-      "start": 21.26,
-      "end": 21.56
-    },
-    {
-      "word": "with",
-      "start": 21.56,
-      "end": 21.9
-    },
-    {
-      "word": "zero",
-      "start": 21.9,
-      "end": 22.3
-    },
-    {
-      "word": "manual",
-      "start": 22.3,
-      "end": 22.76
-    },
-    {
-      "word": "oversight",
-      "start": 22.76,
-      "end": 23.2
+      "word": "onboarding.",
+      "start": 5.08,
+      "end": 6.48
     },
     {
       "word": "You",
-      "start": 23.78,
-      "end": 23.92
+      "start": 6.86,
+      "end": 6.96
     },
     {
-      "word": "get",
-      "start": 23.92,
-      "end": 24.18
+      "word": "close",
+      "start": 6.96,
+      "end": 7.3
     },
     {
-      "word": "instant",
-      "start": 24.18,
-      "end": 24.54
+      "word": "an",
+      "start": 7.3,
+      "end": 7.58
     },
     {
-      "word": "results",
-      "start": 24.54,
-      "end": 25.0
+      "word": "exciting",
+      "start": 7.58,
+      "end": 8.22
     },
     {
-      "word": "zero",
-      "start": 25.42,
-      "end": 25.84
+      "word": "retainer,",
+      "start": 8.22,
+      "end": 8.88
     },
     {
-      "word": "errors",
-      "start": 25.84,
-      "end": 26.22
+      "word": "but",
+      "start": 9.54,
+      "end": 9.74
+    },
+    {
+      "word": "production",
+      "start": 9.74,
+      "end": 10.2
+    },
+    {
+      "word": "stores",
+      "start": 10.2,
+      "end": 10.9
+    },
+    {
+      "word": "for",
+      "start": 10.9,
+      "end": 11.36
+    },
+    {
+      "word": "weeks",
+      "start": 11.36,
+      "end": 11.78
+    },
+    {
+      "word": "waiting",
+      "start": 11.78,
+      "end": 12.32
+    },
+    {
+      "word": "on",
+      "start": 12.32,
+      "end": 12.68
+    },
+    {
+      "word": "missing",
+      "start": 12.68,
+      "end": 13.1
+    },
+    {
+      "word": "assets",
+      "start": 13.1,
+      "end": 13.76
     },
     {
       "word": "and",
-      "start": 26.34,
-      "end": 26.58
+      "start": 13.76,
+      "end": 14.18
     },
     {
-      "word": "five",
-      "start": 26.58,
-      "end": 26.9
+      "word": "log",
+      "start": 14.18,
+      "end": 14.48
     },
     {
-      "word": "times",
-      "start": 26.9,
-      "end": 27.34
+      "word": "-ins.",
+      "start": 14.48,
+      "end": 14.94
     },
     {
-      "word": "faster",
-      "start": 27.34,
-      "end": 27.72
+      "word": "Scattering",
+      "start": 15.96,
+      "end": 16.42
     },
     {
-      "word": "turnaround",
-      "start": 27.72,
-      "end": 28.18
+      "word": "intake",
+      "start": 16.42,
+      "end": 17.22
+    },
+    {
+      "word": "requests",
+      "start": 17.22,
+      "end": 17.88
+    },
+    {
+      "word": "across",
+      "start": 17.88,
+      "end": 18.54
+    },
+    {
+      "word": "messy",
+      "start": 18.54,
+      "end": 19.06
+    },
+    {
+      "word": "email",
+      "start": 19.06,
+      "end": 19.68
+    },
+    {
+      "word": "threads",
+      "start": 19.68,
+      "end": 20.28
+    },
+    {
+      "word": "creates",
+      "start": 20.28,
+      "end": 21.1
+    },
+    {
+      "word": "permission",
+      "start": 21.1,
+      "end": 21.68
+    },
+    {
+      "word": "errors",
+      "start": 21.68,
+      "end": 22.36
+    },
+    {
+      "word": "and",
+      "start": 22.36,
+      "end": 23.1
+    },
+    {
+      "word": "painful",
+      "start": 23.1,
+      "end": 23.48
+    },
+    {
+      "word": "kickoff",
+      "start": 23.48,
+      "end": 24.2
+    },
+    {
+      "word": "friction.",
+      "start": 24.2,
+      "end": 24.98
+    },
+    {
+      "word": "Instead,",
+      "start": 24.98,
+      "end": 26.0
+    },
+    {
+      "word": "trigger",
+      "start": 26.48,
+      "end": 26.66
+    },
+    {
+      "word": "an",
+      "start": 26.66,
+      "end": 27.06
+    },
+    {
+      "word": "automated",
+      "start": 27.06,
+      "end": 27.56
+    },
+    {
+      "word": "intake",
+      "start": 27.56,
+      "end": 28.4
+    },
+    {
+      "word": "portal",
+      "start": 28.4,
+      "end": 28.94
+    },
+    {
+      "word": "using",
+      "start": 28.94,
+      "end": 29.52
+    },
+    {
+      "word": "error",
+      "start": 29.52,
+      "end": 29.92
+    },
+    {
+      "word": "-boom",
+      "start": 29.92,
+      "end": 30.22
+    },
+    {
+      "word": "that",
+      "start": 30.22,
+      "end": 30.48
+    },
+    {
+      "word": "collects",
+      "start": 30.48,
+      "end": 30.96
+    },
+    {
+      "word": "every",
+      "start": 30.96,
+      "end": 31.58
+    },
+    {
+      "word": "credential",
+      "start": 31.58,
+      "end": 32.2
+    },
+    {
+      "word": "in",
+      "start": 32.2,
+      "end": 32.74
+    },
+    {
+      "word": "one",
+      "start": 32.74,
+      "end": 33.24
+    },
+    {
+      "word": "guided",
+      "start": 33.24,
+      "end": 33.86
+    },
+    {
+      "word": "form.",
+      "start": 33.86,
+      "end": 34.56
+    },
+    {
+      "word": "This",
+      "start": 35.62,
+      "end": 35.76
+    },
+    {
+      "word": "slashes",
+      "start": 35.76,
+      "end": 36.3
+    },
+    {
+      "word": "onboarding",
+      "start": 36.3,
+      "end": 37.32
+    },
+    {
+      "word": "down",
+      "start": 37.32,
+      "end": 37.68
+    },
+    {
+      "word": "to",
+      "start": 37.68,
+      "end": 38.06
+    },
+    {
+      "word": "24",
+      "start": 38.06,
+      "end": 38.56
+    },
+    {
+      "word": "hours",
+      "start": 38.56,
+      "end": 39.38
+    },
+    {
+      "word": "and",
+      "start": 39.38,
+      "end": 40.26
+    },
+    {
+      "word": "launches",
+      "start": 40.26,
+      "end": 40.66
+    },
+    {
+      "word": "client",
+      "start": 40.66,
+      "end": 41.38
+    },
+    {
+      "word": "campaigns",
+      "start": 41.38,
+      "end": 42.2
+    },
+    {
+      "word": "with",
+      "start": 42.2,
+      "end": 42.84
+    },
+    {
+      "word": "zero",
+      "start": 42.84,
+      "end": 43.34
+    },
+    {
+      "word": "manual",
+      "start": 43.34,
+      "end": 44.04
     }
   ],
   "visuals": {

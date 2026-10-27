@@ -1,389 +1,351 @@
 {
-  "duration": 29.668667,
-  "sample_rate": 24000,
-  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
-  "speed": 1.1,
-  "text": "Stop chasing clients for Facebook ad access, logos, and brand guidelines for 3 weeks. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Client onboarding SOP that collects assets and logins in 24 hours instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "text": "Stop chasing clients for Facebook ad access, logos, and brand guidelines for three weeks. Sending desperate follow-up emails asking business owners to navigate Meta Business Manager destroys your authority immediately. Confusing platform menus overwhelm non-technical clients, causing endless permission errors and pushing launch dates back. Send them a single Leadsie integration link paired with a streamlined Notion onboarding dashboard. You gain instant partner permissions within hours.",
+  "duration": 29.882,
   "words": [
     {
       "word": "Stop",
       "start": 0.0,
-      "end": 0.38
+      "end": 0.58
     },
     {
       "word": "chasing",
-      "start": 0.38,
-      "end": 0.68
+      "start": 0.58,
+      "end": 1.0
     },
     {
       "word": "clients",
-      "start": 0.68,
-      "end": 1.1
+      "start": 1.0,
+      "end": 1.64
     },
     {
       "word": "for",
-      "start": 1.1,
-      "end": 1.4
+      "start": 1.64,
+      "end": 2.16
     },
     {
       "word": "Facebook",
-      "start": 1.4,
-      "end": 1.7
+      "start": 2.16,
+      "end": 2.58
     },
     {
       "word": "ad",
-      "start": 1.7,
-      "end": 2.12
+      "start": 2.58,
+      "end": 3.18
     },
     {
-      "word": "access",
-      "start": 2.12,
-      "end": 2.6
+      "word": "access,",
+      "start": 3.18,
+      "end": 3.94
     },
     {
-      "word": "logos",
-      "start": 2.9,
-      "end": 3.22
+      "word": "logos,",
+      "start": 4.74,
+      "end": 5.0
     },
     {
       "word": "and",
-      "start": 3.52,
-      "end": 3.68
+      "start": 5.72,
+      "end": 5.92
     },
     {
       "word": "brand",
-      "start": 3.68,
-      "end": 3.98
+      "start": 5.92,
+      "end": 6.32
     },
     {
       "word": "guidelines",
-      "start": 3.98,
-      "end": 4.42
+      "start": 6.32,
+      "end": 6.96
     },
     {
       "word": "for",
-      "start": 4.42,
-      "end": 4.76
+      "start": 6.96,
+      "end": 7.5
     },
     {
-      "word": "3",
-      "start": 4.76,
-      "end": 5.02
+      "word": "three",
+      "start": 7.5,
+      "end": 7.86
     },
     {
-      "word": "weeks",
-      "start": 5.02,
-      "end": 5.52
+      "word": "weeks.",
+      "start": 7.86,
+      "end": 8.58
     },
     {
-      "word": "Most",
-      "start": 5.9,
-      "end": 6.14
-    },
-    {
-      "word": "people",
-      "start": 6.14,
-      "end": 6.5
-    },
-    {
-      "word": "waste",
-      "start": 6.5,
-      "end": 6.76
-    },
-    {
-      "word": "four",
-      "start": 6.76,
-      "end": 7.16
-    },
-    {
-      "word": "hours",
-      "start": 7.16,
-      "end": 7.46
-    },
-    {
-      "word": "every",
-      "start": 7.46,
-      "end": 7.8
-    },
-    {
-      "word": "week",
-      "start": 7.8,
-      "end": 8.06
-    },
-    {
-      "word": "doing",
-      "start": 8.06,
-      "end": 8.32
-    },
-    {
-      "word": "this",
-      "start": 8.32,
-      "end": 8.56
-    },
-    {
-      "word": "manually",
-      "start": 8.56,
-      "end": 8.98
-    },
-    {
-      "word": "Here",
+      "word": "Sending",
       "start": 9.54,
-      "end": 9.74
+      "end": 9.7
     },
     {
-      "word": "is",
-      "start": 9.74,
-      "end": 9.88
+      "word": "desperate",
+      "start": 9.7,
+      "end": 10.46
     },
     {
-      "word": "the",
-      "start": 9.88,
-      "end": 10.08
+      "word": "follow",
+      "start": 10.46,
+      "end": 11.04
     },
     {
-      "word": "issue",
-      "start": 10.08,
-      "end": 10.42
-    },
-    {
-      "word": "repetitive",
+      "word": "-up",
       "start": 11.04,
-      "end": 11.16
+      "end": 11.46
     },
     {
-      "word": "workflows",
-      "start": 11.16,
-      "end": 11.8
+      "word": "emails",
+      "start": 11.46,
+      "end": 12.02
     },
     {
-      "word": "break",
-      "start": 11.8,
-      "end": 12.08
+      "word": "asking",
+      "start": 12.02,
+      "end": 12.78
     },
     {
-      "word": "under",
-      "start": 12.08,
-      "end": 12.32
+      "word": "business",
+      "start": 12.78,
+      "end": 13.38
     },
     {
-      "word": "load",
-      "start": 12.32,
-      "end": 12.6
+      "word": "owners",
+      "start": 13.38,
+      "end": 13.9
     },
     {
-      "word": "and",
-      "start": 12.6,
-      "end": 12.86
+      "word": "to",
+      "start": 13.9,
+      "end": 14.34
     },
     {
-      "word": "steal",
-      "start": 12.86,
-      "end": 13.06
+      "word": "navigate",
+      "start": 14.34,
+      "end": 14.8
+    },
+    {
+      "word": "meta",
+      "start": 14.8,
+      "end": 15.48
+    },
+    {
+      "word": "-business",
+      "start": 15.48,
+      "end": 16.06
+    },
+    {
+      "word": "manager",
+      "start": 16.06,
+      "end": 16.82
+    },
+    {
+      "word": "destroys",
+      "start": 16.82,
+      "end": 17.88
     },
     {
       "word": "your",
-      "start": 13.06,
-      "end": 13.34
+      "start": 17.88,
+      "end": 18.42
     },
     {
-      "word": "focus",
-      "start": 13.34,
-      "end": 13.62
-    },
-    {
-      "word": "The",
-      "start": 14.06,
-      "end": 14.24
-    },
-    {
-      "word": "fix",
-      "start": 14.24,
-      "end": 14.4
-    },
-    {
-      "word": "is",
-      "start": 14.4,
-      "end": 14.68
-    },
-    {
-      "word": "simple",
-      "start": 14.68,
-      "end": 14.94
-    },
-    {
-      "word": "use",
-      "start": 15.36,
-      "end": 15.6
-    },
-    {
-      "word": "Client",
-      "start": 15.6,
-      "end": 15.98
-    },
-    {
-      "word": "onboarding",
-      "start": 15.98,
-      "end": 16.52
-    },
-    {
-      "word": "SOP",
-      "start": 16.52,
-      "end": 16.84
-    },
-    {
-      "word": "that",
-      "start": 16.84,
-      "end": 17.14
-    },
-    {
-      "word": "collects",
-      "start": 17.14,
-      "end": 17.44
-    },
-    {
-      "word": "assets",
-      "start": 17.44,
-      "end": 17.94
-    },
-    {
-      "word": "and",
-      "start": 17.94,
-      "end": 18.2
-    },
-    {
-      "word": "logins",
-      "start": 18.2,
-      "end": 18.54
-    },
-    {
-      "word": "in",
-      "start": 18.54,
-      "end": 18.8
-    },
-    {
-      "word": "24",
-      "start": 18.8,
+      "word": "theory",
+      "start": 18.42,
       "end": 19.18
     },
     {
-      "word": "hours",
+      "word": "immediately.",
       "start": 19.18,
-      "end": 19.66
+      "end": 20.04
     },
     {
-      "word": "instead",
-      "start": 19.66,
-      "end": 20.18
+      "word": "Confusing",
+      "start": 20.88,
+      "end": 21.44
     },
     {
-      "word": "It",
-      "start": 20.78,
-      "end": 20.96
+      "word": "platform",
+      "start": 21.44,
+      "end": 22.08
     },
     {
-      "word": "automates",
-      "start": 20.96,
-      "end": 21.36
+      "word": "menus",
+      "start": 22.08,
+      "end": 22.76
     },
     {
-      "word": "every",
-      "start": 21.36,
-      "end": 21.82
+      "word": "either",
+      "start": 22.76,
+      "end": 23.44
     },
     {
-      "word": "step",
-      "start": 21.82,
-      "end": 22.06
+      "word": "on",
+      "start": 23.44,
+      "end": 23.84
     },
     {
-      "word": "in",
-      "start": 22.06,
-      "end": 22.3
+      "word": "non",
+      "start": 23.84,
+      "end": 24.28
     },
     {
-      "word": "heap",
-      "start": 22.3,
-      "end": 22.5
+      "word": "-technical",
+      "start": 24.28,
+      "end": 24.78
     },
     {
-      "word": "memory",
-      "start": 22.5,
-      "end": 22.8
+      "word": "clients,",
+      "start": 24.78,
+      "end": 25.64
     },
     {
-      "word": "with",
-      "start": 22.8,
-      "end": 23.12
+      "word": "causing",
+      "start": 26.5,
+      "end": 26.92
     },
     {
-      "word": "zero",
-      "start": 23.12,
-      "end": 23.54
+      "word": "endless",
+      "start": 26.92,
+      "end": 27.52
     },
     {
-      "word": "manual",
-      "start": 23.54,
-      "end": 23.98
-    },
-    {
-      "word": "oversight",
-      "start": 23.98,
-      "end": 24.42
-    },
-    {
-      "word": "You",
-      "start": 25.02,
-      "end": 25.14
-    },
-    {
-      "word": "get",
-      "start": 25.14,
-      "end": 25.42
-    },
-    {
-      "word": "instant",
-      "start": 25.42,
-      "end": 25.76
-    },
-    {
-      "word": "results",
-      "start": 25.76,
-      "end": 26.24
-    },
-    {
-      "word": "zero",
-      "start": 26.66,
-      "end": 27.08
+      "word": "permission",
+      "start": 27.52,
+      "end": 28.22
     },
     {
       "word": "errors",
-      "start": 27.08,
-      "end": 27.44
+      "start": 28.22,
+      "end": 28.74
     },
     {
       "word": "and",
-      "start": 27.54,
-      "end": 27.8
+      "start": 28.74,
+      "end": 29.36
     },
     {
-      "word": "five",
-      "start": 27.8,
-      "end": 28.14
+      "word": "pushing",
+      "start": 29.36,
+      "end": 29.84
     },
     {
-      "word": "times",
-      "start": 28.14,
-      "end": 28.58
+      "word": "launch",
+      "start": 29.84,
+      "end": 30.32
     },
     {
-      "word": "faster",
-      "start": 28.58,
-      "end": 28.94
+      "word": "dates",
+      "start": 30.32,
+      "end": 30.74
     },
     {
-      "word": "turnaround",
-      "start": 28.94,
-      "end": 29.44
+      "word": "back.",
+      "start": 30.74,
+      "end": 31.54
+    },
+    {
+      "word": "Send",
+      "start": 32.34,
+      "end": 32.42
+    },
+    {
+      "word": "them",
+      "start": 32.42,
+      "end": 32.62
+    },
+    {
+      "word": "a",
+      "start": 32.62,
+      "end": 33.02
+    },
+    {
+      "word": "single",
+      "start": 33.02,
+      "end": 33.44
+    },
+    {
+      "word": "leadsy",
+      "start": 33.44,
+      "end": 34.16
+    },
+    {
+      "word": "integration",
+      "start": 34.16,
+      "end": 34.8
+    },
+    {
+      "word": "link",
+      "start": 34.8,
+      "end": 35.54
+    },
+    {
+      "word": "paired",
+      "start": 35.54,
+      "end": 36.12
+    },
+    {
+      "word": "with",
+      "start": 36.12,
+      "end": 36.6
+    },
+    {
+      "word": "a",
+      "start": 36.6,
+      "end": 36.8
+    },
+    {
+      "word": "streamlined",
+      "start": 36.8,
+      "end": 37.34
+    },
+    {
+      "word": "notion",
+      "start": 37.34,
+      "end": 38.28
+    },
+    {
+      "word": "onboarding",
+      "start": 38.28,
+      "end": 39.2
+    },
+    {
+      "word": "dashboard.",
+      "start": 39.2,
+      "end": 39.84
+    },
+    {
+      "word": "You",
+      "start": 40.86,
+      "end": 41.0
+    },
+    {
+      "word": "gain",
+      "start": 41.0,
+      "end": 41.44
+    },
+    {
+      "word": "instant",
+      "start": 41.44,
+      "end": 42.12
+    },
+    {
+      "word": "partner",
+      "start": 42.12,
+      "end": 42.66
+    },
+    {
+      "word": "permissions",
+      "start": 42.66,
+      "end": 43.38
+    },
+    {
+      "word": "within",
+      "start": 43.38,
+      "end": 44.08
+    },
+    {
+      "word": "hours.",
+      "start": 44.08,
+      "end": 44.7
     }
   ],
   "visuals": {

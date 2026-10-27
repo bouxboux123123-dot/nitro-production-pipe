@@ -1,359 +1,351 @@
 {
-  "duration": 24.042667,
-  "sample_rate": 24000,
-  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
-  "speed": 1.1,
-  "text": "Scale your agency revenue without burning out your best talent. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Agency capacity planning matrix that prevents team burnout instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "text": "Scale your agency revenue without burning out your best talent. Landing three new retainers should feel exciting, but it usually sends your delivery team into panic mode. Scaling sales without knowing your operational ceiling forces your top creatives into brutal weekend crunches. Deploy an automated capacity planning model in Make that maps prospective deals against staff bandwidth before closing contracts. You scale monthly recurring revenue past six figures safely.",
+  "duration": 27.407,
   "words": [
     {
-      "word": "Gail",
+      "word": "Scale",
       "start": 0.0,
       "end": 0.48
     },
     {
       "word": "your",
       "start": 0.48,
-      "end": 0.8
+      "end": 0.86
     },
     {
       "word": "agency",
-      "start": 0.8,
-      "end": 1.24
+      "start": 0.86,
+      "end": 1.38
     },
     {
       "word": "revenue",
-      "start": 1.24,
-      "end": 1.78
+      "start": 1.38,
+      "end": 2.04
     },
     {
       "word": "without",
-      "start": 1.78,
-      "end": 2.44
+      "start": 2.04,
+      "end": 2.84
     },
     {
       "word": "burning",
-      "start": 2.44,
-      "end": 2.8
+      "start": 2.84,
+      "end": 3.24
     },
     {
       "word": "out",
-      "start": 2.8,
-      "end": 3.12
+      "start": 3.24,
+      "end": 3.6
     },
     {
       "word": "your",
-      "start": 3.12,
-      "end": 3.34
+      "start": 3.6,
+      "end": 3.82
     },
     {
       "word": "best",
-      "start": 3.34,
-      "end": 3.76
+      "start": 3.82,
+      "end": 4.24
     },
     {
-      "word": "talent",
-      "start": 3.76,
-      "end": 4.4
+      "word": "talent.",
+      "start": 4.24,
+      "end": 5.04
     },
     {
-      "word": "Most",
-      "start": 5.02,
-      "end": 5.32
+      "word": "Landing",
+      "start": 5.96,
+      "end": 5.96
     },
     {
-      "word": "people",
-      "start": 5.32,
-      "end": 5.72
+      "word": "three",
+      "start": 5.96,
+      "end": 6.66
     },
     {
-      "word": "waste",
-      "start": 5.72,
-      "end": 6.3
+      "word": "new",
+      "start": 6.66,
+      "end": 6.9
     },
     {
-      "word": "fair",
-      "start": 6.3,
-      "end": 6.78
-    },
-    {
-      "word": "hours",
-      "start": 6.78,
-      "end": 7.18
-    },
-    {
-      "word": "every",
-      "start": 7.18,
+      "word": "retainers",
+      "start": 6.9,
       "end": 7.66
     },
     {
-      "word": "week",
+      "word": "should",
       "start": 7.66,
       "end": 8.02
     },
     {
-      "word": "doing",
+      "word": "feel",
       "start": 8.02,
-      "end": 8.28
+      "end": 8.32
     },
     {
-      "word": "this",
-      "start": 8.28,
-      "end": 8.62
+      "word": "exciting,",
+      "start": 8.32,
+      "end": 9.1
     },
     {
-      "word": "manually",
-      "start": 8.62,
-      "end": 9.22
+      "word": "but",
+      "start": 9.66,
+      "end": 9.9
     },
     {
-      "word": "Here",
-      "start": 9.98,
-      "end": 10.22
+      "word": "it",
+      "start": 9.9,
+      "end": 10.26
     },
     {
-      "word": "is",
-      "start": 10.22,
-      "end": 10.44
+      "word": "usually",
+      "start": 10.26,
+      "end": 10.74
     },
     {
-      "word": "the",
-      "start": 10.44,
-      "end": 10.72
-    },
-    {
-      "word": "issue",
-      "start": 10.72,
-      "end": 11.06
-    },
-    {
-      "word": "repetitive",
-      "start": 11.6,
-      "end": 12.1
-    },
-    {
-      "word": "lock",
-      "start": 12.1,
-      "end": 12.64
-    },
-    {
-      "word": "flows",
-      "start": 12.64,
-      "end": 13.04
-    },
-    {
-      "word": "break",
-      "start": 13.04,
-      "end": 13.42
-    },
-    {
-      "word": "under",
-      "start": 13.42,
-      "end": 13.78
-    },
-    {
-      "word": "load",
-      "start": 13.78,
-      "end": 14.16
-    },
-    {
-      "word": "and",
-      "start": 14.16,
-      "end": 14.52
-    },
-    {
-      "word": "steal",
-      "start": 14.52,
-      "end": 14.82
+      "word": "sends",
+      "start": 10.74,
+      "end": 11.08
     },
     {
       "word": "your",
-      "start": 14.82,
-      "end": 15.14
+      "start": 11.08,
+      "end": 11.44
     },
     {
-      "word": "focus",
-      "start": 15.14,
-      "end": 15.62
-    },
-    {
-      "word": "The",
-      "start": 16.44,
-      "end": 16.7
-    },
-    {
-      "word": "fix",
-      "start": 16.7,
-      "end": 16.94
-    },
-    {
-      "word": "is",
-      "start": 16.94,
-      "end": 17.32
-    },
-    {
-      "word": "simple",
-      "start": 17.32,
-      "end": 17.76
-    },
-    {
-      "word": "Use",
-      "start": 18.32,
-      "end": 18.58
-    },
-    {
-      "word": "agency",
-      "start": 18.58,
-      "end": 19.1
-    },
-    {
-      "word": "capacity",
-      "start": 19.1,
-      "end": 19.72
-    },
-    {
-      "word": "planning",
-      "start": 19.72,
-      "end": 20.4
-    },
-    {
-      "word": "matrix",
-      "start": 20.4,
-      "end": 20.8
-    },
-    {
-      "word": "that",
-      "start": 20.8,
-      "end": 21.34
-    },
-    {
-      "word": "prevents",
-      "start": 21.34,
-      "end": 21.74
+      "word": "delivery",
+      "start": 11.44,
+      "end": 11.9
     },
     {
       "word": "team",
-      "start": 21.74,
-      "end": 22.28
+      "start": 11.9,
+      "end": 12.48
     },
     {
-      "word": "burnout",
-      "start": 22.28,
-      "end": 22.92
+      "word": "into",
+      "start": 12.48,
+      "end": 12.86
     },
     {
-      "word": "instead",
-      "start": 22.92,
-      "end": 23.58
+      "word": "panic",
+      "start": 12.86,
+      "end": 13.26
     },
     {
-      "word": "It",
-      "start": 24.14,
-      "end": 24.36
+      "word": "mode.",
+      "start": 13.26,
+      "end": 14.18
     },
     {
-      "word": "automates",
-      "start": 24.36,
-      "end": 24.88
+      "word": "Scaling",
+      "start": 14.96,
+      "end": 15.48
     },
     {
-      "word": "every",
-      "start": 24.88,
-      "end": 25.48
+      "word": "sales",
+      "start": 15.48,
+      "end": 16.14
     },
     {
-      "word": "step",
-      "start": 25.48,
-      "end": 25.8
+      "word": "without",
+      "start": 16.14,
+      "end": 16.72
     },
     {
-      "word": "in",
-      "start": 25.8,
-      "end": 26.02
+      "word": "knowing",
+      "start": 16.72,
+      "end": 17.14
     },
     {
-      "word": "heat",
-      "start": 26.02,
-      "end": 26.4
+      "word": "your",
+      "start": 17.14,
+      "end": 17.58
     },
     {
-      "word": "memory",
-      "start": 26.4,
-      "end": 26.8
+      "word": "operational",
+      "start": 17.58,
+      "end": 18.2
     },
     {
-      "word": "with",
-      "start": 26.8,
-      "end": 27.3
+      "word": "ceiling",
+      "start": 18.2,
+      "end": 19.14
     },
     {
-      "word": "zero",
-      "start": 27.3,
+      "word": "forces",
+      "start": 19.14,
+      "end": 19.8
+    },
+    {
+      "word": "your",
+      "start": 19.8,
+      "end": 20.28
+    },
+    {
+      "word": "top",
+      "start": 20.28,
+      "end": 20.66
+    },
+    {
+      "word": "creatives",
+      "start": 20.66,
+      "end": 21.38
+    },
+    {
+      "word": "into",
+      "start": 21.38,
+      "end": 21.88
+    },
+    {
+      "word": "booty",
+      "start": 21.88,
+      "end": 22.38
+    },
+    {
+      "word": "weekend",
+      "start": 22.38,
+      "end": 22.98
+    },
+    {
+      "word": "crunches.",
+      "start": 22.98,
+      "end": 23.72
+    },
+    {
+      "word": "Deploy",
+      "start": 23.72,
+      "end": 24.72
+    },
+    {
+      "word": "an",
+      "start": 24.72,
+      "end": 25.22
+    },
+    {
+      "word": "automated",
+      "start": 25.22,
+      "end": 25.78
+    },
+    {
+      "word": "capacity",
+      "start": 25.78,
+      "end": 26.58
+    },
+    {
+      "word": "planning",
+      "start": 26.58,
+      "end": 27.28
+    },
+    {
+      "word": "model",
+      "start": 27.28,
       "end": 27.78
     },
     {
-      "word": "manual",
+      "word": "and",
       "start": 27.78,
-      "end": 28.46
+      "end": 28.44
     },
     {
-      "word": "oversight",
-      "start": 28.46,
-      "end": 29.12
+      "word": "make",
+      "start": 28.44,
+      "end": 28.72
+    },
+    {
+      "word": "that",
+      "start": 28.72,
+      "end": 29.18
+    },
+    {
+      "word": "map's",
+      "start": 29.18,
+      "end": 30.18
+    },
+    {
+      "word": "perspective",
+      "start": 30.18,
+      "end": 30.3
+    },
+    {
+      "word": "deals",
+      "start": 30.3,
+      "end": 30.94
+    },
+    {
+      "word": "against",
+      "start": 30.94,
+      "end": 31.62
+    },
+    {
+      "word": "staff",
+      "start": 31.62,
+      "end": 32.1
+    },
+    {
+      "word": "bandwidth",
+      "start": 32.1,
+      "end": 32.7
+    },
+    {
+      "word": "before",
+      "start": 32.7,
+      "end": 33.46
+    },
+    {
+      "word": "closing",
+      "start": 33.46,
+      "end": 34.02
+    },
+    {
+      "word": "contracts.",
+      "start": 34.02,
+      "end": 34.94
     },
     {
       "word": "You",
-      "start": 29.12,
-      "end": 29.88
+      "start": 36.08,
+      "end": 36.18
     },
     {
-      "word": "get",
-      "start": 29.88,
-      "end": 30.26
+      "word": "scale",
+      "start": 36.18,
+      "end": 36.6
     },
     {
-      "word": "instant",
-      "start": 30.26,
-      "end": 30.78
+      "word": "monthly",
+      "start": 36.6,
+      "end": 37.12
     },
     {
-      "word": "results",
-      "start": 30.78,
-      "end": 31.44
+      "word": "recurring",
+      "start": 37.12,
+      "end": 37.98
     },
     {
-      "word": "zero",
-      "start": 32.04,
-      "end": 32.36
+      "word": "revenue",
+      "start": 37.98,
+      "end": 38.5
     },
     {
-      "word": "hours",
-      "start": 32.36,
-      "end": 33.0
+      "word": "past",
+      "start": 38.5,
+      "end": 39.3
     },
     {
-      "word": "and",
-      "start": 33.0,
-      "end": 33.5
+      "word": "six",
+      "start": 39.3,
+      "end": 39.8
     },
     {
-      "word": "five",
-      "start": 33.5,
-      "end": 33.94
+      "word": "figures",
+      "start": 39.8,
+      "end": 40.4
     },
     {
-      "word": "times",
-      "start": 33.94,
-      "end": 34.54
-    },
-    {
-      "word": "faster",
-      "start": 34.54,
-      "end": 35.16
-    },
-    {
-      "word": "turnaround",
-      "start": 35.16,
-      "end": 35.74
+      "word": "safely.",
+      "start": 40.4,
+      "end": 41.0
     }
   ],
   "visuals": {

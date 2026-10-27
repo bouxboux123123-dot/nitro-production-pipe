@@ -1,394 +1,346 @@
 {
-  "duration": 29.028667,
-  "sample_rate": 24000,
-  "voice": "kokoro-82M:am_adam*0.60+am_michael*0.40",
-  "speed": 1.1,
-  "text": "Make your agency look like a Fortune 500 firm from the very first kickoff call. Most people waste four hours every week doing this manually. Here is the issue: repetitive workflows break under load and steal your focus. The fix is simple: use Client onboarding SOP that collects assets and logins in 24 hours instead. It automates every step in heap memory with zero manual oversight. You get instant results, zero errors, and five times faster turnaround.",
+  "text": "Make your agency look like a Fortune 500 firm from the very first kickoff call. Showing up without credentials instantly ruins your credibility with demanding enterprise clients. Messy intake forms and missing assets make executive stakeholders question your competence before work even starts. Deploy a branded Copilot client portal that collects logins, brand assets, and project scopes before kickoff. You establish immediate executive trust while cutting intake friction.",
+  "duration": 28.73,
   "words": [
     {
       "word": "Make",
       "start": 0.0,
-      "end": 0.22
+      "end": 0.38
     },
     {
       "word": "your",
-      "start": 0.22,
-      "end": 0.44
+      "start": 0.38,
+      "end": 0.66
     },
     {
       "word": "agency",
-      "start": 0.44,
-      "end": 0.76
+      "start": 0.66,
+      "end": 1.2
     },
     {
       "word": "look",
-      "start": 0.76,
-      "end": 1.08
+      "start": 1.2,
+      "end": 1.74
     },
     {
       "word": "like",
-      "start": 1.08,
-      "end": 1.36
+      "start": 1.74,
+      "end": 2.12
     },
     {
       "word": "a",
-      "start": 1.36,
-      "end": 1.52
+      "start": 2.12,
+      "end": 2.32
     },
     {
       "word": "Fortune",
-      "start": 1.52,
-      "end": 1.8
+      "start": 2.32,
+      "end": 2.74
     },
     {
       "word": "500",
-      "start": 1.8,
-      "end": 2.44
+      "start": 2.74,
+      "end": 3.68
     },
     {
-      "word": "firm",
-      "start": 2.44,
-      "end": 2.86
+      "word": "fund",
+      "start": 3.68,
+      "end": 4.52
     },
     {
       "word": "from",
-      "start": 2.86,
-      "end": 3.1
+      "start": 4.52,
+      "end": 4.94
     },
     {
       "word": "the",
-      "start": 3.1,
-      "end": 3.26
+      "start": 4.94,
+      "end": 5.22
     },
     {
       "word": "very",
-      "start": 3.26,
-      "end": 3.52
+      "start": 5.22,
+      "end": 5.66
     },
     {
       "word": "first",
-      "start": 3.52,
-      "end": 3.82
+      "start": 5.66,
+      "end": 6.14
     },
     {
       "word": "kickoff",
-      "start": 3.82,
-      "end": 4.12
+      "start": 6.14,
+      "end": 6.7
     },
     {
-      "word": "call",
-      "start": 4.12,
-      "end": 4.68
+      "word": "code.",
+      "start": 6.7,
+      "end": 7.52
     },
     {
-      "word": "Most",
-      "start": 4.98,
-      "end": 5.26
+      "word": "Showing",
+      "start": 8.08,
+      "end": 8.46
     },
     {
-      "word": "people",
-      "start": 5.26,
-      "end": 5.6
+      "word": "up",
+      "start": 8.46,
+      "end": 8.7
     },
     {
-      "word": "waste",
-      "start": 5.6,
-      "end": 5.9
+      "word": "without",
+      "start": 8.7,
+      "end": 9.22
     },
     {
-      "word": "four",
-      "start": 5.9,
-      "end": 6.32
+      "word": "credentials",
+      "start": 9.22,
+      "end": 10.12
     },
     {
-      "word": "hours",
-      "start": 6.32,
-      "end": 6.62
+      "word": "instantly",
+      "start": 10.12,
+      "end": 11.22
     },
     {
-      "word": "every",
-      "start": 6.62,
-      "end": 6.98
-    },
-    {
-      "word": "week",
-      "start": 6.98,
-      "end": 7.24
-    },
-    {
-      "word": "doing",
-      "start": 7.24,
-      "end": 7.5
-    },
-    {
-      "word": "this",
-      "start": 7.5,
-      "end": 7.78
-    },
-    {
-      "word": "manually",
-      "start": 7.78,
-      "end": 8.2
-    },
-    {
-      "word": "Here",
-      "start": 8.8,
-      "end": 8.98
-    },
-    {
-      "word": "is",
-      "start": 8.98,
-      "end": 9.14
-    },
-    {
-      "word": "the",
-      "start": 9.14,
-      "end": 9.34
-    },
-    {
-      "word": "issue",
-      "start": 9.34,
-      "end": 9.72
-    },
-    {
-      "word": "repetitive",
-      "start": 10.3,
-      "end": 10.42
-    },
-    {
-      "word": "workflows",
-      "start": 10.42,
-      "end": 11.06
-    },
-    {
-      "word": "break",
-      "start": 11.06,
-      "end": 11.36
-    },
-    {
-      "word": "under",
-      "start": 11.36,
-      "end": 11.58
-    },
-    {
-      "word": "load",
-      "start": 11.58,
-      "end": 11.9
-    },
-    {
-      "word": "and",
-      "start": 11.9,
-      "end": 12.18
-    },
-    {
-      "word": "steal",
-      "start": 12.18,
-      "end": 12.4
+      "word": "ruins",
+      "start": 11.22,
+      "end": 12.06
     },
     {
       "word": "your",
-      "start": 12.4,
-      "end": 12.68
+      "start": 12.06,
+      "end": 12.48
     },
     {
-      "word": "focus",
-      "start": 12.68,
+      "word": "credibility",
+      "start": 12.48,
       "end": 13.02
     },
     {
-      "word": "The",
-      "start": 13.42,
-      "end": 13.6
+      "word": "with",
+      "start": 13.02,
+      "end": 13.84
     },
     {
-      "word": "fix",
-      "start": 13.6,
-      "end": 13.76
+      "word": "demanding",
+      "start": 13.84,
+      "end": 14.48
     },
     {
-      "word": "is",
-      "start": 13.76,
-      "end": 14.06
+      "word": "enterprise",
+      "start": 14.48,
+      "end": 15.3
     },
     {
-      "word": "simple",
-      "start": 14.06,
-      "end": 14.34
+      "word": "clients.",
+      "start": 15.3,
+      "end": 16.18
     },
     {
-      "word": "use",
-      "start": 14.72,
-      "end": 14.96
+      "word": "Messy",
+      "start": 16.98,
+      "end": 17.36
     },
     {
-      "word": "Client",
-      "start": 14.96,
-      "end": 15.32
+      "word": "intake",
+      "start": 17.36,
+      "end": 17.82
     },
     {
-      "word": "onboarding",
-      "start": 15.32,
-      "end": 15.86
+      "word": "forms",
+      "start": 17.82,
+      "end": 18.34
     },
     {
-      "word": "SOP",
-      "start": 15.86,
-      "end": 16.2
+      "word": "and",
+      "start": 18.34,
+      "end": 18.78
     },
     {
-      "word": "that",
-      "start": 16.2,
-      "end": 16.5
-    },
-    {
-      "word": "collects",
-      "start": 16.5,
-      "end": 16.8
+      "word": "missing",
+      "start": 18.78,
+      "end": 19.16
     },
     {
       "word": "assets",
-      "start": 16.8,
-      "end": 17.3
+      "start": 19.16,
+      "end": 19.72
+    },
+    {
+      "word": "make",
+      "start": 19.72,
+      "end": 20.28
+    },
+    {
+      "word": "executive",
+      "start": 20.28,
+      "end": 21.08
+    },
+    {
+      "word": "stakeholders",
+      "start": 21.08,
+      "end": 21.76
+    },
+    {
+      "word": "question",
+      "start": 21.76,
+      "end": 22.66
+    },
+    {
+      "word": "your",
+      "start": 22.66,
+      "end": 23.26
+    },
+    {
+      "word": "competence",
+      "start": 23.26,
+      "end": 23.64
+    },
+    {
+      "word": "before",
+      "start": 23.64,
+      "end": 24.38
+    },
+    {
+      "word": "luck",
+      "start": 24.38,
+      "end": 24.74
+    },
+    {
+      "word": "even",
+      "start": 24.74,
+      "end": 25.28
+    },
+    {
+      "word": "starts.",
+      "start": 25.28,
+      "end": 25.9
+    },
+    {
+      "word": "Deploy",
+      "start": 26.68,
+      "end": 27.26
+    },
+    {
+      "word": "a",
+      "start": 27.26,
+      "end": 27.62
+    },
+    {
+      "word": "branded",
+      "start": 27.62,
+      "end": 28.18
+    },
+    {
+      "word": "copilot",
+      "start": 28.18,
+      "end": 29.04
+    },
+    {
+      "word": "client",
+      "start": 29.04,
+      "end": 29.7
+    },
+    {
+      "word": "parent",
+      "start": 29.7,
+      "end": 30.06
+    },
+    {
+      "word": "that",
+      "start": 30.06,
+      "end": 30.56
+    },
+    {
+      "word": "collects",
+      "start": 30.56,
+      "end": 31.1
+    },
+    {
+      "word": "logins,",
+      "start": 31.1,
+      "end": 32.1
+    },
+    {
+      "word": "brand",
+      "start": 32.86,
+      "end": 33.0
+    },
+    {
+      "word": "assets,",
+      "start": 33.0,
+      "end": 33.6
     },
     {
       "word": "and",
-      "start": 17.3,
-      "end": 17.54
+      "start": 34.36,
+      "end": 34.48
     },
     {
-      "word": "logins",
-      "start": 17.54,
-      "end": 17.9
+      "word": "project",
+      "start": 34.48,
+      "end": 34.94
     },
     {
-      "word": "in",
-      "start": 17.9,
-      "end": 18.16
+      "word": "scopes",
+      "start": 34.94,
+      "end": 35.52
     },
     {
-      "word": "24",
-      "start": 18.16,
-      "end": 18.54
+      "word": "before",
+      "start": 35.52,
+      "end": 36.08
     },
     {
-      "word": "hours",
-      "start": 18.54,
-      "end": 19.02
-    },
-    {
-      "word": "instead",
-      "start": 19.02,
-      "end": 19.52
-    },
-    {
-      "word": "It",
-      "start": 20.14,
-      "end": 20.32
-    },
-    {
-      "word": "automates",
-      "start": 20.32,
-      "end": 20.72
-    },
-    {
-      "word": "every",
-      "start": 20.72,
-      "end": 21.18
-    },
-    {
-      "word": "step",
-      "start": 21.18,
-      "end": 21.42
-    },
-    {
-      "word": "in",
-      "start": 21.42,
-      "end": 21.64
-    },
-    {
-      "word": "heap",
-      "start": 21.64,
-      "end": 21.86
-    },
-    {
-      "word": "memory",
-      "start": 21.86,
-      "end": 22.16
-    },
-    {
-      "word": "with",
-      "start": 22.16,
-      "end": 22.48
-    },
-    {
-      "word": "zero",
-      "start": 22.48,
-      "end": 22.9
-    },
-    {
-      "word": "manual",
-      "start": 22.9,
-      "end": 23.34
-    },
-    {
-      "word": "oversight",
-      "start": 23.34,
-      "end": 23.78
+      "word": "kickoff.",
+      "start": 36.08,
+      "end": 36.66
     },
     {
       "word": "You",
-      "start": 24.38,
-      "end": 24.52
+      "start": 37.76,
+      "end": 38.02
     },
     {
-      "word": "get",
-      "start": 24.52,
-      "end": 24.76
+      "word": "establish",
+      "start": 38.02,
+      "end": 38.62
     },
     {
-      "word": "instant",
-      "start": 24.76,
-      "end": 25.12
+      "word": "immediate",
+      "start": 38.62,
+      "end": 39.28
     },
     {
-      "word": "results",
-      "start": 25.12,
-      "end": 25.6
+      "word": "executive",
+      "start": 39.28,
+      "end": 40.12
     },
     {
-      "word": "zero",
-      "start": 26.02,
-      "end": 26.44
+      "word": "trust",
+      "start": 40.12,
+      "end": 40.86
     },
     {
-      "word": "errors",
-      "start": 26.44,
-      "end": 26.8
+      "word": "while",
+      "start": 40.86,
+      "end": 41.26
     },
     {
-      "word": "and",
-      "start": 26.94,
-      "end": 27.18
+      "word": "cutting",
+      "start": 41.26,
+      "end": 41.76
     },
     {
-      "word": "five",
-      "start": 27.18,
-      "end": 27.52
+      "word": "intake",
+      "start": 41.76,
+      "end": 42.42
     },
     {
-      "word": "times",
-      "start": 27.52,
-      "end": 27.96
-    },
-    {
-      "word": "faster",
-      "start": 27.96,
-      "end": 28.34
-    },
-    {
-      "word": "turnaround",
-      "start": 28.34,
-      "end": 28.8
+      "word": "friction.",
+      "start": 42.42,
+      "end": 42.94
     }
   ],
   "visuals": {
