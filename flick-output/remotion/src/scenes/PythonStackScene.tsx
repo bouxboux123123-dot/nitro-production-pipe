@@ -158,12 +158,12 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
 
   const totalDuration = activeManifest?.duration || 30.0;
   const t_hook = v?.timings?.hook ?? sentenceEndTimes[0] ?? (totalDuration * 0.20);
-  const t_act1 = v?.timings?.act1 ?? sentenceEndTimes[1] ?? (totalDuration * 0.45);
-  const t_act2 = v?.timings?.act2 ?? sentenceEndTimes[2] ?? (totalDuration * 0.70);
+  const t_act1 = Math.max(t_hook + 0.5, v?.timings?.act1 ?? sentenceEndTimes[1] ?? (totalDuration * 0.45));
+  const t_act2 = Math.max(t_act1 + 0.5, v?.timings?.act2 ?? sentenceEndTimes[2] ?? (totalDuration * 0.70));
   // Guarantee Act 4 displays cleanly before the video completes
   const rawAct3 = sentenceEndTimes[3] ?? (totalDuration * 0.88);
   const maxAct3 = Math.max(t_act2 + 2.4, totalDuration - 2.8);
-  const t_act3 = v?.timings?.act3 ?? Math.min(rawAct3, maxAct3);
+  const t_act3 = Math.max(t_act2 + 0.5, v?.timings?.act3 ?? Math.min(rawAct3, maxAct3));
 
   // -------------------------------------------------------------
   // V7: TOP-OF-SCREEN PROGRESS BAR (0px -> 1080px across 30.0s)
@@ -234,10 +234,11 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   const act1ExitOpacity = interpolate(t, [t_act1 - 0.15, t_act1 + 0.15], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const act1ExitScale = interpolate(t, [t_act1 - 0.15, t_act1 + 0.15], [1, 0.85], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
-  const hairlineIntensity = interpolate(t, [t_hook, t_hook + act1Duration * 0.5, t_act1], [0.35, 0.75, 1.0], { extrapolateRight: 'clamp' });
-  const tag1Pop = spring({ frame: frame - f(t_hook + act1Duration * 0.25), fps, config: { damping: 12 } });
-  const tag2Pop = spring({ frame: frame - f(t_hook + act1Duration * 0.50), fps, config: { damping: 12 } });
-  const tag3Pop = spring({ frame: frame - f(t_hook + act1Duration * 0.75), fps, config: { damping: 12 } });
+  const act1Mid = (t_hook + t_act1) / 2;
+  const hairlineIntensity = interpolate(t, [t_hook, act1Mid, t_act1], [0.35, 0.75, 1.0], { extrapolateRight: 'clamp' });
+  const tag1Pop = spring({ frame: frame - f(t_hook + (t_act1 - t_hook) * 0.25), fps, config: { damping: 12 } });
+  const tag2Pop = spring({ frame: frame - f(t_hook + (t_act1 - t_hook) * 0.50), fps, config: { damping: 12 } });
+  const tag3Pop = spring({ frame: frame - f(t_hook + (t_act1 - t_hook) * 0.75), fps, config: { damping: 12 } });
 
   // -------------------------------------------------------------
   // ACT 2: 1000-FRAME CRASH (t_act1 - t_act2)

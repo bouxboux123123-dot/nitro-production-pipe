@@ -1,0 +1,50 @@
+name: Render Targeted Missing Reels
+
+on:
+  workflow_dispatch:
+
+env:
+  ACTIONS_RUNNER_DEBUG: 'true'
+  ACTIONS_STEP_DEBUG: 'true'
+
+jobs:
+  render-targeted:
+    name: Render Targeted 3 Reels
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+          cache-dependency-path: 'flick-output/remotion/package-lock.json'
+
+      - name: Verify FFmpeg
+        run: |
+          ffmpeg -version || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+
+      - name: Install Remotion Dependencies
+        working-directory: flick-output/remotion
+        run: |
+          npm ci || npm install
+
+      - name: Render 3 Targeted Reels
+        run: |
+          python scripts/render_targeted_reels.py
+
+      - name: Upload Targeted Reels Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: batch-targeted-3-reels
+          path: flick-output/remotion/out/targeted/*.mp4
+          retention-days: 14
+          if-no-files-found: error
