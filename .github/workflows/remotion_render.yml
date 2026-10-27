@@ -37,10 +37,8 @@ jobs:
           cache: 'npm'
           cache-dependency-path: 'flick-output/remotion/package-lock.json'
 
-      - name: Install System Dependencies (FFmpeg & Chrome libs)
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxrandr2 libgbm1 libasound2t64
+      - name: Setup FFmpeg
+        uses: FedericoCarboni/setup-ffmpeg@v3
 
       - name: Install Remotion Dependencies
         working-directory: flick-output/remotion
@@ -52,17 +50,17 @@ jobs:
         run: |
           COMPOSITION="${{ github.event.inputs.composition || 'PythonStackReel' }}"
           CONCURRENCY="${{ github.event.inputs.concurrency || '20' }}"
-          OUTPUT_NAME="${{ github.event.inputs.output_filename || 'python-stack-reel' }}"
+          OUTPUT_NAME="${{ github.event.inputs.output_filename || 'final-reel' }}"
 
           mkdir -p out
           CORES=$(nproc)
           ACTUAL_CONCURRENCY=$(( CONCURRENCY > CORES ? CORES : CONCURRENCY ))
           echo "=== Starting Remotion Cloud Render: $COMPOSITION (requested: $CONCURRENCY, cores: $CORES, using: $ACTUAL_CONCURRENCY) ==="
-          npx remotion render src/index.tsx "$COMPOSITION" "out/${OUTPUT_NAME}.mp4" --concurrency="$ACTUAL_CONCURRENCY"
+          npx remotion render src/index.tsx "$COMPOSITION" "out/${OUTPUT_NAME}.mp4" --concurrency="$ACTUAL_CONCURRENCY" --props='{"backgroundVideo": "backgrounds/bg_01.mp4"}'
 
       - name: Upload Rendered Video Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: remotion-rendered-reel
+          name: reel-1-page-01-idea-01-script-01
           path: flick-output/remotion/out/*.mp4
           retention-days: 14

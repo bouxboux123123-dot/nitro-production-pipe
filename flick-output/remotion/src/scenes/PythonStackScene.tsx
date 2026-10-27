@@ -119,11 +119,29 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
     'HALTS',
   ];
 
-  // Dynamic Act Transition Timings synchronized to speech
-  const t_hook = v?.timings?.hook ?? 4.30;
-  const t_act1 = v?.timings?.act1 ?? 8.00;
-  const t_act2 = v?.timings?.act2 ?? 12.60;
-  const t_act3 = v?.timings?.act3 ?? 23.50;
+  // Dynamic sentence boundaries synchronized to speech
+  const sentenceEndTimes = useMemo(() => {
+    if (!words || words.length === 0) return [];
+    const ends: number[] = [];
+    for (let i = 0; i < words.length; i++) {
+      const w = words[i];
+      const wordText = (w.word || '').trim();
+      const hasPunctuation = /[.!?]$/.test(wordText);
+      if (hasPunctuation) {
+        // Place transition at the pause midpoint between this sentence end and next sentence start
+        const nextStart = i + 1 < words.length ? words[i + 1].start : w.end + 0.4;
+        const transitionTime = (w.end + nextStart) / 2;
+        ends.push(transitionTime);
+      }
+    }
+    return ends;
+  }, [words]);
+
+  const totalDuration = activeManifest?.duration || 30.0;
+  const t_hook = v?.timings?.hook ?? sentenceEndTimes[0] ?? (totalDuration * 0.20);
+  const t_act1 = v?.timings?.act1 ?? sentenceEndTimes[1] ?? (totalDuration * 0.45);
+  const t_act2 = v?.timings?.act2 ?? sentenceEndTimes[2] ?? (totalDuration * 0.70);
+  const t_act3 = v?.timings?.act3 ?? sentenceEndTimes[3] ?? (totalDuration * 0.90);
 
   // -------------------------------------------------------------
   // V7: TOP-OF-SCREEN PROGRESS BAR (0px -> 1080px across 30.0s)
@@ -144,21 +162,26 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
     return { label: v?.act4?.chapter || '⚡ VICTORY', color: '#00e5ff', bg: 'rgba(0,229,255,0.2)' };
   }, [t, v, t_hook, t_act1, t_act2, t_act3]);
 
+  const act1Duration = Math.max(2.0, t_act1 - t_hook);
+  const act2Duration = Math.max(2.0, t_act2 - t_act1);
+  const act3Duration = Math.max(2.0, t_act3 - t_act2);
+  const crashTime = t_act1 + act2Duration * 0.5;
+
   // -------------------------------------------------------------
   // CAMERA SHAKE (2D) & TIGHTENED FLASH
   // -------------------------------------------------------------
-  const isCrashing = t >= 14.2 && t <= 16.5;
-  const shakeX = isCrashing ? Math.sin(frame * 1.9) * 24 * (1 - (t - 14.2) / 2.3) : 0;
-  const shakeY = isCrashing ? Math.cos(frame * 2.3) * 18 * (1 - (t - 14.2) / 2.3) : 0;
+  const isCrashing = t >= crashTime && t <= crashTime + 1.5;
+  const shakeX = isCrashing ? Math.sin(frame * 1.9) * 24 * (1 - (t - crashTime) / 1.5) : 0;
+  const shakeY = isCrashing ? Math.cos(frame * 2.3) * 18 * (1 - (t - crashTime) / 1.5) : 0;
 
   // Punchy 2-frame flash capped at 0.45 opacity (non-blinding)
-  const crashFlash = interpolate(t, [14.26, 14.29, 14.36], [0, 0.45, 0], {
+  const crashFlash = interpolate(t, [crashTime, crashTime + 0.03, crashTime + 0.10], [0, 0.45, 0], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
   });
 
   // V2: CHROMATIC ABERRATION
-  const aberration = interpolate(t, [14.26, 14.35, 16.5], [0, 10, 0], {
+  const aberration = interpolate(t, [crashTime, crashTime + 0.09, crashTime + 1.5], [0, 10, 0], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
   });
@@ -177,7 +200,8 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   // HOOK ANIMATIONS (0.0s - t_hook)
   // -------------------------------------------------------------
   const hookBadgeSpring = spring({ frame, fps, config: { damping: 14, stiffness: 180 } });
-  const hookLine2Spring = spring({ frame: frame - 45, fps, config: { damping: 12, stiffness: 220 } });
+  const line2StartFrame = Math.max(15, f(t_hook * 0.45));
+  const hookLine2Spring = spring({ frame: frame - line2StartFrame, fps, config: { damping: 12, stiffness: 220 } });
   const hookExitY = interpolate(t, [t_hook - 0.4, t_hook], [0, -1400], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const hookOpacity = interpolate(t, [t_hook - 0.4, t_hook], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
@@ -188,10 +212,10 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   const act1ExitOpacity = interpolate(t, [t_act1 - 0.35, t_act1], [1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
   const act1ExitScale = interpolate(t, [t_act1 - 0.35, t_act1], [1, 0.4], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
-  const hairlineIntensity = interpolate(t, [t_hook, t_hook + 2.0, t_act1], [0.35, 0.75, 1.0], { extrapolateRight: 'clamp' });
-  const tag1Pop = spring({ frame: frame - f(t_hook + 1.4), fps, config: { damping: 12 } });
-  const tag2Pop = spring({ frame: frame - f(t_hook + 2.4), fps, config: { damping: 12 } });
-  const tag3Pop = spring({ frame: frame - f(t_hook + 3.2), fps, config: { damping: 12 } });
+  const hairlineIntensity = interpolate(t, [t_hook, t_hook + act1Duration * 0.5, t_act1], [0.35, 0.75, 1.0], { extrapolateRight: 'clamp' });
+  const tag1Pop = spring({ frame: frame - f(t_hook + act1Duration * 0.25), fps, config: { damping: 12 } });
+  const tag2Pop = spring({ frame: frame - f(t_hook + act1Duration * 0.50), fps, config: { damping: 12 } });
+  const tag3Pop = spring({ frame: frame - f(t_hook + act1Duration * 0.75), fps, config: { damping: 12 } });
 
   // -------------------------------------------------------------
   // ACT 2: 1000-FRAME CRASH (t_act1 - t_act2)
@@ -199,7 +223,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   const act2Entry = spring({ frame: frame - f(t_act1), fps, config: { damping: 14, stiffness: 130 } });
   const act2ExitX = interpolate(t, [t_act2 - 0.35, t_act2], [0, -1300], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
-  const rawCounter = interpolate(t, [t_act1 + 0.1, t_act1 + 1.7], [1, 1000], {
+  const rawCounter = interpolate(t, [t_act1 + 0.1, crashTime], [1, 1000], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
     easing: (x) => Math.pow(x, 3.8),
@@ -208,14 +232,14 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
   const depthBarWidth = (counterVal / 1000) * 100;
 
   const errorSlam = spring({
-    frame: frame - f(t_act1 + 1.8),
+    frame: frame - f(crashTime + 0.05),
     fps,
     config: { damping: 8, stiffness: 240 },
   });
 
   // V9: SYMBOL REACTION BURSTS
-  const burstCrashScale = spring({ frame: frame - f(t_act1 + 1.78), fps, config: { damping: 6, stiffness: 280 } });
-  const burstCrashOpacity = interpolate(t, [t_act1 + 1.78, t_act1 + 1.95, t_act1 + 2.45], [0, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+  const burstCrashScale = spring({ frame: frame - f(crashTime + 0.05), fps, config: { damping: 6, stiffness: 280 } });
+  const burstCrashOpacity = interpolate(t, [crashTime + 0.05, crashTime + 0.25, crashTime + 0.75], [0, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
 
   const burstRocketScale = spring({ frame: frame - f(t_act3), fps, config: { damping: 7, stiffness: 260 } });
   const burstRocketOpacity = interpolate(t, [t_act3, t_act3 + 0.25, t_act3 + 0.8], [0, 1, 0], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
@@ -329,11 +353,11 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
         />
       )}
 
-      {/* V1: 50 PARTICLE BURST (Crash at t=14.28s) */}
-      {t >= 14.28 && t < 15.2 && (
+      {/* V1: 50 PARTICLE BURST (Crash at crashTime) */}
+      {t >= crashTime && t < crashTime + 0.9 && (
         <div style={{ position: 'absolute', inset: 0, zIndex: 60, pointerEvents: 'none' }}>
           {CRASH_PARTICLES.map((p, idx) => {
-            const elapsed = t - 14.28 - p.delay;
+            const elapsed = t - crashTime - p.delay;
             if (elapsed < 0) return null;
             const progress = Math.min(1, elapsed / 0.75);
             const dist = p.magnitude * (1 - Math.pow(1 - progress, 3));
@@ -439,7 +463,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
               {v?.hook?.badge || '⚡ AGENCY SYSTEMS'}
             </div>
 
-            {/* High-Impact Headline: Speedy Word-by-Word Kinetic Reveal */}
+            {/* High-Impact Headline: Whisper-Synchronized Kinetic Word-by-Word Reveal */}
             <div
               style={{
                 fontFamily: 'system-ui, -apple-system, sans-serif',
@@ -454,15 +478,18 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
               }}
             >
               {hookWords.map((word, i) => {
-                const wordStartFrame = Math.round(2 + i * 3.5);
+                const w = words[i];
+                const wordStartFrame = w ? f(w.start) : Math.round(2 + i * 3.5);
                 const isRevealed = frame >= wordStartFrame;
+                const isCurrent = w
+                  ? (t >= w.start && t < (i + 1 < words.length ? words[i + 1].start : w.end + 0.25))
+                  : (isRevealed && (frame - wordStartFrame) < 4);
                 const wordAge = frame - wordStartFrame;
-                const popScale = isRevealed
+                const popScale = isCurrent
                   ? interpolate(wordAge, [0, 2, 4], [1.16, 1.05, 1.0], {
                       extrapolateRight: 'clamp',
                     })
                   : 1.0;
-                const isCurrent = isRevealed && wordAge < 4;
 
                 return (
                   <span
@@ -488,7 +515,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
                 <div
                   style={{
                     marginTop: 22,
-                    opacity: frame >= 45 ? 1 : 0,
+                    opacity: frame >= line2StartFrame ? 1 : 0,
                     transform: `scale(${hookLine2Spring})`,
                     color: '#00e5ff',
                     fontSize: 46,
@@ -1084,68 +1111,70 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
       </div>
 
       {/* ---------------- LAYER 2: SUBMAGIC NEON PILL CAPTIONS ---------------- */}
-      <div
-        style={{
-          position: 'absolute',
-          bottom: 140,
-          left: 0,
-          right: 0,
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          zIndex: 90,
-          pointerEvents: 'none',
-          padding: '0 40px',
-        }}
-      >
+      {t >= t_hook && (
         <div
           style={{
+            position: 'absolute',
+            bottom: 140,
+            left: 0,
+            right: 0,
             display: 'flex',
-            flexWrap: 'wrap',
             justifyContent: 'center',
             alignItems: 'center',
-            gap: '14px 18px',
-            maxWidth: 960,
+            zIndex: 90,
+            pointerEvents: 'none',
+            padding: '0 40px',
           }}
         >
-          {currentChunk.map((w, idx) => {
-            const isCurrent = activeWord ? activeWord.start === w.start : false;
-            const wordAge = frame - f(w.start);
-            const pop = isCurrent
-              ? spring({ frame: wordAge, fps, config: { damping: 11, stiffness: 220 } })
-              : 1.0;
-            const scale = isCurrent ? interpolate(pop, [0, 1], [0.92, 1.10]) : 1.0;
+          <div
+            style={{
+              display: 'flex',
+              flexWrap: 'wrap',
+              justifyContent: 'center',
+              alignItems: 'center',
+              gap: '14px 18px',
+              maxWidth: 960,
+            }}
+          >
+            {currentChunk.map((w, idx) => {
+              const isCurrent = activeWord ? activeWord.start === w.start : false;
+              const wordAge = frame - f(w.start);
+              const pop = isCurrent
+                ? spring({ frame: wordAge, fps, config: { damping: 11, stiffness: 220 } })
+                : 1.0;
+              const scale = isCurrent ? interpolate(pop, [0, 1], [0.92, 1.10]) : 1.0;
 
-            return (
-              <div
-                key={`${w.word}-${w.start}-${idx}`}
-                style={{
-                  background: isCurrent ? '#00e5ff' : 'rgba(10, 15, 30, 0.78)',
-                  backdropFilter: 'blur(8px)',
-                  color: isCurrent ? '#030712' : '#ffffff',
-                  border: isCurrent
-                    ? '2px solid #ffffff'
-                    : '1px solid rgba(255, 255, 255, 0.22)',
-                  borderRadius: 18,
-                  padding: '10px 22px',
-                  fontFamily: 'system-ui, -apple-system, sans-serif',
-                  fontWeight: 900,
-                  fontSize: 50,
-                  textTransform: 'uppercase',
-                  boxShadow: isCurrent
-                    ? '0 0 45px rgba(0, 229, 255, 0.95), 0 8px 25px rgba(0, 0, 0, 0.85)'
-                    : '0 4px 16px rgba(0, 0, 0, 0.6)',
-                  transform: `scale(${scale})`,
-                  display: 'inline-block',
-                  letterSpacing: '0.04em',
-                }}
-              >
-                {w.word}
-              </div>
-            );
-          })}
+              return (
+                <div
+                  key={`${w.word}-${w.start}-${idx}`}
+                  style={{
+                    background: isCurrent ? '#00e5ff' : 'rgba(10, 15, 30, 0.78)',
+                    backdropFilter: 'blur(8px)',
+                    color: isCurrent ? '#030712' : '#ffffff',
+                    border: isCurrent
+                      ? '2px solid #ffffff'
+                      : '1px solid rgba(255, 255, 255, 0.22)',
+                    borderRadius: 18,
+                    padding: '10px 22px',
+                    fontFamily: 'system-ui, -apple-system, sans-serif',
+                    fontWeight: 900,
+                    fontSize: 50,
+                    textTransform: 'uppercase',
+                    boxShadow: isCurrent
+                      ? '0 0 45px rgba(0, 229, 255, 0.95), 0 8px 25px rgba(0, 0, 0, 0.85)'
+                      : '0 4px 16px rgba(0, 0, 0, 0.6)',
+                    transform: `scale(${scale})`,
+                    display: 'inline-block',
+                    letterSpacing: '0.04em',
+                  }}
+                >
+                  {w.word}
+                </div>
+              );
+            })}
+          </div>
         </div>
-      </div>
+      )}
 
       {/* ---------------- LAYER 3: MINIMAL ACOUSTIC SOUND SET ---------------- */}
       {/* Primary Voiceover Narration */}
