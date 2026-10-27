@@ -94,6 +94,11 @@ jobs:
 
       - name: Setup FFmpeg
         uses: FedericoCarboni/setup-ffmpeg@v3
+        continue-on-error: true
+
+      - name: Verify FFmpeg
+        run: |
+          ffmpeg -version || (sudo apt-get update && sudo apt-get install -y ffmpeg)
 
       - name: Install Remotion Dependencies
         working-directory: flick-output/remotion

@@ -1,0 +1,59 @@
+name: Render Single Runner Slice
+
+on:
+  workflow_dispatch:
+    inputs:
+      runner_id:
+        description: 'Runner ID to execute (1-20)'
+        required: true
+        default: '13'
+
+env:
+  ACTIONS_RUNNER_DEBUG: 'true'
+  ACTIONS_STEP_DEBUG: 'true'
+
+jobs:
+  render-single-slice:
+    name: Cloud Runner ${{ github.event.inputs.runner_id }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+          cache-dependency-path: 'flick-output/remotion/package-lock.json'
+
+      - name: Setup FFmpeg
+        uses: FedericoCarboni/setup-ffmpeg@v3
+        continue-on-error: true
+
+      - name: Verify FFmpeg
+        run: |
+          ffmpeg -version || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+
+      - name: Install Remotion Dependencies
+        working-directory: flick-output/remotion
+        run: |
+          npm ci || npm install
+
+      - name: Render 50 Reels Slice
+        run: |
+          python scripts/batch_runner_render.py --runner-id ${{ github.event.inputs.runner_id }} --total-runners 20
+
+      - name: Upload 50 Rendered Videos Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: batch-runner-${{ github.event.inputs.runner_id }}-reels
+          path: flick-output/remotion/out/runner-*/*.mp4
+          retention-days: 14
+          if-no-files-found: warn

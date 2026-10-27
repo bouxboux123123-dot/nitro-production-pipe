@@ -1,14 +1,19 @@
+import os
 import urllib.request
 import json
 import time
 from datetime import datetime
 
-RUN_ID = "40353544869"
+RUN_ID = "40441282291"
 REPO = "bouxboux123123-dot/nitro-production-pipe"
+TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN", "")
 
 def check_status():
     url = f"https://api.github.com/repos/{REPO}/actions/runs/{RUN_ID}/jobs?per_page=30"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    headers = {"User-Agent": "Mozilla/5.0"}
+    if TOKEN:
+        headers["Authorization"] = f"Bearer {TOKEN}"
+    req = urllib.request.Request(url, headers=headers)
     try:
         with urllib.request.urlopen(req) as resp:
             data = json.loads(resp.read().decode())
