@@ -351,6 +351,7 @@ export const PythonStackScene: React.FC<PythonStackSceneProps> = ({
       >
         <OffthreadVideo
           src={staticFile(backgroundVideo)}
+          muted
           style={{ width: '100%', height: '100%', objectFit: 'cover' }}
         />
         {/* Crisp Edge Vignette: 100% natural, sharp, high-res gameplay */}
